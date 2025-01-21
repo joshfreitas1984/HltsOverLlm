@@ -49,29 +49,29 @@ public class TranslationLine
 
 public static class Translation
 {
-    static TextFileToSplit[] textFiles = [
-          //new() { Path = "AchievementItem.txt", SplitIndexes = [1, 2, 12] },
-          //new() { Path = "AreaItem.txt", SplitIndexes = [1] },
-          //new() { Path = "BufferItem.txt", SplitIndexes = [1,2] },
-          //new() { Path = "CharacterPropertyItem.txt", SplitIndexes = [5] },
-          //new() { Path = "CreatePlayerQuestionItem.txt", SplitIndexes = [1] },
-          //new() { Path = "DefaultSkillItem.txt", SplitIndexes = [1] },
-          //new() { Path = "DefaultTalentItem.txt", SplitIndexes = [1] },
-          //new() { Path = "EquipInventoryItem.txt", SplitIndexes = [1,3] },
-          //new() { Path = "EventCubeItem.txt", SplitIndexes = [1] },
-          //new() { Path = "HelpItem.txt", SplitIndexes = [3,4] },
-          //new() { Path = "NicknameItem.txt", SplitIndexes = [1,2] },
-          //new() { Path = "NormalBufferItem.txt", SplitIndexes = [1] },
-          //new() { Path = "NormalInventoryItem.txt", SplitIndexes = [1,3] },
-          //new() { Path = "NpcItem.txt", SplitIndexes = [1] },
-          //new() { Path = "NpcTalkItem.txt", SplitIndexes = [6] },
-          //new() { Path = "ReforgeItem.txt", SplitIndexes = [3] },
-          //new() { Path = "SkillNodeItem.txt", SplitIndexes = [1,2] },
-          //new() { Path = "SkillTreeItem.txt", SplitIndexes = [1,3] },
+    public static TextFileToSplit[] TextFilesToSplit = [
+          new() { Path = "AchievementItem.txt", SplitIndexes = [1, 2, 12] },
+          new() { Path = "AreaItem.txt", SplitIndexes = [1] },
+          new() { Path = "BufferItem.txt", SplitIndexes = [1,2] },
+          new() { Path = "CharacterPropertyItem.txt", SplitIndexes = [5] },
+          new() { Path = "CreatePlayerQuestionItem.txt", SplitIndexes = [1] },
+          new() { Path = "DefaultSkillItem.txt", SplitIndexes = [1] },
+          new() { Path = "DefaultTalentItem.txt", SplitIndexes = [1] },
+          new() { Path = "EquipInventoryItem.txt", SplitIndexes = [1,3] },
+          new() { Path = "EventCubeItem.txt", SplitIndexes = [1] },
+          new() { Path = "HelpItem.txt", SplitIndexes = [3,4] },
+          new() { Path = "NicknameItem.txt", SplitIndexes = [1,2] },
+          new() { Path = "NormalBufferItem.txt", SplitIndexes = [1] },
+          new() { Path = "NormalInventoryItem.txt", SplitIndexes = [1,3] },
+          new() { Path = "NpcItem.txt", SplitIndexes = [1] },
+          new() { Path = "NpcTalkItem.txt", SplitIndexes = [6] },
+          new() { Path = "ReforgeItem.txt", SplitIndexes = [3] },
+          new() { Path = "SkillNodeItem.txt", SplitIndexes = [1,2] },
+          new() { Path = "SkillTreeItem.txt", SplitIndexes = [1,3] },
           new() { Path = "StringTableItem.txt", SplitIndexes = [1] },
-          //new() { Path = "TalentItem.txt", SplitIndexes = [1,2] },
-          //new() { Path = "TeleporterItem.txt", SplitIndexes = [1] },
-          //new() { Path = "QuestItem.txt", SplitIndexes = [1,3] },
+          new() { Path = "TalentItem.txt", SplitIndexes = [1,2] },
+          new() { Path = "TeleporterItem.txt", SplitIndexes = [1] },
+          new() { Path = "QuestItem.txt", SplitIndexes = [1,3] },
         ];
 
     public static void Export()
@@ -82,7 +82,7 @@ public static class Translation
         if (!Directory.Exists(outputPath))
             Directory.CreateDirectory(outputPath);
 
-        foreach (var textFileToTranslate in textFiles)
+        foreach (var textFileToTranslate in TextFilesToSplit)
         {
             var lines = File.ReadAllLines($"{inputPath}/{textFileToTranslate.Path}");
 
@@ -129,7 +129,7 @@ public static class Translation
         if (config.ApiKeyRequired)
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", config.ApiKey);
 
-        foreach (var textFileToTranslate in textFiles)
+        foreach (var textFileToTranslate in TextFilesToSplit)
         {
             var inputFile = $"{inputPath}/{textFileToTranslate.Path}";
             var outputFile = $"{outputPath}/{textFileToTranslate.Path}";
@@ -148,22 +148,7 @@ public static class Translation
                .WithNamingConvention(CamelCaseNamingConvention.Instance)
                .Build();
 
-            //foreach (var line in fileLines)
-            //{
-            //    foreach (var split in line.Splits)
-            //        if (string.IsNullOrEmpty(split.Translated) || forceRetranslation)
-            //            split.Translated = await TranslateSplitAsync(config, split.Text, client);
-
-            //    Console.WriteLine($"Line: {line.LineNum} of {fileLines.Count}");
-
-            //    if (line.LineNum % 10 == 0)
-            //    {
-            //        Console.WriteLine($"Writing Progress...");
-            //        File.WriteAllText(outputFile, serializer.Serialize(fileLines));
-            //    }
-            //}
-
-            var batchSize = 5;
+            var batchSize = 50;
             var totalLines = fileLines.Count;
             var stopWatch = Stopwatch.StartNew();
 
@@ -186,7 +171,7 @@ public static class Translation
 
                 var elapsed = stopWatch.ElapsedMilliseconds;
                 Console.WriteLine($"Line: {i + batchRange} of {totalLines} ({elapsed} ms ~ {elapsed / batchRange}/line)");
-                File.WriteAllText(outputFile, serializer.Serialize(fileLines));
+                await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
             }
         }
     }
@@ -270,6 +255,14 @@ public static class Translation
             if (resultMarkup.Count != markup.Count)
                 return false;
         }
+
+        //Added Brackets (Literation)
+        if (result.Contains('(') && !raw.Contains('('))
+            return false;
+
+        //Added literal
+        if (result.Contains("(lit."))
+            return false;
 
         return true;
     }

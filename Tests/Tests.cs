@@ -1,5 +1,7 @@
 ﻿using System.Drawing;
 using Translate;
+using YamlDotNet.Serialization.NamingConventions;
+using YamlDotNet.Serialization;
 
 namespace Tests
 {
@@ -9,6 +11,46 @@ namespace Tests
         //public void Export()
         //{
         //    ExportLines.Export();
+        //}
+
+        //[Fact]
+        //public async Task UndoInvalidTranslations()
+        //{
+        //    string outputPath = "../../../../Files/Translated";
+
+        //    foreach (var textFileToTranslate in Translation.TextFilesToSplit)
+        //    {
+        //        var outputFile = $"{outputPath}/{textFileToTranslate.Path}";
+
+        //        if (!File.Exists(outputFile)) 
+        //            continue;
+
+        //        var content = File.ReadAllText(outputFile);
+
+        //        var deserializer = new DeserializerBuilder()
+        //            .WithNamingConvention(CamelCaseNamingConvention.Instance)
+        //            .Build();
+
+        //        var fileLines = deserializer.Deserialize<List<TranslationLine>>(content);
+
+        //        foreach (var line in fileLines)
+        //        {
+        //            foreach (var split in line.Splits)
+        //            {
+        //                if (!Translation.CheckTransalationSuccessful(split.Translated ?? string.Empty, split.Text))
+        //                {
+        //                    Console.WriteLine($"Invalid: {split.Translated}");
+        //                    split.Translated = string.Empty;
+        //                }
+        //            }
+        //        }
+
+        //        var serializer = new SerializerBuilder()
+        //            .WithNamingConvention(CamelCaseNamingConvention.Instance)
+        //            .Build();
+
+        //        await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
+        //    }
         //}
 
         [Fact]
@@ -39,7 +81,8 @@ namespace Tests
                 "心念不起，自性不动。<br>着相即乱，离相不乱。",
                 "<color=#FF0000>炼狱</color>",
                 "颜玉书在场上时，所有队友的攻击力提升50%，减伤10%",
-                "剧情"
+                "剧情",
+                '{name_1}兄，你没事吧？',
             };
 
             var lines = new List<string>();
