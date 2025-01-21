@@ -11,7 +11,7 @@
     translated: Moveable
   - split: 4
     text: 长按移动键（预设WASD）可以移动角色，或是使用键盘箭头键键操作，使用游戏手把的左游戏杆亦可移动角色。
-    translated: Press and hold the movement key (default WASD) to move your character, or use the arrow keys on the keyboard. You can also move your character using the left joystick on a game controller.
+    translated: ''
 - lineNum: 2
   raw: h10102	101		奔跑	在使用箭头键移动时，同时按下跑步（预设Shift）键可以加速移动，但加速时间的长短与表现方式取决于角色能力值高低，轻功到达一定程度甚至可以施展水上飘。
   translated: 
@@ -21,17 +21,17 @@
     translated: Running
   - split: 4
     text: 在使用箭头键移动时，同时按下跑步（预设Shift）键可以加速移动，但加速时间的长短与表现方式取决于角色能力值高低，轻功到达一定程度甚至可以施展水上飘。
-    translated: When moving with the arrow keys, holding down the run (default Shift) key will increase movement speed. The duration and manner of acceleration depend on the character's ability values; at a certain level of agility, one can even perform water walking.
+    translated: ''
 - lineNum: 3
   raw: h10103	101		跳跃	按压跳跃键（预设为Space键）可以让角色跳跃到达一些一般行走无法到达的区域，配合奔跑可以让角色跳得更高更远。
   translated: 
   splits:
   - split: 3
     text: 跳跃
-    translated: Leap or Jump (depending on context).
+    translated: ''
   - split: 4
     text: 按压跳跃键（预设为Space键）可以让角色跳跃到达一些一般行走无法到达的区域，配合奔跑可以让角色跳得更高更远。
-    translated: Pressing the jump key (pre-set to Space) allows the character to jump to areas unreachable by walking. Combining it with running makes the character jump higher and farther.
+    translated: ''
 - lineNum: 4
   raw: h10201	102		游戏时间	游戏时间的流逝会影响日夜变化，NPC也会随着时间变化改变作息，不同的时间点可能遭遇不同的特殊事件。
   translated: 
@@ -71,7 +71,7 @@
     translated: Conversing
   - split: 4
     text: 在这个开放世界中有许多可以与之对话的NPC，只要在允许的距离下按下互动键（预设E键）便可与之对话互动，但要注意与之互动后产生的各种可能事件与后果。
-    translated: In this open world, there are many NPCs you can interact with by pressing the interaction key (default E) within an allowable distance. Be aware of the various possible events and consequences that may result from interacting with them.
+    translated: ''
 - lineNum: 8
   raw: h10302	103	Point/Img_point_07.png	暗取	玩家可以使用暗取（预设为F键）来拿取NPC身上的物品，只是有被发现的可能，而被发现后通常会对玩家带来一些负面的影响，甚至引发战斗。
   translated: 
@@ -81,7 +81,7 @@
     translated: Covert acquisition
   - split: 4
     text: 玩家可以使用暗取（预设为F键）来拿取NPC身上的物品，只是有被发现的可能，而被发现后通常会对玩家带来一些负面的影响，甚至引发战斗。
-    translated: Players can use sneak pickpocket (pre-set to F key) to take items from an NPC, but there is a chance of being detected. If discovered, it typically results in negative effects for the player and may even provoke combat.
+    translated: ''
 - lineNum: 9
   raw: h10303	103	Point/Img_point_03.png	拾取	开放世界中有许多小对象可以互动，玩家若靠近某些物品后，按下互动键（预设E键）可以拾取至背包中。
   translated: 
@@ -91,7 +91,7 @@
     translated: Pick up.
   - split: 4
     text: 开放世界中有许多小对象可以互动，玩家若靠近某些物品后，按下互动键（预设E键）可以拾取至背包中。
-    translated: In the open world, there are many interactable small objects. When players approach certain items and press the interaction key (defaulted to E), they can pick them up into their inventory.
+    translated: ''
 - lineNum: 10
   raw: h10304	103	Point/Img_point_05.png	采摘	当玩家靠近药草或植物时可以采摘。
   translated: 
@@ -185,7 +185,7 @@
     translated: Display Medicinal Herbs
   - split: 4
     text: 长按显示药草（默认V）键可以使周遭的药草以及矿物发亮，协助玩家更快速地采集。
-    translated: Holding the Medicinal Herbs (default V) button will illuminate surrounding herbs and minerals, helping players collect them more quickly.
+    translated: ''
 - lineNum: 19
   raw: h10403	104		快速存档	当一般操作模式下，按下快速存盘（预设F5）键可以快速帮玩家存盘，储存的档案会在存盘纪录中的标示为快速存盘，不过快速存盘只有一个字段，下一次按下快速存盘时会覆盖掉上一次的纪录，还请特别注意。
   translated: 
@@ -195,7 +195,7 @@
     translated: Quick Save Archive
   - split: 4
     text: 当一般操作模式下，按下快速存盘（预设F5）键可以快速帮玩家存盘，储存的档案会在存盘纪录中的标示为快速存盘，不过快速存盘只有一个字段，下一次按下快速存盘时会覆盖掉上一次的纪录，还请特别注意。
-    translated: In normal operation mode, pressing the Quick Save key (default F5) allows for a quick save, and the saved file will be marked as Quick Save in the save record. However, Quick Save only occupies one slot, so the next press of Quick Save will overwrite the previous record. Please take special note of this.
+    translated: ''
 - lineNum: 20
   raw: h10404	104		存档/读档	开启选单（预设ESC）键可以找到存盘/读档的字段，方便玩家纪录当前的游戏进度。
   translated: 
@@ -205,7 +205,7 @@
     translated: Save/Load
   - split: 4
     text: 开启选单（预设ESC）键可以找到存盘/读档的字段，方便玩家纪录当前的游戏进度。
-    translated: Pressing the Start Menu (Pre-set ESC) key can access the save/load fields, allowing players to record their current game progress.
+    translated: ''
 - lineNum: 21
   raw: h10405	104		卡点脱逃	开启选单（预设ESC）键可以找到卡点脱逃的选项，当玩家受困于地型之中时，可以选用这个功能协助玩家回归到附近的村庄，但请注意部份特殊剧情场景之中无法使用。
   translated: 
@@ -215,7 +215,7 @@
     translated: Escape at the last second.
   - split: 4
     text: 开启选单（预设ESC）键可以找到卡点脱逃的选项，当玩家受困于地型之中时，可以选用这个功能协助玩家回归到附近的村庄，但请注意部份特殊剧情场景之中无法使用。
-    translated: Press the Open Menu (Preset ESC) key to find the escape from a bind option. When players are trapped in terrain, they can use this feature to return to a nearby village. However, please note that it cannot be used in certain special story scenes.
+    translated: ''
 - lineNum: 22
   raw: h10406	104		屏幕截图	按下屏幕截图（默认F12）键可以将当前画面截取并保存。
   translated: 
@@ -225,7 +225,7 @@
     translated: Screenshot of the screen.
   - split: 4
     text: 按下屏幕截图（默认F12）键可以将当前画面截取并保存。
-    translated: Press the Screenshot (default F12) key on the screen to capture and save the current display.
+    translated: ''
 - lineNum: 23
   raw: h10501	105		队友	游戏中可以找到许多志同道合的朋友一同冒险，当队友加入时可以在接口中（默认Tab）中查看，除了玩家本身，玩家最多可以同时与另外三名队友一同闯荡江湖。
   translated: 
@@ -235,7 +235,7 @@
     translated: Comrade/Teammate
   - split: 4
     text: 游戏中可以找到许多志同道合的朋友一同冒险，当队友加入时可以在接口中（默认Tab）中查看，除了玩家本身，玩家最多可以同时与另外三名队友一同闯荡江湖。
-    translated: In the game, you can find many like-minded friends to adventure together. When teammates join, you can view them in the interface (default Tab). Besides yourself, a player can be with up to three other teammates at once as they roam the world.
+    translated: ''
 - lineNum: 24
   raw: h10502	105		队友加入	部分队友在剧情中会加入玩家的队伍之中，完成剧情之后，玩家可以选择继续与之为伍，或是另寻其他伙伴加入。
   translated: 
@@ -255,7 +255,7 @@
     translated: Teammate kicks out
   - split: 4
     text: 若玩家想要将队友从队伍中踢除，可以在接口中（默认Tab）选择队友，并按下踢除（预设Q）键将队友请离队伍，该名队友则会回到特定地区等待玩家再次组队。部分剧情中无法踢除队友，必须完成系列任务后才能执行此操作。
-    translated: If a player wishes to remove a teammate from the team, they can select the teammate in the interface (default Tab) and press the remove button (preset Q) to have the teammate leave the team. The removed teammate will return to a specific area and wait for the player to regroup. In some storylines, teammates cannot be removed until certain series of tasks are completed.
+    translated: ''
 - lineNum: 26
   raw: h10504	105		队友离开	每位队友有自我意识和个性，若玩家作风与队友的风格差异太大，该名队友可能会不愿与玩家为伍，自动离开玩家的队伍。
   translated: 
@@ -365,7 +365,7 @@
     translated: Achievement Reward
   - split: 4
     text: 玩家如果达成游戏内的成就，可以在主选单中（预设Tab）或是使用快捷键（预设N）来查看成就，许多成就含有丰厚的报酬让玩家领取，让玩家更顺利地冒险。
-    translated: If players achieve in-game accomplishments, they can view them in the main menu (default tab) or via a shortcut key (default N). Many achievements come with rich rewards that players can claim to facilitate their adventure.
+    translated: ''
 - lineNum: 37
   raw: h10706	107		隐藏成就	游戏接口上的成就并非是所有的成就，部分成就必须等到玩家达成之后才会显示，玩家不妨可以多多探索。
   translated: 
@@ -385,14 +385,14 @@
     translated: Formulation recipe preparation
   - split: 4
     text: 游戏中有些简易的制作配方可以学习，如炼丹、制毒、烹饪等等，玩家可以将一些材料制作为效果更好的物品，可以在主选单（预设Tab）中或使用快捷键（预设H）中查看学会的配方。
-    translated: In the game, players can learn some simple recipes such as alchemy, poison-making, and cooking. These allow the creation of materials into items with better effects. Players can view the learned recipes in the main menu (default tab) or by using a shortcut key (default H).
+    translated: ''
 - lineNum: 39
   raw: h10802	108	Alchemy/Img_Drug_Tab.png	炼丹	炼丹术可以将野外采集而来的药草材料提炼成丹药，使药材的恢复效果更加，玩家可以从医书中习得配方，也能从部分任务中习得炼丹术。
   translated: 
   splits:
   - split: 3
     text: 炼丹
-    translated: Alchemy (or alchemical elixir preparation)
+    translated: ''
   - split: 4
     text: 炼丹术可以将野外采集而来的药草材料提炼成丹药，使药材的恢复效果更加，玩家可以从医书中习得配方，也能从部分任务中习得炼丹术。
     translated: Alchemical refining can process wild herbs collected outdoors into elixirs, enhancing the recovery effects of medicinal materials. Players can learn formulas from medical books and acquire alchemy skills through certain tasks.
@@ -402,7 +402,7 @@
   splits:
   - split: 3
     text: 毒术
-    translated: Necromancy (or Toxicology in a more specific sense)
+    translated: ''
   - split: 4
     text: 制毒法可以将野外捕捉而来的毒物加工炼制，在部分武功修炼时需要消耗这些毒物，若不谙毒术，徒手捕捉野外的毒虫可能会导致中毒。
     translated: The art of alchemy can refine poisons captured in the wild, which are consumed during certain martial arts training. If one is not skilled in poison techniques, attempting to catch poisonous creatures by hand may lead to poisoning.
@@ -515,7 +515,7 @@
     translated: NPC spar
   - split: 4
     text: 困难与炼狱难度模式下的部分NPC，玩家可以对其提出切磋要求（预设为G键），玩家会与NPC进行一对一切磋，切磋胜利时有一定的机率可以获得该NPC身上的物品，但一天只能对同一个NPC提出一次切磋要求。
-    translated: In the Hellish difficulty mode, some NPCs allow players to challenge them for sparring (defaulted to G key). Players will spar one-on-one with the NPC, and upon victory, there is a chance to obtain an item from that NPC. However, only one sparring request can be made per day to the same NPC.
+    translated: ''
 - lineNum: 52
   raw: h11001	110		江湖传言	河洛世界会随机发生不同的传言事件，玩家可藉由与NPC打听来获得传言相关讯息，去进行相对应的行动或任务，当然玩家也可以选择不予理会。
   translated: 
@@ -572,7 +572,7 @@
   splits:
   - split: 3
     text: 气血
-    translated: Qi and Xue (Blood)
+    translated: ''
   - split: 4
     text: 影响角色在战斗中生存力的主要数值，归零的话则角色便会退场。
     translated: The main value that affects a character's survivability in battle, once depleted, will cause the character to retreat from the battlefield.
@@ -582,7 +582,7 @@
   splits:
   - split: 3
     text: 内力
-    translated: Qi (or internal energy)
+    translated: ''
   - split: 4
     text: 角色施展所有技能招式所需消耗的能量，内力不足的时候将无法发挥技能招式的全部威力。
     translated: The character's skill techniques require a certain amount of energy to perform. If the internal energy is insufficient, the full power of the skills will not be unleashed.
@@ -602,7 +602,7 @@
   splits:
   - split: 3
     text: 资质
-    translated: Qualification(s) or Credentials.
+    translated: ''
   - split: 4
     text: 隐藏数值，影响玩家每场战斗中能获得的经验值。
     translated: Hidden value affects the experience points players can earn in each battle.
@@ -692,7 +692,7 @@
   splits:
   - split: 3
     text: 枪棍
-    translated: Gunstick (refers to a gun or rifle combined with a stick).
+    translated: ''
   - split: 4
     text: 角色使用枪棍武学的能力，数值越高能产生越强的威力加成。
     translated: The character's ability in Gun-Spear martial arts generates a stronger power boost as the value increases.
@@ -702,7 +702,7 @@
   splits:
   - split: 3
     text: 暗器
-    translated: Hidden weapons (or assassin's weapons).
+    translated: ''
   - split: 4
     text: 角色使用暗器武学的能力，数值越高能产生越强的威力加成。
     translated: The character's ability in the art of shuriken can produce a greater power bonus with higher values.
@@ -732,7 +732,7 @@
   splits:
   - split: 3
     text: 毒术
-    translated: Necromancy or Toxicology (depending on context)
+    translated: ''
   - split: 4
     text: 毒术将会角色施展毒术武学时的效果与加成，也会影响到一些游戏内事件的发生与走向。
     translated: Poison techniques will affect the effects and bonuses of a character's use of poison arts, as well as influence some in-game events and their outcomes.
@@ -742,7 +742,7 @@
   splits:
   - split: 3
     text: 内功
-    translated: Internal cultivation (or force)
+    translated: ''
   - split: 4
     text: 内功是一切武学威力与减伤能力的基础，内功越高的角色在战斗中越具有优势。
     translated: Internal cultivation is the foundation of all martial arts' power and damage reduction capabilities. The higher a character's internal cultivation, the more advantageous they are in combat.
@@ -752,7 +752,7 @@
   splits:
   - split: 3
     text: 轻功
-    translated: Light-Step Technique (or Lightness Skill) in Wuxia context.
+    translated: ''
   - split: 4
     text: 轻功会影响角色在战斗中的出手排序、移动距离与相关武学感悟的加成效果，同时也会让玩家在大地图行走时更加迅速与有趣，轻功到达一定程度甚至可以施展水上飘。
     translated: Mastery of martial steps influences a character's attack order, movement range, and the bonuses from related martial insights in battle. It also allows players to move more swiftly and enjoyably across large maps, with high proficiency enabling them to perform feats like floating on water.
@@ -835,7 +835,7 @@
     translated: Bearing burdens.
   - split: 4
     text: 负重影响角色可以装备的武器与防具总重量，负重过重时将会影响角色在战斗时的精力回复效果，体魄与内功越好的角色负重能力也越佳。
-    translated: Encumbrance affects the total weight of weapons and armor a character can equip, and excessive encumbrance will impact a character's energy recovery during combat. The better a character's physique and internal strength (Qi), the greater their capacity to carry weight.
+    translated: ''
 - lineNum: 84
   raw: h20501	205		称号	玩家因为各种选择或事件所获得的头衔，一次只能装备一个，大多数的称号都有其不同的功能与特色。
   translated: 
@@ -882,19 +882,7 @@
   splits:
   - split: 3
     text: 正邪狂狷对应称号
-    translated: >-
-      Corresponding Titles for Righteousness and Villainy:
-
-
-      - Righteous (正):  
-        - Righteous Hero
-        - Benevolent Protector
-        - Guardian of Justice
-
-      - Villainous (邪):
-        - Wicked Overlord
-        - Malevolent Tyrant
-        - Dark Mastermind
+    translated: ''
   - split: 4
     text: 这世界存在着因应正邪狂狷或江湖声望高低能产生不同效果的称号，这些称号通常得来不易也非常少见，带来的效果自然也相当惊人。
     translated: In this world, there exist titles that respond differently to good or evil, recklessness, and varying levels of reputation in the martial world. These titles are typically hard to obtain and extremely rare, resulting in surprisingly remarkable effects.
@@ -964,7 +952,7 @@
   splits:
   - split: 3
     text: 内功武学
-    translated: Internal Martial Arts (or Internal Kung Fu)
+    translated: ''
   - split: 4
     text: 内功武学通常都有强大的被动效果，挑选最适合自己的内功武学好好修习吧！
     translated: Internal martial arts often have powerful passive effects. Choose the internal martial art that suits you best and practice it diligently!
@@ -974,7 +962,7 @@
   splits:
   - split: 3
     text: 轻功武学
-    translated: Lightness Martial Arts (Wuxia)
+    translated: ''
   - split: 4
     text: 大多数的轻功武学都没有能直接产生伤害的招式，但却能让玩家在战斗中更具有优势，同时它也能提高玩家轻功的基础数值，让玩家可以更轻松快速的在这个世界游历。
     translated: Most Wuxia kung fu schools do not have techniques that directly cause damage, but they give players an advantage in combat and improve their base kung fu skills. This allows players to travel more easily and quickly through the world.
@@ -1094,7 +1082,7 @@
   splits:
   - split: 3
     text: 消耗内力
-    translated: Exhaust Qi (internal energy)
+    translated: ''
   - split: 4
     text: 施展该技能所需要消耗的内力，消耗越高内力的武学威力通常也越强，也有会一次耗尽剩余所有内力产生巨大伤害的强大武学。
     translated: The amount of Qi consumed by using this skill generally determines the strength of the martial art; some powerful martial arts can deplete all remaining internal energy in one use to cause massive damage.
@@ -1164,7 +1152,7 @@
   splits:
   - split: 3
     text: 柔感悟
-    translated: Róu Gǎnwù (柔感悟)
+    translated: ''
   - split: 4
     text: 柔感悟能带来的特技是「卸劲」，发动时可以减免来自敌人的大量伤害，同时柔感悟也会制造较多的仇恨值，适合喜欢担任坦克的玩家。
     translated: Rou's innate talent, Unburden, can significantly reduce damage from enemies when activated. It also generates a substantial amount of aggro, making it ideal for players who prefer playing as tanks.
@@ -1434,7 +1422,7 @@
   splits:
   - split: 3
     text: 时序改变
-    translated: Change of Sequence or Timing Change (depending on context)
+    translated: ''
   - split: 4
     text: 部份技能可能含有能够改变时序的效果，例如击退时序能将受击单位的顺序往后推，晕眩效果有机会使该单位在该回合无法操作，有些能获得增益效果的技能也可能让玩家取得下一回合的先手机会。
     translated: Some skills may have effects that alter the sequence, such as pushback moving the target unit's order back, and stun effects having a chance to make the unit unable to act in that turn. Some buffs-granting skills might also allow players to gain initiative for the next turn.
@@ -1454,7 +1442,7 @@
   splits:
   - split: 3
     text: 移动
-    translated: Mobile (or Movable)
+    translated: ''
   - split: 4
     text: 轮到每个单位操作时默认会处于等待移动的状态，玩家可以利用鼠标、键盘或游戏手把选择要移动到的地点，移动的距离越远将会消耗越多的行动点数。战斗中没有限定角色单回合内的移动次数，可以自由移动到行动点数耗尽为止。
     translated: When it is a unit's turn, it will default to a waiting movement state. Players can use the mouse, keyboard, or game controller to select the destination point for movement. The farther the distance moved, the more action points are consumed. During combat, there is no limit on the number of moves a character can make per turn; they can move freely until their action points are depleted.
@@ -1584,7 +1572,7 @@
   splits:
   - split: 3
     text: 内伤
-    translated: Internal injury (often referring to damage to internal organs in traditional Chinese medicine).
+    translated: ''
   - split: 4
     text: 每次施展招式时都会损失气血，数值越高效果也越显著。
     translated: Every time a technique is executed, Qi and blood are lost; the higher the value, the more pronounced the effect.
@@ -1594,7 +1582,7 @@
   splits:
   - split: 3
     text: 外伤
-    translated: Traumatic injury or wound (external injury).
+    translated: ''
   - split: 4
     text: 每回合损失气血，数值越高效果也越显著。
     translated: Each round loses Qi and blood; the higher the value, the more pronounced the effect.
@@ -1644,7 +1632,7 @@
   splits:
   - split: 3
     text: 分筋
-    translated: Dividing Sinews (a technique in martial arts) or Separating the Tendons.
+    translated: ''
   - split: 4
     text: 降低角色的移动力，超过50点时会无法发动连击。
     translated: Reducing the character's mobility by more than 50 points will prevent them from executing combo attacks.
@@ -1824,7 +1812,7 @@
   splits:
   - split: 3
     text: 淬炼
-    translated: Tempering or refining (in the context of spiritual, martial, or personal development).
+    translated: ''
   - split: 4
     text: 村庄中的铁匠可以协助玩家淬炼武器，将玩家取得的投炉类物品镶嵌到武器上，藉由镶嵌不同的投炉物，能让武器发挥更强力的效果。
     translated: The blacksmith in the village can help players temper weapons, embedding player-acquired crucible items into the weapons. By embedding different crucible materials, weapons can unleash more powerful effects.
@@ -1834,7 +1822,7 @@
   splits:
   - split: 3
     text: 淬炼孔洞
-    translated: Tempering the hollows (of a weapon)
+    translated: ''
   - split: 4
     text: 并非所有的武器能够进行淬炼，必须附有淬炼孔的武器才能够淬炼，经过锻造打造出来的兵器附有淬炼孔的机率比较高，运气较佳的玩家可能打造出两个孔洞的武器。
     translated: Not all weapons can be tempered; only those with a tempering hole can undergo the process. Weapons forged and crafted have a higher likelihood of having a tempering hole, and lucky players may forge a weapon with two holes.
@@ -1884,7 +1872,7 @@
   splits:
   - split: 3
     text: 修理
-    translated: Repairing or fixing (depending on context).
+    translated: ''
   - split: 4
     text: 村庄中的铁匠可以协助玩家修缮磨损的武器，过度磨损的武器与装备，会使该道具的能力无法完全发挥，必须进行修理来恢复。
     translated: The blacksmith in the village can help players repair worn-out weapons and equipment. Overly worn-out weapons and gear will not be able to fully utilize their abilities and must be repaired to restore them.
@@ -2054,7 +2042,7 @@
   splits:
   - split: 3
     text: 暗器
-    translated: Hidden Weapons (or Traps)
+    translated: ''
   - split: 4
     text: 暗器为远程武器，装备暗器可以在中远程距离攻击敌人，不过对贴身攻击的敌人比较没辙。
     translated: Traps and projectiles are ranged weapons. Equipping traps and projectiles allows you to attack enemies at medium-range, but they are less effective against enemies in close combat.
@@ -2174,7 +2162,7 @@
   splits:
   - split: 3
     text: 毒物
-    translated: Toxic substance(s)
+    translated: ''
   - split: 4
     text: 将毒虫经过炼制之后获得的产物，无法直接使用，不过有些邪门的武学可能会需要使用这些东西。
     translated: The refined products obtained from the processed poison bugs cannot be used directly. However, some unconventional martial arts may require these things.
@@ -2224,7 +2212,7 @@
   splits:
   - split: 3
     text: 锻造材料-筋
-    translated: Forging Material - Tendon (Sinew)
+    translated: ''
   - split: 4
     text: 藉由击败野兽类型的敌人可以获得的珍贵素材。
     translated: Valuable materials obtained by defeating enemy types that resemble beasts.
@@ -2244,7 +2232,7 @@
   splits:
   - split: 3
     text: 任务物品
-    translated: Task item(s)
+    translated: ''
   - split: 4
     text: 任务进行所需要的道具。
     translated: The tools required to carry out the task.

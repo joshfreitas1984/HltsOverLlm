@@ -1,34 +1,39 @@
 from:  初入江湖
-to:    Just starting out in the martial world.
+to:    Making one's first entry into the martial world.
 
 from:  经验值80000点，江湖声望，玄铁
-to:    Experience points: 80,000, reputation in the martial world, dark iron.
+to:    Experience points: 80,000, reputation in the martial world, dark steel.
 
 from:  {0} 加入队伍
 to:    {0} joins the team.
 
 from:  {0} 离开队伍
-to:    {0} leaves the group
+to:    {0} leaves the team.
 
 from:  {0}{1} 经验
-to:    Experience {0}{1}
+to:    {0} {1} Experience
 
 from:  唔…也许<color=#FF0000>李叹兄弟</color>识货无数，对于藏宝诗词肯定也是懂的。或许可以找个适当借口，向李叹兄弟问问这事。
-to:    Well… perhaps <color=#FF0000>Li Tan's brother</color>, who is knowledgeable about many things, would certainly understand the treasure poems. Perhaps one could find an appropriate pretext to ask Li Tan's brother about this matter.
+to:    Um… perhaps <color=#FF0000>Li Tan, my brother</color>, who is well-versed in many things, certainly understands treasure poems. Perhaps we can find a suitable pretext to ask Brother Li Tan about this matter.
 
 from:  资质+{0}
-to:    Qualification + {0}
+to:    Qualifications + {0}
 
 from:  心念不起，自性不动。<br>着相即乱，离相不乱。
-to:    Thoughts unarisen, nature unmoved.<br>
-In contact with form is chaos; apart from form, there is no chaos.
+to:    The mind is not stirred; the self-nature does not move.<br>The attachment to forms leads to disorder; detachment from forms leads to no disorder.
 
 from:  <color=#FF0000>炼狱</color>
-to:    <color=#FF0000>Lianyu</color>
+to:    <color=#FF0000>Inferno</color>
 
 from:  颜玉书在场上时，所有队友的攻击力提升50%，减伤10%
-to:    When Yan Yushu is on the field, all teammates' attack power increases by 50%, and damage taken decreases by 10%.
+to:    Yan Yushu's presence on the field increases all teammates' attack power by 50% and reduces damage taken by 10%.
 
 from:  剧情
 to:    Plot
+
+from:  {name_1}兄，你没事吧？
+to:    Brother {name_1}, are you okay?
+
+from:  {name_2}兄，你没事吧？
+to:    Brother {name_2}, are you alright?
 

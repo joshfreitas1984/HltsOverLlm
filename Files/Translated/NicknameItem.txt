@@ -58,7 +58,7 @@
   splits:
   - split: 1
     text: 富二代
-    translated: Heiress/Héritier (Second-generation wealthy individual)
+    translated: ''
   - split: 2
     text: 获得金钱增加10%
     translated: Receive a 10% increase in money.
@@ -158,7 +158,7 @@
   splits:
   - split: 1
     text: 振翅千里
-    translated: Soar thousands of miles (or leagues)
+    translated: ''
   - split: 2
     text: 有10%机率闪避攻击，并对自身附加状态「麻痹剧毒」
     translated: There is a 10% chance to evade the attack and inflict the status Paralysis Poison on oneself.
@@ -228,7 +228,7 @@
   splits:
   - split: 1
     text: 马帮千金
-    translated: Mǎ bāng qiān jīn (The Thousand Gold of the Ma Gang)
+    translated: ''
   - split: 2
     text: 每次受击所累积的爆击率增加10%，暴击伤害提升50%
     translated: Each time you take a hit, your critical hit rate increases by 10%, and the critical hit damage is increased by 50%.
@@ -251,7 +251,7 @@
     translated: Spring breeze in October
   - split: 2
     text: 有机率闪避敌人攻击，自身轻功越高，闪避率越高
-    translated: Have a chance to evade enemy attacks; the higher one's Wuxia agility (or lightness), the higher the evasion rate.
+    translated: ''
 - lineNum: 26
   raw: nick012P	大师兄	自身轻功越高，闪避率越高；背袭时额外造成目标15点晕眩		n60005	nick012P
   translated: 
@@ -568,7 +568,7 @@
   splits:
   - split: 1
     text: 刀狂
-    translated: Sword Madman (Madman of the Sword)
+    translated: ''
   - split: 2
     text: 所有刀法威力+40%
     translated: All sword techniques' power +40%.
@@ -648,7 +648,7 @@
   splits:
   - split: 1
     text: 借惯了
-    translated: Used to borrowing (something).
+    translated: ''
   - split: 2
     text: 偷窃被发现的机率降低50%
     translated: The likelihood of being caught stealing is reduced by 50%.
@@ -678,7 +678,7 @@
   splits:
   - split: 1
     text: 掷果潘郎
-    translated: Zhituo Pan Lang (Throwing Fruits Brother Pan)
+    translated: ''
   - split: 2
     text: 战斗时参战的女性队友伤害提升30%；但自身在战斗时容易遭到敌方锁定。
     translated: Female team members' damage output increases by 30% during combat; however, they are more likely to be targeted by enemies.
@@ -718,7 +718,7 @@
   splits:
   - split: 1
     text: 身无长物
-    translated: "Having nothing but one's own person (literally: having no possessions except one's body)."
+    translated: ''
   - split: 2
     text: 采集药草与矿石时，40%机率得到双份，但获得的金钱会减少20%。
     translated: When collecting herbs and ores, there is a 40% chance of obtaining double the amount, but the money earned will be reduced by 20%.
@@ -778,7 +778,7 @@
   splits:
   - split: 1
     text: 百步穿杨
-    translated: Hundred-step archery (or shooting through ten rings in one hundred steps)
+    translated: ''
   - split: 2
     text: 弓箭伤害增加15%
     translated: Bow damage increased by 15%.
@@ -888,7 +888,7 @@
   splits:
   - split: 1
     text: 土司继任者
-    translated: Successor of the Chieftainship (Tusi)
+    translated: ''
   - split: 2
     text: 每回合开始时回复周围2单位距离内友军15%气血值，连击率提升15%
     translated: At the start of each turn, restore 15% of health to friendly units within a 2-unit radius, and increase critical hit rate by 15%.
@@ -928,7 +928,7 @@
   splits:
   - split: 1
     text: 从心所欲
-    translated: As you wish (from the heart)
+    translated: ''
   - split: 2
     text: 心良道人固有称号，自身每回合反击率、卸劲率提升25%
     translated: The title Heart-and-Mind Daoist inherently increases the user's counterattack and damage mitigation rates by 25% each turn.
@@ -958,7 +958,7 @@
   splits:
   - split: 1
     text: 南闲
-    translated: Nan Xian (南閒)
+    translated: ''
   - split: 2
     text: 每回合开始时，额外随机回复自身精力2到8点
     translated: At the start of each round, randomly recover between 2 to 8 points of one's own energy.
@@ -971,7 +971,7 @@
     translated: Western Kitchen
   - split: 2
     text: 攻击时50%伤害转换为自身气血
-    translated: At the time of attack, 50% damage is converted into your own Qi (vital energy).
+    translated: ''
 - lineNum: 98
   raw: nick118	北丑	触发连击时攻击力增加100%，持续一回合		n07007	nick118
   translated: 
@@ -1088,7 +1088,7 @@
   splits:
   - split: 1
     text: 冷面阎王
-    translated: Cold-faced Yanwang (King of Hell)
+    translated: ''
   - split: 2
     text: 发动虚招时，25%机率对该目标附加「阎王索命」，每回合减少内功3点
     translated: When launching a feigned attack, there is a 25% chance to apply King Yama's Demand to the target, reducing their internal strength by 3 points each turn.
@@ -1128,7 +1128,7 @@
   splits:
   - split: 1
     text: 梅开二度
-    translated: Mei comes again (referring to an event happening for the second time).
+    translated: ''
   - split: 2
     text: 发动连击时，对目标额外造成1次伤害
     translated: When initiating a combo attack, inflict an additional point of damage on the target.
@@ -1138,7 +1138,7 @@
   splits:
   - split: 1
     text: 大锅头
-    translated: Big Pot Head (referring to someone with a large head or someone who is oblivious)
+    translated: ''
   - split: 2
     text: 自身气血愈少，爆击时伤害愈高(每少10%气血，爆击时额外伤害增加10%)
     translated: The less Qi and blood you have, the higher the damage dealt by a critical hit (for every 10% decrease in Qi and blood, the additional damage from a critical hit increases by 10%).
@@ -1148,7 +1148,7 @@
   splits:
   - split: 1
     text: 叶家少主
-    translated: Master of the Ye Family (or Young Lord of the Ye Family)
+    translated: ''
   - split: 2
     text: 若攻击目标为男性，造成的伤害增加50%，若攻击目标为女性，造成的伤害减少50%
     translated: If the target is male, damage dealt increases by 50%; if the target is female, damage dealt decreases by 50%.
@@ -1298,7 +1298,7 @@
   splits:
   - split: 1
     text: 锦衣卫指挥使
-    translated: Commander of the Imperial Bodyguard (Jinyiwei)
+    translated: ''
   - split: 2
     text: 每回合自身周围距离2单位内敌方，减少所有特技值10点
     translated: Each turn, reduce all skills by 10 points for enemies within a distance of 2 units from the self.
@@ -1558,7 +1558,7 @@
   splits:
   - split: 1
     text: 金玉满堂
-    translated: Household full of gold and jade (indicating wealth).
+    translated: ''
   - split: 2
     text: 玉坊的商品与服务八折优待！
     translated: Yufang's products and services enjoy an eight percent discount!
@@ -1598,7 +1598,7 @@
   splits:
   - split: 1
     text: 「白纹」
-    translated: White Pattern/Warpaint (or White Marking, depending on context)
+    translated: ''
   - split: 2
     text: 鳄鱼王「白纹」现在任你差遣！
     translated: Alligator King Baiwen is now at your disposal!
@@ -1608,7 +1608,7 @@
   splits:
   - split: 1
     text: 「暴牙」
-    translated: Fierce Fang or Vicious Fang (depending on context)
+    translated: ''
   - split: 2
     text: 黑狼王「暴牙」现在任你差遣！
     translated: The Black Wolf King Bao Ya is now at your command!
@@ -1618,7 +1618,7 @@
   splits:
   - split: 1
     text: 「白牙」
-    translated: Bai Ya (White Fang)
+    translated: ''
   - split: 2
     text: 雪狼王「白牙」现在任你差遣！
     translated: Wolf King Baiya is now at your disposal!
@@ -1658,7 +1658,7 @@
   splits:
   - split: 1
     text: 「南霸天」
-    translated: Southern Hegemon (Nan Batian)
+    translated: ''
   - split: 2
     text: 白虎王「南霸天」现在任你差遣！
     translated: The White Tiger King Nan Batian is now at your disposal!
@@ -1698,7 +1698,7 @@
   splits:
   - split: 1
     text: 「巨木」
-    translated: Jùmù (Giant Tree)
+    translated: ''
   - split: 2
     text: 普斯曲蛇王「巨木」现在任你差遣！
     translated: The Serpent King of Pusiqe Jumu is now at your disposal!
@@ -1748,7 +1748,7 @@
   splits:
   - split: 1
     text: 「牙通牙」
-    translated: Tongue in cheek (or tongue-in-cheek)
+    translated: ''
   - split: 2
     text: 黑狼王的利齿会对敌人造成严重的外伤与感染毒伤。
     translated: The Fang of the Black Wolf King can cause severe external injuries and toxic poisoning to enemies.
@@ -1898,7 +1898,7 @@
   splits:
   - split: 1
     text: 「笑傲江湖」
-    translated: Smile in the Face of the World's Perils (The title refers to a Wuxia novel by Jin Yong, commonly known as A Hero Born).
+    translated: ''
   - split: 2
     text: 你的剑法威力额外随剑术上升再提升，并且战斗中有20%的机会闪避伤害。
     translated: Your swordsmanship power increases additionally with your martial arts level and, during combat, you have a 20% chance to avoid damage.
@@ -1908,7 +1908,7 @@
   splits:
   - split: 1
     text: 「神行百变」
-    translated: Divine Transformations or Transcendent Transformations (depending on context, both capture the idea of supernatural agility and adaptability).
+    translated: ''
   - split: 2
     text: 天资聪颖的你能在战斗中得到更多经验值，且你在战斗中有25%的机率回避伤害。
     translated: Your natural talent allows you to gain more experience points in battle, and there is a 25% chance that you will avoid damage during combat.

@@ -8,7 +8,7 @@ SystemPrompt: >-
   1. **Translation**:
     - Provide a direct, concise translation that preserves meaning and context.
     - Only provide the translation in response, omitting any additional commentary or explanation.
-    - Retain any placeholders (e.g., `{0}`) in their original form
+    - Retain any placeholders (e.g., `{0}`, `{name_1}`, `{name_2}`) in their original form
 
   2. **Precision**: Emphasize precision and brevity, adhering strictly to the text's intended meaning.
 

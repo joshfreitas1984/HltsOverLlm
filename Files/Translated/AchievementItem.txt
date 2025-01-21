@@ -114,14 +114,14 @@
     translated: Protagonist level reaches 90.
   - split: 12
     text: 经验值350000点，江湖声望
-    translated: 'Experience Points: 350,000, Reputation in the Wulin (Jianghu)'
+    translated: 'Experience points: 350,000, reputation in the martial arts world.'
 - lineNum: 9
   raw: 'ach0010	武林至尊	主角等级达到100级	Img_Achieve_Gold.png	0	0	5	FALSE	90	-1	(A_Level,100)	0	经验值500000点，江湖声望	{ "MultiAction" : [ { "AddExpAction" : 500000} , { "SetNpcPropertyAction" : 111, 35, 0, "Player"}  ]}	{ "MultiAction" : [ { "SetAchievementAction" : "AA_Level", 1, 2, 1}  ]}'
   translated: 
   splits:
   - split: 1
     text: 武林至尊
-    translated: Wulin Zizun (Martial World Supreme Ruler)
+    translated: Martial Arts Supreme Master
   - split: 2
     text: 主角等级达到100级
     translated: Protagonist level reaches 100.
@@ -186,7 +186,7 @@
   splits:
   - split: 1
     text: 矿物工人
-    translated: Miner (miner)
+    translated: Mineral worker
   - split: 2
     text: 挖掘野外的矿物100个
     translated: Excavate 100 minerals from the field.
@@ -199,7 +199,7 @@
   splits:
   - split: 1
     text: 矿物大师
-    translated: Master of Minerals (or Mineral Master)
+    translated: Master of Minerals
   - split: 2
     text: 挖掘野外的矿物200个
     translated: Excavate 200 minerals from the wilderness.
@@ -231,14 +231,14 @@
     translated: Failed to stealthily take items from the NPC 100 times.
   - split: 12
     text: 经验值2500点，江湖声望
-    translated: 'Experience points: 2500, martial reputation in the Wulin (martial arts world)'
+    translated: 'Experience points: 2500, reputation in the Jianghu'
 - lineNum: 18
   raw: 'ach0025	牛刀小试	锻造属于自己的兵器	Img_Achieve_Cooper.png	0	0	2	FALSE	1	-1	(A_Forge,1)	0	经验值500点，江湖声望	{ "MultiAction" : [ { "AddExpAction" : 500} , { "SetNpcPropertyAction" : 111, 5, 0, "Player"}  ]}	0'
   translated: 
   splits:
   - split: 1
     text: 牛刀小试
-    translated: Testing the blade on a cow (cutting one's teeth)
+    translated: A cutlass attempt at whetting the knife.
   - split: 2
     text: 锻造属于自己的兵器
     translated: Forging one's own weapons.
@@ -576,7 +576,7 @@
   splits:
   - split: 1
     text: 辣手摧花
-    translated: Cruel as a demon in destroying flowers (referring to someone who is heartless or ruthless).
+    translated: Destroying beauty with cruelty.
   - split: 2
     text: 炼制毒物50次
     translated: Alcohol poison 50 times.
@@ -1005,7 +1005,7 @@
   splits:
   - split: 1
     text: 「红斑」
-    translated: Red Blotch (or Red Spot)
+    translated: Red Spotted
   - split: 2
     text: 你击败了鳄鱼王「红斑」！
     translated: You defeated the Crocodile King Red Spotted!
@@ -1044,7 +1044,7 @@
   splits:
   - split: 1
     text: 「白牙」
-    translated: Pai Ya (White Tooth)
+    translated: White Fang
   - split: 2
     text: 你击败了雪狼王「白牙」！
     translated: You have defeated the Wolf King Bai Ya!
@@ -1161,7 +1161,7 @@
   splits:
   - split: 1
     text: 「金鬃」
-    translated: Jin Zong (Golden Mane)
+    translated: Jin Zong
   - split: 2
     text: 你击败了传奇兽王「金鬃」！
     translated: You have defeated the legendary beast king Jin Zong!
@@ -1193,14 +1193,7 @@
     translated: You have tamed the five Beast Kings roaming in Shu, establishing yourself as a prominent figure among them.
   - split: 12
     text: 经验值25000点，天山雪莲，千年灵芝，「中阶兽王令」
-    translated: >-
-      Experience Points: 25,000  
-
-      Herb: Heavenly Snow Lotus  
-
-      Fungus: Thousand-Year Lingzhi Mushroom  
-
-      Middle-Stage Beast King Order (Command)
+    translated: 'Experience points: 25,000, Heavenly Snow Lotus, Thousand-Year Lingzhi Mushroom, Middle Stage Beast King Decree'
 - lineNum: 92
   raw: 'ach0193	兽王之王	你驯服了十头横行在蜀地的兽王，在兽王之道上已成为传说。	Img_Achieve_Gold.png	0	1	4	FALSE	10	-1	(A_AnimalBoss,10)	0	经验值50000点，天山雪莲，千年灵芝，「高阶兽王令」	{ "MultiAction" : [ { "InventoryAction" : 0, "it801098", 1} , { "AddExpAction" : 50000} , { "InventoryAction" : 0, "it40211", 5} , { "InventoryAction" : 0, "it40210", 5}  ]}	0'
   translated: 
@@ -1288,7 +1281,7 @@
   splits:
   - split: 1
     text: 「脱逃」
-    translated: Escape or Breakout (from captivity)
+    translated: Escape or Evasion
   - split: 2
     text: 游戏的乐趣才刚要开始呢，请继续努力吧！
     translated: The fun of the game is just beginning! Please keep up the effort!
@@ -1314,7 +1307,7 @@
   splits:
   - split: 1
     text: 「别有洞天」
-    translated: Separate Paradise or Paradise in Another Realm (context-dependent)
+    translated: Paradise in a Different Dimension
   - split: 2
     text: 还有什么比在一个神秘的洞穴里发现一本神秘的秘籍更浪漫的事情了呢？
     translated: Is there anything more romantic than discovering a mysterious manual in an enigmatic cave?
@@ -1418,7 +1411,7 @@
   splits:
   - split: 1
     text: 「雷神之槌」
-    translated: Mjolnir (Thor's Hammer)
+    translated: Thor's Hammer
   - split: 2
     text: 虽然莫名，但你还是找到了那支坏掉手机的最好使用方式。
     translated: Although strange, you still found the best way to use a broken phone.
@@ -1496,7 +1489,7 @@
   splits:
   - split: 1
     text: 干戈
-    translated: Arms and weapons (metaphorically used to describe conflict or warfare).
+    translated: Conflict or war between states; tumultuous fighting or warfare.
   - split: 2
     text: 取得干戈的碎片
     translated: Obtaining fragments of weapons of war.
@@ -1574,7 +1567,7 @@
   splits:
   - split: 1
     text: 马帮千金
-    translated: Mǎ Bāng Qiān Jīn (Marquis's Daughter of the Mǎ Gang)
+    translated: Má Fèng's thousand gold daughter
   - split: 2
     text: 与禾郁青成为队友
     translated: To become teammates with Wei Yuqing.
@@ -1587,7 +1580,7 @@
   splits:
   - split: 1
     text: 箐林鸩羽
-    translated: Forest of Bamboo Reed Poisons (a mythical or fictional reference)
+    translated: Dense forest of toxic birds.
   - split: 2
     text: 与何紫菀成为队友
     translated: To become a teammate with He Ziwang.
@@ -1629,7 +1622,7 @@
     translated: Diancang Immortal Maiden
   - split: 2
     text: 与漆笑儿成为队友
-    translated: Becoming teammates with Qī Xiàor (Ch'i Hsiao-erh)
+    translated: To become teammates with Qi Xiaoru.
   - split: 12
     text: 经验值500点，江湖声望，千年灵芝
     translated: 'Experience points: 500, Jianghu reputation, Thaumaturgic Ganoderma of a Thousand Years.'
@@ -1697,7 +1690,7 @@
     translated: To become teammates with Huang Shang.
   - split: 12
     text: 经验值500点，江湖声望，千年灵芝
-    translated: 'Experience points: 500, Renown in the Jianghu (Wulin), a thousand-year Lingzhi mushroom.'
+    translated: 'Experience points: 500, reputation in the martial world; a thousand-year mystical mushroom.'
 - lineNum: 130
   raw: 'ach0243	玉骨芝兰	与程雁华成为队友	Img_Achievement_n60400.png	0	2	1	FALSE	1	-1	(A_Teammate_n60400,1)	0	经验值500点，江湖声望，千年灵芝	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "AddExpAction" : 500} , { "SetNpcPropertyAction" : 111, 5, 0, "Player"}  ]}	{ "MultiAction" : [ { "SetAchievementAction" : "AA_Teammate_n60400", 1, 2, 1}  ]}'
   translated: 
@@ -1756,7 +1749,7 @@
   splits:
   - split: 1
     text: 丧心病狂
-    translated: Frenzied or maniacal (in the sense of being completely ruthless or wicked)
+    translated: Frenzied with madness or diabolically ruthless.
   - split: 2
     text: 与石鸿图成为队友
     translated: To become teammates with Shi Hongtu.
@@ -2003,7 +1996,7 @@
   splits:
   - split: 1
     text: 茅塞顿开
-    translated: Máosāi dùnkāi (illuminated; the mind suddenly enlightened)
+    translated: Máosāidùnkāi
   - split: 2
     text: 精通五本武学秘籍
     translated: Mastery of the Five Martial Classics
@@ -2022,7 +2015,7 @@
     translated: Mastery of ten martial arts secret manuals.
   - split: 12
     text: 经验值15000点，天山雪莲
-    translated: 'Experience points: 15,000, Tian Shan Xuelian (Tianshan Snow Lotus)'
+    translated: 'Experience points: 15,000; Heavenly Mountain Snow Lotus.'
 - lineNum: 155
   raw: 'ach0304	出神入化	精通二十本武学秘籍	Img_Achieve_Silver.png	0	3	3	FALSE	10	-1	(A_LearnSkill,20)	0	经验值50000点，天山雪莲	{ "MultiAction" : [ { "AddExpAction" : 50000} , { "InventoryAction" : 0, "it40210", 4}  ]}	0'
   translated: 
@@ -2126,14 +2119,14 @@
     translated: Investment insights have exceeded 20 points.
   - split: 12
     text: 经验值15000点，天山雪莲
-    translated: 'Experience points: 15,000, Hútíng (Snow Lotus of Mount Tianshan)'
+    translated: 'Experience points: 15,000, Heavenly Mountain Snow Lotus'
 - lineNum: 163
   raw: 'ach0317	迅雷	精通动系的所有感悟	Img_Achieve_Gold.png	0	3	4	FALSE	20	-1	(A_TalentType0,35)	0	经验值50000点，天山雪莲	{ "MultiAction" : [ { "AddExpAction" : 50000} , { "InventoryAction" : 0, "it40210", 3}  ]}	{ "MultiAction" : [ { "SetAchievementAction" : "AA_TalentType0", 1, 2, 1}  ]}'
   translated: 
   splits:
   - split: 1
     text: 迅雷
-    translated: Thunderbolt/Flash (commonly used name for the company or product)
+    translated: Thunderbolt Lightning or Flash of Thunder, depending on context.
   - split: 2
     text: 精通动系的所有感悟
     translated: Proficient in all insights of the Wind Sect.
@@ -2146,7 +2139,7 @@
   splits:
   - split: 1
     text: 回天
-    translated: Revive the world; Restore life. (This is a common phrase associated with a character named Wang Lin in Chinese martial arts novels.)
+    translated: Return to Heaven
   - split: 2
     text: 精通静系的所有感悟
     translated: Mastery of all insights into the stillness system.
@@ -2211,7 +2204,7 @@
   splits:
   - split: 1
     text: 行者
-    translated: Traveller (Monkey)
+    translated: Wanderer
   - split: 2
     text: 修练水浒英雄掌
     translated: Train in the Water Margin Heroes Palm Technique
@@ -2224,7 +2217,7 @@
   splits:
   - split: 1
     text: 六合
-    translated: Hexagram Six (or Liùhé in Pinyin)
+    translated: The Six Harmonies or The Six Harmony Sect
   - split: 2
     text: 修练心意六合剑
     translated: Cultivate the Six Harmonies Mind Intent Sword Technique.
@@ -2237,7 +2230,7 @@
   splits:
   - split: 1
     text: 霹雳
-    translated: Peilixing (Thunderclap)
+    translated: Lightning bolt.
   - split: 2
     text: 修练霹雳刀法
     translated: Practicing the Leaping Thunder Sword Technique.
@@ -2250,7 +2243,7 @@
   splits:
   - split: 1
     text: 玉麒麟
-    translated: Juyiqilin (玉麒麟)
+    translated: Juyiqilin
   - split: 2
     text: 修练麒麟棍法
     translated: Practice the Qilin Staff Technique
@@ -2295,7 +2288,7 @@
     translated: Practice the Qi Cultivation Song Verse
   - split: 12
     text: 经验值2000点，承气饮3瓶，天山雪莲
-    translated: 'Experience Points: 2,000, San Gu Qing Yin (Three BOTTLES), Tianshan Xue Lian (Tianshan Snow Lotus)'
+    translated: 'Experience points: 2,000; Drink three bottles of Qìnghé Yàntǐan; Tiānshān Xuělián.'
 - lineNum: 176
   raw: 'ach0330	才不会忘记你呢	重新学习修练野球拳	Img_Achieve_Iron.png	0	3	1	FALSE	1	-1	(A_SkillTree000_010,1)	0	经验值200点，小还丹2颗	{ "MultiAction" : [ { "AddExpAction" : 200} , { "InventoryAction" : 0, "it40101", 2}  ]}	0'
   translated: 
@@ -2380,7 +2373,7 @@
   splits:
   - split: 1
     text: 枪士
-    translated: Swordsman (also can be referred to as Swordsmaster)
+    translated: Swordsman
   - split: 2
     text: 枪棍能力达到100
     translated: Grenade ability reaches 100.
@@ -2393,7 +2386,7 @@
   splits:
   - split: 1
     text: 镖客
-    translated: Escort (or Escort Rider)
+    translated: Escort Agent
   - split: 2
     text: 暗器能力达到100
     translated: Dark skill level reaches 100.
@@ -2406,7 +2399,7 @@
   splits:
   - split: 1
     text: 医神
-    translated: Doctor of Medicine (Healer)
+    translated: Divine Healer
   - split: 2
     text: 医术能力达到100
     translated: Medical skill level has reached 100.
@@ -2419,7 +2412,7 @@
   splits:
   - split: 1
     text: 蛊师
-    translated: Cultivator (or Sorcerer)
+    translated: Sorcerer or Shamanist
   - split: 2
     text: 毒术能力达到100
     translated: Necromancy skill level reached 100.
@@ -2445,7 +2438,7 @@
   splits:
   - split: 1
     text: 鸿毛
-    translated: Featherweight (a very small amount or something extremely light)
+    translated: Feather-light dust particle.
   - split: 2
     text: 轻功能力达到100
     translated: Light power reaches 100.
@@ -2734,7 +2727,7 @@
     translated: The Buddha requires golden attire.
   - split: 2
     text: 与「布庄」达到500友好度
-    translated: Reach a friendship level of 500 with Poker Room (Buzhuang).
+    translated: Reach a friendliness level of 500 with Pavilion Owner.
   - split: 12
     text: 称号与布庄的商品与服务八折优待！
     translated: Title Holders with Zhuang's Goods and Services Enjoy an Eight-Percent Discount!
@@ -2773,7 +2766,7 @@
     translated: Companion at the Tavern
   - split: 2
     text: 与「酒楼」达到100友好度
-    translated: Reach a friendliness level of 100 with the Jiulou (Teahouse).
+    translated: Reach a friendship level of 100 with Jiulou.
   - split: 12
     text: 酒楼的商品与服务九折优待！
     translated: Dining hall products and services at a 90% discount!
@@ -2786,7 +2779,7 @@
     translated: Drunk and full.
   - split: 2
     text: 与「酒楼」达到500友好度
-    translated: Reach 500 Friendship Points with the Inn (Jiu Lou).
+    translated: Reach a friendship level of 500 with Jiulou.
   - split: 12
     text: 称号与酒楼的商品与服务八折优待！
     translated: Title holders receive an eight percent discount on the products and services at the restaurant!
@@ -2870,11 +2863,7 @@
     translated: >-
       Experience Points: 20,000  
 
-      Honor in the Martial World  
-
-      Thousand-Year Lingzhi  
-
-      Tian Shan Xuelian (Snow Orchid of Tian Shan)
+      Martial World Reputation: Thousand-Year Immortal Herb, Heavenly Mountain Snow Lotus
 - lineNum: 220
   raw: 'ach0615	小毒虫	炼毒？施蛊？这只是一些小毒虫而已。	Img_Achieve_Iron.png	0	6	1	FALSE	0	-1	(A_Poison_it50101,1)(A_Poison_it50102,1)(A_Poison_it50103,1)(A_Poison_it50104,1)(A_Poison_it50105,1)	0	经验值2500点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 2500} , { "SetNpcPropertyAction" : 111, 5, 0, "Player"}  ]}	0'
   translated: 
@@ -3464,7 +3453,7 @@
   splits:
   - split: 1
     text: 动如参商
-    translated: Moving like the strings of a guqin (a traditional Chinese musical instrument).
+    translated: As swift as the strings of a zither.
   - split: 2
     text: 完成颜玉书的第一个结局
     translated: Complete the first ending of Yan Yushu.
@@ -3649,7 +3638,7 @@
     translated: Beautiful Beauty of the Rivers and Mountains
   - split: 2
     text: 完成特殊结局「后宫」
-    translated: Completed the special ending Hougong (Empress or Consort).
+    translated: Complete the special ending Hougong.
   - split: 12
     text: 无奖励
     translated: No reward.
@@ -3685,7 +3674,7 @@
   splits:
   - split: 1
     text: 迅雷
-    translated: Thunderbolt Lightning Download Manager or Lightning Fast Thunderbolt (depending on context).
+    translated: Thunderbolt
   - split: 2
     text: 主角精通动系的所有感悟
     translated: Protagonist is proficient in all insights of the Dragon Sect.
@@ -3698,7 +3687,7 @@
   splits:
   - split: 1
     text: 回天
-    translated: Heavenly Physician (Referring to Zhang Sanfeng)
+    translated: Revive the world.
   - split: 2
     text: 主角精通静系的所有感悟
     translated: Protagonist is proficient in all the insights of the Stillness Sect.
@@ -3711,7 +3700,7 @@
   splits:
   - split: 1
     text: 拔山
-    translated: Remove Mountains (a title indicating someone with great strength or ability)
+    translated: Pull Mountains Apart
   - split: 2
     text: 主角精通刚系的所有感悟
     translated: The protagonist is proficient in all aspects of the Gong Sect.
@@ -3828,7 +3817,7 @@
   splits:
   - split: 1
     text: 千手观音
-    translated: Avalokiteshvara (Thousand-Armed Guanyin)
+    translated: Thousand-Handed Guanyin
   - split: 2
     text: 暗器能力达到150
     translated: Dark weapons skill level is 150.
@@ -3841,7 +3830,7 @@
   splits:
   - split: 1
     text: 妙手回春
-    translated: Miaoshou Huichun (Skillful Hand Revives Spring)
+    translated: Divine Hand of Revival
   - split: 2
     text: 医术能力达到150
     translated: Healing skills reach 150.
@@ -3854,7 +3843,7 @@
   splits:
   - split: 1
     text: 蛇蝎心肠
-    translated: Snake's heart and scorpion's nature (referring to someone who is deceitful or treacherous).
+    translated: Snake-hearted or viper-hearted.
   - split: 2
     text: 毒术能力达到150
     translated: Necromancy skill level has reached 150.

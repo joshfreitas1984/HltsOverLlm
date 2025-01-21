@@ -139,6 +139,8 @@ public static class Translation
 
             var content = File.ReadAllText(outputFile);
 
+            Console.WriteLine($"Processing File: {outputFile}");
+
             var deserializer = new DeserializerBuilder()
                 .WithNamingConvention(CamelCaseNamingConvention.Instance)
                 .Build();
@@ -161,16 +163,21 @@ public static class Translation
                 // Use a slice of the list directly
                 var batch = fileLines.GetRange(i, batchRange);
 
+                int recordsProcessed = 0;
+
                 // Process the batch in parallel
                 await Task.WhenAll(batch.Select(async line =>
                 {
                     foreach (var split in line.Splits)
                         if (string.IsNullOrEmpty(split.Translated) || forceRetranslation)
+                        {
                             split.Translated = await TranslateSplitAsync(config, split.Text, client);
+                            recordsProcessed++;
+                        }
                 }));
 
                 var elapsed = stopWatch.ElapsedMilliseconds;
-                Console.WriteLine($"Line: {i + batchRange} of {totalLines} ({elapsed} ms ~ {elapsed / batchRange}/line)");
+                Console.WriteLine($"Line: {i + batchRange} of {totalLines} ({elapsed} ms ~ {elapsed / recordsProcessed}/line)");
                 await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
             }
         }
@@ -208,9 +215,12 @@ public static class Translation
                     ?.Trim() ?? string.Empty;
 
                 translationValid = CheckTransalationSuccessful(text, result);
+                retryCount++;
             }
 
-            retryCount++;
+            if (!translationValid)
+                Console.WriteLine($"Invalid Line: {text}");
+            
             return translationValid ? CleanupLine(result, text) : string.Empty;
     }
         catch (HttpRequestException e)
@@ -303,7 +313,7 @@ public static class Translation
             return placeholders;
 
         // Regular expression to match placeholders in the format {number}
-        string pattern = "\\{\\d+\\}";
+        string pattern = "\\{.+\\}";
         MatchCollection matches = Regex.Matches(input, pattern);
 
         // Add each match to the list of placeholders

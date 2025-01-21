@@ -13,45 +13,46 @@ namespace Tests
         //    ExportLines.Export();
         //}
 
-        //[Fact]
-        //public async Task UndoInvalidTranslations()
-        //{
-        //    string outputPath = "../../../../Files/Translated";
+        [Fact]
+        public async Task UndoInvalidTranslations()
+        {
+            string outputPath = "../../../../Files/Translated";
 
-        //    foreach (var textFileToTranslate in Translation.TextFilesToSplit)
-        //    {
-        //        var outputFile = $"{outputPath}/{textFileToTranslate.Path}";
+            foreach (var textFileToTranslate in Translation.TextFilesToSplit)
+            {
+                var outputFile = $"{outputPath}/{textFileToTranslate.Path}";
 
-        //        if (!File.Exists(outputFile)) 
-        //            continue;
+                if (!File.Exists(outputFile))
+                    continue;
 
-        //        var content = File.ReadAllText(outputFile);
+                var content = File.ReadAllText(outputFile);
 
-        //        var deserializer = new DeserializerBuilder()
-        //            .WithNamingConvention(CamelCaseNamingConvention.Instance)
-        //            .Build();
+                var deserializer = new DeserializerBuilder()
+                    .WithNamingConvention(CamelCaseNamingConvention.Instance)
+                    .Build();
 
-        //        var fileLines = deserializer.Deserialize<List<TranslationLine>>(content);
+                var fileLines = deserializer.Deserialize<List<TranslationLine>>(content);
 
-        //        foreach (var line in fileLines)
-        //        {
-        //            foreach (var split in line.Splits)
-        //            {
-        //                if (!Translation.CheckTransalationSuccessful(split.Translated ?? string.Empty, split.Text))
-        //                {
-        //                    Console.WriteLine($"Invalid: {split.Translated}");
-        //                    split.Translated = string.Empty;
-        //                }
-        //            }
-        //        }
+                foreach (var line in fileLines)
+                {
+                    foreach (var split in line.Splits)
+                    {
+                        if (!Translation.CheckTransalationSuccessful(split.Text, split.Translated ?? string.Empty))
+                        {
+                            Console.WriteLine($"Invalid {textFileToTranslate.Path}: {split.Translated}");
+                            split.Translated = string.Empty;
+                        }
+                    }
+                }
 
-        //        var serializer = new SerializerBuilder()
-        //            .WithNamingConvention(CamelCaseNamingConvention.Instance)
-        //            .Build();
+                var serializer = new SerializerBuilder()
+                    .WithNamingConvention(CamelCaseNamingConvention.Instance)
+                    .Build();
 
-        //        await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
-        //    }
-        //}
+                Console.WriteLine($"Writing {outputFile}");
+                await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
+            }
+        }
 
         [Fact]
         public async Task TranslateLines()
@@ -82,7 +83,8 @@ namespace Tests
                 "<color=#FF0000>炼狱</color>",
                 "颜玉书在场上时，所有队友的攻击力提升50%，减伤10%",
                 "剧情",
-                '{name_1}兄，你没事吧？',
+                "{name_1}兄，你没事吧？",
+                "{name_2}兄，你没事吧？",
             };
 
             var lines = new List<string>();
@@ -95,6 +97,28 @@ namespace Tests
             }
 
             File.WriteAllLines($"{outputPath}/tests.txt", lines);
+        }
+
+        [Fact]
+        public void CheckTransalationSuccessfulTest()
+        {
+            string outputPath = "../../../../Files/";
+            var testLines = new List<(string, string)> {
+                ("振翅千里", "Soar thousands of miles (or leagues)")
+            };
+
+            var lines = new List<string>();
+
+            foreach (var line in testLines)
+            {
+                var valid = Translation.CheckTransalationSuccessful(line.Item1, line.Item2);
+                lines.Add($"valid:  {valid}");
+                lines.Add($"from:  {line.Item1}");
+                lines.Add($"to:    {line.Item2}");
+                lines.Add("");
+            }
+
+            File.WriteAllLines($"{outputPath}/SuccessfulTests.txt", lines);
         }
 
         //[Fact]

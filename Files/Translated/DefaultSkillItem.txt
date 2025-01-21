@@ -4,7 +4,7 @@
   splits:
   - split: 1
     text: 小蝦米
-    translated: Little Shrimp (Nickname) or Xiao Xiami (Name)
+    translated: Small Shrimp
 - lineNum: 1
   raw: st0001	test	it30303	0	0	SkillTree001_000
   translated: 
@@ -711,7 +711,7 @@
   splits:
   - split: 1
     text: 碧虛掌法
-    translated: Bìxū Zhàngfǎ (Blue Void Palm Technique)
+    translated: ''
 - lineNum: 102
   raw: st0057	大刀十三劈	it30318	0	0	SkillTree105_000
   translated: 
@@ -732,7 +732,7 @@
   splits:
   - split: 1
     text: 泛用搏擊：柔
-    translated: 'Generic Martial Arts: Softness (Taoism)'
+    translated: 'General Boxing: Soft Punching Technique'
 - lineNum: 105
   raw: st0060	泛用搏擊：動		0	0
   translated: 
@@ -767,7 +767,7 @@
   splits:
   - split: 1
     text: 花拳繡腿
-    translated: Flowery fists and embroidered legs (referring to someone skilled in martial arts but lacking real fighting ability).
+    translated: ''
 - lineNum: 110
   raw: st0065	雪片旋刀勢	it30319	0	0	SkillTree106_000
   translated: 
@@ -1509,7 +1509,7 @@
   splits:
   - split: 1
     text: 三才刀譜
-    translated: San Cai Dao Pu (Three Talents Sword Manual)
+    translated: San Cai Dao Pu
 - lineNum: 216
   raw: st0107	四象刀譜(低)	it30311	0	0	SkillTree135_000,SkillTree135_001,SkillTree135_002,SkillTree135_003
   translated: 
@@ -1866,7 +1866,7 @@
   splits:
   - split: 1
     text: 野球拳（皇甫登雲）
-    translated: Yakyuken (Huangfu Dengyun)
+    translated: ''
 - lineNum: 267
   raw: st0128	嬋娟一劍(顏玉書)	it30207	0	0	SkillTree144_000
   translated: 
@@ -1999,7 +1999,7 @@
   splits:
   - split: 1
     text: 麒麟棍法
-    translated: Qilin Gun Fa (Kirin Staff Technique)
+    translated: ''
 - lineNum: 286
   raw: st0141	流星飛擲	it30508	0	0	SkillTree044_000,SkillTree044_002,SkillTree044_003
   translated: 
@@ -2363,14 +2363,14 @@
   splits:
   - split: 1
     text: 桃谷升仙訣
-    translated: Tao Gu Shengxian Jue (桃谷升仙訣)
+    translated: Datura's Ascension Manual
 - lineNum: 338
   raw: st0168	離合參商	it30704	0	0	SkillTree173_000,SkillTree173_001,SkillTree173_002,SkillTree173_003,SkillTree173_004,SkillTree173_005,SkillTree173_006,SkillTree173_007,SkillTree173_008
   translated: 
   splits:
   - split: 1
     text: 離合參商
-    translated: Libie Shangchang (Liché Shāngcháng)
+    translated: ''
 - lineNum: 339
   raw: st0169	正氣歌	it30713	0	0	SkillTree046_000,SkillTree046_001,SkillTree046_002,SkillTree046_003,SkillTree046_004,SkillTree046_005,SkillTree046_006
   translated: 
@@ -2454,7 +2454,7 @@
   splits:
   - split: 1
     text: 令狐一劍
-    translated: Lin Hu Yi Jian (Lin Hu's Sword)
+    translated: Lin Hu Yi Jian
 - lineNum: 351
   raw: st0804b	令狐一劍	it30207	0	0	SkillTree144_000
   translated: 
@@ -2489,7 +2489,7 @@
   splits:
   - split: 1
     text: 黃潮生
-    translated: Yellow tide surge (or Yellow Tide) rises.
+    translated: Huang Chao's Rebellion
 - lineNum: 356
   raw: st0808	段一燈	it30228	0	0	SkillTree104_000,SkillTree104_001,SkillTree104_002,SkillTree104_003,SkillTree104_004,SkillTree104_005,SkillTree104_006,SkillTree104_007,SkillTree104_008,SkillTree104_009
   translated: 
@@ -2524,7 +2524,7 @@
   splits:
   - split: 1
     text: 敵人大boss內功
-    translated: Enemy main boss internal strength (Qi) technique.
+    translated: Enemy Boss's Internal Energy Techniques
 - lineNum: 361
   raw: st0998	敵人小boss內功	it30726	0	0	SkillTree165_000
   translated: 
@@ -2538,4 +2538,4 @@
   splits:
   - split: 1
     text: 敵人泛用內功
-    translated: Enemies use a versatile internal power (Qi).
+    translated: Adversary utilizes ubiquitous internal cultivation.
