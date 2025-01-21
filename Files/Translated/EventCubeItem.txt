@@ -3896,7 +3896,7 @@
   splits:
   - split: 1
     text: 铁
-    translated: ''
+    translated: Iron
 - lineNum: 557
   raw: 'm19998097	铁矿	MouseEventBox	Resources_Art/Art3D/Ore/iron.prefab	Dig	-1290.91, 191.4315, -736.7773	1, 1, 1	2, 2, 2	345.2948, 325.0486, 338.1022	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70102", 2}  ]} 	0'
   translated: 
@@ -4134,7 +4134,7 @@
   splits:
   - split: 1
     text: 镔铁
-    translated: ''
+    translated: Wrought iron
 - lineNum: 591
   raw: 'm19998131	黑铁	MouseEventBox	Resources_Art/Art3D/Ore/blackiron.prefab	Dig	168.2101, 50.269, 1332.553	0.08404858, 0.0969378, 0.06160342	1, 1, 1	0, 0, 0	True	96		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70103", 1}  ]} 	0'
   translated: 
@@ -6437,7 +6437,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Three-sevenths
 - lineNum: 920
   raw: 'm30002-10	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-370.9168, 68.62315, -1048.271	1, 1, 1	1, 1, 1	0, 0, 0	True	72		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -7389,7 +7389,7 @@
   splits:
   - split: 1
     text: 续断
-    translated: ''
+    translated: Continued interruption
 - lineNum: 1056
   raw: 'm50002	续断	MouseEventBox	Resources_Art/Art3D/Herb/it40208.prefab	Collect	-608.338, 112.863, -469.278	1, 1, 1	1, 1, 1	0, 0, 0	True	36		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40208", 1}  ]} 	0'
   translated: 
@@ -7445,28 +7445,28 @@
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone
 - lineNum: 1064
   raw: 'm50010	石头	MouseEventBox	Resources_Art/Art3D/Nature/Photoscanned rocks pack/Rock01.prefab	Pick	-545.37, 122.888, -471.72	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80141", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone
 - lineNum: 1065
   raw: 'm50011	石头	MouseEventBox	Resources_Art/Art3D/Nature/Photoscanned rocks pack/Rock01.prefab	Pick	-581.43, 139.68, -524.98	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80142", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone
 - lineNum: 1066
   raw: 'm50012	石头	MouseEventBox	Resources_Art/Art3D/Nature/Photoscanned rocks pack/Rock01.prefab	Pick	-678.5959, 112.757, -503.8628	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80142", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone
 - lineNum: 1067
   raw: 'm50013	石头	MouseEventBox	Resources_Art/Art3D/Nature/Photoscanned rocks pack/Rock01.prefab	Pick	-572.61, 113.782, -359.34	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80142", 1}  ]} 	0'
   translated: 
@@ -7501,7 +7501,7 @@
   splits:
   - split: 1
     text: 子丑夜光石
-    translated: ''
+    translated: Jiǔchǒu Night-Glow Stone
 - lineNum: 1072
   raw: 'm50017	子丑夜光石	MouseEventBox	Resources_Art/Art3D/hilife/it70318/Prefab/it70318.prefab	None	-703.11, 147.15, -684.54	1, 1, 1	0.1, 0.1, 0.1	273.3357, 0, 0	False	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "TimeCondition" : 23, 24} , { "TimeCondition" : 0, 3}  ], 1} , { "LogicalNode" : [ { "CheckFlagAction" : "fm50017", 1, 0}  ], 0}  ], 0} 	0	0'
   translated: 
@@ -7557,21 +7557,21 @@
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone/rock
 - lineNum: 1080
   raw: 'm50023	石头	MouseEventBox	Resources_Art/Art3D/Nature/Photoscanned rocks pack/Rock01.prefab	Pick	-566.245, 120.333, -299.402	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80141", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone
 - lineNum: 1081
   raw: 'm50024	石头	MouseEventBox	Resources_Art/Art3D/Nature/Photoscanned rocks pack/Rock01.prefab	Pick	-563.02, 117.227, -338.538	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80141", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone
 - lineNum: 1082
   raw: 'm50025	石头	MouseEventBox	Resources_Art/Art3D/Nature/Photoscanned rocks pack/Rock01.prefab	Pick	-550.504, 116.151, -366.379	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80141", 1}  ]} 	0'
   translated: 
@@ -7627,7 +7627,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Root
 - lineNum: 1090
   raw: 'm50033	松木	MouseEventBox	Resources_Art/Art3D/Nature/Trunks package/deadtrunk2.prefab	Pick	-669.451, 112.88, -497.47	1, 1, 1	0.3, 0.3, 0.3	0, 0, 90	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70201", 1}  ]} 	0'
   translated: 
@@ -7655,7 +7655,7 @@
   splits:
   - split: 1
     text: 书册
-    translated: ''
+    translated: Booklet/Volume
 - lineNum: 1094
   raw: m50037	噶玛寺厨师切的肉	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_040_D.prefab	None	-619.9269, 113.802, -484.4778	1, 1, 1	1, 1, 1	270.6555, 180, 180	False	0		0	0	0
   translated: 
@@ -7690,7 +7690,7 @@
   splits:
   - split: 1
     text: 糌粑
-    translated: ''
+    translated: Steamed sticky rice balls filled with sweet or savory fillings.
 - lineNum: 1099
   raw: 'm50042	蒸笼	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_015.prefab	Survey	-616.101, 113.9177, -487.171	1, 1, 1	1, 1, 1	335.9792, 303.2811, 3.379644	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "n5010001000"}  ]} 	0'
   translated: 
@@ -7774,14 +7774,14 @@
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone/rock
 - lineNum: 1111
   raw: 'm50056	续断	MouseEventBox	Resources_Art/Art3D/Herb/it40208.prefab	Collect	-615.451, 106.444, -413.21	1, 1, 1	1, 1, 1	0, 0, 0	True	24		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40208", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 续断
-    translated: ''
+    translated: Resumption interrupted.
 - lineNum: 1112
   raw: 'm50057	续断	MouseEventBox	Resources_Art/Art3D/Herb/it40208.prefab	Collect	-618.702, 107.663, -416.786	1, 1, 1	1, 1, 1	0, 0, 0	True	36		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40208", 1}  ]} 	0'
   translated: 
@@ -7809,7 +7809,7 @@
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone
 - lineNum: 1116
   raw: 'm50061	续断	MouseEventBox	Resources_Art/Art3D/Herb/it40208.prefab	Collect	-536.7, 120.058, -361.273	1, 1, 1	1, 1, 1	0, 0, 0	True	24		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40208", 1}  ]} 	0'
   translated: 
@@ -7844,7 +7844,7 @@
   splits:
   - split: 1
     text: 续断
-    translated: ''
+    translated: Resuming from interruption.
 - lineNum: 1121
   raw: 'm50066	续断	MouseEventBox	Resources_Art/Art3D/Herb/it40208.prefab	Collect	-573.7502, 120.672, -306.9888	1, 1, 1	1, 1, 1	0, 0, 0	True	12		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40208", 1}  ]} 	0'
   translated: 
@@ -7886,7 +7886,7 @@
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone.
 - lineNum: 1127
   raw: 'm50072	土质松软的地面	MouseEventBox		Dig	-672.7065, 103.559, -278.6776	1, 1, 1	1, 1, 1	0, 0, 0	False	0		{ "LogicalNode" : [ { "CheckInventoryCountAction" : "it80163", 0, 0}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n5090101064"}  ]} 	0'
   translated: 
@@ -7942,7 +7942,7 @@
   splits:
   - split: 1
     text: 石头
-    translated: ''
+    translated: Stone
 - lineNum: 1135
   raw: 'm50080	草丛	MouseEventBox		Survey	-572.65, 113.951, -704.83	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80183", 1}  ]} 	0'
   translated: 
@@ -7991,7 +7991,7 @@
   splits:
   - split: 1
     text: 木材
-    translated: ''
+    translated: Timber or Lumber.
 - lineNum: 1142
   raw: 'm50087	石头	MouseEventBox	Resources_Art/Art3D/Nature/Photoscanned rocks pack/Rock01.prefab	Pick	-656.9604, 99.34679, -407.6331	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80141", 1}  ]} 	0'
   translated: 
@@ -8201,7 +8201,7 @@
   splits:
   - split: 1
     text: 桶子
-    translated: ''
+    translated: Bucket
 - lineNum: 1172
   raw: 'm50120	铁铲	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_017_a.prefab	Pick	-655.876, 113.086, -451.155	1, 1, 1	1, 1, 1	331.0461, 180, 180	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80163", 1}  ]} 	0'
   translated: 
@@ -8313,14 +8313,14 @@
   splits:
   - split: 1
     text: 麻布袋
-    translated: ''
+    translated: Cotton sackcloth.
 - lineNum: 1188
   raw: 'm50136	麻布袋	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_G.prefab	Pick	-687.404, 88.846, -826.128	1, 1, 1	1, 1, 1	11.88239, 32.00187, 103.5579	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80183", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 麻布袋
-    translated: ''
+    translated: Cotton bag
 - lineNum: 1189
   raw: 'm50137	麻布袋	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_G.prefab	Pick	-563.139, 66.524, -865.602	1, 1, 1	1, 1, 1	284.2177, 318.6176, 86.8186	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80183", 1}  ]} 	0'
   translated: 
@@ -8677,7 +8677,7 @@
   splits:
   - split: 1
     text: 木盒子
-    translated: ''
+    translated: Wooden box
 - lineNum: 1240
   raw: 'm50174-3	书堆	MouseEventBox		Survey	-860.259, 68.145, -848.674	1, 1, 1	0.2184143, 0.2184146, 0.2184146	0, 330.1277, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f52009潛入路線階段", 1, 1}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n5014816019"}  ]} 	0'
   translated: 
@@ -8803,7 +8803,7 @@
   splits:
   - split: 1
     text: 麻布袋
-    translated: ''
+    translated: Cotton bag from Mayflower.
 - lineNum: 1258
   raw: 'm50184a	李连	MouseEventBox		Survey	-1394.69, 205.4651, -896.72	1, 1, 1	3.525246, 1.234666, 2.749461	0, 0, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f50054雪山連九死了：李連", 1, 1} , { "QuestCondition" : "Q52001", 1, False}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n5004901100"}  ]} 	0'
   translated: 
@@ -8817,7 +8817,7 @@
   splits:
   - split: 1
     text: 阿九
-    translated: ''
+    translated: A-jiǔ
 - lineNum: 1260
   raw: 'm50184c	李连	MouseEventBox		Survey	-1325.44, 164.3, -877.34	1, 1, 1	4.679736, 1, 4.305678	0, 0, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f50054雪山連九逃走：李連", 1, 1} , { "QuestCondition" : "Q52001", 1, False}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n5004901100"}  ]} 	0'
   translated: 
@@ -8831,7 +8831,7 @@
   splits:
   - split: 1
     text: 阿九
-    translated: ''
+    translated: Elder Brother Nine
 - lineNum: 1262
   raw: 'm50185	拿雪莲花到药铺交任务	EventBox		None	-663.1, 66.53976, -1108.71	1, 1, 1	5.984981, 0.3856007, 6.153841	0, 0, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q52001_03", 0, True} , { "TimeCondition" : 6, 20}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m5004801"}  ]} 	0'
   translated: 
@@ -9111,7 +9111,7 @@
   splits:
   - split: 1
     text: 麻布袋
-    translated: ''
+    translated: Cotton bag from Mazu.
 - lineNum: 1302
   raw: 'm52002	玉龙雪莲花	MouseEventBox	Resources_Art/Art3D/Herb/it40210.prefab	Collect	-1385.35, 205.431, -901.64	1, 1, 1	0.5, 0.5, 0.5	0, 0, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q52001_01", 0, True} , { "CheckFlagAction" : "f50037b", 1, 0}  ], 0} 	0	0'
   translated: 
@@ -9517,7 +9517,7 @@
   splits:
   - split: 1
     text: 木材
-    translated: ''
+    translated: Timber.
 - lineNum: 1360
   raw: 'm54006	烟斗	MouseEventBox	Character/All_Accessories/Prefab/ac6c0096.prefab	Steal	-1218.868, 180.912, -813.65	1, 1, 1	1, 1, 1	302.2307, 195.0484, 0.7005357	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "eq11107", 1}  ]} 	0'
   translated: 
@@ -9615,7 +9615,7 @@
   splits:
   - split: 1
     text: 长枪
-    translated: ''
+    translated: Long Lance
 - lineNum: 1374
   raw: 'm55007	人骨	MouseEventBox	Resources_Art/Art3D/C&P/Planning_wish/Skeleton/Prefab/SM_Skeleton_Base002.prefab	Pick	504.89, 86.165, -900.87	1, 1, 1	1, 1, 1	356.8255, 58.26791, 192.2434	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70302", 1}  ]} 	0'
   translated: 
@@ -9629,7 +9629,7 @@
   splits:
   - split: 1
     text: 木材
-    translated: ''
+    translated: Timber
 - lineNum: 1376
   raw: 'm55009	佛像	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Special/special_025_I.prefab	Pick	509.594, 87.412, -902.036	1, 1, 1	1, 1, 1	287.7077, 112.1372, 213.5418	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80303", 1}  ]} 	0'
   translated: 
@@ -9692,7 +9692,7 @@
   splits:
   - split: 1
     text: 木材
-    translated: ''
+    translated: Lumber
 - lineNum: 1385
   raw: 'm55018	石头	MouseEventBox	Resources_Art/Art3D/Ore/it70106.prefab	Pick	-183.035, 129.707, 628.771	1, 1, 1	0.5, 0.5, 0.5	0, 302.56, 0	True	36		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70106", 1}  ]} 	0'
   translated: 
@@ -9734,7 +9734,7 @@
   splits:
   - split: 1
     text: 团扇
-    translated: ''
+    translated: Umbrella Fan
 - lineNum: 1391
   raw: 'm59001	千年灵芝	MouseEventBox	Resources_Art/Art3D/Herb/it40211.prefab	Collect	361.524, 67.648, -1447.217	1, 1, 1	1, 1, 1	61.22991, 304.7573, 74.77934	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1}  ]} 	0'
   translated: 
@@ -9762,7 +9762,7 @@
   splits:
   - split: 1
     text: 天山雪莲
-    translated: ''
+    translated: Tianshan Xuelian
 - lineNum: 1395
   raw: 'm59005	山铜	MouseEventBox	Resources_Art/Art3D/Ore/it70106.prefab	Dig	-1340.422, 182.139, -1052.977	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70106", 1}  ]} 	0'
   translated: 
@@ -9776,7 +9776,7 @@
   splits:
   - split: 1
     text: 山铜
-    translated: ''
+    translated: Tin Mountain
 - lineNum: 1397
   raw: 'm59005c	山铜	MouseEventBox	Resources_Art/Art3D/Ore/orichalcum.prefab	Dig	-1120.5, 137.116, -980.123	1, 1, 1	1.5, 1.5, 1.5	0.4166023, 355.7735, 284.2018	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70106", 1}  ]} 	0'
   translated: 
@@ -9895,7 +9895,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 1414
   raw: 'm60004-3	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-297.1194, 66.17503, -993.2764	0.5, 0.89, 0.62	1, 1, 1	0, 0, 0	True	30		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -10189,7 +10189,7 @@
   splits:
   - split: 1
     text: 金不换
-    translated: ''
+    translated: Not worth a penny.
 - lineNum: 1456
   raw: m60027-2	金菊花	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/gear/gear_001_B018.prefab	None	-403.059, 68.466, -1086.996	0.4564497, 0.2695836, 0.2894918	1, 1, 1	270.1154, 60.00131, 0	True	0		0	0	0
   translated: 
@@ -10203,7 +10203,7 @@
   splits:
   - split: 1
     text: 金菊花
-    translated: ''
+    translated: Golden Chrysanthemum
 - lineNum: 1458
   raw: m60027-3	一条根	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/gear/gear_001_B018.prefab	None	-401.778, 68.802, -1086.294	0.4564497, 0.2695836, 0.2894918	1, 1, 1	275.4305, 330.8832, 91.32641	False	0		0	0	0
   translated: 
@@ -10238,14 +10238,14 @@
   splits:
   - split: 1
     text: 大腹皮
-    translated: ''
+    translated: Big belly skin
 - lineNum: 1463
   raw: 'm60027-5-1	大腹皮	MouseEventBox		Survey	-400.166, 68.207, -1086.313	0.4564497, 0.2695836, 0.2894918	1.497009, 0.2162908, 0.2846522	276.2719, 326.8559, 87.66022	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m60027-901000"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 大腹皮
-    translated: ''
+    translated: Big Belly Skin
 - lineNum: 1464
   raw: m60027-6	白芍	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/gear/gear_001_B018.prefab	None	-400.02, 68.457, -1085.12	0.4564497, 0.2695836, 0.2894918	1, 1, 1	270.5815, 179.6756, 241.579	True	0		0	0	0
   translated: 
@@ -10315,7 +10315,7 @@
   splits:
   - split: 1
     text: 鱼篓子
-    translated: ''
+    translated: Basket of Fishes
 - lineNum: 1474
   raw: 'm60033	赤纹原石毛料	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Special/special_021_I.prefab	Pick	-487.225, 62.463, -1120	0.394042, 0.5793301, 0.6933531	1, 1, 1	27.83187, 270, 90	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it80113", 1}  ]} 	0'
   translated: 
@@ -10399,7 +10399,7 @@
   splits:
   - split: 1
     text: 烤肉
-    translated: ''
+    translated: Barbecue or grilled meat.
 - lineNum: 1486
   raw: m60055	椅子	MouseEventBox	Resources_Art/Art3D/C&P/Chair4(removeLOD).prefab	None	-394.79, 63.752, -1047.224	0.53, 0.53, 0.53	1, 1, 1	0, 0, 0	True	0		0	0	0
   translated: 
@@ -10532,7 +10532,7 @@
   splits:
   - split: 1
     text: 挂画
-    translated: ''
+    translated: Wall hanging or scroll painting.
 - lineNum: 1505
   raw: 'm60082	善人宅门口遇李叹	EventBox		None	-677.46, 67.48, -1043.38	1, 1, 1	5.952925, 1, 5.160052	0, 0, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f69006大研鎮漆笑兒告知蘇清瑞事", 0, 0} , { "TimeCondition" : 5, 20}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m6000505"}  ]} 	0'
   translated: 
@@ -10553,14 +10553,14 @@
   splits:
   - split: 1
     text: 枕流醒心瓶
-    translated: ''
+    translated: Dewy Stream Reviving Heart Vial
 - lineNum: 1508
   raw: 'm60084	漱石警心瓶	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_013_F.prefab	None	0, 0, 0	0.664126, 0.663922, 1.360219	1, 1, 1	270, 0, 0	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m6008401000"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 漱石警心瓶
-    translated: ''
+    translated: Natsume Soseki's novel Kokoro
 - lineNum: 1509
   raw: m60085	红梅倚月瓶	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_013_G.prefab	None	0, 0, 0	0.6598896, 0.659687, 1.357171	1, 1, 1	270, 0, 0	True	0		0	0	0
   translated: 
@@ -10574,7 +10574,7 @@
   splits:
   - split: 1
     text: 锦缎观月瓶
-    translated: ''
+    translated: Jinduan Guanyue Ping
 - lineNum: 1511
   raw: 'm60087	刻有溪流图样的木台	MouseEventBox	Resources_Art/Art3D/C&P/table_008_B_resize.prefab	Survey	-695.995, 72.1157, -1010.719	0.415118, 0.4015549, 0.4440015	1.7, 1.7, 1	270, 42.99094, 0	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m6008701000"}  ]} 	0'
   translated: 
@@ -10644,7 +10644,7 @@
   splits:
   - split: 1
     text: 善人府战斗2
-    translated: ''
+    translated: The Battle of Shàn Rén Fǔ 2
 - lineNum: 1521
   raw: 'm60101-1	没杀蛇不让你进俏梦阁后面	EventBox		None	-737.3, 66.86, -1122.36	1, 1, 1	18.03969, 5.856269, 5.787131	0, 356.872, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f61017虞康時歸位", 1, 0}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m6010101000"}  ]} 	0'
   translated: 
@@ -10735,7 +10735,7 @@
   splits:
   - split: 1
     text: 触发青楼里有蛇(大)
-    translated: ''
+    translated: A snake appears in the pleasure house garden.
 - lineNum: 1534
   raw: 'm60111-1	触发青楼里有蛇(小)	EventBox		None	-717.54, 65.93, -1102.42	1, 1, 1	8.558691, 6.521107, 14.14344	0, 11.55208, 0	False	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60024", 0, False} , { "QuestCondition" : "Q60024", 1, False}  ], 0} , { "LogicalNode" : [ { "CheckFlagAction" : "f61026青樓先殺蛇", 1, 0} , { "CheckFlagAction" : "f61026-1叫過有蛇了", 1, 0}  ], 0}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n6014601007"}  ]} 	0'
   translated: 
@@ -10840,7 +10840,7 @@
   splits:
   - split: 1
     text: 铁
-    translated: ''
+    translated: Iron
 - lineNum: 1549
   raw: 'm60122	淘石帮樵夫的木柴	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_007_A.prefab	None	-424.929, 99.773, -1219.85	1.245008, 0.9099061, 0.609988	1, 1, 1	306.3536, 2.880639E-06, 305.6849	False	0		{ "LogicalNode" : [ { "TimeCondition" : 5, 19}  ], 0} 	0	0'
   translated: 
@@ -11050,7 +11050,7 @@
   splits:
   - split: 1
     text: 鸡蛋
-    translated: ''
+    translated: Egg
 - lineNum: 1579
   raw: 'm60151-1	豆沙糕	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_071_B.prefab	Pick	-967.204, 220.0287, -1221.209	1, 1, 1	1, 1, 1	0, 0, 0	False	0		{ "LogicalNode" : [ { "TimeCondition" : 18, 24}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it60103", 1}  ]} 	0'
   translated: 
@@ -11071,7 +11071,7 @@
   splits:
   - split: 1
     text: 天山雪莲
-    translated: ''
+    translated: Snow Lotus of Mount Tian Shan
 - lineNum: 1582
   raw: 'm60152	夹在缝隙里的纸条	MouseEventBox		Survey	-962.136, 225.742, -1216.788	1, 1, 1	0.4745333, 0.5897794, 0.4818068	0, 24.5962, 0	False	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m6015201000"}  ]} 	0'
   translated: 
@@ -11183,7 +11183,7 @@
   splits:
   - split: 1
     text: 接火
-    translated: ''
+    translated: Take the flame.
 - lineNum: 1598
   raw: 'm60155-1	从善人府宝库出来进入战斗	EventBox		None	-705.76, 66.87, -1029.16	1, 1, 1	12.51739, 2.446367, 11.97015	0, 0.3222038, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f61043進過寶庫", 0, 0}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n6000506030"}  ]} 	0'
   translated: 
@@ -11204,7 +11204,7 @@
   splits:
   - split: 1
     text: 虎骨断续胶
-    translated: ''
+    translated: Tiger Bone Joint Oil Drops
 - lineNum: 1601
   raw: 'm60156-3	镇心理气丸	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_013_C.prefab	Pick	-699.748, 68.49515, -1009.207	0.1546657, 0.1507877, 0.2532373	1, 1, 1	270, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40114", 1}  ]} 	0'
   translated: 
@@ -11225,7 +11225,7 @@
   splits:
   - split: 1
     text: 金元宝
-    translated: ''
+    translated: Gold ingot or gold nugget.
 - lineNum: 1604
   raw: 'm60157-1	俏梦阁前黑衣人	EventBox		None	-740.18, 68.31, -1073.3	1, 1, 1	9.19838, 5.776297, 4.471848	0, 0, 0	True	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} , { "LogicalNode" : [ { "CheckFlagAction" : "f61042善人府後進入俏夢閣", 1, 0} , { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 1, 0}  ], 0}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m6017801"}  ]} 	0'
   translated: 
@@ -11281,7 +11281,7 @@
   splits:
   - split: 1
     text: 杉木
-    translated: ''
+    translated: Cedar wood.
 - lineNum: 1612
   raw: 'm60158-05	杂粮酒	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_010_C.prefab	Steal	-691.0645, 68.39613, -1033.164	0.3390134, 0.3477319, 0.4092861	1, 1, 1	270, 0, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True}  ], 1} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it60203", 1}  ]} 	0'
   translated: 
@@ -11302,14 +11302,14 @@
   splits:
   - split: 1
     text: 辣椒
-    translated: ''
+    translated: Chili pepper.
 - lineNum: 1615
   raw: 'm60158-08	通脉散	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_025_A.prefab	Steal	-686.1538, 67.09492, -1022.084	0.07112556, 0.07404442, 0.1673386	1, 1, 1	12.90901, 228.4361, 1.313867E-06	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40104", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 通脉散
-    translated: ''
+    translated: Spleen-Pacifying Decoction
 - lineNum: 1616
   raw: 'm60158-09	解毒丸	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_025_A.prefab	Steal	-710.3721, 72.40591, -1050.568	0.07112556, 0.07404442, 0.1673386	1.6, 1.6, 1.6	270, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40105", 1}  ]} 	0'
   translated: 
@@ -11351,7 +11351,7 @@
   splits:
   - split: 1
     text: 杂粮酒
-    translated: ''
+    translated: Miscellaneous Grain Wine
 - lineNum: 1622
   raw: 'm60159-02	酒渍蜜饯	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_062.prefab	Pick	-740.6608, 67.11993, -1110.847	1, 1, 1	1, 1, 1	270, 0, 0	True	108		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60118", 1}  ]} 	0'
   translated: 
@@ -11449,14 +11449,14 @@
   splits:
   - split: 1
     text: 俏梦阁蓝拂衣（正线）
-    translated: ''
+    translated: Graceful Dream Pavilion Azure Fanrobe (Mainline)
 - lineNum: 1636
   raw: 'm60162-2	俏梦阁蓝拂衣（邪线）	EventBox		None	-741.12, 66.8, -1083.93	1, 1, 1	10.94665, 1.405131, 11.3794	0, 0, 0	False	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60016", 2, True}  ], 0} , { "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 1, 0}  ], 0}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m6010003"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 俏梦阁蓝拂衣（邪线）
-    translated: ''
+    translated: Fae Linfu Yi (Xie Xian) from the Pavilion of Graceful Dreams.
 - lineNum: 1637
   raw: 'm60164-1	不准进矿坑	EventBox		None	-541.63, 121.87, -1292.26	1, 1, 1	7.518993, 5.188128, 2.434976	0, 2.761449, 0	True	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60009_08", 1, False}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m6018701"}  ]} 	0'
   translated: 
@@ -11498,7 +11498,7 @@
   splits:
   - split: 1
     text: 枣木
-    translated: ''
+    translated: Mulberry wood
 - lineNum: 1643
   raw: 'm60166-02	木炭	MouseEventBox		Pick	-485.49, 132.789, -1277.321	1, 1, 1	0.4698638, 1, 0.1856707	2.045143, 19.07872, 16.09925	True	52		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70304", 1}  ]} 	0'
   translated: 
@@ -11582,7 +11582,7 @@
   splits:
   - split: 1
     text: 铁
-    translated: ''
+    translated: Iron
 - lineNum: 1655
   raw: 'm60167-03	铁	MouseEventBox		Pick	-559.674, 114.9647, -1307.781	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70102", 1}  ]} 	0'
   translated: 
@@ -11652,7 +11652,7 @@
   splits:
   - split: 1
     text: 紫金
-    translated: ''
+    translated: Vermilion Gold
 - lineNum: 1665
   raw: 'm60167-13	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-528.1691, 115.2099, -1324.355	1, 1, 1	1, 1, 1	0, 0, 0	True	56		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -11708,7 +11708,7 @@
   splits:
   - split: 1
     text: 淘石帮大战
-    translated: ''
+    translated: Taoshibi Gang vs. Taoshibi Sect
 - lineNum: 1673
   raw: 'm60169-01	丹砂	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_046.prefab	Steal	-410.6229, 73.49843, -1105.771	1, 1, 1	1, 1, 1	270, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70306", 1}  ]} 	0'
   translated: 
@@ -11862,7 +11862,7 @@
   splits:
   - split: 1
     text: 承气饮
-    translated: ''
+    translated: Gentian Decoction
 - lineNum: 1695
   raw: 'm60169-24	散落的吊钱	MouseEventBox		Pick	-347.7304, 71.09048, -1034.479	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "SetMoneyAction" : 32, 0}  ]} 	0'
   translated: 
@@ -11939,7 +11939,7 @@
   splits:
   - split: 1
     text: 混元功
-    translated: ''
+    translated: Primordial Unity Skill
 - lineNum: 1706
   raw: 'm60176	？？？	MouseEventBox		Pick	-330.4841, 74.224, -1023.603	1, 1, 1	0.2396499, 0.5246028, 0.2631026	0, 0, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60038_01", 1, True} , { "QuestCondition" : "Q60038_01", 2, True} , { "CheckFlagAction" : "f61059打怪僧沒接任務", 0, 0}  ], 1} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it30712", 1}  ]} 	0'
   translated: 
@@ -11974,7 +11974,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Root
 - lineNum: 1711
   raw: 'm60177-05	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-793.6139, 108.4066, -1197.528	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -12009,7 +12009,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peach
 - lineNum: 1716
   raw: 'm60177-10	玉蔘	MouseEventBox	Resources_Art/Art3D/Herb/it40204.prefab	Collect	-789.5065, 121.4765, -1156.359	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40204", 1}  ]} 	0'
   translated: 
@@ -12114,7 +12114,7 @@
   splits:
   - split: 1
     text: 左四灯笼
-    translated: ''
+    translated: Left Fourth Lantern Pole
 - lineNum: 1731
   raw: 'm60180-05	左五灯笼	MouseEventBox		Survey	-696.67, 69.07, -1066.68	1, 1, 1	1, 1, 1	0, 0, 0	True	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60049_05", 0, True}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m6018001000"}  ]} 	0'
   translated: 
@@ -12247,14 +12247,14 @@
   splits:
   - split: 1
     text: 杂粮
-    translated: ''
+    translated: Pulse crops.
 - lineNum: 1750
   raw: 'm60203-01	杂粮	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_051_C.prefab	Steal	-40.15941, 126.5479, -1029.38	0.43, 0.79, 0.26	1, 1, 1	0.3209019, 147.0826, 356.5209	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60609", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 杂粮
-    translated: ''
+    translated: Miscellaneous grains.
 - lineNum: 1751
   raw: 'm60203-02	杂粮	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_051_C.prefab	Pick	-19.508, 147.836, -1093.794	0.43, 0.79, 0.26	1, 1, 1	0.3209019, 147.0826, 356.5209	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60609", 1}  ]} 	0'
   translated: 
@@ -12296,7 +12296,7 @@
   splits:
   - split: 1
     text: 野猪诱饵
-    translated: ''
+    translated: Boar baiting lure.
 - lineNum: 1757
   raw: 'm60206-2	野猪诱饵	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_039_J.prefab	None	0, 0, 0	0.8130459, 0.8130462, 0.1083251	1, 1, 1	270, 0, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60029_03", 1, False} , { "QuestCondition" : "Q60029", 2, False}  ], 0} 	0	0'
   translated: 
@@ -12422,14 +12422,14 @@
   splits:
   - split: 1
     text: 鸡蛋
-    translated: ''
+    translated: Eggs
 - lineNum: 1775
   raw: 'm60226-10	鸡蛋	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/nb/nb_009_C.prefab	Pick	-7.054, 126.4775, -1011.365	0.3, 0.3, 0.3	2.432902, 2.432902, 2.432902	270, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60506", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 鸡蛋
-    translated: ''
+    translated: Eggs
 - lineNum: 1776
   raw: 'm60226-2	鸡蛋	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/nb/nb_009_C.prefab	Steal	0.621, 131.924, -1060.701	0.3, 0.3, 0.3	1.843117, 1.151949, 1.244105	342.1974, 327.8946, 64.02065	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60506", 1}  ]} 	0'
   translated: 
@@ -12443,21 +12443,21 @@
   splits:
   - split: 1
     text: 鸡蛋
-    translated: ''
+    translated: Eggs
 - lineNum: 1778
   raw: 'm60226-4	鸡蛋	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/nb/nb_009_C.prefab	Pick	-56.42729, 126.8046, -1005.531	0.3, 0.3, 0.3	2.556213, 2.556213, 2.556213	307.804, 26.5134, 282.7685	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60506", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 鸡蛋
-    translated: ''
+    translated: Egg
 - lineNum: 1779
   raw: 'm60226-5	鸡蛋	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/nb/nb_009_C.prefab	Pick	-64.243, 127.046, -1005.868	0.3, 0.3, 0.3	2.432902, 2.432902, 2.432902	301.4931, 273.334, 52.47363	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60506", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 鸡蛋
-    translated: ''
+    translated: Eggs.
 - lineNum: 1780
   raw: 'm60226-6	鸡蛋	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/nb/nb_009_C.prefab	Pick	-64.214, 127.0453, -1005.974	0.3, 0.3, 0.3	2.217287, 2.217287, 2.217287	311.7515, 193.063, 98.5552	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60506", 1}  ]} 	0'
   translated: 
@@ -12485,7 +12485,7 @@
   splits:
   - split: 1
     text: 小还丹
-    translated: ''
+    translated: Xiaoyan Dan
 - lineNum: 1784
   raw: 'm60227-3	小还丹	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_014.prefab	Steal	-10.522, 131.6287, -1061.935	0.4565045, 0.242843, 0.5806387	1, 1, 1	270, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40101", 1}  ]} 	0'
   translated: 
@@ -12499,14 +12499,14 @@
   splits:
   - split: 1
     text: 承气饮
-    translated: ''
+    translated: Rehmannia Decoction
 - lineNum: 1786
   raw: 'm60228-2	承气饮	MouseEventBox		Steal	40.70741, 132.1732, -1046.546	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40102", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 承气饮
-    translated: ''
+    translated: Decoction of Aconite Pillar and Bupleurum.
 - lineNum: 1787
   raw: 'm60229-1	李子	MouseEventBox	Resources_Art/Art3D/Food/Apple_Red.prefab	Collect	-69.191, 119.816, -952.361	1, 1, 1	0.4245111, 0.4245113, 0.4245113	270, -8.537737E-07, 0	True	72		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60402", 1}  ]} 	0'
   translated: 
@@ -12590,7 +12590,7 @@
   splits:
   - split: 1
     text: 爪印
-    translated: ''
+    translated: Clawprint
 - lineNum: 1799
   raw: 'm60231-5	爪印	MouseEventBox	Resources_Art/Art3D/C&P/April_wish/foot/foot_L.prefab	Survey	22.20001, 130.701, -1004.565	1, 1, 1	0.9978189, 0.9978189, 0.9978189	270, 89.15087, 0	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m6023101002"}  ]} 	0'
   translated: 
@@ -12625,7 +12625,7 @@
   splits:
   - split: 1
     text: 落石机关-落石
-    translated: ''
+    translated: Landmine Trigger - Landslide Mine
 - lineNum: 1804
   raw: 'm60233-2	落石机关-落石	MouseEventBox	Resources_Art/Art3D/C&P/April/Rock04_LOD0 (1)_big.prefab	None	-54.79168, 145.1968, -996.1422	1, 1, 1	2.484023, 2.484024, 2.484029	350.7675, 163.8851, 137.1346	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60029_02", 0, True} , { "QuestCondition" : "Q60029_03", 1, False} , { "CheckFlagAction" : "f62002野豬誘餌", 1, 3}  ], 0} 	0	0'
   translated: 
@@ -12646,14 +12646,14 @@
   splits:
   - split: 1
     text: 落石机关-落石
-    translated: ''
+    translated: Rokushikiguan – Rockfall Trap
 - lineNum: 1807
   raw: 'm60233-5	落石机关-落石	MouseEventBox	Resources_Art/Art3D/C&P/April/Rock04_LOD0 (1)_big.prefab	None	-54.18967, 145.508, -996.8459	1, 1, 1	3.942556, 3.942557, 3.942553	25.35768, 152.691, 72.14407	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60029_02", 0, True} , { "QuestCondition" : "Q60029_03", 1, False} , { "CheckFlagAction" : "f62002野豬誘餌", 1, 3}  ], 0} 	0	0'
   translated: 
   splits:
   - split: 1
     text: 落石机关-落石
-    translated: ''
+    translated: Rock Trap - Rockfall
 - lineNum: 1808
   raw: 'm60233-6	落石机关-落石	MouseEventBox	Resources_Art/Art3D/C&P/April/Rock04_LOD0 (1)_big.prefab	None	-55.60128, 144.7135, -994.9595	1, 1, 1	2.534994, 3.770574, 3.133386	357.0444, 60.93938, 29.75986	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60029_02", 0, True} , { "QuestCondition" : "Q60029_03", 1, False} , { "CheckFlagAction" : "f62002野豬誘餌", 1, 3}  ], 0} 	0	0'
   translated: 
@@ -12751,7 +12751,7 @@
   splits:
   - split: 1
     text: ？？？
-    translated: ''
+    translated: Please provide the text you would like translated from Simplified Chinese to English.
 - lineNum: 1822
   raw: 'm60243	不明信笺	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_021.prefab	Pick	0, 0, 0	0.3231201, 0.4368931, 0.02849538	1, 1, 1	270, 30.14361, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it801007", 1}  ]} 	0'
   translated: 
@@ -12842,7 +12842,7 @@
   splits:
   - split: 1
     text: 枣木
-    translated: ''
+    translated: Jiǎo mù
 - lineNum: 1835
   raw: 'm60251-13	压岁钱袋	MouseEventBox		Steal	41.056, 136.233, -1041.874	1, 1, 1	0.1274913, 0.150351, 0.3628631	0, 4.550033, 0	False	0		0	{ "MultiAction" : [ { "SetBlackboardAction" : "f62038拿了梅小青的壓歲錢", 1, 0} , { "InventoryAction" : 0, "it80316", 1}  ]} 	0'
   translated: 
@@ -12863,7 +12863,7 @@
   splits:
   - split: 1
     text: 杉木
-    translated: ''
+    translated: Cedarwood
 - lineNum: 1838
   raw: 'm60251-3	黑铁(物件)	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Special/special_021_C.prefab	Dig	23.56, 137.18, -1002.4	0.3940424, 0.57933, 0.6426907	0.7810708, 0.7810706, 0.7810706	323.7713, 180, 180	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70103", 1}  ]} 	0'
   translated: 
@@ -12898,7 +12898,7 @@
   splits:
   - split: 1
     text: 警戒猫咪
-    translated: ''
+    translated: Beware of the cat.
 - lineNum: 1843
   raw: 'm60251-8	碎铁块	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Special/special_021_P.prefab	Pick	-55.2, 126.515, -1042.228	1, 1, 1	0.2052309, 0.2052309, 0.5658777	270, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70102", 1}  ]} 	0'
   translated: 
@@ -13024,7 +13024,11 @@
   splits:
   - split: 1
     text: 淘石人箱笼
-    translated: ''
+    translated: >-
+      The phrase 淘石人箱笼 can be translated as:
+
+
+      Baiting Stone People into Traps.
 - lineNum: 1861
   raw: 'm60259-2	淘石人箱笼	MouseEventBox	Resources_Art/Art3D/Ore/woodbox.prefab	Pick	-200.3482, 61.58066, -936.7609	0.72, 0.72, 0.75	1, 1, 1	0, 339.4837, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70106", 1} , { "InventoryAction" : 0, "it70202", 1} , { "InventoryAction" : 0, "it80112", 3}  ]} 	0'
   translated: 
@@ -13297,7 +13301,7 @@
   splits:
   - split: 1
     text: 铁刀木
-    translated: ''
+    translated: Iron Sword Wood
 - lineNum: 1900
   raw: 'm60309-09	？？？	MouseEventBox		Pick	-344.1197, 89.00957, 661.4096	1, 1, 1	0.3221699, 0.3221699, 0.3221699	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70316", 1} , { "PlayAnimationRunnable" : "ml_pickup", 1, 0.00000, 1, "player", Null}  ]} 	0'
   translated: 
@@ -13332,7 +13336,7 @@
   splits:
   - split: 1
     text: 枣木
-    translated: ''
+    translated: Zao mu
 - lineNum: 1905
   raw: 'm60309-14	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-317.599, 90.526, 659.808	1, 1, 1	10, 10, 10	0, 112.9656, 0	True	96		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it50301", 1} , { "SetTalkIdAction" : "m1999700007"}  ]} 	0'
   translated: 
@@ -13360,7 +13364,7 @@
   splits:
   - split: 1
     text: 蝎子
-    translated: ''
+    translated: Scorpion
 - lineNum: 1909
   raw: 'm60309-18	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-333.4937, 90.7686, 658.305	1, 1, 1	10, 10, 10	317.7144, 7.984873, 357.2756	True	96		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it50301", 1} , { "SetTalkIdAction" : "m1999700007"}  ]} 	0'
   translated: 
@@ -13388,7 +13392,7 @@
   splits:
   - split: 1
     text: 蝎子
-    translated: ''
+    translated: Scorpion
 - lineNum: 1913
   raw: 'm60310-1	买家名册	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_019_A.prefab	Pick	-290.324, 89.218, 660.995	0.04341174, 0.1834713, 0.2638718	1, 1, 1	350.7044, 138.4875, 268.3428	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60037_04", 0, True}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it801068", 1} , { 211 } , { "AddExpAction" : 800} , { "LockStuckEscapeAction" : False}  ]} 	0'
   translated: 
@@ -13507,7 +13511,7 @@
   splits:
   - split: 1
     text: 赤心果
-    translated: ''
+    translated: Red Heart Fruit
 - lineNum: 1930
   raw: 'm60402-4	七星拱月	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-374.351, 70.355, 1315.997	1, 1, 1	10, 10, 10	0, 192.2433, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f65027抓到七星拱月", 1, 0}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m6040201014"}  ]} 	0'
   translated: 
@@ -13542,14 +13546,14 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 1935
   raw: 'm60403-05	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-389.0142, 68.44213, 1324.212	1, 1, 1	1, 1, 1	0, 0, 0	True	40		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: San Qi
 - lineNum: 1936
   raw: 'm60403-06	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-389.1823, 68.4354, 1324.764	1, 1, 1	1, 1, 1	0, 0, 0	True	32		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -13640,7 +13644,7 @@
   splits:
   - split: 1
     text: 蜈蚣
-    translated: ''
+    translated: Centipede.
 - lineNum: 1949
   raw: 'm60404-2	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-373.6303, 70.35622, 1318.385	1, 1, 1	10, 10, 10	0, 0, 0	True	96		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it50301", 1} , { "SetTalkIdAction" : "m1999700007"}  ]} 	0'
   translated: 
@@ -13661,7 +13665,7 @@
   splits:
   - split: 1
     text: 遗骸
-    translated: ''
+    translated: Remains or Corpse.
 - lineNum: 1952
   raw: 'm60406-01	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-414.2624, 64.287, 1223.471	1, 1, 1	1, 1, 1	0, 132.1407, 0	True	32		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -13710,7 +13714,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 1959
   raw: 'm60406-08	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-422.69, 62.95, 1210.28	1, 1, 1	1, 1, 1	0, 251.6867, 0	True	36		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -13787,7 +13791,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 1970
   raw: 'm60406-19	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-399.545, 64.1233, 1191.24	1, 1, 1	1, 1, 1	0, 0, 0	True	32		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -13892,7 +13896,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Thirty-seven
 - lineNum: 1985
   raw: 'm60406-34	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-431.2903, 67.827, 1278.462	1, 1, 1	1, 1, 1	0, 0, 0	True	36		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -13927,14 +13931,14 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 1990
   raw: 'm60406-39	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-444.3237, 67.595, 1265.61	1, 1, 1	1, 1, 1	0, 0, 0	True	32		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 1991
   raw: 'm60406-40	黄连	MouseEventBox	Resources_Art/Art3D/Herb/it40207.prefab	Collect	-416.39, 67.349, 1269.75	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40207", 1}  ]} 	0'
   translated: 
@@ -14032,7 +14036,7 @@
   splits:
   - split: 1
     text: 续断
-    translated: ''
+    translated: Interrupted continuation
 - lineNum: 2005
   raw: 'm60406-54	续断	MouseEventBox	Resources_Art/Art3D/Herb/it40208.prefab	Collect	-409.6012, 62.822, 1183.253	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40208", 1}  ]} 	0'
   translated: 
@@ -14144,7 +14148,7 @@
   splits:
   - split: 1
     text: 生生造化丹
-    translated: ''
+    translated: The Elixir of Creation and Transformation
 - lineNum: 2021
   raw: 'm60409-3	药包	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/nb/nb_018_B.prefab	Steal	-410.5304, 65.226, 1218.873	0.06159506, 0.06156218, 0.1069335	1.444496, 1.444496, 1.444496	343.0213, 41.65977, 187.2924	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40105", 3} , { "SetMoneyAction" : 2789, 0}  ]} 	0'
   translated: 
@@ -14228,21 +14232,21 @@
   splits:
   - split: 1
     text: 紫檀木
-    translated: ''
+    translated: Purple sandalwood
 - lineNum: 2033
   raw: 'm60411-4	赤铜	MouseEventBox	Resources_Art/Art3D/Ore/it70104.prefab	Pick	-508.664, 64.537, 1320.6	1, 1, 1	0.6401371, 0.6401371, 0.6401371	0, 47.90527, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f64018開過乞丐寮寶藏", 0, 0}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it70104", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤铜
-    translated: ''
+    translated: Red copper
 - lineNum: 2034
   raw: 'm60411-5	龙晶	MouseEventBox	Resources_Art/Art3D/Ore/it70108.prefab	Pick	-509.0892, 65.302, 1320.322	1, 1, 1	0.8713114, 0.8713114, 0.8713114	0, 0, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f64018開過乞丐寮寶藏", 0, 0}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it70108", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 龙晶
-    translated: ''
+    translated: Long Jing
 - lineNum: 2035
   raw: 'm60412-1	指认江洋大盗-不正确	EventBox		None	-482.12, 64.65077, 1298.48	1, 1, 1	31.14544, 5.900923, 31.91187	0, 312.1242, 0	False	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f64017-12回報結果", 0, 0} , { "CheckTimeBlackboardAction" : "t64017-12回報結果24", False} , { "CheckFlagAction" : "f64015-1接正道任務", 0, 0} , { "CheckFlagAction" : "f64018開過乞丐寮寶藏", 1, 0} , { "QuestCondition" : "Q60028_03", 0, True}  ], 0} , { "LogicalNode" : [ { "CheckFlagAction" : "f64017-8懷疑過王綺年", 0, 0} , { "CheckFlagAction" : "f64017-9懷疑過韓老爹", 0, 0} , { "CheckFlagAction" : "f64017-10懷疑過鼻涕張", 0, 0} , { "CheckFlagAction" : "f64017-7懷疑過南巫", 0, 0}  ], 1}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m6041206a"}  ]} 	0'
   translated: 
@@ -14284,7 +14288,7 @@
   splits:
   - split: 1
     text: 夏游图
-    translated: ''
+    translated: Summer Pastime Pictures
 - lineNum: 2041
   raw: 'm60414-3	秋游图	MouseEventBox		Survey	263.956, 105.061, -142.37	1, 1, 1	1.329916, 0.3035709, 0.2856627	0, 352.8719, 0	True	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60033", 1, True}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m6041401002"}  ]} 	0'
   translated: 
@@ -14494,14 +14498,14 @@
   splits:
   - split: 1
     text: 山铜
-    translated: ''
+    translated: Tin from the mountain.
 - lineNum: 2071
   raw: 'm60504-3	铁	MouseEventBox	Resources_Art/Art3D/Ore/it70102.prefab	Dig	-175.22, 135.4, -172.95	1, 1, 1	2.45628, 2.45628, 2.45628	0, 0, 0	True	36		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70102", 2}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 铁
-    translated: ''
+    translated: Iron.
 - lineNum: 2072
   raw: 'm60504-4	铁	MouseEventBox	Resources_Art/Art3D/Ore/it70102.prefab	Dig	-240.17, 135.344, -169.334	1, 1, 1	2.11649, 2.11649, 2.11649	0, 0, 0	True	36		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70102", 2}  ]} 	0'
   translated: 
@@ -14536,7 +14540,7 @@
   splits:
   - split: 1
     text: 铁
-    translated: ''
+    translated: Iron
 - lineNum: 2077
   raw: 'm60504-9	铜	MouseEventBox	Resources_Art/Art3D/Ore/it70101.prefab	Dig	-138.294, 134.357, -296.143	1, 1, 1	2.176833, 2.176832, 2.176832	308.4682, 125.7621, 278.2012	True	36		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70101", 2}  ]} 	0'
   translated: 
@@ -14550,7 +14554,7 @@
   splits:
   - split: 1
     text: 猴儿酒
-    translated: ''
+    translated: Monkey Wine
 - lineNum: 2079
   raw: 'm60505-02	火龙珠	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_061_B.prefab	Steal	-186.694, 136.739, -145.497	0.03610176, 0.03607977, 0.3346565	1, 1, 1	306.9933, 164.6096, 201.5169	False	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} , { "LogicalNode" : [ { "TimeCondition" : 20, 24} , { "TimeCondition" : 0, 4}  ], 1}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it60124", 1}  ]} 	0'
   translated: 
@@ -14620,7 +14624,7 @@
   splits:
   - split: 1
     text: 暗器
-    translated: ''
+    translated: Hidden weapons or secret weapons.
 - lineNum: 2089
   raw: 'm60505-12	鱼	MouseEventBox		Pick	-219.739, 132.143, -261.485	1, 1, 1	0.5061485, 0.5061485, 0.5061485	0, 0, 0	True	72		{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} , { "LogicalNode" : [ { "TimeCondition" : 20, 24} , { "TimeCondition" : 0, 4}  ], 1}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it60504", 1}  ]} 	0'
   translated: 
@@ -14704,7 +14708,7 @@
   splits:
   - split: 1
     text: 息壤刀
-    translated: ''
+    translated: Dust Blade
 - lineNum: 2101
   raw: 'm60506-8	明水剑	MouseEventBox	Character/All_Accessories/Prefab/ac3a0034.prefab	Pick	-196.78, 131.618, -223.647	1, 1, 1	1, 1, 1	19.98018, 80.90958, 2.660225	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f65008-7開啟過機關", 0, 0}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "eq10308", 1}  ]} 	0'
   translated: 
@@ -14844,7 +14848,7 @@
   splits:
   - split: 1
     text: 废轮
-    translated: ''
+    translated: Destitute wanderer
 - lineNum: 2121
   raw: 'm60512-07	破桶	MouseEventBox	Resources_Art/Art3D/3rdPackage/Ruins Prop Pack/Barrel_Broken2_Foliage.prefab	Pick	901.26, 75.93, 1303.04	1, 1, 1	1, 1, 1	0, 0, 88.60098	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60039", 1, False}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it70201", 2}  ]} 	0'
   translated: 
@@ -14907,7 +14911,7 @@
   splits:
   - split: 1
     text: 短斧
-    translated: ''
+    translated: Short axe
 - lineNum: 2130
   raw: 'm60515-03	开山刀	MouseEventBox	Character/All_Accessories/Prefab/ac3a0037.prefab	Pick	944.776, 84.175, 1323.335	1, 1, 1	1, 1, 1	19.9802, 79.09045, 357.3398	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60039", 1, False}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "eq10405", 1}  ]} 	0'
   translated: 
@@ -14935,7 +14939,7 @@
   splits:
   - split: 1
     text: 旱烟斗
-    translated: ''
+    translated: Dry Pipe Tobacco Holder
 - lineNum: 2134
   raw: 'm60515-07	雪花镔铁刀	MouseEventBox	Character/All_Accessories/Prefab/ac3a0081.prefab	Pick	894.05, 75.98, 1306.43	1, 1, 1	1, 1, 1	19.98018, 80.90958, 354.9381	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60039", 1, False}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "eq10414", 1}  ]} 	0'
   translated: 
@@ -14970,7 +14974,7 @@
   splits:
   - split: 1
     text: 齐眉棍
-    translated: ''
+    translated: Forelock staff.
 - lineNum: 2139
   raw: 'm60515-12	长弓	MouseEventBox	Character/All_Accessories/Prefab/ac3b0031.prefab	Pick	960.696, 83.052, 1350.774	1, 1, 1	1, 1, 1	19.98021, 79.09045, 88.43071	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60039", 1, False}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "eq10801", 1}  ]} 	0'
   translated: 
@@ -14998,7 +15002,7 @@
   splits:
   - split: 1
     text: 杉木
-    translated: ''
+    translated: Cedar wood.
 - lineNum: 2143
   raw: 'm60517-1	快意村主屋整理盒子	EventBox		None	951.1454, 87.65384, 1339.409	1, 1, 1	1, 1, 1	0, 0, 0	True	1		0	{ "MultiAction" : [ { 212 }  ]} 	0'
   translated: 
@@ -15145,7 +15149,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2164
   raw: 'm70005	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-330.02, 85.79, 739.29	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -15187,7 +15191,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2170
   raw: 'm70011	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	46.27, 123.91, 841.57	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -15215,7 +15219,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2174
   raw: 'm70015	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-923.22, 63.5, 333.57	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -15229,21 +15233,21 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2176
   raw: 'm70017	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-718.42, 67.91, 314.29	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2177
   raw: 'm70018	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-561.95, 71.79, 276.96	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Root
 - lineNum: 2178
   raw: 'm70019	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-752.11, 70.48, -0.08	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -15257,14 +15261,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Root
 - lineNum: 2180
   raw: 'm70021	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-1061.6, 72.25, 121.44	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2181
   raw: 'm70022	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-1219.54, 70.27, 32.66	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -15292,14 +15296,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese foxglove or red peony root.
 - lineNum: 2185
   raw: 'm70026	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	341.47, 96.92, -378.05	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese peony
 - lineNum: 2186
   raw: 'm70027	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	317.08, 101.47, -282.05	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -15327,7 +15331,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red Peony Root
 - lineNum: 2190
   raw: 'm70031	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-86.89, 64.02, 309.59	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -15383,7 +15387,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2198
   raw: 'm70039	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	678.71, 92.39, -901.71	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -15404,14 +15408,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2201
   raw: 'm70042	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	376.79, 71.15, -925.54	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2202
   raw: 'm71000	玉蔘	MouseEventBox	Resources_Art/Art3D/Herb/it40204.prefab	Collect	437.78, 65.79, 322.32	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40204", 1}  ]} 	0'
   translated: 
@@ -15747,7 +15751,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Three Sevens
 - lineNum: 2250
   raw: 'm72004	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	119.77, 89.32, 814.38	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -15796,7 +15800,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Sanqī.
 - lineNum: 2257
   raw: 'm72011	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	19.45, 123.32, 855.41	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -15810,14 +15814,14 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Sanqī
 - lineNum: 2259
   raw: 'm72013	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-1032.36, 74.13, 483.14	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: San qi
 - lineNum: 2260
   raw: 'm72014	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-939.37, 68.98, 430.12	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -15873,14 +15877,14 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Elder Brother Three-Seven.
 - lineNum: 2268
   raw: 'm72022	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	306.41, 89.94, -445.66	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Thirty-seven.
 - lineNum: 2269
   raw: 'm72023	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	442.35, 79.57, -98.81	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -15908,14 +15912,14 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Sanqī
 - lineNum: 2273
   raw: 'm72027	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-144.23, 92.86, 127.58	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Sanqī.
 - lineNum: 2274
   raw: 'm72028	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	177.11, 88.66, -163.5	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -15936,7 +15940,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Thirty-seven
 - lineNum: 2277
   raw: 'm72031	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-1270.74, 81.2, 4.45	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -16048,7 +16052,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Sanyi, or Sanqi, also known as Notoginseng or Mountain Ginseng. It is a traditional Chinese medicinal herb used primarily for its purported blood circulation and wound healing properties.
 - lineNum: 2293
   raw: 'm72047	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	491.13, 65.55, -589.21	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -16076,7 +16080,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2297
   raw: 'm73003	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-614.13, 74.01, 537.6	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16146,7 +16150,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2307
   raw: 'm73013	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-1091.77, 63.58, 301.56	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16167,7 +16171,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2310
   raw: 'm73016	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-788.89, 74.15, 327.2	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16202,7 +16206,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2315
   raw: 'm73021	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	412.88, 93.65, -207.63	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16223,7 +16227,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2318
   raw: 'm73025	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-303.36, 82.53, 41.14	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16237,14 +16241,14 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2320
   raw: 'm73027	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-85.2, 87.22, 138.69	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2321
   raw: 'm73030	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-1549.86, 175.79, -62.58	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16265,7 +16269,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2324
   raw: 'm73033	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-1462.73, 101.76, -2.73	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16300,7 +16304,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2329
   raw: 'm73038	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	596.32, 76.9, -597.84	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16314,7 +16318,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2331
   raw: 'm73040	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	628.47, 89.69, -911.47	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16328,7 +16332,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2333
   raw: 'm73042	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	526.8, 93.92, -963.47	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16636,7 +16640,7 @@
   splits:
   - split: 1
     text: 续断
-    translated: ''
+    translated: Continuation of a cut or broken continuity.
 - lineNum: 2377
   raw: 'm75001	续断	MouseEventBox	Resources_Art/Art3D/Herb/it40208.prefab	Collect	40.96, 84.53, 623.69	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40208", 1}  ]} 	0'
   translated: 
@@ -16650,7 +16654,7 @@
   splits:
   - split: 1
     text: 续断
-    translated: ''
+    translated: Continuation of interruption.
 - lineNum: 2379
   raw: 'm75003	续断	MouseEventBox	Resources_Art/Art3D/Herb/it40208.prefab	Collect	-362.4, 103.41, 801.49	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40208", 1}  ]} 	0'
   translated: 
@@ -16713,7 +16717,7 @@
   splits:
   - split: 1
     text: 续断
-    translated: ''
+    translated: Interrupted Continuation or Resumed Interruption depending on the context. If more specific information is provided, a more precise translation can be offered.
 - lineNum: 2388
   raw: 'm75012	续断	MouseEventBox	Resources_Art/Art3D/Herb/it40208.prefab	Collect	-749.32, 64.38, 519.86	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40208", 1}  ]} 	0'
   translated: 
@@ -16986,7 +16990,7 @@
   splits:
   - split: 1
     text: 茯苓
-    translated: ''
+    translated: Poria mushroom
 - lineNum: 2427
   raw: 'm76024	茯苓	MouseEventBox	Resources_Art/Art3D/Herb/it40209.prefab	Collect	-1246.36, 139.46, 282.07	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40209", 1}  ]} 	0'
   translated: 
@@ -17035,7 +17039,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2434
   raw: 'm80002	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-9.274, 184.388, -1293.258	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -17056,14 +17060,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Crimson peony root
 - lineNum: 2437
   raw: 'm80005a	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	52.8, 154.46, -1182.93	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2438
   raw: 'm80006	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-12.4, 127.476, -998.58	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -17091,7 +17095,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2442
   raw: 'm80010	玉蔘	MouseEventBox	Resources_Art/Art3D/Herb/it40204.prefab	Collect	-156.273, 108.751, -1016.589	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40204", 1}  ]} 	0'
   translated: 
@@ -17196,7 +17200,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2457
   raw: 'm80025	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	61.16, 179.127, -1195.99	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -17420,7 +17424,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Rhizome
 - lineNum: 2489
   raw: 'm80057	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	328.7, 62.766, -1009.2	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -17469,7 +17473,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2496
   raw: 'm80064	黄连	MouseEventBox	Resources_Art/Art3D/Herb/it40207.prefab	Collect	293.2348, 82.98, -1226.89	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40207", 1}  ]} 	0'
   translated: 
@@ -17504,14 +17508,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red Peony Root
 - lineNum: 2501
   raw: 'm80069	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-244.735, 64.009, -910.382	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese foxglove; also known as red peony root.
 - lineNum: 2502
   raw: 'm80070	黄连	MouseEventBox	Resources_Art/Art3D/Herb/it40207.prefab	Collect	211.45, 119.18, -1272.61	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40207", 1}  ]} 	0'
   translated: 
@@ -17532,7 +17536,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2505
   raw: 'm80073	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	167.83, 110.1, -1227.3	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -17609,7 +17613,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2516
   raw: 'm80084	玉蔘	MouseEventBox	Resources_Art/Art3D/Herb/it40204.prefab	Collect	209, 117.519, -1269.51	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40204", 1}  ]} 	0'
   translated: 
@@ -17672,7 +17676,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Root
 - lineNum: 2525
   raw: 'm80093	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-141.81, 82.859, -840.5	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -17693,7 +17697,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2528
   raw: 'm80096	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-84.3, 78.69, -824.9	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -17784,7 +17788,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2541
   raw: 'm80109	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-434.66, 68.065, -1102.546	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -17854,7 +17858,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2551
   raw: 'm80119	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-272.448, 65.664, -974.992	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -17882,7 +17886,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Thirty-seven
 - lineNum: 2555
   raw: 'm80123	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-582.0175, 66.163, -1148.26	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -17910,7 +17914,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: San qi
 - lineNum: 2559
   raw: 'm80127	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-180.701, 111.71, -982.5	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -17959,14 +17963,14 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2566
   raw: 'm80134	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-234.4, 100.14, -1141.95	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2567
   raw: 'm80135	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-500.43, 137.62, -1290.23	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -17987,7 +17991,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuanxiong
 - lineNum: 2570
   raw: 'm80138	黄连	MouseEventBox	Resources_Art/Art3D/Herb/it40207.prefab	Collect	-353.99, 66.992, -1149.411	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40207", 1}  ]} 	0'
   translated: 
@@ -18176,7 +18180,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2597
   raw: 'm80165	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-398.772, 65.10009, -876.2588	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -18197,14 +18201,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2600
   raw: 'm80168	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-736.5, 66.122, -983.902	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese peony root
 - lineNum: 2601
   raw: 'm80169	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-399.6775, 68.663, -837.13	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -18225,7 +18229,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Root Bark
 - lineNum: 2604
   raw: 'm80172	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-358.61, 68.59, -824.8	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -18288,35 +18292,35 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2613
   raw: 'm80182	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-250.2, 72.011, -728.1	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2614
   raw: 'm80183	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-820.5965, 65.991, -1007.049	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuan Xiong
 - lineNum: 2615
   raw: 'm80184	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-195.08, 72.261, -669.4	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese peony root.
 - lineNum: 2616
   raw: 'm80185	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-107.95, 70.439, -687.97	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Cinnabar Root
 - lineNum: 2617
   raw: 'm80186	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-204.46, 82.931, -565.78	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -18407,7 +18411,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Rhizome
 - lineNum: 2630
   raw: 'm80201	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	46.4, 91.497, -462.5623	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -18442,7 +18446,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2635
   raw: 'm80206	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	119.68, 93.28, -419.75	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -18463,7 +18467,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2638
   raw: 'm80209	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	87, 97.766, -266.92	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -18743,7 +18747,7 @@
   splits:
   - split: 1
     text: 传功石
-    translated: ''
+    translated: Meditation stone
 - lineNum: 2678
   raw: m80250	骆冰石	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_071_A.prefab	None	162.525, 94.995, -788.445	1, 1, 1	4.33814, 4.338144, 4.338144	0, 182.674, 0	False	0		0	0	0
   translated: 
@@ -19100,7 +19104,7 @@
   splits:
   - split: 1
     text: 小玉佛
-    translated: ''
+    translated: Little Jade Buddha
 - lineNum: 2729
   raw: m80306		MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_019_K.prefab	None	-217.967, 104.37, -984.421	1, 1, 1	1, 1, 1	271.8209, -0.0002149494, 28.28269	False	0		0	0	0
   translated: 
@@ -19275,7 +19279,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2754
   raw: 'm80333	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	30.4952, 111.73, -326.07	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19296,7 +19300,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony
 - lineNum: 2757
   raw: 'm80336	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-17.7, 126.09, -346.35	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19317,14 +19321,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Crimson peony seedling.
 - lineNum: 2760
   raw: 'm80339	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-30.63, 132.12, -235.38	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese peony root; known in traditional Chinese medicine as Chi Shao.
 - lineNum: 2761
   raw: 'm80340	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-92.12, 136.833, -216.5674	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19387,14 +19391,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Coptis Root
 - lineNum: 2770
   raw: 'm80349	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-190.2258, 128.482, -230.5411	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2771
   raw: 'm80350	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-212.5775, 146.771, -254.874	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19408,7 +19412,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red Peony Root
 - lineNum: 2773
   raw: 'm80352	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-228.66, 148.6, -280.97	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19436,14 +19440,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Root
 - lineNum: 2777
   raw: 'm80356	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-284.8325, 148.569, -219.5989	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2778
   raw: 'm80357	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-295.95, 148.688, -183.97	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19457,7 +19461,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Crimson peony root.
 - lineNum: 2780
   raw: 'm80359	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-369.3, 97.1, -220.72	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19471,7 +19475,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2782
   raw: 'm80361	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-225.91, 147.592, -141.7	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19492,7 +19496,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Root
 - lineNum: 2785
   raw: 'm80364	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-224.51, 115.68, -34.85183	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19569,7 +19573,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2796
   raw: 'm80375	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-527.44, 66.01, -809.22	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19583,14 +19587,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2798
   raw: 'm80377	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-592.966, 65.913, -843.483	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2799
   raw: 'm80378	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-449.8066, 73.74464, -737.5	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19604,7 +19608,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2801
   raw: 'm80380	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-410.28, 73.878, -737.3685	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19632,7 +19636,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese foxglove or scarlet peony root.
 - lineNum: 2805
   raw: 'm80384	玉蔘	MouseEventBox	Resources_Art/Art3D/Herb/it40204.prefab	Collect	-599.4193, 98.777, -759.249	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40204", 1}  ]} 	0'
   translated: 
@@ -19800,7 +19804,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: ''
+    translated: Seven three.
 - lineNum: 2829
   raw: 'm80408	神秘的箱子	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_046.prefab	Survey	106.331, 142.987, -1216.368	1, 1, 1	1.633422, 1.633422, 1.633422	272.1657, 239.6177, 179.6679	False	0		0	{ "MultiAction" : [ { "SetMoneyAction" : 3000, 0} , { "InventoryAction" : 0, "it40210", 1} , { "InventoryAction" : 0, "it40211", 1} , { "SetBlackboardAction" : "A_Story0008", 1, 0} , { "InventoryAction" : 0, "it801102", 1}  ]} 	0'
   translated: 
@@ -19814,7 +19818,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2831
   raw: 'm80410	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	190.04, 83.727, -525.8409	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19835,7 +19839,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2834
   raw: 'm80413	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	270.458, 73.553, -562.41	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19905,7 +19909,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Chinese Peony Rhizome
 - lineNum: 2844
   raw: 'm80423	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	282.9, 92.298, -221.4316	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19919,7 +19923,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2846
   raw: 'm80425	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	263.03, 91.779, -253.66	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19933,14 +19937,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2848
   raw: 'm80427	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	404.14, 88.53, -136.41	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root.
 - lineNum: 2849
   raw: 'm80428	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	373.075, 87.652, -148.176	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 

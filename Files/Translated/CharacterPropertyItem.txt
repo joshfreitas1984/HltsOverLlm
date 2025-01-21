@@ -1390,7 +1390,7 @@
   splits:
   - split: 5
     text: 石家庄钓客（豆花嫂丈夫）
-    translated: ''
+    translated: Shijiazhuang Angler (Douhua Sister's Husband)
 - lineNum: 199
   raw: n10020	25	fm00000	a00001		石家庄盐帮小头目(沾衣十八跌)（静）	ta0072	st0051b		0	ai00000	(MajorWeapon,eq10103)(Cloth,eq20102)	0	(HP,3366)(MaxHP,3366)(MP,1882)(MaxMP,1882)(Physique,52)(Intelligence,50)(Neigong,48)(Qinggong,38)(Fight,60)(Sword,35)(Blade,35)(Spear,35)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-50)	(it40101,1)(it40102,1)	0,0	0
   translated: 
@@ -1425,14 +1425,14 @@
   splits:
   - split: 5
     text: 凶恶的大虫（刚）
-    translated: ''
+    translated: Fierce Giant Beast (Gāng)
 - lineNum: 204
   raw: n10027a	10	fm00000	a00001		石家庄豆花铺伙计（可交易）	ta0050	st0054		0	ai00000		0	(HP,1062)(MaxHP,1062)(MP,725)(MaxMP,725)(Physique,35)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,3000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60146,10)	0,0	2
   translated: 
   splits:
   - split: 5
     text: 石家庄豆花铺伙计（可交易）
-    translated: ''
+    translated: Shijiazhuang Tofu Shop Helper (Tradable)
 - lineNum: 205
   raw: n10028	20	fm00000	a00001		盐帮帮众劳斯嵇	ta0052	st0089b		0	ai00000	(MajorWeapon,eq10420)	0	(HP,2377)(MaxHP,2377)(MP,1515)(MaxMP,1515)(Physique,43)(Intelligence,50)(Neigong,50)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,3000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80322,1)	0,0	0
   translated: 
@@ -1586,7 +1586,7 @@
   splits:
   - split: 5
     text: 毒阎罗李硅（千蛛万毒功）
-    translated: ''
+    translated: Poison Demon King Li Gui (Qiuzhuwandugu Gong)
 - lineNum: 227
   raw: n10055d	30	fm00000	a00001		翻江棍曹应(一十八路豹变枪)	ta0065	st0092		202	ai00000	(MajorWeapon,eq10502)(Cloth,eq20102)	0	(HP,4440)(MaxHP,4440)(MP,2278)(MaxMP,2278)(Physique,59)(Intelligence,50)(Neigong,51)(Qinggong,54)(Fight,40)(Sword,40)(Blade,40)(Spear,70)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it40101,1)(it40102,1)	-1,-1	0
   translated: 
@@ -2034,7 +2034,7 @@
   splits:
   - split: 5
     text: 大研步玺守（我方）柔拳
-    translated: ''
+    translated: Master of the Great Seal (Our Side) Gentle Fist Technique
 - lineNum: 291
   raw: n10083c	15	fm00000	a00001		大研米麒麟做生意	ta0067	st0052b		0	ai00000		0	(HP,1965)(MaxHP,1965)(MP,1088)(MaxMP,1088)(Physique,50)(Intelligence,50)(Neigong,30)(Qinggong,23)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,2000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60128,10)(it60125,10)	0,0	1
   translated: 
@@ -2104,7 +2104,7 @@
   splits:
   - split: 5
     text: 李小妹
-    translated: ''
+    translated: Li Xiaomei
 - lineNum: 301
   raw: n10088a	33	fm00000	a00001		寻宝任务守关者	ta0042	st0113c,st0088b,st0135,st0999		0	ai00000	(MajorWeapon,eq10905)(Cloth,eq20102)	0	(HP,3762)(MaxHP,3762)(MP,2564)(MaxMP,2564)(Physique,40)(Intelligence,50)(Neigong,59)(Qinggong,73)(Fight,43)(Sword,43)(Blade,43)(Spear,43)(Arrow,43)(Short,76)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,-75)		-1,-1	0
   translated: 
@@ -4036,7 +4036,7 @@
   splits:
   - split: 5
     text: 柯比（大研镇铁匠）
-    translated: ''
+    translated: Kébǐ (Da Yánzhèn blacksmith)
 - lineNum: 577
   raw: n20244	10	fm00000	a00001		大研镇武器铺		st0064		0	ai00000		0	(HP,896)(MaxHP,896)(MP,714)(MaxMP,714)(Physique,23)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,9000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(eq10102,3)(eq10104,3)(eq10303,3)(eq10305,3)(eq10326,3)(eq10327,3)(eq10403,3)(eq10406,3)(eq10420,3)(eq10421,3)(eq10501,3)(eq10502,3)(eq10520,3)(eq10702,3)(eq10705,3)(eq10706,3)(eq10801,3)(eq10812,3)(eq10902,3)(eq10917,3)(eq11102,3)(eq20102,3)(eq20107,3)(it80139,1)	0,0	6
   translated: 
@@ -6913,7 +6913,7 @@
   splits:
   - split: 5
     text: 熊
-    translated: ''
+    translated: Bear
 - lineNum: 988
   raw: n21121	33	fm00000	al20008		熊	ta0077c	st0030		109	ai00000		0	(HP,7227)(MaxHP,7227)(MP,2737)(MaxMP,2737)(Physique,90)(Intelligence,50)(Neigong,80)(Qinggong,28)(Fight,40)(Sword,70)(Blade,70)(Spear,60)(Arrow,70)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -9047,7 +9047,7 @@
   splits:
   - split: 5
     text: 尼姑（绵掌）
-    translated: ''
+    translated: Nun (Mian Zha)
 - lineNum: 1291
   raw: n40090	55	fm00000	al20011		白狼	ta0075	st0016c		103	ai00000		0	(HP,15125)(MaxHP,15125)(MP,4281)(MaxMP,4281)(Physique,110)(Intelligence,50)(Neigong,60)(Qinggong,80)(Fight,70)(Sword,20)(Blade,30)(Spear,60)(Arrow,60)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70413,1)(it40229,1)	-1,-1	0
   translated: 
@@ -9845,63 +9845,63 @@
   splits:
   - split: 5
     text: 黑衣人（大手印）
-    translated: ''
+    translated: The Cloaked Figure (Big Palm Print)
 - lineNum: 1405
   raw: n52005b	21	fm00000	a00001		黑衣人（大手印）	ta0052	st0103b,st0162		204	ai00000		0	(HP,2985)(MaxHP,2985)(MP,1553)(MaxMP,1553)(Physique,56)(Intelligence,50)(Neigong,40)(Qinggong,36)(Fight,52)(Sword,31)(Blade,31)(Spear,31)(Arrow,31)(Short,31)(Doctor,30)(Poison,7)(Money,100)(Madness,-20)(Moral,20)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 黑衣人（大手印）
-    translated: ''
+    translated: Cloaked Figure (Great Hand Seal)
 - lineNum: 1406
   raw: n52005c	20	fm00000	a00001		黑衣人（大手印）	ta0052	st0103b,st0162		204	ai00000		0	(HP,2881)(MaxHP,2881)(MP,1473)(MaxMP,1473)(Physique,57)(Intelligence,50)(Neigong,38)(Qinggong,34)(Fight,50)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,32)(Poison,1)(Money,100)(Madness,-20)(Moral,20)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 黑衣人（大手印）
-    translated: ''
+    translated: Cloaked Figure (Big Palm Print)
 - lineNum: 1407
   raw: n52005d	21	fm00000	a00001		黑衣人（大手印）	ta0052	st0103b,st0162		204	ai00000		0	(HP,2945)(MaxHP,2945)(MP,1553)(MaxMP,1553)(Physique,55)(Intelligence,50)(Neigong,40)(Qinggong,36)(Fight,52)(Sword,31)(Blade,31)(Spear,31)(Arrow,31)(Short,31)(Doctor,35)(Poison,6)(Money,100)(Madness,-20)(Moral,20)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 黑衣人（大手印）
-    translated: ''
+    translated: Dark-Cloaked Person (Great Hand Seal)
 - lineNum: 1408
   raw: n52005e	25	fm00000	a00001		黑衣人（大手印）	ta0052	st0103b,st0162		204	ai00000		0	(HP,3554)(MaxHP,3554)(MP,1882)(MaxMP,1882)(Physique,56)(Intelligence,50)(Neigong,48)(Qinggong,43)(Fight,60)(Sword,35)(Blade,35)(Spear,35)(Arrow,35)(Short,35)(Doctor,44)(Poison,5)(Money,100)(Madness,-20)(Moral,20)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 黑衣人（大手印）
-    translated: ''
+    translated: The Dark-Clothed Person (Great Hand Seal)
 - lineNum: 1409
   raw: n52006a	27	fm00000	a00001		精锐黑衣人（阎王帖）	ta0064	st0113b		204	ai00000	(MajorWeapon,eq10917)	1	(HP,3210)(MaxHP,3210)(MP,2052)(MaxMP,2052)(Physique,43)(Intelligence,50)(Neigong,51)(Qinggong,51)(Fight,37)(Sword,37)(Blade,37)(Spear,37)(Arrow,37)(Short,64)(Doctor,12)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 精锐黑衣人（阎王帖）
-    translated: ''
+    translated: Elite Black-Clothed Men (Yama's Edict)
 - lineNum: 1410
   raw: n52006b	22	fm00000	a00001		精锐黑衣人（阴风刀）	ta0064	st0114b		204	ai00000	(MajorWeapon,eq10403)	1	(HP,2579)(MaxHP,2579)(MP,1634)(MaxMP,1634)(Physique,42)(Intelligence,50)(Neigong,42)(Qinggong,42)(Fight,32)(Sword,32)(Blade,54)(Spear,32)(Arrow,32)(Short,32)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 精锐黑衣人（阴风刀）
-    translated: ''
+    translated: Elite Shadow Figures (Shadow Wind Blade)
 - lineNum: 1411
   raw: n52006c	27	fm00000	a00001		精锐黑衣人（追魂七破）	ta0056	st0115b		204	ai00000	(MajorWeapon,eq10706)	1	(HP,3165)(MaxHP,3165)(MP,2052)(MaxMP,2052)(Physique,42)(Intelligence,50)(Neigong,51)(Qinggong,51)(Fight,37)(Sword,37)(Blade,37)(Spear,37)(Arrow,64)(Short,37)(Doctor,16)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 精锐黑衣人（追魂七破）
-    translated: ''
+    translated: Elite Shadow Dancer (Pursuing the Soul Seven Breakthrough)
 - lineNum: 1412
   raw: n52006d	22	fm00000	a00001		精锐黑衣人（大手印）	ta0052	st0103b,st0162		204	ai00000	(MajorWeapon,eq10103)	1	(HP,3212)(MaxHP,3212)(MP,1634)(MaxMP,1634)(Physique,58)(Intelligence,50)(Neigong,42)(Qinggong,37)(Fight,54)(Sword,32)(Blade,32)(Spear,32)(Arrow,32)(Short,32)(Doctor,35)(Poison,5)(Money,100)(Madness,-20)(Moral,20)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 精锐黑衣人（大手印）
-    translated: ''
+    translated: Elite Shadow Warriors (Great Palm Seal)
 - lineNum: 1413
   raw: n52007	12	fm00000	a00001		猎犬	ta0075b	st0016		103	ai00000		0	(HP,1446)(MaxHP,1446)(MP,841)(MaxMP,841)(Physique,44)(Intelligence,50)(Neigong,0)(Qinggong,60)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -9915,28 +9915,28 @@
   splits:
   - split: 5
     text: 可疑份子（阎王帖）
-    translated: ''
+    translated: Suspected Individual (Death List of Yama)
 - lineNum: 1415
   raw: n52008b	24	fm00000	a00001		可疑份子（阎王帖）	ta0064	st0113b		204	ai00000	(MajorWeapon,eq10917)	0	(HP,2893)(MaxHP,2893)(MP,1798)(MaxMP,1798)(Physique,44)(Intelligence,50)(Neigong,46)(Qinggong,46)(Fight,34)(Sword,34)(Blade,34)(Spear,34)(Arrow,34)(Short,58)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 可疑份子（阎王帖）
-    translated: ''
+    translated: Suspicious Individual (Yan Wang Tie)
 - lineNum: 1416
   raw: n52008c	20	fm00000	a00001		可疑份子（大手印）	ta0052	st0103b,st0162		204	ai00000	(MajorWeapon,eq10103)	0	(HP,2805)(MaxHP,2805)(MP,1473)(MaxMP,1473)(Physique,55)(Intelligence,50)(Neigong,38)(Qinggong,34)(Fight,50)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,35)(Poison,5)(Money,100)(Madness,-20)(Moral,20)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 可疑份子（大手印）
-    translated: ''
+    translated: Suspicious Person (Big Palm Print)
 - lineNum: 1417
   raw: n52008d	22	fm00000	a00001		可疑份子（大手印）	ta0052	st0103b,st0162		204	ai00000	(MajorWeapon,eq10103)	0	(HP,3127)(MaxHP,3127)(MP,1634)(MaxMP,1634)(Physique,56)(Intelligence,50)(Neigong,42)(Qinggong,37)(Fight,54)(Sword,32)(Blade,32)(Spear,32)(Arrow,32)(Short,32)(Doctor,35)(Poison,5)(Money,100)(Madness,-20)(Moral,20)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 可疑份子（大手印）
-    translated: ''
+    translated: Suspicious Person (Large Handprint)
 - lineNum: 1418
   raw: n52009	32	fm00000	n52009	nick129	受伤的女子(戚如潇)(阎王帖、追魂七破)	ta0091c	st0113b,st0115b,st0999		204	ai00000	(MajorWeapon,eq10706)(MinorWeapon,eq10905)(Cloth,eq20103)(Jewelry,eq20201)	0	(HP,1824)(MaxHP,3648)(MP,521)(MaxMP,2496)(Physique,40)(Intelligence,50)(Neigong,61)(Qinggong,77)(Fight,42)(Sword,42)(Blade,42)(Spear,42)(Arrow,74)(Short,42)(Doctor,25)(Poison,35)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-100)	(it40108,1)(it40110,2)	0,0	0
   translated: 
@@ -9957,21 +9957,21 @@
   splits:
   - split: 5
     text: 精锐黑衣人（阎王帖）
-    translated: ''
+    translated: Elite Black-Clothed Person (Yan Wang Tie)
 - lineNum: 1421
   raw: n52010b	22	fm00000	a00001		精锐黑衣人（阴风刀）	ta0064	st0114b		204	ai00000	(MajorWeapon,eq10403)	1	(HP,2652)(MaxHP,2652)(MP,1634)(MaxMP,1634)(Physique,44)(Intelligence,50)(Neigong,42)(Qinggong,42)(Fight,32)(Sword,32)(Blade,54)(Spear,32)(Arrow,32)(Short,32)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 精锐黑衣人（阴风刀）
-    translated: ''
+    translated: Elite Shadow Figures (Yin Feng Dao)
 - lineNum: 1422
   raw: n52010c	22	fm00000	a00001		精锐黑衣人（阴风刀）	ta0064	st0114b		204	ai00000	(MajorWeapon,eq10403)	1	(HP,2579)(MaxHP,2579)(MP,1634)(MaxMP,1634)(Physique,42)(Intelligence,50)(Neigong,42)(Qinggong,42)(Fight,32)(Sword,32)(Blade,54)(Spear,32)(Arrow,32)(Short,32)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 精锐黑衣人（阴风刀）
-    translated: ''
+    translated: Elite Black-Cloaked Assassin (Yin Wind Blade)
 - lineNum: 1423
   raw: n52011a	22	fm00000	a00001		木府卫兵(三朵神枪、玉龙拳谱)(刚)	ta0052	st0067b,st0069b		203	ai00000	(MajorWeapon,eq10502)(Cloth,eq20103)	1	(HP,2921)(MaxHP,2921)(MP,1619)(MaxMP,1619)(Physique,51)(Intelligence,50)(Neigong,37)(Qinggong,37)(Fight,44)(Sword,32)(Blade,32)(Spear,54)(Arrow,32)(Short,32)(Doctor,10)(Poison,10)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
@@ -10237,21 +10237,21 @@
   splits:
   - split: 5
     text: 精锐黑衣人（阴风刀）
-    translated: ''
+    translated: Elite Shadow Dancers (Shadow Sword)
 - lineNum: 1461
   raw: n52021c-2	26	fm00000	a00001		精锐黑衣人（阴风刀）	ta0064	st0114b		204	ai00000	(MajorWeapon,eq10403)	1	(HP,3178)(MaxHP,3178)(MP,1966)(MaxMP,1966)(Physique,45)(Intelligence,50)(Neigong,49)(Qinggong,49)(Fight,36)(Sword,36)(Blade,62)(Spear,36)(Arrow,36)(Short,36)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 精锐黑衣人（阴风刀）
-    translated: ''
+    translated: Elite Shadow Assassins (Yin Feng Dao)
 - lineNum: 1462
   raw: n52021c-3	24	fm00000	a00001		精锐黑衣人（阴风刀）	ta0064	st0114b		204	ai00000	(MajorWeapon,eq10403)	1	(HP,2893)(MaxHP,2893)(MP,1798)(MaxMP,1798)(Physique,44)(Intelligence,50)(Neigong,46)(Qinggong,46)(Fight,34)(Sword,34)(Blade,58)(Spear,34)(Arrow,34)(Short,34)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 精锐黑衣人（阴风刀）
-    translated: ''
+    translated: Elite Shadow Dancer (Shadow Blade)
 - lineNum: 1463
   raw: n52025	20	fm00000	a00001		鹰猎人阿季(飞鹰箭诀、狩猎弓术)(刚)	ta0052	st0068c,st0005	st0069a	0	ai00000	(MajorWeapon,eq10801)(Cloth,eq20102)(Jewelry,eq20222)	1	(HP,2920)(MaxHP,2920)(MP,1461)(MaxMP,1461)(Physique,58)(Intelligence,50)(Neigong,34)(Qinggong,36)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
@@ -16733,7 +16733,7 @@
   splits:
   - split: 5
     text: 野熊
-    translated: ''
+    translated: Grizzly Bear
 - lineNum: 2389
   raw: n59004_032	40	fm00000	al20008		野熊	ta0077b	st0030		109	ai00000		0	(HP,10410)(MaxHP,10410)(MP,3318)(MaxMP,3318)(Physique,105)(Intelligence,50)(Neigong,80)(Qinggong,20)(Fight,50)(Sword,80)(Blade,80)(Spear,70)(Arrow,80)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40226,1)(it60511,1)(it70406,1)	36,48	1
   translated: 
@@ -18693,7 +18693,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Cougar
 - lineNum: 2669
   raw: n59007_Y14	34	fm00000	al20010		花豹	ta0080b	st0034		105	ai00000		0	(HP,5100)(MaxHP,5100)(MP,2646)(MaxMP,2646)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -18756,7 +18756,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Cheetah
 - lineNum: 2678
   raw: n59007_Y23	38	fm00000	al20010		花豹	ta0080b	st0034		105	ai00000		0	(HP,5700)(MaxHP,5700)(MP,2957)(MaxMP,2957)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -18805,7 +18805,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Flower Leopard
 - lineNum: 2685
   raw: n59007_Y30	38	fm00000	al20010		花豹	ta0080b	st0034		105	ai00000		0	(HP,5700)(MaxHP,5700)(MP,2957)(MaxMP,2957)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -18840,7 +18840,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Leopard Flower
 - lineNum: 2690
   raw: n59007_Y35	40	fm00000	al20010		花豹	ta0080b	st0034		105	ai00000		0	(HP,6000)(MaxHP,6000)(MP,3113)(MaxMP,3113)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -18959,7 +18959,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Jaguar Flower
 - lineNum: 2707
   raw: n59007_Y52	32	fm00000	al20010		花豹	ta0080c	st0034		105	ai00000		0	(HP,4800)(MaxHP,4800)(MP,2490)(MaxMP,2490)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -18980,7 +18980,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Leopard flower
 - lineNum: 2710
   raw: n59007_Y55	35	fm00000	al20010		花豹	ta0080c	st0034		105	ai00000		0	(HP,5250)(MaxHP,5250)(MP,2724)(MaxMP,2724)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -19043,7 +19043,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Flower Leopard
 - lineNum: 2719
   raw: n59007_Y64	44	fm00000	al20010		花豹	ta0080c	st0034		105	ai00000		0	(HP,6600)(MaxHP,6600)(MP,3424)(MaxMP,3424)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -19057,7 +19057,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Leopard flower
 - lineNum: 2721
   raw: n59007_Y66	41	fm00000	al20010		花豹	ta0080c	st0034		105	ai00000		0	(HP,6150)(MaxHP,6150)(MP,3191)(MaxMP,3191)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -19071,7 +19071,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Leopard Flower
 - lineNum: 2723
   raw: n59007_Y68	43	fm00000	al20010		花豹	ta0080c	st0034		105	ai00000		0	(HP,6450)(MaxHP,6450)(MP,3347)(MaxMP,3347)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -19092,7 +19092,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Leopard Cat
 - lineNum: 2726
   raw: n59007_Y71	41	fm00000	al20010		花豹	ta0080c	st0034		105	ai00000		0	(HP,6150)(MaxHP,6150)(MP,3191)(MaxMP,3191)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -19197,7 +19197,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Flower Panther
 - lineNum: 2741
   raw: n59007_Y86	46	fm00000	al20010		花豹	ta0080c	st0034		105	ai00000		0	(HP,6900)(MaxHP,6900)(MP,3580)(MaxMP,3580)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -19260,14 +19260,14 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Leopard Cat
 - lineNum: 2750
   raw: n59007_Y95	50	fm00000	al20010		花豹	ta0080c	st0034		105	ai00000		0	(HP,7500)(MaxHP,7500)(MP,3892)(MaxMP,3892)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Leopard Lily
 - lineNum: 2751
   raw: n59007_Y96	26	fm00000	al20010		花豹	ta0080c	st0034		105	ai00000		0	(HP,3900)(MaxHP,3900)(MP,2023)(MaxMP,2023)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,60)(Sword,70)(Blade,50)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60512,1)(it70604,1)	24,36	1
   translated: 
@@ -19295,7 +19295,7 @@
   splits:
   - split: 5
     text: 花豹
-    translated: ''
+    translated: Leopard
 - lineNum: 2755
   raw: n59008	45	fm00000	al20001	nick543	菩斯曲蛇 巨木	ta0002	st0028b		106	ai00000		0	(HP,11070)(MaxHP,11070)(MP,3610)(MaxMP,3610)(Physique,100)(Intelligence,50)(Neigong,70)(Qinggong,70)(Fight,60)(Sword,40)(Blade,50)(Spear,50)(Arrow,30)(Short,40)(Doctor,10)(Poison,80)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50309,1)(it60507,2)(it40224,1)	-1,-1	1
   translated: 
@@ -19344,14 +19344,14 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Anaconda
 - lineNum: 2762
   raw: n59008_a02	10	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1140)(MaxHP,1140)(MP,725)(MaxMP,725)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake.
 - lineNum: 2763
   raw: n59008_a03	10	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1140)(MaxHP,1140)(MP,725)(MaxMP,725)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19372,7 +19372,7 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Anaconda
 - lineNum: 2766
   raw: n59008_a06	10	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1140)(MaxHP,1140)(MP,725)(MaxMP,725)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19393,7 +19393,7 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake
 - lineNum: 2769
   raw: n59008_a09	10	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1140)(MaxHP,1140)(MP,725)(MaxMP,725)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19442,14 +19442,14 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake
 - lineNum: 2776
   raw: n59008_a16	6	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,684)(MaxHP,684)(MP,435)(MaxMP,435)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake.
 - lineNum: 2777
   raw: n59008_a17	7	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,798)(MaxHP,798)(MP,507)(MaxMP,507)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19491,7 +19491,7 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake
 - lineNum: 2783
   raw: n59008_a23	10	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1140)(MaxHP,1140)(MP,725)(MaxMP,725)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19533,7 +19533,7 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake.
 - lineNum: 2789
   raw: n59008_a29	10	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1140)(MaxHP,1140)(MP,725)(MaxMP,725)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19554,14 +19554,14 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake
 - lineNum: 2792
   raw: n59008_a32	12	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1368)(MaxHP,1368)(MP,870)(MaxMP,870)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Anaconda
 - lineNum: 2793
   raw: n59008_a33	13	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1482)(MaxHP,1482)(MP,943)(MaxMP,943)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19582,7 +19582,7 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake.
 - lineNum: 2796
   raw: n59008_a36	11	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1254)(MaxHP,1254)(MP,798)(MaxMP,798)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19596,14 +19596,14 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake
 - lineNum: 2798
   raw: n59008_a38	13	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1482)(MaxHP,1482)(MP,943)(MaxMP,943)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake
 - lineNum: 2799
   raw: n59008_a39	14	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1596)(MaxHP,1596)(MP,1015)(MaxMP,1015)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19624,7 +19624,7 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake.
 - lineNum: 2802
   raw: n59008_a42	12	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1368)(MaxHP,1368)(MP,870)(MaxMP,870)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19638,7 +19638,7 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake.
 - lineNum: 2804
   raw: n59008_a44	14	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1596)(MaxHP,1596)(MP,1015)(MaxMP,1015)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19652,7 +19652,7 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Python snake.
 - lineNum: 2806
   raw: n59008_a46	16	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1824)(MaxHP,1824)(MP,1160)(MaxMP,1160)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -19666,7 +19666,7 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Anaconda
 - lineNum: 2808
   raw: n59008_a48	18	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1548)(MaxHP,1548)(MP,1306)(MaxMP,1306)(Physique,20)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	24,36	1
   translated: 
@@ -20401,7 +20401,7 @@
   splits:
   - split: 5
     text: 菩斯曲蛇
-    translated: ''
+    translated: Pusa Qu She
 - lineNum: 2913
   raw: n59008d	46	fm00000	al20001		菩斯曲蛇	ta0002	st0028b		106	ai00000		0	(HP,5244)(MaxHP,5244)(MP,3484)(MaxMP,3484)(Physique,40)(Intelligence,50)(Neigong,50)(Qinggong,70)(Fight,50)(Sword,20)(Blade,40)(Spear,50)(Arrow,40)(Short,30)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50309,1)(it60507,2)(it40224,1)	72,144	1
   translated: 
@@ -22221,7 +22221,7 @@
   splits:
   - split: 5
     text: 菩斯曲蛇
-    translated: ''
+    translated: Pusa Qu She
 - lineNum: 3173
   raw: n60348a	10	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1140)(MaxHP,1140)(MP,725)(MaxMP,725)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	-1,-1	1
   translated: 
@@ -22235,7 +22235,7 @@
   splits:
   - split: 5
     text: 蟒蛇
-    translated: ''
+    translated: Anaconda
 - lineNum: 3175
   raw: n60348c	10	fm00000	al20001		蟒蛇		st0028		106	ai00000		0	(HP,1140)(MaxHP,1140)(MP,725)(MaxMP,725)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,50)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50304,1)(it60507,1)(it40224,1)	-1,-1	1
   translated: 
@@ -23432,14 +23432,14 @@
   splits:
   - split: 5
     text: 凌中岳（松风剑法、诸子剑法、青城神剑令、翠峦功）
-    translated: ''
+    translated: Lin Zhongyue (Songfeng Swordplay, Zhu Zi Swordplay, Qingcheng Divine Sword Command, Cuiluan Skill)
 - lineNum: 3346
   raw: n70045	50	fm00000	a00010	nick112	心良道人（松风剑法、诸子剑法、青城神剑令、翠峦功）	ta0093e	st0149b,st0095d,st0150b,st0163c		207	ai01	(MajorWeapon,eq10322)(MinorWeapon,eq10718)(Cloth,eq20105)	0	(HP,11612)(MaxHP,11612)(MP,5812)(MaxMP,5812)(Physique,95)(Intelligence,80)(Neigong,160)(Qinggong,75)(Fight,100)(Sword,145)(Blade,105)(Spear,115)(Arrow,140)(Short,95)(Doctor,70)(Poison,0)(Money,1000)(Madness,-30)(Moral,70)(Reputation,1000)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 心良道人（松风剑法、诸子剑法、青城神剑令、翠峦功）
-    translated: ''
+    translated: Heart of Goodness Daoist (Songfeng Sword Skill, Zhuzi Sword Skill, Qingcheng Divine Sword Command, Cuiluan Skill)
 - lineNum: 3347
   raw: n70056	27	fm00000	a00001		郝冲	ta0030	st0139		0	ai00000	(MajorWeapon,eq10402)	0	(HP,3537)(MaxHP,3537)(MP,2066)(MaxMP,2066)(Physique,50)(Intelligence,50)(Neigong,54)(Qinggong,41)(Fight,54)(Sword,54)(Blade,54)(Spear,54)(Arrow,54)(Short,54)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
@@ -23551,21 +23551,21 @@
   splits:
   - split: 5
     text: 拦路流寇（大刀十三劈、五虎断门刀）
-    translated: ''
+    translated: Roadblock Bandits (Big Knife Thirteen Chop, Five Tiger Door-Cutting Sword)
 - lineNum: 3363
   raw: n80004	12	fm00000	a00001		拦路流寇（大刀十三劈、五虎断门刀）	ta0058	st0057,st0108		201	ai00000	(MajorWeapon,eq10403)	1	(HP,1593)(MaxHP,1593)(MP,857)(MaxMP,857)(Physique,51)(Intelligence,50)(Neigong,20)(Qinggong,18)(Fight,22)(Sword,22)(Blade,34)(Spear,22)(Arrow,22)(Short,22)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,15)	(it40101,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 拦路流寇（大刀十三劈、五虎断门刀）
-    translated: ''
+    translated: Bandit Roadblock (Great Sword Thirteen Split, Five Tiger Gate-Cutting Sword)
 - lineNum: 3364
   raw: n80005	12	fm00000	a00001		拦路流寇（大刀十三劈、五虎断门刀）	ta0059	st0057,st0108b		201	ai00000	(MajorWeapon,eq10403)	1	(HP,1637)(MaxHP,1637)(MP,857)(MaxMP,857)(Physique,53)(Intelligence,50)(Neigong,20)(Qinggong,18)(Fight,22)(Sword,22)(Blade,34)(Spear,22)(Arrow,22)(Short,22)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,15)	(it40101,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 拦路流寇（大刀十三劈、五虎断门刀）
-    translated: ''
+    translated: Bandit Highwaymen (Big Knife Thirteen Cleavers, Five Tiger Door-Cutting Knives)
 - lineNum: 3365
   raw: n80006	10	fm00000	a00001		阿膳师		st0082a,st0064		0	ai00000	(MajorWeapon,eq10913)	1	(HP,1140)(MaxHP,1140)(MP,714)(MaxMP,714)(Physique,40)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60507,3)(it80306,1)	0,0	0
   translated: 
@@ -23600,21 +23600,21 @@
   splits:
   - split: 5
     text: 流寇首领（大刀十三劈、五虎断门刀）
-    translated: ''
+    translated: Outlaw leader (Great Sword Thirteen Split, Five Tiger Gate-Splitting Sword)
 - lineNum: 3370
   raw: n80011	18	fm00000	a00001		流寇爪牙（大刀十三劈、五虎断门刀）	ta0059	st0057,st0108		201	ai00000	(MajorWeapon,eq10403)	1	(HP,2456)(MaxHP,2456)(MP,1307)(MaxMP,1307)(Physique,53)(Intelligence,50)(Neigong,31)(Qinggong,27)(Fight,28)(Sword,28)(Blade,46)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 流寇爪牙（大刀十三劈、五虎断门刀）
-    translated: ''
+    translated: Bandits' henchmen (Sword Thirteen Slash, Five Tigers Door-Cutting Sword)
 - lineNum: 3371
   raw: n80012	18	fm00000	a00001		流寇爪牙（大刀十三劈、五虎断门刀）	ta0051	st0057,st0108b		201	ai00000	(MajorWeapon,eq10403)	1	(HP,2390)(MaxHP,2390)(MP,1307)(MaxMP,1307)(Physique,51)(Intelligence,50)(Neigong,31)(Qinggong,27)(Fight,28)(Sword,28)(Blade,46)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 流寇爪牙（大刀十三劈、五虎断门刀）
-    translated: ''
+    translated: Bandit henchmen (Big Knife Thirteen, Five Tiger Door-Cutting Sword)
 - lineNum: 3372
   raw: n80014	10	fm00000	a00001		孔大娘		st0064		0	ai00000		0	(HP,922)(MaxHP,922)(MP,714)(MaxMP,714)(Physique,25)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
@@ -23628,14 +23628,14 @@
   splits:
   - split: 5
     text: 孔大玉（大刀十三劈、五虎断门刀）
-    translated: ''
+    translated: Kong Dàyù (Dàdāo Shísān Pī, Wǔhǔ Duànméndāo)
 - lineNum: 3374
   raw: n80016	25	fm00000	a00001		赛伊尹（荆轲武诀，零星一文手法）	ta0044	st0135,st0014		0	ai00000	(MajorWeapon,eq10908)(MinorWeapon,eq10708)	0	(HP,3056)(MaxHP,3056)(MP,1894)(MaxMP,1894)(Physique,45)(Intelligence,50)(Neigong,50)(Qinggong,38)(Fight,50)(Sword,50)(Blade,50)(Spear,50)(Arrow,50)(Short,50)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-90)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 赛伊尹（荆轲武诀，零星一文手法）
-    translated: ''
+    translated: Sai Yin (Jing Ke's Martial Secret, Random Hand Technique)
 - lineNum: 3375
   raw: n80017	10	fm00000	a00001		巩竹		st0064		0	ai00000		0	(HP,1140)(MaxHP,1140)(MP,714)(MaxMP,714)(Physique,40)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)(it60605,5)	0,0	0
   translated: 
@@ -23649,28 +23649,28 @@
   splits:
   - split: 5
     text: 西庖（庖丁解牛刀法、霹雳刀法）
-    translated: ''
+    translated: West Kitchen (Butcher's Cleaving Blade Technique, Thunderclap Blade Technique)
 - lineNum: 3377
   raw: n80021	21	fm00000	a00001		岳大龙（五虎断门刀,铁砂掌）	ta0052	st0137,st0054b		202	ai00000	(MajorWeapon,eq10403)(Cloth,eq20103)	1	(HP,2905)(MaxHP,2905)(MP,1540)(MaxMP,1540)(Physique,54)(Intelligence,50)(Neigong,36)(Qinggong,32)(Fight,31)(Sword,31)(Blade,52)(Spear,31)(Arrow,31)(Short,31)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-20)(Reputation,150)(ZOC,60)(YinAndYang,35)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 岳大龙（五虎断门刀,铁砂掌）
-    translated: ''
+    translated: Yuè Dàlóng (Wǔ Hǔ Duànméndāo, Tiěshā Zhǎng)
 - lineNum: 3378
   raw: n80022	16	fm00000	a00001		岳二龙（太祖棍）	ta0059	st0124,st0158		202	ai00000	(MajorWeapon,eq10507)	1	(HP,2336)(MaxHP,2336)(MP,1155)(MaxMP,1155)(Physique,58)(Intelligence,50)(Neigong,27)(Qinggong,24)(Fight,26)(Sword,26)(Blade,26)(Spear,42)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,100)(ZOC,60)(YinAndYang,25)	(it40108,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 岳二龙（太祖棍）
-    translated: ''
+    translated: Yue Erlong (Tai Zu Gun)
 - lineNum: 3379
   raw: n80023	17	fm00000	a00001		岳少龙（凌尘剑法，甩手封喉）	ta0055b	st0071,st0014		202	ai00000	(MajorWeapon,eq10304)(MinorWeapon,eq10708)	1	(HP,2021)(MaxHP,2021)(MP,1231)(MaxMP,1231)(Physique,43)(Intelligence,50)(Neigong,29)(Qinggong,26)(Fight,27)(Sword,44)(Blade,27)(Spear,27)(Arrow,44)(Short,27)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,80)(ZOC,60)(YinAndYang,25)	(it70320,1)(it70108,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 岳少龙（凌尘剑法，甩手封喉）
-    translated: ''
+    translated: Yuè Shàolóng (Língchén Jiānfǎ, Shuǎi shǒu fēnghóu)
 - lineNum: 3380
   raw: n80026	10	fm00000	a00001		石为天		st0064		0	ai00000		0	(HP,1062)(MaxHP,1062)(MP,714)(MaxMP,714)(Physique,35)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
@@ -23719,21 +23719,21 @@
   splits:
   - split: 5
     text: 燕槐（透骨打穴法、太祖长拳）
-    translated: ''
+    translated: Yan Huai (Through-Bone Fist Technique, Taizu Long Fist)
 - lineNum: 3387
   raw: n80030	26	fm00000	a00001		刁不易（庖丁解牛刀法、霹雳刀法）	ta0056	st0101,st0139		0	ai00000	(MajorWeapon,eq10913)	0	(HP,3048)(MaxHP,3048)(MP,1942)(MaxMP,1942)(Physique,42)(Intelligence,50)(Neigong,44)(Qinggong,62)(Fight,36)(Sword,36)(Blade,70)(Spear,36)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,1000)(Madness,15)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(eq10913,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 刁不易（庖丁解牛刀法、霹雳刀法）
-    translated: ''
+    translated: Diāo Bù Yì (Páo Dīng Jiě Niú Dāo Fǎ, Pī Lì Dāo Fǎ)
 - lineNum: 3388
   raw: n80030a	45	fm00000	a00001		（真）刁不易（庖丁解牛刀法、霹雳刀法）	ta0044	st0101c,st0139		0	ai00000	(MajorWeapon,eq10913)	0	(HP,7894)(MaxHP,7894)(MP,3688)(MaxMP,3688)(Physique,72)(Intelligence,50)(Neigong,77)(Qinggong,108)(Fight,55)(Sword,55)(Blade,114)(Spear,55)(Arrow,55)(Short,55)(Doctor,0)(Poison,0)(Money,1000)(Madness,15)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(eq10913,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: （真）刁不易（庖丁解牛刀法、霹雳刀法）
-    translated: ''
+    translated: Diāo Bùyì (Páo Dīng Jiě Niú Dāo Fǎ, Pí Lì Dāo Fǎ)
 - lineNum: 3389
   raw: n80032	6	fm00000	al20024		野猴	ta0079b	st0026		102	ai00000		0	(HP,516)(MaxHP,516)(MP,428)(MaxMP,428)(Physique,20)(Intelligence,50)(Neigong,20)(Qinggong,36)(Fight,30)(Sword,10)(Blade,20)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60401,1)(it60402,1)	20,24	1
   translated: 
@@ -23775,7 +23775,7 @@
   splits:
   - split: 5
     text: 燕巧（绵掌、沾衣十八跌）
-    translated: ''
+    translated: Yan Qiao (Mian Zhuang, Zhan Yi Shiba Die)
 - lineNum: 3395
   raw: n80034	10	fm00000	a00001		柴夫		st0064		0	ai00000		1	(HP,1222)(MaxHP,1222)(MP,714)(MaxMP,714)(Physique,45)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70201,10)(eq11207,1)(it80306,1)	0,0	6
   translated: 
@@ -23796,7 +23796,7 @@
   splits:
   - split: 5
     text: 忧愁的男子（黄沙刀法）
-    translated: ''
+    translated: Mourning Man (Huang Sha Sword Technique)
 - lineNum: 3398
   raw: n80037	10	fm00000	a00001		行路人		st0064		0	ai00000		0	(HP,1140)(MaxHP,1140)(MP,714)(MaxMP,714)(Physique,40)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
@@ -23859,14 +23859,14 @@
   splits:
   - split: 5
     text: 文三娘（分筋错骨手、含沙射影）
-    translated: ''
+    translated: Wen San Niang (Fen Ginsuo Gusou Hand, Han Sha She Ying)
 - lineNum: 3407
   raw: n80046a	33	fm00000	a00013		文三娘（分筋错骨手、含沙射影）	ta0046	st0102c,st0072		201	ai00000	(MinorWeapon,eq10701)	0	(HP,3657)(MaxHP,3657)(MP,2564)(MaxMP,2564)(Physique,38)(Intelligence,50)(Neigong,59)(Qinggong,66)(Fight,76)(Sword,43)(Blade,43)(Spear,43)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,5000)(Madness,0)(Moral,-50)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘（分筋错骨手、含沙射影）
-    translated: ''
+    translated: Wǔ Sānniáng (Fēnjīn Cuògǔ Shǒu, Hánshā Shèyǐng)
 - lineNum: 3408
   raw: n80047	10	fm00000	al20032		野猪	ta0000	st0017		101	ai00000		0	(HP,1140)(MaxHP,1140)(MP,725)(MaxMP,725)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,21)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60503,1)(it70409,1)(it40225,1)	20,24	1
   translated: 
@@ -23915,14 +23915,14 @@
   splits:
   - split: 5
     text: 流寇（大刀十三劈、五虎断门刀）
-    translated: ''
+    translated: Bandits (Dada Shi San Pi, Wu Hu Duan Men Dao)
 - lineNum: 3415
   raw: n80054	22	fm00000	a00001		流寇（大刀十三劈、五虎断门刀）	ta0059	st0057,st0108b		201	ai00000	(MajorWeapon,eq10403)	1	(HP,3043)(MaxHP,3043)(MP,1619)(MaxMP,1619)(Physique,54)(Intelligence,50)(Neigong,37)(Qinggong,33)(Fight,32)(Sword,32)(Blade,54)(Spear,32)(Arrow,32)(Short,32)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40101,1)(it40102,1)	20,24	0
   translated: 
   splits:
   - split: 5
     text: 流寇（大刀十三劈、五虎断门刀）
-    translated: ''
+    translated: Outlaws (Dada Shi San Pì, Wǔ Hǔ Duàn Mén Dāo)
 - lineNum: 3416
   raw: n80055	12	fm00000	a00001		旅行菜贩		st0064		0	ai00000		0	(HP,1188)(MaxHP,1188)(MP,862)(MaxMP,862)(Physique,30)(Intelligence,50)(Neigong,24)(Qinggong,18)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,24)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60602,5)(it60605,5)(it60611,5)(it60614,10)(it60615,10)(it60618,10)	0,0	6
   translated: 
@@ -23943,42 +23943,42 @@
   splits:
   - split: 5
     text: 阿田（黄沙刀法）
-    translated: ''
+    translated: A Tian (Huang Sha Dao Fa)
 - lineNum: 3419
   raw: n80058	15	fm00000	a00001		巴大哥（大刀十三劈）	ta0050	st0057		0	ai00000	(MajorWeapon,eq10403)	0	(HP,1808)(MaxHP,1808)(MP,1080)(MaxMP,1080)(Physique,44)(Intelligence,50)(Neigong,26)(Qinggong,23)(Fight,25)(Sword,25)(Blade,40)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,1)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 巴大哥（大刀十三劈）
-    translated: ''
+    translated: Ba Da Ge (Da Dao Shisan Pi)
 - lineNum: 3420
   raw: n80059	12	fm00000	a00001		家丁（三连环刀法）	ta0054	st0066		0	ai00000	(MajorWeapon,eq10403)	0	(HP,1330)(MaxHP,1330)(MP,857)(MaxMP,857)(Physique,38)(Intelligence,50)(Neigong,20)(Qinggong,18)(Fight,22)(Sword,22)(Blade,34)(Spear,22)(Arrow,22)(Short,22)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,1)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 家丁（三连环刀法）
-    translated: ''
+    translated: Servant (San Lian Huan Dao Fa)
 - lineNum: 3421
   raw: n80060	12	fm00000	a00001		家丁（雪片旋刀势）	ta0066	st0065		0	ai00000	(MajorWeapon,eq10403)	0	(HP,1508)(MaxHP,1508)(MP,857)(MaxMP,857)(Physique,47)(Intelligence,50)(Neigong,20)(Qinggong,18)(Fight,22)(Sword,22)(Blade,34)(Spear,22)(Arrow,22)(Short,22)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,1)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 家丁（雪片旋刀势）
-    translated: ''
+    translated: Retainers (Snowflake Whirl Blade Skill)
 - lineNum: 3422
   raw: n80061	25	fm00000	a00001		大喇嘛（大手印）	ta0052	st0103b		205	ai00000	(MajorWeapon,eq10102)	0	(HP,3602)(MaxHP,3602)(MP,1882)(MaxMP,1882)(Physique,57)(Intelligence,50)(Neigong,48)(Qinggong,38)(Fight,60)(Sword,35)(Blade,35)(Spear,35)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40101,2)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 大喇嘛（大手印）
-    translated: ''
+    translated: The Dalai Lama (Great Hand Imprint)
 - lineNum: 3423
   raw: n80062	17	fm00000	a00001		喇嘛（大手印）	ta0051	st0103		205	ai00000	(MajorWeapon,eq10102)	0	(HP,2288)(MaxHP,2288)(MP,1238)(MaxMP,1238)(Physique,52)(Intelligence,50)(Neigong,32)(Qinggong,26)(Fight,44)(Sword,27)(Blade,27)(Spear,27)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,2)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 喇嘛（大手印）
-    translated: ''
+    translated: Lama (Great Seal)
 - lineNum: 3424
   raw: n80064	10	fm00000	a00001		小范		st0064		0	ai00000		0	(HP,1004)(MaxHP,1004)(MP,714)(MaxMP,714)(Physique,31)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -24062,21 +24062,21 @@
   splits:
   - split: 5
     text: 大内密探陆盛（九宫八卦掌、分筋错骨手）
-    translated: ''
+    translated: Imperial Secret Agent Lu Sheng (Nine Palaces Eight Trigrams Palm, Dislocate Bone and Tendon Fist)
 - lineNum: 3436
   raw: n80079	15	fm00000	a00001		古莫言（雪片旋刀势）	ta0045	st0065		0	ai00000	(MajorWeapon,eq10913)	0	(HP,2598)(MaxHP,2598)(MP,1088)(MaxMP,1088)(Physique,71)(Intelligence,50)(Neigong,30)(Qinggong,23)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 古莫言（雪片旋刀势）
-    translated: ''
+    translated: Gumu Yan (Xuepian Xuandao Shi)
 - lineNum: 3437
   raw: n80080	18	fm00000	a00001		陌生盐商（大刀十三劈）		st0057		0	ai00000	(MajorWeapon,eq10403)	0	(HP,2231)(MaxHP,2231)(MP,1320)(MaxMP,1320)(Physique,46)(Intelligence,50)(Neigong,36)(Qinggong,27)(Fight,36)(Sword,36)(Blade,36)(Spear,36)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 陌生盐商（大刀十三劈）
-    translated: ''
+    translated: Stranger Salt Merchant (Big Sword Thirteen Chop)
 - lineNum: 3438
   raw: n80083	12	fm00000	a00001		隐世老翁		st0064		0	ai00000		0	(HP,1368)(MaxHP,1368)(MP,862)(MaxMP,862)(Physique,40)(Intelligence,50)(Neigong,24)(Qinggong,18)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,24)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801013,1)(it801025,1)	0,0	0
   translated: 
@@ -24174,7 +24174,7 @@
   splits:
   - split: 5
     text: 丁承澐（百花缭乱剑）
-    translated: ''
+    translated: Ding Chengkai (Baihua Lianluan Jian)
 - lineNum: 3452
   raw: n80098	42	fm00000	a00005		戚长风(云风骨三侠)（沾衣十八跌、绵掌）(静柔)	ta0092c	st0052c,st0051b		0	ai00000	(MajorWeapon,eq10103)(MinorWeapon,eq10701)	0	(HP,6133)(MaxHP,6133)(MP,3533)(MaxMP,3533)(Physique,58)(Intelligence,50)(Neigong,84)(Qinggong,63)(Fight,94)(Sword,52)(Blade,52)(Spear,52)(Arrow,52)(Short,52)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,-100)	(it801025,1)	0,0	0
   translated: 
@@ -24202,14 +24202,14 @@
   splits:
   - split: 5
     text: 盗墓弟（盗墓腿法、下作三诀）
-    translated: ''
+    translated: Mudraking Brother (Mudraking Method, Vulgar Three Techniques)
 - lineNum: 3456
   raw: n80102	22	fm00000	a00001		盗墓弟（盗墓腿法、下作三诀）	ta0064	st0111b,st0020b		202	ai00000		0	(HP,2842)(MaxHP,2842)(MP,1619)(MaxMP,1619)(Physique,49)(Intelligence,50)(Neigong,37)(Qinggong,51)(Fight,54)(Sword,32)(Blade,32)(Spear,32)(Arrow,32)(Short,32)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 盗墓弟（盗墓腿法、下作三诀）
-    translated: ''
+    translated: Robber Tom's Brother (Robber Tom's Martial Foot Technique, Inferior Three Methods)
 - lineNum: 3457
   raw: n80103	10	fm00000	a00001		小童		st0064		0	ai00000		0	(HP,860)(MaxHP,860)(MP,714)(MaxMP,714)(Physique,20)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
@@ -24237,35 +24237,35 @@
   splits:
   - split: 5
     text: 虎头三手下（五虎断门刀）
-    translated: ''
+    translated: The Three Tigers under the Tiger Head (Five Tiger Family Swords)
 - lineNum: 3461
   raw: n80107	20	fm00000	a00001		虎头三手下（五虎断门刀）	ta0060	st0108d		201	ai00000	(MajorWeapon,eq10403)	1	(HP,2656)(MaxHP,2656)(MP,1461)(MaxMP,1461)(Physique,51)(Intelligence,50)(Neigong,34)(Qinggong,32)(Fight,30)(Sword,30)(Blade,50)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)	(eq10403,1)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 虎头三手下（五虎断门刀）
-    translated: ''
+    translated: Tiger Head's Three Underlings (The Five Tiger Disarmament Swords)
 - lineNum: 3462
   raw: n80108	22	fm00000	a00001		虎头三手下（五虎断门刀）	ta0052	st0108c		201	ai00000	(MajorWeapon,eq10403)	1	(HP,2921)(MaxHP,2921)(MP,1619)(MaxMP,1619)(Physique,51)(Intelligence,50)(Neigong,37)(Qinggong,35)(Fight,32)(Sword,32)(Blade,54)(Spear,32)(Arrow,32)(Short,32)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)	(eq10403,1)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 虎头三手下（五虎断门刀）
-    translated: ''
+    translated: Five Tiger Subordinates (the Five Tigers' Gate-Cutting Sword)
 - lineNum: 3463
   raw: n80109	20	fm00000	a00001		虎头三手下（五虎断门刀）	ta0060	st0108d		201	ai00000	(MajorWeapon,eq10403)	1	(HP,2656)(MaxHP,2656)(MP,1461)(MaxMP,1461)(Physique,51)(Intelligence,50)(Neigong,34)(Qinggong,32)(Fight,30)(Sword,30)(Blade,50)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)	(eq10403,1)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 虎头三手下（五虎断门刀）
-    translated: ''
+    translated: Hutou's Three Underlings (The Five Tiger Executioner Swords)
 - lineNum: 3464
   raw: n80110	21	fm00000	a00001		虎头三手下（五虎断门刀）	ta0052	st0108c		201	ai00000	(MajorWeapon,eq10403)	1	(HP,2789)(MaxHP,2789)(MP,1540)(MaxMP,1540)(Physique,51)(Intelligence,50)(Neigong,36)(Qinggong,34)(Fight,31)(Sword,31)(Blade,52)(Spear,31)(Arrow,31)(Short,31)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)	(eq10403,1)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 虎头三手下（五虎断门刀）
-    translated: ''
+    translated: Tiger Head's Three Underlings (Five Tigers' Sword of Severed Heads)
 - lineNum: 3465
   raw: n80111	31	fm00000	a00001		菜园张	ta0091c	st0102c		0	ai00000		0	(HP,3534)(MaxHP,3534)(MP,2427)(MaxMP,2427)(Physique,40)(Intelligence,50)(Neigong,62)(Qinggong,47)(Fight,62)(Sword,62)(Blade,62)(Spear,62)(Arrow,62)(Short,62)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(eq10403,1)(it80306,1)	0,0	0
   translated: 
@@ -24286,49 +24286,49 @@
   splits:
   - split: 5
     text: 文三娘手下（大刀十三劈）
-    translated: ''
+    translated: Wen San Niang's Underlings (Dadao Shisan Pili)
 - lineNum: 3468
   raw: n80113	15	fm00000	a00001		文三娘手下（大刀十三劈）	ta0052	st0057		201	ai00000	(MajorWeapon,eq10403)	0	(HP,1938)(MaxHP,1938)(MP,1080)(MaxMP,1080)(Physique,49)(Intelligence,50)(Neigong,26)(Qinggong,24)(Fight,25)(Sword,25)(Blade,40)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(eq10403,1)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘手下（大刀十三劈）
-    translated: ''
+    translated: Wén Sānniáng's Underlings (Dàdāo Shísān Pī)
 - lineNum: 3469
   raw: n80114	18	fm00000	a00001		粗恶的壮汉（大刀十三劈）	ta0053	st0057		201	ai00000	(MajorWeapon,eq10403)	0	(HP,2262)(MaxHP,2262)(MP,1307)(MaxMP,1307)(Physique,47)(Intelligence,50)(Neigong,31)(Qinggong,29)(Fight,28)(Sword,28)(Blade,46)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(eq10403,1)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 粗恶的壮汉（大刀十三劈）
-    translated: ''
+    translated: A brutish strongman (Dadao Thirteen Splits)
 - lineNum: 3470
   raw: n80115	18	fm00000	a00001		凶狠的壮汉（大刀十三劈）	ta0054	st0057		201	ai00000	(MajorWeapon,eq10403)	0	(HP,2358)(MaxHP,2358)(MP,1307)(MaxMP,1307)(Physique,50)(Intelligence,50)(Neigong,31)(Qinggong,29)(Fight,28)(Sword,28)(Blade,46)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(eq10403,1)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 凶狠的壮汉（大刀十三劈）
-    translated: ''
+    translated: Fierce brawny man (Thirteen Swipes of the Big Sword)
 - lineNum: 3471
   raw: n80116	15	fm00000	a00001		客栈伙计（分筋错骨手、下作三诀）	ta0063	st0102,st0020b		201	ai00000		0	(HP,1758)(MaxHP,1758)(MP,1080)(MaxMP,1080)(Physique,42)(Intelligence,50)(Neigong,26)(Qinggong,35)(Fight,40)(Sword,25)(Blade,25)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 客栈伙计（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Innkeeper's apprentice (Feng Jin Cuogu hand, unseemly three techniques)
 - lineNum: 3472
   raw: n80117	15	fm00000	a00001		客栈伙计（分筋错骨手、下作三诀）	ta0063	st0102a,st0020b		201	ai00000		0	(HP,1783)(MaxHP,1783)(MP,1080)(MaxMP,1080)(Physique,43)(Intelligence,50)(Neigong,26)(Qinggong,35)(Fight,40)(Sword,25)(Blade,25)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 客栈伙计（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Inn Attendant (Master of Bone-Setting Techniques, Proficient in Three Underhanded Tricks)
 - lineNum: 3473
   raw: n80118	15	fm00000	a00001		客栈伙计（分筋错骨手、下作三诀）	ta0063	st0102,st0020b		201	ai00000		0	(HP,1808)(MaxHP,1808)(MP,1080)(MaxMP,1080)(Physique,44)(Intelligence,50)(Neigong,26)(Qinggong,35)(Fight,40)(Sword,25)(Blade,25)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 客栈伙计（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Inn Attendant (Bone-cracking Hand, Three Low Tricks)
 - lineNum: 3474
   raw: n80119	30	fm00000	a00001		金满腹(花拳绣腿)		st0064		0	ai00000		0	(HP,3667)(MaxHP,3667)(MP,2335)(MaxMP,2335)(Physique,45)(Intelligence,50)(Neigong,60)(Qinggong,45)(Fight,60)(Sword,60)(Blade,60)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,100000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60123,10)(it60127,10)(it60128,10)(it60132,5)(it60134,5)(it60204,10)	0,0	6
   translated: 
@@ -24349,63 +24349,63 @@
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Wen San-niang's underlings (Fengqin cuogu Hand, Xia zuo san jue).
 - lineNum: 3477
   raw: n80122	15	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102,st0020b		201	ai00000		0	(HP,1783)(MaxHP,1783)(MP,1080)(MaxMP,1080)(Physique,43)(Intelligence,50)(Neigong,26)(Qinggong,35)(Fight,40)(Sword,25)(Blade,25)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Wǔsān Niáng's underlings (Fēngjīn Cuògǔ Shǒu, Xiàzuò Sān Jué)
 - lineNum: 3478
   raw: n80123	18	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102a,st0020b		201	ai00000		0	(HP,2170)(MaxHP,2170)(MP,1307)(MaxMP,1307)(Physique,44)(Intelligence,50)(Neigong,31)(Qinggong,41)(Fight,46)(Sword,28)(Blade,28)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Wén Sān Niáng's underlings (Fēng Jīn Cuò Gǔ Shǒu, Xià Zuò Sān Jué)
 - lineNum: 3479
   raw: n80124	18	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102,st0020b		201	ai00000		0	(HP,2110)(MaxHP,2110)(MP,1307)(MaxMP,1307)(Physique,42)(Intelligence,50)(Neigong,31)(Qinggong,41)(Fight,46)(Sword,28)(Blade,28)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: ''
+    translated: San Niang's subordinates (Feng Jin Cuo Gu Hand, Xia Zu San Jue)
 - lineNum: 3480
   raw: n80125	15	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102a,st0020b		201	ai00000		0	(HP,1783)(MaxHP,1783)(MP,1080)(MaxMP,1080)(Physique,43)(Intelligence,50)(Neigong,26)(Qinggong,35)(Fight,40)(Sword,25)(Blade,25)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Wen San Niang's Underlings (Feng Jin Cuogu Hand, Xia Zuo San Jue)
 - lineNum: 3481
   raw: n80126	15	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102,st0020b		201	ai00000		0	(HP,1808)(MaxHP,1808)(MP,1080)(MaxMP,1080)(Physique,44)(Intelligence,50)(Neigong,26)(Qinggong,35)(Fight,40)(Sword,25)(Blade,25)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Madam Wu's Underlings (Division of Sinews Hand, Three Secret Techniques)
 - lineNum: 3482
   raw: n80127	18	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102a,st0020b		201	ai00000		0	(HP,2110)(MaxHP,2110)(MP,1307)(MaxMP,1307)(Physique,42)(Intelligence,50)(Neigong,31)(Qinggong,41)(Fight,46)(Sword,28)(Blade,28)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Wén Sānniáng's subordinates (Fēngjīncuògǔshǒu, Xiàzuòsānjù)
 - lineNum: 3483
   raw: n80128	18	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102,st0020b		201	ai00000		0	(HP,2140)(MaxHP,2140)(MP,1307)(MaxMP,1307)(Physique,43)(Intelligence,50)(Neigong,31)(Qinggong,41)(Fight,46)(Sword,28)(Blade,28)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Madam Wen's subordinates (Dislocate Bone Technique, Three Evil Tricks)
 - lineNum: 3484
   raw: n80129	18	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102a,st0020b		201	ai00000		0	(HP,2170)(MaxHP,2170)(MP,1307)(MaxMP,1307)(Physique,44)(Intelligence,50)(Neigong,31)(Qinggong,41)(Fight,46)(Sword,28)(Blade,28)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: ''
+    translated: Wen San Niang's Underlings (Feng Jin Cuo Gu Hand, Xia Zuo San Jue)
 - lineNum: 3485
   raw: n80150	15	fm00000	al20045	nick529	「巨猿之王」猴三	ta0067	st0143		102	ai00000		0	(HP,2910)(MaxHP,2910)(MP,1110)(MaxMP,1110)(Physique,80)(Intelligence,50)(Neigong,40)(Qinggong,55)(Fight,50)(Sword,50)(Blade,50)(Spear,30)(Arrow,20)(Short,20)(Doctor,20)(Poison,20)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)		-1,-1	0
   translated: 
@@ -25567,21 +25567,21 @@
   splits:
   - split: 5
     text: 祝一龙（刀,掌）
-    translated: ''
+    translated: Zhū Yīlóng (Sword, Palm)
 - lineNum: 3651
   raw: n80375	25	fm00000	a00001		祝二虎（棍）	ta0045	st0145,st0140		202	ai02	(MajorWeapon,eq10512)	1	(HP,3506)(MaxHP,3506)(MP,1894)(MaxMP,1894)(Physique,55)(Intelligence,50)(Neigong,50)(Qinggong,38)(Fight,50)(Sword,50)(Blade,50)(Spear,50)(Arrow,50)(Short,50)(Doctor,50)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,100)(ZOC,60)(YinAndYang,0)	(it40108,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 祝二虎（棍）
-    translated: ''
+    translated: Zhù Èrhǔ (Gùn)
 - lineNum: 3652
   raw: n80376	25	fm00000	a00001		祝三猫（剑，暗器）	ta0044	st0144,st0112		202	ai03		0	(HP,3056)(MaxHP,3056)(MP,1894)(MaxMP,1894)(Physique,45)(Intelligence,50)(Neigong,50)(Qinggong,38)(Fight,50)(Sword,50)(Blade,50)(Spear,50)(Arrow,50)(Short,50)(Doctor,70)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,80)(ZOC,60)(YinAndYang,0)	(it70320,1)(it70108,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 祝三猫（剑，暗器）
-    translated: ''
+    translated: Wishing three cats (sword, hidden weapons).
 - lineNum: 3653
   raw: n80377	45	fm00000	a00001		练无情	ta0042	st0110		0	ai00000	(MajorWeapon,eq10406)	0	(HP,5895)(MaxHP,5895)(MP,3870)(MaxMP,3870)(Physique,50)(Intelligence,50)(Neigong,90)(Qinggong,68)(Fight,90)(Sword,90)(Blade,90)(Spear,90)(Arrow,90)(Short,90)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(eq10406,1)(it801025,1)	0,0	0
   translated: 
@@ -26326,7 +26326,7 @@
   splits:
   - split: 5
     text: 八卦王
-    translated: ''
+    translated: Gossip King
 - lineNum: 3759
   raw: n80483	20	fm00000	a00001		艾胡说		st0064		0	ai00000		0	(HP,2216)(MaxHP,2216)(MP,1480)(MaxMP,1480)(Physique,38)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60605,5)(it80306,1)	72,72	0
   translated: 
@@ -26368,7 +26368,7 @@
   splits:
   - split: 5
     text: 绝世高手阿曼（最强花拳绣腿）
-    translated: ''
+    translated: Martial Genius Aman (the mightiest of all in martial arts)
 - lineNum: 3765
   raw: n88890	60	fm00000	a00001		刃屠灵	ta0022	st0064		0	ai00000	(MajorWeapon,eq10424)	0	(HP,14760)(MaxHP,14760)(MP,5361)(MaxMP,5361)(Physique,100)(Intelligence,50)(Neigong,100)(Qinggong,100)(Fight,100)(Sword,100)(Blade,100)(Spear,100)(Arrow,100)(Short,100)(Doctor,0)(Poison,0)(Money,100000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
@@ -27124,7 +27124,7 @@
   splits:
   - split: 5
     text: 崔二
-    translated: ''
+    translated: Second Brother Cui
 - lineNum: 3873
   raw: n90618	35	fm00000	a00001		丐帮副舵主(疯魔杖、铁砂掌)	ta0091b	st0054b,st0155b		0	ai00000	(MajorWeapon,eq10507)	0	(HP,4908)(MaxHP,4908)(MP,2808)(MaxMP,2808)(Physique,55)(Intelligence,50)(Neigong,70)(Qinggong,53)(Fight,80)(Sword,45)(Blade,45)(Spear,80)(Arrow,45)(Short,45)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,90)	(it60122,1)(it81101,1)	0,0	0
   translated: 

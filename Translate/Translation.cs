@@ -1,7 +1,5 @@
 ﻿using System.Diagnostics;
-using System.Net.Http;
 using System.Net.Http.Headers;
-using System.Runtime.CompilerServices;
 using System.Text;
 using System.Text.Json;
 using System.Text.RegularExpressions;
@@ -18,8 +16,8 @@ public class TextFileToSplit
 
 public class TranslationSplit
 {
-    public int Split { get; set; }
-    public string Text { get; set; }
+    public int Split { get; set; } = 0;
+    public string Text { get; set; } = string.Empty;
     public string? Translated { get; set; }
 
     public TranslationSplit() { }
@@ -33,17 +31,17 @@ public class TranslationSplit
 
 public class TranslationLine
 {
-    public int LineNum { get; set; }
-    public string Raw { get; set; }
+    public int LineNum { get; set; } = 0;
+    public string Raw { get; set; } = string.Empty;
     public string? Translated { get; set; }
-    public List<TranslationSplit> Splits { get; set; }
+    public List<TranslationSplit> Splits { get; set; } = [];
 
     public TranslationLine() { }
+
     public TranslationLine(int lineNum, string raw)
     {
         LineNum = lineNum;
         Raw = raw;
-        Splits = new List<TranslationSplit>();
     }
 }
 
@@ -93,10 +91,10 @@ public static class Translation
             {
                 var translationLine = new TranslationLine(lineNum, line);
 
-                if (!line.StartsWith("#"))
+                if (!line.StartsWith('#'))
                 {
                     var splits = line.Split('\t');
-                    foreach (var index in textFileToTranslate.SplitIndexes)
+                    foreach (var index in textFileToTranslate.SplitIndexes!)
                         translationLine.Splits.Add(new TranslationSplit(index, splits[index]));
                 }
 
@@ -124,7 +122,7 @@ public static class Translation
         var config = Configuration.GetConfiguration($"{inputPath}/../Config.yaml");
 
         // Create an HttpClient instance
-        using HttpClient client = new HttpClient();
+        using var client = new HttpClient();
 
         if (config.ApiKeyRequired)
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", config.ApiKey);
@@ -177,7 +175,8 @@ public static class Translation
                 }));
 
                 var elapsed = stopWatch.ElapsedMilliseconds;
-                Console.WriteLine($"Line: {i + batchRange} of {totalLines} ({elapsed} ms ~ {elapsed / recordsProcessed}/line)");
+                var speed = recordsProcessed == 0 ? 0 : elapsed / recordsProcessed;
+                Console.WriteLine($"Line: {i + batchRange} of {totalLines} ({elapsed} ms ~ {speed}/line)");
                 await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
             }
         }
@@ -266,8 +265,8 @@ public static class Translation
                 return false;
         }
 
-        //Added Brackets (Literation)
-        if (result.Contains('(') && !raw.Contains('('))
+        //Added Brackets (Literation) where no brackets or widebrackets in raw
+        if (result.Contains('(') && !raw.Contains('(') && !raw.Contains('（'))
             return false;
 
         //Added literal
@@ -284,7 +283,7 @@ public static class Translation
     /// <returns>A list of markup tags found in the string.</returns>
     public static List<string> FindMarkup(string input)
     {
-        List<string> markupTags = new List<string>();
+        var markupTags = new List<string>();
 
         if (input == null)
             return markupTags;
@@ -307,7 +306,7 @@ public static class Translation
     /// <returns>A list of placeholders found in the string.</returns>
     public static List<string> FindPlaceholders(string input)
     {
-        List<string> placeholders = new List<string>();
+        var placeholders = new List<string>();
 
         if (input == null)
             return placeholders;
