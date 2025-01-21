@@ -1,0 +1,76 @@
+#Id	问题/选项文字	问题集编号	子选项(问题才要填)	获得旗标(选项才要填)	获得属性(选项才要填)	默认选项(问题才要填)
+Question01	为什么想进入武侠世界？	0	Question01_1,Question01_2,Question01_3,Question01_4,Question01_5			3
+Question01_1	武侠是一种浪漫。	0		(cf005,1)(nf007,1)(af001,1)		0
+Question01_2	我不想再当单身狗。	0		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0
+Question01_3	我不想当屌丝，我想成为人上人！	0		(cf002,1)(nf009,1)(af003,1)(cf003,1)		0
+Question01_4	甚么？这是武侠世界吗？	0		(nf010,1)(af004,1)(cf001,1)		0
+Question01_5	反正我到哪都是一个人，有差吗？	0		(cf007,1)(nf006,1)(af005,1)		0
+Question02	进入武侠世界，你想成为甚么样的人？	0	Question02_1,Question02_2,Question02_3,Question02_4			2
+Question02_1	为国为民，侠之大者。	0		(cf001,1)	(Moral,30)	0
+Question02_2	号令天下，莫敢不从。	0		(cf003,1)	(Moral,-30)	0
+Question02_3	放浪形骸，狂傲不羁。	0		(cf005,1)(cf007,1)(cf006,1)	(Madness,30)	0
+Question02_4	端严守礼，翩翩君子。	0		(cf002,1)	(Madness,-30)	0
+Question03	当你行走江湖而身无分文时，你想靠甚么方式维生?	0	Question03_1,Question03_2,Question03_3,Question03_4			3
+Question03_1	吃草，效仿神农尝百草的精神。	0		(cf002,1)(nf001,1)		0
+Question03_2	挖矿，说不定会挖到比特币。	0		(cf007,1)(nf003,1)		0
+Question03_3	借用，我超没存在感，很适合借用别人身上的东西。	0		(cf003,1)(nf004,1)		0
+Question03_4	身无分文？甚么是身无分文？	0		(cf005,1)(cf006,1)(nf005,1)		0
+Question04	在武侠世界中，你最想用何种兵器。	0	Question04_1,Question04_2,Question04_3,Question04_4,Question04_5,Question04_6,Question04_7			1
+Question04_1	赤手空拳，贴身肉搏。	0		(cf001,2)(cf003,1)	(Fight,11)	0
+Question04_2	剑似飞凤，百兵之君。	0		(cf005,1)(cf007,1)	(Sword,11)	0
+Question04_3	刀如猛虎，百兵之胆。	0		(cf002,1)	(Blade,11)	0
+Question04_4	长枪棍棒，一寸长，一寸强。	0			(Spear,11)	0
+Question04_5	短兵相接，一寸短，一寸险。	0		(cf006,1)	(Short,11)	0
+Question04_6	暗器远射，千臂如来。	0			(Arrow,11)	0
+Question04_7	毒步武林，无毒不丈夫。	0			(Poison,16)	0
+Question05	在武侠世界中，你觉得何者才是武学的至理？	0	Question05_1,Question05_2,Question05_3,Question05_4,Question05_5,Question05_6			3
+Question05_1	刚猛无俦，当者辟易。	0		(cf007,1)(tf001,1)		0
+Question05_2	以弱胜强，以柔克刚。	0		(tf002,1)		0
+Question05_3	身法如风，出手如电。	0		(cf002,1)(cf003,1)(tf003,1)		0
+Question05_4	借力打力，后发制人。	0		(cf005,1)(tf004,1)		0
+Question05_5	变幻无方，指东打西。	0		(cf006,1)(tf005,1)		0
+Question05_6	大巧不工，反璞归真。	0		(tf006,1)(cf001,1)		0
+Question06	你想象中的武侠世界是何种面貌？(游戏难易度)	0	Question06_1,Question06_2,Question06_3,Question06_4			2
+Question06_1	国泰民安，风调雨顺，礼仪之邦，安居乐业。(简单)	0		(ff002,1)		0
+Question06_2	克己复礼，行侠仗义，居安思危，杀生成仁。(普通)	0		(ff002,2)		0
+Question06_3	世风日下，人心不古，争权夺利，口蜜腹剑。(困难)	0		(ff002,3)		0
+Question06_4	刀光剑影，兵戎相向，人才辈出，谁与争锋。(炼狱)	0		(ff002,4)		0
+Question11	为什么想进入武侠世界？	1	Question11_1,Question11_2,Question11_3,Question11_4,Question11_5,Question11_6			3
+Question11_1	武侠是一种浪漫。	1		(cf005,1)(nf007,1)(af001,1)		0
+Question11_2	我不想再当单身狗。	1		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0
+Question11_3	我不想当屌丝，我想成为人上人！	1		(cf002,1)(nf009,1)(af003,1)(cf003,1)		0
+Question11_4	甚么？这是武侠世界吗？	1		(nf010,1)(af004,1)(cf001,1)		0
+Question11_5	反正我到哪都是一个人，有差吗？	1		(cf007,1)(nf006,1)(af005,1)		0
+Question11_6	什么武侠世界？这就是我的世界。	1		(cf008,1)(cf011,1)(cf004,1)(cf009,1)(cf010,1)(nf011,1)		0
+Question12	进入武侠世界，你想成为甚么样的人？	1	Question12_1,Question12_2,Question12_3,Question12_4,Question12_5			2
+Question12_1	为国为民，侠之大者。	1		(cf010,1)(cf001,1)	(Moral,30)	0
+Question12_2	号令天下，莫敢不从。	1		(cf003,1)	(Moral,-30)	0
+Question12_3	放浪形骸，狂傲不羁。	1		(cf005,1)(cf011,1)(cf008,1)(cf007,1)(cf006,1)(cf004,1)	(Madness,30)	0
+Question12_4	端严守礼，翩翩君子。	1		(cf002,1)	(Madness,-30)	0
+Question12_5	无欲无求，中庸之道。	1		(cf009,1)		0
+Question13	当你行走江湖而身无分文时，你想靠甚么方式维生?	1	Question13_1,Question13_2,Question13_3,Question13_4,Question13_5			3
+Question13_1	吃草，效仿神农尝百草的精神。	1		(cf008,1)(cf002,1)(nf001,1)		0
+Question13_2	挖矿，说不定会挖到比特币。	1		(cf007,1)(nf003,1)		0
+Question13_3	借用，我超没存在感，很适合借用别人身上的东西。	1		(cf003,1)(nf004,1)		0
+Question13_4	身无分文？甚么是身无分文？	1		(cf005,1)(cf006,1)(cf004,1)(nf005,1)(cf009,1)		0
+Question13_5	天为盖，地为床，无入而不自得。	1		(cf010,1)(cf011,1)(nf012,1)		0
+Question14	在武侠世界中，你最想用何种兵器。	1	Question14_1,Question14_2,Question14_3,Question14_4,Question14_5,Question14_6,Question14_7			1
+Question14_1	赤手空拳，贴身肉搏。	1		(cf011,1)(cf010,1)(cf009,1)(cf001,2)(cf003,1)	(Fight,21)	0
+Question14_2	剑似飞凤，百兵之君。	1		(cf005,1)(cf009,1)(cf007,1)	(Sword,21)	0
+Question14_3	刀如猛虎，百兵之胆。	1		(cf002,1)	(Blade,21)	0
+Question14_4	长枪棍棒，一寸长，一寸强。	1		(cf010,1)	(Spear,21)	0
+Question14_5	短兵相接，一寸短，一寸险。	1		(cf006,1)	(Short,21)	0
+Question14_6	暗器远射，千臂如来。	1		(cf008,1)	(Arrow,21)	0
+Question14_7	毒步武林，无毒不丈夫。	1		(cf004,1)	(Poison,26)	0
+Question15	在武侠世界中，你觉得何者才是武学的至理？	1	Question15_1,Question15_2,Question15_3,Question15_4,Question15_5,Question15_6			3
+Question15_1	刚猛无俦，当者辟易。	1		(cf010,1)(cf007,1)(tf001,1)		0
+Question15_2	以弱胜强，以柔克刚。	1		(cf009,1)(tf002,1)		0
+Question15_3	身法如风，出手如电。	1		(cf002,1)(cf008,1)(cf003,1)(tf003,1)		0
+Question15_4	借力打力，后发制人。	1		(cf005,1)(cf004,1)(tf004,1)		0
+Question15_5	变幻无方，指东打西。	1		(cf011,1)(cf006,1)(tf005,1)		0
+Question15_6	大巧不工，反璞归真。	1		(tf006,1)(cf001,1)		0
+Question16	你想象中的武侠世界是何种面貌？(游戏难易度)	1	Question16_1,Question16_2,Question16_3,Question16_4			2
+Question16_1	国泰民安，风调雨顺，礼仪之邦，安居乐业。(简单)	1		(ff002,1)		0
+Question16_2	克己复礼，行侠仗义，居安思危，杀生成仁。(普通)	1		(ff002,2)		0
+Question16_3	世风日下，人心不古，争权夺利，口蜜腹剑。(困难)	1		(ff002,3)		0
+Question16_4	刀光剑影，兵戎相向，人才辈出，谁与争锋。(炼狱)	1		(ff002,4)		0

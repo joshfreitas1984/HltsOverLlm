@@ -1,0 +1,148 @@
+#id	Description	Alias	Formula
+fm00000	升級	升級公式	math.floor(((Level^1.5+150)*2+(Level*50))*((Level^2)+60)/60*0.75)
+fm_exp_sharing	經驗值分配	經驗值分配	(21-TeammateCount)/20  * Exp
+fm_weight	負重	負重	Neigong / 6 + Physique / 6 + 30 + math.ceil(Level / 4)
+fm_store	物品價錢	物品價錢	price*(multiple+1)*0.5
+fm_repair	修理價錢	修理價錢	price*((maxDurability-durability)/maxDurability)
+fm_decompose	拆解價錢	拆解價錢	price*0.1
+fm_steal	偷竊	得手機率	100-stealPrice+2*(myLevel-enemyLevel)-30*wearing-25*stolen+myStealKnowledge 
+fm_battle_exp	戰鬥經驗	戰鬥經驗	Level ^ 2 + 60
+fm_forge	鍛造	鍛造	value*constant*0.01*ratio*0.01
+fm_forge_weight	鍛造重量	重量	(baseWeight + materialsWeight) * 0.5
+fm_forge_durability	鍛造耐久	耐久	(baseDurability + materialsDurability) * 0.5
+fm_forge_weaponhurt	鍛造武器傷害	傷害	baseHurt * 0.5 + (math.random(min,max)) + materialHardness * 0.5
+fm_forge_armorhurt	鍛造護甲傷害	傷害	baseHurt * 0 + (math.random(min,max)) + materialHardness * 0.2
+fm_lv_up_add_hp	升級+HP	升級+HP	50 + ((Physique + 25) * 0.10) ^ 2
+fm_lv_up_add_mp	升級+MP	升級+MP	70 + ((Neigong + 10 ) * 0.04) ^ 2
+fm_exp	獲得經驗值	獲得經驗值	 1.05 + ((Intelligence + 96) * 0.006) ^ 2
+# 以下為戰鬥用公式
+fm_enemy_exp	敵方經驗	敵方經驗值計算公式	((Level^2+150)*2+(Level*50))*((Level^2)+60)/60*0.75
+fm_attack	傷害	傷害	(SkillDamage*0.7 + EquipDamage * ( math.min( 5,ApCost-5)*0.05 + 1.0) ) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( PersonalityYinAndYang * SkillYinAndYang * 0.003 ) )
+fm_atk_rect	傷害	傷害	(1.25-(math.min(TargetCount,4)*0.15)) * (SkillDamage*0.7 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.0)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( PersonalityYinAndYang * SkillYinAndYang * 0.003 )) 
+fm_atk_sector	傷害	傷害	(1.20-(math.min(TargetCount,4)*0.15)) * (SkillDamage*0.7 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.0)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( PersonalityYinAndYang * SkillYinAndYang * 0.003 ) )
+fm_atk_circle	傷害	傷害	(1.15-(math.min(TargetCount,4)*0.15)) * (SkillDamage*0.7 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.0)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( PersonalityYinAndYang * SkillYinAndYang * 0.003 ) )
+fm_atk_arrow	傷害	傷害	(Median * 0.8 + 0.6) * (SkillDamage*0.6 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.2)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( PersonalityYinAndYang * SkillYinAndYang * 0.003 ) )
+fm_atk_bow	傷害	傷害	(Median * 0.8 + 0.6) * (SkillDamage*0.6 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.5)) * ( 1 + ( math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( PersonalityYinAndYang * SkillYinAndYang * 0.003 ) )
+fm_neigong_atk_circle	傷害	傷害	(1.15-(math.min(TargetCount,4)*0.15)) * SkillDamage * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.001)) + (math.min( 100,(math.max(NeigongGap,0) )* 0.01)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( PersonalityYinAndYang * SkillYinAndYang * 0.003 ) )
+fm_very_yang_attack	傷害	傷害	(SkillDamage*0.7 + EquipDamage * ( math.min( 5,ApCost-5)*0.05 + 1.0) ) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.max ( ( PersonalityYinAndYang - 100 ) , -80 ) * SkillYinAndYang * 0.012 ) )
+fm_very_ying_attack	傷害	傷害	(SkillDamage*0.7 + EquipDamage * ( math.min( 5,ApCost-5)*0.05 + 1.0) ) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.min ( ( PersonalityYinAndYang + 100 ) , 80 ) * SkillYinAndYang * 0.012 ) )
+fm_very_yang_rect	傷害	傷害	(1.25-(math.min(TargetCount,4)*0.15)) * (SkillDamage*0.7 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.0)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.max ( ( PersonalityYinAndYang - 100 ) , -80 ) * SkillYinAndYang * 0.012 ) ) 
+fm_very_ying_rect	傷害	傷害	(1.25-(math.min(TargetCount,4)*0.15)) * (SkillDamage*0.7 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.0)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.min ( ( PersonalityYinAndYang + 100 ) , 80 ) * SkillYinAndYang * 0.012 ) ) 
+fm_very_yang_sector	傷害	傷害	(1.20-(math.min(TargetCount,4)*0.15)) * (SkillDamage*0.7 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.0)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.max ( ( PersonalityYinAndYang - 100 ) , -80 ) * SkillYinAndYang * 0.012 ) )
+fm_very_ying_sector	傷害	傷害	(1.20-(math.min(TargetCount,4)*0.15)) * (SkillDamage*0.7 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.0)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.min ( ( PersonalityYinAndYang + 100 ) , 80 ) * SkillYinAndYang * 0.012 ) )
+fm_very_yang_circle	傷害	傷害	(1.15-(math.min(TargetCount,4)*0.15)) * (SkillDamage*0.7 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.0)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.max ( ( PersonalityYinAndYang - 100 ) , -80 ) * SkillYinAndYang * 0.012 ) )
+fm_very_ying_circle	傷害	傷害	(1.15-(math.min(TargetCount,4)*0.15)) * (SkillDamage*0.7 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.0)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.min ( ( PersonalityYinAndYang + 100 ) , 80 ) * SkillYinAndYang * 0.012 ) )
+fm_very_yang_arrow	傷害	傷害	(Median * 0.8 + 0.6) * (SkillDamage*0.6 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.2)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + ( ( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.max ( ( PersonalityYinAndYang - 100 ) , -80 ) * SkillYinAndYang * 0.012 ) )
+fm_very_ying_arrow	傷害	傷害	(Median * 0.8 + 0.6) * (SkillDamage*0.6 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.2)) * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + ( ( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.min ( ( PersonalityYinAndYang + 100 ) , 80 ) * SkillYinAndYang * 0.012 ) )
+fm_very_yang_bow	傷害	傷害	(Median * 0.8 + 0.6) * (SkillDamage*0.6 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.5)) * ( 1 + ( math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.max ( ( PersonalityYinAndYang - 100 ) , -80 ) * SkillYinAndYang * 0.012 ) )
+fm_very_ying_bow	傷害	傷害	(Median * 0.8 + 0.6) * (SkillDamage*0.6 + EquipDamage*( math.min( 5,ApCost-5)*0.05 + 1.5)) * ( 1 + ( math.min( 100,(math.max(NeigongGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.min ( ( PersonalityYinAndYang + 100 ) , 80 ) * SkillYinAndYang * 0.012 ) )
+fm_neigong_very_yang_circle	傷害	傷害	(1.15-(math.min(TargetCount,4)*0.15)) * SkillDamage * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.001)) + (math.min( 100,(math.max(NeigongGap,0) )* 0.01)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.max ( ( PersonalityYinAndYang - 100 ) , -80 ) * SkillYinAndYang * 0.012 ) )
+fm_neigong_very_ying_circle	傷害	傷害	(1.15-(math.min(TargetCount,4)*0.15)) * SkillDamage * ( 1 + ( math.min( 100,(math.max(HurtGap,-20) )* 0.001)) + (math.min( 100,(math.max(NeigongGap,0) )* 0.01)) + (( math.max( (Level-TLevel),-20 )*0.01) ) + ( math.min ( ( PersonalityYinAndYang + 100 ) , 80 ) * SkillYinAndYang * 0.012 ) )
+fm_heal	治療	治療	SkillDamage * ( 1 + Doctor*0.006 + ApCost*0.04 + Level*0.01)
+fm_max_ap	MaxAP	MaxAP	math.ceil( (4 + math.ceil(Level / 10)) * 1.5 )
+fm_ap_recover	AP回復	AP回復	4 + math.ceil(Level / 10)
+fm_cntatk	反擊值	反擊值	CounterAttackRecovery
+fm_critical	爆擊值	爆擊值	CriticalRecovery
+fm_release	卸勁值	卸勁值	ReleaseRecovery
+fm_combo	連擊值	連擊值	ComboRecovery
+fm_trick	虛招值	虛招值	TrickRecovery
+fm_dodge	閃避值	閃避值	20
+fm_cntat_value	反擊數值	反擊	100+(CounterAttackValue)
+fm_critical_value	爆擊數值	爆擊值	100+(CriticalValue)
+fm_release_value	卸勁數值	卸勁值	100-(TReleaseValue)
+fm_combo_value	連擊數值	連擊精力	ComboValue
+fm_trick_value	虛招數值	虛招值	TrickValue
+fm_sealed	封穴效果	精力上限被除減少係數	1
+fm_debufferFactor1	負面狀態級距1	1~49	DebufferValue>=1 and DebufferValue <=49
+fm_debufferFactor2	負面狀態級距2	50~100	DebufferValue>=50
+fm_injured1	內傷流失血量	內傷級距1	math.min(800,10+(Injured-0)/10*0.01*MaxHP)
+fm_injured2	內傷流失血量	內傷級距2	math.min(1000,10+(Injured-0)/10*0.01*MaxHP)
+fm_wounded_hploss_begin1	每回合流失的氣血	外傷1	math.min(600,10+(Wounded-0)/7*0.01*MaxHP)
+fm_wounded_hploss_begin2	每回合流失的氣血	外傷2	math.min(800,10+(Wounded-0)/7*0.01*MaxHP)
+fm_dazed_begin1	每回合機率跳過	暈眩1	Dazed*0.25
+fm_dazed_begin2	每回合機率跳過	暈眩2	Dazed*0.25
+fm_poisoned_mploss_begin1	每回合流失的內力	中毒1	math.min(300,10+(Poisoned-0)/6*0.01*MaxMP)
+fm_poisoned_mploss_begin2	每回合流失的內力	中毒2	math.min(500,10+(Poisoned-0)/6*0.01*MaxMP)
+fm_sealed_aploss_begin1	每回合精力恢復減少	封穴1	Sealed*0.05
+fm_sealed_aploss_begin2	每回合精力恢復減少	封穴2	Sealed*0.05
+fm_frozen_aploss_begin1	每回合精力恢復減少	冰封1	Frozen*0.05
+fm_frozen_aploss_begin2	每回合精力恢復減少	冰封2	Frozen*0.05
+fm_poisoned_aploss_begin1	每回合精力恢復減少	中毒1	Poisoned*0.02
+fm_poisoned_aploss_begin2	每回合精力恢復減少	中毒2	Poisoned*0.02
+fm_poisoned_damagedown1	中毒傷害減少1	傷害減少1	(Poisoned-0)/4*0.01
+fm_poisoned_damagedown2	中毒傷害減少2	傷害減少2	(Poisoned-0)/4*0.01
+fm_poisoned_damageup1	中毒傷害增加1	傷害增加1	(TPoisoned-0)/4*0.01
+fm_poisoned_damageup2	中毒傷害增加2	傷害增加2	(TPoisoned-0)/4*0.01
+fm_sprained_damage1	錯骨造成傷害減少1	傷害減少1	Sprained*0.005
+fm_sprained_damage2	錯骨造成傷害減少2	傷害減少2	Sprained*0.005
+fm_confused_damage1	迷惑受到傷害增加1	傷害增加1	TConfused*0.005
+fm_confused_damage2	迷惑受到傷害增加2	傷害增加2	TConfused*0.005
+fm_cramped	分筋公式	每AP移動距離減少	(1 - Cramped *0.008)
+fm_weapon_broke_prob	戰鬥武器損壞機率	武器損壞機率	(6 - ItemLevel) * 5
+fm_armor_broke_prob	戰鬥護甲損壞機率	護甲損壞機率	(6 - ItemLevel) * 5
+fm_ItemLevel_0	白色物品	戰鬥掉落機率	40
+fm_ItemLevel_1	綠色物品	戰鬥掉落機率	30
+fm_ItemLevel_2	藍色物品	戰鬥掉落機率	20
+fm_ItemLevel_3	紫色物品	戰鬥掉落機率	10
+fm_ItemLevel_5	金色物品	戰鬥掉落機率	2
+fm_EndUnit_hpRecovery	單位結束恢復	氣血	math.min(6,1+AP)*MaxHP*0.01
+fm_EndUnit_mpRecovery	單位結束恢復	內力	math.min(800,200+math.min(10,4+AP)*MaxMP*0.013)
+fm_SKillTree144_000	嬋娟一劍	不受內功影響	(SkillDamage*0.8 + EquipDamage*1.0) * (1+ (math.min( 100,(math.max(HurtGap,-20) )* 0.003)) + (( math.max( (Level-TLevel),-20 )*0.01) )  )
+fm_animal	野獸	不受內功、武學影響	( SkillDamage*0.6  ) * (1+(ApCost*0.03)) * (math.random(75, 125) * 0.01)  
+# 前面 + T 為目標敵人數值，例如 TLevel 為敵人等級
+# 可使用參數為
+# Level 等級
+# HP 血量
+# MaxHP 血量上限
+# MP 內力
+# MaxMP 內力上限
+# AP 行動點
+# MaxAP 行動點上限
+
+#SealedFactor*ActionPointCost*0.05*MaxMP
+#CriticalRecovery     天賦爆擊值
+#ReleaseRecovery      天賦卸勁值
+#ComboRecovery        天賦連擊值
+#CounterAttackRecovery天賦反擊值
+#TrickRecovery        天賦虛招值
+
+# Release 目前卸勁值
+# MoveRangePerAP 每 AP 可移動的距離 (乘 0.01 才是遊戲中的數值)
+# Radius ZOC
+# 
+# Fast 動
+# Slow 靜
+# Hard 剛
+# Soft 柔
+# Clever 巧
+# Simple 拙
+# 
+# Fight 搏擊
+# Sword 劍法
+# Blade 刀法
+# Spear 槍棍
+# Arrow 箭術
+# Short 短兵
+# Doctor 醫術
+# Poison 毒術
+# Qinggong 輕功
+# Neigong 內功
+
+# Wounded 外傷
+# Poisoned 中毒
+# Injured 內傷
+# Sealed 封穴
+# Confused 迷惑
+# Dazed 暈眩
+# Cramped 分筋
+# Sprained 錯骨
+# Exhausted 散功
+# Frozen 冰封
+# Drunk 醉意
+
+# HurtGap 武學差距
+# NeigongGap 內功差距
+# Distance 敵我距離
+# Median 敵人距離技能最近至最遠範圍中間的距離，1 代表離中間距離最近，往邊緣遞減至 0
+# TargetCount 招式打到的敵人數量
+# ApCost 這次攻擊消耗的精力

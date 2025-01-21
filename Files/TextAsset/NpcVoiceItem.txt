@@ -1,0 +1,291 @@
+BattleEffectVoiceMale	戰鬥音效男			m_long01.wav,m_long03.wav	m_short01.wav,m_short02.wav,m_short03.wav	
+BattleEffectVoiceFemale	戰鬥音效女			w_long01.wav,w_long02.wav,w_long03.wav	w_short01.wav,w_short02.wav,w_short03.wav	
+test000	梅信輝測試	test01,test02,test03				
+v00001	梅紅綺(任務完成後)		v00001_f02.wav,v00001_f03.wav	v00001_long.wav	v00001_short.wav	
+v00002	梅星河		v00002_f01.wav,v00002_f02.wav	v00002_long.wav	v00002_short.wav	
+v00002b	梅星河(豹王寨)		v00002_f02.wav			
+v00003	梅小青	v00003_c01.wav,v00003_c02.wav				
+v00004	真鄉勇01	v00019_f01.wav	v00004_f01.wav			
+v00005	真鄉勇02		v00005_f01.wav			
+v00006	真鄉勇03		v00006_f01.wav			
+v00007	流寇01		v00007_f01.wav			
+v00008	流寇02		v00008_f01.wav			
+v00009	流寇03		v00009_f01.wav			
+v00010	梅信輝	v00010_c01.wav				
+v00011	楊柳	v00011_c01.wav				
+v00012	梅鑄方	v00012_c01.wav				
+v00013	吉大發	v00013_c01.wav				
+v00014	束阿桂	v00014_c01_01.wav				
+v00015	梅天雄	v00015_c01.wav	v00015_f01.wav			
+v00016	小乞丐	v00016_c01.wav	v00016_f01.wav			
+v00017	符阿翠	v00017_c01_01.wav				
+v00018	農人01	v00018_c01_02.wav	v00018_f01.wav			
+v00019	農人02	v00019_c01.wav	v00019_f01.wav			
+v00020	農人03	v00020_c01.wav	v00020_f01.wav			
+v00021	農婦01	v00021_c01.wav	v00021_f01.wav			
+v00022	農婦02	v00022_c01.wav	v00022_f01.wav			
+v00023	賣藥郎中	v00023_c01.wav				
+v00024	孔金		v00024_f01.wav,v00024_f02.wav,v00024_f03.wav,v00024_c01.wav			
+v00025	藍拂衣		v00025_f01.wav,v00025_f02.wav	v00025_long.wav	v00025_short.wav	
+v00026	不赦樓門人		v00026_f01.wav,v00026_f02.wav,v00026_f03.wav			
+v00027	段思平		v00027_f01.wav,v00027_f02.wav,v00027_f03.wav	v00027_long.wav	v00027_short.wav	
+v00028	段思良		v00028_f01.wav,v00028_f02.wav			
+v00029	董迦羅		v00029_f01.wav,v00029_f02.wav			
+v00030	董府護衛	v00030_c01.wav	v00030_f01.wav,v00030_c01.wav			
+v00031	何白芍		v00031_f01.wav,v00031_f02.wav,v00031_f03.wav			
+v00032	何紫菀		v00032_f01.wav,v00032_f02.wav,v00032_f03.wav			
+v00033	徐暇客		v00033_f01.wav,v00033_c01.wav,v00033_c02.wav			
+v00034	李嘆		v00034_f01.wav,v00034_f02.wav,v00034_f03.wav			
+v00035	漆笑兒		v00035_f01.wav,v00035_f02.wav,v00035_f03.wav	v00035_long.wav	v00035_short.wav	
+v00036	樊香蝶		v00036_f01.wav,v00036_f02.wav,v00036_f03.wav			
+v00037	農人03	v00018_c01_01.wav	v00020_f01.wav			
+v00038	農婦04	v00021_c01_01.wav				
+v00039	農婦05	v00017_c01_02.wav				
+v00040	小孩01	v00003_c02_01.wav				
+v00041	小孩02	v00016_c01_01.wav				
+v00042	流寇04		v00042_f01.wav			
+v00050	泛用老村民男-溫和	v00050_c01.wav				
+v00051	泛用老村民男-不耐煩	v00051_c01.wav				
+v00052	泛用老村民女-溫和	v00052_c01.wav				
+v00053	泛用老村民女-不耐煩	v00053_c01.wav	v00022_f01.wav			
+v00054	泛用中年村民男-溫和	v00054_c01.wav				
+v00055	泛用中年村民男-不耐煩	v00055_c01.wav				
+v00056	泛用中年村民女-溫和	v00056_c01.wav				
+v00057	泛用中年村民女-不耐煩	v00057_c01.wav				
+v00058	泛用青年村民男-溫和	v00058_c01.wav				
+v00059	泛用青年村民男-不耐煩	v00059_c01.wav				
+v00060	泛用青年村民女-溫和	v00060_c01.wav				
+v00061	泛用青年村民女-不耐煩	v00061_c01.wav				
+v00062	泛用小孩子男	v00062_c01.wav				
+v00063	泛用小孩子女	v00063_c01.wav				
+v00064	農人04	v00019_f01.wav				
+v00065	龔元魁	v00009_f01.wav				
+v00066	大黑天神使者	v00066_c01.wav	v00066_f01.wav			
+v00067	小容秀	v00067_c01.wav				
+v00068	山魈鬼王		v00068_f01.wav			
+v00068b	山魈鬼王(找黃裳)		v00068_f01.wav,v00068_f02.wav			
+v00069	木初		v00069_f01.wav,v00069_f02.wav			
+v00070	木府士兵(木初)	v00070_c01.wav,v00070_c02.wav	v00070_f01.wav,v00070_f02.wav			
+v00070b	木府士兵(木府外)	v00070_c01.wav	v00070_f02.wav,v00071_f02.wav			
+v00070c	木府士兵(木府內)	v00070_c02.wav	v00070_f02.wav,v00071_f02.wav			
+v00070d	木府士兵(射藝大會)	m_short03.wav	m_long02.wav			
+v00071	木府士兵(木奎)		v00071_f01.wav			
+v00071b	木府士兵(大研鎮巡邏)	v00071_c01.wav,v00071_c02.wav				
+v00072	木府僕從長	v00072_c01.wav				
+v00073	葉玉龍		v00073_f01.wav,v00073_f02.wav	v00073_long.wav	v00073_short.wav	
+v00074	葉金虹		v00074_f01.wav			
+v00075	葉家馬幫幫眾01	v00075_c01.wav	v00075_f01.wav			
+v00076	葉家馬幫幫眾02	v00076_c01.wav	v00076_f01.wav			
+v00077	禾家馬幫幫眾01	v00077_c01.wav	v00077_f01.wav			
+v00078	禾家馬幫幫眾02	v00077_c01.wav	v00078_f01.wav			
+v00079	禾泓淵(戰禾鬱青)		v00079_f01.wav	v00079_long.wav	v00079_short.wav	v00079_dead.wav
+v00079b	禾泓淵(戰山魈鬼王)		v00079_f02.wav	v00079_long.wav	v00079_short.wav	v00079_dead.wav
+v00080	百里憚赫		v00080_f01.wav,v00080_f02.wav	v00080_long.wav	v00080_short.wav	
+v00081	中年和尚	v00081_c01.wav,v00081_c02.wav				
+v00081b	中年和尚(只說阿彌陀佛)	v00081_c01.wav	v00081_c01.wav			
+v00082	青年和尚	v00082_c01.wav				
+v00083	張又沉		v00083_f01.wav,v00083_f01.wav	v00083_long.wav	v00083_short.wav	v00083_dead.wav
+v00084	沈丹菱	v00084_c01.wav				
+v00085	容艷雪	v00085_c01.wav	v00085_f01.wav			
+v00086	周益		v00086_f01.wav			
+v00087	官兵01	v00087_c01.wav	v00087_f01.wav			
+v00088	官兵02	v00088_f01.wav	v00088_f02.wav,v00088_c01.wav			
+v00088b	官兵(望隴村)	v00087_c01.wav	v00087_c01.wav,v00087_f01.wav			
+v00088c	官兵(望隴村)	v00088_f01.wav	v00088_f02.wav,v00088_c01.wav			
+v00089	明教老者	v00089_c01.wav,v00089_c02.wav,v00089_c03.wav,v00089_c04.wav,v00089_c05.wav,v00089_c06.wav	v00089_f01.wav,v00089_f02.wav,v00089_f03.wav			
+v00090	明教教徒01	v00090_c01.wav,v00090_c02.wav,v00090_c03.wav,v00090_c04.wav,v00090_c05.wav,v00090_c06.wav	v00090_f01.wav,v00090_f02.wav,v00090_f03.wav			
+v00091	明教教徒02	v00091_c01.wav				
+v00092	邵如珏	v00092_c01.wav				
+v00093	邵謙	v00093_c01.wav				
+v00094	俏夢閣女子	v00094_c01.wav	v00094_f01.wav			
+v00095	俏夢閣客人	v00095_c01.wav,v00095_c02.wav				
+v00096	戰胤飛		v00096_f01.wav,v00096_f02.wav			
+v00097	貴族男孩	v00097_c01.wav				
+v00098	桑登	v00098_c01.wav	v00098_f01.wav,v00098_f02.wav,v00098_f03.wav			
+v00099	戚如瀟		v00099_f01.wav			
+v00100	索巴南卓	v00100_c01.wav	v00100_f01.wav			
+v00101	漱玉磯居民01	v00101_c01.wav	v00101_f01.wav			
+v00102	漱玉磯居民02	v00101_c02.wav				
+v00103	漱玉磯居民03	v00101_c03.wav				
+v00104	漱玉磯居民04	v00101_c04.wav				
+v00105	漱玉磯居民05	v00101_c05.wav				
+v00106	漱玉磯居民06	v00106_c01.wav				
+v00107	黃裳		v00107_f01.wav,v00107_f02.wav			
+v00108	景泰然		v00108_f01.wav			
+v00109	董春蓮		v00109_f01.wav			
+v00110	錦衣衛	v00110_c01.wav	v00110_f01.wav,v00110_f02.wav			
+v00111	顏玉書		v00111_f01.wav,v00111_f02.wav,v00111_f03.wav	v00111_long.wav	v00111_short.wav	v00111_dead.wav
+v00112	噶瑪寺僧01	v00112_c01.wav,v00112_c02.wav	v00112_f01.wav,v00112_f02.wav			
+v00113	噶瑪寺僧02	v00113_c01.wav				
+v00114	明熙公子	v00114_c01.wav				
+v00115	老年男性商人泛用	v00115_c01.wav				
+v00116	老年女性商人泛用	v00116_c01.wav				
+v00117	中年男性商人泛用	v00117_c01.wav				
+v00118	中年女性商人泛用	v00118_c01.wav				
+v00119	水果店老闆娘	v00119_c01.wav				
+v00120	肉店老闆	v00120_c01.wav				
+v00121	毛皮店老闆	v00121_c01.wav				
+v00122	客棧老闆	v00122_c01.wav				
+v00123	店小二	v00123_c01.wav				
+v00124	酒店老闆	v00124_c01.wav				
+v00125	肉包店老闆	v00125_c01.wav				
+v00126	餅店老闆	v00126_c01.wav				
+v00127	賣菜老闆娘	v00127_c01.wav				
+v00128	當鋪老闆	v00128_c01.wav				
+v00129	麵店老闆	v00129_c01.wav				
+v00130	藥店老闆	v00130_c01.wav				
+v00131	泛用戰鬥-男村人(老)	v00050_c01.wav	v00005_f01_01.wav			
+v00132	泛用戰鬥-男村人(老)	v00051_c01.wav	v00007_f01_01.wav			
+v00133	泛用戰鬥-女(阿嫂)	v00057_c01.wav	v00021_f01.wav			
+v00134	賽伊尹		v00134_f01.wav,v00134_f02.wav			
+v00135	貴族女孩	v00135_c01.wav				
+v00136	錦衣衛首領		v00136_f01.wav			
+v00137	陶大石		v00137_f01.wav			
+v00138	酒莊弟子-大郎		v00138_f01.wav	v00138_long.wav	v00138_short.wav	v00138_dead.wav
+v00139	酒莊弟子-二郎		v00139_f01.wav	v00139_long.wav	v00139_short.wav	v00139_dead.wav
+v00140	酒莊弟子-三郎		v00140_f01.wav	v00140_long.wav	v00140_short.wav	v00140_dead.wav
+v00141	酒莊莊主		v00141_f01.wav	v00141_long.wav	v00141_short.wav	v00141_dead.wav
+v00142	酒莊老太爺		v00142_f01.wav	v00142_long.wav	v00142_short.wav	v00142_dead.wav
+v00143	酒莊弟子(嫡系)	v00143_c01.wav	v00143_f01.wav			
+v00144	酒莊弟子(旁系)	v00144_c01.wav	v00144_f01.wav			
+v00145	阿泰阿席	v00145_c01.wav	v00145_f01.wav			
+v00146	阿從阿季	v00146_c01.wav	v00146_f01.wav			
+v00147	李連		v00147_f01.wav			
+v00148	阿九		v00148_f01.wav			
+v00149	鷹獵人聚落男性	v00149_c01.wav	v00149_f01.wav			
+v00150	鷹獵人聚落女性	v00150_c01.wav				
+v00151	鷹獵人聚落男孩	v00151_c01.wav				
+v00152	鷹獵人聚落女孩	v00152_c01.wav				
+v00153	鷹獵人聚落老者	v00153_c01.wav				
+v00154	鷹獵人聚落老婦	v00154_c01.wav				
+v00155	陳之濟		v00155_f01.wav	v00155_long.wav	v00155_short.wav	v00155_dead.wav
+v00156	石鴻圖		v00156_f01.wav	v00156_long.wav	v00156_short.wav	
+v00157	杜玉緋		v00157_c01.wav			
+v00158	程雁華		v00158_f01.wav	v00158_long.wav	v00158_short.wav	v00158_dead.wav
+v00159	東方遲		v00159_f01.wav,v00159_f02.wav			
+v00160	太華門人(男)	v00160_c01.wav	v00160_f01.wav,v00160_f02.wav			
+v00161	太華門人(女)	v00161_c01.wav	v00161_f01.wav			
+v00162	顓孫凝	v00162_c01.wav,v00162_c02.wav	v00162_f01.wav,v00162_f02.wav			
+v00163	偽裝的殺手01		v00163_f01.wav			
+v00164	偽裝的殺手02		v00164_f01.wav			
+v00165	茶莊夥計	v00165_c01.wav	v00112_f02.wav			
+v00166	山魈惡鬼		v00166_f01.wav,v00166_f02.wav			
+v00167	青海黑教番僧		v00167_f01.wav,v00167_f02.wav			
+v00168	夏札爾		v00168_f01.wav,v00168_f02.wav			
+v00169	沈澤琦	v00169_c01.wav	v00169_f01.wav,v00169_f02.wav	v00169_long.wav	v00169_short.wav	v00169_dead.wav
+v00170	南詔士兵(邪)	v00170_c01.wav	v00170_f01.wav			
+v00171	書院院生01	v00171_c01.wav				
+v00172	書院院生02	v00172_c01.wav				
+v00173	書院院生03	v00173_c01.wav				
+v00174	書院院生04	v00174_c01.wav				
+v00175	書院廢材院生01	v00175_c01.wav				
+v00176	書院廢材院生02	v00176_c01.wav				
+v00177	書院廢材院生03	v00177_c01.wav				
+v00178	說書人	v00178_c01.wav,v00178_c02.wav				
+v00179	美饌樓上桌食客01	v00179_c01.wav				
+v00180	美饌樓上桌食客02	v00180_c01.wav				
+v00181	美饌樓上桌食客(女)	v00181_c01.wav				
+v00182	美饌樓排隊食客01	v00182_c01.wav				
+v00183	美饌樓排隊食客02	v00183_c01.wav				
+v00184	凌中嶽	v00184_c01.wav,v00184_c02.wav	v00184_f01.wav,v00184_f02.wav	v00184_long.wav	v00184_short.wav	v00184_dead.wav
+v00185	青城弟子(四川)	v00185_c01.wav,v00185_c02.wav	v00185_f01.wav,v00185_f02.wav			
+v00186	青城弟子(四川)	v00186_c01.wav,v00186_c02.wav	v00186_f01.wav,v00186_f02.wav			
+v00187	解凜仁(四川)	v00187_c01.wav,v00187_c02.wav	v00187_f01.wav			
+v00188	凌霜峻		v00188_f01.wav,v00188_f02.wav	v00188_long.wav	v00188_short.wav	v00188_dead.wav
+v00189	心良道人	v00189_c01.wav	v00189_f01.wav	v00189_long.wav	v00189_short.wav	v00189_dead.wav
+v00190	流寇(四川)	v00190_c01.wav	v00190_f01.wav,v00190_f02.wav			
+v00191	張君寶(殺韃子)		v00191_f01.wav			
+v00191b	張君寶(入隊)		v00191_f02.wav,v00191_f03.wav			
+v00192a	百損綠茶婊(蘇州)		v00192_f01.wav	v00192_long.wav	v00192_short.wav	
+v00192b	百損真相(蘇州)		v00192_f02.wav,v00192_f03.wav			
+v00192c	百損公主病(蘇州)		v00192_f04.wav,v00192_f05.wav			
+v00193	女打仔(泛用)		v00193_f01.wav			
+v00194	可疑人士	v00194_c01.wav,v00194_c02.wav				
+v00195	赤丹宮妖人		v00195_f01.wav,v00195_f02.wav			
+v00196	赤丹宮宮主		v00196_f01.wav	v00196_long.wav	v00196_short.wav	v00196_dead.wav
+v00197	飽受驚嚇的村民(男)	v00197_c01.wav				
+v00198	飽受驚嚇的村民(女)	v00198_c01.wav				
+v00199	王喆(闖擎天寨)		v00199_f01.wav	v00199_long.wav	v00199_short.wav	v00199_dead.wav
+v00199b	王喆(擎天寨事變後)		v00199_f02.wav	v00199_long.wav	v00199_short.wav	v00199_dead.wav
+v00199c	王喆(李、白死後)		v00199_f03.wav,v00199_f04.wav	v00199_long.wav	v00199_short.wav	v00199_dead.wav
+v00199d	王喆(收復擎天寨後)		v00199_f04.wav	v00199_long.wav	v00199_short.wav	v00199_dead.wav
+v00200	白露霜		v00200_f01.wav,v00200_f02.wav	v00200_long.wav	v00200_short.wav	v00200_dead.wav
+v00201	李彥仙		v00201_f01.wav			
+v00202	馬從義	v00202_c01.wav				
+v00203	丐幫幫眾(為周舵主復仇)		v00203_f01.wav,v00203_f02.wav			
+v00204	老乞丐	v00204_c01.wav	v00203_f02.wav			
+v00205	擎天寨眾(正)01	v00205_c01.wav	v00205_f01.wav			
+v00206	擎天寨眾(正)02	v00206_c01.wav	v00206_f01.wav			
+v00207	擎天寨眾(正)03	v00207_c01.wav	v00207_f01.wav			
+v00208	擎天寨眾(正)04	v00208_c01.wav	v00208_f01.wav			
+v00209	擎天寨眾(邪)01		v00209_f01.wav,v00209_f02.wav			
+v00210	擎天寨眾(邪)02		v00210_f01.wav			
+v00211	駱元玉		v00211_f01.wav,v00211_f02.wav			
+v00212	韓猊跋		v00212_f01.wav,v00212_f02.wav	v00212_long.wav	v00212_short.wav	v00212_dead.wav
+v00213	桃谷六怪共享		v00213_f01.wav,v00213_f02.wav,v00213_f03.wav,v00213_f04.wav,v00213_f05.wav			
+v00214	俏夢閣女子	v00214_c01.wav				
+v00215	小水仔	v00016_f01.wav				
+v00216	高傲莽漢	v00005_f01_01.wav	v00007_f01_01.wav			
+v00217	禾鬱青(找到哥哥前)		v00217_f01.wav,v00217_f02.wav	v00217_long.wav	v00217_short.wav	
+v00217b	禾鬱青(戰山魈鬼王)		v00217_f03.wav			
+v00217c	禾鬱青(戰山魈鬼王後)		v00217_f01.wav,v00217_f02.wav,v00217_f03.wav			
+v00218	東郭強	v00218_c01.wav,v00218_c02.wav	v00218_f01.wav,v00218_f02.wav			
+v00219	燕槐	v00219_c01.wav	v00219_f01.wav			
+v00220	燕巧	v00220_f01.wav	v00220_f01.wav			
+v00221	刁不易	v00221_f01.wav	v00221_f02.wav			
+v00222	金滿腹	v00222_c01.wav,v00222_c02.wav,v00222_c03.wav				
+v00223	步絕塵	v00223_c01.wav,v00223_c02.wav,v00223_c03.wav				
+v00224	馮觀戲		v00224_f01.wav,v00224_f02.wav			
+v00225	李崖主	v00225_c01.wav,v00225_c02.wav,v00225_c03.wav	v00225_f01.wav,v00225_f02.wav,v00225_f03.wav			
+v00226	李惑相		v00226_f01.wav,v00226_f02.wav			
+v00227	阿得阿克		v00227_f01.wav,v00227_f02.wav		v00227_short.wav	
+v00228	陸常稽		v00228_f01.wav,v00228_f02.wav			
+v00228b	陸常稽(熱茶時)		v00228_f01.wav,v00228_f02.wav			
+v00229	火工頭陀	v00229_c01.wav	v00229_f01.wav,v00229_f02.wav			
+v00230	喪屍魁儡人(女)		v00230_f01.wav			
+v00231	喪屍魁儡人(小孩)		v00231_f01.wav			
+v00232	臥底官差	v00232_c01.wav	v00232_f01.wav			
+v00233	郝信	v00233_c01.wav	v00233_f01.wav			
+v00234	戚長風	v00234_c01.wav	v00234_f01.wav			
+v00235	丁承澐		v00235_f01.wav			
+v00236	劉鐵骨	v00236_c01.wav	v00236_f01.wav			
+v00237	余三白	v00237_c01.wav	v00201_f01.wav			
+v00238	令狐雲	v00238_c01.wav				
+v00239	衙役	v00239_c01.wav				
+v00240	酒莊弟子(偷喝酒)	v00240_c01.wav	v00240_c01.wav,v00240_c02.wav			
+v00241	青樓客人(不愛男人)	v00241_c01.wav				
+v00242	雲種火	v00242_c01.wav,v00242_c02.wav	v00242_f04.wav,v00242_f05.wav,v00242_f06.wav,v00242_f07.wav			
+v00243	梅紅綺(任務完成前)		v00001_f02.wav,v00001_f03.wav			
+v00244	乞丐(雞骨頭)	v00244_c01.wav	v00244_f01.wav			
+v00245	楊天義		v00245_f01.wav,v00245_f02.wav	v00245_long.wav	v00245_short.wav	
+v00246	木奎		v00246_f01.wav,v00246_f02.wav	v00246_long.wav	v00246_short.wav	
+v00247	令狐雲	v00247_c01.wav				
+v00248	馮秋香	v00248_c01.wav	v00248_c02.wav			
+v00249	江洋大盜	v00249_f02.wav	v00249_f01.wav			
+v00250	杜府家丁	v00250_c01.wav				
+v00251	杜府婢女(覺得不可以)	v00251_c01.wav				
+v00252	杜府婢女(覺得可以)	v00252_c01.wav				
+v00253	喪屍魁儡人(男)		v00253_f01.wav			
+v00254	孟桐	v00254_c01.wav	v00254_f01.wav,v00254_c01.wav			
+v00255	花仲城		v00255_f01.wav			
+v00256	虞康時	v00256_c01.wav				
+v00257	張烈海	v00257_c01.wav	v00257_f01.wav			
+v00258	淘石幫眾	v00258_c01.wav,v00258_c02.wav				
+v00259	淘石幫眾	v00259_c01.wav	v00259_f01.wav			
+v00260	衙役	v00260_c01.wav,v00260_c02.wav	v00260_f01.wav			
+v00261	糜壬言	v00261_c01.wav				
+v10001	公雞	v10001.wav	v10001.wav			
+v10002	老虎	v10002.wav	v10002.wav			
+v10003	老鷹	v10003.wav	v10003.wav			
+v10004	狼	v10004.wav	v10004.wav			
+v10005	豹	v10002.wav	v10002.wav			
+v10006	蛇	v10006.wav	v10006.wav			
+v10007	野豬	v10007.wav	v10007.wav			
+v10008	猴子	v10008.wav	v10008.wav			
+v10009	熊	v10009.wav	v10009.wav			
+v10010	鱷魚	v10010.wav	v10010.wav			
+v10011	牛	v10011.wav	v10011.wav			
+v00262	圖勒	v00262_c01.wav	v00262_f01.wav			
+v00263	花仲城		v00263_f01.wav			
+v00264	蘇清瑞(復容)	v00264_c01.wav	v00264_f01.wav			
+v00265	蘇清瑞(包頭)	v00264_f02.wav	v00264_f01.wav			

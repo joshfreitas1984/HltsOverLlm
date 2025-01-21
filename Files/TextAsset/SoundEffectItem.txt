@@ -1,0 +1,79 @@
+Mute	
+LevelUp	Resources_Audio/SoundEffect/UISound0042.wav
+#�q�έ���
+Title	Resources_Audio/SoundEffect/UISound0001.wav
+WindBlow	Resources_Audio/SoundEffect/UISound0002.wav
+NextTalk	Resources_Audio/SoundEffect/UISound0003.wav
+OpenBook	Resources_Audio/SoundEffect/UISound0004.wav
+CloseBook	Resources_Audio/SoundEffect/UISound0005.wav
+FlipBook	Resources_Audio/SoundEffect/UISound0006.wav
+InventoryTab	Resources_Audio/SoundEffect/UISound0007.wav
+TeammateTab	Resources_Audio/SoundEffect/UISound0008.wav
+Slide	Resources_Audio/SoundEffect/UISound0009.wav
+Confirm	Resources_Audio/SoundEffect/UISound0010.wav
+Cancel	Resources_Audio/SoundEffect/UISound0011.wav
+#���
+QuestStart	Resources_Audio/SoundEffect/UISound0017.wav
+QuestUpdate	Resources_Audio/SoundEffect/UISound0018.wav
+QuestComplete	Resources_Audio/SoundEffect/UISound0019.wav
+TrackQuest	Resources_Audio/SoundEffect/Test_CantUse.wav
+#�D��˳�
+UseMedicine	Resources_Audio/SoundEffect/UISound0020.wav
+UseFood	Resources_Audio/SoundEffect/UISound0021.wav
+EquipWeapon	Resources_Audio/SoundEffect/UISound0012.wav
+EquipCloth	Resources_Audio/SoundEffect/UISound0013.wav
+EquipFashion	Resources_Audio/SoundEffect/UISound0014.wav
+EquipJewelry	Resources_Audio/SoundEffect/UISound0015.wav
+EquipBook	Resources_Audio/SoundEffect/UISound0016.wav
+EquipNeigong	Resources_Audio/SoundEffect/Test_Select06.wav
+#EquipBook	Resources_Audio/SoundEffect/Test_Select07.wav
+#�Z�ǻP�P��
+LearnSkill	Resources_Audio/SoundEffect/UISound0023.wav
+LearnTalent	Resources_Audio/SoundEffect/UISound0025.wav
+ChangeTalentTree	Resources_Audio/SoundEffect/UISound0024.wav
+#LearnSimple	Resources_Audio/SoundEffect/Test_Select06.wav
+#LearnHard	Resources_Audio/SoundEffect/Test_Select07.wav
+#LearnSoft	Resources_Audio/SoundEffect/Test_Select12.wav
+#LearnFast	Resources_Audio/SoundEffect/Test_Select21.wav
+#LearnSlow	Resources_Audio/SoundEffect/Test_Select23.wav
+#LearnClever	Resources_Audio/SoundEffect/Test_Slide06.wav
+#LearnSpear	Resources_Audio/SoundEffect/Test_Select03.wav
+#LearnQinggong	Resources_Audio/SoundEffect/Test_Select04.wav
+#LearnNeigong	Resources_Audio/SoundEffect/Test_Select06.wav
+#LearnFight	Resources_Audio/SoundEffect/Test_Select07.wav
+#LearnShort	Resources_Audio/SoundEffect/Test_Select12.wav
+#LearnPoison	Resources_Audio/SoundEffect/Test_Select12.wav
+#LearnArrow	Resources_Audio/SoundEffect/Test_Select21.wav
+#LearnSword	Resources_Audio/SoundEffect/Test_Silde03.wav
+#LearnDoctor	Resources_Audio/SoundEffect/Test_Slide06.wav
+#LearnBlade	Resources_Audio/SoundEffect/Test_Slide08.wav
+#�Ͳ���y
+Drug	Resources_Audio/SoundEffect/Test_Select06.wav
+Forge	Resources_Audio/SoundEffect/Test_Select07.wav
+Cook	Resources_Audio/SoundEffect/Test_Select21.wav
+Poison	Resources_Audio/SoundEffect/Test_Slide06.wav
+DrugFinish	Resources_Audio/SoundEffect/UISound0033.wav
+PoisonFinish	Resources_Audio/SoundEffect/UISound0034.wav
+CookFinish	Resources_Audio/SoundEffect/UISound0035.wav
+ForgeMaterial	Resources_Audio/SoundEffect/UISound0028.wav
+ForgeFinish	Resources_Audio/SoundEffect/UISound0029.wav
+RepairFinish	Resources_Audio/SoundEffect/UISound0030.wav
+DecomposeFinish	Resources_Audio/SoundEffect/UISound0031.wav
+QuenchFinish	Resources_Audio/SoundEffect/UISound0032.wav
+#��
+Rest	Resources_Audio/SoundEffect/UISound0022.wav
+#���
+TradingSuccess	Resources_Audio/SoundEffect/UISound0026.wav
+TradingFail	Resources_Audio/SoundEffect/UISound0027.wav
+#����
+Notice	Resources_Audio/SoundEffect/UISound0037.wav
+Steal	Resources_Audio/SoundEffect/UISound0036.wav
+#����
+Dig	Resources_Audio/SoundEffect/UISound0038.wav
+Pick	Resources_Audio/SoundEffect/UISound0039.wav
+Collect	Resources_Audio/SoundEffect/UISound0040.wav
+Catch	Resources_Audio/SoundEffect/UISound0041.wav
+#�԰�
+BattleAddExp	Resources_Audio/SoundEffect/UISound0043.wav
+BattleLevelUp	Resources_Audio/SoundEffect/UISound0044.wav
+BattleNewSkill	Resources_Audio/SoundEffect/UISound0045.wav

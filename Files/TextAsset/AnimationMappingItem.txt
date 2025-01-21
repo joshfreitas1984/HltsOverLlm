@@ -1,0 +1,160 @@
+al20001	蛇		al20001@Walk	al20001@Idle(1)_walk	al20001@Walk_idle(1)	al20001@Walk	(None,al20001@Idle)	al20001@idle_walk	al20001@Get_Hit	al20001@Get_Hit	al20001@Die	al20001@Idle	al20001@Atack	al20001@Atack	al20001@Atack	al20001@Idle	al20001@Idle	al20001@Idle
+al20002	蛇		al20001@Walk	al20001@Idle(1)_walk	al20001@Walk_idle(1)	al20001@Walk	(None,al20001@Idle)	al20001@idle_walk	al20001@Get_Hit	al20001@Get_Hit	al20001@Die	al20001@Idle	al20001@Atack	al20001@Atack	al20001@Atack	al20001@Idle	al20001@Idle	al20001@Idle
+al20003	蛇		al20001@Walk	al20001@Idle(1)_walk	al20001@Walk_idle(1)	al20001@Walk	(None,al20001@Idle)	al20001@idle_walk	al20001@Get_Hit	al20001@Get_Hit	al20001@Die	al20001@Idle	al20001@Atack	al20001@Atack	al20001@Atack	al20001@Idle	al20001@Idle	al20001@Idle
+al20004	老鷹		al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	(None,al20004@stand01)	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01
+al20005	鱷魚		al20005@walk	al20005@walk	al20005@stand01	al20005@run	(None,al20005@stand01)	al20005@walk	al20005@dodge01	al20005@hurt01	al20005@die01	al20005@stand01	al20005@skill02	al20005@skill01	al20005@skill01	al20005@stand01	al20005@stand01	al20005@stand01
+al20006	水牛		al20006@waterbuffalo_walking	al20006@waterbuffalo_walking	al20006@waterbuffalo_walking	al20006@waterbuffalo_galloping	(None,al20006@waterbuffalo_idle)	al20006@waterbuffalo_galloping	al20006@waterbuffalo_backward	al20006@waterbuffalo_hit	al20006@waterbuffalo_die	al20006@waterbuffalo_idle	al20006@waterbuffalo_attack	al20006@waterbuffalo_attack	al20006@waterbuffalo_attack	al20006@waterbuffalo_idle	al20006@waterbuffalo_idle	al20006@waterbuffalo_idle
+al20007	老虎		al20007@Walk	al20007@Walk	al20007@Walk	al20007@Runing	(None,al20007@Fight Idle)	al20007@Runing Fast	al20007@Hit Front	al20007@Hit Left	al20007@Death	al20007@Attack Jaw	al20007@Attack Jaw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw
+al20008	熊		al20008@walk	al20008@walk	al20008@walk	al20008@run	(None,al20008@idle01)	al20008@run	al20008@dodge02	al20008@hurt02	al20008@die01	al20008@skill01	al20008@skill01	al20008@skill01	al20008@skill01	al20008@skill01	al20008@skill01	al20008@skill01
+al20009	雪豹		al20010@Walk	al20010@Walk	al20010@Walk	al20010@Run	(None,al20010@Fight Idle)	al20010@Run	al20010@Hit Up	al20010@Hit Right	al20010@Death	al20010@Attack Paw	al20010@Attack Paw	al20010@Attack	al20010@Attack	al20010@Attack	al20010@Attack	al20010@Attack
+al20010	花豹		al20010@Walk	al20010@Walk	al20010@Walk	al20010@Run	(None,al20010@Fight Idle)	al20010@Run	al20010@Hit Up	al20010@Hit Right	al20010@Death	al20010@Attack Paw	al20010@Attack Paw	al20010@Attack	al20010@Attack	al20010@Attack	al20010@Attack	al20010@Attack
+al20011	灰狼		al20011@Walking	al20011@Walking	al20011@Walking	al20011@Runing Fast	(None,al20011@Fight Idle 01)	al20011@Runing Fast	al20011@Hit Left	al20011@Hit Front	al20011@Death Left Side	al20011@Eating	al20011@Attack Jaw 01	al20011@Attack Jaw	al20011@Jump Attack	al20011@Eating	al20011@Eating	al20011@Eating
+al20012	黑狼		al20011@Walking	al20011@Walking	al20011@Walking	al20011@Runing Fast	(None,al20011@Fight Idle 01)	al20011@Runing Fast	al20011@Hit Left	al20011@Hit Front	al20011@Death Left Side	al20011@Eating	al20011@Attack Jaw 01	al20011@Attack Jaw	al20011@Jump Attack	al20011@Eating	al20011@Eating	al20011@Eating
+al20013	白狼		al20011@Walking	al20011@Walking	al20011@Walking	al20011@Runing Fast	(None,al20011@Fight Idle 01)	al20011@Runing Fast	al20011@Hit Left	al20011@Hit Front	al20011@Death Left Side	al20011@Eating	al20011@Attack Jaw 01	al20011@Attack Jaw	al20011@Jump Attack	al20011@Eating	al20011@Eating	al20011@Eating
+al20017	馬		al20017@Tarsus	al20017@Tarsus	al20017@Tarsus	al20017@Gallop	(None,al20017@Idle03)	al20017@Tarsus	al20017@ZigZagLeft	al20017@HitFront	al20017@Death	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01
+al20017b	馬		al20017@Tarsus	al20017@Tarsus	al20017@Tarsus	al20017@Gallop	(None,al20017@Idle03)	al20017@Tarsus	al20017@ZigZagLeft	al20017@HitFront	al20017@Death	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01
+al20018	馬		al20017@Tarsus	al20017@Tarsus	al20017@Tarsus	al20017@Gallop	(None,al20017@Idle03)	al20017@Tarsus	al20017@ZigZagLeft	al20017@HitFront	al20017@Death	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01
+al20018b	馬		al20017@Tarsus	al20017@Tarsus	al20017@Tarsus	al20017@Gallop	(None,al20017@Idle03)	al20017@Tarsus	al20017@ZigZagLeft	al20017@HitFront	al20017@Death	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01
+al20019	馬		al20017@Tarsus	al20017@Tarsus	al20017@Tarsus	al20017@Gallop	(None,al20017@Idle03)	al20017@Tarsus	al20017@ZigZagLeft	al20017@HitFront	al20017@Death	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01
+al20019b	馬		al20017@Tarsus	al20017@Tarsus	al20017@Tarsus	al20017@Gallop	(None,al20017@Idle03)	al20017@Tarsus	al20017@ZigZagLeft	al20017@HitFront	al20017@Death	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01
+al20020	馬		al20017@Tarsus	al20017@Tarsus	al20017@Tarsus	al20017@Gallop	(None,al20017@Idle03)	al20017@Tarsus	al20017@ZigZagLeft	al20017@HitFront	al20017@Death	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01
+al20021b	馬		al20017@Tarsus	al20017@Tarsus	al20017@Tarsus	al20017@Gallop	(None,al20017@Idle03)	al20017@Tarsus	al20017@ZigZagLeft	al20017@HitFront	al20017@Death	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01
+al20022	馬		al20017@Tarsus	al20017@Tarsus	al20017@Tarsus	al20017@Gallop	(None,al20017@Idle03)	al20017@Tarsus	al20017@ZigZagLeft	al20017@HitFront	al20017@Death	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01
+al20022b	馬		al20017@Tarsus	al20017@Tarsus	al20017@Tarsus	al20017@Gallop	(None,al20017@Idle03)	al20017@Tarsus	al20017@ZigZagLeft	al20017@HitFront	al20017@Death	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01	al20017@Attack01
+al20023	老鼠		al20023@walk	al20023@walk	al20023@walk	al20023@walk	(None,al20023@Idle)	al20023@run	al20023@Idle	al20023@Idle	al20023@dead	al20023@Idle	al20023@Idle	al20023@Idle	al20023@Idle	al20023@Idle	al20023@Idle	al20023@Idle
+al20024	猴子	al20024@idle01	al20024@walk	al20024@walk	al20024@walk	al20024@run	(None,al20024@idle01)	al20024@run	al20024@dodge01	al20024@hurt01	al20024@die01	al20024@skill01	al20024@skill01	al20024@skill02	al20024@skill02	al20024@skill01	al20024@skill01	al20024@skill01
+al20025	金絲猴	al20024@idle01	al20024@walk	al20024@walk	al20024@walk	al20024@run	(None,al20024@idle01)	al20024@run	al20024@dodge01	al20024@hurt01	al20024@die01	al20024@skill01	al20024@skill01	al20024@skill02	al20024@skill02	al20024@skill01	al20024@skill01	al20024@skill01
+al20026	斑蚊鱷		al20061@Walk	al20061@Walk	al20061@Walk	al20061@Walk	(None,al20061@Idle)	al20061@Walk	al20061@Walk	al20061@GetHit	al20061@Death	al20061@Bite	al20005@skill02	al20005@skill01	al20005@skill01	al20005@stand01	al20005@stand01	al20005@stand01
+al20027	雨傘鱷		al20061@Walk	al20061@Walk	al20061@Walk	al20061@Walk	(None,al20061@Idle)	al20061@Walk	al20061@Walk	al20061@GetHit	al20061@Death	al20061@Bite	al20005@skill02	al20005@skill01	al20005@skill01	al20005@stand01	al20005@stand01	al20005@stand01
+al20028	黑豹		al20010@Walk	al20010@Walk	al20010@Walk	al20010@Run	(None,al20010@Fight Idle)	al20010@Run	al20010@Hit Up	al20010@Hit Right	al20010@Death	al20010@Attack Paw	al20010@Attack Paw	al20010@Attack	al20010@Attack	al20010@Attack	al20010@Attack	al20010@Attack
+al20029	白虎		al20007@Walk	al20007@Walk	al20007@Walk	al20007@Runing	(None,al20007@Fight Idle)	al20007@Runing Fast	al20007@Hit Front	al20007@Hit Left	al20007@Death	al20007@Attack Jaw	al20007@Attack Jaw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw
+al20030	山羊		al20030@walk	al20030@walk	al20030@walk	al20030@run	(None,al20030@angry2)	al20030@run	al20030@run	al20030@getHit	al20030@death	al20030@ramAttack	al20030@ramAttack	al20030@ramAttack	al20030@ramAttack	al20030@ramAttack	al20030@ramAttack	al20030@ramAttack
+al20031	鹿		al20031@deer_walking	al20031@deer_walking	al20031@deer_walking	al20031@deer_trotting	(None,al20031@deer_eating)	al20031@deer_trotting	al20031@deer_backward	al20031@deer_backward	al20031@died	al20031@deer_attack	al20031@deer_attack	al20031@deer_attack	al20031@deer_attack	al20031@deer_attack	al20031@deer_attack	al20031@deer_attack
+al20032	野豬		al20032@Walk	al20032@Walk	al20032@Walk	al20032@Run	(None,al20032@IdleBreathe)	al20032@Run	al20032@GetHit	al20032@GetHit	al20032@Death	al20032@Attack1	al20032@Attack1	al20032@JumpAttack_RM	al20032@JumpAttack_RM	al20032@Attack1	al20032@Attack1	al20032@Attack1
+al20033	蛇王		al20001@Walk	al20001@Idle_walk	al20001@Walk_idle	al20001@Walk	(None,al20001@Idle)	al20001@idle_walk	al20001@Get_Hit	al20001@Get_Hit	al20001@Die	al20001@Idle	al20001@Atack	al20001@Atack	al20001@Atack	al20001@Idle	al20001@Idle	al20001@Idle
+al20034	吃人熊		al20008@walk	al20008@2LegsTo4Legs	al20008@dodge02	al20008@run	(None,al20008@idle2Legs)	al20008@run	al20008@2LegsGetHit	al20008@getHitR	al20008@2LegsDeath	al20008@idle2Legs	al20008@2LegsClawsAttackR	al20008@punchR	al20008@punchFrontal	al20008@idle2Legs	al20008@idle2Legs	al20008@idle2Legs
+al20035	雪翼鵰		al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	(None,al20004@stand01)	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01	al20004@stand01
+al20037	貓		al20037@walk	al20037@walk	al20037@walk	al20037@run	(None,al20037@idle)	al20037@run	al20037@idle	al20037@idle	al20037@dead	al20037@idle	al20037@idle	al20037@idle	al20037@idle	al20037@idle	al20037@idle	al20037@idle
+al20045	巨猿		al20045@walk	al20045@walk	al20045@walk	al20045@run	(None,al20045@idle_battle)	al20045@run	al20045@defence	al20045@hit_2	al20045@death2	al20045@bite	al20045@attack_1	al20045@attack_2	al20045@bite	al20045@bite	al20045@bite	al20045@bite
+al20046	雞王		al20046@walk	al20046@walk	al20046@walk	al20046@run	(None,al20046@idle01)	al20046@run	al20046@hurt01	al20046@hurt02	al20046@die01	al20046@attack01	al20046@attack01	al20046@attack02	al20046@ex_attack	al20010@Tiger_Attack_A	al20046@attack01	al20046@attack01
+al20047	小鱷魚		al20047@Walk	al20047@Walk	al20047@Walk	al20047@Walk	(None,al20061@Idle)	al20061@Walk	al20061@Walk	al20061@GetHit	al20061@Death	al20061@Bite	al20005@skill02	al20005@skill01	al20005@skill01	al20005@stand01	al20005@stand01	al20005@stand01
+al20048	母雞		al20048@walk	al20048@walk	al20048@walk	al20048@run												
+al20049	雪狼王		al20011@Walking	al20011@Walking	al20011@Walking	al20011@Runing Fast	(None,al20011@Fight Idle 01)	al20011@Runing Fast	al20011@Hit Left	al20011@Hit Front	al20011@Death Left Side	al20011@Eating	al20011@Attack Jaw 01	al20011@Attack Jaw	al20011@Jump Attack	al20011@Eating	al20011@Eating	al20011@Eating
+al20050	野豬王		al20032@Walk	al20032@Walk	al20032@Walk	al20032@Run	(None,al20032@IdleBreathe)	al20032@Run	al20032@GetHit	al20032@GetHit	al20032@Death	al20032@Attack1	al20032@Attack1	al20032@JumpAttack_RM	al20032@JumpAttack_RM	al20032@Attack1	al20032@Attack1	al20032@Attack1
+al20051	白熊		al20008@walk	al20008@walk	al20008@walk	al20008@run	(None,al20008@idle01)	al20008@run	al20008@dodge02	al20008@hurt02	al20008@die01	al20008@skill01	al20008@skill01	al20008@skill01	al20008@skill01	al20008@skill01	al20008@skill01	al20008@skill01
+al20052	黑藍虎		al20007@Walk	al20007@Walk	al20007@Walk	al20007@Runing	(None,al20007@Fight Idle)	al20007@Runing Fast	al20007@Hit Front	al20007@Hit Left	al20007@Death	al20007@Attack Jaw	al20007@Attack Jaw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw
+al20053	菩斯曲蛇		al20001@Walk	al20001@Idle_walk	al20001@Walk_idle	al20001@Walk	(None,al20001@Idle)	al20001@idle_walk	al20001@Get_Hit	al20001@Get_Hit	al20001@Die	al20001@Idle	al20001@Atack	al20001@Atack	al20001@Atack	al20001@Idle	al20001@Idle	al20001@Idle
+al20056	金毛獅王		al20056@Walk	al20056@Walk	al20056@Walk	al20056@Run	(None,al20056@IdleBreathe)	al20056@Run	al20056@GetHit	al20056@GetHit	al20056@Death	al20056@Roar	al20056@Bite	al20056@Bite	al20056@Bite	al20056@Roar	al20056@Roar	al20056@Roar
+al20061	鱷魚		al20061@Walk	al20061@Walk	al20061@Walk	al20061@Walk	(None,al20061@Idle)	al20061@Walk	al20061@Walk	al20061@GetHit	al20061@Death	al20061@Bite	al20005@skill02	al20005@skill01	al20005@skill01	al20005@stand01	al20005@stand01	al20005@stand01
+al20062	胖蛇	al20062@Idle_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	(None,al20062@Idle_01)	al20062@Crawl_01	al20062@Crawl_01	al20062@Take_Hit	al20062@Death	al20062@Strike_01	al20001@Atack	al20001@Atack	al20001@Atack	al20001@Idle	al20001@Idle	al20001@Idle
+al20063	小老虎		al20007@Walk	al20007@Walk	al20007@Walk	al20007@Runing	(None,al20007@Fight Idle)	al20007@Runing Fast	al20007@Hit Front	al20007@Hit Left	al20007@Death	al20007@Attack Jaw	al20007@Attack Jaw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw	al20007@Attack Right Paw
+al20064	蛇	al20062@Idle_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	(None,al20062@Idle_01)	al20062@Crawl_01	al20062@Crawl_01	al20062@Take_Hit	al20062@Death	al20062@Strike_01						
+al20065	蛇	al20062@Idle_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	(None,al20062@Idle_01)	al20062@Crawl_01	al20062@Crawl_01	al20062@Take_Hit	al20062@Death	al20062@Strike_01						
+al20066	蛇	al20062@Idle_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	(None,al20062@Idle_01)	al20062@Crawl_01	al20062@Crawl_01	al20062@Take_Hit	al20062@Death	al20062@Strike_01						
+al20067	蛇	al20062@Idle_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	(None,al20062@Idle_01)	al20062@Crawl_01	al20062@Crawl_01	al20062@Take_Hit	al20062@Death	al20062@Strike_01						
+al20068	蛇	al20062@Idle_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	al20062@Crawl_01	(None,al20062@Idle_01)	al20062@Crawl_01	al20062@Crawl_01	al20062@Take_Hit	al20062@Death	al20062@Strike_01						
+al20069	黑雞		al20069@Run	al20069@Run	al20069@Run	al20069@Run												
+al20070	黃雞		al20069@Walk	al20069@Walk	al20069@Walk	al20069@Walk												
+al20071	白雞		al20069@Walk	al20069@Walk	al20069@Walk	al20069@Walk												
+al20072	黑鵝		al20072@run	al20072@run	al20072@run	al20072@run												
+al20073	白鵝		al20072@Walk	al20072@Walk	al20072@Walk	al20072@Walk												
+al20074	鴨		al20074@Walk	al20074@Walk	al20074@Walk	al20074@Walk												
+n20093	大研鎮買藥老人		w_walk008															
+n30031	白洲		ml_walk101															
+n30035	農夫阿暉		m_walk014															
+n30052	梅鑫		m_walk014															
+n60004	西門玉堂		w_walk008															
+n60130	司徒荊		w_walk008				(None,ml_idle004)(OneHand,ml_idle108)(BothHands,ml_idle201)(TwoHanded,ml_idle304)(Bow,ml_idle401)											
+n60130b	司徒荊		w_walk008															
+n60130c	司徒荊		w_walk008															
+n60201	毛大瑞		m_walk014															
+n60401	陳之濟		m_walk007				(None,wuxia_idle003)(OneHand,ml_idle111)(BothHands,ml_idle201)(TwoHanded,ml_idle307)(Bow,ml_idle401)											
+n60401c	陳之濟被控制		m_walk005	m_walk005	m_walk005	old_idle003@run	(None,old_idle003)(OneHand,old_idle003)(BothHands,old_idle003)(TwoHanded,old_idle003)(Bow,old_idle003)	m_walk005	old_idle003@dodge01	old_idle003@hurt01	old_idle003@die01							
+n60403	杜玉緋		k_walk001															
+n60403c	杜玉緋被控制		m_walk005	m_walk005	m_walk005	old_idle003@run	(None,old_idle003)(OneHand,old_idle003)(BothHands,old_idle003)(TwoHanded,old_idle003)(Bow,old_idle003)	m_walk005	old_idle003@dodge01	old_idle003@hurt01	old_idle003@die01							
+n60417	小阿英		m_walk006				(None,ml_idle005)(OneHand,ml_idle109)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle406)											
+n60425a	毒殭		m_walk005	m_walk005	m_walk005	old_idle003@run	(None,old_idle003)(OneHand,old_idle003)(BothHands,old_idle003)(TwoHanded,old_idle003)(Bow,old_idle003)	m_walk005	old_idle003@dodge01	old_idle003@hurt01	old_idle003@die01							
+n60512	太華門 警戒弟子		m_walk007															
+n60513	太華門 警戒弟子		m_walk007															
+n60514	太華門 低等弟子		m_walk007															
+n60515	太華門 低等弟子		m_walk007															
+n60516	太華門 低等弟子		m_walk007															
+n60517	太華門 高等弟子		m_walk007															
+n60518	太華門 高等弟子		m_walk007															
+n60519	太華門 高等弟子		m_walk007															
+n60520	太華門 高等弟子		m_walk007															
+n60521	太華門 高等弟子		m_walk007															
+n60522	太華門 高等弟子		m_walk007															
+n20331	流寇		m_walk014															
+n50076	打更士兵		m_walk016															
+n50077	打更士兵		m_walk016															
+n50080	打更士兵		m_walk016															
+a00001	一般						(None,ml_idle001)(OneHand,ml_idle101)(BothHands,ml_idle201)(TwoHanded,ml_idle301)(Bow,ml_idle401)											
+a00002	剽悍						(None,ml_idle002)(OneHand,ml_idle106)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle405)											
+a00003	剽悍２(單手持武-其他01)						(None,ml_idle002)(OneHand,ml_idle102)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle405)											
+a00004	瀟灑						(None,ml_idle003)(OneHand,ml_idle107)(BothHands,ml_idle203)(TwoHanded,ml_idle303)(Bow,ml_idle404)											
+a00005	瀟灑２(單手持武-其他02)						(None,ml_idle003)(OneHand,ml_idle104)(BothHands,ml_idle203)(TwoHanded,ml_idle303)(Bow,ml_idle404)											
+a00006	驕傲、霸氣						(None,ml_idle006)(OneHand,ml_idle110)(BothHands,ml_idle201)(TwoHanded,ml_idle306)(Bow,ml_idle407)											
+a00007	驕傲、霸氣２(單手持武-其他03)						(None,ml_idle006)(OneHand,ml_idle105)(BothHands,ml_idle201)(TwoHanded,ml_idle306)(Bow,ml_idle407)											
+a00008	威嚴、謹慎						(None,ml_idle007)(OneHand,ml_idle111)(BothHands,ml_idle201)(TwoHanded,ml_idle307)(Bow,ml_idle409)											
+a00009	威嚴、謹慎２(單手持武-其他04)						(None,ml_idle007)(OneHand,ml_idle103)(BothHands,ml_idle201)(TwoHanded,ml_idle307)(Bow,ml_idle409)											
+a00010	優雅（男）						(None,ml_idle008)(OneHand,ml_idle112)(BothHands,ml_idle201)(TwoHanded,ml_idle308)(Bow,ml_idle408)											
+a00011	優雅（女）						(None,ml_idle009)(OneHand,ml_idle112)(BothHands,ml_idle201)(TwoHanded,ml_idle309)(Bow,ml_idle403)											
+a00012	活潑、靈活						(None,ml_idle010)(OneHand,ml_idle113)(BothHands,ml_idle201)(TwoHanded,ml_idle310)(Bow,ml_idle401)											
+a00013	陰森						(None,ml_idle004)(OneHand,ml_idle108)(BothHands,ml_idle201)(TwoHanded,ml_idle304)(Bow,ml_idle401)											
+a00014	凶暴、狂放						(None,ml_idle005)(OneHand,ml_idle109)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle406)											
+a00016	女性1						(None,ml_idle011)(OneHand,ml_idle114)(BothHands,ml_idle204)(TwoHanded,ml_idle311)(Bow,ml_idle403)											
+a00017	女性2						(None,ml_idle012)(OneHand,ml_idle115)(BothHands,ml_idle205)(TwoHanded,ml_idle312)(Bow,ml_idle403)											
+n09997	張君寶(拳)						(None,old_idle002)(OneHand,ml_idle101)(BothHands,ml_idle201)(TwoHanded,ml_idle301)(Bow,ml_idle404)											
+n51001	段思平(拳)						(None,wuxia_idle005)(OneHand,ml_idle103)(BothHands,ml_idle201)(TwoHanded,ml_idle307)(Bow,ml_idle409)											
+n50065	木奎(拳、槍、弓)						(None,wuxia_m_idle002)(OneHand,ml_idle106)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle402)											
+n50060	阿得阿克(拳、槍、弓)						(None,wuxia_m_idle002)(OneHand,ml_idle106)(BothHands,ml_idle202)(TwoHanded,wuxia_m_idle108)(Bow,ml_idle402)											
+n53001	黃裳(拳)						(None,wuxia_idle004)(OneHand,ml_idle109)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle406)											
+n60273	駱元玉(拳)						(None,old_m_idle009)(OneHand,ml_idle106)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle405)											
+n20033	王喆						(None,ml_idle002)(OneHand,ml_idle102)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle407)											
+n60005	李嘆						(None,ml_idle003)(OneHand,ml_idle107)(BothHands,ml_idle203)(TwoHanded,ml_idle303)(Bow,ml_idle404)											
+n60040	漆笑兒(拳、單劍)						(None,wuxia_idle002)(OneHand,old_idle102)(BothHands,ml_idle204)(TwoHanded,ml_idle311)(Bow,ml_idle403)											
+n09999	顏玉書(拳、單劍)						(None,wuxia_idle012)(OneHand,ml_idle115)(BothHands,ml_idle201)(TwoHanded,ml_idle309)(Bow,ml_idle403)											
+n20049	禾鬱青(拳)						(None,old_w_idle005)(OneHand,ml_idle105)(BothHands,ml_idle201)(TwoHanded,ml_idle306)(Bow,ml_idle401)											
+n90405	何紫菀(拳)						(None,wuxia_w_idle004)(OneHand,ml_idle112)(BothHands,ml_idle201)(TwoHanded,ml_idle309)(Bow,ml_idle403)											
+n60560	顓孫凝(拳、單劍)						(None,old_idle006)(OneHand,wuxia_idle104)(BothHands,ml_idle201)(TwoHanded,ml_idle309)(Bow,ml_idle403)											
+n60100	樊香蝶						(None,ml_idle009)(OneHand,ml_idle112)(BothHands,ml_idle201)(TwoHanded,ml_idle309)(Bow,ml_idle403)											
+n60400	程雁華						(None,ml_idle009)(OneHand,ml_idle112)(BothHands,ml_idle201)(TwoHanded,ml_idle309)(Bow,ml_idle403)											
+n09996	百損						(None,ml_idle007)(OneHand,ml_idle111)(BothHands,ml_idle201)(TwoHanded,ml_idle307)(Bow,ml_idle401)											
+n20286	山魈鬼王						(None,old_m_standK00)(OneHand,ml_idle109)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle401)	TL_dragon@run										
+n19976	韓猊跋						(None,old_idle001)(OneHand,ml_idle109)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle406)											
+n07004	李惑相						(None,old_m_idle001)(OneHand,ml_idle110)(BothHands,ml_idle201)(TwoHanded,ml_idle306)(Bow,ml_idle401)											
+n07001	皇甫登雲						(None,old_m_stand02)(OneHand,ml_idle110)(BothHands,ml_idle201)(TwoHanded,ml_idle306)(Bow,ml_idle401)											
+n60001	周益						(None,old_m_idle010)(OneHand,ml_idle111)(BothHands,ml_idle201)(TwoHanded,ml_idle307)(Bow,ml_idle401)											
+n90402	段思良						(None,wuxia_idle009)(OneHand,ml_idle113)(BothHands,ml_idle201)(TwoHanded,ml_idle310)(Bow,ml_idle401)											
+n60231	梅星河(拳、單劍)						(None,wuxia_idle013)(OneHand,wuxia_m_idle106)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle401)											
+n50071	陸常稽						(None,wuxia_m_idle005)(OneHand,ml_idle105)(BothHands,ml_idle201)(TwoHanded,ml_idle306)(Bow,ml_idle401)											
+n60402	石鴻圖						(None,wuxia_m_idle007)(OneHand,ml_idle109)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle401)											
+n90215	藍拂衣(拳、單劍)						(None,old_w_idle002)(OneHand,old_w_idle101)(BothHands,ml_idle201)(TwoHanded,ml_idle309)(Bow,ml_idle403)											
+n51009	何白芍						(None,wuxia_w_idle004)(OneHand,ml_idle112)(BothHands,ml_idle201)(TwoHanded,ml_idle309)(Bow,ml_idle403)											
+n52009	戚如瀟						(None,old_standF00)(OneHand,ml_idle102)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle403)											
+n00102	赤丹宮主						(None,old_m_standD00)(OneHand,ml_idle109)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle401)											
+n90201	孔金						(None,old_m_standG00)(OneHand,ml_idle105)(BothHands,ml_idle201)(TwoHanded,ml_idle306)(Bow,ml_idle401)											
+n10056	桃谷六仙						(None,old_m_standJ00)(OneHand,ml_idle102)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle401)											
+n20191	舒光壁						(None,old_m_specialStand003)(OneHand,ml_idle106)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle401)											
+n90425	楊天義						(None,ml_idle006)(OneHand,ml_idle110)(BothHands,ml_idle201)(TwoHanded,ml_idle306)(Bow,ml_idle401)											
+n10045	少林高僧						(None,old_m_idle011)(OneHand,ml_idle103)(BothHands,ml_idle201)(TwoHanded,ml_idle307)(Bow,ml_idle401)											
+n09998	東方遲						(None,old_standL00)(OneHand,ml_idle107)(BothHands,ml_idle203)(TwoHanded,ml_idle303)(Bow,ml_idle401)											
+n07002	百里憚赫						(None,ml_idle001)(OneHand,old_m_idle102)(BothHands,ml_idle201)(TwoHanded,ml_idle301)(Bow,ml_idle401)											
+n20510	夏札爾						(None,ml_idle005)(OneHand,old_m_idle105)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle401)											
+n00083	凌霜峻						(None,ml_idle003)(OneHand,old_m_idle109)(BothHands,ml_idle203)(TwoHanded,ml_idle303)(Bow,ml_idle401)											
+n00013	大黑天神使者						(None,ml_idle005)(OneHand,old_m_idle112)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle401)											
+n20137	葉玉龍						(None,ml_idle011)(OneHand,ml_idle102)(BothHands,ml_idle204)(TwoHanded,ml_idle311)(Bow,ml_idle403)											
+n07006	雲種火						(None,ml_idle002)(OneHand,old_idle101)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle401)											
+n60302	陳志澤						(None,ml_idle002)(OneHand,wuxia_m_idle103)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle401)											
+n60303	陳志潾						(None,ml_idle007)(OneHand,wuxia_m_idle103)(BothHands,ml_idle201)(TwoHanded,ml_idle307)(Bow,ml_idle401)											
+n60305	陳老太爺						(None,ml_idle005)(OneHand,wuxia_m_idle104)(BothHands,ml_idle201)(TwoHanded,ml_idle305)(Bow,ml_idle401)											
+n60002	陶大石						(None,ml_idle003)(OneHand,wuxia_m_idle106)(BothHands,ml_idle203)(TwoHanded,ml_idle303)(Bow,ml_idle401)											
+n60301	陳志淇						(None,ml_idle002)(OneHand,wuxia_idle101)(BothHands,ml_idle202)(TwoHanded,ml_idle302)(Bow,ml_idle401)											
+n20146	葉金虹						(None,ml_idle007)(OneHand,wuxia_idle106)(BothHands,ml_idle201)(TwoHanded,ml_idle307)(Bow,ml_idle401)											
+n70044	凌中嶽						(None,ml_idle003)(OneHand,wuxia_idle103)(BothHands,ml_idle203)(TwoHanded,ml_idle303)(Bow,ml_idle401)											
+n20037	戰胤飛						(None,ml_idle005)(OneHand,ml_idle109)(BothHands,ml_idle201)(TwoHanded,old_m_specialStand004)(Bow,ml_idle401)											
+n50004	桑登						(None,m_worship002)(OneHand,ml_idle111)(BothHands,ml_idle201)(TwoHanded,ml_idle307)(Bow,ml_idle401)											
+n00082	解凜仁						(None,ml_idle008)(OneHand,old_idle103)(BothHands,ml_idle201)(TwoHanded,ml_idle308)(Bow,ml_idle401)											
+n00095	殭屍	m_standN001	m_walk015	m_walk015	m_walk015	old_idle003@run	(None,m_standN001)(OneHand,m_standN001)(BothHands,m_standN001)(TwoHanded,m_standN001)(Bow,m_standN001)	m_walk015	old_idle003@dodge02	old_idle003@hurt01	old_idle003@die01							
+n20586	無名老僧						(None,m_worship_ec)(OneHand,ml_idle103)(BothHands,ml_idle201)(TwoHanded,ml_idle301)(Bow,ml_idle401)											
