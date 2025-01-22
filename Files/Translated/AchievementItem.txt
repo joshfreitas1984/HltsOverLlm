@@ -1206,10 +1206,7 @@
     translated: You tamed ten beast kings roaming freely in Shu, becoming a legend on the path of the Beast Kings.
   - split: 12
     text: 经验值50000点，天山雪莲，千年灵芝，「高阶兽王令」
-    translated: >-
-      Experience Points: 50,000  
-
-      Tianshan Xuelian, Qian Nian Lingzhi, High-Level Beast King Command
+    translated: ''
 - lineNum: 93
   raw: 'ach0200	「花田」	你最后还是帮阿田与花采蝶团聚了。	Img_Achieve_Iron.png	0	2	1	FALSE	1	-1	(A_Story0000,1)	0	经验值500点，金钱500钱，江湖声望	{ "MultiAction" : [ { "AddExpAction" : 500} , { "SetMoneyAction" : 500, 0} , { "SetNpcPropertyAction" : 111, 3, 0, "Player"}  ]}	0'
   translated: 
@@ -2178,7 +2175,7 @@
   splits:
   - split: 1
     text: 机巧
-    translated: Cleverness/Ingenuity/Cunning
+    translated: ''
   - split: 2
     text: 精通巧系的所有感悟
     translated: Mastery of the insights from all aspects of Qi cultivation.
@@ -2860,10 +2857,7 @@
     translated: Is there anything else you think I can't handle?
   - split: 12
     text: 经验值20000点，江湖声望，千年灵芝，天山雪莲
-    translated: >-
-      Experience Points: 20,000  
-
-      Martial World Reputation: Thousand-Year Immortal Herb, Heavenly Mountain Snow Lotus
+    translated: ''
 - lineNum: 220
   raw: 'ach0615	小毒虫	炼毒？施蛊？这只是一些小毒虫而已。	Img_Achieve_Iron.png	0	6	1	FALSE	0	-1	(A_Poison_it50101,1)(A_Poison_it50102,1)(A_Poison_it50103,1)(A_Poison_it50104,1)(A_Poison_it50105,1)	0	经验值2500点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 2500} , { "SetNpcPropertyAction" : 111, 5, 0, "Player"}  ]}	0'
   translated: 
@@ -2876,10 +2870,7 @@
     translated: Poison-making? Administering toxins? These are just some small poisonous insects after all.
   - split: 12
     text: 经验值2500点，江湖声望，千年灵芝，天山雪莲
-    translated: >-
-      Experience Points: 2,500  
-
-      Jianghu Reputation: Thousand-Year Spiritual Mushroom, Heavenly Mountain Snow Lotus
+    translated: ''
 - lineNum: 221
   raw: 'ach0616	无毒不丈夫	最毒妇人心，无毒不丈夫。	Img_Achieve_Silver.png	0	6	3	FALSE	0	-1	(A_Poison_it50106,1)(A_Poison_it50107,1)(A_Poison_it50108,1)(A_Poison_it50109,1)(A_Poison_it50110,1)	0	经验值5000点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 15000} , { "SetNpcPropertyAction" : 111, 15, 0, "Player"}  ]}	0'
   translated: 
@@ -2892,14 +2883,7 @@
     translated: A woman's heart is the most poisonous of all; there's no poison that doesn't come from a man.
   - split: 12
     text: 经验值5000点，江湖声望，千年灵芝，天山雪莲
-    translated: >-
-      Experience points: 5,000  
-
-      Fame in the Martial World  
-
-      Thousand-Year Lingzhi Mushroom  
-
-      Tianshan Snow Lotus
+    translated: ''
 - lineNum: 222
   raw: 'ach0617	家常小食	精通烹调这个世界的家常小吃	Img_Achieve_Iron.png	0	6	1	FALSE	0	-1	(A_Cook_it60101,1)(A_Cook_it60103,1)(A_Cook_it60105,1)(A_Cook_it60113,1)(A_Cook_it60124,1)	0	经验值15000点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 15000} , { "SetNpcPropertyAction" : 111, 25, 0, "Player"}  ]}	0'
   translated: 
@@ -2912,14 +2896,7 @@
     translated: Proficient in cooking the world's everyday snacks.
   - split: 12
     text: 经验值15000点，江湖声望，千年灵芝，天山雪莲
-    translated: >-
-      Experience Points: 15,000  
-
-      Fame in the Martial World  
-
-      Thousand-year Ginseng  
-
-      Snow Lotus from Mount Tian Shan
+    translated: ''
 - lineNum: 223
   raw: 'ach0618	就是嘴馋	对于这些酸甜又不占胃的东西你毫无抗力！	Img_Achieve_Cooper.png	0	6	2	FALSE	0	-1	(A_Cook_it60118,1)(A_Cook_it60119,1)(A_Cook_it60122,1)(A_Cook_it60123,1)(A_Cook_it60125,1)	0	经验值15000点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 15000} , { "SetNpcPropertyAction" : 111, 25, 0, "Player"}  ]}	0'
   translated: 
@@ -2945,14 +2922,7 @@
     translated: You have mastered all the exclusive dishes of the Zhenxu Club!
   - split: 12
     text: 经验值25000点，江湖声望，千年灵芝，天山雪莲
-    translated: >-
-      Experience Points: 25,000  
-
-      Honor among the Martial World  
-
-      Thousand-Year Lingzhi Mushroom  
-
-      Mount Tian Snow Lotus
+    translated: ''
 - lineNum: 225
   raw: 'ach0620	补中益气	有什么比能煮出所有能强身又能填饱肚子的菜肴更棒的事呢？	Img_Achieve_Gold.png	0	6	4	FALSE	0	-1	(A_Cook_it60127,1)(A_Cook_it60143,1)(A_Cook_it60144,1)(A_Cook_it60145,1)(A_Cook_it60146,1)	0	经验值20000点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 20000} , { "SetNpcPropertyAction" : 111, 25, 0, "Player"}  ]}	0'
   translated: 

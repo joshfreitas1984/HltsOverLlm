@@ -104,7 +104,7 @@
   splits:
   - split: 1
     text: 迷惑
-    translated: Confused/Perplexed
+    translated: ''
   - split: 2
     text: 累积迷惑值50点
     translated: 'Accumulated Confusion Points: 50 points'
@@ -354,7 +354,7 @@
   splits:
   - split: 1
     text: 冰封
-    translated: Frostbound/Frozen in Ice
+    translated: ''
   - split: 2
     text: 累积冰封值5点
     translated: Accumulate 5 points of Ice Seal value.
@@ -364,7 +364,7 @@
   splits:
   - split: 1
     text: 冰封
-    translated: Ice Encased/Frozen
+    translated: ''
   - split: 2
     text: 累积冰封值6点
     translated: Cumulative ice seal value of 6 points.
@@ -1814,7 +1814,7 @@
   splits:
   - split: 1
     text: 加强枪棍伤害二阶
-    translated: Enhance Gun/Knife Damage Coefficient Two
+    translated: ''
   - split: 2
     text: 加强枪棍伤害5%
     translated: Increase gunstaff damage by 5%.
@@ -8854,7 +8854,7 @@
   splits:
   - split: 1
     text: 移魂
-    translated: Transferring the soul/spirit.
+    translated: ''
   - split: 2
     text: 心智遭到控制，持续3回合
     translated: Mind controlled for 3 turns.
@@ -10124,7 +10124,7 @@
   splits:
   - split: 1
     text: 害怕
-    translated: Fearful/Fear
+    translated: ''
   - split: 2
     text: …唉唷…这雪豹好凶…早知道不来雪山了…
     translated: Ah... this snow leopard is so fierce... If I had known, I wouldn't have come to the snowy mountain.
@@ -12024,7 +12024,7 @@
   splits:
   - split: 1
     text: 击退
-    translated: Repel/Counterattack
+    translated: ''
   - split: 2
     text: 将中招敌人击退
     translated: Repel the enemies who have been struck.

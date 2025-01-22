@@ -9,8 +9,13 @@ public class LlmConfig
     public string? ApiKey { get; set; }
     public bool ApiKeyRequired { get; set; }
     public string? Url { get; set; }
-    public string? Model { get; set; }
+    public string? Model { get; set; }    
+    public int? RetryCount { get; set; }
+    public int? BatchSize { get; set; }
+    public Dictionary<string, object>? ModelParams { get; set; }
+
     public string? SystemPrompt { get; set; }
+    public string? CorrectionPrompt { get; set; }
 }
 
 public static class Configuration
