@@ -11,58 +11,11 @@ using YamlDotNet.Serialization.NamingConventions;
 
 namespace Translate;
 
-public class TranslatedRaw(string raw)
+
+public static class TranslationService
 {
-    public string Raw { get; set; } = raw;
-    public string Trans { get; set; } = string.Empty;
-}
-
-public class TextFileToSplit
-{
-    public string? Path { get; set; }
-    public int[]? SplitIndexes { get; set; }
-}
-
-public class TranslationSplit
-{
-    public int Split { get; set; } = 0;
-    public string Text { get; set; } = string.Empty;
-    public string? Translated { get; set; }
-
-    public TranslationSplit() { }
-
-    public TranslationSplit(int split, string text)
-    {
-        Split = split;
-        Text = text;
-    }
-}
-
-public class TranslationLine
-{
-    public int LineNum { get; set; } = 0;
-    public string Raw { get; set; } = string.Empty;
-    public string? Translated { get; set; }
-    public List<TranslationSplit> Splits { get; set; } = [];
-
-    public TranslationLine() { }
-
-    public TranslationLine(int lineNum, string raw)
-    {
-        LineNum = lineNum;
-        Raw = raw;
-    }
-}
-
-public class ValidationResult
-{
-    public bool Valid;
-    public string CorrectionPrompts;
-}
-
-public static class Translation
-{
-    public static TextFileToSplit[] TextFilesToSplit = [
+    public static TextFileToSplit[] GetTextFilesToSplit()
+        => [
           new() { Path = "AchievementItem.txt", SplitIndexes = [1, 2, 12] },
           new() { Path = "AreaItem.txt", SplitIndexes = [1] },
           new() { Path = "BufferItem.txt", SplitIndexes = [1,2] },
@@ -87,15 +40,15 @@ public static class Translation
           new() { Path = "QuestItem.txt", SplitIndexes = [1,3] },
         ];
 
-    public static void Export()
+    public static void Export(string workingDirectory)
     {
-        string inputPath = "../../../../Files/TextAsset";
-        string outputPath = "../../../../Files/Export";
+        string inputPath = $"{workingDirectory}/TextAsset";
+        string outputPath = $"{workingDirectory}/Export";
 
         if (!Directory.Exists(outputPath))
             Directory.CreateDirectory(outputPath);
 
-        foreach (var textFileToTranslate in TextFilesToSplit)
+        foreach (var textFileToTranslate in GetTextFilesToSplit())
         {
             var lines = File.ReadAllLines($"{inputPath}/{textFileToTranslate.Path}");
 
@@ -125,11 +78,12 @@ public static class Translation
         }
     }
 
-    public static async Task IterateThroughTranslatedFilesAsync(Func<string, TextFileToSplit, List<TranslationLine>, Task> performActionAsync)
-    {
-        string outputPath = "../../../../Files/Translated";
 
-        foreach (var textFileToTranslate in Translation.TextFilesToSplit)
+    public static async Task IterateThroughTranslatedFilesAsync(string workingDirectory, Func<string, TextFileToSplit, List<TranslationLine>, Task> performActionAsync)
+    {
+        string outputPath = $"{workingDirectory}/Translated";
+
+        foreach (var textFileToTranslate in GetTextFilesToSplit())
         {
             var outputFile = $"{outputPath}/{textFileToTranslate.Path}";
 
@@ -149,16 +103,16 @@ public static class Translation
         }
     }
 
-    public static async Task TranslateViaLlmAsync(bool forceRetranslation)
+    public static async Task TranslateViaLlmAsync(string workingDirectory, bool forceRetranslation)
     {
-        string inputPath = "../../../../Files/Export";
-        string outputPath = "../../../../Files/Translated";
+        string inputPath = $"{workingDirectory}/Export";
+        string outputPath = $"{workingDirectory}/Translated";
 
         // Create output folder
         if (!Directory.Exists(outputPath))
             Directory.CreateDirectory(outputPath);
 
-        var config = Configuration.GetConfiguration($"{inputPath}/../Config.yaml");
+        var config = Configuration.GetConfiguration(workingDirectory);
 
         // Create an HttpClient instance
         using var client = new HttpClient();
@@ -166,7 +120,7 @@ public static class Translation
         if (config.ApiKeyRequired)
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", config.ApiKey);
 
-        foreach (var textFileToTranslate in TextFilesToSplit)
+        foreach (var textFileToTranslate in GetTextFilesToSplit())
         {
             var inputFile = $"{inputPath}/{textFileToTranslate.Path}";
             var outputFile = $"{outputPath}/{textFileToTranslate.Path}";
@@ -223,58 +177,6 @@ public static class Translation
         }
     }
 
-    public static object GenerateSystemPrompt(string? systemPrompt)
-    {
-        return new { role = "system", content = systemPrompt };
-    }
-
-    public static object GenerateUserPrompt(string? text)
-    {
-        return new { role = "user", content = text };
-    }
-
-    public static object GenerateAssistantPrompt(string? text)
-    {
-        return new { role = "assistant", content = text };
-    }
-
-    public static string GenerateLlmRequestData(LlmConfig config, List<object> messages)
-    {
-        if (config.ModelParams != null)
-        {
-            // Create a dynamic object and populate it with Params
-            dynamic requestBody = new ExpandoObject();
-            requestBody.model = config.Model;
-            requestBody.stream = false;
-            requestBody.messages = messages;
-
-            // Add each key-value pair from Params to the dynamic object
-            var requestBodyDict = (IDictionary<string, object>)requestBody;
-            foreach (var param in config.ModelParams)
-                requestBodyDict[param.Key] = param.Value;
-
-            return JsonSerializer.Serialize(requestBody);
-        }
-        else
-        {
-            var requestBody = new
-            {
-                model = config.Model,
-                temperature = 0.1,
-                max_tokens = 1000,
-                top_p = 1.0,
-                top_k = 20,
-                min_p = 0.05,
-                frequency_penalty = 0,
-                presence_penalty = 0,
-                stream = false,
-                messages
-            };
-
-            return JsonSerializer.Serialize(requestBody);
-        }
-    }
-
     public static async Task<string> TranslateSplitAsync(LlmConfig config, string? raw, HttpClient client, bool ignoreCheck = false, bool outputResponse = false)
     {
         if (string.IsNullOrEmpty(raw))
@@ -283,8 +185,8 @@ public static class Translation
         // Define the request payload
         var messages = new List<object>
         {
-            GenerateSystemPrompt(config.SystemPrompt),
-            GenerateUserPrompt(raw)
+            LlmHelpers.GenerateSystemPrompt(config.Prompts["BaseSystemPrompt"]),
+            LlmHelpers.GenerateUserPrompt(raw)
         };
 
         try
@@ -296,7 +198,7 @@ public static class Translation
             while (!translationValid && retryCount < (config.RetryCount ?? 1))
             {
                 // Create an HttpContent object
-                var requestData = GenerateLlmRequestData(config, messages);
+                var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
                 HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
 
                 // Make the POST request
@@ -324,14 +226,14 @@ public static class Translation
 
                 if (!ignoreCheck)
                 {
-                    var validationResult = CheckTransalationSuccessful(raw, result);
+                    var validationResult = CheckTransalationSuccessful(config, raw, result);
                     translationValid = validationResult.Valid;
 
                     // Append history of failures
                     if (!translationValid)
                     {
-                        messages.Add(GenerateAssistantPrompt(result));
-                        messages.Add(GenerateUserPrompt($"{config.CorrectionPrompt}{validationResult.CorrectionPrompts}"));
+                        messages.Add(LlmHelpers.GenerateAssistantPrompt(result));
+                        messages.Add(LlmHelpers.GenerateUserPrompt($"{config.Prompts["BaseCorrectionPrompt"]}{validationResult.CorrectionPrompt}"));
                     }
                 }
                 else
@@ -369,10 +271,16 @@ public static class Translation
         return input;
     }
 
-    public static ValidationResult CheckTransalationSuccessful(string raw, string result)
+    public static void AddPromptWithValues(this StringBuilder builder, LlmConfig config, string promptName, params string[] values)
+    {
+        var prompt = string.Format(config.Prompts[promptName], values);
+        builder.AppendLine(prompt);
+    }
+
+    public static ValidationResult CheckTransalationSuccessful(LlmConfig config, string raw, string result)
     {
         var response = true;
-        var correctionPrompts = string.Empty;
+        var correctionPrompts = new StringBuilder();
 
         if (string.IsNullOrEmpty(raw))
             response = false;   
@@ -380,56 +288,49 @@ public static class Translation
         if (result.Contains('/') && !raw.Contains('/'))
         {
             response = false;
-            correctionPrompts += "\n- Stop providing alternatives after /";
+            correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalContextPrompt", "/");
         }
 
         if (result.Contains('\\') && !raw.Contains('\\'))
         {
             response = false;
-            correctionPrompts += "\n- Stop providing alternatives after \\";
-        }
-
-        // Added New Lines
-        if (result.Contains('\n') && !raw.Contains('\n'))
-        {
-            response = false;
-            correctionPrompts += "\n- Stop adding new lines";
-        }
+            correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalContextPrompt", "\\");            
+        }       
 
         //// Added Brackets (Literation) where no brackets or widebrackets in raw
         if (result.Contains('(') && !raw.Contains('(') && !raw.Contains('（'))
         {
             response = false;
-            correctionPrompts += "\n- Stop adding context and explainations that are in ()";
+            correctionPrompts.AddPromptWithValues(config, "CorrectExplainationPrompt");
         }
 
         // Added literal
         if (result.Contains("(lit."))
         {
             response = false;
-            correctionPrompts += "\n- Stop adding context and explainations";
+            correctionPrompts.AddPromptWithValues(config, "CorrectExplainationPrompt");
         }
 
         //Place holders - incase the model ditched them
         if (raw.Contains("{0}") && !result.Contains("{0}"))
         {
             response = false;
-            correctionPrompts += "\n- {0} has been removed";
+            correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{0}");
         }
         if (raw.Contains("{1}") && !result.Contains("{1}"))
         {
             response = false;
-            correctionPrompts += "\n- {1} has been removed";
+            correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{1}");
         }
         if (raw.Contains("{2}") && !result.Contains("{2}"))
         {
             response = false;
-            correctionPrompts += "\n- {2} has been removed";
+            correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{2}");
         }
         if (raw.Contains("{3}") && !result.Contains("{3}"))
         {
             response = false;
-            correctionPrompts += "\n- {3} has been removed";
+            correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{3}");
         }
         if (raw.Contains("{name_1}") && !result.Contains("{name_1}"))
         {
@@ -438,7 +339,7 @@ public static class Translation
             else
             {
                 response = false;
-                correctionPrompts += "\n- {name_1} has been removed";
+                correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{name_1}");
             }
         }
         if (raw.Contains("{name_2}") && !result.Contains("{name_2}"))
@@ -448,7 +349,7 @@ public static class Translation
             else
             {
                 response = false;
-                correctionPrompts += "\n- {name_2} has been removed";
+                correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{name_2}");
             }
         }
 
@@ -456,14 +357,20 @@ public static class Translation
         if (raw.Contains("<br>") && !result.Contains("<br>"))
         {
             response = false;
-            correctionPrompts += "\n- <br> has been removed";
+            correctionPrompts.AddPromptWithValues(config, "CorrectTagBrPrompt");
+        }
+        // New Lines only if <br> correction isnt there helps quite a bit
+        else if (result.Contains('\n') && !raw.Contains('\n'))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectNewLinesPrompt");
         }
         else if (raw.Contains("<color") && !result.Contains("<color"))
         {
             response = false;
-            correctionPrompts += "\n- <color> has been removed";
+            correctionPrompts.AddPromptWithValues(config, "CorrectTagColorPrompt");
         }
-        else if (raw.Contains("<"))
+        else if (raw.Contains('<'))
         {
             // Check markup
             var markup = FindMarkup(raw);
@@ -473,7 +380,7 @@ public static class Translation
                 if (resultMarkup.Count != markup.Count)
                 {
                     response = false;
-                    correctionPrompts += "\n- Markup has been applied incorrectly";
+                    correctionPrompts.AddPromptWithValues(config, "CorrectTagMiscPrompt");
                 }
             }
         }
@@ -481,7 +388,7 @@ public static class Translation
         return new ValidationResult
         {
             Valid = response,
-            CorrectionPrompts = correctionPrompts
+            CorrectionPrompt = correctionPrompts.ToString(),
         };
     }
 

@@ -14,35 +14,29 @@ public class LlmConfig
     public int? BatchSize { get; set; }
     public Dictionary<string, object>? ModelParams { get; set; }
 
-    public string? SystemPrompt { get; set; }
-    public string? CorrectionPrompt { get; set; }
+    public Dictionary<string, string> Prompts { get; set; } = [];
 }
 
 public static class Configuration
 {
-    public static LlmConfig GetConfiguration(string file)
+    public static LlmConfig GetConfiguration(string workingDirectory)
     {
-        if (!File.Exists(file))
-        {
-            var defaultConfig = new LlmConfig()
-            {
-                Url = "http://localhost:11434/api/chat",
-                Model = "llama3.1",
-                SystemPrompt = "Please Adjust my Prompt\n\nI can be multi line",
-                ApiKeyRequired = false,
-                ApiKey = "Replace Me if needed"
-            };
+        var yamlDeserializer = new DeserializerBuilder().Build();
+        var response = yamlDeserializer.Deserialize<LlmConfig>(File.ReadAllText($"{workingDirectory}/Config.yaml", Encoding.UTF8));
 
-            var serializer = new SerializerBuilder()
-               .Build();
+        response.Prompts = CachePrompts(workingDirectory);
 
-            string yaml = serializer.Serialize(defaultConfig);
-            File.WriteAllText(file, yaml);
-        }
+        return response;
+    }
 
-        var yamlDeserializer = new DeserializerBuilder()
-            .Build();
+    public static Dictionary<string, string> CachePrompts(string workingDirectory)
+    {
+        var prompts = new Dictionary<string, string>();
+        var path = $"{workingDirectory}/Prompts";
 
-        return yamlDeserializer.Deserialize<LlmConfig>(File.ReadAllText(file, Encoding.UTF8));
+        foreach (var file in Directory.EnumerateFiles(path))
+            prompts.Add(Path.GetFileNameWithoutExtension(file), File.ReadAllText(file));
+
+        return prompts;
     }
 }

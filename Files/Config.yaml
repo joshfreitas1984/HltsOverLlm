@@ -7,7 +7,7 @@ ModelParams:
   max_tokens: 1000
   top_p: 1.0
   top_k: 50
-  min_p: 0.1
+  min_p: 0.5
   frequency_penalty: 0
   presence_penalty: 0
 RetryCount: 3
@@ -26,9 +26,9 @@ SystemPrompt: >-
 
   **Placeholders:**
   - Retain placeholders like `{0}`, `{name_1}`, and `{name_2}` in their original form.
-  - `{0}`, `{1}`, `{2}` are contextual placeholders for numbers or names. 
-  - `{name_1}` is a contextual placeholder for Surname.
-  - `{name_2}` is a contextual placeholder for Firstname.
+  - Specifically treat `{0}`, `{1}`, `{2}` as names, numbers or item names within this context.
+  - Specifically treat `{name_1}` as a surname within this context.
+  - Specifically treat `{name_2}` as a first name within this context.
 
   **Names:**
   - Use Romanized Pinyin for converting Chinese names to English.

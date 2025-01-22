@@ -4,23 +4,26 @@ using YamlDotNet.Serialization.NamingConventions;
 using YamlDotNet.Serialization;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
+using Microsoft.VisualBasic;
 
 namespace Translate.Tests;
 
-public class Tests
+public class TranslationServiceTests
 {
-    const string filesPath = "../../../../Files/";
+    const string workingDirectory = "../../../../Files";
 
-    //[Fact]
-    //public void Export()
-    //{
-    //    ExportLines.Export();
-    //}
+    [Fact]
+    public void Export()
+    {
+        TranslationService.Export(workingDirectory);
+    }
 
     [Fact]
     public async Task UndoInvalidTranslations()
     {
-        await Translation.IterateThroughTranslatedFilesAsync(async (outputFile, textFileToTranslate, fileLines) =>
+        var config = Configuration.GetConfiguration(workingDirectory);
+
+        await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             int recordsModded = 0; 
             foreach (var line in fileLines)
@@ -30,10 +33,10 @@ public class Tests
                     if (string.IsNullOrEmpty(split.Translated))
                         continue;
 
-                    var result = Translation.CheckTransalationSuccessful(split.Text, split.Translated ?? string.Empty);
+                    var result = TranslationService.CheckTransalationSuccessful(config, split.Text, split.Translated ?? string.Empty);
                     if (!result.Valid)
                     {
-                        Console.WriteLine($"Invalid {textFileToTranslate.Path} Failures:{result.CorrectionPrompts}\n{split.Translated}");
+                        Console.WriteLine($"Invalid {textFileToTranslate.Path} Failures:{result.CorrectionPrompt}\n{split.Translated}");
                         split.Translated = string.Empty;
                         recordsModded++;
                     }
@@ -57,7 +60,7 @@ public class Tests
     {
         var failures = new List<string>();
 
-        await Translation.IterateThroughTranslatedFilesAsync(async (outputFile, textFileToTranslate, fileLines) =>
+        await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             foreach (var line in fileLines)
             {
@@ -71,19 +74,19 @@ public class Tests
             await Task.CompletedTask;
         });
         
-        File.WriteAllLines($"{filesPath}/failures.txt", failures);
+        File.WriteAllLines($"{workingDirectory}/TestResults/failures.txt", failures);
     }
 
     [Fact]
     public async Task TranslateLines()
     {
-        await Translation.TranslateViaLlmAsync(false);
+        await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
     }
 
     [Fact]
     public async Task TestPrompt()
     {       
-        var config = Configuration.GetConfiguration($"{filesPath}/Config.yaml");
+        var config = Configuration.GetConfiguration(workingDirectory);
 
         // Create an HttpClient instance
         using var client = new HttpClient();
@@ -135,7 +138,7 @@ public class Tests
             // Process the batch in parallel
             await Task.WhenAll(batch.Select(async line =>
             {
-                line.Trans = await Translation.TranslateSplitAsync(config, line.Raw, client, ignoreValidityCheck, outputResponse);
+                line.Trans = await TranslationService.TranslateSplitAsync(config, line.Raw, client, ignoreValidityCheck, outputResponse);
                 recordsProcessed++;
             }));
 
@@ -147,7 +150,7 @@ public class Tests
         foreach (var line in testLines)
             results.Add($"From: {line.Raw}\nTo: {line.Trans}\n");
 
-        File.WriteAllLines($"{filesPath}/tests.txt", results);
+        File.WriteAllLines($"{workingDirectory}/TestResults/tests.txt", results);
     }
 
     //[Fact]
@@ -169,7 +172,7 @@ public class Tests
     //        lines.Add("");
     //    }
 
-    //    File.WriteAllLines($"{outputPath}/SuccessfulTests.txt", lines);
+    //    File.WriteAllLines($"{outputPath}/TestResults/SuccessfulTests.txt", lines);
     //}
 
     //[Fact]
@@ -180,4 +183,16 @@ public class Tests
     //    foreach (var text in strings)
     //        Console.WriteLine(text);
     //}
+
+    [Fact]
+    public async Task CachePromptsTest()
+    {
+        var prompts = Configuration.CachePrompts(workingDirectory);
+
+        var serializer = new SerializerBuilder()
+                 .WithNamingConvention(CamelCaseNamingConvention.Instance)
+                 .Build();
+
+        await File.WriteAllTextAsync($"{workingDirectory}/TestResults/AllPrompts.yaml", serializer.Serialize(prompts));
+    }
 }
