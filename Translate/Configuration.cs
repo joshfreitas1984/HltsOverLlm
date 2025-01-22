@@ -14,7 +14,9 @@ public class LlmConfig
     public int? BatchSize { get; set; }
     public Dictionary<string, object>? ModelParams { get; set; }
 
+    // Not serialised in Yaml
     public Dictionary<string, string> Prompts { get; set; } = [];
+    public string? WorkingDirectory { get; set; }
 }
 
 public static class Configuration
@@ -24,6 +26,7 @@ public static class Configuration
         var yamlDeserializer = new DeserializerBuilder().Build();
         var response = yamlDeserializer.Deserialize<LlmConfig>(File.ReadAllText($"{workingDirectory}/Config.yaml", Encoding.UTF8));
 
+        response.WorkingDirectory = workingDirectory;
         response.Prompts = CachePrompts(workingDirectory);
 
         return response;

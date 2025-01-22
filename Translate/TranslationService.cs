@@ -177,10 +177,12 @@ public static class TranslationService
         }
     }
 
-    public static async Task<string> TranslateSplitAsync(LlmConfig config, string? raw, HttpClient client, bool ignoreCheck = false, bool outputResponse = false)
+    public static async Task<string> TranslateSplitAsync(LlmConfig config, string? raw, HttpClient client, bool ignoreCheck = false, bool optimisationMode = false)
     {
         if (string.IsNullOrEmpty(raw))
             return string.Empty;
+
+        var optimisationFolder = $"{config.WorkingDirectory}/TestResults/Optimisation";
 
         // Define the request payload
         var messages = new List<object>
@@ -191,15 +193,17 @@ public static class TranslationService
 
         try
         {
-            bool translationValid = false;
-            int retryCount = 0;
-            string result = string.Empty;
+            var translationValid = false;
+            var retryCount = 0;
+            var result = string.Empty;
+            var requestData = string.Empty;
 
             while (!translationValid && retryCount < (config.RetryCount ?? 1))
             {
                 // Create an HttpContent object
-                var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
+                requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
                 HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
+
 
                 // Make the POST request
                 HttpResponseMessage response = await client.PostAsync(config.Url, content);
@@ -216,9 +220,6 @@ public static class TranslationService
                     .GetProperty("content")!
                     .GetString()
                     ?.Trim() ?? string.Empty;
-
-                if (outputResponse)
-                    Console.WriteLine($"Response:\n{responseBody}\n");
 
                 //// Deepseek
                 //if (result.StartsWith("<think>"))
@@ -241,6 +242,9 @@ public static class TranslationService
 
                 retryCount++;
             }
+
+            if (optimisationMode && retryCount > 1)
+                File.WriteAllText($"{optimisationFolder}/{DateTime.Now.ToString("yyyyMMddHHmmss")}-{Guid.NewGuid()}.json", requestData);
 
             if (!translationValid)
                 Console.WriteLine($"Invalid Line: {raw}");
@@ -283,7 +287,7 @@ public static class TranslationService
         var correctionPrompts = new StringBuilder();
 
         if (string.IsNullOrEmpty(raw))
-            response = false;   
+            response = false;
 
         if (result.Contains('/') && !raw.Contains('/'))
         {
@@ -294,8 +298,8 @@ public static class TranslationService
         if (result.Contains('\\') && !raw.Contains('\\'))
         {
             response = false;
-            correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalContextPrompt", "\\");            
-        }       
+            correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalContextPrompt", "\\");
+        }
 
         //// Added Brackets (Literation) where no brackets or widebrackets in raw
         if (result.Contains('(') && !raw.Contains('(') && !raw.Contains('（'))
@@ -383,6 +387,12 @@ public static class TranslationService
                     correctionPrompts.AddPromptWithValues(config, "CorrectTagMiscPrompt");
                 }
             }
+        }
+
+        if (Regex.IsMatch(result, @"\p{IsCJKUnifiedIdeographs}"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectChinesePrompt");
         }
 
         return new ValidationResult

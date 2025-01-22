@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="TestResults\" />
+    <Folder Include="TestResults\Optimisation\" />
   </ItemGroup>
 
 </Project>

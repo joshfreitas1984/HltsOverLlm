@@ -20,7 +20,7 @@ public class PromptTuningTests
         using var client = new HttpClient();
 
         var ignoreValidityCheck = false;
-        var outputResponse = false;
+        var optimisationMode = true;
         var batchSize = config.BatchSize ?? 10;
 
         var testLines = new List<TranslatedRaw> {
@@ -52,6 +52,13 @@ public class PromptTuningTests
         var totalLines = testLines.Count;
         var stopWatch = Stopwatch.StartNew();
 
+        //Optimisation Folder
+        var optimisationFolder = $"{workingDirectory}/TestResults/Optimisation";
+        if (optimisationMode && Directory.Exists(optimisationFolder))
+            Directory.Delete(optimisationFolder, true);
+
+        Directory.CreateDirectory(optimisationFolder);
+
         for (int i = 0; i < totalLines; i += batchSize)
         {
             stopWatch.Restart();
@@ -66,7 +73,7 @@ public class PromptTuningTests
             // Process the batch in parallel
             await Task.WhenAll(batch.Select(async line =>
             {
-                line.Trans = await TranslationService.TranslateSplitAsync(config, line.Raw, client, ignoreValidityCheck, outputResponse);
+                line.Trans = await TranslationService.TranslateSplitAsync(config, line.Raw, client, ignoreValidityCheck, optimisationMode);
                 recordsProcessed++;
             }));
 
@@ -78,6 +85,6 @@ public class PromptTuningTests
         foreach (var line in testLines)
             results.Add($"From: {line.Raw}\nTo: {line.Trans}\n");
 
-        File.WriteAllLines($"{workingDirectory}/TestResults/tests.txt", results);
+        File.WriteAllLines($"{workingDirectory}/TestResults/AllPromptsTest.txt", results);
     }
 }
