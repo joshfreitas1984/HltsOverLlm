@@ -9,7 +9,7 @@ namespace Translate;
 
 public class ModConfigFile
 {
-    public string UID { get; set; } = "2153717415";
+    public string UID { get; set; } = "3412932629";
     public string Id { get; set; } = "EnglishLlmByLash";
     public string Name { get; set; } = "BETA - Lash's English Patch Over LLM";
     public string Description { get; set; } = "English Translation using an LLM\nNot complete yet!";

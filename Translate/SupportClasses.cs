@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using YamlDotNet.Core;
+using YamlDotNet.Serialization;
 
 namespace Translate;
 
@@ -14,14 +16,20 @@ public class TranslatedRaw(string raw)
 
 public class TextFileToSplit
 {
+    [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
     public string? Path { get; set; }
+
     public int[]? SplitIndexes { get; set; }
 }
 
 public class TranslationSplit
 {
     public int Split { get; set; } = 0;
+    
+    [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
     public string Text { get; set; } = string.Empty;
+    
+    [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
     public string? Translated { get; set; }
 
     public TranslationSplit() { }
@@ -36,8 +44,13 @@ public class TranslationSplit
 public class TranslationLine
 {
     public int LineNum { get; set; } = 0;
+    
+    [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
     public string Raw { get; set; } = string.Empty;
+
+    [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]    
     public string? Translated { get; set; }
+    
     public List<TranslationSplit> Splits { get; set; } = [];
 
     public TranslationLine() { }

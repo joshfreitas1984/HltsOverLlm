@@ -1,392 +1,392 @@
 - lineNum: 0
-  raw: ar00000	测试区域	0, 0, 0	326.942, 16.92308, 338.1317	50, 50, 50	J2011.wav,J2010.wav	t01	False	False	Village
-  translated: 
+  raw: "ar00000	测试区域	0, 0, 0	326.942, 16.92308, 338.1317	50, 50, 50	J2011.wav,J2010.wav	t01	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 测试区域
-    translated: Test Area
+    text: "测试区域"
+    translated: "Test Area"
 - lineNum: 1
-  raw: ar00001	拱石村	-13.2, 132.8, -1022.1	0, 5.490396, 0	130, 30, 100	J2001.wav	t01	False	False	Village
-  translated: 
+  raw: "ar00001	拱石村	-13.2, 132.8, -1022.1	0, 5.490396, 0	130, 30, 100	J2001.wav	t01	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 拱石村
-    translated: Goeng Shi Village
+    text: "拱石村"
+    translated: "Goeng Shi Village"
 - lineNum: 2
-  raw: ar00001_01	村长屋	30.41, 135.17, -1037.44	0, 2.166291, 0	28.10692, 12.6793, 21.4223	J2001.wav	t01	True	True	Village
-  translated: 
+  raw: "ar00001_01	村长屋	30.41, 135.17, -1037.44	0, 2.166291, 0	28.10692, 12.6793, 21.4223	J2001.wav	t01	True	True	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 村长屋
-    translated: Village Head's House
+    text: "村长屋"
+    translated: "Village Head's House"
 - lineNum: 3
-  raw: ar00002	漱玉矶	-373.1, 72.1, -1077.2	0, 126.9846, 0	268.0258, 45.31264, 150	J2007.wav	t02	False	False	Village
-  translated: 
+  raw: "ar00002	漱玉矶	-373.1, 72.1, -1077.2	0, 126.9846, 0	268.0258, 45.31264, 150	J2007.wav	t02	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 漱玉矶
-    translated: Shu Yuji
+    text: "漱玉矶"
+    translated: "Shu Yuji"
 - lineNum: 4
-  raw: ar00002_01	邵氏玉坊	-362.71, 69.2, -1082.87	0, 144.4143, 0	27.56577, 4.66053, 42.44002	J2007.wav	t02	True	True	Village
-  translated: 
+  raw: "ar00002_01	邵氏玉坊	-362.71, 69.2, -1082.87	0, 144.4143, 0	27.56577, 4.66053, 42.44002	J2007.wav	t02	True	True	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 邵氏玉坊
-    translated: Shaoshi Jade Mansion
+    text: "邵氏玉坊"
+    translated: "Shaoshi Jade Mansion"
 - lineNum: 5
-  raw: ar00002_02	淘石帮主府	-412.1, 72.1, -1110.8	0, 142.5632, 0	30.01009, 17.74322, 31.14775	J2007.wav	t02	True	True	Village
-  translated: 
+  raw: "ar00002_02	淘石帮主府	-412.1, 72.1, -1110.8	0, 142.5632, 0	30.01009, 17.74322, 31.14775	J2007.wav	t02	True	True	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 淘石帮主府
-    translated: Taoshi Sect Head's Residence
+    text: "淘石帮主府"
+    translated: "Taoshi Sect Head's Residence"
 - lineNum: 6
-  raw: ar00003	鹰猎人聚落	-1237.1, 189.1, -786.2	0, 0, 0	140, 25, 115	J2007.wav	t03	False	False	Village
-  translated: 
+  raw: "ar00003	鹰猎人聚落	-1237.1, 189.1, -786.2	0, 0, 0	140, 25, 115	J2007.wav	t03	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 鹰猎人聚落
-    translated: Eagle Hunter Village
+    text: "鹰猎人聚落"
+    translated: "Eagle Hunter Village"
 - lineNum: 7
-  raw: ar00004	擎天寨	-1457.5, 234.8, -361.3	0, 0, 0	160, 35, 105	J2017.wav	t04	False	False	Bastille
-  translated: 
+  raw: "ar00004	擎天寨	-1457.5, 234.8, -361.3	0, 0, 0	160, 35, 105	J2017.wav	t04	False	False	Bastille"
+  translated: ""
   splits:
   - split: 1
-    text: 擎天寨
-    translated: Qingtian Zhai
+    text: "擎天寨"
+    translated: "Qingtian Zhai"
 - lineNum: 8
-  raw: ar00005	豹王寨	-305.1, 189.4, -1326.8	0, 0, 0	100, 20, 60	J2017.wav		False	False	Bastille
-  translated: 
+  raw: "ar00005	豹王寨	-305.1, 189.4, -1326.8	0, 0, 0	100, 20, 60	J2017.wav		False	False	Bastille"
+  translated: ""
   splits:
   - split: 1
-    text: 豹王寨
-    translated: Panther King Camp
+    text: "豹王寨"
+    translated: "Panther King Camp"
 - lineNum: 9
-  raw: ar00006	白马居	-987.3, 218.47, -1208.8	0, 31.31122, 0	120, 20, 70	J2007.wav	t21	False	False	Village
-  translated: 
+  raw: "ar00006	白马居	-987.3, 218.47, -1208.8	0, 31.31122, 0	120, 20, 70	J2007.wav	t21	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 白马居
-    translated: Paima Ju
+    text: "白马居"
+    translated: "Paima Ju"
 - lineNum: 10
-  raw: ar00007	山魈鬼窟	-1016.45, 155.81, -1155.18	0, 254.0569, 0	48.12995, 19.52649, -85.58855	J2014.wav		True	True	Cave
-  translated: 
+  raw: "ar00007	山魈鬼窟	-1016.45, 155.81, -1155.18	0, 254.0569, 0	48.12995, 19.52649, -85.58855	J2014.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 山魈鬼窟
-    translated: Mount Sanchong Ghost Den
+    text: "山魈鬼窟"
+    translated: "Mount Sanchong Ghost Den"
 - lineNum: 11
-  raw: ar00007b	山魈鬼窟	-1079.69, 168.36, -1191.22	359.0125, 332.7508, 352.0142	61.39956, 11.91257, 10.65512	J2014.wav		True	True	Cave
-  translated: 
+  raw: "ar00007b	山魈鬼窟	-1079.69, 168.36, -1191.22	359.0125, 332.7508, 352.0142	61.39956, 11.91257, 10.65512	J2014.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 山魈鬼窟
-    translated: Mountain Ghost's Lair
+    text: "山魈鬼窟"
+    translated: "Mountain Ghost's Lair"
 - lineNum: 12
-  raw: ar00007c	山魈鬼窟	-1074.21, 168.2, -1223.95	0, 332.6906, 0	35.43692, 16.08304, 53.02345	J2014.wav		True	True	Cave
-  translated: 
+  raw: "ar00007c	山魈鬼窟	-1074.21, 168.2, -1223.95	0, 332.6906, 0	35.43692, 16.08304, 53.02345	J2014.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 山魈鬼窟
-    translated: Mounting Demon's Haunted Lair
+    text: "山魈鬼窟"
+    translated: "Mounting Demon's Haunted Lair"
 - lineNum: 13
-  raw: ar00008	大研镇	-697, 77.6, -1067.8	0, 0, 0	260, 25, 250	J2002.wav	t05	False	False	Town
-  translated: 
+  raw: "ar00008	大研镇	-697, 77.6, -1067.8	0, 0, 0	260, 25, 250	J2002.wav	t05	False	False	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 大研镇
-    translated: Daganyuan Township
+    text: "大研镇"
+    translated: "Daganyuan Township"
 - lineNum: 14
-  raw: ar00008_01	俏梦阁	-738.7, 72.28, -1104.73	0, 0, 0	53.73303, 23.33754, 60.51846	J2006.wav		True	True	Town
-  translated: 
+  raw: "ar00008_01	俏梦阁	-738.7, 72.28, -1104.73	0, 0, 0	53.73303, 23.33754, 60.51846	J2006.wav		True	True	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 俏梦阁
-    translated: Charming Dream Hall
+    text: "俏梦阁"
+    translated: "Charming Dream Hall"
 - lineNum: 15
-  raw: ar00008_02	善人府	-706.1, 72.28, -1036	0, 0, 0	49.53935, 23.33754, 60.31968	J2002.wav		True	True	Town
-  translated: 
+  raw: "ar00008_02	善人府	-706.1, 72.28, -1036	0, 0, 0	49.53935, 23.33754, 60.31968	J2002.wav		True	True	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 善人府
-    translated: House of Goodness
+    text: "善人府"
+    translated: "House of Goodness"
 - lineNum: 16
-  raw: ar00009	木氏土司	-886.9, 78.8, -896.9	0, 331.4432, 0	120, 30, 120	J2008.wav		False	False	Town
-  translated: 
+  raw: "ar00009	木氏土司	-886.9, 78.8, -896.9	0, 331.4432, 0	120, 30, 120	J2008.wav		False	False	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 木氏土司
-    translated: Sifu Mu Shi
+    text: "木氏土司"
+    translated: "Sifu Mu Shi"
 - lineNum: 17
-  raw: ar00010	暗流宝窟	-221.17, 57.88, -937.09	0, 0, 0	45.4348, 26.75608, 54.14376	J2013.wav		True	True	Cave
-  translated: 
+  raw: "ar00010	暗流宝窟	-221.17, 57.88, -937.09	0, 0, 0	45.4348, 26.75608, 54.14376	J2013.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 暗流宝窟
-    translated: Mysterious Stream Treasure Cove
+    text: "暗流宝窟"
+    translated: "Mysterious Stream Treasure Cove"
 - lineNum: 18
-  raw: ar00011	藏花草棚	-424.4, 60.4, 1220.2	0, 49.51375, 0	100, 30, 75	J2007.wav	t19	False	False	Village
-  translated: 
+  raw: "ar00011	藏花草棚	-424.4, 60.4, 1220.2	0, 49.51375, 0	100, 30, 75	J2007.wav	t19	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 藏花草棚
-    translated: Herb Shed in the Garden
+    text: "藏花草棚"
+    translated: "Herb Shed in the Garden"
 - lineNum: 19
-  raw: ar00012	丈人村	-594.9, 63.8, 50.5	0, 325.2778, 0	85, 30, 70	J2001.wav	t11	False	False	Village
-  translated: 
+  raw: "ar00012	丈人村	-594.9, 63.8, 50.5	0, 325.2778, 0	85, 30, 70	J2001.wav	t11	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 丈人村
-    translated: Father-in-law's village.
+    text: "丈人村"
+    translated: "Father-in-law's village."
 - lineNum: 20
-  raw: ar00013	青城派	-882.9, 166.9, 202.8	0, 11.43256, 0	155, 30, 120	Y000071.ogg	t20	False	False	Town
-  translated: 
+  raw: "ar00013	青城派	-882.9, 166.9, 202.8	0, 11.43256, 0	155, 30, 120	Y000071.ogg	t20	False	False	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 青城派
-    translated: Qingcheng Sect
+    text: "青城派"
+    translated: "Qingcheng Sect"
 - lineNum: 21
-  raw: ar00014	赋闲书院	73.4, 138.8, 971.2	0, 356.9586, 0	140, 30, 90	Y000075.ogg	t15	False	False	Town
-  translated: 
+  raw: "ar00014	赋闲书院	73.4, 138.8, 971.2	0, 356.9586, 0	140, 30, 90	Y000075.ogg	t15	False	False	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 赋闲书院
-    translated: Leisurely Book Institute
+    text: "赋闲书院"
+    translated: "Leisurely Book Institute"
 - lineNum: 22
-  raw: ar00014_01	浣花溪亭	-148.04, 70.59, 1088.99	0, 356.9586, 0	25, 20, 40	J2006.wav		False	True	Village
-  translated: 
+  raw: "ar00014_01	浣花溪亭	-148.04, 70.59, 1088.99	0, 356.9586, 0	25, 20, 40	J2006.wav		False	True	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 浣花溪亭
-    translated: Huanhua Creek Pavilion
+    text: "浣花溪亭"
+    translated: "Huanhua Creek Pavilion"
 - lineNum: 23
-  raw: ar00015	天龙寺	761.9, 97.2, -828.5	0, 0, 0	120, 30, 120	J2012.wav	t13	False	False	Village
-  translated: 
+  raw: "ar00015	天龙寺	761.9, 97.2, -828.5	0, 0, 0	120, 30, 120	J2012.wav	t13	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 天龙寺
-    translated: Heavenly Dragon Temple
+    text: "天龙寺"
+    translated: "Heavenly Dragon Temple"
 - lineNum: 24
-  raw: ar00016	一世富贵	-330.2, 95, 663.7	0, 4.507861, 0	157.8009, 98.48057, 157.8685	J2016.wav	t14	False	False	Town
-  translated: 
+  raw: "ar00016	一世富贵	-330.2, 95, 663.7	0, 4.507861, 0	157.8009, 98.48057, 157.8685	J2016.wav	t14	False	False	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 一世富贵
-    translated: A lifetime of wealth and honor.
+    text: "一世富贵"
+    translated: "A lifetime of wealth and honor."
 - lineNum: 25
-  raw: ar00017	噶玛寺	-644.8, 124.3, -473.9	0, 41.09216, 0	90, 30, 130	J2012.wav	t10	False	False	Town
-  translated: 
+  raw: "ar00017	噶玛寺	-644.8, 124.3, -473.9	0, 41.09216, 0	90, 30, 130	J2012.wav	t10	False	False	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 噶玛寺
-    translated: Gongga Monastery
+    text: "噶玛寺"
+    translated: "Gongga Monastery"
 - lineNum: 26
-  raw: ar00018	迷魂水寨	338, 66.5, 917.1	0, 353.9751, 0	93, 20, 80	J2014.wav	t30	False	False	Bastille
-  translated: 
+  raw: "ar00018	迷魂水寨	338, 66.5, 917.1	0, 353.9751, 0	93, 20, 80	J2014.wav	t30	False	False	Bastille"
+  translated: ""
   splits:
   - split: 1
-    text: 迷魂水寨
-    translated: Mihunshui Stronghold
+    text: "迷魂水寨"
+    translated: "Mihunshui Stronghold"
 - lineNum: 27
-  raw: ar00019	石家盐帮	338.8, 78.3, -532.7	0, 51.12562, 0	100, 25, 140	J2015.wav	t12	False	False	Bastille
-  translated: 
+  raw: "ar00019	石家盐帮	338.8, 78.3, -532.7	0, 51.12562, 0	100, 25, 140	J2015.wav	t12	False	False	Bastille"
+  translated: ""
   splits:
   - split: 1
-    text: 石家盐帮
-    translated: Stone Family Salt Guild
+    text: "石家盐帮"
+    translated: "Stone Family Salt Guild"
 - lineNum: 28
-  raw: ar00020	大云庵	684.2, 100.4, 1524.7	0, 9.026343, 0	65, 20, 85	J2013.wav	t17	False	False	Village
-  translated: 
+  raw: "ar00020	大云庵	684.2, 100.4, 1524.7	0, 9.026343, 0	65, 20, 85	J2013.wav	t17	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 大云庵
-    translated: Great Cloud Hermitage
+    text: "大云庵"
+    translated: "Great Cloud Hermitage"
 - lineNum: 29
-  raw: ar00021	千佛崖破庙	-1080.45, 100.46, 617.6	0, 319.9287, 0	29.1568, 20, 21.94764	J2014.wav	t16	False	False	Village
-  translated: 
+  raw: "ar00021	千佛崖破庙	-1080.45, 100.46, 617.6	0, 319.9287, 0	29.1568, 20, 21.94764	J2014.wav	t16	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 千佛崖破庙
-    translated: Thousand Buddhas Cliff Broken Temple
+    text: "千佛崖破庙"
+    translated: "Thousand Buddhas Cliff Broken Temple"
 - lineNum: 30
-  raw: ar00022	蛇窟	-150.2, 104.6, -1129	34.11689, 331.8229, 5.046077	64.98884, 43.44489, 49.42982	J2014.wav		True	False	Cave
-  translated: 
+  raw: "ar00022	蛇窟	-150.2, 104.6, -1129	34.11689, 331.8229, 5.046077	64.98884, 43.44489, 49.42982	J2014.wav		True	False	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 蛇窟
-    translated: Snake Pit
+    text: "蛇窟"
+    translated: "Snake Pit"
 - lineNum: 31
-  raw: ar00023	圣堂	21.31, 135.38, -1316.95	0, 355.495, 0	80.35287, 27.27358, 37.8044	J2013.wav		True	True	Cave
-  translated: 
+  raw: "ar00023	圣堂	21.31, 135.38, -1316.95	0, 355.495, 0	80.35287, 27.27358, 37.8044	J2013.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 圣堂
-    translated: Holy Hall
+    text: "圣堂"
+    translated: "Holy Hall"
 - lineNum: 32
-  raw: ar00025	漱玉矶矿坑	-529.5, 117.2, -1347.8	0, 349.5139, 0	113.0877, 14.31411, 109.8727	J2013.wav	t22	False	False	Cave
-  translated: 
+  raw: "ar00025	漱玉矶矿坑	-529.5, 117.2, -1347.8	0, 349.5139, 0	113.0877, 14.31411, 109.8727	J2013.wav	t22	False	False	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 漱玉矶矿坑
-    translated: Shu Yuji mine shaft
+    text: "漱玉矶矿坑"
+    translated: "Shu Yuji mine shaft"
 - lineNum: 33
-  raw: ar00026	神秘洞窟	82.3, 134.4, -1346.7	0, 0, 0	79.02313, 50.99135, 128.6463	J2013.wav		True	True	Cave
-  translated: 
+  raw: "ar00026	神秘洞窟	82.3, 134.4, -1346.7	0, 0, 0	79.02313, 50.99135, 128.6463	J2013.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 神秘洞窟
-    translated: Mysterious Cave
+    text: "神秘洞窟"
+    translated: "Mysterious Cave"
 - lineNum: 34
-  raw: ar00026b	神秘洞窟	80.13, 235.36, -1241.62	0, 296.8073, 0	18.66775, 18.84502, 49.14317	J2013.wav		True	True	Cave
-  translated: 
+  raw: "ar00026b	神秘洞窟	80.13, 235.36, -1241.62	0, 296.8073, 0	18.66775, 18.84502, 49.14317	J2013.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 神秘洞窟
-    translated: Mysterious Cave
+    text: "神秘洞窟"
+    translated: "Mysterious Cave"
 - lineNum: 35
-  raw: ar00026c	神秘洞窟	94.17, 217.91, -1269.34	0, 0, 0	-23.84651, 38.1227, 32.30524	J2013.wav		True	True	Cave
-  translated: 
+  raw: "ar00026c	神秘洞窟	94.17, 217.91, -1269.34	0, 0, 0	-23.84651, 38.1227, 32.30524	J2013.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 神秘洞窟
-    translated: Mysterious Cave
+    text: "神秘洞窟"
+    translated: "Mysterious Cave"
 - lineNum: 36
-  raw: ar00026d	神秘洞窟	57.32, 183.8, -1279.88	0, 0, 0	53.02766, 52.5085, 41.45916	J2013.wav		True	True	Cave
-  translated: 
+  raw: "ar00026d	神秘洞窟	57.32, 183.8, -1279.88	0, 0, 0	53.02766, 52.5085, 41.45916	J2013.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 神秘洞窟
-    translated: Mysterious Cave
+    text: "神秘洞窟"
+    translated: "Mysterious Cave"
 - lineNum: 37
-  raw: ar00026e	神秘洞窟	70.84, 213.05, -1285.37	0, 0, 0	28.25072, 23.34526, 17.30545	J2013.wav		True	True	Cave
-  translated: 
+  raw: "ar00026e	神秘洞窟	70.84, 213.05, -1285.37	0, 0, 0	28.25072, 23.34526, 17.30545	J2013.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 神秘洞窟
-    translated: Mysterious Cave
+    text: "神秘洞窟"
+    translated: "Mysterious Cave"
 - lineNum: 38
-  raw: ar00026f	神秘洞窟	56.08, 175.6, -1313.4	0, 0, 0	40, 35.88333, 25.94974	J2013.wav		True	True	Cave
-  translated: 
+  raw: "ar00026f	神秘洞窟	56.08, 175.6, -1313.4	0, 0, 0	40, 35.88333, 25.94974	J2013.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 神秘洞窟
-    translated: Mysterious Cave
+    text: "神秘洞窟"
+    translated: "Mysterious Cave"
 - lineNum: 39
-  raw: ar00026g	神秘洞窟	64.7, 167.43, -1337.6	0, 0, 356.137	59.63836, 20.04792, 32.58006	J2013.wav		True	True	Cave
-  translated: 
+  raw: "ar00026g	神秘洞窟	64.7, 167.43, -1337.6	0, 0, 356.137	59.63836, 20.04792, 32.58006	J2013.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 神秘洞窟
-    translated: Mysterious Cave
+    text: "神秘洞窟"
+    translated: "Mysterious Cave"
 - lineNum: 40
-  raw: ar00028	山洞	-120.9, 225.44, -1377.88	0, 0, 0	18.97608, 4.293799, 11.66034	J2013.wav		True	True	Cave
-  translated: 
+  raw: "ar00028	山洞	-120.9, 225.44, -1377.88	0, 0, 0	18.97608, 4.293799, 11.66034	J2013.wav		True	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 山洞
-    translated: Cave
+    text: "山洞"
+    translated: "Cave"
 - lineNum: 41
-  raw: ar00029	美馔楼	109.98, 91.27, -231.35	0, 340.7583, 0	50.8377, 21.71272, 49.96782	J2015.wav	t25	False	False	Town
-  translated: 
+  raw: "ar00029	美馔楼	109.98, 91.27, -231.35	0, 340.7583, 0	50.8377, 21.71272, 49.96782	J2015.wav	t25	False	False	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 美馔楼
-    translated: Mei zhuan lou
+    text: "美馔楼"
+    translated: "Mei zhuan lou"
 - lineNum: 42
-  raw: ar00030	兵营	149.1, 89.6, 140.5	0, 1.043283, 0	123.2678, 24.88538, 108.0123	J2017.wav		True	True	Bastille
-  translated: 
+  raw: "ar00030	兵营	149.1, 89.6, 140.5	0, 1.043283, 0	123.2678, 24.88538, 108.0123	J2017.wav		True	True	Bastille"
+  translated: ""
   splits:
   - split: 1
-    text: 兵营
-    translated: Barracks
+    text: "兵营"
+    translated: "Barracks"
 - lineNum: 43
-  raw: ar00031	西川都司	150.16, 107.4, 226.9	0, 1.458146, 0	78.29042, 30.12232, 66.71371	J2017.wav	t26	False	False	Town
-  translated: 
+  raw: "ar00031	西川都司	150.16, 107.4, 226.9	0, 1.458146, 0	78.29042, 30.12232, 66.71371	J2017.wav	t26	False	False	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 西川都司
-    translated: Commander Xishuan
+    text: "西川都司"
+    translated: "Commander Xishuan"
 - lineNum: 44
-  raw: ar00032	先民遗迹之所	-230.3, 152.7131, -215.6	0, 308.7115, 0	209.8714, 160.641, 318.5776	J2013.wav	t28	False	False	Cave
-  translated: 
+  raw: "ar00032	先民遗迹之所	-230.3, 152.7131, -215.6	0, 308.7115, 0	209.8714, 160.641, 318.5776	J2013.wav	t28	False	False	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 先民遗迹之所
-    translated: The site of the ancient relics.
+    text: "先民遗迹之所"
+    translated: "The site of the ancient relics."
 - lineNum: 45
-  raw: ar00033	风云渡	460.2, 70.41, -161.6	0, 0, 0	113.2756, 20, 108.7373	J2007.wav	t24	False	False	Village
-  translated: 
+  raw: "ar00033	风云渡	460.2, 70.41, -161.6	0, 0, 0	113.2756, 20, 108.7373	J2007.wav	t24	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 风云渡
-    translated: Wind Cloud Crossing
+    text: "风云渡"
+    translated: "Wind Cloud Crossing"
 - lineNum: 46
-  raw: ar00034	卧龙村	297.9, 95, -57.2	0, 342.7745, 0	107.2778, 20, 64.37355	J2001.wav	t23	False	False	Village
-  translated: 
+  raw: "ar00034	卧龙村	297.9, 95, -57.2	0, 342.7745, 0	107.2778, 20, 64.37355	J2001.wav	t23	False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 卧龙村
-    translated: Wolong Village
+    text: "卧龙村"
+    translated: "Wolong Village"
 - lineNum: 47
-  raw: ar00035	武侯祠	154.74, 103.84, -47.03	0, 352.2324, 0	56.30731, 20, 47.27695	J2013.wav		False	False	Village
-  translated: 
+  raw: "ar00035	武侯祠	154.74, 103.84, -47.03	0, 352.2324, 0	56.30731, 20, 47.27695	J2013.wav		False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 武侯祠
-    translated: Wuhou Temple
+    text: "武侯祠"
+    translated: "Wuhou Temple"
 - lineNum: 48
-  raw: ar00036	布政使司衙门	313.8278, 99.1, 31.37123	0, 335.5543, 0	39.54926, 19.155, 44.4701	J2013.wav	t27	False	False	Town
-  translated: 
+  raw: "ar00036	布政使司衙门	313.8278, 99.1, 31.37123	0, 335.5543, 0	39.54926, 19.155, 44.4701	J2013.wav	t27	False	False	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 布政使司衙门
-    translated: Buzhengshi's yamen
+    text: "布政使司衙门"
+    translated: "Buzhengshi's yamen"
 - lineNum: 49
-  raw: ar00037	遂心岛	928.2, 86.4, 1250.3	0, 349.8022, 0	177.7824, 55.14739, 347.2632	J2023.wav	t29	False	False	Cave
-  translated: 
+  raw: "ar00037	遂心岛	928.2, 86.4, 1250.3	0, 349.8022, 0	177.7824, 55.14739, 347.2632	J2023.wav	t29	False	False	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 遂心岛
-    translated: Isle of Heartfelt Intentions
+    text: "遂心岛"
+    translated: "Isle of Heartfelt Intentions"
 - lineNum: 50
-  raw: ar00037_01	快意村	936.68, 83.61075, 1331.23	0, 0, 0	46.95008, 25.50699, 37.63245	J2023.wav		False	False	Village
-  translated: 
+  raw: "ar00037_01	快意村	936.68, 83.61075, 1331.23	0, 0, 0	46.95008, 25.50699, 37.63245	J2023.wav		False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 快意村
-    translated: Village of Great Joy
+    text: "快意村"
+    translated: "Village of Great Joy"
 - lineNum: 51
-  raw: ar00038	无底深渊	-1124.7, 151.5, 899	0, 0, 0	200, 50, 200	J2013.wav		False	True	Cave
-  translated: 
+  raw: "ar00038	无底深渊	-1124.7, 151.5, 899	0, 0, 0	200, 50, 200	J2013.wav		False	True	Cave"
+  translated: ""
   splits:
   - split: 1
-    text: 无底深渊
-    translated: Bottomless Abyss
+    text: "无底深渊"
+    translated: "Bottomless Abyss"
 - lineNum: 52
-  raw: ar00039	望陇村	-927.38, 70, 1096.2	0, 0, 0	70, 20, 60	J2014.wav		False	False	Village
-  translated: 
+  raw: "ar00039	望陇村	-927.38, 70, 1096.2	0, 0, 0	70, 20, 60	J2014.wav		False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 望陇村
-    translated: Long Village Gaze
+    text: "望陇村"
+    translated: "Long Village Gaze"
 - lineNum: 53
-  raw: ar00040	下河村	-649.3, 72.4, 602.3	0, 0, 0	90, 20, 75	J2013.wav		False	False	Village
-  translated: 
+  raw: "ar00040	下河村	-649.3, 72.4, 602.3	0, 0, 0	90, 20, 75	J2013.wav		False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 下河村
-    translated: Xiahe Village
+    text: "下河村"
+    translated: "Xiahe Village"
 - lineNum: 54
-  raw: ar00041	锦河津	30.78, 67.41, 478.38	0, 334.65, 0	40, 15, 40	J2001.wav		False	False	Village
-  translated: 
+  raw: "ar00041	锦河津	30.78, 67.41, 478.38	0, 334.65, 0	40, 15, 40	J2001.wav		False	False	Village"
+  translated: ""
   splits:
   - split: 1
-    text: 锦河津
-    translated: Jin He Jin
+    text: "锦河津"
+    translated: "Jin He Jin"
 - lineNum: 55
-  raw: ar88888	登入画面 去垃圾区	0, 0, 0	0, 0, 0	1, 1, 1	J2010.wav		True	True	Town
-  translated: 
+  raw: "ar88888	登入画面 去垃圾区	0, 0, 0	0, 0, 0	1, 1, 1	J2010.wav		True	True	Town"
+  translated: ""
   splits:
   - split: 1
-    text: 登入画面 去垃圾区
-    translated: Login Screen Go To Trash Area
+    text: "登入画面 去垃圾区"
+    translated: "Login Screen Go To Trash Area"

@@ -502,7 +502,7 @@ buffSkillTree080_005	Seven-colored centipede	The 0 can capture and refine the po
 buffSkillTree080_008	A hundred legs do not tangle.	When executing the Seven-Colored Ultimate Poison Technique, enemies within a 2-unit radius are additionally inflicted with 4 points of poisoning and 4 points of fatigue each turn.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree080_009	Vivacious and colorful	When using the Seven-Color Poisoning Technique, all enemies within 2 units of distance suffer an additional 4 points of poisoning and 4 points of dislocation damage each turn.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree081_006	Leaning against a sheer cliff face.	If cast with Severe Ice-Bound Winter, self's negative status is reduced by 3 points.	0		0	FALSE	0	FALSE	0	0		buffSkillTree081_006
-buffSkillTree081_007	Alone, I hum to the reeds in the grove.	If Yan Bing Su Dong is used as a counterattack skill, an additional 6 points of counterattack rate are accumulated per round.	0		0	FALSE	0	FALSE	0	0
+buffSkillTree081_007	Alone, I hum to the reeds in the grove.	If Yan Bing Su Dong is used as a counterattack skill, an additional 6 points of counterattack rate are accumulated per round.	0		0	FALSE	0	FALSE	0	0		
 buffSkillTree081_008	Iron spikes affixed with jade.	If you deploy Severe Ice Frost Winter, your own power reduction increases by 5 points.	0		0	FALSE	0	FALSE	0	0		buffSkillTree081_008
 buffSkillTree083_003	Unforgettable Grace of Your Majesty	Execute Clouds and Rain of Wu Mountain with a simultaneous feint, increasing evasion by 4 points.	0		0	FALSE	0	FALSE	0	0		buffSkillTree083_003
 buffSkillTree083_009	Feiyan Xiangwu	Perform the Crimson Sleeve Golden Powder Step of Lotus while simultaneously increasing the feint rate by 8 points.	0		0	FALSE	0	FALSE	0	0		buffSkillTree083_009
@@ -1058,8 +1058,8 @@ nick009b	Soar across a thousand miles.	There is a 20% chance of evading the enem
 nick009c	Spread wings a thousand miles	There is a 10% chance to evade the enemy's attack.	0	nickname	0	TRUE	0	FALSE	0	0		nick009c
 nick009d	Paralyzing Poison	Each round increases your own poison and dizziness values by 10 points.	0	nickname	0	TRUE	0	FALSE	0	0		nick009d
 nick009P	The Phoenix Rises Again	Increases own archery damage by 40%, and all allies gain the status Eagle Hunter.	0	nickname	0	TRUE	0	FALSE	0	0		nick009P
-nick010aa	Lan Hui Jie Yu	When Yan Yu Shu is on the field, all teammates' attack power increases by 50%.	0	nickname	0	TRUE	0	FALSE	0	0
-nick010bb	Lan Hui Jieyu	When Yan Yushu is on the field, all team members' attack power increases by 50%.	0	nickname	0	TRUE	0	FALSE	0	0
+nick010aa	Lan Hui Jie Yu	When Yan Yu Shu is on the field, all teammates' attack power increases by 50%.	0	nickname	0	TRUE	0	FALSE	0	0		
+nick010bb	Lan Hui Jieyu	When Yan Yushu is on the field, all team members' attack power increases by 50%.	0	nickname	0	TRUE	0	FALSE	0	0		
 nick010buffa	Lan Hui Jieyu	When Yan Yushu is on the field, all teammates' attack power increases by 50%.	0	battle	0	TRUE	0	FALSE	0	0		nick010buffa
 nick010buffaP	Misty and elusive orchids.	When Yan Yushu is on the field, all teammates' attack power increases by 50%, and damage reduction is increased by 10%.	0	battle	0	TRUE	0	FALSE	0	0		nick010buffaP
 nick010buffb	Lan Hui Jieyu	When Yan Yushu is on the field, all teammates' attack power increases by 50%.	0	battle	0	TRUE	0	FALSE	0	0		nick010buffb

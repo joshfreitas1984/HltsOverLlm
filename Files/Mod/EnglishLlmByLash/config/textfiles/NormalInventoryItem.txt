@@ -327,8 +327,8 @@ it801014	Fool's Powder	it801014	The manna flower's petals are dried and ground i
 it801015	Black Sand Buddha Beads	it801015	Valuable Buddha beads made of ebony wood show signs of wear from years of use upon close inspection.	801	0	0	FALSE	0	50	0	0	0		0			0
 it801016	Carrot	it801016	Carrots are commonly the nemesis of children.	801	0	0	FALSE	0	50	0	0	0		0			0
 it801017	Mysterious note.	it801017	The letter found on the roof of Bai Ma Ju seems to have been left by someone unknown, and it might provide some clues upon reading.	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "m6015201001"} ]}
-it801018	Qingshui	it801018	The clear water drawn from the pond at Bai Ma Ju can be used to irrigate carrots.	801	0	0	FALSE	0	50	0	0	0		1
-it801019	Carrot seeds	it801019	The carrot seeds given by Baima's farmers can only be grown if you plant them yourself.	801	0	0	FALSE	0	50	0	0	0		1
+it801018	Qingshui	it801018	The clear water drawn from the pond at Bai Ma Ju can be used to irrigate carrots.	801	0	0	FALSE	0	50	0	0	0		1			
+it801019	Carrot seeds	it801019	The carrot seeds given by Baima's farmers can only be grown if you plant them yourself.	801	0	0	FALSE	0	50	0	0	0		1			
 it801020	Mobile phone.	it801020	An unbranded mobile phone—how did such a thing come about in this era?	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "n8010101032"} ]}
 it801021	Plain Bag	it60104	Fire Monastery Tathagata Guafu's vegetarian dumplings.	801	0	0	FALSE	0	50	0	0	0		0			0
 it801022	Fresh flowers and simple fruits.	it801022	The hospice monk of Dragon-Phoenix Temple, Master Gua Yu, presents offerings made from local wild mountain flowers and seasonal vegetables and fruits.	801	0	0	FALSE	0	50	0	0	0		0			0

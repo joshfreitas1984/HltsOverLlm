@@ -1,6 +1,6 @@
-defaultNickname	Titleless	Do not use any titles.
+defaultNickname	Titleless	Do not use any titles.			
 #上面defaultNickname不要删掉，那是每个角色最初始的称号					
-nick000	Stranger from the stars	The first title I obtained in this world makes me a stranger from beyond the heavens. (Test)	(MaxHP,0)	Player
+nick000	Stranger from the stars	The first title I obtained in this world makes me a stranger from beyond the heavens. (Test)	(MaxHP,0)	Player	
 nick001	Zaishi Shenngong	When collecting medicinal herbs, there is a 20% chance of obtaining double the amount.		Player	nick001
 nick003	Gold Prospector Miner	When collecting ore, there is a 20% chance of obtaining double the amount.		Player	nick003
 nick004	Transparent person	When Shi Zhan employs Miao Shou Kong Kong, it is comparatively harder to be discovered (the probability of being detected decreases by 50%).		Player	nick004
@@ -72,10 +72,10 @@ nick043	Awareness after the fact.	Increase vitality by 10 points; and when the n
 nick044	Kungfu practitioner	Your martial arts prowess grows stronger as your level increases.		Player	nick044
 nick045	To have nothing with you but your wits and skills.	When collecting herbs and ores, there is a 40% chance of obtaining double the amount, but the money earned will be reduced by 20%.		Player	nick045
 nick046	Hero of the Huai and Luo Regions	Your offensive and defensive skills will improve with your rise in reputation within the martial world.		Player	nick046
-nick080	True Weakling Hero	Ah, you're indeed the so-called Weakling Knight, as expected.		Player
-nick081	Jade Dragon God of War	When equipping the Jade Dragon Divine Gun, gun techniques damage increases by 25%.		Player
-nick082	King of Thieves King	When equipping the Jade Dragon Divine Gun, gun staff techniques damage increases by 25%.		Player
-nick083	Naxi Legend	When equipping the Jade Dragon Divine Gun, gun staff techniques increase in power by 25%.		Player
+nick080	True Weakling Hero	Ah, you're indeed the so-called Weakling Knight, as expected.		Player	
+nick081	Jade Dragon God of War	When equipping the Jade Dragon Divine Gun, gun techniques damage increases by 25%.		Player	
+nick082	King of Thieves King	When equipping the Jade Dragon Divine Gun, gun staff techniques damage increases by 25%.		Player	
+nick083	Naxi Legend	When equipping the Jade Dragon Divine Gun, gun staff techniques increase in power by 25%.		Player	
 nick084	Hundred-Foot Hops	Bow damage increased by 15%.		Player	nick084
 nick085	Blue Eagle of the Northern Peak	Bow damage increased by 20%.		Player	nick085
 nick086	Juyong Flying Eagle	Bow damage increased by 25%; when A'dal is in your group, bow damage with A'dal increases additionally by 15%.		Player	nick086
@@ -140,21 +140,21 @@ nick157	Snake Beggar	After performing a feint, increase the combo rate by 15%.		
 nick158	Farmer Wushuang	When using the Farmhand Technique, damage increases by 200%.		n00017	nick158
 nick159	Fennec Fox Uncle	Attacks from behind inflict an additional 15 points of dizziness on the target.		n60004,n60004a,n60004b,n60004c	nick159
 nick160	Kind-hearted person at Jing Da Academy.	When one's own Qi and blood fall below 50%, increase their ability to break resistance and counterattack by 15% each turn.		n60068	nick160
-nick500	Ke ge mei wan.	Blacksmith shop products and services offered at an eight percent discount!		Player
-nick501	Unable to manage a household.	The goods and services at the inn are available at an eight-tenth discount!		Player
-nick502	I'm a bit short on cash at the moment.	Antique shop's goods and services at an eight percent discount!		Player
-nick503	The skin is wanted, not the flesh.	Fur shop products and services at an eight percent discount!		Player
-nick504	That one helped me butcher it as well.	Meat shop products and services at an 80% discount!		Player
-nick505	Anything can be collected.	Grocery store merchandise and services at an eight-tenth discount!		Player
-nick506	No illness, strong body.	Pharmacy goods and services at an 80% discount!		Player
-nick507	Vegetarian	Vegetable store products and services at an 80% discount!		Player
-nick508	Sweet and juicy	Fruit store products and services at an 80% discount!		Player
-nick509	Sorry to trouble you.	Fish Shop's products and services enjoy an eight-for-ten discount!		Player
-nick510	Dried Vine, Ancient Tree	Products and services of the woodcutters with an 80% discount!		Player
-nick511	Buddha wants to be adorned in gold.	Bu Zhuang's products and services enjoy an 80% discount!		Player
-nick512	The people regard food as their utmost priority.	Cafeteria goods and services at an 80% discount!		Player
-nick513	Having drunk enough wine and eaten enough food.	Dining hall products and services enjoy an eight-for-ten discount!		Player
-nick514	A house full of gold and jade.	Yufang's products and services enjoy an eight percent discount!		Player
+nick500	Ke ge mei wan.	Blacksmith shop products and services offered at an eight percent discount!		Player	
+nick501	Unable to manage a household.	The goods and services at the inn are available at an eight-tenth discount!		Player	
+nick502	I'm a bit short on cash at the moment.	Antique shop's goods and services at an eight percent discount!		Player	
+nick503	The skin is wanted, not the flesh.	Fur shop products and services at an eight percent discount!		Player	
+nick504	That one helped me butcher it as well.	Meat shop products and services at an 80% discount!		Player	
+nick505	Anything can be collected.	Grocery store merchandise and services at an eight-tenth discount!		Player	
+nick506	No illness, strong body.	Pharmacy goods and services at an 80% discount!		Player	
+nick507	Vegetarian	Vegetable store products and services at an 80% discount!		Player	
+nick508	Sweet and juicy	Fruit store products and services at an 80% discount!		Player	
+nick509	Sorry to trouble you.	Fish Shop's products and services enjoy an eight-for-ten discount!		Player	
+nick510	Dried Vine, Ancient Tree	Products and services of the woodcutters with an 80% discount!		Player	
+nick511	Buddha wants to be adorned in gold.	Bu Zhuang's products and services enjoy an 80% discount!		Player	
+nick512	The people regard food as their utmost priority.	Cafeteria goods and services at an 80% discount!		Player	
+nick513	Having drunk enough wine and eaten enough food.	Dining hall products and services enjoy an eight-for-ten discount!		Player	
+nick514	A house full of gold and jade.	Yufang's products and services enjoy an eight percent discount!		Player	
 nick515	Friend of the Giant Ape	King of the Great Apes Monkey King is at your disposal now!		Player	nick515
 nick516	Creator of Widows	Wild Boar King Widow Maker at your service now!		Player	nick516
 nick517	Red Patch or Scarlet Rash, depending on the context in which it is used.	Crocodile King Hongban is at your service!		Player	nick517

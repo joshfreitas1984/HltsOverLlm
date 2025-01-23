@@ -1,980 +1,980 @@
 - lineNum: 0
-  raw: ta0000	剛：爆擊	0	2_TalentNode000
-  translated: 
+  raw: "ta0000	剛：爆擊	0	2_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 剛：爆擊
-    translated: 'Gang: Explosion Burst'
+    text: "剛：爆擊"
+    translated: "Gang: Explosion Burst"
 - lineNum: 1
-  raw: ta0001	柔：卸勁	0	3_TalentNode000
-  translated: 
+  raw: "ta0001	柔：卸勁	0	3_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 柔：卸勁
-    translated: 'Rou: release strength.'
+    text: "柔：卸勁"
+    translated: "Rou: release strength."
 - lineNum: 2
-  raw: ta0002	動：連擊	0	0_TalentNode027
-  translated: 
+  raw: "ta0002	動：連擊	0	0_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 動：連擊
-    translated: 'Action: Combo Attack'
+    text: "動：連擊"
+    translated: "Action: Combo Attack"
 - lineNum: 3
-  raw: ta0003	靜：反擊	0	1_TalentNode000
-  translated: 
+  raw: "ta0003	靜：反擊	0	1_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 靜：反擊
-    translated: 'Jing: Counterattack'
+    text: "靜：反擊"
+    translated: "Jing: Counterattack"
 - lineNum: 4
-  raw: ta0004	巧：虛招	0	4_TalentNode000
-  translated: 
+  raw: "ta0004	巧：虛招	0	4_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 巧：虛招
-    translated: 'Qiao: Feigned move.'
+    text: "巧：虛招"
+    translated: "Qiao: Feigned move."
 - lineNum: 5
-  raw: ta0005	(動巧)	0	0_TalentNode027,4_TalentNode000
-  translated: 
+  raw: "ta0005	(動巧)	0	0_TalentNode027,4_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: (動巧)
-    translated: (Animatedly Clever)
+    text: "(動巧)"
+    translated: "(Animatedly Clever)"
 - lineNum: 6
-  raw: ta0006	段思平(拙)(10)	4	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode023,5_TalentNode025
-  translated: 
+  raw: "ta0006	段思平(拙)(10)	4	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode023,5_TalentNode025"
+  translated: ""
   splits:
   - split: 1
-    text: 段思平(拙)(10)
-    translated: Duan Siping (Zhuo) (10)
+    text: "段思平(拙)(10)"
+    translated: "Duan Siping (Zhuo) (10)"
 - lineNum: 7
-  raw: ta0007	漆笑兒(動)(20)	9	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode006,0_TalentNode007,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode030,0_TalentNode026
-  translated: 
+  raw: "ta0007	漆笑兒(動)(20)	9	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode006,0_TalentNode007,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode030,0_TalentNode026"
+  translated: ""
   splits:
   - split: 1
-    text: 漆笑兒(動)(20)
-    translated: 'Qi Xiaor (Character; Age: 20)'
+    text: "漆笑兒(動)(20)"
+    translated: "Qi Xiaor (Character; Age: 20)"
 - lineNum: 8
-  raw: ta0008	禾鬱青(剛)(15)	3	2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode035,2_TalentNode025,2_TalentNode005,2_TalentNode027
-  translated: 
+  raw: "ta0008	禾鬱青(剛)(15)	3	2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode035,2_TalentNode025,2_TalentNode005,2_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 禾鬱青(剛)(15)
-    translated: Wuyu Qing (Gang) (15)
+    text: "禾鬱青(剛)(15)"
+    translated: "Wuyu Qing (Gang) (15)"
 - lineNum: 9
-  raw: ta0009	圖勒(剛動)(42)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode006,2_TalentNode029,2_TalentNode030,2_TalentNode007,2_TalentNode031,2_TalentNode004,2_TalentNode008,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode018,2_TalentNode019,2_TalentNode020,0_TalentNode005,0_TalentNode025,0_TalentNode004,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027,0_TalentNode006,0_TalentNode007,0_TalentNode030
-  translated: 
+  raw: "ta0009	圖勒(剛動)(42)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode006,2_TalentNode029,2_TalentNode030,2_TalentNode007,2_TalentNode031,2_TalentNode004,2_TalentNode008,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode018,2_TalentNode019,2_TalentNode020,0_TalentNode005,0_TalentNode025,0_TalentNode004,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027,0_TalentNode006,0_TalentNode007,0_TalentNode030"
+  translated: ""
   splits:
   - split: 1
-    text: 圖勒(剛動)(42)
-    translated: Tu Le (Just Married) (42)
+    text: "圖勒(剛動)(42)"
+    translated: "Tu Le (Just Married) (42)"
 - lineNum: 10
-  raw: ta0010	金崑(動剛)	0	2_TalentNode000,2_TalentNode001,2_TalentNode002,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode020,0_TalentNode027,0_TalentNode010,0_TalentNode029,0_TalentNode030
-  translated: 
+  raw: "ta0010	金崑(動剛)	0	2_TalentNode000,2_TalentNode001,2_TalentNode002,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode020,0_TalentNode027,0_TalentNode010,0_TalentNode029,0_TalentNode030"
+  translated: ""
   splits:
   - split: 1
-    text: 金崑(動剛)
-    translated: Jin Kun (Donggang)
+    text: "金崑(動剛)"
+    translated: "Jin Kun (Donggang)"
 - lineNum: 11
-  raw: ta0011	木初(靜柔)(20)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode012,1_TalentNode013,1_TalentNode002,1_TalentNode014,1_TalentNode015,1_TalentNode016,3_TalentNode021,3_TalentNode020,3_TalentNode019,3_TalentNode002,3_TalentNode018,3_TalentNode017,3_TalentNode001,3_TalentNode011,3_TalentNode010,3_TalentNode000,3_TalentNode012
-  translated: 
+  raw: "ta0011	木初(靜柔)(20)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode012,1_TalentNode013,1_TalentNode002,1_TalentNode014,1_TalentNode015,1_TalentNode016,3_TalentNode021,3_TalentNode020,3_TalentNode019,3_TalentNode002,3_TalentNode018,3_TalentNode017,3_TalentNode001,3_TalentNode011,3_TalentNode010,3_TalentNode000,3_TalentNode012"
+  translated: ""
   splits:
   - split: 1
-    text: 木初(靜柔)(20)
-    translated: Mu Chu (Qing Rou) (20)
+    text: "木初(靜柔)(20)"
+    translated: "Mu Chu (Qing Rou) (20)"
 - lineNum: 12
-  raw: ta0012	木奎(拙剛)(29)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode015,2_TalentNode014,2_TalentNode013,2_TalentNode003,2_TalentNode012,2_TalentNode011,2_TalentNode001,2_TalentNode010,2_TalentNode009,2_TalentNode000,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode021
-  translated: 
+  raw: "ta0012	木奎(拙剛)(29)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode015,2_TalentNode014,2_TalentNode013,2_TalentNode003,2_TalentNode012,2_TalentNode011,2_TalentNode001,2_TalentNode010,2_TalentNode009,2_TalentNode000,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode021"
+  translated: ""
   splits:
   - split: 1
-    text: 木奎(拙剛)(29)
-    translated: Mukui (Zhuegang), 29 years old.
+    text: "木奎(拙剛)(29)"
+    translated: "Mukui (Zhuegang), 29 years old."
 - lineNum: 13
-  raw: ta0013	阿得阿克(剛)(31)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode018,2_TalentNode019,2_TalentNode020,0_TalentNode005,0_TalentNode025,0_TalentNode004,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032
-  translated: 
+  raw: "ta0013	阿得阿克(剛)(31)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode018,2_TalentNode019,2_TalentNode020,0_TalentNode005,0_TalentNode025,0_TalentNode004,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032"
+  translated: ""
   splits:
   - split: 1
-    text: 阿得阿克(剛)(31)
-    translated: Adek (Gong) (31)
+    text: "阿得阿克(剛)(31)"
+    translated: "Adek (Gong) (31)"
 - lineNum: 14
-  raw: ta0014	陸常稽(巧動柔)(38)	0	0_TalentNode027,4_TalentNode000,3_TalentNode000
-  translated: 
+  raw: "ta0014	陸常稽(巧動柔)(38)	0	0_TalentNode027,4_TalentNode000,3_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 陸常稽(巧動柔)(38)
-    translated: Lu Changji (Qiao Dongru) (38)
+    text: "陸常稽(巧動柔)(38)"
+    translated: "Lu Changji (Qiao Dongru) (38)"
 - lineNum: 15
-  raw: ta0015	王喆(柔靜)(33)	3	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode019,3_TalentNode020,3_TalentNode021,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode012,1_TalentNode016,1_TalentNode015,1_TalentNode014,1_TalentNode002,1_TalentNode013,1_TalentNode012,1_TalentNode005,1_TalentNode011,1_TalentNode009,1_TalentNode000,1_TalentNode025,1_TalentNode006,1_TalentNode022
-  translated: 
+  raw: "ta0015	王喆(柔靜)(33)	3	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode019,3_TalentNode020,3_TalentNode021,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode012,1_TalentNode016,1_TalentNode015,1_TalentNode014,1_TalentNode002,1_TalentNode013,1_TalentNode012,1_TalentNode005,1_TalentNode011,1_TalentNode009,1_TalentNode000,1_TalentNode025,1_TalentNode006,1_TalentNode022"
+  translated: ""
   splits:
   - split: 1
-    text: 王喆(柔靜)(33)
-    translated: Wang Zhe (Rou Jing) (33)
+    text: "王喆(柔靜)(33)"
+    translated: "Wang Zhe (Rou Jing) (33)"
 - lineNum: 16
-  raw: ta0016	駱元玉	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026
-  translated: 
+  raw: "ta0016	駱元玉	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026"
+  translated: ""
   splits:
   - split: 1
-    text: 駱元玉
-    translated: Luo Yuanyu
+    text: "駱元玉"
+    translated: "Luo Yuanyu"
 - lineNum: 17
-  raw: ta0017	李嘆(動)(30)	3	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode002,0_TalentNode003,0_TalentNode029,0_TalentNode006,0_TalentNode007,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode030
-  translated: 
+  raw: "ta0017	李嘆(動)(30)	3	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode002,0_TalentNode003,0_TalentNode029,0_TalentNode006,0_TalentNode007,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode030"
+  translated: ""
   splits:
   - split: 1
-    text: 李嘆(動)(30)
-    translated: Li Tan (Action) (30 years old)
+    text: "李嘆(動)(30)"
+    translated: "Li Tan (Action) (30 years old)"
 - lineNum: 18
-  raw: ta0018	何紫菀(巧)(16)	4	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028
-  translated: 
+  raw: "ta0018	何紫菀(巧)(16)	4	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028"
+  translated: ""
   splits:
   - split: 1
-    text: 何紫菀(巧)(16)
-    translated: He Ziwen (Qiao) (16)
+    text: "何紫菀(巧)(16)"
+    translated: "He Ziwen (Qiao) (16)"
 - lineNum: 19
-  raw: ta0019	樊香蝶(巧柔)(26)	3	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode016,4_TalentNode017,4_TalentNode018,4_TalentNode009,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode020,4_TalentNode005,3_TalentNode016,3_TalentNode015,3_TalentNode014,3_TalentNode005,3_TalentNode013,3_TalentNode012,3_TalentNode001,3_TalentNode011
-  translated: 
+  raw: "ta0019	樊香蝶(巧柔)(26)	3	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode016,4_TalentNode017,4_TalentNode018,4_TalentNode009,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode020,4_TalentNode005,3_TalentNode016,3_TalentNode015,3_TalentNode014,3_TalentNode005,3_TalentNode013,3_TalentNode012,3_TalentNode001,3_TalentNode011"
+  translated: ""
   splits:
   - split: 1
-    text: 樊香蝶(巧柔)(26)
-    translated: Fan Xiangdie (Qiaorou) (26)
+    text: "樊香蝶(巧柔)(26)"
+    translated: "Fan Xiangdie (Qiaorou) (26)"
 - lineNum: 20
-  raw: ta0020	何白芍(巧)(17)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode023,4_TalentNode019,4_TalentNode007,4_TalentNode024
-  translated: 
+  raw: "ta0020	何白芍(巧)(17)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode023,4_TalentNode019,4_TalentNode007,4_TalentNode024"
+  translated: ""
   splits:
   - split: 1
-    text: 何白芍(巧)(17)
-    translated: He Baisuo (Qiao) (17)
+    text: "何白芍(巧)(17)"
+    translated: "He Baisuo (Qiao) (17)"
 - lineNum: 21
-  raw: ta0022	黃裳(六系)(48)	3	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,2_TalentNode000,,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode023,2_TalentNode024,2_TalentNode005,3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027
-  translated: 
+  raw: "ta0022	黃裳(六系)(48)	3	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,2_TalentNode000,,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode023,2_TalentNode024,2_TalentNode005,3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 黃裳(六系)(48)
-    translated: Huang Shang (Six Houses) (48)
+    text: "黃裳(六系)(48)"
+    translated: "Huang Shang (Six Houses) (48)"
 - lineNum: 22
-  raw: ta0023	程雁華(柔)(15)	5	3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022,3_TalentNode023,3_TalentNode025,3_TalentNode026,3_TalentNode006,3_TalentNode003
-  translated: 
+  raw: "ta0023	程雁華(柔)(15)	5	3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022,3_TalentNode023,3_TalentNode025,3_TalentNode026,3_TalentNode006,3_TalentNode003"
+  translated: ""
   splits:
   - split: 1
-    text: 程雁華(柔)(15)
-    translated: Cheng Yan Hua (Rou) (15)
+    text: "程雁華(柔)(15)"
+    translated: "Cheng Yan Hua (Rou) (15)"
 - lineNum: 23
-  raw: ta0025	司徒荊(巧動)(40)	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode009,0_TalentNode027,0_TalentNode029,0_TalentNode030,0_TalentNode033,4_TalentNode006,4_TalentNode001
-  translated: 
+  raw: "ta0025	司徒荊(巧動)(40)	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode009,0_TalentNode027,0_TalentNode029,0_TalentNode030,0_TalentNode033,4_TalentNode006,4_TalentNode001"
+  translated: ""
   splits:
   - split: 1
-    text: 司徒荊(巧動)(40)
-    translated: Stu Jing (Qiao Dong) (40)
+    text: "司徒荊(巧動)(40)"
+    translated: "Stu Jing (Qiao Dong) (40)"
 - lineNum: 24
-  raw: ta0026	徐霞客(動)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028
-  translated: 
+  raw: "ta0026	徐霞客(動)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028"
+  translated: ""
   splits:
   - split: 1
-    text: 徐霞客(動)
-    translated: Xu Xiake (dong)
+    text: "徐霞客(動)"
+    translated: "Xu Xiake (dong)"
 - lineNum: 25
-  raw: ta0027	第二癡(拙靜剛)(50)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode001,5_TalentNode021,5_TalentNode025,5_TalentNode005,5_TalentNode024,5_TalentNode027,5_TalentNode031,5_TalentNode023,5_TalentNode004,5_TalentNode022,5_TalentNode026,5_TalentNode034,5_TalentNode028,5_TalentNode006,5_TalentNode029,5_TalentNode030,5_TalentNode032,5_TalentNode007,5_TalentNode035,5_TalentNode008,5_TalentNode033,5_TalentNode013,5_TalentNode014,5_TalentNode002,5_TalentNode015,5_TalentNode016,5_TalentNode009,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode011,2_TalentNode016,2_TalentNode035,1_TalentNode000,1_TalentNode009,1_TalentNode010,1_TalentNode011,1_TalentNode001,1_TalentNode017,1_TalentNode012
-  translated: 
+  raw: "ta0027	第二癡(拙靜剛)(50)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode001,5_TalentNode021,5_TalentNode025,5_TalentNode005,5_TalentNode024,5_TalentNode027,5_TalentNode031,5_TalentNode023,5_TalentNode004,5_TalentNode022,5_TalentNode026,5_TalentNode034,5_TalentNode028,5_TalentNode006,5_TalentNode029,5_TalentNode030,5_TalentNode032,5_TalentNode007,5_TalentNode035,5_TalentNode008,5_TalentNode033,5_TalentNode013,5_TalentNode014,5_TalentNode002,5_TalentNode015,5_TalentNode016,5_TalentNode009,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode011,2_TalentNode016,2_TalentNode035,1_TalentNode000,1_TalentNode009,1_TalentNode010,1_TalentNode011,1_TalentNode001,1_TalentNode017,1_TalentNode012"
+  translated: ""
   splits:
   - split: 1
-    text: 第二癡(拙靜剛)(50)
-    translated: Second Idiot (Zhuo Jinggang) (50)
+    text: "第二癡(拙靜剛)(50)"
+    translated: "Second Idiot (Zhuo Jinggang) (50)"
 - lineNum: 26
-  raw: ta0028	梅星河(剛動)	0	2_TalentNode000,2_TalentNode001,2_TalentNode002,2_TalentNode005,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode020,0_TalentNode027,0_TalentNode010,0_TalentNode029,0_TalentNode030
-  translated: 
+  raw: "ta0028	梅星河(剛動)	0	2_TalentNode000,2_TalentNode001,2_TalentNode002,2_TalentNode005,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode020,0_TalentNode027,0_TalentNode010,0_TalentNode029,0_TalentNode030"
+  translated: ""
   splits:
   - split: 1
-    text: 梅星河(剛動)
-    translated: Mei Xinghe (Gangdong)
+    text: "梅星河(剛動)"
+    translated: "Mei Xinghe (Gangdong)"
 - lineNum: 27
-  raw: ta0029	東郭強(巧)	0	4_TalentNode000
-  translated: 
+  raw: "ta0029	東郭強(巧)	0	4_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 東郭強(巧)
-    translated: Dongguo Qiang (Qiao)
+    text: "東郭強(巧)"
+    translated: "Dongguo Qiang (Qiao)"
 - lineNum: 28
-  raw: ta0030	葉玉龍	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode023,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode027,0_TalentNode028,0_TalentNode029,0_TalentNode030,0_TalentNode031,0_TalentNode032,0_TalentNode033,0_TalentNode034,0_TalentNode035
-  translated: 
+  raw: "ta0030	葉玉龍	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode023,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode027,0_TalentNode028,0_TalentNode029,0_TalentNode030,0_TalentNode031,0_TalentNode032,0_TalentNode033,0_TalentNode034,0_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 葉玉龍
-    translated: Ye Yulong
+    text: "葉玉龍"
+    translated: "Ye Yulong"
 - lineNum: 29
-  raw: ta0031	葉金虹	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035
-  translated: 
+  raw: "ta0031	葉金虹	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 葉金虹
-    translated: Ye Jinhong
+    text: "葉金虹"
+    translated: "Ye Jinhong"
 - lineNum: 30
-  raw: ta0032	楊天義	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035
-  translated: 
+  raw: "ta0032	楊天義	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 楊天義
-    translated: Yang Tianyi
+    text: "楊天義"
+    translated: "Yang Tianyi"
 - lineNum: 31
-  raw: ta0033	禾泓淵	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035
-  translated: 
+  raw: "ta0033	禾泓淵	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 禾泓淵
-    translated: He Hongyuan
+    text: "禾泓淵"
+    translated: "He Hongyuan"
 - lineNum: 32
-  raw: ta0034	山魈鬼王	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027,4_TalentNode019,4_TalentNode023,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode034,2_TalentNode035
-  translated: 
+  raw: "ta0034	山魈鬼王	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027,4_TalentNode019,4_TalentNode023,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode034,2_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 山魈鬼王
-    translated: Mountain Spirit Demon King
+    text: "山魈鬼王"
+    translated: "Mountain Spirit Demon King"
 - lineNum: 33
-  raw: ta0035	藍拂衣(柔)	0	3_TalentNode000,3_TalentNode001,3_TalentNode003,3_TalentNode004,3_TalentNode006,3_TalentNode007,3_TalentNode008,3_TalentNode009,3_TalentNode010,3_TalentNode011,3_TalentNode012,3_TalentNode013,3_TalentNode014,3_TalentNode015,3_TalentNode017,3_TalentNode018,3_TalentNode019,3_TalentNode020,3_TalentNode022,3_TalentNode023,3_TalentNode024,3_TalentNode025,3_TalentNode026,3_TalentNode027,3_TalentNode028,3_TalentNode029,3_TalentNode030,3_TalentNode031,3_TalentNode032,3_TalentNode033,3_TalentNode034,3_TalentNode035
-  translated: 
+  raw: "ta0035	藍拂衣(柔)	0	3_TalentNode000,3_TalentNode001,3_TalentNode003,3_TalentNode004,3_TalentNode006,3_TalentNode007,3_TalentNode008,3_TalentNode009,3_TalentNode010,3_TalentNode011,3_TalentNode012,3_TalentNode013,3_TalentNode014,3_TalentNode015,3_TalentNode017,3_TalentNode018,3_TalentNode019,3_TalentNode020,3_TalentNode022,3_TalentNode023,3_TalentNode024,3_TalentNode025,3_TalentNode026,3_TalentNode027,3_TalentNode028,3_TalentNode029,3_TalentNode030,3_TalentNode031,3_TalentNode032,3_TalentNode033,3_TalentNode034,3_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 藍拂衣(柔)
-    translated: Lan Bufei (Rou)
+    text: "藍拂衣(柔)"
+    translated: "Lan Bufei (Rou)"
 - lineNum: 34
-  raw: ta0036	馮觀戲	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode023,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode027,0_TalentNode028,0_TalentNode029,0_TalentNode030,0_TalentNode031,0_TalentNode032,0_TalentNode033,0_TalentNode034,0_TalentNode035,2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode035,2_TalentNode025,2_TalentNode005,2_TalentNode027,2_TalentNode026,2_TalentNode028,2_TalentNode006,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode016,2_TalentNode017,2_TalentNode002
-  translated: 
+  raw: "ta0036	馮觀戲	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode023,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode027,0_TalentNode028,0_TalentNode029,0_TalentNode030,0_TalentNode031,0_TalentNode032,0_TalentNode033,0_TalentNode034,0_TalentNode035,2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode035,2_TalentNode025,2_TalentNode005,2_TalentNode027,2_TalentNode026,2_TalentNode028,2_TalentNode006,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode016,2_TalentNode017,2_TalentNode002"
+  translated: ""
   splits:
   - split: 1
-    text: 馮觀戲
-    translated: Feng Guanxi
+    text: "馮觀戲"
+    translated: "Feng Guanxi"
 - lineNum: 35
-  raw: ta0037	百里憚赫	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035
-  translated: 
+  raw: "ta0037	百里憚赫	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 百里憚赫
-    translated: Baili Duanhe
+    text: "百里憚赫"
+    translated: "Baili Duanhe"
 - lineNum: 36
-  raw: ta0038	李惑相	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035
-  translated: 
+  raw: "ta0038	李惑相	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 李惑相
-    translated: Li Huxiang
+    text: "李惑相"
+    translated: "Li Huxiang"
 - lineNum: 37
-  raw: ta0039	顏玉書(動靜)(30)	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode002,1_TalentNode012,1_TalentNode013,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026
-  translated: 
+  raw: "ta0039	顏玉書(動靜)(30)	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode002,1_TalentNode012,1_TalentNode013,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026"
+  translated: ""
   splits:
   - split: 1
-    text: 顏玉書(動靜)(30)
-    translated: Yan Yushu (Motionless) (30)
+    text: "顏玉書(動靜)(30)"
+    translated: "Yan Yushu (Motionless) (30)"
 - lineNum: 38
-  raw: ta0040	桑登	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035
-  translated: 
+  raw: "ta0040	桑登	0	2_TalentNode000,2_TalentNode001,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode01,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode032,2_TalentNode033,2_TalentNode034,2_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 桑登
-    translated: Sang Deng
+    text: "桑登"
+    translated: "Sang Deng"
 - lineNum: 39
-  raw: ta0041	釣魚老叟	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005
-  translated: 
+  raw: "ta0041	釣魚老叟	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005"
+  translated: ""
   splits:
   - split: 1
-    text: 釣魚老叟
-    translated: Fishing Old Man
+    text: "釣魚老叟"
+    translated: "Fishing Old Man"
 - lineNum: 40
-  raw: ta0042	剛專精（33）	0	2_TalentNode000,2_TalentNode001,2_TalentNode002,2_TalentNode003,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode023,2_TalentNode033,2_TalentNode034,2_TalentNode035
-  translated: 
+  raw: "ta0042	剛專精（33）	0	2_TalentNode000,2_TalentNode001,2_TalentNode002,2_TalentNode003,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode023,2_TalentNode033,2_TalentNode034,2_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 剛專精（33）
-    translated: Just specialized (33)
+    text: "剛專精（33）"
+    translated: "Just specialized (33)"
 - lineNum: 41
-  raw: ta0043	柔專精（33）	0	3_TalentNode000,3_TalentNode001,3_TalentNode002,3_TalentNode003,3_TalentNode004,3_TalentNode005,3_TalentNode006,3_TalentNode007,3_TalentNode008,3_TalentNode010,3_TalentNode011,3_TalentNode012,3_TalentNode013,3_TalentNode014,3_TalentNode015,3_TalentNode017,3_TalentNode018,3_TalentNode019,3_TalentNode020,3_TalentNode022,3_TalentNode023,3_TalentNode024,3_TalentNode025,3_TalentNode026,3_TalentNode027,3_TalentNode028,3_TalentNode029,3_TalentNode030,3_TalentNode031,3_TalentNode032,3_TalentNode033,3_TalentNode034,3_TalentNode035
-  translated: 
+  raw: "ta0043	柔專精（33）	0	3_TalentNode000,3_TalentNode001,3_TalentNode002,3_TalentNode003,3_TalentNode004,3_TalentNode005,3_TalentNode006,3_TalentNode007,3_TalentNode008,3_TalentNode010,3_TalentNode011,3_TalentNode012,3_TalentNode013,3_TalentNode014,3_TalentNode015,3_TalentNode017,3_TalentNode018,3_TalentNode019,3_TalentNode020,3_TalentNode022,3_TalentNode023,3_TalentNode024,3_TalentNode025,3_TalentNode026,3_TalentNode027,3_TalentNode028,3_TalentNode029,3_TalentNode030,3_TalentNode031,3_TalentNode032,3_TalentNode033,3_TalentNode034,3_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 柔專精（33）
-    translated: Rou zhuanjing (33)
+    text: "柔專精（33）"
+    translated: "Rou zhuanjing (33)"
 - lineNum: 42
-  raw: ta0044	動專精（33）	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode027,0_TalentNode028,0_TalentNode029,0_TalentNode030,0_TalentNode031,0_TalentNode032,0_TalentNode033,0_TalentNode034,0_TalentNode035
-  translated: 
+  raw: "ta0044	動專精（33）	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode027,0_TalentNode028,0_TalentNode029,0_TalentNode030,0_TalentNode031,0_TalentNode032,0_TalentNode033,0_TalentNode034,0_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 動專精（33）
-    translated: Martial Arts Expert (Level 33)
+    text: "動專精（33）"
+    translated: "Martial Arts Expert (Level 33)"
 - lineNum: 43
-  raw: ta0045	靜專精（33）	0	1_TalentNode000,1_TalentNode001,1_TalentNode002,1_TalentNode003,1_TalentNode004,1_TalentNode005,1_TalentNode006,1_TalentNode007,1_TalentNode008,1_TalentNode009,1_TalentNode023,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode022,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode035
-  translated: 
+  raw: "ta0045	靜專精（33）	0	1_TalentNode000,1_TalentNode001,1_TalentNode002,1_TalentNode003,1_TalentNode004,1_TalentNode005,1_TalentNode006,1_TalentNode007,1_TalentNode008,1_TalentNode009,1_TalentNode023,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode022,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 靜專精（33）
-    translated: Master of Silent Concentration (Level 33)
+    text: "靜專精（33）"
+    translated: "Master of Silent Concentration (Level 33)"
 - lineNum: 44
-  raw: ta0046	巧專精(33)	0	4_TalentNode000,4_TalentNode001,4_TalentNode002,4_TalentNode003,4_TalentNode004,4_TalentNode005,4_TalentNode006,4_TalentNode007,4_TalentNode008,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020,4_TalentNode021,4_TalentNode022,4_TalentNode024,4_TalentNode025,4_TalentNode026,4_TalentNode027,4_TalentNode028,4_TalentNode029,4_TalentNode023,4_TalentNode031,4_TalentNode032,4_TalentNode033,4_TalentNode034,4_TalentNode035
-  translated: 
+  raw: "ta0046	巧專精(33)	0	4_TalentNode000,4_TalentNode001,4_TalentNode002,4_TalentNode003,4_TalentNode004,4_TalentNode005,4_TalentNode006,4_TalentNode007,4_TalentNode008,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020,4_TalentNode021,4_TalentNode022,4_TalentNode024,4_TalentNode025,4_TalentNode026,4_TalentNode027,4_TalentNode028,4_TalentNode029,4_TalentNode023,4_TalentNode031,4_TalentNode032,4_TalentNode033,4_TalentNode034,4_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 巧專精(33)
-    translated: Master of Tricks (33)
+    text: "巧專精(33)"
+    translated: "Master of Tricks (33)"
 - lineNum: 45
-  raw: ta0047	拙專精(33)	0	5_TalentNode000,5_TalentNode001,5_TalentNode002,5_TalentNode003,5_TalentNode004,5_TalentNode005,5_TalentNode006,5_TalentNode007,5_TalentNode008,5_TalentNode011,5_TalentNode012,5_TalentNode013,5_TalentNode014,5_TalentNode015,5_TalentNode016,5_TalentNode017,5_TalentNode018,5_TalentNode019,5_TalentNode020,5_TalentNode021,5_TalentNode022,5_TalentNode024,5_TalentNode025,5_TalentNode026,5_TalentNode027,5_TalentNode028,5_TalentNode029,5_TalentNode030,5_TalentNode031,5_TalentNode032,5_TalentNode033,5_TalentNode034,5_TalentNode023
-  translated: 
+  raw: "ta0047	拙專精(33)	0	5_TalentNode000,5_TalentNode001,5_TalentNode002,5_TalentNode003,5_TalentNode004,5_TalentNode005,5_TalentNode006,5_TalentNode007,5_TalentNode008,5_TalentNode011,5_TalentNode012,5_TalentNode013,5_TalentNode014,5_TalentNode015,5_TalentNode016,5_TalentNode017,5_TalentNode018,5_TalentNode019,5_TalentNode020,5_TalentNode021,5_TalentNode022,5_TalentNode024,5_TalentNode025,5_TalentNode026,5_TalentNode027,5_TalentNode028,5_TalentNode029,5_TalentNode030,5_TalentNode031,5_TalentNode032,5_TalentNode033,5_TalentNode034,5_TalentNode023"
+  translated: ""
   splits:
   - split: 1
-    text: 拙專精(33)
-    translated: Adept in specialty (33)
+    text: "拙專精(33)"
+    translated: "Adept in specialty (33)"
 - lineNum: 46
-  raw: ta0048	梅虹綺（動巧）	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode009,0_TalentNode027,0_TalentNode029,0_TalentNode030,0_TalentNode033,4_TalentNode006,4_TalentNode001
-  translated: 
+  raw: "ta0048	梅虹綺（動巧）	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode009,0_TalentNode027,0_TalentNode029,0_TalentNode030,0_TalentNode033,4_TalentNode006,4_TalentNode001"
+  translated: ""
   splits:
   - split: 1
-    text: 梅虹綺（動巧）
-    translated: Mei Hongqi (Danmiao)
+    text: "梅虹綺（動巧）"
+    translated: "Mei Hongqi (Danmiao)"
 - lineNum: 47
-  raw: ta0049	5級剛	0	2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode023
-  translated: 
+  raw: "ta0049	5級剛	0	2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode023"
+  translated: ""
   splits:
   - split: 1
-    text: 5級剛
-    translated: Level 5 Rock-Headed
+    text: "5級剛"
+    translated: "Level 5 Rock-Headed"
 - lineNum: 48
-  raw: ta0050	10級剛	0	2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027
-  translated: 
+  raw: "ta0050	10級剛	0	2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 10級剛
-    translated: Level 10 Beginner
+    text: "10級剛"
+    translated: "Level 10 Beginner"
 - lineNum: 49
-  raw: ta0051	15級剛	0	2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode035,2_TalentNode025,2_TalentNode005,2_TalentNode027,2_TalentNode026,2_TalentNode028,2_TalentNode006
-  translated: 
+  raw: "ta0051	15級剛	0	2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode035,2_TalentNode025,2_TalentNode005,2_TalentNode027,2_TalentNode026,2_TalentNode028,2_TalentNode006"
+  translated: ""
   splits:
   - split: 1
-    text: 15級剛
-    translated: Fifteen-level solid strength.
+    text: "15級剛"
+    translated: "Fifteen-level solid strength."
 - lineNum: 50
-  raw: ta0052	21級剛	0	2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode035,2_TalentNode025,2_TalentNode005,2_TalentNode027,2_TalentNode026,2_TalentNode028,2_TalentNode006,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode016,2_TalentNode017,2_TalentNode002
-  translated: 
+  raw: "ta0052	21級剛	0	2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode035,2_TalentNode025,2_TalentNode005,2_TalentNode027,2_TalentNode026,2_TalentNode028,2_TalentNode006,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode016,2_TalentNode017,2_TalentNode002"
+  translated: ""
   splits:
   - split: 1
-    text: 21級剛
-    translated: 21st level of hardness.
+    text: "21級剛"
+    translated: "21st level of hardness."
 - lineNum: 51
-  raw: ta0053	5級動	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010
-  translated: 
+  raw: "ta0053	5級動	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010"
+  translated: ""
   splits:
   - split: 1
-    text: 5級動
-    translated: Level 5 Martial Arts Skill Level
+    text: "5級動"
+    translated: "Level 5 Martial Arts Skill Level"
 - lineNum: 52
-  raw: ta0054	10級動	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032
-  translated: 
+  raw: "ta0054	10級動	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032"
+  translated: ""
   splits:
   - split: 1
-    text: 10級動
-    translated: Level 10 animation skill level
+    text: "10級動"
+    translated: "Level 10 animation skill level"
 - lineNum: 53
-  raw: ta0055	15級動(莫一思停)	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017
-  translated: 
+  raw: "ta0055	15級動(莫一思停)	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017"
+  translated: ""
   splits:
   - split: 1
-    text: 15級動(莫一思停)
-    translated: Level 15 Martial Arts (Mo Yi Si Ting)
+    text: "15級動(莫一思停)"
+    translated: "Level 15 Martial Arts (Mo Yi Si Ting)"
 - lineNum: 54
-  raw: ta0055b	15級動(寧一思進)	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode034
-  translated: 
+  raw: "ta0055b	15級動(寧一思進)	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode034"
+  translated: ""
   splits:
   - split: 1
-    text: 15級動(寧一思進)
-    translated: 15th-level Divine (Ning Yi Si Jin) Warrior
+    text: "15級動(寧一思進)"
+    translated: "15th-level Divine (Ning Yi Si Jin) Warrior"
 - lineNum: 55
-  raw: ta0056	20級動	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode034
-  translated: 
+  raw: "ta0056	20級動	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode034"
+  translated: ""
   splits:
   - split: 1
-    text: 20級動
-    translated: 20th-level martial artist
+    text: "20級動"
+    translated: "20th-level martial artist"
 - lineNum: 56
-  raw: ta0057	5級拙	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,
-  translated: 
+  raw: "ta0057	5級拙	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,"
+  translated: ""
   splits:
   - split: 1
-    text: 5級拙
-    translated: Level 5 Amateur
+    text: "5級拙"
+    translated: "Level 5 Amateur"
 - lineNum: 57
-  raw: ta0058	10級拙	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028
-  translated: 
+  raw: "ta0058	10級拙	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028"
+  translated: ""
   splits:
   - split: 1
-    text: 10級拙
-    translated: Rank 10 Clumsy
+    text: "10級拙"
+    translated: "Rank 10 Clumsy"
 - lineNum: 58
-  raw: ta0059	15級拙	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode027,5_TalentNode031,5_TalentNode034
-  translated: 
+  raw: "ta0059	15級拙	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode027,5_TalentNode031,5_TalentNode034"
+  translated: ""
   splits:
   - split: 1
-    text: 15級拙
-    translated: Fifteenth level of clumsiness.
+    text: "15級拙"
+    translated: "Fifteenth level of clumsiness."
 - lineNum: 59
-  raw: ta0060	21級拙	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode027,5_TalentNode031,5_TalentNode034,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode002,5_TalentNode013,5_TalentNode014
-  translated: 
+  raw: "ta0060	21級拙	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode027,5_TalentNode031,5_TalentNode034,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode002,5_TalentNode013,5_TalentNode014"
+  translated: ""
   splits:
   - split: 1
-    text: 21級拙
-    translated: Level 21 Apprentice
+    text: "21級拙"
+    translated: "Level 21 Apprentice"
 - lineNum: 60
-  raw: ta0061	5級巧	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020
-  translated: 
+  raw: "ta0061	5級巧	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020"
+  translated: ""
   splits:
   - split: 1
-    text: 5級巧
-    translated: Grade 5 Skillful
+    text: "5級巧"
+    translated: "Grade 5 Skillful"
 - lineNum: 61
-  raw: ta0062	10級巧	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027
-  translated: 
+  raw: "ta0062	10級巧	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 10級巧
-    translated: Level 10 Dexterity
+    text: "10級巧"
+    translated: "Level 10 Dexterity"
 - lineNum: 62
-  raw: ta0063	15級巧	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027,4_TalentNode019,4_TalentNode023,4_TalentNode029,4_TalentNode028,4_TalentNode007
-  translated: 
+  raw: "ta0063	15級巧	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027,4_TalentNode019,4_TalentNode023,4_TalentNode029,4_TalentNode028,4_TalentNode007"
+  translated: ""
   splits:
   - split: 1
-    text: 15級巧
-    translated: Level 15 Agility
+    text: "15級巧"
+    translated: "Level 15 Agility"
 - lineNum: 63
-  raw: ta0064	20級巧	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027,4_TalentNode019,4_TalentNode023,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033
-  translated: 
+  raw: "ta0064	20級巧	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027,4_TalentNode019,4_TalentNode023,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033"
+  translated: ""
   splits:
   - split: 1
-    text: 20級巧
-    translated: Level 20 Craftsman
+    text: "20級巧"
+    translated: "Level 20 Craftsman"
 - lineNum: 64
-  raw: ta0065	5級柔	0	3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022
-  translated: 
+  raw: "ta0065	5級柔	0	3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022"
+  translated: ""
   splits:
   - split: 1
-    text: 5級柔
-    translated: 5th Level Softness Style
+    text: "5級柔"
+    translated: "5th Level Softness Style"
 - lineNum: 65
-  raw: ta0066	10級柔	0	3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022,3_TalentNode023,3_TalentNode025,3_TalentNode026,3_TalentNode006,3_TalentNode003
-  translated: 
+  raw: "ta0066	10級柔	0	3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022,3_TalentNode023,3_TalentNode025,3_TalentNode026,3_TalentNode006,3_TalentNode003"
+  translated: ""
   splits:
   - split: 1
-    text: 10級柔
-    translated: Level 10 Softness Skill Level 10 in the art of softness or gentleness.
+    text: "10級柔"
+    translated: "Level 10 Softness Skill Level 10 in the art of softness or gentleness."
 - lineNum: 66
-  raw: ta0067	16級柔	0	3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022,3_TalentNode023,3_TalentNode025,3_TalentNode026,3_TalentNode006,3_TalentNode003,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode012,3_TalentNode013,3_TalentNode005
-  translated: 
+  raw: "ta0067	16級柔	0	3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022,3_TalentNode023,3_TalentNode025,3_TalentNode026,3_TalentNode006,3_TalentNode003,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode012,3_TalentNode013,3_TalentNode005"
+  translated: ""
   splits:
   - split: 1
-    text: 16級柔
-    translated: Level 16 Soft Martial Arts Style
+    text: "16級柔"
+    translated: "Level 16 Soft Martial Arts Style"
 - lineNum: 67
-  raw: ta0068	21級柔	0	3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022,3_TalentNode023,3_TalentNode025,3_TalentNode026,3_TalentNode006,3_TalentNode003,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode024,3_TalentNode027,3_TalentNode028,3_TalentNode029,3_TalentNode030
-  translated: 
+  raw: "ta0068	21級柔	0	3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022,3_TalentNode023,3_TalentNode025,3_TalentNode026,3_TalentNode006,3_TalentNode003,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode024,3_TalentNode027,3_TalentNode028,3_TalentNode029,3_TalentNode030"
+  translated: ""
   splits:
   - split: 1
-    text: 21級柔
-    translated: 'Level 21: Softness Technique'
+    text: "21級柔"
+    translated: "Level 21: Softness Technique"
 - lineNum: 68
-  raw: ta0069	5級靜	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode025
-  translated: 
+  raw: "ta0069	5級靜	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode025"
+  translated: ""
   splits:
   - split: 1
-    text: 5級靜
-    translated: Level 5 Stillness
+    text: "5級靜"
+    translated: "Level 5 Stillness"
 - lineNum: 69
-  raw: ta0070	10級靜	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode002,1_TalentNode012,1_TalentNode013
-  translated: 
+  raw: "ta0070	10級靜	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode002,1_TalentNode012,1_TalentNode013"
+  translated: ""
   splits:
   - split: 1
-    text: 10級靜
-    translated: Level 10 Tranquility
+    text: "10級靜"
+    translated: "Level 10 Tranquility"
 - lineNum: 70
-  raw: ta0071	15級靜(守株待兔)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode002,1_TalentNode012,1_TalentNode013,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026
-  translated: 
+  raw: "ta0071	15級靜(守株待兔)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode002,1_TalentNode012,1_TalentNode013,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026"
+  translated: ""
   splits:
   - split: 1
-    text: 15級靜(守株待兔)
-    translated: Level 15 Stillness (Holding a Stake for Rabbits)
+    text: "15級靜(守株待兔)"
+    translated: "Level 15 Stillness (Holding a Stake for Rabbits)"
 - lineNum: 71
-  raw: ta0071b	15級靜(黃雀在後)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode002,1_TalentNode012,1_TalentNode013,1_TalentNode029,1_TalentNode031,1_TalentNode022,1_TalentNode025,1_TalentNode006
-  translated: 
+  raw: "ta0071b	15級靜(黃雀在後)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode002,1_TalentNode012,1_TalentNode013,1_TalentNode029,1_TalentNode031,1_TalentNode022,1_TalentNode025,1_TalentNode006"
+  translated: ""
   splits:
   - split: 1
-    text: 15級靜(黃雀在後)
-    translated: Level 15 Stillness (Wangquezaihou)
+    text: "15級靜(黃雀在後)"
+    translated: "Level 15 Stillness (Wangquezaihou)"
 - lineNum: 72
-  raw: ta0072	20級靜	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode002,1_TalentNode012,1_TalentNode013,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode029,1_TalentNode031,1_TalentNode022,1_TalentNode025,1_TalentNode006
-  translated: 
+  raw: "ta0072	20級靜	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode002,1_TalentNode012,1_TalentNode013,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode029,1_TalentNode031,1_TalentNode022,1_TalentNode025,1_TalentNode006"
+  translated: ""
   splits:
   - split: 1
-    text: 20級靜
-    translated: Level 20 Stillness
+    text: "20級靜"
+    translated: "Level 20 Stillness"
 - lineNum: 73
-  raw: ta0073	禾嘉仁	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028,2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027
-  translated: 
+  raw: "ta0073	禾嘉仁	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028,2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 禾嘉仁
-    translated: He Jia Ren
+    text: "禾嘉仁"
+    translated: "He Jia Ren"
 - lineNum: 74
-  raw: ta0074	鱷魚王 紅斑(靜拙柔)	0	1_TalentNode000,1_TalentNode003,1_TalentNode004,1_TalentNode007,1_TalentNode022,5_TalentNode001,5_TalentNode002,5_TalentNode024,3_TalentNode002,1_TalentNode006,1_TalentNode008,1_TalentNode009,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode023,1_TalentNode022,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode035
-  translated: 
+  raw: "ta0074	鱷魚王 紅斑(靜拙柔)	0	1_TalentNode000,1_TalentNode003,1_TalentNode004,1_TalentNode007,1_TalentNode022,5_TalentNode001,5_TalentNode002,5_TalentNode024,3_TalentNode002,1_TalentNode006,1_TalentNode008,1_TalentNode009,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode023,1_TalentNode022,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 鱷魚王 紅斑(靜拙柔)
-    translated: Crocodile King Red Spotted (Jingzhe Ruo)
+    text: "鱷魚王 紅斑(靜拙柔)"
+    translated: "Crocodile King Red Spotted (Jingzhe Ruo)"
 - lineNum: 75
-  raw: ta0074b	鱷魚(靜)(11)	0	1_TalentNode000,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode023
-  translated: 
+  raw: "ta0074b	鱷魚(靜)(11)	0	1_TalentNode000,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode023"
+  translated: ""
   splits:
   - split: 1
-    text: 鱷魚(靜)(11)
-    translated: Crocodile (Stillness) (11)
+    text: "鱷魚(靜)(11)"
+    translated: "Crocodile (Stillness) (11)"
 - lineNum: 76
-  raw: ta0074c	鱷魚(靜)(23)	0	1_TalentNode000,1_TalentNode003,1_TalentNode004,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode023,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033
-  translated: 
+  raw: "ta0074c	鱷魚(靜)(23)	0	1_TalentNode000,1_TalentNode003,1_TalentNode004,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode023,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033"
+  translated: ""
   splits:
   - split: 1
-    text: 鱷魚(靜)(23)
-    translated: Crocodile (Still) (23)
+    text: "鱷魚(靜)(23)"
+    translated: "Crocodile (Still) (23)"
 - lineNum: 77
-  raw: ta0075	黑狼王 暴牙(動巧剛)(40)	0	0_TalentNode027,0_TalentNode030,0_TalentNode032,0_TalentNode033,2_TalentNode000,4_TalentNode000,4_TalentNode001,4_TalentNode006,4_TalentNode007,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,4_TalentNode004,4_TalentNode005,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020
-  translated: 
+  raw: "ta0075	黑狼王 暴牙(動巧剛)(40)	0	0_TalentNode027,0_TalentNode030,0_TalentNode032,0_TalentNode033,2_TalentNode000,4_TalentNode000,4_TalentNode001,4_TalentNode006,4_TalentNode007,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,4_TalentNode004,4_TalentNode005,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020"
+  translated: ""
   splits:
   - split: 1
-    text: 黑狼王 暴牙(動巧剛)(40)
-    translated: Black Wolf King Fang Ya (Dong Qiao Gang) (40)
+    text: "黑狼王 暴牙(動巧剛)(40)"
+    translated: "Black Wolf King Fang Ya (Dong Qiao Gang) (40)"
 - lineNum: 78
-  raw: ta0075b	狼(動、巧)(11)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011
-  translated: 
+  raw: "ta0075b	狼(動、巧)(11)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011"
+  translated: ""
   splits:
   - split: 1
-    text: 狼(動、巧)(11)
-    translated: Wolf (animal, cunning) (11)
+    text: "狼(動、巧)(11)"
+    translated: "Wolf (animal, cunning) (11)"
 - lineNum: 79
-  raw: ta0075c	狼(動、巧)(23)	0	0_TalentNode027,4_TalentNode000,0_TalentNode000,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,4_TalentNode004,4_TalentNode005,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017
-  translated: 
+  raw: "ta0075c	狼(動、巧)(23)	0	0_TalentNode027,4_TalentNode000,0_TalentNode000,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,4_TalentNode004,4_TalentNode005,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017"
+  translated: ""
   splits:
   - split: 1
-    text: 狼(動、巧)(23)
-    translated: 'Wolf (Adjective: Cunning) (23)'
+    text: "狼(動、巧)(23)"
+    translated: "Wolf (Adjective: Cunning) (23)"
 - lineNum: 80
-  raw: ta0076	山豬王 鬃毛(拙剛)(40)	0	5_TalentNode000,5_TalentNode001,5_TalentNode002,5_TalentNode021,5_TalentNode024,2_TalentNode000,2_TalentNode001,2_TalentNode006,2_TalentNode035,5_TalentNode004,5_TalentNode005,5_TalentNode012,5_TalentNode014,5_TalentNode016,5_TalentNode018,5_TalentNode020,5_TalentNode027,5_TalentNode029,5_TalentNode030,5_TalentNode031,5_TalentNode032,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021
-  translated: 
+  raw: "ta0076	山豬王 鬃毛(拙剛)(40)	0	5_TalentNode000,5_TalentNode001,5_TalentNode002,5_TalentNode021,5_TalentNode024,2_TalentNode000,2_TalentNode001,2_TalentNode006,2_TalentNode035,5_TalentNode004,5_TalentNode005,5_TalentNode012,5_TalentNode014,5_TalentNode016,5_TalentNode018,5_TalentNode020,5_TalentNode027,5_TalentNode029,5_TalentNode030,5_TalentNode031,5_TalentNode032,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021"
+  translated: ""
   splits:
   - split: 1
-    text: 山豬王 鬃毛(拙剛)(40)
-    translated: Mountain Boar King Zhuang Mao (Zhu Gang) (40)
+    text: "山豬王 鬃毛(拙剛)(40)"
+    translated: "Mountain Boar King Zhuang Mao (Zhu Gang) (40)"
 - lineNum: 81
-  raw: ta0076b	山豬(拙)(11)	0	2_TalentNode000,5_TalentNode004,5_TalentNode005,5_TalentNode012,5_TalentNode014,5_TalentNode016,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012
-  translated: 
+  raw: "ta0076b	山豬(拙)(11)	0	2_TalentNode000,5_TalentNode004,5_TalentNode005,5_TalentNode012,5_TalentNode014,5_TalentNode016,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012"
+  translated: ""
   splits:
   - split: 1
-    text: 山豬(拙)(11)
-    translated: Boar (Clumsy) (11)
+    text: "山豬(拙)(11)"
+    translated: "Boar (Clumsy) (11)"
 - lineNum: 82
-  raw: ta0076c	山豬(拙)(23)	0	2_TalentNode000,5_TalentNode001,5_TalentNode002,5_TalentNode004,5_TalentNode005,5_TalentNode012,5_TalentNode014,5_TalentNode016,5_TalentNode018,5_TalentNode020,5_TalentNode027,5_TalentNode029,5_TalentNode030,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018
-  translated: 
+  raw: "ta0076c	山豬(拙)(23)	0	2_TalentNode000,5_TalentNode001,5_TalentNode002,5_TalentNode004,5_TalentNode005,5_TalentNode012,5_TalentNode014,5_TalentNode016,5_TalentNode018,5_TalentNode020,5_TalentNode027,5_TalentNode029,5_TalentNode030,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018"
+  translated: ""
   splits:
   - split: 1
-    text: 山豬(拙)(23)
-    translated: Clumsy Boar (23)
+    text: "山豬(拙)(23)"
+    translated: "Clumsy Boar (23)"
 - lineNum: 83
-  raw: ta0077	熊王 鐵斧(剛拙)(40)	0	2_TalentNode000,2_TalentNode001,2_TalentNode003,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode035,5_TalentNode001,5_TalentNode021,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode033,2_TalentNode034
-  translated: 
+  raw: "ta0077	熊王 鐵斧(剛拙)(40)	0	2_TalentNode000,2_TalentNode001,2_TalentNode003,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode035,5_TalentNode001,5_TalentNode021,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode033,2_TalentNode034"
+  translated: ""
   splits:
   - split: 1
-    text: 熊王 鐵斧(剛拙)(40)
-    translated: Xiong Wang Tiefu (Gang Zhuo) (40)
+    text: "熊王 鐵斧(剛拙)(40)"
+    translated: "Xiong Wang Tiefu (Gang Zhuo) (40)"
 - lineNum: 84
-  raw: ta0077b	熊(剛)(11)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019
-  translated: 
+  raw: "ta0077b	熊(剛)(11)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019"
+  translated: ""
   splits:
   - split: 1
-    text: 熊(剛)(11)
-    translated: Bear (Gang) (11)
+    text: "熊(剛)(11)"
+    translated: "Bear (Gang) (11)"
 - lineNum: 85
-  raw: ta0077c	熊(剛)(23)	0	2_TalentNode000,2_TalentNode001,2_TalentNode007,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030
-  translated: 
+  raw: "ta0077c	熊(剛)(23)	0	2_TalentNode000,2_TalentNode001,2_TalentNode007,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030"
+  translated: ""
   splits:
   - split: 1
-    text: 熊(剛)(23)
-    translated: Xiong Gang (23)
+    text: "熊(剛)(23)"
+    translated: "Xiong Gang (23)"
 - lineNum: 86
-  raw: ta0078	虎王(動剛)(40)	0	0_TalentNode027,0_TalentNode028,0_TalentNode032,0_TalentNode034,2_TalentNode000,2_TalentNode001,2_TalentNode002,2_TalentNode006,2_TalentNode007,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021
-  translated: 
+  raw: "ta0078	虎王(動剛)(40)	0	0_TalentNode027,0_TalentNode028,0_TalentNode032,0_TalentNode034,2_TalentNode000,2_TalentNode001,2_TalentNode002,2_TalentNode006,2_TalentNode007,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021"
+  translated: ""
   splits:
   - split: 1
-    text: 虎王(動剛)(40)
-    translated: Tiger King (Dynamic Force) (40)
+    text: "虎王(動剛)(40)"
+    translated: "Tiger King (Dynamic Force) (40)"
 - lineNum: 87
-  raw: ta0078b	老虎(動剛)(12)	0	0_TalentNode027,2_TalentNode000,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013
-  translated: 
+  raw: "ta0078b	老虎(動剛)(12)	0	0_TalentNode027,2_TalentNode000,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013"
+  translated: ""
   splits:
   - split: 1
-    text: 老虎(動剛)(12)
-    translated: Tiger (Donggang) (12)
+    text: "老虎(動剛)(12)"
+    translated: "Tiger (Donggang) (12)"
 - lineNum: 88
-  raw: ta0078c	老虎(動剛)(24)	0	0_TalentNode027,0_TalentNode034,2_TalentNode000,2_TalentNode002,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011
-  translated: 
+  raw: "ta0078c	老虎(動剛)(24)	0	0_TalentNode027,0_TalentNode034,2_TalentNode000,2_TalentNode002,2_TalentNode004,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011"
+  translated: ""
   splits:
   - split: 1
-    text: 老虎(動剛)(24)
-    translated: Tiger (Donggang) (24)
+    text: "老虎(動剛)(24)"
+    translated: "Tiger (Donggang) (24)"
 - lineNum: 89
-  raw: ta0079	猴王 李三(巧動)(40)	0	4_TalentNode000,4_TalentNode001,4_TalentNode006,4_TalentNode007,4_TalentNode008,4_TalentNode025,4_TalentNode027,0_TalentNode027,0_TalentNode033,4_TalentNode004,4_TalentNode005,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020,4_TalentNode021,4_TalentNode022,4_TalentNode023,4_TalentNode024,4_TalentNode026,4_TalentNode028,4_TalentNode029,4_TalentNode031,4_TalentNode032,4_TalentNode033,4_TalentNode034,4_TalentNode035
-  translated: 
+  raw: "ta0079	猴王 李三(巧動)(40)	0	4_TalentNode000,4_TalentNode001,4_TalentNode006,4_TalentNode007,4_TalentNode008,4_TalentNode025,4_TalentNode027,0_TalentNode027,0_TalentNode033,4_TalentNode004,4_TalentNode005,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020,4_TalentNode021,4_TalentNode022,4_TalentNode023,4_TalentNode024,4_TalentNode026,4_TalentNode028,4_TalentNode029,4_TalentNode031,4_TalentNode032,4_TalentNode033,4_TalentNode034,4_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 猴王 李三(巧動)(40)
-    translated: Monkey King Li San (Skillful in Movement) (40)
+    text: "猴王 李三(巧動)(40)"
+    translated: "Monkey King Li San (Skillful in Movement) (40)"
 - lineNum: 90
-  raw: ta0079b	猴子(巧)(11)	0	4_TalentNode000,4_TalentNode004,4_TalentNode005,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017
-  translated: 
+  raw: "ta0079b	猴子(巧)(11)	0	4_TalentNode000,4_TalentNode004,4_TalentNode005,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017"
+  translated: ""
   splits:
   - split: 1
-    text: 猴子(巧)(11)
-    translated: Monkey (Clever) (11)
+    text: "猴子(巧)(11)"
+    translated: "Monkey (Clever) (11)"
 - lineNum: 91
-  raw: ta0079c	猴子(巧)(23)	0	4_TalentNode000,4_TalentNode006,4_TalentNode007,4_TalentNode004,4_TalentNode005,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020,4_TalentNode021,4_TalentNode022,4_TalentNode023,4_TalentNode024,4_TalentNode026,4_TalentNode028,4_TalentNode029,4_TalentNode031
-  translated: 
+  raw: "ta0079c	猴子(巧)(23)	0	4_TalentNode000,4_TalentNode006,4_TalentNode007,4_TalentNode004,4_TalentNode005,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020,4_TalentNode021,4_TalentNode022,4_TalentNode023,4_TalentNode024,4_TalentNode026,4_TalentNode028,4_TalentNode029,4_TalentNode031"
+  translated: ""
   splits:
   - split: 1
-    text: 猴子(巧)(23)
-    translated: Monkey (Qiao) (23)
+    text: "猴子(巧)(23)"
+    translated: "Monkey (Qiao) (23)"
 - lineNum: 92
-  raw: ta0080	黑豹王(動剛)(40)	0	0_TalentNode027,0_TalentNode028,0_TalentNode029,0_TalentNode030,0_TalentNode032,0_TalentNode033,0_TalentNode034,2_TalentNode001,2_TalentNode002,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode035
-  translated: 
+  raw: "ta0080	黑豹王(動剛)(40)	0	0_TalentNode027,0_TalentNode028,0_TalentNode029,0_TalentNode030,0_TalentNode032,0_TalentNode033,0_TalentNode034,2_TalentNode001,2_TalentNode002,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 黑豹王(動剛)(40)
-    translated: Black Panther King (Donggang) (40)
+    text: "黑豹王(動剛)(40)"
+    translated: "Black Panther King (Donggang) (40)"
 - lineNum: 93
-  raw: ta0080b	豹(動)(11)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011
-  translated: 
+  raw: "ta0080b	豹(動)(11)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011"
+  translated: ""
   splits:
   - split: 1
-    text: 豹(動)(11)
-    translated: Leopard (animal) (11)
+    text: "豹(動)(11)"
+    translated: "Leopard (animal) (11)"
 - lineNum: 94
-  raw: ta0080c	豹(動)(23)	0	0_TalentNode027,0_TalentNode028,0_TalentNode034,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022
-  translated: 
+  raw: "ta0080c	豹(動)(23)	0	0_TalentNode027,0_TalentNode028,0_TalentNode034,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022"
+  translated: ""
   splits:
   - split: 1
-    text: 豹(動)(23)
-    translated: Panther (animal) (23)
+    text: "豹(動)(23)"
+    translated: "Panther (animal) (23)"
 - lineNum: 95
-  raw: ta0081	雪翼鵰(28)(動)	0	0_TalentNode027,0_TalentNode032,0_TalentNode033,0_TalentNode034,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode035
-  translated: 
+  raw: "ta0081	雪翼鵰(28)(動)	0	0_TalentNode027,0_TalentNode032,0_TalentNode033,0_TalentNode034,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 雪翼鵰(28)(動)
-    translated: Snow Wing Hawk (28) (moving)
+    text: "雪翼鵰(28)(動)"
+    translated: "Snow Wing Hawk (28) (moving)"
 - lineNum: 96
-  raw: ta0081b	老鷹(12)(動)	0	0_TalentNode027,0_TalentNode033,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011
-  translated: 
+  raw: "ta0081b	老鷹(12)(動)	0	0_TalentNode027,0_TalentNode033,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011"
+  translated: ""
   splits:
   - split: 1
-    text: 老鷹(12)(動)
-    translated: Eagle (12) flying
+    text: "老鷹(12)(動)"
+    translated: "Eagle (12) flying"
 - lineNum: 97
-  raw: ta0081c	老鷹(18)(動)	0	0_TalentNode027,0_TalentNode033,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode028,0_TalentNode032,0_TalentNode034,0_TalentNode026,0_TalentNode013,0_TalentNode025
-  translated: 
+  raw: "ta0081c	老鷹(18)(動)	0	0_TalentNode027,0_TalentNode033,0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode028,0_TalentNode032,0_TalentNode034,0_TalentNode026,0_TalentNode013,0_TalentNode025"
+  translated: ""
   splits:
   - split: 1
-    text: 老鷹(18)(動)
-    translated: Eagle (18) (animate)
+    text: "老鷹(18)(動)"
+    translated: "Eagle (18) (animate)"
 - lineNum: 98
-  raw: ta0083	皇甫登雲	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode034,2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode035,2_TalentNode025,2_TalentNode005,2_TalentNode027,2_TalentNode026,2_TalentNode028,2_TalentNode006,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode016,2_TalentNode017,2_TalentNode002,4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027,4_TalentNode019,4_TalentNode023,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028
-  translated: 
+  raw: "ta0083	皇甫登雲	0	0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode034,2_TalentNode000,2_TalentNode001,2_TalentNode009,2_TalentNode010,2_TalentNode021,2_TalentNode022,2_TalentNode023,2_TalentNode024,2_TalentNode035,2_TalentNode025,2_TalentNode005,2_TalentNode027,2_TalentNode026,2_TalentNode028,2_TalentNode006,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode016,2_TalentNode017,2_TalentNode002,4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027,4_TalentNode019,4_TalentNode023,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028"
+  translated: ""
   splits:
   - split: 1
-    text: 皇甫登雲
-    translated: Huangfu Dengyun
+    text: "皇甫登雲"
+    translated: "Huangfu Dengyun"
 - lineNum: 99
-  raw: ta0084	張君寶(35)	5	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode014,3_TalentNode015,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode019,3_TalentNode020,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode031,3_TalentNode032,3_TalentNode007,3_TalentNode033
-  translated: 
+  raw: "ta0084	張君寶(35)	5	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode014,3_TalentNode015,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode019,3_TalentNode020,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode031,3_TalentNode032,3_TalentNode007,3_TalentNode033"
+  translated: ""
   splits:
   - split: 1
-    text: 張君寶(35)
-    translated: Zhang Junbao (35)
+    text: "張君寶(35)"
+    translated: "Zhang Junbao (35)"
 - lineNum: 100
-  raw: ta0085	百損(柔巧)(31)	3	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode017,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode014,3_TalentNode015,3_TalentNode016,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,4_TalentNode018,4_TalentNode017,4_TalentNode016,4_TalentNode003,4_TalentNode015,4_TalentNode014,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025
-  translated: 
+  raw: "ta0085	百損(柔巧)(31)	3	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode017,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode014,3_TalentNode015,3_TalentNode016,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,4_TalentNode018,4_TalentNode017,4_TalentNode016,4_TalentNode003,4_TalentNode015,4_TalentNode014,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025"
+  translated: ""
   splits:
   - split: 1
-    text: 百損(柔巧)(31)
-    translated: Baisun (Rouqiao) (31)
+    text: "百損(柔巧)(31)"
+    translated: "Baisun (Rouqiao) (31)"
 - lineNum: 101
-  raw: ta0086	凌中嶽(靜拙)(55)	0	1_TalentNode000,1_TalentNode001,1_TalentNode004,1_TalentNode005,1_TalentNode006,1_TalentNode007,1_TalentNode008,1_TalentNode009,1_TalentNode010,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode019,1_TalentNode020,1_TalentNode022,1_TalentNode023,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode035,5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode027,5_TalentNode031,5_TalentNode034,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode002,5_TalentNode013,5_TalentNode014
-  translated: 
+  raw: "ta0086	凌中嶽(靜拙)(55)	0	1_TalentNode000,1_TalentNode001,1_TalentNode004,1_TalentNode005,1_TalentNode006,1_TalentNode007,1_TalentNode008,1_TalentNode009,1_TalentNode010,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode019,1_TalentNode020,1_TalentNode022,1_TalentNode023,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode035,5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode027,5_TalentNode031,5_TalentNode034,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode002,5_TalentNode013,5_TalentNode014"
+  translated: ""
   splits:
   - split: 1
-    text: 凌中嶽(靜拙)(55)
-    translated: Ling Zhongyue (Jingze)(55)
+    text: "凌中嶽(靜拙)(55)"
+    translated: "Ling Zhongyue (Jingze)(55)"
 - lineNum: 102
-  raw: ta0087	心良道人(靜柔)(56)	0	1_TalentNode000,1_TalentNode001,1_TalentNode004,1_TalentNode005,1_TalentNode006,1_TalentNode007,1_TalentNode008,1_TalentNode009,1_TalentNode010,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode019,1_TalentNode020,1_TalentNode022,1_TalentNode023,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode035,3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022,3_TalentNode023,3_TalentNode025,3_TalentNode026,3_TalentNode006,3_TalentNode003,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode024,3_TalentNode027,3_TalentNode028,3_TalentNode029,3_TalentNode030
-  translated: 
+  raw: "ta0087	心良道人(靜柔)(56)	0	1_TalentNode000,1_TalentNode001,1_TalentNode004,1_TalentNode005,1_TalentNode006,1_TalentNode007,1_TalentNode008,1_TalentNode009,1_TalentNode010,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode019,1_TalentNode020,1_TalentNode022,1_TalentNode023,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode035,3_TalentNode000,3_TalentNode001,3_TalentNode010,3_TalentNode011,3_TalentNode022,3_TalentNode023,3_TalentNode025,3_TalentNode026,3_TalentNode006,3_TalentNode003,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode024,3_TalentNode027,3_TalentNode028,3_TalentNode029,3_TalentNode030"
+  translated: ""
   splits:
   - split: 1
-    text: 心良道人(靜柔)(56)
-    translated: Xin Liang Dao Ren (Jing Rou) (56)
+    text: "心良道人(靜柔)(56)"
+    translated: "Xin Liang Dao Ren (Jing Rou) (56)"
 - lineNum: 103
-  raw: ta0088	凌霜峻(動巧)(30)	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027,4_TalentNode019,4_TalentNode023,4_TalentNode029,4_TalentNode028,4_TalentNode007,0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode034
-  translated: 
+  raw: "ta0088	凌霜峻(動巧)(30)	0	4_TalentNode000,4_TalentNode001,4_TalentNode022,4_TalentNode031,4_TalentNode020,4_TalentNode005,4_TalentNode021,4_TalentNode004,4_TalentNode025,4_TalentNode027,4_TalentNode019,4_TalentNode023,4_TalentNode029,4_TalentNode028,4_TalentNode007,0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode034"
+  translated: ""
   splits:
   - split: 1
-    text: 凌霜峻(動巧)(30)
-    translated: Lin Songjun (Dongqiao) (30)
+    text: "凌霜峻(動巧)(30)"
+    translated: "Lin Songjun (Dongqiao) (30)"
 - lineNum: 104
-  raw: ta0089	夏札爾(巧動)(48)	0	4_TalentNode000,4_TalentNode001,4_TalentNode002,4_TalentNode003,4_TalentNode004,4_TalentNode005,4_TalentNode006,4_TalentNode007,4_TalentNode008,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020,4_TalentNode021,4_TalentNode022,4_TalentNode024,4_TalentNode025,4_TalentNode026,4_TalentNode027,4_TalentNode028,4_TalentNode029,4_TalentNode023,4_TalentNode031,4_TalentNode032,4_TalentNode033,4_TalentNode034,4_TalentNode035,0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017
-  translated: 
+  raw: "ta0089	夏札爾(巧動)(48)	0	4_TalentNode000,4_TalentNode001,4_TalentNode002,4_TalentNode003,4_TalentNode004,4_TalentNode005,4_TalentNode006,4_TalentNode007,4_TalentNode008,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020,4_TalentNode021,4_TalentNode022,4_TalentNode024,4_TalentNode025,4_TalentNode026,4_TalentNode027,4_TalentNode028,4_TalentNode029,4_TalentNode023,4_TalentNode031,4_TalentNode032,4_TalentNode033,4_TalentNode034,4_TalentNode035,0_TalentNode000,0_TalentNode001,0_TalentNode027,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017"
+  translated: ""
   splits:
   - split: 1
-    text: 夏札爾(巧動)(48)
-    translated: Xia Zhe'er (Qiao Dong) (48)
+    text: "夏札爾(巧動)(48)"
+    translated: "Xia Zhe'er (Qiao Dong) (48)"
 - lineNum: 105
-  raw: ta0090	戚如瀟(動巧)(22)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode009,4_TalentNode010,4_TalentNode006,4_TalentNode011,4_TalentNode012,4_TalentNode013,0_TalentNode009,0_TalentNode024,0_TalentNode008,0_TalentNode030,0_TalentNode007,0_TalentNode006,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027
-  translated: 
+  raw: "ta0090	戚如瀟(動巧)(22)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode009,4_TalentNode010,4_TalentNode006,4_TalentNode011,4_TalentNode012,4_TalentNode013,0_TalentNode009,0_TalentNode024,0_TalentNode008,0_TalentNode030,0_TalentNode007,0_TalentNode006,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 戚如瀟(動巧)(22)
-    translated: Qiqi Ruxiao (Dongqiao) (22)
+    text: "戚如瀟(動巧)(22)"
+    translated: "Qiqi Ruxiao (Dongqiao) (22)"
 - lineNum: 106
-  raw: ta0091	拙剛各半(31)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode015,2_TalentNode014,2_TalentNode013,2_TalentNode003,2_TalentNode012,2_TalentNode011,2_TalentNode001,2_TalentNode010,2_TalentNode009,2_TalentNode000,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode023,2_TalentNode024,2_TalentNode005
-  translated: 
+  raw: "ta0091	拙剛各半(31)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode015,2_TalentNode014,2_TalentNode013,2_TalentNode003,2_TalentNode012,2_TalentNode011,2_TalentNode001,2_TalentNode010,2_TalentNode009,2_TalentNode000,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode023,2_TalentNode024,2_TalentNode005"
+  translated: ""
   splits:
   - split: 1
-    text: 拙剛各半(31)
-    translated: Roughly half each (31).
+    text: "拙剛各半(31)"
+    translated: "Roughly half each (31)."
 - lineNum: 107
-  raw: ta0091b	剛動各半(31)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode018,2_TalentNode019,2_TalentNode020,0_TalentNode005,0_TalentNode025,0_TalentNode004,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032
-  translated: 
+  raw: "ta0091b	剛動各半(31)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode018,2_TalentNode019,2_TalentNode020,0_TalentNode005,0_TalentNode025,0_TalentNode004,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032"
+  translated: ""
   splits:
   - split: 1
-    text: 剛動各半(31)
-    translated: Half a step too late (31)
+    text: "剛動各半(31)"
+    translated: "Half a step too late (31)"
 - lineNum: 108
-  raw: ta0091c	動巧各半(31)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode006,0_TalentNode007,0_TalentNode030,0_TalentNode008,0_TalentNode024,0_TalentNode009,4_TalentNode013,4_TalentNode012,4_TalentNode011,4_TalentNode006,4_TalentNode010,4_TalentNode009,4_TalentNode001,4_TalentNode031,4_TalentNode022,4_TalentNode000,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027
-  translated: 
+  raw: "ta0091c	動巧各半(31)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode006,0_TalentNode007,0_TalentNode030,0_TalentNode008,0_TalentNode024,0_TalentNode009,4_TalentNode013,4_TalentNode012,4_TalentNode011,4_TalentNode006,4_TalentNode010,4_TalentNode009,4_TalentNode001,4_TalentNode031,4_TalentNode022,4_TalentNode000,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 動巧各半(31)
-    translated: Move with Skillfulness and Agility (31)
+    text: "動巧各半(31)"
+    translated: "Move with Skillfulness and Agility (31)"
 - lineNum: 109
-  raw: ta0091d	巧柔各半(31)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode016,4_TalentNode017,4_TalentNode018,3_TalentNode016,3_TalentNode015,3_TalentNode014,3_TalentNode005,3_TalentNode013,3_TalentNode012,3_TalentNode001,3_TalentNode011,3_TalentNode010,3_TalentNode000,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode025,3_TalentNode026,3_TalentNode003
-  translated: 
+  raw: "ta0091d	巧柔各半(31)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode016,4_TalentNode017,4_TalentNode018,3_TalentNode016,3_TalentNode015,3_TalentNode014,3_TalentNode005,3_TalentNode013,3_TalentNode012,3_TalentNode001,3_TalentNode011,3_TalentNode010,3_TalentNode000,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode025,3_TalentNode026,3_TalentNode003"
+  translated: ""
   splits:
   - split: 1
-    text: 巧柔各半(31)
-    translated: Graceful and gentle, each in equal measure (31).
+    text: "巧柔各半(31)"
+    translated: "Graceful and gentle, each in equal measure (31)."
 - lineNum: 110
-  raw: ta0091e	柔靜各半(31)	0	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode019,3_TalentNode020,3_TalentNode021,1_TalentNode016,1_TalentNode015,1_TalentNode014,1_TalentNode002,1_TalentNode013,1_TalentNode012,1_TalentNode005,1_TalentNode011,1_TalentNode009,1_TalentNode000,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode025,1_TalentNode006,1_TalentNode022
-  translated: 
+  raw: "ta0091e	柔靜各半(31)	0	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode019,3_TalentNode020,3_TalentNode021,1_TalentNode016,1_TalentNode015,1_TalentNode014,1_TalentNode002,1_TalentNode013,1_TalentNode012,1_TalentNode005,1_TalentNode011,1_TalentNode009,1_TalentNode000,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode025,1_TalentNode006,1_TalentNode022"
+  translated: ""
   splits:
   - split: 1
-    text: 柔靜各半(31)
-    translated: Softness and calm in equal measure (31).
+    text: "柔靜各半(31)"
+    translated: "Softness and calm in equal measure (31)."
 - lineNum: 111
-  raw: ta0091f	靜拙各半(31)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode017,1_TalentNode017,1_TalentNode003,1_TalentNode019,1_TalentNode020,1_TalentNode021,5_TalentNode009,5_TalentNode016,5_TalentNode015,5_TalentNode002,5_TalentNode014,5_TalentNode013,5_TalentNode024,5_TalentNode012,5_TalentNode011,5_TalentNode000,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode025,5_TalentNode005,5_TalentNode001
-  translated: 
+  raw: "ta0091f	靜拙各半(31)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode017,1_TalentNode017,1_TalentNode003,1_TalentNode019,1_TalentNode020,1_TalentNode021,5_TalentNode009,5_TalentNode016,5_TalentNode015,5_TalentNode002,5_TalentNode014,5_TalentNode013,5_TalentNode024,5_TalentNode012,5_TalentNode011,5_TalentNode000,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode025,5_TalentNode005,5_TalentNode001"
+  translated: ""
   splits:
   - split: 1
-    text: 靜拙各半(31)
-    translated: Stillness and Clumsiness in Equal Measure (31)
+    text: "靜拙各半(31)"
+    translated: "Stillness and Clumsiness in Equal Measure (31)"
 - lineNum: 112
-  raw: ta0092	動為主，剛為輔(40)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode006,0_TalentNode007,0_TalentNode030,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode002,0_TalentNode003,0_TalentNode029,0_TalentNode004,0_TalentNode025,0_TalentNode005,2_TalentNode020,2_TalentNode019,2_TalentNode018,2_TalentNode002,2_TalentNode017,2_TalentNode016,2_TalentNode001,2_TalentNode010,2_TalentNode009,2_TalentNode000,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode023,2_TalentNode024,2_TalentNode005
-  translated: 
+  raw: "ta0092	動為主，剛為輔(40)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode006,0_TalentNode007,0_TalentNode030,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode002,0_TalentNode003,0_TalentNode029,0_TalentNode004,0_TalentNode025,0_TalentNode005,2_TalentNode020,2_TalentNode019,2_TalentNode018,2_TalentNode002,2_TalentNode017,2_TalentNode016,2_TalentNode001,2_TalentNode010,2_TalentNode009,2_TalentNode000,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode023,2_TalentNode024,2_TalentNode005"
+  translated: ""
   splits:
   - split: 1
-    text: 動為主，剛為輔(40)
-    translated: Act with the primary force of movement, using rigidity as support. (40)
+    text: "動為主，剛為輔(40)"
+    translated: "Act with the primary force of movement, using rigidity as support. (40)"
 - lineNum: 113
-  raw: ta0092b	動為主，巧為輔(40)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode002,0_TalentNode003,0_TalentNode029,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode006,0_TalentNode007,0_TalentNode030,0_TalentNode008,0_TalentNode024,0_TalentNode009,4_TalentNode013,4_TalentNode012,4_TalentNode011,4_TalentNode006,4_TalentNode010,4_TalentNode009,4_TalentNode001,4_TalentNode031,4_TalentNode022,4_TalentNode000,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027
-  translated: 
+  raw: "ta0092b	動為主，巧為輔(40)	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode002,0_TalentNode003,0_TalentNode029,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode006,0_TalentNode007,0_TalentNode030,0_TalentNode008,0_TalentNode024,0_TalentNode009,4_TalentNode013,4_TalentNode012,4_TalentNode011,4_TalentNode006,4_TalentNode010,4_TalentNode009,4_TalentNode001,4_TalentNode031,4_TalentNode022,4_TalentNode000,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 動為主，巧為輔(40)
-    translated: Action is primary; cleverness is secondary. (40)
+    text: "動為主，巧為輔(40)"
+    translated: "Action is primary; cleverness is secondary. (40)"
 - lineNum: 114
-  raw: ta0092c	靜為主，柔為輔(40)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode012,1_TalentNode013,1_TalentNode002,1_TalentNode014,1_TalentNode015,1_TalentNode016,1_TalentNode021,1_TalentNode020,1_TalentNode019,1_TalentNode002,1_TalentNode018,1_TalentNode017,1_TalentNode001,1_TalentNode011,1_TalentNode010,1_TalentNode000,1_TalentNode022,1_TalentNode023,1_TalentNode006,1_TalentNode025,1_TalentNode026,1_TalentNode003
-  translated: 
+  raw: "ta0092c	靜為主，柔為輔(40)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode012,1_TalentNode013,1_TalentNode002,1_TalentNode014,1_TalentNode015,1_TalentNode016,1_TalentNode021,1_TalentNode020,1_TalentNode019,1_TalentNode002,1_TalentNode018,1_TalentNode017,1_TalentNode001,1_TalentNode011,1_TalentNode010,1_TalentNode000,1_TalentNode022,1_TalentNode023,1_TalentNode006,1_TalentNode025,1_TalentNode026,1_TalentNode003"
+  translated: ""
   splits:
   - split: 1
-    text: 靜為主，柔為輔(40)
-    translated: Quiet is the main, softness is the support (40).
+    text: "靜為主，柔為輔(40)"
+    translated: "Quiet is the main, softness is the support (40)."
 - lineNum: 115
-  raw: ta0092d	靜為主，拙為輔(40)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode012,1_TalentNode013,1_TalentNode002,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode019,1_TalentNode020,1_TalentNode021,5_TalentNode009,5_TalentNode016,5_TalentNode015,5_TalentNode002,5_TalentNode014,5_TalentNode013,5_TalentNode024,5_TalentNode012,5_TalentNode011,5_TalentNode000,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode025,5_TalentNode005,5_TalentNode001
-  translated: 
+  raw: "ta0092d	靜為主，拙為輔(40)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode012,1_TalentNode013,1_TalentNode002,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode019,1_TalentNode020,1_TalentNode021,5_TalentNode009,5_TalentNode016,5_TalentNode015,5_TalentNode002,5_TalentNode014,5_TalentNode013,5_TalentNode024,5_TalentNode012,5_TalentNode011,5_TalentNode000,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode025,5_TalentNode005,5_TalentNode001"
+  translated: ""
   splits:
   - split: 1
-    text: 靜為主，拙為輔(40)
-    translated: Stillness is the primary principle; simplicity is the supporting element. (40)
+    text: "靜為主，拙為輔(40)"
+    translated: "Stillness is the primary principle; simplicity is the supporting element. (40)"
 - lineNum: 116
-  raw: ta0092e	剛為主，拙為輔(40)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode013,2_TalentNode014,2_TalentNode015,5_TalentNode010,5_TalentNode020,5_TalentNode019,5_TalentNode003,5_TalentNode018,5_TalentNode017,5_TalentNode024,5_TalentNode012,5_TalentNode011,5_TalentNode000,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode025,5_TalentNode005,5_TalentNode001
-  translated: 
+  raw: "ta0092e	剛為主，拙為輔(40)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode013,2_TalentNode014,2_TalentNode015,5_TalentNode010,5_TalentNode020,5_TalentNode019,5_TalentNode003,5_TalentNode018,5_TalentNode017,5_TalentNode024,5_TalentNode012,5_TalentNode011,5_TalentNode000,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode025,5_TalentNode005,5_TalentNode001"
+  translated: ""
   splits:
   - split: 1
-    text: 剛為主，拙為輔(40)
-    translated: The Master as the main force; the humble one as support (40).
+    text: "剛為主，拙為輔(40)"
+    translated: "The Master as the main force; the humble one as support (40)."
 - lineNum: 117
-  raw: ta0092f	剛為主，動為輔(40)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode018,2_TalentNode019,2_TalentNode020,0_TalentNode005,0_TalentNode025,0_TalentNode004,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032
-  translated: 
+  raw: "ta0092f	剛為主，動為輔(40)	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode011,2_TalentNode012,2_TalentNode003,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode018,2_TalentNode019,2_TalentNode020,0_TalentNode005,0_TalentNode025,0_TalentNode004,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032"
+  translated: ""
   splits:
   - split: 1
-    text: 剛為主，動為輔(40)
-    translated: As the ruler is steady, so should the subordinate be active (40).
+    text: "剛為主，動為輔(40)"
+    translated: "As the ruler is steady, so should the subordinate be active (40)."
 - lineNum: 118
-  raw: ta0092g	柔為主，巧為輔(40)	0	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode014,3_TalentNode015,3_TalentNode016,4_TalentNode018,4_TalentNode017,4_TalentNode016,4_TalentNode003,4_TalentNode015,4_TalentNode014,4_TalentNode001,4_TalentNode031,4_TalentNode022,4_TalentNode000,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027
-  translated: 
+  raw: "ta0092g	柔為主，巧為輔(40)	0	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode014,3_TalentNode015,3_TalentNode016,4_TalentNode018,4_TalentNode017,4_TalentNode016,4_TalentNode003,4_TalentNode015,4_TalentNode014,4_TalentNode001,4_TalentNode031,4_TalentNode022,4_TalentNode000,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 柔為主，巧為輔(40)
-    translated: Flexibility as the primary strategy, cleverness as the support (40)
+    text: "柔為主，巧為輔(40)"
+    translated: "Flexibility as the primary strategy, cleverness as the support (40)"
 - lineNum: 119
-  raw: ta0092h	柔為主，靜為輔(40)	0	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode019,3_TalentNode020,3_TalentNode021,1_TalentNode016,1_TalentNode015,1_TalentNode014,1_TalentNode002,1_TalentNode013,1_TalentNode012,1_TalentNode005,1_TalentNode011,1_TalentNode009,1_TalentNode000,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode025,1_TalentNode006,1_TalentNode022
-  translated: 
+  raw: "ta0092h	柔為主，靜為輔(40)	0	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode012,3_TalentNode013,3_TalentNode005,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode019,3_TalentNode020,3_TalentNode021,1_TalentNode016,1_TalentNode015,1_TalentNode014,1_TalentNode002,1_TalentNode013,1_TalentNode012,1_TalentNode005,1_TalentNode011,1_TalentNode009,1_TalentNode000,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode025,1_TalentNode006,1_TalentNode022"
+  translated: ""
   splits:
   - split: 1
-    text: 柔為主，靜為輔(40)
-    translated: Softness is primary; stillness is secondary (40).
+    text: "柔為主，靜為輔(40)"
+    translated: "Softness is primary; stillness is secondary (40)."
 - lineNum: 120
-  raw: ta0092i	巧為主，動為輔(40)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode009,4_TalentNode010,4_TalentNode006,4_TalentNode011,4_TalentNode012,4_TalentNode013,0_TalentNode009,0_TalentNode024,0_TalentNode008,0_TalentNode030,0_TalentNode007,0_TalentNode006,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032
-  translated: 
+  raw: "ta0092i	巧為主，動為輔(40)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode009,4_TalentNode010,4_TalentNode006,4_TalentNode011,4_TalentNode012,4_TalentNode013,0_TalentNode009,0_TalentNode024,0_TalentNode008,0_TalentNode030,0_TalentNode007,0_TalentNode006,0_TalentNode028,0_TalentNode001,0_TalentNode000,0_TalentNode027,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032"
+  translated: ""
   splits:
   - split: 1
-    text: 巧為主，動為輔(40)
-    translated: Skillful in strategy, active in execution (40).
+    text: "巧為主，動為輔(40)"
+    translated: "Skillful in strategy, active in execution (40)."
 - lineNum: 121
-  raw: ta0092j	巧為主，柔為輔(40)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode009,4_TalentNode010,4_TalentNode006,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode016,4_TalentNode017,4_TalentNode018,3_TalentNode016,3_TalentNode015,3_TalentNode014,3_TalentNode005,3_TalentNode013,3_TalentNode012,3_TalentNode001,3_TalentNode011,3_TalentNode010,3_TalentNode000,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode025,3_TalentNode026,3_TalentNode003
-  translated: 
+  raw: "ta0092j	巧為主，柔為輔(40)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode009,4_TalentNode010,4_TalentNode006,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode016,4_TalentNode017,4_TalentNode018,3_TalentNode016,3_TalentNode015,3_TalentNode014,3_TalentNode005,3_TalentNode013,3_TalentNode012,3_TalentNode001,3_TalentNode011,3_TalentNode010,3_TalentNode000,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode025,3_TalentNode026,3_TalentNode003"
+  translated: ""
   splits:
   - split: 1
-    text: 巧為主，柔為輔(40)
-    translated: The skilled take the lead, while the gentle assist (40).
+    text: "巧為主，柔為輔(40)"
+    translated: "The skilled take the lead, while the gentle assist (40)."
 - lineNum: 122
-  raw: ta0092k	拙為主，靜為輔(40)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode006,5_TalentNode013,5_TalentNode014,5_TalentNode002,5_TalentNode015,5_TalentNode016,5_TalentNode009,1_TalentNode021,1_TalentNode020,1_TalentNode019,1_TalentNode003,1_TalentNode018,1_TalentNode017,1_TalentNode005,1_TalentNode011,1_TalentNode009,1_TalentNode000,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode025,1_TalentNode006,1_TalentNode022
-  translated: 
+  raw: "ta0092k	拙為主，靜為輔(40)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode006,5_TalentNode013,5_TalentNode014,5_TalentNode002,5_TalentNode015,5_TalentNode016,5_TalentNode009,1_TalentNode021,1_TalentNode020,1_TalentNode019,1_TalentNode003,1_TalentNode018,1_TalentNode017,1_TalentNode005,1_TalentNode011,1_TalentNode009,1_TalentNode000,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode025,1_TalentNode006,1_TalentNode022"
+  translated: ""
   splits:
   - split: 1
-    text: 拙為主，靜為輔(40)
-    translated: Humble as master, stillness as assistant (40).
+    text: "拙為主，靜為輔(40)"
+    translated: "Humble as master, stillness as assistant (40)."
 - lineNum: 123
-  raw: ta0092l	拙為主，剛為輔(40)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode013,5_TalentNode014,5_TalentNode002,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode032,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode015,2_TalentNode014,2_TalentNode013,2_TalentNode003,2_TalentNode012,2_TalentNode011,2_TalentNode001,2_TalentNode010,2_TalentNode009,2_TalentNode000,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode023,2_TalentNode024,2_TalentNode005
-  translated: 
+  raw: "ta0092l	拙為主，剛為輔(40)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode013,5_TalentNode014,5_TalentNode002,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode032,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode015,2_TalentNode014,2_TalentNode013,2_TalentNode003,2_TalentNode012,2_TalentNode011,2_TalentNode001,2_TalentNode010,2_TalentNode009,2_TalentNode000,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode023,2_TalentNode024,2_TalentNode005"
+  translated: ""
   splits:
   - split: 1
-    text: 拙為主，剛為輔(40)
-    translated: The inferior should lead, the superior should assist. (40)
+    text: "拙為主，剛為輔(40)"
+    translated: "The inferior should lead, the superior should assist. (40)"
 - lineNum: 124
-  raw: ta0092m	拙剛(49)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode006,5_TalentNode033,5_TalentNode032,5_TalentNode022,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode015,2_TalentNode003,2_TalentNode012,2_TalentNode011,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode030,2_TalentNode007,2_TalentNode031,2_TalentNode004,2_TalentNode008,2_TalentNode010,2_TalentNode009,2_TalentNode000
-  translated: 
+  raw: "ta0092m	拙剛(49)	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode006,5_TalentNode033,5_TalentNode032,5_TalentNode022,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode015,2_TalentNode003,2_TalentNode012,2_TalentNode011,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode030,2_TalentNode007,2_TalentNode031,2_TalentNode004,2_TalentNode008,2_TalentNode010,2_TalentNode009,2_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 拙剛(49)
-    translated: My humble self (49).
+    text: "拙剛(49)"
+    translated: "My humble self (49)."
 - lineNum: 125
-  raw: ta0092n	剛動(49)百里	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode030,2_TalentNode007,2_TalentNode031,2_TalentNode004,2_TalentNode008,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode020,0_TalentNode005,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode018,0_TalentNode001,0_TalentNode000,0_TalentNode027
-  translated: 
+  raw: "ta0092n	剛動(49)百里	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode030,2_TalentNode007,2_TalentNode031,2_TalentNode004,2_TalentNode008,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode020,0_TalentNode005,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode018,0_TalentNode001,0_TalentNode000,0_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 剛動(49)百里
-    translated: Moved (49) Li Baiti.
+    text: "剛動(49)百里"
+    translated: "Moved (49) Li Baiti."
 - lineNum: 126
-  raw: ta0092p	動巧(49)李惑相	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode018,0_TalentNode006,0_TalentNode007,0_TalentNode030,0_TalentNode009,4_TalentNode013,4_TalentNode006,4_TalentNode010,4_TalentNode009,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,4_TalentNode008,4_TalentNode031,4_TalentNode022,4_TalentNode000
-  translated: 
+  raw: "ta0092p	動巧(49)李惑相	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode018,0_TalentNode006,0_TalentNode007,0_TalentNode030,0_TalentNode009,4_TalentNode013,4_TalentNode006,4_TalentNode010,4_TalentNode009,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,4_TalentNode008,4_TalentNode031,4_TalentNode022,4_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 動巧(49)李惑相
-    translated: Master Li Huanxi (49 years old)
+    text: "動巧(49)李惑相"
+    translated: "Master Li Huanxi (49 years old)"
 - lineNum: 127
-  raw: ta0092q	巧柔(49)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,4_TalentNode008,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode018,3_TalentNode016,3_TalentNode005,3_TalentNode013,3_TalentNode012,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode031,3_TalentNode032,3_TalentNode007,3_TalentNode033,3_TalentNode034,3_TalentNode011,3_TalentNode010,3_TalentNode000
-  translated: 
+  raw: "ta0092q	巧柔(49)	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,4_TalentNode008,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode018,3_TalentNode016,3_TalentNode005,3_TalentNode013,3_TalentNode012,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode031,3_TalentNode032,3_TalentNode007,3_TalentNode033,3_TalentNode034,3_TalentNode011,3_TalentNode010,3_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 巧柔(49)
-    translated: Qiaoru (49)
+    text: "巧柔(49)"
+    translated: "Qiaoru (49)"
 - lineNum: 128
-  raw: ta0092r	柔靜(49)藍拂衣	0	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode031,3_TalentNode032,3_TalentNode007,3_TalentNode033,3_TalentNode034,3_TalentNode017,3_TalentNode018,3_TalentNode020,3_TalentNode021,1_TalentNode016,1_TalentNode002,1_TalentNode013,1_TalentNode012,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode030,1_TalentNode007,1_TalentNode032,1_TalentNode034,1_TalentNode03,1_TalentNode011,1_TalentNode009,1_TalentNode000
-  translated: 
+  raw: "ta0092r	柔靜(49)藍拂衣	0	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode031,3_TalentNode032,3_TalentNode007,3_TalentNode033,3_TalentNode034,3_TalentNode017,3_TalentNode018,3_TalentNode020,3_TalentNode021,1_TalentNode016,1_TalentNode002,1_TalentNode013,1_TalentNode012,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode030,1_TalentNode007,1_TalentNode032,1_TalentNode034,1_TalentNode03,1_TalentNode011,1_TalentNode009,1_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 柔靜(49)藍拂衣
-    translated: Rou Jing (49), Blue Duster-Wearer
+    text: "柔靜(49)藍拂衣"
+    translated: "Rou Jing (49), Blue Duster-Wearer"
 - lineNum: 129
-  raw: ta0092s	靜拙(49)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode030,1_TalentNode007,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode021,5_TalentNode009,5_TalentNode016,5_TalentNode015,5_TalentNode002,5_TalentNode014,5_TalentNode013,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode008,5_TalentNode033,5_TalentNode030,5_TalentNode022,5_TalentNode012,5_TalentNode011,5_TalentNode000
-  translated: 
+  raw: "ta0092s	靜拙(49)	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode030,1_TalentNode007,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode021,5_TalentNode009,5_TalentNode016,5_TalentNode015,5_TalentNode002,5_TalentNode014,5_TalentNode013,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode008,5_TalentNode033,5_TalentNode030,5_TalentNode022,5_TalentNode012,5_TalentNode011,5_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 靜拙(49)
-    translated: Jing Zhe (49)
+    text: "靜拙(49)"
+    translated: "Jing Zhe (49)"
 - lineNum: 130
-  raw: ta0093	拙剛點滿(57)百里,戰胤飛	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode006,5_TalentNode029,5_TalentNode008,5_TalentNode033,5_TalentNode032,5_TalentNode007,5_TalentNode030,5_TalentNode022,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode015,2_TalentNode014,2_TalentNode013,2_TalentNode003,2_TalentNode012,2_TalentNode011,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode030,2_TalentNode007,2_TalentNode031,2_TalentNode004,2_TalentNode008,2_TalentNode034,2_TalentNode033,2_TalentNode010,2_TalentNode009,2_TalentNode000
-  translated: 
+  raw: "ta0093	拙剛點滿(57)百里,戰胤飛	0	5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode006,5_TalentNode029,5_TalentNode008,5_TalentNode033,5_TalentNode032,5_TalentNode007,5_TalentNode030,5_TalentNode022,5_TalentNode017,5_TalentNode018,5_TalentNode003,5_TalentNode019,5_TalentNode020,5_TalentNode010,2_TalentNode015,2_TalentNode014,2_TalentNode013,2_TalentNode003,2_TalentNode012,2_TalentNode011,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode030,2_TalentNode007,2_TalentNode031,2_TalentNode004,2_TalentNode008,2_TalentNode034,2_TalentNode033,2_TalentNode010,2_TalentNode009,2_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 拙剛點滿(57)百里,戰胤飛
-    translated: I have just reached the limit of one hundred li in travel, Brother Cheng Yanfei.
+    text: "拙剛點滿(57)百里,戰胤飛"
+    translated: "I have just reached the limit of one hundred li in travel, Brother Cheng Yanfei."
 - lineNum: 131
-  raw: ta0093b	剛動點滿(57)馮觀戲	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode030,2_TalentNode007,2_TalentNode031,2_TalentNode004,2_TalentNode008,2_TalentNode034,2_TalentNode033,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode018,2_TalentNode019,2_TalentNode020,0_TalentNode005,0_TalentNode025,0_TalentNode004,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode018,0_TalentNode035,0_TalentNode012,0_TalentNode001,0_TalentNode000,0_TalentNode027
-  translated: 
+  raw: "ta0093b	剛動點滿(57)馮觀戲	0	2_TalentNode000,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode021,2_TalentNode022,2_TalentNode035,2_TalentNode025,2_TalentNode026,2_TalentNode023,2_TalentNode024,2_TalentNode005,2_TalentNode027,2_TalentNode028,2_TalentNode006,2_TalentNode029,2_TalentNode030,2_TalentNode007,2_TalentNode031,2_TalentNode004,2_TalentNode008,2_TalentNode034,2_TalentNode033,2_TalentNode016,2_TalentNode017,2_TalentNode002,2_TalentNode018,2_TalentNode019,2_TalentNode020,0_TalentNode005,0_TalentNode025,0_TalentNode004,0_TalentNode029,0_TalentNode003,0_TalentNode002,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode018,0_TalentNode035,0_TalentNode012,0_TalentNode001,0_TalentNode000,0_TalentNode027"
+  translated: ""
   splits:
   - split: 1
-    text: 剛動點滿(57)馮觀戲
-    translated: Just finished watching the full episode (57) of Feng Guan Xi.
+    text: "剛動點滿(57)馮觀戲"
+    translated: "Just finished watching the full episode (57) of Feng Guan Xi."
 - lineNum: 132
-  raw: ta0093c	動巧點滿(57)李惑相,山魈鬼王	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode018,0_TalentNode035,0_TalentNode012,0_TalentNode006,0_TalentNode007,0_TalentNode030,0_TalentNode008,0_TalentNode024,0_TalentNode009,4_TalentNode013,4_TalentNode012,4_TalentNode011,4_TalentNode006,4_TalentNode010,4_TalentNode009,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,4_TalentNode008,4_TalentNode034,4_TalentNode035,4_TalentNode031,4_TalentNode022,4_TalentNode000
-  translated: 
+  raw: "ta0093c	動巧點滿(57)李惑相,山魈鬼王	0	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode016,0_TalentNode017,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode018,0_TalentNode035,0_TalentNode012,0_TalentNode006,0_TalentNode007,0_TalentNode030,0_TalentNode008,0_TalentNode024,0_TalentNode009,4_TalentNode013,4_TalentNode012,4_TalentNode011,4_TalentNode006,4_TalentNode010,4_TalentNode009,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,4_TalentNode008,4_TalentNode034,4_TalentNode035,4_TalentNode031,4_TalentNode022,4_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 動巧點滿(57)李惑相,山魈鬼王
-    translated: Dong Qiao Jianman (57), Li Huixiang; Mountain Shui Demon King
+    text: "動巧點滿(57)李惑相,山魈鬼王"
+    translated: "Dong Qiao Jianman (57), Li Huixiang; Mountain Shui Demon King"
 - lineNum: 133
-  raw: ta0093d	巧柔點滿(57)楊天義	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,4_TalentNode008,4_TalentNode034,4_TalentNode035,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode016,4_TalentNode017,4_TalentNode018,3_TalentNode016,3_TalentNode015,3_TalentNode014,3_TalentNode005,3_TalentNode013,3_TalentNode012,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode031,3_TalentNode032,3_TalentNode007,3_TalentNode033,3_TalentNode034,3_TalentNode008,3_TalentNode035,3_TalentNode011,3_TalentNode010,3_TalentNode000
-  translated: 
+  raw: "ta0093d	巧柔點滿(57)楊天義	0	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode023,4_TalentNode019,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028,4_TalentNode007,4_TalentNode024,4_TalentNode026,4_TalentNode002,4_TalentNode032,4_TalentNode033,4_TalentNode008,4_TalentNode034,4_TalentNode035,4_TalentNode014,4_TalentNode015,4_TalentNode003,4_TalentNode016,4_TalentNode017,4_TalentNode018,3_TalentNode016,3_TalentNode015,3_TalentNode014,3_TalentNode005,3_TalentNode013,3_TalentNode012,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode031,3_TalentNode032,3_TalentNode007,3_TalentNode033,3_TalentNode034,3_TalentNode008,3_TalentNode035,3_TalentNode011,3_TalentNode010,3_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 巧柔點滿(57)楊天義
-    translated: Jiaoru points out Yang Tianyi (57).
+    text: "巧柔點滿(57)楊天義"
+    translated: "Jiaoru points out Yang Tianyi (57)."
 - lineNum: 134
-  raw: ta0093e	柔靜點滿(57)藍拂衣	0	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode031,3_TalentNode032,3_TalentNode007,3_TalentNode033,3_TalentNode034,3_TalentNode008,3_TalentNode035,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode019,3_TalentNode020,3_TalentNode021,1_TalentNode016,1_TalentNode015,1_TalentNode014,1_TalentNode002,1_TalentNode013,1_TalentNode012,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode030,1_TalentNode007,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode008,1_TalentNode035,1_TalentNode011,1_TalentNode009,1_TalentNode000
-  translated: 
+  raw: "ta0093e	柔靜點滿(57)藍拂衣	0	3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,3_TalentNode024,3_TalentNode028,3_TalentNode025,3_TalentNode026,3_TalentNode003,3_TalentNode027,3_TalentNode029,3_TalentNode030,3_TalentNode004,3_TalentNode031,3_TalentNode032,3_TalentNode007,3_TalentNode033,3_TalentNode034,3_TalentNode008,3_TalentNode035,3_TalentNode017,3_TalentNode018,3_TalentNode002,3_TalentNode019,3_TalentNode020,3_TalentNode021,1_TalentNode016,1_TalentNode015,1_TalentNode014,1_TalentNode002,1_TalentNode013,1_TalentNode012,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode030,1_TalentNode007,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode008,1_TalentNode035,1_TalentNode011,1_TalentNode009,1_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 柔靜點滿(57)藍拂衣
-    translated: Rou Jing Dian Man (57) Lan Fu Yi
+    text: "柔靜點滿(57)藍拂衣"
+    translated: "Rou Jing Dian Man (57) Lan Fu Yi"
 - lineNum: 135
-  raw: ta0093f	靜拙點滿(57)凌中岳	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode030,1_TalentNode007,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode008,1_TalentNode035,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode019,1_TalentNode020,1_TalentNode021,5_TalentNode009,5_TalentNode016,5_TalentNode015,5_TalentNode002,5_TalentNode014,5_TalentNode013,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode006,5_TalentNode029,5_TalentNode008,5_TalentNode033,5_TalentNode032,5_TalentNode007,5_TalentNode030,5_TalentNode022,5_TalentNode012,5_TalentNode011,5_TalentNode000
-  translated: 
+  raw: "ta0093f	靜拙點滿(57)凌中岳	0	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,1_TalentNode027,1_TalentNode026,1_TalentNode025,1_TalentNode006,1_TalentNode022,1_TalentNode029,1_TalentNode031,1_TalentNode001,1_TalentNode028,1_TalentNode030,1_TalentNode007,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode008,1_TalentNode035,1_TalentNode017,1_TalentNode018,1_TalentNode003,1_TalentNode019,1_TalentNode020,1_TalentNode021,5_TalentNode009,5_TalentNode016,5_TalentNode015,5_TalentNode002,5_TalentNode014,5_TalentNode013,5_TalentNode024,5_TalentNode023,5_TalentNode004,5_TalentNode028,5_TalentNode026,5_TalentNode034,5_TalentNode025,5_TalentNode005,5_TalentNode001,5_TalentNode027,5_TalentNode031,5_TalentNode021,5_TalentNode006,5_TalentNode029,5_TalentNode008,5_TalentNode033,5_TalentNode032,5_TalentNode007,5_TalentNode030,5_TalentNode022,5_TalentNode012,5_TalentNode011,5_TalentNode000"
+  translated: ""
   splits:
   - split: 1
-    text: 靜拙點滿(57)凌中岳
-    translated: Jing Zhuo (57), Lord Ling Zhong Yue
+    text: "靜拙點滿(57)凌中岳"
+    translated: "Jing Zhuo (57), Lord Ling Zhong Yue"
 - lineNum: 136
-  raw: ta0094	剛柔並濟(66)	0	2_TalentNode000,2_TalentNode001,2_TalentNode002,2_TalentNode003,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode023,2_TalentNode033,2_TalentNode034,2_TalentNode035,3_TalentNode000,3_TalentNode001,3_TalentNode002,3_TalentNode003,3_TalentNode004,3_TalentNode005,3_TalentNode006,3_TalentNode007,3_TalentNode008,3_TalentNode010,3_TalentNode011,3_TalentNode012,3_TalentNode013,3_TalentNode014,3_TalentNode015,3_TalentNode017,3_TalentNode018,3_TalentNode019,3_TalentNode020,3_TalentNode022,3_TalentNode023,3_TalentNode024,3_TalentNode025,3_TalentNode026,3_TalentNode027,3_TalentNode028,3_TalentNode029,3_TalentNode030,3_TalentNode031,3_TalentNode032,3_TalentNode033,3_TalentNode034,3_TalentNode035
-  translated: 
+  raw: "ta0094	剛柔並濟(66)	0	2_TalentNode000,2_TalentNode001,2_TalentNode002,2_TalentNode003,2_TalentNode004,2_TalentNode005,2_TalentNode006,2_TalentNode007,2_TalentNode008,2_TalentNode009,2_TalentNode010,2_TalentNode011,2_TalentNode012,2_TalentNode013,2_TalentNode014,2_TalentNode016,2_TalentNode017,2_TalentNode018,2_TalentNode019,2_TalentNode021,2_TalentNode022,2_TalentNode024,2_TalentNode025,2_TalentNode026,2_TalentNode027,2_TalentNode028,2_TalentNode029,2_TalentNode030,2_TalentNode031,2_TalentNode023,2_TalentNode033,2_TalentNode034,2_TalentNode035,3_TalentNode000,3_TalentNode001,3_TalentNode002,3_TalentNode003,3_TalentNode004,3_TalentNode005,3_TalentNode006,3_TalentNode007,3_TalentNode008,3_TalentNode010,3_TalentNode011,3_TalentNode012,3_TalentNode013,3_TalentNode014,3_TalentNode015,3_TalentNode017,3_TalentNode018,3_TalentNode019,3_TalentNode020,3_TalentNode022,3_TalentNode023,3_TalentNode024,3_TalentNode025,3_TalentNode026,3_TalentNode027,3_TalentNode028,3_TalentNode029,3_TalentNode030,3_TalentNode031,3_TalentNode032,3_TalentNode033,3_TalentNode034,3_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 剛柔並濟(66)
-    translated: Gang Rou Bing Ji (66)
+    text: "剛柔並濟(66)"
+    translated: "Gang Rou Bing Ji (66)"
 - lineNum: 137
-  raw: ta0095	巧拙相參(66)	0	4_TalentNode000,4_TalentNode001,4_TalentNode002,4_TalentNode003,4_TalentNode004,4_TalentNode005,4_TalentNode006,4_TalentNode007,4_TalentNode008,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020,4_TalentNode021,4_TalentNode022,4_TalentNode024,4_TalentNode025,4_TalentNode026,4_TalentNode027,4_TalentNode028,4_TalentNode029,4_TalentNode023,4_TalentNode031,4_TalentNode032,4_TalentNode033,4_TalentNode034,4_TalentNode035,5_TalentNode000,5_TalentNode001,5_TalentNode002,5_TalentNode003,5_TalentNode004,5_TalentNode005,5_TalentNode006,5_TalentNode007,5_TalentNode008,5_TalentNode011,5_TalentNode012,5_TalentNode013,5_TalentNode014,5_TalentNode015,5_TalentNode016,5_TalentNode017,5_TalentNode018,5_TalentNode019,5_TalentNode020,5_TalentNode021,5_TalentNode022,5_TalentNode024,5_TalentNode025,5_TalentNode026,5_TalentNode027,5_TalentNode028,5_TalentNode029,5_TalentNode030,5_TalentNode031,5_TalentNode032,5_TalentNode033,5_TalentNode034,5_TalentNode023
-  translated: 
+  raw: "ta0095	巧拙相參(66)	0	4_TalentNode000,4_TalentNode001,4_TalentNode002,4_TalentNode003,4_TalentNode004,4_TalentNode005,4_TalentNode006,4_TalentNode007,4_TalentNode008,4_TalentNode009,4_TalentNode010,4_TalentNode011,4_TalentNode012,4_TalentNode014,4_TalentNode015,4_TalentNode016,4_TalentNode017,4_TalentNode019,4_TalentNode020,4_TalentNode021,4_TalentNode022,4_TalentNode024,4_TalentNode025,4_TalentNode026,4_TalentNode027,4_TalentNode028,4_TalentNode029,4_TalentNode023,4_TalentNode031,4_TalentNode032,4_TalentNode033,4_TalentNode034,4_TalentNode035,5_TalentNode000,5_TalentNode001,5_TalentNode002,5_TalentNode003,5_TalentNode004,5_TalentNode005,5_TalentNode006,5_TalentNode007,5_TalentNode008,5_TalentNode011,5_TalentNode012,5_TalentNode013,5_TalentNode014,5_TalentNode015,5_TalentNode016,5_TalentNode017,5_TalentNode018,5_TalentNode019,5_TalentNode020,5_TalentNode021,5_TalentNode022,5_TalentNode024,5_TalentNode025,5_TalentNode026,5_TalentNode027,5_TalentNode028,5_TalentNode029,5_TalentNode030,5_TalentNode031,5_TalentNode032,5_TalentNode033,5_TalentNode034,5_TalentNode023"
+  translated: ""
   splits:
   - split: 1
-    text: 巧拙相參(66)
-    translated: Craftsmanship intermingled with artistry (66).
+    text: "巧拙相參(66)"
+    translated: "Craftsmanship intermingled with artistry (66)."
 - lineNum: 138
-  raw: ta0096	動靜皆宜(66)	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode027,0_TalentNode028,0_TalentNode029,0_TalentNode030,0_TalentNode031,0_TalentNode032,0_TalentNode033,0_TalentNode034,0_TalentNode035,1_TalentNode000,1_TalentNode001,1_TalentNode002,1_TalentNode003,1_TalentNode004,1_TalentNode005,1_TalentNode006,1_TalentNode007,1_TalentNode008,1_TalentNode009,1_TalentNode023,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode022,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode035
-  translated: 
+  raw: "ta0096	動靜皆宜(66)	0	0_TalentNode000,0_TalentNode001,0_TalentNode002,0_TalentNode003,0_TalentNode004,0_TalentNode006,0_TalentNode007,0_TalentNode008,0_TalentNode010,0_TalentNode011,0_TalentNode012,0_TalentNode013,0_TalentNode014,0_TalentNode015,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode019,0_TalentNode020,0_TalentNode021,0_TalentNode022,0_TalentNode024,0_TalentNode025,0_TalentNode026,0_TalentNode027,0_TalentNode028,0_TalentNode029,0_TalentNode030,0_TalentNode031,0_TalentNode032,0_TalentNode033,0_TalentNode034,0_TalentNode035,1_TalentNode000,1_TalentNode001,1_TalentNode002,1_TalentNode003,1_TalentNode004,1_TalentNode005,1_TalentNode006,1_TalentNode007,1_TalentNode008,1_TalentNode009,1_TalentNode023,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode022,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 動靜皆宜(66)
-    translated: Be moderate in all things (66).
+    text: "動靜皆宜(66)"
+    translated: "Be moderate in all things (66)."
 - lineNum: 139
-  raw: ta0097	武學障(靜)（31）	0	1_TalentNode000,1_TalentNode001,1_TalentNode002,1_TalentNode003,1_TalentNode005,1_TalentNode006,1_TalentNode007,1_TalentNode008,1_TalentNode009,1_TalentNode023,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode035
-  translated: 
+  raw: "ta0097	武學障(靜)（31）	0	1_TalentNode000,1_TalentNode001,1_TalentNode002,1_TalentNode003,1_TalentNode005,1_TalentNode006,1_TalentNode007,1_TalentNode008,1_TalentNode009,1_TalentNode023,1_TalentNode011,1_TalentNode012,1_TalentNode013,1_TalentNode014,1_TalentNode015,1_TalentNode017,1_TalentNode018,1_TalentNode019,1_TalentNode020,1_TalentNode024,1_TalentNode025,1_TalentNode026,1_TalentNode027,1_TalentNode028,1_TalentNode029,1_TalentNode030,1_TalentNode031,1_TalentNode032,1_TalentNode033,1_TalentNode034,1_TalentNode035"
+  translated: ""
   splits:
   - split: 1
-    text: 武學障(靜)（31）
-    translated: Wuxue Zhang (Jing) (31)
+    text: "武學障(靜)（31）"
+    translated: "Wuxue Zhang (Jing) (31)"

@@ -1,2970 +1,2970 @@
 - lineNum: 0
-  raw: eq10101	粗布拳套	eq10101	麻布制的拳套，在进行粗重工作时能够保护手掌。	101	200	100	TRUE	0	5		2	16	16	(Fight,15)	15		0	(it70409,1)
-  translated: 
+  raw: "eq10101	粗布拳套	eq10101	麻布制的拳套，在进行粗重工作时能够保护手掌。	101	200	100	TRUE	0	5		2	16	16	(Fight,15)	15		0	(it70409,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 粗布拳套
-    translated: 
+    text: "粗布拳套"
+    translated: ""
   - split: 3
-    text: 麻布制的拳套，在进行粗重工作时能够保护手掌。
-    translated: 
+    text: "麻布制的拳套，在进行粗重工作时能够保护手掌。"
+    translated: ""
 - lineNum: 1
-  raw: eq10102	拳套	eq10102	以皮革所缝制之手套，套住手掌与指关节，可露出半截手指，活动自如。	101	400	200	TRUE	0	10		2	30	30	(Fight,35)	15		0	(it70409,1)
-  translated: 
+  raw: "eq10102	拳套	eq10102	以皮革所缝制之手套，套住手掌与指关节，可露出半截手指，活动自如。	101	400	200	TRUE	0	10		2	30	30	(Fight,35)	15		0	(it70409,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 拳套
-    translated: 
+    text: "拳套"
+    translated: ""
   - split: 3
-    text: 以皮革所缝制之手套，套住手掌与指关节，可露出半截手指，活动自如。
-    translated: 
+    text: "以皮革所缝制之手套，套住手掌与指关节，可露出半截手指，活动自如。"
+    translated: ""
 - lineNum: 2
-  raw: eq10103	猛虎护手	eq10103	外型雕饰猛虎的护手，沉重但防护力有限。	101	3600	1800	TRUE	1	40		3	60	60	(Fight,90)	10		0	(it70409,1)(it70103,1)
-  translated: 
+  raw: "eq10103	猛虎护手	eq10103	外型雕饰猛虎的护手，沉重但防护力有限。	101	3600	1800	TRUE	1	40		3	60	60	(Fight,90)	10		0	(it70409,1)(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 猛虎护手
-    translated: 
+    text: "猛虎护手"
+    translated: ""
   - split: 3
-    text: 外型雕饰猛虎的护手，沉重但防护力有限。
-    translated: 
+    text: "外型雕饰猛虎的护手，沉重但防护力有限。"
+    translated: ""
 - lineNum: 3
-  raw: eq10104	爪	eq10104	可套在手指上的利爪，以金属制成。	101	2400	1200	TRUE	1	30		5	65	65	(Fight,70)	10		0	(it70102,2)
-  translated: 
+  raw: "eq10104	爪	eq10104	可套在手指上的利爪，以金属制成。	101	2400	1200	TRUE	1	30		5	65	65	(Fight,70)	10		0	(it70102,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 爪
-    translated: 
+    text: "爪"
+    translated: ""
   - split: 3
-    text: 可套在手指上的利爪，以金属制成。
-    translated: 
+    text: "可套在手指上的利爪，以金属制成。"
+    translated: ""
 - lineNum: 4
-  raw: eq10105	乌鬼爪	eq10105	来自异域的神秘兵器。	101	5000	2500	TRUE	2	60		5	75	75	(Fight,150)	6		0	(it70103,1)(it70113,1)
-  translated: 
+  raw: "eq10105	乌鬼爪	eq10105	来自异域的神秘兵器。	101	5000	2500	TRUE	2	60		5	75	75	(Fight,150)	6		0	(it70103,1)(it70113,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 乌鬼爪
-    translated: 
+    text: "乌鬼爪"
+    translated: ""
   - split: 3
-    text: 来自异域的神秘兵器。
-    translated: 
+    text: "来自异域的神秘兵器。"
+    translated: ""
 - lineNum: 5
-  raw: eq10106	天罡拳套	eq10106	以犀牛、鳄鱼等数种野兽的皮革特制而成的拳套，坚韧无比。	101	100	50	TRUE	1	50		0	100	100	(Fight,20)	8		0	
-  translated: 
+  raw: "eq10106	天罡拳套	eq10106	以犀牛、鳄鱼等数种野兽的皮革特制而成的拳套，坚韧无比。	101	100	50	TRUE	1	50		0	100	100	(Fight,20)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 天罡拳套
-    translated: 
+    text: "天罡拳套"
+    translated: ""
   - split: 3
-    text: 以犀牛、鳄鱼等数种野兽的皮革特制而成的拳套，坚韧无比。
-    translated: 
+    text: "以犀牛、鳄鱼等数种野兽的皮革特制而成的拳套，坚韧无比。"
+    translated: ""
 - lineNum: 6
-  raw: eq10107	离魂金线缠	eq10107	武林人士专用的特制拳套，虽然名为金线，实则是多种金属交错编织而成，防护性极高。	101	100	50	TRUE	2	50		0	100	100	(Fight,20)	5		0	
-  translated: 
+  raw: "eq10107	离魂金线缠	eq10107	武林人士专用的特制拳套，虽然名为金线，实则是多种金属交错编织而成，防护性极高。	101	100	50	TRUE	2	50		0	100	100	(Fight,20)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 离魂金线缠
-    translated: 
+    text: "离魂金线缠"
+    translated: ""
   - split: 3
-    text: 武林人士专用的特制拳套，虽然名为金线，实则是多种金属交错编织而成，防护性极高。
-    translated: 
+    text: "武林人士专用的特制拳套，虽然名为金线，实则是多种金属交错编织而成，防护性极高。"
+    translated: ""
 - lineNum: 7
-  raw: eq10108	金丝手套	eq10108	以金蚕丝织成的手套，薄如蝉翼，宝刀利剑不能破，防护性极佳。	101	7000	3500	TRUE	5	99		2	60	60	(Fight,110)	5		weapon0108	(it70504,1)
-  translated: 
+  raw: "eq10108	金丝手套	eq10108	以金蚕丝织成的手套，薄如蝉翼，宝刀利剑不能破，防护性极佳。	101	7000	3500	TRUE	5	99		2	60	60	(Fight,110)	5		weapon0108	(it70504,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 金丝手套
-    translated: 
+    text: "金丝手套"
+    translated: ""
   - split: 3
-    text: 以金蚕丝织成的手套，薄如蝉翼，宝刀利剑不能破，防护性极佳。
-    translated: 
+    text: "以金蚕丝织成的手套，薄如蝉翼，宝刀利剑不能破，防护性极佳。"
+    translated: ""
 - lineNum: 8
-  raw: eq10109	乌蚕丝手套	eq10109	以乌蚕丝混合特殊合金编制而成，柔韧而坚实，寻常刀剑皆伤它不得。	101	14000	7000	TRUE	3	90		2	80	80	(Fight,199)	5		0	(it70505,1)(it70415,1)
-  translated: 
+  raw: "eq10109	乌蚕丝手套	eq10109	以乌蚕丝混合特殊合金编制而成，柔韧而坚实，寻常刀剑皆伤它不得。	101	14000	7000	TRUE	3	90		2	80	80	(Fight,199)	5		0	(it70505,1)(it70415,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 乌蚕丝手套
-    translated: 
+    text: "乌蚕丝手套"
+    translated: ""
   - split: 3
-    text: 以乌蚕丝混合特殊合金编制而成，柔韧而坚实，寻常刀剑皆伤它不得。
-    translated: 
+    text: "以乌蚕丝混合特殊合金编制而成，柔韧而坚实，寻常刀剑皆伤它不得。"
+    translated: ""
 - lineNum: 9
-  raw: eq10110	百烈护手	eq10103	绝世护手，所向披靡。	101	20000	10000	TRUE	5	99		25	120	120	(Fight,355)	3		0	(it70109,2)
-  translated: 
+  raw: "eq10110	百烈护手	eq10103	绝世护手，所向披靡。	101	20000	10000	TRUE	5	99		25	120	120	(Fight,355)	3		0	(it70109,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 百烈护手
-    translated: 
+    text: "百烈护手"
+    translated: ""
   - split: 3
-    text: 绝世护手，所向披靡。
-    translated: 
+    text: "绝世护手，所向披靡。"
+    translated: ""
 - lineNum: 10
-  raw: eq10111	野球拳	eq10111	皇甫登云多年使用野球拳，竟将一双肉掌生生练成了神兵。真·野球拳的无上内劲已与他千锤百炼的肉体合而为一，无坚不摧。	101	0	0	TRUE	3	99		0	100	100	(Fight,500)	5		0	(it70109,2)
-  translated: 
+  raw: "eq10111	野球拳	eq10111	皇甫登云多年使用野球拳，竟将一双肉掌生生练成了神兵。真·野球拳的无上内劲已与他千锤百炼的肉体合而为一，无坚不摧。	101	0	0	TRUE	3	99		0	100	100	(Fight,500)	5		0	(it70109,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 野球拳
-    translated: 
+    text: "野球拳"
+    translated: ""
   - split: 3
-    text: 皇甫登云多年使用野球拳，竟将一双肉掌生生练成了神兵。真·野球拳的无上内劲已与他千锤百炼的肉体合而为一，无坚不摧。
-    translated: 
+    text: "皇甫登云多年使用野球拳，竟将一双肉掌生生练成了神兵。真·野球拳的无上内劲已与他千锤百炼的肉体合而为一，无坚不摧。"
+    translated: ""
 - lineNum: 11
-  raw: eq10112	夜雪	eq10112	百损以冰蚕丝细密编织而成的手套。薄如蝉翼、轻似鸿羽，戴在手上仿若无物，敌人唯有在双掌加身时才能感受到其上索命的寒气。	101	7000	3500	TRUE	5	70		2	50	50	(Fight,70)	5		frozen03	(it70508,1)
-  translated: 
+  raw: "eq10112	夜雪	eq10112	百损以冰蚕丝细密编织而成的手套。薄如蝉翼、轻似鸿羽，戴在手上仿若无物，敌人唯有在双掌加身时才能感受到其上索命的寒气。	101	7000	3500	TRUE	5	70		2	50	50	(Fight,70)	5		frozen03	(it70508,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 夜雪
-    translated: 
+    text: "夜雪"
+    translated: ""
   - split: 3
-    text: 百损以冰蚕丝细密编织而成的手套。薄如蝉翼、轻似鸿羽，戴在手上仿若无物，敌人唯有在双掌加身时才能感受到其上索命的寒气。
-    translated: 
+    text: "百损以冰蚕丝细密编织而成的手套。薄如蝉翼、轻似鸿羽，戴在手上仿若无物，敌人唯有在双掌加身时才能感受到其上索命的寒气。"
+    translated: ""
 - lineNum: 12
-  raw: eq10113	天残鬼爪	eq10113	青冥幽幽，天残地缺，阴司地曹，恶鬼狰狞。此为司徒荆所持有之专属装备，畸形扭曲的护手如恶鬼青筋，指端针尖锐利无比，稍加挥动都能让人皮开肉绽。	101	7000	3500	TRUE	5	70		6	35	35	(Fight,93)	5		wounded05,weapon0113	(it70504,1)
-  translated: 
+  raw: "eq10113	天残鬼爪	eq10113	青冥幽幽，天残地缺，阴司地曹，恶鬼狰狞。此为司徒荆所持有之专属装备，畸形扭曲的护手如恶鬼青筋，指端针尖锐利无比，稍加挥动都能让人皮开肉绽。	101	7000	3500	TRUE	5	70		6	35	35	(Fight,93)	5		wounded05,weapon0113	(it70504,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 天残鬼爪
-    translated: 
+    text: "天残鬼爪"
+    translated: ""
   - split: 3
-    text: 青冥幽幽，天残地缺，阴司地曹，恶鬼狰狞。此为司徒荆所持有之专属装备，畸形扭曲的护手如恶鬼青筋，指端针尖锐利无比，稍加挥动都能让人皮开肉绽。
-    translated: 
+    text: "青冥幽幽，天残地缺，阴司地曹，恶鬼狰狞。此为司徒荆所持有之专属装备，畸形扭曲的护手如恶鬼青筋，指端针尖锐利无比，稍加挥动都能让人皮开肉绽。"
+    translated: ""
 - lineNum: 13
-  raw: eq10114	神农	eq10114	佳人初至草棚，欲为病人略尽心意，无惧纤纤玉指屡遭药草棘刺所伤，不屈不挠。陈之济无奈之下为其特制一双蚕丝手套，贴合轻软却坚韧无比，使其能专心理药，不致受伤。	101	7000	3500	TRUE	5	70		2	50	50	(Fight,45)	5		weapon0114	(it70505,1)
-  translated: 
+  raw: "eq10114	神农	eq10114	佳人初至草棚，欲为病人略尽心意，无惧纤纤玉指屡遭药草棘刺所伤，不屈不挠。陈之济无奈之下为其特制一双蚕丝手套，贴合轻软却坚韧无比，使其能专心理药，不致受伤。	101	7000	3500	TRUE	5	70		2	50	50	(Fight,45)	5		weapon0114	(it70505,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 神农
-    translated: 
+    text: "神农"
+    translated: ""
   - split: 3
-    text: 佳人初至草棚，欲为病人略尽心意，无惧纤纤玉指屡遭药草棘刺所伤，不屈不挠。陈之济无奈之下为其特制一双蚕丝手套，贴合轻软却坚韧无比，使其能专心理药，不致受伤。
-    translated: 
+    text: "佳人初至草棚，欲为病人略尽心意，无惧纤纤玉指屡遭药草棘刺所伤，不屈不挠。陈之济无奈之下为其特制一双蚕丝手套，贴合轻软却坚韧无比，使其能专心理药，不致受伤。"
+    translated: ""
 - lineNum: 14
-  raw: eq10115	虿鬼	eq10115	传说虿鬼或蝎或蛛，乃毒虫所化之恶鬼，此护手以蚕丝制成，加入石鸿图苦心搜集的毒虫炼制而成，挥舞之时嗡嗡作声，如万千毒虫迎风飞舞，诡异之至。	101	7000	3500	TRUE	5	70		9	65	65	(Fight,80)	5		poisoned03	(it70508,1)
-  translated: 
+  raw: "eq10115	虿鬼	eq10115	传说虿鬼或蝎或蛛，乃毒虫所化之恶鬼，此护手以蚕丝制成，加入石鸿图苦心搜集的毒虫炼制而成，挥舞之时嗡嗡作声，如万千毒虫迎风飞舞，诡异之至。	101	7000	3500	TRUE	5	70		9	65	65	(Fight,80)	5		poisoned03	(it70508,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 虿鬼
-    translated: 
+    text: "虿鬼"
+    translated: ""
   - split: 3
-    text: 传说虿鬼或蝎或蛛，乃毒虫所化之恶鬼，此护手以蚕丝制成，加入石鸿图苦心搜集的毒虫炼制而成，挥舞之时嗡嗡作声，如万千毒虫迎风飞舞，诡异之至。
-    translated: 
+    text: "传说虿鬼或蝎或蛛，乃毒虫所化之恶鬼，此护手以蚕丝制成，加入石鸿图苦心搜集的毒虫炼制而成，挥舞之时嗡嗡作声，如万千毒虫迎风飞舞，诡异之至。"
+    translated: ""
 - lineNum: 15
-  raw: eq10301	白铁清泉剑	eq10301	一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。	103	2200	1100	TRUE	1	20	ac3a0048	13	45	45	(Sword,65)(TwoSword,65)(BladeSword,65)	10		0	(it70103,1)(it70102,1)
-  translated: 
+  raw: "eq10301	白铁清泉剑	eq10301	一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。	103	2200	1100	TRUE	1	20	ac3a0048	13	45	45	(Sword,65)(TwoSword,65)(BladeSword,65)	10		0	(it70103,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 白铁清泉剑
-    translated: 
+    text: "白铁清泉剑"
+    translated: ""
   - split: 3
-    text: 一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。
-    translated: 
+    text: "一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。"
+    translated: ""
 - lineNum: 16
-  raw: eq10302	生锈铁剑	eq10302	遭人弃置的寻常铁剑。从绣迹上看来，铸造所用也非精铁，只能作为一时应急之选。	103	200	100	TRUE	0	2	ac3a0051	13	20	20	(Sword,9)(TwoSword,9)(BladeSword,9)	15		0	(it70102,1)
-  translated: 
+  raw: "eq10302	生锈铁剑	eq10302	遭人弃置的寻常铁剑。从绣迹上看来，铸造所用也非精铁，只能作为一时应急之选。	103	200	100	TRUE	0	2	ac3a0051	13	20	20	(Sword,9)(TwoSword,9)(BladeSword,9)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 生锈铁剑
-    translated: 
+    text: "生锈铁剑"
+    translated: ""
   - split: 3
-    text: 遭人弃置的寻常铁剑。从绣迹上看来，铸造所用也非精铁，只能作为一时应急之选。
-    translated: 
+    text: "遭人弃置的寻常铁剑。从绣迹上看来，铸造所用也非精铁，只能作为一时应急之选。"
+    translated: ""
 - lineNum: 17
-  raw: eq10303	长剑	eq10303	中原流行的长剑，上手容易，因此成为武林中人常用的兵器。	103	600	300	TRUE	0	6	ac3a0022	11	30	30	(Sword,32)(TwoSword,32)(BladeSword,32)	15		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10303	长剑	eq10303	中原流行的长剑，上手容易，因此成为武林中人常用的兵器。	103	600	300	TRUE	0	6	ac3a0022	11	30	30	(Sword,32)(TwoSword,32)(BladeSword,32)	15		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 长剑
-    translated: 
+    text: "长剑"
+    translated: ""
   - split: 3
-    text: 中原流行的长剑，上手容易，因此成为武林中人常用的兵器。
-    translated: 
+    text: "中原流行的长剑，上手容易，因此成为武林中人常用的兵器。"
+    translated: ""
 - lineNum: 18
-  raw: eq10304	青锋剑	eq10304	锐利的宝剑，剑身寒光闪烁，锋芒毕露。	103	1600	800	TRUE	1	16	ac3a0024	12	40	40	(Sword,60)(TwoSword,60)(BladeSword,60)	10		0	(it70101,1)(it70104,1)
-  translated: 
+  raw: "eq10304	青锋剑	eq10304	锐利的宝剑，剑身寒光闪烁，锋芒毕露。	103	1600	800	TRUE	1	16	ac3a0024	12	40	40	(Sword,60)(TwoSword,60)(BladeSword,60)	10		0	(it70101,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 青锋剑
-    translated: 
+    text: "青锋剑"
+    translated: ""
   - split: 3
-    text: 锐利的宝剑，剑身寒光闪烁，锋芒毕露。
-    translated: 
+    text: "锐利的宝剑，剑身寒光闪烁，锋芒毕露。"
+    translated: ""
 - lineNum: 19
-  raw: eq10305	重剑	eq10305	剑身厚实宽大的重剑，虽然破坏力极强，但常人难以挥动。	103	4500	2250	TRUE	1	40	ac3a0064	35	100	100	(Sword,100)(TwoSword,100)(BladeSword,100)	10		heavysword01	(it70102,3)
-  translated: 
+  raw: "eq10305	重剑	eq10305	剑身厚实宽大的重剑，虽然破坏力极强，但常人难以挥动。	103	4500	2250	TRUE	1	40	ac3a0064	35	100	100	(Sword,100)(TwoSword,100)(BladeSword,100)	10		heavysword01	(it70102,3)"
+  translated: ""
   splits:
   - split: 1
-    text: 重剑
-    translated: 
+    text: "重剑"
+    translated: ""
   - split: 3
-    text: 剑身厚实宽大的重剑，虽然破坏力极强，但常人难以挥动。
-    translated: 
+    text: "剑身厚实宽大的重剑，虽然破坏力极强，但常人难以挥动。"
+    translated: ""
 - lineNum: 20
-  raw: eq10307	白虹剑	eq10310	剑身修长，刃若寒霜，通体成雪白色，不单曼妙华美，亦是吹毛断发的名剑。	103	100	50	TRUE	1	50	ac3a0040	0	100	100	(Sword,40)(TwoSword,40)(BladeSword,40)	8		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10307	白虹剑	eq10310	剑身修长，刃若寒霜，通体成雪白色，不单曼妙华美，亦是吹毛断发的名剑。	103	100	50	TRUE	1	50	ac3a0040	0	100	100	(Sword,40)(TwoSword,40)(BladeSword,40)	8		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 白虹剑
-    translated: 
+    text: "白虹剑"
+    translated: ""
   - split: 3
-    text: 剑身修长，刃若寒霜，通体成雪白色，不单曼妙华美，亦是吹毛断发的名剑。
-    translated: 
+    text: "剑身修长，刃若寒霜，通体成雪白色，不单曼妙华美，亦是吹毛断发的名剑。"
+    translated: ""
 - lineNum: 21
-  raw: eq10308	明水剑	eq10308	古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雌剑剑刃稍短，上铸「明水」二字。	103	15000	7500	TRUE	3	99	ac3a0034	49	90	90	(Sword,220)(TwoSword,220)(BladeSword,220)	5		0	(it801121,1)(it70111,1)(it70104,1)
-  translated: 
+  raw: "eq10308	明水剑	eq10308	古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雌剑剑刃稍短，上铸「明水」二字。	103	15000	7500	TRUE	3	99	ac3a0034	49	90	90	(Sword,220)(TwoSword,220)(BladeSword,220)	5		0	(it801121,1)(it70111,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 明水剑
-    translated: 
+    text: "明水剑"
+    translated: ""
   - split: 3
-    text: 古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雌剑剑刃稍短，上铸「明水」二字。
-    translated: 
+    text: "古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雌剑剑刃稍短，上铸「明水」二字。"
+    translated: ""
 - lineNum: 22
-  raw: eq10309	息壤刀	temp	古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。	103	100	50	TRUE	2	50	ac3a0038	0	100	100	(Blade,20)	5		0	(it30321,1)(it70108,1)(it70105,1)
-  translated: 
+  raw: "eq10309	息壤刀	temp	古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。	103	100	50	TRUE	2	50	ac3a0038	0	100	100	(Blade,20)	5		0	(it30321,1)(it70108,1)(it70105,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 息壤刀
-    translated: 
+    text: "息壤刀"
+    translated: ""
   - split: 3
-    text: 古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。
-    translated: 
+    text: "古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。"
+    translated: ""
 - lineNum: 23
-  raw: eq10310	玉桂金香	eq10310	太华门长老为颛孙凝所打造之专属配剑，轻盈锋利，金黄的剑柄衬着莹白剑身，挥动之时有淡淡华光流泻，如月光映照，美不可言。	103	7000	3500	TRUE	5	99	ac3a0040	11	65	65	(Sword,60)(TwoSword,60)(BladeSword,60)	5		0	(it70110,1)(it70104,1)
-  translated: 
+  raw: "eq10310	玉桂金香	eq10310	太华门长老为颛孙凝所打造之专属配剑，轻盈锋利，金黄的剑柄衬着莹白剑身，挥动之时有淡淡华光流泻，如月光映照，美不可言。	103	7000	3500	TRUE	5	99	ac3a0040	11	65	65	(Sword,60)(TwoSword,60)(BladeSword,60)	5		0	(it70110,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 玉桂金香
-    translated: 
+    text: "玉桂金香"
+    translated: ""
   - split: 3
-    text: 太华门长老为颛孙凝所打造之专属配剑，轻盈锋利，金黄的剑柄衬着莹白剑身，挥动之时有淡淡华光流泻，如月光映照，美不可言。
-    translated: 
+    text: "太华门长老为颛孙凝所打造之专属配剑，轻盈锋利，金黄的剑柄衬着莹白剑身，挥动之时有淡淡华光流泻，如月光映照，美不可言。"
+    translated: ""
 - lineNum: 24
-  raw: eq10311	长宁剑	temp	柳叶剑庄庄主夫人解长宁之佩剑，为庄主文淬之早年为表情意，上门向解家求亲，以天铁铸成。此剑剑形与柳叶剑庄善造的柳叶短剑回异，近似中原剑式，剑身长窄且较为轻盈，适合女子运使。	103	100	50	TRUE	2	50		7	100	100	(Sword,20)	5		0	
-  translated: 
+  raw: "eq10311	长宁剑	temp	柳叶剑庄庄主夫人解长宁之佩剑，为庄主文淬之早年为表情意，上门向解家求亲，以天铁铸成。此剑剑形与柳叶剑庄善造的柳叶短剑回异，近似中原剑式，剑身长窄且较为轻盈，适合女子运使。	103	100	50	TRUE	2	50		7	100	100	(Sword,20)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 长宁剑
-    translated: 
+    text: "长宁剑"
+    translated: ""
   - split: 3
-    text: 柳叶剑庄庄主夫人解长宁之佩剑，为庄主文淬之早年为表情意，上门向解家求亲，以天铁铸成。此剑剑形与柳叶剑庄善造的柳叶短剑回异，近似中原剑式，剑身长窄且较为轻盈，适合女子运使。
-    translated: 
+    text: "柳叶剑庄庄主夫人解长宁之佩剑，为庄主文淬之早年为表情意，上门向解家求亲，以天铁铸成。此剑剑形与柳叶剑庄善造的柳叶短剑回异，近似中原剑式，剑身长窄且较为轻盈，适合女子运使。"
+    translated: ""
 - lineNum: 25
-  raw: eq10312	龙脊剑	temp	来历不明的奇剑，状如脊骨，难以御使。有博学者认为，此剑由上古神兽的脊骨淬炼而成。	103	100	3	TRUE	2	50		7	100	100	(Sword,20)	5		0	
-  translated: 
+  raw: "eq10312	龙脊剑	temp	来历不明的奇剑，状如脊骨，难以御使。有博学者认为，此剑由上古神兽的脊骨淬炼而成。	103	100	3	TRUE	2	50		7	100	100	(Sword,20)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 龙脊剑
-    translated: 
+    text: "龙脊剑"
+    translated: ""
   - split: 3
-    text: 来历不明的奇剑，状如脊骨，难以御使。有博学者认为，此剑由上古神兽的脊骨淬炼而成。
-    translated: 
+    text: "来历不明的奇剑，状如脊骨，难以御使。有博学者认为，此剑由上古神兽的脊骨淬炼而成。"
+    translated: ""
 - lineNum: 26
-  raw: eq10313	青霜宝剑	eq10313	用雪山之巅所产寒铁所打造的长剑，剑刃上传来如霜似雪的极寒之气。	103	100	50	TRUE	2	50		7	100	100	(Sword,20)	5		0	
-  translated: 
+  raw: "eq10313	青霜宝剑	eq10313	用雪山之巅所产寒铁所打造的长剑，剑刃上传来如霜似雪的极寒之气。	103	100	50	TRUE	2	50		7	100	100	(Sword,20)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 青霜宝剑
-    translated: 
+    text: "青霜宝剑"
+    translated: ""
   - split: 3
-    text: 用雪山之巅所产寒铁所打造的长剑，剑刃上传来如霜似雪的极寒之气。
-    translated: 
+    text: "用雪山之巅所产寒铁所打造的长剑，剑刃上传来如霜似雪的极寒之气。"
+    translated: ""
 - lineNum: 27
-  raw: eq10314	君子剑	temp	凌中岳早年偶得的名剑，甚少动用。霜刃无尖，虽为利器而不显丝毫锋芒，恰如君子之德。以竹为鞘，竹有节，影射义士有节。	103	100	50	TRUE	2	50		7	100	100	(Sword,20)	5		0	
-  translated: 
+  raw: "eq10314	君子剑	temp	凌中岳早年偶得的名剑，甚少动用。霜刃无尖，虽为利器而不显丝毫锋芒，恰如君子之德。以竹为鞘，竹有节，影射义士有节。	103	100	50	TRUE	2	50		7	100	100	(Sword,20)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 君子剑
-    translated: 
+    text: "君子剑"
+    translated: ""
   - split: 3
-    text: 凌中岳早年偶得的名剑，甚少动用。霜刃无尖，虽为利器而不显丝毫锋芒，恰如君子之德。以竹为鞘，竹有节，影射义士有节。
-    translated: 
+    text: "凌中岳早年偶得的名剑，甚少动用。霜刃无尖，虽为利器而不显丝毫锋芒，恰如君子之德。以竹为鞘，竹有节，影射义士有节。"
+    translated: ""
 - lineNum: 28
-  raw: eq10315	墨玉飞雪	eq10315	以墨玉、寒铁混合多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉芙蓉同出一天下名匠之手。	103	6000	3000	TRUE	3	60	ac3a0005	26	90	90	(Sword,160)(TwoSword,160)(BladeSword,160)	3		weapon0315	(it70110,1)(it70103,1)(it70320,1)
-  translated: 
+  raw: "eq10315	墨玉飞雪	eq10315	以墨玉、寒铁混合多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉芙蓉同出一天下名匠之手。	103	6000	3000	TRUE	3	60	ac3a0005	26	90	90	(Sword,160)(TwoSword,160)(BladeSword,160)	3		weapon0315	(it70110,1)(it70103,1)(it70320,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 墨玉飞雪
-    translated: 
+    text: "墨玉飞雪"
+    translated: ""
   - split: 3
-    text: 以墨玉、寒铁混合多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉芙蓉同出一天下名匠之手。
-    translated: 
+    text: "以墨玉、寒铁混合多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉芙蓉同出一天下名匠之手。"
+    translated: ""
 - lineNum: 29
-  raw: eq10316	墨玉芙蓉	eq10316	以墨玉、珊瑚金混和多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉飞雪同出一天下名匠之手。	103	6000	3000	TRUE	3	60	ac3a0015	24	75	75	(Sword,155)(TwoSword,155)(BladeSword,155)	3		weapon0316	(it70107,1)(it70103,1)(it70320,1)
-  translated: 
+  raw: "eq10316	墨玉芙蓉	eq10316	以墨玉、珊瑚金混和多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉飞雪同出一天下名匠之手。	103	6000	3000	TRUE	3	60	ac3a0015	24	75	75	(Sword,155)(TwoSword,155)(BladeSword,155)	3		weapon0316	(it70107,1)(it70103,1)(it70320,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 墨玉芙蓉
-    translated: 
+    text: "墨玉芙蓉"
+    translated: ""
   - split: 3
-    text: 以墨玉、珊瑚金混和多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉飞雪同出一天下名匠之手。
-    translated: 
+    text: "以墨玉、珊瑚金混和多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉飞雪同出一天下名匠之手。"
+    translated: ""
 - lineNum: 30
-  raw: eq10317	古剑螭纹	eq10317	徐暇客游历天下，于机缘巧合下获得的古剑。相传此剑问世已上千年，徐暇客爱惜古物，从不曾用此剑与人交手。	103	7500	3750	TRUE	3	70	ac3a0013	32	90	90	(Sword,190)(TwoSword,190)(BladeSword,190)	3		0	(it70111,1)(it70104,1)
-  translated: 
+  raw: "eq10317	古剑螭纹	eq10317	徐暇客游历天下，于机缘巧合下获得的古剑。相传此剑问世已上千年，徐暇客爱惜古物，从不曾用此剑与人交手。	103	7500	3750	TRUE	3	70	ac3a0013	32	90	90	(Sword,190)(TwoSword,190)(BladeSword,190)	3		0	(it70111,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 古剑螭纹
-    translated: 
+    text: "古剑螭纹"
+    translated: ""
   - split: 3
-    text: 徐暇客游历天下，于机缘巧合下获得的古剑。相传此剑问世已上千年，徐暇客爱惜古物，从不曾用此剑与人交手。
-    translated: 
+    text: "徐暇客游历天下，于机缘巧合下获得的古剑。相传此剑问世已上千年，徐暇客爱惜古物，从不曾用此剑与人交手。"
+    translated: ""
 - lineNum: 31
-  raw: eq10318	真武剑	eq10318	张君宝的配剑，古意盎然，刃如秋水。张君宝倚之行走江湖，扫荡群邪。	103	7000	3500	TRUE	5	70	ac3a0058	13	70	70	(Sword,72)(TwoSword,72)(BladeSword,72)	5		weapon0318	(it70110,1)(it70113,1)
-  translated: 
+  raw: "eq10318	真武剑	eq10318	张君宝的配剑，古意盎然，刃如秋水。张君宝倚之行走江湖，扫荡群邪。	103	7000	3500	TRUE	5	70	ac3a0058	13	70	70	(Sword,72)(TwoSword,72)(BladeSword,72)	5		weapon0318	(it70110,1)(it70113,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 真武剑
-    translated: 
+    text: "真武剑"
+    translated: ""
   - split: 3
-    text: 张君宝的配剑，古意盎然，刃如秋水。张君宝倚之行走江湖，扫荡群邪。
-    translated: 
+    text: "张君宝的配剑，古意盎然，刃如秋水。张君宝倚之行走江湖，扫荡群邪。"
+    translated: ""
 - lineNum: 32
-  raw: eq10319	八德剑	eq10319	凌中岳的随身配剑，是柄流传千年的汉朝古剑，亦是神兵谱上有数的名剑。剑身八面分别有孝、悌、忠、信、礼、义、廉、耻的篆字。	103	15000	7500	TRUE	3	80	ac3a0059	45	90	90	(Sword,230)(TwoSword,230)(BladeSword,230)	3		0	(it70111,2)
-  translated: 
+  raw: "eq10319	八德剑	eq10319	凌中岳的随身配剑，是柄流传千年的汉朝古剑，亦是神兵谱上有数的名剑。剑身八面分别有孝、悌、忠、信、礼、义、廉、耻的篆字。	103	15000	7500	TRUE	3	80	ac3a0059	45	90	90	(Sword,230)(TwoSword,230)(BladeSword,230)	3		0	(it70111,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 八德剑
-    translated: 
+    text: "八德剑"
+    translated: ""
   - split: 3
-    text: 凌中岳的随身配剑，是柄流传千年的汉朝古剑，亦是神兵谱上有数的名剑。剑身八面分别有孝、悌、忠、信、礼、义、廉、耻的篆字。
-    translated: 
+    text: "凌中岳的随身配剑，是柄流传千年的汉朝古剑，亦是神兵谱上有数的名剑。剑身八面分别有孝、悌、忠、信、礼、义、廉、耻的篆字。"
+    translated: ""
 - lineNum: 33
-  raw: eq10320	青釭剑	eq10320	与倚天齐名之宝剑，赵云持此剑杀入敌营时，手起处衣甲平过、血如涌泉，可见其锐利。	103	20000	10000	TRUE	3	99	ac3a0084	49	100	100	(Sword,245)(TwoSword,245)(BladeSword,245)	3		wounded08	(it70110,1)(it70109,1)
-  translated: 
+  raw: "eq10320	青釭剑	eq10320	与倚天齐名之宝剑，赵云持此剑杀入敌营时，手起处衣甲平过、血如涌泉，可见其锐利。	103	20000	10000	TRUE	3	99	ac3a0084	49	100	100	(Sword,245)(TwoSword,245)(BladeSword,245)	3		wounded08	(it70110,1)(it70109,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 青釭剑
-    translated: 
+    text: "青釭剑"
+    translated: ""
   - split: 3
-    text: 与倚天齐名之宝剑，赵云持此剑杀入敌营时，手起处衣甲平过、血如涌泉，可见其锐利。
-    translated: 
+    text: "与倚天齐名之宝剑，赵云持此剑杀入敌营时，手起处衣甲平过、血如涌泉，可见其锐利。"
+    translated: ""
 - lineNum: 34
-  raw: eq10321	青城剑	eq10317	青城弟子的配剑，朴实无华，锋芒内敛。	103	4500	2250	TRUE	1	40	ac3a0033	11	60	60	(Sword,85)(TwoSword,85)(BladeSword,85)	10		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10321	青城剑	eq10317	青城弟子的配剑，朴实无华，锋芒内敛。	103	4500	2250	TRUE	1	40	ac3a0033	11	60	60	(Sword,85)(TwoSword,85)(BladeSword,85)	10		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 青城剑
-    translated: 
+    text: "青城剑"
+    translated: ""
   - split: 3
-    text: 青城弟子的配剑，朴实无华，锋芒内敛。
-    translated: 
+    text: "青城弟子的配剑，朴实无华，锋芒内敛。"
+    translated: ""
 - lineNum: 35
-  raw: eq10322	周公剑	eq10317	形式古朴，传闻为昔日一字慧剑门高手所持，不知缘何流落江湖。	103	6000	3000	TRUE	2	60	ac3a0020	28	99	99	(Sword,155)(TwoSword,155)(BladeSword,155)	5		0	(it70110,1)(it70103,1)
-  translated: 
+  raw: "eq10322	周公剑	eq10317	形式古朴，传闻为昔日一字慧剑门高手所持，不知缘何流落江湖。	103	6000	3000	TRUE	2	60	ac3a0020	28	99	99	(Sword,155)(TwoSword,155)(BladeSword,155)	5		0	(it70110,1)(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 周公剑
-    translated: 
+    text: "周公剑"
+    translated: ""
   - split: 3
-    text: 形式古朴，传闻为昔日一字慧剑门高手所持，不知缘何流落江湖。
-    translated: 
+    text: "形式古朴，传闻为昔日一字慧剑门高手所持，不知缘何流落江湖。"
+    translated: ""
 - lineNum: 36
-  raw: eq10323	苍山之麓	eq10323	段家祖传的宝剑，气韵凝重，形式端严，隐约透露出一股王者气象。	103	7000	3500	TRUE	5	70	ac3a0045	14	70	70	(Sword,65)(TwoSword,65)(BladeSword,65)	5		weapon0323	(it70110,1)(it70104,1)
-  translated: 
+  raw: "eq10323	苍山之麓	eq10323	段家祖传的宝剑，气韵凝重，形式端严，隐约透露出一股王者气象。	103	7000	3500	TRUE	5	70	ac3a0045	14	70	70	(Sword,65)(TwoSword,65)(BladeSword,65)	5		weapon0323	(it70110,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 苍山之麓
-    translated: 
+    text: "苍山之麓"
+    translated: ""
   - split: 3
-    text: 段家祖传的宝剑，气韵凝重，形式端严，隐约透露出一股王者气象。
-    translated: 
+    text: "段家祖传的宝剑，气韵凝重，形式端严，隐约透露出一股王者气象。"
+    translated: ""
 - lineNum: 37
-  raw: eq10324	紫炁剑	eq10324	一世富贵老太爷陈昊天之配剑，剑身古朴，靠近剑柄处由古金包饰，入手略沉。可能是由酒庄前人所造，代代流传，本代由陈昊天继承。	103	10000	5000	TRUE	3	80	ac3a0046	44	90	90	(Sword,205)(TwoSword,205)(BladeSword,205)	3		0	(it70110,1)(it70113,1)
-  translated: 
+  raw: "eq10324	紫炁剑	eq10324	一世富贵老太爷陈昊天之配剑，剑身古朴，靠近剑柄处由古金包饰，入手略沉。可能是由酒庄前人所造，代代流传，本代由陈昊天继承。	103	10000	5000	TRUE	3	80	ac3a0046	44	90	90	(Sword,205)(TwoSword,205)(BladeSword,205)	3		0	(it70110,1)(it70113,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 紫炁剑
-    translated: 
+    text: "紫炁剑"
+    translated: ""
   - split: 3
-    text: 一世富贵老太爷陈昊天之配剑，剑身古朴，靠近剑柄处由古金包饰，入手略沉。可能是由酒庄前人所造，代代流传，本代由陈昊天继承。
-    translated: 
+    text: "一世富贵老太爷陈昊天之配剑，剑身古朴，靠近剑柄处由古金包饰，入手略沉。可能是由酒庄前人所造，代代流传，本代由陈昊天继承。"
+    translated: ""
 - lineNum: 38
-  raw: eq10325	万虹剑	eq10325	一世富贵庄主陈长卫之配剑，剑身雕纹精致华美，相以绿色宝石，贵不可言，然其不只能象征庄主身份，也是柄极有用处的宝剑，剑身锋利，刻纹亦能于刺杀敌人之际引血外流，加强伤害。	103	10000	5000	TRUE	3	80	ac3a0047	44	90	90	(Sword,205)(TwoSword,205)(BladeSword,205)	3		0	(it70111,2)
-  translated: 
+  raw: "eq10325	万虹剑	eq10325	一世富贵庄主陈长卫之配剑，剑身雕纹精致华美，相以绿色宝石，贵不可言，然其不只能象征庄主身份，也是柄极有用处的宝剑，剑身锋利，刻纹亦能于刺杀敌人之际引血外流，加强伤害。	103	10000	5000	TRUE	3	80	ac3a0047	44	90	90	(Sword,205)(TwoSword,205)(BladeSword,205)	3		0	(it70111,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 万虹剑
-    translated: 
+    text: "万虹剑"
+    translated: ""
   - split: 3
-    text: 一世富贵庄主陈长卫之配剑，剑身雕纹精致华美，相以绿色宝石，贵不可言，然其不只能象征庄主身份，也是柄极有用处的宝剑，剑身锋利，刻纹亦能于刺杀敌人之际引血外流，加强伤害。
-    translated: 
+    text: "一世富贵庄主陈长卫之配剑，剑身雕纹精致华美，相以绿色宝石，贵不可言，然其不只能象征庄主身份，也是柄极有用处的宝剑，剑身锋利，刻纹亦能于刺杀敌人之际引血外流，加强伤害。"
+    translated: ""
 - lineNum: 39
-  raw: eq10327	细剑	eq10327	剑面极窄，剑刃几无杀伤能力，仅能用于格挡，而剑尖却极为锋锐，因而进招多以刺击为主。	103	500	250	TRUE	0	5	ac3a0070	8	25	25	(Sword,25)(TwoSword,25)(BladeSword,25)	15		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10327	细剑	eq10327	剑面极窄，剑刃几无杀伤能力，仅能用于格挡，而剑尖却极为锋锐，因而进招多以刺击为主。	103	500	250	TRUE	0	5	ac3a0070	8	25	25	(Sword,25)(TwoSword,25)(BladeSword,25)	15		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 细剑
-    translated: 
+    text: "细剑"
+    translated: ""
   - split: 3
-    text: 剑面极窄，剑刃几无杀伤能力，仅能用于格挡，而剑尖却极为锋锐，因而进招多以刺击为主。
-    translated: 
+    text: "剑面极窄，剑刃几无杀伤能力，仅能用于格挡，而剑尖却极为锋锐，因而进招多以刺击为主。"
+    translated: ""
 - lineNum: 40
-  raw: eq10326	蛇形剑	eq10326	在遥远的西方被称为焰型剑，其波状剑刃较一般长剑更容易进行切割，且能造成更严重的伤口。	103	3500	1750	TRUE	1	30	ac3a0065	10	55	55	(Sword,60)(TwoSword,60)(BladeSword,60)	10		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10326	蛇形剑	eq10326	在遥远的西方被称为焰型剑，其波状剑刃较一般长剑更容易进行切割，且能造成更严重的伤口。	103	3500	1750	TRUE	1	30	ac3a0065	10	55	55	(Sword,60)(TwoSword,60)(BladeSword,60)	10		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 蛇形剑
-    translated: 
+    text: "蛇形剑"
+    translated: ""
   - split: 3
-    text: 在遥远的西方被称为焰型剑，其波状剑刃较一般长剑更容易进行切割，且能造成更严重的伤口。
-    translated: 
+    text: "在遥远的西方被称为焰型剑，其波状剑刃较一般长剑更容易进行切割，且能造成更严重的伤口。"
+    translated: ""
 - lineNum: 41
-  raw: eq10328	七星剑	eq10328	王喆配剑，剑面七处嵌入钢钉，铸成北斗七星之图样，使剑身不易断裂。	103	7000	3500	TRUE	5	70	ac3a0057	11	80	80	(Sword,71)(TwoSword,71)(BladeSword,71)	5		weapon0328	(it70110,1)(it70104,1)
-  translated: 
+  raw: "eq10328	七星剑	eq10328	王喆配剑，剑面七处嵌入钢钉，铸成北斗七星之图样，使剑身不易断裂。	103	7000	3500	TRUE	5	70	ac3a0057	11	80	80	(Sword,71)(TwoSword,71)(BladeSword,71)	5		weapon0328	(it70110,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 七星剑
-    translated: 
+    text: "七星剑"
+    translated: ""
   - split: 3
-    text: 王喆配剑，剑面七处嵌入钢钉，铸成北斗七星之图样，使剑身不易断裂。
-    translated: 
+    text: "王喆配剑，剑面七处嵌入钢钉，铸成北斗七星之图样，使剑身不易断裂。"
+    translated: ""
 - lineNum: 42
-  raw: eq10329	鎏金清泉剑	eq10301	一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。	103	2000	1000	TRUE	1	20	ac3a0048	9	50	50	(Sword,60)(TwoSword,60)(BladeSword,60)	10		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10329	鎏金清泉剑	eq10301	一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。	103	2000	1000	TRUE	1	20	ac3a0048	9	50	50	(Sword,60)(TwoSword,60)(BladeSword,60)	10		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 鎏金清泉剑
-    translated: 
+    text: "鎏金清泉剑"
+    translated: ""
   - split: 3
-    text: 一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。
-    translated: 
+    text: "一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。"
+    translated: ""
 - lineNum: 43
-  raw: eq10330	金蛇剑	eq10326	纯金打造的神秘兵刃，威力天下无双。	103	22000	11000	TRUE	5	99	ac3a0065	35	120	120	(Sword,280)(TwoSword,280)(BladeSword,280)	3		0	(it70105,4)
-  translated: 
+  raw: "eq10330	金蛇剑	eq10326	纯金打造的神秘兵刃，威力天下无双。	103	22000	11000	TRUE	5	99	ac3a0065	35	120	120	(Sword,280)(TwoSword,280)(BladeSword,280)	3		0	(it70105,4)"
+  translated: ""
   splits:
   - split: 1
-    text: 金蛇剑
-    translated: 
+    text: "金蛇剑"
+    translated: ""
   - split: 3
-    text: 纯金打造的神秘兵刃，威力天下无双。
-    translated: 
+    text: "纯金打造的神秘兵刃，威力天下无双。"
+    translated: ""
 - lineNum: 44
-  raw: eq10331	玄铁剑	eq10305	纯玄铁打造而成的强大武器。	103	25000	12500	TRUE	5	99	ac3a0064	64	150	150	(Sword,400)(TwoSword,400)(BladeSword,400)	3		heavysword01	(it70109,4)
-  translated: 
+  raw: "eq10331	玄铁剑	eq10305	纯玄铁打造而成的强大武器。	103	25000	12500	TRUE	5	99	ac3a0064	64	150	150	(Sword,400)(TwoSword,400)(BladeSword,400)	3		heavysword01	(it70109,4)"
+  translated: ""
   splits:
   - split: 1
-    text: 玄铁剑
-    translated: 
+    text: "玄铁剑"
+    translated: ""
   - split: 3
-    text: 纯玄铁打造而成的强大武器。
-    translated: 
+    text: "纯玄铁打造而成的强大武器。"
+    translated: ""
 - lineNum: 45
-  raw: eq10332	辘轳剑	eq10320	西川兵马指挥使皇甫登云的配剑。此剑乃是当今皇帝御赐的宝剑，价值连城。	103	20000	10000	TRUE	3	99	ac3a0084	6	120	120	(Sword,250)(TwoSword,250)(BladeSword,250)	3		0	(it70107,1)(it70103,1)(it70320,1)
-  translated: 
+  raw: "eq10332	辘轳剑	eq10320	西川兵马指挥使皇甫登云的配剑。此剑乃是当今皇帝御赐的宝剑，价值连城。	103	20000	10000	TRUE	3	99	ac3a0084	6	120	120	(Sword,250)(TwoSword,250)(BladeSword,250)	3		0	(it70107,1)(it70103,1)(it70320,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 辘轳剑
-    translated: 
+    text: "辘轳剑"
+    translated: ""
   - split: 3
-    text: 西川兵马指挥使皇甫登云的配剑。此剑乃是当今皇帝御赐的宝剑，价值连城。
-    translated: 
+    text: "西川兵马指挥使皇甫登云的配剑。此剑乃是当今皇帝御赐的宝剑，价值连城。"
+    translated: ""
 - lineNum: 46
-  raw: eq10333	油纸伞	eq10333	剑术到了一定的境界，草木竹石均可为剑，油纸伞有何不可。	103	7000	3500	TRUE	5	99	ac3a0089	10	90	90	(Sword,70)(TwoSword,70)(BladeSword,70)	5		injured06	
-  translated: 
+  raw: "eq10333	油纸伞	eq10333	剑术到了一定的境界，草木竹石均可为剑，油纸伞有何不可。	103	7000	3500	TRUE	5	99	ac3a0089	10	90	90	(Sword,70)(TwoSword,70)(BladeSword,70)	5		injured06	"
+  translated: ""
   splits:
   - split: 1
-    text: 油纸伞
-    translated: 
+    text: "油纸伞"
+    translated: ""
   - split: 3
-    text: 剑术到了一定的境界，草木竹石均可为剑，油纸伞有何不可。
-    translated: 
+    text: "剑术到了一定的境界，草木竹石均可为剑，油纸伞有何不可。"
+    translated: ""
 - lineNum: 47
-  raw: eq10334	冲灵剑	eq10320	此剑用来纪念一桩只可追忆的姻缘……	103	7000	3500	TRUE	5	99	ac3a0084	11	100	100	(Sword,80)(TwoSword,80)(BladeSword,80)	5		confused06	(it70110,1)
-  translated: 
+  raw: "eq10334	冲灵剑	eq10320	此剑用来纪念一桩只可追忆的姻缘……	103	7000	3500	TRUE	5	99	ac3a0084	11	100	100	(Sword,80)(TwoSword,80)(BladeSword,80)	5		confused06	(it70110,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 冲灵剑
-    translated: 
+    text: "冲灵剑"
+    translated: ""
   - split: 3
-    text: 此剑用来纪念一桩只可追忆的姻缘……
-    translated: 
+    text: "此剑用来纪念一桩只可追忆的姻缘……"
+    translated: ""
 - lineNum: 48
-  raw: eq10335	墨玉丹凤	eq10308	柳叶剑庄前任庄主文若的配剑，后赠送予慈荫。	103	15000	7500	TRUE	3	99	ac3a0034	40	85	85	(Sword,208)(TwoSword,208)(BladeSword,208)	5		0	(it70110,1)(it70103,1)(it70320,1)
-  translated: 
+  raw: "eq10335	墨玉丹凤	eq10308	柳叶剑庄前任庄主文若的配剑，后赠送予慈荫。	103	15000	7500	TRUE	3	99	ac3a0034	40	85	85	(Sword,208)(TwoSword,208)(BladeSword,208)	5		0	(it70110,1)(it70103,1)(it70320,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 墨玉丹凤
-    translated: 
+    text: "墨玉丹凤"
+    translated: ""
   - split: 3
-    text: 柳叶剑庄前任庄主文若的配剑，后赠送予慈荫。
-    translated: 
+    text: "柳叶剑庄前任庄主文若的配剑，后赠送予慈荫。"
+    translated: ""
 - lineNum: 49
-  raw: eq10401	破损朴刀	eq10401	刀刃已经缺口的刀。无法单靠打磨恢复锋锐，除非回炉重铸。	104	200	100	TRUE	0	2	ac3a0052	15	30	30	(Blade,13)(TwoBlade,13)(BladeSword,13)	15		0	(it70102,1)
-  translated: 
+  raw: "eq10401	破损朴刀	eq10401	刀刃已经缺口的刀。无法单靠打磨恢复锋锐，除非回炉重铸。	104	200	100	TRUE	0	2	ac3a0052	15	30	30	(Blade,13)(TwoBlade,13)(BladeSword,13)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 破损朴刀
-    translated: 
+    text: "破损朴刀"
+    translated: ""
   - split: 3
-    text: 刀刃已经缺口的刀。无法单靠打磨恢复锋锐，除非回炉重铸。
-    translated: 
+    text: "刀刃已经缺口的刀。无法单靠打磨恢复锋锐，除非回炉重铸。"
+    translated: ""
 - lineNum: 50
-  raw: eq10402	环柄刀	eq10402	铁制的单刃刀，厚脊薄刃、直脊直刃，柄首成环形。由于易于大量生产、劈砍力强，为前朝骑兵的主要佩刀。	104	800	400	TRUE	0	8	ac3a0025	19	45	45	(Blade,45)(TwoBlade,45)(BladeSword,45)	15		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10402	环柄刀	eq10402	铁制的单刃刀，厚脊薄刃、直脊直刃，柄首成环形。由于易于大量生产、劈砍力强，为前朝骑兵的主要佩刀。	104	800	400	TRUE	0	8	ac3a0025	19	45	45	(Blade,45)(TwoBlade,45)(BladeSword,45)	15		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 环柄刀
-    translated: 
+    text: "环柄刀"
+    translated: ""
   - split: 3
-    text: 铁制的单刃刀，厚脊薄刃、直脊直刃，柄首成环形。由于易于大量生产、劈砍力强，为前朝骑兵的主要佩刀。
-    translated: 
+    text: "铁制的单刃刀，厚脊薄刃、直脊直刃，柄首成环形。由于易于大量生产、劈砍力强，为前朝骑兵的主要佩刀。"
+    translated: ""
 - lineNum: 51
-  raw: eq10403	朴刀	eq10403	常见的民间兵器，将长柄大刀的刀刃拆卸下来作为短兵器使用，又名著裤刀，由于简单耐用，老百姓几乎人人都会带上一把防身。	104	600	300	TRUE	0	6	ac3a0026	15	43	43	(Blade,35)(TwoBlade,35)(BladeSword,35)	15		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10403	朴刀	eq10403	常见的民间兵器，将长柄大刀的刀刃拆卸下来作为短兵器使用，又名著裤刀，由于简单耐用，老百姓几乎人人都会带上一把防身。	104	600	300	TRUE	0	6	ac3a0026	15	43	43	(Blade,35)(TwoBlade,35)(BladeSword,35)	15		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 朴刀
-    translated: 
+    text: "朴刀"
+    translated: ""
   - split: 3
-    text: 常见的民间兵器，将长柄大刀的刀刃拆卸下来作为短兵器使用，又名著裤刀，由于简单耐用，老百姓几乎人人都会带上一把防身。
-    translated: 
+    text: "常见的民间兵器，将长柄大刀的刀刃拆卸下来作为短兵器使用，又名著裤刀，由于简单耐用，老百姓几乎人人都会带上一把防身。"
+    translated: ""
 - lineNum: 52
-  raw: eq10404	戒刀	eq10404	僧人所携带的佩刀，按戒律仅能用于裁衣剃发，不得杀生。	104	100	50	TRUE	0	50		4	100	100	(Blade,20)	10		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10404	戒刀	eq10404	僧人所携带的佩刀，按戒律仅能用于裁衣剃发，不得杀生。	104	100	50	TRUE	0	50		4	100	100	(Blade,20)	10		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 戒刀
-    translated: 
+    text: "戒刀"
+    translated: ""
   - split: 3
-    text: 僧人所携带的佩刀，按戒律仅能用于裁衣剃发，不得杀生。
-    translated: 
+    text: "僧人所携带的佩刀，按戒律仅能用于裁衣剃发，不得杀生。"
+    translated: ""
 - lineNum: 53
-  raw: eq10405	开山刀	eq10405	进入丛林时必备的长刀，做工大多不甚精致，但坚韧耐用，能披荆斩棘，开山辟路。	104	2000	1000	TRUE	1	20	ac3a0037	15	65	65	(Blade,65)(TwoBlade,65)(BladeSword,65)	10		0	(it70102,2)
-  translated: 
+  raw: "eq10405	开山刀	eq10405	进入丛林时必备的长刀，做工大多不甚精致，但坚韧耐用，能披荆斩棘，开山辟路。	104	2000	1000	TRUE	1	20	ac3a0037	15	65	65	(Blade,65)(TwoBlade,65)(BladeSword,65)	10		0	(it70102,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 开山刀
-    translated: 
+    text: "开山刀"
+    translated: ""
   - split: 3
-    text: 进入丛林时必备的长刀，做工大多不甚精致，但坚韧耐用，能披荆斩棘，开山辟路。
-    translated: 
+    text: "进入丛林时必备的长刀，做工大多不甚精致，但坚韧耐用，能披荆斩棘，开山辟路。"
+    translated: ""
 - lineNum: 54
-  raw: eq10406	柳叶刀	eq10406	刀形似柳叶，故得名柳叶刀，刃薄而轻盈。	104	500	250	TRUE	0	5	ac3a0027	9	39	39	(Blade,29)(TwoBlade,29)(BladeSword,29)	15		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10406	柳叶刀	eq10406	刀形似柳叶，故得名柳叶刀，刃薄而轻盈。	104	500	250	TRUE	0	5	ac3a0027	9	39	39	(Blade,29)(TwoBlade,29)(BladeSword,29)	15		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 柳叶刀
-    translated: 
+    text: "柳叶刀"
+    translated: ""
   - split: 3
-    text: 刀形似柳叶，故得名柳叶刀，刃薄而轻盈。
-    translated: 
+    text: "刀形似柳叶，故得名柳叶刀，刃薄而轻盈。"
+    translated: ""
 - lineNum: 55
-  raw: eq10407	雁翎刀	temp	因形似雁翎而得名，轻薄柔韧。	104	100	50	TRUE	1	50		4	100	100	(Blade,20)	8		0	(it70102,2)
-  translated: 
+  raw: "eq10407	雁翎刀	temp	因形似雁翎而得名，轻薄柔韧。	104	100	50	TRUE	1	50		4	100	100	(Blade,20)	8		0	(it70102,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 雁翎刀
-    translated: 
+    text: "雁翎刀"
+    translated: ""
   - split: 3
-    text: 因形似雁翎而得名，轻薄柔韧。
-    translated: 
+    text: "因形似雁翎而得名，轻薄柔韧。"
+    translated: ""
 - lineNum: 56
-  raw: eq10408	九环刀	eq10408	精钢所铸的沉重大刀，非力大者无法使动。刀背上每隔三寸五分便穿一铁环，挥动之时，九环不仅可使大刀重心集中，强化挥砍时的力道，环环相击锒铛大作，亦可使对手闻声丧胆。	104	3500	1750	TRUE	1	30	ac3a0062	20	80	80	(Blade,87)(TwoBlade,87)(BladeSword,87)	10		0	(it70102,2)
-  translated: 
+  raw: "eq10408	九环刀	eq10408	精钢所铸的沉重大刀，非力大者无法使动。刀背上每隔三寸五分便穿一铁环，挥动之时，九环不仅可使大刀重心集中，强化挥砍时的力道，环环相击锒铛大作，亦可使对手闻声丧胆。	104	3500	1750	TRUE	1	30	ac3a0062	20	80	80	(Blade,87)(TwoBlade,87)(BladeSword,87)	10		0	(it70102,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 九环刀
-    translated: 
+    text: "九环刀"
+    translated: ""
   - split: 3
-    text: 精钢所铸的沉重大刀，非力大者无法使动。刀背上每隔三寸五分便穿一铁环，挥动之时，九环不仅可使大刀重心集中，强化挥砍时的力道，环环相击锒铛大作，亦可使对手闻声丧胆。
-    translated: 
+    text: "精钢所铸的沉重大刀，非力大者无法使动。刀背上每隔三寸五分便穿一铁环，挥动之时，九环不仅可使大刀重心集中，强化挥砍时的力道，环环相击锒铛大作，亦可使对手闻声丧胆。"
+    translated: ""
 - lineNum: 57
-  raw: eq10409	百炼钢刀	eq10409	由百炼钢所铸成的单刀，质量极为优良。	104	5300	2650	TRUE	2	50	ac3a0083	32	90	90	(Blade,130)(TwoBlade,130)(BladeSword,130)	5		0	(it70111,1)
-  translated: 
+  raw: "eq10409	百炼钢刀	eq10409	由百炼钢所铸成的单刀，质量极为优良。	104	5300	2650	TRUE	2	50	ac3a0083	32	90	90	(Blade,130)(TwoBlade,130)(BladeSword,130)	5		0	(it70111,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 百炼钢刀
-    translated: 
+    text: "百炼钢刀"
+    translated: ""
   - split: 3
-    text: 由百炼钢所铸成的单刀，质量极为优良。
-    translated: 
+    text: "由百炼钢所铸成的单刀，质量极为优良。"
+    translated: ""
 - lineNum: 58
-  raw: eq10411	紫金八卦刀	eq10411	紫光闪闪，冷气森森，厚背薄刃，端的是稀世宝刀。	104	6500	3250	TRUE	2	70	ac3a0066	38	90	90	(Blade,161)(TwoBlade,161)(BladeSword,161)	5		0	(it70112,1)(it70104,1)
-  translated: 
+  raw: "eq10411	紫金八卦刀	eq10411	紫光闪闪，冷气森森，厚背薄刃，端的是稀世宝刀。	104	6500	3250	TRUE	2	70	ac3a0066	38	90	90	(Blade,161)(TwoBlade,161)(BladeSword,161)	5		0	(it70112,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 紫金八卦刀
-    translated: 
+    text: "紫金八卦刀"
+    translated: ""
   - split: 3
-    text: 紫光闪闪，冷气森森，厚背薄刃，端的是稀世宝刀。
-    translated: 
+    text: "紫光闪闪，冷气森森，厚背薄刃，端的是稀世宝刀。"
+    translated: ""
 - lineNum: 59
-  raw: eq10412	狴犴啸天	eq10412	淘石帮主陶大石的成名兵器，由前代帮主留下，刀身乃精钢所铸，重达七七四十九斤，威猛异常。	104	8000	4000	TRUE	3	80	ac3a0003	50	95	95	(Blade,195)(TwoBlade,195)(BladeSword,195)	3		0	(it70111,2)(it70104,1)(it70102,1)
-  translated: 
+  raw: "eq10412	狴犴啸天	eq10412	淘石帮主陶大石的成名兵器，由前代帮主留下，刀身乃精钢所铸，重达七七四十九斤，威猛异常。	104	8000	4000	TRUE	3	80	ac3a0003	50	95	95	(Blade,195)(TwoBlade,195)(BladeSword,195)	3		0	(it70111,2)(it70104,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 狴犴啸天
-    translated: 
+    text: "狴犴啸天"
+    translated: ""
   - split: 3
-    text: 淘石帮主陶大石的成名兵器，由前代帮主留下，刀身乃精钢所铸，重达七七四十九斤，威猛异常。
-    translated: 
+    text: "淘石帮主陶大石的成名兵器，由前代帮主留下，刀身乃精钢所铸，重达七七四十九斤，威猛异常。"
+    translated: ""
 - lineNum: 60
-  raw: eq10413	鲨齿鬼头刀	temp	原迷魂凼水寨统领－－江白波的爱刀，江白波死后，被新一任的水贼首脑霸占。顾名思义，刀刃呈不规则锯齿状，所造成创口极难愈合。	104	100	50	TRUE	2	50		9	100	100	(Blade,20)	5		0	
-  translated: 
+  raw: "eq10413	鲨齿鬼头刀	temp	原迷魂凼水寨统领－－江白波的爱刀，江白波死后，被新一任的水贼首脑霸占。顾名思义，刀刃呈不规则锯齿状，所造成创口极难愈合。	104	100	50	TRUE	2	50		9	100	100	(Blade,20)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 鲨齿鬼头刀
-    translated: 
+    text: "鲨齿鬼头刀"
+    translated: ""
   - split: 3
-    text: 原迷魂凼水寨统领－－江白波的爱刀，江白波死后，被新一任的水贼首脑霸占。顾名思义，刀刃呈不规则锯齿状，所造成创口极难愈合。
-    translated: 
+    text: "原迷魂凼水寨统领－－江白波的爱刀，江白波死后，被新一任的水贼首脑霸占。顾名思义，刀刃呈不规则锯齿状，所造成创口极难愈合。"
+    translated: ""
 - lineNum: 61
-  raw: eq10414	雪花镔铁刀	eq10414	传说为行者武松所持的戒刀，由西域出产的镔铁打造，锋锐无匹。	104	5800	2900	TRUE	2	60	ac3a0081	41	100	100	(Blade,150)(TwoBlade,150)(BladeSword,150)	5		0	(it70111,2)
-  translated: 
+  raw: "eq10414	雪花镔铁刀	eq10414	传说为行者武松所持的戒刀，由西域出产的镔铁打造，锋锐无匹。	104	5800	2900	TRUE	2	60	ac3a0081	41	100	100	(Blade,150)(TwoBlade,150)(BladeSword,150)	5		0	(it70111,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 雪花镔铁刀
-    translated: 
+    text: "雪花镔铁刀"
+    translated: ""
   - split: 3
-    text: 传说为行者武松所持的戒刀，由西域出产的镔铁打造，锋锐无匹。
-    translated: 
+    text: "传说为行者武松所持的戒刀，由西域出产的镔铁打造，锋锐无匹。"
+    translated: ""
 - lineNum: 62
-  raw: eq10415	新亭侯	temp	传说中的宝刀。据古籍记载，三国时期张飞初拜新亭侯，命著名铁匠炼赤朱山铁为一刀，铭曰「新亭侯」。而后张飞遭刺，此刀从此下落不明。	104	100	50	TRUE	3	50		7	100	100	(Blade,20)	3		0	
-  translated: 
+  raw: "eq10415	新亭侯	temp	传说中的宝刀。据古籍记载，三国时期张飞初拜新亭侯，命著名铁匠炼赤朱山铁为一刀，铭曰「新亭侯」。而后张飞遭刺，此刀从此下落不明。	104	100	50	TRUE	3	50		7	100	100	(Blade,20)	3		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 新亭侯
-    translated: 
+    text: "新亭侯"
+    translated: ""
   - split: 3
-    text: 传说中的宝刀。据古籍记载，三国时期张飞初拜新亭侯，命著名铁匠炼赤朱山铁为一刀，铭曰「新亭侯」。而后张飞遭刺，此刀从此下落不明。
-    translated: 
+    text: "传说中的宝刀。据古籍记载，三国时期张飞初拜新亭侯，命著名铁匠炼赤朱山铁为一刀，铭曰「新亭侯」。而后张飞遭刺，此刀从此下落不明。"
+    translated: ""
 - lineNum: 63
-  raw: eq10416	黑风刀	eq10416	专为攻人要害所特制的杀手佩刀，只一轻削，随即开肉剔骨，锋利异常。	104	2000	1000	TRUE	1	20	ac3a0082	10	50	50	(Blade,60)(TwoBlade,60)(BladeSword,60)	10		0	(it70101,2)(it70102,1)
-  translated: 
+  raw: "eq10416	黑风刀	eq10416	专为攻人要害所特制的杀手佩刀，只一轻削，随即开肉剔骨，锋利异常。	104	2000	1000	TRUE	1	20	ac3a0082	10	50	50	(Blade,60)(TwoBlade,60)(BladeSword,60)	10		0	(it70101,2)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 黑风刀
-    translated: 
+    text: "黑风刀"
+    translated: ""
   - split: 3
-    text: 专为攻人要害所特制的杀手佩刀，只一轻削，随即开肉剔骨，锋利异常。
-    translated: 
+    text: "专为攻人要害所特制的杀手佩刀，只一轻削，随即开肉剔骨，锋利异常。"
+    translated: ""
 - lineNum: 64
-  raw: eq10417	鸩翎	eq10418	何紫菀所配苗刀，尾端以银月、鸩羽为饰，深红细长的刀刃上喂有毒药，一旦被划伤，小小伤口也将流血不止，药石难愈，鲜血沾染到剑刃后更会与毒液作用结合，出血毒性将益发猛烈。	104	7000	3500	TRUE	5	70	ac3a0055	11	64	64	(Blade,69)(TwoBlade,69)(BladeSword,69)	5		poisoned02,wounded02	(it70112,1)(it70104,1)(it70311,1)
-  translated: 
+  raw: "eq10417	鸩翎	eq10418	何紫菀所配苗刀，尾端以银月、鸩羽为饰，深红细长的刀刃上喂有毒药，一旦被划伤，小小伤口也将流血不止，药石难愈，鲜血沾染到剑刃后更会与毒液作用结合，出血毒性将益发猛烈。	104	7000	3500	TRUE	5	70	ac3a0055	11	64	64	(Blade,69)(TwoBlade,69)(BladeSword,69)	5		poisoned02,wounded02	(it70112,1)(it70104,1)(it70311,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 鸩翎
-    translated: 
+    text: "鸩翎"
+    translated: ""
   - split: 3
-    text: 何紫菀所配苗刀，尾端以银月、鸩羽为饰，深红细长的刀刃上喂有毒药，一旦被划伤，小小伤口也将流血不止，药石难愈，鲜血沾染到剑刃后更会与毒液作用结合，出血毒性将益发猛烈。
-    translated: 
+    text: "何紫菀所配苗刀，尾端以银月、鸩羽为饰，深红细长的刀刃上喂有毒药，一旦被划伤，小小伤口也将流血不止，药石难愈，鲜血沾染到剑刃后更会与毒液作用结合，出血毒性将益发猛烈。"
+    translated: ""
 - lineNum: 65
-  raw: eq10418	凄花	eq10417	何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。	104	7000	3500	TRUE	5	70	ac3a0054	11	64	64	(Blade,69)(TwoBlade,69)(BladeSword,69)	5		poisoned04,wounded04	(it70112,1)(it70104,1)(it70312,1)
-  translated: 
+  raw: "eq10418	凄花	eq10417	何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。	104	7000	3500	TRUE	5	70	ac3a0054	11	64	64	(Blade,69)(TwoBlade,69)(BladeSword,69)	5		poisoned04,wounded04	(it70112,1)(it70104,1)(it70312,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 凄花
-    translated: 
+    text: "凄花"
+    translated: ""
   - split: 3
-    text: 何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。
-    translated: 
+    text: "何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。"
+    translated: ""
 - lineNum: 66
-  raw: eq10419	白驹	eq10419	李叹佩刀，为其师西门玉堂于李叹艺成之日赠予之稀世宝刀。刀刃利薄，刀背流畅，施展之时快、稳、灵、准犹如白驹飞奔，畅而无阻，因此得名。	104	7000	3500	TRUE	5	70	ac3a0044	15	76	76	(Blade,77)(TwoBlade,77)(BladeSword,77)	5		weapon0419	(it70110,1)(it70104,1)
-  translated: 
+  raw: "eq10419	白驹	eq10419	李叹佩刀，为其师西门玉堂于李叹艺成之日赠予之稀世宝刀。刀刃利薄，刀背流畅，施展之时快、稳、灵、准犹如白驹飞奔，畅而无阻，因此得名。	104	7000	3500	TRUE	5	70	ac3a0044	15	76	76	(Blade,77)(TwoBlade,77)(BladeSword,77)	5		weapon0419	(it70110,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 白驹
-    translated: 
+    text: "白驹"
+    translated: ""
   - split: 3
-    text: 李叹佩刀，为其师西门玉堂于李叹艺成之日赠予之稀世宝刀。刀刃利薄，刀背流畅，施展之时快、稳、灵、准犹如白驹飞奔，畅而无阻，因此得名。
-    translated: 
+    text: "李叹佩刀，为其师西门玉堂于李叹艺成之日赠予之稀世宝刀。刀刃利薄，刀背流畅，施展之时快、稳、灵、准犹如白驹飞奔，畅而无阻，因此得名。"
+    translated: ""
 - lineNum: 67
-  raw: eq10420	大刀	eq10420	宽刃厚背，刀体沉重，善于劈砍，多用于古时杀头处刑，亦是盗匪手中常见的兵器。	104	4500	2250	TRUE	1	50	ac3a0063	28	85	85	(Blade,90)(TwoBlade,90)(BladeSword,90)	10		0	(it70102,2)(it70101,1)
-  translated: 
+  raw: "eq10420	大刀	eq10420	宽刃厚背，刀体沉重，善于劈砍，多用于古时杀头处刑，亦是盗匪手中常见的兵器。	104	4500	2250	TRUE	1	50	ac3a0063	28	85	85	(Blade,90)(TwoBlade,90)(BladeSword,90)	10		0	(it70102,2)(it70101,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 大刀
-    translated: 
+    text: "大刀"
+    translated: ""
   - split: 3
-    text: 宽刃厚背，刀体沉重，善于劈砍，多用于古时杀头处刑，亦是盗匪手中常见的兵器。
-    translated: 
+    text: "宽刃厚背，刀体沉重，善于劈砍，多用于古时杀头处刑，亦是盗匪手中常见的兵器。"
+    translated: ""
 - lineNum: 68
-  raw: eq10421	弯刀	eq10421	刀身长而微弯，轻巧易使，多为骑兵冲杀时所使用之兵器。	104	2000	1000	TRUE	1	20	ac3a0067	15	41	41	(Blade,65)(TwoBlade,65)(BladeSword,65)	10		0	(it70101,1)(it70102,1)
-  translated: 
+  raw: "eq10421	弯刀	eq10421	刀身长而微弯，轻巧易使，多为骑兵冲杀时所使用之兵器。	104	2000	1000	TRUE	1	20	ac3a0067	15	41	41	(Blade,65)(TwoBlade,65)(BladeSword,65)	10		0	(it70101,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 弯刀
-    translated: 
+    text: "弯刀"
+    translated: ""
   - split: 3
-    text: 刀身长而微弯，轻巧易使，多为骑兵冲杀时所使用之兵器。
-    translated: 
+    text: "刀身长而微弯，轻巧易使，多为骑兵冲杀时所使用之兵器。"
+    translated: ""
 - lineNum: 69
-  raw: eq10422	蛮刀	eq10422	多为狼蛮士兵所用之武器，宽刃厚背，极为沉重，一般人难以挥动，但破坏力惊人。	104	3000	1500	TRUE	1	30	ac3a0072	29	68	68	(Blade,89)(TwoBlade,89)(BladeSword,89)	10		0	(it70102,3)
-  translated: 
+  raw: "eq10422	蛮刀	eq10422	多为狼蛮士兵所用之武器，宽刃厚背，极为沉重，一般人难以挥动，但破坏力惊人。	104	3000	1500	TRUE	1	30	ac3a0072	29	68	68	(Blade,89)(TwoBlade,89)(BladeSword,89)	10		0	(it70102,3)"
+  translated: ""
   splits:
   - split: 1
-    text: 蛮刀
-    translated: 
+    text: "蛮刀"
+    translated: ""
   - split: 3
-    text: 多为狼蛮士兵所用之武器，宽刃厚背，极为沉重，一般人难以挥动，但破坏力惊人。
-    translated: 
+    text: "多为狼蛮士兵所用之武器，宽刃厚背，极为沉重，一般人难以挥动，但破坏力惊人。"
+    translated: ""
 - lineNum: 70
-  raw: eq10423	息壤刀	eq10423	古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。	104	15000	7500	TRUE	3	99	ac3a0038	54	100	100	(Blade,230)(TwoBlade,230)(BladeSword,230)	5		0	(it801122,1)(it70110,2)(it70104,1)
-  translated: 
+  raw: "eq10423	息壤刀	eq10423	古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。	104	15000	7500	TRUE	3	99	ac3a0038	54	100	100	(Blade,230)(TwoBlade,230)(BladeSword,230)	5		0	(it801122,1)(it70110,2)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 息壤刀
-    translated: 
+    text: "息壤刀"
+    translated: ""
   - split: 3
-    text: 古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。
-    translated: 
+    text: "古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。"
+    translated: ""
 - lineNum: 71
-  raw: eq10424	金乌刀	eq10414	由乌金打造而成的宝刀，配合使用者的强大内力，所向披靡。	104	22000	11000	TRUE	5	99	ac3a0081	20	140	140	(Blade,267)(TwoBlade,267)(BladeSword,267)	3		0	(it70113,4)
-  translated: 
+  raw: "eq10424	金乌刀	eq10414	由乌金打造而成的宝刀，配合使用者的强大内力，所向披靡。	104	22000	11000	TRUE	5	99	ac3a0081	20	140	140	(Blade,267)(TwoBlade,267)(BladeSword,267)	3		0	(it70113,4)"
+  translated: ""
   splits:
   - split: 1
-    text: 金乌刀
-    translated: 
+    text: "金乌刀"
+    translated: ""
   - split: 3
-    text: 由乌金打造而成的宝刀，配合使用者的强大内力，所向披靡。
-    translated: 
+    text: "由乌金打造而成的宝刀，配合使用者的强大内力，所向披靡。"
+    translated: ""
 - lineNum: 72
-  raw: eq10425	血刀	eq10425	月光之下，刃锋呈暗红之色，血光隐隐，极是可怖。其锋利之处，不亚于世上任何神兵利器。	104	20000	10000	TRUE	3	99	ac3a0086	50	90	90	(Blade,245)(TwoBlade,245)(BladeSword,245)	3		0	(it70110,2)(it70113,1)
-  translated: 
+  raw: "eq10425	血刀	eq10425	月光之下，刃锋呈暗红之色，血光隐隐，极是可怖。其锋利之处，不亚于世上任何神兵利器。	104	20000	10000	TRUE	3	99	ac3a0086	50	90	90	(Blade,245)(TwoBlade,245)(BladeSword,245)	3		0	(it70110,2)(it70113,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 血刀
-    translated: 
+    text: "血刀"
+    translated: ""
   - split: 3
-    text: 月光之下，刃锋呈暗红之色，血光隐隐，极是可怖。其锋利之处，不亚于世上任何神兵利器。
-    translated: 
+    text: "月光之下，刃锋呈暗红之色，血光隐隐，极是可怖。其锋利之处，不亚于世上任何神兵利器。"
+    translated: ""
 - lineNum: 73
-  raw: eq10426	冷月宝刀	eq10425	胡飞雪祖传宝刀，威力天下无双。	104	7000	3500	TRUE	5	70	ac3a0086	20	100	100	(Blade,87)(TwoBlade,87)(BladeSword,87)	5		wounded12	(it70110,4)
-  translated: 
+  raw: "eq10426	冷月宝刀	eq10425	胡飞雪祖传宝刀，威力天下无双。	104	7000	3500	TRUE	5	70	ac3a0086	20	100	100	(Blade,87)(TwoBlade,87)(BladeSword,87)	5		wounded12	(it70110,4)"
+  translated: ""
   splits:
   - split: 1
-    text: 冷月宝刀
-    translated: 
+    text: "冷月宝刀"
+    translated: ""
   - split: 3
-    text: 胡飞雪祖传宝刀，威力天下无双。
-    translated: 
+    text: "胡飞雪祖传宝刀，威力天下无双。"
+    translated: ""
 - lineNum: 74
-  raw: eq10501	长棍	eq10501	随处可见的棍棒，材质可能是木头或金属。	106	600	300	TRUE	0	6	ac3c0030	17	45	45	(Spear,35)	15		0	(it70201,2)
-  translated: 
+  raw: "eq10501	长棍	eq10501	随处可见的棍棒，材质可能是木头或金属。	106	600	300	TRUE	0	6	ac3c0030	17	45	45	(Spear,35)	15		0	(it70201,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 长棍
-    translated: 
+    text: "长棍"
+    translated: ""
   - split: 3
-    text: 随处可见的棍棒，材质可能是木头或金属。
-    translated: 
+    text: "随处可见的棍棒，材质可能是木头或金属。"
+    translated: ""
 - lineNum: 75
-  raw: eq10502	长枪	eq10502	以稠木为枪身，前端接上铁尖头制成的长枪，由于简单易造，所需训练周期短，被广泛配发给朝廷兵士使用。	105	1000	500	TRUE	0	10	ac3c0028	22	50	50	(Spear,45)	15		0	(it70102,2)(it70101,1)
-  translated: 
+  raw: "eq10502	长枪	eq10502	以稠木为枪身，前端接上铁尖头制成的长枪，由于简单易造，所需训练周期短，被广泛配发给朝廷兵士使用。	105	1000	500	TRUE	0	10	ac3c0028	22	50	50	(Spear,45)	15		0	(it70102,2)(it70101,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 长枪
-    translated: 
+    text: "长枪"
+    translated: ""
   - split: 3
-    text: 以稠木为枪身，前端接上铁尖头制成的长枪，由于简单易造，所需训练周期短，被广泛配发给朝廷兵士使用。
-    translated: 
+    text: "以稠木为枪身，前端接上铁尖头制成的长枪，由于简单易造，所需训练周期短，被广泛配发给朝廷兵士使用。"
+    translated: ""
 - lineNum: 76
-  raw: eq10503	红缨枪	eq10503	枪身和枪尖全由纯铁所打造的铁枪，重三十余斤，穿透力惊人，非臂力强健者无法使动；枪头缀有红缨，避免鲜血喷溅至使枪者面部。	105	3000	1500	TRUE	1	30	ac3c0039	26	90	90	(Spear,75)	10		0	(it70102,2)(it70104,1)
-  translated: 
+  raw: "eq10503	红缨枪	eq10503	枪身和枪尖全由纯铁所打造的铁枪，重三十余斤，穿透力惊人，非臂力强健者无法使动；枪头缀有红缨，避免鲜血喷溅至使枪者面部。	105	3000	1500	TRUE	1	30	ac3c0039	26	90	90	(Spear,75)	10		0	(it70102,2)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 红缨枪
-    translated: 
+    text: "红缨枪"
+    translated: ""
   - split: 3
-    text: 枪身和枪尖全由纯铁所打造的铁枪，重三十余斤，穿透力惊人，非臂力强健者无法使动；枪头缀有红缨，避免鲜血喷溅至使枪者面部。
-    translated: 
+    text: "枪身和枪尖全由纯铁所打造的铁枪，重三十余斤，穿透力惊人，非臂力强健者无法使动；枪头缀有红缨，避免鲜血喷溅至使枪者面部。"
+    translated: ""
 - lineNum: 77
-  raw: eq10504	太宁笔枪	eq10504	枪头下方缀有枪萼，边缘锐利，因形状如笔，固得此名。	105	8000	4000	TRUE	3	80	ac3c0076	50	100	100	(Spear,190)	3		0	(it70110,1)(it70104,1)
-  translated: 
+  raw: "eq10504	太宁笔枪	eq10504	枪头下方缀有枪萼，边缘锐利，因形状如笔，固得此名。	105	8000	4000	TRUE	3	80	ac3c0076	50	100	100	(Spear,190)	3		0	(it70110,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 太宁笔枪
-    translated: 
+    text: "太宁笔枪"
+    translated: ""
   - split: 3
-    text: 枪头下方缀有枪萼，边缘锐利，因形状如笔，固得此名。
-    translated: 
+    text: "枪头下方缀有枪萼，边缘锐利，因形状如笔，固得此名。"
+    translated: ""
 - lineNum: 78
-  raw: eq10505	浑铁点钢枪	eq10505	由镔铁混和乌钢打就，浑身漆黑。枪名点钢，意即百炼钢也能一点即透。	105	5000	2500	TRUE	2	50	ac3c0069	29	61	61	(Spear,110)	5		0	(it70111,1)(it70103,1)(it70102,1)
-  translated: 
+  raw: "eq10505	浑铁点钢枪	eq10505	由镔铁混和乌钢打就，浑身漆黑。枪名点钢，意即百炼钢也能一点即透。	105	5000	2500	TRUE	2	50	ac3c0069	29	61	61	(Spear,110)	5		0	(it70111,1)(it70103,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 浑铁点钢枪
-    translated: 
+    text: "浑铁点钢枪"
+    translated: ""
   - split: 3
-    text: 由镔铁混和乌钢打就，浑身漆黑。枪名点钢，意即百炼钢也能一点即透。
-    translated: 
+    text: "由镔铁混和乌钢打就，浑身漆黑。枪名点钢，意即百炼钢也能一点即透。"
+    translated: ""
 - lineNum: 79
-  raw: eq10506	涯角枪	eq10506	枪身上以汉隶刻就海角天涯无对六字，相传赵云手持此枪于长坂坡中七进七出，一骑当千。	105	20000	10000	TRUE	3	99	ac3c0080	57	110	110	(Spear,255)	3		0	(it70201,2)(it70111,1)(it70103,1)
-  translated: 
+  raw: "eq10506	涯角枪	eq10506	枪身上以汉隶刻就海角天涯无对六字，相传赵云手持此枪于长坂坡中七进七出，一骑当千。	105	20000	10000	TRUE	3	99	ac3c0080	57	110	110	(Spear,255)	3		0	(it70201,2)(it70111,1)(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 涯角枪
-    translated: 
+    text: "涯角枪"
+    translated: ""
   - split: 3
-    text: 枪身上以汉隶刻就海角天涯无对六字，相传赵云手持此枪于长坂坡中七进七出，一骑当千。
-    translated: 
+    text: "枪身上以汉隶刻就海角天涯无对六字，相传赵云手持此枪于长坂坡中七进七出，一骑当千。"
+    translated: ""
 - lineNum: 80
-  raw: eq10507	齐眉棍	eq10507	多以白蜡杆制成，棍立于地，与眉齐平，固得此名。	106	1800	900	TRUE	1	18	ac3c0030	20	60	60	(Spear,65)	10		0	(it70201,2)
-  translated: 
+  raw: "eq10507	齐眉棍	eq10507	多以白蜡杆制成，棍立于地，与眉齐平，固得此名。	106	1800	900	TRUE	1	18	ac3c0030	20	60	60	(Spear,65)	10		0	(it70201,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 齐眉棍
-    translated: 
+    text: "齐眉棍"
+    translated: ""
   - split: 3
-    text: 多以白蜡杆制成，棍立于地，与眉齐平，固得此名。
-    translated: 
+    text: "多以白蜡杆制成，棍立于地，与眉齐平，固得此名。"
+    translated: ""
 - lineNum: 81
-  raw: eq10508	烧火棍	temp	农村常见，用来向灶坑里添柴火的工具。	106	100	50	TRUE	0	50		6	100	100	(Spear,20)	10		0	
-  translated: 
+  raw: "eq10508	烧火棍	temp	农村常见，用来向灶坑里添柴火的工具。	106	100	50	TRUE	0	50		6	100	100	(Spear,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 烧火棍
-    translated: 
+    text: "烧火棍"
+    translated: ""
   - split: 3
-    text: 农村常见，用来向灶坑里添柴火的工具。
-    translated: 
+    text: "农村常见，用来向灶坑里添柴火的工具。"
+    translated: ""
 - lineNum: 82
-  raw: eq10509	铁棍	temp	铁打造的长棍，虽然坚固，但也相当沉重，需要有相当臂力才能够灵活使用。	106	100	50	TRUE	0	50		9	100	100	(Spear,20)	10		0	
-  translated: 
+  raw: "eq10509	铁棍	temp	铁打造的长棍，虽然坚固，但也相当沉重，需要有相当臂力才能够灵活使用。	106	100	50	TRUE	0	50		9	100	100	(Spear,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 铁棍
-    translated: 
+    text: "铁棍"
+    translated: ""
   - split: 3
-    text: 铁打造的长棍，虽然坚固，但也相当沉重，需要有相当臂力才能够灵活使用。
-    translated: 
+    text: "铁打造的长棍，虽然坚固，但也相当沉重，需要有相当臂力才能够灵活使用。"
+    translated: ""
 - lineNum: 83
-  raw: eq10510	龙头拐杖	eq10510	此杖顶端呈龙头形，使用起来有如真龙护体，威风凛凛。	106	5200	2600	TRUE	2	50	ac3c0078	35	80	80	(Spear,135)	5		0	(it70110,1)(it70104,1)
-  translated: 
+  raw: "eq10510	龙头拐杖	eq10510	此杖顶端呈龙头形，使用起来有如真龙护体，威风凛凛。	106	5200	2600	TRUE	2	50	ac3c0078	35	80	80	(Spear,135)	5		0	(it70110,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 龙头拐杖
-    translated: 
+    text: "龙头拐杖"
+    translated: ""
   - split: 3
-    text: 此杖顶端呈龙头形，使用起来有如真龙护体，威风凛凛。
-    translated: 
+    text: "此杖顶端呈龙头形，使用起来有如真龙护体，威风凛凛。"
+    translated: ""
 - lineNum: 84
-  raw: eq10511	铁刀木棍	temp	以铁刀木制成的棍棒，坚硬逾铁。	106	100	50	TRUE	1	50	ac3c0036	8	100	100	(Spear,20)	8		0	
-  translated: 
+  raw: "eq10511	铁刀木棍	temp	以铁刀木制成的棍棒，坚硬逾铁。	106	100	50	TRUE	1	50	ac3c0036	8	100	100	(Spear,20)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 铁刀木棍
-    translated: 
+    text: "铁刀木棍"
+    translated: ""
   - split: 3
-    text: 以铁刀木制成的棍棒，坚硬逾铁。
-    translated: 
+    text: "以铁刀木制成的棍棒，坚硬逾铁。"
+    translated: ""
 - lineNum: 85
-  raw: eq10512	花梨木棍	temp	以花梨木制成的木棍，极为坚韧。	106	100	50	TRUE	1	50	ac3c0036	6	100	100	(Spear,20)	8		0	
-  translated: 
+  raw: "eq10512	花梨木棍	temp	以花梨木制成的木棍，极为坚韧。	106	100	50	TRUE	1	50	ac3c0036	6	100	100	(Spear,20)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 花梨木棍
-    translated: 
+    text: "花梨木棍"
+    translated: ""
   - split: 3
-    text: 以花梨木制成的木棍，极为坚韧。
-    translated: 
+    text: "以花梨木制成的木棍，极为坚韧。"
+    translated: ""
 - lineNum: 86
-  raw: eq10513	水磨禅杖	temp	以浑铁水磨打造而成的禅杖，重六十二斤。传闻中花和尚鲁智深便是以这柄禅杖纵横天下。	106	100	50	TRUE	2	50		15	100	100	(Spear,20)	5		0	
-  translated: 
+  raw: "eq10513	水磨禅杖	temp	以浑铁水磨打造而成的禅杖，重六十二斤。传闻中花和尚鲁智深便是以这柄禅杖纵横天下。	106	100	50	TRUE	2	50		15	100	100	(Spear,20)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 水磨禅杖
-    translated: 
+    text: "水磨禅杖"
+    translated: ""
   - split: 3
-    text: 以浑铁水磨打造而成的禅杖，重六十二斤。传闻中花和尚鲁智深便是以这柄禅杖纵横天下。
-    translated: 
+    text: "以浑铁水磨打造而成的禅杖，重六十二斤。传闻中花和尚鲁智深便是以这柄禅杖纵横天下。"
+    translated: ""
 - lineNum: 87
-  raw: eq10514	百炼孤金沉杖	eq10514	鄂斯伯的成名兵器，由海外珊瑚金冶炼而成，外表毫不起眼，却是砸铁如泥的兵中至宝。	106	11000	5500	TRUE	3	80	ac3c0060	49	100	100	(Spear,210)	3		0	(it70107,2)
-  translated: 
+  raw: "eq10514	百炼孤金沉杖	eq10514	鄂斯伯的成名兵器，由海外珊瑚金冶炼而成，外表毫不起眼，却是砸铁如泥的兵中至宝。	106	11000	5500	TRUE	3	80	ac3c0060	49	100	100	(Spear,210)	3		0	(it70107,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 百炼孤金沉杖
-    translated: 
+    text: "百炼孤金沉杖"
+    translated: ""
   - split: 3
-    text: 鄂斯伯的成名兵器，由海外珊瑚金冶炼而成，外表毫不起眼，却是砸铁如泥的兵中至宝。
-    translated: 
+    text: "鄂斯伯的成名兵器，由海外珊瑚金冶炼而成，外表毫不起眼，却是砸铁如泥的兵中至宝。"
+    translated: ""
 - lineNum: 88
-  raw: eq10515	狼牙棒	eq10515	以坚木为棒身，锤头植钉如狼牙，劈砸挑抡，穿甲坏创。	106	3000	1500	TRUE	1	30	ac3c0079	25	65	65	(Spear,91)	10		0	(it70102,2)(it70101,1)
-  translated: 
+  raw: "eq10515	狼牙棒	eq10515	以坚木为棒身，锤头植钉如狼牙，劈砸挑抡，穿甲坏创。	106	3000	1500	TRUE	1	30	ac3c0079	25	65	65	(Spear,91)	10		0	(it70102,2)(it70101,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 狼牙棒
-    translated: 
+    text: "狼牙棒"
+    translated: ""
   - split: 3
-    text: 以坚木为棒身，锤头植钉如狼牙，劈砸挑抡，穿甲坏创。
-    translated: 
+    text: "以坚木为棒身，锤头植钉如狼牙，劈砸挑抡，穿甲坏创。"
+    translated: ""
 - lineNum: 89
-  raw: eq10516	月牙铲	temp	又称方便铲，原本并非兵器，而是佛门苦行僧、头陀修行必备的工具。	106	100	50	TRUE	0	50		7	100	100	(Spear,20)	10		0	
-  translated: 
+  raw: "eq10516	月牙铲	temp	又称方便铲，原本并非兵器，而是佛门苦行僧、头陀修行必备的工具。	106	100	50	TRUE	0	50		7	100	100	(Spear,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 月牙铲
-    translated: 
+    text: "月牙铲"
+    translated: ""
   - split: 3
-    text: 又称方便铲，原本并非兵器，而是佛门苦行僧、头陀修行必备的工具。
-    translated: 
+    text: "又称方便铲，原本并非兵器，而是佛门苦行僧、头陀修行必备的工具。"
+    translated: ""
 - lineNum: 90
-  raw: eq10518	锄头	eq10518	常见于乡间农家，由一根木制长柄及一块金属组成。	106	100	50	TRUE	0	1	ac3c0073	11	20	20	(Spear,9)	15		0	(it70102,1)(it70201,1)
-  translated: 
+  raw: "eq10518	锄头	eq10518	常见于乡间农家，由一根木制长柄及一块金属组成。	106	100	50	TRUE	0	1	ac3c0073	11	20	20	(Spear,9)	15		0	(it70102,1)(it70201,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 锄头
-    translated: 
+    text: "锄头"
+    translated: ""
   - split: 3
-    text: 常见于乡间农家，由一根木制长柄及一块金属组成。
-    translated: 
+    text: "常见于乡间农家，由一根木制长柄及一块金属组成。"
+    translated: ""
 - lineNum: 91
-  raw: eq10519	竹扫把	eq10519	随处可见的家庭用具，偶尔拿来打架也无不可。	106	100	50	TRUE	0	1	wpt10015	3	20	20	(Spear,5)	15		0	
-  translated: 
+  raw: "eq10519	竹扫把	eq10519	随处可见的家庭用具，偶尔拿来打架也无不可。	106	100	50	TRUE	0	1	wpt10015	3	20	20	(Spear,5)	15		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 竹扫把
-    translated: 
+    text: "竹扫把"
+    translated: ""
   - split: 3
-    text: 随处可见的家庭用具，偶尔拿来打架也无不可。
-    translated: 
+    text: "随处可见的家庭用具，偶尔拿来打架也无不可。"
+    translated: ""
 - lineNum: 92
-  raw: eq10520	关刀	eq10520	长柄刀一种，因其重量较重，所以斩、劈的威力非同小可，但也因此不适用于战场杀敌。	106	4500	2250	TRUE	1	50	ac3c0029	45	101	101	(Blade,100)(Spear,100)	10		0	(it70102,2)(it70101,1)
-  translated: 
+  raw: "eq10520	关刀	eq10520	长柄刀一种，因其重量较重，所以斩、劈的威力非同小可，但也因此不适用于战场杀敌。	106	4500	2250	TRUE	1	50	ac3c0029	45	101	101	(Blade,100)(Spear,100)	10		0	(it70102,2)(it70101,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 关刀
-    translated: 
+    text: "关刀"
+    translated: ""
   - split: 3
-    text: 长柄刀一种，因其重量较重，所以斩、劈的威力非同小可，但也因此不适用于战场杀敌。
-    translated: 
+    text: "长柄刀一种，因其重量较重，所以斩、劈的威力非同小可，但也因此不适用于战场杀敌。"
+    translated: ""
 - lineNum: 93
-  raw: eq10521	钓竿	eq10521	钓鱼用的器具，重量轻，质料坚韧。	106	200	100	TRUE	0	2	ac3c0019	6	36	36	(Spear,5)	15		0	(it70201,1)
-  translated: 
+  raw: "eq10521	钓竿	eq10521	钓鱼用的器具，重量轻，质料坚韧。	106	200	100	TRUE	0	2	ac3c0019	6	36	36	(Spear,5)	15		0	(it70201,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 钓竿
-    translated: 
+    text: "钓竿"
+    translated: ""
   - split: 3
-    text: 钓鱼用的器具，重量轻，质料坚韧。
-    translated: 
+    text: "钓鱼用的器具，重量轻，质料坚韧。"
+    translated: ""
 - lineNum: 94
-  raw: eq10522	三朵神枪	eq10522	木府第一高手图勒的配枪，以三朵神为名，象征其守护木府的决心。	106	19000	9500	TRUE	3	99	ac3c0035	57	95	95	(Spear,245)	3		wounded08,weapon0522	(it70110,1)(it70104,1)(it70102,2)
-  translated: 
+  raw: "eq10522	三朵神枪	eq10522	木府第一高手图勒的配枪，以三朵神为名，象征其守护木府的决心。	106	19000	9500	TRUE	3	99	ac3c0035	57	95	95	(Spear,245)	3		wounded08,weapon0522	(it70110,1)(it70104,1)(it70102,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 三朵神枪
-    translated: 
+    text: "三朵神枪"
+    translated: ""
   - split: 3
-    text: 木府第一高手图勒的配枪，以三朵神为名，象征其守护木府的决心。
-    translated: 
+    text: "木府第一高手图勒的配枪，以三朵神为名，象征其守护木府的决心。"
+    translated: ""
 - lineNum: 95
-  raw: eq10523	斑驳木棍	eq10523	被弃置不用的木棍，本身也非良材，已经斑驳腐蚀，感觉似乎很容易便会折断。	106	200	100	TRUE	0	2	ac3c0030	15	30	30	(Spear,15)	15		0	(it70201,1)
-  translated: 
+  raw: "eq10523	斑驳木棍	eq10523	被弃置不用的木棍，本身也非良材，已经斑驳腐蚀，感觉似乎很容易便会折断。	106	200	100	TRUE	0	2	ac3c0030	15	30	30	(Spear,15)	15		0	(it70201,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 斑驳木棍
-    translated: 
+    text: "斑驳木棍"
+    translated: ""
   - split: 3
-    text: 被弃置不用的木棍，本身也非良材，已经斑驳腐蚀，感觉似乎很容易便会折断。
-    translated: 
+    text: "被弃置不用的木棍，本身也非良材，已经斑驳腐蚀，感觉似乎很容易便会折断。"
+    translated: ""
 - lineNum: 96
-  raw: eq10524	玉龙神枪	eq10524	原为木府高手金昆的配枪，后传给木奎使用。其以雪山玉龙为名，象征其守护纳西族人的决心。	106	19000	9500	TRUE	3	99	ac3c0068	52	95	95	(Spear,240)	3		wounded08,weapon0524	(it70110,1)(it70104,1)(it70102,2)
-  translated: 
+  raw: "eq10524	玉龙神枪	eq10524	原为木府高手金昆的配枪，后传给木奎使用。其以雪山玉龙为名，象征其守护纳西族人的决心。	106	19000	9500	TRUE	3	99	ac3c0068	52	95	95	(Spear,240)	3		wounded08,weapon0524	(it70110,1)(it70104,1)(it70102,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 玉龙神枪
-    translated: 
+    text: "玉龙神枪"
+    translated: ""
   - split: 3
-    text: 原为木府高手金昆的配枪，后传给木奎使用。其以雪山玉龙为名，象征其守护纳西族人的决心。
-    translated: 
+    text: "原为木府高手金昆的配枪，后传给木奎使用。其以雪山玉龙为名，象征其守护纳西族人的决心。"
+    translated: ""
 - lineNum: 97
-  raw: eq10525	丈八槊	eq10525	丈八长的槊，沉重无比，力大者方能刺收自如。	106	17000	8500	TRUE	3	99	ac3c0071	45	95	95	(Spear,235)	5		0	(it70113,1)(it70103,1)(it70101,1)
-  translated: 
+  raw: "eq10525	丈八槊	eq10525	丈八长的槊，沉重无比，力大者方能刺收自如。	106	17000	8500	TRUE	3	99	ac3c0071	45	95	95	(Spear,235)	5		0	(it70113,1)(it70103,1)(it70101,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 丈八槊
-    translated: 
+    text: "丈八槊"
+    translated: ""
   - split: 3
-    text: 丈八长的槊，沉重无比，力大者方能刺收自如。
-    translated: 
+    text: "丈八长的槊，沉重无比，力大者方能刺收自如。"
+    translated: ""
 - lineNum: 98
-  raw: eq10526	如意金箍棒	eq10526	传说中齐天大圣孙悟空的神兵，原为东海的定海神针，重达一万三千五百斤，可随心变幻大小.....才怪，这根不明铁棒是北丑不知哪里弄来的道具，但重量颇沉、操作不易，若是真被打到也是会很痛的。	106	10000	5000	TRUE	3	70	ac3c0077	40	99	99	(Spear,260)	60		0	(it70107,1)(it70103,2)
-  translated: 
+  raw: "eq10526	如意金箍棒	eq10526	传说中齐天大圣孙悟空的神兵，原为东海的定海神针，重达一万三千五百斤，可随心变幻大小.....才怪，这根不明铁棒是北丑不知哪里弄来的道具，但重量颇沉、操作不易，若是真被打到也是会很痛的。	106	10000	5000	TRUE	3	70	ac3c0077	40	99	99	(Spear,260)	60		0	(it70107,1)(it70103,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 如意金箍棒
-    translated: 
+    text: "如意金箍棒"
+    translated: ""
   - split: 3
-    text: 传说中齐天大圣孙悟空的神兵，原为东海的定海神针，重达一万三千五百斤，可随心变幻大小.....才怪，这根不明铁棒是北丑不知哪里弄来的道具，但重量颇沉、操作不易，若是真被打到也是会很痛的。
-    translated: 
+    text: "传说中齐天大圣孙悟空的神兵，原为东海的定海神针，重达一万三千五百斤，可随心变幻大小.....才怪，这根不明铁棒是北丑不知哪里弄来的道具，但重量颇沉、操作不易，若是真被打到也是会很痛的。"
+    translated: ""
 - lineNum: 99
-  raw: eq10527	冷艳锯	eq10520	三国时代武圣关羽所使用的配刀，伴他一生斩敌无数。	106	24000	12000	TRUE	5	99	ac3c0029	82	150	150	(Blade,335)(Spear,335)	3		0	(it70111,4)
-  translated: 
+  raw: "eq10527	冷艳锯	eq10520	三国时代武圣关羽所使用的配刀，伴他一生斩敌无数。	106	24000	12000	TRUE	5	99	ac3c0029	82	150	150	(Blade,335)(Spear,335)	3		0	(it70111,4)"
+  translated: ""
   splits:
   - split: 1
-    text: 冷艳锯
-    translated: 
+    text: "冷艳锯"
+    translated: ""
   - split: 3
-    text: 三国时代武圣关羽所使用的配刀，伴他一生斩敌无数。
-    translated: 
+    text: "三国时代武圣关羽所使用的配刀，伴他一生斩敌无数。"
+    translated: ""
 - lineNum: 100
-  raw: eq10528	子午竿	eq10521	神秘的钓竿，配合枪棍高手使用威力惊人。	106	21000	10500	TRUE	5	99	ac3c0019	9	100	100	(Spear,270)	3		PointAddCombo_1	(it70208,3)(it70209,1)
-  translated: 
+  raw: "eq10528	子午竿	eq10521	神秘的钓竿，配合枪棍高手使用威力惊人。	106	21000	10500	TRUE	5	99	ac3c0019	9	100	100	(Spear,270)	3		PointAddCombo_1	(it70208,3)(it70209,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 子午竿
-    translated: 
+    text: "子午竿"
+    translated: ""
   - split: 3
-    text: 神秘的钓竿，配合枪棍高手使用威力惊人。
-    translated: 
+    text: "神秘的钓竿，配合枪棍高手使用威力惊人。"
+    translated: ""
 - lineNum: 101
-  raw: eq10529	关刀王	eq10520	为了模仿偶像，某位仁兄不惜巨资打造出这把武器。可惜过于沉重，最后仅沦为观赏用的艺品。	106	15000	7500	TRUE	2	50	ac3c0029	69	90	90	(Blade,210)(Spear,210)	5		0	(it70103,4)(it70104,1)
-  translated: 
+  raw: "eq10529	关刀王	eq10520	为了模仿偶像，某位仁兄不惜巨资打造出这把武器。可惜过于沉重，最后仅沦为观赏用的艺品。	106	15000	7500	TRUE	2	50	ac3c0029	69	90	90	(Blade,210)(Spear,210)	5		0	(it70103,4)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 关刀王
-    translated: 
+    text: "关刀王"
+    translated: ""
   - split: 3
-    text: 为了模仿偶像，某位仁兄不惜巨资打造出这把武器。可惜过于沉重，最后仅沦为观赏用的艺品。
-    translated: 
+    text: "为了模仿偶像，某位仁兄不惜巨资打造出这把武器。可惜过于沉重，最后仅沦为观赏用的艺品。"
+    translated: ""
 - lineNum: 102
-  raw: eq10530	竹扫把	eq10519	随处可见的家庭用具，偶尔拿来打架也无不可。	106	100	50	TRUE	0	1	ac3c0087	3	20	20	(Spear,5)	15		0	
-  translated: 
+  raw: "eq10530	竹扫把	eq10519	随处可见的家庭用具，偶尔拿来打架也无不可。	106	100	50	TRUE	0	1	ac3c0087	3	20	20	(Spear,5)	15		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 竹扫把
-    translated: 
+    text: "竹扫把"
+    translated: ""
   - split: 3
-    text: 随处可见的家庭用具，偶尔拿来打架也无不可。
-    translated: 
+    text: "随处可见的家庭用具，偶尔拿来打架也无不可。"
+    translated: ""
 - lineNum: 103
-  raw: eq10530b	竹扫把	eq10519	随处可见的家庭用具，偶尔拿来打架也无不可。	106	100	50	TRUE	0	1	wpt10112	3	20	20	(Spear,5)	15		0	
-  translated: 
+  raw: "eq10530b	竹扫把	eq10519	随处可见的家庭用具，偶尔拿来打架也无不可。	106	100	50	TRUE	0	1	wpt10112	3	20	20	(Spear,5)	15		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 竹扫把
-    translated: 
+    text: "竹扫把"
+    translated: ""
   - split: 3
-    text: 随处可见的家庭用具，偶尔拿来打架也无不可。
-    translated: 
+    text: "随处可见的家庭用具，偶尔拿来打架也无不可。"
+    translated: ""
 - lineNum: 104
-  raw: eq10531	形意无极	eq10531	骆元玉不知从哪儿得到的奇棍，棍身以致密坚实的紫檀及铁刀木制成，挥舞起来威力惊人。	106	7000	3500	TRUE	5	70	ac3c0030	15	65	65	(Spear,55)	5		injured06	(it70208,1)(it70209,1)
-  translated: 
+  raw: "eq10531	形意无极	eq10531	骆元玉不知从哪儿得到的奇棍，棍身以致密坚实的紫檀及铁刀木制成，挥舞起来威力惊人。	106	7000	3500	TRUE	5	70	ac3c0030	15	65	65	(Spear,55)	5		injured06	(it70208,1)(it70209,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 形意无极
-    translated: 
+    text: "形意无极"
+    translated: ""
   - split: 3
-    text: 骆元玉不知从哪儿得到的奇棍，棍身以致密坚实的紫檀及铁刀木制成，挥舞起来威力惊人。
-    translated: 
+    text: "骆元玉不知从哪儿得到的奇棍，棍身以致密坚实的紫檀及铁刀木制成，挥舞起来威力惊人。"
+    translated: ""
 - lineNum: 105
-  raw: eq10701	飞蝗石	eq10701	武林中人常用的暗器，取材随处可见的卵石。虽然并不锐利，但质地坚硬，赋予内劲后也能成为杀伤力强大的暗器。	107	200	100	TRUE	0	2	eq10701	2	20	20	(Arrow,15)	15		0	(it70102,1)
-  translated: 
+  raw: "eq10701	飞蝗石	eq10701	武林中人常用的暗器，取材随处可见的卵石。虽然并不锐利，但质地坚硬，赋予内劲后也能成为杀伤力强大的暗器。	107	200	100	TRUE	0	2	eq10701	2	20	20	(Arrow,15)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 飞蝗石
-    translated: 
+    text: "飞蝗石"
+    translated: ""
   - split: 3
-    text: 武林中人常用的暗器，取材随处可见的卵石。虽然并不锐利，但质地坚硬，赋予内劲后也能成为杀伤力强大的暗器。
-    translated: 
+    text: "武林中人常用的暗器，取材随处可见的卵石。虽然并不锐利，但质地坚硬，赋予内劲后也能成为杀伤力强大的暗器。"
+    translated: ""
 - lineNum: 106
-  raw: eq10702	飞镖	eq10702	又名脱手镖，前端锋利。	107	600	300	TRUE	0	6		2	29	29	(Arrow,30)	15		0	(it70102,1)
-  translated: 
+  raw: "eq10702	飞镖	eq10702	又名脱手镖，前端锋利。	107	600	300	TRUE	0	6		2	29	29	(Arrow,30)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 飞镖
-    translated: 
+    text: "飞镖"
+    translated: ""
   - split: 3
-    text: 又名脱手镖，前端锋利。
-    translated: 
+    text: "又名脱手镖，前端锋利。"
+    translated: ""
 - lineNum: 107
-  raw: eq10703	甩手箭	eq10703	由细竹制成，箭杆浑圆，前端削尖，后不加羽，犹如一根削尖的竹筷。	107	600	300	TRUE	0	6		2	24	24	(Arrow,35)	15		0	(it70101,1)
-  translated: 
+  raw: "eq10703	甩手箭	eq10703	由细竹制成，箭杆浑圆，前端削尖，后不加羽，犹如一根削尖的竹筷。	107	600	300	TRUE	0	6		2	24	24	(Arrow,35)	15		0	(it70101,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 甩手箭
-    translated: 
+    text: "甩手箭"
+    translated: ""
   - split: 3
-    text: 由细竹制成，箭杆浑圆，前端削尖，后不加羽，犹如一根削尖的竹筷。
-    translated: 
+    text: "由细竹制成，箭杆浑圆，前端削尖，后不加羽，犹如一根削尖的竹筷。"
+    translated: ""
 - lineNum: 108
-  raw: eq10704	铁莲子	eq10704	铁制暗器，因形如莲子而得名。	107	100	50	TRUE	2	50		3	40	40	(Arrow,50)	5		0	(it70102,1)
-  translated: 
+  raw: "eq10704	铁莲子	eq10704	铁制暗器，因形如莲子而得名。	107	100	50	TRUE	2	50		3	40	40	(Arrow,50)	5		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 铁莲子
-    translated: 
+    text: "铁莲子"
+    translated: ""
   - split: 3
-    text: 铁制暗器，因形如莲子而得名。
-    translated: 
+    text: "铁制暗器，因形如莲子而得名。"
+    translated: ""
 - lineNum: 109
-  raw: eq10705	飞针	eq10705	民家常见的绣花银针，轻巧且难以察觉，锐利细小的针尖适合用以射击人体特定穴道。	107	600	300	TRUE	0	6		1	23	23	(Arrow,27)	15		0	(it70101,1)
-  translated: 
+  raw: "eq10705	飞针	eq10705	民家常见的绣花银针，轻巧且难以察觉，锐利细小的针尖适合用以射击人体特定穴道。	107	600	300	TRUE	0	6		1	23	23	(Arrow,27)	15		0	(it70101,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 飞针
-    translated: 
+    text: "飞针"
+    translated: ""
   - split: 3
-    text: 民家常见的绣花银针，轻巧且难以察觉，锐利细小的针尖适合用以射击人体特定穴道。
-    translated: 
+    text: "民家常见的绣花银针，轻巧且难以察觉，锐利细小的针尖适合用以射击人体特定穴道。"
+    translated: ""
 - lineNum: 110
-  raw: eq10706	飞刀	eq10706	刀身锋锐，轻薄如纸，用于投掷伤人。	107	600	300	TRUE	0	6		2	31	31	(Arrow,32)	15		0	(it70102,1)
-  translated: 
+  raw: "eq10706	飞刀	eq10706	刀身锋锐，轻薄如纸，用于投掷伤人。	107	600	300	TRUE	0	6		2	31	31	(Arrow,32)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 飞刀
-    translated: 
+    text: "飞刀"
+    translated: ""
   - split: 3
-    text: 刀身锋锐，轻薄如纸，用于投掷伤人。
-    translated: 
+    text: "刀身锋锐，轻薄如纸，用于投掷伤人。"
+    translated: ""
 - lineNum: 111
-  raw: eq10707	如意珠	eq10707	以指拨弄，虽名为珠，实为微小铁丸，每珠重三四分，发射时近乎无声，速度极快。	107	2000	1000	TRUE	1	20		2	45	45	(Arrow,70)	10		0	(it70104,1)
-  translated: 
+  raw: "eq10707	如意珠	eq10707	以指拨弄，虽名为珠，实为微小铁丸，每珠重三四分，发射时近乎无声，速度极快。	107	2000	1000	TRUE	1	20		2	45	45	(Arrow,70)	10		0	(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 如意珠
-    translated: 
+    text: "如意珠"
+    translated: ""
   - split: 3
-    text: 以指拨弄，虽名为珠，实为微小铁丸，每珠重三四分，发射时近乎无声，速度极快。
-    translated: 
+    text: "以指拨弄，虽名为珠，实为微小铁丸，每珠重三四分，发射时近乎无声，速度极快。"
+    translated: ""
 - lineNum: 112
-  raw: eq10708	子母追魂钉	eq10708	能工巧匠打造的特殊暗器。乍看与寻常透骨钉无异，却能在途中飞散四射，出奇制胜。	107	2500	1250	TRUE	1	20		3	40	40	(Arrow,90)	10		0	(it70103,1)
-  translated: 
+  raw: "eq10708	子母追魂钉	eq10708	能工巧匠打造的特殊暗器。乍看与寻常透骨钉无异，却能在途中飞散四射，出奇制胜。	107	2500	1250	TRUE	1	20		3	40	40	(Arrow,90)	10		0	(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 子母追魂钉
-    translated: 
+    text: "子母追魂钉"
+    translated: ""
   - split: 3
-    text: 能工巧匠打造的特殊暗器。乍看与寻常透骨钉无异，却能在途中飞散四射，出奇制胜。
-    translated: 
+    text: "能工巧匠打造的特殊暗器。乍看与寻常透骨钉无异，却能在途中飞散四射，出奇制胜。"
+    translated: ""
 - lineNum: 113
-  raw: eq10709	乾坤圈	temp	乾坤圈是铁制圆圈，内外沿全部开刃，抛出后以旋飞击敌。艺精者可一手抛出两圈，但练成不易。	107	100	50	TRUE	1	50		3	20	20	(Arrow,20)	8		0	
-  translated: 
+  raw: "eq10709	乾坤圈	temp	乾坤圈是铁制圆圈，内外沿全部开刃，抛出后以旋飞击敌。艺精者可一手抛出两圈，但练成不易。	107	100	50	TRUE	1	50		3	20	20	(Arrow,20)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 乾坤圈
-    translated: 
+    text: "乾坤圈"
+    translated: ""
   - split: 3
-    text: 乾坤圈是铁制圆圈，内外沿全部开刃，抛出后以旋飞击敌。艺精者可一手抛出两圈，但练成不易。
-    translated: 
+    text: "乾坤圈是铁制圆圈，内外沿全部开刃，抛出后以旋飞击敌。艺精者可一手抛出两圈，但练成不易。"
+    translated: ""
 - lineNum: 114
-  raw: eq10710	梅花袖箭	eq10710	暗藏于衣袖之中的机关暗器，以铜铁制成圆筒，内装机括弹簧，能连发六箭伤人。	107	100	50	TRUE	1	50		4	20	20	(Arrow,25)	8		0	
-  translated: 
+  raw: "eq10710	梅花袖箭	eq10710	暗藏于衣袖之中的机关暗器，以铜铁制成圆筒，内装机括弹簧，能连发六箭伤人。	107	100	50	TRUE	1	50		4	20	20	(Arrow,25)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 梅花袖箭
-    translated: 
+    text: "梅花袖箭"
+    translated: ""
   - split: 3
-    text: 暗藏于衣袖之中的机关暗器，以铜铁制成圆筒，内装机括弹簧，能连发六箭伤人。
-    translated: 
+    text: "暗藏于衣袖之中的机关暗器，以铜铁制成圆筒，内装机括弹簧，能连发六箭伤人。"
+    translated: ""
 - lineNum: 115
-  raw: eq10711	铁蒺藜	temp	以尖锐的三角形铁片联缀成串，形若草本植物蒺藜，刺上有细小倒钩，创口难愈。	107	100	50	TRUE	1	50		3	20	20	(Arrow,25)	8		0	
-  translated: 
+  raw: "eq10711	铁蒺藜	temp	以尖锐的三角形铁片联缀成串，形若草本植物蒺藜，刺上有细小倒钩，创口难愈。	107	100	50	TRUE	1	50		3	20	20	(Arrow,25)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 铁蒺藜
-    translated: 
+    text: "铁蒺藜"
+    translated: ""
   - split: 3
-    text: 以尖锐的三角形铁片联缀成串，形若草本植物蒺藜，刺上有细小倒钩，创口难愈。
-    translated: 
+    text: "以尖锐的三角形铁片联缀成串，形若草本植物蒺藜，刺上有细小倒钩，创口难愈。"
+    translated: ""
 - lineNum: 116
-  raw: eq10712	繁星怒放	eq10712	一枚银色的机括匣子，一经拨动，会瞬间疾射出无数银针。号称出必见血、防不胜防。	107	13000	6500	TRUE	3	70		18	60	60	(Arrow,160)	3		0	(it70106,1)
-  translated: 
+  raw: "eq10712	繁星怒放	eq10712	一枚银色的机括匣子，一经拨动，会瞬间疾射出无数银针。号称出必见血、防不胜防。	107	13000	6500	TRUE	3	70		18	60	60	(Arrow,160)	3		0	(it70106,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 繁星怒放
-    translated: 
+    text: "繁星怒放"
+    translated: ""
   - split: 3
-    text: 一枚银色的机括匣子，一经拨动，会瞬间疾射出无数银针。号称出必见血、防不胜防。
-    translated: 
+    text: "一枚银色的机括匣子，一经拨动，会瞬间疾射出无数银针。号称出必见血、防不胜防。"
+    translated: ""
 - lineNum: 117
-  raw: eq10713	离火玄冰镖	temp	兵器谱中失传已久的暗器，由上古玄冰、离火熔岩两种截然不同的材质锻造而成，中者或如烈焰焚身、或如寒冰封脉，威力可布。	107	100	50	TRUE	2	50		3	20	20	(Arrow,60)	5		0	
-  translated: 
+  raw: "eq10713	离火玄冰镖	temp	兵器谱中失传已久的暗器，由上古玄冰、离火熔岩两种截然不同的材质锻造而成，中者或如烈焰焚身、或如寒冰封脉，威力可布。	107	100	50	TRUE	2	50		3	20	20	(Arrow,60)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 离火玄冰镖
-    translated: 
+    text: "离火玄冰镖"
+    translated: ""
   - split: 3
-    text: 兵器谱中失传已久的暗器，由上古玄冰、离火熔岩两种截然不同的材质锻造而成，中者或如烈焰焚身、或如寒冰封脉，威力可布。
-    translated: 
+    text: "兵器谱中失传已久的暗器，由上古玄冰、离火熔岩两种截然不同的材质锻造而成，中者或如烈焰焚身、或如寒冰封脉，威力可布。"
+    translated: ""
 - lineNum: 118
-  raw: eq10714	霹雳弹	eq10714	黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。	107	15000	7500	TRUE	3	40		10	70	70	(Arrow,180)	3		wounded15	(it70113,1)
-  translated: 
+  raw: "eq10714	霹雳弹	eq10714	黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。	107	15000	7500	TRUE	3	40		10	70	70	(Arrow,180)	3		wounded15	(it70113,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 霹雳弹
-    translated: 
+    text: "霹雳弹"
+    translated: ""
   - split: 3
-    text: 黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。
-    translated: 
+    text: "黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。"
+    translated: ""
 - lineNum: 119
-  raw: eq10714b	霹雳弹	eq10714	黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。	107	13500	6750	TRUE	3	70		10	70	70	(Arrow,150)	3		0	(it70113,1)
-  translated: 
+  raw: "eq10714b	霹雳弹	eq10714	黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。	107	13500	6750	TRUE	3	70		10	70	70	(Arrow,150)	3		0	(it70113,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 霹雳弹
-    translated: 
+    text: "霹雳弹"
+    translated: ""
   - split: 3
-    text: 黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。
-    translated: 
+    text: "黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。"
+    translated: ""
 - lineNum: 120
-  raw: eq10715	毒粉末	temp	有毒的粉末。	107	250	125	TRUE	0	50		1	25	25	(Arrow,20)	10		0	(it50201,1)
-  translated: 
+  raw: "eq10715	毒粉末	temp	有毒的粉末。	107	250	125	TRUE	0	50		1	25	25	(Arrow,20)	10		0	(it50201,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 毒粉末
-    translated: 
+    text: "毒粉末"
+    translated: ""
   - split: 3
-    text: 有毒的粉末。
-    translated: 
+    text: "有毒的粉末。"
+    translated: ""
 - lineNum: 121
-  raw: eq10716	无当飞刀	eq10716	传闻为古代精锐部队无当飞军所配备的飞刀，锐利无匹。	107	4000	2000	TRUE	2	50		2	40	40	(Arrow,100)	5		0	(it70108,1)
-  translated: 
+  raw: "eq10716	无当飞刀	eq10716	传闻为古代精锐部队无当飞军所配备的飞刀，锐利无匹。	107	4000	2000	TRUE	2	50		2	40	40	(Arrow,100)	5		0	(it70108,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 无当飞刀
-    translated: 
+    text: "无当飞刀"
+    translated: ""
   - split: 3
-    text: 传闻为古代精锐部队无当飞军所配备的飞刀，锐利无匹。
-    translated: 
+    text: "传闻为古代精锐部队无当飞军所配备的飞刀，锐利无匹。"
+    translated: ""
 - lineNum: 122
-  raw: eq10717	雷神槌	it801020	无坚不摧的雷神槌。	107	35000	17500	TRUE	5	99		3	200	200	(Arrow,370)	3		0	(it70107,2)(it70103,2)
-  translated: 
+  raw: "eq10717	雷神槌	it801020	无坚不摧的雷神槌。	107	35000	17500	TRUE	5	99		3	200	200	(Arrow,370)	3		0	(it70107,2)(it70103,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 雷神槌
-    translated: 
+    text: "雷神槌"
+    translated: ""
   - split: 3
-    text: 无坚不摧的雷神槌。
-    translated: 
+    text: "无坚不摧的雷神槌。"
+    translated: ""
 - lineNum: 123
-  raw: eq10718	青城神剑令	eq10718	一枚短剑造型的令牌，是青城弟子的身分证明，同时也可以做为暗器使用。	107	2500	1250	TRUE	1	30		5	54	54	(Arrow,90)	10		0	(it70103,1)
-  translated: 
+  raw: "eq10718	青城神剑令	eq10718	一枚短剑造型的令牌，是青城弟子的身分证明，同时也可以做为暗器使用。	107	2500	1250	TRUE	1	30		5	54	54	(Arrow,90)	10		0	(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 青城神剑令
-    translated: 
+    text: "青城神剑令"
+    translated: ""
   - split: 3
-    text: 一枚短剑造型的令牌，是青城弟子的身分证明，同时也可以做为暗器使用。
-    translated: 
+    text: "一枚短剑造型的令牌，是青城弟子的身分证明，同时也可以做为暗器使用。"
+    translated: ""
 - lineNum: 124
-  raw: eq10719	寻欢刀	eq10706	某位神秘刀客的飞刀，散发着冷冷的寒光。	107	30000	15000	TRUE	5	99		15	150	150	(Arrow,300)	3		0	(it70110,2)
-  translated: 
+  raw: "eq10719	寻欢刀	eq10706	某位神秘刀客的飞刀，散发着冷冷的寒光。	107	30000	15000	TRUE	5	99		15	150	150	(Arrow,300)	3		0	(it70110,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 寻欢刀
-    translated: 
+    text: "寻欢刀"
+    translated: ""
   - split: 3
-    text: 某位神秘刀客的飞刀，散发着冷冷的寒光。
-    translated: 
+    text: "某位神秘刀客的飞刀，散发着冷冷的寒光。"
+    translated: ""
 - lineNum: 125
-  raw: eq10720	黑血神针	eq10720	淬以黑血蛛毒的暗器，无声无息，见血封喉。	107	5000	2500	TRUE	2	50		5	53	53	(Arrow,115)	8		spiderpoison02	(it70103,1)
-  translated: 
+  raw: "eq10720	黑血神针	eq10720	淬以黑血蛛毒的暗器，无声无息，见血封喉。	107	5000	2500	TRUE	2	50		5	53	53	(Arrow,115)	8		spiderpoison02	(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 黑血神针
-    translated: 
+    text: "黑血神针"
+    translated: ""
   - split: 3
-    text: 淬以黑血蛛毒的暗器，无声无息，见血封喉。
-    translated: 
+    text: "淬以黑血蛛毒的暗器，无声无息，见血封喉。"
+    translated: ""
 - lineNum: 126
-  raw: eq10721	断魂蜈蚣标	temp	断魂蜈蚣标	107	1500	750	TRUE	1	50		5	45	45	(Arrow,30)	8		centipedepoison02	(it70103,1)
-  translated: 
+  raw: "eq10721	断魂蜈蚣标	temp	断魂蜈蚣标	107	1500	750	TRUE	1	50		5	45	45	(Arrow,30)	8		centipedepoison02	(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 断魂蜈蚣标
-    translated: 
+    text: "断魂蜈蚣标"
+    translated: ""
   - split: 3
-    text: 断魂蜈蚣标
-    translated: 
+    text: "断魂蜈蚣标"
+    translated: ""
 - lineNum: 127
-  raw: eq10722	毒蛇袖箭	eq10710	淬以蛇毒的袖箭，阴狠毒辣。	107	5000	2500	TRUE	2	50		5	41	41	(Arrow,125)	8		snakepoison02	(it70104,1)
-  translated: 
+  raw: "eq10722	毒蛇袖箭	eq10710	淬以蛇毒的袖箭，阴狠毒辣。	107	5000	2500	TRUE	2	50		5	41	41	(Arrow,125)	8		snakepoison02	(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 毒蛇袖箭
-    translated: 
+    text: "毒蛇袖箭"
+    translated: ""
   - split: 3
-    text: 淬以蛇毒的袖箭，阴狠毒辣。
-    translated: 
+    text: "淬以蛇毒的袖箭，阴狠毒辣。"
+    translated: ""
 - lineNum: 128
-  raw: eq10723	蝎尾针	temp	蝎尾针	107	1500	750	TRUE	1	50		5	45	45	(Arrow,30)	8		scorpionpoison02	(it70104,1)
-  translated: 
+  raw: "eq10723	蝎尾针	temp	蝎尾针	107	1500	750	TRUE	1	50		5	45	45	(Arrow,30)	8		scorpionpoison02	(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 蝎尾针
-    translated: 
+    text: "蝎尾针"
+    translated: ""
   - split: 3
-    text: 蝎尾针
-    translated: 
+    text: "蝎尾针"
+    translated: ""
 - lineNum: 129
-  raw: eq10801	长弓	eq10801	比起短弓，射程距离较长，精准度较高，适合步战或是长距离狙击之用。	108	600	300	TRUE	0	6	ac3b0031	20	43	43	(Bow,35)	15		0	(it70201,1)(it70604,1)
-  translated: 
+  raw: "eq10801	长弓	eq10801	比起短弓，射程距离较长，精准度较高，适合步战或是长距离狙击之用。	108	600	300	TRUE	0	6	ac3b0031	20	43	43	(Bow,35)	15		0	(it70201,1)(it70604,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 长弓
-    translated: 
+    text: "长弓"
+    translated: ""
   - split: 3
-    text: 比起短弓，射程距离较长，精准度较高，适合步战或是长距离狙击之用。
-    translated: 
+    text: "比起短弓，射程距离较长，精准度较高，适合步战或是长距离狙击之用。"
+    translated: ""
 - lineNum: 130
-  raw: eq10802	破损的武侯弩	temp	诸葛孔明所发明的强弩，可以连环射出多只箭矢。可惜已经损坏。	108	5000	4000	TRUE	0	50		3	50	50	(Bow,20)	10		0	
-  translated: 
+  raw: "eq10802	破损的武侯弩	temp	诸葛孔明所发明的强弩，可以连环射出多只箭矢。可惜已经损坏。	108	5000	4000	TRUE	0	50		3	50	50	(Bow,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 破损的武侯弩
-    translated: 
+    text: "破损的武侯弩"
+    translated: ""
   - split: 3
-    text: 诸葛孔明所发明的强弩，可以连环射出多只箭矢。可惜已经损坏。
-    translated: 
+    text: "诸葛孔明所发明的强弩，可以连环射出多只箭矢。可惜已经损坏。"
+    translated: ""
 - lineNum: 131
-  raw: eq10803	武侯弩	temp	诸葛孔明所发明的强弩，可以连环射出多只箭矢。	108	6000	4800	TRUE	1	50		5	50	50	(Bow,20)	8		0	
-  translated: 
+  raw: "eq10803	武侯弩	temp	诸葛孔明所发明的强弩，可以连环射出多只箭矢。	108	6000	4800	TRUE	1	50		5	50	50	(Bow,20)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 武侯弩
-    translated: 
+    text: "武侯弩"
+    translated: ""
   - split: 3
-    text: 诸葛孔明所发明的强弩，可以连环射出多只箭矢。
-    translated: 
+    text: "诸葛孔明所发明的强弩，可以连环射出多只箭矢。"
+    translated: ""
 - lineNum: 132
-  raw: eq10804	黄桦弓	temp	常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。	108	1000	500	TRUE	0	50	ac3b0031	18	37	37	(Bow,35)	10		0	(it70201,2)(it70604,1)
-  translated: 
+  raw: "eq10804	黄桦弓	temp	常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。	108	1000	500	TRUE	0	50	ac3b0031	18	37	37	(Bow,35)	10		0	(it70201,2)(it70604,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 黄桦弓
-    translated: 
+    text: "黄桦弓"
+    translated: ""
   - split: 3
-    text: 常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。
-    translated: 
+    text: "常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。"
+    translated: ""
 - lineNum: 133
-  raw: eq10805	黑漆弓	temp	常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。	108	100	50	TRUE	0	50		4	50	50	(Bow,20)	10		0	
-  translated: 
+  raw: "eq10805	黑漆弓	temp	常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。	108	100	50	TRUE	0	50		4	50	50	(Bow,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 黑漆弓
-    translated: 
+    text: "黑漆弓"
+    translated: ""
   - split: 3
-    text: 常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。
-    translated: 
+    text: "常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。"
+    translated: ""
 - lineNum: 134
-  raw: eq10806	麻背弓	temp	常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。	108	100	50	TRUE	0	50		4	50	50	(Bow,20)	10		0	
-  translated: 
+  raw: "eq10806	麻背弓	temp	常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。	108	100	50	TRUE	0	50		4	50	50	(Bow,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 麻背弓
-    translated: 
+    text: "麻背弓"
+    translated: ""
   - split: 3
-    text: 常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。
-    translated: 
+    text: "常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。"
+    translated: ""
 - lineNum: 135
-  raw: eq10807	黑檀弓	temp	以黑檀木制成的弓，轻盈坚韧。	108	100	50	TRUE	1	50		4	50	50	(Bow,20)	8		0	
-  translated: 
+  raw: "eq10807	黑檀弓	temp	以黑檀木制成的弓，轻盈坚韧。	108	100	50	TRUE	1	50		4	50	50	(Bow,20)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 黑檀弓
-    translated: 
+    text: "黑檀弓"
+    translated: ""
   - split: 3
-    text: 以黑檀木制成的弓，轻盈坚韧。
-    translated: 
+    text: "以黑檀木制成的弓，轻盈坚韧。"
+    translated: ""
 - lineNum: 136
-  raw: eq10808	雪山神鹰	eq10808	阿得阿克的佩弓，以雪山所产之寒铁打造而成。纳西族人崇敬阿得阿克射术无双，便在弓上雕鹰首为饰，以「雪山神鹰」称之。	108	7000	3500	TRUE	5	70	ac3b0032	22	70	70	(Bow,90)	5		wounded03,weapon0808	(it70110,1)(it70208,1)(it70604,1)
-  translated: 
+  raw: "eq10808	雪山神鹰	eq10808	阿得阿克的佩弓，以雪山所产之寒铁打造而成。纳西族人崇敬阿得阿克射术无双，便在弓上雕鹰首为饰，以「雪山神鹰」称之。	108	7000	3500	TRUE	5	70	ac3b0032	22	70	70	(Bow,90)	5		wounded03,weapon0808	(it70110,1)(it70208,1)(it70604,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 雪山神鹰
-    translated: 
+    text: "雪山神鹰"
+    translated: ""
   - split: 3
-    text: 阿得阿克的佩弓，以雪山所产之寒铁打造而成。纳西族人崇敬阿得阿克射术无双，便在弓上雕鹰首为饰，以「雪山神鹰」称之。
-    translated: 
+    text: "阿得阿克的佩弓，以雪山所产之寒铁打造而成。纳西族人崇敬阿得阿克射术无双，便在弓上雕鹰首为饰，以「雪山神鹰」称之。"
+    translated: ""
 - lineNum: 137
-  raw: eq10809	定天山	eq10809	传说为名将薛仁贵所用之弓。昔年唐军与回纥九姓十余万人交战于天山，薛仁贵连发三箭，三名骁将应声落马，震慑敌军，从此军中歌曰：将军三箭定天山，壮士长歌入汉关。	108	12000	6000	TRUE	3	80	ac3b0088	55	76	76	(Bow,225)	3		weapon0809	(it70605,1)(it70106,1)(it70113,1)
-  translated: 
+  raw: "eq10809	定天山	eq10809	传说为名将薛仁贵所用之弓。昔年唐军与回纥九姓十余万人交战于天山，薛仁贵连发三箭，三名骁将应声落马，震慑敌军，从此军中歌曰：将军三箭定天山，壮士长歌入汉关。	108	12000	6000	TRUE	3	80	ac3b0088	55	76	76	(Bow,225)	3		weapon0809	(it70605,1)(it70106,1)(it70113,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 定天山
-    translated: 
+    text: "定天山"
+    translated: ""
   - split: 3
-    text: 传说为名将薛仁贵所用之弓。昔年唐军与回纥九姓十余万人交战于天山，薛仁贵连发三箭，三名骁将应声落马，震慑敌军，从此军中歌曰：将军三箭定天山，壮士长歌入汉关。
-    translated: 
+    text: "传说为名将薛仁贵所用之弓。昔年唐军与回纥九姓十余万人交战于天山，薛仁贵连发三箭，三名骁将应声落马，震慑敌军，从此军中歌曰：将军三箭定天山，壮士长歌入汉关。"
+    translated: ""
 - lineNum: 138
-  raw: eq10810	百步穿杨	temp	传闻为古代神射手养由基之弓。养由基距离杨柳百步外放箭，每箭都能射中柳叶中心，自此，百步穿杨之名不胫而走。	108	5000	2500	TRUE	3	50		24	76	76	(Bow,105)	3		0	(it70209,1)(it70604,1)
-  translated: 
+  raw: "eq10810	百步穿杨	temp	传闻为古代神射手养由基之弓。养由基距离杨柳百步外放箭，每箭都能射中柳叶中心，自此，百步穿杨之名不胫而走。	108	5000	2500	TRUE	3	50		24	76	76	(Bow,105)	3		0	(it70209,1)(it70604,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 百步穿杨
-    translated: 
+    text: "百步穿杨"
+    translated: ""
   - split: 3
-    text: 传闻为古代神射手养由基之弓。养由基距离杨柳百步外放箭，每箭都能射中柳叶中心，自此，百步穿杨之名不胫而走。
-    translated: 
+    text: "传闻为古代神射手养由基之弓。养由基距离杨柳百步外放箭，每箭都能射中柳叶中心，自此，百步穿杨之名不胫而走。"
+    translated: ""
 - lineNum: 139
-  raw: eq10811	铁胎弓	eq10811	与木制弓不同，在弓背镶入金属，不论射程和威力都能大幅提升，也被称为「铁脊弓」。然而，没有足够力量的人，别说拉开弓弦了，只怕连拿着弓都嫌沉重。	108	3000	1500	TRUE	1	30	ac3b0056	40	70	70	(Bow,80)	10		0	(it70102,1)(it70604,1)
-  translated: 
+  raw: "eq10811	铁胎弓	eq10811	与木制弓不同，在弓背镶入金属，不论射程和威力都能大幅提升，也被称为「铁脊弓」。然而，没有足够力量的人，别说拉开弓弦了，只怕连拿着弓都嫌沉重。	108	3000	1500	TRUE	1	30	ac3b0056	40	70	70	(Bow,80)	10		0	(it70102,1)(it70604,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 铁胎弓
-    translated: 
+    text: "铁胎弓"
+    translated: ""
   - split: 3
-    text: 与木制弓不同，在弓背镶入金属，不论射程和威力都能大幅提升，也被称为「铁脊弓」。然而，没有足够力量的人，别说拉开弓弦了，只怕连拿着弓都嫌沉重。
-    translated: 
+    text: "与木制弓不同，在弓背镶入金属，不论射程和威力都能大幅提升，也被称为「铁脊弓」。然而，没有足够力量的人，别说拉开弓弦了，只怕连拿着弓都嫌沉重。"
+    translated: ""
 - lineNum: 140
-  raw: eq10812	短弓	eq10811	比起长弓，射程距离较短，精准度较低，但在短程距离内的杀伤力较强，适合骑射、狩猎之用。	108	500	250	TRUE	0	5	ac3b0091	16	40	40	(Bow,30)	15		0	(it70201,1)(it70604,1)
-  translated: 
+  raw: "eq10812	短弓	eq10811	比起长弓，射程距离较短，精准度较低，但在短程距离内的杀伤力较强，适合骑射、狩猎之用。	108	500	250	TRUE	0	5	ac3b0091	16	40	40	(Bow,30)	15		0	(it70201,1)(it70604,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 短弓
-    translated: 
+    text: "短弓"
+    translated: ""
   - split: 3
-    text: 比起长弓，射程距离较短，精准度较低，但在短程距离内的杀伤力较强，适合骑射、狩猎之用。
-    translated: 
+    text: "比起长弓，射程距离较短，精准度较低，但在短程距离内的杀伤力较强，适合骑射、狩猎之用。"
+    translated: ""
 - lineNum: 141
-  raw: eq10813	后羿弓	eq10801	传说中连太阳都能射下来的神弓。	108	18000	9000	TRUE	5	99	ac3b0031	70	150	150	(Bow,350)	3		0	(it70209,3)(it70606,1)
-  translated: 
+  raw: "eq10813	后羿弓	eq10801	传说中连太阳都能射下来的神弓。	108	18000	9000	TRUE	5	99	ac3b0031	70	150	150	(Bow,350)	3		0	(it70209,3)(it70606,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 后羿弓
-    translated: 
+    text: "后羿弓"
+    translated: ""
   - split: 3
-    text: 传说中连太阳都能射下来的神弓。
-    translated: 
+    text: "传说中连太阳都能射下来的神弓。"
+    translated: ""
 - lineNum: 142
-  raw: eq10901	陈旧匕首	eq10901	使用多年又未妥善维护的匕首，锋刃已钝，杀伤力有限。	109	200	100	TRUE	0	2	ac6c0083	4	26	26	(Short,9)(Sword,9)(TwoSword,9)(BladeSword,9)	15		0	(it70102,1)
-  translated: 
+  raw: "eq10901	陈旧匕首	eq10901	使用多年又未妥善维护的匕首，锋刃已钝，杀伤力有限。	109	200	100	TRUE	0	2	ac6c0083	4	26	26	(Short,9)(Sword,9)(TwoSword,9)(BladeSword,9)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 陈旧匕首
-    translated: 
+    text: "陈旧匕首"
+    translated: ""
   - split: 3
-    text: 使用多年又未妥善维护的匕首，锋刃已钝，杀伤力有限。
-    translated: 
+    text: "使用多年又未妥善维护的匕首，锋刃已钝，杀伤力有限。"
+    translated: ""
 - lineNum: 143
-  raw: eq10902	短剑	eq10902	轻短的短剑虽然欠缺长度，但隐蔽性佳，贴身搏斗时让人防不胜防。	109	500	250	TRUE	0	5	ac6c0055	3	40	40	(Short,25)(Sword,25)(TwoSword,25)(BladeSword,25)	15		0	(it70102,1)
-  translated: 
+  raw: "eq10902	短剑	eq10902	轻短的短剑虽然欠缺长度，但隐蔽性佳，贴身搏斗时让人防不胜防。	109	500	250	TRUE	0	5	ac6c0055	3	40	40	(Short,25)(Sword,25)(TwoSword,25)(BladeSword,25)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 短剑
-    translated: 
+    text: "短剑"
+    translated: ""
   - split: 3
-    text: 轻短的短剑虽然欠缺长度，但隐蔽性佳，贴身搏斗时让人防不胜防。
-    translated: 
+    text: "轻短的短剑虽然欠缺长度，但隐蔽性佳，贴身搏斗时让人防不胜防。"
+    translated: ""
 - lineNum: 144
-  raw: eq10903	苗族尖刀	temp	轻盈的曲刃短刀，刀锋锐利，刀柄多以木、牛角、兽骨制成，多在苗人庆典时作为刀舞用刀。	109	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	
-  translated: 
+  raw: "eq10903	苗族尖刀	temp	轻盈的曲刃短刀，刀锋锐利，刀柄多以木、牛角、兽骨制成，多在苗人庆典时作为刀舞用刀。	109	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 苗族尖刀
-    translated: 
+    text: "苗族尖刀"
+    translated: ""
   - split: 3
-    text: 轻盈的曲刃短刀，刀锋锐利，刀柄多以木、牛角、兽骨制成，多在苗人庆典时作为刀舞用刀。
-    translated: 
+    text: "轻盈的曲刃短刀，刀锋锐利，刀柄多以木、牛角、兽骨制成，多在苗人庆典时作为刀舞用刀。"
+    translated: ""
 - lineNum: 145
-  raw: eq10904	折勒干布刀	eq10904	吐蕃牧民随身携带的刀具，为纪念传说中的吐蕃英雄－－折勒干布，简称为「折刀」。	109	700	350	TRUE	0	7	ac6c0102	3	45	45	(Short,40)(Sword,40)(TwoSword,40)(BladeSword,40)	15		0	(it70102,1)(it70106,1)
-  translated: 
+  raw: "eq10904	折勒干布刀	eq10904	吐蕃牧民随身携带的刀具，为纪念传说中的吐蕃英雄－－折勒干布，简称为「折刀」。	109	700	350	TRUE	0	7	ac6c0102	3	45	45	(Short,40)(Sword,40)(TwoSword,40)(BladeSword,40)	15		0	(it70102,1)(it70106,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 折勒干布刀
-    translated: 
+    text: "折勒干布刀"
+    translated: ""
   - split: 3
-    text: 吐蕃牧民随身携带的刀具，为纪念传说中的吐蕃英雄－－折勒干布，简称为「折刀」。
-    translated: 
+    text: "吐蕃牧民随身携带的刀具，为纪念传说中的吐蕃英雄－－折勒干布，简称为「折刀」。"
+    translated: ""
 - lineNum: 146
-  raw: eq10905	精锋短剑	eq10905	巧匠所造的锋利短剑，坚固耐用。	109	1500	750	TRUE	1	15	ac6c0053	3	50	50	(Short,55)(Sword,55)(TwoSword,55)(BladeSword,55)	10		0	(it70102,1)
-  translated: 
+  raw: "eq10905	精锋短剑	eq10905	巧匠所造的锋利短剑，坚固耐用。	109	1500	750	TRUE	1	15	ac6c0053	3	50	50	(Short,55)(Sword,55)(TwoSword,55)(BladeSword,55)	10		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 精锋短剑
-    translated: 
+    text: "精锋短剑"
+    translated: ""
   - split: 3
-    text: 巧匠所造的锋利短剑，坚固耐用。
-    translated: 
+    text: "巧匠所造的锋利短剑，坚固耐用。"
+    translated: ""
 - lineNum: 147
-  raw: eq10906	八斩刀	temp	南方常见的短兵器，通常成对使用。刀刃约等于前臂长度，刃宽厚利于格挡和反手刀，护手除了防护作用，还可用以勾取对方兵器。	109	100	50	TRUE	1	50		4	80	80	(Short,20)	8		0	(it70102,1)
-  translated: 
+  raw: "eq10906	八斩刀	temp	南方常见的短兵器，通常成对使用。刀刃约等于前臂长度，刃宽厚利于格挡和反手刀，护手除了防护作用，还可用以勾取对方兵器。	109	100	50	TRUE	1	50		4	80	80	(Short,20)	8		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 八斩刀
-    translated: 
+    text: "八斩刀"
+    translated: ""
   - split: 3
-    text: 南方常见的短兵器，通常成对使用。刀刃约等于前臂长度，刃宽厚利于格挡和反手刀，护手除了防护作用，还可用以勾取对方兵器。
-    translated: 
+    text: "南方常见的短兵器，通常成对使用。刀刃约等于前臂长度，刃宽厚利于格挡和反手刀，护手除了防护作用，还可用以勾取对方兵器。"
+    translated: ""
 - lineNum: 148
-  raw: eq10907	精钢簪	temp	看似平凡的女子饰物，实则由精钢铸成，尖端锋锐异常，可在目标沉溺温柔乡之际轻易夺走其性命。	109	1800	900	TRUE	1	50		2	80	80	(Short,40)	8		0	(it70103,2)
-  translated: 
+  raw: "eq10907	精钢簪	temp	看似平凡的女子饰物，实则由精钢铸成，尖端锋锐异常，可在目标沉溺温柔乡之际轻易夺走其性命。	109	1800	900	TRUE	1	50		2	80	80	(Short,40)	8		0	(it70103,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 精钢簪
-    translated: 
+    text: "精钢簪"
+    translated: ""
   - split: 3
-    text: 看似平凡的女子饰物，实则由精钢铸成，尖端锋锐异常，可在目标沉溺温柔乡之际轻易夺走其性命。
-    translated: 
+    text: "看似平凡的女子饰物，实则由精钢铸成，尖端锋锐异常，可在目标沉溺温柔乡之际轻易夺走其性命。"
+    translated: ""
 - lineNum: 149
-  raw: eq10908	分光刺	eq10908	轻巧锐利的短刃，贴身近战时杀伤力十足。	109	1800	900	TRUE	1	20	ac6c0013	4	38	38	(Short,70)	10		0	(it70102,1)
-  translated: 
+  raw: "eq10908	分光刺	eq10908	轻巧锐利的短刃，贴身近战时杀伤力十足。	109	1800	900	TRUE	1	20	ac6c0013	4	38	38	(Short,70)	10		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 分光刺
-    translated: 
+    text: "分光刺"
+    translated: ""
   - split: 3
-    text: 轻巧锐利的短刃，贴身近战时杀伤力十足。
-    translated: 
+    text: "轻巧锐利的短刃，贴身近战时杀伤力十足。"
+    translated: ""
 - lineNum: 150
-  raw: eq10909	丛林弯刀	eq10909	刀刃向内弯曲，与一般弯刀相反，专为应付丛林的险恶环境所设计。	109	1000	500	TRUE	1	10	ac6c0033	8	48	48	(Short,45)(Blade,45)(TwoBlade,45)(BladeSword,45)	10		0	(it70103,1)
-  translated: 
+  raw: "eq10909	丛林弯刀	eq10909	刀刃向内弯曲，与一般弯刀相反，专为应付丛林的险恶环境所设计。	109	1000	500	TRUE	1	10	ac6c0033	8	48	48	(Short,45)(Blade,45)(TwoBlade,45)(BladeSword,45)	10		0	(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 丛林弯刀
-    translated: 
+    text: "丛林弯刀"
+    translated: ""
   - split: 3
-    text: 刀刃向内弯曲，与一般弯刀相反，专为应付丛林的险恶环境所设计。
-    translated: 
+    text: "刀刃向内弯曲，与一般弯刀相反，专为应付丛林的险恶环境所设计。"
+    translated: ""
 - lineNum: 151
-  raw: eq10910	蝉翼	eq10910	剑刃薄如蝉翼，轻盈宛若无物，却又无比锋利。此剑经名匠日夜雕琢而成，实乃巧夺天工之作。	109	7000	3500	TRUE	5	70	ac6c0067	4	60	60	(Short,57)(Blade,57)(TwoBlade,57)(BladeSword,57)	5		PointAddTrick_2	(it70110,1)
-  translated: 
+  raw: "eq10910	蝉翼	eq10910	剑刃薄如蝉翼，轻盈宛若无物，却又无比锋利。此剑经名匠日夜雕琢而成，实乃巧夺天工之作。	109	7000	3500	TRUE	5	70	ac6c0067	4	60	60	(Short,57)(Blade,57)(TwoBlade,57)(BladeSword,57)	5		PointAddTrick_2	(it70110,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 蝉翼
-    translated: 
+    text: "蝉翼"
+    translated: ""
   - split: 3
-    text: 剑刃薄如蝉翼，轻盈宛若无物，却又无比锋利。此剑经名匠日夜雕琢而成，实乃巧夺天工之作。
-    translated: 
+    text: "剑刃薄如蝉翼，轻盈宛若无物，却又无比锋利。此剑经名匠日夜雕琢而成，实乃巧夺天工之作。"
+    translated: ""
 - lineNum: 152
-  raw: eq10918	晴日虹光	eq10918	一把明亮锋利的匕首，锋刃薄利并有虹光流映，因此得名。	109	5000	2500	TRUE	2	50	ac6c0093	14	60	60	(Short,110)(Blade,110)(TwoBlade,110)(BladeSword,110)	5		0	(it70104,1)
-  translated: 
+  raw: "eq10918	晴日虹光	eq10918	一把明亮锋利的匕首，锋刃薄利并有虹光流映，因此得名。	109	5000	2500	TRUE	2	50	ac6c0093	14	60	60	(Short,110)(Blade,110)(TwoBlade,110)(BladeSword,110)	5		0	(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 晴日虹光
-    translated: 
+    text: "晴日虹光"
+    translated: ""
   - split: 3
-    text: 一把明亮锋利的匕首，锋刃薄利并有虹光流映，因此得名。
-    translated: 
+    text: "一把明亮锋利的匕首，锋刃薄利并有虹光流映，因此得名。"
+    translated: ""
 - lineNum: 153
-  raw: eq10911	玉龙宝剑	eq10911	木府代代相传的宝剑，也是统治者尊贵的象征。	109	5000	2500	TRUE	2	50	ac6c0057	15	65	65	(Short,120)(Sword,120)(TwoSword,120)(BladeSword,120)	5		0	(it70113,1)
-  translated: 
+  raw: "eq10911	玉龙宝剑	eq10911	木府代代相传的宝剑，也是统治者尊贵的象征。	109	5000	2500	TRUE	2	50	ac6c0057	15	65	65	(Short,120)(Sword,120)(TwoSword,120)(BladeSword,120)	5		0	(it70113,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 玉龙宝剑
-    translated: 
+    text: "玉龙宝剑"
+    translated: ""
   - split: 3
-    text: 木府代代相传的宝剑，也是统治者尊贵的象征。
-    translated: 
+    text: "木府代代相传的宝剑，也是统治者尊贵的象征。"
+    translated: ""
 - lineNum: 154
-  raw: eq10912	骐骥	eq10912	禾泓渊的成名兵器，川蜀一带的绿林盗匪一见此刀，无不胆寒。	109	7000	3500	TRUE	5	70	ac6c0015	8	60	60	(Short,71)(Blade,71)(TwoBlade,71)(BladeSword,71)	5		wounded04,weapon0912	(it70111,1)(it70104,1)
-  translated: 
+  raw: "eq10912	骐骥	eq10912	禾泓渊的成名兵器，川蜀一带的绿林盗匪一见此刀，无不胆寒。	109	7000	3500	TRUE	5	70	ac6c0015	8	60	60	(Short,71)(Blade,71)(TwoBlade,71)(BladeSword,71)	5		wounded04,weapon0912	(it70111,1)(it70104,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 骐骥
-    translated: 
+    text: "骐骥"
+    translated: ""
   - split: 3
-    text: 禾泓渊的成名兵器，川蜀一带的绿林盗匪一见此刀，无不胆寒。
-    translated: 
+    text: "禾泓渊的成名兵器，川蜀一带的绿林盗匪一见此刀，无不胆寒。"
+    translated: ""
 - lineNum: 155
-  raw: eq10913	菜刀	eq10913	每个家庭都需要的东西，切菜的时候很好用，打架的时候就不一定了。	109	200	100	TRUE	0	2	ac6c0084	4	28	28	(Short,10)(Blade,10)(TwoBlade,10)(BladeSword,10)	15		0	(it70102,1)
-  translated: 
+  raw: "eq10913	菜刀	eq10913	每个家庭都需要的东西，切菜的时候很好用，打架的时候就不一定了。	109	200	100	TRUE	0	2	ac6c0084	4	28	28	(Short,10)(Blade,10)(TwoBlade,10)(BladeSword,10)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 菜刀
-    translated: 
+    text: "菜刀"
+    translated: ""
   - split: 3
-    text: 每个家庭都需要的东西，切菜的时候很好用，打架的时候就不一定了。
-    translated: 
+    text: "每个家庭都需要的东西，切菜的时候很好用，打架的时候就不一定了。"
+    translated: ""
 - lineNum: 156
-  raw: eq10914	猎刀	eq10914	坚韧而锐利的短刀，主要用于野外狩猎时与野兽搏斗、分割兽肉、切剥兽皮等用途。	109	600	300	TRUE	0	6	ac6c0101	4	40	40	(Short,28)(Blade,28)(TwoBlade,28)(BladeSword,28)	15		blade01	(it70102,2)
-  translated: 
+  raw: "eq10914	猎刀	eq10914	坚韧而锐利的短刀，主要用于野外狩猎时与野兽搏斗、分割兽肉、切剥兽皮等用途。	109	600	300	TRUE	0	6	ac6c0101	4	40	40	(Short,28)(Blade,28)(TwoBlade,28)(BladeSword,28)	15		blade01	(it70102,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 猎刀
-    translated: 
+    text: "猎刀"
+    translated: ""
   - split: 3
-    text: 坚韧而锐利的短刀，主要用于野外狩猎时与野兽搏斗、分割兽肉、切剥兽皮等用途。
-    translated: 
+    text: "坚韧而锐利的短刀，主要用于野外狩猎时与野兽搏斗、分割兽肉、切剥兽皮等用途。"
+    translated: ""
 - lineNum: 157
-  raw: eq10915	菡萏戏蝶金剑	eq10915	由赤钢制成的成对短剑，外型精致华美，金剑剑身镶以金丝花纹，剑柄饰以龙血晶石。双剑使来轻巧凌厉，华光绚丽，眩人眼目。	109	7000	3500	TRUE	5	70	ac6c0091	4	45	45	(Short,40)(Sword,40)(TwoSword,40)(BladeSword,40)	5		PointAddCombo_1	(it70105,1)
-  translated: 
+  raw: "eq10915	菡萏戏蝶金剑	eq10915	由赤钢制成的成对短剑，外型精致华美，金剑剑身镶以金丝花纹，剑柄饰以龙血晶石。双剑使来轻巧凌厉，华光绚丽，眩人眼目。	109	7000	3500	TRUE	5	70	ac6c0091	4	45	45	(Short,40)(Sword,40)(TwoSword,40)(BladeSword,40)	5		PointAddCombo_1	(it70105,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 菡萏戏蝶金剑
-    translated: 
+    text: "菡萏戏蝶金剑"
+    translated: ""
   - split: 3
-    text: 由赤钢制成的成对短剑，外型精致华美，金剑剑身镶以金丝花纹，剑柄饰以龙血晶石。双剑使来轻巧凌厉，华光绚丽，眩人眼目。
-    translated: 
+    text: "由赤钢制成的成对短剑，外型精致华美，金剑剑身镶以金丝花纹，剑柄饰以龙血晶石。双剑使来轻巧凌厉，华光绚丽，眩人眼目。"
+    translated: ""
 - lineNum: 158
-  raw: eq10916	菡萏戏蝶银剑	eq10916	由赤钢制成的成对短剑，外型精致华美，银剑剑身镶以银丝花纹，剑柄镶嵌龙眼珍珠。双剑使来轻巧凌厉，华光绚丽，眩人眼目。	109	7000	3500	TRUE	5	70	ac6c0090	4	45	45	(Short,40)(Sword,40)(TwoSword,40)(BladeSword,40)	5		PointAddTrick_1	(it70105,1)
-  translated: 
+  raw: "eq10916	菡萏戏蝶银剑	eq10916	由赤钢制成的成对短剑，外型精致华美，银剑剑身镶以银丝花纹，剑柄镶嵌龙眼珍珠。双剑使来轻巧凌厉，华光绚丽，眩人眼目。	109	7000	3500	TRUE	5	70	ac6c0090	4	45	45	(Short,40)(Sword,40)(TwoSword,40)(BladeSword,40)	5		PointAddTrick_1	(it70105,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 菡萏戏蝶银剑
-    translated: 
+    text: "菡萏戏蝶银剑"
+    translated: ""
   - split: 3
-    text: 由赤钢制成的成对短剑，外型精致华美，银剑剑身镶以银丝花纹，剑柄镶嵌龙眼珍珠。双剑使来轻巧凌厉，华光绚丽，眩人眼目。
-    translated: 
+    text: "由赤钢制成的成对短剑，外型精致华美，银剑剑身镶以银丝花纹，剑柄镶嵌龙眼珍珠。双剑使来轻巧凌厉，华光绚丽，眩人眼目。"
+    translated: ""
 - lineNum: 159
-  raw: eq10917	短刀	eq10917	江湖中人常用的短兵刃，有言道：「一寸短，一寸险」，运使此兵刃之要诀便在于快速切进目标死角，一击毙敌。	109	500	250	TRUE	0	5	ac6c0092	3	35	35	(Short,25)(Blade,25)(TwoBlade,25)(BladeSword,25)	15		0	(it70102,1)
-  translated: 
+  raw: "eq10917	短刀	eq10917	江湖中人常用的短兵刃，有言道：「一寸短，一寸险」，运使此兵刃之要诀便在于快速切进目标死角，一击毙敌。	109	500	250	TRUE	0	5	ac6c0092	3	35	35	(Short,25)(Blade,25)(TwoBlade,25)(BladeSword,25)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 短刀
-    translated: 
+    text: "短刀"
+    translated: ""
   - split: 3
-    text: 江湖中人常用的短兵刃，有言道：「一寸短，一寸险」，运使此兵刃之要诀便在于快速切进目标死角，一击毙敌。
-    translated: 
+    text: "江湖中人常用的短兵刃，有言道：「一寸短，一寸险」，运使此兵刃之要诀便在于快速切进目标死角，一击毙敌。"
+    translated: ""
 - lineNum: 160
-  raw: eq10919	蛹蛉刀	eq10919	承担「灶娘」称号者代代相传的神器，其名号由上古一路流传至今只留存原音，实际文字已不可考。传说若将此刀用于料理以外的用途会使其失却锋芒，所以灶娘总是在战斗后将敌人的鲜血收集起来，做成猪血糕。	109	7000	3500	TRUE	3	70	ac6c0098	20	80	80	(Short,165)(Blade,165)(TwoBlade,165)(BladeSword,165)	3		0	(it70110,1)(it70103,1)
-  translated: 
+  raw: "eq10919	蛹蛉刀	eq10919	承担「灶娘」称号者代代相传的神器，其名号由上古一路流传至今只留存原音，实际文字已不可考。传说若将此刀用于料理以外的用途会使其失却锋芒，所以灶娘总是在战斗后将敌人的鲜血收集起来，做成猪血糕。	109	7000	3500	TRUE	3	70	ac6c0098	20	80	80	(Short,165)(Blade,165)(TwoBlade,165)(BladeSword,165)	3		0	(it70110,1)(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 蛹蛉刀
-    translated: 
+    text: "蛹蛉刀"
+    translated: ""
   - split: 3
-    text: 承担「灶娘」称号者代代相传的神器，其名号由上古一路流传至今只留存原音，实际文字已不可考。传说若将此刀用于料理以外的用途会使其失却锋芒，所以灶娘总是在战斗后将敌人的鲜血收集起来，做成猪血糕。
-    translated: 
+    text: "承担「灶娘」称号者代代相传的神器，其名号由上古一路流传至今只留存原音，实际文字已不可考。传说若将此刀用于料理以外的用途会使其失却锋芒，所以灶娘总是在战斗后将敌人的鲜血收集起来，做成猪血糕。"
+    translated: ""
 - lineNum: 161
-  raw: eq10920	盘古菜刀	eq10913	传说中能劈开天地的菜刀，拿来做菜也一样好用。	109	12800	6400	TRUE	5	99	ac6c0084	25	150	150	(Short,280)(Blade,280)(TwoBlade,280)(BladeSword,280)	3		0	(it70109,1)
-  translated: 
+  raw: "eq10920	盘古菜刀	eq10913	传说中能劈开天地的菜刀，拿来做菜也一样好用。	109	12800	6400	TRUE	5	99	ac6c0084	25	150	150	(Short,280)(Blade,280)(TwoBlade,280)(BladeSword,280)	3		0	(it70109,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 盘古菜刀
-    translated: 
+    text: "盘古菜刀"
+    translated: ""
   - split: 3
-    text: 传说中能劈开天地的菜刀，拿来做菜也一样好用。
-    translated: 
+    text: "传说中能劈开天地的菜刀，拿来做菜也一样好用。"
+    translated: ""
 - lineNum: 162
-  raw: eq10921	蛇形匕首	eq10921	以蛇的外型铸造而成，锋锐异常。	109	2500	1250	TRUE	2	30	ac6c0105	10	60	60	(Short,90)(Sword,90)(TwoSword,90)(BladeSword,90)	5		0	(it70111,1)
-  translated: 
+  raw: "eq10921	蛇形匕首	eq10921	以蛇的外型铸造而成，锋锐异常。	109	2500	1250	TRUE	2	30	ac6c0105	10	60	60	(Short,90)(Sword,90)(TwoSword,90)(BladeSword,90)	5		0	(it70111,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 蛇形匕首
-    translated: 
+    text: "蛇形匕首"
+    translated: ""
   - split: 3
-    text: 以蛇的外型铸造而成，锋锐异常。
-    translated: 
+    text: "以蛇的外型铸造而成，锋锐异常。"
+    translated: ""
 - lineNum: 163
-  raw: eq10922	玄铁匕首	eq10908	韦白龙随身携带的短刃，贴身近战时杀伤力十足。	109	3600	1800	TRUE	5	70	ac6c0013	7	75	75	(Short,65)(Sword,65)(TwoSword,65)(BladeSword,65)	5		wounded06,PointAddTrick_2	(it70109,1)
-  translated: 
+  raw: "eq10922	玄铁匕首	eq10908	韦白龙随身携带的短刃，贴身近战时杀伤力十足。	109	3600	1800	TRUE	5	70	ac6c0013	7	75	75	(Short,65)(Sword,65)(TwoSword,65)(BladeSword,65)	5		wounded06,PointAddTrick_2	(it70109,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 玄铁匕首
-    translated: 
+    text: "玄铁匕首"
+    translated: ""
   - split: 3
-    text: 韦白龙随身携带的短刃，贴身近战时杀伤力十足。
-    translated: 
+    text: "韦白龙随身携带的短刃，贴身近战时杀伤力十足。"
+    translated: ""
 - lineNum: 164
-  raw: eq10923	寒月流光	eq10913	大研镇打铁匠柯比以寒铁所铸的得意之作。虽以李白诗词为名，但本质仍是一把菜刀，具备砍人、切菜、片肉等多重用途。	109	6000	3000	TRUE	2	70	ac6c0084	15	70	70	(Short,150)(Blade,150)(TwoBlade,150)(BladeSword,150)	5		0	(it70102,1)(it70110,1)
-  translated: 
+  raw: "eq10923	寒月流光	eq10913	大研镇打铁匠柯比以寒铁所铸的得意之作。虽以李白诗词为名，但本质仍是一把菜刀，具备砍人、切菜、片肉等多重用途。	109	6000	3000	TRUE	2	70	ac6c0084	15	70	70	(Short,150)(Blade,150)(TwoBlade,150)(BladeSword,150)	5		0	(it70102,1)(it70110,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 寒月流光
-    translated: 
+    text: "寒月流光"
+    translated: ""
   - split: 3
-    text: 大研镇打铁匠柯比以寒铁所铸的得意之作。虽以李白诗词为名，但本质仍是一把菜刀，具备砍人、切菜、片肉等多重用途。
-    translated: 
+    text: "大研镇打铁匠柯比以寒铁所铸的得意之作。虽以李白诗词为名，但本质仍是一把菜刀，具备砍人、切菜、片肉等多重用途。"
+    translated: ""
 - lineNum: 165
-  raw: eq11001	清风扇	eq11001	文人常携带的折扇，扇骨以竹片或木片制成，十分轻巧，但也很容易断折。	110	200	100	TRUE	0	2	ac6c0097	2	20	20	(Short,20)	15		0	(it70208,1)
-  translated: 
+  raw: "eq11001	清风扇	eq11001	文人常携带的折扇，扇骨以竹片或木片制成，十分轻巧，但也很容易断折。	110	200	100	TRUE	0	2	ac6c0097	2	20	20	(Short,20)	15		0	(it70208,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 清风扇
-    translated: 
+    text: "清风扇"
+    translated: ""
   - split: 3
-    text: 文人常携带的折扇，扇骨以竹片或木片制成，十分轻巧，但也很容易断折。
-    translated: 
+    text: "文人常携带的折扇，扇骨以竹片或木片制成，十分轻巧，但也很容易断折。"
+    translated: ""
 - lineNum: 166
-  raw: eq11002	铁骨折扇	eq11002	扇骨以精铁铸成的折扇，虽然破坏力惊人，重量上却也提升了许多。	110	100	50	TRUE	1	50		5	80	80	(Short,20)	8		0	
-  translated: 
+  raw: "eq11002	铁骨折扇	eq11002	扇骨以精铁铸成的折扇，虽然破坏力惊人，重量上却也提升了许多。	110	100	50	TRUE	1	50		5	80	80	(Short,20)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 铁骨折扇
-    translated: 
+    text: "铁骨折扇"
+    translated: ""
   - split: 3
-    text: 扇骨以精铁铸成的折扇，虽然破坏力惊人，重量上却也提升了许多。
-    translated: 
+    text: "扇骨以精铁铸成的折扇，虽然破坏力惊人，重量上却也提升了许多。"
+    translated: ""
 - lineNum: 167
-  raw: eq11003	古墓通幽	eq11003	内部安装了暗器机括的铁骨折扇，扇面绘有幽冥鬼火，阴气森森。	110	7000	3500	TRUE	2	70	ac6c0103	3	60	60	(Short,160)	5		0	(it70208,1)
-  translated: 
+  raw: "eq11003	古墓通幽	eq11003	内部安装了暗器机括的铁骨折扇，扇面绘有幽冥鬼火，阴气森森。	110	7000	3500	TRUE	2	70	ac6c0103	3	60	60	(Short,160)	5		0	(it70208,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 古墓通幽
-    translated: 
+    text: "古墓通幽"
+    translated: ""
   - split: 3
-    text: 内部安装了暗器机括的铁骨折扇，扇面绘有幽冥鬼火，阴气森森。
-    translated: 
+    text: "内部安装了暗器机括的铁骨折扇，扇面绘有幽冥鬼火，阴气森森。"
+    translated: ""
 - lineNum: 168
-  raw: eq11004	红颜	eq11004	颜玉书随身携带的爱扇。其扇骨由海外寒铁铸成，刺骨如冰，散发出的迫人寒气使得扇上的梅花终年不凋。	110	7000	3500	TRUE	5	70	ac6c0089	5	49	49	(Sword,51)(Short,51)	5		frozen05	(it70110,1)(it70321,1)
-  translated: 
+  raw: "eq11004	红颜	eq11004	颜玉书随身携带的爱扇。其扇骨由海外寒铁铸成，刺骨如冰，散发出的迫人寒气使得扇上的梅花终年不凋。	110	7000	3500	TRUE	5	70	ac6c0089	5	49	49	(Sword,51)(Short,51)	5		frozen05	(it70110,1)(it70321,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 红颜
-    translated: 
+    text: "红颜"
+    translated: ""
   - split: 3
-    text: 颜玉书随身携带的爱扇。其扇骨由海外寒铁铸成，刺骨如冰，散发出的迫人寒气使得扇上的梅花终年不凋。
-    translated: 
+    text: "颜玉书随身携带的爱扇。其扇骨由海外寒铁铸成，刺骨如冰，散发出的迫人寒气使得扇上的梅花终年不凋。"
+    translated: ""
 - lineNum: 169
-  raw: eq11005	踏月留香	eq11005	扇骨以坚硬香木制成，轻盈异常，固如钢铁，挥动时散发阵阵香气，扇面绘有满月。	110	3600	1800	TRUE	1	40	ac6c0100	3	60	60	(Short,80)	10		0	(it70208,1)
-  translated: 
+  raw: "eq11005	踏月留香	eq11005	扇骨以坚硬香木制成，轻盈异常，固如钢铁，挥动时散发阵阵香气，扇面绘有满月。	110	3600	1800	TRUE	1	40	ac6c0100	3	60	60	(Short,80)	10		0	(it70208,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 踏月留香
-    translated: 
+    text: "踏月留香"
+    translated: ""
   - split: 3
-    text: 扇骨以坚硬香木制成，轻盈异常，固如钢铁，挥动时散发阵阵香气，扇面绘有满月。
-    translated: 
+    text: "扇骨以坚硬香木制成，轻盈异常，固如钢铁，挥动时散发阵阵香气，扇面绘有满月。"
+    translated: ""
 - lineNum: 170
-  raw: eq11006	鼓风扇	eq11006	赤丹宫妖道炼丹时控制炉火用的蒲扇，扇上经年累月累积的毒素使其成了一种致命的奇门兵器。	110	2100	1050	TRUE	1	20	ac3a0061	4	10	10	(Short,70)	10		poisoned06	(it70208,1)
-  translated: 
+  raw: "eq11006	鼓风扇	eq11006	赤丹宫妖道炼丹时控制炉火用的蒲扇，扇上经年累月累积的毒素使其成了一种致命的奇门兵器。	110	2100	1050	TRUE	1	20	ac3a0061	4	10	10	(Short,70)	10		poisoned06	(it70208,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 鼓风扇
-    translated: 
+    text: "鼓风扇"
+    translated: ""
   - split: 3
-    text: 赤丹宫妖道炼丹时控制炉火用的蒲扇，扇上经年累月累积的毒素使其成了一种致命的奇门兵器。
-    translated: 
+    text: "赤丹宫妖道炼丹时控制炉火用的蒲扇，扇上经年累月累积的毒素使其成了一种致命的奇门兵器。"
+    translated: ""
 - lineNum: 171
-  raw: eq11101	湘笔	temp	楚地名笔，文人墨客多半都会携带，每当来到风景名胜，便可随时提笔作篇。	111	100	50	TRUE	0	50		1	80	80	(Short,20)	10		0	
-  translated: 
+  raw: "eq11101	湘笔	temp	楚地名笔，文人墨客多半都会携带，每当来到风景名胜，便可随时提笔作篇。	111	100	50	TRUE	0	50		1	80	80	(Short,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 湘笔
-    translated: 
+    text: "湘笔"
+    translated: ""
   - split: 3
-    text: 楚地名笔，文人墨客多半都会携带，每当来到风景名胜，便可随时提笔作篇。
-    translated: 
+    text: "楚地名笔，文人墨客多半都会携带，每当来到风景名胜，便可随时提笔作篇。"
+    translated: ""
 - lineNum: 172
-  raw: eq11102	判官笔	eq11102	适合贴身肉搏，专打人穴道。	111	500	250	TRUE	0	5	ac6c0054	3	38	38	(Short,35)	15		0	(it70102,1)
-  translated: 
+  raw: "eq11102	判官笔	eq11102	适合贴身肉搏，专打人穴道。	111	500	250	TRUE	0	5	ac6c0054	3	38	38	(Short,35)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 判官笔
-    translated: 
+    text: "判官笔"
+    translated: ""
   - split: 3
-    text: 适合贴身肉搏，专打人穴道。
-    translated: 
+    text: "适合贴身肉搏，专打人穴道。"
+    translated: ""
 - lineNum: 173
-  raw: eq11103	点穴橛	temp	状如枣核，携带方便，主要用于点穴闭气，分筋错骨，用法有推、挟、穿、点、刺等多种。	111	100	50	TRUE	0	50		2	80	80	(Short,20)	10		0	
-  translated: 
+  raw: "eq11103	点穴橛	temp	状如枣核，携带方便，主要用于点穴闭气，分筋错骨，用法有推、挟、穿、点、刺等多种。	111	100	50	TRUE	0	50		2	80	80	(Short,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 点穴橛
-    translated: 
+    text: "点穴橛"
+    translated: ""
   - split: 3
-    text: 状如枣核，携带方便，主要用于点穴闭气，分筋错骨，用法有推、挟、穿、点、刺等多种。
-    translated: 
+    text: "状如枣核，携带方便，主要用于点穴闭气，分筋错骨，用法有推、挟、穿、点、刺等多种。"
+    translated: ""
 - lineNum: 174
-  raw: eq11104	太史公	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	
-  translated: 
+  raw: "eq11104	太史公	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 太史公
-    translated: 
+    text: "太史公"
+    translated: ""
   - split: 3
-    text: ???
-    translated: 
+    text: "???"
+    translated: ""
 - lineNum: 175
-  raw: eq11105	梅心	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	
-  translated: 
+  raw: "eq11105	梅心	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 梅心
-    translated: 
+    text: "梅心"
+    translated: ""
   - split: 3
-    text: ???
-    translated: 
+    text: "???"
+    translated: ""
 - lineNum: 176
-  raw: eq11106	批生注死	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	
-  translated: 
+  raw: "eq11106	批生注死	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 批生注死
-    translated: 
+    text: "批生注死"
+    translated: ""
   - split: 3
-    text: ???
-    translated: 
+    text: "???"
+    translated: ""
 - lineNum: 177
-  raw: eq11107	旱烟斗	eq11107	民间常见的吸烟用具，以黄铜制成，因其细长而坚硬的特性，也能成为防身器具，擅使者，更能点其穴道。	111	100	50	TRUE	0	1	ac6c0096	3	50	50	(Short,5)	15		weapon1107	(it70101,1)
-  translated: 
+  raw: "eq11107	旱烟斗	eq11107	民间常见的吸烟用具，以黄铜制成，因其细长而坚硬的特性，也能成为防身器具，擅使者，更能点其穴道。	111	100	50	TRUE	0	1	ac6c0096	3	50	50	(Short,5)	15		weapon1107	(it70101,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 旱烟斗
-    translated: 
+    text: "旱烟斗"
+    translated: ""
   - split: 3
-    text: 民间常见的吸烟用具，以黄铜制成，因其细长而坚硬的特性，也能成为防身器具，擅使者，更能点其穴道。
-    translated: 
+    text: "民间常见的吸烟用具，以黄铜制成，因其细长而坚硬的特性，也能成为防身器具，擅使者，更能点其穴道。"
+    translated: ""
 - lineNum: 178
-  raw: eq11108	明月流翠	eq11108	贵重脆弱，玩赏性质居高的玉器	111	2000	1000	TRUE	1	60	ac6c0094	2	25	25	(Short,10)(Sword,10)(TwoSword,10)(BladeSword,10)	10		0	(it70311,1)
-  translated: 
+  raw: "eq11108	明月流翠	eq11108	贵重脆弱，玩赏性质居高的玉器	111	2000	1000	TRUE	1	60	ac6c0094	2	25	25	(Short,10)(Sword,10)(TwoSword,10)(BladeSword,10)	10		0	(it70311,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 明月流翠
-    translated: 
+    text: "明月流翠"
+    translated: ""
   - split: 3
-    text: 贵重脆弱，玩赏性质居高的玉器
-    translated: 
+    text: "贵重脆弱，玩赏性质居高的玉器"
+    translated: ""
 - lineNum: 179
-  raw: eq11201	鱼肠剑	eq11201	据传为铸剑师欧冶子为越王所制，后越王允常进献给吴国，公子光命专诸将此剑藏于鱼腹中，用以刺杀吴王僚。公子光即位后是为吴王阖闾，将此剑函封，永不再用。你手上这把看起来是赝品，但也算是制作极为精良的宝剑了。不过重量感有点奇怪，或许内有蹊跷？	112	4000	2000	TRUE	2	40	ac6c0099	15	65	65	(Short,110)(Sword,110)(TwoSword,110)(BladeSword,110)	5		0	(it70111,1)(it801083,1)
-  translated: 
+  raw: "eq11201	鱼肠剑	eq11201	据传为铸剑师欧冶子为越王所制，后越王允常进献给吴国，公子光命专诸将此剑藏于鱼腹中，用以刺杀吴王僚。公子光即位后是为吴王阖闾，将此剑函封，永不再用。你手上这把看起来是赝品，但也算是制作极为精良的宝剑了。不过重量感有点奇怪，或许内有蹊跷？	112	4000	2000	TRUE	2	40	ac6c0099	15	65	65	(Short,110)(Sword,110)(TwoSword,110)(BladeSword,110)	5		0	(it70111,1)(it801083,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 鱼肠剑
-    translated: 
+    text: "鱼肠剑"
+    translated: ""
   - split: 3
-    text: 据传为铸剑师欧冶子为越王所制，后越王允常进献给吴国，公子光命专诸将此剑藏于鱼腹中，用以刺杀吴王僚。公子光即位后是为吴王阖闾，将此剑函封，永不再用。你手上这把看起来是赝品，但也算是制作极为精良的宝剑了。不过重量感有点奇怪，或许内有蹊跷？
-    translated: 
+    text: "据传为铸剑师欧冶子为越王所制，后越王允常进献给吴国，公子光命专诸将此剑藏于鱼腹中，用以刺杀吴王僚。公子光即位后是为吴王阖闾，将此剑函封，永不再用。你手上这把看起来是赝品，但也算是制作极为精良的宝剑了。不过重量感有点奇怪，或许内有蹊跷？"
+    translated: ""
 - lineNum: 180
-  raw: eq11202	八棱锏	eq11202	打击型的短兵器，通常由金属铸造而成，虽无锋刃，但挥舞起来破坏力十分惊人。	112	3000	1500	TRUE	1	30	ac6c0095	10	50	50	(Short,90)	10		0	(it70102,2)
-  translated: 
+  raw: "eq11202	八棱锏	eq11202	打击型的短兵器，通常由金属铸造而成，虽无锋刃，但挥舞起来破坏力十分惊人。	112	3000	1500	TRUE	1	30	ac6c0095	10	50	50	(Short,90)	10		0	(it70102,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 八棱锏
-    translated: 
+    text: "八棱锏"
+    translated: ""
   - split: 3
-    text: 打击型的短兵器，通常由金属铸造而成，虽无锋刃，但挥舞起来破坏力十分惊人。
-    translated: 
+    text: "打击型的短兵器，通常由金属铸造而成，虽无锋刃，但挥舞起来破坏力十分惊人。"
+    translated: ""
 - lineNum: 181
-  raw: eq11203	镔铁八棱锏	eq11203	由镔铁制成的八棱锏，沉重异常，共有一对，是战胤飞的拿手兵器。	112	8000	4000	TRUE	3	70	ac6c0106	20	75	75	(Short,180)	3		0	(it70103,2)
-  translated: 
+  raw: "eq11203	镔铁八棱锏	eq11203	由镔铁制成的八棱锏，沉重异常，共有一对，是战胤飞的拿手兵器。	112	8000	4000	TRUE	3	70	ac6c0106	20	75	75	(Short,180)	3		0	(it70103,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 镔铁八棱锏
-    translated: 
+    text: "镔铁八棱锏"
+    translated: ""
   - split: 3
-    text: 由镔铁制成的八棱锏，沉重异常，共有一对，是战胤飞的拿手兵器。
-    translated: 
+    text: "由镔铁制成的八棱锏，沉重异常，共有一对，是战胤飞的拿手兵器。"
+    translated: ""
 - lineNum: 182
-  raw: eq11204	独脚铜人	temp	奇门兵器，将铜棒铸成了一手指天一手指地的铜人，不仅可用于劈砸，铜人利指亦可用于点穴。	112	100	50	TRUE	1	50		4	80	80	(Short,20)	8		0	
-  translated: 
+  raw: "eq11204	独脚铜人	temp	奇门兵器，将铜棒铸成了一手指天一手指地的铜人，不仅可用于劈砸，铜人利指亦可用于点穴。	112	100	50	TRUE	1	50		4	80	80	(Short,20)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 独脚铜人
-    translated: 
+    text: "独脚铜人"
+    translated: ""
   - split: 3
-    text: 奇门兵器，将铜棒铸成了一手指天一手指地的铜人，不仅可用于劈砸，铜人利指亦可用于点穴。
-    translated: 
+    text: "奇门兵器，将铜棒铸成了一手指天一手指地的铜人，不仅可用于劈砸，铜人利指亦可用于点穴。"
+    translated: ""
 - lineNum: 183
-  raw: eq11205	金瓜骨朵	eq11205	精钢制成的打击兵器，形如短棍，顶端呈瓜形。	112	3000	1500	TRUE	1	25	ac3a0085	22	70	70	(Short,95)	10		injured08	(it70103,2)
-  translated: 
+  raw: "eq11205	金瓜骨朵	eq11205	精钢制成的打击兵器，形如短棍，顶端呈瓜形。	112	3000	1500	TRUE	1	25	ac3a0085	22	70	70	(Short,95)	10		injured08	(it70103,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 金瓜骨朵
-    translated: 
+    text: "金瓜骨朵"
+    translated: ""
   - split: 3
-    text: 精钢制成的打击兵器，形如短棍，顶端呈瓜形。
-    translated: 
+    text: "精钢制成的打击兵器，形如短棍，顶端呈瓜形。"
+    translated: ""
 - lineNum: 184
-  raw: eq11206	铁锤	eq11206	铁匠用来铸炼兵器的铁锤。	112	600	300	TRUE	0	6	ac6c0085	13	55	55	(Short,15)	15		0	(it70102,1)
-  translated: 
+  raw: "eq11206	铁锤	eq11206	铁匠用来铸炼兵器的铁锤。	112	600	300	TRUE	0	6	ac6c0085	13	55	55	(Short,15)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 铁锤
-    translated: 
+    text: "铁锤"
+    translated: ""
   - split: 3
-    text: 铁匠用来铸炼兵器的铁锤。
-    translated: 
+    text: "铁匠用来铸炼兵器的铁锤。"
+    translated: ""
 - lineNum: 185
-  raw: eq11207	短斧	eq11207	农家必备，用于劈柴，也可用于近战劈砍。	112	600	300	TRUE	0	6	ac6c0086	16	52	52	(Short,25)	15		0	(it70102,1)
-  translated: 
+  raw: "eq11207	短斧	eq11207	农家必备，用于劈柴，也可用于近战劈砍。	112	600	300	TRUE	0	6	ac6c0086	16	52	52	(Short,25)	15		0	(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 短斧
-    translated: 
+    text: "短斧"
+    translated: ""
   - split: 3
-    text: 农家必备，用于劈柴，也可用于近战劈砍。
-    translated: 
+    text: "农家必备，用于劈柴，也可用于近战劈砍。"
+    translated: ""
 - lineNum: 186
-  raw: eq11208	长斧	eq11208	樵夫砍柴用的工具，也可用于近战劈砍。	112	700	350	TRUE	0	7	ac3a0053	21	58	58	(Short,30)	15		0	(it70102,2)
-  translated: 
+  raw: "eq11208	长斧	eq11208	樵夫砍柴用的工具，也可用于近战劈砍。	112	700	350	TRUE	0	7	ac3a0053	21	58	58	(Short,30)	15		0	(it70102,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 长斧
-    translated: 
+    text: "长斧"
+    translated: ""
   - split: 3
-    text: 樵夫砍柴用的工具，也可用于近战劈砍。
-    translated: 
+    text: "樵夫砍柴用的工具，也可用于近战劈砍。"
+    translated: ""
 - lineNum: 187
-  raw: eq11209	鹤嘴锄	eq11209	常见的农家工具。	112	700	350	TRUE	0	7	ac3a0074	16	58	58	(Short,30)	15		0	(it70102,2)
-  translated: 
+  raw: "eq11209	鹤嘴锄	eq11209	常见的农家工具。	112	700	350	TRUE	0	7	ac3a0074	16	58	58	(Short,30)	15		0	(it70102,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 鹤嘴锄
-    translated: 
+    text: "鹤嘴锄"
+    translated: ""
   - split: 3
-    text: 常见的农家工具。
-    translated: 
+    text: "常见的农家工具。"
+    translated: ""
 - lineNum: 188
-  raw: eq11210	轩辕锄	eq11209	这把神兵据说不管是用来开矿还是挖草都无往不利，更不用谈破阵杀敌了。	112	17000	8500	TRUE	3	99	ac3a0074	18	160	160	(Short,220)	3		0	(it70109,2)(it70209,1)
-  translated: 
+  raw: "eq11210	轩辕锄	eq11209	这把神兵据说不管是用来开矿还是挖草都无往不利，更不用谈破阵杀敌了。	112	17000	8500	TRUE	3	99	ac3a0074	18	160	160	(Short,220)	3		0	(it70109,2)(it70209,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 轩辕锄
-    translated: 
+    text: "轩辕锄"
+    translated: ""
   - split: 3
-    text: 这把神兵据说不管是用来开矿还是挖草都无往不利，更不用谈破阵杀敌了。
-    translated: 
+    text: "这把神兵据说不管是用来开矿还是挖草都无往不利，更不用谈破阵杀敌了。"
+    translated: ""
 - lineNum: 189
-  raw: eq11301	木箫	temp	木制的箫管，音色比之竹箫相对逊色。	113	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	
-  translated: 
+  raw: "eq11301	木箫	temp	木制的箫管，音色比之竹箫相对逊色。	113	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 木箫
-    translated: 
+    text: "木箫"
+    translated: ""
   - split: 3
-    text: 木制的箫管，音色比之竹箫相对逊色。
-    translated: 
+    text: "木制的箫管，音色比之竹箫相对逊色。"
+    translated: ""
 - lineNum: 190
-  raw: eq11302	竹箫	temp	竹制的箫管，竹是最为常见的箫管制材，吹奏出来的音色最为动听。	113	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	
-  translated: 
+  raw: "eq11302	竹箫	temp	竹制的箫管，竹是最为常见的箫管制材，吹奏出来的音色最为动听。	113	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 竹箫
-    translated: 
+    text: "竹箫"
+    translated: ""
   - split: 3
-    text: 竹制的箫管，竹是最为常见的箫管制材，吹奏出来的音色最为动听。
-    translated: 
+    text: "竹制的箫管，竹是最为常见的箫管制材，吹奏出来的音色最为动听。"
+    translated: ""
 - lineNum: 191
-  raw: eq11303	玉箫	temp	玉石制成的箫管，标志了持有者的身分地位，同时具有吹奏和赏玩性质，但是音色效果并不佳。	113	100	50	TRUE	1	50		3	80	80	(Short,20)	8		0	
-  translated: 
+  raw: "eq11303	玉箫	temp	玉石制成的箫管，标志了持有者的身分地位，同时具有吹奏和赏玩性质，但是音色效果并不佳。	113	100	50	TRUE	1	50		3	80	80	(Short,20)	8		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 玉箫
-    translated: 
+    text: "玉箫"
+    translated: ""
   - split: 3
-    text: 玉石制成的箫管，标志了持有者的身分地位，同时具有吹奏和赏玩性质，但是音色效果并不佳。
-    translated: 
+    text: "玉石制成的箫管，标志了持有者的身分地位，同时具有吹奏和赏玩性质，但是音色效果并不佳。"
+    translated: ""
 - lineNum: 192
-  raw: eq20102	皮革护甲	eq20102	兽皮经多番鞣皮后制作而成的护甲，质地坚硬，对寻常兵器有不错的防护力。	201	800	400	TRUE	0	10	eq20102	8	35	35	(Less,10)	10		cloth0102	(it70409,2)
-  translated: 
+  raw: "eq20102	皮革护甲	eq20102	兽皮经多番鞣皮后制作而成的护甲，质地坚硬，对寻常兵器有不错的防护力。	201	800	400	TRUE	0	10	eq20102	8	35	35	(Less,10)	10		cloth0102	(it70409,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 皮革护甲
-    translated: 
+    text: "皮革护甲"
+    translated: ""
   - split: 3
-    text: 兽皮经多番鞣皮后制作而成的护甲，质地坚硬，对寻常兵器有不错的防护力。
-    translated: 
+    text: "兽皮经多番鞣皮后制作而成的护甲，质地坚硬，对寻常兵器有不错的防护力。"
+    translated: ""
 - lineNum: 193
-  raw: eq20103	护心镜	eq20103	一种镶嵌在胸部的金属盔甲，有缓冲攻击之用。因位于胸口正中，形似圆镜，故而得名。	201	800	400	TRUE	0	10	eq20103	9	40	40	(Less,12)	10		cloth0103	(it70405,1)(it70102,1)
-  translated: 
+  raw: "eq20103	护心镜	eq20103	一种镶嵌在胸部的金属盔甲，有缓冲攻击之用。因位于胸口正中，形似圆镜，故而得名。	201	800	400	TRUE	0	10	eq20103	9	40	40	(Less,12)	10		cloth0103	(it70405,1)(it70102,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 护心镜
-    translated: 
+    text: "护心镜"
+    translated: ""
   - split: 3
-    text: 一种镶嵌在胸部的金属盔甲，有缓冲攻击之用。因位于胸口正中，形似圆镜，故而得名。
-    translated: 
+    text: "一种镶嵌在胸部的金属盔甲，有缓冲攻击之用。因位于胸口正中，形似圆镜，故而得名。"
+    translated: ""
 - lineNum: 194
-  raw: eq20104	重犀皮甲	eq20104	以上等犀牛皮特制而成，防护力不俗，但也较寻常皮甲沉重许多。	201	1600	800	TRUE	1	20	eq20104	18	60	60	(Less,17)	8		0	(it70409,2)
-  translated: 
+  raw: "eq20104	重犀皮甲	eq20104	以上等犀牛皮特制而成，防护力不俗，但也较寻常皮甲沉重许多。	201	1600	800	TRUE	1	20	eq20104	18	60	60	(Less,17)	8		0	(it70409,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 重犀皮甲
-    translated: 
+    text: "重犀皮甲"
+    translated: ""
   - split: 3
-    text: 以上等犀牛皮特制而成，防护力不俗，但也较寻常皮甲沉重许多。
-    translated: 
+    text: "以上等犀牛皮特制而成，防护力不俗，但也较寻常皮甲沉重许多。"
+    translated: ""
 - lineNum: 195
-  raw: eq20105	虎鲨劲装	eq20105	全套使用鲨鱼皮制成，柔韧异常，滑溜无比。	201	2000	1000	TRUE	1	25	eq20105	12	55	55	(Less,18)	8		cloth0105	(it70409,2)
-  translated: 
+  raw: "eq20105	虎鲨劲装	eq20105	全套使用鲨鱼皮制成，柔韧异常，滑溜无比。	201	2000	1000	TRUE	1	25	eq20105	12	55	55	(Less,18)	8		cloth0105	(it70409,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 虎鲨劲装
-    translated: 
+    text: "虎鲨劲装"
+    translated: ""
   - split: 3
-    text: 全套使用鲨鱼皮制成，柔韧异常，滑溜无比。
-    translated: 
+    text: "全套使用鲨鱼皮制成，柔韧异常，滑溜无比。"
+    translated: ""
 - lineNum: 196
-  raw: eq20106	幼鳄软甲	eq20106	在暗流宝窟发现一只卡在石缝中哀鸣的小鳄鱼，你选择将牠强拖出来制成此件软甲。精选优质上等头层皮，在提供防护力的同时，避免让你娇嫩的肌肤因摩擦而产生多余的硬茧或老废角质。	201	1600	800	TRUE	1	20	eq20106	11	52	60	(Less,19)	8		0	(it70401,2)
-  translated: 
+  raw: "eq20106	幼鳄软甲	eq20106	在暗流宝窟发现一只卡在石缝中哀鸣的小鳄鱼，你选择将牠强拖出来制成此件软甲。精选优质上等头层皮，在提供防护力的同时，避免让你娇嫩的肌肤因摩擦而产生多余的硬茧或老废角质。	201	1600	800	TRUE	1	20	eq20106	11	52	60	(Less,19)	8		0	(it70401,2)"
+  translated: ""
   splits:
   - split: 1
-    text: 幼鳄软甲
-    translated: 
+    text: "幼鳄软甲"
+    translated: ""
   - split: 3
-    text: 在暗流宝窟发现一只卡在石缝中哀鸣的小鳄鱼，你选择将牠强拖出来制成此件软甲。精选优质上等头层皮，在提供防护力的同时，避免让你娇嫩的肌肤因摩擦而产生多余的硬茧或老废角质。
-    translated: 
+    text: "在暗流宝窟发现一只卡在石缝中哀鸣的小鳄鱼，你选择将牠强拖出来制成此件软甲。精选优质上等头层皮，在提供防护力的同时，避免让你娇嫩的肌肤因摩擦而产生多余的硬茧或老废角质。"
+    translated: ""
 - lineNum: 197
-  raw: eq20107	锁子甲	eq20107	将钢片一片片以铁链锁住，相较于皮甲，其防护性更强，而且比板甲要灵活。	201	3000	1500	TRUE	1	30	eq20107	20	50	50	(Less,15)	8		cloth0107	(it70102,1)(it70101,1)
-  translated: 
+  raw: "eq20107	锁子甲	eq20107	将钢片一片片以铁链锁住，相较于皮甲，其防护性更强，而且比板甲要灵活。	201	3000	1500	TRUE	1	30	eq20107	20	50	50	(Less,15)	8		cloth0107	(it70102,1)(it70101,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 锁子甲
-    translated: 
+    text: "锁子甲"
+    translated: ""
   - split: 3
-    text: 将钢片一片片以铁链锁住，相较于皮甲，其防护性更强，而且比板甲要灵活。
-    translated: 
+    text: "将钢片一片片以铁链锁住，相较于皮甲，其防护性更强，而且比板甲要灵活。"
+    translated: ""
 - lineNum: 198
-  raw: eq20108	金丝背心	eq20108	以金丝混和多种金属制成，价格不斐。	201	15000	7500	TRUE	2	99	eq20108	9	65	65	(Less,29)	5		0	(it70504,1)
-  translated: 
+  raw: "eq20108	金丝背心	eq20108	以金丝混和多种金属制成，价格不斐。	201	15000	7500	TRUE	2	99	eq20108	9	65	65	(Less,29)	5		0	(it70504,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 金丝背心
-    translated: 
+    text: "金丝背心"
+    translated: ""
   - split: 3
-    text: 以金丝混和多种金属制成，价格不斐。
-    translated: 
+    text: "以金丝混和多种金属制成，价格不斐。"
+    translated: ""
 - lineNum: 199
-  raw: eq20109	天蚕宝衣	temp	以苗疆天蚕丝编织而成的宝衣，堪称天下奇珍，防身至宝。	201	7000	3500	TRUE	2	50		6	70	70	(Less,20)	5		0	
-  translated: 
+  raw: "eq20109	天蚕宝衣	temp	以苗疆天蚕丝编织而成的宝衣，堪称天下奇珍，防身至宝。	201	7000	3500	TRUE	2	50		6	70	70	(Less,20)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 天蚕宝衣
-    translated: 
+    text: "天蚕宝衣"
+    translated: ""
   - split: 3
-    text: 以苗疆天蚕丝编织而成的宝衣，堪称天下奇珍，防身至宝。
-    translated: 
+    text: "以苗疆天蚕丝编织而成的宝衣，堪称天下奇珍，防身至宝。"
+    translated: ""
 - lineNum: 200
-  raw: eq20110	乌蚕衣	eq20110	以大雪山乌蚕丝编织而成的背心，质地轻软坚韧，可抵御内劲冲击。	201	15000	7500	TRUE	2	99	eq20110	10	70	70	(Less,30)	5		cloth0110	(it70505,1)
-  translated: 
+  raw: "eq20110	乌蚕衣	eq20110	以大雪山乌蚕丝编织而成的背心，质地轻软坚韧，可抵御内劲冲击。	201	15000	7500	TRUE	2	99	eq20110	10	70	70	(Less,30)	5		cloth0110	(it70505,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 乌蚕衣
-    translated: 
+    text: "乌蚕衣"
+    translated: ""
   - split: 3
-    text: 以大雪山乌蚕丝编织而成的背心，质地轻软坚韧，可抵御内劲冲击。
-    translated: 
+    text: "以大雪山乌蚕丝编织而成的背心，质地轻软坚韧，可抵御内劲冲击。"
+    translated: ""
 - lineNum: 201
-  raw: eq20111	黑天	temp	黑黝黝一件背心，入手沉甸甸的，非金非革，却是刀枪不入，水火不侵。	201	10000	5000	TRUE	2	50		9	75	75	(Less,20)	5		0	
-  translated: 
+  raw: "eq20111	黑天	temp	黑黝黝一件背心，入手沉甸甸的，非金非革，却是刀枪不入，水火不侵。	201	10000	5000	TRUE	2	50		9	75	75	(Less,20)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 黑天
-    translated: 
+    text: "黑天"
+    translated: ""
   - split: 3
-    text: 黑黝黝一件背心，入手沉甸甸的，非金非革，却是刀枪不入，水火不侵。
-    translated: 
+    text: "黑黝黝一件背心，入手沉甸甸的，非金非革，却是刀枪不入，水火不侵。"
+    translated: ""
 - lineNum: 202
-  raw: eq20112	苍龙鳞甲	temp	传说中使用神兽苍龙身上的鳞甲编制而成，乃天下神物。	201	12000	6000	TRUE	3	50		18	80	80	(Less,25)	3		0	
-  translated: 
+  raw: "eq20112	苍龙鳞甲	temp	传说中使用神兽苍龙身上的鳞甲编制而成，乃天下神物。	201	12000	6000	TRUE	3	50		18	80	80	(Less,25)	3		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 苍龙鳞甲
-    translated: 
+    text: "苍龙鳞甲"
+    translated: ""
   - split: 3
-    text: 传说中使用神兽苍龙身上的鳞甲编制而成，乃天下神物。
-    translated: 
+    text: "传说中使用神兽苍龙身上的鳞甲编制而成，乃天下神物。"
+    translated: ""
 - lineNum: 203
-  raw: eq20113	虎威将军软甲	eq20113	赵云临阵所穿软甲，寻常弩箭难穿。有了它七进七出不是梦。	201	20000	10000	TRUE	3	99	eq20113	25	80	80	(Less,39)	3		cloth0112	(it70111,3)
-  translated: 
+  raw: "eq20113	虎威将军软甲	eq20113	赵云临阵所穿软甲，寻常弩箭难穿。有了它七进七出不是梦。	201	20000	10000	TRUE	3	99	eq20113	25	80	80	(Less,39)	3		cloth0112	(it70111,3)"
+  translated: ""
   splits:
   - split: 1
-    text: 虎威将军软甲
-    translated: 
+    text: "虎威将军软甲"
+    translated: ""
   - split: 3
-    text: 赵云临阵所穿软甲，寻常弩箭难穿。有了它七进七出不是梦。
-    translated: 
+    text: "赵云临阵所穿软甲，寻常弩箭难穿。有了它七进七出不是梦。"
+    translated: ""
 - lineNum: 204
-  raw: eq20114	正气甲	temp	传闻为大将岳飞死前所穿战甲，隐隐有股浩然正气凝聚其上。	201	100	50	TRUE	2	50		10	150	150	(Less,15)	5		0	
-  translated: 
+  raw: "eq20114	正气甲	temp	传闻为大将岳飞死前所穿战甲，隐隐有股浩然正气凝聚其上。	201	100	50	TRUE	2	50		10	150	150	(Less,15)	5		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 正气甲
-    translated: 
+    text: "正气甲"
+    translated: ""
   - split: 3
-    text: 传闻为大将岳飞死前所穿战甲，隐隐有股浩然正气凝聚其上。
-    translated: 
+    text: "传闻为大将岳飞死前所穿战甲，隐隐有股浩然正气凝聚其上。"
+    translated: ""
 - lineNum: 205
-  raw: eq20115	皮衣	eq20115	孔金给你的皮衣，穿在身上有股熟悉感。	201	500	250	TRUE	1	20	eq20115	3	40	40	(Less,10)	8		0	(it70409,1)
-  translated: 
+  raw: "eq20115	皮衣	eq20115	孔金给你的皮衣，穿在身上有股熟悉感。	201	500	250	TRUE	1	20	eq20115	3	40	40	(Less,10)	8		0	(it70409,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 皮衣
-    translated: 
+    text: "皮衣"
+    translated: ""
   - split: 3
-    text: 孔金给你的皮衣，穿在身上有股熟悉感。
-    translated: 
+    text: "孔金给你的皮衣，穿在身上有股熟悉感。"
+    translated: ""
 - lineNum: 206
-  raw: eq20116	金鳞衣	eq20116	古时蜀地开国君王鳖灵的贴身护甲，伴随其征战沙场，挡下无数明枪暗箭，同时亦为其陪葬之物。此衣以赤金、乌金、白金等三金之丝绞织而成，又因其纹繁密若鱼鳞，因而得名。	201	5000	2500	TRUE	2	99	eq20116	30	80	80	(Less,32)	5		0	(it70113,1)
-  translated: 
+  raw: "eq20116	金鳞衣	eq20116	古时蜀地开国君王鳖灵的贴身护甲，伴随其征战沙场，挡下无数明枪暗箭，同时亦为其陪葬之物。此衣以赤金、乌金、白金等三金之丝绞织而成，又因其纹繁密若鱼鳞，因而得名。	201	5000	2500	TRUE	2	99	eq20116	30	80	80	(Less,32)	5		0	(it70113,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 金鳞衣
-    translated: 
+    text: "金鳞衣"
+    translated: ""
   - split: 3
-    text: 古时蜀地开国君王鳖灵的贴身护甲，伴随其征战沙场，挡下无数明枪暗箭，同时亦为其陪葬之物。此衣以赤金、乌金、白金等三金之丝绞织而成，又因其纹繁密若鱼鳞，因而得名。
-    translated: 
+    text: "古时蜀地开国君王鳖灵的贴身护甲，伴随其征战沙场，挡下无数明枪暗箭，同时亦为其陪葬之物。此衣以赤金、乌金、白金等三金之丝绞织而成，又因其纹繁密若鱼鳞，因而得名。"
+    translated: ""
 - lineNum: 207
-  raw: eq20117	软甲	eq20115	贴身且延展性高的护甲，对于避免外伤有明显的效果。	201	800	400	TRUE	0	50	eq20117	3	50	50	(Less,10)	10		0	(it70409,1)
-  translated: 
+  raw: "eq20117	软甲	eq20115	贴身且延展性高的护甲，对于避免外伤有明显的效果。	201	800	400	TRUE	0	50	eq20117	3	50	50	(Less,10)	10		0	(it70409,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 软甲
-    translated: 
+    text: "软甲"
+    translated: ""
   - split: 3
-    text: 贴身且延展性高的护甲，对于避免外伤有明显的效果。
-    translated: 
+    text: "贴身且延展性高的护甲，对于避免外伤有明显的效果。"
+    translated: ""
 - lineNum: 208
-  raw: eq20118	宝衣	eq20110	以皮革或布帛编织而成的背心，质地轻软坚韧，可抵御内劲冲击。	201	800	400	TRUE	0	50	eq20110	8	50	50	(Less,12)	10		0	(it70409,1)
-  translated: 
+  raw: "eq20118	宝衣	eq20110	以皮革或布帛编织而成的背心，质地轻软坚韧，可抵御内劲冲击。	201	800	400	TRUE	0	50	eq20110	8	50	50	(Less,12)	10		0	(it70409,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 宝衣
-    translated: 
+    text: "宝衣"
+    translated: ""
   - split: 3
-    text: 以皮革或布帛编织而成的背心，质地轻软坚韧，可抵御内劲冲击。
-    translated: 
+    text: "以皮革或布帛编织而成的背心，质地轻软坚韧，可抵御内劲冲击。"
+    translated: ""
 - lineNum: 209
-  raw: eq20119	甲衣	eq20107	相较于软甲，其防护性更强，而且比重甲要灵活。	201	1200	600	TRUE	0	50	eq20107	15	50	50	(Less,15)	10		0	(it70101,1)
-  translated: 
+  raw: "eq20119	甲衣	eq20107	相较于软甲，其防护性更强，而且比重甲要灵活。	201	1200	600	TRUE	0	50	eq20107	15	50	50	(Less,15)	10		0	(it70101,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 甲衣
-    translated: 
+    text: "甲衣"
+    translated: ""
   - split: 3
-    text: 相较于软甲，其防护性更强，而且比重甲要灵活。
-    translated: 
+    text: "相较于软甲，其防护性更强，而且比重甲要灵活。"
+    translated: ""
 - lineNum: 210
-  raw: eq20120	擎天寨服装	eq20120	红色粗布拼接老旧皮革，你拿着它的同时，脑中冒出一声激动的吶喊「妈，我当上擎天寨众啦！」	203	400	200	TRUE	0	50	player023	1	0	0		0		0	
-  translated: 
+  raw: "eq20120	擎天寨服装	eq20120	红色粗布拼接老旧皮革，你拿着它的同时，脑中冒出一声激动的吶喊「妈，我当上擎天寨众啦！」	203	400	200	TRUE	0	50	player023	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 擎天寨服装
-    translated: 
+    text: "擎天寨服装"
+    translated: ""
   - split: 3
-    text: 红色粗布拼接老旧皮革，你拿着它的同时，脑中冒出一声激动的吶喊「妈，我当上擎天寨众啦！」
-    translated: 
+    text: "红色粗布拼接老旧皮革，你拿着它的同时，脑中冒出一声激动的吶喊「妈，我当上擎天寨众啦！」"
+    translated: ""
 - lineNum: 211
-  raw: eq20121	虾米服装	eq20121	你最熟悉的伙伴，是一套利于活动的轻便皮甲，这套皮甲曾与你一同闯过无数危难关头，可说是身经百战，此刻也依然在履行它的职责，忠实地保护着你。	203	2	1	TRUE	0	50	ma99998b	1	0	0		0		0	
-  translated: 
+  raw: "eq20121	虾米服装	eq20121	你最熟悉的伙伴，是一套利于活动的轻便皮甲，这套皮甲曾与你一同闯过无数危难关头，可说是身经百战，此刻也依然在履行它的职责，忠实地保护着你。	203	2	1	TRUE	0	50	ma99998b	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 虾米服装
-    translated: 
+    text: "虾米服装"
+    translated: ""
   - split: 3
-    text: 你最熟悉的伙伴，是一套利于活动的轻便皮甲，这套皮甲曾与你一同闯过无数危难关头，可说是身经百战，此刻也依然在履行它的职责，忠实地保护着你。
-    translated: 
+    text: "你最熟悉的伙伴，是一套利于活动的轻便皮甲，这套皮甲曾与你一同闯过无数危难关头，可说是身经百战，此刻也依然在履行它的职责，忠实地保护着你。"
+    translated: ""
 - lineNum: 212
-  raw: eq20122	木府卫兵服装	eq20122	穿上它，你也是个英挺的木府卫兵阿虾阿米。	203	800	400	TRUE	0	50	player017	1	0	0		0		0	
-  translated: 
+  raw: "eq20122	木府卫兵服装	eq20122	穿上它，你也是个英挺的木府卫兵阿虾阿米。	203	800	400	TRUE	0	50	player017	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 木府卫兵服装
-    translated: 
+    text: "木府卫兵服装"
+    translated: ""
   - split: 3
-    text: 穿上它，你也是个英挺的木府卫兵阿虾阿米。
-    translated: 
+    text: "穿上它，你也是个英挺的木府卫兵阿虾阿米。"
+    translated: ""
 - lineNum: 213
-  raw: eq20125	纳西皮裘	eq20125	上等棉麻布料搭上传统的毛料镶饰，通常是较具身分地位的民众所选择的服饰。	203	1000	500	TRUE	0	50	player012	1	0	0		0		0	
-  translated: 
+  raw: "eq20125	纳西皮裘	eq20125	上等棉麻布料搭上传统的毛料镶饰，通常是较具身分地位的民众所选择的服饰。	203	1000	500	TRUE	0	50	player012	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 纳西皮裘
-    translated: 
+    text: "纳西皮裘"
+    translated: ""
   - split: 3
-    text: 上等棉麻布料搭上传统的毛料镶饰，通常是较具身分地位的民众所选择的服饰。
-    translated: 
+    text: "上等棉麻布料搭上传统的毛料镶饰，通常是较具身分地位的民众所选择的服饰。"
+    translated: ""
 - lineNum: 214
-  raw: eq20127	噶玛寺僧袍	eq20127	庄严的红色，飘逸的袖袍，穿上它让你立马彷佛...有头发的噶玛寺僧。	203	800	400	TRUE	0	50	player015	1	0	0		0		0	
-  translated: 
+  raw: "eq20127	噶玛寺僧袍	eq20127	庄严的红色，飘逸的袖袍，穿上它让你立马彷佛...有头发的噶玛寺僧。	203	800	400	TRUE	0	50	player015	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 噶玛寺僧袍
-    translated: 
+    text: "噶玛寺僧袍"
+    translated: ""
   - split: 3
-    text: 庄严的红色，飘逸的袖袍，穿上它让你立马彷佛...有头发的噶玛寺僧。
-    translated: 
+    text: "庄严的红色，飘逸的袖袍，穿上它让你立马彷佛...有头发的噶玛寺僧。"
+    translated: ""
 - lineNum: 215
-  raw: eq20128	夜行衣	eq20175	一身黑衣，适合穿来偷鸡摸狗。	203	400	200	TRUE	0	50	player018	1	0	0		0		0	
-  translated: 
+  raw: "eq20128	夜行衣	eq20175	一身黑衣，适合穿来偷鸡摸狗。	203	400	200	TRUE	0	50	player018	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 夜行衣
-    translated: 
+    text: "夜行衣"
+    translated: ""
   - split: 3
-    text: 一身黑衣，适合穿来偷鸡摸狗。
-    translated: 
+    text: "一身黑衣，适合穿来偷鸡摸狗。"
+    translated: ""
 - lineNum: 216
-  raw: eq20129	赭色袄服	eq20129	条纹绒搭上保暖的赭色袄衣，是平民间常见的服饰。	203	400	200	TRUE	0	50	player010	1	0	0		0		0	
-  translated: 
+  raw: "eq20129	赭色袄服	eq20129	条纹绒搭上保暖的赭色袄衣，是平民间常见的服饰。	203	400	200	TRUE	0	50	player010	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 赭色袄服
-    translated: 
+    text: "赭色袄服"
+    translated: ""
   - split: 3
-    text: 条纹绒搭上保暖的赭色袄衣，是平民间常见的服饰。
-    translated: 
+    text: "条纹绒搭上保暖的赭色袄衣，是平民间常见的服饰。"
+    translated: ""
 - lineNum: 217
-  raw: eq20130	纳西常服	eq20130	棉麻混纺的布料搭上一件小背心，是平民间常见的服饰。	203	400	200	TRUE	0	50	player009	1	0	0		0		0	
-  translated: 
+  raw: "eq20130	纳西常服	eq20130	棉麻混纺的布料搭上一件小背心，是平民间常见的服饰。	203	400	200	TRUE	0	50	player009	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 纳西常服
-    translated: 
+    text: "纳西常服"
+    translated: ""
   - split: 3
-    text: 棉麻混纺的布料搭上一件小背心，是平民间常见的服饰。
-    translated: 
+    text: "棉麻混纺的布料搭上一件小背心，是平民间常见的服饰。"
+    translated: ""
 - lineNum: 218
-  raw: eq20131	绿豆色常服	eq20131	棉麻混纺的布料，袖口采缩口设计，便于劳作活动。	203	400	200	TRUE	0	50	player005	1	0	0		0		0	
-  translated: 
+  raw: "eq20131	绿豆色常服	eq20131	棉麻混纺的布料，袖口采缩口设计，便于劳作活动。	203	400	200	TRUE	0	50	player005	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 绿豆色常服
-    translated: 
+    text: "绿豆色常服"
+    translated: ""
   - split: 3
-    text: 棉麻混纺的布料，袖口采缩口设计，便于劳作活动。
-    translated: 
+    text: "棉麻混纺的布料，袖口采缩口设计，便于劳作活动。"
+    translated: ""
 - lineNum: 219
-  raw: eq20132	赋闲书院制服	eq20132	一件令赋闲书院院生充满谜之自信的书生服，穿上它，瞌睡作弊开小差无一不是信手拈来，毫无违和。	203	800	400	TRUE	0	50	player036	1	0	0		0		0	
-  translated: 
+  raw: "eq20132	赋闲书院制服	eq20132	一件令赋闲书院院生充满谜之自信的书生服，穿上它，瞌睡作弊开小差无一不是信手拈来，毫无违和。	203	800	400	TRUE	0	50	player036	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 赋闲书院制服
-    translated: 
+    text: "赋闲书院制服"
+    translated: ""
   - split: 3
-    text: 一件令赋闲书院院生充满谜之自信的书生服，穿上它，瞌睡作弊开小差无一不是信手拈来，毫无违和。
-    translated: 
+    text: "一件令赋闲书院院生充满谜之自信的书生服，穿上它，瞌睡作弊开小差无一不是信手拈来，毫无违和。"
+    translated: ""
 - lineNum: 220
-  raw: eq20133	辰朝士兵服装	eq20133	辰朝士兵的制式服装，为与擅于大漠马战的狼蛮一族对抗，有着轻便防风的设计，只是……似乎少了一顶拉风的范阳笠。	203	400	200	TRUE	0	50	player030	1	0	0		0		0	
-  translated: 
+  raw: "eq20133	辰朝士兵服装	eq20133	辰朝士兵的制式服装，为与擅于大漠马战的狼蛮一族对抗，有着轻便防风的设计，只是……似乎少了一顶拉风的范阳笠。	203	400	200	TRUE	0	50	player030	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 辰朝士兵服装
-    translated: 
+    text: "辰朝士兵服装"
+    translated: ""
   - split: 3
-    text: 辰朝士兵的制式服装，为与擅于大漠马战的狼蛮一族对抗，有着轻便防风的设计，只是……似乎少了一顶拉风的范阳笠。
-    translated: 
+    text: "辰朝士兵的制式服装，为与擅于大漠马战的狼蛮一族对抗，有着轻便防风的设计，只是……似乎少了一顶拉风的范阳笠。"
+    translated: ""
 - lineNum: 221
-  raw: eq20134	太华门袍服	eq20134	在太华门由一位看不过去你身上丑陋衣服的女子所赠，秉持太华门流行的审美观，明确的黑白色系让你看起来「时尚」许多。	203	800	400	TRUE	0	50	player022	1	0	0		0		0	
-  translated: 
+  raw: "eq20134	太华门袍服	eq20134	在太华门由一位看不过去你身上丑陋衣服的女子所赠，秉持太华门流行的审美观，明确的黑白色系让你看起来「时尚」许多。	203	800	400	TRUE	0	50	player022	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 太华门袍服
-    translated: 
+    text: "太华门袍服"
+    translated: ""
   - split: 3
-    text: 在太华门由一位看不过去你身上丑陋衣服的女子所赠，秉持太华门流行的审美观，明确的黑白色系让你看起来「时尚」许多。
-    translated: 
+    text: "在太华门由一位看不过去你身上丑陋衣服的女子所赠，秉持太华门流行的审美观，明确的黑白色系让你看起来「时尚」许多。"
+    translated: ""
 - lineNum: 222
-  raw: eq20135	强盗装	eq20135	坚硬的护甲搭上锋利的金属尖刺，黑色的独眼罩增添强横的男人味，如果你不是重金属爱好者，那就肯定是流寇无疑。	203	800	400	TRUE	0	50	player001	1	0	0		0		0	
-  translated: 
+  raw: "eq20135	强盗装	eq20135	坚硬的护甲搭上锋利的金属尖刺，黑色的独眼罩增添强横的男人味，如果你不是重金属爱好者，那就肯定是流寇无疑。	203	800	400	TRUE	0	50	player001	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 强盗装
-    translated: 
+    text: "强盗装"
+    translated: ""
   - split: 3
-    text: 坚硬的护甲搭上锋利的金属尖刺，黑色的独眼罩增添强横的男人味，如果你不是重金属爱好者，那就肯定是流寇无疑。
-    translated: 
+    text: "坚硬的护甲搭上锋利的金属尖刺，黑色的独眼罩增添强横的男人味，如果你不是重金属爱好者，那就肯定是流寇无疑。"
+    translated: ""
 - lineNum: 223
-  raw: eq20136	禾家马帮服	eq20136	禾家马帮帮众服，拆除右袖的设计让帮众驭马更加灵活。	203	400	200	TRUE	0	50	player002	1	0	0		0		0	
-  translated: 
+  raw: "eq20136	禾家马帮服	eq20136	禾家马帮帮众服，拆除右袖的设计让帮众驭马更加灵活。	203	400	200	TRUE	0	50	player002	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 禾家马帮服
-    translated: 
+    text: "禾家马帮服"
+    translated: ""
   - split: 3
-    text: 禾家马帮帮众服，拆除右袖的设计让帮众驭马更加灵活。
-    translated: 
+    text: "禾家马帮帮众服，拆除右袖的设计让帮众驭马更加灵活。"
+    translated: ""
 - lineNum: 224
-  raw: eq20137	叶家马帮服	eq20137	叶家马帮帮众服，由叶玉龙调整造型设计，无袖小立领设计除了驭马方便，亦可充分展现两臂肌肉线条，实用中增添三分性感。	203	400	200	TRUE	0	50	player003	1	0	0		0		0	
-  translated: 
+  raw: "eq20137	叶家马帮服	eq20137	叶家马帮帮众服，由叶玉龙调整造型设计，无袖小立领设计除了驭马方便，亦可充分展现两臂肌肉线条，实用中增添三分性感。	203	400	200	TRUE	0	50	player003	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 叶家马帮服
-    translated: 
+    text: "叶家马帮服"
+    translated: ""
   - split: 3
-    text: 叶家马帮帮众服，由叶玉龙调整造型设计，无袖小立领设计除了驭马方便，亦可充分展现两臂肌肉线条，实用中增添三分性感。
-    translated: 
+    text: "叶家马帮帮众服，由叶玉龙调整造型设计，无袖小立领设计除了驭马方便，亦可充分展现两臂肌肉线条，实用中增添三分性感。"
+    translated: ""
 - lineNum: 225
-  raw: eq20138	庄稼汉服装	eq20138	以粗布制成，裁缝简单的平民服饰，通常是工人做工时的穿著。	203	400	200	TRUE	0	50	player004	1	0	0		0		0	
-  translated: 
+  raw: "eq20138	庄稼汉服装	eq20138	以粗布制成，裁缝简单的平民服饰，通常是工人做工时的穿著。	203	400	200	TRUE	0	50	player004	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 庄稼汉服装
-    translated: 
+    text: "庄稼汉服装"
+    translated: ""
   - split: 3
-    text: 以粗布制成，裁缝简单的平民服饰，通常是工人做工时的穿著。
-    translated: 
+    text: "以粗布制成，裁缝简单的平民服饰，通常是工人做工时的穿著。"
+    translated: ""
 - lineNum: 226
-  raw: eq20140	褐色常服	eq20140	以粗布制成的平民服饰，改良过的袖口便于劳作。	203	400	200	TRUE	0	50	player006	1	0	0		0		0	
-  translated: 
+  raw: "eq20140	褐色常服	eq20140	以粗布制成的平民服饰，改良过的袖口便于劳作。	203	400	200	TRUE	0	50	player006	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 褐色常服
-    translated: 
+    text: "褐色常服"
+    translated: ""
   - split: 3
-    text: 以粗布制成的平民服饰，改良过的袖口便于劳作。
-    translated: 
+    text: "以粗布制成的平民服饰，改良过的袖口便于劳作。"
+    translated: ""
 - lineNum: 227
-  raw: eq20141	武师服	eq20141	一般武师常见的服饰，袖口缩至小臂，便于施展武艺。你的梦想是成为江湖打手吗？如果是，就穿上他吧，保证让你心满意足。	203	400	200	TRUE	0	50	player007	1	0	0		0		0	
-  translated: 
+  raw: "eq20141	武师服	eq20141	一般武师常见的服饰，袖口缩至小臂，便于施展武艺。你的梦想是成为江湖打手吗？如果是，就穿上他吧，保证让你心满意足。	203	400	200	TRUE	0	50	player007	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 武师服
-    translated: 
+    text: "武师服"
+    translated: ""
   - split: 3
-    text: 一般武师常见的服饰，袖口缩至小臂，便于施展武艺。你的梦想是成为江湖打手吗？如果是，就穿上他吧，保证让你心满意足。
-    translated: 
+    text: "一般武师常见的服饰，袖口缩至小臂，便于施展武艺。你的梦想是成为江湖打手吗？如果是，就穿上他吧，保证让你心满意足。"
+    translated: ""
 - lineNum: 228
-  raw: eq20142	蓑衣	eq20142	穿着一身接地气的蓑衣，让你更加融入江湖，虽然身怀内力的你淋了雨也不致受寒，但，这就是所谓的浪漫吧。	203	400	200	TRUE	0	50	player008	1	0	0		0		0	
-  translated: 
+  raw: "eq20142	蓑衣	eq20142	穿着一身接地气的蓑衣，让你更加融入江湖，虽然身怀内力的你淋了雨也不致受寒，但，这就是所谓的浪漫吧。	203	400	200	TRUE	0	50	player008	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 蓑衣
-    translated: 
+    text: "蓑衣"
+    translated: ""
   - split: 3
-    text: 穿着一身接地气的蓑衣，让你更加融入江湖，虽然身怀内力的你淋了雨也不致受寒，但，这就是所谓的浪漫吧。
-    translated: 
+    text: "穿着一身接地气的蓑衣，让你更加融入江湖，虽然身怀内力的你淋了雨也不致受寒，但，这就是所谓的浪漫吧。"
+    translated: ""
 - lineNum: 229
-  raw: eq20145	纳西常服	eq20145	明亮欢快的绿色，难道这就是你的内心吗？	203	400	200	TRUE	0	50	player011	1	0	0		0		0	
-  translated: 
+  raw: "eq20145	纳西常服	eq20145	明亮欢快的绿色，难道这就是你的内心吗？	203	400	200	TRUE	0	50	player011	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 纳西常服
-    translated: 
+    text: "纳西常服"
+    translated: ""
   - split: 3
-    text: 明亮欢快的绿色，难道这就是你的内心吗？
-    translated: 
+    text: "明亮欢快的绿色，难道这就是你的内心吗？"
+    translated: ""
 - lineNum: 230
-  raw: eq20147	青城弟子服	eq20147	几坛残酒，一地黄书，在这样的地方捡到了一件青城派弟子服，你似乎明白了什么。	203	800	400	TRUE	0	50	player013	1	0	0		0		0	
-  translated: 
+  raw: "eq20147	青城弟子服	eq20147	几坛残酒，一地黄书，在这样的地方捡到了一件青城派弟子服，你似乎明白了什么。	203	800	400	TRUE	0	50	player013	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 青城弟子服
-    translated: 
+    text: "青城弟子服"
+    translated: ""
   - split: 3
-    text: 几坛残酒，一地黄书，在这样的地方捡到了一件青城派弟子服，你似乎明白了什么。
-    translated: 
+    text: "几坛残酒，一地黄书，在这样的地方捡到了一件青城派弟子服，你似乎明白了什么。"
+    translated: ""
 - lineNum: 231
-  raw: eq20148	淘石帮众服	eq20148	淘石帮的帮众服饰，腰间小包挂满淘石器具，大领口设计便于做工，绝对不是为了吸引女性眼珠，真的。	203	400	200	TRUE	0	50	player014	1	0	0		0		0	
-  translated: 
+  raw: "eq20148	淘石帮众服	eq20148	淘石帮的帮众服饰，腰间小包挂满淘石器具，大领口设计便于做工，绝对不是为了吸引女性眼珠，真的。	203	400	200	TRUE	0	50	player014	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 淘石帮众服
-    translated: 
+    text: "淘石帮众服"
+    translated: ""
   - split: 3
-    text: 淘石帮的帮众服饰，腰间小包挂满淘石器具，大领口设计便于做工，绝对不是为了吸引女性眼珠，真的。
-    translated: 
+    text: "淘石帮的帮众服饰，腰间小包挂满淘石器具，大领口设计便于做工，绝对不是为了吸引女性眼珠，真的。"
+    translated: ""
 - lineNum: 232
-  raw: eq20149	鹰猎人皮裘	eq20149	厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。	203	800	400	TRUE	0	50	player016	1	0	0		0		0	
-  translated: 
+  raw: "eq20149	鹰猎人皮裘	eq20149	厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。	203	800	400	TRUE	0	50	player016	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 鹰猎人皮裘
-    translated: 
+    text: "鹰猎人皮裘"
+    translated: ""
   - split: 3
-    text: 厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。
-    translated: 
+    text: "厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。"
+    translated: ""
 - lineNum: 233
-  raw: eq20150	山魈恶鬼装扮	eq20150	山野萧萧，恶鬼嗷嗷，此山魈恶鬼帮众之服，穿之恍若魑魅魍魉，十足诡魅。	203	800	400	TRUE	0	50	player019	1	0	0		0		0	
-  translated: 
+  raw: "eq20150	山魈恶鬼装扮	eq20150	山野萧萧，恶鬼嗷嗷，此山魈恶鬼帮众之服，穿之恍若魑魅魍魉，十足诡魅。	203	800	400	TRUE	0	50	player019	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 山魈恶鬼装扮
-    translated: 
+    text: "山魈恶鬼装扮"
+    translated: ""
   - split: 3
-    text: 山野萧萧，恶鬼嗷嗷，此山魈恶鬼帮众之服，穿之恍若魑魅魍魉，十足诡魅。
-    translated: 
+    text: "山野萧萧，恶鬼嗷嗷，此山魈恶鬼帮众之服，穿之恍若魑魅魍魉，十足诡魅。"
+    translated: ""
 - lineNum: 234
-  raw: eq20151	一世富贵酒庄服	eq20151	深浅不一的红色蜀锦裁就合身劲装，帅气的搭配连白富美都难以抗拒。	203	800	400	TRUE	0	50	player020	1	0	0		0		0	
-  translated: 
+  raw: "eq20151	一世富贵酒庄服	eq20151	深浅不一的红色蜀锦裁就合身劲装，帅气的搭配连白富美都难以抗拒。	203	800	400	TRUE	0	50	player020	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 一世富贵酒庄服
-    translated: 
+    text: "一世富贵酒庄服"
+    translated: ""
   - split: 3
-    text: 深浅不一的红色蜀锦裁就合身劲装，帅气的搭配连白富美都难以抗拒。
-    translated: 
+    text: "深浅不一的红色蜀锦裁就合身劲装，帅气的搭配连白富美都难以抗拒。"
+    translated: ""
 - lineNum: 235
-  raw: eq20152	乞儿装	eq20152	穿上它并会不让你会变成犀利哥，醒醒吧，人家靠的不是衣服，是...。	203	100	50	TRUE	0	50	player021	1	0	0		0		0	
-  translated: 
+  raw: "eq20152	乞儿装	eq20152	穿上它并会不让你会变成犀利哥，醒醒吧，人家靠的不是衣服，是...。	203	100	50	TRUE	0	50	player021	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 乞儿装
-    translated: 
+    text: "乞儿装"
+    translated: ""
   - split: 3
-    text: 穿上它并会不让你会变成犀利哥，醒醒吧，人家靠的不是衣服，是...。
-    translated: 
+    text: "穿上它并会不让你会变成犀利哥，醒醒吧，人家靠的不是衣服，是...。"
+    translated: ""
 - lineNum: 236
-  raw: eq20153	鹰猎人皮裘	eq20153	厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。	203	800	400	TRUE	0	50	player024	1	0	0		0		0	
-  translated: 
+  raw: "eq20153	鹰猎人皮裘	eq20153	厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。	203	800	400	TRUE	0	50	player024	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 鹰猎人皮裘
-    translated: 
+    text: "鹰猎人皮裘"
+    translated: ""
   - split: 3
-    text: 厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。
-    translated: 
+    text: "厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。"
+    translated: ""
 - lineNum: 237
-  raw: eq20154	鹰猎人皮裘	eq20154	比一般皮草更精致，栩栩如生的狐狸头让你看起来比一般鹰猎人高了十个档次不只。	203	800	400	TRUE	0	50	player025	1	0	0		0		0	
-  translated: 
+  raw: "eq20154	鹰猎人皮裘	eq20154	比一般皮草更精致，栩栩如生的狐狸头让你看起来比一般鹰猎人高了十个档次不只。	203	800	400	TRUE	0	50	player025	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 鹰猎人皮裘
-    translated: 
+    text: "鹰猎人皮裘"
+    translated: ""
   - split: 3
-    text: 比一般皮草更精致，栩栩如生的狐狸头让你看起来比一般鹰猎人高了十个档次不只。
-    translated: 
+    text: "比一般皮草更精致，栩栩如生的狐狸头让你看起来比一般鹰猎人高了十个档次不只。"
+    translated: ""
 - lineNum: 238
-  raw: eq20155	锦衣卫服	eq20155	红底金饰，京里来的爷们果真考究！	203	800	400	TRUE	0	50	player026	1	0	0		0		0	
-  translated: 
+  raw: "eq20155	锦衣卫服	eq20155	红底金饰，京里来的爷们果真考究！	203	800	400	TRUE	0	50	player026	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 锦衣卫服
-    translated: 
+    text: "锦衣卫服"
+    translated: ""
   - split: 3
-    text: 红底金饰，京里来的爷们果真考究！
-    translated: 
+    text: "红底金饰，京里来的爷们果真考究！"
+    translated: ""
 - lineNum: 239
-  raw: eq20156	店小二服	eq20156	没有店小二，也敢称江湖？	203	200	100	TRUE	0	50	player027	1	0	0		0		0	
-  translated: 
+  raw: "eq20156	店小二服	eq20156	没有店小二，也敢称江湖？	203	200	100	TRUE	0	50	player027	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 店小二服
-    translated: 
+    text: "店小二服"
+    translated: ""
   - split: 3
-    text: 没有店小二，也敢称江湖？
-    translated: 
+    text: "没有店小二，也敢称江湖？"
+    translated: ""
 - lineNum: 240
-  raw: eq20157	段家军装	eq20157	穿上它，你忍不住也想跳上屋顶，放声吶喊「誓死效忠段将军」。	203	800	400	TRUE	0	50	player031	1	0	0		0		0	
-  translated: 
+  raw: "eq20157	段家军装	eq20157	穿上它，你忍不住也想跳上屋顶，放声吶喊「誓死效忠段将军」。	203	800	400	TRUE	0	50	player031	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 段家军装
-    translated: 
+    text: "段家军装"
+    translated: ""
   - split: 3
-    text: 穿上它，你忍不住也想跳上屋顶，放声吶喊「誓死效忠段将军」。
-    translated: 
+    text: "穿上它，你忍不住也想跳上屋顶，放声吶喊「誓死效忠段将军」。"
+    translated: ""
 - lineNum: 241
-  raw: eq20158	狼蛮军装	eq20158	一般狼蛮军人所穿着之服饰，穿上它不会让你比较凶恶。	203	800	400	TRUE	0	50	player032	1	0	0		0		0	
-  translated: 
+  raw: "eq20158	狼蛮军装	eq20158	一般狼蛮军人所穿着之服饰，穿上它不会让你比较凶恶。	203	800	400	TRUE	0	50	player032	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 狼蛮军装
-    translated: 
+    text: "狼蛮军装"
+    translated: ""
   - split: 3
-    text: 一般狼蛮军人所穿着之服饰，穿上它不会让你比较凶恶。
-    translated: 
+    text: "一般狼蛮军人所穿着之服饰，穿上它不会让你比较凶恶。"
+    translated: ""
 - lineNum: 242
-  raw: eq20159	狼蛮军装	eq20159	朱色棉布与毛皮相接之狼蛮军服，穿上它，心理上觉得自己好像变帅气了。当然，这不是事实。	203	800	400	TRUE	0	50	player033	1	0	0		0		0	
-  translated: 
+  raw: "eq20159	狼蛮军装	eq20159	朱色棉布与毛皮相接之狼蛮军服，穿上它，心理上觉得自己好像变帅气了。当然，这不是事实。	203	800	400	TRUE	0	50	player033	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 狼蛮军装
-    translated: 
+    text: "狼蛮军装"
+    translated: ""
   - split: 3
-    text: 朱色棉布与毛皮相接之狼蛮军服，穿上它，心理上觉得自己好像变帅气了。当然，这不是事实。
-    translated: 
+    text: "朱色棉布与毛皮相接之狼蛮军服，穿上它，心理上觉得自己好像变帅气了。当然，这不是事实。"
+    translated: ""
 - lineNum: 243
-  raw: eq20160	明教教众服	eq20160	使用特制易燃衣料制成的衣服，穿上它自焚时产生的熊熊圣火能保证你半点残躯都不留。	203	800	400	TRUE	0	50	player034	1	0	0		0		0	
-  translated: 
+  raw: "eq20160	明教教众服	eq20160	使用特制易燃衣料制成的衣服，穿上它自焚时产生的熊熊圣火能保证你半点残躯都不留。	203	800	400	TRUE	0	50	player034	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 明教教众服
-    translated: 
+    text: "明教教众服"
+    translated: ""
   - split: 3
-    text: 使用特制易燃衣料制成的衣服，穿上它自焚时产生的熊熊圣火能保证你半点残躯都不留。
-    translated: 
+    text: "使用特制易燃衣料制成的衣服，穿上它自焚时产生的熊熊圣火能保证你半点残躯都不留。"
+    translated: ""
 - lineNum: 244
-  raw: eq20161	弦剑山庄服	eq20161	好知名的剑庄，好普通的装扮，你在心里默默叹息。	203	800	400	TRUE	0	50	player035	1	0	0		0		0	
-  translated: 
+  raw: "eq20161	弦剑山庄服	eq20161	好知名的剑庄，好普通的装扮，你在心里默默叹息。	203	800	400	TRUE	0	50	player035	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 弦剑山庄服
-    translated: 
+    text: "弦剑山庄服"
+    translated: ""
   - split: 3
-    text: 好知名的剑庄，好普通的装扮，你在心里默默叹息。
-    translated: 
+    text: "好知名的剑庄，好普通的装扮，你在心里默默叹息。"
+    translated: ""
 - lineNum: 245
-  raw: eq20162	粗制皮甲	eq20102	一件只用几块皮革拼凑出的简陋防具。受限于工艺，无法拥有与材料相衬的质量。但由于制作容易，仍被许多百姓使用，提供最基本的保护。	201	200	100	TRUE	0	2	eq20102	8	10	10	(Less,1)	10		0	(it70409,1)
-  translated: 
+  raw: "eq20162	粗制皮甲	eq20102	一件只用几块皮革拼凑出的简陋防具。受限于工艺，无法拥有与材料相衬的质量。但由于制作容易，仍被许多百姓使用，提供最基本的保护。	201	200	100	TRUE	0	2	eq20102	8	10	10	(Less,1)	10		0	(it70409,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 粗制皮甲
-    translated: 
+    text: "粗制皮甲"
+    translated: ""
   - split: 3
-    text: 一件只用几块皮革拼凑出的简陋防具。受限于工艺，无法拥有与材料相衬的质量。但由于制作容易，仍被许多百姓使用，提供最基本的保护。
-    translated: 
+    text: "一件只用几块皮革拼凑出的简陋防具。受限于工艺，无法拥有与材料相衬的质量。但由于制作容易，仍被许多百姓使用，提供最基本的保护。"
+    translated: ""
 - lineNum: 246
-  raw: eq20163	软甲	eq20117	虽然防御有限，但胜在轻便，且柔韧特性能让穿戴者更容易化解内家发劲。	201	1000	500	TRUE	0	40	eq20117	10	30	30	(Less,3)	10		0	(it70409,1)
-  translated: 
+  raw: "eq20163	软甲	eq20117	虽然防御有限，但胜在轻便，且柔韧特性能让穿戴者更容易化解内家发劲。	201	1000	500	TRUE	0	40	eq20117	10	30	30	(Less,3)	10		0	(it70409,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 软甲
-    translated: 
+    text: "软甲"
+    translated: ""
   - split: 3
-    text: 虽然防御有限，但胜在轻便，且柔韧特性能让穿戴者更容易化解内家发劲。
-    translated: 
+    text: "虽然防御有限，但胜在轻便，且柔韧特性能让穿戴者更容易化解内家发劲。"
+    translated: ""
 - lineNum: 247
-  raw: eq20164	锁子甲	eq20107	流血不如流汗！一件沉重护甲虽然考验穿戴者体魄，却能避免利刃开膛之祸。	201	1500	750	TRUE	0	40	eq20107	35	80	80	(Less,12)	10		0	(it70103,1)
-  translated: 
+  raw: "eq20164	锁子甲	eq20107	流血不如流汗！一件沉重护甲虽然考验穿戴者体魄，却能避免利刃开膛之祸。	201	1500	750	TRUE	0	40	eq20107	35	80	80	(Less,12)	10		0	(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 锁子甲
-    translated: 
+    text: "锁子甲"
+    translated: ""
   - split: 3
-    text: 流血不如流汗！一件沉重护甲虽然考验穿戴者体魄，却能避免利刃开膛之祸。
-    translated: 
+    text: "流血不如流汗！一件沉重护甲虽然考验穿戴者体魄，却能避免利刃开膛之祸。"
+    translated: ""
 - lineNum: 248
-  raw: eq20165	猬甲	eq20165	制作工艺繁琐，却能为穿戴者带来特殊防护，面对强敌时能收到意想不到的效果。	201	1200	600	TRUE	0	40	eq20165	23	55	55	(Less,7)	10		0	(it70103,1)
-  translated: 
+  raw: "eq20165	猬甲	eq20165	制作工艺繁琐，却能为穿戴者带来特殊防护，面对强敌时能收到意想不到的效果。	201	1200	600	TRUE	0	40	eq20165	23	55	55	(Less,7)	10		0	(it70103,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 猬甲
-    translated: 
+    text: "猬甲"
+    translated: ""
   - split: 3
-    text: 制作工艺繁琐，却能为穿戴者带来特殊防护，面对强敌时能收到意想不到的效果。
-    translated: 
+    text: "制作工艺繁琐，却能为穿戴者带来特殊防护，面对强敌时能收到意想不到的效果。"
+    translated: ""
 - lineNum: 249
-  raw: eq20166	玄玑皮衣	eq20166	正道侠士所赠之皮衣，由多块兽皮以特殊针法缝合制作，其上绘有道家纹路，韧度极佳，有不错的防御功能。	201	3000	1500	TRUE	2	70	eq20166	18	65	65	(Less,25)	5		0	(it70604,1)
-  translated: 
+  raw: "eq20166	玄玑皮衣	eq20166	正道侠士所赠之皮衣，由多块兽皮以特殊针法缝合制作，其上绘有道家纹路，韧度极佳，有不错的防御功能。	201	3000	1500	TRUE	2	70	eq20166	18	65	65	(Less,25)	5		0	(it70604,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 玄玑皮衣
-    translated: 
+    text: "玄玑皮衣"
+    translated: ""
   - split: 3
-    text: 正道侠士所赠之皮衣，由多块兽皮以特殊针法缝合制作，其上绘有道家纹路，韧度极佳，有不错的防御功能。
-    translated: 
+    text: "正道侠士所赠之皮衣，由多块兽皮以特殊针法缝合制作，其上绘有道家纹路，韧度极佳，有不错的防御功能。"
+    translated: ""
 - lineNum: 250
-  raw: eq20167	鬼玉轻甲	eq20167	黑道好汉所赠之轻甲，将极坚硬的薄玉以韧丝串就，同时兼具防护与灵活的实用护甲。	201	3000	1500	TRUE	2	70	eq20167	18	65	65	(Less,25)	5		0	(it70605,1)
-  translated: 
+  raw: "eq20167	鬼玉轻甲	eq20167	黑道好汉所赠之轻甲，将极坚硬的薄玉以韧丝串就，同时兼具防护与灵活的实用护甲。	201	3000	1500	TRUE	2	70	eq20167	18	65	65	(Less,25)	5		0	(it70605,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 鬼玉轻甲
-    translated: 
+    text: "鬼玉轻甲"
+    translated: ""
   - split: 3
-    text: 黑道好汉所赠之轻甲，将极坚硬的薄玉以韧丝串就，同时兼具防护与灵活的实用护甲。
-    translated: 
+    text: "黑道好汉所赠之轻甲，将极坚硬的薄玉以韧丝串就，同时兼具防护与灵活的实用护甲。"
+    translated: ""
 - lineNum: 251
-  raw: eq20168	软缚红绫衣	eq20168	从杜府暗房找到，以红绫制成的宝衣，造型特殊，似乎能够很好的保护重要部位。	201	3000	1500	TRUE	2	70	eq20168	12	55	55	(Less,19)	5		0	(it70606,1)
-  translated: 
+  raw: "eq20168	软缚红绫衣	eq20168	从杜府暗房找到，以红绫制成的宝衣，造型特殊，似乎能够很好的保护重要部位。	201	3000	1500	TRUE	2	70	eq20168	12	55	55	(Less,19)	5		0	(it70606,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 软缚红绫衣
-    translated: 
+    text: "软缚红绫衣"
+    translated: ""
   - split: 3
-    text: 从杜府暗房找到，以红绫制成的宝衣，造型特殊，似乎能够很好的保护重要部位。
-    translated: 
+    text: "从杜府暗房找到，以红绫制成的宝衣，造型特殊，似乎能够很好的保护重要部位。"
+    translated: ""
 - lineNum: 252
-  raw: eq20169	行者装扮	eq20170	直裰冷披黑雾，戒箍光射秋霜。额前剪发拂眉长，脑后护头齐项。顶骨数珠灿白，杂绒条结微黄。钢刀两口迸寒光，行者武松形像。	203	800	400	TRUE	0	50	player037	1	0	0		0		0	
-  translated: 
+  raw: "eq20169	行者装扮	eq20170	直裰冷披黑雾，戒箍光射秋霜。额前剪发拂眉长，脑后护头齐项。顶骨数珠灿白，杂绒条结微黄。钢刀两口迸寒光，行者武松形像。	203	800	400	TRUE	0	50	player037	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 行者装扮
-    translated: 
+    text: "行者装扮"
+    translated: ""
   - split: 3
-    text: 直裰冷披黑雾，戒箍光射秋霜。额前剪发拂眉长，脑后护头齐项。顶骨数珠灿白，杂绒条结微黄。钢刀两口迸寒光，行者武松形像。
-    translated: 
+    text: "直裰冷披黑雾，戒箍光射秋霜。额前剪发拂眉长，脑后护头齐项。顶骨数珠灿白，杂绒条结微黄。钢刀两口迸寒光，行者武松形像。"
+    translated: ""
 - lineNum: 253
-  raw: eq20170	浪人剑客	eq20169	对酒不觉暝，落花盈我衣。醉起步溪月，鸟还人亦稀。	203	800	400	TRUE	0	50	player038	1	0	0		0		0	
-  translated: 
+  raw: "eq20170	浪人剑客	eq20169	对酒不觉暝，落花盈我衣。醉起步溪月，鸟还人亦稀。	203	800	400	TRUE	0	50	player038	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 浪人剑客
-    translated: 
+    text: "浪人剑客"
+    translated: ""
   - split: 3
-    text: 对酒不觉暝，落花盈我衣。醉起步溪月，鸟还人亦稀。
-    translated: 
+    text: "对酒不觉暝，落花盈我衣。醉起步溪月，鸟还人亦稀。"
+    translated: ""
 - lineNum: 254
-  raw: eq20171	关外刀客	eq20171	义士之后，侠客之心，胡氏过峰迅如狐，宵小凄惶汗湿襟。	203	800	400	TRUE	0	50	player039	1	0	0		0		0	
-  translated: 
+  raw: "eq20171	关外刀客	eq20171	义士之后，侠客之心，胡氏过峰迅如狐，宵小凄惶汗湿襟。	203	800	400	TRUE	0	50	player039	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 关外刀客
-    translated: 
+    text: "关外刀客"
+    translated: ""
   - split: 3
-    text: 义士之后，侠客之心，胡氏过峰迅如狐，宵小凄惶汗湿襟。
-    translated: 
+    text: "义士之后，侠客之心，胡氏过峰迅如狐，宵小凄惶汗湿襟。"
+    translated: ""
 - lineNum: 255
-  raw: eq20172	射鵰装束	eq20172	会挽雕弓如满月，西北望，射天狼。	203	800	400	TRUE	0	50	player042	1	0	0		0		0	
-  translated: 
+  raw: "eq20172	射鵰装束	eq20172	会挽雕弓如满月，西北望，射天狼。	203	800	400	TRUE	0	50	player042	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 射鵰装束
-    translated: 
+    text: "射鵰装束"
+    translated: ""
   - split: 3
-    text: 会挽雕弓如满月，西北望，射天狼。
-    translated: 
+    text: "会挽雕弓如满月，西北望，射天狼。"
+    translated: ""
 - lineNum: 256
-  raw: eq20173	江湖浪人	eq20173	痛饮狂歌空度日，飞扬跋扈为谁雄？	203	800	400	TRUE	0	50	player040	1	0	0		0		0	
-  translated: 
+  raw: "eq20173	江湖浪人	eq20173	痛饮狂歌空度日，飞扬跋扈为谁雄？	203	800	400	TRUE	0	50	player040	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 江湖浪人
-    translated: 
+    text: "江湖浪人"
+    translated: ""
   - split: 3
-    text: 痛饮狂歌空度日，飞扬跋扈为谁雄？
-    translated: 
+    text: "痛饮狂歌空度日，飞扬跋扈为谁雄？"
+    translated: ""
 - lineNum: 257
-  raw: eq20174	小白龙	eq20174	兴风雨，掀巨浪，游戏江湖，不过如此。	203	800	400	TRUE	0	50	player041	1	0	0		0		0	
-  translated: 
+  raw: "eq20174	小白龙	eq20174	兴风雨，掀巨浪，游戏江湖，不过如此。	203	800	400	TRUE	0	50	player041	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 小白龙
-    translated: 
+    text: "小白龙"
+    translated: ""
   - split: 3
-    text: 兴风雨，掀巨浪，游戏江湖，不过如此。
-    translated: 
+    text: "兴风雨，掀巨浪，游戏江湖，不过如此。"
+    translated: ""
 - lineNum: 258
-  raw: eq20175	黑衣刺客	eq20175	黑衣刺客	203	800	400	TRUE	0	50	player041	1	0	0		0		0	
-  translated: 
+  raw: "eq20175	黑衣刺客	eq20175	黑衣刺客	203	800	400	TRUE	0	50	player041	1	0	0		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 黑衣刺客
-    translated: 
+    text: "黑衣刺客"
+    translated: ""
   - split: 3
-    text: 黑衣刺客
-    translated: 
+    text: "黑衣刺客"
+    translated: ""
 - lineNum: 259
-  raw: eq20201	护身符	eq20201	一般民间相信，从庙宇中求得获神明加持的护身符，具有趋吉避凶的效果。	202	1000	500	TRUE	0	20		1	1	1		0		jewelry01	
-  translated: 
+  raw: "eq20201	护身符	eq20201	一般民间相信，从庙宇中求得获神明加持的护身符，具有趋吉避凶的效果。	202	1000	500	TRUE	0	20		1	1	1		0		jewelry01	"
+  translated: ""
   splits:
   - split: 1
-    text: 护身符
-    translated: 
+    text: "护身符"
+    translated: ""
   - split: 3
-    text: 一般民间相信，从庙宇中求得获神明加持的护身符，具有趋吉避凶的效果。
-    translated: 
+    text: "一般民间相信，从庙宇中求得获神明加持的护身符，具有趋吉避凶的效果。"
+    translated: ""
 - lineNum: 260
-  raw: eq20203	金项链	eq20203	价格高昂、成色极佳的项链，传说具有辟邪的效果。	202	2000	1000	TRUE	1	40		1	1	1		0	(MaxHP,250)	jewelry02	
-  translated: 
+  raw: "eq20203	金项链	eq20203	价格高昂、成色极佳的项链，传说具有辟邪的效果。	202	2000	1000	TRUE	1	40		1	1	1		0	(MaxHP,250)	jewelry02	"
+  translated: ""
   splits:
   - split: 1
-    text: 金项链
-    translated: 
+    text: "金项链"
+    translated: ""
   - split: 3
-    text: 价格高昂、成色极佳的项链，传说具有辟邪的效果。
-    translated: 
+    text: "价格高昂、成色极佳的项链，传说具有辟邪的效果。"
+    translated: ""
 - lineNum: 261
-  raw: eq20204	大有来头的古佛像	eq20204	王春在田里挖到小佛像，认不出这是值钱的文物，只当护身符带着。老是叫嚷讨老婆没好处的王春，就此错过满足内心深处愿望的机会。	202	3000	1500	TRUE	1	40		1	1	1		0		jewelry03	
-  translated: 
+  raw: "eq20204	大有来头的古佛像	eq20204	王春在田里挖到小佛像，认不出这是值钱的文物，只当护身符带着。老是叫嚷讨老婆没好处的王春，就此错过满足内心深处愿望的机会。	202	3000	1500	TRUE	1	40		1	1	1		0		jewelry03	"
+  translated: ""
   splits:
   - split: 1
-    text: 大有来头的古佛像
-    translated: 
+    text: "大有来头的古佛像"
+    translated: ""
   - split: 3
-    text: 王春在田里挖到小佛像，认不出这是值钱的文物，只当护身符带着。老是叫嚷讨老婆没好处的王春，就此错过满足内心深处愿望的机会。
-    translated: 
+    text: "王春在田里挖到小佛像，认不出这是值钱的文物，只当护身符带着。老是叫嚷讨老婆没好处的王春，就此错过满足内心深处愿望的机会。"
+    translated: ""
 - lineNum: 262
-  raw: eq20205	和阗玉镯	eq20205	和阗玉制的手镯。	202	3000	1500	TRUE	1	50		1	1	1		0	(MaxMP,150)	jewelry04	
-  translated: 
+  raw: "eq20205	和阗玉镯	eq20205	和阗玉制的手镯。	202	3000	1500	TRUE	1	50		1	1	1		0	(MaxMP,150)	jewelry04	"
+  translated: ""
   splits:
   - split: 1
-    text: 和阗玉镯
-    translated: 
+    text: "和阗玉镯"
+    translated: ""
   - split: 3
-    text: 和阗玉制的手镯。
-    translated: 
+    text: "和阗玉制的手镯。"
+    translated: ""
 - lineNum: 263
-  raw: eq20206	玛尼石	eq20206	密宗法器，是将藏传佛教六字真言绘刻至石头上制成的玛尼石，带有神秘的灵性。	202	500	250	TRUE	0	10		2	1	1		0		TurnAddRelease_1	
-  translated: 
+  raw: "eq20206	玛尼石	eq20206	密宗法器，是将藏传佛教六字真言绘刻至石头上制成的玛尼石，带有神秘的灵性。	202	500	250	TRUE	0	10		2	1	1		0		TurnAddRelease_1	"
+  translated: ""
   splits:
   - split: 1
-    text: 玛尼石
-    translated: 
+    text: "玛尼石"
+    translated: ""
   - split: 3
-    text: 密宗法器，是将藏传佛教六字真言绘刻至石头上制成的玛尼石，带有神秘的灵性。
-    translated: 
+    text: "密宗法器，是将藏传佛教六字真言绘刻至石头上制成的玛尼石，带有神秘的灵性。"
+    translated: ""
 - lineNum: 264
-  raw: eq20207	玛尼石护符	eq20207	密宗法器，是将藏传佛教六字真言绘刻至漂亮的石头上制成的护符，带有更强的神秘灵性。	202	1400	700	TRUE	1	20		2	1	1		0		jewelry22	
-  translated: 
+  raw: "eq20207	玛尼石护符	eq20207	密宗法器，是将藏传佛教六字真言绘刻至漂亮的石头上制成的护符，带有更强的神秘灵性。	202	1400	700	TRUE	1	20		2	1	1		0		jewelry22	"
+  translated: ""
   splits:
   - split: 1
-    text: 玛尼石护符
-    translated: 
+    text: "玛尼石护符"
+    translated: ""
   - split: 3
-    text: 密宗法器，是将藏传佛教六字真言绘刻至漂亮的石头上制成的护符，带有更强的神秘灵性。
-    translated: 
+    text: "密宗法器，是将藏传佛教六字真言绘刻至漂亮的石头上制成的护符，带有更强的神秘灵性。"
+    translated: ""
 - lineNum: 265
-  raw: eq20208	夜光玛尼石	eq20208	密宗法器，是将藏传佛教六字真言绘刻至子丑夜光石上制成的护符，带有超自然的神秘灵性。	202	5500	2750	TRUE	2	55		2	1	1		0		jewelry23	
-  translated: 
+  raw: "eq20208	夜光玛尼石	eq20208	密宗法器，是将藏传佛教六字真言绘刻至子丑夜光石上制成的护符，带有超自然的神秘灵性。	202	5500	2750	TRUE	2	55		2	1	1		0		jewelry23	"
+  translated: ""
   splits:
   - split: 1
-    text: 夜光玛尼石
-    translated: 
+    text: "夜光玛尼石"
+    translated: ""
   - split: 3
-    text: 密宗法器，是将藏传佛教六字真言绘刻至子丑夜光石上制成的护符，带有超自然的神秘灵性。
-    translated: 
+    text: "密宗法器，是将藏传佛教六字真言绘刻至子丑夜光石上制成的护符，带有超自然的神秘灵性。"
+    translated: ""
 - lineNum: 266
-  raw: eq20209	转经筒	eq20209	密宗法器，每转动一次经轮，就等同于念诵了一次大藏经经文。	202	1200	600	TRUE	0	12		1	1	1		0		jewelry05	
-  translated: 
+  raw: "eq20209	转经筒	eq20209	密宗法器，每转动一次经轮，就等同于念诵了一次大藏经经文。	202	1200	600	TRUE	0	12		1	1	1		0		jewelry05	"
+  translated: ""
   splits:
   - split: 1
-    text: 转经筒
-    translated: 
+    text: "转经筒"
+    translated: ""
   - split: 3
-    text: 密宗法器，每转动一次经轮，就等同于念诵了一次大藏经经文。
-    translated: 
+    text: "密宗法器，每转动一次经轮，就等同于念诵了一次大藏经经文。"
+    translated: ""
 - lineNum: 267
-  raw: eq20210	风马旗	eq20210	密宗法器，绘有「红、黄、蓝、绿、白」五种颜色的经幡与驮着三宝「佛、法、僧」的白马。	202	3200	1600	TRUE	1	32		3	1	1		0		jewelry06	
-  translated: 
+  raw: "eq20210	风马旗	eq20210	密宗法器，绘有「红、黄、蓝、绿、白」五种颜色的经幡与驮着三宝「佛、法、僧」的白马。	202	3200	1600	TRUE	1	32		3	1	1		0		jewelry06	"
+  translated: ""
   splits:
   - split: 1
-    text: 风马旗
-    translated: 
+    text: "风马旗"
+    translated: ""
   - split: 3
-    text: 密宗法器，绘有「红、黄、蓝、绿、白」五种颜色的经幡与驮着三宝「佛、法、僧」的白马。
-    translated: 
+    text: "密宗法器，绘有「红、黄、蓝、绿、白」五种颜色的经幡与驮着三宝「佛、法、僧」的白马。"
+    translated: ""
 - lineNum: 268
-  raw: eq20211	人骨念珠	eq20211	原是密宗法器，但不肖邪僧杀人取骨，再刻上亵渎咒文，传说可扰乱心志。	202	5000	2500	TRUE	2	50		2	1	1		0		jewelry07	
-  translated: 
+  raw: "eq20211	人骨念珠	eq20211	原是密宗法器，但不肖邪僧杀人取骨，再刻上亵渎咒文，传说可扰乱心志。	202	5000	2500	TRUE	2	50		2	1	1		0		jewelry07	"
+  translated: ""
   splits:
   - split: 1
-    text: 人骨念珠
-    translated: 
+    text: "人骨念珠"
+    translated: ""
   - split: 3
-    text: 原是密宗法器，但不肖邪僧杀人取骨，再刻上亵渎咒文，传说可扰乱心志。
-    translated: 
+    text: "原是密宗法器，但不肖邪僧杀人取骨，再刻上亵渎咒文，传说可扰乱心志。"
+    translated: ""
 - lineNum: 269
-  raw: eq20212	灵骨念珠	eq20212	密宗法器，是以涅盘的喇嘛之骨制成的密宗法器，具有驱魔伏邪的神秘力量。	202	5000	2500	TRUE	2	50		2	1	1		0		jewelry08	
-  translated: 
+  raw: "eq20212	灵骨念珠	eq20212	密宗法器，是以涅盘的喇嘛之骨制成的密宗法器，具有驱魔伏邪的神秘力量。	202	5000	2500	TRUE	2	50		2	1	1		0		jewelry08	"
+  translated: ""
   splits:
   - split: 1
-    text: 灵骨念珠
-    translated: 
+    text: "灵骨念珠"
+    translated: ""
   - split: 3
-    text: 密宗法器，是以涅盘的喇嘛之骨制成的密宗法器，具有驱魔伏邪的神秘力量。
-    translated: 
+    text: "密宗法器，是以涅盘的喇嘛之骨制成的密宗法器，具有驱魔伏邪的神秘力量。"
+    translated: ""
 - lineNum: 270
-  raw: eq20213	珍珠颈炼	eq20213	珍珠为「西方七宝」之一，以大而圆为珍贵，可用来制作念珠与项链。	202	3000	1500	TRUE	0	50		1	1	1		0		0	
-  translated: 
+  raw: "eq20213	珍珠颈炼	eq20213	珍珠为「西方七宝」之一，以大而圆为珍贵，可用来制作念珠与项链。	202	3000	1500	TRUE	0	50		1	1	1		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 珍珠颈炼
-    translated: 
+    text: "珍珠颈炼"
+    translated: ""
   - split: 3
-    text: 珍珠为「西方七宝」之一，以大而圆为珍贵，可用来制作念珠与项链。
-    translated: 
+    text: "珍珠为「西方七宝」之一，以大而圆为珍贵，可用来制作念珠与项链。"
+    translated: ""
 - lineNum: 271
-  raw: eq20214	琥珀念珠	eq20214	琥珀为「西方七宝」之一，亦是一种名贵的药材，具有宁心定神之效。	202	3000	1500	TRUE	0	50		1	1	1		0		0	
-  translated: 
+  raw: "eq20214	琥珀念珠	eq20214	琥珀为「西方七宝」之一，亦是一种名贵的药材，具有宁心定神之效。	202	3000	1500	TRUE	0	50		1	1	1		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 琥珀念珠
-    translated: 
+    text: "琥珀念珠"
+    translated: ""
   - split: 3
-    text: 琥珀为「西方七宝」之一，亦是一种名贵的药材，具有宁心定神之效。
-    translated: 
+    text: "琥珀为「西方七宝」之一，亦是一种名贵的药材，具有宁心定神之效。"
+    translated: ""
 - lineNum: 272
-  raw: eq20215	金箔佛像	temp	藏传佛教的佛像，外表以贴金法贴上一层金箔。黄金亦为「西方七宝」之一。	202	3000	1500	TRUE	0	50		2	1	1		0		0	
-  translated: 
+  raw: "eq20215	金箔佛像	temp	藏传佛教的佛像，外表以贴金法贴上一层金箔。黄金亦为「西方七宝」之一。	202	3000	1500	TRUE	0	50		2	1	1		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 金箔佛像
-    translated: 
+    text: "金箔佛像"
+    translated: ""
   - split: 3
-    text: 藏传佛教的佛像，外表以贴金法贴上一层金箔。黄金亦为「西方七宝」之一。
-    translated: 
+    text: "藏传佛教的佛像，外表以贴金法贴上一层金箔。黄金亦为「西方七宝」之一。"
+    translated: ""
 - lineNum: 273
-  raw: eq20216	玉佛坠饰	temp	以玉石雕刻而成的坠饰。是大研镇药铺老板的所有物，但这似乎是女性的饰品。	202	3000	1500	TRUE	0	50		2	1	1		0		0	
-  translated: 
+  raw: "eq20216	玉佛坠饰	temp	以玉石雕刻而成的坠饰。是大研镇药铺老板的所有物，但这似乎是女性的饰品。	202	3000	1500	TRUE	0	50		2	1	1		0		0	"
+  translated: ""
   splits:
   - split: 1
-    text: 玉佛坠饰
-    translated: 
+    text: "玉佛坠饰"
+    translated: ""
   - split: 3
-    text: 以玉石雕刻而成的坠饰。是大研镇药铺老板的所有物，但这似乎是女性的饰品。
-    translated: 
+    text: "以玉石雕刻而成的坠饰。是大研镇药铺老板的所有物，但这似乎是女性的饰品。"
+    translated: ""
 - lineNum: 274
-  raw: eq20217	绳结坠饰	eq20217	以一般玉石及红色绳线编制的饰品，是漱玉矶一带百姓常见的配饰。	202	1000	500	TRUE	0	10		1	1	1		0	(MaxMP,300)	0	
-  translated: 
+  raw: "eq20217	绳结坠饰	eq20217	以一般玉石及红色绳线编制的饰品，是漱玉矶一带百姓常见的配饰。	202	1000	500	TRUE	0	10		1	1	1		0	(MaxMP,300)	0	"
+  translated: ""
   splits:
   - split: 1
-    text: 绳结坠饰
-    translated: 
+    text: "绳结坠饰"
+    translated: ""
   - split: 3
-    text: 以一般玉石及红色绳线编制的饰品，是漱玉矶一带百姓常见的配饰。
-    translated: 
+    text: "以一般玉石及红色绳线编制的饰品，是漱玉矶一带百姓常见的配饰。"
+    translated: ""
 - lineNum: 275
-  raw: eq20218	香包	eq20218	药香四溢的香包，具有却病驱虫的功效。	202	1000	500	TRUE	0	50		1	1	1		0		jewelry10	
-  translated: 
+  raw: "eq20218	香包	eq20218	药香四溢的香包，具有却病驱虫的功效。	202	1000	500	TRUE	0	50		1	1	1		0		jewelry10	"
+  translated: ""
   splits:
   - split: 1
-    text: 香包
-    translated: 
+    text: "香包"
+    translated: ""
   - split: 3
-    text: 药香四溢的香包，具有却病驱虫的功效。
-    translated: 
+    text: "药香四溢的香包，具有却病驱虫的功效。"
+    translated: ""
 - lineNum: 276
-  raw: eq20219	鱼形佩	eq20219	以矿物雕刻而成的鱼形饰品。	202	1000	500	TRUE	1	50		1	1	1		0		jewelry11	
-  translated: 
+  raw: "eq20219	鱼形佩	eq20219	以矿物雕刻而成的鱼形饰品。	202	1000	500	TRUE	1	50		1	1	1		0		jewelry11	"
+  translated: ""
   splits:
   - split: 1
-    text: 鱼形佩
-    translated: 
+    text: "鱼形佩"
+    translated: ""
   - split: 3
-    text: 以矿物雕刻而成的鱼形饰品。
-    translated: 
+    text: "以矿物雕刻而成的鱼形饰品。"
+    translated: ""
 - lineNum: 277
-  raw: eq20221	龙形佩	eq20221	以矿物雕刻而成的龙形饰品。	202	1000	500	TRUE	1	50		1	1	1		0		jewelry12	
-  translated: 
+  raw: "eq20221	龙形佩	eq20221	以矿物雕刻而成的龙形饰品。	202	1000	500	TRUE	1	50		1	1	1		0		jewelry12	"
+  translated: ""
   splits:
   - split: 1
-    text: 龙形佩
-    translated: 
+    text: "龙形佩"
+    translated: ""
   - split: 3
-    text: 以矿物雕刻而成的龙形饰品。
-    translated: 
+    text: "以矿物雕刻而成的龙形饰品。"
+    translated: ""
 - lineNum: 278
-  raw: eq20220	虎形佩	eq20220	以矿物雕刻而成的虎形饰品。	202	1000	500	TRUE	1	50		1	1	1		0		jewelry13	
-  translated: 
+  raw: "eq20220	虎形佩	eq20220	以矿物雕刻而成的虎形饰品。	202	1000	500	TRUE	1	50		1	1	1		0		jewelry13	"
+  translated: ""
   splits:
   - split: 1
-    text: 虎形佩
-    translated: 
+    text: "虎形佩"
+    translated: ""
   - split: 3
-    text: 以矿物雕刻而成的虎形饰品。
-    translated: 
+    text: "以矿物雕刻而成的虎形饰品。"
+    translated: ""
 - lineNum: 279
-  raw: eq20222	兽牙坠饰	eq20222	以野兽牙雕刻而成的饰品。	202	700	350	TRUE	2	50		1	1	1		0		jewelry14	
-  translated: 
+  raw: "eq20222	兽牙坠饰	eq20222	以野兽牙雕刻而成的饰品。	202	700	350	TRUE	2	50		1	1	1		0		jewelry14	"
+  translated: ""
   splits:
   - split: 1
-    text: 兽牙坠饰
-    translated: 
+    text: "兽牙坠饰"
+    translated: ""
   - split: 3
-    text: 以野兽牙雕刻而成的饰品。
-    translated: 
+    text: "以野兽牙雕刻而成的饰品。"
+    translated: ""
 - lineNum: 280
-  raw: eq20223	凤羽	eq20223	大红花掉落的羽毛，配戴者会感觉自己身轻如燕。	202	1000	500	TRUE	2	50		0	1	1		0		jewelry15	
-  translated: 
+  raw: "eq20223	凤羽	eq20223	大红花掉落的羽毛，配戴者会感觉自己身轻如燕。	202	1000	500	TRUE	2	50		0	1	1		0		jewelry15	"
+  translated: ""
   splits:
   - split: 1
-    text: 凤羽
-    translated: 
+    text: "凤羽"
+    translated: ""
   - split: 3
-    text: 大红花掉落的羽毛，配戴者会感觉自己身轻如燕。
-    translated: 
+    text: "大红花掉落的羽毛，配戴者会感觉自己身轻如燕。"
+    translated: ""
 - lineNum: 281
-  raw: eq20224	畅销的开运商品	eq20224	即便随处可见的坠饰，经大研镇算命仙加持后价格也能翻上几番。只要心诚，佩戴它就能带来心灵慰藉。	202	1500	750	TRUE	0	30		1	1	1		0		jewelry16	
-  translated: 
+  raw: "eq20224	畅销的开运商品	eq20224	即便随处可见的坠饰，经大研镇算命仙加持后价格也能翻上几番。只要心诚，佩戴它就能带来心灵慰藉。	202	1500	750	TRUE	0	30		1	1	1		0		jewelry16	"
+  translated: ""
   splits:
   - split: 1
-    text: 畅销的开运商品
-    translated: 
+    text: "畅销的开运商品"
+    translated: ""
   - split: 3
-    text: 即便随处可见的坠饰，经大研镇算命仙加持后价格也能翻上几番。只要心诚，佩戴它就能带来心灵慰藉。
-    translated: 
+    text: "即便随处可见的坠饰，经大研镇算命仙加持后价格也能翻上几番。只要心诚，佩戴它就能带来心灵慰藉。"
+    translated: ""
 - lineNum: 282
-  raw: eq20225	诡异的坠饰	eq20225	异常丑陋的小佛像，丑到佛祖看到自己被刻成这样都会愤怒，戴着会倒霉也不奇怪。对喜欢自虐的人来说也许能产生磨练效果。	202	1500	750	TRUE	0	10		1	1	1		0	(Intelligence,10)	jewelry17	
-  translated: 
+  raw: "eq20225	诡异的坠饰	eq20225	异常丑陋的小佛像，丑到佛祖看到自己被刻成这样都会愤怒，戴着会倒霉也不奇怪。对喜欢自虐的人来说也许能产生磨练效果。	202	1500	750	TRUE	0	10		1	1	1		0	(Intelligence,10)	jewelry17	"
+  translated: ""
   splits:
   - split: 1
-    text: 诡异的坠饰
-    translated: 
+    text: "诡异的坠饰"
+    translated: ""
   - split: 3
-    text: 异常丑陋的小佛像，丑到佛祖看到自己被刻成这样都会愤怒，戴着会倒霉也不奇怪。对喜欢自虐的人来说也许能产生磨练效果。
-    translated: 
+    text: "异常丑陋的小佛像，丑到佛祖看到自己被刻成这样都会愤怒，戴着会倒霉也不奇怪。对喜欢自虐的人来说也许能产生磨练效果。"
+    translated: ""
 - lineNum: 283
-  raw: eq20226	银项链	eq20226	价格高昂、成色极佳的项链，传说具有辟邪的效果。	202	2000	1000	TRUE	1	35		1	1	1		0	(MaxHP,500)	0	
-  translated: 
+  raw: "eq20226	银项链	eq20226	价格高昂、成色极佳的项链，传说具有辟邪的效果。	202	2000	1000	TRUE	1	35		1	1	1		0	(MaxHP,500)	0	"
+  translated: ""
   splits:
   - split: 1
-    text: 银项链
-    translated: 
+    text: "银项链"
+    translated: ""
   - split: 3
-    text: 价格高昂、成色极佳的项链，传说具有辟邪的效果。
-    translated: 
+    text: "价格高昂、成色极佳的项链，传说具有辟邪的效果。"
+    translated: ""
 - lineNum: 284
-  raw: eq20227	金手指	eq20227	此物并非武林名宿嘉藤英赖以纵横武坛的那个金手指，而是上天授予手段突破天地法则限制者的证明。	202	50000	25000	TRUE	3	99		1	1	1		0		jewelry19	
-  translated: 
+  raw: "eq20227	金手指	eq20227	此物并非武林名宿嘉藤英赖以纵横武坛的那个金手指，而是上天授予手段突破天地法则限制者的证明。	202	50000	25000	TRUE	3	99		1	1	1		0		jewelry19	"
+  translated: ""
   splits:
   - split: 1
-    text: 金手指
-    translated: 
+    text: "金手指"
+    translated: ""
   - split: 3
-    text: 此物并非武林名宿嘉藤英赖以纵横武坛的那个金手指，而是上天授予手段突破天地法则限制者的证明。
-    translated: 
+    text: "此物并非武林名宿嘉藤英赖以纵横武坛的那个金手指，而是上天授予手段突破天地法则限制者的证明。"
+    translated: ""
 - lineNum: 285
-  raw: eq20228	寒玉镯	eq20228	寒玉以玉为名，实为百丈坚冰下经万年自然生成的一点冰精。其中蕴含的寒气几近无穷无尽，即使带离极地依然不化。配戴者举手投足间都能以森森寒风伤敌。	202	5000	2500	TRUE	2	80		1	1	1		0		frozen03	(it70321,1)
-  translated: 
+  raw: "eq20228	寒玉镯	eq20228	寒玉以玉为名，实为百丈坚冰下经万年自然生成的一点冰精。其中蕴含的寒气几近无穷无尽，即使带离极地依然不化。配戴者举手投足间都能以森森寒风伤敌。	202	5000	2500	TRUE	2	80		1	1	1		0		frozen03	(it70321,1)"
+  translated: ""
   splits:
   - split: 1
-    text: 寒玉镯
-    translated: 
+    text: "寒玉镯"
+    translated: ""
   - split: 3
-    text: 寒玉以玉为名，实为百丈坚冰下经万年自然生成的一点冰精。其中蕴含的寒气几近无穷无尽，即使带离极地依然不化。配戴者举手投足间都能以森森寒风伤敌。
-    translated: 
+    text: "寒玉以玉为名，实为百丈坚冰下经万年自然生成的一点冰精。其中蕴含的寒气几近无穷无尽，即使带离极地依然不化。配戴者举手投足间都能以森森寒风伤敌。"
+    translated: ""
 - lineNum: 286
-  raw: eq20229	地贼护腕	eq20229	来历不明的护腕，能激发穿戴者潜能。穿戴者轻功越高，效果愈发卓著。	202	10000	5000	TRUE	3	99		1	1	1		0		jewelry21	
-  translated: 
+  raw: "eq20229	地贼护腕	eq20229	来历不明的护腕，能激发穿戴者潜能。穿戴者轻功越高，效果愈发卓著。	202	10000	5000	TRUE	3	99		1	1	1		0		jewelry21	"
+  translated: ""
   splits:
   - split: 1
-    text: 地贼护腕
-    translated: 
+    text: "地贼护腕"
+    translated: ""
   - split: 3
-    text: 来历不明的护腕，能激发穿戴者潜能。穿戴者轻功越高，效果愈发卓著。
-    translated: 
+    text: "来历不明的护腕，能激发穿戴者潜能。穿戴者轻功越高，效果愈发卓著。"
+    translated: ""
 - lineNum: 287
-  raw: eq20230	雪翼雕之羽	eq20230	雪翼雕掉落的羽毛，别在身上后，感觉自己健步如飞。	202	3000	1500	TRUE	3	60		1	1	1		0		jewelry20	
-  translated: 
+  raw: "eq20230	雪翼雕之羽	eq20230	雪翼雕掉落的羽毛，别在身上后，感觉自己健步如飞。	202	3000	1500	TRUE	3	60		1	1	1		0		jewelry20	"
+  translated: ""
   splits:
   - split: 1
-    text: 雪翼雕之羽
-    translated: 
+    text: "雪翼雕之羽"
+    translated: ""
   - split: 3
-    text: 雪翼雕掉落的羽毛，别在身上后，感觉自己健步如飞。
-    translated: 
+    text: "雪翼雕掉落的羽毛，别在身上后，感觉自己健步如飞。"
+    translated: ""
 - lineNum: 288
-  raw: eq20231	金丝镯儿	eq20231	一只少女样式的金丝手镯，也不知道张君宝带在身上要干什么。	202	2000	1000	TRUE	2	70		1	1	1		0		jewelry31	
-  translated: 
+  raw: "eq20231	金丝镯儿	eq20231	一只少女样式的金丝手镯，也不知道张君宝带在身上要干什么。	202	2000	1000	TRUE	2	70		1	1	1		0		jewelry31	"
+  translated: ""
   splits:
   - split: 1
-    text: 金丝镯儿
-    translated: 
+    text: "金丝镯儿"
+    translated: ""
   - split: 3
-    text: 一只少女样式的金丝手镯，也不知道张君宝带在身上要干什么。
-    translated: 
+    text: "一只少女样式的金丝手镯，也不知道张君宝带在身上要干什么。"
+    translated: ""
 - lineNum: 289
-  raw: eq20232	金锁片	eq20232	刻有骆元玉名字，祈求新生儿健康平安的金锁片。骆大娘作为长姐，辛苦拉拔骆元玉长大，并不富裕的骆大娘曾多次将之典当以过年关，但总是会在流当前把它赎回。	202	1500	750	TRUE	2	70		1	1	1		0		jewelry24	
-  translated: 
+  raw: "eq20232	金锁片	eq20232	刻有骆元玉名字，祈求新生儿健康平安的金锁片。骆大娘作为长姐，辛苦拉拔骆元玉长大，并不富裕的骆大娘曾多次将之典当以过年关，但总是会在流当前把它赎回。	202	1500	750	TRUE	2	70		1	1	1		0		jewelry24	"
+  translated: ""
   splits:
   - split: 1
-    text: 金锁片
-    translated: 
+    text: "金锁片"
+    translated: ""
   - split: 3
-    text: 刻有骆元玉名字，祈求新生儿健康平安的金锁片。骆大娘作为长姐，辛苦拉拔骆元玉长大，并不富裕的骆大娘曾多次将之典当以过年关，但总是会在流当前把它赎回。
-    translated: 
+    text: "刻有骆元玉名字，祈求新生儿健康平安的金锁片。骆大娘作为长姐，辛苦拉拔骆元玉长大，并不富裕的骆大娘曾多次将之典当以过年关，但总是会在流当前把它赎回。"
+    translated: ""
 - lineNum: 290
-  raw: eq20233	男人的宝贝	eq20233	司徒荆贴身收藏，极为宝爱的一罐东西，内容物似乎不该深究。	202	2	1	TRUE	2	99		1	1	1		0		jewelry25	
-  translated: 
+  raw: "eq20233	男人的宝贝	eq20233	司徒荆贴身收藏，极为宝爱的一罐东西，内容物似乎不该深究。	202	2	1	TRUE	2	99		1	1	1		0		jewelry25	"
+  translated: ""
   splits:
   - split: 1
-    text: 男人的宝贝
-    translated: 
+    text: "男人的宝贝"
+    translated: ""
   - split: 3
-    text: 司徒荆贴身收藏，极为宝爱的一罐东西，内容物似乎不该深究。
-    translated: 
+    text: "司徒荆贴身收藏，极为宝爱的一罐东西，内容物似乎不该深究。"
+    translated: ""
 - lineNum: 291
-  raw: eq20234	寒血银簪	eq20234	沾染黑色毒血的银制发簪。白露霜用以刺死一名修炼寒阴邪功的对头，由于沾染其毒血，寒气逼人，佩戴在身具有退敌奇效，然而自己也难免受其影响。	202	2000	1000	TRUE	2	40		1	1	1		0		jewelry27	
-  translated: 
+  raw: "eq20234	寒血银簪	eq20234	沾染黑色毒血的银制发簪。白露霜用以刺死一名修炼寒阴邪功的对头，由于沾染其毒血，寒气逼人，佩戴在身具有退敌奇效，然而自己也难免受其影响。	202	2000	1000	TRUE	2	40		1	1	1		0		jewelry27	"
+  translated: ""
   splits:
   - split: 1
-    text: 寒血银簪
-    translated: 
+    text: "寒血银簪"
+    translated: ""
   - split: 3
-    text: 沾染黑色毒血的银制发簪。白露霜用以刺死一名修炼寒阴邪功的对头，由于沾染其毒血，寒气逼人，佩戴在身具有退敌奇效，然而自己也难免受其影响。
-    translated: 
+    text: "沾染黑色毒血的银制发簪。白露霜用以刺死一名修炼寒阴邪功的对头，由于沾染其毒血，寒气逼人，佩戴在身具有退敌奇效，然而自己也难免受其影响。"
+    translated: ""
 - lineNum: 292
-  raw: eq20235	重明玉带钩	eq20235	系在腰带上的玉制配饰，以昂首振翅的重明鸟为造型，佩戴在身有提振士气之效。	202	3000	1500	TRUE	2	99		1	1	1		0		jewelry26	
-  translated: 
+  raw: "eq20235	重明玉带钩	eq20235	系在腰带上的玉制配饰，以昂首振翅的重明鸟为造型，佩戴在身有提振士气之效。	202	3000	1500	TRUE	2	99		1	1	1		0		jewelry26	"
+  translated: ""
   splits:
   - split: 1
-    text: 重明玉带钩
-    translated: 
+    text: "重明玉带钩"
+    translated: ""
   - split: 3
-    text: 系在腰带上的玉制配饰，以昂首振翅的重明鸟为造型，佩戴在身有提振士气之效。
-    translated: 
+    text: "系在腰带上的玉制配饰，以昂首振翅的重明鸟为造型，佩戴在身有提振士气之效。"
+    translated: ""
 - lineNum: 293
-  raw: eq20236	白银飞燕发钗	eq20236	秘银打造成双飞燕形象的发钗，象征夫妇双飞，和乐美满。	202	6000	3000	TRUE	1	60		1	1	1		0		jewelry28	
-  translated: 
+  raw: "eq20236	白银飞燕发钗	eq20236	秘银打造成双飞燕形象的发钗，象征夫妇双飞，和乐美满。	202	6000	3000	TRUE	1	60		1	1	1		0		jewelry28	"
+  translated: ""
   splits:
   - split: 1
-    text: 白银飞燕发钗
-    translated: 
+    text: "白银飞燕发钗"
+    translated: ""
   - split: 3
-    text: 秘银打造成双飞燕形象的发钗，象征夫妇双飞，和乐美满。
-    translated: 
+    text: "秘银打造成双飞燕形象的发钗，象征夫妇双飞，和乐美满。"
+    translated: ""
 - lineNum: 294
-  raw: eq20237	并蒂莲心耳饰	eq20237	以金丝打造成并蒂莲心形象的黄金耳饰，精致小巧，象征夫妻永结同心。	202	6000	3000	TRUE	1	60		1	1	1		0		jewelry29	
-  translated: 
+  raw: "eq20237	并蒂莲心耳饰	eq20237	以金丝打造成并蒂莲心形象的黄金耳饰，精致小巧，象征夫妻永结同心。	202	6000	3000	TRUE	1	60		1	1	1		0		jewelry29	"
+  translated: ""
   splits:
   - split: 1
-    text: 并蒂莲心耳饰
-    translated: 
+    text: "并蒂莲心耳饰"
+    translated: ""
   - split: 3
-    text: 以金丝打造成并蒂莲心形象的黄金耳饰，精致小巧，象征夫妻永结同心。
-    translated: 
+    text: "以金丝打造成并蒂莲心形象的黄金耳饰，精致小巧，象征夫妻永结同心。"
+    translated: ""
 - lineNum: 295
-  raw: eq20238	翡翠冰心玉镯	eq20238	冰心翡翠玲珑剔透，便如女子一片冰心爱护夫婿，至死不渝。	202	6000	3000	TRUE	1	60		1	1	1		0		jewelry30	
-  translated: 
+  raw: "eq20238	翡翠冰心玉镯	eq20238	冰心翡翠玲珑剔透，便如女子一片冰心爱护夫婿，至死不渝。	202	6000	3000	TRUE	1	60		1	1	1		0		jewelry30	"
+  translated: ""
   splits:
   - split: 1
-    text: 翡翠冰心玉镯
-    translated: 
+    text: "翡翠冰心玉镯"
+    translated: ""
   - split: 3
-    text: 冰心翡翠玲珑剔透，便如女子一片冰心爱护夫婿，至死不渝。
-    translated: 
+    text: "冰心翡翠玲珑剔透，便如女子一片冰心爱护夫婿，至死不渝。"
+    translated: ""
 - lineNum: 296
-  raw: eq20239	如意双鱼佩	eq20219	翠玉如波，双鱼圆转，乃是一件极精致的吉祥玉佩。	202	1000	500	TRUE	1	30		1	1	1		0		jewelry32	
-  translated: 
+  raw: "eq20239	如意双鱼佩	eq20219	翠玉如波，双鱼圆转，乃是一件极精致的吉祥玉佩。	202	1000	500	TRUE	1	30		1	1	1		0		jewelry32	"
+  translated: ""
   splits:
   - split: 1
-    text: 如意双鱼佩
-    translated: 
+    text: "如意双鱼佩"
+    translated: ""
   - split: 3
-    text: 翠玉如波，双鱼圆转，乃是一件极精致的吉祥玉佩。
-    translated: 
+    text: "翠玉如波，双鱼圆转，乃是一件极精致的吉祥玉佩。"
+    translated: ""

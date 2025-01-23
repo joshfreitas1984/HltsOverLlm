@@ -115,11 +115,7 @@ public static class TranslationService
                         failed = true;
                 }
 
-                line.Translated = string.Join('\t', splits);
-                
-                //Work around for truncated tabs
-                if (!line.Translated.Contains('\t'))
-                    line.Translated += '\t';
+                line.Translated = string.Join('\t', splits);                              
 
                 if (!failed)
                     finalLines.Add(line.Translated);

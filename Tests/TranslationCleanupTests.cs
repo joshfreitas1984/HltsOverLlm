@@ -66,6 +66,41 @@ public class TranslationCleanupTests
     }
 
     [Fact]
+    public async Task MatchRawLines()
+    {
+        string outputPath = $"{workingDirectory}/Translated";
+        string exportPath = $"{workingDirectory}/Export";
+
+        foreach (var textFileToTranslate in TranslationService.GetTextFilesToSplit())
+        {
+            var outputFile = $"{outputPath}/{textFileToTranslate.Path}";
+            var exportFile = $"{exportPath}/{textFileToTranslate.Path}";
+
+            if (!File.Exists(outputFile))
+                continue;
+
+            var deserializer = new DeserializerBuilder()
+                .WithNamingConvention(CamelCaseNamingConvention.Instance)
+                .Build();
+
+            var serializer = new SerializerBuilder()
+                .WithNamingConvention(CamelCaseNamingConvention.Instance)
+                .Build();
+
+            var exportLines = deserializer.Deserialize<List<TranslationLine>>(File.ReadAllText(exportFile));
+            var transLines = deserializer.Deserialize<List<TranslationLine>>(File.ReadAllText(outputFile));
+
+            for (int i = 0; i < exportLines.Count; i++)
+            {
+                if (exportLines[i].LineNum == transLines[i].LineNum)
+                    transLines[i].Raw = exportLines[i].Raw;
+            }
+
+            await File.WriteAllTextAsync(outputFile, serializer.Serialize(transLines));
+        }
+    }
+
+    [Fact]
     public async Task FindAllFailingTranslations()
     {
         var failures = new List<string>();
