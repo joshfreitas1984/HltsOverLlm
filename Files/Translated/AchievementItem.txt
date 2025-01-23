@@ -433,7 +433,7 @@
   splits:
   - split: 1
     text: 狷者
-    translated: The upright or morally strict person.
+    translated: An upright and resolute person who adheres strictly to their principles despite any external pressure.
   - split: 2
     text: 主角狷介值达到100
     translated: Main character's integrity reaches 100.
@@ -966,7 +966,7 @@
   splits:
   - split: 1
     text: 淘金客
-    translated: Gold Prospector
+    translated: Gold Seeker
   - split: 2
     text: 击杀100只鳄鱼
     translated: Slay 100 alligators.
@@ -1206,7 +1206,7 @@
     translated: You tamed ten beast kings roaming freely in Shu, becoming a legend on the path of the Beast Kings.
   - split: 12
     text: 经验值50000点，天山雪莲，千年灵芝，「高阶兽王令」
-    translated: ''
+    translated: "Experience Points: 50,000, Tian Shan Xue Lian, Qian Nian Ling Zhi, High-Level Beast King's Command"
 - lineNum: 93
   raw: 'ach0200	「花田」	你最后还是帮阿田与花采蝶团聚了。	Img_Achieve_Iron.png	0	2	1	FALSE	1	-1	(A_Story0000,1)	0	经验值500点，金钱500钱，江湖声望	{ "MultiAction" : [ { "AddExpAction" : 500} , { "SetMoneyAction" : 500, 0} , { "SetNpcPropertyAction" : 111, 3, 0, "Player"}  ]}	0'
   translated: 
@@ -1486,7 +1486,7 @@
   splits:
   - split: 1
     text: 干戈
-    translated: Conflict or war between states; tumultuous fighting or warfare.
+    translated: Arms and Warfare
   - split: 2
     text: 取得干戈的碎片
     translated: Obtaining fragments of weapons of war.
@@ -1499,7 +1499,7 @@
   splits:
   - split: 1
     text: 春蚕
-    translated: Silkworm larvae in spring.
+    translated: Spring Silk Moths
   - split: 2
     text: 取得春蚕的碎片
     translated: Obtain fragments of the silkworms.
@@ -1512,7 +1512,7 @@
   splits:
   - split: 1
     text: 繁花
-    translated: Blossoming Splendor
+    translated: Flourishing Flowers
   - split: 2
     text: 取得繁花的碎片
     translated: Acquire the shards of Peony Blossom.
@@ -1525,7 +1525,7 @@
   splits:
   - split: 1
     text: 穷山
-    translated: Poor mountain village
+    translated: Lonely Mountain
   - split: 2
     text: 取得穷山的碎片
     translated: Obtain the fragment from Qiong Mountain.
@@ -2123,7 +2123,7 @@
   splits:
   - split: 1
     text: 迅雷
-    translated: Thunderbolt Lightning or Flash of Thunder, depending on context.
+    translated: Thunderbolt
   - split: 2
     text: 精通动系的所有感悟
     translated: Proficient in all insights of the Wind Sect.
@@ -2175,7 +2175,7 @@
   splits:
   - split: 1
     text: 机巧
-    translated: ''
+    translated: Skillful and ingenious in martial arts techniques.
   - split: 2
     text: 精通巧系的所有感悟
     translated: Mastery of the insights from all aspects of Qi cultivation.
@@ -2214,7 +2214,7 @@
   splits:
   - split: 1
     text: 六合
-    translated: The Six Harmonies or The Six Harmony Sect
+    translated: Six Harmonies
   - split: 2
     text: 修练心意六合剑
     translated: Cultivate the Six Harmonies Mind Intent Sword Technique.
@@ -2266,7 +2266,7 @@
   splits:
   - split: 1
     text: 秦王愁
-    translated: King Qin is worried.
+    translated: Qin Wang Chou<br>
   - split: 2
     text: 修练荆轲武诀
     translated: Practice the Wushu techniques of Jing Ke.
@@ -2318,7 +2318,7 @@
   splits:
   - split: 1
     text: 剑圣
-    translated: Sword Saint
+    translated: ''
   - split: 2
     text: 剑法能力达到100
     translated: Martial arts skill level reached 100.
@@ -2331,7 +2331,7 @@
   splits:
   - split: 1
     text: 刀狂
-    translated: Sword Madman
+    translated: ''
   - split: 2
     text: 刀法能力达到100
     translated: Swordsmanship skill has reached 100.
@@ -2370,7 +2370,7 @@
   splits:
   - split: 1
     text: 枪士
-    translated: Swordsman
+    translated: Gunman
   - split: 2
     text: 枪棍能力达到100
     translated: Grenade ability reaches 100.
@@ -2383,7 +2383,7 @@
   splits:
   - split: 1
     text: 镖客
-    translated: Escort Agent
+    translated: Courier
   - split: 2
     text: 暗器能力达到100
     translated: Dark skill level reaches 100.
@@ -2409,7 +2409,7 @@
   splits:
   - split: 1
     text: 蛊师
-    translated: Sorcerer or Shamanist
+    translated: Cultivation Master
   - split: 2
     text: 毒术能力达到100
     translated: Necromancy skill level reached 100.
@@ -2857,7 +2857,7 @@
     translated: Is there anything else you think I can't handle?
   - split: 12
     text: 经验值20000点，江湖声望，千年灵芝，天山雪莲
-    translated: ''
+    translated: Experience Points 20,000, Reputation in the Martial World, Thousand-Year Divine Mushroom, Heavenly Mountain Snow Lotus
 - lineNum: 220
   raw: 'ach0615	小毒虫	炼毒？施蛊？这只是一些小毒虫而已。	Img_Achieve_Iron.png	0	6	1	FALSE	0	-1	(A_Poison_it50101,1)(A_Poison_it50102,1)(A_Poison_it50103,1)(A_Poison_it50104,1)(A_Poison_it50105,1)	0	经验值2500点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 2500} , { "SetNpcPropertyAction" : 111, 5, 0, "Player"}  ]}	0'
   translated: 
@@ -2870,7 +2870,7 @@
     translated: Poison-making? Administering toxins? These are just some small poisonous insects after all.
   - split: 12
     text: 经验值2500点，江湖声望，千年灵芝，天山雪莲
-    translated: ''
+    translated: Experience Points 2500, Reputation in the Jianghu, Qian Nian Ling Zhi, Tian Shan Xue Lian
 - lineNum: 221
   raw: 'ach0616	无毒不丈夫	最毒妇人心，无毒不丈夫。	Img_Achieve_Silver.png	0	6	3	FALSE	0	-1	(A_Poison_it50106,1)(A_Poison_it50107,1)(A_Poison_it50108,1)(A_Poison_it50109,1)(A_Poison_it50110,1)	0	经验值5000点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 15000} , { "SetNpcPropertyAction" : 111, 15, 0, "Player"}  ]}	0'
   translated: 
@@ -2883,7 +2883,7 @@
     translated: A woman's heart is the most poisonous of all; there's no poison that doesn't come from a man.
   - split: 12
     text: 经验值5000点，江湖声望，千年灵芝，天山雪莲
-    translated: ''
+    translated: Experience Points 5,000, Reputation in the Martial World, Thousand-Year Spiritual Mushroom, Heavenly Mountain Snow Lotus
 - lineNum: 222
   raw: 'ach0617	家常小食	精通烹调这个世界的家常小吃	Img_Achieve_Iron.png	0	6	1	FALSE	0	-1	(A_Cook_it60101,1)(A_Cook_it60103,1)(A_Cook_it60105,1)(A_Cook_it60113,1)(A_Cook_it60124,1)	0	经验值15000点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 15000} , { "SetNpcPropertyAction" : 111, 25, 0, "Player"}  ]}	0'
   translated: 
@@ -2896,7 +2896,7 @@
     translated: Proficient in cooking the world's everyday snacks.
   - split: 12
     text: 经验值15000点，江湖声望，千年灵芝，天山雪莲
-    translated: ''
+    translated: Experience 15,000 points, Jianghu reputation, Qian Nian Ling Zhi, Tianshan Xue Lian.
 - lineNum: 223
   raw: 'ach0618	就是嘴馋	对于这些酸甜又不占胃的东西你毫无抗力！	Img_Achieve_Cooper.png	0	6	2	FALSE	0	-1	(A_Cook_it60118,1)(A_Cook_it60119,1)(A_Cook_it60122,1)(A_Cook_it60123,1)(A_Cook_it60125,1)	0	经验值15000点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 15000} , { "SetNpcPropertyAction" : 111, 25, 0, "Player"}  ]}	0'
   translated: 
@@ -2922,7 +2922,7 @@
     translated: You have mastered all the exclusive dishes of the Zhenxu Club!
   - split: 12
     text: 经验值25000点，江湖声望，千年灵芝，天山雪莲
-    translated: ''
+    translated: Experience Points 25,000, Reputation in the Martial World, Thousand-Year Lingzhi, Heavenly Mountain Snow Lotus
 - lineNum: 225
   raw: 'ach0620	补中益气	有什么比能煮出所有能强身又能填饱肚子的菜肴更棒的事呢？	Img_Achieve_Gold.png	0	6	4	FALSE	0	-1	(A_Cook_it60127,1)(A_Cook_it60143,1)(A_Cook_it60144,1)(A_Cook_it60145,1)(A_Cook_it60146,1)	0	经验值20000点，江湖声望，千年灵芝，天山雪莲	{ "MultiAction" : [ { "InventoryAction" : 0, "it40211", 1} , { "InventoryAction" : 0, "it40210", 1} , { "AddExpAction" : 20000} , { "SetNpcPropertyAction" : 111, 25, 0, "Player"}  ]}	0'
   translated: 
@@ -3657,7 +3657,7 @@
   splits:
   - split: 1
     text: 回天
-    translated: Revive the world.
+    translated: Return to Heaven
   - split: 2
     text: 主角精通静系的所有感悟
     translated: Protagonist is proficient in all the insights of the Stillness Sect.
@@ -3696,7 +3696,7 @@
   splits:
   - split: 1
     text: 机巧
-    translated: Artful or Ingenious Craftsmanship
+    translated: Skillful and ingenious in martial arts techniques.
   - split: 2
     text: 主角精通巧系的所有感悟
     translated: The protagonist has mastered all the insights of the Koa System.

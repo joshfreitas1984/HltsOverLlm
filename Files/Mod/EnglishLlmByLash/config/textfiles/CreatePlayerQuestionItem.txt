@@ -1,0 +1,76 @@
+#Id	Question/option text	问题集编号	子选项(问题才要填)	获得旗标(选项才要填)	获得属性(选项才要填)	默认选项(问题才要填)
+Question01	Why do you want to enter the world of He Luo?	0	Question01_1,Question01_2,Question01_3,Question01_4,Question01_5			3
+Question01_1	Martial arts is romantic.	0		(cf005,1)(nf007,1)(af001,1)		0
+Question01_2	I don't want to be a single guy anymore.	0		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0
+Question01_3	I don't want to be a loser, I want to be a man!	0		(cf002,1)(nf009,1)(af003,1)(cf003,1)		0
+Question01_4	What? Is this the world of martial arts?	0		(nf010,1)(af004,1)(cf001,1)		0
+Question01_5	I'm always alone anyway, what's the difference?	0		(cf007,1)(nf006,1)(af005,1)		0
+Question02	What kind of person do you want to be?	0	Question02_1,Question02_2,Question02_3,Question02_4			2
+Question02_1	Be a great man for his country and his people.	0		(cf001,1)	(Moral,30)	0
+Question02_2	No one dares to disobey me.	0		(cf003,1)	(Moral,-30)	0
+Question02_3	A wild and unrestrained man.	0		(cf005,1)(cf007,1)(cf006,1)	(Madness,30)	0
+Question02_4	A gentleman of good manners.	0		(cf002,1)	(Madness,-30)	0
+Question03	When you're on the road and you're broke, what do you want to do for a living?	0	Question03_1,Question03_2,Question03_3,Question03_4			3
+Question03_1	Eating grass, imitating the spirit of Shennong who tasted a hundred herbs.	0		(cf002,1)(nf001,1)		0
+Question03_2	Mine, maybe I'll get some bitcoins.	0		(cf007,1)(nf003,1)		0
+Question03_3	Loan, I don't even exist, Great for borrowing things from others.	0		(cf003,1)(nf004,1)		0
+Question03_4	Penniless? How can one be penniless?	0		(cf005,1)(cf006,1)(nf005,1)		0
+Question04	What kind of weapon do you want to use the most?	0	Question04_1,Question04_2,Question04_3,Question04_4,Question04_5,Question04_6,Question04_7			1
+Question04_1	Barehanded, unarmed, hand-to-hand combat.	0		(cf001,2)(cf003,1)	(Fight,11)	0
+Question04_2	The Sword is like a flying phoenix, the ruler of hundred soldiers.	0		(cf005,1)(cf007,1)	(Sword,11)	0
+Question04_3	The Blade is as fierce as a tiger, the courage of a hundred soldiers.	0		(cf002,1)	(Blade,11)	0
+Question04_4	Long spear and club, one inch long, one inch strong.	0			(Spear,11)	0
+Question04_5	A short weapon is one inch short and one inch dangerous.	0		(cf006,1)	(Short,11)	0
+Question04_6	Hidden weapons, a thousand arms.	0			(Arrow,11)	0
+Question04_7	In the world of martial arts, there is no man without poison.	0			(Poison,16)	0
+Question05	In the world of martial arts, what do you think is the most important thing?	0	Question05_1,Question05_2,Question05_3,Question05_4,Question05_5,Question05_6			3
+Question05_1	You're so strong and compelling, it's easy for you to take charge.	0		(cf007,1)(tf001,1)		0
+Question05_2	Use the weak to conquer the strong, the soft to conquer the hard	0		(tf002,1)		0
+Question05_3	His moves are like the wind, his strikes are like lightning.	0		(cf002,1)(cf003,1)(tf003,1)		0
+Question05_4	Use the strength of the force, and strike from behind.	0		(cf005,1)(tf004,1)		0
+Question05_5	Unpredictable, pointing east and hitting west.	0		(cf006,1)(tf005,1)		0
+Question05_6	It's all about going back to the basics.	0		(tf006,1)(cf001,1)		0
+Question06	What do you imagine the world to look like? (Game Difficulty)	0	Question06_1,Question06_2,Question06_3,Question06_4			2
+Question06_1	(Simple) The country is prosperous, the people are happy and at peace, the weather is favorable	0		(ff002,1)		0
+Question06_2	(General) To restrain oneself, do what is right and just, think of danger in times of peace and be merciful.	0		(ff002,2)		0
+Question06_3	(Difficult) The world is getting worse, they're fighting for power, money and swords.	0		(ff002,3)		0
+Question06_4	(Purgatory) We're at war! There are so many talented people, who can compete with them?	0		(ff002,4)		0
+Question11	Why do you want to enter the world of He Luo?	1	Question11_1,Question11_2,Question11_3,Question11_4,Question11_5,Question11_6			3
+Question11_1	Martial arts is romantic.	1		(cf005,1)(nf007,1)(af001,1)		0
+Question11_2	I don't want to be a single guy anymore.	1		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0
+Question11_3	I don't want to be a loser, I want to be a man!	1		(cf002,1)(nf009,1)(af003,1)(cf003,1)		0
+Question11_4	What? Is this the world of martial arts?	1		(nf010,1)(af004,1)(cf001,1)		0
+Question11_5	I'm always alone anyway, what's the difference?	1		(cf007,1)(nf006,1)(af005,1)		0
+Question11_6	What martial arts world? This is my world.	1		(cf008,1)(cf011,1)(cf004,1)(cf009,1)(cf010,1)(nf011,1)		0
+Question12	What kind of person do you want to be?	1	Question12_1,Question12_2,Question12_3,Question12_4,Question12_5			2
+Question12_1	Be a great man for his country and his people.	1		(cf010,1)(cf001,1)	(Moral,30)	0
+Question12_2	No one dares to disobey me.	1		(cf003,1)	(Moral,-30)	0
+Question12_3	A wild and unrestrained man.	1		(cf005,1)(cf011,1)(cf008,1)(cf007,1)(cf006,1)(cf004,1)	(Madness,30)	0
+Question12_4	A gentleman of good manners.	1		(cf002,1)	(Madness,-30)	0
+Question12_5	I dont want anything, just to be an average man	1		(cf009,1)		0
+Question13	When you're on the road and you're broke, what do you want to do for a living?	1	Question13_1,Question13_2,Question13_3,Question13_4,Question13_5			3
+Question13_1	Eating grass, imitating the spirit of Shennong who tasted a hundred herbs.	1		(cf008,1)(cf002,1)(nf001,1)		0
+Question13_2	Mine, maybe I'll get some bitcoins.	1		(cf007,1)(nf003,1)		0
+Question13_3	Loan, I don't even exist, Great for borrowing things from others.	1		(cf003,1)(nf004,1)		0
+Question13_4	Penniless? How can one be penniless?	1		(cf005,1)(cf006,1)(cf004,1)(nf005,1)(cf009,1)		0
+Question13_5	The sky is my cover, the earth is my bed, I am always satisfied.	1		(cf010,1)(cf011,1)(nf012,1)		0
+Question14	What kind of weapon do you want to use the most?	1	Question14_1,Question14_2,Question14_3,Question14_4,Question14_5,Question14_6,Question14_7			1
+Question14_1	Barehanded, unarmed, hand-to-hand combat.	1		(cf011,1)(cf010,1)(cf009,1)(cf001,2)(cf003,1)	(Fight,21)	0
+Question14_2	The Sword is like a flying phoenix, the ruler of hundred soldiers.	1		(cf005,1)(cf009,1)(cf007,1)	(Sword,21)	0
+Question14_3	The Blade is as fierce as a tiger, the courage of a hundred soldiers.	1		(cf002,1)	(Blade,21)	0
+Question14_4	Long spear and club, one inch long, one inch strong.	1		(cf010,1)	(Spear,21)	0
+Question14_5	A short weapon is one inch short and one inch dangerous.	1		(cf006,1)	(Short,21)	0
+Question14_6	Hidden weapons, a thousand arms.	1		(cf008,1)	(Arrow,21)	0
+Question14_7	In the martial arts world, there is no man without poison.	1		(cf004,1)	(Poison,26)	0
+Question15	In the world of martial arts, what do you think is the most important thing?	1	Question15_1,Question15_2,Question15_3,Question15_4,Question15_5,Question15_6			3
+Question15_1	You're so strong and compelling, it's easy for you to take charge.	1		(cf010,1)(cf007,1)(tf001,1)		0
+Question15_2	Use the weak to conquer the strong, the soft to conquer the hard	1		(cf009,1)(tf002,1)		0
+Question15_3	His moves are like the wind, his strikes are like lightning.	1		(cf002,1)(cf008,1)(cf003,1)(tf003,1)		0
+Question15_4	Use the strength of the force, and strike from behind.	1		(cf005,1)(cf004,1)(tf004,1)		0
+Question15_5	Unpredictable, pointing east and hitting west.	1		(cf011,1)(cf006,1)(tf005,1)		0
+Question15_6	It's all about going back to the basics.	1		(tf006,1)(cf001,1)		0
+Question16	What do you imagine the world to look like? (Game Difficulty)	1	Question16_1,Question16_2,Question16_3,Question16_4			2
+Question16_1	(Simple) The country is prosperous, the people are happy and at peace, the weather is favorable	1		(ff002,1)		0
+Question16_2	(General) Do what is right and just, think of danger in times of peace and be merciful.	1		(ff002,2)		0
+Question16_3	(Difficult) The world is getting worse, they're fighting for power, money and swords.	1		(ff002,3)		0
+Question16_4	(Purgatory) We're at war! There are so many talented people, who can compete with them?	1		(ff002,4)		0

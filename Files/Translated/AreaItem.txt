@@ -67,7 +67,7 @@
   splits:
   - split: 1
     text: 白马居
-    translated: White Horse Residence
+    translated: Páimǎ Jū
 - lineNum: 10
   raw: ar00007	山魈鬼窟	-1016.45, 155.81, -1155.18	0, 254.0569, 0	48.12995, 19.52649, -85.58855	J2014.wav		True	True	Cave
   translated: 
@@ -326,7 +326,7 @@
   splits:
   - split: 1
     text: 卧龙村
-    translated: Dormant Dragon Village
+    translated: Wolong Village
 - lineNum: 47
   raw: ar00035	武侯祠	154.74, 103.84, -47.03	0, 352.2324, 0	56.30731, 20, 47.27695	J2013.wav		False	False	Village
   translated: 

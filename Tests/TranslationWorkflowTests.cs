@@ -22,4 +22,10 @@ public class TranslationWorkflowTests
         await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
     }
 
+    [Fact]
+    public async Task PackageFinalTranslation()
+    {
+        await TranslationService.PackageFinalTranslation(workingDirectory);
+    }
+
 }

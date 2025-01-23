@@ -1,10 +1,6 @@
-﻿using System.Drawing;
-using Translate;
-using YamlDotNet.Serialization.NamingConventions;
+﻿using System.Text.RegularExpressions;
 using YamlDotNet.Serialization;
-using System.Diagnostics;
-using System.Runtime.CompilerServices;
-using Microsoft.VisualBasic;
+using YamlDotNet.Serialization.NamingConventions;
 
 namespace Translate.Tests;
 
@@ -60,7 +56,14 @@ public class TranslationCleanupTests
             {
                 foreach (var split in line.Splits)
                 {
-                    if (string.IsNullOrEmpty(split.Translated))
+                    if (string.IsNullOrEmpty(split.Text))
+                        continue;
+
+                    // If it is already translated or just special characters return it
+                    if (!Regex.IsMatch(split.Text, @"\p{IsCJKUnifiedIdeographs}"))
+                        continue;
+
+                    if (!string.IsNullOrEmpty(split.Text) && string.IsNullOrEmpty(split.Translated))
                         failures.Add($"Invalid {textFileToTranslate.Path}:\n{split.Text}");
                 }
             }

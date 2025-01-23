@@ -4,7 +4,7 @@
   splits:
   - split: 1
     text: 野球拳
-    translated: Street Fighter (Street Fighting)
+    translated: ''
   - split: 3
     text: 这是你来到此世，脑海中唯一记得的一套拳法，虽然此套拳法软弱无力，临敌几乎无用，你却隐隐有股预感，只要勤学苦练，他日必能以此套拳法扬眉吐气，一鸣惊人。
     translated: This is the only martial arts style you remember upon arriving in this world, though it is weak and nearly useless in battle. However, you have a premonition that with diligent practice and hard training, one day you will be able to use this martial arts style to regain your dignity and make a name for yourself.
@@ -64,7 +64,7 @@
   splits:
   - split: 1
     text: 太祖长拳
-    translated: Great Ancestor's Long Fist (Tai Zu Chang Quan)
+    translated: Grand Ancestor's Long Fist
   - split: 3
     text: 相传为宋太祖赵匡胤训练士卒的遗法真传，综合将士在战场上搏杀的经验从而创出的三十二势长拳。
     translated: Legend has it that the true transmission of the training methods for soldiers by Emperor Taizu of Song, Zhao Kuo-yin, is a comprehensive synthesis of battlefield combat experiences. This resulted in the creation of the Thirty-Two Postures Long Fist.
@@ -124,7 +124,7 @@
   splits:
   - split: 1
     text: 沾衣十八跌
-    translated: Shan Yi Shiba Die (Shan Yi's Eighteen Falls)
+    translated: Touched by the robe, eighteen falls.
   - split: 3
     text: 上乘的短打武技，功力深的，敌人只要一沾衣服，就会直跌出去，乃当年"千跌张"传下的秘术，其精髓在于抽身换影、藉势用劲之法。
     translated: Advanced short-range martial arts techniques, when mastered deeply, cause an opponent to be thrown out immediately upon contact with their clothing. This is a secret art passed down by the legendary "Thousand-Fall Zhang," with its essence lying in the methods of withdrawing one's body and using momentum efficiently.
@@ -134,7 +134,7 @@
   splits:
   - split: 1
     text: 绵掌
-    translated: Wrist chop (a martial arts technique)
+    translated: Winding Palm
   - split: 3
     text: 内家拳术，手法以掌为主，运转舒展如绵，动作连而不断，功成之后，掌劲可以穿透坚甲，一掌着体，表面无事，内里已伤。
     translated: Internal Kung Fu technique, with palm strikes as the main method, moves smoothly like silk; actions are continuous and uninterrupted. After mastery, the palm force can penetrate solid armor; one strike on the body causes no external harm but internal injury.
@@ -154,7 +154,7 @@
   splits:
   - split: 1
     text: 大手印
-    translated: Seal of Authority
+    translated: ''
   - split: 3
     text: 吐蕃密宗的独门秘法，其宗旨在于降妖伏魔。
     translated: The secret methods of the Tangut Esoteric Buddhism are intended for subduing demons and taming evil spirits.
@@ -214,7 +214,7 @@
   splits:
   - split: 1
     text: 柔云掌法
-    translated: Róuyún Zhǎngfǎ (Rouyun Zhangfa)
+    translated: Róu Yún Zhǎngfǎ
   - split: 3
     text: 柔云掌法
     translated: Rouyun Palm Technique
@@ -234,7 +234,7 @@
   splits:
   - split: 1
     text: 碧虚掌谱
-    translated: Bì Xu Zhǎng Pǔ (Mist Realm Palm Scroll)
+    translated: Azure Void Palm Manual
   - split: 3
     text: 点苍派掌法。
     translated: Diancang Sect's Martial Art.
@@ -294,10 +294,10 @@
   splits:
   - split: 1
     text: 春江诀
-    translated: Chūn Jiāng Jue (Spring River Farewell)
+    translated: ''
   - split: 3
     text: 春江诀乃取春之善变，江之诡谲，是一门极灵动之双剑武学。春江诀为漆笑儿家传武学，虽漆笑儿拜入点苍派门下，然其为武林名门漆家之独女，因此得以继承漆家家传武学。
-    translated: The Chun Jiang Jue is a martial art of two swords, embodying the good changes of spring and the capricious nature of rivers. It is an extremely dynamic martial skill passed down by the Qī Family. Although Qī Xiàor (Qī Xiaor) took initiation in the Diān Cáo School, as the sole daughter of the renowned martial family, the Qī Clan, she was able to inherit the Qī family martial arts tradition.
+    translated: The Spring River Method is a highly agile dual-sword martial art that embodies the good changes of spring and the elusive nature of rivers. The Spring River Method is a family martial art passed down in the Qī Family, though Qī Xiàor, its creator, entered the Diancang Sect as an apprentice. However, since she was the sole daughter of the renowned martial family Qī, she inherited the Qī Family's secret martial arts.
 - lineNum: 30
   raw: it30206	龙隐剑谱	sword	青城四合绝学之一，非领略青城剑法精义者不得修习。此套剑法虽名为龙隐，真正的要旨却在于动如飞龙在天，但能修练到此境界者却微乎其微。	302	5000	2500	TRUE	1	70	999999	SkillTree098	Sword	0	0	0
   translated: 
@@ -434,7 +434,7 @@
   splits:
   - split: 1
     text: 乾坤剑
-    translated: Heavenly Pivot Sword
+    translated: ''
   - split: 3
     text: 极为精妙的玄门正宗剑法，讲究以气御剑，意在剑先。
     translated: Extremely exquisite Wuxia orthodox swordsmanship that emphasizes the use of Qi to guide the sword, aiming for the sword to be in advance.
@@ -534,7 +534,7 @@
   splits:
   - split: 1
     text: 破山刀
-    translated: Broken Mountain Sword
+    translated: ''
   - split: 3
     text: 相传为古时某位马帮成员，穷其一生在崇山峻岭中披荆斩棘、开山破水磨练而成的一套刀法，至今广为流传。
     translated: It is said to be a sword technique developed by a member of an ancient horse gang, who spent his life training in the rugged mountains and valleys, cutting through thorns and breaking through mountains and waters. This style has been widely passed down until today.
@@ -584,7 +584,7 @@
   splits:
   - split: 1
     text: 碧蛇刀法
-    translated: Bìshé Dáfǎ (碧蛇刀法)
+    translated: Jade Snake Sword Technique
   - split: 3
     text: 云南五毒教的秘传刀法，以狠、诡、奇、快为要诀，配合刁钻多变的身法，招招令人匪夷所思，鬼魅难测。
     translated: The secret sword techniques of the Yun Nan Five Poisons Sect emphasize cruelty, cunning, strangeness, and speed. Combined with agile and unpredictable body movements, every move is unimaginable and difficult to predict.
@@ -604,7 +604,7 @@
   splits:
   - split: 1
     text: 霹雳刀法
-    translated: Pili Dao Fa (Piercing Thunder Sword Technique)
+    translated: Lightning Sword Technique
   - split: 3
     text: 孔金所赠与的刀法秘籍，是一套出自霹雳堂的刀法。初习者，出刀犹如落雷一般刚硬无匹，但唯有能将刀势收放自如，此招才能更上层楼。
     translated: The swordsmanship manual donated by Kong Jin is a set of techniques from the Pili Hall. Beginners find their strikes as hard and unmatched as thunder, but only those who can wield their swords gracefully will be able to elevate this technique further.
@@ -614,7 +614,7 @@
   splits:
   - split: 1
     text: 阴风刀
-    translated: Shadow Wind Sword
+    translated: ''
   - split: 3
     text: 邪派刀法，其要旨在趁人无备，直击要害。此招歹毒阴狠，多为武林正派人士所不齿。
     translated: Heretic swordsmanship, its essence lies in striking the vulnerable when one is unprepared. This technique is wicked and sinister, often looked down upon by righteous martial arts practitioners.
@@ -624,7 +624,7 @@
   splits:
   - split: 1
     text: 太玄霹雳刀法
-    translated: Tai Xu Pi Li Dao Fa (太玄霹雳刀法)
+    translated: Tàixuán Pīlì Dāo Fǎ
   - split: 3
     text: 霹雳刀法进阶武学。
     translated: Advanced Thunderbolt Sword Techniques in Martial Arts.
@@ -704,7 +704,7 @@
   splits:
   - split: 1
     text: 灵云伏羲棍
-    translated: Lingyun Fuxi club (or stick)
+    translated: Lingyun Fuxi Staff
   - split: 3
     text: 蛇丐本家武学之一，盖其祖上终日与蛇为伍，精于驯蛇、驭蛇之道，此套棍法乃蛇丐祖上模拟蟒虺之姿而创，棍棒无论抡动抑或攻击均迥异常理，最擅于敌人意想不到的角度突如一棍。使招之人临敌之际偕同身上的灵蛇一道攻击，除有恫吓之效，与蛇丐心灵相通的灵蛇亦能随招扭动攀咬，敌人无可预测、防不慎防。
     translated: Serpent Beggar's Original Martial Art, its ancestors spent their days with snakes and were skilled in taming and controlling them. This staff technique was created by mimicking the posture of cobras and pythons; both striking and moving are exceptionally flexible. It excels at unexpected angles from which to strike suddenly with a single staff. The wielder's spirit snake also attacks alongside, intimidating opponents. A spirit snake in sync with the Serpent Beggar can twist and bite following the technique, making it unpredictable and hard for enemies to defend against.
@@ -754,7 +754,7 @@
   splits:
   - split: 1
     text: 中平枪法
-    translated: Zhongping Qiangfa (Central Balance Sword Technique)
+    translated: Zhongping Qiangfa
   - split: 3
     text: 中平枪，枪中王，高低远近都不防，高不拦，低不拿，当中一点难遮架。中四平枪，乃顶平、肩平、脚平、枪平，以最短路径平直刺出，枪去如箭，敌手万难招架，防不胜防。
     translated: "Zhongping gun, the king of all polearms, is effective at any range and height; it cannot be blocked from above or seized below. The technique requires precise alignment: shoulder level, horizontal, knee level, and straight line thrusting with the shortest path. Like an arrow, once released, it is extremely difficult for opponents to parry. This style of Zhongping gun consists of four levels—top level, shoulder level, knee level, and direct stab—and it's hard to defend against due to its swift execution."
@@ -784,7 +784,7 @@
   splits:
   - split: 1
     text: 疯魔杖法
-    translated: Fengmo Zha Fa (Mad Wizardry)
+    translated: Madman's Staff Technique
   - split: 3
     text: 少林七十二绝技之一。非入忘我之境存舍身伏魔之志者，无法展现其精髓。
     translated: One of the Shaolin Seventy-Two Finishing Techniques. Only those who have entered the state of I forget myself and possess the resolve to sacrifice their body in vanquishing demons can truly display its essence.
@@ -804,7 +804,7 @@
   splits:
   - split: 1
     text: 麒麟棍法
-    translated: Qilin Gun Fa (Killer Whale Staff Technique)
+    translated: Kilin Club Technique
   - split: 3
     text: 孔金所赠与的枪棍秘籍。相传为玉麒麟卢俊义所使之棍法。卢俊义在梁山泊排行第二，棍棒使的出神入化，天下无双，而这套棍法便以麒麟之名流传于世。
     translated: The sword-and-stick manual gifted by Kong Jin is said to be the staff techniques used by Lu Junyi, the Jade Qilin. Lu Junyi ranks second in Liangshan Marsh and wields the staff with extraordinary skill unmatched throughout the world; this technique has been passed down through history under the name of the Qilin.
@@ -814,7 +814,7 @@
   splits:
   - split: 1
     text: 太祖棒
-    translated: Ancestor's Club (or Staff)
+    translated: ''
   - split: 3
     text: 赵匡胤号称以一条盘龙棍，打遍天下八十一军州，此套棍法伴随他遍打天下豪杰，并助他扫灭群雄定鼎建国。棍法简练实用，演熟之后却变化无穷，以大开大阖威猛霸气闻名江湖。
     translated: Zhao Kuangyin, known as the one who wielded a dragon-patterned staff to conquer all eighty-one armies and provinces across the land, spread this staff technique while defeating heroes everywhere, helping him vanquish rivals and establish his reign. The staff technique is concise and practical; once mastered, it becomes endlessly versatile, famous for its powerful and dominating presence in the martial world.
@@ -894,7 +894,7 @@
   splits:
   - split: 1
     text: 天字九打
-    translated: Nine strikes of heaven letter (also known as a heavenly edict).
+    translated: Nine Heavenly Fists
   - split: 3
     text: 一本奇怪的秘籍，里面记载着各种投掷天九牌的手势、劲力运用法门，以及打穴取准头的技巧。
     translated: A strange manual containing various hand gestures for throwing Tianjiu cards, methods of applying force, and techniques for accurately striking pressure points.
@@ -1004,7 +1004,7 @@
   splits:
   - split: 1
     text: 甩手封喉
-    translated: Letting it go and closing one's mouth tightly (an idiom describing someone who refuses to be involved in or take responsibility for something).
+    translated: Throwing the Hand to Seal the Throat
   - split: 3
     text: 瞄准对手喉间弱点，以甩手箭一击杀敌的暗器技法，许多江湖杀手都曾修习过此技法，掷出的准头和力道需要长年的锻炼。
     translated: Targeting the opponent's throat weakness, this deadly martial arts technique uses a wrist flick to throw an assassin weapon that can kill an enemy. Many assassins in the underworld have practiced this technique; accuracy and force require years of training.
@@ -1084,7 +1084,7 @@
   splits:
   - split: 1
     text: 庄稼把式
-    translated: Farmhand (or Farm Laborer)
+    translated: Zhuang Family Farmhand
   - split: 3
     text: 寻常庄稼汉的攻击招式，毫无章法可言。
     translated: The attack techniques of an ordinary farmer lack any form or structure.
@@ -1104,7 +1104,7 @@
   splits:
   - split: 1
     text: 阎王帖
-    translated: Yanwang tie (Death Notice)
+    translated: ''
   - split: 3
     text: 不赦楼杀手的秘传杀招之一。多以匕首使之，专刺敌人要害，旨在一击毙命。此招歹毒阴狠，多为武林正派人士所不齿。
     translated: One of the secret killing techniques passed down by the Liao Assassins. Primarily executed with a dagger, it targets an enemy's vital points, aiming to kill in one strike. This technique is extremely cruel and sinister, often despised by righteous martial artists.
@@ -1124,7 +1124,7 @@
   splits:
   - split: 1
     text: 长恨歌
-    translated: Ballad of Everlasting Regret (长恨歌)
+    translated: ''
   - split: 3
     text: 天长地久有时尽，此恨绵绵无绝期。蓝拂衣所使用的这套刺法源出俏梦阁擒拿手法，本是婀娜多姿，千娇百媚，却在她离开俏梦阁后染上了一股嗜杀狠戾之气，经过不赦楼主的提点，最终创造出了这套歹毒武学。
     translated: Time can end what's long, this lingering hatred never ends. The set of piercing techniques used by Lan Fu Yi originates from the Qiao Meng Ge grappling art, which is naturally graceful and charming, yet after she left Qiao Meng Ge, it took on a cruel and fierce killing intent. After guidance from Nieshi Lou's master, she ultimately created this vicious martial arts style.
@@ -1194,7 +1194,7 @@
   splits:
   - split: 1
     text: 金钟罩
-    translated: Jin Zhong Zao (Iron Cocoon)
+    translated: Golden Bell Tower
   - split: 3
     text: 少林七十二绝技之一，为达摩禅师所创的最顶级横练功夫，大成者可达到罡气护体的程度，从而获得刀枪不入，水火不侵的金刚不坏之身。
     translated: One of the Shaolin Seventy-Two Deadly Skills, created by Master Bodhidharma, is the most advanced horizontal training. Those who master it can achieve a level where they are protected by cosmic energy, gaining invulnerability to swords and guns and immunity to water and fire, resulting in an indestructible golden body.
@@ -1204,7 +1204,7 @@
   splits:
   - split: 1
     text: 离合参商
-    translated: 'The Five Phases (Wu Xing): Wood, Fire, Earth, Metal, Water'
+    translated: ''
   - split: 3
     text: 一套极为奇妙的功法，将借力打力之巧妙应用转嫁到了运转内息之上，习练之人首先需得有深厚内功基础，并且精通于借劲御力之术，令全身都能包裹在一层能够偏移、导引攻势的气衣之中，就好似罩上了一件滑溜衣裳，无论面对何种攻势都能以这层气衣将之迁移挪引。
     translated: A set of incredibly ingenious martial techniques applies the clever use of leveraging force to the circulation of inner energy. Practitioners must first have a solid foundation in internal power and master the art of using strength, allowing their entire body to be enveloped in an air-like garment capable of deflecting and guiding attacks, much like wearing slippery clothing that can shift and redirect any form of attack it faces.
@@ -1224,7 +1224,7 @@
   splits:
   - split: 1
     text: 先天功
-    translated: Primordial Skill (or Innate Skill)
+    translated: ''
   - split: 3
     text: 王喆从天书之上所领悟的内功绝学，透过养生吐纳吸收天地精华，自然灵气，进而返后天为先天，聚元气、元神、元精于一身，激发人体潜能，产生无穷无尽之真气为己用。
     translated: Wang Zhe's internal martial art, as understood from the Heavens' Scripture, absorbs the essence of heaven and earth through nurturing life and expelling breath. It naturally draws qi to transform postnatal existence into prenatal, concentrating vital energy, spirit, and essence within oneself. This awakens latent human potential, generating an inexhaustible true qi for personal use.
@@ -1304,7 +1304,7 @@
   splits:
   - split: 1
     text: 腾元功诀
-    translated: Teng Yuan Gongjue (The Skill of Teng Yuan)
+    translated: ''
   - split: 3
     text: 中原奇人「蓬门老祖」的毕生绝学。
     translated: Central Plains eccentric Pengmen Laozu's lifetime ultimate technique.
@@ -1314,7 +1314,7 @@
   splits:
   - split: 1
     text: 混元功
-    translated: Primordial Chaos Skill (or Vitality Technique)
+    translated: ''
   - split: 3
     text: 江湖上乘内功秘籍，混元功一反常规练气之法，由外而内，以掌练气，掌法内功，相辅相成，初时进境虽慢，然一旦大成，深厚内劲不旦将使混元掌威力大增，亦可化为周身之力，摧枯拉朽，无往不利。
     translated: In the martial arts world, there is a rare internal cultivation manual that uses a reverse method of practicing Qi in cultivating the Dongyuan Quan. It practices from outside to inside by using hand techniques to cultivate internal power, mutually reinforcing each other. Although progress is initially slow, once mastery is achieved, the profound inner strength will greatly enhance the power of the Dongyuan Quan and can be transformed into bodily force, capable of crumbling trees and pulling up weeds without fail.
@@ -1387,7 +1387,7 @@
     translated: Mysterious incomplete manuscript
   - split: 3
     text: 黄裳遭逢大祸后，受凌中岳所救，此后数年一面于青城山洞中养伤，一面回忆仇家武功，苦思克制办法，至今的成果便是这部连名字也没有的秘籍。其中纪载了名为「九阴白骨爪」、「大伏魔拳法」、「飞絮劲」等神妙武学，惟其中尚有许多缺漏不足之处尚须完善。
-    translated: After facing a great calamity, Huang Shang was rescued by Ling Zhong Yue. In the following years, he recuperated in a cave on Qingcheng Mountain and recalled his enemy's martial arts skills, striving to find ways to suppress them. The result of this is today's manual, which even lacks a name. It records marvelous martial arts such as Ji Yin Bai Gu Zhu (Nine Yin White Bone Claws), Da Fu Mo Quan Fa (Great Subdue Demon Fist Formulas), and Fei Xu Jin (Flying Husk Power), though many aspects still need to be perfected.
+    translated: After Huang Shang faced a great calamity, he was rescued by Ling Zhong Yue. Over the subsequent years, while recuperating in a cave at Qingcheng Mountain and reflecting on his enemies' martial arts, he painstakingly devised methods of restraint. The results are evident in this secret manual that even lacks a name. It records marvelous martial arts such as Jiuyin Bai Guozhua, Dafumo Quanfa, and Feixu Jin. However, it still has many flaws that need to be perfected.
 - lineNum: 139
   raw: it30723	太玄经	it30723	在地牢的一隅所发现，根据李白诗句侠客行所绘的二十四张图谱，为何会出现在地牢之中，如今已是难解之谜。其上每张图谱都对应了诗中的一句，或为内功、或为掌法、或为剑法、或为刀法，二十四句诗中包罗万象，真正精要仅仅在于图谱之中，常人若是拘泥于诗句之意，修练进境反而将窒碍难行。	307	20000	10000	TRUE	3	70	999999	SkillTree154	Less	0	0	0
   translated: 
@@ -1487,7 +1487,7 @@
     translated: Yin Cuo Yang Cha Bu Fa
   - split: 3
     text: ???
-    translated: It seems like your message may be incomplete or unclear. Could you please provide more information or clarify what text you'd like translated from Simplified Chinese to English?
+    translated: ''
 - lineNum: 149
   raw: it30804	如燕诀	it30804	作者不详的轻功密册。由丈人村铁小轻所赠，据说是一位厉害的老公公给她的。	308	5000	2500	TRUE	1	70	999999	SkillTree127	Less	0	0	0
   translated: 
@@ -1514,7 +1514,7 @@
   splits:
   - split: 1
     text: 雁行功诀
-    translated: The Geese Formation Secret Technique (or Method).
+    translated: The Art of the Geese Formation Technique
   - split: 3
     text: 江湖上广为流传的轻功步法，相传是某世外高人，模仿飞于天上的雁而写成的。
     translated: The kung fu steps widely circulated in the martial arts world are said to be composed by a certain immortal, modeled after geese flying in the sky.
@@ -1527,7 +1527,7 @@
     translated: Lingbo wibubo
   - split: 3
     text: 极为奇妙的轻功步法，足踏周易六十四卦方位，每一步皆是异想天开，匪夷所思，走将起来却能莫名其妙地避开一切攻势，其一步一脚与习练者内功吐纳相辅相成，迈步之时还需具备不惧对手猛烈攻势的过人胆量。
-    translated: A remarkably mysterious light-footed martial arts technique, stepping according to the sixty-four hexagrams and positions of the Book of Changes; each step is unimaginably innovative and beyond ordinary thinking. When moving, it mysteriously avoids all attacks effortlessly. Each step and footwork are complemented by the practitioner's internal energy cultivation (Qi) breathing techniques. Stepping requires extraordinary courage to face fierce assaults from opponents.
+    translated: An extremely remarkable lightness step technique, stepping on the sixty-four hexagrams of the Book of Changes' positions with each foot. Every step is ingenious and beyond imagination; yet, somehow it can dodge all attacks inexplicably. Each step complements and enhances the practitioner's internal cultivation and breathing techniques. Stepping requires exceptional courage to face fierce assaults from opponents.
 - lineNum: 153
   raw: it30808	暗香凌寒	it30808	拱石村梅氏祖传轻身功诀，后梅氏宗亲弃武从农，加之女流当家，少有习武之辈，功诀渐渐无人修习。此功诀虽然修练门坎低，却少有得其精要者。	308	10000	5000	TRUE	2	70	999999	SkillTree057	Fight	0	0	-0.5
   translated: 
@@ -1584,7 +1584,7 @@
   splits:
   - split: 1
     text: 觔斗法
-    translated: Jiǎndǒu Fǎ (Shoulder Stand)
+    translated: Canton Stick Technique
   - split: 3
     text: 自戏班中孙行者的科介所演变而来的轻身功夫，虽不如话本中所言那般，觔斗一翻可行十万八千里，然而若是练到深处，不但可一气飞跃大川深壑，在极端凶险的境地，亦可从容脱身。
     translated: The lightness skills originating from the introduction of Sun Wukong from the opera troupe, though not as described in classical tales—where one can travel ten thousand eight hundred miles with a toss and flip—can nonetheless, when practiced deeply, allow one to leap across vast rivers and chasms on a single breath. In extremely dangerous situations, they also enable calm escape.
@@ -1614,7 +1614,7 @@
   splits:
   - split: 1
     text: 千金方
-    translated: Thousand Gold Prescriptions (a collection of medicinal formulas)
+    translated: Thousand Gold Method
   - split: 3
     text: 唐朝医学家孙思邈所著，集初唐以前医经、方书大成之作。虽然正本早已失传，但其部分手抄残本似乎仍流传于世。
     translated: An anthology of ancient medical texts and prescriptions compiled by Tang dynasty physician Sun Simiao, encompassing the achievements before the early Tang period. Although the original copies are lost, some handwritten fragments appear to have survived over time.
@@ -1647,7 +1647,7 @@
     translated: Herbal King Sacred Volume
   - split: 3
     text: 《药王神篇》为陈之济所编写的医药手录，九成为治病救伤的医道，关于练毒施毒，种植毒草、培养毒虫之法却说得极为简略。
-    translated: 《药王神篇》, compiled by Chen Zhiji, is a medical manual where nine-tenths focus on treating illnesses and healing injuries. However, it briefly addresses the methods of training in toxins, using toxins, cultivating toxic herbs, and breeding poisonous insects.
+    translated: The Divine Chapters on the King of Medicine, compiled by Chen Zhiji, is a medical and pharmacological manual in which nine-tenths pertain to healing ailments and treating injuries. However, it addresses methods for practicing poisons, administering poisons, cultivating poisonous plants, and breeding venomous insects very succinctly.
 - lineNum: 165
   raw: it30907	膏药药方	it30907	石家庄的活扁鹊伊史仁赠送的手抄药方,至于配方来源就不得而知了。	309	3000	1500	TRUE	1	70	999999	SkillTree193	Less	0	0	0
   translated: 
@@ -1824,7 +1824,7 @@
   splits:
   - split: 1
     text: 豹
-    translated: Panthera pardus (leopard) or simply panther.
+    translated: Panda Bear Spirit Leopard
   - split: 3
     text: 野兽之豹。
     translated: Beast of the Leopard.
@@ -1944,7 +1944,7 @@
   splits:
   - split: 1
     text: 水牛
-    translated: Buffalo (water buffalo)
+    translated: Buffalo
   - split: 3
     text: 野兽之水牛。
     translated: Beast of a Water Buffalo.

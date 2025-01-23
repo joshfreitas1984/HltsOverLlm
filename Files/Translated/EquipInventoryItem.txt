@@ -174,7 +174,7 @@
   splits:
   - split: 1
     text: 长剑
-    translated: Long sword
+    translated: ''
   - split: 3
     text: 中原流行的长剑，上手容易，因此成为武林中人常用的兵器。
     translated: The longsword popular in Zhongyuan is easy to handle, making it a common weapon among martial artists.
@@ -184,7 +184,7 @@
   splits:
   - split: 1
     text: 青锋剑
-    translated: Green Sword of Fierce Edge
+    translated: Qīng Fēng Jiàn
   - split: 3
     text: 锐利的宝剑，剑身寒光闪烁，锋芒毕露。
     translated: A razor-sharp precious sword, its blade gleams with a cold light, revealing its sharpness.
@@ -194,7 +194,7 @@
   splits:
   - split: 1
     text: 重剑
-    translated: Double-edged sword
+    translated: ''
   - split: 3
     text: 剑身厚实宽大的重剑，虽然破坏力极强，但常人难以挥动。
     translated: A heavy broadsword with a thick blade has immense destructive power, but is difficult for ordinary people to wield.
@@ -204,7 +204,7 @@
   splits:
   - split: 1
     text: 白虹剑
-    translated: White Rainbow Sword
+    translated: Bái Hóng Jìan
   - split: 3
     text: 剑身修长，刃若寒霜，通体成雪白色，不单曼妙华美，亦是吹毛断发的名剑。
     translated: The blade is long and elegant, as sharp as frost, completely white in color. It is not only graceful and beautiful but also a renowned sword capable of slicing hair with a single stroke.
@@ -214,7 +214,7 @@
   splits:
   - split: 1
     text: 明水剑
-    translated: Ming Shui Sword
+    translated: Míng Shuǐ Jiàn
   - split: 3
     text: 古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雌剑剑刃稍短，上铸「明水」二字。
     translated: One of the heirlooms from Gukaiming Emperor Ling, a pair of male and female swords forged from refined steel. The female sword's blade is slightly shorter and engraved with the words Mingshui.
@@ -244,7 +244,7 @@
   splits:
   - split: 1
     text: 长宁剑
-    translated: Changning Sword
+    translated: Cháng Níng Jìan
   - split: 3
     text: 柳叶剑庄庄主夫人解长宁之佩剑，为庄主文淬之早年为表情意，上门向解家求亲，以天铁铸成。此剑剑形与柳叶剑庄善造的柳叶短剑回异，近似中原剑式，剑身长窄且较为轻盈，适合女子运使。
     translated: The Lady of the Willow Blade Villa, Jielong Jing, presented her family's cherished sword to the Villa Master Wen. As a token of affection from his youth, he paid a visit to Jielong's home to propose marriage, using this sword crafted by Heavenly Iron as an offering. The design of this sword differs from the typical short swords made at Willow Blade Villa; it resembles Northern Chinese styles with its elongated and narrow blade that is lightweight and ideal for female wielders.
@@ -254,7 +254,7 @@
   splits:
   - split: 1
     text: 龙脊剑
-    translated: Dragon's Spine Sword
+    translated: ''
   - split: 3
     text: 来历不明的奇剑，状如脊骨，难以御使。有博学者认为，此剑由上古神兽的脊骨淬炼而成。
     translated: A mysterious ancient sword, shaped like a spine and difficult to wield. Some learned scholars believe this sword was forged from the vertebrae of an ancient mythical beast.
@@ -274,7 +274,7 @@
   splits:
   - split: 1
     text: 君子剑
-    translated: Gentleman's Sword
+    translated: ''
   - split: 3
     text: 凌中岳早年偶得的名剑，甚少动用。霜刃无尖，虽为利器而不显丝毫锋芒，恰如君子之德。以竹为鞘，竹有节，影射义士有节。
     translated: Ling Zhong Yue rarely used the famous sword he fortuitously acquired in his youth. The frost-blade, though sharp, revealed no trace of its edge, much like a gentleman's virtue. It was sheathed in bamboo, symbolizing that just as bamboo has joints, a righteous man also possesses principles.
@@ -314,7 +314,7 @@
   splits:
   - split: 1
     text: 真武剑
-    translated: True Martial Sword
+    translated: ''
   - split: 3
     text: 张君宝的配剑，古意盎然，刃如秋水。张君宝倚之行走江湖，扫荡群邪。
     translated: Zhang Junbao's sword, full of ancient elegance, with a blade like autumn waters. Zhang Junbao relies on it to roam the Jianghu and sweep away evildoers.
@@ -324,7 +324,7 @@
   splits:
   - split: 1
     text: 八德剑
-    translated: Ba De Sword
+    translated: ''
   - split: 3
     text: 凌中岳的随身配剑，是柄流传千年的汉朝古剑，亦是神兵谱上有数的名剑。剑身八面分别有孝、悌、忠、信、礼、义、廉、耻的篆字。
     translated: Ling Zhongyue's personal sword, a Han dynasty ancient sword passed down for a thousand years, is also one of the famous swords listed in the Annals of Divine Weapons. The eight sides of the blade each have carved characters representing filial piety, brotherly respect, loyalty, faithfulness, propriety, righteousness, integrity, and shame.
@@ -334,7 +334,7 @@
   splits:
   - split: 1
     text: 青釭剑
-    translated: Qinghuan Sword
+    translated: Qīng Huán Jiàn
   - split: 3
     text: 与倚天齐名之宝剑，赵云持此剑杀入敌营时，手起处衣甲平过、血如涌泉，可见其锐利。
     translated: The sword, famed alongside the Jiutian Sword, was wielded by Zhao Yun to charge into the enemy camp. As he raised his arm, armor and clothing were sliced cleanly through, blood spurted like a gushing spring—a testament to its sharpness.
@@ -344,7 +344,7 @@
   splits:
   - split: 1
     text: 青城剑
-    translated: Qingcheng Sword
+    translated: ''
   - split: 3
     text: 青城弟子的配剑，朴实无华，锋芒内敛。
     translated: A disciple of Qingcheng has a plain sword, with understated elegance and subdued sharpness.
@@ -374,7 +374,7 @@
   splits:
   - split: 1
     text: 紫炁剑
-    translated: Violet Qi Sword
+    translated: ''
   - split: 3
     text: 一世富贵老太爷陈昊天之配剑，剑身古朴，靠近剑柄处由古金包饰，入手略沉。可能是由酒庄前人所造，代代流传，本代由陈昊天继承。
     translated: The legendary and wealthy Elder Chen Haotian's sword is of ancient simplicity, with the hilt area adorned in antique gold. It feels slightly heavy to hold, possibly crafted by an ancestor from a winery, handed down through generations, and now inherited by this generation's Chen Haotian.
@@ -384,7 +384,7 @@
   splits:
   - split: 1
     text: 万虹剑
-    translated: Wan Hong Swordsmanship
+    translated: ''
   - split: 3
     text: 一世富贵庄主陈长卫之配剑，剑身雕纹精致华美，相以绿色宝石，贵不可言，然其不只能象征庄主身份，也是柄极有用处的宝剑，剑身锋利，刻纹亦能于刺杀敌人之际引血外流，加强伤害。
     translated: A blade of incalculable value, once owned by the wealthy landlord Chen Changwei, features exquisite and ornate carvings on its body with emerald green gems. This is not only a symbol of the landlord's status but also an extremely useful weapon; its sharp blade can cause blood to flow externally when striking enemies during an attack, enhancing the damage.
@@ -394,7 +394,7 @@
   splits:
   - split: 1
     text: 细剑
-    translated: Fine sword
+    translated: Fine Blade
   - split: 3
     text: 剑面极窄，剑刃几无杀伤能力，仅能用于格挡，而剑尖却极为锋锐，因而进招多以刺击为主。
     translated: The blade is extremely narrow, with little killing power; it can only be used for parrying. However, the tip is extremely sharp, so attacks are primarily stabbing.
@@ -404,7 +404,7 @@
   splits:
   - split: 1
     text: 蛇形剑
-    translated: Snake-shaped Sword
+    translated: ''
   - split: 3
     text: 在遥远的西方被称为焰型剑，其波状剑刃较一般长剑更容易进行切割，且能造成更严重的伤口。
     translated: In the distant West, it is known as the Flame Shape Sword. Its wave-shaped blade cuts more easily than a typical longsword and causes more severe wounds.
@@ -414,7 +414,7 @@
   splits:
   - split: 1
     text: 七星剑
-    translated: Seven-star Sword
+    translated: Qi Xing Jian
   - split: 3
     text: 王喆配剑，剑面七处嵌入钢钉，铸成北斗七星之图样，使剑身不易断裂。
     translated: Wang Zhe's sword has seven steel nails embedded in the blade, forming a pattern of the Big Dipper constellation, making it less likely for the blade to break.
@@ -434,7 +434,7 @@
   splits:
   - split: 1
     text: 金蛇剑
-    translated: Gold Serpent Sword
+    translated: Jin She Jian
   - split: 3
     text: 纯金打造的神秘兵刃，威力天下无双。
     translated: A mysterious weapon forged of pure gold, unmatched in power across the land.
@@ -444,7 +444,7 @@
   splits:
   - split: 1
     text: 玄铁剑
-    translated: Dark Iron Sword
+    translated: ''
   - split: 3
     text: 纯玄铁打造而成的强大武器。
     translated: A powerful weapon forged from pure xuan iron.
@@ -454,7 +454,7 @@
   splits:
   - split: 1
     text: 辘轳剑
-    translated: Churning Blade Sword
+    translated: ''
   - split: 3
     text: 西川兵马指挥使皇甫登云的配剑。此剑乃是当今皇帝御赐的宝剑，价值连城。
     translated: The sword accompanying the Commander-in-Chief of West River Military Affairs, Huangfu Dengyun, is a precious imperial sword bestowed by the reigning Emperor. It is valued as priceless.
@@ -474,7 +474,7 @@
   splits:
   - split: 1
     text: 冲灵剑
-    translated: Conquering the Spirit Sword
+    translated: Chōnglíng Jìan
   - split: 3
     text: 此剑用来纪念一桩只可追忆的姻缘……
     translated: This sword is meant to commemorate a bond that can only be remembered….
@@ -504,7 +504,7 @@
   splits:
   - split: 1
     text: 环柄刀
-    translated: Ring-hilted sword
+    translated: ''
   - split: 3
     text: 铁制的单刃刀，厚脊薄刃、直脊直刃，柄首成环形。由于易于大量生产、劈砍力强，为前朝骑兵的主要佩刀。
     translated: An iron single-edged sword with a thick spine and thin blade, straight spine and blade, and a handle end shaped like a loop. Due to its ease of mass production and strong chopping power, it was the main cavalry sword of previous dynasties.
@@ -514,7 +514,7 @@
   splits:
   - split: 1
     text: 朴刀
-    translated: Wooden sword
+    translated: Unsharpened Blade
   - split: 3
     text: 常见的民间兵器，将长柄大刀的刀刃拆卸下来作为短兵器使用，又名著裤刀，由于简单耐用，老百姓几乎人人都会带上一把防身。
     translated: Commonly used civilian weapons involve dismantling the blade of a long-handled broadsword to use as a short weapon, also known as knickers sword. Due to its simplicity and durability, nearly everyone carries one for self-defense.
@@ -524,7 +524,7 @@
   splits:
   - split: 1
     text: 戒刀
-    translated: Sword of Vows
+    translated: Vow Saber
   - split: 3
     text: 僧人所携带的佩刀，按戒律仅能用于裁衣剃发，不得杀生。
     translated: The sword carried by the monk, according to the precepts, can only be used for cutting cloth and shaving hair, not for taking life.
@@ -534,7 +534,7 @@
   splits:
   - split: 1
     text: 开山刀
-    translated: Opening Sword
+    translated: ''
   - split: 3
     text: 进入丛林时必备的长刀，做工大多不甚精致，但坚韧耐用，能披荆斩棘，开山辟路。
     translated: The long sword essential for entering the wilderness is generally not very refined in craftsmanship but is sturdy and durable, capable of hacking through thorny bushes and clearing paths.
@@ -564,7 +564,7 @@
   splits:
   - split: 1
     text: 九环刀
-    translated: Nine-ring Sword
+    translated: Jiǔ Huán Dāo
   - split: 3
     text: 精钢所铸的沉重大刀，非力大者无法使动。刀背上每隔三寸五分便穿一铁环，挥动之时，九环不仅可使大刀重心集中，强化挥砍时的力道，环环相击锒铛大作，亦可使对手闻声丧胆。
     translated: The heavy great sword forged from high-grade steel cannot be wielded by those lacking strength. Rings of iron are embedded every three and a half inches along the back of the blade; when swung, these nine rings not only concentrate the sword's weight to enhance force during slashes but also create a clanging sound upon collision that can instill fear in an opponent merely from hearing it.
@@ -624,7 +624,7 @@
   splits:
   - split: 1
     text: 新亭侯
-    translated: Lord of Xinting
+    translated: Nou T'ing Hou
   - split: 3
     text: 传说中的宝刀。据古籍记载，三国时期张飞初拜新亭侯，命著名铁匠炼赤朱山铁为一刀，铭曰「新亭侯」。而后张飞遭刺，此刀从此下落不明。
     translated: The legendary sword. According to ancient texts, during the Three Kingdoms period, Zhang Fei received his appointment as Marquis of Xin Ting and commanded a famous blacksmith to forge a blade from red iron ore in Mount Chi Zhu. The sword was inscribed with Marquis of Xin Ting. Later, Zhang Fei fell victim to an assassination attempt, and since then, the whereabouts of this sword have been unknown.
@@ -634,7 +634,7 @@
   splits:
   - split: 1
     text: 黑风刀
-    translated: Black Wind Sword
+    translated: ''
   - split: 3
     text: 专为攻人要害所特制的杀手佩刀，只一轻削，随即开肉剔骨，锋利异常。
     translated: A specially crafted assassin's sword for striking vital points, with a light cut that immediately slices through flesh and separates bones, exceptionally sharp.
@@ -654,7 +654,7 @@
   splits:
   - split: 1
     text: 凄花
-    translated: Sorrowful Flowers
+    translated: ''
   - split: 3
     text: 何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。
     translated: The sword crafted by He Baishe with a Miao blade is exceptionally lightweight. It features copper chrysanthemums as the pommel, intertwined by fine vine from the hilt to the blade, resembling a woman's intricate emotions. Though it appears delicate and charming, it conceals deadly intent. The copper pommel contains hidden poison that drips down the sword's length at intervals. When swung, it seems like flying flower dew; those struck experience skin disintegration and lose use of their limbs.
@@ -674,7 +674,7 @@
   splits:
   - split: 1
     text: 大刀
-    translated: Big Sword
+    translated: Grand Dao
   - split: 3
     text: 宽刃厚背，刀体沉重，善于劈砍，多用于古时杀头处刑，亦是盗匪手中常见的兵器。
     translated: Wide blade, heavy back, the knife is heavy and good at chopping; it was often used for beheading executions in ancient times and is a common weapon among bandits.
@@ -684,7 +684,7 @@
   splits:
   - split: 1
     text: 弯刀
-    translated: Curved sword
+    translated: ''
   - split: 3
     text: 刀身长而微弯，轻巧易使，多为骑兵冲杀时所使用之兵器。
     translated: The blade is long and slightly curved, lightweight and easy to wield, often used by cavalry in charges.
@@ -694,7 +694,7 @@
   splits:
   - split: 1
     text: 蛮刀
-    translated: Savage Sword
+    translated: ''
   - split: 3
     text: 多为狼蛮士兵所用之武器，宽刃厚背，极为沉重，一般人难以挥动，但破坏力惊人。
     translated: A weapon commonly used by Wolfish Barbarian soldiers, with a wide blade and thick back, extremely heavy and difficult for an ordinary person to wield, yet having tremendous destructive power.
@@ -704,7 +704,7 @@
   splits:
   - split: 1
     text: 息壤刀
-    translated: Resting Earth Sword
+    translated: Rust Blade
   - split: 3
     text: 古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。
     translated: One of the inheritances from Gu Kai Ming, the Sage Emperor Turtle, is a pair of finely crafted iron swords. The male sword has a slightly longer blade, inscribed with the words Xing Rang.
@@ -714,7 +714,7 @@
   splits:
   - split: 1
     text: 金乌刀
-    translated: Golden Vulture Sword
+    translated: Gold Crow Blade
   - split: 3
     text: 由乌金打造而成的宝刀，配合使用者的强大内力，所向披靡。
     translated: The sword, crafted by Wujin, is formidable when combined with the wielder's powerful inner strength and leaves nothing in its path.
@@ -724,7 +724,7 @@
   splits:
   - split: 1
     text: 血刀
-    translated: Blood Sword
+    translated: ''
   - split: 3
     text: 月光之下，刃锋呈暗红之色，血光隐隐，极是可怖。其锋利之处，不亚于世上任何神兵利器。
     translated: Under the moonlight, the blade turned a dark red, with faint glimmers of blood that were truly terrifying. Its sharpness was no less than any legendary weapon in the world.
@@ -754,7 +754,7 @@
   splits:
   - split: 1
     text: 长枪
-    translated: Pike (or Spear)
+    translated: Long Spear
   - split: 3
     text: 以稠木为枪身，前端接上铁尖头制成的长枪，由于简单易造，所需训练周期短，被广泛配发给朝廷兵士使用。
     translated: A spear with a shaft made of dense wood and an iron tip at the front end. Due to its simplicity in manufacture and short training period, it is widely issued to imperial soldiers for use.
@@ -794,7 +794,7 @@
   splits:
   - split: 1
     text: 涯角枪
-    translated: Shooting Star Sword
+    translated: Yé Jiǎo Qióng
   - split: 3
     text: 枪身上以汉隶刻就海角天涯无对六字，相传赵云手持此枪于长坂坡中七进七出，一骑当千。
     translated: 'The gunstock is inscribed with six Chinese characters in Hanli script: at the edge of the sea, under the end of the sky, no counterpart. It is said that Zhao Yun wielded this spear at Changban Slope and charged seven times in and out, felling a thousand cavalrymen.'
@@ -924,7 +924,7 @@
   splits:
   - split: 1
     text: 关刀
-    translated: To draw the sword.
+    translated: ''
   - split: 3
     text: 长柄刀一种，因其重量较重，所以斩、劈的威力非同小可，但也因此不适用于战场杀敌。
     translated: The long-handled sword is a type of weapon known for its heavy weight, providing immense chopping and slashing power. However, this also makes it unsuitable for battlefield combat against enemies.
@@ -1014,7 +1014,7 @@
   splits:
   - split: 1
     text: 关刀王
-    translated: Swordmaster Wang
+    translated: ''
   - split: 3
     text: 为了模仿偶像，某位仁兄不惜巨资打造出这把武器。可惜过于沉重，最后仅沦为观赏用的艺品。
     translated: In an attempt to emulate his idol, a certain brother spared no expense in crafting this weapon. Unfortunately, its excessive weight led it to become merely an ornamental art piece for display.
@@ -1074,7 +1074,7 @@
   splits:
   - split: 1
     text: 甩手箭
-    translated: Throwing knife or thrown dagger.
+    translated: A skillful arrow shot with the back of the hand, typically used in martial arts to demonstrate exceptional dexterity and precision.
   - split: 3
     text: 由细竹制成，箭杆浑圆，前端削尖，后不加羽，犹如一根削尖的竹筷。
     translated: Made of fine bamboo, the arrow shaft is perfectly round, tapered at the front end and without feathers at the back, resembling a sharpened bamboo chopstick.
@@ -1134,7 +1134,7 @@
   splits:
   - split: 1
     text: 乾坤圈
-    translated: Heavenly Ring or Cosmic Circle (commonly referred to as Heaven and Earth Great Circle in martial arts)
+    translated: Heavenly Circle Artifact
   - split: 3
     text: 乾坤圈是铁制圆圈，内外沿全部开刃，抛出后以旋飞击敌。艺精者可一手抛出两圈，但练成不易。
     translated: The Kunlun Disc is a circular iron weapon with blades along its entire inner and outer edges. When thrown, it spins rapidly to strike the enemy. A skilled practitioner can throw two discs simultaneously, though mastering this skill is difficult.
@@ -1184,7 +1184,7 @@
   splits:
   - split: 1
     text: 霹雳弹
-    translated: Thunder godvine (a fictional martial arts technique or weapon).
+    translated: Thunderclap Grenade
   - split: 3
     text: 黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。
     translated: The dark, unassuming bullet contained a powerful explosive with extraordinary force.
@@ -1264,7 +1264,7 @@
   splits:
   - split: 1
     text: 断魂蜈蚣标
-    translated: The translation of 断魂蜈蚣标 is Ghost-Causing Centipede Mark.
+    translated: Heartbreak Centipede Mark
   - split: 3
     text: 断魂蜈蚣标
     translated: Heartbreaking Centipede Mark
@@ -1284,10 +1284,10 @@
   splits:
   - split: 1
     text: 蝎尾针
-    translated: Scorpion Tail Needle
+    translated: ''
   - split: 3
     text: 蝎尾针
-    translated: Scorpion Tail Needle
+    translated: ''
 - lineNum: 129
   raw: eq10801	长弓	eq10801	比起短弓，射程距离较长，精准度较高，适合步战或是长距离狙击之用。	108	600	300	TRUE	0	6	ac3b0031	20	43	43	(Bow,35)	15		0	(it70201,1)(it70604,1)
   translated: 
@@ -1344,7 +1344,7 @@
   splits:
   - split: 1
     text: 麻背弓
-    translated: A bow for drawing on the back of the head.
+    translated: Mad Boar Bow
   - split: 3
     text: 常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。
     translated: Common bows are distinguished by their decorations, which include black lacquer, yellow birch, and hemp back. Bows decorated with black lacquer are called black lacquer bows, those with yellow birch are called yellow birch bows, and those with a hemp back are called hemp-backed bows.
@@ -1404,7 +1404,7 @@
   splits:
   - split: 1
     text: 短弓
-    translated: Short bow
+    translated: ''
   - split: 3
     text: 比起长弓，射程距离较短，精准度较低，但在短程距离内的杀伤力较强，适合骑射、狩猎之用。
     translated: Compared to the longbow, it has a shorter range and lower accuracy, but it possesses strong lethality in short distances, making it suitable for mounted archery and hunting.
@@ -1434,7 +1434,7 @@
   splits:
   - split: 1
     text: 短剑
-    translated: Short sword
+    translated: ''
   - split: 3
     text: 轻短的短剑虽然欠缺长度，但隐蔽性佳，贴身搏斗时让人防不胜防。
     translated: The short, lightweight sword may lack length, but its concealability is excellent, making it difficult to defend against in close combat.
@@ -1474,7 +1474,7 @@
   splits:
   - split: 1
     text: 八斩刀
-    translated: Eight-cut sword
+    translated: ''
   - split: 3
     text: 南方常见的短兵器，通常成对使用。刀刃约等于前臂长度，刃宽厚利于格挡和反手刀，护手除了防护作用，还可用以勾取对方兵器。
     translated: Southern China's commonly used short weapons are typically paired. The blade is about the length of the forearm, with a width and thickness that facilitate parrying and counter-strikes. Besides its protective function, the hilt can also be used to hook an opponent's weapon.
@@ -1504,7 +1504,7 @@
   splits:
   - split: 1
     text: 丛林弯刀
-    translated: The phrase 丛林弯刀 can be translated as Jungle Hookblade.
+    translated: Thicket Forest Curved Blade
   - split: 3
     text: 刀刃向内弯曲，与一般弯刀相反，专为应付丛林的险恶环境所设计。
     translated: The blade curves inward, opposite to a typical curved sword, and is designed specifically for dealing with the treacherous environment of the jungle.
@@ -1544,7 +1544,7 @@
   splits:
   - split: 1
     text: 骐骥
-    translated: Qíjì (骏马，英雄)
+    translated: Swift Steed
   - split: 3
     text: 禾泓渊的成名兵器，川蜀一带的绿林盗匪一见此刀，无不胆寒。
     translated: Huo Hongyuan's renowned weapon, a blade from the Chu-Shu region, caused even the most daring bandits in the Green Forest to tremble at its sight.
@@ -1564,7 +1564,7 @@
   splits:
   - split: 1
     text: 猎刀
-    translated: Hunting Sword
+    translated: Hunting Blade
   - split: 3
     text: 坚韧而锐利的短刀，主要用于野外狩猎时与野兽搏斗、分割兽肉、切剥兽皮等用途。
     translated: A robust and sharp short knife, mainly used for fighting wild beasts, dividing game meat, and skinning during hunting in the wilderness.
@@ -1604,7 +1604,7 @@
   splits:
   - split: 1
     text: 蛹蛉刀
-    translated: Moth Cocoon Sword
+    translated: Chrysalis Blade
   - split: 3
     text: 承担「灶娘」称号者代代相传的神器，其名号由上古一路流传至今只留存原音，实际文字已不可考。传说若将此刀用于料理以外的用途会使其失却锋芒，所以灶娘总是在战斗后将敌人的鲜血收集起来，做成猪血糕。
     translated: The title of Zao Niang is passed down through generations, and the name of its sacred artifact has been preserved only in sound from ancient times to now, with no known written form. Legend says that if this sword were used for purposes other than cooking, it would lose its sharpness; hence, Zao Niang always collects the blood of her enemies after battle to make pork blood cakes.
@@ -1684,7 +1684,7 @@
   splits:
   - split: 1
     text: 红颜
-    translated: Beautiful woman or beautiful young woman.
+    translated: Red beauty.
   - split: 3
     text: 颜玉书随身携带的爱扇。其扇骨由海外寒铁铸成，刺骨如冰，散发出的迫人寒气使得扇上的梅花终年不凋。
     translated: Yan Yushu carries a cherished folding fan. Its ribs are forged from cold iron imported from abroad, bone-chilling and exuding an intense chill that keeps the plum blossoms on the fan evergreen throughout the year.
@@ -1704,7 +1704,7 @@
   splits:
   - split: 1
     text: 鼓风扇
-    translated: Fan (Electric)
+    translated: Electric Fan
   - split: 3
     text: 赤丹宫妖道炼丹时控制炉火用的蒲扇，扇上经年累月累积的毒素使其成了一种致命的奇门兵器。
     translated: The folding fan used by the Demon Daoist of Chidang Palace to control the furnace fire has accumulated toxins over years, transforming it into a deadly weapon from the Art of War.
@@ -1724,7 +1724,7 @@
   splits:
   - split: 1
     text: 判官笔
-    translated: Divine Punishment Sword
+    translated: Dreaded Judgement Pen
   - split: 3
     text: 适合贴身肉搏，专打人穴道。
     translated: Suitable for close combat and specializes in striking acupoints.
@@ -1744,10 +1744,10 @@
   splits:
   - split: 1
     text: 太史公
-    translated: Grand Historian
+    translated: Master Taishi Guo
   - split: 3
     text: ???
-    translated: It seems like your message is incomplete or missing content. Could you please provide the text you'd like translated from Simplified Chinese to English? I'll be happy to assist once I have the necessary information.
+    translated: ???
 - lineNum: 175
   raw: eq11105	梅心	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0
   translated: 
@@ -1757,7 +1757,7 @@
     translated: Mei Xin
   - split: 3
     text: ???
-    translated: To provide a translation, please share the Simplified Chinese text you would like translated into English according to the specified guidelines.
+    translated: ???
 - lineNum: 176
   raw: eq11106	批生注死	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0
   translated: 
@@ -1774,7 +1774,7 @@
   splits:
   - split: 1
     text: 旱烟斗
-    translated: Pipe used in Wuxia novels, often associated with martial artists or wandering warriors.
+    translated: Pipe used to smoke opium.
   - split: 3
     text: 民间常见的吸烟用具，以黄铜制成，因其细长而坚硬的特性，也能成为防身器具，擅使者，更能点其穴道。
     translated: Common folk smoking devices, made of brass, are also used as self-defense tools due to their long and hard characteristics; skilled users can even use them to strike acupoints.
@@ -1794,7 +1794,7 @@
   splits:
   - split: 1
     text: 鱼肠剑
-    translated: Sword of Fish Intestines
+    translated: ''
   - split: 3
     text: 据传为铸剑师欧冶子为越王所制，后越王允常进献给吴国，公子光命专诸将此剑藏于鱼腹中，用以刺杀吴王僚。公子光即位后是为吴王阖闾，将此剑函封，永不再用。你手上这把看起来是赝品，但也算是制作极为精良的宝剑了。不过重量感有点奇怪，或许内有蹊跷？
     translated: It is said that the swordsmith Ou Yezi forged this sword for King Goujian of Yue. Later, King Goujian presented it to the State of Wu, and Prince Guang ordered Zixu to hide the sword in a fish's belly to assassinate King Liao of Wu. After Prince Guang ascended the throne as King Helü of Wu, he sealed this sword away, never using it again. The sword you have is apparently a counterfeit but is still an extremely well-made treasure sword. However, its weight feels somewhat strange; perhaps there's something suspicious inside?
@@ -1854,7 +1854,7 @@
   splits:
   - split: 1
     text: 短斧
-    translated: Short axe
+    translated: ''
   - split: 3
     text: 农家必备，用于劈柴，也可用于近战劈砍。
     translated: Essential for farmers; used for splitting firewood, also suitable for close combat chopping and slashing.
@@ -1874,7 +1874,7 @@
   splits:
   - split: 1
     text: 鹤嘴锄
-    translated: Mattock with a Curved Blade (Horseshoe Shovel)
+    translated: Crowbill
   - split: 3
     text: 常见的农家工具。
     translated: Common farming tools of a peasant household.
@@ -1934,7 +1934,7 @@
   splits:
   - split: 1
     text: 护心镜
-    translated: Heartguard Mirror
+    translated: ''
   - split: 3
     text: 一种镶嵌在胸部的金属盔甲，有缓冲攻击之用。因位于胸口正中，形似圆镜，故而得名。
     translated: A piece of metal armor embedded in the chest, used to cushion attacks. Positioned at the center of the chest and shaped like a round mirror, hence its name.
@@ -1974,7 +1974,7 @@
   splits:
   - split: 1
     text: 锁子甲
-    translated: Armor breastplate or cuirass.
+    translated: Iron breastplate
   - split: 3
     text: 将钢片一片片以铁链锁住，相较于皮甲，其防护性更强，而且比板甲要灵活。
     translated: Steel plates, secured piece by piece with iron chains, offer stronger protection compared to leather armor and are more flexible than plate armor.
@@ -2044,7 +2044,7 @@
   splits:
   - split: 1
     text: 正气甲
-    translated: Zhen Qi Armor
+    translated: ''
   - split: 3
     text: 传闻为大将岳飞死前所穿战甲，隐隐有股浩然正气凝聚其上。
     translated: It is rumored that the armor worn by the great general Yue Fei before his death bears a palpable presence of great righteousness.
@@ -2074,7 +2074,7 @@
   splits:
   - split: 1
     text: 软甲
-    translated: Soft armor.
+    translated: ''
   - split: 3
     text: 贴身且延展性高的护甲，对于避免外伤有明显的效果。
     translated: Body armor that is both close-fitting and highly flexible shows noticeable effectiveness in preventing external injuries.
@@ -2214,7 +2214,7 @@
   splits:
   - split: 1
     text: 太华门袍服
-    translated: ''
+    translated: Taichamaen Robes
   - split: 3
     text: 在太华门由一位看不过去你身上丑陋衣服的女子所赠，秉持太华门流行的审美观，明确的黑白色系让你看起来「时尚」许多。
     translated: At Taihua Gate, a woman who couldn't overlook your unsightly clothes gifted you an outfit. In keeping with the popular aesthetic at Taihua Gate, the clear black and white color scheme makes you look fashionable by comparison.
@@ -2284,7 +2284,7 @@
   splits:
   - split: 1
     text: 蓑衣
-    translated: Raincoat or rain cape.
+    translated: Straw Raincoat
   - split: 3
     text: 穿着一身接地气的蓑衣，让你更加融入江湖，虽然身怀内力的你淋了雨也不致受寒，但，这就是所谓的浪漫吧。
     translated: Wearing a down-to-earth raincoat makes you more in tune with the martial world. Although your inner strength keeps you warm when it rains, this is what they call romance, isn't it?
@@ -2464,7 +2464,7 @@
   splits:
   - split: 1
     text: 软甲
-    translated: Soft armor.
+    translated: ''
   - split: 3
     text: 虽然防御有限，但胜在轻便，且柔韧特性能让穿戴者更容易化解内家发劲。
     translated: Although defense is limited, it excels in being lightweight and its flexibility allows the wearer to more easily neutralize internal force.
@@ -2474,7 +2474,7 @@
   splits:
   - split: 1
     text: 锁子甲
-    translated: Lamellar armor or lamellar cuirass.
+    translated: Iron breastplate
   - split: 3
     text: 流血不如流汗！一件沉重护甲虽然考验穿戴者体魄，却能避免利刃开膛之祸。
     translated: Bleeding is worse than sweating! Although a heavy armor tests the resilience of its wearer, it can prevent the catastrophe of being slashed open by blades.
@@ -2484,7 +2484,7 @@
   splits:
   - split: 1
     text: 猬甲
-    translated: Armored tortoise.
+    translated: ''
   - split: 3
     text: 制作工艺繁琐，却能为穿戴者带来特殊防护，面对强敌时能收到意想不到的效果。
     translated: The manufacturing process is complex, yet it provides special protection to the wearer and can yield unexpected results when facing formidable enemies.
@@ -2674,7 +2674,7 @@
   splits:
   - split: 1
     text: 风马旗
-    translated: Wind Horse Banner
+    translated: ''
   - split: 3
     text: 密宗法器，绘有「红、黄、蓝、绿、白」五种颜色的经幡与驮着三宝「佛、法、僧」的白马。
     translated: Vajrayana ritual implements, featuring banners inscribed with the five colors—red, yellow, blue, green, and white—and a white horse bearing the Three Treasures of Buddha, Dharma, and Sangha.

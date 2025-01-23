@@ -4,7 +4,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Perform Qi cultivation.
+    translated: ''
   - split: 2
     text: 每回合累积连击率额外增加1%
     translated: Each turn, the critical hit rate is additionally increased by 1%.
@@ -14,7 +14,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: To cultivate Qi (energy).
+    translated: Practice martial arts techniques.
   - split: 2
     text: 每次受击时累积连击率额外增加1%
     translated: Each time a hit is taken, the combo rate increases by an additional 1%.
@@ -24,7 +24,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: To practice martial skills or exercises.
+    translated: ''
   - split: 2
     text: 每回合累积连击率额外增加1%
     translated: Each round, the critical hit rate is additionally increased by 1%.
@@ -34,7 +34,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Perform kung fu techniques.
+    translated: ''
   - split: 2
     text: 每次受击时累积连击率额外增加1%
     translated: Each time hit, increase accumulated combo rate by an additional 1%.
@@ -44,7 +44,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: To exercise or practice skills; to work on one's abilities.
+    translated: ''
   - split: 2
     text: 每回合累积连击率额外增加1%
     translated: For each round, an additional 1% is added to the critical hit rate accumulation.
@@ -74,7 +74,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Perform Daoist exercises or cultivate Qi (energy) through exercise.
+    translated: ''
   - split: 2
     text: 每次受击时累积连击率额外增加1%
     translated: Each time you're hit, additional consecutive hit rate increases by 1%.
@@ -84,7 +84,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Performing exercises or practices (in martial arts or physical training)
+    translated: ''
   - split: 2
     text: 每回合累积连击率额外增加1%
     translated: Each round cumulative combo rate increases by an additional 1%.
@@ -124,7 +124,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: To perform a Wuxia exercise or practice martial arts techniques.
+    translated: ''
   - split: 2
     text: 每次受击时累积连击率额外增加1%
     translated: Each time you take a hit, the combo rate increases by an additional 1%.
@@ -134,7 +134,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Performing Qi Gong exercises.
+    translated: ''
   - split: 2
     text: 每次受击时累积连击率额外增加1%
     translated: Each time you're hit, the combo rate increases by an additional 1%.
@@ -144,7 +144,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Perform Qi cultivation exercises.
+    translated: ''
   - split: 2
     text: 每回合累积连击率额外增加1%
     translated: Each round cumulative hit rate increases by an additional 1%.
@@ -154,7 +154,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Exert effort or apply technique.
+    translated: ''
   - split: 2
     text: 每次受击时累积连击率额外增加1%
     translated: Each time you take a hit, your combo rate increases by an additional 1%.
@@ -164,7 +164,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Practice skill or exert effort
+    translated: ''
   - split: 2
     text: 每回合累积连击率额外增加1%
     translated: Each round, critical hit rate accumulates an additional 1%.
@@ -174,7 +174,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Perform internal alchemy or cultivate inner energy.
+    translated: ''
   - split: 2
     text: 每次受击时累积连击率额外增加1%
     translated: Every time you receive a hit, your combo rate increases by an additional 1%.
@@ -204,7 +204,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Performing an exercise or practicing a skill; engaging in physical activity.
+    translated: ''
   - split: 2
     text: 每次受击时累积连击率额外增加1%
     translated: Each time you receive a hit, your combo rate increases by an additional 1%.
@@ -214,7 +214,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Perform techniques or exercises
+    translated: ''
   - split: 2
     text: 每回合累积连击率额外增加1%
     translated: Each round, the cumulative combo rate increases by an additional 1%.
@@ -244,7 +244,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: To practice kung fu or cultivate one's skills.
+    translated: ''
   - split: 2
     text: 每次受击时累积连击率额外增加1%
     translated: Each time it is hit, the combo rate increases by an additional 1%.
@@ -254,7 +254,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Perform qi gong (or practice qigong)
+    translated: ''
   - split: 2
     text: 每次受击时累积连击率额外增加1%
     translated: Each time hit, critical hit rate additionally increases by 1%.
@@ -264,7 +264,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Practice martial skills or perform internal energy exercises.
+    translated: ''
   - split: 2
     text: 每回合累积连击率额外增加1%
     translated: Each round, additional consecutive hit rate increases by 1%.
@@ -337,7 +337,7 @@
     translated: Do not dwell on it.
   - split: 2
     text: 有机率闪避敌人的攻击，轻功越高，机率越高
-    translated: There is a chance to evade an enemy's attack; the higher your martial arts skill (lightness), the greater the chance.
+    translated: There's a chance to evade the enemy's attack; the higher your agility, the greater the chance.
 - lineNum: 34
   raw: 0_TalentNode034	宁一思进	移动后连击率、招式威力额外增加，回合结束时，攻击加成累计效果消失。	0_TalentIcon07	(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(CounterAttackValue,0)(TrickValue,0)(ComboValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent00006
   translated: 
@@ -354,7 +354,7 @@
   splits:
   - split: 1
     text: 动功
-    translated: Perform kung fu movements or exercises.
+    translated: ''
   - split: 2
     text: 每回合累积连击率额外增加1%
     translated: Each round, accumulate an additional 1% in combo rate.
@@ -454,7 +454,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Stillness Skill (or Meditation Technique)
+    translated: Stillness Cultivation Technique
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Each turn, critical hit rate increases by an additional 1%.
@@ -464,7 +464,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Quiet skill or calm technique.
+    translated: ''
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Each round, the additional counterattack rate accumulates an extra 1%.
@@ -484,7 +484,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Internal Alchemy (or Internal Cultivation)
+    translated: ''
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time it is hit, the counterattack rate increases by an additional 1%.
@@ -494,7 +494,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Quietude skill (or Internal alchemy)
+    translated: ''
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Each round, the counterattack rate increases by an additional 1%.
@@ -504,7 +504,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Qigong (Quiet Exercise)
+    translated: Calm Cultivation
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time you take a hit, your counterattack rate increases by an additional 1%.
@@ -514,7 +514,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Quiet Skill or Calm Skill (often referring to internal martial arts techniques focusing on calmness and inner energy control).
+    translated: Cultivation of Stillness
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Each round, additional counterattack rate increases by 1%.
@@ -524,7 +524,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Quiet Cultivation (Meditative Practice)
+    translated: Quieting Gong
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time hit, additional increase in counterattack rate by 1%.
@@ -544,7 +544,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Qigong (靜功)
+    translated: ''
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Each turn accumulates an additional 1% in counterattack rate.
@@ -554,7 +554,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Qigong (静功)
+    translated: ''
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time hit, accumulate counterattack rate increases by an additional 1%.
@@ -564,7 +564,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Meditative Qigong (or Nei Gong)
+    translated: ''
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Accumulate an additional 1% counter-attack rate each round.
@@ -574,7 +574,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Quiet Kung Fu (or Internal Martial Art)
+    translated: Meditative Stillness Technique
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time you take a hit, your counterattack rate increases by an additional 1%.
@@ -604,7 +604,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Quietude Skill (or Meditation Technique)
+    translated: ''
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Each round, cumulative counterattack rate increases by an additional 1%.
@@ -614,7 +614,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Qigong (Qi Gong) stilling exercise or meditation technique.
+    translated: ''
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time you are hit, your counterattack rate increases by an additional 1%.
@@ -624,7 +624,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Meditative Quiescence (or Quiet Sitting)
+    translated: Cultivation of Stillness
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Each round, critical strike chance increases by an additional 1%.
@@ -634,7 +634,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Meditative skill or technique.
+    translated: ''
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time you take a hit, your counterattack rate increases by an additional 1%.
@@ -644,7 +644,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Quiet Skill (or Meditation Skill)
+    translated: Stilling Skill
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Each round, critical hit chance accumulates an additional 1%.
@@ -654,7 +654,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Stillness Technique (or Meditative Stillness)
+    translated: ''
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Each round's counterattack rate increases by an additional 1%.
@@ -664,7 +664,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Qigong (靜功)
+    translated: ''
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Each round, cumulative counterattack rate increases by an additional 1%.
@@ -674,7 +674,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Internal Alchemy (or Internal Cultivation)
+    translated: ''
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time a hit is received, an additional 1% is accumulated towards counterattack rate.
@@ -684,7 +684,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Stillness Skill (Qi Gong)
+    translated: ''
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time you are hit, the counterattack rate increases by an additional 1%.
@@ -694,7 +694,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Neigong (Internal Skill) or Internal Cultivation.
+    translated: Internal Stillness Cultivation
   - split: 2
     text: 每回合累积反击率额外增加1%
     translated: Every turn, an additional 1% is added to the cumulative counterattack rate.
@@ -704,7 +704,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Stillness Cultivation (or Meditation)
+    translated: ''
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time hit, additional increase in counterattack rate by 1%.
@@ -724,7 +724,7 @@
   splits:
   - split: 1
     text: 静功
-    translated: Nei Gong (Internal Skill) or Internal Cultivation.
+    translated: Meditative Stillness Technique
   - split: 2
     text: 每次受击时累积反击率额外增加1%
     translated: Each time you take damage, your counterattack rate is additionally increased by 1%.
@@ -784,7 +784,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Firm and vigorous
+    translated: ''
   - split: 2
     text: 每次受击时累积暴击率额外增加1%
     translated: Each time hit, critical hit rate accumulates an additional 1%.
@@ -834,7 +834,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Briskness or vigor.
+    translated: ''
   - split: 2
     text: 每回合额外累积爆击率1%
     translated: Accumulate an additional critical hit rate of 1% each round.
@@ -844,7 +844,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Firmness or resilience.
+    translated: ''
   - split: 2
     text: 每次受击时累积暴击率额外增加1%
     translated: Each time a hit is taken, the critical hit rate accumulates an additional 1%.
@@ -854,7 +854,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Firmness or vigor.
+    translated: ''
   - split: 2
     text: 每回合额外累积爆击率1%
     translated: Gather an additional 1% critical rate each turn.
@@ -864,7 +864,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Steadfast strength or vigor.
+    translated: ''
   - split: 2
     text: 每次受击时累积暴击率额外增加1%
     translated: Each time you take damage, critical hit rate is additionally increased by 1%.
@@ -874,7 +874,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Steadfastness (or vigor)
+    translated: ''
   - split: 2
     text: 每回合额外累积爆击率1%
     translated: Accumulate an additional 1% critical rate per round.
@@ -884,7 +884,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Steadfastness; Firmness.
+    translated: ''
   - split: 2
     text: 每次受击时累积暴击率额外增加1%
     translated: Each time you take a hit, the critical rate accumulates an additional 1%.
@@ -904,7 +904,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Steadfast or resolute.
+    translated: ''
   - split: 2
     text: 每回合额外累积爆击率1%
     translated: Each round additionally accumulates a critical hit rate of 1%.
@@ -954,7 +954,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Firmness or vigor.
+    translated: ''
   - split: 2
     text: 每回合额外累积爆击率1%
     translated: Each turn, gain an additional critical hit rate of 1%.
@@ -964,7 +964,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Robust vigor
+    translated: ''
   - split: 2
     text: 每次受击时累积暴击率额外增加1%
     translated: Each time it is struck, critical hit rate accumulates an additional 1%.
@@ -984,7 +984,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Vigorous or Lively
+    translated: ''
   - split: 2
     text: 每次受击时累积暴击率额外增加1%
     translated: Each time hit, critical rate accumulates an additional 1%.
@@ -994,7 +994,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Briskness or Vigor
+    translated: ''
   - split: 2
     text: 每回合额外累积爆击率1%
     translated: Accumulate an additional critical hit rate of 1% per round.
@@ -1004,7 +1004,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Steadfastness or vigor.
+    translated: ''
   - split: 2
     text: 每次受击时累积暴击率额外增加1%
     translated: Each time it is hit, critical strike chance accumulates an additional 1%.
@@ -1024,7 +1024,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Rigorous strength or vigor.
+    translated: ''
   - split: 2
     text: 每次受击时累积暴击率额外增加1%
     translated: Each time you receive a hit, your critical hit rate accumulates an additional 1%.
@@ -1034,7 +1034,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Strong intensity or vigor.
+    translated: ''
   - split: 2
     text: 每回合额外累积爆击率1%
     translated: Each round accumulates an additional critical hit rate of 1%.
@@ -1054,7 +1054,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Steady and vigorous strength.
+    translated: ''
   - split: 2
     text: 每回合额外累积爆击率1%
     translated: Gain an additional 1% critical hit rate each round.
@@ -1074,7 +1074,7 @@
   splits:
   - split: 1
     text: 刚劲
-    translated: Firmness or vigor.
+    translated: ''
   - split: 2
     text: 每次受击时累积暴击率额外增加1%
     translated: Each time you take a hit, the critical hit rate increases by an additional 1%.
@@ -1127,7 +1127,7 @@
     translated: Empty it and illuminate it.
   - split: 2
     text: 每次受击时，以自身内力承受35%伤害
-    translated: Each time hit, withstand 35% damage using own internal energy (Qi).
+    translated: Each time hit, absorb 35% damage with internal force.
 - lineNum: 113
   raw: 3_TalentNode002	柔远怀迩	远程攻击所造成的伤害降低	3_TalentIcon04	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent30002
   translated: 
@@ -1184,7 +1184,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft power or soft strength.
+    translated: ''
   - split: 2
     text: 每回合累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each round accumulates a discharging vigor rate that additionally increases by 1%. Damage reduction increases by 1% when discharging vigor.
@@ -1194,7 +1194,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft force or supple strength.
+    translated: ''
   - split: 2
     text: 每回合累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each round, cumulative discharge rate increases by an additional 1%, with damage reduction increasing by 1% when discharging.
@@ -1224,7 +1224,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft force or soft strength (contextual term often related to martial arts techniques)
+    translated: ''
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time you take a hit, the unloading power rate increases by an additional 1%, and the damage reduction during unloading increases by 1%.
@@ -1234,7 +1234,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft Force
+    translated: ''
   - split: 2
     text: 每回合累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Accumulating an additional 1% release power ratio each round; increasing damage reduction by 1% when releasing power.
@@ -1244,7 +1244,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Rou jin (soft force)
+    translated: Soft Strength
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time it is hit, cumulative discharge rate increases by an additional 1%, and damage reduction increases by 1% upon discharging.
@@ -1264,7 +1264,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Rou jing (soft strength)
+    translated: ''
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time a hit is received, the additional deflection rate increases by 1%, and damage reduction upon deflecting increases by 1%.
@@ -1294,7 +1294,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Supple forcefulness.
+    translated: ''
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time damage is taken, the deacceleration rate increases by an additional 1%, and damage reduction increases by 1% when deaccelerating.
@@ -1304,7 +1304,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft power or soft strength.
+    translated: ''
   - split: 2
     text: 每回合累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each round accumulates an additional 1% discharging power, with the damage reduction increased by 1% when discharging.
@@ -1314,7 +1314,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft power or supple force.
+    translated: ''
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time a strike is absorbed, the recoil rate increases by an additional 1%, and damage reduction upon recoil increases by 1%.
@@ -1334,7 +1334,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft force or gentle power.
+    translated: ''
   - split: 2
     text: 每回合累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each round, the cumulative off-gassing rate increases by an additional 1%. When off-gassing, damage reduction is increased by 1%.
@@ -1344,7 +1344,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft force or gentle strength.
+    translated: ''
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time hit, cumulative unburden rate increases by an additional 1%, and damage reduction increased by 1% when unburdening.
@@ -1364,7 +1364,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft Force
+    translated: ''
   - split: 2
     text: 每回合累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each round accumulates an additional 1% of the discharge rate; damage reduction increases by 1% when discharging.
@@ -1374,7 +1374,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft force (or tension)
+    translated: ''
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time it is hit, the cumulative rate of unloading force increases by an additional 1%, and damage reduction when unloading increases by 1%.
@@ -1384,7 +1384,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft force (or yielding power)
+    translated: Soft power
   - split: 2
     text: 每回合累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each round, accumulated discharge power increases by an additional 1%, with damage reduction increased by 1% when discharging.
@@ -1394,7 +1394,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft strength or gentle power.
+    translated: ''
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time hit, cumulative release strength rate increases by an additional 1%, with damage reduction increased by 1% when releasing strength.
@@ -1404,7 +1404,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft Power (or Soft Force)
+    translated: ''
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time damage is taken, the force reduction rate increases by an additional 1%, with a further 1% increase in damage mitigation during force release.
@@ -1424,7 +1424,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft force
+    translated: ''
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time damage is received, cumulative energy release rate increases by an additional 1%. Damage reduction during energy release increases by 1%.
@@ -1444,7 +1444,7 @@
   splits:
   - split: 1
     text: 柔劲
-    translated: Soft force (or tenderness)
+    translated: ''
   - split: 2
     text: 每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%
     translated: Each time hit, cumulative discharge intensity increases by an additional 1%, damage reduction increases by 1% during discharge.
@@ -1514,7 +1514,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Dexterity or nimbleness.
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Each time you receive a hit, the rate of missed attacks increases by an additional 1%, and your innate ability increases by 1 point.
@@ -1524,7 +1524,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skill or dexterity
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Each hit accumulates an additional 1% fake-out rate, with talent increasing by 1 point.
@@ -1564,7 +1564,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillful strength or technique.
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each round accumulates an additional 1% in feint rate, with an increase of 1 point in talent.
@@ -1574,7 +1574,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillfulness or proficiency (in a particular activity)
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Each time hit increases cumulative fake rate by an additional 1%, and innate talent increases by 1 point.
@@ -1584,7 +1584,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skill or prowess (in a martial arts context).
+    translated: Skill of Gracefulness
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each round, cumulative feint rate increases by an additional 1%, talent increases by 1 point.
@@ -1594,7 +1594,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skill or dexterity.
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Each time hit accumulates, the miss rate increases by an additional 1%, and talent increases by 1 point.
@@ -1614,7 +1614,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skill or Dexterity (in a Wuxia context)
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each round, accumulated bluff rate increases by an additional 1%, and innate ability increases by 1 point.
@@ -1624,7 +1624,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillful force or effort.
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Each time you are hit, cumulative dizziness rate increases by an additional 1%, and innate quality increases by 1 point.
@@ -1634,7 +1634,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillfulness or proficiency.
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each round accumulates an additional 1% ghost move rate; increase in potential by 1 point.
@@ -1644,7 +1644,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillfulness or finesse.
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Each time hit, cumulative fake rate increases by an additional 1%, talent increases by 1 point.
@@ -1664,7 +1664,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skill or dexterity.
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Each time hit, cumulative feint rate increases by an additional 1%, talent increases by 1 point.
@@ -1674,7 +1674,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillfulness or dexterity; often refers to agility or proficiency in martial arts (e.g., Wuxia context).
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each round accumulates an additional 1% in the rate of feigned moves, with a 1-point increase in talent.
@@ -1684,7 +1684,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillfulness or finesse.
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each round, accumulate an additional 1% of bluff rate; increase aptitude by 1 point.
@@ -1694,7 +1694,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skill or proficiency.
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each round accumulates an additional 1% in phantom skill rate and increases innate quality by 1 point.
@@ -1704,7 +1704,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillfulness or adeptness in execution.
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each round, accumulate an additional 1% in feigning rate and increase quality by 1 point.
@@ -1714,7 +1714,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skill or skillful technique.
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each turn, cumulative feint rate increases by an additional 1%, with a talent increase of 1 point.
@@ -1734,7 +1734,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillful strength or dexterity.
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Each hit increases the accumulation of feigned attacks by an additional 1%, and talent is increased by 1 point.
@@ -1754,7 +1754,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillfulness or dexterity.
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Each time a feint is received, the feint rate increases by an additional 1%, and the talent level increases by 1 point.
@@ -1764,7 +1764,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skill or proficiency.
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each round accumulates an additional 1% of feigned move rate and increases proficiency by 1 point.
@@ -1784,7 +1784,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillfulness or cleverness.
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Every time you receive a hit, the cumulative fake attack rate increases by an additional 1%, and ability increases by 1 point.
@@ -1794,7 +1794,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillful strength or dexterity.
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Each round accumulates an additional 1% of wasted energy rate; talent increases by 1 point.
@@ -1804,7 +1804,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skill or dexterity in using one's Qi (energy).
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Every time a fake attack is hit, the fake attack rate additionally increases by 1%, and attribute points increase by 1 point.
@@ -1814,7 +1814,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Artistic skill or finesse.
+    translated: ''
   - split: 2
     text: 每回合累积虚招率额外增加1%，资质增加1点
     translated: Accumulate an additional 1% in feint rate and 1 point of talent each turn.
@@ -1824,7 +1824,7 @@
   splits:
   - split: 1
     text: 巧劲
-    translated: Skillfulness or dexterity (in a martial arts context).
+    translated: ''
   - split: 2
     text: 每次受击累积虚招率额外增加1%，资质增加1点
     translated: Every time you are hit, cumulative deception rate increases by an additional 1%, with innate quality increasing by 1 point.
@@ -1904,7 +1904,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: Clumsy effort
+    translated: ''
   - split: 2
     text: 体质增加3点
     translated: Increase Constitution by 3 points.
@@ -1914,7 +1914,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: I am sorry.
+    translated: ''
   - split: 2
     text: 体质增加3点
     translated: Constitution increases by 3 points.
@@ -1954,7 +1954,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: Unskilled or clumsy (in a humble or self-deprecating manner).
+    translated: Lack of skill
   - split: 2
     text: 内功增加1点
     translated: Internal power increases by 1 point.
@@ -1974,7 +1974,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: Clumsy force
+    translated: ''
   - split: 2
     text: 内功增加1点
     translated: Internal power increased by one point.
@@ -1984,7 +1984,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: Clumsiness; awkwardness.
+    translated: ''
   - split: 2
     text: 体质增加3点
     translated: Increase constitution by 3 points.
@@ -2004,7 +2004,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: Modest ability or skill.
+    translated: ''
   - split: 2
     text: 体质增加3点
     translated: Constitution increased by 3 points.
@@ -2014,7 +2014,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: Clumsiness or awkwardness.
+    translated: ''
   - split: 2
     text: 内功增加1点
     translated: Internal power increased by 1 point.
@@ -2024,7 +2024,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: My humble efforts
+    translated: ''
   - split: 2
     text: 体质增加3点
     translated: Increase constitution by 3 points.
@@ -2064,7 +2064,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: Humble effort
+    translated: ''
   - split: 2
     text: 体质增加3点
     translated: Constitution increased by 3 points.
@@ -2084,7 +2084,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: My humble effort
+    translated: ''
   - split: 2
     text: 体质增加3点
     translated: Vitality increased by 3 points.
@@ -2104,7 +2104,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: Clumsy effort
+    translated: ''
   - split: 2
     text: 内功增加1点
     translated: Internal power increases by one point.
@@ -2124,7 +2124,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: My humble efforts
+    translated: ''
   - split: 2
     text: 内功增加1点
     translated: Neigong increases by 1 point.
@@ -2134,7 +2134,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: Clumsy effort
+    translated: ''
   - split: 2
     text: 内功增加1点
     translated: Internal Power increased by 1 point.
@@ -2144,7 +2144,7 @@
   splits:
   - split: 1
     text: 拙劲
-    translated: My humble effort
+    translated: ''
   - split: 2
     text: 内功增加1点
     translated: Internal power increases by one point.

@@ -78,6 +78,60 @@ public static class TranslationService
         }
     }
 
+    public static async Task PackageFinalTranslation(string workingDirectory)
+    {
+        string inputPath = $"{workingDirectory}/Translated";
+        string outputPath = $"{workingDirectory}/Mod/EnglishLlmByLash/config/textfiles";
+        string failedPath = $"{workingDirectory}/TestResults/Failed";
+
+        if (Directory.Exists(outputPath))
+            Directory.Delete(outputPath, true);
+
+        if (Directory.Exists(failedPath))
+            Directory.Delete(failedPath, true);
+
+        Directory.CreateDirectory(outputPath);
+        Directory.CreateDirectory(failedPath);
+
+        await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+        {
+            var failedLines = new List<string>();
+            var finalLines = new List<string>();
+
+            foreach (var line in fileLines)
+            {
+                var splits = line.Raw.Split('\t');
+                var failed = false;
+
+                foreach (var split in line.Splits)
+                {
+                    if (!string.IsNullOrEmpty(split.Translated))
+                        splits[split.Split] = split.Translated;
+                    //If it was already blank its all good
+                    else if (!string.IsNullOrEmpty(split.Text)) 
+                        failed = true;
+                }
+
+                line.Translated = string.Join('\t', splits);
+
+                if (!failed)
+                    finalLines.Add(line.Translated);
+                else
+                    failedLines.Add(line.Raw);
+            }
+
+            if (finalLines.Count > 0)
+                File.WriteAllLines($"{outputPath}/{textFileToTranslate.Path}", finalLines);
+
+            if (failedLines.Count > 0)
+                File.WriteAllLines($"{failedPath}/{textFileToTranslate.Path}", failedLines);
+
+            await Task.CompletedTask;
+        });
+
+        ModHelper.GenerateModConfig(workingDirectory);
+    }
+
 
     public static async Task IterateThroughTranslatedFilesAsync(string workingDirectory, Func<string, TextFileToSplit, List<TranslationLine>, Task> performActionAsync)
     {
@@ -103,10 +157,37 @@ public static class TranslationService
         }
     }
 
-    public static async Task TranslateViaLlmAsync(string workingDirectory, bool forceRetranslation)
+    public static async Task FillTranslationCache(string workingDirectory, int charsToCache, Dictionary<string, string> cache)
+    {
+        await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+        {
+            foreach (var line in fileLines)
+            {
+                foreach (var split in line.Splits)
+                {
+                    if (string.IsNullOrEmpty(split.Translated))
+                        continue;
+
+                    if (split.Text.Length <= charsToCache && !cache.ContainsKey(split.Text))
+                        cache.Add(split.Text, split.Translated);
+                }
+            }
+
+            await Task.CompletedTask;
+        });
+    }
+
+    public static async Task TranslateViaLlmAsync(string workingDirectory, bool forceRetranslation, bool useTranslationCache = true)
     {
         string inputPath = $"{workingDirectory}/Export";
         string outputPath = $"{workingDirectory}/Translated";
+
+        // Translation Cache - for smaller translations that tend to hallucinate
+        var translationCache = new Dictionary<string, string>();
+        var charsToCache = 6;
+
+        if (useTranslationCache)
+            await FillTranslationCache(workingDirectory, charsToCache, translationCache);
 
         // Create output folder
         if (!Directory.Exists(outputPath))
@@ -160,11 +241,23 @@ public static class TranslationService
                 await Task.WhenAll(batch.Select(async line =>
                 {
                     foreach (var split in line.Splits)
+                    {
+                        var cacheHit = translationCache.ContainsKey(split.Text);
+
                         if (string.IsNullOrEmpty(split.Translated) || forceRetranslation)
                         {
-                            split.Translated = await TranslateSplitAsync(config, split.Text, client);
+                            if (useTranslationCache && cacheHit)
+                                split.Translated = translationCache[split.Text];
+                            else
+                                split.Translated = await TranslateSplitAsync(config, split.Text, client);
+
                             recordsProcessed++;
                         }
+
+                        //Two translations could be doing this at the same time
+                        if (!cacheHit && useTranslationCache && split.Text.Length <= charsToCache && !string.IsNullOrEmpty(split.Translated))
+                            translationCache.TryAdd(split.Text, split.Translated);
+                    }
                 }));
 
                 var elapsed = stopWatch.ElapsedMilliseconds;
@@ -181,6 +274,10 @@ public static class TranslationService
     {
         if (string.IsNullOrEmpty(raw))
             return string.Empty;
+
+        // If it is already translated or just special characters return it
+        if (!Regex.IsMatch(raw, @"\p{IsCJKUnifiedIdeographs}"))
+            return raw;
 
         var optimisationFolder = $"{config.WorkingDirectory}/TestResults/Optimisation";
 
@@ -203,7 +300,6 @@ public static class TranslationService
                 // Create an HttpContent object
                 requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
                 HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
-
 
                 // Make the POST request
                 HttpResponseMessage response = await client.PostAsync(config.Url, content);
@@ -289,16 +385,31 @@ public static class TranslationService
         if (string.IsNullOrEmpty(raw))
             response = false;
 
+        //Alternativves
         if (result.Contains('/') && !raw.Contains('/'))
         {
             response = false;
-            correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalContextPrompt", "/");
+            correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "/");
         }
 
         if (result.Contains('\\') && !raw.Contains('\\'))
         {
             response = false;
-            correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalContextPrompt", "\\");
+            correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "\\");
+        }
+
+        // Small source with 'or' is ususually an alternative
+        if (result.Contains("or") && raw.Length < 4)
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "or");
+        }
+
+        // Small source with ';' is ususually an alternative
+        if (result.Contains(';') && raw.Length < 4)
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", ";");
         }
 
         //// Added Brackets (Literation) where no brackets or widebrackets in raw

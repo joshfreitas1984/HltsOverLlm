@@ -4,7 +4,7 @@
   splits:
   - split: 1
     text: 迷惑
-    translated: Confused or perplexed.
+    translated: Confused
   - split: 2
     text: 累积迷惑值2点
     translated: 'Accumulated Confusion Points: 2 points'
@@ -24,7 +24,7 @@
   splits:
   - split: 1
     text: 迷惑
-    translated: Confused or puzzled.
+    translated: Confused
   - split: 2
     text: 累积迷惑值4点
     translated: 'Accumulated Confusion Points: 4'
@@ -34,7 +34,7 @@
   splits:
   - split: 1
     text: 迷惑
-    translated: Confusion or perplexity.
+    translated: Confused
   - split: 2
     text: 累积迷惑值5点
     translated: 'Accumulated Confusion Points: 5 points'
@@ -44,7 +44,7 @@
   splits:
   - split: 1
     text: 迷惑
-    translated: Perplexed or confused.
+    translated: Confused
   - split: 2
     text: 累积迷惑值6点
     translated: 'Cumulative Confusion Points: 6 points'
@@ -54,7 +54,7 @@
   splits:
   - split: 1
     text: 迷惑
-    translated: Confused or bewildered.
+    translated: Confused
   - split: 2
     text: 累积迷惑值8点
     translated: 'Accumulated Confusion Points: 8 points'
@@ -64,7 +64,7 @@
   splits:
   - split: 1
     text: 迷惑
-    translated: Puzzled or Confused.
+    translated: Confused
   - split: 2
     text: 累积迷惑值9点
     translated: 'Cumulative Confusion Value: 9 points'
@@ -94,7 +94,7 @@
   splits:
   - split: 1
     text: 迷惑
-    translated: Confusion or perplexity.
+    translated: Confused
   - split: 2
     text: 累积迷惑值15点
     translated: 'Cumulative Confusion Value: 15 points'
@@ -104,7 +104,7 @@
   splits:
   - split: 1
     text: 迷惑
-    translated: ''
+    translated: Confused
   - split: 2
     text: 累积迷惑值50点
     translated: 'Accumulated Confusion Points: 50 points'
@@ -164,7 +164,7 @@
   splits:
   - split: 1
     text: 分筋
-    translated: Release tension or relax the muscles.
+    translated: Relieve muscle tension.
   - split: 2
     text: 累积分筋值10点
     translated: Accumulate 10 points of essence.
@@ -294,7 +294,7 @@
   splits:
   - split: 1
     text: 醉意
-    translated: Intoxicated feeling or inebriated sentiment.
+    translated: Drunkenness
   - split: 2
     text: 累积醉意值3点
     translated: Accumulated intoxication level of 3 points.
@@ -304,7 +304,7 @@
   splits:
   - split: 1
     text: 醉意
-    translated: Tipsy or inebriated.
+    translated: Drunkenness
   - split: 2
     text: 累积醉意值5点
     translated: 'Accumulated intoxication level: 5 points.'
@@ -314,7 +314,7 @@
   splits:
   - split: 1
     text: 散功
-    translated: Dispersal of skill or technique.
+    translated: To disengage martial energy.
   - split: 2
     text: 累积散功值3点
     translated: 'Accumulated dispersal power value: 3 points'
@@ -324,7 +324,7 @@
   splits:
   - split: 1
     text: 散功
-    translated: Dispersing energy or returning one's Qi to the earth, often used in martial arts contexts.
+    translated: To disperse internal energy after exerting it in martial arts techniques.
   - split: 2
     text: 累积散功值5点
     translated: Cumulative dispersal value of 5 points.
@@ -354,7 +354,7 @@
   splits:
   - split: 1
     text: 冰封
-    translated: ''
+    translated: Frozen Ice
   - split: 2
     text: 累积冰封值5点
     translated: Accumulate 5 points of Ice Seal value.
@@ -364,7 +364,7 @@
   splits:
   - split: 1
     text: 冰封
-    translated: ''
+    translated: Frozen Seclusion
   - split: 2
     text: 累积冰封值6点
     translated: Cumulative ice seal value of 6 points.
@@ -424,7 +424,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or trauma.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值1点
     translated: Accumulate 1 point of internal injury value.
@@ -434,7 +434,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or trauma.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值3点
     translated: Accumulated internal injury value of 3 points.
@@ -444,7 +444,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or internal trauma.
+    translated: Internal injuries.
   - split: 2
     text: 累积内伤值4点
     translated: 'Accumulated Internal Injury Points: 4 points'
@@ -454,7 +454,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or trauma.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值5点
     translated: Accumulate 5 points of internal injury.
@@ -474,7 +474,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or trauma.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值8点
     translated: 'Accumulated internal injury points: 8.'
@@ -484,7 +484,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or trauma.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值9点
     translated: 'Cumulative internal injury value: 9 points.'
@@ -494,7 +494,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or internal trauma.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值10点
     translated: 'Accumulated internal damage value: 10 points.'
@@ -504,7 +504,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or trauma.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值12点
     translated: 'Accumulated Internal Damage Points: 12'
@@ -514,7 +514,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or internal damage.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值15点
     translated: 'Accumulated internal injury value: 15 points.'
@@ -524,7 +524,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or damage.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值18点
     translated: 'Accumulated internal injury points: 18.'
@@ -534,7 +534,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injuries or internal damage.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值20点
     translated: Accumulate an internal injury value of 20 points.
@@ -544,7 +544,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or trauma.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值24点
     translated: 'Accumulated Internal Injury Points: 24'
@@ -554,7 +554,7 @@
   splits:
   - split: 1
     text: 内伤
-    translated: Internal injury or internal damage.
+    translated: Internal injury
   - split: 2
     text: 累积内伤值50点
     translated: Accumulate 50 internal injury points.
@@ -644,7 +644,7 @@
   splits:
   - split: 1
     text: 中毒
-    translated: Poisoned or Intoxicated.
+    translated: Poisoning
   - split: 2
     text: 累积中毒值12点
     translated: 'Accumulated Poison Value: 12 points'
@@ -694,7 +694,7 @@
   splits:
   - split: 1
     text: 鸡血
-    translated: Energized or motivated; a feeling of excitement or determination.
+    translated: Chicken blood
   - split: 2
     text: 降低中招敌人的所有特技值2点
     translated: Reduce all the enemy's skill values by 2 points.
@@ -934,7 +934,7 @@
   splits:
   - split: 1
     text: 封穴
-    translated: Nerve blocking or point sealing.
+    translated: Needling Blockade
   - split: 2
     text: 累积封穴值20点
     translated: Accumulate sealing point value of 20 points.
@@ -974,7 +974,7 @@
   splits:
   - split: 1
     text: 错骨
-    translated: Injured bone or dislocated bone.
+    translated: Mistake of the Bone
   - split: 2
     text: 累积错骨值8点
     translated: Accumulated error bone value of 8 points.
@@ -1084,7 +1084,7 @@
   splits:
   - split: 1
     text: 外伤
-    translated: External injury or trauma.
+    translated: Trauma injury
   - split: 2
     text: 累积外伤值9点
     translated: 'Accumulated External Injury Value: 9 points.'
@@ -1814,7 +1814,7 @@
   splits:
   - split: 1
     text: 加强枪棍伤害二阶
-    translated: ''
+    translated: Enhance Gunstaff damage by level two.
   - split: 2
     text: 加强枪棍伤害5%
     translated: Increase gunstaff damage by 5%.
@@ -2574,7 +2574,7 @@
   splits:
   - split: 1
     text: 剪刀
-    translated: Scissors
+    translated: ''
   - split: 2
     text: 直线攻击
     translated: Straight-line attack
@@ -2594,7 +2594,7 @@
   splits:
   - split: 1
     text: 发劲
-    translated: Exert oneself or put forth effort.
+    translated: Release tension
   - split: 2
     text: 野球拳大成，将无敌于天下
     translated: Mastery of the art of card-guessing ensures invincibility across all lands.
@@ -2744,7 +2744,7 @@
   splits:
   - split: 1
     text: 神剑令
-    translated: Divine Sword Edict
+    translated: ''
   - split: 2
     text: 若装备青城神剑令，飞剑归山的威力增强
     translated: If equipped with the Qingcheng Divine Sword Order, the power of the Flying Sword Returning to Mountain is enhanced.
@@ -2754,7 +2754,7 @@
   splits:
   - split: 1
     text: 寻幽
-    translated: Exploring the Secluded
+    translated: Seeking Solitude
   - split: 2
     text: 飞剑归山的攻击范围增加
     translated: The attack range of Fly Sword Return Mountain is increased.
@@ -2844,7 +2844,7 @@
   splits:
   - split: 1
     text: 缠拿
-    translated: Capture or apprehend.
+    translated: Grapple
   - split: 2
     text: 分筋手法的伤害增加，分筋值额外+4
     translated: The damage from the Division of Sinew technique increases, with an additional +4 Sinew value.
@@ -2854,7 +2854,7 @@
   splits:
   - split: 1
     text: 锁扣
-    translated: Buttonhole or fastener.
+    translated: Clasp buckle
   - split: 2
     text: 错骨手法的伤害增加，错骨值额外+4
     translated: Damage from the Wrong Bone Technique is increased, with an additional +4 Wrong Bone Value.
@@ -2964,7 +2964,7 @@
   splits:
   - split: 1
     text: 催发劲
-    translated: Stimulating Force
+    translated: Enhance Qi Power
   - split: 2
     text: 无孔不入造成的内伤值额外+7
     translated: Internal damage points increased by an additional +7 due to pervasive infiltration.
@@ -3087,7 +3087,7 @@
     translated: Vengeful spirit
   - split: 2
     text: 百鬼夜行的消耗精力减少1点
-    translated: Consumption of vitality in 百鬼夜行 reduced by one point.
+    translated: The energy expenditure for Bai Gui Ye Xing is reduced by 1 point.
 - lineNum: 309
   raw: buffSkillTree017_008	魅影	魅影飘忽的闪现距离增加	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -3184,7 +3184,7 @@
   splits:
   - split: 1
     text: 祛病诀
-    translated: Remedy for Illness Secret
+    translated: Cure Disease Technique
   - split: 2
     text: 运行翠峦功时，每回合中毒程度减少10%
     translated: When performing the Cui Luan Technique each turn, poison damage is reduced by 10%.
@@ -3224,7 +3224,7 @@
   splits:
   - split: 1
     text: 接仙篇
-    translated: Receiving the Immortal Chapter
+    translated: ''
   - split: 2
     text: 骊驹并驾的直线冲刺距离额外提升2格。
     translated: Lijiu's direct charge sprint distance is additionally increased by two squares.
@@ -3357,7 +3357,7 @@
     translated: Dire boar charge
   - split: 2
     text: 击退
-    translated: Retreat or Repel
+    translated: Repel
 - lineNum: 336
   raw: buffSkillTree030_000	蛇咬	中毒值+1	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -3434,10 +3434,10 @@
   splits:
   - split: 1
     text: 虎扑
-    translated: Pawerful Tiger Forum
+    translated: Hupu
   - split: 2
     text: 冲锋
-    translated: Charge or rush forward.
+    translated: Charge
 - lineNum: 344
   raw: buffSkillTree033_000	豹猛咬	外伤值+7	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -3484,7 +3484,7 @@
   splits:
   - split: 1
     text: 入密林
-    translated: Entering the dense forest.
+    translated: Enter the deep woods.<br>
   - split: 2
     text: 密林掷雀的消耗精力减少1点
     translated: The energy cost of playing the card Shooting Birds in a Thicket is reduced by 1 point.
@@ -3504,7 +3504,7 @@
   splits:
   - split: 1
     text: 霸道剑
-    translated: Despot's Sword
+    translated: ''
   - split: 2
     text: 其利断金、风雨同舟的威力增强
     translated: Its power is enhanced in severing metal with a single strike and standing firm amidst wind and rain together.
@@ -3524,7 +3524,7 @@
   splits:
   - split: 1
     text: 佛道剑
-    translated: Buddhist Swordsmanship
+    translated: Buddhist Martial Arts
   - split: 2
     text: 以其利断金、风雨同舟反击时，招式威力增强20%
     translated: In the heat of battle, its power increases by 20%.
@@ -3564,7 +3564,7 @@
   splits:
   - split: 1
     text: 地行
-    translated: Earth Immortal
+    translated: Walker of the Earth
   - split: 2
     text: 夜叉探海、旱魃为虐的威力增强
     translated: Yecha's exploration of the sea and the intensified power of the drought demon.
@@ -3574,7 +3574,7 @@
   splits:
   - split: 1
     text: 天夜叉
-    translated: Lord Yecha of Heaven
+    translated: Night Demon of the Heavens
   - split: 2
     text: 夜叉探海、旱魃为虐的消耗精力减少
     translated: The consumption of energy is reduced in conditions such as dry spells or droughts.
@@ -3584,7 +3584,7 @@
   splits:
   - split: 1
     text: 空虚
-    translated: Emptiness or Void.
+    translated: Emptiness
   - split: 2
     text: 夜叉探海、旱魃为虐额外附加错骨值
     translated: Yecha Tanhai, hanbao wei na'e; you xie fu jia cuoguzhi.
@@ -3747,7 +3747,7 @@
     translated: Whirlwind of blades slicing bones.
   - split: 2
     text: 刀练雷火势附加8点分筋
-    translated: 剑炼雷火气增加八点分筋.
+    translated: The blade training of Brother {name_1} adds 8 points to the muscle separation.
 - lineNum: 375
   raw: buffSkillTree042_005	行刀虎步	刀练雷火势的消耗精力减少1点	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -4034,7 +4034,7 @@
   splits:
   - split: 1
     text: 黑煞势
-    translated: Black Shadow Force
+    translated: Dark Vengeance Sect
   - split: 2
     text: 自身越邪恶，阴风骤起的威力越强
     translated: The more evil one is, the stronger the power of a sudden gust of dark wind.
@@ -4314,7 +4314,7 @@
   splits:
   - split: 1
     text: 混元功
-    translated: Primordial Chaos Skill
+    translated: Hùnyuán Gōng
   - split: 2
     text: 运行混元功时，每回合回复精力增加1点
     translated: When using Hunyuan Gong each turn, energy recovery increases by 1 point.
@@ -4364,7 +4364,7 @@
   splits:
   - split: 1
     text: 孖人
-    translated: Companion or partner.
+    translated: Companion
   - split: 2
     text: 天字九打额外附加5点分筋值
     translated: Nine-Tailed Fox Extra Adds an Additional 5 Points of Spirit Power
@@ -4874,7 +4874,7 @@
   splits:
   - split: 1
     text: 天南势
-    translated: The Southern Region's Power or Influence
+    translated: Southern Heavens Faction
   - split: 2
     text: 施展天南势后，5回合内抵御6点分筋、错骨值
     translated: After employing Tian Nan Stance, resist 6 points of strain and bone-breaking values for the next 5 turns.
@@ -4914,7 +4914,7 @@
   splits:
   - split: 1
     text: 沉着
-    translated: Composed; composed demeanor.
+    translated: Calm and composed
   - split: 2
     text: 施展天南势时，额外增加自身的累积反击率5点
     translated: When executing Tian Nan Style, the character's accumulated counterattack rate is increased by an additional five points.
@@ -5004,7 +5004,7 @@
   splits:
   - split: 1
     text: 七色百足
-    translated: The term 七色百足 directly translates to seven colors centipede. In English, it can be interpreted as a metaphorical expression often used to describe something that is complex or multifaceted in nature.
+    translated: Seven-colored centipede
   - split: 2
     text: 可捕捉七色百足并炼制七色百足毒。根据记载，七色百足多生长于沼泽之地
     translated: The 0 can capture and refine the poison of Seven-Color Centipedes. According to records, Seven-Color Centipedes are often found in swampy areas.
@@ -5094,7 +5094,7 @@
   splits:
   - split: 1
     text: 攀仙桂
-    translated: Climb the Immortal Osmanthus
+    translated: ''
   - split: 2
     text: 欲攀仙桂蟾宫去的消耗精力增加1点、威力增加120点、分筋值额外增加6点
     translated: The cost in energy increases by 1 point, the power increases by 120 points, and the sinew value additionally increases by 6 points for those aspiring to climb to the Moon Palace.
@@ -5104,7 +5104,7 @@
   splits:
   - split: 1
     text: 徒消瘦
-    translated: Wasting away from illness or exertion.
+    translated: Training has left me frail.
   - split: 2
     text: 月随人形徒消瘦的消耗精力增加1点、威力增加110点、内伤值额外增加6点
     translated: As the moon follows the human form, the disciple becomes increasingly emaciated. Their energy cost increases by 1 point, power increases by 110 points, and internal injury value additionally increases by 6 points.
@@ -5334,7 +5334,7 @@
   splits:
   - split: 1
     text: 瘟灾
-    translated: plague or pestilence
+    translated: Epidemic plague
   - split: 2
     text: 严冬惨切的中毒值额外增加4点
     translated: Cold's harsh poison damage increases by an additional 4 points.
@@ -6064,7 +6064,7 @@
   splits:
   - split: 1
     text: 劲风
-    translated: Gale Force Wind
+    translated: Swift Wind Gusts
   - split: 2
     text: 暴雨梨花附加击退时序效果
     translated: Heavy Rain Plum Blossom additional dispel effects
@@ -6084,7 +6084,7 @@
   splits:
   - split: 1
     text: 鬼蜮
-    translated: Ghost bandit or demon trickster.
+    translated: Ghost Bandits
   - split: 2
     text: 若以鬼蜮难测为反击技，则黄雀在后的发动机率提升5%
     translated: If Trickery of the Evil Spirit is used as a counter-attack technique, the activation rate for Quail from Behind increases by 5%.
@@ -6544,7 +6544,7 @@
   splits:
   - split: 1
     text: 佛口
-    translated: Word of the Buddha.
+    translated: Buddha's mouth
   - split: 2
     text: 佛口蛇心的消耗精力减少1点
     translated: Wily as a snake, reduces energy expenditure by 1 point.
@@ -6684,7 +6684,7 @@
   splits:
   - split: 1
     text: 地才
-    translated: Local Talent or Talented Person from the Area
+    translated: Martial Talent
   - split: 2
     text: 奇门三才刀的招式伤害提升90点
     translated: The damage of the Qi Men San Cai Sword technique increases by 90 points.
@@ -6694,7 +6694,7 @@
   splits:
   - split: 1
     text: 人才
-    translated: Talent or personnel.
+    translated: Talented individual
   - split: 2
     text: 若施展奇门三才刀，自身虚招值提升6点
     translated: If you use the Strange Gate Three Talents Sword technique, your empty-hand feint skill increases by 6 points.
@@ -6924,7 +6924,7 @@
   splits:
   - split: 1
     text: 破剑
-    translated: Broken Sword
+    translated: Broken Blade
   - split: 2
     text: 面对剑法招式并以婵娟一剑反击时，必先闪避敌招后再进行反击
     translated: When facing an opponent's sword technique and countering with a single graceful cut, it is essential to first evade the enemy's attack before retaliating.
@@ -6944,7 +6944,7 @@
   splits:
   - split: 1
     text: 破刀
-    translated: Broken Sword
+    translated: ''
   - split: 2
     text: 面对刀法招式并以婵娟一剑反击时，必先闪避敌招后再进行反击
     translated: When countering an enemy's sword technique with a single swift stroke of the Feather Dance, it is essential to first evade the enemy's attack before executing the counterattack.
@@ -6964,7 +6964,7 @@
   splits:
   - split: 1
     text: 破枪
-    translated: Broken Sword
+    translated: Broken Spear Technique
   - split: 2
     text: 面对枪棍招式并以婵娟一剑反击时，必先闪避敌招后再进行反击
     translated: When facing a spear and saber technique, one must first evade the enemy's attack before countering with a Shanjuan sword stroke.
@@ -7224,7 +7224,7 @@
   splits:
   - split: 1
     text: 迁识
-    translated: Recognition or identification of change.
+    translated: Recognize and understand.
   - split: 2
     text: 运行那洛六法时，每回合增加自身暴击率6点
     translated: When activated with Nuo Luo's Six Rules, increase critical hit rate by 6 points each turn.
@@ -7234,7 +7234,7 @@
   splits:
   - split: 1
     text: 幻身
-    translated: Phantom Form
+    translated: Illusion Body
   - split: 2
     text: 运行那洛六法时，每回合增加自身连击率6点
     translated: When activating Na Luo Liu Fa, increase your critical hit rate by 6 points each turn.
@@ -7254,7 +7254,7 @@
   splits:
   - split: 1
     text: 光明
-    translated: Brightness or luminance.
+    translated: Luminous Brightness
   - split: 2
     text: 运行那洛六法时，每回合增加自身反击率6点
     translated: When using Nuala's Six Laws, increase your own counterattack rate by 6 points each turn.
@@ -7384,7 +7384,7 @@
   splits:
   - split: 1
     text: 金创药
-    translated: Chinese herbal medicine used as an adhesive or hemostatic agent in traditional Chinese medicine.
+    translated: Golden Healing Medicine
   - split: 2
     text: 学会金创药的配方
     translated: Learn the formula for Jinkuang medicine.
@@ -7834,7 +7834,7 @@
   splits:
   - split: 1
     text: 少商
-    translated: Junior Merchant
+    translated: Young Merchant
   - split: 2
     text: 降低对手的累积暴击值30点
     translated: Reduce opponent's accumulated critical hit value by 30 points.
@@ -7884,7 +7884,7 @@
   splits:
   - split: 1
     text: 少泽
-    translated: Shaoruo
+    translated: Shao Ze
   - split: 2
     text: 降低对手的累积虚招值30点
     translated: Reduce opponent's cumulative feint value by 30 points.
@@ -8134,7 +8134,7 @@
   splits:
   - split: 1
     text: 搜神
-    translated: Seeking the Divine or Inquiring into the Gods
+    translated: Seeker of Spirits
   - split: 2
     text: 有机率能控制敌人4个回合，内功差距越大，成功率越高。同一时间至多控制1人
     translated: There is a chance to control an enemy for 4 turns, and the higher the discrepancy in inner power, the greater the success rate. At most, one person can be controlled at the same time.
@@ -8164,7 +8164,7 @@
   splits:
   - split: 1
     text: 沾黏劲
-    translated: Adhesive force
+    translated: Adhesive Strength
   - split: 2
     text: 施展缠劲裹住敌人，使敌人更倾向于将目标转为自己
     translated: Shi Zhan used his entangling force to envelop the enemy, making them more inclined to turn their focus onto themselves.
@@ -8194,7 +8194,7 @@
   splits:
   - split: 1
     text: 螺旋劲
-    translated: Spiral Force Qi
+    translated: Spiral Energy
   - split: 2
     text: 施展转劲带动敌人，指东打西的发动率提升
     translated: Shi Zhan's turn of energy improves the effectiveness of unpredictable attacks on enemies.
@@ -8204,7 +8204,7 @@
   splits:
   - split: 1
     text: 沾黏劲
-    translated: Adhesive force
+    translated: Adhesive Strength
   - split: 2
     text: 施展缠劲裹住敌人，春蚕吐丝附加内伤值4点，使敌人更倾向于将目标转为自己
     translated: Shi Zhan wraps his opponent in a binding force, inflicting an additional 4 points of internal damage like a silkworm spinning silk, making the enemy more likely to shift their target towards himself.
@@ -8234,7 +8234,7 @@
   splits:
   - split: 1
     text: 螺旋劲
-    translated: Spiral Force
+    translated: Spiral Energy
   - split: 2
     text: 施展转劲带动敌人，抽丝剥茧附加晕眩值6点，指东打西的发动率提升
     translated: Shi Zhan uses his skill to manipulate the enemy, unraveling their defenses and adding a dizziness value of 6 points. The activation rate for attacking randomly is increased.
@@ -8794,7 +8794,7 @@
   splits:
   - split: 1
     text: 移魂
-    translated: Transference of the soul or spirit.
+    translated: Transfer of Soul
   - split: 2
     text: 心智遭到控制，持续3回合
     translated: Mind controlled for 3 turns.
@@ -8824,7 +8824,7 @@
   splits:
   - split: 1
     text: 移魂
-    translated: Phantom possession or soul transference.
+    translated: Transfer of Soul
   - split: 2
     text: 心智遭到控制，持续4回合
     translated: Mind controlled for 4 turns.
@@ -8854,7 +8854,7 @@
   splits:
   - split: 1
     text: 移魂
-    translated: ''
+    translated: Transfer of Soul
   - split: 2
     text: 心智遭到控制，持续3回合
     translated: Mind controlled for 3 turns.
@@ -8904,7 +8904,7 @@
   splits:
   - split: 1
     text: 绕背
-    translated: Backstabbing; betrayal from behind one's back.
+    translated: To encircle an opponent's back from behind while in combat.
   - split: 2
     text: 移动到敌方身后进行攻击
     translated: Move behind the enemy to attack.
@@ -9224,7 +9224,7 @@
   splits:
   - split: 1
     text: 炸裂
-    translated: Explode or burst.
+    translated: Explosive
   - split: 2
     text: 因爆炸而产生外伤。
     translated: Injury caused by an explosion.
@@ -9234,7 +9234,7 @@
   splits:
   - split: 1
     text: 吐血
-    translated: Hemorrhage.
+    translated: Vomit blood
   - split: 2
     text: 因感伤过度产生内伤。
     translated: Overexcessive grief has led to internal injury.
@@ -9254,7 +9254,7 @@
   splits:
   - split: 1
     text: 飞镖阵
-    translated: Dart Array Formation
+    translated: ''
   - split: 2
     text: 受到飞镖阵法影响，降低轻功能力。
     translated: Affected by the dart formation technique, reduces light functional power.
@@ -9374,7 +9374,7 @@
   splits:
   - split: 1
     text: 慌恐
-    translated: Panic, fear; terrified, frantic.
+    translated: Panic-stricken
   - split: 2
     text: 轮到该单位时20%机率出对话并逃离战斗。
     translated: When it's this unit's turn, there is a 20% chance of engaging in dialogue and then fleeing the battle.
@@ -9454,7 +9454,7 @@
   splits:
   - split: 1
     text: 强身蛊
-    translated: Fortifying Pill
+    translated: Strengthening Pill
   - split: 2
     text: 以蛊术逼迫体内潜能，回复自身气血值50%，伤害增加30%
     translated: Use a technique to force the body's hidden potential, restore health by 50%, and increase damage by 30%.
@@ -10114,7 +10114,7 @@
   splits:
   - split: 1
     text: 发抖
-    translated: Shaking or trembling.
+    translated: Shivering
   - split: 2
     text: 大大大雪豹有啥好好好好怕的？吃、吃吃吃我一刀！
     translated: What's there to fear about the great snow leopard? I'll devour you with a single strike!
@@ -10124,7 +10124,7 @@
   splits:
   - split: 1
     text: 害怕
-    translated: ''
+    translated: Afraid
   - split: 2
     text: …唉唷…这雪豹好凶…早知道不来雪山了…
     translated: Ah... this snow leopard is so fierce... If I had known, I wouldn't have come to the snowy mountain.
@@ -10214,7 +10214,7 @@
   splits:
   - split: 1
     text: 虚弱
-    translated: Frail or weak.
+    translated: Weakened
   - split: 2
     text: 雪翼雕失血过多，愈发虚弱…精力恢复降低，并累积晕眩值10点
     translated: Xuē Yì Diāo has lost a lot of blood and is becoming increasingly weak... Energy recovery has decreased, accumulating dizziness at 10 points.
@@ -10314,7 +10314,7 @@
   splits:
   - split: 1
     text: 冲锋
-    translated: Charging forward.
+    translated: Charge
   - split: 2
     text: 冲锋攻击，对路径上的敌人造成伤害
     translated: Charge attack, dealing damage to enemies along the path.
@@ -10324,7 +10324,7 @@
   splits:
   - split: 1
     text: 冲锋
-    translated: Charge or Rush Forward
+    translated: Charge
   - split: 2
     text: 冲锋攻击，对路径上的敌人造成伤害
     translated: Charge attack, damaging enemies along the path.
@@ -10694,7 +10694,7 @@
   splits:
   - split: 1
     text: 大师兄
-    translated: Senior Master Brother
+    translated: Elder Brother Master
   - split: 2
     text: 自身轻功越高，闪避率越高；背袭时额外造成目标15点晕眩
     translated: The higher one's agility, the higher their evasion rate; when striking from behind, it causes an additional 15 points of dizziness to the target.
@@ -10974,7 +10974,7 @@
   splits:
   - split: 1
     text: 落地鹏
-    translated: The term 落地鹏 directly translates to Grounded Phoenix. It metaphorically refers to someone who has achieved success or a high status but remains humble and down-to-earth, akin to a phoenix that stays grounded rather than soaring.
+    translated: Luo Di Peng
   - split: 2
     text: 每次出招，有35%机率精力回复1点及连击率提升20%
     translated: Each time an attack is made, there is a 35% chance for energy to recover by 1 point and a 20% increase in the combo rate.
@@ -11014,7 +11014,7 @@
   splits:
   - split: 1
     text: 刀神
-    translated: Sword God
+    translated: ''
   - split: 2
     text: 所有刀法威力+70%
     translated: All swordsmanship power +70%.
@@ -11024,7 +11024,7 @@
   splits:
   - split: 1
     text: 刀狂
-    translated: Sword Madman
+    translated: ''
   - split: 2
     text: 所有刀法威力+40%
     translated: All sword techniques power +40%.
@@ -11054,7 +11054,7 @@
   splits:
   - split: 1
     text: 四象刀
-    translated: Four Symbols Sword
+    translated: ''
   - split: 2
     text: 四象刀刀法威力+30%
     translated: Sì Xiàng Dāo dāofǎ wēilì +30%.
@@ -11064,7 +11064,7 @@
   splits:
   - split: 1
     text: 三才刀
-    translated: Sancai Sword
+    translated: San Cai Dao
   - split: 2
     text: 三才刀刀法威力+30%
     translated: Sanzhai Sword Art attack power +30%.
@@ -11104,7 +11104,7 @@
   splits:
   - split: 1
     text: 借惯了
-    translated: Borrowing habitually.
+    translated: ''
   - split: 2
     text: 偷窃被发现的机率降低50%
     translated: The likelihood of being caught stealing is reduced by 50%.
@@ -12024,7 +12024,7 @@
   splits:
   - split: 1
     text: 击退
-    translated: ''
+    translated: Retreat
   - split: 2
     text: 将中招敌人击退
     translated: Repel the enemies who have been struck.
@@ -12114,7 +12114,7 @@
   splits:
   - split: 1
     text: 蝎毒
-    translated: Scorpion venom
+    translated: ''
   - split: 2
     text: 累积中毒3点，晕眩2点
     translated: Accumulated poisoning of 3 points, dizziness of 2 points.
@@ -12284,7 +12284,7 @@
   splits:
   - split: 1
     text: 如燕诀
-    translated: Like the Sparrow's Parting Words
+    translated: Like the swallows' parting.
   - split: 2
     text: 4回合内，增加闪避率5%；闪避后自身连击率、虚招率增加10点
     translated: Within four turns, increase evasion rate by 5%; after evading, increase own combo rate and feint rate by 10 points.
@@ -12294,7 +12294,7 @@
   splits:
   - split: 1
     text: 天南势
-    translated: Southern Power or Influence in the South.
+    translated: Southern Heavens Faction
   - split: 2
     text: 5回合内，抵御6点分筋、错骨值
     translated: Within 5 rounds, resist 6 points of dislocation and bone shattering value.
@@ -12384,7 +12384,7 @@
   splits:
   - split: 1
     text: 风马旗
-    translated: Wind Horse Banner
+    translated: ''
   - split: 2
     text: 每回合增加自身虚招6点
     translated: Increase your own false moves by 6 points each round.
@@ -12784,7 +12784,7 @@
   splits:
   - split: 1
     text: 真武剑
-    translated: Zhenwu Sword
+    translated: ''
   - split: 2
     text: 攻击时，敌方愈邪，招式伤害加成愈高
     translated: During the attack, as the opponent's malevolence increases, the damage bonus from techniques also increases.
@@ -12794,7 +12794,7 @@
   splits:
   - split: 1
     text: 真武剑
-    translated: Zhenwu Sword
+    translated: ''
   - split: 2
     text: 攻击时，敌方愈邪，招式伤害加成愈高
     translated: When attacking, the more corrupt the enemy, the higher the damage bonus of your technique.
@@ -12804,7 +12804,7 @@
   splits:
   - split: 1
     text: 真武剑
-    translated: Zhenwu Sword
+    translated: ''
   - split: 2
     text: 攻击时，敌方愈邪，招式伤害加成愈高
     translated: When attacking, the more corrupted the enemy is, the higher the damage bonus of your technique becomes.
@@ -12844,7 +12844,7 @@
   splits:
   - split: 1
     text: 七星剑
-    translated: Seven-Star Sword
+    translated: ''
   - split: 2
     text: 攻击后，增加自身反击率7点
     translated: After attacking, increase self's counterattack rate by 7 points.
@@ -12854,7 +12854,7 @@
   splits:
   - split: 1
     text: 七星剑
-    translated: Seven-star Sword
+    translated: ''
   - split: 2
     text: 攻击后，增加自身反击率14点
     translated: After attacking, increase self counterattack rate by 14 points.
@@ -12864,7 +12864,7 @@
   splits:
   - split: 1
     text: 七星剑
-    translated: Seven-Star Sword
+    translated: Qi Xing Jian
   - split: 2
     text: 攻击后，增加自身反击率21点
     translated: After attacking, increase the chance of counterattacking by 21 points.
@@ -13024,7 +13024,7 @@
   splits:
   - split: 1
     text: 骐骥
-    translated: A swift horse or a fine steed; often used metaphorically to describe someone talented but not achieving their full potential.
+    translated: Swift Steed
   - split: 2
     text: 攻击后，减少目标所有特技值2点
     translated: After the attack, reduce all of the target's skill values by 2 points.
@@ -13034,7 +13034,7 @@
   splits:
   - split: 1
     text: 骐骥
-    translated: Horse of surpassing quality or excellence.
+    translated: Swift Steed
   - split: 2
     text: 攻击后，减少目标所有特技值4点
     translated: After attacking, reduce the target's all skills by 4 points.
@@ -13054,7 +13054,7 @@
   splits:
   - split: 1
     text: 旱烟斗
-    translated: A type of traditional Chinese pipe used primarily by men in southern China, especially among the Hakka people. It is typically made from bamboo or wood with a long stem and an intricately designed head for holding tobacco. The user often takes slow, deep drags through this device during leisurely moments.
+    translated: Dried Pipe
   - split: 2
     text: 攻击后，增加目标的封穴值3点，有5%机率再增加目标的封穴值30点
     translated: After attacking, increase the target's numbing value by 3 points and have a 5% chance to further increase the target's numbing value by 30 points.
@@ -13064,7 +13064,7 @@
   splits:
   - split: 1
     text: 旱烟斗
-    translated: Water-pipe or hookah.
+    translated: Dried Pipe
   - split: 2
     text: 攻击后，增加目标的封穴值5点，有5%机率再增加目标的封穴值30点
     translated: After the attack, increase the target's numbing value by 5 points; there is a 5% chance to further increase the target's numbing value by 30 points.
@@ -13094,7 +13094,7 @@
   splits:
   - split: 1
     text: 护心镜
-    translated: Heart Guard Mirror
+    translated: ''
   - split: 2
     text: 抵御外伤4点
     translated: Resist Physical Damage by 4 points
@@ -13114,7 +13114,7 @@
   splits:
   - split: 1
     text: 锁子甲
-    translated: Knee armor.
+    translated: Iron breastplate
   - split: 2
     text: 抵御外伤8点
     translated: Resist External Damage 8 Points

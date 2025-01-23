@@ -148,7 +148,7 @@
   splits:
   - split: 3
     text: 暗捕
-    translated: Secretly capture or arrest.
+    translated: ''
   - split: 4
     text: 当玩家靠近某些驯养的牲畜，可以进行暗捕，但可能会被村人所讨厌。
     translated: When players approach certain tamed livestock, they can perform a stealth capture but may be disliked by the villagers.
@@ -158,10 +158,10 @@
   splits:
   - split: 3
     text: 切磋
-    translated: Sharpen each other's skills or practice together.
+    translated: ''
   - split: 4
     text: 当玩家靠近NPC时，可以进行切磋（预设为G键），玩家会与该NPC进行一对一切磋，切磋胜利NPC可以有机率获得其身上的物品，一天只可以对同一个NPC提起一次切磋要求。<color=#ff2222>(只有在困难模式以上的难度下才能够切磋NPC)</color>
-    translated: ''
+    translated: When the player approaches an NPC, they can engage in sparring (preset to G key). The player will spar one-on-one with that NPC. Upon victory, there is a chance for the player to obtain items from the NPC's inventory. A player can only initiate a sparring request once per day with the same NPC. <color=#ff2222>(Sparring with an NPC is only possible in difficulty modes higher than normal.)</color>
 - lineNum: 17
   raw: h10401	104		便利功能	游戏中提供玩家许多便利的功能，能辅助玩家在游戏进行中更加地顺手。
   translated: 
@@ -228,7 +228,7 @@
   splits:
   - split: 3
     text: 队友
-    translated: ''
+    translated: Teammate
   - split: 4
     text: 游戏中可以找到许多志同道合的朋友一同冒险，当队友加入时可以在接口中（默认Tab）中查看，除了玩家本身，玩家最多可以同时与另外三名队友一同闯荡江湖。
     translated: In the game, you can find many like-minded friends to adventure together. When teammates join, they can be viewed in the interface (default Tab). Besides yourself, a player can simultaneously accompany up to three other teammates as they travel the world.
@@ -398,7 +398,7 @@
   splits:
   - split: 3
     text: 毒术
-    translated: Necromancy (poison arts)
+    translated: Poison Technique
   - split: 4
     text: 制毒法可以将野外捕捉而来的毒物加工炼制，在部分武功修炼时需要消耗这些毒物，若不谙毒术，徒手捕捉野外的毒虫可能会导致中毒。
     translated: The art of alchemy can refine poisons captured in the wild, which are consumed during certain martial arts training. If one is not skilled in poison techniques, attempting to catch poisonous creatures by hand may lead to poisoning.
@@ -568,7 +568,7 @@
   splits:
   - split: 3
     text: 气血
-    translated: Qi and blood (essence)
+    translated: Blood and Vital Energy
   - split: 4
     text: 影响角色在战斗中生存力的主要数值，归零的话则角色便会退场。
     translated: The main value that affects a character's survivability in battle, once depleted, will cause the character to retreat from the battlefield.
@@ -578,7 +578,7 @@
   splits:
   - split: 3
     text: 内力
-    translated: Qi (internal energy)
+    translated: Internal Energy
   - split: 4
     text: 角色施展所有技能招式所需消耗的能量，内力不足的时候将无法发挥技能招式的全部威力。
     translated: The character's skill techniques require a certain amount of energy to perform. If the internal energy is insufficient, the full power of the skills will not be unleashed.
@@ -588,7 +588,7 @@
   splits:
   - split: 3
     text: 精力
-    translated: Energy or Vitality.
+    translated: ''
   - split: 4
     text: 影响角色在战斗中的移动、行为与施展技能招式的重要数值，精力越高的角色在战斗中可以进行更多的行动。
     translated: The important values that affect a character's movement, behavior, and skill casting in battle are energy levels. The higher the energy level of a character, the more actions they can perform during combat.
@@ -608,7 +608,7 @@
   splits:
   - split: 3
     text: 体魄
-    translated: Physical strength or vitality.
+    translated: ''
   - split: 4
     text: 隐藏数值，影响角色每次升级时提升的气血数值。
     translated: Hidden value that affects the amount of Qi increased each time a character levels up.
@@ -658,7 +658,7 @@
   splits:
   - split: 3
     text: 搏击
-    translated: Martial arts or combat sports.
+    translated: ''
   - split: 4
     text: 角色使用拳掌武学的能力，数值越高能产生越强的威力加成。
     translated: The character's ability in fist and palm martial arts generates a greater power bonus with higher values.
@@ -668,7 +668,7 @@
   splits:
   - split: 3
     text: 剑法
-    translated: Swordsmanship
+    translated: ''
   - split: 4
     text: 角色使用剑法武学的能力，数值越高能产生越强的威力加成。
     translated: The character's skill in using martial arts sword techniques increases the power boost, with higher values producing stronger enhancements.
@@ -678,7 +678,7 @@
   splits:
   - split: 3
     text: 刀法
-    translated: Swordsmanship
+    translated: ''
   - split: 4
     text: 角色使用刀法武学的能力，数值越高能产生越强的威力加成。
     translated: "The character's swordplay martial arts ability: the higher the value, the greater the power bonus generated."
@@ -688,7 +688,7 @@
   splits:
   - split: 3
     text: 枪棍
-    translated: Swordstick (a type of weapon combining elements of a sword and a cane)
+    translated: Gunstick
   - split: 4
     text: 角色使用枪棍武学的能力，数值越高能产生越强的威力加成。
     translated: The character's ability in Gun-Spear martial arts generates a stronger power boost as the value increases.
@@ -698,7 +698,7 @@
   splits:
   - split: 3
     text: 暗器
-    translated: Projectiles or concealed weapons used in martial arts.
+    translated: ''
   - split: 4
     text: 角色使用暗器武学的能力，数值越高能产生越强的威力加成。
     translated: The character's ability in the art of shuriken can produce a greater power bonus with higher values.
@@ -708,7 +708,7 @@
   splits:
   - split: 3
     text: 短兵
-    translated: Clash of swords or close combat.
+    translated: ''
   - split: 4
     text: 角色使用短兵武学的能力，数值越高能产生越强的威力加成。
     translated: The character's martial arts ability in short-range combat generates greater power bonuses as the value increases.
@@ -728,7 +728,7 @@
   splits:
   - split: 3
     text: 毒术
-    translated: Necromancy (the art of using poisons)
+    translated: Poison Techniques
   - split: 4
     text: 毒术将会角色施展毒术武学时的效果与加成，也会影响到一些游戏内事件的发生与走向。
     translated: Poison techniques will affect the effects and bonuses of a character's use of poison arts, as well as influence some in-game events and their outcomes.
@@ -738,7 +738,7 @@
   splits:
   - split: 3
     text: 内功
-    translated: Internal cultivation (or internal skill)
+    translated: Internal cultivation
   - split: 4
     text: 内功是一切武学威力与减伤能力的基础，内功越高的角色在战斗中越具有优势。
     translated: Internal cultivation is the foundation of all martial arts' power and damage reduction capabilities. The higher a character's internal cultivation, the more advantageous they are in combat.
@@ -748,7 +748,7 @@
   splits:
   - split: 3
     text: 轻功
-    translated: Light-armed movement; Wuxia martial arts technique involving agile, nimble footwork and leaps.
+    translated: ''
   - split: 4
     text: 轻功会影响角色在战斗中的出手排序、移动距离与相关武学感悟的加成效果，同时也会让玩家在大地图行走时更加迅速与有趣，轻功到达一定程度甚至可以施展水上飘。
     translated: Mastery of martial steps influences a character's attack order, movement range, and the bonuses from related martial insights in battle. It also allows players to move more swiftly and enjoyably across large maps, with high proficiency enabling them to perform feats like floating on water.
@@ -758,7 +758,7 @@
   splits:
   - split: 3
     text: 外伤
-    translated: Traumatic injury or external wound.
+    translated: ''
   - split: 4
     text: 每回合损失气血，数值越高效果也越显著。
     translated: Each round loses Qi, the higher the value, the more pronounced the effect.
@@ -798,7 +798,7 @@
   splits:
   - split: 3
     text: 防具
-    translated: Armor
+    translated: ''
   - split: 4
     text: 能提供角色在战斗中减伤与特殊效果的装备。
     translated: Can provide equipment that reduces damage and special effects during battle for the character.
@@ -958,7 +958,7 @@
   splits:
   - split: 3
     text: 轻功武学
-    translated: Wuqong martial arts (lightness skills)
+    translated: Qiángōng Wǔxué
   - split: 4
     text: 大多数的轻功武学都没有能直接产生伤害的招式，但却能让玩家在战斗中更具有优势，同时它也能提高玩家轻功的基础数值，让玩家可以更轻松快速的在这个世界游历。
     translated: Most Wuxia kung fu schools do not have techniques that directly cause damage, but they give players an advantage in combat and improve their base kung fu skills. This allows players to travel more easily and quickly through the world.
@@ -1348,7 +1348,7 @@
   splits:
   - split: 3
     text: 传送点
-    translated: Teleportation Point
+    translated: ''
   - split: 4
     text: 传送的地图中可以传送到对应地区，若要解锁新地区的传送点功能，则必须先拜访该地区才可以。
     translated: The map allows teleportation to corresponding areas, but unlocking the teleportation point for a new area requires visiting that area first.
@@ -1518,7 +1518,7 @@
   splits:
   - split: 3
     text: 连击
-    translated: Rapid succession of strikes or attacks.
+    translated: ''
   - split: 4
     text: 连击发动时，能让施放技能者回复消耗的行动点数，使该单位能够再次执行更多的指令。
     translated: When the chain attack is activated, it allows the user who cast the skill to recover the expended action points, enabling that unit to execute more commands.
@@ -1548,7 +1548,7 @@
   splits:
   - split: 3
     text: 虚招
-    translated: Feigning an invitation or attack in martial arts.
+    translated: ''
   - split: 4
     text: 虚招发动时，会随机附加受击单位负面状态。
     translated: When the feint is activated, it will randomly inflict a negative status on the target unit.
@@ -1568,7 +1568,7 @@
   splits:
   - split: 3
     text: 内伤
-    translated: Internal injury or internal damage (often referring to injuries sustained in martial arts).
+    translated: Internal injury
   - split: 4
     text: 每次施展招式时都会损失气血，数值越高效果也越显著。
     translated: Every time a technique is executed, Qi and blood are lost; the higher the value, the more pronounced the effect.
@@ -1608,7 +1608,7 @@
   splits:
   - split: 3
     text: 迷惑
-    translated: Confused or puzzled.
+    translated: ''
   - split: 4
     text: 降低减伤的能力，超过50点时会无法施展卸劲。
     translated: Reduced damage mitigation capability; exceeding 50 points will prevent the release of tension.
@@ -1748,7 +1748,7 @@
   splits:
   - split: 3
     text: 锻造
-    translated: Forging
+    translated: ''
   - split: 4
     text: 村庄中的铁匠可以协助玩家打造武器与装备，打造出来的武器与装备会比商人贩卖，或是野外战斗获得的道具质量更佳，有些锻造的蓝图与配方可能需要经过任务取得，或是需与铁匠培养友好度，铁匠才会愿意帮玩家打造。
     translated: The blacksmith in the village can assist players in forging weapons and equipment. The forged weapons and equipment are of higher quality than those sold by merchants or obtained through wild battles. Some blueprints and recipes for forging may require completing tasks to obtain, or improving friendship with the blacksmith so that he is willing to help the player forge them.
@@ -1798,7 +1798,7 @@
   splits:
   - split: 3
     text: 优惠
-    translated: ''
+    translated: Discounts
   - split: 4
     text: 若玩家与铁匠的友好度很高，且完成对应的成就，铁匠会提供玩家费用上的折扣，不需要套用任何称号即可享有。
     translated: If the player has a high friendship level with the blacksmith and completes the corresponding achievement, the blacksmith will offer a discount on the player's fees without needing to apply any titles.
@@ -1808,7 +1808,7 @@
   splits:
   - split: 3
     text: 淬炼
-    translated: Tempering or hardening (typically refers to a process involving heating and then cooling materials like metal to increase their strength)
+    translated: Hardening
   - split: 4
     text: 村庄中的铁匠可以协助玩家淬炼武器，将玩家取得的投炉类物品镶嵌到武器上，藉由镶嵌不同的投炉物，能让武器发挥更强力的效果。
     translated: The blacksmith in the village can help players temper weapons, embedding player-acquired crucible items into the weapons. By embedding different crucible materials, weapons can unleash more powerful effects.
@@ -1858,7 +1858,7 @@
   splits:
   - split: 3
     text: 优惠
-    translated: ''
+    translated: Discount
   - split: 4
     text: 若玩家与铁匠的友好度很高，且完成对应的成就，铁匠会提供玩家费用上的折扣，不需要套用任何称号即可享有。
     translated: If the player's friendship with the blacksmith is very high and they complete the corresponding achievement, the blacksmith will provide a discount on their fees without needing to use any titles.
@@ -1928,7 +1928,7 @@
   splits:
   - split: 3
     text: 优惠
-    translated: ''
+    translated: Discounts
   - split: 4
     text: 若玩家与铁匠的友好度很高，且完成对应的成就，铁匠会提供玩家费用上的折扣，不需要套用任何称号即可享有。
     translated: If the player's friendship with the blacksmith is very high and they have completed the corresponding achievements, the blacksmith will provide a discount on fees for the player without needing to apply any titles.
@@ -1938,7 +1938,7 @@
   splits:
   - split: 3
     text: 重锻
-    translated: Reforge
+    translated: ''
   - split: 4
     text: 重锻是对特殊武器进行改造，并非所有的武器都可以进行重锻，玩家可以找到村庄中的铁匠协助，但必须提供相对应的材料方可进行。
     translated: Reforging is the process of modifying special weapons, and not all weapons can be reforged. Players can seek assistance from a blacksmith in the village but must provide the corresponding materials to proceed.
@@ -2008,7 +2008,7 @@
   splits:
   - split: 3
     text: 剑
-    translated: Sword
+    translated: ''
   - split: 4
     text: 剑为近战武器，装备剑可以施展剑法相关的武学招式，若双持两把剑，还能够施放独特的双剑技能。
     translated: The sword is a close-combat weapon. Equipping a sword allows the use of martial arts techniques related to swordplay, and wielding two swords enables unique dual-sword skills.
@@ -2018,7 +2018,7 @@
   splits:
   - split: 3
     text: 刀
-    translated: Sword
+    translated: ''
   - split: 4
     text: 刀为近战武器，装备刀可以施展刀法相关的武学招式，若双持两把刀，还能够施展独特的双刀技能。
     translated: Daggers are melee weapons; equipping daggers allows the use of martial arts techniques related to swordplay. If wielding two daggers, unique dual-dagger skills can be executed.
@@ -2028,7 +2028,7 @@
   splits:
   - split: 3
     text: 枪/棍
-    translated: Sword/staff
+    translated: ''
   - split: 4
     text: 枪/棍为近战长柄武器，枪/棍比起其他近战武器来说，在攻击距离上稍占优势，装备枪/棍可以施展枪/棍相关的武学招式。
     translated: Spear/staff is a melee polearm weapon. Compared to other melee weapons, spear/staff has a slight advantage in attack range. Equipping spear/staff allows the use of spear/staff-related martial arts techniques.
@@ -2038,7 +2038,7 @@
   splits:
   - split: 3
     text: 暗器
-    translated: Wuxia weapons or martial arts implements.
+    translated: ''
   - split: 4
     text: 暗器为远程武器，装备暗器可以在中远程距离攻击敌人，不过对贴身攻击的敌人比较没辙。
     translated: Traps and projectiles are ranged weapons. Equipping traps and projectiles allows you to attack enemies at medium-range, but they are less effective against enemies in close combat.
@@ -2058,7 +2058,7 @@
   splits:
   - split: 3
     text: 短兵
-    translated: Close combat or hand-to-hand fighting.
+    translated: ''
   - split: 4
     text: 短兵为近战武器，轻巧的短兵在伤害上也不亚于其他兵器。
     translated: Short weapons are melee weapons, and the lightweight short weapons do not fall behind other weapons in terms of damage.
@@ -2078,7 +2078,7 @@
   splits:
   - split: 3
     text: 护甲
-    translated: Armor
+    translated: ''
   - split: 4
     text: 能提供角色在战斗中减伤与特殊效果的装备。
     translated: Provide the character with equipment that reduces damage and has special effects during combat.
@@ -2098,7 +2098,7 @@
   splits:
   - split: 3
     text: 外衣
-    translated: Coat or Outer Garment
+    translated: ''
   - split: 4
     text: 能改变主角外观的特殊服饰，有些对应阵营的服饰能触发特殊的事件或效果。
     translated: Special attire that can change the protagonist's appearance; some faction-specific outfits can trigger special events or effects.
@@ -2228,7 +2228,7 @@
   splits:
   - split: 3
     text: 任务物品
-    translated: Task item(s)
+    translated: Item Task
   - split: 4
     text: 任务进行所需要的道具。
     translated: The tools required to carry out the task.

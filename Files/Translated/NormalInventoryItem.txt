@@ -4,7 +4,7 @@
   splits:
   - split: 1
     text: 小还丹
-    translated: Minor Elixir of Longevity
+    translated: ''
   - split: 3
     text: 以赤勺为主药，具活血生肌之效，有助于回复气血，但同时也具备些微毒性，不适合大量服用。
     translated: Red Chiretta is the main ingredient, known for its ability to promote blood circulation and tissue regeneration, aiding in restoring Qi and blood. However, it also possesses slight toxicity and should not be taken in large quantities.
@@ -194,7 +194,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Shí shāo (red peony root)
+    translated: Red Peony
   - split: 3
     text: 芍药的一种，始载于《本经》中品。性微寒；味苦；归肝经。药效主回气血，具备些微毒性，不适合大量服用。
     translated: A type of peony first described in the Shennong Bencao Jing. It has a slightly cooling nature; tastes bitter; and is associated with the liver meridian. Its primary effects are to return Qi and blood, and it possesses slight toxicity, so large doses should not be taken.
@@ -214,7 +214,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: Three Seven (San Qi)
+    translated: San Qi
   - split: 3
     text: 又名田七，李时珍称其为「金不换」。性温；味甘，微苦；归肝、胃、大肠经。具有止血、活血化瘀……等功效。
     translated: Also known as Tian Qi, Li Shizhen called it priceless gold. It is warm in nature; sweet and slightly bitter in taste; and belongs to the Liver, Stomach, and Large Intestine meridians. It has effects such as stopping bleeding, activating blood circulation, and dissipating stasis.
@@ -224,7 +224,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: Chuanxiong (川芎)
+    translated: ''
   - split: 3
     text: 性温；味辛；归肝、心包、胆经。药效主活淤行气。阴虚火旺，上盛下虚及气弱之人忌服。
     translated: 'Moderate warm; pungent in taste; enters the Liver, Pericardium, and Gallbladder meridians. Main effects: activate blood to remove stasis and regulate Qi. Not recommended for people with yin deficiency and excess fire, or those experiencing fullness above and emptiness below as well as weakness of Qi.'
@@ -234,7 +234,7 @@
   splits:
   - split: 1
     text: 黄连
-    translated: Coptis Rhizome (Chinese Goldthread)
+    translated: ''
   - split: 3
     text: 性寒；味苦；归心、脾、胃、胆、肝、大肠经。药效清热解毒。黄连属大苦大寒之品，泻火力强，易伤阳气。
     translated: 'Cold in nature; bitter taste. Channels: Heart, Spleen, Stomach, Gallbladder, Liver, Large Intestine. Medicinal effects: Clears heat and detoxifies. Huanglian belongs to the category of very cold and very bitter substances, has strong heat-clearing properties, and may damage yang qi if used improperly.'
@@ -244,7 +244,7 @@
   splits:
   - split: 1
     text: 续断
-    translated: To resume or continue after a break.
+    translated: ''
   - split: 3
     text: 早见于《神农本草经》，一名龙豆，又名属折。性微温；味苦、甘、辛；归肝、肾经。是一味强筋骨，续折伤的良药。
     translated: Mentioned in the Shennong Bencao Jing, known as dragon beans or bent plants. It is slightly warm; tastes bitter, sweet, and pungent; enters the liver and kidney meridians. It is an excellent medicine for strengthening bones and sinews and healing sprain injuries.
@@ -254,7 +254,7 @@
   splits:
   - split: 1
     text: 茯苓
-    translated: Poria (Fu Ling)
+    translated: ''
   - split: 3
     text: 性平；味甘、淡；归心、肺、脾、肾经。茯苓是一味延年益寿之良药，主效安魂养神。
     translated: Gender-neutral; taste sweet and bland; enters the Heart, Lung, Spleen, and Kidney meridians. Poria is an excellent longevity tonic that primarily stabilizes the spirit and nourishes the essence.
@@ -294,7 +294,7 @@
   splits:
   - split: 1
     text: 成形何首乌
-    translated: Carving Heshouwu (Tian Men Dong)
+    translated: Formulate Heshouwu pills.
   - split: 3
     text: 性温；味苦、甘、涩；归肝、心、肾经。部分何首乌年深日久，渐成人形，药力大增，可是大补之物。
     translated: Warm in nature; tastes bitter, sweet, and astringent; enters the Liver, Heart, and Kidney meridians. Some mature Rehmannia has been aged over time and gradually takes on a human form, increasing its medicinal power, becoming an excellent tonic.
@@ -334,7 +334,7 @@
   splits:
   - split: 1
     text: 太岁
-    translated: Old Man Year (a term of respect for one's father-in-law)
+    translated: ''
   - split: 3
     text: 又称肉灵芝，传说是秦始皇苦苦找寻的长生不老之药。李时珍《本草纲目》有载。功效为「轻身不老，延年神仙」。
     translated: Also known as meat reishi, it is said to be the elixir of immortality that Qin Shi Huang sought tirelessly. Li Shizhen's Bencao Gangmu contains records of it. Its effects are described as lightness, longevity, and immortality.
@@ -494,7 +494,7 @@
   splits:
   - split: 1
     text: 马粪
-    translated: Horse manure.
+    translated: ''
   - split: 3
     text: 马粪，这是马粪，一种毫无用处的东西。为什么会有人想偷它呢？
     translated: Stableman, this is horse manure, a completely useless thing. Why would anyone want to steal it?
@@ -544,7 +544,7 @@
   splits:
   - split: 1
     text: 蜈蚣毒
-    translated: Scorpion venom.
+    translated: ''
   - split: 3
     text: 自蜈蚣体内提炼出的蜈蚣毒，可当作投炉物使用，或是练毒功、炼毒药所须素材。
     translated: Venom extracted from centipedes can be used as an ingredient for alchemy or as a material in the practice of poisonous skills and refining poison elixirs.
@@ -574,7 +574,7 @@
   splits:
   - split: 1
     text: 蝎毒
-    translated: Scorpion venom
+    translated: ''
   - split: 3
     text: 自毒蝎体内提炼出的蝎毒，可当作投炉物使用，或是练毒功、炼毒药所须素材。
     translated: The venom extracted from the Poisonous Scorpion within one's body can be used as a casting material, or is necessary for practicing the Art of Venom and refining poison elixirs.
@@ -744,7 +744,7 @@
   splits:
   - split: 1
     text: 蝎子
-    translated: Scorpion
+    translated: ''
   - split: 3
     text: 可炼制为蝎毒，野外常见的毒物。
     translated: Can be refined into scorpion poison; a common wild poison.
@@ -874,7 +874,7 @@
   splits:
   - split: 1
     text: 糌粑
-    translated: Nongbao (sticky rice dumpling)
+    translated: Flatbread.
   - split: 3
     text: 青藏高原的传统食物，是以青稞粉与酥油茶捏成的面食，方便制作与携带。
     translated: Traditional food of the Qinghai-Tibet Plateau is made with dough formed from barley flour and butter tea, making it convenient to prepare and carry.
@@ -904,7 +904,7 @@
   splits:
   - split: 1
     text: 斋饭
-    translated: Temple meal or vegetarian meal offered at a temple.
+    translated: ''
   - split: 3
     text: 噶玛寺厨师所做的饭菜。
     translated: The meals prepared by the cook at Gomba Monastery.
@@ -974,7 +974,7 @@
   splits:
   - split: 1
     text: 怪味鸡
-    translated: Strange-flavored chicken.
+    translated: ''
   - split: 3
     text: 川菜中的冷盘。鸡肉煮熟后冰镇，再搭配辛香料调制的淋酱。滋味酸、麻、辣多变，故名怪味鸡。
     translated: A cold dish from Sichuan cuisine. The chicken is boiled and chilled, then paired with a sauce made of spicy seasonings. The flavor combines sour, numbing, and spicy elements, hence the name Strange Flavor Chicken.
@@ -1104,7 +1104,7 @@
   splits:
   - split: 1
     text: 回锅肉
-    translated: Braised Pork Belly
+    translated: ''
   - split: 3
     text: ''
     translated: ''
@@ -1244,7 +1244,7 @@
   splits:
   - split: 1
     text: 竹叶青
-    translated: Zhu Ye Qing (a type of tea)
+    translated: Zhu Ye Qing
   - split: 3
     text: 汾酒。
     translated: Fen wine.
@@ -1304,7 +1304,7 @@
   splits:
   - split: 1
     text: 猪肉
-    translated: Pork
+    translated: ''
   - split: 3
     text: 山猪肉口感扎实，油脂较畜养家猪少，别有风味。
     translated: Wild boar meat is hearty in texture, has less fat than domesticated pigs, and has a unique flavor.
@@ -1354,7 +1354,7 @@
   splits:
   - split: 1
     text: 熊掌
-    translated: Panda paw (metaphorically referring to having a difficult choice between two desirable options)
+    translated: Panda's Palm Technique
   - split: 3
     text: 又名熊蹯，是珍贵的大补食材，八珍之一。特别是左前掌最为肥腴，掌花明显，被列为上品。
     translated: Also known as bear paw, it is a precious nourishing food ingredient and one of the Eight Treasures. Especially, the left front paw is most luscious, with prominent paw print patterns, listed as a superior grade.
@@ -1394,7 +1394,7 @@
   splits:
   - split: 1
     text: 大白菜
-    translated: Bok Choy (Chinese White Cabbage)
+    translated: White cabbage.
   - split: 3
     text: 白菜是中国常见的农作物，古称「菘」，本身也有药用价值。苏轼曾作文记述白菜料理。
     translated: Cabbage is a common crop in China, traditionally known as suan. It also has medicinal value. Su Shi once wrote about cabbage dishes.
@@ -1454,7 +1454,7 @@
   splits:
   - split: 1
     text: 调味料
-    translated: Seasoning ingredients or condiments.
+    translated: ''
   - split: 3
     text: 诸般用以在烹饪时调味的食材，诸如盐、糖、醋、酱油……等等。
     translated: Various ingredients used for seasoning in cooking, such as salt, sugar, vinegar, soy sauce, etc.
@@ -1554,7 +1554,7 @@
   splits:
   - split: 1
     text: 山铜
-    translated: Tin ore or tin metal.
+    translated: ''
   - split: 3
     text: 极为罕见的金属，往往埋藏于人迹难至的崇山峻岭之间。拥有铜的特性，但更为坚韧。
     translated: A highly rare metal, often found buried in remote and inaccessible mountainous areas. It possesses the characteristics of copper but is more durable.
@@ -1564,7 +1564,7 @@
   splits:
   - split: 1
     text: 珊瑚金
-    translated: Coral Gold
+    translated: ''
   - split: 3
     text: 数种特异金属混合了珊瑚，在深海中历千万年化成。削铁如切豆腐，打石如敲棉花，一般的兵刃，遇之立折。
     translated: Several rare metals mixed with coral, through millions of years in the deep sea, have transformed. They cut iron as if slicing tofu and strike stone like hitting cotton; ordinary weapons shatter upon contact.
@@ -1644,7 +1644,7 @@
   splits:
   - split: 1
     text: 枣木
-    translated: Cinnamon Tree (or Chinese Cinnamon)
+    translated: Zǎomù
   - split: 3
     text: 质地坚硬密实，木纹细密，可用以制作棍棒枪杆。
     translated: The material is dense and solid with fine wood grain, suitable for making clubs, sticks, or gun barrels.
@@ -1654,7 +1654,7 @@
   splits:
   - split: 1
     text: 铁刀木
-    translated: Iron Sword Wood
+    translated: ''
   - split: 3
     text: 大理一带称之黑心木，木质坚硬似铁，寻常刀剑难以劈砍，故而得名铁刀木。
     translated: The region of Dali refers to it as Blackheart Wood. Its wood is so hard, resembling iron, that ordinary swords and knives find it difficult to chop or hack. Hence, it is named Iron-Resistant Wood.
@@ -1714,7 +1714,7 @@
   splits:
   - split: 1
     text: 丹砂
-    translated: Cinnabar (also known as Vermilion)
+    translated: Cinnabar Powder
   - split: 3
     text: 又称朱砂、辰砂，古代方士认为朱砂能避邪。也是练丹必备之物，常用以制作安神类的中药。
     translated: Also known as Cinnabar, ancient sages believed that cinnabar could ward off evil. It is also an essential material for alchemical practice and is commonly used to make calming herbs in traditional Chinese medicine.
@@ -1804,7 +1804,7 @@
   splits:
   - split: 1
     text: 绝龙骨
-    translated: Jue Long Gu (Dragon Bone)
+    translated: Dragon Bone
   - split: 3
     text: 相传为古代神兽所遗留下来的骸骨，十分珍稀。据说在锻造兵器的过程中加入绝龙骨，能够产生非常惊人的效果。
     translated: It is said to be the bones left behind by a mythical creature from ancient times and are extremely rare. It is rumored that incorporating dragon bones in the forging of weapons can produce astonishing effects.
@@ -1827,7 +1827,7 @@
     translated: Moonlit Mist Jade Stone
   - split: 3
     text: 会在夜晚发光的奇特石头，因发光的颜色幽蓝如残月之息，故称「幽息月光石」。
-    translated: The peculiar stone that glows at night, emitting a pale blue light reminiscent of the breath of the waning moon, is hence called Yōxī Yuèguāng Shí (幽息月光石).
+    translated: A mysterious stone that glows at night with a pale blue light like the breath of a crescent moon, is called Moonlight Stone.
 - lineNum: 183
   raw: it70320	墨玉	it70320	色重质腻，纹理细致，漆黑如墨，素为治砚、刀工之上佳珍料。	703	3000	1500	TRUE	2	65	0	0	0	forge011	0			0
   translated: 
@@ -1894,7 +1894,7 @@
   splits:
   - split: 1
     text: 鳄皮
-    translated: Alligator skin
+    translated: ''
   - split: 3
     text: 鳄鱼皮本就是颇佳的皮革，经过妥善处理后做成的护具可有效抵挡一般劈砍。
     translated: Crocodile leather is already an excellent hide, and armor made from it after proper treatment can effectively withstand ordinary slashes and chops.
@@ -1927,7 +1927,7 @@
     translated: Deer skin.
   - split: 3
     text: ???
-    translated: It seems you haven't provided any text to translate from Simplified Chinese to English. Please provide the text or content you would like translated according to your specified guidelines, and I'll be happy to assist!
+    translated: ''
 - lineNum: 193
   raw: it70405	山羊皮	it70405	山羊的皮毛，适合缝制成衣物	704	300	150	TRUE	0	3	1	1	2		0			0
   translated: 
@@ -2094,7 +2094,7 @@
   splits:
   - split: 1
     text: 乌蚕丝
-    translated: Silk of the Black Silkworm.
+    translated: ''
   - split: 3
     text: 乌蚕产自雪山之巅，采集其丝编织成的衣料，不仅有良好的护体效果，更可化解内劲，保护自身不为内劲所伤。但乌蚕数量稀少，此丝因而昂贵。
     translated: Ucann is native to the peak of Mount Snow, and garments woven from its silk not only provide excellent protective qualities but also help dissipate internal Qi to prevent harm. However, Ucann is scarce, making this silk expensive.
@@ -2104,7 +2104,7 @@
   splits:
   - split: 1
     text: 冰蚕丝
-    translated: Silkworm silk ice fiber
+    translated: ''
   - split: 3
     text: 冰蚕产于高山雪线附近，数量极少。所产丝线通透不易断裂，是上佳的丝织物原料。
     translated: Ice worms are found near high mountain snow lines and are extremely rare. The silk they produce is translucent and difficult to break, making it excellent material for fine textiles.
@@ -2117,7 +2117,7 @@
     translated: Tiger sinews
   - split: 3
     text: ???
-    translated: It seems like you've entered ??? which might indicate a question or a placeholder for missing information. If there's specific text in Simplified Chinese that you need translated into English according to the provided guidelines, please provide it, and I'll be happy to assist!
+    translated: ''
 - lineNum: 212
   raw: it70602	黑虎筋	it70605	???	706	1600	800	TRUE	2	16	1	1	8		0			0
   translated: 
@@ -2127,7 +2127,7 @@
     translated: Black Tiger Tendons
   - split: 3
     text: ???
-    translated: It seems like the text you provided is incomplete or contains placeholder characters. Please provide the full Simplified Chinese text you would like translated into English, and I'll be happy to assist!
+    translated: ''
 - lineNum: 213
   raw: it70603	白虎筋	it70606	变异而生性凶猛的白虎，其筋韧性极高，是能制作弓弦等物品的出色材料。	706	3500	1750	TRUE	2	60	1	17	11		0			0
   translated: 
@@ -3064,7 +3064,7 @@
   splits:
   - split: 1
     text: 藏红花
-    translated: Safflower (Carthamus tinctorius)
+    translated: Safflower
   - split: 3
     text: 产于西藏的紫色花朵，其红色的雌蕊可入药或用于香料、染料等。传闻是能治百病的神草，难以栽植，价格高昂。
     translated: The purple flowers originating from Tibet have red pistils that can be used medicinally or for spices, dyes, etc. They are rumored to be a divine herb capable of curing all ailments, difficult to cultivate, and expensive.
@@ -3324,7 +3324,7 @@
   splits:
   - split: 1
     text: 素包
-    translated: Plain package (or simply, plain) package.
+    translated: Plain Bag
   - split: 3
     text: 天龙寺火工头陀果福做的素包。
     translated: Fire Monastery Tathāgata Guǎfú's vegetarian dumplings.
@@ -3474,7 +3474,7 @@
   splits:
   - split: 1
     text: 洛书
-    translated: Lo Shu (Luoshu)
+    translated: ''
   - split: 3
     text: 由六片天书碎片拼凑而成的龟甲，记载天地运行之理。传说同时拥有河图与洛书者，将能一统天下。
     translated: The turtle shell, assembled from six pieces of the Six Heavens Scriptures, records the principles of the movement of heaven and earth. Legend has it that whoever possesses both the Diagram of Lo and the Book of Luo can unify the world under one rule.
@@ -3684,7 +3684,7 @@
   splits:
   - split: 1
     text: 侠之道
-    translated: ''
+    translated: The Way of the Wuxia Knight
   - split: 3
     text: 一本时代不明的传奇小说，描述一群少侠在侠隐阁中所经历的冒险，作者为河洛散人。
     translated: A legendary novel from an unspecified era describes the adventures experienced by a group of young heroes in Xia Yin Ge, authored by He Luo Sansheng.
@@ -3894,7 +3894,7 @@
   splits:
   - split: 1
     text: 灵兔石
-    translated: Immortality Rabbit Stone
+    translated: ''
   - split: 3
     text: 从太华门灵兔长老手中取得的白色圣石。
     translated: The white holy stone obtained from the Old Master Holy Hare of Taihua Gate.
@@ -3944,7 +3944,7 @@
   splits:
   - split: 1
     text: 金丹
-    translated: Cinnabar (Jindan) or Elixir of Immortality (in alchemical contexts).
+    translated: Jīndān
   - split: 3
     text: 赤丹宫妖道结合道家内丹与外丹术，以他人肉体为鼎炉、精元为药材所炼成的金丹。每个妖道一生只会反复炼制一颗金丹，因此他们重之几逾性命。
     translated: The Red Cinnabar Palace demon masters combined internal alchemy and external alchemy to create a Golden Elixir using the bodies of others as the cauldron and their vital essences as ingredients. Each demon master can only repeatedly forge one golden elixir in their lifetime, hence they value it more than their lives.
@@ -4024,7 +4024,7 @@
   splits:
   - split: 1
     text: 三九消坏丹
-    translated: San Jiu Xiaohuai Dan (39 Antifreeze Pills)
+    translated: Sanyu Xiaohuai Dan
   - split: 3
     text: 赤丹宫主特制的辟毒丹药，含在舌下可于赤丹宫的毒雾中安全通行。
     translated: The detoxifying pills specially crafted by the Master of Red Cinnabar Palace, when held under the tongue, allow safe passage through the poisonous mists of Red Cinnabar Palace.
@@ -4114,7 +4114,7 @@
   splits:
   - split: 1
     text: 河图
-    translated: He Tu (The Yellow River Map)
+    translated: River Chart
   - split: 3
     text: 传说为自黄河涉水而出的龙马身上之皮，记载天地运行之理。传说同时拥有河图与洛书者，将能一统天下。
     translated: Legend has it that the skin of the dragon horse, which emerged from crossing the Yellow River, contains the principles of heaven and earth. It is also said that whoever possesses both the Yellow River Map and the Luo Book will be able to unite all under Heaven.
@@ -4494,7 +4494,7 @@
   splits:
   - split: 1
     text: 肚兜
-    translated: Belly band or belly wrap.
+    translated: ''
   - split: 3
     text: 正常情况下，肚兜不是被贴身穿着就是被妥善收纳着。但基于种种不明原因和用途，有时也会成为男性持有物。或许有特定人士愿意收购这种物品。
     translated: Under normal circumstances, the apron is either worn close to the body or properly stored. However, due to various unknown reasons and uses, it can sometimes become a possession of men. Perhaps there are specific individuals who would be interested in purchasing such items.
@@ -4554,7 +4554,7 @@
   splits:
   - split: 1
     text: 石灰
-    translated: Lime (Calcium Oxide)
+    translated: Lime
   - split: 3
     text: 在有为青年眼中是可用之材，在缺德无赖眼中…也是有用之材。
     translated: In the eyes of many young people, he is a useful talent; in the eyes of scoundrels and rascals, he is also a useful talent.
@@ -4644,7 +4644,7 @@
   splits:
   - split: 1
     text: 紫草
-    translated: Purple wormwood
+    translated: ''
   - split: 3
     text: 紫草根子，认为其性味甘微苦、酸、寒，有清热凉血、活血，解毒透疹的作用。临床上外敷治疗火伤、冻伤、刀伤和湿疹，内服通便和利尿。
     translated: Ligusticum root, considered to have a sweet, slightly bitter, sour, and cold nature. It has effects of clearing heat, cooling blood, activating blood circulation, detoxifying, and relieving rashes. Clinically used externally for treating burns, frostbite, cuts, and eczema, and taken orally to promote bowel movements and diuresis.
@@ -4714,7 +4714,7 @@
   splits:
   - split: 1
     text: 草席
-    translated: Matted straw mat or matting.
+    translated: ''
   - split: 3
     text: 可以在野外休息。
     translated: You can rest outdoors.
@@ -4734,7 +4734,7 @@
   splits:
   - split: 1
     text: 极乐枕
-    translated: Jílè zhěn (Paradise Pillow)
+    translated: Peaceful Bliss Pillow
   - split: 3
     text: 通常由黑市商人贩卖，其作用与草席同，可以在野外休息。优点是在野外拿出外覆缇花布套、内填干松稻草的极乐枕，自然较拿出一张简单草席的露宿者体面许多，唯价格较草席高昂，也不知道在野外维持谜一般的面子要干嘛。
     translated: Typically sold by black market traders, its function is similar to a straw mat and can be used for resting in the wild. Its advantage is that it appears more dignified than simply laying out a simple straw mat when taking out an outer cover made of silk brocade with inner stuffing of dry rice straw pillows in the wild; however, its price is significantly higher than that of a straw mat, and one wonders what maintaining such an enigmatic air of dignity in the wild entails.

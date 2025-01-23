@@ -58,7 +58,7 @@
   splits:
   - split: 1
     text: 富二代
-    translated: Heir to a wealthy family or second-generation rich person.
+    translated: ''
   - split: 2
     text: 获得金钱增加10%
     translated: Receive a 10% increase in money.
@@ -518,7 +518,7 @@
   splits:
   - split: 1
     text: 落地鹏
-    translated: Landfall Condor
+    translated: ''
   - split: 2
     text: 每次出招，有35%机率精力回复1点及连击率提升20%
     translated: Each time a technique is used, there is a 35% chance of restoring 1 point of energy and increasing the combo rate by 20%.
@@ -558,7 +558,7 @@
   splits:
   - split: 1
     text: 刀神
-    translated: Sword Saint
+    translated: ''
   - split: 2
     text: 所有刀法威力+70%
     translated: All sword techniques power increased by 70%.
@@ -568,7 +568,7 @@
   splits:
   - split: 1
     text: 刀狂
-    translated: Sword Frenzy
+    translated: ''
   - split: 2
     text: 所有刀法威力+40%
     translated: All sword techniques' power +40%.
@@ -598,7 +598,7 @@
   splits:
   - split: 1
     text: 四象刀
-    translated: Four Symbols Sword
+    translated: ''
   - split: 2
     text: 四象刀刀法威力+30%
     translated: 'Four Symbols Sword Form: Increases power by 30%.'
@@ -648,7 +648,7 @@
   splits:
   - split: 1
     text: 借惯了
-    translated: Borrowing habitually.
+    translated: ''
   - split: 2
     text: 偷窃被发现的机率降低50%
     translated: The likelihood of being caught stealing is reduced by 50%.
@@ -838,7 +838,7 @@
   splits:
   - split: 1
     text: 上师
-    translated: Venerable Lama or Venerable Master
+    translated: ''
   - split: 2
     text: 发动爆击时，消除自身所有负面状态25点
     translated: Activate burst attack to remove all negative conditions from oneself by 25 points.
@@ -978,7 +978,7 @@
   splits:
   - split: 1
     text: 北丑
-    translated: Northern Fool
+    translated: ''
   - split: 2
     text: 触发连击时攻击力增加100%，持续一回合
     translated: When a combo is triggered, attack power increases by 100%, lasting one turn.
@@ -1031,7 +1031,7 @@
     translated: Wuxia impediment (animate)
   - split: 2
     text: 武学障(动)
-    translated: ''
+    translated: Martial Arts Obstacle (Dynamic)
 - lineNum: 104
   raw: nick124	武学障(刚)	武学障(刚)			nick124
   translated: 
@@ -1298,7 +1298,7 @@
   splits:
   - split: 1
     text: 锦衣卫指挥使
-    translated: Jin Yi Wei Zhi Hui Shi (Commander of the Imperial Bodyguards)
+    translated: Imperial Guards Commander of the Banners and Uniforms Division
   - split: 2
     text: 每回合自身周围距离2单位内敌方，减少所有特技值10点
     translated: Each turn, reduce all skills by 10 points for enemies within a distance of 2 units from the self.
@@ -1458,7 +1458,7 @@
   splits:
   - split: 1
     text: 那个也帮我剁了
-    translated: ''
+    translated: That one helped me butcher it as well.
   - split: 2
     text: 肉铺的商品与服务八折优待！
     translated: Meat shop products and services at an 80% discount!
@@ -1558,7 +1558,7 @@
   splits:
   - split: 1
     text: 金玉满堂
-    translated: Household of gold and jade (abundant wealth)
+    translated: A house full of gold and jade.
   - split: 2
     text: 玉坊的商品与服务八折优待！
     translated: Yufang's products and services enjoy an eight percent discount!
@@ -1598,7 +1598,7 @@
   splits:
   - split: 1
     text: 「白纹」
-    translated: Bai Wen (White Pattern)
+    translated: White Pattern
   - split: 2
     text: 鳄鱼王「白纹」现在任你差遣！
     translated: Alligator King Baiwen is now at your disposal!
