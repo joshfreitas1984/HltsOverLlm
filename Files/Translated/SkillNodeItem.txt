@@ -4,7 +4,7 @@
   splits:
   - split: 1
     text: 野球拳
-    translated: ''
+    translated: Yakyuken
   - split: 2
     text: ''
     translated: ''
@@ -94,7 +94,7 @@
   splits:
   - split: 1
     text: 野球拳奥义
-    translated: Yakyūken Ougi
+    translated: Yakyuken Ougi
   - split: 2
     text: 自身圆形范围3格，中招者散功值+20。
     translated: Within a circular range of three tiles, those affected lose 20 skill points.
@@ -104,7 +104,7 @@
   splits:
   - split: 1
     text: 蓄劲
-    translated: ''
+    translated: Gather Qi
   - split: 2
     text: 威力提升
     translated: Power Enhancement
@@ -287,7 +287,7 @@
     translated: As light as the wind.
   - split: 2
     text: 松风剑附加8点晕眩
-    translated: Sōngfēng Jiàn adds an additional 8 points of dizziness.
+    translated: Songfeng Jian adds an additional 8 points of dizziness.
 - lineNum: 29
   raw: SkillTree002_006	如松之劲	松风剑的消耗精力减少1点	5000	SkillTree002_2	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Teammate			Target	0	buffSkillTree002_006	FALSE	0	None	0	0	SkillTree002_002
   translated: 
@@ -517,7 +517,7 @@
     translated: Nine Palaces Eight Trigrams Palm Technique
   - split: 2
     text: 需求武学「搏击45」，需求感悟「动：以快打慢」。出招前移动距离越长，伤害越高（每格提升3%伤害）。
-    translated: 'Requirement martial art Bòjī 45, requirement comprehension dòng: yǐ kuài dǎ màn. Before launching an attack, the farther you move, the higher the damage (damage increases by 3% per square).'
+    translated: 'Requirement martial art Boji 45, requirement comprehension dong: yi kuai da man. Before launching an attack, the farther you move, the higher the damage (damage increases by 3% per square).'
 - lineNum: 52
   raw: 'SkillTree005_001	九宫八卦掌	需求武学「搏击45」，需求感悟「巧：？？？？」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。	2400	SkillNode04	null	Active		0	skill_wp0a008	4	160	Enemy	single : { 0, 0, 0 }, 0, 1.25		Target	0	buffSkillTree005_001	FALSE	208	Fight	0	0	'
   translated: 
@@ -527,7 +527,7 @@
     translated: Nine Palaces Eight Trigrams Palm
   - split: 2
     text: 需求武学「搏击45」，需求感悟「巧：？？？？」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。
-    translated: "Requirements for the martial art Bójì 45: requires insight into Slyness: ???. Once this technique is executed, the user will always maneuver to their target's right side before attacking."
+    translated: "Requirements for the martial art Boji 45: requires insight into Slyness: ???. Once this technique is executed, the user will always maneuver to their target's right side before attacking."
 - lineNum: 53
   raw: SkillTree005_002	搏击、轻功修为		3000	SkillNode01	null	PropertyAdd	(Fight,3)(Qinggong,2)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Intelligence,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)(ZOC,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -567,7 +567,7 @@
     translated: Eight Trigrams Walking on Clouds
   - split: 2
     text: 需求武学「搏击45」，需求感悟「巧：指东打西」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。
-    translated: "The requirement for the martial art Bójì 45 is to grasp the insight of Artfulness: Hit in One Direction, Strike Another. Once this technique is executed, the user will inevitably maneuver around to their opponent's right side before launching an attack."
+    translated: "The requirement for the martial art Boji 45 is to grasp the insight of Artfulness: Hit in One Direction, Strike Another. Once this technique is executed, the user will inevitably maneuver around to their opponent's right side before launching an attack."
 - lineNum: 57
   raw: SkillTree005_006	搏击、轻功修为		3000	SkillNode01	null	PropertyAdd	(Fight,3)(Qinggong,2)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Intelligence,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)(ZOC,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -694,7 +694,7 @@
   splits:
   - split: 1
     text: 绵字诀
-    translated: ''
+    translated: Secrets of the Serpent Scripture.
   - split: 2
     text: 需求感悟「柔：」。施招者自身的伤害减免+15%
     translated: 'Requirements insight Softness: The damage reduction of the user when using this technique increases by 15%.'
@@ -804,7 +804,7 @@
   splits:
   - split: 1
     text: 分筋手法
-    translated: Fēng jīn shǒu fǎ
+    translated: Feng jin shou fa
   - split: 2
     text: 中招者，分筋值+8
     translated: Target, Division of Sinew Value +8
@@ -844,7 +844,7 @@
   splits:
   - split: 1
     text: 缠拿
-    translated: Grapple and seize.
+    translated: Grapple
   - split: 2
     text: 分筋手法的伤害增加，分筋值额外+4
     translated: Increased damage from the Division of Sinew technique; additional +4 Sinew value.
@@ -864,7 +864,7 @@
   splits:
   - split: 1
     text: 锁扣
-    translated: ''
+    translated: Clasp buckle
   - split: 2
     text: 错骨手法的伤害增加，错骨值额外+4
     translated: Damage from Faulty Bone Technique increases; additional +4 Faulty Bone value.
@@ -1084,7 +1084,7 @@
   splits:
   - split: 1
     text: 吞吐劲
-    translated: ''
+    translated: Powerful thrusting technique.
   - split: 2
     text: 若以处下不争进行反击，威力+20%
     translated: If one retaliates without engaging in argument while at a disadvantage, power increases by 20%.
@@ -1224,7 +1224,7 @@
   splits:
   - split: 1
     text: 满川桃李
-    translated: Mǎn Chuān Táo Lǐ
+    translated: Man Chuan Tao Li
   - split: 2
     text: 若学会至少二种剑法，晕眩值、迷惑值额外+2
     translated: If you master at least two sword techniques, additional +2 to dizziness value and confusion value.
@@ -1304,7 +1304,7 @@
   splits:
   - split: 1
     text: 罗汉伏虎
-    translated: Luo Han Fú Hǔ
+    translated: Luo Han Fu Hu
   - split: 2
     text: 敌人越邪恶，招式威力越强
     translated: The more evil the enemy, the stronger their techniques become.
@@ -1364,7 +1364,7 @@
   splits:
   - split: 1
     text: 摩诃无量
-    translated: Móhē Wúliàng
+    translated: Mohe Wuliang
   - split: 2
     text: 使用罗汉伏虎时降低敌人特技值。敌人越邪恶，效果越显著
     translated: Reduce enemy special skill values when using the Lohan Vohu technique. The more evil the enemies, the more significant the effect.
@@ -1597,7 +1597,7 @@
     translated: Gale Sweeps Away Scattered Clouds
   - split: 2
     text: 烈风展翼附加迷惑值10点
-    translated: Lét fēng zhǎn yì fù jiā míhuò zhí shí diǎn
+    translated: Let feng zhan yi fu jia mihuo zhi shi dian
 - lineNum: 160
   raw: SkillTree018_010	电闪雷鸣	烈风展翼附加外伤值10点	8500	SkillTree018_2	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree018_010	FALSE	0	None	0	0	SkillTree018_008
   translated: 
@@ -1654,7 +1654,7 @@
   splits:
   - split: 1
     text: 祛病诀
-    translated: ''
+    translated: Cure Disease Technique
   - split: 2
     text: 运行翠峦功时，每回合中毒程度减少10%
     translated: When activating CuiLuan Gong each turn, reduce the level of poisoning by 10%.
@@ -1714,7 +1714,7 @@
   splits:
   - split: 1
     text: 青霞诀
-    translated: ''
+    translated: Qing Xia Jue
   - split: 2
     text: 运行翠峦功时，每回合回复12%气血、12%内力
     translated: When performing the Cui Luan Gong skill each round, recover 12% of health and 12% of inner energy.
@@ -1824,7 +1824,7 @@
   splits:
   - split: 1
     text: 猛虎跳峡
-    translated: Měng hǔ tiào xiá
+    translated: Meng hu tiao xia
   - split: 2
     text: ''
     translated: ''
@@ -2144,7 +2144,7 @@
   splits:
   - split: 1
     text: 虎步关右
-    translated: Húbù Guānyòu
+    translated: Hubu Guanyou
   - split: 2
     text: 击退
     translated: Repel
@@ -2214,7 +2214,7 @@
   splits:
   - split: 1
     text: 野猪超猛击
-    translated: Yězhū Chāomèng Jījí
+    translated: Yezhu Chaomeng Jiji
   - split: 2
     text: 冲锋
     translated: Chongfeng
@@ -2454,7 +2454,7 @@
   splits:
   - split: 1
     text: 豹爪
-    translated: ''
+    translated: Claw of the Leopard
   - split: 2
     text: 外伤值+3
     translated: External Damage Value +3
@@ -2474,7 +2474,7 @@
   splits:
   - split: 1
     text: 鳄鱼咬
-    translated: ''
+    translated: Crocodile Bite
   - split: 2
     text: 外伤值+5
     translated: External Damage Value +5
@@ -2534,7 +2534,7 @@
   splits:
   - split: 1
     text: 入密林
-    translated: ''
+    translated: Enter the deep woods.<br>
   - split: 2
     text: 密林掷雀的消耗精力减少1点
     translated: The energy cost of throwing a sparrow in dense forests is reduced by 1 point.
@@ -2634,7 +2634,7 @@
   splits:
   - split: 1
     text: 佛道剑
-    translated: ''
+    translated: Buddhist Martial Arts
   - split: 2
     text: 以其利断金、风雨同舟反击时，威力增强
     translated: With its benefits cutting through metal; in times of adversity, unite as a team to launch a counterattack, strength is enhanced.
@@ -2744,10 +2744,10 @@
   splits:
   - split: 1
     text: 五罗轻烟
-    translated: Wǔ luó qīng yān
+    translated: Wu luo qing yan
   - split: 2
     text: 运行段家心法时，增强其利断金、风雨同舟与截脉指的招式威力
-    translated: 'When activating the Duan Family Heart Method, enhance the power of its techniques: Li Duàn Jīn, Fēng Yǔ Tóng Zhōu, and Jié Mài Zhǐ.'
+    translated: 'When activating the Duan Family Heart Method, enhance the power of its techniques: Li Duan Jin, Feng Yu Tong Zhou, and Jie Mai Zhi.'
 - lineNum: 275
   raw: SkillTree037_008	内功修为		3000	skillIcon007_5	null	PropertyAdd	(Neigong,3)	0		0	0	Ally			Target	0	buffSkillTree037_008	FALSE	0	None	0	0
   translated: 
@@ -3077,7 +3077,7 @@
     translated: Pure Yang One Qi
   - split: 2
     text: 游龙摆尾的消耗内力减半
-    translated: Consumption of internal energy reduced by half when performing Yóu Lóng Bǎi Wěi.
+    translated: Consumption of internal energy reduced by half when performing You Long Bai Wei.
 - lineNum: 308
   raw: SkillTree041_006	腾龙若云	以游龙摆尾反击时，伤害增加25%游龙摆尾的威力增强	1500	SkillTree041_2	[{"Type":2,"Value1":"0","Value2":"1_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree041_006	FALSE	0	None	0	0	SkillTree041_003
   translated: 
@@ -3424,7 +3424,7 @@
   splits:
   - split: 1
     text: 风萧萧
-    translated: Windy and desolate.
+    translated: Winds whispering softly through the trees.
   - split: 2
     text: ''
     translated: ''
@@ -3477,14 +3477,14 @@
     translated: A large banner rides on the wind.
   - split: 2
     text: 易水寒的消耗精力减少1点
-    translated: Yìshuǐ Hán's consumption of Qi is reduced by 1 point.
+    translated: Yishui Han's consumption of Qi is reduced by 1 point.
 - lineNum: 348
   raw: SkillTree045_006	临威不惊	以易水寒反击时，伤害增加25%	1500	SkillTree045_2	[{"Type":2,"Value1":"0","Value2":"1_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree045_006	FALSE	0	None	0	0	SkillTree045_003
   translated: 
   splits:
   - split: 1
     text: 临威不惊
-    translated: Lín Wēi bù jīng.
+    translated: Lin Wei bu jing.
   - split: 2
     text: 以易水寒反击时，伤害增加25%
     translated: During the counterattack at Yishui Han, damage increased by 25%.
@@ -3497,7 +3497,7 @@
     translated: The waters of Yi River remain cold.
   - split: 2
     text: 易水寒的攻击范围增加
-    translated: Yìshuǐ Hán's attack range increased.
+    translated: Yishui Han's attack range increased.
 - lineNum: 350
   raw: SkillTree045_008	慷慨送行	易水寒的消耗内力减半	1500	SkillTree045_2	[{"Type":2,"Value1":"0","Value2":"3_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree045_008	FALSE	0	None	0	0	SkillTree045_003
   translated: 
@@ -3517,7 +3517,7 @@
     translated: The Brave Sever Their Own Arms
   - split: 2
     text: 易水寒的威力增强
-    translated: The power of Yìshuǐ Hán has been enhanced.
+    translated: The power of Yishui Han has been enhanced.
 - lineNum: 352
   raw: SkillTree046_000	正气歌诀	运行正气歌时，每回合恢复自身内力值6%	2000	SkillTree046_000	[{"Type":1,"Value1":"309","Value2":"15","Operator":0}]	Operative		0		0	0	Ally			Target	0	buffSkillTree046_000	FALSE	0	Other	0	SkillTree046_000
   translated: 
@@ -3624,7 +3624,7 @@
   splits:
   - split: 1
     text: 黑煞势
-    translated: ''
+    translated: Dark Vengeance Sect
   - split: 2
     text: 自身越邪恶，阴风骤起的威力越强
     translated: The more evil one is, the stronger the power of a sudden gust of sinister wind.
@@ -3764,7 +3764,7 @@
   splits:
   - split: 1
     text: 杀生簿
-    translated: ''
+    translated: Killing Ledger
   - split: 2
     text: 若使用阎王投令从侧面攻击等级比自己低的敌人，有机率造成敌人立即死亡
     translated: If using Yama King's decree to attack enemies with a lower level from the side, there is a chance to instantly kill the enemy.
@@ -3814,7 +3814,7 @@
   splits:
   - split: 1
     text: 暗器修为
-    translated: Mén qì xiū wéi
+    translated: Men qi xiu wei
   - split: 2
     text: ''
     translated: ''
@@ -3834,7 +3834,7 @@
   splits:
   - split: 1
     text: 丧门飞星
-    translated: Sāngmén Fēixīng
+    translated: Sangmen Feixing
   - split: 2
     text: 若施展丧门飞星，发动连击后有50%机率回复自身1点精力
     translated: If you use Ghost's Shooting Star and follow up with a combo, there is a 50% chance to recover 1 point of energy for yourself.
@@ -3907,7 +3907,7 @@
     translated: Restless spirit
   - split: 2
     text: 若施展丧门飞星，发动虚招后有50%机率回复自身1点精力
-    translated: If you perform Sāngmén Fēixīng and initiate a feint, there is a 50% chance to restore 1 point of Qi to yourself.
+    translated: If you perform Sangmen Feixing and initiate a feint, there is a 50% chance to restore 1 point of Qi to yourself.
 - lineNum: 391
   raw: 'SkillTree049_011	追魂七破	若施展追魂七破，发动连击后回复自身2点精力	16000	SkillTree049_011	[{"Type":1,"Value1":"305","Value2":"70","Operator":0}]	Active		0	skill_wp0c004	9	540	Enemy	movecircle : { 0, 0, 0 }, 7, 2	fm_atk_arrow	Target	0	buffSkillTree049_011	FALSE	567	Arrow	-0.5	0	'
   translated: 
@@ -4124,10 +4124,10 @@
   splits:
   - split: 1
     text: 混元功
-    translated: ''
+    translated: Hunyuan Gong
   - split: 2
     text: 运行混元功时，每回合回复精力增加1点、增强混元掌的招式威力
-    translated: While practicing Hún Yuán Gōng each turn, recover 1 point of energy and increase the power of Hún Yuán Zhǎng techniques.
+    translated: While practicing Hun Yuan Gong each turn, recover 1 point of energy and increase the power of Hun Yuan Zhang techniques.
 - lineNum: 413
   raw: SkillTree053_001	搏击、内功修为	搏击+2、内功+2	6000	skillIcon002_1	null	PropertyAdd	(Neigong,2)(Fight,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -4177,7 +4177,7 @@
     translated: Primordial Unity of Qi
   - split: 2
     text: 运行混元功时，每回合回复精力增加2点
-    translated: During each round of using Hùnyuán Gōng, regenerate 2 points of energy.
+    translated: During each round of using Hunyuan Gong, regenerate 2 points of energy.
 - lineNum: 418
   raw: 'SkillTree053_010	混元掌	运行混元功时，每回合回复精力增加2点；混元掌附加的内伤值增加6点	10000	SkillTree053_010	null	Active		0	skill_wp0a051	6	270	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	1000	injured06	TRUE	468	Fight	0.5	SkillTree053_010	'
   translated: 
@@ -4187,7 +4187,7 @@
     translated: ''
   - split: 2
     text: 运行混元功时，每回合回复精力增加2点；混元掌附加的内伤值增加6点
-    translated: When performing the Hùnyuán Gōng each turn, energy recovery increases by 2 points; internal injury inflicted by the Hùnyuán Zhǎng increases by 6 points.
+    translated: When performing the Hunyuan Gong each turn, energy recovery increases by 2 points; internal injury inflicted by the Hunyuan Zhang increases by 6 points.
 - lineNum: 419
   raw: SkillTree053_011	内功修为		3200	skillIcon002_3	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree053_011	FALSE	0	None	0	0
   translated: 
@@ -4264,7 +4264,7 @@
   splits:
   - split: 1
     text: 双地
-    translated: Double Land
+    translated: Double Earths
   - split: 2
     text: 天字九打额外附加4点迷惑值
     translated: Nine-Tailed Fox gains an additional 4 points of confusion.
@@ -5007,14 +5007,14 @@
     translated: Fierce Dragon
   - split: 2
     text: 银龙远鸣的威力提升
-    translated: The power enhancement of Yínlóng Yuǎnmíng's roar.
+    translated: The power enhancement of Yinlong Yuanming's roar.
 - lineNum: 501
   raw: SkillTree070_007	盘龙	银龙远鸣的功击范围增加	2400	SkillTree070	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree070_007	FALSE	0	None	0	0	SkillTree070_001
   translated: 
   splits:
   - split: 1
     text: 盘龙
-    translated: Pán Lóng
+    translated: Pan Long
   - split: 2
     text: 银龙远鸣的功击范围增加
     translated: The range of Silver Dragon's Kung Fu attacks has increased.
@@ -5024,7 +5024,7 @@
   splits:
   - split: 1
     text: 瑶光破军
-    translated: Dissolving of Yáoguāng's army
+    translated: Dissolving of Yaoguang's army
   - split: 2
     text: ''
     translated: ''
@@ -5054,7 +5054,7 @@
   splits:
   - split: 1
     text: 玉衡廉贞
-    translated: Yuheng Liánzhēn
+    translated: Yuheng Lianzhen
   - split: 2
     text: 剑法+4，每回合尚未移动前施展瑶光破军，威力提升6%
     translated: 'Sword skill +4, before moving each turn, perform Shenyang Poyong: power increased by 6%.'
@@ -5087,7 +5087,7 @@
     translated: Tianxuan Jumen
   - split: 2
     text: 剑法+4，每回合尚未移动前施展瑶光破军，威力提升15%
-    translated: Swordplay +4, if cast Yáoguāng Pòjūn before moving this turn, its power is increased by 15%.
+    translated: Swordplay +4, if cast Yaoguang Pojun before moving this turn, its power is increased by 15%.
 - lineNum: 509
   raw: 'SkillTree072_000	饥餐胡虏肉		4000	SkillTree072_000	[]	Active		0	skill_wp0a042	4	80	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	0		TRUE	208	Fight	0.5	SkillTree072_000	'
   translated: 
@@ -5634,7 +5634,7 @@
   splits:
   - split: 1
     text: 刚勇
-    translated: Gāng Yǒng
+    translated: Gang Yong
   - split: 2
     text: 额外增加自身的累积暴击率5点
     translated: Add an additional 5 points to your accumulated critical hit rate.
@@ -5644,7 +5644,7 @@
   splits:
   - split: 1
     text: 稳健
-    translated: Steady and robust
+    translated: Steadfast
   - split: 2
     text: 施展天南势后，5回合内抵御6点迷惑、晕眩值
     translated: After casting Tian Nan Fei, resist 6 points of confusion and dizziness within the next 5 rounds.
@@ -5837,7 +5837,7 @@
     translated: Solitary Bamboo Whistling
   - split: 2
     text: 若以严冰肃冬作为反击技，每回合额外累积反击率6点
-    translated: If Yán Bīng Sù Dōng is used as a counterattack skill, accumulate an additional 6 points of counterattack rate each turn.
+    translated: If Yan Bing Su Dong is used as a counterattack skill, accumulate an additional 6 points of counterattack rate each turn.
 - lineNum: 584
   raw: SkillTree081_008	铁枝缀玉	若施展严冰肃冬，自身卸劲率提升5点	4500	SkillTree081	[{"Type":2,"Value1":"0","Value2":"3_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree081_008	FALSE	0	None	0	0	SkillTree081_000
   translated: 
@@ -5847,7 +5847,7 @@
     translated: Iron branch grafted with jade
   - split: 2
     text: 若施展严冰肃冬，自身卸劲率提升5点
-    translated: If you deploy Yán Bīng Sù Dōng, your own ability to release power is increased by 5 points.
+    translated: If you deploy Yan Bing Su Dong, your own ability to release power is increased by 5 points.
 - lineNum: 585
   raw: 'SkillTree082_000	明玕如是		4000	SkillTree082_000	[]	Active		0	skill_wp0a038	5	200	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	0		TRUE	300	Fight	-0.5	0	'
   translated: 
@@ -5874,7 +5874,7 @@
   splits:
   - split: 1
     text: 云雨巫山一夜欢
-    translated: Yún yǔ wū shān yī yè huān
+    translated: Yun yu wu shan yi ye huan
   - split: 2
     text: 晕眩、迷惑
     translated: Dizziness, confusion.
@@ -6294,7 +6294,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuányīn nèigōng
+    translated: Xuanyin neigong
   - split: 2
     text: ''
     translated: ''
@@ -6304,7 +6304,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuányīn nèigōng
+    translated: Xuanyin neigong
   - split: 2
     text: ''
     translated: ''
@@ -6354,7 +6354,7 @@
   splits:
   - split: 1
     text: 飞雪
-    translated: Fēi xuě
+    translated: Fei xue
   - split: 2
     text: 飞雪神箭额外附加5点外伤值
     translated: Flying Snow Divine Arrow adds an extra 5 points of external injury value.
@@ -6444,7 +6444,7 @@
   splits:
   - split: 1
     text: 银月鸩羽
-    translated: Yín Yuè Zhèn Yǔ
+    translated: Yin Yue Zhen Yu
   - split: 2
     text: 若装备鸩翎，施展碧蛇刀所造成的伤害增加
     translated: If equipped with Zhen Ling, damage inflicted by the Bi She Dao increases.
@@ -6487,7 +6487,7 @@
     translated: Snake shadow ten thousand times.
   - split: 2
     text: 碧蛇刀附加迷惑值8点
-    translated: Bìshédāo adds an additional 8 points of confusion value.
+    translated: Bishedao adds an additional 8 points of confusion value.
 - lineNum: 649
   raw: SkillTree089_011	刀法修为		2000	skillIcon005_5	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -6584,7 +6584,7 @@
   splits:
   - split: 1
     text: 瘟灾
-    translated: ''
+    translated: Epidemic plague
   - split: 2
     text: 严冬惨切的中毒值额外增加4点
     translated: Harsh winter severity increases poison damage by an additional 4 points.
@@ -6614,7 +6614,7 @@
   splits:
   - split: 1
     text: 凛冽
-    translated: ''
+    translated: Bracing chilliness.
   - split: 2
     text: 严冬惨切的冰封值额外增加4点
     translated: The severe cold binds with an additional penalty of 4 points.
@@ -6854,10 +6854,10 @@
   splits:
   - split: 1
     text: 迅牙红爪
-    translated: Xùn Yá Hóng Zhǎo
+    translated: Xun Ya Hong Zhao
   - split: 2
     text: 冲锋
-    translated: ''
+    translated: Charge
 - lineNum: 686
   raw: 'SkillTree094_001	点豹斑	外伤	8000	SkillTree094_001	[{"Type":1,"Value1":"304","Value2":"50","Operator":0},{"Type":1,"Value1":"310","Value2":"50","Operator":0}]	Active		1	skill_wp3c010	5	250	Enemy	rect : { 0, 0, 0 }, 0, 2.5, 0, 0.3	fm_atk_rect	Target	0	wounded06	TRUE	250	Spear	-0.5	SkillTree094_001	'
   translated: 
@@ -7054,7 +7054,7 @@
   splits:
   - split: 1
     text: 玄武天威
-    translated: Xuán Wǔ Tiān Wēi
+    translated: Xuan Wu Tian Wei
   - split: 2
     text: 击退敌人，并降低中招敌人的特技值
     translated: Repel enemies and reduce the skill value of affected enemies.
@@ -7244,7 +7244,7 @@
   splits:
   - split: 1
     text: 菩斯曲蛇
-    translated: Pusī Qūshé
+    translated: Pusi Qushe
   - split: 2
     text: 可捕捉菩斯曲蛇并炼制菩斯曲蛇毒
     translated: Can capture Bao Si Qu snake and refine Bao Si Qu snake venom.
@@ -7424,7 +7424,7 @@
   splits:
   - split: 1
     text: 茫渺渺
-    translated: Boundless and boundlessly vast.
+    translated: Vastly vast
   - split: 2
     text: 浑沌未明的威力提升30点
     translated: Power increase of 30 points when chaos has not yet cleared.
@@ -7474,7 +7474,7 @@
   splits:
   - split: 1
     text: 辟天地
-    translated: Open up heaven and earth
+    translated: ''
   - split: 2
     text: 开辟鸿蒙的范围扩大
     translated: Expand the scope of establishing Primordial Chaos.
@@ -7914,7 +7914,7 @@
   splits:
   - split: 1
     text: 一刀
-    translated: ''
+    translated: One Strike
   - split: 2
     text: ''
     translated: ''
@@ -7994,7 +7994,7 @@
   splits:
   - split: 1
     text: 五郎棍
-    translated: Wǔ Láng Gùn
+    translated: Wu Lang Gun
   - split: 2
     text: ''
     translated: ''
@@ -8054,7 +8054,7 @@
   splits:
   - split: 1
     text: 缠枝一抽魂不在
-    translated: Chánzhī yī chōu hún bù zài.
+    translated: Chanzhi yi chou hun bu zai.
   - split: 2
     text: 以五郎棍反击时，伤害增加25%
     translated: When using a Five-Section Staff to counterattack, damage is increased by 25%.
@@ -8117,7 +8117,7 @@
     translated: Falling Geese and Plum Blossoms
   - split: 2
     text: 枪棍
-    translated: ''
+    translated: Gunstick
 - lineNum: 812
   raw: SkillTree110_001	枪棍修为		4000	skillIcon001_5	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -8594,10 +8594,10 @@
   splits:
   - split: 1
     text: 含沙
-    translated: Scatter Sand
+    translated: Speaking ill of someone behind their back.
   - split: 2
     text: 若以含沙射影为反击技，则黄雀在后的发动机率提升5%
-    translated: If using Hán Shā Shè Yǐng as a counterattack technique, the activation rate of Huáng Què Zài Hòu is increased by 5%.
+    translated: If using Han Sha She Ying as a counterattack technique, the activation rate of Huang Que Zai Hou is increased by 5%.
 - lineNum: 860
   raw: SkillTree115_004	暗器修为		3000	skillIcon001_1	[]	PropertyAdd	(Arrow,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -8624,7 +8624,7 @@
   splits:
   - split: 1
     text: 鬼蜮
-    translated: Ghosts and demons
+    translated: Ghost Snakes
   - split: 2
     text: 若以鬼蜮难测为反击技，则黄雀在后的发动机率提升5%
     translated: If Ghost Snake's Unpredictability is used as a counter-attack technique, then the activation rate of Wagtail Behind increases by 5%.
@@ -8854,7 +8854,7 @@
   splits:
   - split: 1
     text: 觔斗法
-    translated: ''
+    translated: Girdle Star Technique
   - split: 2
     text: 可移动至自身8单位距离内的任一位置
     translated: Can be moved to any position within 8 units of distance from itself.
@@ -8957,14 +8957,14 @@
     translated: Stepping on the Eight Trigrams
   - split: 2
     text: 八卦游龙掌攻击后，30%机率恢复自身精力1点
-    translated: After the Bāguà Yóulóng Zhuàng attack, there is a 30% chance to recover 1 point of own Qi.
+    translated: After the Bagua Youlong Zhuang attack, there is a 30% chance to recover 1 point of own Qi.
 - lineNum: 896
   raw: SkillTree121_005	身行九宫	八卦游龙掌攻击后，对目标附加晕眩4点	2500	SkillTree121	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree121_005	FALSE	0	None	0	0	SkillTree121_000
   translated: 
   splits:
   - split: 1
     text: 身行九宫
-    translated: ''
+    translated: The Nine Palaces of Movement
   - split: 2
     text: 八卦游龙掌攻击后，对目标附加晕眩4点
     translated: After the Eight Trigrams Rolling Dragon Palm attack, apply dizziness with a value of 4 to the target.
@@ -9124,7 +9124,7 @@
   splits:
   - split: 1
     text: 怒川游鱼掌
-    translated: Nù Chuān Yóu Yú Zhǎng
+    translated: Nu Chuan You Yu Zhang
   - split: 2
     text: ''
     translated: ''
@@ -9157,7 +9157,7 @@
     translated: Unendingly flowing like a river.
   - split: 2
     text: 怒川游鱼掌额外附加5点内伤
-    translated: Nù Chuān Yóuyú Zhǎng extra adds 5 internal injuries.
+    translated: Nu Chuan Youyu Zhang extra adds 5 internal injuries.
 - lineNum: 916
   raw: SkillTree123_004	河底摸鱼	怒川游鱼掌额外附加5点晕眩	4500	SkillTree123	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree123_004	FALSE	0	None	0	0	SkillTree123_000
   translated: 
@@ -9167,7 +9167,7 @@
     translated: Diving for fish at the river bottom.
   - split: 2
     text: 怒川游鱼掌额外附加5点晕眩
-    translated: Nù Chuān Yóu Yú Zhǎng E Wài Fù Jiā 5 Diǎn Yūn Xuán
+    translated: Nu Chuan You Yu Zhang E Wai Fu Jia 5 Dian Yun Xuan
 - lineNum: 917
   raw: SkillTree123_005	搏击修为		3000	skillIcon003_5	[]	PropertyAdd	(Fight,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -9477,7 +9477,7 @@
     translated: Single-handedly raise a toast with a waist-breaking force.
   - split: 2
     text: 冲锋
-    translated: ''
+    translated: Charge
 - lineNum: 948
   raw: SkillTree126_007	剑法修为		4000	skillIcon004_5	[]	PropertyAdd	(Sword,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -9514,7 +9514,7 @@
   splits:
   - split: 1
     text: 如燕诀
-    translated: Rú yàn jué
+    translated: Ru yan jue
   - split: 2
     text: 施展如燕诀后，4回合内增加闪避率5%
     translated: After applying the Feather Technique by Shi Zhan, increase evasion rate by 5% within 4 rounds.
@@ -9587,7 +9587,7 @@
     translated: Turning stones into gold.
   - split: 2
     text: 阳煦山立额外增加3点封穴值
-    translated: Yáng Xù shān lì é wài zēng jiā sān diǎn fēng xuè zhí。
+    translated: Yang Xu shan li e wai zeng jia san dian feng xue zhi。
 - lineNum: 959
   raw: SkillTree128_003	封金挂印	阳煦山立额外增加3点封穴值	2000	SkillTree128	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree128_003	FALSE	0	None	0	0	SkillTree128_000
   translated: 
@@ -9597,7 +9597,7 @@
     translated: Seal a document with a golden seal.
   - split: 2
     text: 阳煦山立额外增加3点封穴值
-    translated: Yáng Xù Shān Lì added an extra 3 points of binding skill value.
+    translated: Yang Xu Shan Li added an extra 3 points of binding skill value.
 - lineNum: 960
   raw: 'SkillTree128_004	朝阳丹凤		9000	SkillTree128_004	[]	Active		0	skill_wp0a057	6	270	Enemy	single : { 0, 0, 0 }, 0, 2.5		Target	0	sealed15	FALSE	432	Fight	0.5	SkillTree128_004	'
   translated: 
@@ -9764,7 +9764,7 @@
   splits:
   - split: 1
     text: 斗折蛇行
-    translated: Dòuzhé shéxíng
+    translated: Douzhe shexing
   - split: 2
     text: ''
     translated: ''
@@ -9774,7 +9774,7 @@
   splits:
   - split: 1
     text: 斗折
-    translated: Dòuzhé
+    translated: Douzhe
   - split: 2
     text: 斗折蛇行的消耗精力减少1点
     translated: The energy cost of drunken snake movement is reduced by 1 point.
@@ -9784,7 +9784,7 @@
   splits:
   - split: 1
     text: 蛇行
-    translated: ''
+    translated: Serpentine motion.
   - split: 2
     text: 斗折蛇行附加8点晕眩、8点迷惑
     translated: 'Dragon-Folding Serpent March: Add 8 points of dizziness and 8 points of confusion.'
@@ -9864,7 +9864,7 @@
   splits:
   - split: 1
     text: 晔兮如华
-    translated: Yè xī rú huá.
+    translated: Ye xi ru hua.
   - split: 2
     text: 软玉温香附加4点迷惑值
     translated: Soft Jade with Warm Fragrance adds 4 points of confusion value.
@@ -10094,7 +10094,7 @@
   splits:
   - split: 1
     text: 地才
-    translated: ''
+    translated: Martial Talent
   - split: 2
     text: 奇门三才刀的招式伤害提升90点
     translated: The damage of Qingmen Sanci Sword's techniques increases by 90 points.
@@ -10104,7 +10104,7 @@
   splits:
   - split: 1
     text: 人才
-    translated: ''
+    translated: Talented individual
   - split: 2
     text: 若施展奇门三才刀，自身虚招值提升6点
     translated: If you use the Three Talents Sword from Qi Men, your own feigned moves boost by 6 points.
@@ -10144,7 +10144,7 @@
   splits:
   - split: 1
     text: 六合刀
-    translated: Luòhé Dāo
+    translated: Luohe Dao
   - split: 2
     text: ''
     translated: ''
@@ -10194,7 +10194,7 @@
   splits:
   - split: 1
     text: 玄武
-    translated: Xuánwǔ
+    translated: Xuanwu
   - split: 2
     text: 六合刀、四象刀的消耗内力减半
     translated: Six Harmonies Sword, Four Symbols Sword reduces internal force consumption by half.
@@ -10337,7 +10337,7 @@
     translated: Ripples ripple tumultuously.
   - split: 2
     text: 刀法
-    translated: ''
+    translated: Fencing technique
 - lineNum: 1034
   raw: SkillTree137_001	刀法修为		3000	skillIcon005_5	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -10354,10 +10354,10 @@
   splits:
   - split: 1
     text: 蛟龙出水
-    translated: Jiāolóng chū shuǐ
+    translated: Jiaolong chu shui
   - split: 2
     text: 刀法
-    translated: ''
+    translated: Fencing technique
 - lineNum: 1036
   raw: SkillTree137_003	刀法修为		3000	skillIcon001_1	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -10484,7 +10484,7 @@
   splits:
   - split: 1
     text: 生死符
-    translated: Death-and-life talisman
+    translated: ''
   - split: 2
     text: ''
     translated: ''
@@ -10517,7 +10517,7 @@
     translated: Contend with the Qixing Star Kicks
   - split: 2
     text: 腿法
-    translated: ''
+    translated: Leg Techniques
 - lineNum: 1052
   raw: SkillTree139_001	搏击修为		4000	skillIcon001_5	[]	PropertyAdd	(Fight,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0
   translated: 
@@ -10764,7 +10764,7 @@
   splits:
   - split: 1
     text: 破剑
-    translated: ''
+    translated: Broken Blade
   - split: 2
     text: ''
     translated: ''
@@ -10774,7 +10774,7 @@
   splits:
   - split: 1
     text: 破刀
-    translated: ''
+    translated: Broken Blade
   - split: 2
     text: ''
     translated: ''
@@ -10834,7 +10834,7 @@
   splits:
   - split: 1
     text: 千堆雪
-    translated: Thousand Piles of Snow
+    translated: ''
   - split: 2
     text: 自身轻功越高，千堆雪的威力越强
     translated: The higher one's martial skill in lightness, the stronger the power of Qi Snow Thousand Piles.
@@ -10864,7 +10864,7 @@
   splits:
   - split: 1
     text: 凌波行
-    translated: ''
+    translated: Lingbo Xing
   - split: 2
     text: 5回合内，增加自身轻功25点
     translated: Within five rounds, increase your own Qi by 25 points.
@@ -10934,7 +10934,7 @@
   splits:
   - split: 1
     text: 摧坚诀
-    translated: ''
+    translated: The Art of Shattering the Strong
   - split: 2
     text: 运行九阴神功时，自身攻击力提升
     translated: When activating Nine Yin Divine Skill, self-attack power increases.
@@ -10984,7 +10984,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèigōng
+    translated: Xuan Yin Neigong
   - split: 2
     text: ''
     translated: ''
@@ -10994,7 +10994,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuányīn nèigōng
+    translated: Xuanyin neigong
   - split: 2
     text: ''
     translated: ''
@@ -11004,7 +11004,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuányīn nèigōng
+    translated: Xuanyin neigong
   - split: 2
     text: ''
     translated: ''
@@ -11014,7 +11014,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèi Gōng
+    translated: Xuan Yin Nei Gong
   - split: 2
     text: ''
     translated: ''
@@ -11104,7 +11104,7 @@
   splits:
   - split: 1
     text: 迁识
-    translated: Recognize and understand.
+    translated: Perception Shift
   - split: 2
     text: 运行那洛六法时，每回合增加自身爆击发动率6点
     translated: When using Nuo Luo Six Law, increase your critical hit activation rate by 6 points each turn.
@@ -11134,7 +11134,7 @@
   splits:
   - split: 1
     text: 光明
-    translated: ''
+    translated: Luminous Brightness
   - split: 2
     text: 运行那洛六法时，每回合增加自身反击发动率6点
     translated: When activating Lo Luo Six Law, increase your counterattack activation rate by 6 points each turn.
@@ -11394,7 +11394,7 @@
   splits:
   - split: 1
     text: 九转彤云丹
-    translated: Jiǔ zhuàn tóng yún dān
+    translated: Jiu zhuan tong yun dan
   - split: 2
     text: 学会九转彤云丹的配方
     translated: Learn the recipe for Jiu Zhuang Tongyun Dan.
@@ -11424,10 +11424,10 @@
   splits:
   - split: 1
     text: 承气饮
-    translated: ''
+    translated: Cheng Qi Yin
   - split: 2
     text: 学会承气饮的配方
-    translated: Learn the prescription formula for Chángqì Yǐn.
+    translated: Learn the prescription formula for Changqi Yin.
 - lineNum: 1143
   raw: SkillTree151_001	医术修为	医术+3	1800	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Enemy			Target	0	buffSkillTree151_001	FALSE	0	Less	0	0
   translated: 
@@ -11637,7 +11637,7 @@
     translated: Wei Nan has a winnowing basket.
   - split: 2
     text: 若以斗转星移作为反击技，每回合额外累积25点反击值
-    translated: If using Dòuzhuǎn Xīnyí as a counterattack technique, an additional 25 points of counterattack value are accumulated each round.
+    translated: If using Douzhuan Xinyi as a counterattack technique, an additional 25 points of counterattack value are accumulated each round.
 - lineNum: 1164
   raw: SkillTree153_002	维北有斗	若以斗转星移作为反击技，每次受击额外累积25点反击值	10000	SkillTree153	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree153_002	FALSE	0	None	0	0	SkillTree153_000
   translated: 
@@ -11794,7 +11794,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèigōng
+    translated: Xuan Yin Neigong
   - split: 2
     text: ''
     translated: ''
@@ -11804,7 +11804,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèi Gōng
+    translated: Xuan Yin Nei Gong
   - split: 2
     text: ''
     translated: ''
@@ -11834,7 +11834,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèi Gōng
+    translated: Xuan Yin Nei Gong
   - split: 2
     text: ''
     translated: ''
@@ -11854,7 +11854,7 @@
   splits:
   - split: 1
     text: 猩猩拳
-    translated: ''
+    translated: Tiger Fist
   - split: 2
     text: ''
     translated: ''
@@ -11984,7 +11984,7 @@
   splits:
   - split: 1
     text: 欺佛祖
-    translated: ''
+    translated: Defy the Buddha
   - split: 2
     text: 沙门天孤星、落发闹禅林额外附加击退时序效果
     translated: Shamen Tiangu Xing, Luofa Naochanlin extra add-on effect for dispelling timing sequence.
@@ -12134,7 +12134,7 @@
   splits:
   - split: 1
     text: 推云手
-    translated: Pushing Cloud Hands
+    translated: Pushing Clouds Technique
   - split: 2
     text: 反击时额外造成敌人12点内伤
     translated: Inflict an additional 12 points of internal damage on enemies during a counterattack.
@@ -12174,7 +12174,7 @@
   splits:
   - split: 1
     text: 雁翅式
-    translated: ''
+    translated: Swan-wing style
   - split: 2
     text: 反击时额外造成敌人16点内伤
     translated: During a counterattack, it additionally causes the enemy 16 points of internal damage.
@@ -12184,7 +12184,7 @@
   splits:
   - split: 1
     text: 太清罡气
-    translated: Tàiqīng Gāng Qì
+    translated: Taiqing Gang Qi
   - split: 2
     text: 每回合回复气血4%，回复内伤8%
     translated: Restore 4% of your health per turn, restore 8% of your internal injuries per turn.
@@ -12314,7 +12314,7 @@
   splits:
   - split: 1
     text: 碧蚕蛊毒
-    translated: Bì cán gǔ dú
+    translated: Bi can gu du
   - split: 2
     text: 可炼制碧蚕蛊毒。若行囊中有碧蚕蛊毒，则施展此招式时对敌方造成75点中毒
     translated: Can forge Green Silkworm Poison. If the green silkworm poison is in your bag, then upon using this technique it will inflict 75 points of poisoning on the enemy.
@@ -12374,7 +12374,7 @@
   splits:
   - split: 1
     text: 生生造化丹
-    translated: Shēng shēng zàohuá dān
+    translated: Sheng sheng zaohua dan
   - split: 2
     text: 学会生生造化丹的配方
     translated: Learning the formula for creating life and transformation elixir.
@@ -12454,7 +12454,7 @@
   splits:
   - split: 1
     text: 烁石流金
-    translated: Shuò shí liú jīn
+    translated: Shuo shi liu jin
   - split: 2
     text: ''
     translated: ''
@@ -12504,7 +12504,7 @@
   splits:
   - split: 1
     text: 洗髓
-    translated: ''
+    translated: Purging the Marrow
   - split: 2
     text: ''
     translated: ''
@@ -12584,7 +12584,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèi Gōng
+    translated: Xuan Yin Nei Gong
   - split: 2
     text: ''
     translated: ''
@@ -12594,7 +12594,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèigōng
+    translated: Xuan Yin Neigong
   - split: 2
     text: ''
     translated: ''
@@ -12614,7 +12614,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèi Gōng
+    translated: Xuan Yin Nei Gong
   - split: 2
     text: ''
     translated: ''
@@ -12624,7 +12624,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuányīn Nèigōng
+    translated: Xuanyin Neigong
   - split: 2
     text: ''
     translated: ''
@@ -12694,7 +12694,7 @@
   splits:
   - split: 1
     text: 少冲
-    translated: ''
+    translated: Young Brother Shao Chong
   - split: 2
     text: 降低对手的累积卸劲值
     translated: Reduce the opponent's cumulative discharge value.
@@ -12984,7 +12984,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuányīn Neigōng
+    translated: Xuanyin Neigong
   - split: 2
     text: ''
     translated: ''
@@ -12994,7 +12994,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèi Gōng
+    translated: Xuan Yin Nei Gong
   - split: 2
     text: ''
     translated: ''
@@ -13014,7 +13014,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèi Gōng
+    translated: Xuan Yin Nei Gong
   - split: 2
     text: ''
     translated: ''
@@ -13044,7 +13044,7 @@
   splits:
   - split: 1
     text: 不见参商
-    translated: Not seeing Shang Sān.
+    translated: Not seeing Shang San.
   - split: 2
     text: 若运行离合参商，发动借力打力时，将自身所受的伤害悉数返还对方
     translated: If you execute the Running Liaochan strategy while using counterforce during an attack, all damage inflicted upon yourself will be returned to your opponent.
@@ -13054,7 +13054,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèi Gōng
+    translated: Xuan Yin Nei Gong
   - split: 2
     text: ''
     translated: ''
@@ -13074,7 +13074,7 @@
   splits:
   - split: 1
     text: 夺魄
-    translated: ''
+    translated: Seize the soul.
   - split: 2
     text: 有机率能控制敌人5个回合，内功差距越大，成功率越高。同一时间至多控制2人
     translated: There is a chance to control an enemy for 5 turns; the higher the difference in internal power, the greater the success rate. At most, two people can be controlled at the same time.
@@ -13114,7 +13114,7 @@
   splits:
   - split: 1
     text: 先天功
-    translated: ''
+    translated: Innate Skill
   - split: 2
     text: 每回合回复气血12%，回复内伤24%；可于战斗中复活一次，复活同时回复气血40%
     translated: Each round restores 12% HP, heals internal injuries by 24%; can revive once during battle, with revival restoring 40% HP.
@@ -13214,7 +13214,7 @@
   splits:
   - split: 1
     text: 沾黏劲
-    translated: ''
+    translated: Adhesive Strength
   - split: 2
     text: 施展缠劲裹住敌人，春蚕吐丝附加内伤值4点，使敌人更倾向于将目标转为自己
     translated: Shi Zhan's entangling force wraps around the enemy, with silkworms spinning silk to add an additional 4 points of internal damage, making it more likely for the enemy to turn their target into themselves.
@@ -13274,7 +13274,7 @@
   splits:
   - split: 1
     text: 螺旋劲
-    translated: ''
+    translated: Spiral Energy
   - split: 2
     text: 施展转劲带动敌人，抽丝剥茧附加晕眩值6点，指东打西的发动率提升
     translated: Shi Zhan turns the enemy with momentum, peels off layers like silk and adds 6 dizziness points, increasing the likelihood of attacking blindly.
@@ -13354,7 +13354,7 @@
   splits:
   - split: 1
     text: 春寒料峭
-    translated: Chūn hán liào qiào
+    translated: Chun han liao qiao
   - split: 2
     text: 笑拈春华附加6点封穴值
     translated: Smile to pluck spring flowers with an additional 6 points of sealing point value.
@@ -13434,7 +13434,7 @@
   splits:
   - split: 1
     text: 蛛毒手
-    translated: Spider Venom Hand
+    translated: Spider Venom Technique
   - split: 2
     text: 自身的毒术愈高，对敌人造成的中毒与晕眩值越高；角色越邪恶，威力越强。
     translated: The higher the skill in poison techniques, the greater the poisoning and disorientation values inflicted on enemies; the more evil a character is, the stronger their power.
@@ -13664,7 +13664,7 @@
   splits:
   - split: 1
     text: 含血喷人
-    translated: ''
+    translated: Spewing Blood and Guts
   - split: 2
     text: 血流成河的消耗内力减半
     translated: Blood flowing like a river reduces internal energy consumption by half.
@@ -13674,7 +13674,7 @@
   splits:
   - split: 1
     text: 沥血披肝
-    translated: Lìxuè pīgān
+    translated: Lixue pigan
   - split: 2
     text: 若以血海尸山击杀敌人，自身精力回复2点
     translated: If you kill enemies using Blood Sea Corpse Mountain, your own energy is restored by 2 points.
@@ -13734,7 +13734,7 @@
   splits:
   - split: 1
     text: 崩山劲
-    translated: ''
+    translated: Bengshan Jin
   - split: 2
     text: 功击力增强8%(内功)
     translated: Strength enhancement by 8% (internal power)
@@ -14024,7 +14024,7 @@
   splits:
   - split: 1
     text: 纯阳内功
-    translated: Chúnyáng Nèigōng
+    translated: Chunyang Neigong
   - split: 2
     text: ''
     translated: ''
@@ -14104,7 +14104,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuányīn nèigōng
+    translated: Xuanyin neigong
   - split: 2
     text: ''
     translated: ''
@@ -14114,7 +14114,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèigōng
+    translated: Xuan Yin Neigong
   - split: 2
     text: ''
     translated: ''
@@ -14124,7 +14124,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán yīn nèi gōng
+    translated: Xuan yin nei gong
   - split: 2
     text: ''
     translated: ''
@@ -14254,7 +14254,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuányīn nèigōng
+    translated: Xuanyin neigong
   - split: 2
     text: ''
     translated: ''
@@ -14264,7 +14264,7 @@
   splits:
   - split: 1
     text: 玄阴内功
-    translated: Xuán Yīn Nèigōng
+    translated: Xuan Yin Neigong
   - split: 2
     text: ''
     translated: ''

@@ -373,7 +373,7 @@
   splits:
   - split: 1
     text: 拿取
-    translated: ''
+    translated: Grab {0}
 - lineNum: 55
   raw: Interactive04	挖掘
   translated: 
@@ -422,7 +422,7 @@
   splits:
   - split: 1
     text: 猎捕
-    translated: Hunting and capturing.
+    translated: Hunter
 - lineNum: 62
   raw: Interactive11	<color=#ff2222>暗捕</color>
   translated: 
@@ -436,7 +436,7 @@
   splits:
   - split: 1
     text: 猎杀
-    translated: ''
+    translated: Hunting Down
 - lineNum: 64
   raw: TalkStealNotice	你鬼鬼祟祟的在干甚么？
   translated: 
@@ -583,14 +583,14 @@
   splits:
   - split: 1
     text: 卓越
-    translated: Outstanding
+    translated: Exceptional
 - lineNum: 85
   raw: InventoryLevel3	超凡
   translated: 
   splits:
   - split: 1
     text: 超凡
-    translated: ''
+    translated: Transcendent
 - lineNum: 86
   raw: InventoryLevel5	特殊
   translated: 
@@ -765,7 +765,7 @@
   splits:
   - split: 1
     text: 气血
-    translated: ''
+    translated: Vital energy
 - lineNum: 111
   raw: CharacterProperty51	气血上限
   translated: 
@@ -779,7 +779,7 @@
   splits:
   - split: 1
     text: 内力
-    translated: ''
+    translated: Internal Energy
 - lineNum: 113
   raw: CharacterProperty53	内力上限
   translated: 
@@ -793,7 +793,7 @@
   splits:
   - split: 1
     text: 精力
-    translated: ''
+    translated: Energy
 - lineNum: 115
   raw: CharacterProperty55	精力上限
   translated: 
@@ -814,7 +814,7 @@
   splits:
   - split: 1
     text: 资质
-    translated: ''
+    translated: Qualifications
 - lineNum: 118
   raw: CharacterProperty108	金钱
   translated: 
@@ -828,7 +828,7 @@
   splits:
   - split: 1
     text: 狂狷
-    translated: ''
+    translated: Crazy yet Just
 - lineNum: 120
   raw: CharacterProperty110	道德
   translated: 
@@ -863,14 +863,14 @@
   splits:
   - split: 1
     text: 卸劲
-    translated: ''
+    translated: Loosen up.
 - lineNum: 125
   raw: CharacterProperty198	连击
   translated: 
   splits:
   - split: 1
     text: 连击
-    translated: ''
+    translated: Combination attack
 - lineNum: 126
   raw: CharacterProperty199	反击
   translated: 
@@ -884,35 +884,35 @@
   splits:
   - split: 1
     text: 虚招
-    translated: ''
+    translated: Feigned invitation.
 - lineNum: 128
   raw: CharacterProperty301	搏击
   translated: 
   splits:
   - split: 1
     text: 搏击
-    translated: ''
+    translated: Fighting
 - lineNum: 129
   raw: CharacterProperty302	剑法
   translated: 
   splits:
   - split: 1
     text: 剑法
-    translated: ''
+    translated: Fencing technique
 - lineNum: 130
   raw: CharacterProperty303	刀法
   translated: 
   splits:
   - split: 1
     text: 刀法
-    translated: ''
+    translated: Fencing technique
 - lineNum: 131
   raw: CharacterProperty304	枪棍
   translated: 
   splits:
   - split: 1
     text: 枪棍
-    translated: ''
+    translated: Gunstick
 - lineNum: 132
   raw: CharacterProperty305	暗器
   translated: 
@@ -926,7 +926,7 @@
   splits:
   - split: 1
     text: 短兵
-    translated: ''
+    translated: A swift clash of weapons during combat at close quarters.
 - lineNum: 134
   raw: CharacterProperty307	医术
   translated: 
@@ -940,21 +940,21 @@
   splits:
   - split: 1
     text: 毒术
-    translated: ''
+    translated: Poison Technique
 - lineNum: 136
   raw: CharacterProperty309	内功
   translated: 
   splits:
   - split: 1
     text: 内功
-    translated: ''
+    translated: Internal cultivation
 - lineNum: 137
   raw: CharacterProperty310	轻功
   translated: 
   splits:
   - split: 1
     text: 轻功
-    translated: ''
+    translated: Lightness Skill
 - lineNum: 138
   raw: CharacterProperty321	药草学
   translated: 
@@ -1017,7 +1017,7 @@
   splits:
   - split: 1
     text: 迷惑
-    translated: ''
+    translated: Confused
 - lineNum: 147
   raw: CharacterProperty405	晕眩
   translated: 
@@ -1045,21 +1045,21 @@
   splits:
   - split: 1
     text: 散功
-    translated: ''
+    translated: To disengage martial energy.
 - lineNum: 151
   raw: CharacterProperty409	冰封
   translated: 
   splits:
   - split: 1
     text: 冰封
-    translated: ''
+    translated: Frostbound
 - lineNum: 152
   raw: CharacterProperty410	醉意
   translated: 
   splits:
   - split: 1
     text: 醉意
-    translated: ''
+    translated: Drunkenness
 - lineNum: 153
   raw: '#阴阳	'
   translated: 
@@ -1077,7 +1077,7 @@
   splits:
   - split: 1
     text: 少阴
-    translated: Shàoyīn
+    translated: Shaoyin
 - lineNum: 156
   raw: YinAndYang2
   translated: 
@@ -1091,7 +1091,7 @@
   splits:
   - split: 1
     text: 少阳
-    translated: Shàoyáng
+    translated: Shaoyang
 - lineNum: 158
   raw: YinAndYang4	至阳
   translated: 
@@ -1144,7 +1144,7 @@
   splits:
   - split: 1
     text: 拙
-    translated: ''
+    translated: Humble
 - lineNum: 166
   raw: '#区域	'
   translated: 
@@ -1190,7 +1190,7 @@
   splits:
   - split: 1
     text: 擎天寨
-    translated: Qīng Tiān Zhài
+    translated: Qing Tian Zhai
 - lineNum: 173
   raw: Area6	一世富贵酒庄
   translated: 
@@ -1225,7 +1225,7 @@
   splits:
   - split: 1
     text: 赤丹宫
-    translated: Chìdān Gōng
+    translated: Chidan Gong
 - lineNum: 178
   raw: Area11	石家庄
   translated: 
@@ -1253,7 +1253,7 @@
   splits:
   - split: 1
     text: 白马居
-    translated: ''
+    translated: Paima Ju
 - lineNum: 182
   raw: Area15	藏花草棚
   translated: 
@@ -1274,7 +1274,7 @@
   splits:
   - split: 1
     text: 箐寨
-    translated: ''
+    translated: Cen Zhai
 - lineNum: 185
   raw: Area18	禾家马帮
   translated: 
@@ -1463,21 +1463,21 @@
   splits:
   - split: 1
     text: 布庄
-    translated: ''
+    translated: Tavern Owner
 - lineNum: 212
   raw: Area113	食品店
   translated: 
   splits:
   - split: 1
     text: 食品店
-    translated: ''
+    translated: Foods Shop
 - lineNum: 213
   raw: Area114	酒楼
   translated: 
   splits:
   - split: 1
     text: 酒楼
-    translated: ''
+    translated: Teahouse
 - lineNum: 214
   raw: Area115	玉坊
   translated: 
@@ -1644,7 +1644,7 @@
   splits:
   - split: 1
     text: '{0}~{1}%'
-    translated: From {0} to {1}%
+    translated: '{0}~{1}%'
 - lineNum: 240
   raw: BluePrintType1	搏击兵器
   translated: 
@@ -1672,21 +1672,21 @@
   splits:
   - split: 1
     text: 枪棍
-    translated: Spear and club.
+    translated: Gunstick
 - lineNum: 244
   raw: BluePrintType5	短兵
   translated: 
   splits:
   - split: 1
     text: 短兵
-    translated: ''
+    translated: A swift clash of weapons during combat at close quarters.
 - lineNum: 245
   raw: BluePrintType6	箭器
   translated: 
   splits:
   - split: 1
     text: 箭器
-    translated: Bow and arrow
+    translated: Crossbow
 - lineNum: 246
   raw: BluePrintType7	防具
   translated: 
@@ -1714,7 +1714,7 @@
   splits:
   - split: 1
     text: 柄
-    translated: Handle.
+    translated: ''
 - lineNum: 250
   raw: EquipPartType3	环
   translated: 
@@ -1735,7 +1735,7 @@
   splits:
   - split: 1
     text: 缨
-    translated: ''
+    translated: Sash
 - lineNum: 253
   raw: EquipPartType6	杆
   translated: 
@@ -1763,7 +1763,7 @@
   splits:
   - split: 1
     text: 面
-    translated: ''
+    translated: Face
 - lineNum: 257
   raw: EquipPartType10	骨
   translated: 
@@ -1847,21 +1847,21 @@
   splits:
   - split: 1
     text: 枪术
-    translated: ''
+    translated: Gunmanship
 - lineNum: 269
   raw: InventoryType305	暗器
   translated: 
   splits:
   - split: 1
     text: 暗器
-    translated: ''
+    translated: Shadow Weapons
 - lineNum: 270
   raw: InventoryType306	短兵
   translated: 
   splits:
   - split: 1
     text: 短兵
-    translated: ''
+    translated: A swift clash of weapons during combat at close quarters.
 - lineNum: 271
   raw: InventoryType307	内功
   translated: 
@@ -1903,7 +1903,7 @@
   splits:
   - split: 1
     text: 矿石
-    translated: ''
+    translated: Ore mineral
 - lineNum: 277
   raw: InventoryType702	木材
   translated: 
@@ -1973,7 +1973,7 @@
   splits:
   - split: 1
     text: 烈蝎毒
-    translated: ''
+    translated: Viper Venom
 - lineNum: 287
   raw: EffectLevel1	轻度
   translated: 
@@ -2089,7 +2089,7 @@
   splits:
   - split: 1
     text: 炼狱
-    translated: ''
+    translated: Crucible Realm
 - lineNum: 304
   raw: DifficultyDetails	详细说明
   translated: 
@@ -2152,7 +2152,7 @@
   splits:
   - split: 1
     text: 点选下方<color=#ff2222>详细说明</color>按钮，或打开<color=#ff2222>帮助页面</color>，可以看到更多难易度相关的解说，
-    translated: Select the `<color=#ff2222>Details</color>` button below, or open the `<color=#ff2222>Help Page</color>`, to see more explanations related to difficulty.
+    translated: Select the '<color=#ff2222>Details</color>' button below, or open the '<color=#ff2222>Help Page</color>', to see more explanations related to difficulty.
 - lineNum: 313
   raw: DifficultyWarning8	若想更换其他难易度的玩家，请<color=#ff2222>重做问卷</color>选择其他难易度来进行游玩，
   translated: 
@@ -2177,35 +2177,35 @@
   splits:
   - split: 1
     text: ↑
-    translated: I'm ready to assist with your translation request! Please provide the text from the Wuxia RPG game that you would like translated into English.
+    translated: ↑
 - lineNum: 317
   raw: KeyName_DownArrow	↓
   translated: 
   splits:
   - split: 1
     text: ↓
-    translated: Please provide the text you would like translated from Simplified Chinese to English, following the guidelines outlined.
+    translated: ↓
 - lineNum: 318
   raw: KeyName_LeftArrow	←
   translated: 
   splits:
   - split: 1
     text: ←
-    translated: Left arrow.
+    translated: ←
 - lineNum: 319
   raw: KeyName_RightArrow	→
   translated: 
   splits:
   - split: 1
     text: →
-    translated: ''
+    translated: →
 - lineNum: 320
   raw: KeyName_Arrow	↑/↓/←/→
   translated: 
   splits:
   - split: 1
     text: ↑/↓/←/→
-    translated: Up/Down/Left/Right
+    translated: ↑/↓/←/→
 - lineNum: 321
   raw: KeyName_NumberArrow	数字键盘方向
   translated: 
@@ -2219,70 +2219,70 @@
   splits:
   - split: 1
     text: 0
-    translated: Please provide the text you would like translated from Simplified Chinese to English following the given guidelines.
+    translated: 0
 - lineNum: 323
   raw: KeyName_Alpha1	1
   translated: 
   splits:
   - split: 1
     text: 1
-    translated: Could you please provide the text you would like translated from Simplified Chinese to English?
+    translated: 1
 - lineNum: 324
   raw: KeyName_Alpha2	2
   translated: 
   splits:
   - split: 1
     text: 2
-    translated: Could you please provide the text you would like translated from Simplified Chinese to English?
+    translated: 2
 - lineNum: 325
   raw: KeyName_Alpha3	3
   translated: 
   splits:
   - split: 1
     text: 3
-    translated: ''
+    translated: 3
 - lineNum: 326
   raw: KeyName_Alpha4	4
   translated: 
   splits:
   - split: 1
     text: 4
-    translated: ''
+    translated: 4
 - lineNum: 327
   raw: KeyName_Alpha5	5
   translated: 
   splits:
   - split: 1
     text: 5
-    translated: ''
+    translated: 5
 - lineNum: 328
   raw: KeyName_Alpha6	6
   translated: 
   splits:
   - split: 1
     text: 6
-    translated: ''
+    translated: 6
 - lineNum: 329
   raw: KeyName_Alpha7	7
   translated: 
   splits:
   - split: 1
     text: 7
-    translated: ''
+    translated: 7
 - lineNum: 330
   raw: KeyName_Alpha8	8
   translated: 
   splits:
   - split: 1
     text: 8
-    translated: ''
+    translated: 8
 - lineNum: 331
   raw: KeyName_Alpha9	9
   translated: 
   splits:
   - split: 1
     text: 9
-    translated: Nine.
+    translated: 9
 - lineNum: 332
   raw: KeyName_BackQuote	~
   translated: 
@@ -2296,7 +2296,7 @@
   splits:
   - split: 1
     text: '-'
-    translated: ''
+    translated: '-'
 - lineNum: 334
   raw: KeyName_Equals	=
   translated: 
@@ -2310,21 +2310,21 @@
   splits:
   - split: 1
     text: \
-    translated: Please provide the text you would like translated from Simplified Chinese to English, and I'll be happy to assist you!
+    translated: \
 - lineNum: 336
   raw: KeyName_LeftBracket	[
   translated: 
   splits:
   - split: 1
     text: '['
-    translated: ''
+    translated: '['
 - lineNum: 337
   raw: KeyName_RightBracket	]
   translated: 
   splits:
   - split: 1
     text: ']'
-    translated: ''
+    translated: ']'
 - lineNum: 338
   raw: KeyName_Semicolon	;
   translated: 
@@ -2338,35 +2338,35 @@
   splits:
   - split: 1
     text: "'"
-    translated: ''
+    translated: "'"
 - lineNum: 340
   raw: KeyName_Comma	,
   translated: 
   splits:
   - split: 1
     text: ','
-    translated: It seems like you have not provided any text to translate. Please provide the Simplified Chinese text that you would like translated into English, following the specified guidelines.
+    translated: ','
 - lineNum: 341
   raw: KeyName_Period	.
   translated: 
   splits:
   - split: 1
     text: .
-    translated: It seems like your message is empty. Could you please provide the text you would like translated from Simplified Chinese to English?
+    translated: .
 - lineNum: 342
   raw: KeyName_LBRB	< / >
   translated: 
   splits:
   - split: 1
     text: < / >
-    translated: It appears you have submitted an empty tag `< / >`. If there is specific text or content you would like translated from Simplified Chinese to English, please provide it, and I will be happy to assist.
+    translated: < / >
 - lineNum: 343
   raw: KeyName_Slash	/
   translated: 
   splits:
   - split: 1
     text: /
-    translated: ''
+    translated: /
 - lineNum: 344
   raw: KeyName_Escape	ESC
   translated: 
@@ -2380,14 +2380,14 @@
   splits:
   - split: 1
     text: LeftCtrl
-    translated: It seems like you've entered LeftCtrl, which doesn't appear to be a text from a Wuxia RPG game that requires translation. If this was an error or if there is specific content related to a Wuxia RPG that needs translating, please provide the text, and I'll be happy to assist with it.
+    translated: LeftCtrl
 - lineNum: 346
   raw: KeyName_RightControl	RightCtrl
   translated: 
   splits:
   - split: 1
     text: RightCtrl
-    translated: It seems like you have provided RightCtrl as the text to translate. Without additional context or content surrounding this term, it's difficult to provide a direct translation. If you can offer more details or clarify if RightCtrl is part of a larger text from the Wuxia RPG game, I would be happy to help with its translation and adaptation into English.
+    translated: RightCtrl
 - lineNum: 347
   raw: KeyName_LeftAnalogPress	左模拟游戏杆
   translated: 
@@ -2415,35 +2415,35 @@
   splits:
   - split: 1
     text: B
-    translated: Please provide the text you would like translated from Simplified Chinese to English.
+    translated: B
 - lineNum: 351
   raw: KeyName_JoystickButton2	X
   translated: 
   splits:
   - split: 1
     text: X
-    translated: ''
+    translated: X
 - lineNum: 352
   raw: KeyName_JoystickButton3	Y
   translated: 
   splits:
   - split: 1
     text: Y
-    translated: ''
+    translated: Y
 - lineNum: 353
   raw: KeyName_JoystickButton4	LB
   translated: 
   splits:
   - split: 1
     text: LB
-    translated: Little Brother
+    translated: LB
 - lineNum: 354
   raw: KeyName_JoystickButton5	RB
   translated: 
   splits:
   - split: 1
     text: RB
-    translated: Please provide the text you would like translated from Simplified Chinese to English.
+    translated: RB
 - lineNum: 355
   raw: KeyDesc_Up	上/移动
   translated: 
@@ -2723,7 +2723,7 @@
   splits:
   - split: 1
     text: 跳跃
-    translated: ''
+    translated: Leap
 - lineNum: 395
   raw: KeyDesc_AutoRun	自动跑步
   translated: 
@@ -2744,7 +2744,7 @@
   splits:
   - split: 1
     text: 切磋
-    translated: ''
+    translated: Sharpening skills through friendly sparring.
 - lineNum: 398
   raw: KeyDesc_SkillShortcut1	技能快捷键1
   translated: 
@@ -3229,7 +3229,7 @@
   splits:
   - split: 1
     text: 丹药
-    translated: ''
+    translated: Potion of Elixir
 - lineNum: 469
   raw: InventoryType5	毒物
   translated: 
@@ -3313,7 +3313,7 @@
   splits:
   - split: 1
     text: 枪棍
-    translated: ''
+    translated: Gunstick
 - lineNum: 481
   raw: UIInventoryType105	暗器弓箭
   translated: 
@@ -3327,7 +3327,7 @@
   splits:
   - split: 1
     text: 短兵
-    translated: ''
+    translated: A swift clash of weapons during combat at close quarters.
 - lineNum: 483
   raw: UIInventoryType201	护甲
   translated: 
@@ -3411,21 +3411,21 @@
   splits:
   - split: 1
     text: 搏击
-    translated: ''
+    translated: Fighting
 - lineNum: 495
   raw: UIInventoryType502	剑法
   translated: 
   splits:
   - split: 1
     text: 剑法
-    translated: ''
+    translated: Fencing technique
 - lineNum: 496
   raw: UIInventoryType503	刀法
   translated: 
   splits:
   - split: 1
     text: 刀法
-    translated: ''
+    translated: Fencing technique
 - lineNum: 497
   raw: UIInventoryType504	棍法
   translated: 
@@ -3446,7 +3446,7 @@
   splits:
   - split: 1
     text: 短兵
-    translated: ''
+    translated: A swift clash of weapons during combat at close quarters.
 - lineNum: 500
   raw: UIInventoryType507	心法
   translated: 
@@ -3973,7 +3973,7 @@
   splits:
   - split: 1
     text: 物品
-    translated: ''
+    translated: Item
 - lineNum: 577
   raw: UIMainTabSkill	武学
   translated: 
@@ -4075,7 +4075,7 @@
   splits:
   - split: 1
     text: 饰品
-    translated: ''
+    translated: Jewelry
 - lineNum: 592
   raw: UITeamEquipColumn4	外衣
   translated: 
@@ -4096,7 +4096,7 @@
   splits:
   - split: 1
     text: 邪
-    translated: ''
+    translated: Evil {name_1} br>Darkness within {name_2}
 - lineNum: 595
   raw: UITeamPersonality3	正
   translated: 
@@ -4124,7 +4124,7 @@
   splits:
   - split: 1
     text: 阴
-    translated: ''
+    translated: Darkness
 - lineNum: 599
   raw: UITeamPersonality7	阳
   translated: 
@@ -4431,7 +4431,7 @@
   splits:
   - split: 1
     text: 传送
-    translated: ''
+    translated: Transmission
 - lineNum: 645
   raw: UITransferMessage	是否传送至
   translated: 
@@ -4593,7 +4593,7 @@
   splits:
   - split: 1
     text: 3D Vision
-    translated: ''
+    translated: 3D Vision
 - lineNum: 669
   raw: UISettingWindow	画面设定
   translated: 
@@ -4894,7 +4894,7 @@
   splits:
   - split: 1
     text: 中
-    translated: ''
+    translated: Could you please provide the text you would like translated?
 - lineNum: 712
   raw: UIGraphicsSettingVolumtericResolutionQuarter	低
   translated: 
@@ -4936,7 +4936,7 @@
   splits:
   - split: 1
     text: 高
-    translated: ''
+    translated: High
 - lineNum: 718
   raw: UIGraphicsSettingAntiAliasingNone	关闭
   translated: 
@@ -5199,7 +5199,7 @@
   splits:
   - split: 1
     text: 按键<color=#3174F8>{0}</color>已被设定为<color=#ff2222>{1}</color>，是否要互换按键设定？
-    translated: Key `<color=#3174F8>{0}</color>` is set to `<color=#ff2222>{1}</color>`. Do you want to swap the key settings?
+    translated: Key '<color=#3174F8>{0}</color>' is set to '<color=#ff2222>{1}</color>'. Do you want to swap the key settings?
 - lineNum: 756
   raw: UIHotkeyMsg1	是否要储存当前按键设置？
   translated: 
@@ -5305,7 +5305,7 @@
   splits:
   - split: 1
     text: 属性
-    translated: ''
+    translated: Could you please provide the text you would like translated? I'll be happy to assist with that.
 - lineNum: 772
   raw: UISkillTreeNodeState1	修练中
   translated: 
@@ -5566,7 +5566,7 @@
   splits:
   - split: 1
     text: 重锻
-    translated: ''
+    translated: Recasting
 - lineNum: 811
   raw: UIBlacksmithTabSmelt	熔炼
   translated: 
@@ -5979,14 +5979,14 @@
   splits:
   - split: 1
     text: 抵触
-    translated: ''
+    translated: Resist
 - lineNum: 873
   raw: SkillTipNeedInventory	道具
   translated: 
   splits:
   - split: 1
     text: 道具
-    translated: ''
+    translated: Item
 - lineNum: 874
   raw: SkillTipSwitchApCost	切换所需精力
   translated: 
@@ -6035,14 +6035,14 @@
   splits:
   - split: 1
     text: '{0}'
-    translated: ''
+    translated: '{0}'
 - lineNum: 881
   raw: SkillTipMultiRange	{0}-{1}
   translated: 
   splits:
   - split: 1
     text: '{0}-{1}'
-    translated: Please provide the text or context surrounding {0} and {1} so I can accurately translate it according to your guidelines.
+    translated: '{0}-{1}'
 - lineNum: 882
   raw: SkillTipSelectorRange	有效距离
   translated: 
@@ -6385,7 +6385,7 @@
   splits:
   - split: 1
     text: 值
-    translated: ''
+    translated: Value.
 - lineNum: 934
   raw: KeepTurn	持续{0}回合
   translated: 
@@ -6810,7 +6810,7 @@
   splits:
   - split: 1
     text: '{0}'
-    translated: ''
+    translated: '{0}'
 - lineNum: 996
   raw: MsgHaveNot	{0} 无 {1}
   translated: 
@@ -7338,7 +7338,7 @@
   splits:
   - split: 1
     text: 段思平与南诏诸族所组成的义军，
-    translated: Duàn Sīpíng and the allied forces of Nanzhao tribes formed a righteous army.
+    translated: Duan Siping and the allied forces of Nanzhao tribes formed a righteous army.
 - lineNum: 1074
   raw: Final05_02	一路势如破竹，攻破南诏王都洱城，
   translated: 
@@ -7475,7 +7475,7 @@
   splits:
   - split: 1
     text: 白马闲情
-    translated: Bái Mǎ Xián Qíng
+    translated: Bai Ma Xian Qing
 - lineNum: 1094
   raw: Final06_01	纷乱的世道依旧纷乱，白马居的人们却恍若无觉，
   translated: 
@@ -7693,14 +7693,14 @@
   splits:
   - split: 1
     text: 江湖起落，俏梦阁却总能在各方势力间巧妙沉浮，
-    translated: Rise and fall in the martial world, yet Quáo Mèng Gé always deftly navigates among various factions.
+    translated: Rise and fall in the martial world, yet Quao Meng Ge always deftly navigates among various factions.
 - lineNum: 1126
   raw: Final08_02	樊香蝶带着姐妹渡过一次又一次的难关与各方觊觎，
   translated: 
   splits:
   - split: 1
     text: 樊香蝶带着姐妹渡过一次又一次的难关与各方觊觎，
-    translated: Fān Xiāngdié led her sisters through one ordeal after another, facing the covetous eyes of various parties.
+    translated: Fan Xiangdie led her sisters through one ordeal after another, facing the covetous eyes of various parties.
 - lineNum: 1127
   raw: Final08_03	并在苏清瑞的财力支持下，
   translated: 
@@ -7742,7 +7742,7 @@
   splits:
   - split: 1
     text: 依靠俏梦阁的情报网络，
-    translated: Relying on the Qiāomèng Ge intelligence network,
+    translated: Relying on the Qiaomeng Ge intelligence network,
 - lineNum: 1133
   raw: Final08_09	调动人马支持西川各方正道，
   translated: 
@@ -8041,7 +8041,7 @@
   splits:
   - split: 1
     text: 对于禾泓渊的死，禾郁青极为自责，
-    translated: For Hé Hóngyuān's death, Hé Yùqīng was extremely self-reproachful.
+    translated: For He Hongyuan's death, He Yuqing was extremely self-reproachful.
 - lineNum: 1177
   raw: Final11_02	也因此她收起了以往的蛮横任性，
   translated: 
@@ -8403,7 +8403,7 @@
   splits:
   - split: 1
     text: 石鸿图始终未能寻药王神篇，
-    translated: Shí Hóngtú has always been unable to find the Shén Piān of the Yàowáng.
+    translated: Shi Hongtu has always been unable to find the Shen Pian of the Yaowang.
 - lineNum: 1230
   raw: Final14_05	性情益发暴虐，毒王之名不胫而走。
   translated: 
@@ -8934,7 +8934,7 @@
   splits:
   - split: 1
     text: 幽冥暗鬼
-    translated: Yōmíng ànguǐ
+    translated: Yoming angui
 - lineNum: 1308
   raw: Final19_01	自从那日将那人打落那无名深谷中后，
   translated: 
@@ -9201,7 +9201,7 @@
   splits:
   - split: 1
     text: 骆元玉暗自下定决心，
-    translated: Luó Yuányù secretly resolved in his heart,
+    translated: Luo Yuanyu secretly resolved in his heart,
 - lineNum: 1347
   raw: Final21_05	要成为一个和你一样的人。
   translated: 
@@ -9247,7 +9247,7 @@
   splits:
   - split: 1
     text: 你带着他走出拱石村，藉由一路的冒险，
-    translated: You led him out of Gǒngshí Village through the adventures along the way,
+    translated: You led him out of Gongshi Village through the adventures along the way,
 - lineNum: 1354
   raw: Final22_02	他也逐渐成长、强大。
   translated: 

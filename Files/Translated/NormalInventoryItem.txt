@@ -4,7 +4,7 @@
   splits:
   - split: 1
     text: 小还丹
-    translated: ''
+    translated: Xiao Huan Dan
   - split: 3
     text: 以赤勺为主药，具活血生肌之效，有助于回复气血，但同时也具备些微毒性，不适合大量服用。
     translated: Red Chiretta is the main ingredient, known for its ability to promote blood circulation and tissue regeneration, aiding in restoring Qi and blood. However, it also possesses slight toxicity and should not be taken in large quantities.
@@ -127,7 +127,7 @@
     translated: Tiger bone plasters with interruptions in continuity
   - split: 3
     text: 将续断和虎骨两味药材熬煮成胶状，专治断筋错骨，只消将其涂抹于伤处，不日即可明显见效。
-    translated: Continue to decoct the two herbs, Xu Duàn and Hǔ Gǔ, into a gelatinous state, specifically treating broken or dislocated bones. Simply apply it to the injury site; effects will be noticeable within days.
+    translated: Continue to decoct the two herbs, Xu Duan and Hu Gu, into a gelatinous state, specifically treating broken or dislocated bones. Simply apply it to the injury site; effects will be noticeable within days.
 - lineNum: 13
   raw: 'it40114	镇心理气丸	it40114	以茯苓和性温的狼膏炼制而成，能静心养气，对目眩神驰更有奇效。因其药力温和补身，也是富贵人家常用的养生药。	401	1000	500	TRUE	1	24	0	0	0		3		(MP,1000)(Confused,-100)(Dazed,-100)	{ "MultiAction" : [ { "MultiLogicaAction" : [ { "CheckSkillLearnedAction" : "", "SkillTree142_008", True} , { "SetNpcPropertyAction" : 404, 20, 1, ""}  ]} , { "MultiLogicaAction" : [ { "CheckSkillLearnedAction" : "", "SkillTree142_008", True} , { "SetNpcPropertyAction" : 405, 20, 1, ""}  ]} , { "MultiLogicaAction" : [ { "CheckSkillLearnedAction" : "", "SkillTree142_008", True} , { "SetNpcPropertyAction" : 52, 200, 0, ""}  ]}  ]}'
   translated: 
@@ -224,7 +224,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: ''
+    translated: Chuan Xiong
   - split: 3
     text: 性温；味辛；归肝、心包、胆经。药效主活淤行气。阴虚火旺，上盛下虚及气弱之人忌服。
     translated: 'Moderate warm; pungent in taste; enters the Liver, Pericardium, and Gallbladder meridians. Main effects: activate blood to remove stasis and regulate Qi. Not recommended for people with yin deficiency and excess fire, or those experiencing fullness above and emptiness below as well as weakness of Qi.'
@@ -234,7 +234,7 @@
   splits:
   - split: 1
     text: 黄连
-    translated: ''
+    translated: Coptis Rhizome
   - split: 3
     text: 性寒；味苦；归心、脾、胃、胆、肝、大肠经。药效清热解毒。黄连属大苦大寒之品，泻火力强，易伤阳气。
     translated: 'Cold in nature; bitter taste. Channels: Heart, Spleen, Stomach, Gallbladder, Liver, Large Intestine. Medicinal effects: Clears heat and detoxifies. Huanglian belongs to the category of very cold and very bitter substances, has strong heat-clearing properties, and may damage yang qi if used improperly.'
@@ -244,7 +244,7 @@
   splits:
   - split: 1
     text: 续断
-    translated: ''
+    translated: Resuming the interruption.
   - split: 3
     text: 早见于《神农本草经》，一名龙豆，又名属折。性微温；味苦、甘、辛；归肝、肾经。是一味强筋骨，续折伤的良药。
     translated: Mentioned in the Shennong Bencao Jing, known as dragon beans or bent plants. It is slightly warm; tastes bitter, sweet, and pungent; enters the liver and kidney meridians. It is an excellent medicine for strengthening bones and sinews and healing sprain injuries.
@@ -254,7 +254,7 @@
   splits:
   - split: 1
     text: 茯苓
-    translated: ''
+    translated: Fu Ling.
   - split: 3
     text: 性平；味甘、淡；归心、肺、脾、肾经。茯苓是一味延年益寿之良药，主效安魂养神。
     translated: Gender-neutral; taste sweet and bland; enters the Heart, Lung, Spleen, and Kidney meridians. Poria is an excellent longevity tonic that primarily stabilizes the spirit and nourishes the essence.
@@ -377,7 +377,7 @@
     translated: Wild Boar Yellow
   - split: 3
     text: 又名猪宝、猪辰砂。猪只体内偶现，生于胆囊，通常不大，逾一掌者鲜见。其状如豆粒，或呈粉状。除解金创，亦对部分奇症有效。
-    translated: Also known as Zhūbǎo and Zhūchénsà. Rarely found within pigs, it originates in the gallbladder. It is usually not large; larger than a palm's width is seldom seen. It resembles grain of rice or appears powdery. Apart from treating wounds caused by sharp objects, it is also effective for certain rare ailments.
+    translated: Also known as Zhubao and Zhuchensa. Rarely found within pigs, it originates in the gallbladder. It is usually not large; larger than a palm's width is seldom seen. It resembles grain of rice or appears powdery. Apart from treating wounds caused by sharp objects, it is also effective for certain rare ailments.
 - lineNum: 38
   raw: 'it40226	熊胆	it40226	味苦，性寒；归肝、胆、心经。熊胆入药，可疏通瘀血、畅通内息，治疗内伤效果颇佳。	402	400	200	TRUE	1	10	0	0	0		1		(Injured,-20)	{ "MultiAction" : [ { "MultiLogicaAction" : [ { "CheckSkillLearnedAction" : "", "SkillTree142_008"} , { "SetNpcPropertyAction" : 401, 10, 1, ""}  ]}  ]}'
   translated: 
@@ -474,7 +474,7 @@
   splits:
   - split: 1
     text: 乌脂仙露
-    translated: Uzhi Xiān Lù
+    translated: Uzhi Xian Lu
   - split: 3
     text: 由产于苗疆丛林中的一种奇树所流出来的树脂，加入各种珍奇药草，经过九蒸九晒，九九八十一天炮制而成，服食后可大幅增加气血。
     translated: A resin produced by a rare tree from the jungles of Miaojiang, combined with various exotic medicinal herbs, is processed through nine steaming and drying cycles over eighty-one days. Consuming this concoction can significantly increase Qi and blood levels.
@@ -544,7 +544,7 @@
   splits:
   - split: 1
     text: 蜈蚣毒
-    translated: ''
+    translated: Centipede venom
   - split: 3
     text: 自蜈蚣体内提炼出的蜈蚣毒，可当作投炉物使用，或是练毒功、炼毒药所须素材。
     translated: Venom extracted from centipedes can be used as an ingredient for alchemy or as a material in the practice of poisonous skills and refining poison elixirs.
@@ -904,7 +904,7 @@
   splits:
   - split: 1
     text: 斋饭
-    translated: ''
+    translated: Fasting day meal<br>
   - split: 3
     text: 噶玛寺厨师所做的饭菜。
     translated: The meals prepared by the cook at Gomba Monastery.
@@ -964,7 +964,7 @@
   splits:
   - split: 1
     text: 糖葫芦
-    translated: Candied haws on a stick.
+    translated: ''
   - split: 3
     text: 清甜爽口的小吃，将山楂、枣、李……等野果串起后，裹上糖浆即成。
     translated: A refreshing and sweet snack is made by stringing together mountain sorrel, jujubes, loquats, etc., wild fruits, and coating them with syrup.
@@ -974,7 +974,7 @@
   splits:
   - split: 1
     text: 怪味鸡
-    translated: ''
+    translated: Strange-tasting chicken
   - split: 3
     text: 川菜中的冷盘。鸡肉煮熟后冰镇，再搭配辛香料调制的淋酱。滋味酸、麻、辣多变，故名怪味鸡。
     translated: A cold dish from Sichuan cuisine. The chicken is boiled and chilled, then paired with a sauce made of spicy seasonings. The flavor combines sour, numbing, and spicy elements, hence the name Strange Flavor Chicken.
@@ -1004,7 +1004,7 @@
   splits:
   - split: 1
     text: 居易饭
-    translated: Juyeì fan.
+    translated: Juyei fan.
   - split: 3
     text: 刚采的鲜笋与五谷杂粮一同炊煮，简单味美。典故出自白居易的诗：置之炊瓶中，与饭同时煮。每日遂加餐，经时不思肉。
     translated: "Freshly picked bamboo shoots, cooked with a variety of grains, are simple yet delicious. This anecdote originates from Bai Juyi's poem: Place them in the steaming pot with rice to cook together. Since then, he added this dish to his daily meals and for some time did not crave meat."
@@ -1154,7 +1154,7 @@
   splits:
   - split: 1
     text: 水煮鱼
-    translated: Hot and Sour Fish Soup
+    translated: ''
   - split: 3
     text: 水煮鱼通常由新鲜的鱼、豆芽、辣椒等食材制作而成。油而不腻、辣而不燥、麻而不苦、肉质滑嫩是其特色。
     translated: Hot and sour fish is typically made with fresh fish, bean sprouts, chili peppers, etc. It's oily but not greasy, spicy without being dry, numbing without bitterness, and the flesh is tender and smooth.
@@ -1177,7 +1177,7 @@
     translated: Farewell My Concubine
   - split: 3
     text: 霸王别姬原名原名龙凤烩，起源于西楚王朝的国都彭城。其料用龟肉（龟属水族，龙系水族之长）与雉（雉属羽族，凤系羽族之长），引申为龙凤相会得名。另有人以鳖、鸡取代龟、雉，鳖与别，鸡与姬，都是谐音，鳖鸡就是别姬，配合之巧妙，令人回味无穷。
-    translated: Bawangbei, originally named Longfenghuo, originated from the capital Pengcheng of the Western Chu Kingdom. Its ingredients use turtle meat (turtle belongs to aquatic creatures, with dragon being the leader) and pheasant (pheasant belongs to avian creatures, with phoenix being the leader), leading to its name meaning the meeting of dragon and phoenix. Another theory is that people substituted tortoise for turtle and chicken for pheasant; both tortoise and bie, as well as chicken and jie, are homophones. Thus, beti (tortoise and chicken) becomes biéjì (bie and jie), the clever combination leaving a lasting impression.
+    translated: Bawangbei, originally named Longfenghuo, originated from the capital Pengcheng of the Western Chu Kingdom. Its ingredients use turtle meat (turtle belongs to aquatic creatures, with dragon being the leader) and pheasant (pheasant belongs to avian creatures, with phoenix being the leader), leading to its name meaning the meeting of dragon and phoenix. Another theory is that people substituted tortoise for turtle and chicken for pheasant; both tortoise and bie, as well as chicken and jie, are homophones. Thus, beti (tortoise and chicken) becomes bieji (bie and jie), the clever combination leaving a lasting impression.
 - lineNum: 118
   raw: it60146	豆腐花	it60146	豆浆以盐卤等物凝结后，可成滑嫩绵密的豆腐花，具甜、咸、辣多种吃法，佐料亦变化多端，是深受民间欢迎的点心。	601	50	25	TRUE	0	1	0	0	0		1	it60146		0
   translated: 
@@ -1194,7 +1194,7 @@
   splits:
   - split: 1
     text: 西岭春
-    translated: Xī Lǐng Chūn
+    translated: Xi Ling Chun
   - split: 3
     text: 西岭春酒为西川地区一世富贵酒庄的知名美酒，外包装比起杂粮酒，似乎更为精美。
     translated: Xiling Spring Wine is a well-known fine wine from Xichuan's prestigious and wealthy winery, with its external packaging appearing more exquisite compared to grain alcohol.
@@ -1354,7 +1354,7 @@
   splits:
   - split: 1
     text: 熊掌
-    translated: Panda's Palm Technique
+    translated: Polar Bear Palm Technique
   - split: 3
     text: 又名熊蹯，是珍贵的大补食材，八珍之一。特别是左前掌最为肥腴，掌花明显，被列为上品。
     translated: Also known as bear paw, it is a precious nourishing food ingredient and one of the Eight Treasures. Especially, the left front paw is most luscious, with prominent paw print patterns, listed as a superior grade.
@@ -1454,7 +1454,7 @@
   splits:
   - split: 1
     text: 调味料
-    translated: ''
+    translated: Seasoning ingredients
   - split: 3
     text: 诸般用以在烹饪时调味的食材，诸如盐、糖、醋、酱油……等等。
     translated: Various ingredients used for seasoning in cooking, such as salt, sugar, vinegar, soy sauce, etc.
@@ -1464,7 +1464,7 @@
   splits:
   - split: 1
     text: 辛香料
-    translated: Spices and herbs of Xīn.
+    translated: Spices of Sichuan
   - split: 3
     text: 泛指葱、姜、蒜、辣椒、花椒、八角……等，带有香味或刺激性的食材。
     translated: Refers to ingredients like onion, ginger, garlic, chili pepper, Sichuan peppercorn, star anise, etc., which have fragrant or stimulating flavors.
@@ -1554,7 +1554,7 @@
   splits:
   - split: 1
     text: 山铜
-    translated: ''
+    translated: Mountain Copper
   - split: 3
     text: 极为罕见的金属，往往埋藏于人迹难至的崇山峻岭之间。拥有铜的特性，但更为坚韧。
     translated: A highly rare metal, often found buried in remote and inaccessible mountainous areas. It possesses the characteristics of copper but is more durable.
@@ -1644,7 +1644,7 @@
   splits:
   - split: 1
     text: 枣木
-    translated: Zǎomù
+    translated: Zaomu
   - split: 3
     text: 质地坚硬密实，木纹细密，可用以制作棍棒枪杆。
     translated: The material is dense and solid with fine wood grain, suitable for making clubs, sticks, or gun barrels.
@@ -1654,7 +1654,7 @@
   splits:
   - split: 1
     text: 铁刀木
-    translated: ''
+    translated: Iron Blade Wood
   - split: 3
     text: 大理一带称之黑心木，木质坚硬似铁，寻常刀剑难以劈砍，故而得名铁刀木。
     translated: The region of Dali refers to it as Blackheart Wood. Its wood is so hard, resembling iron, that ordinary swords and knives find it difficult to chop or hack. Hence, it is named Iron-Resistant Wood.
@@ -1664,7 +1664,7 @@
   splits:
   - split: 1
     text: 紫檀木
-    translated: Purple sandalwood
+    translated: Zitan wood
   - split: 3
     text: 多产于中国南方，生长缓慢，非数百年不能成材，乃木中极品，有一寸紫檀一寸金的美名。
     translated: Abundant in southern China, it grows slowly and takes several hundred years to mature. It is considered a top-quality timber, renowned as one inch of purple sandalwood equals one inch of gold.
@@ -1797,7 +1797,7 @@
     translated: Carnelian
   - split: 3
     text: 中国古称孔雀石为绿青、石绿或青琅玕，常用作饰物。因其质软易碎，保养不易。
-    translated: In ancient China, what is known as turquoise was called lüqing, shiliu, or qing langgan and was often used for ornaments. Due to its softness and tendency to break easily, it is difficult to maintain.
+    translated: In ancient China, what is known as turquoise was called luqing, shiliu, or qing langgan and was often used for ornaments. Due to its softness and tendency to break easily, it is difficult to maintain.
 - lineNum: 180
   raw: it70317	绝龙骨	it70317	相传为古代神兽所遗留下来的骸骨，十分珍稀。据说在锻造兵器的过程中加入绝龙骨，能够产生非常惊人的效果。	703	6250	3125	TRUE	3	90	0	0	0	forge008	0			0
   translated: 
@@ -1834,7 +1834,7 @@
   splits:
   - split: 1
     text: 墨玉
-    translated: Mòyù
+    translated: Moyu
   - split: 3
     text: 色重质腻，纹理细致，漆黑如墨，素为治砚、刀工之上佳珍料。
     translated: Deeply saturated and rich in texture, with fine details and as black as ink, it is considered the finest material for making writing stones and blades.
@@ -1887,14 +1887,14 @@
     translated: Onyx
   - split: 3
     text: 玛瑙早期被书写成马脑，最早见于后汉安世高所译的《阿那邠邸七子经》一书。还有说法称，三国时期曹丕同父亲曹操北征乌桓，当地的人进贡玛瑙酒杯一只，曹丕见酒杯红似飞霞，晶莹剔透，便挥笔写下《马脑勒赋》，并在序中说：马脑，玉属也，出西域，文理交错，有似马脑，故其方人固以名之。或以系颈，或以饰勒。余有斯勒，美而赋之。
-    translated: "Early texts wrote magnesite as Má Nǎo, first appearing in the book Anabiblos Qi Zi Jing, translated by An Shihao during the Eastern Han. Another account suggests that during the Three Kingdoms period, Cáo Pí and his father, Cáo Cāo, campaigned against the Wuhuan to the north. The locals presented a magnesite wine cup as tribute. Cáo Pí observed that the cup's color was like drifting clouds and its clarity resembled jade, so he composed Fu on Magnesite and noted in the preface: Magnesite is a type of jade originating from the Western Regions, with interwoven patterns resembling horse brains; thus, locals named it. It can be used as a neck ornament or for decorating chariots. I have such an adornment; it's beautiful, so I wrote about it."
+    translated: "Early texts wrote magnesite as Ma Nao, first appearing in the book Anabiblos Qi Zi Jing, translated by An Shihao during the Eastern Han. Another account suggests that during the Three Kingdoms period, Cao Pi and his father, Cao Cao, campaigned against the Wuhuan to the north. The locals presented a magnesite wine cup as tribute. Cao Pi observed that the cup's color was like drifting clouds and its clarity resembled jade, so he composed Fu on Magnesite and noted in the preface: Magnesite is a type of jade originating from the Western Regions, with interwoven patterns resembling horse brains; thus, locals named it. It can be used as a neck ornament or for decorating chariots. I have such an adornment; it's beautiful, so I wrote about it."
 - lineNum: 189
   raw: it70401	鳄皮	it70401	鳄鱼皮本就是颇佳的皮革，经过妥善处理后做成的护具可有效抵挡一般劈砍。	704	1000	500	TRUE	1	20	4	20	7		0			0
   translated: 
   splits:
   - split: 1
     text: 鳄皮
-    translated: ''
+    translated: Crocodile Leather
   - split: 3
     text: 鳄鱼皮本就是颇佳的皮革，经过妥善处理后做成的护具可有效抵挡一般劈砍。
     translated: Crocodile leather is already an excellent hide, and armor made from it after proper treatment can effectively withstand ordinary slashes and chops.
@@ -1927,7 +1927,7 @@
     translated: Deer skin.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 193
   raw: it70405	山羊皮	it70405	山羊的皮毛，适合缝制成衣物	704	300	150	TRUE	0	3	1	1	2		0			0
   translated: 
@@ -2117,7 +2117,7 @@
     translated: Tiger sinews
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 212
   raw: it70602	黑虎筋	it70605	???	706	1600	800	TRUE	2	16	1	1	8		0			0
   translated: 
@@ -2127,7 +2127,7 @@
     translated: Black Tiger Tendons
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 213
   raw: it70603	白虎筋	it70606	变异而生性凶猛的白虎，其筋韧性极高，是能制作弓弦等物品的出色材料。	706	3500	1750	TRUE	2	60	1	17	11		0			0
   translated: 
@@ -2367,7 +2367,7 @@
     translated: Snowwing Hawk Egg
   - split: 3
     text: 雪翼鵰的蛋。
-    translated: Xuě Yì Diāo's egg.
+    translated: Xue Yi Diao's egg.
 - lineNum: 237
   raw: it80122	手工绣帕	temp	手工绣帕	801	0	0	FALSE	0	50	0	0	0		0			0
   translated: 
@@ -2454,7 +2454,7 @@
   splits:
   - split: 1
     text: 薄绢
-    translated: Bao Juàn
+    translated: Bao Juan
   - split: 3
     text: 夹藏在漱玉矶于家老画夹层间的薄绢，上书「同根阋，同席弃，幼来相戏今相忌。于家地，今非昔，满厅回忆，苦沉胸臆。痛！痛！痛！」。
     translated: 'Hidden between the layers of an old painting owned by the family elder, Shu Yuji, a thin silk scroll was found inscribed with: Roots entangled, sharing meals together; from childhood friends to jealous rivals. The home of the Yu clan is no longer as it once was; memories fill the hall, bitterness lodges in heart and mind. Oh, the pain! The agony!'
@@ -2494,7 +2494,7 @@
   splits:
   - split: 1
     text: 漱石警心瓶
-    translated: Natsume Sōseki's Sense of Foreboding Bottle
+    translated: Natsume Soseki's Sense of Foreboding Bottle
   - split: 3
     text: 能够解开苏府机关的特殊瓶子，一共四只，此为其一。
     translated: Able to unlock one of the four special bottles in the Su family collection. This is the first one.
@@ -2654,7 +2654,7 @@
   splits:
   - split: 1
     text: 东巴经：黑白战争
-    translated: 'Dongba Jīng: The Black-White War'
+    translated: 'Dongba Jing: The Black-White War'
   - split: 3
     text: 纳西族英雄史诗，讲述着上古时期黑部落与白部落之间的战争。
     translated: The Naxi epic of heroes, telling the story of the ancient war between the Black Tribe and the White Tribe.
@@ -2724,7 +2724,7 @@
   splits:
   - split: 1
     text: 玛尼石「吽」
-    translated: Mānì shí hōng
+    translated: Mani shi hong
   - split: 3
     text: 上头刻绘着六字真言之「吽」字的玛尼石，看似珍贵，也许有收藏的价值？。
     translated: The stone carved with the Om of the six-syllable mantra on top appears valuable and might have collectible value.
@@ -3117,7 +3117,7 @@
     translated: Xin Liang Dao Ren's Handwritten Letter
   - split: 3
     text: 心良道人随笔录下的札记。
-    translated: The notes of Xīnliáng Dàorén on his writings.
+    translated: The notes of Xinliang Daoren on his writings.
 - lineNum: 312
   raw: it801001	木府令牌	it801001	木初给予的令牌。只要有了这个，木府卫兵都不敢动你。	801	0	0	FALSE	1	50	0	0	0		0			0
   translated: 
@@ -3327,7 +3327,7 @@
     translated: Plain Bag
   - split: 3
     text: 天龙寺火工头陀果福做的素包。
-    translated: Fire Monastery Tathāgata Guǎfú's vegetarian dumplings.
+    translated: Fire Monastery Tathagata Guafu's vegetarian dumplings.
 - lineNum: 333
   raw: it801022	鲜花素果	it801022	天龙寺知客僧果玉以本地产的野山花与四时蔬果所制成的供品。	801	0	0	FALSE	0	50	0	0	0		0			0
   translated: 
@@ -3417,7 +3417,7 @@
     translated: The Shattered Fragments of the Cunning Hare
   - split: 3
     text: 天书碎片之一，一片破碎的龟甲，上头刻有奔走的野兔，是你于俏梦阁所取得。当你凝视野兔的纹样时，几句谶语自你的脑海中浮现，「…高飙动槁叶，群窜迹如扫…」
-    translated: 'One fragment of the Heavenly Scripture, a piece of cracked turtle shell inscribed with running hares, was obtained by you from Xiàomèng Gé. As you gaze upon the pattern of the hares, some lines of prophecy emerge in your mind: …high gusts sway dry leaves, a multitude scurry leaving traces like sweeping…'
+    translated: 'One fragment of the Heavenly Scripture, a piece of cracked turtle shell inscribed with running hares, was obtained by you from Xiaomeng Ge. As you gaze upon the pattern of the hares, some lines of prophecy emerge in your mind: …high gusts sway dry leaves, a multitude scurry leaving traces like sweeping…'
 - lineNum: 342
   raw: it801031	止水的碎片	it801031	天书碎片之一，一片破碎的龟甲，上头刻有一潭平静的池水，是你从禾泓渊手中所取得。当你凝视池水的纹样时，几句谶语自你的脑海中浮现，「…静抱五龙寐，虚涵一镜空…」	801	0	0	FALSE	5	100	0	0	0		0			0
   translated: 
@@ -3474,7 +3474,7 @@
   splits:
   - split: 1
     text: 洛书
-    translated: ''
+    translated: Lo Shu
   - split: 3
     text: 由六片天书碎片拼凑而成的龟甲，记载天地运行之理。传说同时拥有河图与洛书者，将能一统天下。
     translated: The turtle shell, assembled from six pieces of the Six Heavens Scriptures, records the principles of the movement of heaven and earth. Legend has it that whoever possesses both the Diagram of Lo and the Book of Luo can unify the world under one rule.
@@ -3554,7 +3554,7 @@
   splits:
   - split: 1
     text: 巧匠令
-    translated: Artisan's Command
+    translated: Artisan's Decree
   - split: 3
     text: 一个神秘的竹简。
     translated: A mysterious bamboo slip.
@@ -3637,7 +3637,7 @@
     translated: Jade stone chess set
   - split: 3
     text: 一副以玉石雕刻而成的围棋棋具，价值不斐。似乎是噶玛寺僧侣邓珠的失物。
-    translated: A set of Go stones carved from jade, invaluable in worth. It seems to be a lost item of the monk Dèng Zhū from Gāmǎ Sì.
+    translated: A set of Go stones carved from jade, invaluable in worth. It seems to be a lost item of the monk Deng Zhu from Gama Si.
 - lineNum: 364
   raw: it801056	一把老旧的纸伞	it801056	一把看起来有点历史的纸伞，也许大研镇里会有人知道它的来历？	801	0	0	FALSE	0	50	0	0	0		0			0
   translated: 
@@ -3714,7 +3714,7 @@
   splits:
   - split: 1
     text: 黄玉晶葫
-    translated: Huang Yujing Hú
+    translated: Huang Yujing Hu
   - split: 3
     text: 一世富贵的嫡系葫芦，外表明亮圆润，上面刻有「一世富贵」及「嫡系」等字眼。
     translated: A generation of wealth and honor's legitimate gourd, with a bright and round exterior, inscribed with generation of wealth and honor and legitimate, among other words.
@@ -3774,7 +3774,7 @@
   splits:
   - split: 1
     text: 古开明王城图
-    translated: Gǔ Kāimíng Wángchéng Tú
+    translated: Gu Kaiming Wangcheng Tu
   - split: 3
     text: 据说记载着宝藏所在地的线索，只是似乎无人能解…。
     translated: It is said that the clues to the location of the treasure can only be understood by seemingly no one... .
@@ -3894,7 +3894,7 @@
   splits:
   - split: 1
     text: 灵兔石
-    translated: ''
+    translated: Lotus Rabbit Stone
   - split: 3
     text: 从太华门灵兔长老手中取得的白色圣石。
     translated: The white holy stone obtained from the Old Master Holy Hare of Taihua Gate.
@@ -3944,7 +3944,7 @@
   splits:
   - split: 1
     text: 金丹
-    translated: Jīndān
+    translated: Jindan
   - split: 3
     text: 赤丹宫妖道结合道家内丹与外丹术，以他人肉体为鼎炉、精元为药材所炼成的金丹。每个妖道一生只会反复炼制一颗金丹，因此他们重之几逾性命。
     translated: The Red Cinnabar Palace demon masters combined internal alchemy and external alchemy to create a Golden Elixir using the bodies of others as the cauldron and their vital essences as ingredients. Each demon master can only repeatedly forge one golden elixir in their lifetime, hence they value it more than their lives.
@@ -4234,7 +4234,7 @@
   splits:
   - split: 1
     text: 赤丹宫密信
-    translated: Chìdān Gōng Mìxìn
+    translated: Chidan Gong Mixin
   - split: 3
     text: 从百损道姑身上搜出的密信，内里有她与赤丹宫主同出一门的证据。
     translated: The secret letter found on the White Sorrow Daoist Nun contained evidence that she and the Red Cinnabar Sect Leader were from the same family.
@@ -4254,7 +4254,7 @@
   splits:
   - split: 1
     text: 赤丹宫令牌
-    translated: Chìdān Palace Command Token
+    translated: Chidan Palace Command Token
   - split: 3
     text: 从赤丹宫主身上搜出的令牌，交给凌中岳说不定会有什么奖励。
     translated: The tokens found on the Lady of Red Flame Manor, if given to Lin Zhongyue, might come with some reward.
@@ -4284,7 +4284,7 @@
   splits:
   - split: 1
     text: 腐心草
-    translated: Fǔxīncǎo
+    translated: Fuxincao
   - split: 3
     text: 生长于沼泽之地的奇异植物，开花后散发出一股腐败的气味，恶臭难当。
     translated: A peculiar plant that grows in swampy areas emits a foul, decaying odor when it blooms. The stench is unbearable.
@@ -4364,7 +4364,7 @@
   splits:
   - split: 1
     text: 岳家散手奥义
-    translated: The Art of the Yüeh Clan's Sparring Techniques
+    translated: The Art of the Yueh Clan's Sparring Techniques
   - split: 3
     text: 武穆遗书中所记载，岳家散手的奥义。
     translated: The martial secrets of the Yue family's unarmed techniques as recorded in the Wu Mu's Testament.
@@ -4644,7 +4644,7 @@
   splits:
   - split: 1
     text: 紫草
-    translated: ''
+    translated: Purple Herb
   - split: 3
     text: 紫草根子，认为其性味甘微苦、酸、寒，有清热凉血、活血，解毒透疹的作用。临床上外敷治疗火伤、冻伤、刀伤和湿疹，内服通便和利尿。
     translated: Ligusticum root, considered to have a sweet, slightly bitter, sour, and cold nature. It has effects of clearing heat, cooling blood, activating blood circulation, detoxifying, and relieving rashes. Clinically used externally for treating burns, frostbite, cuts, and eczema, and taken orally to promote bowel movements and diuresis.
@@ -4664,7 +4664,7 @@
   splits:
   - split: 1
     text: 碧蛛藤
-    translated: Bì Zhūténg
+    translated: Bi Zhuteng
   - split: 3
     text: 生长于藏花草棚附近山洞里的珍稀药草，藤茎多刺带毒，是以得名。
     translated: Rare medicinal herbs that grew near the tent of blooming flowers in a mountain cave are known for their thorny, poisonous vines.
@@ -4714,7 +4714,7 @@
   splits:
   - split: 1
     text: 草席
-    translated: ''
+    translated: Matted grass matting
   - split: 3
     text: 可以在野外休息。
     translated: You can rest outdoors.

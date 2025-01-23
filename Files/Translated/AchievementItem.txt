@@ -433,7 +433,7 @@
   splits:
   - split: 1
     text: 狷者
-    translated: An upright and resolute person who adheres strictly to their principles despite any external pressure.
+    translated: ''
   - split: 2
     text: 主角狷介值达到100
     translated: Main character's integrity reaches 100.
@@ -862,10 +862,10 @@
   splits:
   - split: 1
     text: 弭平蔘王山
-    translated: Mr. Mi Ping Shī Wángshān
+    translated: Mr. Mi Ping Shi Wangshan
   - split: 2
     text: 击杀200名蔘王山的成员
-    translated: Eliminate 200 members of the Shī Wáng Mountain's group.
+    translated: Eliminate 200 members of the Shi Wang Mountain's group.
   - split: 12
     text: 黑玉断续膏x3，生生造化丹x3，经验值70000点，江湖声望
     translated: Black Jade Intermittent Ointment x3, Creation and Transmutation Elixir x3, Experience Points 70,000, Reputation in the Martial World.
@@ -998,7 +998,7 @@
     translated: You have defeated the Boar King Widowmaker that was rampaging outside of Gongsishan Village!
   - split: 12
     text: 白云熊胆丸x3，经验值3500点，江湖声望
-    translated: Báiyún Xióng Dànwán x3, experience points 3500, martial world reputation.
+    translated: Baiyun Xiong Danwan x3, experience points 3500, martial world reputation.
 - lineNum: 77
   raw: 'ach0152	「红斑」	你击败了鳄鱼王「红斑」！	Img_Achieve_Cooper.png	0	1	2	FALSE	1	-1	(A_n59001,1)	0	止血生肌丸x3，经验值3500点，江湖声望	{ "MultiAction" : [ { "InventoryAction" : 0, "it40110", 3} , { "AddExpAction" : 3500} , { "SetNpcPropertyAction" : 111, 5, 0, "Player"}  ]}	0'
   translated: 
@@ -1021,7 +1021,7 @@
     translated: White Pattern
   - split: 2
     text: 你击败了鳄鱼王「白纹」！
-    translated: You defeated the Crocodile King Báiwén!
+    translated: You defeated the Crocodile King Baiwen!
   - split: 12
     text: 止血生肌丸x3，经验值3500点，江湖声望
     translated: Hemostatic Regenerative Pill x3, experience value 3500 points, martial world reputation
@@ -1486,7 +1486,7 @@
   splits:
   - split: 1
     text: 干戈
-    translated: Arms and Warfare
+    translated: ''
   - split: 2
     text: 取得干戈的碎片
     translated: Obtaining fragments of weapons of war.
@@ -1554,7 +1554,7 @@
     translated: Turned Heavens Dragon
   - split: 2
     text: 与骆元玉成为队友
-    translated: To become teammates with Lü Yuanyu.
+    translated: To become teammates with Lu Yuanyu.
   - split: 12
     text: 经验值500点，江湖声望，千年灵芝
     translated: 'Experience Points: 500, Reputation in the Martial World, Thousand-Year Lingzhi Mushroom.'
@@ -1564,7 +1564,7 @@
   splits:
   - split: 1
     text: 马帮千金
-    translated: Má Fèng's thousand gold daughter
+    translated: Ma Feng's thousand gold daughter
   - split: 2
     text: 与禾郁青成为队友
     translated: To become teammates with Wei Yuqing.
@@ -1762,7 +1762,7 @@
     translated: Revitalize the Kingly Way
   - split: 2
     text: 完成段思平的好友任务
-    translated: Complete the friend task for Shī Píng Dé.
+    translated: Complete the friend task for Shi Ping De.
   - split: 12
     text: 经验值5000点，冰蚕丝
     translated: 'Experience points: 5,000, Frostworm Silk'
@@ -1866,7 +1866,7 @@
     translated: Mistress of the Elegant Dream Pavilion
   - split: 2
     text: 完成樊香蝶的好友任务
-    translated: Complete the friendship quest for Fán Xiāngdié.
+    translated: Complete the friendship quest for Fan Xiangdie.
   - split: 12
     text: 经验值5000点，乌金
     translated: 'Experience points: 5,000; Dark Gold.'
@@ -1931,7 +1931,7 @@
     translated: Wipe out completely; exterminate thoroughly.
   - split: 2
     text: 完成司徒荆的好友任务
-    translated: Complete the friend task of Sītú Jīng.
+    translated: Complete the friend task of Situ Jing.
   - split: 12
     text: 经验值5000点，紫金
     translated: 'Experience points: 5,000; Amethyst Gold.'
@@ -1993,7 +1993,7 @@
   splits:
   - split: 1
     text: 茅塞顿开
-    translated: Máosāidùnkāi
+    translated: Maosaidunkai
   - split: 2
     text: 精通五本武学秘籍
     translated: Mastery of the Five Martial Classics
@@ -2175,7 +2175,7 @@
   splits:
   - split: 1
     text: 机巧
-    translated: Skillful and ingenious in martial arts techniques.
+    translated: Mechanical Ingenuity
   - split: 2
     text: 精通巧系的所有感悟
     translated: Mastery of the insights from all aspects of Qi cultivation.
@@ -2201,7 +2201,7 @@
   splits:
   - split: 1
     text: 行者
-    translated: Wanderer
+    translated: Traveller
   - split: 2
     text: 修练水浒英雄掌
     translated: Train in the Water Margin Heroes Palm Technique
@@ -2285,7 +2285,7 @@
     translated: Practice the Qi Cultivation Song Verse
   - split: 12
     text: 经验值2000点，承气饮3瓶，天山雪莲
-    translated: 'Experience points: 2,000; Drink three bottles of Qìnghé Yàntǐan; Tiānshān Xuělián.'
+    translated: 'Experience points: 2,000; Drink three bottles of Qinghe Yantian; Tianshan Xuelian.'
 - lineNum: 176
   raw: 'ach0330	才不会忘记你呢	重新学习修练野球拳	Img_Achieve_Iron.png	0	3	1	FALSE	1	-1	(A_SkillTree000_010,1)	0	经验值200点，小还丹2颗	{ "MultiAction" : [ { "AddExpAction" : 200} , { "InventoryAction" : 0, "it40101", 2}  ]}	0'
   translated: 
@@ -3413,7 +3413,7 @@
     translated: The piece ends with a refined performance.
   - split: 2
     text: 完成樊香蝶的结局
-    translated: Finish the ending of Fān Xiāngdié.
+    translated: Finish the ending of Fan Xiangdie.
   - split: 12
     text: 无奖励
     translated: No reward.
@@ -3491,7 +3491,7 @@
     translated: Finger of venomous intent
   - split: 2
     text: 完成程雁华的第二个结局
-    translated: Complete Chéng Yànhuá's second ending.
+    translated: Complete Cheng Yanhua's second ending.
   - split: 12
     text: 无奖励
     translated: No reward
@@ -3696,7 +3696,7 @@
   splits:
   - split: 1
     text: 机巧
-    translated: Skillful and ingenious in martial arts techniques.
+    translated: Mechanical Ingenuity
   - split: 2
     text: 主角精通巧系的所有感悟
     translated: The protagonist has mastered all the insights of the Koa System.

@@ -1,178 +1,198 @@
-defaultNickname	No title	No titles are used.			
+defaultNickname	Titleless	Do not use any titles.
 #上面defaultNickname不要删掉，那是每个角色最初始的称号					
-nick000	Guest from the sky	The first to get the title, to this world, I am a visitor from beyond the sky. (Test)	(MaxHP,0)	Player	
-nick001	Reincarnation of the Shen Nong	20% chance to get a double portion when gathering herbs.		Player	nick001
-nick003	Gold miner	20% chance of getting a double when collecting ore.		Player	nick003
-nick004	Transparent Man	It is less likely to be detected when casting Myriad Hands. (Chance of detection reduced by 50%.)		Player	nick004
-nick005	Rich	10% increase in money gained		Player	nick005
-nick006	The Chosen One.	Wild Ball Fist base damage +20%, and the damage bonus will increase with level up.		Player	nick006
-nick007	Tennan Wangdao	Reduce your negative stats by 5 points per turn within 2 squares of your opponent.		n51001	nick007
-nick008	Twilight feather in a turnip forest	If you stay within 2 units of Heteroplasty of Ho, you will be poisoned for 8 points per turn		n90405	nick008
-nick009	Snow Mountain Eagle	During battle, Snowwing Eagle joins the fray; adds 25% more damage to their own bows and arrows, and all friendlies gain the status of "Eagle". The Hunters'		n50060	nick009
-nick009b	Wings for a thousand miles	20% chance of evading attacks		n50070	nick009b
-nick009c	Snow Mountain Eagle	When you enter, Falcon joins the battle; you increase the damage of your own bow by 25%, and all your friends gain the status "Eagle Hunter".		n50060	nick009c
-nick009d	The Eagle of the Snowy Mountains	25% increase in damage from own bow and arrow		n50060	nick009d
-nick009e	Raise one's wings and fly a thousand miles	You have a 10% chance to dodge attacks, and have a status of "Paralyzing Poison" attached to you.		n50070	nick009e
-nick010a	Lady Loh's commentary	When Yen Yushu is on the field, all teammates' attack power increases by 50%.		n09999a	nick010a
-nick010b	Lancet Interpretation	When Yen Yushu is on the field, all teammates' attack power increases by 50%.		n09999b	nick010b
-nick011	A Thousand Goldens of the Horse Gang	10% increase in cumulative blast rate per hit, 50% increase in blast damage.		n20049	nick011
-nick012	Spring Breeze in October	You have a chance to dodge enemy attacks, the higher your lightness, the higher your dodge rate.		n60005	nick012
-nick013	The Pointing Fairy	30% increase in power of moves with two swords or two skirmishers		n60040	nick013
-nick014	Blood Fiend Guanyin	When attacking a male, 25% chance of causing 15 points of stun and 15 points of confusion.		n60100	nick014
-nick015	Sorrento Gogi	When unloading, it takes off 60% of its damage; each shot makes the enemy more likely to target the enemy. turn over to oneself		n20033	nick015
-nick016	Blue Sky, Lonely Moon	The damage dealt to the enemy is greater when you use "Four Taels of Gold" and "Borrowing Power".		n09997	nick016
-nick017	Yu Bone Chi Lan	When the Blood Replenishment skill is applied, the Blood Replenishment effect increases to 125%.		n60400	nick017
-nick018	Hate the sea of lonely souls	+10% of own attack power per round, up to 50% cumulative; +10 to own internal damage per round		n53001	nick018
-nick018b	Hate the sea of lonely souls	+10% of own attack power per turn, up to 50% cumulative; additional damage from blast damage is added when blast is used. 25%		n53001	nick018b
-nick019	Demon King of the Mountain Mandrill	30% more powerful when attacking from the back, 15% of damage is converted to your blood when attacking.		n20286	nick019
-nick020	Confucian Heart and Sword Courage	+25 knockback points per turn, all friends gain the status "Ru-Sword Formation".		n70044	nick020
-nick021	The Broad Cold Fairy	If you perform a martial art with a freezing effect, the move is more powerful.		n09996	nick021
-nick022	The King of the Winds of Hiawatha	When you launch a blast, regain 3 points of energy; all friends gain the status "Wind King Formation".		n07002	nick022
-nick023	The fat sheep	And Pai, who was so tender and delicious, everyone wanted to eat him.		n21131	nick023
-nick024	Insanity.	Each attack has a chance to send the enemy into confusion, and the enemy will not be able to tell you apart for three rounds. The higher the enemy's stun and disorientation points, the higher the chance of falling into confusion.		n60402	nick024
-nick025	Vicious and ruthless.	For every enemy killed, regain 3 points of your energy		n60130	nick025
-nick026	The Kun of Flipside	Every time you make a move, you have a 30% chance of recovering 1 point of energy.		n60273	nick026
-nick027	Silver Hooks and White Colours	During the battle, Snowfall joins the fray.		n60560	nick027
-nick028	Lone Star of Heavenly Fury	If there are no friendlies, damage and damage reduction are increased by 50%, remove 12 points of negative status per round, and recover per attack. 1 point of energy, every 3 attacks, 15% of your life and internal energy.		Player	nick028
-nick029	God of Blade	All blade power +70%.		Player	nick029
-nick030	Knife Frenzy	All blade power +40%.		Player	nick030
-nick031	Astonishing waves and waves of madness	Wave of Stunning Sword Technique and Rampant Sword Power +30%.		Player	nick031
-nick032	Five Tiger Broken Door Knives	Five Tigers Broken Gate Sword power +30%.		Player	nick032
-nick033	Four Elephant Knife	Four Elephant Sword power +30%.		Player	nick033
-nick034	Sancai Knife	Sancai Knife power +30%.		Player	nick034
-nick035	Villagers	Fist and Kicks power +50%.		Player	nick035
-nick036	Elite villagers	Flower Fist and Kicks Power+100%.		Player	nick036
-nick037	Can't control your hands.	30% less chance of theft being detected		Player	nick037
-nick038	Borrowing the usual	50% reduction in the chance of theft being detected		Player	nick038
-nick039	The King of Thieves	Theft will not be detected		Player	nick039
-nick040	Sentimentality.	Increase aptitude by 10 points, but each time your negative stats increase, they increase by 30%.	(Intelligence,10)	Player	nick040
-nick041	Fruit Throwing Pan Lang	Female teammates who engage in combat have 30% more damage; however, they are vulnerable to enemy lockdown during combat.		Player	nick041
-nick042	Reincarnated Warrior.	Each time the target is attacked from the front, there is a 25% chance that the target will accumulate 10 false bone points; each time the target is attacked from the side, there is a 25% chance that the target will accumulate 10 false bone points. When attacking from the back, you have a 25% chance to accumulate 10 points of Confusion.		Player	nick042
-nick043	Hindsight.	Physique increases by 10 points; and each time one's negative stats increase, the increase is reduced by 30%.	(Physique,10)	Player	nick043
-nick044	Martial Artist.	The power of your martial arts increases as you grow in level.		Player	nick044
-nick045	No body.	When gathering herbs and ores, 40% chance of getting double, but the amount of money you get will be reduced by 20%.		Player	nick045
-nick046	Hero Warrior	Your offensive and defensive abilities will increase with your Jianghu reputation.		Player	nick046
-nick080	True Weakling.	Well, you really are the Weakling himself, no surprise.		Player	
-nick081	Jade Dragon War God	When equipped with the Jade Dragon Lance, the power of the Lance Stick move is +25%.		Player	
-nick082	The King of Thieves	When equipped with the Jade Dragon Lance, the power of the Lance Stick move is +25%.		Player	
-nick083	Legend of Nasi	When equipped with the Jade Dragon Lance, the power of the Lance Stick move is +25%.		Player	
-nick084	Hundred Steps to a Hundred-Year Journey	Bow and arrow damage increased by 15%.		Player	nick084
-nick085	Eagle of the Northern Mountains	Bow and arrow damage increased by 20%.		Player	nick085
-nick086	Jade Dragon Eagle	Bow and arrow damage is increased by 25%; your and Adel Ak's bow and arrow damage is increased by an additional 25% when Adel Ak is in the group. 15%		Player	nick086
-nick091	"The Poisonous Hand	Every blow from this unit is highly poisonous!			nick091
-nick092	"God of Boxing	The Ultimate Martial Arts Champion, the God of Boxing is invincible!			nick092
-nick103	Iron Leopard Silver Lance	When fighting, Black Panther joins the fray; increases the damage of his moves by 5% each round, up to 50%.		n07003	nick103
-nick110	The Master	Remove all negative status for 25 points when you launch a blast.		n50004	nick110
-nick101	A hundred feet does not get stiff.	Increases evasion rate by 2% per round, capped at 20%.		n90425,n90425b	nick101
-nick102	Jingzhai Maiden	Enemy troops within 2 units of Nether White Peony, accumulate 12 points of poisoning and 6 points of confusion per turn.		n51009,n51009b	nick102
-nick104	Nanzhao Young General	Every friendly soldier within 10 units of Duan Siliang increases his blast rate by 5% at the beginning of each turn.		n90402	nick104
-nick105	Famous Families	Enemy troops within 5 units of Dong Jialo, reduce blast rate by 15% at the start of each turn.		n90403	nick105
-nick106	Successor of the Tudor	At the start of each turn, you will be able to restore 15% of your enemy's blood value to your friends within 2 units of you, and increase your ranged attack rate by 15%.		n50048	nick106
-nick107	The Kifu Warlord	Increase your own blast rate by 20% when you launch a blast, and add "Battle Intensity" to yourself and your friends within 2 squares.		n50065,n50065b	nick107
-nick108	Three Warlords.	For every enemy within 2 units of you, you will receive 1 point of energy from your own blast.		n50073a,n50073a2	nick108
-nick111	All Under Heaven	Second Idiot inherent title, damage increased by 10 per cent for every 10 per cent blood loss. At the beginning of each round, negative status is reduced by 20 points.		n09998,n09998a	nick111
-nick112	Follow your heart	Inherent title of Xinliang Taoist, 25% increase in attack rate and unload rate per turn.		n70045	nick112
-nick114	Poison Hand Massacre	Attacking target increases damage by 1% for every 1 point of poison accumulated.		n00102	nick114
-nick115	Donghao	25% chance to attack twice when using Thunderbolt Firebolt		n90201	nick115
-nick116	South Leisure	At the start of each round, you will randomly regain between 2 and 8 points of your energy.		n20230	nick116
-nick117	Western kitchen	50% of damage on attack is converted to your own blood.		n07006	nick117
-nick118	Northern Ugliness	Increase attack power by 100% when you trigger a combo, lasts one round.		n07007	nick118
-nick119	Martial Arts Barriers (clumsy)	Martial Arts Barriers (clumsy)			nick119
-nick120	Martial Arts Barrier (Quiet)	Martial Arts Barrier (Quiet)			nick120
-nick121	Martial Arts Barriers (Soft)	Martial Arts Barriers (Soft)			nick121
-nick122	Martial Arts Barriers (Qiao)	Martial Arts Barriers (Qiao)			nick122
-nick123	Martial Arts Barrier (movement)	Martial arts barriers (movement)			nick123
-nick124	Martial Arts Barrier (Kong)	Martial Arts Barrier (Kong)			nick124
-nick125	Chitanic Kui Puppet	Target accumulates 2 points of poisoning, 2 points of trauma, and 2 points of tendon damage during an attack.		n00095a,n00095b,n00095c,n00095d,n00095e,n00095f	nick125
-nick126	Commander of the Nishikawa military forces	Decreases all feat points by 25 points per turn against enemies within 3 units of the enemy.		n07001,n07001a	nick126
-nick126b	No pardon for the owner.	Decreases all feat points by 25 points per round against enemies within 3 units of you; when using Wild Ball Fist, 75% increase in move power		n07001,n07001a	nick126b
-nick127	Mixed Element Pushers	If the target is a male, he will accumulate 10 points of internal damage. 10:00.		n90215	nick127
-nick128	The Cold Face of Hell	When launching a virtual move, 25% chance to apply "King of Hell" to the target, reduce internal power by 3 points per turn.		n07004	nick128
-nick129	Soul Snatcher	10% chance to dodge attacks; increase your energy by 3 points when you launch a virtual move.		n52009,n52009b	nick129
-nick130	Hunger.	After attacking, you will have a 25% chance to consume a meat bag from your backpack and add "Satiate" to yourself. Restores 15% of qi and blood and 1 point of energy		n50071,n50071b	nick130
-nick131	Lose all your money.	Each attack has a 50% chance of dealing 250% damage to the target and a 50% chance of dealing 25% damage.		n20191	nick131
-nick132	Two times in May.	Deals 1 additional damage to the target when you launch a combo.		n60231	nick132
-nick133	The Big Pot	The less blood you have, the more damage you can do with a blast (for every 10% less blood you have, the extra damage you can do with a blast increases by 10%).		n20000	nick133
-nick134	Young Master of the Ye Family	Increase damage by 50% if the target is male, decrease damage if the target is female 50%		n20137	nick134
-nick135	Ye Clan Master.	Increase move damage by 5% per move, up to 50%.		n20146	nick135
-nick136	Frost-haired Roses	When an enemy attacks a friend within their own counter attack range, there is a 25% chance that the enemy will counter attack.		n90602,n90602c	nick136
-nick137	Loyalty and Righteousness	Each turn, you can get 10% of your blood back and 10% of your counterattack rate from 2 units around you.		n90603	nick137
-nick138	The Iron Mask	When you launch a blast, regain an extra 3 points of energy.		n20037	nick138
-nick139	Bloodthirsty Manslaughter	For every enemy you kill, you will receive an additional 3 points of energy.		n19976,n19976a	nick139
-nick140	The Great Dark Sky Shelter	Increases ranged and burst rate by 8% per move.		n00013,n00013b	nick140
-nick141	The Buddha's light is boundless.	When attacking, if the target is a person of low morals, the damage of the move is increased by 75%.		n20586	nick141
-nick142	Mo Xue Twin Swords	Increase self evasion rate, 8 points of stun when attacking.		n20245	nick142
-nick143	Mo Xue Twin Swords	Increase your own evasion rate, causing 8 points of confusion when attacking.		n20246	nick143
-nick144	Château Dahl	Increases evasion rate by 1% per round, up to 10%; increases blast rate by 2% per round		n60302	nick144
-nick145	Jiro Château	Increases evasion rate by 1% per round, up to 10%; increases ranged and virtual attack rate by 2% per round		n60303	nick145
-nick146	Château Saburo	Increases evasion by 1% per round, up to 10%, and increases ranged by an additional 5% per round.		n60301	nick146
-nick147	The owner of the winery	Increases evasion rate by 3% per round, up to 15%, and increases virtual move rate by an additional 9% when attacking combos.		n60304	nick147
-nick148	The old lady of the estate	Increases evasion rate by 3% per round, up to 15%, and increases burst rate by an additional 9% when you launch a combo.		n60305	nick148
-nick149	Commander of the Imperial Guard	Each turn, all Special Attacks are reduced by 10 points for enemies within 2 units of your opponent.		n60340	nick149
-nick150	The Pointing Swordsman	Increase your attack power by 5%, up to 50%, after you launch a counterattack.		n60007	nick150
-nick151	Border Guard General	All friendly troops on the field, 15% damage reduction.		n20495,n20495b	nick151
-nick152	Wolf Barbarian Master	For every enemy you kill, you will regain 30% of your blood and 3 points of your energy.		n20510	nick152
-nick153	The Imperial Family of Great Yan	Reduces target's energy by an additional 2 points if counterattacking, waiting for a rabbit, or waiting for a sparrow.		n20513	nick153
-nick154	Nine Bags of Elders	Increase attack power by 50% when your qi blood is less than 60%, and increase attack power by 30% when your qi blood is less than 30%. 100%.		n20583	nick154
-nick155	Deputy Master of Amoy Stone	Increase your damage by 5%, up to 30%, when you unleash Unload.		n60001	nick155
-nick156	Master of the Taoist Stone Gang	Add 5% damage to your moves, up to 50%, after you launch a blast.		n60002	nick156
-nick157	Snake Beggar	Increase your combo rate by 15% after launching a virtual move.		n60055	nick157
-nick158	Peasant Unrivalled	Increase damage by 200% when using the move "Crop Handle".		n00017	nick158
-nick159	Grandpa Fox Fairy	Causes an additional 15 points of stun on the target when attacking from behind.		n60004,n60004a,n60004b,n60004c	nick159
-nick160	Jing Da Shanren	Increase your unload rate and knockback rate by 15% per turn when your blood pressure is below 50%.		n60068	nick160
-nick500	Knock on wood.	20% discount on Blacksmith Shop's goods and services!		Player	
-nick501	No one thinks he is home.	20% discount on goods and services at the hotel!		Player	
-nick502	Hands are a little tighter.	20% discount on pawn shop goods and services!		Player	
-nick503	Skin wants flesh not flesh.	20% discount on fur shop goods and services!		Player	
-nick504	Cut that one up for me too.	20% discount on goods and services from the butcher shop!		Player	
-nick505	Anything can be received.	20% off grocery store goods and services!		Player	
-nick506	No sickness is strong.	20% discount on goods and services at the drugstore!		Player	
-nick507	Vegetarian	20% discount on goods and services at Vegetable Shop!		Player	
-nick508	Sweet and juicy.	20% discount on goods and services from The Fruit Shop!		Player	
-nick509	Trouble Descaling	20% discount on Fish Shop's goods and services!		Player	
-nick510	The Old Tree with Dead Vines	The woodcutters get a 20% discount on their goods and services!		Player	
-nick511	The Buddha wants a gold dress.	A 20% discount on goods and services at Boozhuang!		Player	
-nick512	Food for the people is the order of the day.	20% discount on goods and services in the cafeteria!		Player	
-nick513	Full of wine and food	20% discount on goods and services at the restaurant!		Player	
-nick514	The Golden Jade House	20% discount on goods and services from YuFang!		Player	
-nick515	"Friends of the Great Apes	The king of the great apes, Monkey Three, is now at your disposal!		Player	nick515
-nick516	"The Widowmaker	The Boar King "Widowmaker" is now at your disposal!		Player	nick516
-nick517	"Red Spots	The Crocodile King "Red Spot" is now at your disposal!		Player	nick517
-nick518	"White Stripes	The Crocodile King "White Stripe" is now at your disposal!		Player	nick518
-nick519	"Violent Teeth	Black Lycan "Tyrannosaurus" is now at your disposal!		Player	nick519
-nick520	"White Teeth	Snow Wolf King "White Fang" is now at your disposal!		Player	nick520
-nick521	"Iron Axe	The Black Bear King "Iron Axe" is now at your disposal!		Player	nick521
-nick522	"Silver Palm	The White Bear King "Silver Palm" is now at your disposal!		Player	nick522
-nick523	"Black Bones	The Black and Blue Tiger King "Black Bone" is now at your disposal!		Player	nick523
-nick524	"Nampachi	The White Tiger King "Nam Tai Tin" is now at your disposal!		Player	nick524
-nick525	"Can't stop crying	The Golden Monkey King "can't stop crying" is now at your disposal!		Player	nick525
-nick526	"Nightshade	Black Panther King "Night Shadow" is now at your disposal!		Player	nick526
-nick527	"Snow Shadow	Snow Leopard King "Snow Shadow" is now at your disposal!		Player	nick527
-nick528	"Giant Wood	The Pusque-snake King "Giant Wood" is now at your disposal!		Player	nick528
-nick529	"King of the Great Apes	Monkey Three attracts the attention of all enemies in battle and removes some of its own negative status at the end of its turn.		n80150,n80150a,n80150b,n80150c,n80150d,n80150e	nick529
-nick530	"Breaking Vanguard	The Widowmaker's attacks cause severe internal damage to the enemy.		n59003,n59003_a01,n59003_a02,n59003_a03,n59003_a04,n59003_a05	nick530
-nick531	"Lord of the River	Every three hits, White Stripe will always hit back at the opponent.		n59001d,n59001d_001,n59001d_002,n59001d_003,n59001d_004,n59001d_005	nick531
-nick532	"Golden Mane	The legendary King of Beasts, Gold Mane, is now at your disposal!		Player	nick532
-nick533	"Tooth-Tooth	Black Lycan's sharp teeth can inflict severe trauma and infected poison on enemies.		n59002,n59002_a01,n59002_a02,n59002_a03,n59002_a04,n59002_a05	nick533
-nick534	"A Flash of White Teeth	The White Wolf King has a chance to deal two damage to the enemy and additional trauma.		n21125,n21125_a01,n21125_a02,n21125_a03,n21125_a04,n21125_a05	nick534
-nick535	"Lord of the Swamp	Bloodthirsty Giant Crocodile Red Spot will turn 30% of the damage inflicted into your own blood.		n59001,n59001_01,n59001_02,n59001_03,n59001_04,n59001_05	nick535
-nick536	"Split Mountain Strike	The Black Bear King's Iron Axe will attract enemies' attention during battle, and has the chance to knock them unconscious.		n59004,n59004_a01,n59004_a02,n59004_a03,n59004_a04,n59004_a05	nick536
-nick537	"Icebreaker" Hammer	White Bear King Silver Paw will attract enemy's attention during the battle, and has the chance to knock them unconscious.		n59004f,n59004f_a01,n59004f_a02,n59004f_a03,n59004f_a04,n59004f_a05	nick537
-nick538	"King of Forest	The Tiger King's Black Bones inflicts severe trauma on enemies and redirects 30% of the damage inflicted to his own blood.		n59005f,n59005f_a01,n59005f_a02,n59005f_a03,n59005f_a04,n59005f_a05	nick538
-nick539	"Lord of the Mountain	Tiger King Nampachi deals severe trauma to enemies and redirects 30% of the damage inflicted to his own blood.		n59005,n59005_a01,n59005_a02,n59005_a03,n59005_a04,n59005_a05	nick539
-nick540	"Hustle and Bustle	Every third attack will be a virtual move, and there is a certain chance to dodge the enemy's attacks.		n59006,n59006_a01,n59006_a02,n59006_a03,n59006_a04,n59006_a05	nick540
-nick541	"Shadow Surge	Black Shadow can deal high damage to enemies with trauma effect, and also has a certain chance to dodge enemies' attacks.		n59007_B01,n59007_B01a,n59007_B01b,n59007_B01c,n59007_B01d,n59007_B01e	nick541
-nick542	"Blood Attack	Snow Shadow can deal high damage to enemies with trauma effect, and convert some of the damage into your own blood.		n59007_W01,n59007_W01a,n59007_W01b,n59007_W01c,n59007_W01d,n59007_W01e	nick542
-nick543	"Poison King	Giant Wood's attacks are highly poisonous, and it can also dodge enemies' attacks in battle.		n59008,n59008_001,n59008_002,n59008_003,n59008_004,n59008_005	nick543
-nick544	"Legendary Beast King	The Golden Mane of the Beast King is unrivalled and unmatched.		n59009,n59009_a01,n59009_a02,n59009_a03,n59009_a04,n59009_a05	nick544
-nick600	"Northern Warrior	In the name of the Northern Warrior, the power of fists, palms and arrows increases by 25%, and there is a 50% chance to deal damage to the enemy! 2 damage.		n80416,Player	nick600
-nick601	"Snowy Mountain Flying Fox	Snow Mountain Warrior, Knife power increases by 30%, all damage skills carry trauma effects.		n80417,Player	nick601
-nick602	"Old Poison	Martial Arts Champion, King of Poison, all skills are 30% more powerful, and your every strike is poisonous.		n80419,Player	nick602
-nick603	"Smiling and Proud of Jiang Hu".	The power of your swordsmanship increases as your swordsmanship increases, and you have a 20% chance to dodge damage in combat.		n80420,Player	nick603
-nick604	"Magic Walk Hundred Transformations	You'll get more experience points in battle if you're smart, and you have a 25% chance of avoiding damage in battle. .	(Intelligence,10)	n80421,Player	nick604
-nick605	"West Madness	The higher the Frenzy value, the more powerful the kung fu, the more powerful the swordsmanship by 30%.		n80422,Player	nick605
-nick606	"Snapping Finger Magic	Dark weapon power increases by 40%, 30% chance to dodge damage in battle.		n80423,Player	nick606
-nick607	"Compassion	The power of all skills increases by 40%, and the higher the moral, the more powerful the skill.		n80424,Player	nick607
-nick608	"Dragon Slapping	Power of Fist and Palm increases by 40%, all damage skills have internal damage effect.		n80425,Player	nick608
-nick609	"Reincarnation Avatar	All skills are 30% more powerful, and have a 25% chance of dealing 2 damage to enemies.		n80426,Player	nick609
-nick610	"Man of Legend	All skills are 50% more powerful and have a 50% chance of dealing 2 damage to enemies.	(Intelligence,10)(Physique,10)	n80427,Player	nick610
+nick000	Stranger from the stars	The first title I obtained in this world makes me a stranger from beyond the heavens. (Test)	(MaxHP,0)	Player
+nick001	Zaishi Shenngong	When collecting medicinal herbs, there is a 20% chance of obtaining double the amount.		Player	nick001
+nick003	Gold Prospector Miner	When collecting ore, there is a 20% chance of obtaining double the amount.		Player	nick003
+nick004	Transparent person	When Shi Zhan employs Miao Shou Kong Kong, it is comparatively harder to be discovered (the probability of being detected decreases by 50%).		Player	nick004
+nick005	Second-generation wealthy individual	Receive a 10% increase in money.		Player	nick005
+nick006	The Chosen One	Base damage from Yakyuken increased by 20%, and the damage bonus will also increase with level.		Player	nick006
+nick007	King Wang of Tiannan	Within a two-square radius around allies, reduce their own negative status by 5 points each turn.		n51001	nick007
+nick007P	Rejuvenating the Kingly Way	Within a 4-tile radius around allies, reduce own negative status by 5 points and increase own positive status by 3 points per turn.		n51001	nick007Plus
+nick008	Thicket Forest Poisonous Feathers	If within a distance of 2 units from He Zhiwan, be poisoned for 8 points each turn.		n90405	nick008
+nick008P	Swallowing Arsenic with a Pair of Wings	If you remain within a 4-unit distance of He Ziwang for an entire round, you will be poisoned by 8 points and your teammates' damage will be reduced by 5 points.		n90405	nick008Plus
+nick009	Snow Mountain Divine Eagle	During battle, the Snowwing Eagle enters the fray; its own bow and arrow damage increases by 25%, and all allies gain the status Falcon Hunter.		n50060	nick009
+nick009b	Soar across a thousand miles	20% chance to evade attacks		n50070	nick009b
+nick009c	Snow Mountain Holy Eagle	Upon entry, the Falcon joins the battle; its own archery damage increases by 25%, and all allies gain the status Hawk's Hunt.		n50060	nick009c
+nick009d	Snow Mountain Divine Eagle	Self-inflicted archery damage increased by 25%.		n50060	nick009d
+nick009e	Soar a thousand miles.	There is a 10% chance to evade the attack and inflict the status Paralysis Poison on oneself.		n50070	nick009e
+nick009P1	The Phoenix Soars Again	During battle, Snowwing Hawk joins the fight; its own archery damage increases by 40%, and all allies gain the status Hawk-Eye Archer.		n50060	nick009P1
+nick009P2	The Soaring Phoenix Rises Again	Upon entry, the Falconer joins the battle; personal archery damage increased by 40%, and all allies gain the status Hawkeye Marksman.		n50060	nick009P2
+nick010a	Lan Hui Jieyu	When Yan Yushu is on the field, all teammates' attack power increases by 50%.		n09999a	nick010a
+nick010aP	Ethereal and secluded orchids.	When Yan Yushu is on the field, all teammates' attack power increases by 50%, and damage taken decreases by 10%.		n09999a	nick010aP
+nick010b	Lan Hui Jie Yu	When Yan Yushu is on the field, all teammates' attack power increases by 50%.		n09999b	nick010b
+nick010bP	Graceful speech and charming demeanor.	When Yan Yushu is on the field, all teammates' attack power increases by 50%, and damage reduction of 10%.		n09999b	nick010bP
+nick011	Ma Bang Qinjin	Each time you take a hit, your critical hit rate increases by 10%, and the critical hit damage is increased by 50%.		n20049	nick011
+nick011P	Chief of the Ma Gang	Every time you take a hit, the critical hit rate increases by 20%, and critical damage is increased by 80%.		n20049	nick011P
+nick012	Spring breeze in October	There is a chance to evade enemy attacks; the higher one's martial arts skill, the higher the evasion rate.		n60005	nick012
+nick012P	Eldest Master	The higher one's agility, the higher their evasion rate; when backstabbing, it additionally causes the target to be stunned for 15 points.		n60005	nick012P
+nick013	Peakless Immortal Maiden	The power of techniques involving two swords or short weapons is increased by 30%.		n60040	nick013
+nick013P	Maiden of the White Horse	The power of dual-sword or dual-weapon techniques increases by 50%, and agility is enhanced by 10 points during combat.		n60040	nick013P
+nick014	Blood Demon Guanyin	When the target is male, there is a 25% chance to inflict 15 points of dizziness and 15 points of confusion on the opponent.		n60100	nick014
+nick014P	Madame Dreaming Pavilion Mistress	When the target is male, skill damage increases, with a 25% chance to cause 15 points of stun and 15 points of confusion.		n60100	nick014P
+nick015	Cheng Tian Gao Yi	Upon releasing pressure, it can negate 60% of the damage taken; each move makes the enemy more inclined to shift their target towards oneself.		n20033	nick015
+nick015P	The greatest among the righteous warriors.	When discharging internal energy, one can deflect 80% of the damage inflicted upon oneself; each time they act, it makes the enemy more likely to turn their target towards them.		n20033	nick015P
+nick016	The Lone Moon in a Clear Sky	Leveraging the principle of move two catties and displace a thousand ounces, inflicting greater damage on an opponent by borrowing strength.		n09997	nick016
+nick016P	Clear sky and bright moon	Utilize the principle of four ounces moving ten thousand pounds and leverage to maximize damage against enemies; reduce damage taken by 10%.		n09997	nick016P
+nick017	Jade bone orchid lily	When Shi Zhan uses the healing skill, the healing effect is increased by 125%.		n60400	nick017
+nick017P	Adept at Concealing Flowers	When Shi Zhan uses the Blood Replenishment skill, the effect is enhanced to 130%; damage reduced by 10%.		n60400	nick017P
+nick018	Vengeful Spirit of the Sea of Hatred	Each round increases your attack power by 10%, up to a maximum of 50%; each round, your internal damage value increases by 10.		n53001	nick018
+nick018b	Sea of Hatred's Lonely Soul	Each round, self-attack power increases by 10%, accumulating up to a maximum of 50%; when critical hits are triggered, critical hit damage is additionally increased by 25%.		n53001	nick018b
+nick018bP	Unparalleled Master of Skill	Each turn, increase own attack power by 10%, with a maximum accumulation of 80%; when triggering a critical hit, critical damage increases by an additional 30%.		n53001	nick018bP
+nick019	Mountain Demon King	Backstab deals 30% more damage and converts 15% of attack damage to the attacker's own Qi.		n20286	nick019
+nick020	Cultured in Heart, Brave in Swordsmanship	Each turn, increase your counterattack by +25; all allies gain the status Confucian Sword Formation.		n70044	nick020
+nick021	Mistress of the Jade Frost Palace	If you perform a technique with an ice-binding effect, the power of the move is even greater.		n09996	nick021
+nick021P	Queen of the Cold Palace	If a martial art with an ice-binding effect is executed, the technique becomes more powerful.		n09996	nick021P
+nick022	Rare Wind King	When initiating a burst attack, recover 3 energy points; all allies gain the status Wind King Formation.		n07002	nick022
+nick023	Fatty Sheep	Fatty and delicious A Bai, everyone wants to eat him.		n21131	nick023
+nick024	Frenziedly cruel or insanely reckless.	Each time an attack is made, there's a chance to confuse the enemy for three turns, making friend and foe indistinguishable. The higher the enemy's dizziness or confusion value, the greater the chance of them becoming confused.		n60402	nick024
+nick024P	World-Ending Poison King	Each attack has a chance to cause the enemy to become confused, unable to distinguish friend from foe for four turns. The higher the values of stun, confusion, and poison on the enemies, the greater the likelihood they will become confused.		n60402	nick024P
+nick025	Cruel-hearted and ruthless.	Regain 3 Qi points upon defeating one enemy.		n60130	nick025
+nick025P	Annihilate completely.	For each enemy defeated, restore 3 points of energy to yourself; attack power is increased by 50% this round.		n60130	nick025P
+nick025buffP	Kill kill kill kill!	Killing is a piece of cake; attack power increased by 50%.		n60130	nick025buffP
+nick026	Surgeon Sky Whale	Each time an attack is executed, there is a 30% chance of recovering 1 point of energy.		n60273	nick026
+nick026P	Falcon Descends	Each time a technique is used, there is a 35% chance of restoring 1 point of energy and increasing the combo rate by 20%.		n60273	nick026P
+nick027	Silver Hook Radiant Hue	During the fight, Pomo Xue joined the battle.		n60560	nick027
+nick027P	Mirage of flowers in the mirror and moon on water	During combat, Pow Mo Xue enters the fray, increasing his feign attacks by 10% each turn.		n60560	nick027P
+nick028	Heavenly Vagabond Solitary Star	If there are no allied units, damage dealt and damage mitigation increase by 50%. At the start of each turn, removes 12 points of negative status. Each attack restores 1 point of energy to self. Every 3 attacks, recovers 15% of life and Qi for self.		Player	nick028
+nick029	刀神	所有刀法威力+70%		Player	nick029
+nick030	刀狂	所有刀法威力+40%		Player	nick030
+nick031	Turbulent Waves	Surging Wave Blade Technique and Roaring Tide Ultimate Blade Technique increase power by 30%.		Player	nick031
+nick032	Five Tiger Decapitation Swords	Five Tiger Gate Executioner's Sword Technique increases power by +30%.		Player	nick032
+nick033	四象刀	四象刀刀法威力+30%		Player	nick033
+nick034	San Cai Dao	Three Talents Sword Art increases damage by 30%.		Player	nick034
+nick035	Villager	Flower Fist Embroidered Leg Power +50%		Player	nick035
+nick036	Elite Villagers	Graceful fists and ornate leg techniques have +100% power.		Player	nick036
+nick037	Unable to control one's own hands.	The likelihood of being caught stealing is reduced by 30%.		Player	nick037
+nick038	借惯了	偷窃被发现的机率降低50%		Player	nick038
+nick039	Thief King	The theft will go undetected.		Player	nick039
+nick040	Sentimentally sensitive or easily moved.	Skill enhancement by 10 points; however, each time a negative status value is increased, the magnitude of increase is enhanced by an additional 30%.	(Intelligence,10)	Player	nick040
+nick041	The Peach Garden Swashbuckler Pan'er	Female team members' damage output increases by 30% during combat; however, they are more likely to be targeted by enemies.		Player	nick041
+nick042	Immortal Mad Swordsman	Each time an attack is made from the front of the target, there is a 25% chance to accumulate 10 points of Debuff on the target; each time an attack is made from the side or back of the target, there is a 25% chance for the attacker to accumulate 10 points of Confusion.		Player	nick042
+nick043	Awareness after the fact.	Increase vitality by 10 points; and when the negative status value of the body increases, reduce the increase in magnitude by 30%.	(Physique,10)	Player	nick043
+nick044	Kungfu practitioner	Your martial arts prowess grows stronger as your level increases.		Player	nick044
+nick045	To have nothing with you but your wits and skills.	When collecting herbs and ores, there is a 40% chance of obtaining double the amount, but the money earned will be reduced by 20%.		Player	nick045
+nick046	Hero of the Huai and Luo Regions	Your offensive and defensive skills will improve with your rise in reputation within the martial world.		Player	nick046
+nick080	True Weakling Hero	Ah, you're indeed the so-called Weakling Knight, as expected.		Player
+nick081	Jade Dragon God of War	When equipping the Jade Dragon Divine Gun, gun techniques damage increases by 25%.		Player
+nick082	King of Thieves King	When equipping the Jade Dragon Divine Gun, gun staff techniques damage increases by 25%.		Player
+nick083	Naxi Legend	When equipping the Jade Dragon Divine Gun, gun staff techniques increase in power by 25%.		Player
+nick084	Hundred-Foot Hops	Bow damage increased by 15%.		Player	nick084
+nick085	Blue Eagle of the Northern Peak	Bow damage increased by 20%.		Player	nick085
+nick086	Juyong Flying Eagle	Bow damage increased by 25%; when A'dal is in your group, bow damage with A'dal increases additionally by 15%.		Player	nick086
+nick091	Poison Hand	Each blow from this unit is laced with potent poison!			nick091
+nick092	God of Kung Fu	Martial supremo of the world, invincible martial arts god!			nick092
+nick103	Iron Leopard Silver Spear	During battle, Black Panther joins the fray; each turn increases their own move damage by 5%, up to a maximum of 50%.		n07003	nick103
+nick110	Venerable Master	Activate burst attack to remove all negative conditions from oneself by 25 points.		n50004	nick110
+nick101	A hundred legs do not get stuck.	Increase evasion rate by 2% per turn; maximum increase is 20%.		n90425,n90425b	nick101
+nick102	Djenko Tribe Miao Woman	He Baishe causes surrounding enemy units within a 2-unit distance to accumulate poison value of 12 points and confusion value of 6 points per turn.		n51009,n51009b	nick102
+nick104	Southern Chief's Junior Commander	Within a 10-unit radius around Meng Siliang, each allied friend at the start of Meng Siliang's turn gains an additional 5% critical hit rate.		n90402	nick104
+nick105	Noble Family of Renowned Lineage	Dongjialuo reduces the Critical Rate of enemies within a 5-unit radius by 15% at the start of each round.		n90403	nick105
+nick106	Successor of the Tribal Chief	At the start of each turn, restore 15% of health to friendly units within a 2-unit radius, and increase critical hit rate by 15%.		n50048	nick106
+nick107	The Wood Family Warlord	When activating a critical hit, increase your own critical hit rate by 20% and grant Spirit of Battle to yourself and friendly units within 2 squares.		n50065,n50065b	nick107
+nick108	Three War Generals	Whenever there is one enemy within a 2-unit radius, recover 1 point of energy for each when self crits.		n50073a,n50073a2	nick108
+nick111	Unrivaled throughout the world	The second skill has a unique title: for every 10% reduction in health, damage increases by 10%. At the start of each turn, negative status is reduced by 20 points.		n09998,n09998a	nick111
+nick112	As one desires from the heart.	The title Heart-and-Mind Daoist inherently increases the user's counterattack and damage mitigation rates by 25% each turn.		n70045	nick112
+nick114	Butcher of the Murderous Hand	During an attack, each accumulated poison point on the target increases damage by 1%.		n00102	nick114
+nick115	Dong Hao	Using the Thunderbolt Fireball results in a 25% chance of attacking twice.		n90201	nick115
+nick116	Nan Xian	At the start of each round, randomly recover between 2 to 8 points of one's own energy.		n20230	nick116
+nick117	Western Kitchen	When attacking, convert 50% of the damage dealt into your own Qi.		n07006	nick117
+nick118	北丑	触发连击时攻击力增加100%，持续一回合		n07007	nick118
+nick119	Martial arts clumsiness (rudeness)	Martial arts obstacle (clumsy)			nick119
+nick120	Martial Arts Block (Static)	Wuxia Jiezhao (Jing)			nick120
+nick121	Martial Arts Obstacle (Soft)	Martial arts syndrome (softness)			nick121
+nick122	Martial arts skill (trickery)	Wuxia Barrier (Skill)			nick122
+nick123	Wuxia impediment (animate)	Martial Arts Obstacle (Dynamic)			nick123
+nick124	Wuxia Disorder (Acute)	Martial Arts Block (Firm)			nick124
+nick125	Scarlet Puppet Master	When attacking, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of dislocation value.		n00095a,n00095b,n00095c,n00095d,n00095e,n00095f	nick125
+nick126	Commander-in-Chief of the West River Military Forces	Reduce all skills of enemies within a range of 3 units from self by 25 points each turn.		n07001,n07001a	nick126
+nick126b	Not pardon the master of the building.	Reduces all Technique Values of enemy units within a 3-unit radius by 25 points each turn; increases the power of moves used with Baseball Fists by 75%.		n07001,n07001a	nick126b
+nick127	Primordial Pushing Hand Technique	When you activate the Two Liang to Move a Qian Jin ability, the target accumulates 10 points of internal damage. If the target is male, they additionally accumulate another 10 points of internal damage.		n90215	nick127
+nick128	Frost-faced King Yama	When launching a feigned attack, there is a 25% chance to apply King Yama's Demand to the target, reducing their internal strength by 3 points each turn.		n07004	nick128
+nick129	Soul-hunting life-taking	10% chance to evade attacks; when executing a feint, additionally increase own Qi by 3 points.		n52009,n52009b	nick129
+nick130	Hunger-stricken stomach.	After attacking, there is a 25% chance to consume one meat bun from the inventory and apply Satiated to self, restoring an additional 15% of maximum HP and 1 point of energy each turn.		n50071,n50071b	nick130
+nick131	Expose buttocks completely.	Each attack has a 50% chance of dealing 250% damage to the target, and a 50% chance of dealing 25% damage.		n20191	nick131
+nick132	Reoccurring after a brief period of improvement.	When initiating a combo attack, inflict an additional point of damage on the target.		n60231	nick132
+nick133	Big Pot Head	The less Qi and blood you have, the higher the damage dealt by a critical hit (for every 10% decrease in Qi and blood, the additional damage from a critical hit increases by 10%).		n20000	nick133
+nick134	Head of the Ye Family	If the target is male, damage dealt increases by 50%; if the target is female, damage dealt decreases by 50%.		n20137	nick134
+nick135	Ye Family Patriarch	Each time you move, the technique's damage increases by 5%, up to a maximum of 50%.		n20146	nick135
+nick136	Hoarfrost Beard Martial Artist	When an enemy attacks an ally within its counter-attack range, there is a 25% chance to counter-attack that enemy.		n90602,n90602c	nick136
+nick137	Loyal and brave in righteousness and valor.	Each round, all allies within a distance of 2 units from oneself recover 10% of their Qi and increase their counterattack rate by 10%.		n90603	nick137
+nick138	Iron-faced warrior attire	When launching a devastating attack, restore an additional 3 Qi to yourself.		n20037	nick138
+nick139	Bloodthirsty Butcher	For each enemy killed, recover an additional 3 points of energy.		n19976,n19976a	nick139
+nick140	The Great Black Heaven Protects	For each move, increase the combo rate and critical hit rate by 8%.		n00013,n00013b	nick140
+nick141	Boundless Buddha Light	When attacking a person in moral decline, the damage of the technique is increased by 75%.		n20586	nick141
+nick142	Dark Snow Twin Swords	Increase personal evasion rate; deal 8 points of dizziness to the target when attacking.		n20245	nick142
+nick143	Ink Snow Twin Swords	Self-buff dodge rate increased; when attacking, causes the target to be confused for 8 points.		n20246	nick143
+nick144	Vineyard Elder Brother	Increase dodge rate by 1% per turn; maximum increase of 10%. Increase critical hit rate by 2% per turn.		n60302	nick144
+nick145	Wine Estate Elder Brother Erlang	Increase Evasion Rate by 1% per turn, up to a maximum of 10%; increase Critical Hit Rate and Feint Rate by 2% per turn.		n60303	nick145
+nick146	Wine Estate San Lang	Increase dodge rate by 1% per turn, up to a maximum of 10%; increase combo rate by an additional 5% each turn.		n60301	nick146
+nick147	Wine Estate Master	Each turn increases evasion rate by 3%, up to a maximum of 15%; when initiating a combo attack, also increase feinting rate by an additional 9%.		n60304	nick147
+nick148	Senior Master of the Winery	Each turn increases evasion rate by 3%, up to a maximum of 15%; when triggering a combo attack, additionally increase critical hit rate by 9%.		n60305	nick148
+nick149	Imperial Guards Commander of the Banners and Uniforms Division	Each turn, reduce all skills by 10 points for enemies within a distance of 2 units from the self.		n60340	nick149
+nick150	Mount Diancang Swordsman	After launching a counterattack, self-attack power increases by 5%, up to a maximum cumulative increase of 50%.		n60007	nick150
+nick151	Frontier General	All friendly forces on the field receive a 15% damage reduction.		n20495,n20495b	nick151
+nick152	Shaman of the Wolf Barbarians	For every enemy defeated, restore 30% of your own Qi and recover 3 points of energy.		n20510	nick152
+nick153	The Great Yan Royal Family	If initiating a counterattack, waiting idly for opportunity, or being overtaken by smaller forces, reduce the target's Qi by an additional 2 points.		n20513	nick153
+nick154	Ninth Patriarch of the Nine Satchels	When the character's health is below 60%, attack power increases by 50%; when the character's health is below 30%, attack power increases by 100%.		n20583	nick154
+nick155	Tao Shi Vice-Chief of the Sect	After discharging momentum, increase the damage of your own techniques by 5%, up to a maximum of 30%.		n60001	nick155
+nick156	Master Taoshan of the Taoshan Sect	After activating a critical hit, increase the damage of your own techniques by 5%, up to a maximum of 50%.		n60002	nick156
+nick157	Snake Beggar	After performing a feint, increase the combo rate by 15%.		n60055	nick157
+nick158	Farmer Wushuang	When using the Farmhand Technique, damage increases by 200%.		n00017	nick158
+nick159	Fennec Fox Uncle	Attacks from behind inflict an additional 15 points of dizziness on the target.		n60004,n60004a,n60004b,n60004c	nick159
+nick160	Kind-hearted person at Jing Da Academy.	When one's own Qi and blood fall below 50%, increase their ability to break resistance and counterattack by 15% each turn.		n60068	nick160
+nick500	Ke ge mei wan.	Blacksmith shop products and services offered at an eight percent discount!		Player
+nick501	Unable to manage a household.	The goods and services at the inn are available at an eight-tenth discount!		Player
+nick502	I'm a bit short on cash at the moment.	Antique shop's goods and services at an eight percent discount!		Player
+nick503	The skin is wanted, not the flesh.	Fur shop products and services at an eight percent discount!		Player
+nick504	That one helped me butcher it as well.	Meat shop products and services at an 80% discount!		Player
+nick505	Anything can be collected.	Grocery store merchandise and services at an eight-tenth discount!		Player
+nick506	No illness, strong body.	Pharmacy goods and services at an 80% discount!		Player
+nick507	Vegetarian	Vegetable store products and services at an 80% discount!		Player
+nick508	Sweet and juicy	Fruit store products and services at an 80% discount!		Player
+nick509	Sorry to trouble you.	Fish Shop's products and services enjoy an eight-for-ten discount!		Player
+nick510	Dried Vine, Ancient Tree	Products and services of the woodcutters with an 80% discount!		Player
+nick511	Buddha wants to be adorned in gold.	Bu Zhuang's products and services enjoy an 80% discount!		Player
+nick512	The people regard food as their utmost priority.	Cafeteria goods and services at an 80% discount!		Player
+nick513	Having drunk enough wine and eaten enough food.	Dining hall products and services enjoy an eight-for-ten discount!		Player
+nick514	A house full of gold and jade.	Yufang's products and services enjoy an eight percent discount!		Player
+nick515	Friend of the Giant Ape	King of the Great Apes Monkey King is at your disposal now!		Player	nick515
+nick516	Creator of Widows	Wild Boar King Widow Maker at your service now!		Player	nick516
+nick517	Red Patch or Scarlet Rash, depending on the context in which it is used.	Crocodile King Hongban is at your service!		Player	nick517
+nick518	White Pattern	Alligator King Baiwen is now at your disposal!		Player	nick518
+nick519	Brute Teeth	The Black Wolf King Bao Ya is now at your command!		Player	nick519
+nick520	White Tooth	Wolf King Baiya is now at your disposal!		Player	nick520
+nick521	Iron Axe	The Black Bear King Iron Axe is now at your command!		Player	nick521
+nick522	Silver Palm	Polar Bear King Silver Palm is now at your disposal!		Player	nick522
+nick523	Dark Bone	The Black Blue Tiger King Hei Gu is now at your disposal!		Player	nick523
+nick524	Southern Hegemon	The White Tiger King Nan Batian is now at your disposal!		Player	nick524
+nick525	Can't stop crying.	The Golden Monkey King Can't Stop Crying is now at your disposal!		Player	nick525
+nick526	Night Shadow	The Black Panther King Ye Ying is now at your disposal!		Player	nick526
+nick527	Snow Shadow	The Snow Leopard King Xueying is now at your command!		Player	nick527
+nick528	Giant Tree	The Serpent King of Pusiqe Jumu is now at your disposal!		Player	nick528
+nick529	King of the Gigantic Apes	Monkey Three gathers all enemy attention in battle and dispels some of its own negative statuses at the end of its turn.		n80150,n80150a,n80150b,n80150c,n80150d,n80150e	nick529
+nick530	Disrupt the Formation Vanguard	The Widow Maker's attack causes serious internal damage to the enemy.		n59003,n59003_a01,n59003_a02,n59003_a03,n59003_a04,n59003_a05	nick530
+nick531	Master of the River	After being hit three times, Bai Wen will definitely counterattack the opponent.		n59001d,n59001d_001,n59001d_002,n59001d_003,n59001d_004,n59001d_005	nick531
+nick532	Golden Mane	Legendary Beast King Jin Zong is now at your command!		Player	nick532
+nick533	Teeth communicate with teeth.	The Fang of the Black Wolf King can cause severe external injuries and toxic poisoning to enemies.		n59002,n59002_a01,n59002_a02,n59002_a03,n59002_a04,n59002_a05	nick533
+nick534	White Tooth Flashes	White Wolf King has the opportunity to inflict two attacks on an enemy and add external injuries.		n21125,n21125_a01,n21125_a02,n21125_a03,n21125_a04,n21125_a05	nick534
+nick535	Marsh Lord	Voracious Blood Crocodiles of the Red Spots convert 30% of the damage they cause into their own Qi.		n59001,n59001_01,n59001_02,n59001_03,n59001_04,n59001_05	nick535
+nick536	Mountain Splitting Strike	Black Bear King Iron Axe will attract the attention of enemies during battles and have an opportunity to knock out enemies.		n59004,n59004_a01,n59004_a02,n59004_a03,n59004_a04,n59004_a05	nick536
+nick537	Break Ice Hammer	The White Bear King's Silver Palm Technique attracts the attention of enemies during battle, creating an opportunity to knock them out.		n59004f,n59004f_a01,n59004f_a02,n59004f_a03,n59004f_a04,n59004f_a05	nick537
+nick538	The King of the Lin Clan	The Tiger King Black Bone can cause serious external injuries to enemies and convert 30% of the inflicted damage into their own Qi.		n59005f,n59005f_a01,n59005f_a02,n59005f_a03,n59005f_a04,n59005f_a05	nick538
+nick539	Mountain's Master	The Tiger King, Nanbatian, inflicts severe external damage on enemies and converts 30% of that damage into his own Qi.		n59005,n59005_a01,n59005_a02,n59005_a03,n59005_a04,n59005_a05	nick539
+nick540	Never-ending clamor.	It cries continuously, and every third attack will be a feint, with a chance to dodge the enemy's attacks.		n59006,n59006_a01,n59006_a02,n59006_a03,n59006_a04,n59006_a05	nick540
+nick541	Shadow Strike	Shadow can inflict external damage to enemies and has a chance to evade enemy attacks.		n59007_B01,n59007_B01a,n59007_B01b,n59007_B01c,n59007_B01d,n59007_B01e	nick541
+nick542	Blood Hunt	Snow Shadow can deal high damage to enemies with an external injury effect and convert a portion of the damage into its own Qi.		n59007_W01,n59007_W01a,n59007_W01b,n59007_W01c,n59007_W01d,n59007_W01e	nick542
+nick543	King of Venom	The giant tree's every attack is laced with deadly poison, and it can also dodge enemy attacks in battle.		n59008,n59008_001,n59008_002,n59008_003,n59008_004,n59008_005	nick543
+nick544	Legendary Beast King	King of Beasts Golden Mane, unparalleled across the world; none can rival him.		n59009,n59009_a01,n59009_a02,n59009_a03,n59009_a04,n59009_a05	nick544
+nick600	Northern Swordsman	The Northern Swordsman's Fame, renowned across the Central Plains, increases punch and kick damage by 25%, and has a 50% chance to inflict double damage on enemies.		n80416,Player	nick600
+nick601	Fox Volant of the Snowy Mountain	The Snow Mountain Swordsman, unmatched in swordsmanship, increases the power of his sword techniques by 30%, and all damage skills inflict a wound effect.		n80417,Player	nick601
+nick602	The Old Poisoner	Sage of Wuxia, King of Poison, all skills power increased by 30%, and your every strike is laced with deadly poison.		n80419,Player	nick602
+nick603	Smile with Pride Over the Jianghu	Your swordsmanship power increases additionally with your martial arts level and, during combat, you have a 20% chance to avoid damage.		n80420,Player	nick603
+nick604	Divine Martial Transformation	Your natural talent allows you to gain more experience points in battle, and there is a 25% chance that you will avoid damage during combat.	(Intelligence,10)	n80421,Player	nick604
+nick605	The Western Madman	The higher the rage value, the stronger the martial arts power, with sword technique power increasing by 30%.		n80422,Player	nick605
+nick606	Divine Fist of the Flickering Finger	The power of the hidden weapons increases by 40%, with a 30% chance to evade damage during combat.		n80423,Player	nick606
+nick607	Compassion in mind.	All skill power is increased by 40%, and the higher your morality, the stronger your skill power becomes.		n80424,Player	nick607
+nick608	Descending Dragon Divine Palm	Punching and kicking power increased by 40%. All damage skills inflict internal injury effects.		n80425,Player	nick608
+nick609	Reincarnated with Supernatural Powers	All skills have a power increase of 30%, and there is a 25% chance to deal damage to the enemy twice.		n80426,Player	nick609
+nick610	The Legendary Person	All skills increase in power by 50%, and there is a 50% chance to deal damage twice to the enemy.	(Intelligence,10)(Physique,10)	n80427,Player	nick610

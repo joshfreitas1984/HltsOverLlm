@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Translate.Tests;
+﻿namespace Translate.Tests;
 public class TranslationWorkflowTests
 {
     const string workingDirectory = "../../../../Files";
@@ -26,6 +20,12 @@ public class TranslationWorkflowTests
     public async Task PackageFinalTranslation()
     {
         await TranslationService.PackageFinalTranslation(workingDirectory);
-    }
 
+        var sourceDirectory = $"{workingDirectory}/Mod";
+        var gameDirectory = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\河洛群俠傳 (Ho Tu Lo Shu ： The Books of Dragon)\\Mod";
+        if (Directory.Exists(gameDirectory))
+            Directory.Delete(gameDirectory, true);
+
+        TranslationService.CopyDirectory(sourceDirectory, gameDirectory);
+    }
 }

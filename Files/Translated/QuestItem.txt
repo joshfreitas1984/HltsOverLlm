@@ -127,7 +127,7 @@
     translated: Dragon and Tiger Legend
   - split: 3
     text: 石家庄河岸边有个烦恼的山民，代替他去拜访天龙寺一趟吧。
-    translated: A troubled mountaineer by the Heshan River in Shijiazhuang would like you to visit Tiānlóng Sì on his behalf.
+    translated: A troubled mountaineer by the Heshan River in Shijiazhuang would like you to visit Tianlong Si on his behalf.
 - lineNum: 13
   raw: Q00002_01	到天龙寺求助	1	石家庄河岸边有个烦恼的山民，代替他去拜访天龙寺一趟吧。	0	FALSE	0	729.0552,98.76147,-833.2333	TRUE		300	(Reputation,1)	1
   translated: 
@@ -257,7 +257,7 @@
     translated: Southland's Number One Swordsmith
   - split: 3
     text: 天龙寺的果心与果一两个和尚每天争吵不休，只为了分出两人谁才是南疆第一刀。让这两个只会出一张嘴的人看看什么才叫真正的高手。
-    translated: The two monks, Guāxīn and Guāyī of Tiānlóng Sì, argue every day just to determine who is the best swordsman in Nánjiāng. Let these two people, who only know how to talk, see what a real master looks like.
+    translated: The two monks, Guaxin and Guayi of Tianlong Si, argue every day just to determine who is the best swordsman in Nanjiang. Let these two people, who only know how to talk, see what a real master looks like.
 - lineNum: 26
   raw: Q00005_01	决定谁是南疆第一刀	1	天龙寺的果心与果一两个和尚每天争吵不休，只为了分出两人谁才是南疆第一刀。让这两个只会出一张嘴的人看看什么才叫真正的高手。	0	FALSE	0	778.781, 102.305, -856.2107	TRUE		600	(Reputation,3)	1
   translated: 
@@ -324,7 +324,7 @@
   splits:
   - split: 1
     text: 回去找绣眉
-    translated: Return and look for Xiǔméi.
+    translated: Return and look for Xiumei.
   - split: 3
     text: 终于取得赋闲书院的介绍信了，回去找绣眉登记吧。
     translated: Finally obtained the introduction letter from the Idle Institute; let's go back and register with Xiu Mei.
@@ -457,7 +457,7 @@
     translated: Acquire the Go set.
   - split: 3
     text: 0
-    translated: It seems like you've submitted 0 as your text input. Please provide the content in Simplified Chinese that you would like translated into English, following the provided guidelines.
+    translated: 0
 - lineNum: 46
   raw: Q00010_02	取得云子棋具	1	0	0	FALSE	Q00010_05	0	FALSE	(it80702,1)	2400	(Reputation,12)	1
   translated: 
@@ -467,7 +467,7 @@
     translated: Obtain Yunzi chess pieces.
   - split: 3
     text: 0
-    translated: ''
+    translated: 0
 - lineNum: 47
   raw: Q00010_03	取得玛瑙棋具	1	0	0	FALSE	Q00010_06	0	FALSE	(it80703,1)	2400	(Reputation,12)	1
   translated: 
@@ -477,7 +477,7 @@
     translated: Acquire agate chess set
   - split: 3
     text: 0
-    translated: ''
+    translated: 0
 - lineNum: 48
   raw: Q00010_04	将木棋具交给颜玉书	1	棋具到手了，回赋闲书院交给颜玉书吧。	0	FALSE		113.313, 139.2535, 961.126	TRUE		1200	(Reputation,6)	1
   translated: 
@@ -544,7 +544,7 @@
   splits:
   - split: 1
     text: 前往大研镇
-    translated: Head to Dàyàntíng.
+    translated: Head to Dayanting.
   - split: 3
     text: 辛苦的工作终于结束了，接下来就好好玩吧。
     translated: The hard work is finally over, so let's relax and have some fun now.
@@ -564,7 +564,7 @@
   splits:
   - split: 1
     text: 依约去浣花溪亭
-    translated: According to agreement, go to Huánhuā Xi Tíng.
+    translated: According to agreement, go to Huanhua Xi Ting.
   - split: 3
     text: 颜玉书邀请你去浣花溪亭见面，她究竟想说什么呢?
     translated: Yan Yushu invites you to Huanghai Xiting for a meeting; what exactly does she want to say?
@@ -667,7 +667,7 @@
     translated: Martial Heroes of the Yan Kingdom
   - split: 3
     text: 被西庖严令禁止离开美馔楼一步的南闲已经快要疯了。不能四处闲晃不说，掌柜金满腹竟然还拒绝给他白喝酒。只要你能帮他找来他西岭春、杂粮酒、杜康酒、即墨老酒、猴儿酒及葡萄酒等六种美酒，他愿意以他的招牌武功交换。<br>不过动作恐怕得快，说不准他何时有要事离开。
-    translated: Xīpáo Yán has strictly forbidden Xuān Nán from leaving the Mei Zuan Lou even a step. He is almost going mad, not only because he can't wander around aimlessly, but also because shopkeeper Jīn Mǎnfù outright refused to let him drink freely. If you can find six types of exquisite wines for him—Xīlíng Chūn, Záláng Jiǔ, Dúkāng Jiǔ, Jímò Lǎojiǔ, Hóur​ér Jiǔ, and Pútáo Jiǔ—he is willing to exchange his signature martial arts skill.<br>However, you must act quickly; there's no telling when he might have urgent matters to attend to.
+    translated: Xipao Yan has strictly forbidden Xuan Nan from leaving the Mei Zuan Lou even a step. He is almost going mad, not only because he can't wander around aimlessly, but also because shopkeeper Jin Manfu outright refused to let him drink freely. If you can find six types of exquisite wines for him—Xiling Chun, Zalang Jiu, Dukang Jiu, Jimo Laojiu, Hour​er Jiu, and Putao Jiu—he is willing to exchange his signature martial arts skill.<br>However, you must act quickly; there's no telling when he might have urgent matters to attend to.
 - lineNum: 67
   raw: Q00016_01	找到南闲指定的六种美酒	1	被西庖严令禁止离开美馔楼一步的南闲已经快要疯了。不能四处闲晃不说，掌柜金满腹竟然还拒绝给他白喝酒。只要你能帮他找来他西岭春、杂粮酒、杜康酒、即墨老酒、猴儿酒及葡萄酒等六种美酒，他愿意以他的招牌武功交换。<br>不过动作恐怕得快，说不准他何时有要事离开。	0	FALSE		0	TRUE		2400	(Reputation,12)	1
   translated: 
@@ -684,7 +684,7 @@
   splits:
   - split: 1
     text: 花蕊夫人
-    translated: Lady Huáruì
+    translated: Lady Huarui
   - split: 3
     text: 北丑在你面前又唱了一出不知所云的戏，推敲其中对白，似乎是想请你替他寻找唱本或是剧目一类的书籍，若是旅途上碰巧拿到了手，就拿回来给他瞧瞧吧！<br>不过动作恐怕得快，说不准他何时有要事离开。
     translated: The Northern Clown performed another incomprehensible play in front of you, seemingly asking you to find a libretto or script for him. If by chance you come across it during your travels, please bring it back for him to see!<br>However, be quick about it, as he might leave at any time due to some urgent matter.
@@ -804,7 +804,7 @@
   splits:
   - split: 1
     text: 金丹疑云
-    translated: Jīndān yíyún
+    translated: Jindan yiyun
   - split: 3
     text: 你在张君宝与百损两人暂住的废屋找到了一个被藏起来的糕饼盒，更从里面发现了暗藏的赤丹宫金丹，种种线索都指向百损道姑与赤丹宫勾结。<br>但若想要指控百损，恐怕需要更多证据；或者你也可以静观其变，避免打草惊蛇。
     translated: You found a box of pastries hidden in the derelict house where Zhang Junbao and Ba Sun were staying, as well as secretly stored Cidian Gong gold pills inside. All clues point to Ba Sun Dao Guo colluding with Cidian Gong.<br> However, if you want to accuse Ba Sun, more evidence is likely needed; or you can also observe the situation quietly to avoid alarming the snakes in the grass.
@@ -874,7 +874,7 @@
   splits:
   - split: 1
     text: 寻找燕槐
-    translated: Seeking Yan Huaí
+    translated: Seeking Yan Huai
   - split: 3
     text: 你来到珍馐会结识了西庖和河洛一族的成员，并与西川兵马指挥使皇甫登云见上了一面。西庖决定召回其余在外的珍馐会成员，共同商讨搜寻天书和下落不明的其余二位散人。根据西庖的指示，前往石家庄寻找珍馐会二当家，铁嘴仙燕槐吧！
     translated: You met members of the Xi Pao and He Luo clan at the Zhen Xun meeting, as well as having a brief encounter with the Imperial Commander-in-Chief of the Xichuan Army, Emperor Hua Fengyun. Xi Pao decided to recall the remaining external members of the Zhen Xun meeting to jointly discuss searching for the Book of Heaven and locating the missing two Immortals. Following Xi Pao's instructions, you went to Shijiazhuang to find the second master of the Zhen Xun meeting, Iron Beak Celestial Yanshuai!
@@ -917,7 +917,7 @@
     translated: Return to the Banquet Hall.
   - split: 3
     text: 你顺利在丈人村找到了燕巧和北丑。在陪北丑唱了一出戏，并击败了来犯的不赦楼和豹王寨后，顺利与迟来的赛伊尹会合，赶紧和北丑返回美馔楼回报西庖吧！
-    translated: You successfully found Yǎn Qiào and Běi Chǒu in the son-in-law's village. After performing a play with Běi Chǒu and defeating the attacking Bù Shè Lóu and Bào Wáng Zhài, you meet up with Sài Yīyīn, who arrived late, and quickly return to Měizhuānlóu with Běi Chǒu to report back to Xīpáo.
+    translated: You successfully found Yan Qiao and Bei Chou in the son-in-law's village. After performing a play with Bei Chou and defeating the attacking Bu She Lou and Bao Wang Zhai, you meet up with Sai Yiyin, who arrived late, and quickly return to Meizhuanlou with Bei Chou to report back to Xipao.
 - lineNum: 92
   raw: Q07003	营救东豪	0	皇甫登云铩羽而归，南闲生死不明，西庖不得不亲自出马，与欲一雪前耻的皇甫登云同行，营救南闲，临走前她交给了你另一项重要的任务，前往西北方的一处隐密山洞支持燕槐和刁不易，救出失踪已久的东豪孔金。	0	FALSE	Q07003_01,Q07003_02,Q07003_03,Q07003_04	0	TRUE		0		0
   translated: 
@@ -954,7 +954,7 @@
   splits:
   - split: 1
     text: 追上东豪
-    translated: Chase after Dōng Háo.
+    translated: Chase after Dong Hao.
   - split: 3
     text: 冯观戏、蓝拂衣趁隙脱逃，孔金从洞里追了出去，赶紧跟上，希望他别中了甚么埋伏。
     translated: Feng Guanxi and Lan Fu Yi escaped during a lull, and Kong Jin followed them out of the cave, hurrying to catch up, hoping he hadn't fallen into any ambush.
@@ -1154,10 +1154,10 @@
   splits:
   - split: 1
     text: 在漱玉矶中找出南闲的下落
-    translated: Find the whereabouts of Nán Xián in Shùyù Jī.
+    translated: Find the whereabouts of Nan Xian in Shuyu Ji.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 116
   raw: Q10003	玩火自焚	0	想不到梅星河最后竟落得如此下场，有机会的话将他的死讯告知梅村长吧。	0	FALSE	Q10003_01	0	TRUE		0		1
   translated: 
@@ -1204,7 +1204,7 @@
   splits:
   - split: 1
     text: 石信的猫食
-    translated: Shí Xìn's cat food.
+    translated: Shi Xin's cat food.
   - split: 3
     text: 石家庄的石信给了你一笔钱，请你帮忙买喂猫用的河鱼。河鱼也许能向庄外东南方河岸附近的钓鱼客购买。
     translated: Shijiazhuang's Shi Xin gave you some money to help buy cat food fish. The river fish might be purchased from the fishing enthusiasts near the riverside south-east of the compound.
@@ -1484,7 +1484,7 @@
   splits:
   - split: 1
     text: 调查石妍的家
-    translated: Investigate Shí Yán's home.
+    translated: Investigate Shi Yan's home.
   - split: 3
     text: 你来到可能是石妍居住的地方，却没发现他的下落。为了确定没找错地方，有必要对屋内进行详细搜索。
     translated: You arrived at the place where Shi Yan might live but did not find him. To ensure you didn't go to the wrong location, it is necessary to conduct a detailed search inside the house.
@@ -1687,7 +1687,7 @@
     translated: Shaolin Rebel
   - split: 3
     text: 少林寺苦难大师请你协助追查叛徒火工头陀陈大智的下落。根据苦难的推测，火工头陀极可能会去寻找通晓梵文之人协助翻译经书。而除了佛门中人，极少人会学习梵文……
-    translated: Master Kūnà of Shaolin Temple requests your assistance in tracing the whereabouts of traitor fire craft monk Chen Dazhi. According to Master Kūnà's inference, the fire craft monk is likely seeking someone knowledgeable in Sanskrit to assist with translating scriptures. Aside from Buddhist practitioners, very few people study Sanskrit.
+    translated: Master Kuna of Shaolin Temple requests your assistance in tracing the whereabouts of traitor fire craft monk Chen Dazhi. According to Master Kuna's inference, the fire craft monk is likely seeking someone knowledgeable in Sanskrit to assist with translating scriptures. Aside from Buddhist practitioners, very few people study Sanskrit.
 - lineNum: 169
   raw: Q10016_01	收集线索	1	少林寺苦难大师请你协助追查叛徒火工头陀陈大智的下落。根据苦难的推测，火工头陀极可能会去寻找通晓梵文之人协助翻译经书。而除了佛门中人，极少人会学习梵文……	0	FALSE	0	0	TRUE		600	(Reputation,3)	421
   translated: 
@@ -1697,7 +1697,7 @@
     translated: Gather clues.
   - split: 3
     text: 少林寺苦难大师请你协助追查叛徒火工头陀陈大智的下落。根据苦难的推测，火工头陀极可能会去寻找通晓梵文之人协助翻译经书。而除了佛门中人，极少人会学习梵文……
-    translated: Shaolin Monastery's Master Kǔnàn requests your assistance in tracking down the traitor Firework Monk Chen Dàzhì. According to Kǔnàn's conjecture, the Firework Monk is likely seeking someone versed in Sanskrit to help translate scriptures. Besides Buddhist practitioners, very few people learn Sanskrit…
+    translated: Shaolin Monastery's Master Kunan requests your assistance in tracking down the traitor Firework Monk Chen Dazhi. According to Kunan's conjecture, the Firework Monk is likely seeking someone versed in Sanskrit to help translate scriptures. Besides Buddhist practitioners, very few people learn Sanskrit…
 - lineNum: 170
   raw: Q10016_02	收集线索	1	你在噶玛寺获知精通梵文、名叫达贡的人在近日失踪，他的失踪或许与陈大智有关。如果陈大智可能藏身在附近，不妨在白天时向熟悉周遭地理如樵夫之类的山野之民打听可以用来藏身的地方。	0	FALSE	0	-624.45,112.7707,-432.5942	TRUE		600	(Reputation,3)	421
   translated: 
@@ -1807,7 +1807,7 @@
     translated: Go to the place recommended by Luo Xu.
   - split: 3
     text: 商人洛许提供了一处可能蕴藏珍贵矿石的地点，有时间的话就去碰碰运气吧。
-    translated: The merchant Lu Xǔ has provided a location that may contain valuable ore. If you have time, go and take your chance.
+    translated: The merchant Lu Xu has provided a location that may contain valuable ore. If you have time, go and take your chance.
 - lineNum: 181
   raw: Q10019	寒铁神兵	0	打铁匠柯比自称只要能拿到寒铁，就能打造足以传世的神兵利器！若你将名为寒铁的稀有矿石带给他，他将会给你打造锁子甲所需的蓝图作为谢礼。	0	FALSE	Q10019_01	0	TRUE		0		1
   translated: 
@@ -1854,7 +1854,7 @@
   splits:
   - split: 1
     text: 将一掌定乾坤食谱带给步玺守
-    translated: Bring the One Fist Decides Heaven and Earth recipe to Bù Xí Shǒu.
+    translated: Bring the One Fist Decides Heaven and Earth recipe to Bu Xi Shou.
   - split: 3
     text: 白天时将一掌定乾坤食谱告知步玺守。根据步玺守的说辞，大研镇东北、石家盐帮西北方的美馔楼有贩卖这道料理，但作法恐怕不会轻易外传。若要取得食谱线索，或许可以向大研镇客栈不爱说话的厨子打听……
     translated: During the day, I will inform Bu Xishou of the Yi Zhang Ding Qian Kun recipe. According to Bu Xishou's words, the culinary palace in Danyan Town to the northeast and the Shi Jia Salt Gang to the northwest sells this dish, but the method is unlikely to be easily transmitted outside. If you want to obtain a clue about the recipe, perhaps you can inquire with the quiet chef at the inn in Danyan Town…
@@ -2064,7 +2064,7 @@
   splits:
   - split: 1
     text: 去禾家马帮探访禾泓渊
-    translated: Visit Brother Hé's pond by the Horse Gang at the Hé family farm.
+    translated: Visit Brother He's pond by the Horse Gang at the He family farm.
   - split: 3
     text: 究竟在哪里呢？
     translated: Where exactly is it?
@@ -2104,7 +2104,7 @@
   splits:
   - split: 1
     text: 找出禾家马帮的队伍
-    translated: Find out about the team of Hé Jia Mǎ Bāng.
+    translated: Find out about the team of He Jia Ma Bang.
   - split: 3
     text: 禾泓渊似乎知道黄裳的下落，但他人不在禾家马帮中。正当你烦恼之际，你遇见了禾泓渊的女儿禾郁青，她似乎知道父亲的下落，与禾郁青结伴的路途中，你们发现山路上出现了马帮队伍遭受袭击的痕迹，要找到禾泓渊，先帮禾郁青找出受袭的马帮队伍吧。
     translated: It seems He Hongyuan knows the whereabouts of Huang Shang, but he is not currently in the He family's Ma faction. Just as you are worried, you encounter He Yuchen, daughter of He Hongyuan, who appears to know her father's location. During your journey with He Yuchen, you find traces of an attack on a Ma faction group along the mountain road. To locate He Hongyuan, first help He Yuchen identify which Ma faction group was attacked.
@@ -2187,7 +2187,7 @@
     translated: Follow Hu Yueqing.
   - split: 3
     text: 禾泓渊似乎知道黄裳的下落，但他人不在禾家马帮中。正当你烦恼之际，你遇见了禾泓渊的女儿禾郁青，她正沿着山路往鹰猎人聚落去找禾泓渊，然而在路途中，她发现了禾家马帮商队遭到袭击的痕迹，她正沿着散乱的货物与血迹找寻被袭击的队伍，为了找禾泓渊，跟上她吧。
-    translated: It seems Hé Hóngyuān knows the whereabouts of Huáng Shang, but he is not in the Hé Family's Horse Alliance. Just as you are troubled, you encounter Hé Yùqīng, Hé Hóngyuān's daughter. She is heading towards the Eagle Hunter Village along a mountain path to find her father. However, on her way, she discovers traces of an attack on the Hé Family's Horse Alliance caravan. She is following scattered goods and blood trails to locate the attacked group. To find Hé Hóngyuān, follow her.
+    translated: It seems He Hongyuan knows the whereabouts of Huang Shang, but he is not in the He Family's Horse Alliance. Just as you are troubled, you encounter He Yuqing, He Hongyuan's daughter. She is heading towards the Eagle Hunter Village along a mountain path to find her father. However, on her way, she discovers traces of an attack on the He Family's Horse Alliance caravan. She is following scattered goods and blood trails to locate the attacked group. To find He Hongyuan, follow her.
 - lineNum: 219
   raw: Q20012	大婶的盘缠	0	大研镇外有个大婶的盘缠被抢了，抢匪正沿着河岸往大研镇的方向逃跑，快去帮他抢回来吧。	0	FALSE	Q20012_01	0	FALSE		0		1
   translated: 
@@ -2237,7 +2237,7 @@
     translated: The girl's prayer.
   - split: 3
     text: 大研镇的少女红儿似乎碰上了甚么不开心的事，夜里都会躲起来偷偷哭泣，白天还会跑到镇上听老和尚讲故事。具红儿的妹妹花儿所言，两人的母亲认为红儿的心事跟男人有关。花儿很担心姐姐，为了重拾姐姐的笑颜，花儿想找出这个让姐姐哭泣的男人，并且请他不要再欺负姐姐了。妳愿意帮帮她吗？
-    translated: The young girl Hóng'ér from Dàyán Township seems to have encountered something upsetting, as she hides and cries at night. During the day, she runs into town to listen to stories told by an old monk. According to Húā'ér, her sister, their mother believes Hóng'ér's troubles are related to a man. Concerned for her sister, Húā'ér wants to find this man who is making Hóng'ér cry and ask him not to mistreat her anymore. Would you like to help her?
+    translated: The young girl Hong'er from Dayan Township seems to have encountered something upsetting, as she hides and cries at night. During the day, she runs into town to listen to stories told by an old monk. According to Hua'er, her sister, their mother believes Hong'er's troubles are related to a man. Concerned for her sister, Hua'er wants to find this man who is making Hong'er cry and ask him not to mistreat her anymore. Would you like to help her?
 - lineNum: 224
   raw: Q20014_01	找出欺负红儿的男人	1	究竟在哪里呢？	0	FALSE	0	0	FALSE		300	(Reputation,1)	191
   translated: 
@@ -2257,7 +2257,7 @@
     translated: Go meet Bad Guy Jia Ding at Qiao Meng Ge for a chat.
   - split: 3
     text: 大研镇的少女红儿似乎碰上了不开心的事，夜里都会躲起来偷偷哭泣，据红儿的妹妹花儿所言，红儿的心事跟男人有关。花儿为了重拾姐姐的笑颜，想找出这个让姐姐哭泣的男人。就在此时，一名自称是红儿青梅竹马的男子鲁布找上了你。据鲁布所言，大研镇的恶霸贾丁仗势欺人，想硬纳红儿为妾，红儿想拒绝却又不敢，要答应却又不甘，因此才会日日忧愁。而恶霸贾丁，现在人就在俏梦阁，去会一会他吧，见识一下这恶霸贾丁究竟是何方神圣。
-    translated: The young girl Hóng'ér from Dàyánzhèn seems to have encountered an unhappy matter, as she hides and cries in secret at night. According to Hóng'ér's sister Huā'ér, the issue concerns a man. In order to restore her sister’s cheerful demeanor, Huā'ér wants to find out who this man is that makes her sister cry. At that moment, a man named Lúbù, claiming to be Hóng'ér’s childhood friend, approaches you. According to Lúbù, the bully Jià Dìng of Dàyánzhèn abuses his power and tries to force Hóng'ér into being his concubine. Hóng'ér wants to refuse but is too afraid; she dreads agreeing yet does not want to yield, which is why she is worried every day. The bully Jià Dìng is currently at Qiáomènggé; go and see him, witness for yourself what this bully Jià Dìng is really like.
+    translated: The young girl Hong'er from Dayanzhen seems to have encountered an unhappy matter, as she hides and cries in secret at night. According to Hong'er's sister Hua'er, the issue concerns a man. In order to restore her sister’s cheerful demeanor, Hua'er wants to find out who this man is that makes her sister cry. At that moment, a man named Lubu, claiming to be Hong'er’s childhood friend, approaches you. According to Lubu, the bully Jia Ding of Dayanzhen abuses his power and tries to force Hong'er into being his concubine. Hong'er wants to refuse but is too afraid; she dreads agreeing yet does not want to yield, which is why she is worried every day. The bully Jia Ding is currently at Qiaomengge; go and see him, witness for yourself what this bully Jia Ding is really like.
 - lineNum: 226
   raw: Q20014_03	找鲁布问个清楚	1	大研镇的少女红儿碰上了不开心的事，夜里都会躲起来偷偷哭泣，据红儿的妹妹花儿所言，红儿的心事跟男人有关。花儿为了重拾姐姐的笑颜，想找出这个让姐姐哭泣的男人。就在此时，一名自称是红儿青梅竹马的男子鲁布找上了你。据鲁布所言，大研镇的恶霸贾丁仗势欺人，想硬纳红儿为妾。然而，贾丁却有完全相反的陈述。具贾丁所言，他跟红儿两情相悦，反倒是鲁布一哭二闹三上吊，逼得红儿不敢与贾丁成亲，鲁布甚至还跟踪骚扰红儿，是个十足的混蛋。这究竟是怎么回事？找鲁布问个清楚吧。	0	FALSE	0	-686.9525,66.218,-987.7487	TRUE		300	(Reputation,1)	191
   translated: 
@@ -2277,7 +2277,7 @@
     translated: Understand the true nature of the matter.
   - split: 3
     text: 大研镇的少女红儿碰上了不开心的事，夜里都会躲起来偷偷哭泣，据红儿的妹妹花儿所言，红儿的心事跟男人有关。花儿为了重拾姐姐的笑颜，想找出这个让姐姐哭泣的男人。就在此时，一名自称是红儿青梅竹马的男子鲁布找上了你。据鲁布所言，大研镇的恶霸贾丁仗势欺人，想硬纳红儿为妾。然而，贾丁却有完全相反的陈述。具贾丁所言，他跟红儿两情相悦，反倒是鲁布一哭二闹三上吊，逼得红儿不敢与贾丁成亲。两人各执一词，还是先想法子搞清楚究竟是怎么一回事吧。
-    translated: The young girl Hóng'ér from Dàyán Township encountered a distressing situation; she would hide and cry secretly at night. According to Hóng'ér's sister Huā'ér, Hóng'ér's troubles were related to a man. To restore her sister's smile, Huā'ér wanted to find out who this man was that made her sister cry. At this moment, a man named Lúbù, claiming to be Hóng'ér's childhood friend, approached you. According to Lúbù, the bully Jí Dīng in Dàyán Township used his influence to intimidate people and force Hóng'ér into becoming his concubine. However, Jí Dīng had a completely opposite account; he claimed that he was mutually fond of Hóng'ér, while it was Lúbù who cried, made trouble, and attempted suicide, coercing Hóng'ér into not marrying him. Both parties were adamant in their statements, so first, we need to find out what really happened.
+    translated: The young girl Hong'er from Dayan Township encountered a distressing situation; she would hide and cry secretly at night. According to Hong'er's sister Hua'er, Hong'er's troubles were related to a man. To restore her sister's smile, Hua'er wanted to find out who this man was that made her sister cry. At this moment, a man named Lubu, claiming to be Hong'er's childhood friend, approached you. According to Lubu, the bully Ji Ding in Dayan Township used his influence to intimidate people and force Hong'er into becoming his concubine. However, Ji Ding had a completely opposite account; he claimed that he was mutually fond of Hong'er, while it was Lubu who cried, made trouble, and attempted suicide, coercing Hong'er into not marrying him. Both parties were adamant in their statements, so first, we need to find out what really happened.
 - lineNum: 228
   raw: Q20014_05	告诉鲁布，你已经劝退贾丁	1	大研镇的少女红儿碰上了不开心的事，夜里都会躲起来偷偷哭泣，据红儿的妹妹花儿所言，红儿的心事跟男人有关。花儿为了重拾姐姐的笑颜，想找出这个让姐姐哭泣的男人。就在此时，一名自称是红儿青梅竹马的男子鲁布找上了你。据鲁布所言，大研镇的恶霸贾丁仗势欺人，想硬纳红儿为妾。而你相信了鲁布所言，狠狠的教训了贾丁一顿，令他不敢再来滋扰红儿。告诉鲁布这个好消息吧，还有，别忘了告诉红儿跟花儿姊妹！	0	FALSE	0	-686.9525,66.218,-987.7487	FALSE		1200	(Reputation,6)	191
   translated: 
@@ -2287,7 +2287,7 @@
     translated: Tell Lu Bu that you have successfully persuaded Jia Ding to retire.
   - split: 3
     text: 大研镇的少女红儿碰上了不开心的事，夜里都会躲起来偷偷哭泣，据红儿的妹妹花儿所言，红儿的心事跟男人有关。花儿为了重拾姐姐的笑颜，想找出这个让姐姐哭泣的男人。就在此时，一名自称是红儿青梅竹马的男子鲁布找上了你。据鲁布所言，大研镇的恶霸贾丁仗势欺人，想硬纳红儿为妾。而你相信了鲁布所言，狠狠的教训了贾丁一顿，令他不敢再来滋扰红儿。告诉鲁布这个好消息吧，还有，别忘了告诉红儿跟花儿姊妹！
-    translated: The young woman Hong'er in Dayanyezhen encountered an upsetting situation, and she would hide at night to cry secretly. According to Hong'er's sister Hua'er, the trouble is related to a man. To restore her older sister's smile, Hua'er wants to find out who this man making her sister cry is. At that moment, a man named Lü Bu claiming to be Hong'er's childhood friend approached you. According to Lü Bu, the tyrant Jia Ding in Dayanyezhen abused his power to force Hong'er into becoming his concubine. Believing what Lü Bu said, you severely disciplined Jia Ding so he dares not trouble Hong'er again. Tell Lü Bu this good news, and don't forget to inform sisters Hong'er and Hua'er!
+    translated: The young woman Hong'er in Dayanyezhen encountered an upsetting situation, and she would hide at night to cry secretly. According to Hong'er's sister Hua'er, the trouble is related to a man. To restore her older sister's smile, Hua'er wants to find out who this man making her sister cry is. At that moment, a man named Lu Bu claiming to be Hong'er's childhood friend approached you. According to Lu Bu, the tyrant Jia Ding in Dayanyezhen abused his power to force Hong'er into becoming his concubine. Believing what Lu Bu said, you severely disciplined Jia Ding so he dares not trouble Hong'er again. Tell Lu Bu this good news, and don't forget to inform sisters Hong'er and Hua'er!
 - lineNum: 229
   raw: Q20014_06	告诉红儿与花儿，你已劝退贾丁	1	大研镇的少女红儿碰上了不开心的事，夜里都会躲起来偷偷哭泣，据红儿的妹妹花儿所言，红儿的心事跟男人有关。花儿为了重拾姐姐的笑颜，想找出这个让姐姐哭泣的男人。就在此时，一名自称是红儿青梅竹马的男子鲁布找上了你。据鲁布所言，大研镇的恶霸贾丁仗势欺人，想硬纳红儿为妾。而你相信了鲁布所言，狠狠的教训贾丁一顿，令他不敢再来滋扰红儿。告诉鲁布这个好消息吧，还有，别忘了告诉红儿跟花儿姊妹！	0	FALSE	0	-709.9203,66.218,-995.9875	TRUE		1200	(Reputation,6)	191
   translated: 
@@ -2317,7 +2317,7 @@
     translated: Tell Hong'er and Hua'er that you have dissuaded Rube.
   - split: 3
     text: 大研镇的少女红儿碰上了不开心的事，夜里都会躲起来偷偷哭泣，据红儿的妹妹花儿所言，红儿的心事跟男人有关。花儿为了重拾姐姐的笑颜，想找出这个让姐姐哭泣的男人。就在此时，一名男子鲁布找上了你，据鲁布所言，大研镇的恶霸贾丁仗势欺人，想硬纳红儿为妾。然而，贾丁却有完全相反的陈述。具贾丁所言，他跟红儿是两情相悦，反倒是鲁布一哭二闹三上吊，逼得红儿不敢与贾丁成亲。而你相信了贾丁所言，狠狠的教训了鲁布一顿，令他不敢再来滋扰红儿。告诉贾丁这个好消息吧，还有，别忘了告诉红儿跟花儿姊妹！
-    translated: In the village of Dayan, a young girl named Hong'er encountered some troubles that made her unhappy. At night, she would hide and cry quietly to herself. According to Hong'er's sister Hua'er, Hong'er's worries were related to men. To restore her sister's cheerful smile, Hua'er wanted to find the man who was making Hong'er cry. At this moment, a man named Lü Bu approached you. According to Lü Bu, the village bully Jia Ding took advantage of his power to force himself upon Hong'er as his concubine. However, Jia Ding had an entirely different story. According to Jia Ding, he and Hong'er were mutually fond of each other; it was actually Lü Bu who caused trouble with his crying, complaining, and attempted suicide, making Hong'er afraid to marry Jia Ding. You believed Jia Ding's account and harshly reprimanded Lü Bu, ensuring he would no longer disturb Hong'er. Inform Jia Ding of this good news, and remember to tell it to Hong'er and Hua'er as well!
+    translated: In the village of Dayan, a young girl named Hong'er encountered some troubles that made her unhappy. At night, she would hide and cry quietly to herself. According to Hong'er's sister Hua'er, Hong'er's worries were related to men. To restore her sister's cheerful smile, Hua'er wanted to find the man who was making Hong'er cry. At this moment, a man named Lu Bu approached you. According to Lu Bu, the village bully Jia Ding took advantage of his power to force himself upon Hong'er as his concubine. However, Jia Ding had an entirely different story. According to Jia Ding, he and Hong'er were mutually fond of each other; it was actually Lu Bu who caused trouble with his crying, complaining, and attempted suicide, making Hong'er afraid to marry Jia Ding. You believed Jia Ding's account and harshly reprimanded Lu Bu, ensuring he would no longer disturb Hong'er. Inform Jia Ding of this good news, and remember to tell it to Hong'er and Hua'er as well!
 - lineNum: 232
   raw: Q20014_09	完成少女的祈祷	1	究竟在哪里呢？	0	FALSE	0	0	FALSE		1200	(Reputation,6)	191
   translated: 
@@ -2424,7 +2424,7 @@
   splits:
   - split: 1
     text: 前往段思平住所
-    translated: Go to Duàn Sīpíng's residence.
+    translated: Go to Duan Siping's residence.
   - split: 3
     text: 你在拱石村结识了一名侠士段思平，他邀请你到他府上作客。段思平的住处位于大研镇，从拱石村沿着官道一路往西便能抵达。
     translated: You met a martial artist, Segengping, in Gongsishan Village. He invited you to his residence. Segengping's place is located in Dayantian Town; you can reach it by following the official road west from Gongsishan Village.
@@ -2524,10 +2524,10 @@
   splits:
   - split: 1
     text: 带着何紫菀、段思平回去诱捕虹儿
-    translated: Take Hé Zǐwān and Duàn Sīpíng back to lure Hong'er.
+    translated: Take He Ziwan and Duan Siping back to lure Hong'er.
   - split: 3
     text: 你将紫菀误认为蛇窟苗女，以致吓跑了她心爱的大蜈蚣虹儿。如今你答应了要帮紫菀找回虹儿，唯一的办法，就是找到虹儿爱吃的腐心草引诱她出来。据紫菀所言，腐心草多生长于丛林沼泽之地，而你如今采到一株了。赶紧回去将虹儿引诱出来吧。
-    translated: You mistook Zǐwǎn for a Snake Cave Miao girl, which scared away her beloved Gourd Bug Xiāng. Now that you've promised to help Zǐwǎn find Xiāng back, the only way is to use the Fúxīncăo she loves to lure her out. According to Zǐwǎn, Fúxīncăo grows abundantly in jungles and swamps, and you have now gathered a plant. Hurry back to lure Xiāng out with it.
+    translated: You mistook Ziwan for a Snake Cave Miao girl, which scared away her beloved Gourd Bug Xiang. Now that you've promised to help Ziwan find Xiang back, the only way is to use the Fuxincao she loves to lure her out. According to Ziwan, Fuxincao grows abundantly in jungles and swamps, and you have now gathered a plant. Hurry back to lure Xiang out with it.
 - lineNum: 253
   raw: Q20018	叶家马帮	0	在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？	0	FALSE	Q20018_01,Q20018_02	0	FALSE		0		0
   translated: 
@@ -2577,7 +2577,7 @@
     translated: Found the man's friend in the snake pit.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 258
   raw: Q20019_02	告知男子不幸的消息	1	你在拱石村附近的蛇窟洞口，发现一名被蛇围攻的男子。帮助他把蛇赶跑之后，这名男子表示他有一位朋友还困在蛇窟里面，然而你进入蛇窟后，发现这名男子已断气多时，出蛇窟后告知男子这个不幸的消息吧	0	FALSE	0	-183.947,108.243,-1103.646	TRUE		300	(Reputation,1)	91
   translated: 
@@ -2617,7 +2617,7 @@
     translated: Exit Snake Cave and ask for clarification of the true situation.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 262
   raw: Q20021	山魈恶鬼	0	山魈恶鬼是甚么玩意呢？	0	FALSE	Q20021_01,Q20021_02,Q20021_03,Q20021_04,Q20021_05,Q20021_06,Q20021_07	0	TRUE		0		0
   translated: 
@@ -2694,7 +2694,7 @@
   splits:
   - split: 1
     text: 赶回禾家马帮
-    translated: Rush back to Hé family's horse stable.
+    translated: Rush back to He family's horse stable.
   - split: 3
     text: 由于禾尹仁的失踪，禾家父女之间的矛盾越来越深，根据叶金虹所言，禾尹仁原来是被禾泓渊的对头山魈恶鬼抓走了。如今，你们终于从山魈恶鬼的手中救出了禾尹仁，但禾尹仁表示山魈鬼王极为厉害，而且盛怒之下的山魈鬼王很有可能直接找上禾泓渊，尽速赶回禾家马帮通报这件事吧。
     translated: Due to the disappearance of Hu Yinqing, the conflict between the Hu family father and daughter has deepened. According to Ye Jinhong, it turns out that Hu Yinqing was abducted by Hu Hongyuan's rival, Shan Lie Egui. Now that you have rescued Hu Yinqing from Shan Lie Egui, Hu Yinqing stated that the Shan Lie King is very powerful, and if enraged, he may directly seek out Hu Hongyuan. Hurry back to report this matter to the Hu Family Ma Brothers' Alliance immediately.
@@ -2704,7 +2704,7 @@
   splits:
   - split: 1
     text: 擎天寨
-    translated: Qīngtiān Zhài
+    translated: Qingtian Zhai
   - split: 3
     text: 禾泓渊断气之前，嘱咐禾郁青去向李彦仙寨主报信，告诉他山魈鬼王正在找黄指挥使。带着何郁青前往擎天寨吧！
     translated: Before He Hongyuan lost consciousness, he instructed He Yuling to go and inform Li Yanxian the Camp Commander that the Mountain Demon King was looking for Huang the Chief of Staff. Take He Yuling to Qiantian Camp!
@@ -2767,7 +2767,7 @@
     translated: Seeking a white-haired woman.
   - split: 3
     text: 王喆需要一点时间疗养内伤，他将一枚擎天寨令牌交付给你，请你去找他的义姐白露霜。白露霜留有一头披肩长发，应该不难辨认，先向卧龙村居民打听打听吧！
-    translated: Wang Zhe needs some time to recover from internal injuries, so he entrusts you with a token of the Qingtian Encampment. Please go and find his cousin Bái Lùshuāng. Bai Lushuang has shoulder-length hair, which should make her easy to recognize; start by asking around the Wuling Village residents!
+    translated: Wang Zhe needs some time to recover from internal injuries, so he entrusts you with a token of the Qingtian Encampment. Please go and find his cousin Bai Lushuang. Bai Lushuang has shoulder-length hair, which should make her easy to recognize; start by asking around the Wuling Village residents!
 - lineNum: 277
   raw: Q20024	夫妻失散	0	???	0	FALSE	Q20024_01,Q20024_03,Q20024_02	0	FALSE		0		1
   translated: 
@@ -2777,7 +2777,7 @@
     translated: Married couple separated
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 278
   raw: Q20024_01	找出女子的丈夫，可以向西南方找找	1	狼蛮劫掠过后的村庄里，你遇见了一名哭泣的女子，原来她跟丈夫在混乱中失散了。这名女子请求你找出她的丈夫，不然她也不想活了。如果有空的话，帮她留意一下她的丈夫是否躲藏在附近吧。	0	FALSE	0	-989.08, 10150, 504.32	TRUE		1200	(Reputation,6)	251
   translated: 
@@ -2797,7 +2797,7 @@
     translated: Return to where Xu Yi's wife is located.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 280
   raw: Q20024_03	救出徐亦的妻子	1	你遇见了一位名叫徐亦的男子，他的妻子似乎被狼蛮人抓住了。徐亦请求你到附近的张家村里救出他的妻子，他愿意用重礼答谢。	0	FALSE	0	-880.0028, 67.24562, 548.1866	TRUE		1200	(Moral,3)(Reputation,6)	251
   translated: 
@@ -2827,7 +2827,7 @@
     translated: Rescue the villagers in the village.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 283
   raw: Q20026	受伤的道姑	0	你赶跑了占据望陇村的狼蛮兵，村民告诉你，有一位领高强的道姑受了伤，正遭到狼蛮兵追杀。若是由望陇村往东边走的话，或许会遇上这名本领高强的道姑吧。	0	FALSE	Q20026_01	0	FALSE		0		1
   translated: 
@@ -2847,7 +2847,7 @@
     translated: Go east to find the injured Daoist nun.
   - split: 3
     text: ???
-    translated: Could you please provide the text in Simplified Chinese that you would like translated into English? I'll be happy to assist once I have it!
+    translated: ???
 - lineNum: 285
   raw: Q20027	打草谷的狼蛮军	0	位于西北的三个村庄遭受狼蛮兵劫掠，并且有许多村民遭到俘虏。张君宝已经赶去这三个村庄援救村民，有路过的话不妨去帮张君宝一把。	0	FALSE	Q20027_01,Q20027_02,Q20027_03,Q20027_04	0	FALSE		0	(Moral,3)	0
   translated: 
@@ -2867,7 +2867,7 @@
     translated: Rescue the people of Zhang Family Village.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 287
   raw: Q20027_02	救出葫芦村的百姓	1	???	0	FALSE		-853.009, 71.58, 834.0721	FALSE		2400	(Reputation,12)	261
   translated: 
@@ -2877,7 +2877,7 @@
     translated: Rescue the villagers of Hulucun.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 288
   raw: Q20027_03	救出望陇村的百姓	1	???	0	FALSE		-921.7357, 65.0064, 1099.63	FALSE		2400	(Reputation,12)	281
   translated: 
@@ -2887,17 +2887,17 @@
     translated: Rescue the villagers of Wanglong Village.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 289
   raw: Q20027_04	???	1	???	0	FALSE		0	FALSE		0		1
   translated: 
   splits:
   - split: 1
     text: ???
-    translated: ''
+    translated: ???
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 290
   raw: Q20028	义军擎天	0	你在西北葫芦村附近，碰上了遭受狼蛮军追击而死的擎天寨众洪义，他死前托你带一封信回擎天寨交给寨主李彦仙或是二寨主王喆，并说了这封信事关重大。如果路过擎天寨的话，就帮他将这封信带进去吧。	0	FALSE	Q20028_01	0	FALSE		0		1
   translated: 
@@ -2917,7 +2917,7 @@
     translated: Deliver the letter to Qingtian Encampment.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 292
   raw: Q20029	探访张君宝	0	张君宝邀你上青城山喝一口凉茶，没甚么事的话就去探访他吧。	0	FALSE	Q20029_01,Q20029_02	0	FALSE		0		0
   translated: 
@@ -2937,7 +2937,7 @@
     translated: Visit Zhang Junbao in Qingcheng Mountain.
   - split: 3
     text: ???
-    translated: It appears you haven't provided any text to translate. Please provide the Simplified Chinese text you would like translated into English following the given guidelines.
+    translated: ???
 - lineNum: 294
   raw: Q20029_02	到青城派正殿去看看情况	1	???	0	FALSE		0	FALSE		600	(Reputation,3)	1
   translated: 
@@ -2947,7 +2947,7 @@
     translated: Go to the main hall of Qingcheng Sect to check on the situation.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 295
   raw: Q20030	青海番僧	0	驻守在望陇村的军官沈泽琦告诉你，附近偶尔会有番僧出没杀人，这些番僧的刀法诡谲，不似中土武学。虽然他明着是提醒你要当心这些番僧，但其实，他是指望你去帮他除了这些心腹大患...<br>或许可以往东方至东南方一带找找看？	0	FALSE	Q20030_01,Q20030_02,Q20030_03	0	FALSE		0		1
   translated: 
@@ -2967,7 +2967,7 @@
     translated: After nightfall, walk around near Wanglong Village.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 297
   raw: Q20030_02	走进山洞里	1	???	0	FALSE		0	FALSE		4800	(Reputation,24)	441
   translated: 
@@ -2977,7 +2977,7 @@
     translated: Enter the cave.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 298
   raw: Q20030_03	回望陇村回报沈泽琦	1	???	0	FALSE		0	FALSE		600	(Reputation,3)	1
   translated: 
@@ -2987,7 +2987,7 @@
     translated: Looking back at Luntown, reporting to Shen Zeqi.
   - split: 3
     text: ???
-    translated: Please provide the text you would like translated from Simplified Chinese to English, following the provided guidelines.
+    translated: ???
 - lineNum: 299
   raw: Q20031	神秘的地图	0	沈泽琦身上的鱼肠剑里，竟然藏着一张奇怪的地图？这个地图中标记的地点藏着甚么秘密呢？	0	FALSE	Q20031_01,Q20031_02,Q20031_03,Q20031_04,Q20031_05,Q20031_06,Q20031_07,Q20031_08,Q20031_09,Q20031_10	0	FALSE		0		1
   translated: 
@@ -3007,7 +3007,7 @@
     translated: Find the location marked on the map.
   - split: 3
     text: ???
-    translated: To assist you effectively, please provide the Simplified Chinese text that you need translated into English. Let me know how I can help!
+    translated: ???
 - lineNum: 301
   raw: Q20031_02	询问关于地图的线索	1	???	0	FALSE		-1437.09,257.60,890.42	FALSE		1200	(Reputation,6)	461
   translated: 
@@ -3017,7 +3017,7 @@
     translated: Inquire about clues regarding the map.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 302
   raw: Q20031_03	调查出地图所隐含的秘密，到附近找人询问看看	1	???	0	FALSE		-1284.09,10150,946.42	FALSE		1200	(Reputation,6)	461
   translated: 
@@ -3027,7 +3027,7 @@
     translated: Investigate the secrets implied by the map and go nearby to ask someone about it.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 303
   raw: Q20031_04	找小阿莉问话	1	???	0	FALSE		-1248.66,10050,911.32	FALSE		1200	(Reputation,6)	461
   translated: 
@@ -3037,7 +3037,7 @@
     translated: Find Little Ali to talk.
   - split: 3
     text: ???
-    translated: It seems like you've submitted a question mark instead of text to translate. If there's anything specific you would like translated from Simplified Chinese to English, please provide the text here, and I'll be happy to assist!
+    translated: ???
 - lineNum: 304
   raw: Q20031_05	弄清楚阿白是甚么东西	1	???	0	FALSE		-1284.09,10100,946.422	FALSE		1200	(Reputation,6)	461
   translated: 
@@ -3047,7 +3047,7 @@
     translated: Understand what A Bai is.
   - split: 3
     text: ???
-    translated: It appears you've entered ??? as your text to be translated. Could you please provide the specific Simplified Chinese text you need translated into English? I'm here to help with your translation needs!
+    translated: ???
 - lineNum: 305
   raw: Q20031_06	寻回阿白	1	???	0	FALSE		-1274.09,10150,869.42	FALSE		4800	(Reputation,24)	461
   translated: 
@@ -3057,7 +3057,7 @@
     translated: Retrieve Little White.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 306
   raw: Q20031_07	调查出地图所隐含的秘密	1	???	0	FALSE		-1437.09,257.60,890.42	FALSE		1200	(Reputation,6)	531
   translated: 
@@ -3067,7 +3067,7 @@
     translated: Investigation reveals the secrets implied by the map.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 307
   raw: Q20031_08	找出湖中的水鬼	1	???	0	FALSE		-1428.09,10080,899.42	FALSE		2400	(Reputation,12)	531
   translated: 
@@ -3077,7 +3077,7 @@
     translated: Find the water ghost in the lake.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 308
   raw: Q20031_09	深入水底洞窟	1	???	0	FALSE		0	FALSE		4800	(Reputation,24)	531
   translated: 
@@ -3087,7 +3087,7 @@
     translated: Deep into the underwater cave
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 309
   raw: Q20031_10	夺回武穆遗书	1	???	0	FALSE		0	FALSE		9600	(Reputation,48)	531
   translated: 
@@ -3097,7 +3097,7 @@
     translated: Reclaiming the Swordsmaster's Testament
   - split: 3
     text: ???
-    translated: Please provide the text you would like translated from Simplified Chinese to English following the given guidelines.
+    translated: ???
 - lineNum: 310
   raw: Q21001	深夜钓鱼翁	0	根据江湖传闻，每日的子时到寅时，拱石村的山脚下都会出现一名钓鱼翁，此人曾经是江湖豪侠，却不知何故在江湖上销声匿迹了。对这件事感到好奇的话，就去会会那个老翁吧。	0	FALSE	Q21001_01	0	FALSE		0		1
   translated: 
@@ -3147,17 +3147,17 @@
     translated: Dong Family and Miao Girl
   - split: 3
     text: 据说有一名标致的苗女在大研镇董府附近窥探。这位苗女是谁呢？有甚么目的？有空的话，入夜后去董府瞧一瞧吧，或许会碰上甚么有趣的事。
-    translated: It is said that a distinctive Miao girl has been spying near the Dòng family in Dàyàn Town. Who is this Miao girl and what are her intentions? If you have time, visit the Dòng residence after dark; there might be something interesting to see.
+    translated: It is said that a distinctive Miao girl has been spying near the Dong family in Dayan Town. Who is this Miao girl and what are her intentions? If you have time, visit the Dong residence after dark; there might be something interesting to see.
 - lineNum: 315
   raw: Q21003_01	晚上到董府去探探消息	1	???	0	FALSE	0	-747.34,66.22,-1030.32	FALSE		300	(Reputation,1)	1
   translated: 
   splits:
   - split: 1
     text: 晚上到董府去探探消息
-    translated: Visit the Dōng family residence in the evening to inquire about news.
+    translated: Visit the Dong family residence in the evening to inquire about news.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 316
   raw: Q30004	郎情…妾意？	0	淘石帮副帮主周益之子周行恒为情所困，在他千拜托、万拜托之下，你只好去帮他问清楚他的心上人，玉坊大小姐邵如珏的心意。	0	FALSE	Q30004_01,Q30004_02,Q30004_03,Q30004_04,Q30004_05,Q30004_06	0	TRUE		0		1
   translated: 
@@ -3287,7 +3287,7 @@
     translated: Seeking Purple Wormwood
   - split: 3
     text: 咦？找到冻伤药方还不够…还要找到药方里的紫草才行呀！好人做到底，帮忙叶萍找到冻伤药方中所需要的紫草吧。
-    translated: Huh? Finding the frostbite formula isn't enough... You also need to find the Gentian used in the formula! As a good person, help Yè Píng find the Gentian needed in the frostbite formula.
+    translated: Huh? Finding the frostbite formula isn't enough... You also need to find the Gentian used in the formula! As a good person, help Ye Ping find the Gentian needed in the frostbite formula.
 - lineNum: 329
   raw: Q30008	逃避上工的小孩	0	一听到上工就不见人影？漱玉矶的阮曼曼正焦头烂额的寻找不知跑到何处的女儿阮小路，快帮帮她吧！	0	FALSE	Q30008_01,Q30008_02,Q30008_03,Q30008_04	0	TRUE		0		1
   translated: 
@@ -3364,17 +3364,17 @@
   splits:
   - split: 1
     text: 打听段思良的下落
-    translated: Inquire about Duān Sīliáng's whereabouts.
+    translated: Inquire about Duan Siliang's whereabouts.
   - split: 3
     text: 来到董府却发现段思良不在，在董府内打听看看他的行踪吧。
-    translated: Arrived at the Dòng family but found Duàn Sīliáng was not there, so look around inside the Dòng family to find out his whereabouts.
+    translated: Arrived at the Dong family but found Duan Siliang was not there, so look around inside the Dong family to find out his whereabouts.
 - lineNum: 337
   raw: Q40001_03	去俏梦阁找段思良	1	段思良竟然迷上去俏梦阁！？赶快去俏梦阁调查清楚吧。	0	FALSE	0	-736.73,66.12,-1112.56	TRUE		3000	(Reputation,6)	301
   translated: 
   splits:
   - split: 1
     text: 去俏梦阁找段思良
-    translated: Go find Duàn Sī Liáng at Qiao Mèng Gé.
+    translated: Go find Duan Si Liang at Qiao Meng Ge.
   - split: 3
     text: 段思良竟然迷上去俏梦阁！？赶快去俏梦阁调查清楚吧。
     translated: Duan Siliang has unexpectedly fallen for Qiaomengge! Hurry and go to Qiaomengge to investigate thoroughly.
@@ -3394,7 +3394,7 @@
   splits:
   - split: 1
     text: 返回董府，找罗老妈子
-    translated: Return to Dǒng's household and find Lóu's mother-in-law.
+    translated: Return to Dong's household and find Lou's mother-in-law.
   - split: 3
     text: 段思平久久未回董府，很担忧胞弟段思良的近况，有时间带他回董府问问与思良关系良好的罗老妈子吧。
     translated: Duan Siping has not returned to the Dong Mansion for a long time and is very worried about his younger brother Duan Siliang. Whenever you have time, take him back to the Dong Mansion to ask Aunt Luo, who has a good relationship with Siliang.
@@ -3427,7 +3427,7 @@
     translated: Eating a monster secretly.
   - split: 3
     text: 骆元玉久久没回老家，如果有时间带他回去看看阿姐吧。
-    translated: Luò Yuányù hasn't returned home in a long time; if you have the time, take him to visit his elder sister.
+    translated: Luo Yuanyu hasn't returned home in a long time; if you have the time, take him to visit his elder sister.
 - lineNum: 343
   raw: Q40004_01	探访骆大娘	1	骆元玉久久没回老家，如果有时间带他回去看看阿姐吧。	0	FALSE		-12.63367,147.8173,-1105.464	TRUE		0		341
   translated: 
@@ -3437,7 +3437,7 @@
     translated: Visit Madam Luo
   - split: 3
     text: 骆元玉久久没回老家，如果有时间带他回去看看阿姐吧。
-    translated: Luò Yuányù hasn't returned home for a long time; if there's time, take him back to visit his elder sister.
+    translated: Luo Yuanyu hasn't returned home for a long time; if there's time, take him back to visit his elder sister.
 - lineNum: 344
   raw: Q40004_02	调查是谁偷食	1	近来有贼人出没，不只偷食还伤及家禽。骆元玉夸下海口会抓住犯人，就从问问附近邻居开始吧。	0	FALSE		-12.63367,147.8173,-1105.464	TRUE		4000	(Reputation,6)	341
   translated: 
@@ -3447,7 +3447,7 @@
     translated: Investigation on who ate the food.
   - split: 3
     text: 近来有贼人出没，不只偷食还伤及家禽。骆元玉夸下海口会抓住犯人，就从问问附近邻居开始吧。
-    translated: Recently, thieves have been around, stealing food and even harming poultry. Lü Yuanyu boasts he will catch the culprits, so let's start by asking nearby neighbors.
+    translated: Recently, thieves have been around, stealing food and even harming poultry. Lu Yuanyu boasts he will catch the culprits, so let's start by asking nearby neighbors.
 - lineNum: 345
   raw: Q40006	男人啊，胸怀大志	0	骆元玉突然想回老家一趟，看起来心事重重。	0	FALSE	Q40006_01	0	TRUE		0		1
   translated: 
@@ -3457,7 +3457,7 @@
     translated: Men, have lofty aspirations!
   - split: 3
     text: 骆元玉突然想回老家一趟，看起来心事重重。
-    translated: Luò Yuányù suddenly wanted to return home for a visit; he seemed preoccupied with heavy thoughts.
+    translated: Luo Yuanyu suddenly wanted to return home for a visit; he seemed preoccupied with heavy thoughts.
 - lineNum: 346
   raw: Q40006_01	返回骆元玉老家	1	骆元玉突然想回老家一趟，看起来心事重重。	0	FALSE		-12.63367,147.8173,-1105.464	TRUE		3000		341
   translated: 
@@ -3467,7 +3467,7 @@
     translated: Return to Lou Yuanyu's hometown.
   - split: 3
     text: 骆元玉突然想回老家一趟，看起来心事重重。
-    translated: Luò Yuányù suddenly thought about going back home for a visit; he seemed burdened with worries.
+    translated: Luo Yuanyu suddenly thought about going back home for a visit; he seemed burdened with worries.
 - lineNum: 347
   raw: Q40008	仇山恨鬼	0	禾郁青挂念哥哥与马帮的近况，如果有时间回大研镇一趟吧。	0	FALSE	Q40008_01,Q40008_02,Q40008_03	0	TRUE		0		1
   translated: 
@@ -3544,7 +3544,7 @@
   splits:
   - split: 1
     text: 返回董府，找五毒散
-    translated: Return to the Dǒng family estate and find the Wǔdú Sàn.
+    translated: Return to the Dong family estate and find the Wudu San.
   - split: 3
     text: 何紫菀把五毒散忘在董府，还粗心的忘记丢在哪里，如果有时间陪她回去，把董府找一遍吧。
     translated: Huo Zhiwan left the Five Poisons Powder at Dang Mansion and carelessly forgot where she placed it. If there's time, go back with her and search through Dang Mansion to find it.
@@ -3567,17 +3567,17 @@
     translated: Dong Clan Affairs and Turmoil
   - split: 3
     text: 何紫菀的蛛儿竟然还留在董府，在出事前赶快把他抓回来吧。
-    translated: Hé Zǐwǎn's spider is still at Dǒng's residence, so hurry to catch it before anything happens.
+    translated: He Ziwan's spider is still at Dong's residence, so hurry to catch it before anything happens.
 - lineNum: 357
   raw: Q40012_01	返回董府	1	何紫菀的蛛儿竟然还留在董府，在出事前赶快把他抓回来吧。	0	FALSE	0	-769.66,71.44,-1044.13	TRUE		0		1
   translated: 
   splits:
   - split: 1
     text: 返回董府
-    translated: Return to Dǒng Family Estate
+    translated: Return to Dong Family Estate
   - split: 3
     text: 何紫菀的蛛儿竟然还留在董府，在出事前赶快把他抓回来吧。
-    translated: Hé Zǐwǎn's spider is still at Dòng family. Hurry to bring him back before the incident occurs.
+    translated: He Ziwan's spider is still at Dong family. Hurry to bring him back before the incident occurs.
 - lineNum: 358
   raw: Q40012_02	调查失事现场	1	董迦罗被抓走了，调查看看他被绑走的地方吧。	0	FALSE	0	-769.66,71.44,-1044.13	TRUE		200		1
   translated: 
@@ -3614,7 +3614,7 @@
   splits:
   - split: 1
     text: 探访东方迟
-    translated: Visit Master Chí in the East.
+    translated: Visit Master Chi in the East.
   - split: 3
     text: 颜玉书好一阵子没见到东方迟，带她回去一趟吧。
     translated: Yan Yushu hasn't seen Dongfang Chi in a while, so take her back with you.
@@ -3767,7 +3767,7 @@
     translated: Bewitched neck, broken wings.
   - split: 3
     text: 雪翼雕思乡心切，得带牠回家一趟，阿得阿克便顺便邀你去鹰猎人聚落喝杯酥油茶，你就别客气，去跟阿玉阿姗要杯酥油茶吧。
-    translated: Xuē Yì Dīao xīn xiāng qiè, dé dài tā huí jiā yī tàng. Ā Dé Ā Kè biàn shùnbiàn yāo nǐ qù Yīng Liè Rén Jù luò hē bēi sūyó chá, nǐ jiù bié kèqì, qù gēn Ā Yù Ā Shān yāo bēi sūyó chá ba.
+    translated: Xue Yi Diao xin xiang qie, de dai ta hui jia yi tang. A De A Ke bian shunbian yao ni qu Ying Lie Ren Ju luo he bei suyo cha, ni jiu bie keqi, qu gen A Yu A Shan yao bei suyo cha ba.
 - lineNum: 377
   raw: Q40019_01	前往鹰猎人聚落找阿玉阿姗	1	雪翼雕思乡心切，得带牠回家一趟，阿得阿克便顺便邀你去鹰猎人聚落喝杯酥油茶，你就别客气，去跟阿玉阿姗要杯酥油茶吧。	0	FALSE	0	-1236.28,180.1239,-811.5601	TRUE		500		331
   translated: 
@@ -3847,7 +3847,7 @@
     translated: Find Xiaoxue's Wing Sculpture.
   - split: 3
     text: 小雪翼雕不见了！阿得阿克心急如焚，赶快带他找到小雪翼雕。说不准在附近可以找到小雪翼雕离开的痕迹？
-    translated: Xiǎo Xuě Yìdiāo has disappeared! A Dé and Ākè are in a panic, quickly leading him to find Xiǎo Xuě Yìdiāo. Perhaps they can find traces of where Xiǎo Xuě Yìdiāo left around the nearby area?
+    translated: Xiao Xue Yidiao has disappeared! A De and Ake are in a panic, quickly leading him to find Xiao Xue Yidiao. Perhaps they can find traces of where Xiao Xue Yidiao left around the nearby area?
 - lineNum: 385
   raw: Q40023	白马幼驹	0	李叹邀请你去白马居吃饭，夸耀敏婆婆煮的菜比美馔楼的还好吃，去见识见识吧。	0	FALSE	Q40023_01,Q40023_02,Q40023_03	-955.9874,219.2878,-1235.303	TRUE		0		1
   translated: 
@@ -3997,17 +3997,17 @@
     translated: Parting at Mount Diancang
   - split: 3
     text: 漆笑儿近来总是闷闷不乐，也不知该怎么问出心事。还是交给白马居的敏婆婆吧，两人关系良好，必定能解漆笑儿的心结。
-    translated: Qī Xiàor recently has been sullen and doesn't know how to express his worries. It might be better to leave it to Báimǎ Jū's Mì Nǎinai, who has a good relationship with him; she will surely help unravel Qī Xiàor's troubles.
+    translated: Qi Xiaor recently has been sullen and doesn't know how to express his worries. It might be better to leave it to Baima Ju's Mi Nainai, who has a good relationship with him; she will surely help unravel Qi Xiaor's troubles.
 - lineNum: 400
   raw: Q40027_01	返回白马居，找敏婆婆	1	漆笑儿近来总是闷闷不乐，也不知该怎么问出心事。还是交给白马居的敏婆婆吧，两人关系良好，必定能解漆笑儿的心结。	0	FALSE	0	-956.6297,219.2878,-1239.071	TRUE		0		401
   translated: 
   splits:
   - split: 1
     text: 返回白马居，找敏婆婆
-    translated: Return to White Horse Residence, find Aunt Mín.
+    translated: Return to White Horse Residence, find Aunt Min.
   - split: 3
     text: 漆笑儿近来总是闷闷不乐，也不知该怎么问出心事。还是交给白马居的敏婆婆吧，两人关系良好，必定能解漆笑儿的心结。
-    translated: Qī Xiàor recently has been gloomy and does not know how to express his troubles. It might be best to entrust it to Mín Pópo of Báimǎ Jū, as their relationship is good and she will surely help Qī Xiàor resolve his concerns.
+    translated: Qi Xiaor recently has been gloomy and does not know how to express his troubles. It might be best to entrust it to Min Popo of Baima Ju, as their relationship is good and she will surely help Qi Xiaor resolve his concerns.
 - lineNum: 401
   raw: Q40027_02	打退点苍派弟子	1	漆笑儿近来总是闷闷不乐，也不知该怎么问出心事。才回到白马居，一群点苍派弟子便登门拜访。来者不善，在敏婆婆和李叹的帮助下，将他们通通敢走。也才解了漆笑儿心头上的一个结。	0	FALSE	0	-1001.951,215.3668,-1221.353	TRUE		3000	(Reputation,6)	401
   translated: 
@@ -4017,7 +4017,7 @@
     translated: Defeat the disciples of Dong Cang Sect.
   - split: 3
     text: 漆笑儿近来总是闷闷不乐，也不知该怎么问出心事。才回到白马居，一群点苍派弟子便登门拜访。来者不善，在敏婆婆和李叹的帮助下，将他们通通敢走。也才解了漆笑儿心头上的一个结。
-    translated: Qī Xiàor near lately always seems sullen and doesn't know how to ask about his concerns. Just after returning home, a group of Diantiāng School disciples came to visit him at Báimǎ Jū. With the help of Mínpópo and Li Tàn, he managed to send them all away. This also helped ease one burden from Qī Xiàor's heart.
+    translated: Qi Xiaor near lately always seems sullen and doesn't know how to ask about his concerns. Just after returning home, a group of Diantiang School disciples came to visit him at Baima Ju. With the help of Minpopo and Li Tan, he managed to send them all away. This also helped ease one burden from Qi Xiaor's heart.
 - lineNum: 402
   raw: Q40029	夜半贼人	0	樊香蝶久久未回俏梦阁，不知俏梦阁的姑娘们过的好不好。你就带她回俏梦阁一趟，顺便能看看漂亮的姑娘也好。	0	FALSE	Q40029_01,Q40029_02	-741.336,79.70195,-1113.123	TRUE		0		1
   translated: 
@@ -4027,7 +4027,7 @@
     translated: Thief in the dead of night.
   - split: 3
     text: 樊香蝶久久未回俏梦阁，不知俏梦阁的姑娘们过的好不好。你就带她回俏梦阁一趟，顺便能看看漂亮的姑娘也好。
-    translated: Fán Xiāngdié has not returned to Qiaomeng Gé for a while, and she doesn't know how the girls at Qiaomeng Gé are doing. So take her there, and you can also have a look at the pretty girls if possible.
+    translated: Fan Xiangdie has not returned to Qiaomeng Ge for a while, and she doesn't know how the girls at Qiaomeng Ge are doing. So take her there, and you can also have a look at the pretty girls if possible.
 - lineNum: 403
   raw: Q40029_01	返回俏梦阁找艳雪	1	樊香蝶久久未回俏梦阁，不知俏梦阁的姑娘们过的好不好。你就带她回俏梦阁一趟，顺便能看看漂亮的姑娘也好。	0	FALSE	0	-741.336,79.70195,-1113.123	TRUE		0		1
   translated: 
@@ -4037,7 +4037,7 @@
     translated: Return to Qiao Meng Ge to find Yan Xue.
   - split: 3
     text: 樊香蝶久久未回俏梦阁，不知俏梦阁的姑娘们过的好不好。你就带她回俏梦阁一趟，顺便能看看漂亮的姑娘也好。
-    translated: Fán Xiāngdié has been absent from the Xiao Meng Ge for a long time and doesn't know how the girls there are doing. You can take her back to Xiao Meng Ge and, in passing, have a look at the pretty girls too.
+    translated: Fan Xiangdie has been absent from the Xiao Meng Ge for a long time and doesn't know how the girls there are doing. You can take her back to Xiao Meng Ge and, in passing, have a look at the pretty girls too.
 - lineNum: 404
   raw: Q40029_02	半夜巡视俏梦阁	1	与樊香蝶回到俏梦阁，便得知有夜半贼人偷盗姑娘们的东西，这种事怎么能忍！还不出手教训教训这臭小子！听闻贼人都在半夜时出没于俏梦阁，轻功了得，看来不太简单，小心应对吧。	0	FALSE	0	-735.6235,72.61195,-1112.133	TRUE		2000	(Reputation,6)	321
   translated: 
@@ -4047,7 +4047,7 @@
     translated: Midnight patrol of Qiao Meng Ge.
   - split: 3
     text: 与樊香蝶回到俏梦阁，便得知有夜半贼人偷盗姑娘们的东西，这种事怎么能忍！还不出手教训教训这臭小子！听闻贼人都在半夜时出没于俏梦阁，轻功了得，看来不太简单，小心应对吧。
-    translated: Upon returning to the Xiaomeng Hall with Fán Xiāngdié, they learned that thieves had stolen items from the young ladies at midnight—an intolerable act! They must take action and discipline these rascals. It was reported that the thieves appeared in Xiaomeng Hall at night and were exceptionally skilled in martial arts, indicating this would not be simple. Caution is advised when dealing with them.
+    translated: Upon returning to the Xiaomeng Hall with Fan Xiangdie, they learned that thieves had stolen items from the young ladies at midnight—an intolerable act! They must take action and discipline these rascals. It was reported that the thieves appeared in Xiaomeng Hall at night and were exceptionally skilled in martial arts, indicating this would not be simple. Caution is advised when dealing with them.
 - lineNum: 405
   raw: Q40030	亲亲宝贝悠悠我心	0	樊香蝶收到艳雪的书信，已经从夜半贼人口中问出幕后黑手的消息，不过这么重要的事情当然不能写在信中。赶紧返回俏梦阁找艳雪吧。	0	FALSE	Q40030_01,Q40030_02	-741.336,79.70195,-1113.123	TRUE		0		1
   translated: 
@@ -4057,7 +4057,7 @@
     translated: Dear treasure, you are my heart's delight.
   - split: 3
     text: 樊香蝶收到艳雪的书信，已经从夜半贼人口中问出幕后黑手的消息，不过这么重要的事情当然不能写在信中。赶紧返回俏梦阁找艳雪吧。
-    translated: Fān Xiāngdié received a letter from Yànxuě. She has already extracted information about the mastermind behind the incident from the bandits during the midnight escape, but such an important matter cannot be written in a letter. Hurry back to Qiao Mènggé to find Yànxuě.
+    translated: Fan Xiangdie received a letter from Yanxue. She has already extracted information about the mastermind behind the incident from the bandits during the midnight escape, but such an important matter cannot be written in a letter. Hurry back to Qiao Mengge to find Yanxue.
 - lineNum: 406
   raw: Q40030_01	返回俏梦阁找艳雪	1	樊香蝶收到艳雪的书信，已经从夜半贼人口中问出幕后黑手的消息，不过这么重要的事情当然不能写在信中。赶紧返回俏梦阁找艳雪吧。	0	FALSE	0	-741.336,79.70195,-1113.123	TRUE		0		361
   translated: 
@@ -4067,7 +4067,7 @@
     translated: Return to Xiao Meng Ge to find Yan Xue.
   - split: 3
     text: 樊香蝶收到艳雪的书信，已经从夜半贼人口中问出幕后黑手的消息，不过这么重要的事情当然不能写在信中。赶紧返回俏梦阁找艳雪吧。
-    translated: Fán Xiāngdié received a letter from Yàn Xuě, who had already extracted information about the mastermind behind the thieves' plot from them during the midnight encounter. However, such an important matter couldn't be written in the letter. Hurry back to Qiáomèng Gé to find Yàn Xuě.
+    translated: Fan Xiangdie received a letter from Yan Xue, who had already extracted information about the mastermind behind the thieves' plot from them during the midnight encounter. However, such an important matter couldn't be written in the letter. Hurry back to Qiaomeng Ge to find Yan Xue.
 - lineNum: 407
   raw: Q40030_02	寻找接头人	1	樊香蝶收到艳雪的书信，已经从夜半贼人口中问出幕后黑手的消息，返回俏梦阁与艳雪对话后得知，要找到幕后黑手得先找到接头人。得在午夜的大研镇郊外凉亭与他见面，并说出正确的密语才行。	0	FALSE	0	-815.0286,67.7695,-915.7227	TRUE		3000	(Reputation,6)	361
   translated: 
@@ -4077,7 +4077,7 @@
     translated: Seek a contact person
   - split: 3
     text: 樊香蝶收到艳雪的书信，已经从夜半贼人口中问出幕后黑手的消息，返回俏梦阁与艳雪对话后得知，要找到幕后黑手得先找到接头人。得在午夜的大研镇郊外凉亭与他见面，并说出正确的密语才行。
-    translated: Fàn Xiāngdié received a letter from Yànxuě and discovered the identity of the mastermind behind the midnight thieves. After discussing with Yuèxiǎoyàng at Ruòmèng Gé, she learned that to find the mastermind, they first need to locate the intermediary. They must meet him at the pavilion outside Dàyán Zhèn at midnight and speak the correct password.
+    translated: Fan Xiangdie received a letter from Yanxue and discovered the identity of the mastermind behind the midnight thieves. After discussing with Yuexiaoyang at Ruomeng Ge, she learned that to find the mastermind, they first need to locate the intermediary. They must meet him at the pavilion outside Dayan Zhen at midnight and speak the correct password.
 - lineNum: 408
   raw: Q40032	擎天大劫	0	王喆久久未回擎天寨，寨众们过得如何、有没有好好练功他可挂心的很。有空带他回去擎天寨一趟吧。	0	FALSE	Q40032_01,Q40032_02	-1438.864,234.0412,-361.5328	TRUE		0		1
   translated: 
@@ -4174,7 +4174,7 @@
   splits:
   - split: 1
     text: 余孽
-    translated: ''
+    translated: Residual Evil
   - split: 3
     text: 不知道上次与同门打架是否造成凌霜峻的困扰？对此很在意的张君宝想回青城山探访义弟，反正闲来无事你就成全成全他吧。
     translated: I wonder if the fight with fellow sect members last time caused any trouble for Liang Shuangjun? Zhang Junbao, who is very concerned about this, wants to return to Qingcheng Mountain to visit his sworn brother. Anyway, since you're free and have nothing else to do, why not help him out?
@@ -4244,7 +4244,7 @@
   splits:
   - split: 1
     text: 找出绯绯
-    translated: Find out about Fēifēi.
+    translated: Find out about Feifei.
   - split: 3
     text: 一阵子没有返回藏花草棚，程雁华颇为担忧女儿绯绯的近况，深怕这调皮捣蛋的女孩会给陈先生添麻烦。而情况也跟她预想的一样，绯绯自个儿出门玩耍。众人颇为担忧她还未复原的身子，还是赶快将她带回来吧。
     translated: After a while, Cheng Yanhua was quite worried about her daughter Feifei's condition after not returning to the herb shed. She feared that this mischievous girl might cause trouble for Mr. Chen. As expected, Feifei went out by herself. Everyone was concerned about her still-recovering health and thought it would be best to bring her back quickly.
@@ -4267,7 +4267,7 @@
     translated: Expert in Preserving Flowers
   - split: 3
     text: 绯绯总是调皮爱玩，让程雁华颇为担忧。有空就带她回去藏花草棚，管管这调皮捣蛋的女孩吧。
-    translated: Fèi Fèi is always mischievous and loves to play, causing Chéng Yànhuá great concern. When there's time, take her back to the hidden flower shed to look after this naughty girl.
+    translated: Fei Fei is always mischievous and loves to play, causing Cheng Yanhua great concern. When there's time, take her back to the hidden flower shed to look after this naughty girl.
 - lineNum: 427
   raw: Q40039_01	返回藏花草棚	1	绯绯总是调皮爱玩，让程雁华颇为担忧。有空就带她回去藏花草棚，管管这调皮捣蛋的女孩吧。	0	FALSE	0	-408.8609,62.96604,1195.101	TRUE		0		301
   translated: 
@@ -4277,7 +4277,7 @@
     translated: Return to the flower and herb shed.
   - split: 3
     text: 绯绯总是调皮爱玩，让程雁华颇为担忧。有空就带她回去藏花草棚，管管这调皮捣蛋的女孩吧。
-    translated: Fēi Fēi is always mischievous and loves to play, which worries Chéng Yànhuá a lot. Whenever there's time, take her back to the flower storage shed to keep an eye on this troublesome girl.
+    translated: Fei Fei is always mischievous and loves to play, which worries Cheng Yanhua a lot. Whenever there's time, take her back to the flower storage shed to keep an eye on this troublesome girl.
 - lineNum: 428
   raw: Q40039_02	找到绯绯	1	回到藏花草棚，竟然有毒殭攻来！好不容易打倒毒殭，绯绯又不见人影，或许她又前往同个地方采药草，赶快找到她吧。	0	FALSE	0	-557.3349,65.43923,1357.41	TRUE		3000	(Reputation,6)	381
   translated: 
@@ -4424,7 +4424,7 @@
   splits:
   - split: 1
     text: 打山贼
-    translated: Defeating bandits in the mountains.
+    translated: ''
   - split: 3
     text: 司徒荆不知发什么神经，突然对山贼起了兴趣，虽然不知道他在打什么主意，不过也不是坏事。在叶家马帮打听完后，得知是名为疤面鬼煞的山贼首领正在为非作歹。司徒荆似乎对这人很感兴趣，你就当作行侠仗义，带他一起去对付山贼吧。先前往叶家马帮被抢的地方，调查调查吧。
     translated: Stu Jiang doesn't know what came over him, suddenly taking an interest in bandits, though he isn't sure of their intentions. However, it's not necessarily a bad thing. After inquiring with the Ye Family Horse Sect, he learns that a mountain bandit leader named Bajian Guishasha is causing trouble. It seems Stu Jiang is quite interested in this man, so pretend to act heroically and take him along to deal with the bandits. First, investigate the location where the Ye Family was ambushed for reconnaissance.
@@ -4447,7 +4447,7 @@
     translated: The World's First Poison Zombie
   - split: 3
     text: 石鸿图不知哪根筋不对，说要创造出最厉害的毒殭。不想被做成毒殭的你，自然只好帮忙他一起埋伏，去抓捕毒殭的『素材』。
-    translated: Shí Hóngtú doesn't know which part of his brain is off, saying he wants to create the most powerful poison corpse. You, not wanting to become a poison corpse yourself, naturally have no choice but to help him set an ambush and capture the materials for it.
+    translated: Shi Hongtu doesn't know which part of his brain is off, saying he wants to create the most powerful poison corpse. You, not wanting to become a poison corpse yourself, naturally have no choice but to help him set an ambush and capture the materials for it.
 - lineNum: 445
   raw: Q40047_01	前往埋伏地点	1	石鸿图不知哪根筋不对，说要创造出最厉害的毒殭。不想被做成毒殭的你，自然只好帮忙他一起埋伏，去抓捕毒殭的『素材』。	0	FALSE	0	-718.4684,62.64436,1266.194	TRUE		2000	(Reputation,6)	301
   translated: 
@@ -4457,7 +4457,7 @@
     translated: Proceed to the ambush site.
   - split: 3
     text: 石鸿图不知哪根筋不对，说要创造出最厉害的毒殭。不想被做成毒殭的你，自然只好帮忙他一起埋伏，去抓捕毒殭的『素材』。
-    translated: Shí Hóngtú doesn't know which wire is crossed; he says he wants to create the most powerful poison zombie. You, not wanting to be turned into a poison zombie yourself, naturally have no choice but to help him set a trap together to capture the material for the poison zombies.
+    translated: Shi Hongtu doesn't know which wire is crossed; he says he wants to create the most powerful poison zombie. You, not wanting to be turned into a poison zombie yourself, naturally have no choice but to help him set a trap together to capture the material for the poison zombies.
 - lineNum: 446
   raw: Q40048	灭世毒王	0	石鸿图表示想去藏花草棚一趟，试着找出陈先生藏起的药王神篇。虽然你已多次跟他提及药王神篇的去向，但他始终不信，你也只能无可奈何的陪他走一趟。	0	FALSE	Q40048_01,Q40048_02	-427.5451,63.13497,1223.028	TRUE		0		1
   translated: 
@@ -4547,14 +4547,14 @@
     translated: Secret Recipe
   - split: 3
     text: 绯绯从陈先生的医书中发现名为茯苓何首乌的秘药，坐不住的她想要出发寻找药材，你就陪着她吧。制作茯苓何首乌需要茯苓八株、玉蔘八株、虎骨四片，以及神秘药材成形何首乌。书上记载枯禅寺一带可找到成形何首乌，或许可以前往调查，问问枯禅寺的僧人。
-    translated: Fēi Fēi discovered a secret remedy called Fu Ling He Shou Wu in Mr. Chen's medical book, and she couldn't sit still to find the herbs. You come with her. Making Fu Ling He Shou Wu requires eight pieces of Fu Ling, eight pieces of Jiaogulan, four slices of tiger bone, and the mysterious herb He Shou Wu. The book records that you can find He Shou Wu near Ku Chan Temple, perhaps investigate there by asking the monks at Ku Chan Temple.
+    translated: Fei Fei discovered a secret remedy called Fu Ling He Shou Wu in Mr. Chen's medical book, and she couldn't sit still to find the herbs. You come with her. Making Fu Ling He Shou Wu requires eight pieces of Fu Ling, eight pieces of Jiaogulan, four slices of tiger bone, and the mysterious herb He Shou Wu. The book records that you can find He Shou Wu near Ku Chan Temple, perhaps investigate there by asking the monks at Ku Chan Temple.
 - lineNum: 455
   raw: Q40052_01	前往枯禅寺，寻找何首乌	1	绯绯从陈先生的医书中发现名为茯苓何首乌的秘药，坐不住的她想要出发寻找药材，你就陪着她吧。制作茯苓何首乌需要茯苓八株、玉蔘八株、虎骨四片，以及神秘药材成形何首乌。书上记载枯禅寺一带可找到成形何首乌，或许可以前往调查，问问枯禅寺的僧人。	0	FALSE	0	226.1776,209.8096,778.0344	TRUE	(it40213,1)	0		1
   translated: 
   splits:
   - split: 1
     text: 前往枯禅寺，寻找何首乌
-    translated: Go to Kū Chán Sì to find Hé Shǒuwū.
+    translated: Go to Ku Chan Si to find He Shouwu.
   - split: 3
     text: 绯绯从陈先生的医书中发现名为茯苓何首乌的秘药，坐不住的她想要出发寻找药材，你就陪着她吧。制作茯苓何首乌需要茯苓八株、玉蔘八株、虎骨四片，以及神秘药材成形何首乌。书上记载枯禅寺一带可找到成形何首乌，或许可以前往调查，问问枯禅寺的僧人。
     translated: Feng Feng found a secret recipe called Fuling He Shou Wu in Mr. Chen's medical book, and she was eager to start her journey to find the herbs. You can accompany her on this quest. Making Fuling He Shou Wu requires eight tuberous roots of Poria, eight pieces of ginseng, four slices of tiger bone, and mysterious medicinal materials shaped like He Shou Wu. The book mentions that these special-shaped He Shou Wu can be found around Ku Chan Temple, so it might be worth investigating there by asking the monks at Ku Chan Temple.
@@ -4567,7 +4567,7 @@
     translated: Found He Shou Wu at the cliffside of Ku Chan Temple.
   - split: 3
     text: 绯绯从陈先生的医书中发现名为茯苓何首乌的秘药，坐不住的她想要出发寻找药材，你就陪着她吧。制作茯苓何首乌需要茯苓八株、玉蔘八株、虎骨四片，以及神秘药材成形何首乌。书上记载枯禅寺一带可找到成形何首乌，经过询问，这何首乌就长在附近的崖边。
-    translated: Fèi Fèi discovered a secret elixir named Fu Ling He Shou Wu from Mr. Chen's medical book. Unable to sit still, she wanted to set off in search of the herbs; you can accompany her. Making Fu Ling He Shou Wu requires eight pieces of Fu Ling, eight pieces of Yu Jin, four slices of Tiger Bone, and a mysterious herb material called He Shou Wu. The records say that one can find this He Shou Wu near Ku Chan Temple. After inquiring, it turns out the He Shou Wu grows on the cliff nearby.
+    translated: Fei Fei discovered a secret elixir named Fu Ling He Shou Wu from Mr. Chen's medical book. Unable to sit still, she wanted to set off in search of the herbs; you can accompany her. Making Fu Ling He Shou Wu requires eight pieces of Fu Ling, eight pieces of Yu Jin, four slices of Tiger Bone, and a mysterious herb material called He Shou Wu. The records say that one can find this He Shou Wu near Ku Chan Temple. After inquiring, it turns out the He Shou Wu grows on the cliff nearby.
 - lineNum: 457
   raw: Q40052_03	采集何首乌	1	绯绯从陈先生的医书中发现名为茯苓何首乌的秘药，坐不住的她想要出发寻找药材，你就陪着她吧。制作茯苓何首乌需要茯苓八株、玉蔘八株、虎骨四片，以及神秘药材成形何首乌。书上记载枯禅寺一带可找到成形何首乌，经过询问，这何首乌就长在附近的崖边。	0	FALSE	Q40052_04	207.7333,172.6018,690.8707	TRUE	(it40213,1)	0		1
   translated: 
@@ -4587,7 +4587,7 @@
     translated: After gathering all the herbs, return to the herbal shed to refine the elixir.
   - split: 3
     text: 绯绯从陈先生的医书中发现名为茯苓何首乌的秘药，坐不住的她想要出发寻找药材，你就陪着她吧。制作茯苓何首乌需要茯苓八株、玉蔘八株、虎骨四片，以及神秘药材成形何首乌。找齐药材后，就去藏花草棚的炼丹炉吧。
-    translated: Fēi Fēi discovered a secret medicine named *Fu Ling He Shou Wu* in Master Chen's medical book. Unable to sit still, she wants to set off to find the medicinal herbs, so you accompany her. Making *Fu Ling He Shou Wu* requires eight pieces of Fu Ling, eight pieces of Ginseng, four pieces of Tiger Bone, and a mysterious ingredient called He Shou Wu. Once all the ingredients are gathered, go to the alchemy furnace in the Herb Shed.
+    translated: Fei Fei discovered a secret medicine named *Fu Ling He Shou Wu* in Master Chen's medical book. Unable to sit still, she wants to set off to find the medicinal herbs, so you accompany her. Making *Fu Ling He Shou Wu* requires eight pieces of Fu Ling, eight pieces of Ginseng, four pieces of Tiger Bone, and a mysterious ingredient called He Shou Wu. Once all the ingredients are gathered, go to the alchemy furnace in the Herb Shed.
 - lineNum: 459
   raw: Q40053	救命解药	0	太华门徒在练剑时误伤彼此，恐怕会因此残废终生，蔻桂长老表示灵药雪蔘玉蟾丸或许能治好重伤。药材难寻，分别于一南一北，恐怕得花不少时间啊。	0	FALSE	Q40053_01,Q40053_02,Q40053_03,Q40053_04	-191.5157,129.1901,-220.277	TRUE		0		1
   translated: 
@@ -4604,7 +4604,7 @@
   splits:
   - split: 1
     text: 前往大云庵寻找百年雪蔘
-    translated: Go to Dàyún ān to find a hundred-year-old ginseng.
+    translated: Go to Dayun an to find a hundred-year-old ginseng.
   - split: 3
     text: 太华门徒在练剑时误伤彼此，恐怕会因此残废终生，蔻桂长老表示灵药雪蔘玉蟾丸或许能治好重伤。药材难寻，分别于一南一北，恐怕得花不少时间啊。
     translated: The disciples of Taihua mistakenly injured each other while practicing swordsmanship, fearing they might become lifelong cripples. Ku Gui Elder suggested that the Snow Lotus and Jade Toad Pill might heal severe injuries. The ingredients are difficult to find, one in the south and one in the north, so it may take quite some time to gather them.
@@ -4624,7 +4624,7 @@
   splits:
   - split: 1
     text: 前往大云庵后山寻找百年雪蔘
-    translated: Go to find a century-old ginseng in the mountain behind Dàyún ān.
+    translated: Go to find a century-old ginseng in the mountain behind Dayun an.
   - split: 3
     text: 太华门徒在练剑时误伤彼此，恐怕会因此残废终生，蔻桂长老表示灵药雪蔘玉蟾丸或许能治好重伤。药材难寻，分别于一南一北，恐怕得花不少时间啊。
     translated: Hua Tai's disciples injured each other during sword practice, and they might become disabled for life. Guanxiu Elder suggested that the Snow Rhizome Jade Toad Pill might heal severe injuries. The ingredients are hard to find; one is in the south and the other in the north, so it may take quite some time.
@@ -4644,7 +4644,7 @@
   splits:
   - split: 1
     text: 伊史仁的配方
-    translated: I'shìrén de pèifāng
+    translated: I'shiren de peifang
   - split: 3
     text: 伊史仁看你这半死之身上满是伤痕，向你推销他的祖传药方，不过这药方可不便宜，除非用五个豹胎来换，否则你这半死之身他可不想理会。
     translated: Yi Shiren saw the scars on your half-dead body and tried to sell you his ancestral prescription, but it's not cheap. Unless you trade five leopard cubs for it, he doesn't want to bother with your condition.
@@ -4744,7 +4744,7 @@
   splits:
   - split: 1
     text: 噶玛寺寻经之旅
-    translated: Gāmǎ Sì xún jīng zhī lǚ
+    translated: Gama Si xun jing zhi lu
   - split: 3
     text: 可以到大研镇茶铺找张启购买线索，或是靠自己的力量找到另外四本佛经。在找齐所有的经书之后，便能回噶玛寺找桑登交差了。
     translated: You can go to the tea shop in Daxian Town and ask Zhang Qi to purchase clues, or rely on your own strength to find the other four Buddhist sutras. Once you have gathered all the scriptures, you can return to Gama Monastery to report to Sangden.
@@ -4844,7 +4844,7 @@
   splits:
   - split: 1
     text: 会见扫地寺僧
-    translated: Meet with a monk from Sāodì Temple.
+    translated: Meet with a monk from Saodi Temple.
   - split: 3
     text: 这些谜语纸笺似乎全是扫地僧所写，勘卓伦登更说扫地僧喜欢猜谜。有空就去会一会扫地僧吧。
     translated: These riddles on the notes seem to be written by the Sweeper Monk. Grandmaster Kang Zhuoren also mentioned that the Sweeper Monk likes guessing riddles. It would be good to visit the Sweeper Monk when you have time.
@@ -4957,7 +4957,7 @@
     translated: The medicine needed by Ganden Monastery.
   - split: 3
     text: 噶玛寺的「某味药材」短缺了，但看寺僧安姆吉远登的言谈，这件事背后似有蹊跷。
-    translated: The special medicinal herb at Kāmà Sì is in short supply, but from the conversation of Abbot Amoji Yuándēng, it seems there's something suspicious about this matter.
+    translated: The special medicinal herb at Kama Si is in short supply, but from the conversation of Abbot Amoji Yuandeng, it seems there's something suspicious about this matter.
 - lineNum: 496
   raw: Q50005_01	找药铺掌柜拿取药材	1	噶玛寺的「某味药材」短缺了，但看寺僧安姆吉远登的言谈，这件事背后似有蹊跷。前去大研镇的药铺，找药铺掌柜拿取这味药材，并从掌柜的身上套到更多情报。	0	FALSE	0	-664.116, 66.31045, -1110.148	TRUE		600	(Reputation,3)	1
   translated: 
@@ -5074,7 +5074,7 @@
   splits:
   - split: 1
     text: 通往木府的二条路
-    translated: Two roads leading to the Wú family estate
+    translated: Two roads leading to the Wu family estate
   - split: 3
     text: 你在大研镇的墓园遇见一名守墓老人，他向你透露了重要情报——木府内藏有天书。<br>进入木府的方法有二：一是直接从正门闯入，二是乔装成木府卫兵混入其中。为了取得天书，你决定进入木府一探究竟。
     translated: 'You encounter an old grave keeper in the cemetery of Daren Town, who reveals important information to you—the Wood Mansion has a celestial book inside.<br>There are two ways to enter the Wood Mansion: one is to directly charge through the main gate, and the other is to disguise as a guard from the Wood Mansion and infiltrate. To obtain the celestial book, you decide to enter the Wood Mansion and investigate further.'
@@ -5157,7 +5157,7 @@
     translated: At midnight, go to the cemetery.
   - split: 3
     text: 根据传闻，每日夜半时分，木府旁的墓园，总有一名老人默默的扫着墓，不甚搭理旁人。也有传闻说，那名老人就是失踪已久的「纳西战神金昆」，只是武功全失，成了一个只会扫墓的废人。不论传闻何者为真，为了寻找天书，任何情报都不能错过。<br>在丑时到寅时之间，前往大研镇旁的墓园瞧瞧吧。
-    translated: According to rumors, at midnight every day by the Mù family's cemetery, there is always an old man silently sweeping graves without paying much attention to others. Some rumors say that this old man is none other than the long-lost Nàxī Wángshén Jīn Kūn, who has lost all his martial arts skills and become a mere grave-sweeper. Regardless of which rumor is true, any information cannot be missed in the search for the Celestial Book.<br>Visit the cemetery near Dàyán Town between midnight and 1 AM to take a look.
+    translated: According to rumors, at midnight every day by the Mu family's cemetery, there is always an old man silently sweeping graves without paying much attention to others. Some rumors say that this old man is none other than the long-lost Naxi Wangshen Jin Kun, who has lost all his martial arts skills and become a mere grave-sweeper. Regardless of which rumor is true, any information cannot be missed in the search for the Celestial Book.<br>Visit the cemetery near Dayan Town between midnight and 1 AM to take a look.
 - lineNum: 516
   raw: Q50009	失落的佛教三宝	0	噶玛寺意外丢失了佛教七宝当中的其中三宝：珍珠颈炼、琥珀念珠以及金箔佛像，似乎是马车从大研镇运送到寺庙时掉落的。在这条道路上搜索看看吧！	0	FALSE	Q50009_01,Q50009_02,Q50009_03,Q50009_04,Q50009_05	0	TRUE		0		1
   translated: 
@@ -5187,7 +5187,7 @@
     translated: Seeking amber prayer beads.
   - split: 3
     text: 噶玛寺意外丢失了佛教七宝当中的其中三宝：珍珠颈炼、琥珀念珠以及金箔佛像，似乎是马车从大研镇运送到寺庙时掉落的。在这条道路上搜索看看吧！
-    translated: 'Gāmásì unexpectedly lost three of the seven treasures of Buddhism: a pearl necklace, amber prayer beads, and a gilded Buddha statue. It seems they were dropped from a carriage traveling from Dàyán Zhèn to the temple. Search along that road!'
+    translated: 'Gamasi unexpectedly lost three of the seven treasures of Buddhism: a pearl necklace, amber prayer beads, and a gilded Buddha statue. It seems they were dropped from a carriage traveling from Dayan Zhen to the temple. Search along that road!'
 - lineNum: 519
   raw: Q50009_03	寻找金箔佛像	1	噶玛寺意外丢失了佛教七宝当中的其中三宝：珍珠颈炼、琥珀念珠以及金箔佛像，似乎是马车从大研镇运送到寺庙时掉落的。在这条道路上搜索看看吧！	0	FALSE	0	0	TRUE		0		1
   translated: 
@@ -5337,7 +5337,7 @@
     translated: The Second Challenge of Sogbanan Zhuo
   - split: 3
     text: 最近，噶玛寺流传着「后山闹鬼」的传闻……原来是寺僧索巴南卓在后山练功的声音。索巴南卓要你陪他过招，测试自己的身手，一战过后，他认识到实战的重要性。<br>索巴南卓肯定会再来练功，深夜时再来看看情况吧！
-    translated: Recently, rumors of ghosts in the back mountain have been circulating at Ganden Monastery... It turns out to be the sound of the monk Söpa Nangzur practicing his skills on the back mountain. Söpa Nangzur wants you to spar with him to test his abilities and has realized the importance of actual combat after their match.<br>Söpa Nangzur will definitely come again to practice, so check the situation during deep night!
+    translated: Recently, rumors of ghosts in the back mountain have been circulating at Ganden Monastery... It turns out to be the sound of the monk Sopa Nangzur practicing his skills on the back mountain. Sopa Nangzur wants you to spar with him to test his abilities and has realized the importance of actual combat after their match.<br>Sopa Nangzur will definitely come again to practice, so check the situation during deep night!
 - lineNum: 534
   raw: Q50011_04	索巴南卓的挑战之三	1	最近，噶玛寺流传着「后山闹鬼」的传闻……原来是寺僧索巴南卓在后山练功的声音。索巴南卓要你陪他过招，测试自己的身手，在第二次切磋后，索巴南卓已经有了莫大的进步。<br>索巴南卓肯定会再来练功，深夜时再来看看情况吧！	0	FALSE	0	-651.5432, 168.0068, -600.0082	TRUE		1200	(Reputation,6)	301
   translated: 
@@ -5347,7 +5347,7 @@
     translated: The Third Challenge of Sogba's Daughter Zhaoshu
   - split: 3
     text: 最近，噶玛寺流传着「后山闹鬼」的传闻……原来是寺僧索巴南卓在后山练功的声音。索巴南卓要你陪他过招，测试自己的身手，在第二次切磋后，索巴南卓已经有了莫大的进步。<br>索巴南卓肯定会再来练功，深夜时再来看看情况吧！
-    translated: Recently, rumors of ghosts in the back mountain have been circulating at Gama Monastery... It turns out it was the sound of monk Sōbā Nanzhuo training in the back mountain. Sōbā Nanzhuo wants you to spar with him to test your skills, and after their second sparring session, Sōbā Nanzhuo has already made significant progress.<br>Sōbā Nanzhuo will definitely come again to train; take a look at the situation during the late night.
+    translated: Recently, rumors of ghosts in the back mountain have been circulating at Gama Monastery... It turns out it was the sound of monk Soba Nanzhuo training in the back mountain. Soba Nanzhuo wants you to spar with him to test your skills, and after their second sparring session, Soba Nanzhuo has already made significant progress.<br>Soba Nanzhuo will definitely come again to train; take a look at the situation during the late night.
 - lineNum: 535
   raw: Q50011_05	索巴南卓的远行	1	最近，噶玛寺流传着「后山闹鬼」的传闻……原来是寺僧索巴南卓在后山练功的声音。比起寺庙内的僧侣，索巴南卓更想成为浪迹天涯的侠士，所以才会勤奋不断的练功。在经历了三次切磋后，索巴南卓的大手印果真大成，于是他离开噶玛寺，开始了他的侠士生涯，而噶玛寺闹鬼事件也就此平息了……	0	FALSE	0	0	TRUE		2400	(Reputation,12)	1
   translated: 
@@ -5357,7 +5357,7 @@
     translated: Suo Banan Zhuo's Journey Southward
   - split: 3
     text: 最近，噶玛寺流传着「后山闹鬼」的传闻……原来是寺僧索巴南卓在后山练功的声音。比起寺庙内的僧侣，索巴南卓更想成为浪迹天涯的侠士，所以才会勤奋不断的练功。在经历了三次切磋后，索巴南卓的大手印果真大成，于是他离开噶玛寺，开始了他的侠士生涯，而噶玛寺闹鬼事件也就此平息了……
-    translated: Recently, there have been rumors of hauntings in the back mountain at Gampa Monastery. It turned out to be the sound of monk Söpa Nangtso practicing martial arts on the back mountain. Compared to other monks in the monastery, Söpa Nangtso aspired to become a wandering swordsman, so he practiced diligently. After three rounds of sparring, his great hand seal truly became perfected, and he left Gampa Monastery to begin his life as a swordsman, thus putting an end to the haunting events at the monastery.
+    translated: Recently, there have been rumors of hauntings in the back mountain at Gampa Monastery. It turned out to be the sound of monk Sopa Nangtso practicing martial arts on the back mountain. Compared to other monks in the monastery, Sopa Nangtso aspired to become a wandering swordsman, so he practiced diligently. After three rounds of sparring, his great hand seal truly became perfected, and he left Gampa Monastery to begin his life as a swordsman, thus putting an end to the haunting events at the monastery.
 - lineNum: 536
   raw: Q50011_06	索巴南卓的怨恨	1	最近，噶玛寺流传着「后山闹鬼」的传闻……原来是寺僧索巴南卓在后山练功的声音。<br>但他看不起邪佞之人，因而向你发动攻势，最后你打败了他，而他则带着怨恨逃走了……至此之后，噶玛寺闹鬼事件也就此平息了……	0	FALSE	0	0	TRUE		2400	(Reputation,12)	1
   translated: 
@@ -5587,7 +5587,7 @@
     translated: Push away Amumaji far away.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 559
   raw: Q50016	木工老丈的腿伤	0	木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受……就替木工老丈看看腿伤吧！	0	FALSE	Q50016_01,Q50016_02,Q50016_03,Q50016_04	0	TRUE		0		1
   translated: 
@@ -5714,7 +5714,7 @@
   splits:
   - split: 1
     text: 一个时辰内，将斋饭送给僧侣札达
-    translated: Within an hour, deliver the vegetarian meal to the monk Zhādá.
+    translated: Within an hour, deliver the vegetarian meal to the monk Zhada.
   - split: 3
     text: 噶玛寺的厨师大哥，因为助手不在，实在忙不过来，他请你将斋饭送给寺内的僧侣札达。记得要在一个时辰之内送到，别让斋饭凉了。
     translated: The head chef at Khamar Monastery is overwhelmed because his assistant isn't available, and he asks you to deliver the vegetarian meals to the monks inside. Remember to deliver them within an hour, so they don’t get cold.
@@ -5787,7 +5787,7 @@
     translated: Druggist Apothecary and King of the Snake Caves
   - split: 3
     text: 你在拱石村碰上一名卖药郎中，此郎中正遭村民围殴。替此郎中解围之时，你认识了一位名叫段思平的侠士，而你接受了段思平的邀约，两人一同前往蛇窟一探究竟。
-    translated: You encountered a pharmacist in Gung Stone Village who was being mobbed by villagers. When you intervened to help the pharmacist, you met a swordsman named Duàn Sīpíng. After accepting Duàn Sīpíng's invitation, the two of you set off together to investigate Snake Cave.
+    translated: You encountered a pharmacist in Gung Stone Village who was being mobbed by villagers. When you intervened to help the pharmacist, you met a swordsman named Duan Siping. After accepting Duan Siping's invitation, the two of you set off together to investigate Snake Cave.
 - lineNum: 579
   raw: Q51001_01	前往蛇窟	1	???	0	FALSE	0	-163.723, 106.9328, -1115.997	FALSE		300	(Reputation,1)	161
   translated: 
@@ -5797,7 +5797,7 @@
     translated: Proceed to the Snake Den.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 580
   raw: Q51001_02	进入蛇窟深处	1	???	0	FALSE	0	-148.1171, 89.38679, -1112.867	FALSE		2400	(Reputation,12)	161
   translated: 
@@ -5807,14 +5807,14 @@
     translated: Entering the depths of the snake pit.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 581
   raw: Q51001_03	回拱石村找卖药郎中	1	你认识了一位名叫段思平的侠士，而你接受了段思平的邀约，两人一同前往蛇窟一探究竟。在蛇窟深处你们斩杀了蛇王，将蛇王死尸带给郎中吧！说不定能帮助郎中制作出有效的解药？	0	FALSE	0	-26.32459, 126.4755, -1027.296	TRUE		1200	(Reputation,6)	1
   translated: 
   splits:
   - split: 1
     text: 回拱石村找卖药郎中
-    translated: Return to Guǎngshí Village to find a Doctor who sells medicine.
+    translated: Return to Guangshi Village to find a Doctor who sells medicine.
   - split: 3
     text: 你认识了一位名叫段思平的侠士，而你接受了段思平的邀约，两人一同前往蛇窟一探究竟。在蛇窟深处你们斩杀了蛇王，将蛇王死尸带给郎中吧！说不定能帮助郎中制作出有效的解药？
     translated: You have met a swordsman named Duan Siping, and you accepted his invitation to go together to investigate the snake pit. Deep in the snake pit, you and he slay the Serpent King, and take its corpse to give to Doctor Lang! Perhaps it will help Doctor Lang create an effective antidote?
@@ -5827,7 +5827,7 @@
     translated: Return to Guanshi Village to find the herbalist doctor.
   - split: 3
     text: 你认识了一位名叫段思平的侠士，而你接受了段思平的邀约，两人一同前往蛇窟一探究竟。在蛇窟深处你们遇到一名苗族女子，并将蛇王让给她处置。既然解决了蛇患的根源，回拱石村告知郎中这个好消息吧！
-    translated: You have met a swordsman named Duàn Sīpíng, and you accepted his invitation to go together to investigate the Snake Cavern. Deep in the Snake Cavern, you encounter a Miao woman and entrust her with disposing of the Serpent King. Having resolved the root cause of the snake problem, return to Gang Stone Village to deliver this good news to the Doctor!
+    translated: You have met a swordsman named Duan Siping, and you accepted his invitation to go together to investigate the Snake Cavern. Deep in the Snake Cavern, you encounter a Miao woman and entrust her with disposing of the Serpent King. Having resolved the root cause of the snake problem, return to Gang Stone Village to deliver this good news to the Doctor!
 - lineNum: 583
   raw: Q51004	苗族之女与蛇窟之王	0	拱石村遭遇蛇患，一名侠士决心前往蛇窟除害。然而，你无意中瞥见一名苗族女子跟踪侠士而去，你的直觉告诉你，若前往蛇窟，也许能遭遇有趣的事。	0	FALSE	Q51004_01,Q51004_02,Q51004_03	0	TRUE		0		0
   translated: 
@@ -5847,7 +5847,7 @@
     translated: Journey to the Snake Cave
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 585
   raw: Q51004_02	进入蛇窟深处	1	你跟随一名苗族女子前往蛇窟，不料却在蛇窟洞口遭到苗女暗算，中了「蚀心之蛊」。这位名叫「何白芍」的苗女命令你前往蛇窟深处打倒一名「大坏蛋」，并替她捉回蛇王。为了性命着想，还是乖乖听她的吩咐吧。	0	FALSE	0	0	TRUE		2400	(Reputation,12)	181
   translated: 
@@ -5907,7 +5907,7 @@
     translated: Successor of the Tribal Chief
   - split: 3
     text: 木初是木府三兄弟的长子，亦是下任木氏土司的继承者，他正在为木天王木得的病情烦恼着。<br>你带回玉龙雪莲花，木初十分感激，并给了你「木府令牌」，之后你就可以自由进出木府了，而何掌柜也给了你一些丹药作为报酬。想必木天王木得的病情，也能因此好转吧。
-    translated: Mù Chū is the eldest of the three Mù brothers and the heir to the Mù surname's tribal chiefdom. He is worried about Master Mù Dé's illness.<br>When you returned with Yúlóng Xuěliánhuā, Mù Chū was very grateful and gave you the Mù Family Order Token, after which you can freely enter and exit the Mù family estate. Huò Jiāguǎn also rewarded you with some medicinal herbs. Surely, Master Mù Dé's condition will improve because of this.
+    translated: Mu Chu is the eldest of the three Mu brothers and the heir to the Mu surname's tribal chiefdom. He is worried about Master Mu De's illness.<br>When you returned with Yulong Xuelianhua, Mu Chu was very grateful and gave you the Mu Family Order Token, after which you can freely enter and exit the Mu family estate. Huo Jiaguan also rewarded you with some medicinal herbs. Surely, Master Mu De's condition will improve because of this.
 - lineNum: 591
   raw: Q52002	金瓜贡茶	0	这些木府卫兵好生霸道，竟连茶庄也不给人进去了！看来这背后似乎有什么隐情……询问木府卫兵阿简到底是怎么回事吧！	0	FALSE	Q52002_01,Q52002_02,Q52002_03,Q52002_04,Q52002_05,Q52002_06	0	TRUE		0		0
   translated: 
@@ -5924,7 +5924,7 @@
   splits:
   - split: 1
     text: 与木府卫兵阿简交谈
-    translated: Talk with the guard named A Jian from the Mǔ family.
+    translated: Talk with the guard named A Jian from the Mu family.
   - split: 3
     text: 这些木府卫兵好生霸道，竟连茶庄也不给人进去了！看来这背后似乎有什么隐情……询问木府卫兵阿简到底是怎么回事吧！
     translated: These Wufu guards are extremely domineering, even preventing people from entering the teahouse! It seems there's some hidden agenda behind this... Let's ask Guard Asimple of the Wufu what is really going on.
@@ -5967,7 +5967,7 @@
     translated: Return the golden melon tribute tea to Qingmu Tea Estate.
   - split: 3
     text: 木府卫兵将茶庄封锁起来，不准其他人随意进入，原来是木府二爷木奎正在与茶庄掌柜商谈大事。经过窃听之后得知，竟是木天王寿宴之礼的「金瓜贡茶」失窃，而小偷则往噶玛寺的方向去了。<br>你在噶玛寺后方树林找到一个怪异的老头，他要你「打消喝这茶的念头」，将茶叶交还给你了……不管如何，茶是找回来了，就将金瓜贡茶交还给茶庄吧！
-    translated: The guards of the Mu Family have sealed off the tea farm, not allowing anyone to enter freely. It turns out that Mu Kuí, the second master of the Mu Family, was in discussions with the manager of the tea farm about important matters. After eavesdropping, it is discovered that the Golden Gourd Tribute Tea for Mu Tianwang's birthday banquet has been stolen, and the thief headed towards Garma Temple.<br>You find a peculiar old man in the forest behind Garma Temple who tells you to give up the idea of drinking this tea, and returns the tea leaves to you... Regardless, the tea has been recovered, so let’s return the Golden Gourd Tribute Tea to the tea farm!
+    translated: The guards of the Mu Family have sealed off the tea farm, not allowing anyone to enter freely. It turns out that Mu Kui, the second master of the Mu Family, was in discussions with the manager of the tea farm about important matters. After eavesdropping, it is discovered that the Golden Gourd Tribute Tea for Mu Tianwang's birthday banquet has been stolen, and the thief headed towards Garma Temple.<br>You find a peculiar old man in the forest behind Garma Temple who tells you to give up the idea of drinking this tea, and returns the tea leaves to you... Regardless, the tea has been recovered, so let’s return the Golden Gourd Tribute Tea to the tea farm!
 - lineNum: 597
   raw: Q52002_06	木府军阀	1	木奎是木府三兄弟的次子，亦是掌握木府军事之人，他那雷厉风行的治理手段，在大研镇获得毁誉参半的名声。就在你寻获失窃的金瓜贡茶后，茶庄掌柜不但质疑你的来意，更早早将你给打发了，摆明了不想与你多有接触。这使你更加确信，在这起事件的背后，似乎另有隐情……	0	FALSE	0	0	TRUE		4800	(Reputation,24)	1
   translated: 
@@ -6047,14 +6047,14 @@
     translated: Snow Mountain Divine Eagle
   - split: 3
     text: 阿得阿克是木府三兄弟的三弟，亦是鹰猎人的首领，性格崇尚自由，因而带领众鹰猎人来到雪山山林之间扎寨，过那传统的鹰猎生活，然而他更加希望能离开大研镇，出外游历一番，对他来说那才是真正的自由……
-    translated: Adé Ake is the youngest of the three brothers from Mo family. He also leads the Eagle Hunters and values freedom, hence he led all the eagle hunters to settle in the forest between Snow Mountain where they live a traditional life as eagle hunters. However, he wishes even more to leave Diancheng Town and travel abroad, for that would be true freedom for him….
+    translated: Ade Ake is the youngest of the three brothers from Mo family. He also leads the Eagle Hunters and values freedom, hence he led all the eagle hunters to settle in the forest between Snow Mountain where they live a traditional life as eagle hunters. However, he wishes even more to leave Diancheng Town and travel abroad, for that would be true freedom for him….
 - lineNum: 605
   raw: Q52004	木府风云	0	在大研镇的茶铺，你遇见之前在噶玛寺教你热茶的怪老者，他只跟你说，「木府将出乱子」，随即消失而去。为了印证老者的话是不是对的，你决定到悦来客栈借宿一晚……	0	FALSE	Q52004_01,Q52004_02,Q52004_03,Q52004_04,Q52004_05,Q52004_06	0	TRUE		0		0
   translated: 
   splits:
   - split: 1
     text: 木府风云
-    translated: Mù Fǔ Fēng Yún
+    translated: Mu Fu Feng Yun
   - split: 3
     text: 在大研镇的茶铺，你遇见之前在噶玛寺教你热茶的怪老者，他只跟你说，「木府将出乱子」，随即消失而去。为了印证老者的话是不是对的，你决定到悦来客栈借宿一晚……
     translated: At the tea shop in Dayanyuan Township, you encounter the strange old man who taught you how to brew hot tea at Gama Temple. He only tells you, Mufu will cause trouble, before disappearing. To verify if what the old man said is true, you decide to stay overnight at Yuelai Inn...
@@ -6107,7 +6107,7 @@
     translated: Infiltrate the Mu Residence, eavesdrop in the back of the council chamber after arrival.
   - split: 3
     text: 你在茶铺遇见怪老者，他只跟你说，「木府将出乱子」，便随即消失而去。<br>你来到木府，就算身上有木府令牌，却依然被挡在门外，无法进去，看来这次发生的事着实非同小可……想个办法潜进木府，并在议事厅后方，探听木初与木奎在商议什么「后事」。
-    translated: You encounter a strange old man at the teahouse who only tells you, Mù Fǔ will cause trouble, before disappearing. When you arrive at Mù Fǔ, even with the Mù Fǔ token on your person, you are still stopped at the gate and cannot enter; it seems that what is happening this time is truly serious... Find a way to infiltrate Mù Fǔ and eavesdrop behind the meeting hall to find out what aftermath matters Mù Chū and Mù Kuí are discussing.<br>
+    translated: You encounter a strange old man at the teahouse who only tells you, Mu Fu will cause trouble, before disappearing. When you arrive at Mu Fu, even with the Mu Fu token on your person, you are still stopped at the gate and cannot enter; it seems that what is happening this time is truly serious... Find a way to infiltrate Mu Fu and eavesdrop behind the meeting hall to find out what aftermath matters Mu Chu and Mu Kui are discussing.<br>
 - lineNum: 611
   raw: Q52004_06	木府将出乱子	1	你在茶铺遇见怪老者，他只跟你说，「木府将出乱子」，便随即消失而去。<br>你在客栈借宿了一晚，没想到真的出了大事——现任木氏土司木得，竟被刺杀了！<br>身为木府权力核心的木初与木奎在议事厅共商后事，但两人却是各怀想法，无法达成共识，而远居雪山之上的阿得阿克，似乎正是其中的关键所在……但你的行踪却被侍卫长图勒发现，一战过后，木初出面调停，并邀你进入议事厅共商此事……	0	FALSE	0	0	TRUE		9600	(Reputation,48)	1
   translated: 
@@ -6147,7 +6147,7 @@
     translated: Return to the Council Hall of the Mu Clan.
   - split: 3
     text: 木天王木得被暗杀了，刺客至今仍逃离在外，而你则意外卷入此次事件之中……<br>你在玉龙山道遭遇黑衣人部队埋伏，原来先前派出的信使都被埋伏而死。你抵达鹰猎人聚落，将此事知会阿得阿克，他震惊之余，更担心大哥木初会有生命危险，便放下聚落事务，火速赶往木府。<br>赶紧回到木府议事厅与木初、阿得阿克等人共商应对之法。
-    translated: Mù Tiānwáng Mù Dé was assassinated, and the assassin has yet to be captured. You have unexpectedly become involved in this incident…<br>You encountered an ambush by black-clad men on the Yúlóngshān road; it turns out that all the messengers previously sent were ambushed and killed. Upon reaching the Eagle Hunter settlement, you informed Adé Akè, who was shocked and became more concerned for his elder brother Mù Chū's safety. Therefore, he set aside the affairs of the settlement and hastened to return to the Mù household.<br>Make your way back quickly to the meeting hall at the Mù estate to discuss strategies with Mù Chū, Adé Akè, and others.
+    translated: Mu Tianwang Mu De was assassinated, and the assassin has yet to be captured. You have unexpectedly become involved in this incident…<br>You encountered an ambush by black-clad men on the Yulongshan road; it turns out that all the messengers previously sent were ambushed and killed. Upon reaching the Eagle Hunter settlement, you informed Ade Ake, who was shocked and became more concerned for his elder brother Mu Chu's safety. Therefore, he set aside the affairs of the settlement and hastened to return to the Mu household.<br>Make your way back quickly to the meeting hall at the Mu estate to discuss strategies with Mu Chu, Ade Ake, and others.
 - lineNum: 615
   raw: Q52005_03	前往大研镇查探	1	木天王木得被暗杀了，刺客至今仍逃离在外，而你则意外卷入此次事件之中……<br>经过一番激烈的争辩后，众人怀疑野心勃勃的木奎与这件刺杀脱不了关系，而阿得阿克想证明二哥木奎的清白，决定要追查到底……你与阿得阿克决定先往大研镇走一遭……但该从何调查起呢？	0	FALSE	0	-651.467, 66.218, -1015.963	TRUE		1200	(Reputation,6)	241
   translated: 
@@ -6157,7 +6157,7 @@
     translated: Proceed to Da Yan Town to investigate.
   - split: 3
     text: 木天王木得被暗杀了，刺客至今仍逃离在外，而你则意外卷入此次事件之中……<br>经过一番激烈的争辩后，众人怀疑野心勃勃的木奎与这件刺杀脱不了关系，而阿得阿克想证明二哥木奎的清白，决定要追查到底……你与阿得阿克决定先往大研镇走一遭……但该从何调查起呢？
-    translated: The Mù Tiantiāng, Mù Dé, was assassinated. The assassin remains at large to this day, and you have been unexpectedly drawn into the incident...<br>After a heated debate, people suspect that the ambitious Mù Kuí is involved in the assassination, but Ādé Ākè wants to prove his older brother's innocence and decides to investigate further.... You and Ādé Ākè decide to first go to Dàyányì Zhèn... But where should the investigation begin?
+    translated: The Mu Tiantiang, Mu De, was assassinated. The assassin remains at large to this day, and you have been unexpectedly drawn into the incident...<br>After a heated debate, people suspect that the ambitious Mu Kui is involved in the assassination, but Ade Ake wants to prove his older brother's innocence and decides to investigate further.... You and Ade Ake decide to first go to Dayanyi Zhen... But where should the investigation begin?
 - lineNum: 616
   raw: Q52005_04	在茶庄外找人询问茶庄人士的下落	1	木天王木得被暗杀了，刺客至今仍逃离在外，而你则意外卷入此次事件之中……<br>经过一番激烈的争辩后，众人怀疑野心勃勃的木奎与这件刺杀脱不了关系，而阿得阿克想证明二哥木奎的清白，决定要追查到底……你们来到茶庄，发现早已人去楼空，连个伙计的人影也没有。不得已，只好在茶庄外头找人询问一番……	0	FALSE	0	-656.925, 66.218, -1002.511	TRUE		1200	(Reputation,6)	241
   translated: 
@@ -6227,7 +6227,7 @@
     translated: Proceed to Mu Mansion to thwart Mu Kui's coup.
   - split: 3
     text: 木天王木得被暗杀了，木府的政治情势陷入剑拔弩张的紧张局面……<br>你们追着猎犬一路来到一处民房，终于找到了刺杀木得的刺客——戚如潇！阿得阿克复仇心切，双方人马随即展开冲突！但就在即将擒得刺客之际，李惑相却意外现身救援，刺客戚如潇也趁隙逃走了……木奎的政变行动已然败露，势必选择孤注一掷，率兵攻打木府。赶紧与阿得阿克回到木府，阻止这场政变！
-    translated: Mù Tiānwáng Mù Dé was assassinated, plunging the Mù family's political situation into a tense standoff…<br>You pursue the hounds and arrive at a humble abode, finally uncovering the assassin of Mù Dé—Qǐ Rúxiāo! Ádé Ákě's thirst for vengeance is strong, leading to an immediate clash between both factions! However, just as the assassin was about to be captured, Li Huòxiàng unexpectedly arrives to offer aid, allowing Qǐ Rúxiāo to escape in the commotion… Mù Kuí's coup has been exposed; he must now risk everything and lead his troops to attack the Mù family. Hurry back with Ádé Ákě to the Mù household to thwart this coup!
+    translated: Mu Tianwang Mu De was assassinated, plunging the Mu family's political situation into a tense standoff…<br>You pursue the hounds and arrive at a humble abode, finally uncovering the assassin of Mu De—Qi Ruxiao! Ade Ake's thirst for vengeance is strong, leading to an immediate clash between both factions! However, just as the assassin was about to be captured, Li Huoxiang unexpectedly arrives to offer aid, allowing Qi Ruxiao to escape in the commotion… Mu Kui's coup has been exposed; he must now risk everything and lead his troops to attack the Mu family. Hurry back with Ade Ake to the Mu household to thwart this coup!
 - lineNum: 623
   raw: Q52005_11	前往木府，参加射艺大会	1	木天王木得被暗杀了，木奎连通不赦楼打算发动政变，但就在桑登倒戈、不赦楼收兵之后，木奎的政变大计也宣告失败……但木奎却没有投降，反而发动天书「干戈」的力量，与他的亲信奋战至最后一刻，战死于木府之中。<br>木府在经过休养生息之后，五年一度的射艺大会也如期举办，而你决定与阿得阿克一同前往木府，找木初索要当时木奎手中的天书……	0	FALSE	0	-910.71, 72.38, -881.37	TRUE		9600	(Reputation,48)	351
   translated: 
@@ -6277,7 +6277,7 @@
     translated: Proceed to Jade Dragon Ridge Road and intercept Tule.
   - split: 3
     text: 木天王被暗杀了，而木奎正是背后的主谋者，他企图拉拢不赦楼使者李惑相的势力，协助他完成政变，成为下一任木氏土司……而听到这一切计谋的你，意外被卷入木奎的政变大计之中……然而，你决定先帮助木奎成为土司，再要他帮你寻找天书。<br>在你与木圭达成共识之后，他要你做的第一件事，就是前往玉龙山道，埋伏并且杀了图勒……就往山道去吧。
-    translated: Mù Tiānwáng was assassinated, and Mù Kuí was the mastermind behind it. He intended to ally with Li Huǎxiàng's forces of the Bùshèlóu Envoys to assist him in executing a coup and becoming the next Mù family tusi… You, who unexpectedly found yourself entangled in Mù Kuí's grand scheme for political upheaval, decide to help Mù Kuí become tusi first, then ask him to find you the Tiānshū.<br>In reaching an agreement with Mù Kuí, his first task for you is to head to Yùlóng Shāndào, ambush, and kill Tǔlè. Go towards the mountain path.
+    translated: Mu Tianwang was assassinated, and Mu Kui was the mastermind behind it. He intended to ally with Li Huaxiang's forces of the Bushelou Envoys to assist him in executing a coup and becoming the next Mu family tusi… You, who unexpectedly found yourself entangled in Mu Kui's grand scheme for political upheaval, decide to help Mu Kui become tusi first, then ask him to find you the Tianshu.<br>In reaching an agreement with Mu Kui, his first task for you is to head to Yulong Shandao, ambush, and kill Tule. Go towards the mountain path.
 - lineNum: 628
   raw: Q52006_03	向木奎回报拦截信使的结果	1	木天王被暗杀了，而木奎正是背后的主谋者，他企图拉拢不赦楼使者李惑相的势力，协助他完成政变，成为下一任木氏土司……而听到这一切计谋的你，意外被卷入木奎的政变大计之中……然而，你决定先帮助木奎成为土司，再要他帮你寻找天书。<br>在你与木圭达成共识之后，他要你做的第一件事，就是前往玉龙山道，埋伏并且杀了图勒……经过一场恶战，图勒终于死了，但他却已派遣士兵暗中通报鹰猎人聚落，阿得阿克想必已经回到木府…赶紧将这件事回报给木奎吧！	0	FALSE	0	-910.71, 72.38, -881.37	TRUE		1200	(Reputation,6)	1
   translated: 
@@ -6327,7 +6327,7 @@
     translated: Report to Brother Wu Kui about the failure in tracking.
   - split: 3
     text: 木天王被暗杀了，而木奎正是背后的主谋者，他企图拉拢不赦楼使者李惑相的势力，协助他完成政变，成为下一任木氏土司……而听到这一切计谋的你，意外被卷入木奎的政变大计之中……<br>你虽打算跟踪阿得阿克，但你的行踪却被发现了，没探听到多少情报……将这件事告知木奎吧！
-    translated: Wooden King was assassinated, and Wang Kuai is the mastermind behind it. He aims to ally with Li Huoxiang of the Unforgivable Tower's envoy to assist him in a coup to become the next Wood surname Tribal Chief... You were unexpectedly drawn into Wang Kuai's grand scheme...<br>You intended to follow Adék Aké, but your movements were discovered and you gathered little intelligence... Inform Wang Kuai about this!
+    translated: Wooden King was assassinated, and Wang Kuai is the mastermind behind it. He aims to ally with Li Huoxiang of the Unforgivable Tower's envoy to assist him in a coup to become the next Wood surname Tribal Chief... You were unexpectedly drawn into Wang Kuai's grand scheme...<br>You intended to follow Adek Ake, but your movements were discovered and you gathered little intelligence... Inform Wang Kuai about this!
 - lineNum: 633
   raw: Q52006_08	到噶玛寺知会桑登，协助救走刺客	1	木天王被暗杀了，而木奎正是背后的主谋者，他企图拉拢不赦楼使者李惑相的势力，协助他完成政变，成为下一任木氏土司……而听到这一切计谋的你，意外被卷入木奎的政变大计之中……<br>原来刺杀木得的刺客，现在正窝藏于噶玛寺当中！绝不能让阿得阿克捉到刺客，要是事迹败露，所有布局都将彻底白费……前往噶玛寺，将阿得阿克即将前去的消息知会桑登，并协助刺客离开……	0	FALSE	0	-624.0911, 112.763, -431.9315	TRUE		9600	(Reputation,48)	401
   translated: 
@@ -6337,7 +6337,7 @@
     translated: Inform the lama at Gompa Monastery, Brother Sangden, to assist in rescuing the assassin.
   - split: 3
     text: 木天王被暗杀了，而木奎正是背后的主谋者，他企图拉拢不赦楼使者李惑相的势力，协助他完成政变，成为下一任木氏土司……而听到这一切计谋的你，意外被卷入木奎的政变大计之中……<br>原来刺杀木得的刺客，现在正窝藏于噶玛寺当中！绝不能让阿得阿克捉到刺客，要是事迹败露，所有布局都将彻底白费……前往噶玛寺，将阿得阿克即将前去的消息知会桑登，并协助刺客离开……
-    translated: The Wood King was assassinated, and it was Wood Gui who orchestrated the plot. He sought to ally with Li Huoxiang, the emissary of Buxie Tower, to aid in his coup d'état and become the next leader of the Mu family… Unexpectedly, you have been drawn into Wood Gui's conspiracy…<br>The assassin who killed Mu De is now hiding within Gama Temple! We must ensure that Adé Ak cannot catch the assassin; if discovered, all plans will be for naught… Go to Gama Temple and inform Sangdeng about Adé Ak’s impending visit, then assist the assassin in escaping…
+    translated: The Wood King was assassinated, and it was Wood Gui who orchestrated the plot. He sought to ally with Li Huoxiang, the emissary of Buxie Tower, to aid in his coup d'etat and become the next leader of the Mu family… Unexpectedly, you have been drawn into Wood Gui's conspiracy…<br>The assassin who killed Mu De is now hiding within Gama Temple! We must ensure that Ade Ak cannot catch the assassin; if discovered, all plans will be for naught… Go to Gama Temple and inform Sangdeng about Ade Ak’s impending visit, then assist the assassin in escaping…
 - lineNum: 634
   raw: Q52006_09	回到木府，与木奎对质	1	木天王被暗杀了，而木奎正是背后的主谋者，他企图拉拢不赦楼使者李惑相的势力，协助他完成政变，成为下一任木氏土司……而你则意外被卷入木奎的政变大计之中……<br>没想到前往噶玛寺一事，竟是一桩请君入瓮之计！在利用你之后，继而诬陷你为刺客，并在噶玛寺就地击杀，以绝后患……在经过一场大战之后，你逃出噶玛寺，你决定回到木府，与木奎正面对质……	0	FALSE	0	-910.71, 72.38, -881.37	TRUE		2400	(Reputation,12)	1
   translated: 
@@ -6347,7 +6347,7 @@
     translated: Return to the Mu Mansion and confront Mu Kui.
   - split: 3
     text: 木天王被暗杀了，而木奎正是背后的主谋者，他企图拉拢不赦楼使者李惑相的势力，协助他完成政变，成为下一任木氏土司……而你则意外被卷入木奎的政变大计之中……<br>没想到前往噶玛寺一事，竟是一桩请君入瓮之计！在利用你之后，继而诬陷你为刺客，并在噶玛寺就地击杀，以绝后患……在经过一场大战之后，你逃出噶玛寺，你决定回到木府，与木奎正面对质……
-    translated: Mù Tiānwáng was assassinated, and Mù Kuí was the mastermind behind it. He intended to ally with Li Huoxiang of Wúshě Lóushǐyè's forces to assist in his coup, aiming to become the next Mù clan chieftain… You were unexpectedly drawn into Mù Kuí’s grand scheme for a coup d'état...<br>You didn't expect your journey to Gāmǎ Sì to be part of a trap! After using you, they framed you as an assassin and intended to kill you on the spot at Gāmǎ Sì to eliminate any future problems… After escaping from Gāmǎ Sì following a major battle, you decided to return to Mù Fǔ and confront Mù Kuí face-to-face…
+    translated: Mu Tianwang was assassinated, and Mu Kui was the mastermind behind it. He intended to ally with Li Huoxiang of Wushe Loushiye's forces to assist in his coup, aiming to become the next Mu clan chieftain… You were unexpectedly drawn into Mu Kui’s grand scheme for a coup d'etat...<br>You didn't expect your journey to Gama Si to be part of a trap! After using you, they framed you as an assassin and intended to kill you on the spot at Gama Si to eliminate any future problems… After escaping from Gama Si following a major battle, you decided to return to Mu Fu and confront Mu Kui face-to-face…
 - lineNum: 635
   raw: Q52006_10	风云落幕，干戈不止	1	木天王遭到不赦楼杀手戚如潇刺杀，主使者木奎更藉你之助，排除异己，顺利成为土司。你与木奎对质之后，才知道，原来这桩诬陷之计全出自李惑相的暗中谋划，就连木奎自己都被蒙骗。你向木奎索要报酬，而他则将木得一直保护着的天书「干戈的碎片」交给了你。在木奎成为土司之后，他宣告，他会带领纳西族迈向自由，不论在这过程中，又将付出多少代价……之后，大研镇时而有这样的传闻，在人去楼空的鹰猎人聚落，不时会传来几声哀戚的鹰鸣，在雪山之间回荡，良久不止。	0	FALSE	0	0	TRUE		19200	(Reputation,96)	1
   translated: 
@@ -6367,7 +6367,7 @@
     translated: Great Research Town and the Secret of Mu Mansion
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 637
   raw: Q52007_01	到酒馆探听大研镇的传闻	1	???	0	FALSE	0	0	TRUE		0		1
   translated: 
@@ -6377,7 +6377,7 @@
     translated: Go to the tavern to hear rumors about Daxian Town.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 638
   raw: Q52007_02	调查木府，查探木天王的宝物究竟是什么来历	1	???	0	FALSE	0	0	TRUE		0		1
   translated: 
@@ -6387,17 +6387,17 @@
     translated: Investigate the Wood Mansion, inquire about the origin of Master of the Woods' treasures.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 639
   raw: Q52007_03	帮助木初，擒住刺杀木天王的刺客	1	???	0	FALSE	0	0	TRUE		0		1
   translated: 
   splits:
   - split: 1
     text: 帮助木初，擒住刺杀木天王的刺客
-    translated: Help Mù Chū, capture the assassin who attempted to kill Mù Tiānwáng.
+    translated: Help Mu Chu, capture the assassin who attempted to kill Mu Tianwang.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 640
   raw: Q52007_04	找木初拿取天书	1	???	0	FALSE	0	0	TRUE		0		1
   translated: 
@@ -6407,17 +6407,17 @@
     translated: Find Mu Chu to retrieve the Heaven Book.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 641
   raw: Q52007_05	木初与天书「干戈的碎片」	1	???	0	FALSE	0	0	TRUE		0		1
   translated: 
   splits:
   - split: 1
     text: 木初与天书「干戈的碎片」
-    translated: Mù Chū and the Celestial Scripture Fragments of War
+    translated: Mu Chu and the Celestial Scripture Fragments of War
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 642
   raw: Q52007_06	帮助木奎，让他顺利夺取权位	1	???	0	FALSE	0	0	TRUE		0		1
   translated: 
@@ -6427,7 +6427,7 @@
     translated: Help Mu Kui so he can smoothly seize power.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 643
   raw: Q52007_07	向木奎索要报酬	1	???	0	FALSE	0	0	TRUE		0		1
   translated: 
@@ -6437,7 +6437,7 @@
     translated: Ask Mu Kui for payment.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 644
   raw: Q52007_08	木奎与天书「干戈的碎片」	1	???	0	FALSE	0	0	TRUE		0		1
   translated: 
@@ -6447,7 +6447,7 @@
     translated: Muke and the Heavenly Scripture Fragments of Arms
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 645
   raw: Q53001	兵马指挥使	0	擎天寨寨主李彦仙留下遗言，说黄裳便在那青城派，前往青城派寻找掌门凌中岳，探问黄裳的下落。	0	FALSE	Q53001_01,Q53001_02a,Q53001_02b,Q53001_03a,Q53001_03b,Q53001_03c,Q53001_04a,Q53001_04b,Q53001_04c,Q53001_04c1,Q53001_04c2,Q53001_05a,Q53001_05a1,Q53001_05a2,Q53001_05a3,Q53001_05b,Q53001_05c,Q53001_05d	0	TRUE		0		0
   translated: 
@@ -6747,7 +6747,7 @@
     translated: "Beast Hunt: Mountain Boar King's Mane Fur"
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 675
   raw: Q59001_01	前往废弃农田寻找山猪王鬃毛	1	???	0	FALSE	0	258.3901,65.28277,-707.9688	TRUE		0		1
   translated: 
@@ -6757,7 +6757,7 @@
     translated: Go to the abandoned farmland to find the Mountain Boar King's Mane.
   - split: 3
     text: ???
-    translated: Please provide the text you would like translated from Simplified Chinese to English, and I'll assist you with that!
+    translated: ???
 - lineNum: 676
   raw: Q59001_02	将山猪王獠牙带回拱石村	1	???	0	FALSE	0	0	TRUE		0		1
   translated: 
@@ -6767,7 +6767,7 @@
     translated: Bring back the Mountain Boar King's Fang to Songshi Village.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 677
   raw: Q59001_03	收复北方农田	1	???	0	FALSE	0	0	TRUE		0		1
   translated: 
@@ -6777,7 +6777,7 @@
     translated: Reclaim northern farmland.
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 678
   raw: Q60001	灶神发威	0	拱石村符阿翠的菜被灶神爷爷吃掉了？符阿翠请你问问灶神爷爷，究竟是什么事情惹得祂生气了…虽然有点荒谬，但还是帮她想想办法吧。	0	FALSE	Q60001_01,Q60001_02,Q60001_03	0	TRUE		0		1
   translated: 
@@ -6844,7 +6844,7 @@
   splits:
   - split: 1
     text: 于家铺，今非昔
-    translated: Yú Jiāpù, jīn fēi xǐ.
+    translated: Yu Jiapu, jin fei xi.
   - split: 3
     text: 点苍派的东郭强与漆笑儿这对师兄妹正密切追缉侠盗李叹，只是这对师兄妹正等待时机来个人赃俱获。<br>和李叹聊了一下，他提示于家铺子似乎有些事情，兴许你可以在两兄弟白天做生意的时候前去探探。
     translated: Diancang Pai's Donggou Qiang and Qi Xiaor, this pair of siblings are closely pursuing the rogue Li Tan. However, these siblings are waiting for an opportunity to catch him red-handed.<br>After talking with Li Tan, he hinted that Yujia Pu seems to be up to something; perhaps you can go there to check while the two brothers are busy doing business during the day.
@@ -6867,7 +6867,7 @@
     translated: Suspicious Goodness Mansion
   - split: 3
     text: 点苍派的东郭强与漆笑儿这对师兄妹持续追缉侠盗李叹，想要来个人赃俱获，而李叹这一次的目标似乎是…大研镇的善人府？不是说是「侠」盗吗？怎么会对人家大善人下手？<br>或许你也应该前往善人府，调查一下这次的事件。
-    translated: Dingcang Sect's Dōng Guó Qiáng and Qī Xiàor with this pair of siblings continue to pursue the rogue Li Tàn, hoping for a person-along-with-property capture. However, it seems that this time Li Tàn's target might be… the Big Yan Village Benevolent Mansion? Isn't he supposed to be a rogue? How could he go after such a benevolent person?<br>Perhaps you should also go to the Benevolent Mansion and investigate this incident.
+    translated: Dingcang Sect's Dong Guo Qiang and Qi Xiaor with this pair of siblings continue to pursue the rogue Li Tan, hoping for a person-along-with-property capture. However, it seems that this time Li Tan's target might be… the Big Yan Village Benevolent Mansion? Isn't he supposed to be a rogue? How could he go after such a benevolent person?<br>Perhaps you should also go to the Benevolent Mansion and investigate this incident.
 - lineNum: 687
   raw: Q60002_05	善人府事件	1	点苍派的东郭强与漆笑儿这对师兄妹持续追缉侠盗李叹，想要来个人赃俱获，而李叹这一次的目标乃是大研镇的善人府。<br>目前你唯一的线索，是府内一名不知是真疯还是假疯的年轻乞丐苏清瑞，只得追着他循线调查下去了…。	0	FALSE	0	-710.81,-66.22,-1060.99	TRUE		300	(Reputation,1)	281
   translated: 
@@ -6877,7 +6877,7 @@
     translated: Good People's Mansion Incident
   - split: 3
     text: 点苍派的东郭强与漆笑儿这对师兄妹持续追缉侠盗李叹，想要来个人赃俱获，而李叹这一次的目标乃是大研镇的善人府。<br>目前你唯一的线索，是府内一名不知是真疯还是假疯的年轻乞丐苏清瑞，只得追着他循线调查下去了…。
-    translated: The disciples Dēng Qiāng from the Diān Cāng school, Dong Guō Qiáng and Qī Xiào'ér, continue to pursue the rogue Li Tàn with the aim of capturing him along with his loot. This time, Li Tàn's target is the Good People Mansion in Dayán Town.<br>Currently, your only clue is a young beggar named Sū Qīngruì within the mansion who might be truly mad or feigning madness; you must pursue him to follow up on this lead…
+    translated: The disciples Deng Qiang from the Dian Cang school, Dong Guo Qiang and Qi Xiao'er, continue to pursue the rogue Li Tan with the aim of capturing him along with his loot. This time, Li Tan's target is the Good People Mansion in Dayan Town.<br>Currently, your only clue is a young beggar named Su Qingrui within the mansion who might be truly mad or feigning madness; you must pursue him to follow up on this lead…
 - lineNum: 688
   raw: Q60002_06	李叹和…俏梦阁？	1	完成善人府事件后，李叹似乎依然留在这大研镇尚未离去。兴许可以再在这镇里逛逛，看看是否能够碰上。之前李叹曾说有黑衣人追着他不放，却不知这些黑衣人在这大研镇有着什么目的？	0	FALSE	0	-740.0461, 66.34229, -1076.133	TRUE		4800	(Reputation,24)	321
   translated: 
@@ -6887,7 +6887,7 @@
     translated: Li Tan and… Xiao Meng Ge?
   - split: 3
     text: 完成善人府事件后，李叹似乎依然留在这大研镇尚未离去。兴许可以再在这镇里逛逛，看看是否能够碰上。之前李叹曾说有黑衣人追着他不放，却不知这些黑衣人在这大研镇有着什么目的？
-    translated: After the event at Shàn Rén Fǔ, it seems Li Tàn still hasn't left Dà Yán Zhèn. Perhaps there's a chance to wander around this town again and see if I can run into him. Earlier, Li Tàn mentioned that people in black were chasing him relentlessly, but he doesn’t know what those people in black intend to do here at Dà Yán Zhèn?
+    translated: After the event at Shan Ren Fu, it seems Li Tan still hasn't left Da Yan Zhen. Perhaps there's a chance to wander around this town again and see if I can run into him. Earlier, Li Tan mentioned that people in black were chasing him relentlessly, but he doesn’t know what those people in black intend to do here at Da Yan Zhen?
 - lineNum: 689
   raw: Q60002_07	一世富贵	1	「一世富贵」酒庄是否当真富贵一世？听闻对李叹至关重要的古开明王城图正在一名为张又沉的大内高手手中，那末还想什么，赶紧前往一探究竟便是。	0	FALSE	0	-349.11, 85.43, 636.6	TRUE		19200	(Reputation,96)	421
   translated: 
@@ -6907,7 +6907,7 @@
     translated: Atone for one's sins through good deeds.
   - split: 3
     text: 不是你，是龚元魁。没找回长剑的他听说回到庄子被骂了一顿，只好以寻找药酒材料的方法来将功折罪。如此需要十枚蛇胆、五份鹿茸、二十枝玉蔘…龚元魁的未来就靠你了，兄弟！
-    translated: It's not you, it's Gōng Yuánkuí. When he couldn't recover the long sword and heard that he was scolded upon returning to Zhuānzi, he had no choice but to use finding materials for the medicinal wine as a way to make up for his shortcomings. Thus, ten pieces of snake bile, five portions of deer antler, twenty stalks of ginseng… Gōng Yuánkuí's future depends on you, brother!
+    translated: It's not you, it's Gong Yuankui. When he couldn't recover the long sword and heard that he was scolded upon returning to Zhuanzi, he had no choice but to use finding materials for the medicinal wine as a way to make up for his shortcomings. Thus, ten pieces of snake bile, five portions of deer antler, twenty stalks of ginseng… Gong Yuankui's future depends on you, brother!
 - lineNum: 691
   raw: Q60003_01	寻找药材	1	不是你，是龚元魁。没找回长剑的他听说回到庄子被骂了一顿，只好以寻找药酒材料的方法来将功折罪。如此需要十枚蛇胆、五份鹿茸、二十枝玉蔘…龚元魁的未来就靠你了，兄弟！	0	FALSE	0	0	TRUE		300	(Reputation,1)	1
   translated: 
@@ -6974,7 +6974,7 @@
   splits:
   - split: 1
     text: 邢老头与破网
-    translated: Xing Lao Tou and Pò Wǎng
+    translated: Xing Lao Tou and Po Wang
   - split: 3
     text: 帮助生活面临困境的邢老头补破网，你可以给他补破网的材料麻绳，或是直接请来工匠帮他补网。
     translated: Helping the old man Xing with his broken net, you can provide him with hemp rope for repairs, or directly call a craftsman to repair it for him.
@@ -7067,14 +7067,14 @@
     translated: Inquire about Young Master Mingxu's intentions.
   - split: 3
     text: 俏梦阁的艳雪姑娘才貌兼备，要想见她一面，必须有才有缘…可能彩姨的眼里，有缘指的就是有钱？明煦公子也是才貌兼备，但偏偏就是没有钱，这下该怎么办呢？<br>…不如先问问明煦公子的想法？
-    translated: The lovely Miss Xiǎoyuè from Qiaomengge is both talented and beautiful; to meet her, one must be talented and fortunate... perhaps in Cáiyí's eyes, being fortunate means having money? Even the Marquis Míngxù is talented and beautiful, but he just doesn't have money—what should be done now?<br>… Why not ask for the Marquis Míngxù's thoughts first?
+    translated: The lovely Miss Xiaoyue from Qiaomengge is both talented and beautiful; to meet her, one must be talented and fortunate... perhaps in Caiyi's eyes, being fortunate means having money? Even the Marquis Mingxu is talented and beautiful, but he just doesn't have money—what should be done now?<br>… Why not ask for the Marquis Mingxu's thoughts first?
 - lineNum: 707
   raw: Q60007_02	询问艳雪的心意	1	俏梦阁的艳雪姑娘才貌兼备，要想见她一面，必须有才有缘…可能彩姨的眼里，有缘指的就是有钱？<br>得到了明煦公子的表态…赶紧去问问艳雪的想法吧。	0	FALSE	0	-740.84,79.70,-1113.12	TRUE		300	(Reputation,1)	1
   translated: 
   splits:
   - split: 1
     text: 询问艳雪的心意
-    translated: Inquire about Yànxuě's intentions.
+    translated: Inquire about Yanxue's intentions.
   - split: 3
     text: 俏梦阁的艳雪姑娘才貌兼备，要想见她一面，必须有才有缘…可能彩姨的眼里，有缘指的就是有钱？<br>得到了明煦公子的表态…赶紧去问问艳雪的想法吧。
     translated: The beauty and talent of Xiaomengge's Miss Yanxue are both exceptional. To meet her, one must be talented and fortunate... In the eyes of Aunt Cai, being fortunate might mean having money?<br>Having received a declaration from Lord Mingyu… Hurry to ask Miss Yanxue about her thoughts.
@@ -7107,7 +7107,7 @@
     translated: Are you truly sincere? Part one.
   - split: 3
     text: 俏梦阁的艳雪姑娘希望明煦公子能找到一对终生不嫌不弃、白首不离的夫妇，并在这对夫妇前立誓终身不负，不过虽然找到了这对夫妇，他们却要求确认明煦公子的心意。<br>测试的方式是，在未经询问艳雪的情况下，送上一份艳雪会一见欣喜的礼物，确认明煦公子对对艳雪是否真正上心，或许你赶紧回去和明煦公子讨论一下这事儿才好。
-    translated: ''
+    translated: The charming Snowy Girl of Xiaomeng Pavilion hopes that Mister Mingyu can find a couple who will never grow weary or part ways even in old age, and have them pledge lifelong commitment before her. However, once this couple is found, they require confirmation of Mister Mingyu's intentions.<br>The test involves sending a gift that the Snowy Girl would be delighted to see without asking for her permission, confirming whether Mister Mingyu truly cares about her. Perhaps you should return and discuss this matter with Mister Mingyu right away.
 - lineNum: 711
   raw: Q60007_06	真心诚意否？之二	1	俏梦阁的艳雪姑娘希望明煦公子能找到一对终生不嫌不弃、白首不离的夫妇，并在这对夫妇前立誓终身不负，这对夫妇想确认明煦公子的对艳雪是否真心，测试的方式是，在未经询问艳雪的情况下，送上一份艳雪会一见欣喜的礼物。<br>明煦公子几经思考，委托你去观察一下艳雪周遭的事物，确认送出的礼物是否合适。	0	FALSE	0	-723.86,66.22,-1096.89	TRUE		300	(Reputation,1)	1
   translated: 
@@ -7137,7 +7137,7 @@
     translated: Where does an orphan rely on?
   - split: 3
     text: 想不到，不仅是你被莫家姑娘给狠狠利用了一番，连她的小弟都被阿姐给狠心抛下了。<br>如今，莫黑子一个人眼看是过不下去了，除了你还能上白马居帮他问问去留，似乎也没别人可以帮他了。
-    translated: I didn't expect it, not only were you thoroughly used by the Miss Mó family girl, but even her little brother was heartlessly abandoned by his big sister.<br>Now, Mó Hēizi can hardly go on alone, aside from you, there seems to be no one else who can ask White Horse Clan for help regarding his situation.
+    translated: I didn't expect it, not only were you thoroughly used by the Miss Mo family girl, but even her little brother was heartlessly abandoned by his big sister.<br>Now, Mo Heizi can hardly go on alone, aside from you, there seems to be no one else who can ask White Horse Clan for help regarding his situation.
 - lineNum: 714
   raw: Q60008_01	前往白马居	1	想不到，不仅是你被莫家姑娘给狠狠利用了一番，连她的小弟都被阿姐给狠心抛下了。<br>如今，莫黑子一个人眼看是过不下去了，除了你还能上白马居帮他问问去留，似乎也没别人可以帮他了。	0	FALSE	0	-953.9496, 219.264, -1236.446	TRUE		300	(Reputation,1)	1
   translated: 
@@ -7147,7 +7147,7 @@
     translated: Traveling to Bai Ma Ju
   - split: 3
     text: 想不到，不仅是你被莫家姑娘给狠狠利用了一番，连她的小弟都被阿姐给狠心抛下了。<br>如今，莫黑子一个人眼看是过不下去了，除了你还能上白马居帮他问问去留，似乎也没别人可以帮他了。
-    translated: I didn't expect it; not only were you thoroughly used by the Miss Mó, but her little brother was also heartlessly abandoned by the elder sister.<br>Now, Mr. Mò Hēizǐ seems unable to continue alone. Besides you, there seems no one else who can help him decide whether to stay or leave at Báimă Jū.
+    translated: I didn't expect it; not only were you thoroughly used by the Miss Mo, but her little brother was also heartlessly abandoned by the elder sister.<br>Now, Mr. Mo Heizi seems unable to continue alone. Besides you, there seems no one else who can help him decide whether to stay or leave at Baima Ju.
 - lineNum: 715
   raw: Q60009	淘石作恶	0	在漱玉矶的玉坊前遇到淘石帮总管天哥正鱼肉当地居民，并一掌打伤了隶属于玉坊的赵掌柜父子。赶紧过去看看他们的情况吧。	0	FALSE	Q60009_01,Q60009_02,Q60009_03,Q60009_08,Q60009_04,Q60009_07,Q60009_05,Q60009_09,Q60009_06	0	TRUE		0		1
   translated: 
@@ -7207,7 +7207,7 @@
     translated: Take back the heirloom of the old leader from Sha Qian.
   - split: 3
     text: 在漱玉矶遇到淘石帮总管天哥打伤了隶属于玉坊的赵掌柜父子，让你目睹了淘石帮在漱玉矶为所欲为的情状，并应玉坊老板邵谦之请，调查淘石帮副帮主周益的下落。不过虽是找到了周益，他却给人下了软筋散四肢无力，并且无法提起内劲。<br>好不容易取得解药取信于周益后，他表示化开药力需要一点时间，这段期间请你先去玉坊取来一只寄存于邵谦的盒子，而他在这段时间会暂时留在牢里以免打草惊蛇。
-    translated: ''
+    translated: Encountered Guo Yujie, where Taoshi Gang's Chief, Tian Ge, injured the father and son of Zhao, shopkeepers under Yu Fang. You witnessed the unchecked behavior of Taoshi Gang in Shu Yuji and, at the request of Yu Fang's owner, Sha Qian, were tasked to investigate Vice Leader Zhou Yi of the gang. However, although you found Zhou Yi, he had been given Ruojinsan that rendered his limbs powerless and unable to gather internal energy.<br>After much effort, you obtained the antidote and gained Zhou Yi's trust. He mentioned that it would take some time for the medicine to take effect, during which you are requested to retrieve a box stored with Sha Qian at Yu Fang. Meanwhile, he will remain in jail temporarily to avoid alarming anyone.
 - lineNum: 721
   raw: Q60009_06	回战淘石帮主府	1	在漱玉矶遇到淘石帮总管天哥打伤了隶属于玉坊的赵掌柜父子，让你目睹了淘石帮在漱玉矶为所欲为的情状，并应玉坊老板邵谦之请，调查淘石帮副帮主周益的下落。不过虽是找到了周益，他却给人下了软筋散四肢无力，并且无法提起内劲。<br>好不容易取得解药取信于周益后，他化开药力需要一点时间带你冲出了矿坑，如今他已先一步进去淘石帮主府了，你也赶紧过去和他会合吧。	0	FALSE	0	-407.6114, 67.14001, -1117.296	TRUE		1200	(Reputation,6)	241
   translated: 
@@ -7347,7 +7347,7 @@
     translated: Busy Auntie Tan
   - split: 3
     text: 到拱石村客店后边的灶房找田大妈，帮忙她一起制做香葱大肉包。
-    translated: Go to the kitchen behind the inn near Gǒngshí village and find Tián Dàmā, help her make spicy garlic meat buns together.
+    translated: Go to the kitchen behind the inn near Gongshi village and find Tian Dama, help her make spicy garlic meat buns together.
 - lineNum: 735
   raw: Q60011_02	弄来五份猪肉	1	在拱石村客店后边的灶房找到田大妈，正打算帮忙她一起做香葱大肉包，才发现田大妈备料不及，拜托你赶紧弄来五份猪肉，帮她一个忙。	0	FALSE	0	-24.02,126.51,-1014.63	TRUE		300	(Reputation,1)	1
   translated: 
@@ -7467,7 +7467,7 @@
     translated: Go call Wang Zizao to work.
   - split: 3
     text: 在漱玉矶就是要淘石啊，总不会…等等…还真的有人在偷懒！淘石工人汪治枣动不动偷懒不上工，你得帮工头王哥去催他上工。<br>不过晚上他老鬼鬼祟祟的不知道在干嘛，兴许你白天的时候去找他，才有机会和他老婆一起将他劝去上工。
-    translated: At Shuyujie, you're here to mine stones. Surely no one would… wait a minute… someone is actually slacking off! The stone miner, Wáng Zhìzǎo, often shirks work and doesn't show up. You must help Headman Wánggē urge him to get back to work.<br>However, he sneaks around at night, doing who knows what. Perhaps you might have a chance to persuade him to go to work during the day if you find him while his wife is around.
+    translated: At Shuyujie, you're here to mine stones. Surely no one would… wait a minute… someone is actually slacking off! The stone miner, Wang Zhizao, often shirks work and doesn't show up. You must help Headman Wangge urge him to get back to work.<br>However, he sneaks around at night, doing who knows what. Perhaps you might have a chance to persuade him to go to work during the day if you find him while his wife is around.
 - lineNum: 747
   raw: Q60015	逃难小情侣	0	在延安寨救了一对原本居住在大研镇的男女，若是得空，前去瞧瞧他们吧。	0	FALSE	Q60015_01	0	TRUE		0		1
   translated: 
@@ -7537,7 +7537,7 @@
     translated: Locating the whereabouts of the bottle.
   - split: 3
     text: 善人府内真有好东西吗？在苏清瑞的告知下，你知道了其实善人府内还有一座宝库，他将宝库钥匙和告知解开宝库机关的提示做为交换，要你杀了景泰然。<br>在善人府二楼尝试用钥匙打开了机关的开关，下一步该怎么做呢？在二楼探索之后，发现似乎是要寻找瓶子放置于相对应的台子上。问过景府管家景焕之后，才知道原来当年苏府败落之后便已四散，和景管家打听之后，赶紧去找回这些瓶子，并一一放上花纹相对应的机关台子吧。
-    translated: Is there really anything good inside the Shàn Rén Fǔ? Upon learning from Sū Qīngruì, you discovered that there is actually a treasure vault within Shàn Rén Fǔ. In exchange for killing Jiǎng Tàirán, he gave you the key to the treasure vault and instructions on how to open it.<br>In the second floor of the Shàn Rén Fǔ, you tried using the key to activate the mechanism. What should you do next? After exploring the second floor, it seems you need to find bottles and place them on their corresponding stands. After asking Jiǎng fǔ guānjiā Jiǎng Huànzhi, you learned that after Sū Fǔ fell into decline, they were scattered. Upon inquiring with Jiǎng Guānjiā, quickly go find these bottles and place each one on the corresponding stand with matching patterns.
+    translated: Is there really anything good inside the Shan Ren Fu? Upon learning from Su Qingrui, you discovered that there is actually a treasure vault within Shan Ren Fu. In exchange for killing Jiang Tairan, he gave you the key to the treasure vault and instructions on how to open it.<br>In the second floor of the Shan Ren Fu, you tried using the key to activate the mechanism. What should you do next? After exploring the second floor, it seems you need to find bottles and place them on their corresponding stands. After asking Jiang fu guanjia Jiang Huanzhi, you learned that after Su Fu fell into decline, they were scattered. Upon inquiring with Jiang Guanjia, quickly go find these bottles and place each one on the corresponding stand with matching patterns.
 - lineNum: 754
   raw: Q60016_05	寻找宝库入口	1	善人府内真有好东西吗？在苏清瑞的告知下，你知道了其实善人府内还有一座宝库，他将宝库钥匙和告知解开宝库机关的提示做为交换，要你杀了景泰然。<br>在善人府二楼尝试用钥匙打开了机关的开关，并且好不容易找齐了瓶子放置在相对应的台子上，似乎确实成功的触发了每一个瓶子相对应的机关。若如苏清瑞所言，宝库入口肯定在这二楼，只是…在哪里呢？	0	FALSE	0	0	TRUE		1200	(Reputation,6)	1
   translated: 
@@ -7547,7 +7547,7 @@
     translated: Searching for the entrance to the treasure chamber
   - split: 3
     text: 善人府内真有好东西吗？在苏清瑞的告知下，你知道了其实善人府内还有一座宝库，他将宝库钥匙和告知解开宝库机关的提示做为交换，要你杀了景泰然。<br>在善人府二楼尝试用钥匙打开了机关的开关，并且好不容易找齐了瓶子放置在相对应的台子上，似乎确实成功的触发了每一个瓶子相对应的机关。若如苏清瑞所言，宝库入口肯定在这二楼，只是…在哪里呢？
-    translated: Is there really something good inside the Shàn Rén Fǔ? Informed by Sū Qīngruì, you learned that there is actually a treasure vault within the Shàn Rén Fǔ. He exchanged the key to the treasure vault and hints on unlocking its mechanism for your killing of Jǐng Tàirán.<br>On the second floor of the Shàn Rén Fǔ, you attempted to use the key to activate the switches and with great effort found bottles to place on their corresponding stands, seemingly successfully triggering each bottle's respective mechanism. If Sū Qīngruì is right, the entrance to the treasure vault must be here on this second floor; only... where exactly could it be?
+    translated: Is there really something good inside the Shan Ren Fu? Informed by Su Qingrui, you learned that there is actually a treasure vault within the Shan Ren Fu. He exchanged the key to the treasure vault and hints on unlocking its mechanism for your killing of Jing Tairan.<br>On the second floor of the Shan Ren Fu, you attempted to use the key to activate the switches and with great effort found bottles to place on their corresponding stands, seemingly successfully triggering each bottle's respective mechanism. If Su Qingrui is right, the entrance to the treasure vault must be here on this second floor; only... where exactly could it be?
 - lineNum: 755
   raw: Q60016_06	完成对苏清瑞的许诺	1	善人府内真有好东西吗？在苏清瑞的告知下，你知道了其实善人府内还有一座宝库，好不容易找齐了瓶子放置在相对应的台子上，找到了宝库。<br>事到如今，完成对苏清瑞的许诺，杀了景泰然夫妇吧！	0	FALSE	0	0	TRUE		4800	(Reputation,24)	1
   translated: 
@@ -7557,14 +7557,14 @@
     translated: Fulfilling the promise to Su Qingrui.
   - split: 3
     text: 善人府内真有好东西吗？在苏清瑞的告知下，你知道了其实善人府内还有一座宝库，好不容易找齐了瓶子放置在相对应的台子上，找到了宝库。<br>事到如今，完成对苏清瑞的许诺，杀了景泰然夫妇吧！
-    translated: Is there anything good inside the Shàn Rén Fu? After being informed by Sū Qīngruì, you found out that there is actually a treasure chamber inside the Shàn Rén Fu. With great effort, you gathered all the bottles and placed them on their corresponding stands, finding the treasure chamber.<br>Now that it's come to this, fulfill your promise to Sū Qīngruì by killing Jǐng Tàirán and his wife!
+    translated: Is there anything good inside the Shan Ren Fu? After being informed by Su Qingrui, you found out that there is actually a treasure chamber inside the Shan Ren Fu. With great effort, you gathered all the bottles and placed them on their corresponding stands, finding the treasure chamber.<br>Now that it's come to this, fulfill your promise to Su Qingrui by killing Jing Tairan and his wife!
 - lineNum: 756
   raw: Q60017	苏清瑞的过去	0	昔日的「小孟尝」苏清瑞如今装疯卖傻，藏匿在仇敌「赛孟尝」景泰然的身边，到底他的过去有着什么样的冤屈？	0	FALSE	Q60017_01,Q60017_02,Q60017_03,Q60017_04,Q60017_05	0	TRUE		0		0
   translated: 
   splits:
   - split: 1
     text: 苏清瑞的过去
-    translated: Sū Qīngruì's past.
+    translated: Su Qingrui's past.
   - split: 3
     text: 昔日的「小孟尝」苏清瑞如今装疯卖傻，藏匿在仇敌「赛孟尝」景泰然的身边，到底他的过去有着什么样的冤屈？
     translated: Once the Little Mengchang Su Qingrui, now feigning madness and hiding among his enemy Challenger Mengchang Jing Taeran's side, what kind of injustice did his past hold?
@@ -7627,7 +7627,7 @@
     translated: Night gathering with Su Qingrui.
   - split: 3
     text: 苏清瑞指出，他的房间在善人府院子进去左边楼梯的二楼，在正戌时到正寅时之间去会一会他吧。
-    translated: Su Qingrui pointed out that his room is on the second floor, to the left of the entrance stairs of the Shàn rén fǔ courtyard. Please come and visit him between 7 PM and 3 AM.
+    translated: Su Qingrui pointed out that his room is on the second floor, to the left of the entrance stairs of the Shan ren fu courtyard. Please come and visit him between 7 PM and 3 AM.
 - lineNum: 763
   raw: Q60018_01	前往苏清瑞的卧房	1	苏清瑞指出，他的房间在善人府院子进去左边楼梯的二楼，在正戌时到正寅时之间去会一会他。	0	FALSE	0	-713.0096, 72.049, -1048.829	TRUE		600	(Reputation,3)	1
   translated: 
@@ -7637,7 +7637,7 @@
     translated: Proceed to Su Qingrui's bedroom.
   - split: 3
     text: 苏清瑞指出，他的房间在善人府院子进去左边楼梯的二楼，在正戌时到正寅时之间去会一会他。
-    translated: Su Qingrui pointed out that his room is on the second floor to the left of the staircase in the yard of Shàn Rén Fǔ, and suggested visiting him between midnight and 3 AM.
+    translated: Su Qingrui pointed out that his room is on the second floor to the left of the staircase in the yard of Shan Ren Fu, and suggested visiting him between midnight and 3 AM.
 - lineNum: 764
   raw: Q60019	打虎英雄	0	大研镇近郊山上恶虎出没，你受大善人景泰然之托，前往除害。	0	FALSE	Q60019_01,Q60019_02	0	TRUE		0		1
   translated: 
@@ -7734,7 +7734,7 @@
   splits:
   - split: 1
     text: 回复张罗的状况
-    translated: Reply regarding Zhang Lü's situation.
+    translated: Reply regarding Zhang Lu's situation.
   - split: 3
     text: 这个苏清瑞，真是会享受！好不容易你东打点、西安排，向悦来客栈订上好的酒席，并和俏梦阁的老鸨说好了服侍他的姑娘，回去告诉苏清瑞你张罗的状况吧。
     translated: Suo Qingrui truly knows how to enjoy himself! After all your efforts in arranging everything—booking a good banquet at Yue Lai Inn and coordinating with the landlord of Qiao Meng Ge for some company—you should return and tell Su Qingrui about your arrangements.
@@ -7844,7 +7844,7 @@
   splits:
   - split: 1
     text: 跟踪柏俊材
-    translated: Tracking Bǎi Jùncái.
+    translated: Tracking Bai Juncai.
   - split: 3
     text: 据说流云坊大小姐近来用过晚膳之后，便会出门极久，左邻右舍传来不少闲言闲语。女孩子家闺名要紧，快帮慧婶找找大小姐，请她快回流云坊。
     translated: It is said that after having her evening meal, the young lady of Liuyun Fang often goes out for a long time. The neighbors have been sharing many rumors. A girl's reputation is important; please help Aunt Hui find the young lady and ask her to return to Liuyun Fang quickly.
@@ -7914,7 +7914,7 @@
   splits:
   - split: 1
     text: 为景焕…的朋友寻找药材
-    translated: Looking for medicinal herbs for Jǐng Huàn’s friend...
+    translated: Looking for medicinal herbs for Jing Huan’s friend...
   - split: 3
     text: 和景焕打听消息后得知，做为机关钥匙之一的锦缎观月瓶正在他的手上。不过据说景府管家景焕…的朋友身体不太好，他要求你带来一个虎鞭、五个蛇胆过来，好让他朋友泡了酒喝，才愿意将瓶子给你。
     translated: After He Jinguan inquired about the matter, he learned that one of the keys to the agency—the Silk Brocade Moon Viewing Flask—was in his possession. However, it was said that He Chenghuan, the butler of the Jing household and a friend of his, wasn't feeling well. Therefore, he requested that you bring an iron whip and five snake gallnuts so that his friend could soak them in wine to drink before being willing to give you the flask.
@@ -8014,7 +8014,7 @@
   splits:
   - split: 1
     text: 束阿桂的秘方
-    translated: Sū Aoguì's secret formula.
+    translated: Su Aogui's secret formula.
   - split: 3
     text: 拱石村田大妈的孩子生了怪病，据束阿桂所言，此她手上虽有能治病的秘方，但是目前还缺了三份野猪黄。四处看看这附近有没有猎捕野猪的机会，并搜集三份野猪黄回去给束阿桂吧。
     translated: The child of Guanshi Village's Tang Da Ma has developed a strange illness. According to Suo A Gui, although she has the secret formula to cure it, three doses of wild boar gall are missing at present. Look around in this area for any opportunities to hunt wild boars and collect three doses of wild boar gall to give back to Suo A Gui.
@@ -8137,7 +8137,7 @@
     translated: Deer Antler Complement Gift
   - split: 3
     text: 杜府夫人冯秋香对于下人十分苛刻，而婢女傻儿却不慎失手摔坏了老爷的一方名贵好墨，经询问曹师爷后，好不容易才搜集到了制作松脂墨的材料。<br>不过曹师爷随即又要求你弄来三份鹿茸，好让他拜访远房表叔时不致失礼。
-    translated: Lady Feng Qiu Xiang of the Du Mansion is very strict with her servants, and maidservant Sǎ Er accidentally broke an exquisite ink stick belonging to the master. After consulting Clerk Cáo, they managed to gather the materials needed to make pine resin ink.<br>However, Clerk Cáo then immediately requested that you procure three portions of deer antler so he would not be disrespectful when visiting a distant cousin.
+    translated: Lady Feng Qiu Xiang of the Du Mansion is very strict with her servants, and maidservant Sa Er accidentally broke an exquisite ink stick belonging to the master. After consulting Clerk Cao, they managed to gather the materials needed to make pine resin ink.<br>However, Clerk Cao then immediately requested that you procure three portions of deer antler so he would not be disrespectful when visiting a distant cousin.
 - lineNum: 814
   raw: Q60033_04	等待三天	1	杜府夫人冯秋香对于下人十分苛刻，而婢女傻儿却不慎失手摔坏了老爷的一方名贵好墨，好不容易搜集到了制作松脂墨的材料、并准备了伴手礼，曹师爷将松脂、木炭等材料托人交给远房表叔制墨，至少得要三天时间，三天后再至杜府找曹师爷取墨吧。	0	FALSE	0	287.59,103.24,-136.55	TRUE		300	(Reputation,1)	1
   translated: 
@@ -8157,7 +8157,7 @@
     translated: Give the pine resin ink to the fool child.
   - split: 3
     text: 杜府夫人冯秋香对于下人十分苛刻，而婢女傻儿却不慎失手摔坏了老爷的一方名贵好墨，好不容易搜集到了制作松脂墨的材料、并准备了伴手礼，重新制了一锭松脂墨来，赶紧将松脂墨交给傻儿吧。
-    translated: Madam Feng Qiu Xiang of the Du family is very harsh towards her servants, and yet, the maid Shǎ Er accidentally broke a precious ink used by the Master. With great effort, she gathered materials to make pine resin ink and prepared a gift to accompany it. Quickly have her give the newly made pine resin ink to Shǎ Er.
+    translated: Madam Feng Qiu Xiang of the Du family is very harsh towards her servants, and yet, the maid Sha Er accidentally broke a precious ink used by the Master. With great effort, she gathered materials to make pine resin ink and prepared a gift to accompany it. Quickly have her give the newly made pine resin ink to Sha Er.
 - lineNum: 816
   raw: Q60034	邪恶又没有存在感的角色	0	作为一个邪恶又没有存在感的角色，去偷窃梅福齐身上的袋子吧。	0	FALSE	Q60034_01	0	TRUE		0		1
   translated: 
@@ -8187,7 +8187,7 @@
     translated: Warehouse worker
   - split: 3
     text: 帮谷场主人梅谷立将车架上的谷物搬到谷仓去。
-    translated: Help the owner of the threshing ground, Meigǔ, move the grain from the wagon racks to the granary.
+    translated: Help the owner of the threshing ground, Meigu, move the grain from the wagon racks to the granary.
 - lineNum: 819
   raw: Q60035_01	搬运沉重的谷袋	1	帮谷场主人梅谷立将车架上的谷物搬到谷仓去，一共三袋，少了一袋都不成。	0	FALSE	0	0	TRUE		300	(Reputation,1)	1
   translated: 
@@ -8357,7 +8357,7 @@
     translated: Deliver a message to the siblings of Madam Jiang.
   - split: 3
     text: 带话给姜离。
-    translated: Deliver a message to Jiang Lü.
+    translated: Deliver a message to Jiang Lu.
 - lineNum: 836
   raw: Q60038_07	任务卡位	1	任务卡位。	0	FALSE	0	0	TRUE		0		1
   translated: 
@@ -8407,7 +8407,7 @@
     translated: Astonishingly encounter white bones.
   - split: 3
     text: 太华遗族，他们是个信仰月亮、昼伏夜出，并且有着雪白的头发与肌肤的世外古族。据说该族生来便带有先天之疾，在阳光下不耐久待，好不容易带回七星拱月蛛为药引，颛孙凝经过调理之后不仅能离开太华门护族大阵，甚至白天也能自由活动了。<br>只是带她回到当年祖父母曾经居住过的快意村，才发现一片白骨狼藉…。试着探索四周，找找线索吧。
-    translated: Taihua Yi Zu, they are a sect that worships the moon, roams at night, and has snow-white hair and skin. It is said that this clan is born with an innate ailment, unable to endure long in sunlight. With some difficulty, they bring back Qixing Gongyue Zhū as an elixir, and after Zuan Sun Ning's refinement, not only can she leave the Taihua Men Hu Zu Dafa Zhen, but even during the day, she can move freely.<br>However, upon returning her to the old village where her grandparents once lived, they discover a heap of white bones… Try exploring around for clues.
+    translated: Taihua Yi Zu, they are a sect that worships the moon, roams at night, and has snow-white hair and skin. It is said that this clan is born with an innate ailment, unable to endure long in sunlight. With some difficulty, they bring back Qixing Gongyue Zhu as an elixir, and after Zuan Sun Ning's refinement, not only can she leave the Taihua Men Hu Zu Dafa Zhen, but even during the day, she can move freely.<br>However, upon returning her to the old village where her grandparents once lived, they discover a heap of white bones… Try exploring around for clues.
 - lineNum: 841
   raw: Q60039_04	重建故园	1	太华遗族，有着雪白的头发与肌肤的世外古族。据说该族生来便带有先天之疾，在阳光下不耐久待，好不容易带回七星拱月蛛为药引，颛孙凝经过调理之后，不仅能离开太华门护族大阵，甚至白天也能自由活动了。<br>带她回到当年祖父母曾经居住过的快意村，替村内立碑白骨入殓后，试着重整这些屋子。	0	FALSE	0	0	TRUE		1200	(Reputation,6)	1
   translated: 
@@ -8587,7 +8587,7 @@
     translated: Reply to Uncle Wen A-She.
   - split: 3
     text: 在拱石村上缘的山地附近，遇到了一只暴躁黑牛和不解何事、束手无策的文阿叔，你仔细观察后，从黑牛的角上看到不明伤痕，疑惑之下，在晚上撞见蒋留若正想伤害黑皮。<br>得知来龙去脉的你，一旦白天见到了文阿叔，就赶紧去跟文阿叔说明经过吧，让他别再担心了。
-    translated: Near the mountain edge above Kongshi Village, you encounter a fierce black ox and Wén Āshū, who is perplexed and at a loss. After observing carefully, you notice mysterious wounds on the ox's horns and become puzzled. Later that night, you see Jiǎng Liúruò intending to harm Black Skin.<br>Having learned the whole story, once you see Wén Āshū during the day, hurry to explain everything to him so he can stop worrying.
+    translated: Near the mountain edge above Kongshi Village, you encounter a fierce black ox and Wen Ashu, who is perplexed and at a loss. After observing carefully, you notice mysterious wounds on the ox's horns and become puzzled. Later that night, you see Jiang Liuruo intending to harm Black Skin.<br>Having learned the whole story, once you see Wen Ashu during the day, hurry to explain everything to him so he can stop worrying.
 - lineNum: 859
   raw: Q60043	大仙来也	0	狐仙有赏	0	FALSE	Q60043_01,Q60043_02,Q60043_03,Q60043_04	0	TRUE		0		1
   translated: 
@@ -9104,7 +9104,7 @@
   splits:
   - split: 1
     text: 在拱石村附近找到恨天高，并将之正法。
-    translated: In the vicinity of Gǒngshí Village, find Hèntiān Gāo and bring him to justice.
+    translated: In the vicinity of Gongshi Village, find Hentian Gao and bring him to justice.
   - split: 3
     text: 无。
     translated: None.
@@ -9464,7 +9464,7 @@
   splits:
   - split: 1
     text: 真相
-    translated: ''
+    translated: Truth
   - split: 3
     text: 回去找阿田把事情弄清楚
     translated: Go back and find {name_1} to get things cleared up.
@@ -9534,7 +9534,7 @@
   splits:
   - split: 1
     text: 前往天龙寺附近找骆平的故人
-    translated: Go to the area near Tianlong Temple to visit Lü Ping's acquaintance.
+    translated: Go to the area near Tianlong Temple to visit Lu Ping's acquaintance.
   - split: 3
     text: 找到骆平在天龙寺附近的故人
     translated: Find Lao Ping's old acquaintance near Tiantian Temple.
@@ -9554,17 +9554,17 @@
   splits:
   - split: 1
     text: 「三才刀」柴义
-    translated: Sāncái Sword Sai Yi
+    translated: Sancai Sword Sai Yi
   - split: 3
     text: 跟刁不易一起去挑战「三才刀」柴义
-    translated: Go with Diào Bùyì to challenge Sāncái Dāo Chá Yì.
+    translated: Go with Diao Buyi to challenge Sancai Dao Cha Yi.
 - lineNum: 956
   raw: Q80024_02	「四象刀」樊景相	1	跟刁不易一起去挑战「四象刀」樊景相	0	FALSE	0	-662.4,184.11,-662.58	TRUE		1200	(Reputation,6)	241
   translated: 
   splits:
   - split: 1
     text: 「四象刀」樊景相
-    translated: Sìxiàng Dāo Fán Jǐngxiāng
+    translated: Sixiang Dao Fan Jingxiang
   - split: 3
     text: 跟刁不易一起去挑战「四象刀」樊景相
     translated: Go with Diao Buyi to challenge Sisheng Dao Fan Jingxiang.
@@ -9574,7 +9574,7 @@
   splits:
   - split: 1
     text: 「五虎断门刀」虎头三
-    translated: Wǔ hǔ duàn mén dāo hu tú sān
+    translated: Wu hu duan men dao hu tu san
   - split: 3
     text: 跟刁不易一起去挑战「五虎断门刀」虎头三
     translated: Go with Deiao Buyi to challenge Five Tiger Family Executioner's Sword Tiger Head Three.
@@ -9587,14 +9587,14 @@
     translated: Surging Waves and Tempestuous Tides
   - split: 3
     text: 跟刁不易一起去挑战「惊波狂澜」
-    translated: Go with Diào Bùyì to challenge Jīngbō Kuánglán.
+    translated: Go with Diao Buyi to challenge Jingbo Kuanglan.
 - lineNum: 959
   raw: Q80024_05	刀神刁不易	1	与拿出真正实力的刁不易再次决战	0	FALSE	0	133.06,89.69,-193.85	TRUE		2400	(Reputation,12)	401
   translated: 
   splits:
   - split: 1
     text: 刀神刁不易
-    translated: Dāoshén Diào Bùyì
+    translated: Daoshen Diao Buyi
   - split: 3
     text: 与拿出真正实力的刁不易再次决战
     translated: Facing off once again against Dei Buye, who truly demonstrated his strength.
@@ -9804,7 +9804,7 @@
   splits:
   - split: 1
     text: 「奇遇事件结标」
-    translated: Qi Yù Shìjiàn Jíbiāo
+    translated: Qi Yu Shijian Jibiao
   - split: 3
     text: 河洛群侠传的世界中，处处是惊奇。
     translated: In the world of He Lu Heroes, there are wonders everywhere.
@@ -9814,7 +9814,7 @@
   splits:
   - split: 1
     text: 「珍馐会」事件
-    translated: Zhēnxiū Huì Incident
+    translated: Zhenxiu Hui Incident
   - split: 3
     text: 珍馐会全员出动！
     translated: Zhenxu Association Full Membership Dispatched!
@@ -9977,17 +9977,17 @@
     translated: Report message back to Miss Feng Ru Hua.
   - split: 3
     text: 铁彻天并未再娶，是顾忌着女儿小轻。将此消息回报给方如花。
-    translated: Tiě Chètiān has not remarried due to concern for his daughter Xiaoliǎng. Report this message to Fāng Rúhuā.
+    translated: Tie Chetian has not remarried due to concern for his daughter Xiaoliang. Report this message to Fang Ruhua.
 - lineNum: 998
   raw: Q90003	甄贾兄弟	0	甄学世的异姓兄弟贾文清，总是在深夜偷偷外出，清晨回家时就一毛钱也不剩。调查贾文清都把钱花到哪去了。	0	FALSE	Q90003_01, Q90003_02, Q90003_03	0	TRUE		0		1
   translated: 
   splits:
   - split: 1
     text: 甄贾兄弟
-    translated: Zhēn Jià Brothers
+    translated: Zhen Jia Brothers
   - split: 3
     text: 甄学世的异姓兄弟贾文清，总是在深夜偷偷外出，清晨回家时就一毛钱也不剩。调查贾文清都把钱花到哪去了。
-    translated: Zhēn Xuéshì's non-relatives brother Jiǎ Wénqīng always sneaks out late at night and returns home in the morning with no money left. Investigate where Jiǎ Wénqīng spends all his money.
+    translated: Zhen Xueshi's non-relatives brother Jia Wenqing always sneaks out late at night and returns home in the morning with no money left. Investigate where Jia Wenqing spends all his money.
 - lineNum: 999
   raw: Q90003_01	探查贾文清深夜行迹	1	甄学世的异姓兄弟贾文清，总是在深夜偷偷外出，清晨回家时就一毛钱也不剩。调查贾文清都把钱花到哪去了。	0	FALSE	0	0	TRUE		600	(Reputation,3)	1
   translated: 
@@ -9997,7 +9997,7 @@
     translated: Investigate Jia Wenqing's midnight movements.
   - split: 3
     text: 甄学世的异姓兄弟贾文清，总是在深夜偷偷外出，清晨回家时就一毛钱也不剩。调查贾文清都把钱花到哪去了。
-    translated: Zhēn Xuéshì's non-biological brother Jiǎ Wénqīng always sneaks out at night and returns home in the morning with not a penny left. Investigate where Jiǎ Wénqīng spends all his money.
+    translated: Zhen Xueshi's non-biological brother Jia Wenqing always sneaks out at night and returns home in the morning with not a penny left. Investigate where Jia Wenqing spends all his money.
 - lineNum: 1000
   raw: Q90003_02	赴贾文清之约	1	贾文清约你正丑时在丈人村西侧的河边巨岩上碰面，说是有个气味相投的朋友要介绍与你认识。	0	FALSE	0	0	TRUE		600	(Reputation,3)	1
   translated: 
@@ -10027,7 +10027,7 @@
     translated: Fugitive Homeless Girl
   - split: 3
     text: 铁小轻离家出走，铁彻天放心不下，请你替他搜寻女儿下落。<br>铁彻天说青城派周围的山崖是小轻最爱的地方，要寻她下落，可以从那附近的树林着手。
-    translated: Tiě Xiǎo Qīng left home, and Tiě Chè Tiān is worried. Please help search for his daughter's whereabouts.<br>Tiě Chè Tiān says the cliffs around the Qingcheng Sect are where Xiaoqing loved to be; to find her, start from the nearby forest.
+    translated: Tie Xiao Qing left home, and Tie Che Tian is worried. Please help search for his daughter's whereabouts.<br>Tie Che Tian says the cliffs around the Qingcheng Sect are where Xiaoqing loved to be; to find her, start from the nearby forest.
 - lineNum: 1003
   raw: Q90004_01	寻找铁小轻下落	1	铁小轻离家出走，铁彻天放心不下，替他搜寻小轻下落。<br>铁彻天说青城派周围的山崖是小轻最爱的地方，要寻她下落，可以从那附近的树林着手。	0	FALSE	0	-704.14,10100,95.02	TRUE		1200	(Reputation,6)	241
   translated: 
@@ -10134,7 +10134,7 @@
   splits:
   - split: 1
     text: 在亥时前往武侯祠
-    translated: Go to Wuhou Temple before Hái time.
+    translated: Go to Wuhou Temple before Hai time.
   - split: 3
     text: 与王喆、白露霜讨论后，决定由王喆前往东方渡口探查，而你与白露霜则在「亥时」前往武侯祠，赴崔二之约。白露霜说会在武侯祠等你，准备好了就去和她会合吧。
     translated: After discussing with Wang Zhe and Bai Lusu, we decided that Wang Zhe would go to the Dongsang Dock for investigation. You and Bai Lusu will head to Wuhou Shrine before Hai to meet with Cui Er. Bai Lusu said she'll wait for you at Wuhou Shrine; get ready and join her once prepared.
@@ -10157,7 +10157,7 @@
     translated: Go to Fengyun Port to find Bai Lusang.
   - split: 3
     text: 从崔二手中拿回了另一块擎天寨虎符，但仍未得知李彦仙的下落。你们决定前往风云渡看看王喆的状况，白露霜依旧率先出发了，准备好了就去渡口找她吧。
-    translated: You retrieved another Qingtian Fort Tiger Token from Cui Er, but you still haven't found out Li Yanshen's whereabouts. You decided to check on Wang Zhe's condition at Fengyun Ferry; Báilùshuāng set off first again. Once you're ready, go to the ferry to find her.
+    translated: You retrieved another Qingtian Fort Tiger Token from Cui Er, but you still haven't found out Li Yanshen's whereabouts. You decided to check on Wang Zhe's condition at Fengyun Ferry; Bailushuang set off first again. Once you're ready, go to the ferry to find her.
 - lineNum: 1016
   raw: Q90008_06	探查风云渡	1	你们决定分头寻找王喆，由白露霜负责搜索附近山林野地，你则负责探查渡口内部。在风云渡四处看看吧！	0	FALSE	0	421.1019,88.79922,-134.0309	TRUE		2400	(Reputation,12)	381
   translated: 

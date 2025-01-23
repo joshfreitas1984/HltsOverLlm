@@ -814,7 +814,7 @@
   splits:
   - split: 1
     text: 幽息月光石
-    translated: Yōu Xī Yuè Guāng Shí
+    translated: You Xi Yue Guang Shi
   - split: 2
     text: 伤害值的25％转为自身内力
     translated: 25% of the damage dealt is converted into your own Qi.
@@ -824,7 +824,7 @@
   splits:
   - split: 1
     text: 墨玉
-    translated: Mòyù
+    translated: Moyu
   - split: 2
     text: 攻击后30%机率回复自身1点精力
     translated: After the attack, there is a 30% chance to restore 1 point of energy to oneself.
@@ -2004,10 +2004,10 @@
   splits:
   - split: 1
     text: 莫一思停
-    translated: Mò Yī Sāi Tíng.
+    translated: Mo Yi Sai Ting.
   - split: 2
     text: 莫一思停
-    translated: Mò Yī Sī tíng.
+    translated: Mo Yi Si ting.
 - lineNum: 201
   raw: talent00008	夺命连环	夺命连环	0		0	FALSE	0	FALSE	0	0		talent00008
   translated: 
@@ -2544,7 +2544,7 @@
   splits:
   - split: 1
     text: 野球拳奥义
-    translated: Yakyūken secret technique
+    translated: Yakyuken secret technique
   - split: 2
     text: 自身圆形范围3格，中招者散功值+20
     translated: Within a radius of three tiles from self, the target loses 20 Qi points upon being hit.
@@ -2627,7 +2627,7 @@
     translated: As light as the wind
   - split: 2
     text: 松风剑附加8点晕眩
-    translated: Sōngfēng Jiàn Adds 8 Points of Dizziness.
+    translated: Songfeng Jian Adds 8 Points of Dizziness.
 - lineNum: 263
   raw: buffSkillTree002_006	如松之劲	松风剑的消耗精力减少1点	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -2654,7 +2654,7 @@
   splits:
   - split: 1
     text: 渭水垂钓
-    translated: Wèishuǐ chuí diào
+    translated: Weishui chui diao
   - split: 2
     text: 以渭水垂钓作为反击技，每回合额外累积反击率5%
     translated: Using Weishui's Tidal Fishing as a counterattack technique, accumulating an additional 5% counterattack rate per turn.
@@ -2907,7 +2907,7 @@
     translated: Who dares challenge me?
   - split: 2
     text: 凛凛一心忠额外附加7点外伤
-    translated: Lín Lín is devoted with a clear heart; in addition to the external injury, there are seven more points of trauma.
+    translated: Lin Lin is devoted with a clear heart; in addition to the external injury, there are seven more points of trauma.
 - lineNum: 291
   raw: buffSkillTree010_009	海角天涯无对	若装备涯角枪，施展凛凛一心忠、敢当百万雄、直入虎狼丛的威力增强	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_009
   translated: 
@@ -3257,7 +3257,7 @@
     translated: Ride the clouds and mist.
   - split: 2
     text: 猛虎跳峡、玉龙腾空的消耗精力减少1点
-    translated: The energy consumption of Měnghǔ Tiàoxiá and Yùlóng Téngkōng is reduced by 1 point.
+    translated: The energy consumption of Menghu Tiaoxia and Yulong Tengkong is reduced by 1 point.
 - lineNum: 326
   raw: buffSkillTree022_002	开山破水	出招后，减少自身所有的负面状态值5点	0		0	FALSE	0	FALSE	0	0		buffSkillTree022_002
   translated: 
@@ -3494,7 +3494,7 @@
   splits:
   - split: 1
     text: 掷雀手
-    translated: Dice poker hand
+    translated: Cheating in dice games.
   - split: 2
     text: 密林掷雀的威力加强
     translated: The power of the Hidden Forest Throwing Star has been enhanced.
@@ -3827,7 +3827,7 @@
     translated: Mountains in the distance rise like smoke.
   - split: 2
     text: 以腾云不回风反击时，伤害增加25%
-    translated: Damage increases by 25% when Tianyun Bu Hui Fēng counterattacks.
+    translated: Damage increases by 25% when Tianyun Bu Hui Feng counterattacks.
 - lineNum: 383
   raw: buffSkillTree043_007	树影蔽草青	腾云不回风的攻击范围增加	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -3907,7 +3907,7 @@
     translated: Pulsar Star
   - split: 2
     text: 双星飞影的消耗内力减半
-    translated: The consumption of internal energy by Shuāngxīng Fēiyǐng is halved.
+    translated: The consumption of internal energy by Shuangxing Feiying is halved.
 - lineNum: 391
   raw: buffSkillTree044_009	透骨星	双星飞影的威力增强	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -3957,7 +3957,7 @@
     translated: The waters of the Yi River remain cold.
   - split: 2
     text: 易水寒的攻击范围增加
-    translated: Yìshuǐ Hán's attack range increases.
+    translated: Yishui Han's attack range increases.
 - lineNum: 396
   raw: buffSkillTree045_008	慷慨送行	易水寒的消耗内力减半	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -4004,7 +4004,7 @@
   splits:
   - split: 1
     text: 浩然塞苍冥
-    translated: Hàorán sealed the vast darkness.
+    translated: Haoran sealed the vast darkness.
   - split: 2
     text: 运行正气歌时，战斗中的内力最大值提升800点
     translated: When the Running True Qi Song is activated, maximum internal power during combat increases by 800 points.
@@ -4014,7 +4014,7 @@
   splits:
   - split: 1
     text: 浩然塞苍冥
-    translated: Hàorán sealed the boundless void.
+    translated: Haoran sealed the boundless void.
   - split: 2
     text: 运行正气歌时，战斗中的内力最大值提升800点
     translated: While running the Zhen Qi Song, the maximum inner power in battle is increased by 800 points.
@@ -4137,7 +4137,7 @@
     translated: A thorn in the flesh.
   - split: 2
     text: 若施展丧门飞星，发动暴击后有50%机率回复自身1点精力
-    translated: If using Sāngmén Fēixīng to unleash a critical hit, there is a 50% chance of restoring 1 point of Qi to oneself.
+    translated: If using Sangmen Feixing to unleash a critical hit, there is a 50% chance of restoring 1 point of Qi to oneself.
 - lineNum: 414
   raw: buffSkillTree049_010	阴魂不散	若施展丧门飞星，发动虚招后有50%机率回复自身1点精力	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_010
   translated: 
@@ -4314,7 +4314,7 @@
   splits:
   - split: 1
     text: 混元功
-    translated: Hùnyuán Gōng
+    translated: Hunyuan Gong
   - split: 2
     text: 运行混元功时，每回合回复精力增加1点
     translated: When using Hunyuan Gong each turn, energy recovery increases by 1 point.
@@ -4337,7 +4337,7 @@
     translated: Primordial One Qi
   - split: 2
     text: 练成时强化混元掌的内伤效果；运行混元功时，每回合回复精力增加2点
-    translated: Enhances the internal injury effect of Hún Yuán Zhǎng when practiced; during each round of running Hún Yuán Gōng, restores 2 points of energy.
+    translated: Enhances the internal injury effect of Hun Yuan Zhang when practiced; during each round of running Hun Yuan Gong, restores 2 points of energy.
 - lineNum: 434
   raw: buffSkillTree054_000	雁行千里	若施展雁行功，4回合内，增加自身轻功10点	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		buffSkillTree054_000
   translated: 
@@ -4624,7 +4624,7 @@
   splits:
   - split: 1
     text: 盘龙
-    translated: Pán Lóng
+    translated: Pan Long
   - split: 2
     text: 银龙远鸣的功击范围增加
     translated: The range of Silver Dragon's power strike increases.
@@ -4637,7 +4637,7 @@
     translated: Open Yang Wuqiu
   - split: 2
     text: 剑法+4，每回合尚未移动前施展瑶光破军，威力提升3%
-    translated: Swordsmanship +4, before moving each turn, casts Yuánguāng Pòjūn to increase its power by 3%.
+    translated: Swordsmanship +4, before moving each turn, casts Yuanguang Pojun to increase its power by 3%.
 - lineNum: 464
   raw: buffSkillTree071_003	玉衡廉贞	剑法+4，每回合尚未移动前施展瑶光破军，威力提升6%	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -4647,7 +4647,7 @@
     translated: Yuheng Lianzhen
   - split: 2
     text: 剑法+4，每回合尚未移动前施展瑶光破军，威力提升6%
-    translated: Sword skill +4, before moving in each turn, performs Yuánguāng Pòjūn to increase its power by 6%.
+    translated: Sword skill +4, before moving in each turn, performs Yuanguang Pojun to increase its power by 6%.
 - lineNum: 465
   raw: buffSkillTree071_004	天权文曲	剑法+4，每回合尚未移动前施展瑶光破军，威力提升9%	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -4914,7 +4914,7 @@
   splits:
   - split: 1
     text: 沉着
-    translated: Calm and composed
+    translated: Calmly composed
   - split: 2
     text: 施展天南势时，额外增加自身的累积反击率5点
     translated: When executing Tian Nan Style, the character's accumulated counterattack rate is increased by an additional five points.
@@ -5047,7 +5047,7 @@
     translated: Alone, I hum to the reeds in the grove.
   - split: 2
     text: 若以严冰肃冬作为反击技，每回合额外累积反击率6点
-    translated: If Yán Bīng Sù Dōng is used as a counterattack skill, an additional 6 points of counterattack rate are accumulated per round.
+    translated: If Yan Bing Su Dong is used as a counterattack skill, an additional 6 points of counterattack rate are accumulated per round.
 - lineNum: 505
   raw: buffSkillTree081_008	铁枝缀玉	若施展严冰肃冬，自身卸劲率提升5点	0		0	FALSE	0	FALSE	0	0		buffSkillTree081_008
   translated: 
@@ -5087,7 +5087,7 @@
     translated: Yue'e runs towards the heavens without regret.
   - split: 2
     text: 出招前的移动距离越长，玉娥奔天终不悔的威力越强
-    translated: The farther the movement before executing a technique, the stronger the power of Yü-ê's Dash to the Heavens.
+    translated: The farther the movement before executing a technique, the stronger the power of Yu-e's Dash to the Heavens.
 - lineNum: 509
   raw: buffSkillTree085_009	攀仙桂	欲攀仙桂蟾宫去的消耗精力增加1点、威力增加120点、分筋值额外增加6点	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -5117,7 +5117,7 @@
     translated: Never regret it.
   - split: 2
     text: 玉娥奔天终不悔的消耗精力减少1点
-    translated: Yü'e runs up to the sky without regret, losing 1 point of energy.
+    translated: Yu'e runs up to the sky without regret, losing 1 point of energy.
 - lineNum: 512
   raw: buffSkillTree084_000	天水毒蟾	可捕捉天水毒蟾并炼制天水蟾蜍毒。根据记载，天水毒蟾多生长于阴湿洞穴	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -5257,7 +5257,7 @@
     translated: Flying Snow
   - split: 2
     text: 飞雪神箭额外附加5点外伤值
-    translated: Fēi xuě shén jiàn additional +5 points of external damage value.
+    translated: Fei xue shen jian additional +5 points of external damage value.
 - lineNum: 526
   raw: buffSkillTree088_005	神箭	飞雪神箭的威力增强	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -5274,7 +5274,7 @@
   splits:
   - split: 1
     text: 飞雪
-    translated: Fēi xuě
+    translated: Fei xue
   - split: 2
     text: 飞雪神箭额外附加5点外伤值
     translated: Flying Snow Divine Arrow provides an additional 5 points of external damage value.
@@ -5287,7 +5287,7 @@
     translated: Twined Serpents
   - split: 2
     text: 若同时装备凄花、鸩翎，施展双蛇缠绕所造成的伤害增加
-    translated: If both Qīhuā and Zhèn líng are equipped simultaneously, the damage caused by using Dual Serpent Coils is increased.
+    translated: If both Qihua and Zhen ling are equipped simultaneously, the damage caused by using Dual Serpent Coils is increased.
 - lineNum: 529
   raw: buffSkillTree089_005	千回百转	若装备凄花，施展灵蛇刀所造成的伤害增加	0		0	FALSE	0	FALSE	0	0		buffSkillTree089_005
   translated: 
@@ -5324,10 +5324,10 @@
   splits:
   - split: 1
     text: 蛇影万馈
-    translated: Shé yǐng wàn kuì
+    translated: She ying wan kui
   - split: 2
     text: 碧蛇刀附加迷惑值8点
-    translated: Bìshédāo adds an additional confusion value of 8 points.
+    translated: Bishedao adds an additional confusion value of 8 points.
 - lineNum: 533
   raw: buffSkillTree091_004	瘟灾	严冬惨切的中毒值额外增加4点	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -5447,7 +5447,7 @@
     translated: Heaven and Earth, the Universe
   - split: 2
     text: 中招者会将攻击目标转移为施招者；以坤德无咎反击时，伤害增加20%，
-    translated: The target of the attack is transferred to the user when afflicted; damage increases by 20% when counterattacking with Kūndé Wújiù.
+    translated: The target of the attack is transferred to the user when afflicted; damage increases by 20% when counterattacking with Kunde Wujiu.
 - lineNum: 545
   raw: buffSkillTree093_004	万物资始	以乾元行健攻击敌人，中招者会将攻击目标转移为施招者	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -5694,7 +5694,7 @@
   splits:
   - split: 1
     text: 任法绝情
-    translated: Rén Fǎ Juéqíng
+    translated: Ren Fa Jueqing
   - split: 2
     text: 雷令风行的威力增强、击退距离增加
     translated: The power of the Thunder Command Order's influence is enhanced, and its knockback distance is increased.
@@ -5764,7 +5764,7 @@
   splits:
   - split: 1
     text: 辟天地
-    translated: Open the heavens and earth.
+    translated: ''
   - split: 2
     text: 开辟鸿蒙的范围扩大
     translated: Expanding the scope of establishing the primordial universe.
@@ -5847,7 +5847,7 @@
     translated: Spring clouds are misty.
   - split: 2
     text: 施展玉女投梭、绕指柔剑时，卸劲率提升
-    translated: While performing the Yu Nü Throw Shuttle and Ruo Zhi Soft Sword techniques, Shi Zhan experienced an increase in his energy release rate.
+    translated: While performing the Yu Nu Throw Shuttle and Ruo Zhi Soft Sword techniques, Shi Zhan experienced an increase in his energy release rate.
 - lineNum: 585
   raw: buffSkillTree104_007	蹑飞尘	移动后施展一剑凌尘，威力更强	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -5894,7 +5894,7 @@
   splits:
   - split: 1
     text: 棍星枪放麒麟步
-    translated: Gùnxīng qiāng fàng qílín bù
+    translated: Gunxing qiang fang qilin bu
   - split: 2
     text: 五郎棍的范围扩大
     translated: The range of the Five-Lord Staff expands.
@@ -6014,7 +6014,7 @@
   splits:
   - split: 1
     text: 飞花
-    translated: Fēihuā
+    translated: Feihua
   - split: 2
     text: 漫天飞沙、满天花雨，额外附加迷惑值
     translated: Blinding sandstorms swirling in the sky, accompanied by a flurry of blossoms, with an additional confusion value.
@@ -6054,7 +6054,7 @@
   splits:
   - split: 1
     text: 飞花
-    translated: Fēihuā
+    translated: Feihua
   - split: 2
     text: 暴雨梨花附加晕眩值8点
     translated: Torrential rain combined with plum blossom aura adds an additional dizziness value of 8 points.
@@ -6084,7 +6084,7 @@
   splits:
   - split: 1
     text: 鬼蜮
-    translated: Ghost Bandits
+    translated: Ghost Snakes
   - split: 2
     text: 若以鬼蜮难测为反击技，则黄雀在后的发动机率提升5%
     translated: If Trickery of the Evil Spirit is used as a counter-attack technique, the activation rate for Quail from Behind increases by 5%.
@@ -6307,7 +6307,7 @@
     translated: Rivers flow ceaselessly.
   - split: 2
     text: 怒川游鱼掌额外附加5点内伤
-    translated: Nùchuān Yuányú's Palm grants an additional 5 points of internal injury.
+    translated: Nuchuan Yuanyu's Palm grants an additional 5 points of internal injury.
 - lineNum: 631
   raw: buffSkillTree123_004	河底摸鱼	怒川游鱼掌额外附加5点晕眩	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -6317,7 +6317,7 @@
     translated: Fishing in the riverbed.
   - split: 2
     text: 怒川游鱼掌额外附加5点晕眩
-    translated: Núchuān Yóuyú's Palm adds an extra 5 points of dizziness.
+    translated: Nuchuan Youyu's Palm adds an extra 5 points of dizziness.
 - lineNum: 632
   raw: buffSkillTree123_007	如鱼得水	施展怒川游鱼掌背袭敌人，额外附加5点晕眩、5点内伤	0		0	FALSE	0	FALSE	0	0		buffSkillTree123_007
   translated: 
@@ -6514,7 +6514,7 @@
   splits:
   - split: 1
     text: 云横秦岭
-    translated: Yún hé Qín Lǐng
+    translated: Yun he Qin Ling
   - split: 2
     text: 阳煦山立、朝阳丹凤的威力增强
     translated: The power of Yang Xu Mountain standing and the dawn phoenix has been enhanced.
@@ -6564,7 +6564,7 @@
   splits:
   - split: 1
     text: 斗折
-    translated: Clashing and Breaking
+    translated: Douzhe
   - split: 2
     text: 斗折蛇行的消耗精力减少1点
     translated: Dueling with a serpentine movement reduces energy consumption by 1 point.
@@ -6584,7 +6584,7 @@
   splits:
   - split: 1
     text: 晔兮如华
-    translated: Yuè xi xī rú huā
+    translated: Yue xi xi ru hua
   - split: 2
     text: 软玉温香附加4点迷惑值
     translated: Silky Soft Warmness with an Additional 4 Points of Confusion Value
@@ -6707,14 +6707,14 @@
     translated: Green Dragon
   - split: 2
     text: 若以六合刀、四象刀为反击技，每回合增加10点反击率
-    translated: If using the Liuhé Sword and Sìxiàng Sword as counterattack techniques, increase the counterattack rate by 10 points per turn.
+    translated: If using the Liuhe Sword and Sixiang Sword as counterattack techniques, increase the counterattack rate by 10 points per turn.
 - lineNum: 671
   raw: buffSkillTree135_005	玄武	六合刀、四象刀的消耗内力减半	0		0	FALSE	0	FALSE	0	0		0
   translated: 
   splits:
   - split: 1
     text: 玄武
-    translated: Xuánwǔ
+    translated: Xuanwu
   - split: 2
     text: 六合刀、四象刀的消耗内力减半
     translated: The consumption of internal energy is halved with the Six Harmonies Sword and Four Symbols Sword.
@@ -6877,7 +6877,7 @@
     translated: Bing Xin's Poison Antidote Pill
   - split: 2
     text: 学会冰心解毒丸的配方
-    translated: Learn the formula for Hóng Xīn's ice heart antidote pill.
+    translated: Learn the formula for Hong Xin's ice heart antidote pill.
 - lineNum: 688
   raw: buffSkillTree142_008	尝百草	服用药草、丹药时，回复效果更佳	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -6894,7 +6894,7 @@
   splits:
   - split: 1
     text: 婵娟一剑
-    translated: Chánjuān's Single Sword Stroke
+    translated: Chanjuan's Single Sword Stroke
   - split: 2
     text: 以婵娟一剑反击，招式伤害增加。婵娟一剑威力不受内功影响
     translated: Jian Juan counters with a single strike, increasing the damage of her technique. The power of Jian Juan's single strike is not affected by internal strength.
@@ -6944,7 +6944,7 @@
   splits:
   - split: 1
     text: 破刀
-    translated: ''
+    translated: Broken Blade
   - split: 2
     text: 面对刀法招式并以婵娟一剑反击时，必先闪避敌招后再进行反击
     translated: When countering an enemy's sword technique with a single swift stroke of the Feather Dance, it is essential to first evade the enemy's attack before executing the counterattack.
@@ -7024,7 +7024,7 @@
   splits:
   - split: 1
     text: 千堆雪
-    translated: Thousand Piles of Snow
+    translated: ''
   - split: 2
     text: 自身轻功越高，千堆雪的威力越强
     translated: The higher one's martial arts skill in agility, the stronger the power of Qianpai Xue.
@@ -7034,7 +7034,7 @@
   splits:
   - split: 1
     text: 千堆雪
-    translated: Thousand Piles of Snow
+    translated: ''
   - split: 2
     text: 自身轻功越高、出招前的移动距离越长，千堆雪的威力越强
     translated: The more advanced one's lightness and the longer the distance moved before making a move, the greater the power of Qian Tui Xue.
@@ -7224,7 +7224,7 @@
   splits:
   - split: 1
     text: 迁识
-    translated: Recognize and understand.
+    translated: ''
   - split: 2
     text: 运行那洛六法时，每回合增加自身暴击率6点
     translated: When activated with Nuo Luo's Six Rules, increase critical hit rate by 6 points each turn.
@@ -7424,7 +7424,7 @@
   splits:
   - split: 1
     text: 白云熊胆丸
-    translated: Bái Yún Xióng Dǎn Wán
+    translated: Bai Yun Xiong Dan Wan
   - split: 2
     text: 学会白云熊胆丸的配方
     translated: Learn the recipe for Baiyun Xiong Dan Wan.
@@ -7444,10 +7444,10 @@
   splits:
   - split: 1
     text: 维南有箕
-    translated: Wēinán has a winnowing basket.
+    translated: Weinan has a winnowing basket.
   - split: 2
     text: 若以斗转星移作为反击技，每回合额外累积25点反击值
-    translated: If using Dòuzhuan Xīngyí as a counterattack skill, accumulate an additional 25 points of counterattack value each turn.
+    translated: If using Douzhuan Xingyi as a counterattack skill, accumulate an additional 25 points of counterattack value each turn.
 - lineNum: 745
   raw: buffSkillTree153_002	维北有斗	若以斗转星移作为反击技，每次受击额外累积25点反击值	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -7457,7 +7457,7 @@
     translated: Wei Bei has a fight.
   - split: 2
     text: 若以斗转星移作为反击技，每次受击额外累积25点反击值
-    translated: If using Dòuzhuǎn Xīnyí as a counterattack technique, an additional 25 points of counterattack value are accumulated each time it is struck.
+    translated: If using Douzhuan Xinyi as a counterattack technique, an additional 25 points of counterattack value are accumulated each time it is struck.
 - lineNum: 746
   raw: buffSkillTree154_000	太玄神功	运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加12点	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
   translated: 
@@ -7547,7 +7547,7 @@
     translated: Defy the Buddha
   - split: 2
     text: 沙门天孤星、落发闹禅林额外附加击退时序效果
-    translated: Shamans Tian Gu Xing and the monk Lü Fa Naochanlin have an additional effect of pushing back the action sequence.
+    translated: Shamans Tian Gu Xing and the monk Lu Fa Naochanlin have an additional effect of pushing back the action sequence.
 - lineNum: 755
   raw: buffSkillTree157_010	喝观音	沙门天孤星、落发闹禅林额外附加击退效果	0		0	FALSE	0	FALSE	0	0		0
   translated: 
@@ -7634,7 +7634,7 @@
   splits:
   - split: 1
     text: 太清罡气
-    translated: Taiqing gāng qì
+    translated: Taiqing gang qi
   - split: 2
     text: 每回合回复气血4%，回复内伤10%
     translated: Recover 4% of your health and recover 10% of internal damage each round.
@@ -7724,7 +7724,7 @@
   splits:
   - split: 1
     text: 灼然玉举
-    translated: Zhàorán Yù Jǔ
+    translated: Zhaoran Yu Ju
   - split: 2
     text: 浑金自成、烁石流金附加外伤效果
     translated: Pure gold naturally forms, with additional injury effects from glittering stones that can flow like molten gold.
@@ -8174,7 +8174,7 @@
   splits:
   - split: 1
     text: 麻花劲
-    translated: Cotton Candy Strength
+    translated: Sesame twist strength
   - split: 2
     text: 施展转劲带动敌人，指东打西的发动率提升
     translated: Shi Zhan's momentum shift increases the enemy's rate of disorganized attack.
@@ -8284,7 +8284,7 @@
   splits:
   - split: 1
     text: 蛛毒手
-    translated: Spider Venom Hand
+    translated: ''
   - split: 2
     text: 自身的毒术愈高，对敌人造成的中毒与晕眩值越高；角色越邪恶，威力越强。
     translated: The higher one's mastery of poison techniques, the greater the poisoning and dizziness inflicted on enemies; the more evil a character is, the stronger their power.
@@ -8404,7 +8404,7 @@
   splits:
   - split: 1
     text: 沥血披肝
-    translated: Lí xuè pī gān
+    translated: Li xue pi gan
   - split: 2
     text: 若以血海尸山击杀敌人，自身精力回复2点
     translated: If you kill enemies amidst a sea of corpses and rivers of blood, your own energy is restored by 2 points.
@@ -8444,7 +8444,7 @@
   splits:
   - split: 1
     text: 崩山劲
-    translated: Bengshan Jìn
+    translated: Bengshan Jin
   - split: 2
     text: 功击力增强8%
     translated: Attack Power Increased by 8%
@@ -9134,7 +9134,7 @@
   splits:
   - split: 1
     text: 飞虹剑阵
-    translated: Fēihóng Jiànzhèn
+    translated: Feihong Jianzhen
   - split: 2
     text: 依发动阵法人数提升战斗能力。
     translated: Increase battle ability by deploying the formation according to the number of participants.
@@ -9254,7 +9254,7 @@
   splits:
   - split: 1
     text: 飞镖阵
-    translated: ''
+    translated: Feidao Zhen
   - split: 2
     text: 受到飞镖阵法影响，降低轻功能力。
     translated: Affected by the dart formation technique, reduces light functional power.
@@ -9514,7 +9514,7 @@
   splits:
   - split: 1
     text: 禾郁青血量判断BUFF
-    translated: Hé Yù Qīng's Blood Volume Judgment Buff
+    translated: He Yu Qing's Blood Volume Judgment Buff
   - split: 2
     text: 隐藏buff，50%血血量判断、出对话
     translated: Hidden buff, judgment based on blood volume at 50%, initiate dialogue.
@@ -9524,7 +9524,7 @@
   splits:
   - split: 1
     text: 禾泓渊血量判断BUFF
-    translated: Hé Hóng Yuān's Blood Volume Judgement BUFF
+    translated: He Hong Yuan's Blood Volume Judgement BUFF
   - split: 2
     text: 隐藏buff，50%血血量判断、出对话
     translated: Hidden buff, determine dialogue when at 50% health.
@@ -9857,7 +9857,7 @@
     translated: Battlefield support!
   - split: 2
     text: 在家人的鼓舞下，骆元玉的功力大增！
-    translated: Under the encouragement of family, Lü Yuanyu's power greatly increased!
+    translated: Under the encouragement of family, Lu Yuanyu's power greatly increased!
 - lineNum: 986
   raw: BattleSchedule087	你这个叛徒！	青城派弟子怒火中烧，要狠狠修理张君宝一顿	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule087
   translated: 
@@ -9914,7 +9914,7 @@
   splits:
   - split: 1
     text: 点苍剑阵
-    translated: Diāncáng Jiànzhèn
+    translated: Diancang Jianzhen
   - split: 2
     text: 依阵法人数提升技能伤害、反击、回血
     translated: Enhance damage, counterattack, and healing based on the number of people in formation.
@@ -9924,7 +9924,7 @@
   splits:
   - split: 1
     text: 点苍剑阵
-    translated: Diān Cāng Sword Formation
+    translated: Dian Cang Sword Formation
   - split: 2
     text: 依阵法人数提升技能伤害、反击、回血
     translated: 'Based on formation law, increase the number of people in skills: damage, counterattack, and healing.'
@@ -9997,7 +9997,7 @@
     translated: Protective of his sister's heart
   - split: 2
     text: 敏婆婆暴怒！
-    translated: Aunt Mǐn is furious!
+    translated: Aunt Min is furious!
 - lineNum: 1000
   raw: BattleSchedule101	异常兴奋	毒蛇异常兴奋，攻击力上升	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule101
   translated: 
@@ -10137,7 +10137,7 @@
     translated: Gah—!!
   - split: 2
     text: 雪翼雕有恃无恐，前来袭击聚落，愈战愈强！
-    translated: Xuè Yì Diāo has become so brazen that he attacks the settlement, getting stronger with every battle!
+    translated: Xue Yi Diao has become so brazen that he attacks the settlement, getting stronger with every battle!
 - lineNum: 1014
   raw: BattleSchedule505	嘎啊……！！	雪翼雕身中麻痹剧毒，陷入衰弱…攻击伤害与精力恢复减弱，并累积中毒值20点！	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule505
   translated: 
@@ -10147,7 +10147,7 @@
     translated: Aghhh…!!!!
   - split: 2
     text: 雪翼雕身中麻痹剧毒，陷入衰弱…攻击伤害与精力恢复减弱，并累积中毒值20点！
-    translated: Xuē Yì, having been poisoned and paralyzed, is in a state of exhaustion. Attack damage and energy recovery are reduced, accumulating 20 points of poison!
+    translated: Xue Yi, having been poisoned and paralyzed, is in a state of exhaustion. Attack damage and energy recovery are reduced, accumulating 20 points of poison!
 - lineNum: 1015
   raw: BattleSchedule506	为猎鹰报仇！	鹰猎人复仇心切，招式伤害增加	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule506
   translated: 
@@ -10207,7 +10207,7 @@
     translated: Tired
   - split: 2
     text: 雪翼雕体力不支，显露疲惫…攻击伤害减弱，并累积迷惑值10点
-    translated: Xuě Yì, in a state of depleted energy and fatigue, experiences reduced damage output from attacks while accumulating 10 points of confusion.
+    translated: Xue Yi, in a state of depleted energy and fatigue, experiences reduced damage output from attacks while accumulating 10 points of confusion.
 - lineNum: 1021
   raw: BattleSchedule512	虚弱	雪翼雕失血过多，愈发虚弱…精力恢复降低，并累积晕眩值10点	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule512
   translated: 
@@ -10217,7 +10217,7 @@
     translated: Weakened
   - split: 2
     text: 雪翼雕失血过多，愈发虚弱…精力恢复降低，并累积晕眩值10点
-    translated: Xuē Yì Diāo has lost a lot of blood and is becoming increasingly weak... Energy recovery has decreased, accumulating dizziness at 10 points.
+    translated: Xue Yi Diao has lost a lot of blood and is becoming increasingly weak... Energy recovery has decreased, accumulating dizziness at 10 points.
 - lineNum: 1022
   raw: BattleSchedule513	浴血奋战	图勒为不负使命，浴血奋战	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule513
   translated: 
@@ -10267,7 +10267,7 @@
     translated: Ambition for power acquisition
   - split: 2
     text: 木奎的战斗能力大幅提升，并持续恢复自身气血！
-    translated: Mukuì's combat abilities have significantly improved, and he continues to recover his own Qi and blood!
+    translated: Mukui's combat abilities have significantly improved, and he continues to recover his own Qi and blood!
 - lineNum: 1027
   raw: BattleSchedule518	「干戈」	木奎身陷危境，孤枪奋战！战斗能力大幅提升，并持续恢复自身气血！	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518
   translated: 
@@ -10544,7 +10544,7 @@
   splits:
   - split: 1
     text: 飞鹰猎手
-    translated: Fēiyīng Lièshǒu
+    translated: Feiying Lieshou
   - split: 2
     text: 因阿得阿克在场，自身弓箭伤害增加15%
     translated: With Adeac present on the field, your archery damage is increased by 15%.
@@ -10554,7 +10554,7 @@
   splits:
   - split: 1
     text: 飞鹰猎手
-    translated: Fēiyīng Lièshǒu
+    translated: Feiying Lieshou
   - split: 2
     text: 因阿得阿克在场，自身弓箭伤害增加40%
     translated: When Adak is present, personal bow and arrow damage increases by 40%.
@@ -10624,7 +10624,7 @@
   splits:
   - split: 1
     text: 兰蕙解语
-    translated: Lán Huì Jiěyǔ
+    translated: Lan Hui Jieyu
   - split: 2
     text: 颜玉书在场上时，所有队友的攻击力提升50%
     translated: When Yan Yushu is on the field, all teammates' attack power increases by 50%.
@@ -10664,7 +10664,7 @@
   splits:
   - split: 1
     text: 马帮千金
-    translated: Mǎ Fèng's thousandth daughter
+    translated: Ma Feng's thousandth daughter
   - split: 2
     text: 每次受击所累积的爆击率增加10%，暴击伤害提升50%
     translated: Each time a critical hit is taken, the critical rate increases by 10%, and the damage of critical hits is increased by 50%.
@@ -10894,7 +10894,7 @@
   splits:
   - split: 1
     text: 风王阵
-    translated: Fēng Wáng Zhèn
+    translated: Feng Wang Zhen
   - split: 2
     text: 因百里惮赫在场，每次攻击后，提升爆击率5%，发动爆击时，回复精力1点
     translated: With Bai Lidi Huo present, each attack increases the critical hit rate by 5%, and upon executing a critical hit, recover 1 point of energy.
@@ -11037,7 +11037,7 @@
     translated: Turbulent waves of surprise
   - split: 2
     text: 惊波刀法与狂澜绝刀势刀法威力+30%
-    translated: Jīngbō dāofǎ yǔ kuánglán jué dāoshì dāofǎ wēilì + 30%.
+    translated: Jingbo daofa yu kuanglan jue daoshi daofa weili + 30%.
 - lineNum: 1104
   raw: nick032	五虎断门刀	五虎断门刀刀法威力+30%	0	nickname	0	TRUE	0	FALSE	0	0		nick032
   translated: 
@@ -11057,7 +11057,7 @@
     translated: ''
   - split: 2
     text: 四象刀刀法威力+30%
-    translated: Sì Xiàng Dāo dāofǎ wēilì +30%.
+    translated: Si Xiang Dao daofa weili +30%.
 - lineNum: 1106
   raw: nick034	三才刀	三才刀刀法威力+30%	0	nickname	0	TRUE	0	FALSE	0	0		nick034
   translated: 
@@ -11484,7 +11484,7 @@
   splits:
   - split: 1
     text: 「西川兵马指挥使」
-    translated: Xī Chuān Commander-in-Chief of Military Affairs
+    translated: Xi Chuan Commander-in-Chief of Military Affairs
   - split: 2
     text: 对自身周围距离3个单位内敌方，每回合降低所有特技值25点
     translated: Reduce all skill values of enemy targets within a 3-unit radius by 25 points each turn.
@@ -11614,7 +11614,7 @@
   splits:
   - split: 1
     text: 「霜发罗煞」
-    translated: Sage-Haired Luóshà
+    translated: Sage-Haired Luosha
   - split: 2
     text: 当敌人在自身反击范围内攻击友方时，有25%机率对该敌人进行反击
     translated: When an enemy attacks a friendly target within their counter-attack range, there is a 25% chance to launch a counter-attack against that enemy.
@@ -11897,7 +11897,7 @@
     translated: Bai Wen
   - split: 2
     text: 鳄鱼王「白纹」现在任你差遣！
-    translated: Crocodile King Bái Wén is now at your service!
+    translated: Crocodile King Bai Wen is now at your service!
 - lineNum: 1190
   raw: nick600buff	「北侠」	北侠之名，威震中原，拳掌与弓箭威力上升25%，而且有50%机会对敌人造成2次伤害。	0	nickname	0	TRUE	0	FALSE	0	0		nick600
   translated: 
@@ -12724,7 +12724,7 @@
   splits:
   - split: 1
     text: 墨玉飞雪
-    translated: Mòyù Fēixuě
+    translated: Moyu Feixue
   - split: 2
     text: 攻击后，增加自身虚招率3点，30%机率增加自身精力2点
     translated: After attacking, increase own feigning rate by 3 points; with a 30% chance to additionally increase own energy by 2 points.
@@ -12734,7 +12734,7 @@
   splits:
   - split: 1
     text: 墨玉飞雪
-    translated: Mòyù Fēixuě
+    translated: Moyu Feixue
   - split: 2
     text: 攻击后，增加自身虚招率6点，30%机率增加自身精力2点
     translated: After attacking, increase own feigning rate by 6 points; 30% chance to increase own energy by 2 points.
@@ -12744,7 +12744,7 @@
   splits:
   - split: 1
     text: 墨玉飞雪
-    translated: Mòyù Fēixuě
+    translated: Moyu Feixue
   - split: 2
     text: 攻击后，增加自身虚招率12点，30%机率增加自身精力3点
     translated: After the attack, increase self's feint rate by 12 points; 30% chance to increase self's Qi by 3 points.
@@ -12754,7 +12754,7 @@
   splits:
   - split: 1
     text: 墨玉芙蓉
-    translated: Mòyù Fúróng
+    translated: Moyu Furong
   - split: 2
     text: 攻击后，增加自身虚招率8点，30%机率增加自身精力1点
     translated: After the attack, increase own fake move rate by 8 points; 30% chance to increase own energy by 1 point.
@@ -12764,7 +12764,7 @@
   splits:
   - split: 1
     text: 墨玉芙蓉
-    translated: Mòyù Fúróng
+    translated: Moyu Furong
   - split: 2
     text: 攻击后，增加自身虚招率16点，30%机率增加自身精力1点
     translated: After attacking, increase the user's evasion rate by 16 points and have a 30% chance to increase their stamina by 1 point.
@@ -12774,7 +12774,7 @@
   splits:
   - split: 1
     text: 墨玉芙蓉
-    translated: Móyù Fúróng
+    translated: Moyu Furong
   - split: 2
     text: 攻击后，增加自身虚招率24点，30%机率增加自身精力2点
     translated: After the attack, increase self's feigning rate by 24 points, with a 30% chance to additionally increase own Qi by 2 points.
@@ -12844,7 +12844,7 @@
   splits:
   - split: 1
     text: 七星剑
-    translated: ''
+    translated: Qi Xing Jian
   - split: 2
     text: 攻击后，增加自身反击率7点
     translated: After attacking, increase self's counterattack rate by 7 points.
@@ -12854,7 +12854,7 @@
   splits:
   - split: 1
     text: 七星剑
-    translated: ''
+    translated: Qi Xing Jian
   - split: 2
     text: 攻击后，增加自身反击率14点
     translated: After attacking, increase self counterattack rate by 14 points.
@@ -13004,7 +13004,7 @@
   splits:
   - split: 1
     text: 定天山
-    translated: Mount Dīngtiān
+    translated: Mount Dingtian
   - split: 2
     text: 攻击后增加自身爆击率12点
     translated: After attack, increase self's critical rate by 12 points.

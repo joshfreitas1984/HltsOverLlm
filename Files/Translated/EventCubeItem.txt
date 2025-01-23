@@ -263,7 +263,7 @@
   splits:
   - split: 1
     text: 玄天武诀秘籍
-    translated: Xuántiān Wǔjué Mìjí
+    translated: Xuantian Wujue Miji
 - lineNum: 38
   raw: 'm00018g	北冥真经	MouseEventBox		Survey	54.25, 139, 980.66	1, 1, 1	1, 1, 1	0, 0, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f0001207", 3, 2} , { "CheckFlagAction" : "f00008", 2, 3}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m0001807000"}  ]} 	0'
   translated: 
@@ -452,7 +452,7 @@
   splits:
   - split: 1
     text: 蜡烛
-    translated: Candle
+    translated: ''
 - lineNum: 65
   raw: 'm00027	逆天改命	EventBox		None	112.308, 140.235, 964.405	1, 1, 1	1, 2.604494, 3.102161	0, 0, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q00013_02", 0, True}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m00011"}  ]} 	0'
   translated: 
@@ -550,7 +550,7 @@
   splits:
   - split: 1
     text: 蜡烛
-    translated: Candle
+    translated: ''
 - lineNum: 79
   raw: 'm00034	来路不明的木盒	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_046.prefab	Pick	-1505.414, 62.645, 594.163	1, 1, 1	1, 1, 1	270, 127.9546, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q07003", 0, False} , { "QuestCondition" : "Q07003", 1, False}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m0003401000"}  ]} 	0'
   translated: 
@@ -683,21 +683,21 @@
   splits:
   - split: 1
     text: 假拉柄
-    translated: Imitation handle
+    translated: Assuming role as a placeholder.
 - lineNum: 98
   raw: m00036d	拉柄座	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/gear/gear_010_B_02.prefab	None	112.727, 90.563, -262.511	1, 1, 1	1, 1, 1	0, 72.07901, 270	False	0		0	0	0
   translated: 
   splits:
   - split: 1
     text: 拉柄座
-    translated: Cane handle seat.
+    translated: ''
 - lineNum: 99
   raw: 'm00036e	拉柄	MouseEventBox		Survey	113.608, 90.563, -262.226	1, 1, 1	2, 2, 2	0, 72.07901, 0	True	0		0	{ "MultiAction" : [ { "RunMovieAction" : "m00036b"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 拉柄
-    translated: Handle grip
+    translated: ''
 - lineNum: 100
   raw: m00036f	地板外观	MouseEventBox	Resources_Art/Art3D/3rdPackage/DesertedVillage/prefabs/planks_02.prefab	None	188.766, 104.03, -297.583	3, 3, 3	1.042361, 1.042361, 1.042361	0, 48.51599, 0	False	0		0	0	0
   translated: 
@@ -844,7 +844,7 @@
   splits:
   - split: 1
     text: 赤丹佛
-    translated: Chìdānfó
+    translated: Chidanfo
 - lineNum: 121
   raw: 'm00045	凌霜峻失踪	EventBox		None	-854.89, 160.8, 187.57	1, 1, 1	21, 5, 12	0, 102.103, 0	False	0		{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t00011", False} , { "CheckFlagAction" : "f00043", 1, 0}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m0999704"}  ]} 	0'
   translated: 
@@ -935,7 +935,7 @@
   splits:
   - split: 1
     text: 赤丹BOSS
-    translated: Chì Dān BOSS
+    translated: Chi Dan BOSS
 - lineNum: 134
   raw: 'm00055	一迭古书	MouseEventBox		Survey	-1118.382, 119.561, 880.301	1, 1, 1	2, 1.5, 2	0, 357.3386, 0	False	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m0005501000"}  ]} 	0'
   translated: 
@@ -1306,7 +1306,7 @@
   splits:
   - split: 1
     text: 河图洛书1
-    translated: Hé Tú Luò Shū 1
+    translated: He Tu Luo Shu 1
 - lineNum: 187
   raw: 'm07004a	客人叫的酒	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_010_D.prefab	None	108.724, 90.849, -250.071	1, 1, 1	1, 1, 1	270, 0, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f00020", 1, 1}  ], 0} 	0	0'
   translated: 
@@ -1327,7 +1327,7 @@
   splits:
   - split: 1
     text: 河图洛书3
-    translated: Hé Tu Luò Shū 3
+    translated: He Tu Luo Shu 3
 - lineNum: 190
   raw: 'm07008	河图洛书4	EventBox		None	123.706, 91.365, -222.76	1, 1, 1	2.891149, 3.180879, 1	0, 340.5995, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q07001_04", 0, True} , { "TimeCondition" : 10, 21}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m07008"}  ]} 	0'
   translated: 
@@ -3287,7 +3287,7 @@
   splits:
   - split: 1
     text: 乌金
-    translated: Ujīn
+    translated: Ujin
 - lineNum: 470
   raw: 'm19998010	黄金	MouseEventBox	Resources_Art/Art3D/Ore/gold.prefab	Dig	-1138.512, 64.086, -483.493	0.2743379, 0.2385154, 0.1784655	1, 1, 1	336.8365, 79.42726, 339.7188	True	96		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70105", 1}  ]} 	0'
   translated: 
@@ -3721,7 +3721,7 @@
   splits:
   - split: 1
     text: 乌金
-    translated: Ujīn
+    translated: Ujin
 - lineNum: 532
   raw: 'm19998072	黄金	MouseEventBox	Resources_Art/Art3D/Ore/gold.prefab	Dig	-1269.767, 194.2343, 744.7304	1, 1, 1	1.599047, 1.599048, 1.599048	303.7082, 0, 0	True	100		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70105", 1}  ]} 	0'
   translated: 
@@ -3763,7 +3763,7 @@
   splits:
   - split: 1
     text: 乌金
-    translated: Ujīn
+    translated: Ujin
 - lineNum: 538
   raw: 'm19998078	赤铜	MouseEventBox	Resources_Art/Art3D/Ore/redcopper.prefab	Dig	-1098.456, 93.151, 1158.863	1, 1, 1	1, 1, 1	345.929, 351.4633, 323.1991	True	96		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70104", 1}  ]} 	0'
   translated: 
@@ -4008,7 +4008,7 @@
   splits:
   - split: 1
     text: 骨骸
-    translated: ''
+    translated: Skeletal remains
 - lineNum: 573
   raw: 'm19998113	骨骸	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Special/special_041_A.prefab	Pick	-748.35, 101.18, -1214.4	0.6467955, 0.581174, 0.3587772	1.3, 1.3, 1.3	275.591, 247.1526, 112.1725	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70302", 1}  ]} 	0'
   translated: 
@@ -4050,7 +4050,7 @@
   splits:
   - split: 1
     text: 乌金
-    translated: Ujīn
+    translated: Ujin
 - lineNum: 579
   raw: 'm19998119	紫金	MouseEventBox	Resources_Art/Art3D/Ore/violetgold.prefab	Dig	430.935, 95.257, -217.822	1, 1, 1	1, 1, 1	307.7642, 0.2328784, 351.5557	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70112", 1}  ]} 	0'
   translated: 
@@ -4183,7 +4183,7 @@
   splits:
   - split: 1
     text: 玄冰
-    translated: Xuán Bīng
+    translated: Xuan Bing
 - lineNum: 598
   raw: 'm19998138	寒晶	MouseEventBox	Resources_Art/Art3D/Ore/coldcrystal.prefab	Dig	970.25, 63.292, 1304.969	1, 1, 1	1, 1, 1	43.3572, 1.174237E-06, 335.4994	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70322", 1}  ]} 	0'
   translated: 
@@ -5009,7 +5009,7 @@
   splits:
   - split: 1
     text: 擎天寨操枪
-    translated: Qīngtiānzhài Cāo Qiāng
+    translated: Qingtianzhai Cao Qiang
 - lineNum: 716
   raw: 'm20018	擎天寨操刀	EventBox		None	-1466.53, 235.86, -361.61	50, 5, 50	44.57893, 3.75277, 56.57059	0, 359.149, 0	True	0		{ "LogicalNode" : [ { "TimeCondition" : 13, 20} , { "QuestCondition" : "Q20021_07", 1, False}  ], 0} 	{ "MultiAction" : [ { "RunScheduleAction" : "sc20031b", "n20031b", -1, ""} , { "RunScheduleAction" : "sc20031c", "n20031c", -1, ""} , { "RunScheduleAction" : "sc20031d", "n20031d", -1, ""} , { "RunScheduleAction" : "sc20031e", "n20031e", -1, ""} , { "RunScheduleAction" : "sc20031g", "n20031g", -1, ""} , { "RunScheduleAction" : "sc20031h", "n20031h", -1, ""} , { "RunScheduleAction" : "sc20031i", "n20031i", -1, ""} , { "RunScheduleAction" : "sc20031j", "n20031j", -1, ""} , { "RunScheduleAction" : "sc20031k", "n20031k", -1, ""} , { "RunScheduleAction" : "sc20031m", "n20031m", -1, ""} , { "RunScheduleAction" : "sc20031", "n20031", -1, ""} , { "RunScheduleAction" : "sc20031f", "n20031f", -1, ""}  ]} 	{ "MultiAction" : [ { "StopScheduleAction" : "n20031"} , { "StopScheduleAction" : "n20031b"} , { "StopScheduleAction" : "n20031c"} , { "StopScheduleAction" : "n20031d"} , { "StopScheduleAction" : "n20031e"} , { "StopScheduleAction" : "n20031f"} , { "StopScheduleAction" : "n20031g"} , { "StopScheduleAction" : "n20031h"} , { "StopScheduleAction" : "n20031i"} , { "StopScheduleAction" : "n20031j"} , { "StopScheduleAction" : "n20031k"} , { "StopScheduleAction" : "n20031m"}  ]} '
   translated: 
@@ -5107,7 +5107,7 @@
   splits:
   - split: 1
     text: 叶玉龙调戏禾郁茵
-    translated: Yè Yùlóng teases Huỳ Yīn.
+    translated: Ye Yulong teases Huy Yin.
 - lineNum: 730
   raw: 'm20033	大研四煞	EventBox		None	-612.52, 63.73, -905.72	1, 1, 1	15, 1.889263, 15	0, 330.2384, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20013", 0, True}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "v20015"}  ]} 	0'
   translated: 
@@ -5121,14 +5121,14 @@
   splits:
   - split: 1
     text: 商货
-    translated: ''
+    translated: Trade Goods
 - lineNum: 732
   raw: 'm20034b	商货	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_G.prefab	None	-1319.042, 144.609, -681.492	0.3640237, 0.4908372, 0.9019492	1, 1, 1	346.442, 257.8778, 90.00001	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20011_03", 0, True} , { "QuestCondition" : "Q20011_04", 0, True} , { "QuestCondition" : "Q20011_05", 0, True} , { "QuestCondition" : "Q20011_12", 0, True} , { "QuestCondition" : "Q20011_13", 0, True}  ], 1} 	0	0'
   translated: 
   splits:
   - split: 1
     text: 商货
-    translated: ''
+    translated: Trade Goods
 - lineNum: 733
   raw: 'm20034c	第一摊血迹	MouseEventBox	Resources_Art/Art3D/C&P/April_wish/blood/Prefab/blood.prefab	None	-1319.621, 144.581, -680.9041	1, 1, 1	1, 1, 1	279.4982, 52.12469, 308.262	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20011_03", 0, True} , { "QuestCondition" : "Q20011_04", 0, True} , { "QuestCondition" : "Q20011_05", 0, True} , { "QuestCondition" : "Q20011_12", 0, True} , { "QuestCondition" : "Q20011_13", 0, True}  ], 1} 	0	0'
   translated: 
@@ -5149,7 +5149,7 @@
   splits:
   - split: 1
     text: 商货
-    translated: Merchandise
+    translated: Trade Goods
 - lineNum: 736
   raw: 'm20034f	商货	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_D.prefab	None	-1320.194, 144.772, -682.779	0.7857254, 0.5077279, 0.2971992	1, 1, 1	270, 78.33535, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20011_03", 0, True} , { "QuestCondition" : "Q20011_04", 0, True} , { "QuestCondition" : "Q20011_05", 0, True} , { "QuestCondition" : "Q20011_12", 0, True} , { "QuestCondition" : "Q20011_13", 0, True}  ], 1} 	0	0'
   translated: 
@@ -5170,14 +5170,14 @@
   splits:
   - split: 1
     text: 商货
-    translated: ''
+    translated: Trade Goods
 - lineNum: 739
   raw: 'm20036b	商货	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_F.prefab	None	-1328.853, 140.537, -661.72	0.3237067, 0.4527969, 0.8821046	1, 1, 1	359.7927, 270, 90	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20011_03", 0, True} , { "QuestCondition" : "Q20011_04", 0, True} , { "QuestCondition" : "Q20011_05", 0, True} , { "QuestCondition" : "Q20011_12", 0, True} , { "QuestCondition" : "Q20011_13", 0, True}  ], 1} 	0	0'
   translated: 
   splits:
   - split: 1
     text: 商货
-    translated: Merchandise goods.
+    translated: Trade Goods
 - lineNum: 740
   raw: 'm20037	商货	MouseEventBox		Survey	-1357.457, 148.653, -654.838	0.3640237, 0.4908372, 0.9019492	1, 1.539686, 1.215983	332.1103, 282.3747, 110.2565	True	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20011_03", 0, True} , { "QuestCondition" : "Q20011_04", 0, True} , { "QuestCondition" : "Q20011_05", 0, True} , { "QuestCondition" : "Q20011_12", 0, True} , { "QuestCondition" : "Q20011_13", 0, True}  ], 1} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m2003401000"}  ]} 	0'
   translated: 
@@ -5191,7 +5191,7 @@
   splits:
   - split: 1
     text: 商货
-    translated: Merchandise goods.
+    translated: Trade Goods
 - lineNum: 742
   raw: 'm20037c	血迹1	MouseEventBox	Resources_Art/Art3D/C&P/April_wish/blood/Prefab/blood.prefab	None	-1357.633, 147.862, -655.527	1, 1, 1	1, 1, 1	296.3199, 135.0605, 221.799	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20011_03", 0, True} , { "QuestCondition" : "Q20011_04", 0, True} , { "QuestCondition" : "Q20011_05", 0, True} , { "QuestCondition" : "Q20011_12", 0, True} , { "QuestCondition" : "Q20011_13", 0, True}  ], 1} 	0	0'
   translated: 
@@ -5233,14 +5233,14 @@
   splits:
   - split: 1
     text: 商货
-    translated: Merchandise goods.
+    translated: Trade Goods
 - lineNum: 748
   raw: 'm20039b	商货	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_L.prefab	None	-1377.619, 136.7011, -598.0888	1, 1, 1	1, 1, 1	348.8658, 89.75771, 264.0425	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20011_03", 0, True} , { "QuestCondition" : "Q20011_04", 0, True} , { "QuestCondition" : "Q20011_05", 0, True} , { "QuestCondition" : "Q20011_12", 0, True} , { "QuestCondition" : "Q20011_13", 0, True}  ], 1} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m2003401000"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 商货
-    translated: Merchandise goods.
+    translated: Trade Goods
 - lineNum: 749
   raw: 'm20039c	尸体血迹	MouseEventBox	Resources_Art/Art3D/C&P/April_wish/blood/Prefab/blood.prefab	None	-1376.097, 136.633, -595.349	1, 1, 1	1, 1, 1	281.1815, 90, 270	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20011_03", 0, True} , { "QuestCondition" : "Q20011_04", 0, True} , { "QuestCondition" : "Q20011_05", 0, True} , { "QuestCondition" : "Q20011_12", 0, True} , { "QuestCondition" : "Q20011_13", 0, True}  ], 1} 	0	0'
   translated: 
@@ -5450,14 +5450,14 @@
   splits:
   - split: 1
     text: 墨玉芙蓉
-    translated: Mòyù Fúróng
+    translated: Moyu Furong
 - lineNum: 779
   raw: 'm20063	墨玉飞雪	MouseEventBox	Character/All_Accessories/Prefab/ac3a0005.prefab	Survey	-605.405, 71.828, -1132.248	1, 1, 1	1, 1, 1	22.07703, 359.4284, 359.1132	False	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "TimeCondition" : 23, 24} , { "TimeCondition" : 0, 6} , { "CheckTimeBlackboardAction" : "f2迷倒文解b", True}  ], 1} , { "CheckFlagAction" : "f2初遇文解", 1, 1} , { "CheckFlagAction" : "f2文解死", 3, 1} , { "CheckFlagAction" : "f2夜闖大雲庵", 3, 1}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m2006201001"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 墨玉飞雪
-    translated: Mòyù Fēixuě
+    translated: Moyu Feixue
 - lineNum: 780
   raw: 'm20064	文解房前放迷魂香	EventBox		None	-602.266, 70.54247, -1129.724	1, 1, 1	4.63249, 3.344879, 3.502945	0, 357.0651, 0	True	0		0	{ "MultiAction" : [ { "SetBlackboardAction" : "f2文解房前放迷魂香", 1, 2}  ]} 	{ "MultiAction" : [ { "SetBlackboardAction" : "f2文解房前放迷魂香", 0, 2}  ]} '
   translated: 
@@ -5492,14 +5492,14 @@
   splits:
   - split: 1
     text: 擎天寨门口
-    translated: Qīng Tiān Zhài Ménkǒu
+    translated: Qing Tian Zhai Menkou
 - lineNum: 785
   raw: 'm20068	擎天寨旁墓地	EventBox		None	-1516.69, 230.45, -306.82	1, 1, 1	11.04331, 2.009685, 31.94562	0, 341.9524, 0	False	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m2006801000"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 擎天寨旁墓地
-    translated: Qīngtiān Zhài páng mùdì
+    translated: Qingtian Zhai pang mudi
 - lineNum: 786
   raw: 'm20069	佛像	MouseEventBox	Resources_Art/Art3D/3rdPackage/SculpturesPackVol2/Prefabs/SM_Statue14Concrete.prefab	Survey	-1521.907, 229.575, -314.303	1, 1, 1	1, 1, 1	0, 101.5772, 0	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m2006901000"}  ]} 	0'
   translated: 
@@ -5513,7 +5513,7 @@
   splits:
   - split: 1
     text: 禾泓渊房门口
-    translated: Hé Hóngyuān's residence entrance.
+    translated: He Hongyuan's residence entrance.
 - lineNum: 788
   raw: 'm20071	禾弘渊房门口	EventBox		None	-650.805, 66.998, -1086.296	1, 1, 1	1.723194, 1, 2.02283	0, 2.399214, 0	True	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20011_11", 0, False} , { "QuestCondition" : "Q20011_11", 1, False}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "v20085"}  ]} 	0'
   translated: 
@@ -5555,7 +5555,7 @@
   splits:
   - split: 1
     text: 禾家马帮看守禾郁青
-    translated: He family's Ma gang guards He Yü-ch'ing.
+    translated: He family's Ma gang guards He Yu-ch'ing.
 - lineNum: 794
   raw: 'm20077	禾家马帮看守禾郁青	EventBox		None	-662.257, 70.655, -1075.221	1, 1, 1	1, 2.293609, 2.187416	0, 0.7099593, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f2不插手禾家父女", 1, 1} , { "TimeCondition" : 7, 22} , { "QuestCondition" : "Q20021_06", 1, False}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "v20098"}  ]} 	0'
   translated: 
@@ -5576,7 +5576,7 @@
   splits:
   - split: 1
     text: 禾郁青房内
-    translated: Hé Yù Qīngfáng nèi
+    translated: He Yu Qingfang nei
 - lineNum: 797
   raw: 'm20080	山魈鬼窟	EventBox		None	-1089.927, 171.592, -1198.177	1, 1, 1	1, 6.08172, 5.015968	0, 329.5812, 0	False	0		0	{ "MultiAction" : [ { "RunMovieAction" : "v20101"}  ]} 	0'
   translated: 
@@ -5800,7 +5800,7 @@
   splits:
   - split: 1
     text: 大云庵正门
-    translated: Main Gate of Dàyún Ān
+    translated: Main Gate of Dayun An
 - lineNum: 829
   raw: m20113	大云庵椅子	MouseEventBox	Resources_Art/Art3D/3rdPackage/FISHING VILLAGE/Prefab/Chair5.prefab	None	699.611, 100.4155, 1519.636	1, 1, 1	0.5, 0.5, 0.5	0, 266.3206, 0	False	0		0	0	0
   translated: 
@@ -6192,7 +6192,7 @@
   splits:
   - split: 1
     text: 腐心草
-    translated: Fùxīncǎo
+    translated: Fuxincao
 - lineNum: 885
   raw: 'm20169	玄铁矿	MouseEventBox	Resources_Art/Art3D/Ore/meteoriciron.prefab	Dig	89.4, 128.65, -1329.5	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70109", 1}  ]} 	0'
   translated: 
@@ -6206,7 +6206,7 @@
   splits:
   - split: 1
     text: 大蜈蚣虹儿
-    translated: Giant Centipede Hóng'ér
+    translated: Giant Centipede Hong'er
 - lineNum: 887
   raw: 'm20171	天山雪莲	MouseEventBox	Resources_Art/Art3D/Herb/it40210.prefab	Collect	-1592.633, 255.796, -264.4683	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40210", 1}  ]} 	0'
   translated: 
@@ -6332,7 +6332,7 @@
   splits:
   - split: 1
     text: 乌金
-    translated: Ujīn
+    translated: Ujin
 - lineNum: 905
   raw: 'm21012	黑铁	MouseEventBox	Resources_Art/Art3D/Ore/blackiron.prefab	Dig	-116.9, 224.365, -1381.896	1, 1, 1	1, 1, 1	352.536, 110.2487, 19.39925	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70103", 1}  ]} 	0'
   translated: 
@@ -6444,7 +6444,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 921
   raw: 'm30002-2	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-356.7108, 66.939, -1065.088	1, 1, 1	1, 1, 1	0, 0, 0	True	72		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -6647,7 +6647,7 @@
   splits:
   - split: 1
     text: 禾家货物实体
-    translated: Wéi family goods physical entity
+    translated: Wei family goods physical entity
 - lineNum: 950
   raw: 'm4000803	血迹1	MouseEventBox	Resources_Art/Art3D/C&P/April_wish/blood/Prefab/blood.prefab	None	-1314.03, 90.861, -35.38289	1, 1, 1	0.56, 0.72, 2.26	302.6543, 105.5705, 254.1718	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q40008_02", 0, True} , { "QuestCondition" : "Q40008_03", 0, True}  ], 1} 	0	0'
   translated: 
@@ -7501,7 +7501,7 @@
   splits:
   - split: 1
     text: 子丑夜光石
-    translated: Jiǔchǒu Night-Glow Stone
+    translated: Jiuchou Night-Glow Stone
 - lineNum: 1072
   raw: 'm50017	子丑夜光石	MouseEventBox	Resources_Art/Art3D/hilife/it70318/Prefab/it70318.prefab	None	-703.11, 147.15, -684.54	1, 1, 1	0.1, 0.1, 0.1	273.3357, 0, 0	False	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "TimeCondition" : 23, 24} , { "TimeCondition" : 0, 3}  ], 1} , { "LogicalNode" : [ { "CheckFlagAction" : "fm50017", 1, 0}  ], 0}  ], 0} 	0	0'
   translated: 
@@ -7662,7 +7662,7 @@
   splits:
   - split: 1
     text: 噶玛寺厨师切的肉
-    translated: Gönpa Monastery chef's sliced meat
+    translated: Gonpa Monastery chef's sliced meat
 - lineNum: 1095
   raw: m50038	噶玛寺厨师的砧板	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_049_A.prefab	None	-619.939, 113.803, -484.55	1, 1, 1	1, 1, 1	88.88777, 204.8441, 192.8506	False	0		0	0	0
   translated: 
@@ -7690,7 +7690,7 @@
   splits:
   - split: 1
     text: 糌粑
-    translated: ''
+    translated: Flatbread.
 - lineNum: 1099
   raw: 'm50042	蒸笼	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_015.prefab	Survey	-616.101, 113.9177, -487.171	1, 1, 1	1, 1, 1	335.9792, 303.2811, 3.379644	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "n5010001000"}  ]} 	0'
   translated: 
@@ -7984,7 +7984,7 @@
   splits:
   - split: 1
     text: 风马旗
-    translated: ''
+    translated: Fengma Qi
 - lineNum: 1141
   raw: m50086	木材	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_007_A.prefab	None	-670.227, 112.754, -482.972	1, 1, 1	1, 1, 1	270.1154, 118.0165, 0	False	0		0	0	0
   translated: 
@@ -8075,7 +8075,7 @@
   splits:
   - split: 1
     text: ???
-    translated: To assist you effectively, please provide the text in Simplified Chinese that you would like translated into English following the specified guidelines.
+    translated: ???
 - lineNum: 1154
   raw: 'm50099	???	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_021.prefab	Survey	-602.999, 114.303, -459.251	1, 1, 1	1, 1, 1	0, 83.07967, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q50002", 0, True}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it80170", 1} , { 213 } , { "GivenQuestAction" : "Q50002_04", 2} , { "GivenQuestAction" : "Q50002_05", 0}  ]} 	0'
   translated: 
@@ -8334,7 +8334,7 @@
   splits:
   - split: 1
     text: 麻布袋
-    translated: Mázhúbāodài
+    translated: Mazhubaodai
 - lineNum: 1191
   raw: 'm50139	张启的茶杯	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_008_B.prefab	None	-657.944, 67.06771, -1008.534	1, 1, 1	1, 1, 1	270.5105, 0, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f50019得知藏文佛經被偷", 1, 2} , { "TimeCondition" : 15, 17}  ], 0} 	0	0'
   translated: 
@@ -8460,14 +8460,14 @@
   splits:
   - split: 1
     text: 木府深夜门挡
-    translated: Mù Fǔ deeply blocked the mansion gate at night.
+    translated: Mu Fu deeply blocked the mansion gate at night.
 - lineNum: 1209
   raw: 'm50160a	木府是官府重地	EventBox		None	-883.89, 68.49, -930.77	1, 1, 1	10.58485, 6.66937, 5.077596	0, 331.4092, 0	True	0		{ "LogicalNode" : [ { "CheckInventoryCountAction" : "it801001", 1, 0}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m5008901"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 木府是官府重地
-    translated: Mù Fǔ is an important government office.
+    translated: Mu Fu is an important government office.
 - lineNum: 1210
   raw: 'm50160b	拿到木府令牌第一次检查	EventBox		None	-883.64, 68.63, -931.14	1, 1, 1	10.09628, 5.579305, 8.847471	0, 331.4092, 0	False	0		{ "LogicalNode" : [ { "CheckInventoryCountAction" : "it801001", 0, 0}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m5008902"}  ]} 	0'
   translated: 
@@ -8586,7 +8586,7 @@
   splits:
   - split: 1
     text: 木府门挡：被开除
-    translated: 'Mù Fǔ mén dǎng: bèi kāichú'
+    translated: 'Mu Fu men dang: bei kaichu'
 - lineNum: 1227
   raw: 'm50170	木府破门路线门挡	EventBox		None	-889.42, 69.44, -920.35	1, 1, 1	13.83516, 7.295596, 1	0, 330.5137, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f52006破門路線階段", 1, 1}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m5014806"}  ]} 	0'
   translated: 
@@ -8600,7 +8600,7 @@
   splits:
   - split: 1
     text: 木府潜入路线门挡
-    translated: Mù Fǔ's secret route entrance was blocked.
+    translated: Mu Fu's secret route entrance was blocked.
 - lineNum: 1229
   raw: 'm50170-2	门挡-偷到后不管金昆	EventBox		None	-882.77, 68.26, -932.23	1, 1, 1	16.90555, 4.704955, 12.36542	0, 331.855, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f52012潛入完成後，是否幫忙金崑？", 1, 2}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m5014824"}  ]} 	0'
   translated: 
@@ -8635,14 +8635,14 @@
   splits:
   - split: 1
     text: 木得房门门挡门前
-    translated: The door of the Mù Dé house blocked the entrance.
+    translated: The door of the Mu De house blocked the entrance.
 - lineNum: 1234
   raw: 'm50173-1	木得房门门挡门内	EventBox		None	-870.233, 66.41034, -844.071	1, 1, 1	2.934661, 1, 1.746238	0, 330.9007, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "(暫時拿掉)", 0, 99}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n5014815000"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 木得房门门挡门内
-    translated: Door of the Mù family's house is blocked by the door inside.
+    translated: Door of the Mu family's house is blocked by the door inside.
 - lineNum: 1235
   raw: 'm50173-2	木初房门门挡	EventBox		None	-859.612, 66.81, -853.708	1, 1, 1	2.008151, 0.6436322, 2.567182	0, 331.481, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f52009潛入路線階段", 1, 1} , { "CheckFlagAction" : "f52013是否開啟木初房門？(暫時拿掉)", 1, 99}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m5014822"}  ]} 	0'
   translated: 
@@ -8817,7 +8817,7 @@
   splits:
   - split: 1
     text: 阿九
-    translated: A-jiǔ
+    translated: A-jiu
 - lineNum: 1260
   raw: 'm50184c	李连	MouseEventBox		Survey	-1325.44, 164.3, -877.34	1, 1, 1	4.679736, 1, 4.305678	0, 0, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f50054雪山連九逃走：李連", 1, 1} , { "QuestCondition" : "Q52001", 1, False}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n5004901100"}  ]} 	0'
   translated: 
@@ -8894,7 +8894,7 @@
   splits:
   - split: 1
     text: 调查噶玛寺，但阿克不在队伍
-    translated: Investigate Gamā Sì, but Ake is not in the group.
+    translated: Investigate Gama Si, but Ake is not in the group.
 - lineNum: 1271
   raw: 'm50186f	噶玛寺内寝遭遇埋伏	EventBox		None	-649.76, 114.403, -489.856	1, 1, 1	0.315244, 3.178691, 1.64388	0, 301.3955, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q52005_05", 0, True} , { "QuestCondition" : "Q52005_06", 0, True}  ], 1} 	{ "MultiAction" : [ { "RunMovieAction" : "m520050502"}  ]} 	0'
   translated: 
@@ -9055,14 +9055,14 @@
   splits:
   - split: 1
     text: 与段在蛇窟遭遇何
-    translated: Encountered whom in the Snake Den with Duàn?
+    translated: Encountered whom in the Snake Den with Duan?
 - lineNum: 1294
   raw: 'm51004	与段遭遇何，段追出	EventBox		None	-163.723, 108.086, -1115.997	1, 1, 1	7.041934, 3.657244, 1	0, 322.0804, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f51001郎中事件：是否將蛇王給了何白芍？", 1, 1} , { "CheckFlagAction" : "f51001郎中事件：何白芍事件是否結束？", 1, 0}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n5100105000"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 与段遭遇何，段追出
-    translated: Encounter with He by Duàn; pursued out by Duàn.
+    translated: Encounter with He by Duan; pursued out by Duan.
 - lineNum: 1295
   raw: 'm51005	蛇窟洞口事件	EventBox		None	0, 0, 0	1, 1, 1	9.367321, 4.756658, 10.02369	0, 325.2488, 0	False	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "n5101001000"}  ]} 	0'
   translated: 
@@ -9090,7 +9090,7 @@
   splits:
   - split: 1
     text: 婉拒段后到蛇窟见蛇尸
-    translated: Gently declined seeing the snake corpse at the Snake Pit after meeting with Duàn.
+    translated: Gently declined seeing the snake corpse at the Snake Pit after meeting with Duan.
 - lineNum: 1299
   raw: 'm51009	段思平独自面对蛇王	EventBox		None	-160.15, 90.37, -1114.4	1, 1, 1	1, 6.657456, 30.08676	0, 307.1947, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q51004_02", 0, True}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "v20060"}  ]} 	0'
   translated: 
@@ -9223,7 +9223,7 @@
   splits:
   - split: 1
     text: 雪山连九逃走了
-    translated: Snow Mountain's Liú Jiǔ escaped.
+    translated: Snow Mountain's Liu Jiu escaped.
 - lineNum: 1318
   raw: 'm52017-1	肮脏的麻布袋	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_G.prefab	Survey	-1400.571, 205.567, -889.6111	1, 1, 1	1, 1, 1	358.0952, 71.55746, 90.63507	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q52001_02", 0, True}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n5004901305"}  ]} 	0'
   translated: 
@@ -9251,7 +9251,7 @@
   splits:
   - split: 1
     text: 阿克线：在茶庄前遇到陆常稽
-    translated: 'A-kèxìan: Encountered Lu Changji in front of the tea plantation.'
+    translated: 'A-kexian: Encountered Lu Changji in front of the tea plantation.'
 - lineNum: 1322
   raw: 'm52020	？？？	MouseEventBox		Pick	-653.936, 171.375, -629.387	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "eq20210", 1}  ]} 	0'
   translated: 
@@ -9300,7 +9300,7 @@
   splits:
   - split: 1
     text: 黄裳之墓
-    translated: Huáng Shang's Tomb
+    translated: Huang Shang's Tomb
 - lineNum: 1329
   raw: 'm53005	黄裳	MouseEventBox		Survey	-889.18, 131.493, 237.142	1, 1, 1	1.032594, 0.6432317, 1.674274	0, 32.93321, 0	True	0		{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "f53010t", True}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n5300102a02044"}  ]} 	0'
   translated: 
@@ -9580,7 +9580,7 @@
   splits:
   - split: 1
     text: 大刀
-    translated: Grand Dao
+    translated: ''
 - lineNum: 1369
   raw: 'm55002	毛皮	MouseEventBox		Pick	-731.335, 99.366, -339.548	1, 1, 1	2.518291, 1.657564, 1.443642	0, 31.42594, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70402", 1}  ]} 	0'
   translated: 
@@ -9657,7 +9657,7 @@
   splits:
   - split: 1
     text: 大刀
-    translated: Grand Dao
+    translated: ''
 - lineNum: 1380
   raw: 'm55013	金瓜骨朵	MouseEventBox	Character/All_Accessories/Prefab/ac3a0085.prefab	Pick	441.409, 74.113, 1127.584	1, 1, 1	1, 1, 1	301.184, 34.26554, 33.47839	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "eq11205", 1}  ]} 	0'
   translated: 
@@ -9853,14 +9853,14 @@
   splits:
   - split: 1
     text: 黄连
-    translated: ''
+    translated: Coptis Rhizome
 - lineNum: 1408
   raw: 'm60003-2	黄连	MouseEventBox	Resources_Art/Art3D/Herb/it40207.prefab	Collect	-86.56, 126.6, -1027.54	0.38, 0.56, 0.31	1, 1, 1	3.915079, 312.3011, 4.253791	True	50		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40207", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 黄连
-    translated: ''
+    translated: Coptis Rhizome
 - lineNum: 1409
   raw: 'm60003-3	黄连	MouseEventBox	Resources_Art/Art3D/Herb/it40207.prefab	Collect	-111.9566, 118.906, -1019.233	0.81, 0.69, 0.98	0.5887102, 0.5887102, 0.5887102	0, 0, 0	True	50		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40207", 1}  ]} 	0'
   translated: 
@@ -9874,7 +9874,7 @@
   splits:
   - split: 1
     text: 黄连
-    translated: ''
+    translated: Coptis Rhizome
 - lineNum: 1411
   raw: 'm60003-5	黄连	MouseEventBox	Resources_Art/Art3D/Herb/it40207.prefab	Collect	-0.46398, 135.1219, -1058.503	1, 1, 1	0.7434971, 0.7434971, 0.7434971	14.48017, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40207", 1}  ]} 	0'
   translated: 
@@ -9958,7 +9958,7 @@
   splits:
   - split: 1
     text: 赵掌柜躺草席
-    translated: Zhào the shopkeeper lies on a grass mat.
+    translated: Zhao the shopkeeper lies on a grass mat.
 - lineNum: 1423
   raw: 'm60008-1	整理善人府盒子	EventBox		None	-697.42, 69.43, -1045.79	1, 1, 1	2.402385, 0.7362559, 4.585273	321.9235, 0, 0	True	0		0	{ "MultiAction" : [ { 212 } , { "UpdateNPCBehaviorAction" : "n60066"}  ]} 	0'
   translated: 
@@ -10182,7 +10182,7 @@
   splits:
   - split: 1
     text: 金不换
-    translated: ''
+    translated: Priceless as gold.
 - lineNum: 1455
   raw: 'm60027-1-1	金不换	MouseEventBox		Survey	-402.075, 68.858, -1087.504	1, 1, 1	1.304896, 0.2821756, 0.2753025	270, 58.46636, 0	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m60027-101000"}  ]} 	0'
   translated: 
@@ -10644,7 +10644,7 @@
   splits:
   - split: 1
     text: 善人府战斗2
-    translated: The Battle of Shàn Rén Fǔ 2
+    translated: The Battle of Shan Ren Fu 2
 - lineNum: 1521
   raw: 'm60101-1	没杀蛇不让你进俏梦阁后面	EventBox		None	-737.3, 66.86, -1122.36	1, 1, 1	18.03969, 5.856269, 5.787131	0, 356.872, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f61017虞康時歸位", 1, 0}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m6010101000"}  ]} 	0'
   translated: 
@@ -11246,7 +11246,7 @@
   splits:
   - split: 1
     text: 确定要进入俏梦阁
-    translated: Confirmed entry into the Qiáomèng Gé.
+    translated: Confirmed entry into the Qiaomeng Ge.
 - lineNum: 1607
   raw: 'm60157-4	确定要进入俏梦阁	EventBox		None	-710, 69.289, -1109.158	1, 1, 1	2.107106, 1.12721, 8.852694	0, 0, 0	True	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f61042善人府後進入俏夢閣", 0, 0} , { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 1, 0}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n6017801031"}  ]} 	0'
   translated: 
@@ -11267,7 +11267,7 @@
   splits:
   - split: 1
     text: ？？？
-    translated: To provide an accurate translation, please include the Simplified Chinese text you wish to have translated into English. I'm here to assist with your request once the content is provided!
+    translated: ？？？
 - lineNum: 1610
   raw: 'm60158-03	鸡肉	MouseEventBox	Resources_Art/Art3D/Food/inside_040_D.prefab	Steal	-686.796, 67.102, -1038.273	0.355, 0.3199999, 0.06335771	0.6360828, 0.6360824, 0.6360824	270, 0, 0	True	72		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60502", 1}  ]} 	0'
   translated: 
@@ -11428,7 +11428,7 @@
   splits:
   - split: 1
     text: 辛香料
-    translated: Spices and herbs.
+    translated: Spices of Sichuan
 - lineNum: 1633
   raw: 'm60159-13	糖	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_006_A.prefab	Steal	-754.618, 66.79699, -1097.626	1.243792, 2.158302, 1.021883	0.5, 0.5, 0.5	270, 111.0047, 0	True	108		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60618", 3}  ]} 	0'
   translated: 
@@ -11442,7 +11442,7 @@
   splits:
   - split: 1
     text: 樊香蝶深夜洗澡(蓝拂衣事件前)
-    translated: Fán Xiāngdié takes a bath late at night (before the Lan Fúyī incident).
+    translated: Fan Xiangdie takes a bath late at night (before the Lan Fuyi incident).
 - lineNum: 1635
   raw: 'm60162-1	俏梦阁蓝拂衣（正线）	EventBox		None	-741.12, 66.8, -1085.31	1, 1, 1	10.94665, 1.405131, 11.3794	0, 0, 0	False	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 1, True}  ], 1} , { "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 1, 0}  ], 0}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m6010002"}  ]} 	0'
   translated: 
@@ -11932,21 +11932,21 @@
   splits:
   - split: 1
     text: 混元功
-    translated: Hùnyuán Gōng
+    translated: Hunyuan Gong
 - lineNum: 1705
   raw: 'm60175b	混元功	MouseEventBox		Pick	-695.953, 69.211, -1018.341	0.04341175, 0.1834713, 0.2638718	1, 1, 1	357.8242, 145.3746, 86.86386	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it30715", 1} , { "CreateRemoveObjectAction" : 1, "m60175", { 0.00000, 0.00000, 0.00000} , False, { 0.00000, 0.00000, 0.00000} }  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 混元功
-    translated: Hùnyuán Gōng
+    translated: Hunyuan Gong
 - lineNum: 1706
   raw: 'm60176	？？？	MouseEventBox		Pick	-330.4841, 74.224, -1023.603	1, 1, 1	0.2396499, 0.5246028, 0.2631026	0, 0, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60038_01", 1, True} , { "QuestCondition" : "Q60038_01", 2, True} , { "CheckFlagAction" : "f61059打怪僧沒接任務", 0, 0}  ], 1} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it30712", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: ？？？
-    translated: To provide an accurate translation, please provide the text in Simplified Chinese that you need translated into English.
+    translated: ？？？
 - lineNum: 1707
   raw: 'm60177-01	猎户箱笼	MouseEventBox	Resources_Art/Art3D/Ore/woodbox.prefab	Pick	-809.867, 117.55, -1167.014	0.72, 0.72, 0.75	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it70403", 2} , { "InventoryAction" : 0, "it70420", 1} , { "InventoryAction" : 0, "it70201", 5}  ]} 	0'
   translated: 
@@ -12219,7 +12219,7 @@
   splits:
   - split: 1
     text: 拱石村专整理猫咪cube
-    translated: Kǒngshí village specializes in organizing cat cubes.
+    translated: Kongshi village specializes in organizing cat cubes.
 - lineNum: 1746
   raw: 'm60201-8	拱石村专整理猴子cube	EventBox		None	29.51, 132.72, -1019.766	1, 1, 1	7.105696, 4.135272, 6.597348	0, 0, 0	True	0		0	{ "MultiAction" : [ { 211 }  ]} 	0'
   translated: 
@@ -12506,7 +12506,7 @@
   splits:
   - split: 1
     text: 承气饮
-    translated: Decoction of Aconite Pillar and Bupleurum.
+    translated: Cheng Qi Yin
 - lineNum: 1787
   raw: 'm60229-1	李子	MouseEventBox	Resources_Art/Art3D/Food/Apple_Red.prefab	Collect	-69.191, 119.816, -952.361	1, 1, 1	0.4245111, 0.4245113, 0.4245113	270, -8.537737E-07, 0	True	72		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it60402", 1}  ]} 	0'
   translated: 
@@ -12744,14 +12744,14 @@
   splits:
   - split: 1
     text: ？？？
-    translated: Please provide the text you would like translated from Simplified Chinese to English.
+    translated: ？？？
 - lineNum: 1821
   raw: 'm60241-2	？？？	MouseEventBox		Survey	-61.22601, 127.1497, -1006.852	1, 1, 1	1, 1, 1	0, 0, 0	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m6024101006"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: ？？？
-    translated: Please provide the text you would like translated from Simplified Chinese to English.
+    translated: ？？？
 - lineNum: 1822
   raw: 'm60243	不明信笺	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_021.prefab	Pick	0, 0, 0	0.3231201, 0.4368931, 0.02849538	1, 1, 1	270, 30.14361, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it801007", 1}  ]} 	0'
   translated: 
@@ -12842,7 +12842,7 @@
   splits:
   - split: 1
     text: 枣木
-    translated: Jiǎo mù
+    translated: Jiao mu
 - lineNum: 1835
   raw: 'm60251-13	压岁钱袋	MouseEventBox		Steal	41.056, 136.233, -1041.874	1, 1, 1	0.1274913, 0.150351, 0.3628631	0, 4.550033, 0	False	0		0	{ "MultiAction" : [ { "SetBlackboardAction" : "f62038拿了梅小青的壓歲錢", 1, 0} , { "InventoryAction" : 0, "it80316", 1}  ]} 	0'
   translated: 
@@ -12989,14 +12989,14 @@
   splits:
   - split: 1
     text: 骆元玉的床位
-    translated: Luó Yuányù's bed position.
+    translated: Luo Yuanyu's bed position.
 - lineNum: 1856
   raw: 'm60257-1	骆元玉在队铁老拐火堆	EventBox		None	64.2449, 117.01, -951.34	1, 1, 1	6.729321, 3.337974, 8.921363	0, 322.5164, 0	False	0		{ "LogicalNode" : [ { "TeammateCondition" : "n60273", True}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m6025701000"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 骆元玉在队铁老拐火堆
-    translated: Luó Yuányù is with Iron Old Hook at the Fire Pit in the team.
+    translated: Luo Yuanyu is with Iron Old Hook at the Fire Pit in the team.
 - lineNum: 1857
   raw: 'm60257-2	？？？	MouseEventBox		Survey	0, 0, 0	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m6025701006"}  ]} 	0'
   translated: 
@@ -13038,14 +13038,14 @@
   splits:
   - split: 1
     text: 骆元玉小阿未
-    translated: Luò Yuányù, Little A Wei.
+    translated: Luo Yuanyu, Little A Wei.
 - lineNum: 1863
   raw: 'm60260-2	骆元玉吴叫化事件	EventBox		None	-414.63, 65.52, -1051.26	1, 1, 1	16.38412, 10.36877, 13.99875	0, 336.761, 0	False	0		{ "LogicalNode" : [ { "TeammateCondition" : "n60273", True} , { "TimeCondition" : 5, 18}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m6027202"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 骆元玉吴叫化事件
-    translated: Luó Yuányù Wú Jiàohuà Incident
+    translated: Luo Yuanyu Wu Jiaohua Incident
 - lineNum: 1864
   raw: 'm60260-3	骆元玉守项尚事件	EventBox		None	-638.46, 66.57, -994.8	1, 1, 1	8.298697, 4.835692, 11.80655	0, 339.8513, 0	False	0		{ "LogicalNode" : [ { "TeammateCondition" : "n60273", True} , { "TimeCondition" : 4, 22}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m6027203"}  ]} 	0'
   translated: 
@@ -13500,7 +13500,7 @@
   splits:
   - split: 1
     text: 碧蛛藤
-    translated: Bì zhū téng
+    translated: Bi zhu teng
 - lineNum: 1929
   raw: 'm60402-3	赤心果	MouseEventBox	Resources_Art/Art3D/Nature/MidBush/GreenBranch16 Bush01 AFS.prefab	Collect	-378.477, 68.328, 1297.933	1, 1, 1	1, 1, 1	0, 0, 0	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "m6040201007"}  ]} 	0'
   translated: 
@@ -13703,7 +13703,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chi Sháo
+    translated: Chi Shao
 - lineNum: 1958
   raw: 'm60406-07	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-413.8882, 62.66, 1178.545	1, 1, 1	1, 1, 1	357.4505, 188.4002, 16.76382	True	32		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -14081,7 +14081,7 @@
   splits:
   - split: 1
     text: 茯苓
-    translated: ''
+    translated: Fu Ling.
 - lineNum: 2012
   raw: 'm60406-61	茯苓	MouseEventBox	Resources_Art/Art3D/Herb/it40209.prefab	Collect	-415.8412, 67.34353, 1222.197	1, 1, 1	1, 1, 1	348.3849, 18.63084, 285.6445	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40209", 1}  ]} 	0'
   translated: 
@@ -14228,7 +14228,7 @@
   splits:
   - split: 1
     text: 紫檀木
-    translated: Purple sandalwood
+    translated: Zitan wood
 - lineNum: 2033
   raw: 'm60411-4	赤铜	MouseEventBox	Resources_Art/Art3D/Ore/it70104.prefab	Pick	-508.664, 64.537, 1320.6	1, 1, 1	0.6401371, 0.6401371, 0.6401371	0, 47.90527, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f64018開過乞丐寮寶藏", 0, 0}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it70104", 1}  ]} 	0'
   translated: 
@@ -14298,7 +14298,7 @@
   splits:
   - split: 1
     text: 冬游图
-    translated: Winter Landscape
+    translated: ''
 - lineNum: 2043
   raw: m60415-1	上锁的暗柜-齿轮	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/gear/gear_011.prefab	None	282.045, 107.548, -158.39	0.2778753, 0.2778753, 0.03907958	0.3142059, 0.3142059, 0.3142059	357.0178, 355.3477, 1.589009	True	0		0	0	0
   translated: 
@@ -14662,7 +14662,7 @@
   splits:
   - split: 1
     text: 碑志
-    translated: ''
+    translated: Epitaph
 - lineNum: 2095
   raw: 'm60506-2	金蟾石孔洞	MouseEventBox		Survey	-202.657, 130.334, -220.261	1, 1, 1	0.2940161, 0.2940161, 0.2940161	0, 45.0371, 0	True	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} , { "LogicalNode" : [ { "TimeCondition" : 20, 24} , { "TimeCondition" : 0, 4}  ], 1}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m6050601003"}  ]} 	0'
   translated: 
@@ -14711,7 +14711,7 @@
   splits:
   - split: 1
     text: 明水剑
-    translated: Míng Shuǐ Jiàn
+    translated: Ming Shui Jian
 - lineNum: 2102
   raw: 'm60506-9	古石盒	MouseEventBox		Pick	-197.565, 131.969, -222.836	1, 1, 1	0.613449, 0.3248798, 0.504647	0, 347.9115, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f65008-7開啟過機關", 0, 0}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it70110", 1} , { "InventoryAction" : 0, "it70317", 1} , { "InventoryAction" : 0, "it70314", 1} , { "InventoryAction" : 0, "it80302", 3} , { "InventoryAction" : 0, "it70109", 1}  ]} 	0'
   translated: 
@@ -14788,7 +14788,7 @@
   splits:
   - split: 1
     text: 骨骸
-    translated: ''
+    translated: Skeletal remains
 - lineNum: 2113
   raw: 'm60511-11	骨骸	MouseEventBox	Resources_Art/Art3D/C&P/Planning_wish/Skeleton/Prefab/SM_Skeleton_Base002.prefab	Survey	924.4236, 86.95491, 1324.033	1, 1, 1	1, 1, 1	349.8871, 81.81175, 183.9432	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f65015-3讀過信", 0, 0}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m6051101003"} , { "InventoryAction" : 0, "it801126", 1}  ]} 	0'
   translated: 
@@ -14844,7 +14844,7 @@
   splits:
   - split: 1
     text: 废轮
-    translated: Destitute wanderer
+    translated: Broken wheel
 - lineNum: 2121
   raw: 'm60512-07	破桶	MouseEventBox	Resources_Art/Art3D/3rdPackage/Ruins Prop Pack/Barrel_Broken2_Foliage.prefab	Pick	901.26, 75.93, 1303.04	1, 1, 1	1, 1, 1	0, 0, 88.60098	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60039", 1, False}  ], 0} 	{ "MultiAction" : [ { "InventoryAction" : 0, "it70201", 2}  ]} 	0'
   translated: 
@@ -15166,7 +15166,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chi Sháo
+    translated: Chi Shao
 - lineNum: 2167
   raw: 'm70008	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	17.34, 84.31, 686.37	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -15369,7 +15369,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chì Sháo
+    translated: Chi Shao
 - lineNum: 2196
   raw: 'm70037	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	812.78, 94.23, -722.11	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -15796,7 +15796,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: Sanqī.
+    translated: Sanqi.
 - lineNum: 2257
   raw: 'm72011	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	19.45, 123.32, 855.41	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -15810,7 +15810,7 @@
   splits:
   - split: 1
     text: 三七
-    translated: Sanqī
+    translated: Sanqi
 - lineNum: 2259
   raw: 'm72013	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-1032.36, 74.13, 483.14	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -15908,14 +15908,14 @@
   splits:
   - split: 1
     text: 三七
-    translated: Sanqī
+    translated: Sanqi
 - lineNum: 2273
   raw: 'm72027	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	-144.23, 92.86, 127.58	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 三七
-    translated: Sanqī.
+    translated: Sanqi.
 - lineNum: 2274
   raw: 'm72028	三七	MouseEventBox	Resources_Art/Art3D/Herb/it40205.prefab	Collect	177.11, 88.66, -163.5	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40205", 1}  ]} 	0'
   translated: 
@@ -16279,7 +16279,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: Chuānxiōng
+    translated: Chuanxiong
 - lineNum: 2326
   raw: 'm73035	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	-1385.83, 137.73, 5.7	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -16363,7 +16363,7 @@
   splits:
   - split: 1
     text: 黄连
-    translated: Coptis Rhizome - A traditional Chinese medicine used to clear heat and dry dampness.
+    translated: Coptis Rhizome
 - lineNum: 2338
   raw: 'm74002	黄连	MouseEventBox	Resources_Art/Art3D/Herb/it40207.prefab	Collect	-80.59, 75.33, 504.21	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40207", 1}  ]} 	0'
   translated: 
@@ -17441,7 +17441,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chì Sháo
+    translated: Chi Shao
 - lineNum: 2492
   raw: 'm80060	黄连	MouseEventBox	Resources_Art/Art3D/Herb/it40207.prefab	Collect	-326.2866, 67.392, -1008.21	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40207", 1}  ]} 	0'
   translated: 
@@ -17511,7 +17511,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2502
   raw: 'm80070	黄连	MouseEventBox	Resources_Art/Art3D/Herb/it40207.prefab	Collect	211.45, 119.18, -1272.61	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40207", 1}  ]} 	0'
   translated: 
@@ -18232,7 +18232,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chì Sháo
+    translated: Chi Shao
 - lineNum: 2605
   raw: 'm80173	玉蔘	MouseEventBox	Resources_Art/Art3D/Herb/it40204.prefab	Collect	-372.1815, 68.13492, -823.3496	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40204", 1}  ]} 	0'
   translated: 
@@ -18260,7 +18260,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Shí Sháo
+    translated: Shi Shao
 - lineNum: 2609
   raw: 'm80177	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-174.4, 71.366, -693.2	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -18365,14 +18365,14 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chi Sháo
+    translated: Chi Shao
 - lineNum: 2624
   raw: 'm80195	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	46.21, 87.791, -536.945	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 赤芍
-    translated: Chi Sháo
+    translated: Chi Shao
 - lineNum: 2625
   raw: 'm80196	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	84.70996, 92.229, -508.12	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -18470,7 +18470,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chìsháo
+    translated: Chishao
 - lineNum: 2639
   raw: 'm80210	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	56.67, 96.88, -187.543	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -18750,7 +18750,7 @@
   splits:
   - split: 1
     text: 骆冰石
-    translated: Luó Bīngshí
+    translated: Luo Bingshi
 - lineNum: 2679
   raw: 'm80251	鱼跑了	EventBox		None	262.72, 63.93, -999.17	1, 1, 1	11.04111, 5.050361, 14.53075	0, 0, 0	False	0		{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ ]} , 0.00000} , { "CheckFlagAction" : "tm85003", 1, 1}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "v80074a"}  ]} 	0'
   translated: 
@@ -18771,7 +18771,7 @@
   splits:
   - split: 1
     text: 花与田
-    translated: Flower and Field
+    translated: ''
 - lineNum: 2682
   raw: 'm80254		MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_072_H.prefab	None	125.6347, 120.84, -1145.32	1, 1, 1	1, 1, 1	0, 44.46949, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "tm80041", 1, 2}  ], 0} 	0	0'
   translated: 
@@ -18813,7 +18813,7 @@
   splits:
   - split: 1
     text: 四象刀事件01
-    translated: Sì Xiàng Dāo Shìjiàn 01
+    translated: Si Xiang Dao Shijian 01
 - lineNum: 2688
   raw: 'm80260	惊波狂澜	EventBox		None	449.35, 61.81, 65.09	1, 1, 1	15.15933, 5.797858, 18.15678	0, 323.0981, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "tm85010", 1, 1}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "v80260a"}  ]} 	0'
   translated: 
@@ -19324,7 +19324,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: ''
+    translated: Red peony root
 - lineNum: 2761
   raw: 'm80340	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-92.12, 136.833, -216.5674	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19401,7 +19401,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chì Sháo
+    translated: Chi Shao
 - lineNum: 2772
   raw: 'm80351	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-242.32, 147.64, -252.93	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19450,7 +19450,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Cìsháo
+    translated: Cishao
 - lineNum: 2779
   raw: 'm80358	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-276.75, 149.18, -147.71	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19464,7 +19464,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chì Sháo
+    translated: Chi Shao
 - lineNum: 2781
   raw: 'm80360	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-332.1, 129.32, -186.6	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19478,7 +19478,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Cì Sháo
+    translated: Ci Shao
 - lineNum: 2783
   raw: 'm80362	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-258.893, 112.002, -32.76142	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19912,7 +19912,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chi Sháo
+    translated: Chi Shao
 - lineNum: 2845
   raw: 'm80424	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	252.27, 92.203, -192.01	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -19968,7 +19968,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chi Sháo
+    translated: Chi Shao
 - lineNum: 2853
   raw: 'm80432	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	328.71, 95.68, -128.485	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -20311,7 +20311,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Cìsháo
+    translated: Cishao
 - lineNum: 2902
   raw: 'm80481	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-1325.266, 115.0521, 29.74805	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -20339,7 +20339,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chì Sháo
+    translated: Chi Shao
 - lineNum: 2906
   raw: 'm80485	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-1406.863, 127.442, -19.7	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -20416,7 +20416,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Shí Sháo
+    translated: Shi Shao
 - lineNum: 2917
   raw: 'm80496	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-1556.03, 184.582, -39.96	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -20521,7 +20521,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chì Sháo
+    translated: Chi Shao
 - lineNum: 2932
   raw: 'm80511	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	-1245.063, 94.42773, -576.009	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -20689,7 +20689,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chì Sháo
+    translated: Chi Shao
 - lineNum: 2956
   raw: 'm80535	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	741.5444, 88.71994, -618.6531	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -20955,7 +20955,7 @@
   splits:
   - split: 1
     text: 赤芍
-    translated: Chì Sháo
+    translated: Chi Shao
 - lineNum: 2994
   raw: 'm80573	赤芍	MouseEventBox	Resources_Art/Art3D/Herb/it40203.prefab	Collect	344.51, 63.78, 368.71	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40203", 1}  ]} 	0'
   translated: 
@@ -21067,7 +21067,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: Xuán Qióng
+    translated: Xuan Qiong
 - lineNum: 3010
   raw: 'm80589	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	150.58, 108.28, -1122.46	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -21564,7 +21564,7 @@
   splits:
   - split: 1
     text: 川芎
-    translated: Chuānxīong - Notopterygium root.
+    translated: Chuanxiong - Notopterygium root.
 - lineNum: 3081
   raw: 'm80660	川芎	MouseEventBox	Resources_Art/Art3D/Herb/it40206.prefab	Collect	869.9, 116.295, -954.6	1, 1, 1	1, 1, 1	0, 0, 0	True	48		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it40206", 1}  ]} 	0'
   translated: 
@@ -22754,7 +22754,7 @@
   splits:
   - split: 1
     text: 血2
-    translated: ''
+    translated: Blood 2
 - lineNum: 3251
   raw: 'Q4003210	血3	MouseEventBox	Resources_Art/Art3D/C&P/April_wish/blood/Prefab/blood.prefab	None	-1484.539, 237.1271, -364.394	1, 1, 1	1.107823, 0.9274494, 1	270, 293.6572, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0	0'
   translated: 
@@ -23335,7 +23335,7 @@
   splits:
   - split: 1
     text: 叶家马帮遗落货物
-    translated: Yè jiā Mǎ bāng yí luò huò wù
+    translated: Ye jia Ma bang yi luo huo wu
 - lineNum: 3334
   raw: 'Q4004503	货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_010_B Variant.prefab	None	-1360.862, 95.44678, 405.4841	0.5629372, 0.5774143, 0.5961068	1, 1, 1	270, 0, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q40045_02", 0, True} , { "QuestCondition" : "Q40045_03", 0, True}  ], 1} 	0	0'
   translated: 
@@ -23363,7 +23363,7 @@
   splits:
   - split: 1
     text: 货物
-    translated: ''
+    translated: Goods
 - lineNum: 3338
   raw: 'Q4004507	货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_010_A Variant.prefab	None	-1389.491, 91.48391, 413.3984	0.5629374, 0.5774144, 0.5961069	1, 1, 1	0, 0, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q40045_02", 0, True} , { "QuestCondition" : "Q40045_03", 0, True}  ], 1} 	0	0'
   translated: 
@@ -23790,7 +23790,7 @@
   splits:
   - split: 1
     text: 拱石村野地(08)
-    translated: Kǒngshí Village Field (08)
+    translated: Kongshi Village Field (08)
 - lineNum: 3399
   raw: 'rc50001_09	拱石村野地(09)	EventBox		None	303.3074, 83.17569, -1252.026	1, 1, 1	6.641069, 1, 10.68793	0, 0, 0	True	48		{ "LogicalNode" : [ { "ProbabilityAction" : 25.00000}  ], 0} 	{ "MultiAction" : [ { "RumorAction" : "", "rg50001_01"}  ]} 	0'
   translated: 
@@ -23937,7 +23937,7 @@
   splits:
   - split: 1
     text: 全局道路(15)青城派西南方河岸
-    translated: 'Global Road (15): The Qīngchéng Sect is on the southwestern bank of the river.'
+    translated: 'Global Road (15): The Qingcheng Sect is on the southwestern bank of the river.'
 - lineNum: 3420
   raw: 'rc50101_01	拱石村道路(01)	EventBox		None	-84.26, 149.49, -1132.82	1, 1, 1	10.35917, 1, 4.550451	0, 0, 0	True	48		{ "LogicalNode" : [ { "ProbabilityAction" : 25.00000}  ], 0} 	{ "MultiAction" : [ { "RumorAction" : "", "rg50101_01"}  ]} 	0'
   translated: 
@@ -24287,7 +24287,7 @@
   splits:
   - split: 1
     text: 马帮货物b
-    translated: Mǎ Fèng's goods section b.
+    translated: Ma Feng's goods section b.
 - lineNum: 3470
   raw: 's20024g	马帮货物b	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/koda/inside_039_A (1).prefab	None	-668.315, 66.423, -1088.32	1, 1, 1	1.5, 1.5, 1.5	0, 338.8573, 0	False	0		{ "LogicalNode" : [ { "TimeCondition" : 6, 11} , { "QuestCondition" : "Q20011_01", 1, True} , { "CheckFlagAction" : "f2滅禾家", 3, 1} , { "QuestCondition" : "Q20021_06", 1, False}  ], 0} 	0	0'
   translated: 
@@ -24483,7 +24483,7 @@
   splits:
   - split: 1
     text: 判官笔
-    translated: ''
+    translated: Dreaded Judgement Pen
 - lineNum: 3498
   raw: s20042	丽江肉铺垫脚椅子	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Chair/chair_002_A.prefab	None	-640.527, 66.316, -1113.066	0.3869844, 0.425344, 0.2706591	1, 1, 1	270, 272.9504, 0	False	0		0	0	0
   translated: 
@@ -24511,7 +24511,7 @@
   splits:
   - split: 1
     text: 禾家马帮铁觇
-    translated: Hé Jīa Mǎ Bāng Tiě Zhān
+    translated: He Jia Ma Bang Tie Zhan
 - lineNum: 3502
   raw: s20046	禾家马帮工具箱	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_039_C.prefab	None	-654.779, 66.39934, -1074.732	1, 1, 1	1, 1, 1	0, 157.2908, 0	False	0		0	0	0
   translated: 
@@ -24539,7 +24539,7 @@
   splits:
   - split: 1
     text: 大石头
-    translated: ''
+    translated: Big Rock
 - lineNum: 3506
   raw: s20050	江湖传闻聚集地01	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/street vendor_16.prefab	None	-163.4053, 69.636, -840.779	1, 1, 1	1, 1, 1	0, 337.2476, 0	False	0		0	0	0
   translated: 
@@ -24609,7 +24609,7 @@
   splits:
   - split: 1
     text: 白骨
-    translated: ''
+    translated: White Bone
 - lineNum: 3516
   raw: s20060	白骨	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Special/special_041_D.prefab	None	-117.907, 224.179, -1381.721	0.2242288, 0.2121978, 0.2027693	1.71357, 1.713572, 1.713572	297.2668, 277.0582, 336.2805	False	0		0	0	0
   translated: 
@@ -24644,7 +24644,7 @@
   splits:
   - split: 1
     text: 白骨
-    translated: ''
+    translated: White Bone
 - lineNum: 3521
   raw: s20065	白骨	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Special/special_041_D.prefab	None	-171.647, 89.813, -1123.08	0.2242288, 0.2121978, 0.2027693	1.71357, 1.71357, 1.71357	299.5572, 7.818918, 28.66964	False	0		0	0	0
   translated: 
@@ -24658,7 +24658,7 @@
   splits:
   - split: 1
     text: 白骨
-    translated: Báigǔ
+    translated: Baigu
 - lineNum: 3523
   raw: s20067	白骨	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Special/special_041_C.prefab	None	-143.54, 89.59, -1108.22	1, 1, 1	1.71357, 1.71357, 1.71357	2.298351, 135.2458, 357.7885	False	0		0	0	0
   translated: 
@@ -24770,7 +24770,7 @@
   splits:
   - split: 1
     text: 叶家马帮假人
-    translated: Yè Jī Mǎ Bāng Jiǎ Rén
+    translated: Ye Ji Ma Bang Jia Ren
 - lineNum: 3539
   raw: s20102	叶家马帮假人	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_048_A.prefab	None	-770.65, 66.22153, -1000.57	0.3580332, 0.3072974, 1.908633	1, 1, 1	270, 90.4938, 0	False	0		0	0	0
   translated: 
@@ -24826,14 +24826,14 @@
   splits:
   - split: 1
     text: 草席
-    translated: ''
+    translated: Matted grass matting
 - lineNum: 3547
   raw: s20110	擎天寨秘道口坟墓	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_072_G.prefab	None	-1518.672, 229.649, -311.897	3.246834, 0.3496307, 2.91532	1, 1, 1	1.180395, 110.4535, 353.5063	False	0		0	0	0
   translated: 
   splits:
   - split: 1
     text: 擎天寨秘道口坟墓
-    translated: Qīngtiān Zhài Mìdào Kǒu Fénmù
+    translated: Qingtian Zhai Midao Kou Fenmu
 - lineNum: 3548
   raw: s20111	羊的血迹	MouseEventBox	Resources_Art/Art3D/C&P/April_wish/blood/Prefab/blood.prefab	None	-1561.199, 237.8056, -293.409	1, 1, 1	1, 1, 1	270, 0, 0	False	0		0	0	0
   translated: 
@@ -24854,7 +24854,7 @@
   splits:
   - split: 1
     text: 擎天寨踏脚木板
-    translated: Qīngtiān Zhài Tà Jiǎo Mùbǎn
+    translated: Qingtian Zhai Ta Jiao Muban
 - lineNum: 3551
   raw: s20114	漱玉矶酒谭	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_010_G.prefab	None	-407.96, 70.584, -1074.22	1, 1, 1	1, 1, 1	270, 152.9191, 0	False	0		0	0	0
   translated: 
@@ -24910,7 +24910,7 @@
   splits:
   - split: 1
     text: 酒壶
-    translated: ''
+    translated: Goblet of Wine
 - lineNum: 3559
   raw: s20116	蛇窟血迹	MouseEventBox	Resources_Art/Art3D/C&P/April_wish/blood/Prefab/blood.prefab	None	-150.004, 117.702, -1145.093	1, 1, 1	1, 1, 1	270, 0, 0	False	0		0	0	0
   translated: 
@@ -24980,7 +24980,7 @@
   splits:
   - split: 1
     text: 禾泓渊之墓
-    translated: Hé Hóngyuān's tomb
+    translated: He Hongyuan's tomb
 - lineNum: 3569
   raw: s20126	大研镇酒馆竹简	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_019_L.prefab	None	-632.4578, 67.38082, -993.0892	0.325939, 0.408305, 0.0975655	1, 1, 1	270.0198, 2.576041, 0	False	0		0	0	0
   translated: 
@@ -25064,7 +25064,7 @@
   splits:
   - split: 1
     text: 卖菜桌
-    translated: Vegetable Stand Table
+    translated: Vegetable Stall Table
 - lineNum: 3581
   raw: 's30001-2	红萝卜	MouseEventBox	Resources_Art/Art3D/Food/inside_039_H.prefab	None	-424.4954, 70.46471, -1086.404	275.2521, 9.326942E-05, 106.4271	1, 1, 1	271.67, 266.7441, 62.56071	True	0		{ "LogicalNode" : [ { "TimeCondition" : 7, 18}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m3001601000"}  ]} 	0'
   translated: 
@@ -25078,7 +25078,7 @@
   splits:
   - split: 1
     text: 红辣椒
-    translated: ''
+    translated: Red Chili Pepper
 - lineNum: 3583
   raw: 's30001-4	大葱	MouseEventBox	Resources_Art/Art3D/Food/inside_039_E.prefab	None	-424.803, 70.64, -1086.216	87.66192, 0, 0	1, 1, 1	68.79314, 59.62266, 61.34905	True	0		{ "LogicalNode" : [ { "TimeCondition" : 7, 18}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "m3001801000"}  ]} 	0'
   translated: 
@@ -25477,7 +25477,7 @@
   splits:
   - split: 1
     text: 白马居木桩
-    translated: Ba Mǎ Jū Mù Zhuàng
+    translated: Ba Ma Ju Mu Zhuang
 - lineNum: 3640
   raw: 's60051-2	白马居木头	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_032_B.prefab	None	-1012.151, 212.9023, -1218.6	0.4209946, 0.4194509, 0.6048305	0.4536084, 0.4360098, 0.5767546	270, 0, 0	False	0		{ "LogicalNode" : [ { "TimeCondition" : 5, 17}  ], 0} 	0	0'
   translated: 
@@ -25575,7 +25575,7 @@
   splits:
   - split: 1
     text: 善人府完成后木桩一
-    translated: Shànrén Fǔ wánchéng hòu mùzhuāng yī.
+    translated: Shanren Fu wancheng hou muzhuang yi.
 - lineNum: 3654
   raw: 's60059-2	善人府完成后木桩二	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_048_B.prefab	None	-713.2266, 66.22154, -1023.814	0.3580332, 0.3072974, 1.908633	1, 1, 1	270, 325.2198, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True}  ], 1} 	0	0'
   translated: 
@@ -25603,21 +25603,21 @@
   splits:
   - split: 1
     text: 善人府完成后木桩五
-    translated: After the completion of Shàn Rén Fǔ, wooden stakes five.
+    translated: After the completion of Shan Ren Fu, wooden stakes five.
 - lineNum: 3658
   raw: 's60060	樊香蝶的陈尸床	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Bed/bed_004_B.prefab	None	-739.6576, 79.73317, -1112.646	1, 1, 1	1, 1, 1	0, 175.9576, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 2, True} , { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0}  ], 0} 	0	0'
   translated: 
   splits:
   - split: 1
     text: 樊香蝶的陈尸床
-    translated: Fán Xiāngdié's Corpse Bed
+    translated: Fan Xiangdie's Corpse Bed
 - lineNum: 3659
   raw: 's60061-1	于家晚上的床	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Bed/bed_003_A.prefab	None	-396.9008, 67.25829, -1085.179	1, 1, 1	1, 1, 1	0, 142.8441, 0	False	0		{ "LogicalNode" : [ { "TimeCondition" : 0, 4}  ], 0} 	0	0'
   translated: 
   splits:
   - split: 1
     text: 于家晚上的床
-    translated: Yú family's bed at night.
+    translated: Yu family's bed at night.
 - lineNum: 3660
   raw: s60061-2	于家的砧板	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_049_A.prefab	None	-390.74, 68.084, -1081.298	0.4924039, 0.5000001, 0.05000001	0.6871973, 0.7308366, 0.6732308	270, 0, 0	False	0		0	0	0
   translated: 
@@ -25687,7 +25687,7 @@
   splits:
   - split: 1
     text: 善人府招募壮士茶碗
-    translated: Shàn Rén Fǔ is recruiting strongmen tea bowl challengers.
+    translated: Shan Ren Fu is recruiting strongmen tea bowl challengers.
 - lineNum: 3670
   raw: 's60062-07	善人府招募壮士砚	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_035.prefab	None	-687.3868, 67.00856, -1062.004	0.223544, 0.298494, 0.04496978	1, 1, 1	270.0198, 29.95855, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f61042善人府後進入俏夢閣", 0, 0} , { "TimeCondition" : 5, 20}  ], 0} 	0	0'
   translated: 
@@ -25715,7 +25715,7 @@
   splits:
   - split: 1
     text: 漱玉矶玉坊砧板
-    translated: Shu Yù Jī Yù Fāng Zhēn Bǎn
+    translated: Shu Yu Ji Yu Fang Zhen Ban
 - lineNum: 3674
   raw: s60063-2	漱玉矶玉坊鱼	MouseEventBox	Resources_Art/Art3D/3rdPackage/FISHING VILLAGE/Prefab/fish01.prefab	None	-363.97, 67.734, -1080.854	1, 1, 1	2.54, 2.54, 2.54	270, 0, 0	False	0		0	0	0
   translated: 
@@ -25743,7 +25743,7 @@
   splits:
   - split: 1
     text: 拱石村猫脚垫
-    translated: Gǒngshícūn māojiǎodiàn
+    translated: Gongshicun maojiaodian
 - lineNum: 3678
   raw: s60064-3	田娟砧板	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_049_A.prefab	None	18.145, 131.781, -1017.36	0.4924039, 0.5000001, 0.05000001	1, 1, 1	270, 0, 0	False	0		0	0	0
   translated: 
@@ -25911,7 +25911,7 @@
   splits:
   - split: 1
     text: 矿坑复工后木板二
-    translated: Mùpán Èr returned to work after the mine was reopened.
+    translated: Mupan Er returned to work after the mine was reopened.
 - lineNum: 3702
   raw: 's60067-15	矿坑复工后烤鱼	MouseEventBox	Resources_Art/Art3D/Food/fish_plate.prefab	None	-484.3083, 132.5744, -1274.406	1, 1, 1	0.3, 0.3, 0.3	4.131169, 0.2134369, 5.662907	False	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True}  ], 0} , { "LogicalNode" : [ { "TimeCondition" : 18, 24} , { "TimeCondition" : 0, 5}  ], 1}  ], 0} 	0	0'
   translated: 
@@ -26121,7 +26121,7 @@
   splits:
   - split: 1
     text: 淘石帮任务后烤鸡盘
-    translated: 'Taoshí Bāng task reward: Roasted Chicken Plate'
+    translated: 'Taoshi Bang task reward: Roasted Chicken Plate'
 - lineNum: 3732
   raw: 's60071-11	淘石帮任务后玉米	MouseEventBox	Resources_Art/Art3D/Food/Corn.prefab	None	-410.774, 68.43524, -1106.239	1, 1, 1	1, 1, 1	270, 0, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True} , { "TimeCondition" : 18, 23}  ], 0} 	0	0'
   translated: 
@@ -26303,7 +26303,7 @@
   splits:
   - split: 1
     text: 出酒庄二楼(邪线)
-    translated: Second Floor of Chǔjiu Villa (Xie Line)
+    translated: Second Floor of Chujiu Villa (Xie Line)
 - lineNum: 3758
   raw: 's60302-1	毒酒事件后庄外的火盆	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Lamp/lamp_009.prefab	None	-312.22, 83.05, 628.72	1, 1, 1	1.308689, 1.308688, 1.308688	270, 0, 0	False	0		{ "LogicalNode" : [ { "LogicalNode" : [ { "TimeCondition" : 22, 24} , { "TimeCondition" : 0, 5}  ], 1} , { "LogicalNode" : [ { "CheckFlagAction" : "f63003老太爺進牢房", 0, 0}  ], 0}  ], 0} 	0	0'
   translated: 
@@ -26387,7 +26387,7 @@
   splits:
   - split: 1
     text: 看病椅
-    translated: ''
+    translated: Examination Bed
 - lineNum: 3770
   raw: 's60401-3	药包	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_054_D.prefab	None	-428.6132, 63.9, 1224.775	0.2392475, 0.2410069, 0.105338	0.6767855, 0.6870216, 0.6870216	270, 0, 0	False	0		{ "LogicalNode" : [ { "TimeCondition" : 5, 18} , { "QuestCondition" : "Q60040_02", 1, False}  ], 0} 	0	0'
   translated: 
@@ -26429,7 +26429,7 @@
   splits:
   - split: 1
     text: 水三嫂的床
-    translated: Sī Sān Sǎo's bed
+    translated: Si San Sao's bed
 - lineNum: 3776
   raw: s60402-01	碧蛛藤	MouseEventBox	Resources_Art/Art3D/Nature/DetailThing/plant_3.prefab	None	-403.73, 68.327, 1323.6	1, 1, 1	1.759734, 1.759733, 1.759733	0, 0, 0	False	0		0	0	0
   translated: 
@@ -26660,7 +26660,7 @@
   splits:
   - split: 1
     text: 暗门
-    translated: ''
+    translated: Secret Passage
 - lineNum: 3809
   raw: s60412-1	羊阿婶的垫脚椅	MouseEventBox	Resources_Art/Art3D/3rdPackage/FISHING VILLAGE/Prefab/Chair5.prefab	None	300.906, 91.581, 41.671	1, 1, 1	0.4094761, 1, 1	0, 346.1198, 0	False	0		0	0	0
   translated: 
@@ -26856,7 +26856,7 @@
   splits:
   - split: 1
     text: 骨骸
-    translated: ''
+    translated: Skeletal remains
 - lineNum: 3837
   raw: 's60511-03	骨骸	MouseEventBox	Resources_Art/Art3D/C&P/Planning_wish/Skeleton/Prefab/SM_Skeleton_Base003.prefab	None	931.534, 83.61075, 1332.34	1, 1, 1	1, 1, 1	0, 299.1742, 180	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f65015-3讀過信", 1, 0}  ], 0} 	0	0'
   translated: 
@@ -26940,7 +26940,7 @@
   splits:
   - split: 1
     text: 马夫棚
-    translated: Stablehands' Shed
+    translated: Stable Master's Quarters
 - lineNum: 3849
   raw: 's60513-02	船夫船	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Vehicle/vehicle_004.prefab	None	920.86, 62.45, 1192.39	1, 1, 1	0.4484499, 0.4484499, 0.4484499	12.88923, 0.04370731, 6.560388	False	0		{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t65014-7去請船夫24", False} , { "CheckFlagAction" : "f65014-7去請船夫", 0, 0}  ], 0} 	0	0'
   translated: 
@@ -26975,7 +26975,7 @@
   splits:
   - split: 1
     text: 挂马鞍
-    translated: ''
+    translated: Hang the saddle in position.
 - lineNum: 3854
   raw: 's60513-07	棚下袋子一	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_M.prefab	None	924.119, 62.511, 1191.06	1, 1, 1	1, 1, 1	270, 306.8665, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f65023-2馬伕蓋棚子", 0, 0} , { "CheckTimeBlackboardAction" : "t65023-2馬伕蓋棚子24", False}  ], 0} 	0	0'
   translated: 
@@ -27059,14 +27059,14 @@
   splits:
   - split: 1
     text: 菜摊
-    translated: ''
+    translated: Stall
 - lineNum: 3866
   raw: 's60515-3	饼滩	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/street vendor_09.prefab	None	944.4214, 63.2822, 1203.459	1, 1, 1	1, 1, 1	0.4130441, 304.9993, 4.210488	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f65020-1瑞蓮找攤販", 0, 0} , { "CheckTimeBlackboardAction" : "t65020-1瑞蓮找攤販24", False}  ], 0} 	0	0'
   translated: 
   splits:
   - split: 1
     text: 饼滩
-    translated: Pie Island
+    translated: ''
 - lineNum: 3867
   raw: 's60515-4	盐滩	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/street vendor_10.prefab	None	943.445, 63.83, 1213.236	1, 1, 1	1, 1, 1	-2.134434E-07, 120.1152, 352.1132	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f65020-1瑞蓮找攤販", 0, 0} , { "CheckTimeBlackboardAction" : "t65020-1瑞蓮找攤販24", False}  ], 0} 	0	0'
   translated: 
@@ -27192,7 +27192,7 @@
   splits:
   - split: 1
     text: 初遇孔大叔
-    translated: First encounter with Uncle Kǒng.
+    translated: First encounter with Uncle Kong.
 - lineNum: 3885
   raw: s90206	骷髅头	MouseEventBox	Resources_Art/Art3D/C&P/Planning_wish/Skeleton/Prefab/SM_Skeleton_Base002.prefab	None	98.40721, 135.8232, -1334.656	0.6467955, 0.581174, 0.3587772	1, 1, 1	78.40254, 180, 103.9228	False	0		0	0	0
   translated: 
@@ -27206,7 +27206,7 @@
   splits:
   - split: 1
     text: 小还丹
-    translated: Xiǎo Huán Dān
+    translated: Xiao Huan Dan
 - lineNum: 3887
   raw: s90206_10	骷髅头	MouseEventBox	Resources_Art/Art3D/C&P/Planning_wish/Skeleton/Prefab/SM_Skeleton_Base004.prefab	None	92.87133, 134.7692, -1340.324	1, 1, 1	1, 1, 1	11.0543, 326.785, 189.5077	False	0		0	0	0
   translated: 
@@ -27269,7 +27269,7 @@
   splits:
   - split: 1
     text: 飞蝗石
-    translated: Fēihuáng shí
+    translated: Feihuang shi
 - lineNum: 3896
   raw: 's90206_19	肮脏的钱袋	MouseEventBox	Character/All_Accessories/Prefab/ac6d0001.prefab	Pick	88.732, 133.838, -1339.631	1, 1, 1	1, 1, 1	330.2701, 7.839746, 354.1813	False	0		0	{ "MultiAction" : [ { "SetMoneyAction" : 120, 0}  ]} 	0'
   translated: 
@@ -27633,7 +27633,7 @@
   splits:
   - split: 1
     text: 大研镇董府门口
-    translated: Dangyan Town Dòng Family Gate
+    translated: Dangyan Town Dong Family Gate
 - lineNum: 3948
   raw: 's90401b	初至董府	EventBox		None	-747.2578, 68.27905, -1030.439	1, 1, 1	3.895996, 3.85636, 3.356222	0, 0.353071, 0	False	0		{ "LogicalNode" : [ { "TeammateCondition" : "n51001", True} , { "QuestCondition" : "Q20017_01", 0, True} , { "QuestCondition" : "Q10002_09", 1, True}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m9040101"}  ]} 	0'
   translated: 
@@ -27647,14 +27647,14 @@
   splits:
   - split: 1
     text: 深夜遇见董府夜袭
-    translated: Late-night encounter with a Dōng clan raid.
+    translated: Late-night encounter with a Dong clan raid.
 - lineNum: 3950
   raw: 's90402	床铺	MouseEventBox		Survey	-769.444, 75.83253, -1058.574	1, 1, 1	1.587185, 1, 2.520178	0, 0, 0	True	0		0	{ "MultiAction" : [ { "SetTalkIdAction" : "n90400101113"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 床铺
-    translated: ''
+    translated: Mattress
 - lineNum: 3951
   raw: 's90405	金鼎禅师来访	EventBox		None	-785.517, 73.59723, -1041.363	1, 1, 1	6.663146, 2.887526, 5.853143	0, 0.6663361, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q20017_08", 0, True} , { "TeammateCondition" : "n51001", True} , { "TeammateCondition" : "n90405", True}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m9040105"}  ]} 	0'
   translated: 
@@ -27675,7 +27675,7 @@
   splits:
   - split: 1
     text: 何白芍的血迹
-    translated: Hé Báisháo's bloodstains.
+    translated: He Baishao's bloodstains.
 - lineNum: 3954
   raw: 's90408	段家军装	MouseEventBox		Steal	-775.478, 75.703, -1059.471	1, 1, 1	0.6412701, 0.6412702, 0.6412702	0, 0, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "eq20157", 1}  ]} 	0'
   translated: 
@@ -28039,7 +28039,7 @@
   splits:
   - split: 1
     text: 初遇木初
-    translated: First encounter with Brother Mù Chū.
+    translated: First encounter with Brother Mu Chu.
 - lineNum: 4006
   raw: 's91002	药铺掌柜夜会	EventBox		None	-571.5, 102.161, -1252.49	1, 1, 1	-7.504296, 1, 8.255342	0, 56.63697, 0	False	0		{ "LogicalNode" : [ { "CheckFlagAction" : "f91048 看過藥鋪掌櫃夜會Movie", 1, 0} , { "CheckFlagAction" : "f50026是否閱讀藥鋪內信紙", 1, 1}  ], 0} 	{ "MultiAction" : [ { "SetTalkIdAction" : "n5002703000"}  ]} 	0'
   translated: 
@@ -28060,14 +28060,14 @@
   splits:
   - split: 1
     text: 发现阿九李连
-    translated: Found Ah Jiǔ Lián.
+    translated: Found Ah Jiu Lian.
 - lineNum: 4009
   raw: 's91005	雪翼雕事件	EventBox		None	-1186.27, 192.84, -945.78	1, 1, 1	37.4176, 2.396026, 30.66037	0, 4.795769, 0	False	0		{ "LogicalNode" : [ { "QuestCondition" : "Q52003_02", 0, True}  ], 0} 	{ "MultiAction" : [ { "RunMovieAction" : "m9106001b"}  ]} 	0'
   translated: 
   splits:
   - split: 1
     text: 雪翼雕事件
-    translated: Xuě Yì Diāo Shìjiàn
+    translated: Xue Yi Diao Shijian
 - lineNum: 4010
   raw: 's92001	书柜	MouseEventBox		Survey	333.693, 98.636, -50.751	1, 1, 1	0.8261971, 0.8261971, 0.2652277	0, 344.8913, 0	False	0		0	{ "MultiAction" : [ { "InventoryAction" : 0, "it801058", 1}  ]} 	0'
   translated: 
@@ -28109,7 +28109,7 @@
   splits:
   - split: 1
     text: 拱石村鸡舍音效
-    translated: Chicken Coop Sound Effects at Gǒngshí Village
+    translated: Chicken Coop Sound Effects at Gongshi Village
 - lineNum: 4016
   raw: sound2002	拱石村鸡舍音效	MouseEventBox		None	-7.75, 127.18, -1010.59	1, 1, 1	1, 1, 1	0, 0, 0	False	0	Resources_Audio/SoundEffect/chicken.wav	0	0	0
   translated: 

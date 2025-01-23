@@ -8,7 +8,7 @@
   splits:
   - split: 3
     text: 真‧
-    translated: ''
+    translated: True.
 - lineNum: 2
   raw: rf10318b	eq10318	1	封‧	10	150	(Sword,180)(TwoSword,180)(BladeSword,180)	weapon0318_3	(it70110,2)(it70113,2)
   translated: 
@@ -22,7 +22,7 @@
   splits:
   - split: 3
     text: 绝‧
-    translated: ''
+    translated: Perished.
 - lineNum: 4
   raw: rf10323a	eq10323	0	破‧	11	100	(Sword,220)(TwoSword,220)(BladeSword,220)	weapon0323	(it70110,2)(it70104,2)
   translated: 
@@ -36,7 +36,7 @@
   splits:
   - split: 3
     text: 烈‧
-    translated: ''
+    translated: Lian •
 - lineNum: 6
   raw: rf10323c	eq10323	2	绝‧	11	120	(Sword,190)(TwoSword,190)(BladeSword,190)	weapon0323_2	(it70110,2)(it70104,2)
   translated: 
@@ -85,7 +85,7 @@
   splits:
   - split: 3
     text: 绝‧
-    translated: ''
+    translated: Perished.
 - lineNum: 13
   raw: rf10418a	eq10418	0	真‧	9	80	(Blade,220)(TwoBlade,220)(BladeSword,220)	poisoned04,wounded04	(it70112,1)(it70104,1)(it70312,1)
   translated: 
@@ -127,14 +127,14 @@
   splits:
   - split: 3
     text: 绝‧
-    translated: ''
+    translated: Perished.
 - lineNum: 19
   raw: rf10808a	eq10808	0	真‧	26	100	(Bow,250)	wounded03,weapon0808	(it70110,1)(it70208,1)(it70604,1)
   translated: 
   splits:
   - split: 3
     text: 真‧
-    translated: ''
+    translated: True.
 - lineNum: 20
   raw: rf10808b	eq10808	1	烈‧	26	160	(Bow,180)	wounded12,weapon0808_3	(it70110,1)(it70208,1)(it70604,1)
   translated: 
@@ -169,7 +169,7 @@
   splits:
   - split: 3
     text: 绝‧
-    translated: ''
+    translated: Perished.
 - lineNum: 25
   raw: rf10922a	eq10922	0	超‧	7	80	(Short,230)(Sword,230)(TwoSword,230)(BladeSword,230)	wounded06,PointAddTrick_2	(it70109,1)
   translated: 
@@ -183,7 +183,7 @@
   splits:
   - split: 3
     text: 断‧
-    translated: ''
+    translated: Interrupted.
 - lineNum: 27
   raw: rf10922c	eq10922	2	真‧	7	90	(Short,195)(Sword,195)(TwoSword,195)(BladeSword,195)	wounded12,PointAddTrick_2	(it70109,1)
   translated: 
@@ -295,7 +295,7 @@
   splits:
   - split: 3
     text: 真‧
-    translated: ''
+    translated: True.
 - lineNum: 43
   raw: rf10108a	eq10108	0	真‧	2	90	(Fight,220)	weapon0108	(it70504,1)
   translated: 
@@ -372,7 +372,7 @@
   splits:
   - split: 3
     text: 烈‧
-    translated: Liè‧
+    translated: Lie‧
 - lineNum: 54
   raw: rf10114c	eq10114	2	绝‧	2	90	(Fight,150)	weapon0114	(it70505,1)
   translated: 
@@ -393,7 +393,7 @@
   splits:
   - split: 3
     text: 烈‧
-    translated: Lìe‧
+    translated: Lie‧
 - lineNum: 57
   raw: rf10115c	eq10115	2	绝‧	9	100	(Fight,200)	poisoned06	(it70508,1)
   translated: 
@@ -407,7 +407,7 @@
   splits:
   - split: 3
     text: 真‧
-    translated: ''
+    translated: True.
 - lineNum: 59
   raw: rf10333b	eq10333	1	烈‧	10	180	(Sword,170)(TwoSword,170)(BladeSword,170)	injured12	(it70208,1)(it70209,1)
   translated: 
@@ -421,7 +421,7 @@
   splits:
   - split: 3
     text: 绝‧
-    translated: ''
+    translated: Perished.
 - lineNum: 61
   raw: rf10334a	eq10334	0	真‧	11	150	(Sword,240)(TwoSword,240)(BladeSword,240)	confused06	(it70110,1)
   translated: 
@@ -456,7 +456,7 @@
   splits:
   - split: 3
     text: 烈‧
-    translated: ''
+    translated: Lian •
 - lineNum: 66
   raw: rf10531c	eq10531	2	绝‧	8	100	(Spear,160)	injured12	(it70208,1)(it70209,1)
   translated: 
@@ -470,7 +470,7 @@
   splits:
   - split: 3
     text: 真‧
-    translated: ''
+    translated: True.
 - lineNum: 68
   raw: rf10912b	eq10912	1	烈‧	8	130	(Short,165)(Blade,165)(TwoBlade,165)(BladeSword,165)	wounded12,weapon0912_3	(it70111,1)(it70104,1)
   translated: 

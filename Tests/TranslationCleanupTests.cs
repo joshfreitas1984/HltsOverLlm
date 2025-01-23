@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿using Newtonsoft.Json.Linq;
+using System.Text.RegularExpressions;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 
@@ -22,6 +23,25 @@ public class TranslationCleanupTests
                 {
                     if (string.IsNullOrEmpty(split.Translated))
                         continue;
+
+                    // If it is already translated or just special characters return it
+                    if (!Regex.IsMatch(split.Text, @"\p{IsCJKUnifiedIdeographs}") && split.Translated != split.Text)
+                    {
+                        Console.WriteLine($"Already Translated {textFileToTranslate.Path} \n{split.Translated}");
+                        split.Translated = split.Text;
+                        recordsModded++;
+                        continue;
+                    }
+
+                    // Clean up Diacritics
+                    var cleanedUp = TranslationService.CleanupLine(split.Translated, split.Text);
+                    if (cleanedUp != split.Translated)
+                    {
+                        Console.WriteLine($"Cleaned up {textFileToTranslate.Path} \n{split.Translated}\n{cleanedUp}");
+                        split.Translated = cleanedUp;
+                        recordsModded++;
+                        continue;
+                    }
 
                     var result = TranslationService.CheckTransalationSuccessful(config, split.Text, split.Translated ?? string.Empty);
                     if (!result.Valid)

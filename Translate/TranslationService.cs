@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics;
 using System.Dynamic;
+using System.Globalization;
 using System.Net.Http.Headers;
 using System.Reflection;
 using System.Text;
@@ -10,7 +11,6 @@ using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 
 namespace Translate;
-
 
 public static class TranslationService
 {
@@ -93,6 +93,9 @@ public static class TranslationService
         Directory.CreateDirectory(outputPath);
         Directory.CreateDirectory(failedPath);
 
+        var passedCount = 0;
+        var failedCount = 0;
+
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             var failedLines = new List<string>();
@@ -113,11 +116,18 @@ public static class TranslationService
                 }
 
                 line.Translated = string.Join('\t', splits);
+                
+                //Work around for truncated tabs
+                if (!line.Translated.Contains('\t'))
+                    line.Translated += '\t';
 
                 if (!failed)
                     finalLines.Add(line.Translated);
                 else
+                {
+                    finalLines.Add(line.Raw);
                     failedLines.Add(line.Raw);
+                }
             }
 
             if (finalLines.Count > 0)
@@ -126,8 +136,14 @@ public static class TranslationService
             if (failedLines.Count > 0)
                 File.WriteAllLines($"{failedPath}/{textFileToTranslate.Path}", failedLines);
 
+            passedCount += finalLines.Count;
+            failedCount += failedLines.Count;
+
             await Task.CompletedTask;
         });
+
+        Console.WriteLine($"Passed: {passedCount}");
+        Console.WriteLine($"Failed: {failedCount}");
 
         ModHelper.GenerateModConfig(workingDirectory);
     }
@@ -225,23 +241,24 @@ public static class TranslationService
             var batchSize = config.BatchSize ?? 20;
             var totalLines = fileLines.Count;
             var stopWatch = Stopwatch.StartNew();
+            int recordsProcessed = 0;
+            int bufferedRecords = 0;
 
             for (int i = 0; i < totalLines; i += batchSize)
-            {
-                stopWatch.Restart();
-
+            {              
                 int batchRange = Math.Min(batchSize, totalLines - i);
 
                 // Use a slice of the list directly
                 var batch = fileLines.GetRange(i, batchRange);
-
-                int recordsProcessed = 0;
 
                 // Process the batch in parallel
                 await Task.WhenAll(batch.Select(async line =>
                 {
                     foreach (var split in line.Splits)
                     {
+                        if (string.IsNullOrEmpty(split.Text))
+                            continue;
+
                         var cacheHit = translationCache.ContainsKey(split.Text);
 
                         if (string.IsNullOrEmpty(split.Translated) || forceRetranslation)
@@ -252,6 +269,7 @@ public static class TranslationService
                                 split.Translated = await TranslateSplitAsync(config, split.Text, client);
 
                             recordsProcessed++;
+                            bufferedRecords++;
                         }
 
                         //Two translations could be doing this at the same time
@@ -260,13 +278,20 @@ public static class TranslationService
                     }
                 }));
 
-                var elapsed = stopWatch.ElapsedMilliseconds;
-                var speed = recordsProcessed == 0 ? 0 : elapsed / recordsProcessed;
-                Console.WriteLine($"Line: {i + batchRange} of {totalLines} ({elapsed} ms ~ {speed}/line)");
+                Console.WriteLine($"Line: {i + batchRange} of {totalLines}");
 
-                if (recordsProcessed > 0)
+                if (bufferedRecords > 1000)
+                {
+                    Console.WriteLine($"Writing Buffer....");
                     await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
+                    bufferedRecords = 0;
+                }
             }
+
+            var elapsed = stopWatch.ElapsedMilliseconds;
+            var speed = recordsProcessed == 0 ? 0 : elapsed / recordsProcessed;
+            Console.WriteLine($"Done: {totalLines} ({elapsed} ms ~ {speed}/line)");
+            await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
         }
     }
 
@@ -342,9 +367,6 @@ public static class TranslationService
             if (optimisationMode && retryCount > 1)
                 File.WriteAllText($"{optimisationFolder}/{DateTime.Now.ToString("yyyyMMddHHmmss")}-{Guid.NewGuid()}.json", requestData);
 
-            if (!translationValid)
-                Console.WriteLine($"Invalid Line: {raw}");
-
             return translationValid ? CleanupLine(result, raw) : string.Empty;
         }
         catch (HttpRequestException e)
@@ -366,9 +388,36 @@ public static class TranslationService
 
             if (input.Contains(']') && !raw.Contains(']'))
                 input = input.Replace("]", "");
+
+            if (input.Contains('`') && !raw.Contains('`'))
+                input = input.Replace("`", "'");
+
+            input = RemoveDiacritics(input);
         }
 
         return input;
+    }
+
+    public static string RemoveDiacritics(string text)
+    {
+        if (text == null)
+        {
+            return null;
+        }
+
+        var normalizedString = text.Normalize(NormalizationForm.FormD);
+        var stringBuilder = new StringBuilder();
+
+        foreach (var c in normalizedString)
+        {
+            var unicodeCategory = CharUnicodeInfo.GetUnicodeCategory(c);
+            if (unicodeCategory != UnicodeCategory.NonSpacingMark)
+            {
+                stringBuilder.Append(c);
+            }
+        }
+
+        return stringBuilder.ToString().Normalize(NormalizationForm.FormC);
     }
 
     public static void AddPromptWithValues(this StringBuilder builder, LlmConfig config, string promptName, params string[] values)
@@ -403,6 +452,19 @@ public static class TranslationService
         {
             response = false;
             correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "or");
+        }
+
+        // Small source with 'and' is ususually an alternative
+        if (result.Contains("and") && raw.Length < 4)
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "and");
+        }
+
+        // Didnt translate at all and default response to prompt.
+        if (result.Contains("Please provide the text you would like translated"))
+        {
+            response = false;
         }
 
         // Small source with ';' is ususually an alternative
@@ -547,5 +609,34 @@ public static class TranslationService
             placeholders.Add(match.Value);
 
         return placeholders;
+    }
+
+    public static void CopyDirectory(string sourceDir, string destDir)
+    {
+        // Get the subdirectories for the specified directory.
+        DirectoryInfo dir = new DirectoryInfo(sourceDir);
+
+        if (!dir.Exists)
+            throw new DirectoryNotFoundException($"Source directory does not exist or could not be found: {sourceDir}");
+
+        // If the destination directory doesn't exist, create it.
+        if (!Directory.Exists(destDir))
+            Directory.CreateDirectory(destDir);
+
+        // Get the files in the directory and copy them to the new location.
+        FileInfo[] files = dir.GetFiles();
+        foreach (FileInfo file in files)
+        {
+            var tempPath = Path.Combine(destDir, file.Name);
+            file.CopyTo(tempPath, false);
+        }
+
+        // Copy each subdirectory using recursion
+        DirectoryInfo[] dirs = dir.GetDirectories();
+        foreach (DirectoryInfo subdir in dirs)
+        {
+            var tempPath = Path.Combine(destDir, subdir.Name);
+            CopyDirectory(subdir.FullName, tempPath);
+        }
     }
 }

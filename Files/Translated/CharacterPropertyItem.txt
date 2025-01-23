@@ -88,7 +88,7 @@
   splits:
   - split: 5
     text: 段家军士兵(段家剑)
-    translated: Soldier (of the Duàn Family) Duàn Jiā Jǐan
+    translated: Soldier (of the Duan Family) Duan Jia Jian
 - lineNum: 13
   raw: n00029	40	fm00000	a00001		绣眉(秘籍商人)	ta0092h	st0056,st0052c,st0168		0	ai00000	(MajorWeapon,eq10327)	0	(HP,6665)(MaxHP,6665)(MP,4018)(MaxMP,4018)(Physique,68)(Intelligence,50)(Neigong,128)(Qinggong,100)(Fight,140)(Sword,80)(Blade,80)(Spear,80)(Arrow,80)(Short,80)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,-100)	(it30106,1)(it30123,1)(it30220,1)(it30228,1)(it30303,1)(it30411,1)(it30412,1)(it30508,1)(it30515,1)(it30606,1)(it30612,1)(it30709,1)(it30712,1)(it30101,1)(it30217,1)(it30304,1)(it30308,1)(it30409,1)(it30518,1)(it30602,1)(it30704,1)	0,0	0
   translated: 
@@ -109,7 +109,7 @@
   splits:
   - split: 5
     text: 赋闲书院燕卿云
-    translated: Idle Scholar Academy's Yān Qīngyún
+    translated: Idle Scholar Academy's Yan Qingyun
 - lineNum: 16
   raw: n00035a	11	fm00000	al20011		灰狼	ta0075b	st0016		103	ai00000		0	(HP,1254)(MaxHP,1254)(MP,798)(MaxMP,798)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,30)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -333,21 +333,21 @@
   splits:
   - split: 5
     text: 缇骑(心意六合剑)
-    translated: Ti Qí (Heart Intent Six Harmonies Sword)
+    translated: Ti Qi (Heart Intent Six Harmonies Sword)
 - lineNum: 48
   raw: n00047d	33	fm00000	a00006		缇骑(心意六合剑)	ta0091f	st0138		0	ai00000	(MajorWeapon,eq10304)	1	(HP,4147)(MaxHP,4147)(MP,2564)(MaxMP,2564)(Physique,47)(Intelligence,50)(Neigong,59)(Qinggong,63)(Fight,43)(Sword,86)(Blade,43)(Spear,43)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,0)(Madness,-15)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 缇骑(心意六合剑)
-    translated: Ti Qí (Heart Intent Six-Union Sword)
+    translated: Ti Qi (Heart Intent Six-Union Sword)
 - lineNum: 49
   raw: n00047e	32	fm00000	a00006		缇骑(心意六合剑)	ta0091c	st0138		0	ai00000	(MajorWeapon,eq10304)	1	(HP,3966)(MaxHP,3966)(MP,2473)(MaxMP,2473)(Physique,46)(Intelligence,50)(Neigong,58)(Qinggong,61)(Fight,42)(Sword,84)(Blade,42)(Spear,42)(Arrow,42)(Short,42)(Doctor,0)(Poison,0)(Money,0)(Madness,-15)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 缇骑(心意六合剑)
-    translated: Tí Qí (Heart Intent Six Harmonies Sword)
+    translated: Ti Qi (Heart Intent Six Harmonies Sword)
 - lineNum: 50
   raw: n00047f	34	fm00000	a00006		缇骑(心意六合剑)	ta0091d	st0138		0	ai00000	(MajorWeapon,eq10304)	1	(HP,4156)(MaxHP,4156)(MP,2655)(MaxMP,2655)(Physique,45)(Intelligence,50)(Neigong,61)(Qinggong,65)(Fight,44)(Sword,88)(Blade,44)(Spear,44)(Arrow,44)(Short,44)(Doctor,0)(Poison,0)(Money,0)(Madness,-15)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40108,1)	-1,-1	0
   translated: 
@@ -361,7 +361,7 @@
   splits:
   - split: 5
     text: 缇骑(心意六合剑)
-    translated: Tíqì (Xīnyì Liùhé Jiàn)
+    translated: Tiqi (Xinyi Liuhe Jian)
 - lineNum: 52
   raw: n00047h	34	fm00000	a00006		缇骑(心意六合剑)	ta0091e	st0138		0	ai00000	(MajorWeapon,eq10304)	1	(HP,4099)(MaxHP,4099)(MP,2655)(MaxMP,2655)(Physique,44)(Intelligence,50)(Neigong,61)(Qinggong,65)(Fight,44)(Sword,88)(Blade,44)(Spear,44)(Arrow,44)(Short,44)(Doctor,0)(Poison,0)(Money,0)(Madness,-15)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,0)		-1,-1	0
   translated: 
@@ -725,7 +725,7 @@
   splits:
   - split: 5
     text: 查婆婆
-    translated: Grandmother Chá
+    translated: ''
 - lineNum: 104
   raw: n00087	12	fm00000	a00001		余老伯	ta0050	st0082d		0	ai00000	(MajorWeapon,eq10521)	1	(HP,1467)(MaxHP,1467)(MP,877)(MaxMP,877)(Physique,45)(Intelligence,50)(Neigong,34)(Qinggong,18)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,24)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -746,7 +746,7 @@
   splits:
   - split: 5
     text: 赤丹宫妖道(千蛛万毒功)
-    translated: Chídān Gōng Yāodào (Qianzhū Wàn Dú Gōng)
+    translated: Chidan Gong Yaodao (Qianzhu Wan Du Gong)
 - lineNum: 107
   raw: n00092b	32	fm00000	a00002	nick091	赤丹宫妖道(千蛛万毒功)	ta0091b	st0161c		0	ai00000	(MajorWeapon,eq11006)(MinorWeapon,eq10708)	1	(HP,3751)(MaxHP,3751)(MP,2473)(MaxMP,2473)(Physique,42)(Intelligence,49)(Neigong,58)(Qinggong,58)(Fight,64)(Sword,42)(Blade,42)(Spear,42)(Arrow,64)(Short,74)(Doctor,42)(Poison,58)(Money,0)(Madness,25)(Moral,-50)(Reputation,0)(ZOC,60)(YinAndYang,-125)	(it40108,1)	0,0	0
   translated: 
@@ -788,7 +788,7 @@
   splits:
   - split: 5
     text: 丹尸(花拳绣腿)
-    translated: Dān shī (huāquán xiùtuǐ) - Corpse Elixir (Flower Fist Embroidered Leg)
+    translated: Dan shi (huaquan xiutui) - Corpse Elixir (Flower Fist Embroidered Leg)
 - lineNum: 113
   raw: n00095e	10	fm00000	n00095	nick125	丹尸(花拳绣腿)		st0064		0	ai00000		0	(HP,2460)(MaxHP,2460)(MP,701)(MaxMP,701)(Physique,100)(Intelligence,50)(Neigong,0)(Qinggong,0)(Fight,10)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-125)		-1,-1	0
   translated: 
@@ -809,7 +809,7 @@
   splits:
   - split: 5
     text: 赤丹宫妖道(千蛛万毒功)
-    translated: Chìdān Gōng Yāodào (Qiānzhū Wàndú Gōng)
+    translated: Chidan Gong Yaodao (Qianzhu Wandu Gong)
 - lineNum: 116
   raw: n00096b	35	fm00000	a00013	nick091	赤丹宫妖道(千蛛万毒功)	ta0091b	st0161c		0	ai00000	(MajorWeapon,eq11006)(MinorWeapon,eq10708)	1	(HP,4103)(MaxHP,4103)(MP,2748)(MaxMP,2748)(Physique,42)(Intelligence,49)(Neigong,63)(Qinggong,63)(Fight,70)(Sword,45)(Blade,45)(Spear,45)(Arrow,70)(Short,80)(Doctor,42)(Poison,63)(Money,0)(Madness,25)(Moral,-50)(Reputation,0)(ZOC,60)(YinAndYang,-125)	(it40108,1)	-1,-1	0
   translated: 
@@ -837,14 +837,14 @@
   splits:
   - split: 5
     text: 赤丹宫妖道(千蛛万毒功)
-    translated: Chìdān Gōng Yāodào (Qianzhū Wàn Dúgōng)
+    translated: Chidan Gong Yaodao (Qianzhu Wan Dugong)
 - lineNum: 120
   raw: n00096f	37	fm00000	a00001	nick091	赤丹宫妖道(千蛛万毒功)	ta0091b	st0161c		0	ai00000	(MajorWeapon,eq11006)(MinorWeapon,eq10708)	0	(HP,4218)(MaxHP,4218)(MP,2937)(MaxMP,2937)(Physique,40)(Intelligence,49)(Neigong,67)(Qinggong,67)(Fight,74)(Sword,47)(Blade,47)(Spear,47)(Arrow,74)(Short,84)(Doctor,42)(Poison,67)(Money,0)(Madness,25)(Moral,-50)(Reputation,0)(ZOC,60)(YinAndYang,-125)	(it40108,1)	-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 赤丹宫妖道(千蛛万毒功)
-    translated: Chìdān Gōng Yāodào (Qīnzhu Wàn Dúgōng)
+    translated: Chidan Gong Yaodao (Qinzhu Wan Dugong)
 - lineNum: 121
   raw: n00097a	20	fm00000	a00003		青城弟子(松风剑法)(巧)	ta0064	st0095b,st0163		207	ai00000	(MajorWeapon,eq10321)	0	(HP,2411)(MaxHP,2411)(MP,1480)(MaxMP,1480)(Physique,44)(Intelligence,50)(Neigong,40)(Qinggong,40)(Fight,30)(Sword,50)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,-15)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		-1,-1	0
   translated: 
@@ -984,7 +984,7 @@
   splits:
   - split: 5
     text: 都司精兵(岳家枪法、中平枪法)
-    translated: Captain of the Elite Troops (Yuèjiā Qióngfǎ, Zhōngpíng Qióngfǎ)
+    translated: Captain of the Elite Troops (Yuejia Qiongfa, Zhongping Qiongfa)
 - lineNum: 141
   raw: n00109a	33	fm00000	a00001		南诏精兵(黄沙刀法、大刀十三劈)	ta0091	st0008c,st0057		0	ai00000	(MajorWeapon,eq10420)	1	(HP,5643)(MaxHP,5643)(MP,2589)(MaxMP,2589)(Physique,70)(Intelligence,50)(Neigong,63)(Qinggong,50)(Fight,43)(Sword,43)(Blade,76)(Spear,43)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,0)(Madness,-20)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
@@ -1173,7 +1173,7 @@
   splits:
   - split: 5
     text: 禾家马帮干部(破山刀、青天刀法)
-    translated: He Family Horse Gang Official (Pò Shān Dāo, Qīng Tiān Dāo Fǎ)
+    translated: He Family Horse Gang Official (Po Shan Dao, Qing Tian Dao Fa)
 - lineNum: 168
   raw: n00119b	16	fm00000	a00001		武侯祠卖药郎中	ta0063	st0064		0	ai00000		0	(HP,1849)(MaxHP,1849)(MP,1189)(MaxMP,1189)(Physique,41)(Intelligence,50)(Neigong,42)(Qinggong,24)(Fight,32)(Sword,32)(Blade,32)(Spear,32)(Arrow,32)(Short,32)(Doctor,30)(Poison,30)(Money,5000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40108,5)(it40109,3)(it40110,3)(it40111,3)(it40113,3)(it40114,3)	0,0	0
   translated: 
@@ -1194,7 +1194,7 @@
   splits:
   - split: 5
     text: 风云渡茶铺
-    translated: Fēngyún Dù Chápú
+    translated: Fengyun Du Chapu
 - lineNum: 171
   raw: n06003	15	fm00000	a00001		锦河津客栈	ta0055b	st0101b		0	ai00000	(MajorWeapon,eq10913)	1	(HP,1758)(MaxHP,1758)(MP,1110)(MaxMP,1110)(Physique,42)(Intelligence,50)(Neigong,40)(Qinggong,23)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60121,5)(it60143,5)	0,0	24
   translated: 
@@ -1208,21 +1208,21 @@
   splits:
   - split: 5
     text: 丈青茶馆
-    translated: Zhāng Qīng Tea House
+    translated: Zhang Qing Tea House
 - lineNum: 173
   raw: n07001	75	fm00000	n07001	nick126b	皇甫登云(野球拳、浑金剑诀)	ta0083	st0127,st0153c,st0997		0	ai01	(MajorWeapon,eq10332)(MinorWeapon,eq10111)(Cloth,eq20112)	0	(HP,40050)(MaxHP,40050)(MP,14160)(MaxMP,14160)(Physique,180)(Intelligence,100)(Neigong,263)(Qinggong,113)(Fight,240)(Sword,218)(Blade,195)(Spear,188)(Arrow,165)(Short,165)(Doctor,100)(Poison,100)(Money,950000)(Madness,0)(Moral,-90)(Reputation,0)(ZOC,60)(YinAndYang,200)	(it40116,3)	-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 皇甫登云(野球拳、浑金剑诀)
-    translated: Huángfú Dēngyún (Yèqiúquán, Húnjīn Jiànjùe)
+    translated: Huangfu Dengyun (Yeqiuquan, Hunjin Jianjue)
 - lineNum: 174
   raw: n07001a	20	fm00000	a00001	nick126	皇甫登云-装弱(浑金剑诀)	ta0003	st0153,st0999		0	ai00000	(MajorWeapon,eq10332)	0	(HP,2805)(MaxHP,2805)(MP,1480)(MaxMP,1480)(Physique,55)(Intelligence,100)(Neigong,40)(Qinggong,40)(Fight,30)(Sword,50)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-90)(Reputation,0)(ZOC,60)(YinAndYang,200)	(it40116,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 皇甫登云-装弱(浑金剑诀)
-    translated: Huangfu Dengyun - Pretending Weakness (Huánjīn Jiànjué)
+    translated: Huangfu Dengyun - Pretending Weakness (Huanjin Jianjue)
 - lineNum: 175
   raw: n07001b	75	fm00000	n07001	nick126b	皇甫登云(演出用)	ta0083	st0127,st0153c,st0997		0	ai01	(MajorWeapon,eq10332)(MinorWeapon,eq10111)(Cloth,eq20112)	0	(HP,40050)(MaxHP,40050)(MP,14160)(MaxMP,14160)(Physique,180)(Intelligence,100)(Neigong,263)(Qinggong,113)(Fight,240)(Sword,218)(Blade,195)(Spear,188)(Arrow,165)(Short,165)(Doctor,100)(Poison,100)(Money,950000)(Madness,0)(Moral,-90)(Reputation,0)(ZOC,60)(YinAndYang,200)	(it40116,3)	-1,-1	0
   translated: 
@@ -1271,7 +1271,7 @@
   splits:
   - split: 5
     text: 百损(玄冥神掌)
-    translated: Baisang (Xuánmíng Shénzhǎng)
+    translated: Baisang (Xuanming Shenzhang)
 - lineNum: 182
   raw: n09996a	31	fm00000	n09996	nick021	百损(假装不挑食)	ta0085	st0148		0	ai00000	(MajorWeapon,eq10112)	0	(HP,3789)(MaxHP,3789)(MP,2413)(MaxMP,2413)(Physique,45)(Intelligence,75)(Neigong,60)(Qinggong,50)(Fight,65)(Sword,40)(Blade,40)(Spear,30)(Arrow,40)(Short,40)(Doctor,40)(Poison,50)(Money,0)(Madness,0)(Moral,25)(Reputation,0)(ZOC,60)(YinAndYang,-120)	(it40105,3)	0,0	0
   translated: 
@@ -1348,7 +1348,7 @@
   splits:
   - split: 5
     text: 石老六(黄沙刀法)
-    translated: Shí Lǎo Liù (Huang Sha Dāofǎ)
+    translated: Shi Lao Liu (Huang Sha Daofa)
 - lineNum: 193
   raw: n10010	25	fm00000	a00001		石家二少爷	ta0052	st0054b		0	ai00000		0	(HP,3056)(MaxHP,3056)(MP,1894)(MaxMP,1894)(Physique,45)(Intelligence,50)(Neigong,50)(Qinggong,38)(Fight,50)(Sword,50)(Blade,50)(Spear,50)(Arrow,50)(Short,50)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80321,1)	0,0	0
   translated: 
@@ -1383,7 +1383,7 @@
   splits:
   - split: 5
     text: 石家庄神态疯狂的流寇刀(黄沙刀法，五虎断门刀)
-    translated: Shijiazhuang's Frenzied Bandit Sword (Huangsha Sword Technique, Wuhu Duānmén Sword)
+    translated: Shijiazhuang's Frenzied Bandit Sword (Huangsha Sword Technique, Wuhu Duanmen Sword)
 - lineNum: 198
   raw: n10019	18	fm00000	a00001		石家庄钓客（豆花嫂丈夫）	ta0051	st0089f		0	ai00000		0	(HP,2200)(MaxHP,2200)(MP,1320)(MaxMP,1320)(Physique,45)(Intelligence,50)(Neigong,36)(Qinggong,27)(Fight,36)(Sword,36)(Blade,36)(Spear,36)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,3000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60504,10)(it60513,10)	0,0	48
   translated: 
@@ -1425,7 +1425,7 @@
   splits:
   - split: 5
     text: 凶恶的大虫（刚）
-    translated: Fierce Giant Beast (Gāng)
+    translated: Fierce Giant Beast (Gang)
 - lineNum: 204
   raw: n10027a	10	fm00000	a00001		石家庄豆花铺伙计（可交易）	ta0050	st0054		0	ai00000		0	(HP,1062)(MaxHP,1062)(MP,725)(MaxMP,725)(Physique,35)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,3000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60146,10)	0,0	2
   translated: 
@@ -1439,7 +1439,7 @@
   splits:
   - split: 5
     text: 盐帮帮众劳斯嵇
-    translated: Salt Guild members Laous Jié
+    translated: Salt Guild members Laous Jie
 - lineNum: 206
   raw: n10038	20	fm00000	a00001		盐帮帮众夜间巡逻	ta0071	st0125		0	ai00000	(MajorWeapon,eq10503)	0	(HP,2411)(MaxHP,2411)(MP,1515)(MaxMP,1515)(Physique,44)(Intelligence,50)(Neigong,50)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,3000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
@@ -1474,7 +1474,7 @@
   splits:
   - split: 5
     text: 盐帮帮众
-    translated: Yán Bāng Bandit Gangsters
+    translated: Yan Bang Bandit Gangsters
 - lineNum: 211
   raw: n10044c	10	fm00000	a00001		商人妇		st0064		0	ai00000		0	(HP,990)(MaxHP,990)(MP,725)(MaxMP,725)(Physique,30)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
@@ -1593,7 +1593,7 @@
   splits:
   - split: 5
     text: 翻江棍曹应(一十八路豹变枪)
-    translated: Péng Jiāng Gùn Cáo Yìng (Yīshíbā Lù Bàobiàn Qiāng)
+    translated: Peng Jiang Gun Cao Ying (Yishiba Lu Baobian Qiang)
 - lineNum: 228
   raw: n10055e	30	fm00000	a00001		连环镖萧潇(甩手封喉、血海迷踪)	ta0061	st0014,st0022b		202	ai00000	(MajorWeapon,eq10705)(MinorWeapon,eq10701)(Cloth,eq20102)	0	(HP,3420)(MaxHP,3420)(MP,2278)(MaxMP,2278)(Physique,40)(Intelligence,50)(Neigong,51)(Qinggong,51)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,70)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it40101,1)(it40102,1)	-1,-1	0
   translated: 
@@ -1978,14 +1978,14 @@
   splits:
   - split: 5
     text: 美馔楼民居妇人
-    translated: Lady of a Ménú House Dwelling
+    translated: Lady of a Menu House Dwelling
 - lineNum: 283
   raw: n10079	12	fm00000	a00001		美馔楼对面曹奉	ta0063	st0064		0	ai00000		0	(HP,1275)(MaxHP,1275)(MP,862)(MaxMP,862)(Physique,35)(Intelligence,50)(Neigong,24)(Qinggong,18)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,24)(Doctor,0)(Poison,0)(Money,30000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70311,1)(it70312,1)(it70313,1)(it70314,1)(it70315,1)(it70325,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 美馔楼对面曹奉
-    translated: Měizhānlóu duìmiàn Cáo Fèng
+    translated: Meizhanlou duimian Cao Feng
 - lineNum: 284
   raw: n10080	12	fm00000	a00001		美馔楼对面粮商	ta0063	st0064		0	ai00000		0	(HP,1222)(MaxHP,1222)(MP,862)(MaxMP,862)(Physique,32)(Intelligence,50)(Neigong,24)(Qinggong,18)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,24)(Doctor,0)(Poison,0)(Money,5000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60608,10)(it60609,10)(it60611,10)	0,0	2
   translated: 
@@ -2069,7 +2069,7 @@
   splits:
   - split: 5
     text: 瞪眼彪 赵魁（奇门三才刀、开山碎玉刀）(刚)
-    translated: Staring Beast Zhao Kui (Qimen Sancai Sword, Kaishan Suìyù Sword) (Just now)
+    translated: Staring Beast Zhao Kui (Qimen Sancai Sword, Kaishan Suiyu Sword) (Just now)
 - lineNum: 296
   raw: n10084e	16	fm00000	a00001		鬼见愁 曾丑（凌尘剑、回风拂柳剑）(动)	ta0055b	st0071,st0021		0	ai00000	(MajorWeapon,eq10303)(Cloth,eq20102)	0	(HP,1956)(MaxHP,1956)(MP,1158)(MaxMP,1158)(Physique,45)(Intelligence,50)(Neigong,29)(Qinggong,34)(Fight,26)(Sword,42)(Blade,26)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,2)(it80306,2)	-1,-1	0
   translated: 
@@ -2090,7 +2090,7 @@
   splits:
   - split: 5
     text: 银颉
-    translated: Scribe Yin Jié
+    translated: Scribe Yin Jie
 - lineNum: 299
   raw: n10086	20	fm00000	a00001		大研镇观赏用长枪兵	ta0056	st0067a		0	ai00000	(MajorWeapon,eq10502)(Cloth,eq20102)	1	(HP,2805)(MaxHP,2805)(MP,1480)(MaxMP,1480)(Physique,55)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -2146,14 +2146,14 @@
   splits:
   - split: 5
     text: 豹王寨山路喽啰刀 刚
-    translated: Bàowáng Zhài Shānlù Lǔluó Dāo Gāng
+    translated: Baowang Zhai Shanlu Luluo Dao Gang
 - lineNum: 307
   raw: n19971b	16	fm00000	a00001		豹王寨山路喽啰刀 拙	ta0059	st0057,st0008b		201	ai00000	(MajorWeapon,eq10403)(Cloth,eq20102)	0	(HP,1983)(MaxHP,1983)(MP,1172)(MaxMP,1172)(Physique,46)(Intelligence,50)(Neigong,35)(Qinggong,26)(Fight,26)(Sword,26)(Blade,52)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it80114,1)(it60205,1)(it40110,1)	24,24	1
   translated: 
   splits:
   - split: 5
     text: 豹王寨山路喽啰刀 拙
-    translated: "Biao Wang's Mountain Road Henchmen Sword Technique: Naïve"
+    translated: "Biao Wang's Mountain Road Henchmen Sword Technique: Naive"
 - lineNum: 308
   raw: n19971c	17	fm00000	a00001		豹王寨山路喽啰枪 动	ta0056	st0010b,st0123		201	ai00000	(MajorWeapon,eq10502)(Cloth,eq20102)	0	(HP,1938)(MaxHP,1938)(MP,1251)(MaxMP,1251)(Physique,40)(Intelligence,50)(Neigong,37)(Qinggong,43)(Fight,27)(Sword,27)(Blade,27)(Spear,54)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it80113,1)(it80302,1)(it60203,1)(it40111,1)	24,24	1
   translated: 
@@ -2265,7 +2265,7 @@
   splits:
   - split: 5
     text: D2小屋的韩猊跋(缠丝八法、沾衣石八跌)（静柔）
-    translated: Hán Nièbá (Chán sī bā fǎ, Zhān yī shí bā dié) (Jìng róu) in the D2 Hut.
+    translated: Han Nieba (Chan si ba fa, Zhan yi shi ba die) (Jing rou) in the D2 Hut.
 - lineNum: 324
   raw: n19976a	40	fm00000	n19976	nick139	展现实力的韩猊跋(缠丝八法、沾衣石八跌)（静柔）	ta0092c	st0023b,st0136		0	ai00000	(MajorWeapon,eq10103)(Cloth,eq20108)	0	(HP,7107)(MaxHP,7107)(MP,3752)(MaxMP,3752)(Physique,73)(Intelligence,55)(Neigong,112)(Qinggong,68)(Fight,130)(Sword,86)(Blade,86)(Spear,86)(Arrow,86)(Short,74)(Doctor,45)(Poison,0)(Money,500)(Madness,85)(Moral,-85)(Reputation,0)(ZOC,60)(YinAndYang,-125)		0,0	0
   translated: 
@@ -2321,7 +2321,7 @@
   splits:
   - split: 5
     text: C组拱石村土匪短 巧
-    translated: 'Group C: Cunning Tactics of the Gǒngshí Village Bandits'
+    translated: 'Group C: Cunning Tactics of the Gongshi Village Bandits'
 - lineNum: 332
   raw: n19984	12	fm00000	a00003		C组拱石村土匪暗 刚	ta0051	st0014		202	ai00000	(MajorWeapon,eq10705)	0	(HP,1275)(MaxHP,1275)(MP,857)(MaxMP,857)(Physique,35)(Intelligence,50)(Neigong,20)(Qinggong,20)(Fight,10)(Sword,10)(Blade,10)(Spear,10)(Arrow,40)(Short,10)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,1)	24,24	1
   translated: 
@@ -2342,7 +2342,7 @@
   splits:
   - split: 5
     text: D组拱石村流寇剑 巧
-    translated: 'Group D: Guǎngshí Village Bandit Swordsmanship Expert'
+    translated: 'Group D: Guangshi Village Bandit Swordsmanship Expert'
 - lineNum: 335
   raw: n19987	15	fm00000	a00003		D组拱石村流寇拳	ta0052	st0054		201	ai00000	(MajorWeapon,eq10102)	0	(HP,2103)(MaxHP,2103)(MP,1065)(MaxMP,1065)(Physique,55)(Intelligence,50)(Neigong,15)(Qinggong,10)(Fight,35)(Sword,10)(Blade,10)(Spear,10)(Arrow,10)(Short,10)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,1)	24,24	1
   translated: 
@@ -2356,7 +2356,7 @@
   splits:
   - split: 5
     text: E组拱石村迷恋火焰的流寇暗 刚
-    translated: Group E's bandit who secretly harbors a fascination with fire is Gāng.
+    translated: Group E's bandit who secretly harbors a fascination with fire is Gang.
 - lineNum: 337
   raw: n19989	20	fm00000	a00001		E组拱石村迷恋火焰的流寇短 动	ta0056	st0142		201	ai00000	(MajorWeapon,eq11102)	0	(HP,2248)(MaxHP,2248)(MP,1412)(MaxMP,1412)(Physique,39)(Intelligence,50)(Neigong,10)(Qinggong,30)(Fight,10)(Sword,10)(Blade,10)(Spear,10)(Arrow,10)(Short,35)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40234,1)	24,24	1
   translated: 
@@ -2370,7 +2370,7 @@
   splits:
   - split: 5
     text: E组拱石村迷恋火焰的流寇拳 拙
-    translated: Group E's Gǒngshí Village is infatuated with the Flame-Enamored Outlaw Fist Technique, which is clumsily executed.
+    translated: Group E's Gongshi Village is infatuated with the Flame-Enamored Outlaw Fist Technique, which is clumsily executed.
 - lineNum: 339
   raw: n19991	19	fm00000	a00001		E组拱石村迷恋火焰的流寇枪	ta0052	st0010		201	ai00000	(MajorWeapon,eq10502)	0	(HP,2166)(MaxHP,2166)(MP,1347)(MaxMP,1347)(Physique,40)(Intelligence,50)(Neigong,14)(Qinggong,17)(Fight,10)(Sword,10)(Blade,10)(Spear,35)(Arrow,10)(Short,10)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)		24,24	1
   translated: 
@@ -2391,7 +2391,7 @@
   splits:
   - split: 5
     text: F组拱石村锦毛虎剑
-    translated: 'Group F: Gǒngshí Village - Jinmáohǔ Sword'
+    translated: 'Group F: Gongshi Village - Jinmaohu Sword'
 - lineNum: 342
   raw: n19994	21	fm00000	a00012		F组拱石村翻江虎短	ta0068	st0088		201	ai00000	(MajorWeapon,eq11102)	0	(HP,2567)(MaxHP,2567)(MP,1502)(MaxMP,1502)(Physique,45)(Intelligence,50)(Neigong,21)(Qinggong,10)(Fight,10)(Sword,10)(Blade,10)(Spear,30)(Arrow,20)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-50)	(eq10917,1)(it40109,1)	24,24	0
   translated: 
@@ -2412,7 +2412,7 @@
   splits:
   - split: 5
     text: F组拱石村彻地虎飞石镖手法
-    translated: "Group F: Gǒngshí Village's Masterful Flying Rock Technique of the Earth Tiger"
+    translated: "Group F: Gongshi Village's Masterful Flying Rock Technique of the Earth Tiger"
 - lineNum: 345
   raw: n19997	24	fm00000	a00005		F组拱石村钻天虎三连环刀法	ta0064	st0066		201	ai00000	(MajorWeapon,eq10402)	0	(HP,3144)(MaxHP,3144)(MP,1757)(MaxMP,1757)(Physique,50)(Intelligence,50)(Neigong,35)(Qinggong,50)(Fight,10)(Sword,10)(Blade,50)(Spear,10)(Arrow,10)(Short,10)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40112,1)	24,24	0
   translated: 
@@ -2433,14 +2433,14 @@
   splits:
   - split: 5
     text: 禾家马帮帮众(破山刀、拙)
-    translated: Hé Family Horse Gang Members (Broken Mountain Blade, Zhuō)
+    translated: He Family Horse Gang Members (Broken Mountain Blade, Zhuo)
 - lineNum: 348
   raw: n20001b	26	fm00000	a00002		禾家马帮帮众(破山刀、刚)	ta0052	st0003c		0	ai00000	(MajorWeapon,eq10405)	1	(HP,4005)(MaxHP,4005)(MP,2007)(MaxMP,2007)(Physique,62)(Intelligence,50)(Neigong,57)(Qinggong,39)(Fight,36)(Sword,36)(Blade,52)(Spear,36)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40101,2)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 禾家马帮帮众(破山刀、刚)
-    translated: He Family Ma Gang gang members (Pòshāndāo, Gāng)
+    translated: He Family Ma Gang gang members (Poshandao, Gang)
 - lineNum: 349
   raw: n20001c	31	fm00000	a00001		禾嘉仁(破山刀、高等)	ta0091	st0003d		0	ai00000	(MajorWeapon,eq10405)	1	(HP,4650)(MaxHP,4650)(MP,2473)(MaxMP,2473)(Physique,60)(Intelligence,50)(Neigong,68)(Qinggong,47)(Fight,41)(Sword,41)(Blade,62)(Spear,41)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it40101,2)	0,0	0
   translated: 
@@ -2454,14 +2454,14 @@
   splits:
   - split: 5
     text: 禾家马帮帮众(破山刀、拙)
-    translated: Hé Jīa Mǎ Bāng Band of Brothers (Pò Shān Dāo, Zhuō)
+    translated: He Jia Ma Bang Band of Brothers (Po Shan Dao, Zhuo)
 - lineNum: 351
   raw: n20001e	26	fm00000	a00001		禾家马帮帮众(破山刀、刚)	ta0052	st0003c		0	ai00000	(MajorWeapon,eq10405)	1	(HP,4005)(MaxHP,4005)(MP,2007)(MaxMP,2007)(Physique,62)(Intelligence,50)(Neigong,57)(Qinggong,39)(Fight,36)(Sword,36)(Blade,52)(Spear,36)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40101,2)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 禾家马帮帮众(破山刀、刚)
-    translated: He family Ma gang members (Pòshān dāo, Gāng)
+    translated: He family Ma gang members (Poshan dao, Gang)
 - lineNum: 352
   raw: n20002	20	fm00000	a00001		丽江士兵	ta0056	st0067a		203	ai00000	(MajorWeapon,eq10502)	0	(HP,2805)(MaxHP,2805)(MP,1480)(MaxMP,1480)(Physique,55)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -2524,14 +2524,14 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)(刚)
-    translated: Qīngtiānzhài Bowman (Xiahou Archery Technique) (Strong)
+    translated: Qingtianzhai Bowman (Xiahou Archery Technique) (Strong)
 - lineNum: 361
   raw: n20029b	27	fm00000	a00001		擎天寨弓箭手(夏侯箭术)(刚)	ta0056	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3537)(MaxHP,3537)(MP,2024)(MaxMP,2024)(Physique,50)(Intelligence,50)(Neigong,46)(Qinggong,43)(Fight,54)(Sword,37)(Blade,54)(Spear,54)(Arrow,37)(Short,37)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)(刚)
-    translated: Qīngtiānzhài Crossbowman (Xiahou Bow Skill) (Strong)
+    translated: Qingtianzhai Crossbowman (Xiahou Bow Skill) (Strong)
 - lineNum: 362
   raw: n20029c	24	fm00000	a00003		擎天寨弓箭手(夏侯箭术)(刚)	ta0052	st0013b		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3144)(MaxHP,3144)(MP,1779)(MaxMP,1779)(Physique,50)(Intelligence,50)(Neigong,41)(Qinggong,38)(Fight,48)(Sword,34)(Blade,48)(Spear,48)(Arrow,34)(Short,34)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2552,35 +2552,35 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)(刚)
-    translated: Qíng Tiān Zhài Archer (Xià Hóu Jīàn Shù) (Strong)
+    translated: Qing Tian Zhai Archer (Xia Hou Jian Shu) (Strong)
 - lineNum: 365
   raw: n20029f	24	fm00000	a00002		擎天寨弓箭手(夏侯箭术)(刚)	ta0056	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3016)(MaxHP,3016)(MP,1779)(MaxMP,1779)(Physique,47)(Intelligence,50)(Neigong,41)(Qinggong,38)(Fight,48)(Sword,34)(Blade,48)(Spear,48)(Arrow,34)(Short,34)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)(刚)
-    translated: Qīngtiānzhài Archers (Xiahou Bowmanship) (Stiff)
+    translated: Qingtianzhai Archers (Xiahou Bowmanship) (Stiff)
 - lineNum: 366
   raw: n20029g	25	fm00000	a00001		擎天寨弓箭手(夏侯箭术)(刚)	ta0052	st0013b		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3186)(MaxHP,3186)(MP,1860)(MaxMP,1860)(Physique,48)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,50)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)(刚)
-    translated: Qīngtiān Zhai Bowman (Xiàhóu Archery Technique) Strong
+    translated: Qingtian Zhai Bowman (Xiahou Archery Technique) Strong
 - lineNum: 367
   raw: n20029h	26	fm00000	a00001		擎天寨弓箭手(夏侯箭术)(刚)	ta0056	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3359)(MaxHP,3359)(MP,1942)(MaxMP,1942)(Physique,49)(Intelligence,50)(Neigong,44)(Qinggong,42)(Fight,52)(Sword,36)(Blade,52)(Spear,52)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)(刚)
-    translated: Qīngtiān Zhài Archer (Xiahou Bow Technique) (Strong)
+    translated: Qingtian Zhai Archer (Xiahou Bow Technique) (Strong)
 - lineNum: 368
   raw: n20029i	25	fm00000	a00004		擎天寨弓箭手(夏侯箭术)(刚)	ta0052	st0013b		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3275)(MaxHP,3275)(MP,1860)(MaxMP,1860)(Physique,50)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,50)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)(刚)
-    translated: Qíngtiān Zhuì Archers (Xiàhóu Jianjú) (Strong)
+    translated: Qingtian Zhui Archers (Xiahou Jianju) (Strong)
 - lineNum: 369
   raw: n20029j	27	fm00000	a00001		擎天寨弓箭手(夏侯箭术)(刚)	ta0056	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3537)(MaxHP,3537)(MP,2024)(MaxMP,2024)(Physique,50)(Intelligence,50)(Neigong,46)(Qinggong,43)(Fight,54)(Sword,37)(Blade,54)(Spear,54)(Arrow,37)(Short,37)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2594,7 +2594,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)(刚)
-    translated: Qīngtiān Zhài Bowman (Xiàhóu Archery, Strong)
+    translated: Qingtian Zhai Bowman (Xiahou Archery, Strong)
 - lineNum: 371
   raw: n20029m	26	fm00000	a00008		擎天寨弓箭手(夏侯箭术)(刚)	ta0056	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3313)(MaxHP,3313)(MP,1942)(MaxMP,1942)(Physique,48)(Intelligence,50)(Neigong,44)(Qinggong,42)(Fight,52)(Sword,36)(Blade,52)(Spear,52)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2608,14 +2608,14 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)(刚)
-    translated: Qīngtiānzhài Archers (Xiahou Archery Techniques) (Firm)
+    translated: Qingtianzhai Archers (Xiahou Archery Techniques) (Firm)
 - lineNum: 373
   raw: n20029p	24	fm00000	a00001		擎天寨弓箭手(夏侯箭术)(刚)	ta0056	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3058)(MaxHP,3058)(MP,1779)(MaxMP,1779)(Physique,48)(Intelligence,50)(Neigong,41)(Qinggong,38)(Fight,48)(Sword,34)(Blade,48)(Spear,48)(Arrow,34)(Short,34)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)(刚)
-    translated: Qīngtiānzhài archer (Xiàhóu bow technique) (strong)
+    translated: Qingtianzhai archer (Xiahou bow technique) (strong)
 - lineNum: 374
   raw: n20030	25	fm00000	a00002		擎天寨众(岳家枪法)(刚)	ta0052	st0010c		208	ai00000	(MajorWeapon,eq10502)	1	(HP,3230)(MaxHP,3230)(MP,1860)(MaxMP,1860)(Physique,49)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,50)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2636,7 +2636,7 @@
   splits:
   - split: 5
     text: 擎天寨众(岳家枪法)(刚)
-    translated: Qīngtiān Zhài People (Yuè Family Gun Technique) (Strong)
+    translated: Qingtian Zhai People (Yue Family Gun Technique) (Strong)
 - lineNum: 377
   raw: n20030d	27	fm00000	a00001		擎天寨众(岳家枪法)(动)	ta0056	st0010c		208	ai00000	(MajorWeapon,eq10502)	1	(HP,3488)(MaxHP,3488)(MP,2024)(MaxMP,2024)(Physique,49)(Intelligence,50)(Neigong,46)(Qinggong,43)(Fight,54)(Sword,37)(Blade,54)(Spear,54)(Arrow,37)(Short,37)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2713,7 +2713,7 @@
   splits:
   - split: 5
     text: 擎天寨众(三连环刀法、岳家散手)
-    translated: Qīngtiān Zhài (Three-Linked Swords Technique, Yue Family Freehand Method)
+    translated: Qingtian Zhai (Three-Linked Swords Technique, Yue Family Freehand Method)
 - lineNum: 388
   raw: n20031c	27	fm00000	a00001		擎天寨众(三连环刀法、岳家散手)	ta0056	st0066b,st0011		208	ai00000	(MajorWeapon,eq10402)	1	(HP,3488)(MaxHP,3488)(MP,2024)(MaxMP,2024)(Physique,49)(Intelligence,50)(Neigong,46)(Qinggong,43)(Fight,54)(Sword,37)(Blade,54)(Spear,54)(Arrow,37)(Short,37)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2727,7 +2727,7 @@
   splits:
   - split: 5
     text: 擎天寨众(三连环刀法、岳家散手)
-    translated: The Qīngtiān Camp (Three-Linked Sword Techniques, Yue Family Hand-to-hand Combat)
+    translated: The Qingtian Camp (Three-Linked Sword Techniques, Yue Family Hand-to-hand Combat)
 - lineNum: 390
   raw: n20031e	25	fm00000	a00001		擎天寨众(三连环刀法、岳家散手)	ta0056	st0066b,st0011		208	ai00000	(MajorWeapon,eq10402)	1	(HP,3275)(MaxHP,3275)(MP,1860)(MaxMP,1860)(Physique,50)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,50)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2755,7 +2755,7 @@
   splits:
   - split: 5
     text: 擎天寨众(三连环刀法、岳家散手)
-    translated: Qīngtiān Zhài Group (Three-Linked Sword Techniques, Yue Family Sparring Skills)
+    translated: Qingtian Zhai Group (Three-Linked Sword Techniques, Yue Family Sparring Skills)
 - lineNum: 394
   raw: n20031i	24	fm00000	a00001		擎天寨众(三连环刀法、岳家散手)	ta0056	st0066b,st0011		208	ai00000	(MajorWeapon,eq10402)	1	(HP,3058)(MaxHP,3058)(MP,1779)(MaxMP,1779)(Physique,48)(Intelligence,50)(Neigong,41)(Qinggong,38)(Fight,48)(Sword,34)(Blade,48)(Spear,48)(Arrow,34)(Short,34)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2909,7 +2909,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术、岳家散手)
-    translated: Qīngtiānzhài Bowmen (Xiahou Archer, Yue Family Martial Artist)
+    translated: Qingtianzhai Bowmen (Xiahou Archer, Yue Family Martial Artist)
 - lineNum: 416
   raw: n20036e	26	fm00000	a00001		擎天寨众(岳家枪法、岳家散手)(刚)	ta0052	st0010c,st0011		208	ai00000	(MajorWeapon,eq10502)	1	(HP,3406)(MaxHP,3406)(MP,1942)(MaxMP,1942)(Physique,50)(Intelligence,50)(Neigong,44)(Qinggong,42)(Fight,52)(Sword,36)(Blade,52)(Spear,52)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2923,7 +2923,7 @@
   splits:
   - split: 5
     text: 擎天寨众(岳家枪法、岳家散手)(动)
-    translated: The Qitian Camp Followers (Yuè Family Gunplay, Yuè Family Hand-to-Hand Combat) (in motion)
+    translated: The Qitian Camp Followers (Yue Family Gunplay, Yue Family Hand-to-Hand Combat) (in motion)
 - lineNum: 418
   raw: n20036g	27	fm00000	a00001		擎天寨弓箭手(夏侯箭术、岳家散手)	ta0052	st0013b,st0011		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3440)(MaxHP,3440)(MP,2024)(MaxMP,2024)(Physique,48)(Intelligence,50)(Neigong,46)(Qinggong,43)(Fight,54)(Sword,37)(Blade,54)(Spear,54)(Arrow,37)(Short,37)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2937,7 +2937,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术、岳家散手)
-    translated: Qīngtiānzhài Archers (Xiahou Bow Skills, Yue Family Fist Techniques)
+    translated: Qingtianzhai Archers (Xiahou Bow Skills, Yue Family Fist Techniques)
 - lineNum: 420
   raw: n20036i	26	fm00000	a00006		擎天寨弓箭手(夏侯箭术、岳家散手)	ta0056	st0013c,st0011		208	ai00000	(MajorWeapon,eq10801)	1	(HP,3313)(MaxHP,3313)(MP,1942)(MaxMP,1942)(Physique,48)(Intelligence,50)(Neigong,44)(Qinggong,42)(Fight,52)(Sword,36)(Blade,52)(Spear,52)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -2972,7 +2972,7 @@
   splits:
   - split: 5
     text: 擎天寨众(三连环刀法、岳家散手)
-    translated: Qīng Tiān Zhài People (Three-Linked Sword Technique, Yue Family Hand-to-Hand Combat)
+    translated: Qing Tian Zhai People (Three-Linked Sword Technique, Yue Family Hand-to-Hand Combat)
 - lineNum: 425
   raw: n20038b	30	fm00000	a00001		擎天寨众(三连环刀法、岳家散手)	ta0056	st0066b,st0011		208	ai00000	(MajorWeapon,eq10402)	0	(HP,3876)(MaxHP,3876)(MP,2278)(MaxMP,2278)(Physique,49)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,60)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -3014,7 +3014,7 @@
   splits:
   - split: 5
     text: 擎天寨众(岳家枪法、岳家散手)(刚)
-    translated: Qing Tian Zhai Fighters (Yuè Family Gunplay, Yuè Family Hand Techniques) (Just Now)
+    translated: Qing Tian Zhai Fighters (Yue Family Gunplay, Yue Family Hand Techniques) (Just Now)
 - lineNum: 431
   raw: n20039e_b	20	fm00000	a00001		擎天寨众(岳家枪法、岳家散手)(动)	ta0056	st0010c,st0011		208	ai00000	(MajorWeapon,eq10502)	0	(HP,2445)(MaxHP,2445)(MP,1461)(MaxMP,1461)(Physique,45)(Intelligence,50)(Neigong,34)(Qinggong,32)(Fight,40)(Sword,30)(Blade,40)(Spear,40)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -3091,7 +3091,7 @@
   splits:
   - split: 5
     text: 禾家马帮扫地帮众
-    translated: Wéi family horse gang sweepers' group members
+    translated: Wei family horse gang sweepers' group members
 - lineNum: 442
   raw: n20049	15	fm00000	n20049	nick011	禾郁青(青天刀法、破山刀)	ta0008	st0003,st0004		0	ai00000	(MajorWeapon,eq10909)	0	(HP,2733)(MaxHP,2733)(MP,1151)(MaxMP,1151)(Physique,75)(Intelligence,65)(Neigong,55)(Qinggong,50)(Fight,40)(Sword,40)(Blade,75)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,1000)(Madness,10)(Moral,15)(Reputation,0)(ZOC,60)(YinAndYang,30)	(it30305,1)	0,0	0
   translated: 
@@ -3231,7 +3231,7 @@
   splits:
   - split: 5
     text: 大研镇算命民妇
-    translated: Folk fortune-teller woman of Dàyàn Town.
+    translated: Folk fortune-teller woman of Dayan Town.
 - lineNum: 462
   raw: n20068	15	fm00000	a00001		大研镇算命马帮帮众	ta0059	st0069a		0	ai00000		0	(HP,2103)(MaxHP,2103)(MP,1088)(MaxMP,1088)(Physique,55)(Intelligence,50)(Neigong,30)(Qinggong,23)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,3000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(eq20224,1)(it40101,2)	0,0	0
   translated: 
@@ -3280,7 +3280,7 @@
   splits:
   - split: 5
     text: 虎皮彰(狩猎弓术)
-    translated: Hǔpí Zhāng (Shòuliè Gōng Shù)
+    translated: Hupi Zhang (Shoulie Gong Shu)
 - lineNum: 469
   raw: n20076	13	fm00000	a00001		大研镇马帮外商人		st0064		0	ai00000		0	(HP,1199)(MaxHP,1199)(MP,936)(MaxMP,936)(Physique,25)(Intelligence,50)(Neigong,26)(Qinggong,20)(Fight,26)(Sword,26)(Blade,26)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,7000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80302,3)	0,0	0
   translated: 
@@ -3308,7 +3308,7 @@
   splits:
   - split: 5
     text: 叶家马帮高手(长虹剑法)
-    translated: Yè Jiā Mǎ Bāng Gāoshǒu (Cháng Hóng Jiàn Fǎ)
+    translated: Ye Jia Ma Bang Gaoshou (Chang Hong Jian Fa)
 - lineNum: 473
   raw: n20086c	25	fm00000	a00001		叶家马帮高手(长虹剑法)	ta0056	st0091b		0	ai00000	(MajorWeapon,eq10303)	0	(HP,3602)(MaxHP,3602)(MP,1882)(MaxMP,1882)(Physique,57)(Intelligence,50)(Neigong,48)(Qinggong,55)(Fight,35)(Sword,60)(Blade,35)(Spear,35)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-50)	(it80306,1)(it40102,2)	0,0	0
   translated: 
@@ -3329,7 +3329,7 @@
   splits:
   - split: 5
     text: 叶家马帮高手(长虹剑法)
-    translated: Yè Jiā Mǎ Bāng Gāoshǒu (Chánghóng Jianfǎ)
+    translated: Ye Jia Ma Bang Gaoshou (Changhong Jianfa)
 - lineNum: 476
   raw: n20088	18	fm00000	a00002		叶家马帮帮众(破山刀)	ta0051	st0003c		0	ai00000		0	(HP,2390)(MaxHP,2390)(MP,1320)(MaxMP,1320)(Physique,51)(Intelligence,50)(Neigong,36)(Qinggong,27)(Fight,28)(Sword,28)(Blade,46)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)(it40102,2)	0,0	0
   translated: 
@@ -3343,14 +3343,14 @@
   splits:
   - split: 5
     text: 叶家马帮帮众(破山刀)
-    translated: Yè Jiā Mǎ Bāng (Pò Shān Dāo) Bāng Zhòng
+    translated: Ye Jia Ma Bang (Po Shan Dao) Bang Zhong
 - lineNum: 478
   raw: n20090	17	fm00000	a00003		叶家马帮帮众(破山刀)	ta0051	st0003c		0	ai00000	(MajorWeapon,eq10405)	1	(HP,2320)(MaxHP,2320)(MP,1242)(MaxMP,1242)(Physique,53)(Intelligence,50)(Neigong,34)(Qinggong,26)(Fight,27)(Sword,27)(Blade,44)(Spear,27)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)(it40102,2)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 叶家马帮帮众(破山刀)
-    translated: Yè Jiā Mǎ Bāng Bāng Zhòng (Pò Shān Dāo)
+    translated: Ye Jia Ma Bang Bang Zhong (Po Shan Dao)
 - lineNum: 479
   raw: n20094	15	fm00000	a00001		鱼叟		st0064		0	ai00000	(MajorWeapon,eq10521)	1	(HP,1639)(MaxHP,1639)(MP,1088)(MaxMP,1088)(Physique,37)(Intelligence,50)(Neigong,30)(Qinggong,23)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
@@ -3385,7 +3385,7 @@
   splits:
   - split: 5
     text: 大研镇等儿子的老妇
-    translated: A widow from Dàyányán Village waiting for her son's return.
+    translated: A widow from Dayanyan Village waiting for her son's return.
 - lineNum: 484
   raw: n20102	10	fm00000	a00001		拱石村民女		st0064		0	ai00000		0	(HP,860)(MaxHP,860)(MP,714)(MaxMP,714)(Physique,20)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(eq20224,1)	0,0	0
   translated: 
@@ -3469,21 +3469,21 @@
   splits:
   - split: 5
     text: 苏天(甩手封喉、下作三诀)
-    translated: Sū Tiān (Shuǎi Shǒu Fēng Hó, Xià Zuò Sān Jué)
+    translated: Su Tian (Shuai Shou Feng Ho, Xia Zuo San Jue)
 - lineNum: 496
   raw: n20137	20	fm00000	n20137	nick134	叶玉龙(长虹剑法)	ta0056	st0091,st0071b,st0999		0	ai04	(MajorWeapon,eq10304)(MinorWeapon,eq10701)	0	(HP,2445)(MaxHP,2445)(MP,1473)(MaxMP,1473)(Physique,45)(Intelligence,50)(Neigong,38)(Qinggong,50)(Fight,50)(Sword,57)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-50)	(it40102,2)(it40101,2)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 叶玉龙(长虹剑法)
-    translated: Yè Yùlóng (Chánghóng Sword Style)
+    translated: Ye Yulong (Changhong Sword Style)
 - lineNum: 497
   raw: n20138	18	fm00000	a00001		叶家马帮帮众(破山刀)	ta0051	st0003c		0	ai00000	(MajorWeapon,eq10405)	0	(HP,2490)(MaxHP,2490)(MP,1320)(MaxMP,1320)(Physique,54)(Intelligence,50)(Neigong,36)(Qinggong,27)(Fight,28)(Sword,28)(Blade,46)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,35)	(it40102,2)(it40101,2)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 叶家马帮帮众(破山刀)
-    translated: Yè Jiā Mǎ Bāng Bāng Zhòng (Pò Shān Dāo)
+    translated: Ye Jia Ma Bang Bang Zhong (Po Shan Dao)
 - lineNum: 498
   raw: n20139	19	fm00000	a00002		叶家马帮帮众(破山刀)	ta0059	st0003b		0	ai00000	(MajorWeapon,eq10405)	0	(HP,2593)(MaxHP,2593)(MP,1400)(MaxMP,1400)(Physique,53)(Intelligence,50)(Neigong,38)(Qinggong,29)(Fight,29)(Sword,29)(Blade,48)(Spear,29)(Arrow,29)(Short,29)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,35)	(it40102,2)(it40101,2)	0,0	0
   translated: 
@@ -3539,7 +3539,7 @@
   splits:
   - split: 5
     text: 叶家马帮高手(千金方、药石野集、破山刀)
-    translated: Yè Jiā Mǎ Bāng Gāoshǒu (Qiānjīn Fāng, Yàoshí Yějí, Pò Shān Dāo)
+    translated: Ye Jia Ma Bang Gaoshou (Qianjin Fang, Yaoshi Yeji, Po Shan Dao)
 - lineNum: 506
   raw: n20151	16	fm00000	a00001		禾家马帮帮众(破山刀)	ta0051	st0003c		0	ai00000	(MajorWeapon,eq10405)	1	(HP,2464)(MaxHP,2464)(MP,1165)(MaxMP,1165)(Physique,62)(Intelligence,50)(Neigong,32)(Qinggong,24)(Fight,26)(Sword,26)(Blade,42)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)	(it40101,2)(it40102,2)	0,0	0
   translated: 
@@ -3553,21 +3553,21 @@
   splits:
   - split: 5
     text: 禾家马帮帮众(破山刀)
-    translated: He Family Ma Gang members (Pòshāndāo)
+    translated: He Family Ma Gang members (Poshandao)
 - lineNum: 508
   raw: n20152	17	fm00000	a00001		禾家马帮帮众(破山刀)	ta0051	st0003c		0	ai00000	(MajorWeapon,eq10405)	1	(HP,2550)(MaxHP,2550)(MP,1242)(MaxMP,1242)(Physique,60)(Intelligence,50)(Neigong,34)(Qinggong,26)(Fight,27)(Sword,27)(Blade,44)(Spear,27)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)	(it40101,2)(it40102,2)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 禾家马帮帮众(破山刀)
-    translated: Hé Family Ma Gang Bandits (Pòshān Dāo)
+    translated: He Family Ma Gang Bandits (Poshan Dao)
 - lineNum: 509
   raw: n20153	16	fm00000	a00001		禾家马帮帮众(破山刀)	ta0059	st0003b		0	ai00000	(MajorWeapon,eq10405)	1	(HP,2368)(MaxHP,2368)(MP,1165)(MaxMP,1165)(Physique,59)(Intelligence,50)(Neigong,32)(Qinggong,24)(Fight,26)(Sword,26)(Blade,42)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)	(it40101,2)(it40102,2)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 禾家马帮帮众(破山刀)
-    translated: Wéi family Ma faction members (Bào shān dāo).
+    translated: Wei family Ma faction members (Bao shan dao).
 - lineNum: 510
   raw: n20154	19	fm00000	a00001		劫匪(回风袖里刀)	ta0063	st0088		202	ai00000	(MajorWeapon,eq10902)	1	(HP,2388)(MaxHP,2388)(MP,1389)(MaxMP,1389)(Physique,47)(Intelligence,50)(Neigong,34)(Qinggong,32)(Fight,29)(Sword,29)(Blade,29)(Spear,29)(Arrow,29)(Short,48)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-35)		0,0	0
   translated: 
@@ -3665,14 +3665,14 @@
   splits:
   - split: 5
     text: 流寇 鸭尾(五虎断门刀)(拙)
-    translated: Rogue Bandit Ducktail (Wu Hu Duānmén Dāo) Inept
+    translated: Rogue Bandit Ducktail (Wu Hu Duanmen Dao) Inept
 - lineNum: 524
   raw: n20173	17	fm00000	a00001		流寇 赖皮瓜(一十八路豹变枪)(动)	ta0055	st0092		201	ai00000	(MajorWeapon,eq10502)	0	(HP,2288)(MaxHP,2288)(MP,1234)(MaxMP,1234)(Physique,52)(Intelligence,50)(Neigong,31)(Qinggong,43)(Fight,27)(Sword,27)(Blade,54)(Spear,54)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-35)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 流寇 赖皮瓜(一十八路豹变枪)(动)
-    translated: Rebel Li Àipiguā (The Eighteen Traitorous Leopard Gunslingers) moving
+    translated: Rebel Li Aipigua (The Eighteen Traitorous Leopard Gunslingers) moving
 - lineNum: 525
   raw: n20174	16	fm00000	a00001		流寇 烂柴儿(一十八路豹变枪)(巧)	ta0063	st0092		201	ai00000	(MajorWeapon,eq10502)	0	(HP,2183)(MaxHP,2183)(MP,1165)(MaxMP,1165)(Physique,53)(Intelligence,50)(Neigong,32)(Qinggong,32)(Fight,26)(Sword,26)(Blade,52)(Spear,52)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-35)		0,0	0
   translated: 
@@ -3721,7 +3721,7 @@
   splits:
   - split: 5
     text: 流寇 赖皮瓜(一十八路豹变枪)(动)
-    translated: Rebel leader Lai Piguā (The Eighteen Paths Chameleon Gunfighter).
+    translated: Rebel leader Lai Pigua (The Eighteen Paths Chameleon Gunfighter).
 - lineNum: 532
   raw: n20181	16	fm00000	a00003		流寇 鸭尾(五虎断门刀)(拙)	ta0059	st0108		201	ai00000	(MajorWeapon,eq10402)	0	(HP,2154)(MaxHP,2154)(MP,1165)(MaxMP,1165)(Physique,52)(Intelligence,50)(Neigong,32)(Qinggong,29)(Fight,26)(Sword,26)(Blade,52)(Spear,52)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,35)		0,0	0
   translated: 
@@ -3735,7 +3735,7 @@
   splits:
   - split: 5
     text: 流寇 赖皮瓜(一十八路豹变枪)(动)
-    translated: The bandit Lai Piguā (Eighteen Paths Chameleon Gun) (in motion)
+    translated: The bandit Lai Pigua (Eighteen Paths Chameleon Gun) (in motion)
 - lineNum: 534
   raw: n20183	16	fm00000	a00001		流寇 烂柴儿(一十八路豹变枪)(巧)	ta0063	st0092		201	ai00000	(MajorWeapon,eq10502)	0	(HP,2096)(MaxHP,2096)(MP,1165)(MaxMP,1165)(Physique,50)(Intelligence,50)(Neigong,32)(Qinggong,32)(Fight,26)(Sword,26)(Blade,52)(Spear,52)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-35)		0,0	0
   translated: 
@@ -3861,7 +3861,7 @@
   splits:
   - split: 5
     text: 董府护卫
-    translated: Protector of the Dǒng Estate
+    translated: Protector of the Dong Estate
 - lineNum: 552
   raw: n20212	16	fm00000	a00001		董府护卫	ta0059	st0066		0	ai00000	(MajorWeapon,eq10303)	0	(HP,2096)(MaxHP,2096)(MP,1165)(MaxMP,1165)(Physique,50)(Intelligence,50)(Neigong,32)(Qinggong,24)(Fight,32)(Sword,32)(Blade,32)(Spear,32)(Arrow,32)(Short,32)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40102,2)	0,0	0
   translated: 
@@ -3889,7 +3889,7 @@
   splits:
   - split: 5
     text: 董府护卫劈柴中
-    translated: Guard of the Dǒng Family chopping firewood in progress.
+    translated: Guard of the Dong Family chopping firewood in progress.
 - lineNum: 556
   raw: n20216	16	fm00000	a00001		董府护卫	ta0059	st0066		0	ai00000	(MajorWeapon,eq10303)	0	(HP,2096)(MaxHP,2096)(MP,1165)(MaxMP,1165)(Physique,50)(Intelligence,50)(Neigong,32)(Qinggong,24)(Fight,32)(Sword,32)(Blade,32)(Spear,32)(Arrow,32)(Short,32)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
@@ -3910,7 +3910,7 @@
   splits:
   - split: 5
     text: 董府婢女剑儿
-    translated: Servant Girl Jian of the Dòng Household
+    translated: Servant Girl Jian of the Dong Household
 - lineNum: 559
   raw: n20219	15	fm00000	a00001		董府婢女刀儿	ta0055	st0066		0	ai00000	(MajorWeapon,eq10520)	0	(HP,1571)(MaxHP,1571)(MP,1088)(MaxMP,1088)(Physique,34)(Intelligence,50)(Neigong,30)(Qinggong,23)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
@@ -3966,7 +3966,7 @@
   splits:
   - split: 5
     text: 徐暇客(醉八仙剑、九宫八卦掌)(动、巧)
-    translated: Xú Xiákè (Zuì Bāxiān Jiàn, Jǐugōng Bāguà Zhǎng) (Dòng, Qiǎo)
+    translated: Xu Xiake (Zui Baxian Jian, Jiugong Bagua Zhang) (Dong, Qiao)
 - lineNum: 567
   raw: n20231	10	fm00000	a00001		大研镇烧饼老板		st0064		0	ai00000		0	(HP,990)(MaxHP,990)(MP,714)(MaxMP,714)(Physique,30)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,4000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60136,10)	0,0	6
   translated: 
@@ -4036,7 +4036,7 @@
   splits:
   - split: 5
     text: 柯比（大研镇铁匠）
-    translated: Kébǐ (Da Yánzhèn blacksmith)
+    translated: Kebi (Da Yanzhen blacksmith)
 - lineNum: 577
   raw: n20244	10	fm00000	a00001		大研镇武器铺		st0064		0	ai00000		0	(HP,896)(MaxHP,896)(MP,714)(MaxMP,714)(Physique,23)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,9000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(eq10102,3)(eq10104,3)(eq10303,3)(eq10305,3)(eq10326,3)(eq10327,3)(eq10403,3)(eq10406,3)(eq10420,3)(eq10421,3)(eq10501,3)(eq10502,3)(eq10520,3)(eq10702,3)(eq10705,3)(eq10706,3)(eq10801,3)(eq10812,3)(eq10902,3)(eq10917,3)(eq11102,3)(eq20102,3)(eq20107,3)(it80139,1)	0,0	6
   translated: 
@@ -4057,7 +4057,7 @@
   splits:
   - split: 5
     text: 文淬之(百缭撩乱剑)(失了墨玉飞雪)
-    translated: Wen Cui Zhi (Bai Liao Liao Luàn Jiàn) (Lishi Lei Mu Yu Fēng Xuě)
+    translated: Wen Cui Zhi (Bai Liao Liao Luan Jian) (Lishi Lei Mu Yu Feng Xue)
 - lineNum: 580
   raw: n20246	40	fm00000	a00017	nick143	解长宁(百缭撩乱剑)	ta0092i	st0074,st0071c,st0073c,st0130d,st0095d,st0998		0	ai00000	(MajorWeapon,eq10316)	0	(HP,5610)(MaxHP,5610)(MP,3752)(MaxMP,3752)(Physique,55)(Intelligence,60)(Neigong,112)(Qinggong,96)(Fight,74)(Sword,126)(Blade,70)(Spear,82)(Arrow,70)(Short,70)(Doctor,0)(Poison,0)(Money,1000)(Madness,-30)(Moral,40)(Reputation,0)(ZOC,60)(YinAndYang,-100)		0,0	0
   translated: 
@@ -4358,21 +4358,21 @@
   splits:
   - split: 5
     text: 擎天寨众(岳家枪法、岳家散手)(动)
-    translated: Qiántiānzhài crowd (Yuè Jiā qiāngfǎ, Yuè Jiā sànshǒu) (animation)
+    translated: Qiantianzhai crowd (Yue Jia qiangfa, Yue Jia sanshou) (animation)
 - lineNum: 623
   raw: n20319	31	fm00000	a00001		擎天寨弓箭手(夏侯箭术、岳家散手)	ta0091b	st0013b,st0011b		208	ai00000	(MajorWeapon,eq10801)	1	(HP,4406)(MaxHP,4406)(MP,2364)(MaxMP,2364)(Physique,56)(Intelligence,50)(Neigong,53)(Qinggong,50)(Fight,62)(Sword,41)(Blade,62)(Spear,62)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术、岳家散手)
-    translated: Qīngtiān Zhài Archers (Xíaohóu Archery, Yuè Family Hand Techniques)
+    translated: Qingtian Zhai Archers (Xiaohou Archery, Yue Family Hand Techniques)
 - lineNum: 624
   raw: n20320	32	fm00000	a00005		擎天寨弓箭手(夏侯箭术)	ta0091b	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,4610)(MaxHP,4610)(MP,2452)(MaxMP,2452)(Physique,57)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,64)(Sword,42)(Blade,64)(Spear,64)(Arrow,42)(Short,42)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)
-    translated: Qíngtiānzhài Archer (Xiàhóu Archery Technique)
+    translated: Qingtianzhai Archer (Xiahou Archery Technique)
 - lineNum: 625
   raw: n20321	30	fm00000	a00001		擎天寨众(三连环刀法、岳家散手)	ta0091b	st0066b,st0011		208	ai00000	(MajorWeapon,eq10402)	0	(HP,4381)(MaxHP,4381)(MP,2278)(MaxMP,2278)(Physique,58)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,60)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		2,4	0
   translated: 
@@ -4414,7 +4414,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术、岳家散手)
-    translated: Qīngtiān Zhai Archers (Xiahou Bow Skills, Yue Family Swordsmanship)
+    translated: Qingtian Zhai Archers (Xiahou Bow Skills, Yue Family Swordsmanship)
 - lineNum: 631
   raw: n20321g	31	fm00000	a00001		擎天寨众(三连环刀法、岳家散手)	ta0091b	st0066b,st0011		208	ai00000	(MajorWeapon,eq10402)	0	(HP,4406)(MaxHP,4406)(MP,2364)(MaxMP,2364)(Physique,56)(Intelligence,50)(Neigong,53)(Qinggong,50)(Fight,62)(Sword,41)(Blade,62)(Spear,62)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		2,4	0
   translated: 
@@ -4442,7 +4442,7 @@
   splits:
   - split: 5
     text: 擎天寨众(三连环刀法、岳家散手)
-    translated: Qīngtiānzhài Troops (Three-Linked Sword Technique, Yue Family Hand-to-Hand Combat)
+    translated: Qingtianzhai Troops (Three-Linked Sword Technique, Yue Family Hand-to-Hand Combat)
 - lineNum: 635
   raw: n20321m	32	fm00000	a00001		擎天寨众(岳家枪法、岳家散手)(刚)	ta0091b	st0010c,st0011		208	ai00000	(MajorWeapon,eq10502)	0	(HP,4427)(MaxHP,4427)(MP,2452)(MaxMP,2452)(Physique,54)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,64)(Sword,42)(Blade,64)(Spear,64)(Arrow,42)(Short,42)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		2,4	0
   translated: 
@@ -4456,7 +4456,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术、岳家散手)
-    translated: Qíngtiān Zhai Bowmen (Xiahou Jianshu, Yue Family Fist Techniques)
+    translated: Qingtian Zhai Bowmen (Xiahou Jianshu, Yue Family Fist Techniques)
 - lineNum: 637
   raw: n20321p	31	fm00000	a00007		擎天寨众(三连环刀法、岳家散手)	ta0091b	st0066b,st0011		208	ai00000	(MajorWeapon,eq10402)	0	(HP,4406)(MaxHP,4406)(MP,2364)(MaxMP,2364)(Physique,56)(Intelligence,50)(Neigong,53)(Qinggong,50)(Fight,62)(Sword,41)(Blade,62)(Spear,62)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		2,4	0
   translated: 
@@ -4526,7 +4526,7 @@
   splits:
   - split: 5
     text: 擎天寨众(岳家枪法、岳家散手)(刚)
-    translated: Qīngtiān Zhuàng zhòng (Yuè jiā qiāngfǎ, Yuè jiā sànshǒu) (Gāng)
+    translated: Qingtian Zhuang zhong (Yue jia qiangfa, Yue jia sanshou) (Gang)
 - lineNum: 647
   raw: n20328	31	fm00000	a00001		擎天寨众(岳家枪法、岳家散手)(动)	ta0091b	st0010c,st0011		208	ai00000	(MajorWeapon,eq10502)	0	(HP,4406)(MaxHP,4406)(MP,2364)(MaxMP,2364)(Physique,56)(Intelligence,50)(Neigong,53)(Qinggong,50)(Fight,62)(Sword,41)(Blade,62)(Spear,62)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
@@ -4582,7 +4582,7 @@
   splits:
   - split: 5
     text: 流寇 赖皮瓜(一十八路豹变枪)(动)
-    translated: Rebel Raopi Guā (18th Wayward Transformation Gun) (animates)
+    translated: Rebel Raopi Gua (18th Wayward Transformation Gun) (animates)
 - lineNum: 655
   raw: n20336	18	fm00000	a00001		流寇 吹牛李(五虎断门刀)(刚)	ta0051	st0108b		201	ai00000	(MajorWeapon,eq10402)	0	(HP,2423)(MaxHP,2423)(MP,1316)(MaxMP,1316)(Physique,52)(Intelligence,50)(Neigong,34)(Qinggong,32)(Fight,28)(Sword,28)(Blade,46)(Spear,46)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,40)		24,24	0
   translated: 
@@ -4680,7 +4680,7 @@
   splits:
   - split: 5
     text: 流寇 鸭尾(五虎断门刀)(拙)
-    translated: Roving bandit Yǎwěi (Fifth of the Five Tiger Executioners' Swords, clumsy)
+    translated: Roving bandit Yawei (Fifth of the Five Tiger Executioners' Swords, clumsy)
 - lineNum: 669
   raw: n20349b	15	fm00000	a00001		豹王寨矿坑埋伏流寇(刚)(甩手封喉、血海迷踪)	ta0052	st0014c,st0022		201	ai00000	(MajorWeapon,eq10706)	1	(HP,2103)(MaxHP,2103)(MP,1085)(MaxMP,1085)(Physique,55)(Intelligence,50)(Neigong,29)(Qinggong,27)(Fight,25)(Sword,25)(Blade,40)(Spear,40)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,40)		24,24	0
   translated: 
@@ -4694,7 +4694,7 @@
   splits:
   - split: 5
     text: 流寇 赖皮瓜(一十八路豹变枪)(动)
-    translated: Raiding Bandit Lei Piguā (The Eighteen Routes Chameleon Gun) (Animating)
+    translated: Raiding Bandit Lei Pigua (The Eighteen Routes Chameleon Gun) (Animating)
 - lineNum: 671
   raw: n20350b	21	fm00000	a00006		豹王寨矿坑埋伏流寇(动)(甩手封喉、血海迷踪)	ta0056	st0014b,st0022		201	ai00000	(MajorWeapon,eq10706)	1	(HP,2827)(MaxHP,2827)(MP,1553)(MaxMP,1553)(Physique,52)(Intelligence,50)(Neigong,40)(Qinggong,38)(Fight,31)(Sword,31)(Blade,52)(Spear,52)(Arrow,31)(Short,31)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,40)		-1,-1	0
   translated: 
@@ -4771,7 +4771,7 @@
   splits:
   - split: 5
     text: 豹王寨高手(拙刚)(五虎断门刀)
-    translated: Panther King Camp Master (Zhuè Gāng) (Five Tiger Gate Execution Sword)
+    translated: Panther King Camp Master (Zhue Gang) (Five Tiger Gate Execution Sword)
 - lineNum: 682
   raw: n20357	17	fm00000	a00001		流寇 赖皮瓜(一十八路豹变枪)(动)	ta0055	st0092		201	ai00000	(MajorWeapon,eq10502)	0	(HP,2320)(MaxHP,2320)(MP,1238)(MaxMP,1238)(Physique,53)(Intelligence,50)(Neigong,32)(Qinggong,31)(Fight,27)(Sword,27)(Blade,44)(Spear,44)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-40)		24,24	0
   translated: 
@@ -4813,7 +4813,7 @@
   splits:
   - split: 5
     text: 狼蛮士兵(黄沙刀法)
-    translated: Lung Màn Soldier (Huang Sha Dao Fa)
+    translated: Lung Man Soldier (Huang Sha Dao Fa)
 - lineNum: 688
   raw: n20366	23	fm00000	a00002		狼蛮士兵(疯魔杖法)	ta0052	st0155		210	ai00000	(MajorWeapon,eq10515)	0	(HP,3404)(MaxHP,3404)(MP,1698)(MaxMP,1698)(Physique,59)(Intelligence,50)(Neigong,39)(Qinggong,37)(Fight,33)(Sword,33)(Blade,56)(Spear,56)(Arrow,33)(Short,33)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)		-1,-1	0
   translated: 
@@ -4848,7 +4848,7 @@
   splits:
   - split: 5
     text: 狼蛮士兵(飞鹰箭诀)
-    translated: Wolf Savage Soldier (Fēiyīng Jiànjué Technique)
+    translated: Wolf Savage Soldier (Feiying Jianjue Technique)
 - lineNum: 693
   raw: n20372	26	fm00000	a00001		狼蛮士兵(疯魔杖法)	ta0052	st0155		210	ai00000	(MajorWeapon,eq10515)	1	(HP,3952)(MaxHP,3952)(MP,1942)(MaxMP,1942)(Physique,61)(Intelligence,50)(Neigong,44)(Qinggong,42)(Fight,36)(Sword,36)(Blade,62)(Spear,62)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)		-1,-1	0
   translated: 
@@ -5317,7 +5317,7 @@
   splits:
   - split: 5
     text: 番僧(血刀大法)
-    translated: Fàn Sēng (Xuè Dāo Dà Fǎ)
+    translated: Fan Seng (Xue Dao Da Fa)
 - lineNum: 760
   raw: n20464	31	fm00000	a00001		番僧(血刀大法)	ta0091c	st0105		0	ai00000	(MajorWeapon,eq10421)	1	(HP,4061)(MaxHP,4061)(MP,2427)(MaxMP,2427)(Physique,50)(Intelligence,50)(Neigong,62)(Qinggong,62)(Fight,41)(Sword,41)(Blade,72)(Spear,41)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-20)(Reputation,0)(ZOC,60)(YinAndYang,-75)		-1,-1	0
   translated: 
@@ -5352,7 +5352,7 @@
   splits:
   - split: 5
     text: 狼蛮士兵(飞鹰箭诀)
-    translated: Wolf Savage Soldier (Fēiyīng Jiànjué)
+    translated: Wolf Savage Soldier (Feiying Jianjue)
 - lineNum: 765
   raw: n20471	21	fm00000	a00001		擎天寨众(三连环刀法、岳家散手)	ta0056	st0066b,st0011		208	ai00000	(MajorWeapon,eq10402)	1	(HP,2676)(MaxHP,2676)(MP,1540)(MaxMP,1540)(Physique,48)(Intelligence,50)(Neigong,36)(Qinggong,34)(Fight,42)(Sword,31)(Blade,42)(Spear,42)(Arrow,31)(Short,31)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -5436,7 +5436,7 @@
   splits:
   - split: 5
     text: 十夫长(飞鹰箭诀)
-    translated: Captain (Fēiyīng Jiànjué)
+    translated: Captain (Feiying Jianjue)
 - lineNum: 777
   raw: n20489	26	fm00000	a00001		狼蛮士兵(黄沙刀法)	ta0060	st0008c		210	ai00000	(MajorWeapon,eq10402)	0	(HP,3797)(MaxHP,3797)(MP,1942)(MaxMP,1942)(Physique,58)(Intelligence,50)(Neigong,44)(Qinggong,42)(Fight,36)(Sword,36)(Blade,62)(Spear,62)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)		-1,-1	0
   translated: 
@@ -5555,7 +5555,7 @@
   splits:
   - split: 5
     text: 官兵
-    translated: Official and soldiers
+    translated: Government soldiers
 - lineNum: 794
   raw: n20505	20	fm00000	a00001		官兵	ta0052	st0008		0	ai00000	(MajorWeapon,eq10402)	0	(HP,2620)(MaxHP,2620)(MP,1480)(MaxMP,1480)(Physique,50)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)		-1,-1	0
   translated: 
@@ -5576,21 +5576,21 @@
   splits:
   - split: 5
     text: 官兵
-    translated: Officer and soldier
+    translated: Government soldiers
 - lineNum: 797
   raw: n20508	20	fm00000	a00001		官兵	ta0052	st0008		0	ai00000	(MajorWeapon,eq10801)	1	(HP,2620)(MaxHP,2620)(MP,1480)(MaxMP,1480)(Physique,50)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 官兵
-    translated: Guānbīng
+    translated: Guanbing
 - lineNum: 798
   raw: n20509	20	fm00000	a00001		官兵	ta0052	st0008		0	ai00000	(MajorWeapon,eq10801)	1	(HP,2620)(MaxHP,2620)(MP,1480)(MaxMP,1480)(Physique,50)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 官兵
-    translated: Official and soldiers
+    translated: Government soldiers
 - lineNum: 799
   raw: n20510	49	fm00000	n20510	nick152	夏札尔(血刀大法)	ta0092p	st0105c,st0997		0	ai00000	(MajorWeapon,eq10425)(MinorWeapon,eq10701)(Cloth,eq20104)	0	(HP,13475)(MaxHP,13475)(MP,5128)(MaxMP,5128)(Physique,110)(Intelligence,55)(Neigong,137)(Qinggong,83)(Fight,98)(Sword,93)(Blade,142)(Spear,98)(Arrow,88)(Short,93)(Doctor,0)(Poison,0)(Money,3000)(Madness,0)(Moral,-80)(Reputation,200)(ZOC,60)(YinAndYang,-150)	(it40116,1)	-1,-1	0
   translated: 
@@ -5639,7 +5639,7 @@
   splits:
   - split: 5
     text: 狼蛮兵(飞鹰箭诀,疯魔杖法)
-    translated: Wolf Barbarian (Fēiyīng Jǐnquè Technique, Fēngmó Zhàngfǎ Skill)
+    translated: Wolf Barbarian (Feiying Jinque Technique, Fengmo Zhangfa Skill)
 - lineNum: 806
   raw: n20519	30	fm00000	a00001		狼蛮兵(飞鹰箭诀,疯魔杖法)	ta0091b	st0068c,st0155		210	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10515)	2	(HP,4094)(MaxHP,4094)(MP,2278)(MaxMP,2278)(Physique,53)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,70)(Spear,70)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,60)		-1,-1	0
   translated: 
@@ -5653,7 +5653,7 @@
   splits:
   - split: 5
     text: 狼蛮兵(飞鹰箭诀,疯魔杖法)
-    translated: Wolf Barbarian (Fēiyīng Jiànjué, Fēngmó Zhàngfǎ)
+    translated: Wolf Barbarian (Feiying Jianjue, Fengmo Zhangfa)
 - lineNum: 808
   raw: n20521	30	fm00000	a00001		狼蛮兵(飞鹰箭诀,疯魔杖法)	ta0091b	st0068c,st0155		210	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10515)	2	(HP,4150)(MaxHP,4150)(MP,2278)(MaxMP,2278)(Physique,54)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,70)(Spear,70)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,60)		-1,-1	0
   translated: 
@@ -5674,7 +5674,7 @@
   splits:
   - split: 5
     text: 狼蛮兵(飞鹰箭诀,疯魔杖法)
-    translated: Wolf Savage Soldier (Fēiyīng Jiànjué Technique, Fēngmó Zhàngfǎ Skill)
+    translated: Wolf Savage Soldier (Feiying Jianjue Technique, Fengmo Zhangfa Skill)
 - lineNum: 811
   raw: n20526	30	fm00000	a00003		狼蛮兵(飞鹰箭诀,疯魔杖法)	ta0091b	st0068c,st0155		210	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10515)	2	(HP,4207)(MaxHP,4207)(MP,2278)(MaxMP,2278)(Physique,55)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,70)(Spear,70)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
@@ -5842,7 +5842,7 @@
   splits:
   - split: 5
     text: 缇骑观赏用
-    translated: Ti Jíguān yòng guānshǎng.
+    translated: Ti Jiguan yong guanshang.
 - lineNum: 835
   raw: n20583	33	fm00000	a00009	nick154	丐帮长老(太祖棍、太祖长拳)	ta0047	st0157b,st0158b		0	ai01	(MajorWeapon,eq10510)	0	(HP,6014)(MaxHP,6014)(MP,2730)(MaxMP,2730)(Physique,75)(Intelligence,50)(Neigong,79)(Qinggong,59)(Fight,84)(Sword,60)(Blade,60)(Spear,84)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,15)(Moral,25)(Reputation,0)(ZOC,60)(YinAndYang,100)		0,0	0
   translated: 
@@ -5968,7 +5968,7 @@
   splits:
   - split: 5
     text: 狼蛮兵(飞鹰箭诀)
-    translated: Wolf Barbarian Soldier (Fēiyīng Jiànjué Technique)
+    translated: Wolf Barbarian Soldier (Feiying Jianjue Technique)
 - lineNum: 853
   raw: n20621	32	fm00000	a00008		狼蛮兵(飞鹰箭诀)	ta0091b	st0068c		210	ai00000	(MajorWeapon,eq10801)	1	(HP,4549)(MaxHP,4549)(MP,2452)(MaxMP,2452)(Physique,56)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,74)(Spear,74)(Arrow,42)(Short,42)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,60)		-1,-1	0
   translated: 
@@ -6108,7 +6108,7 @@
   splits:
   - split: 5
     text: 狼蛮士兵(飞鹰箭诀、千金方、药石野集)
-    translated: Wolf Barbarian Soldier (Fēiyīng Jiànjué, Qiānjīn Fāng, Yàoshí Yějí)
+    translated: Wolf Barbarian Soldier (Feiying Jianjue, Qianjin Fang, Yaoshi Yeji)
 - lineNum: 873
   raw: n20650	40	fm00000	a00008		慈荫	ta0092g	st0074,st0021b,st0076b,st0998,st0129b		0	ai00000	(MajorWeapon,eq10335)	0	(HP,6161)(MaxHP,6161)(MP,3519)(MaxMP,3519)(Physique,62)(Intelligence,50)(Neigong,96)(Qinggong,80)(Fight,55)(Sword,120)(Blade,55)(Spear,55)(Arrow,55)(Short,55)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,35)(Reputation,0)(ZOC,60)(YinAndYang,-100)		0,0	0
   translated: 
@@ -6122,35 +6122,35 @@
   splits:
   - split: 5
     text: 流寇
-    translated: Bandits of the River
+    translated: ''
 - lineNum: 875
   raw: n20652	33	fm00000	a00007		流寇	ta0091c	st0092b		201	ai00000	(MajorWeapon,eq10502)	0	(HP,4754)(MaxHP,4754)(MP,2589)(MaxMP,2589)(Physique,57)(Intelligence,50)(Neigong,63)(Qinggong,73)(Fight,43)(Sword,43)(Blade,76)(Spear,76)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 流寇
-    translated: Rebel Bandits
+    translated: ''
 - lineNum: 876
   raw: n20653	34	fm00000	a00006		流寇	ta0091	st0108e		201	ai00000	(MajorWeapon,eq10402)	0	(HP,4965)(MaxHP,4965)(MP,2740)(MaxMP,2740)(Physique,58)(Intelligence,50)(Neigong,71)(Qinggong,61)(Fight,44)(Sword,44)(Blade,78)(Spear,78)(Arrow,44)(Short,44)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 流寇
-    translated: Bandit Raiders
+    translated: ''
 - lineNum: 877
   raw: n20654	32	fm00000	a00007		流寇	ta0091c	st0092b		201	ai00000	(MajorWeapon,eq10502)	0	(HP,4610)(MaxHP,4610)(MP,2496)(MaxMP,2496)(Physique,57)(Intelligence,50)(Neigong,61)(Qinggong,70)(Fight,42)(Sword,42)(Blade,74)(Spear,74)(Arrow,42)(Short,42)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 流寇
-    translated: Roving bandits
+    translated: ''
 - lineNum: 878
   raw: n20655	34	fm00000	a00006		流寇	ta0091	st0108e		201	ai00000	(MajorWeapon,eq10402)	0	(HP,4965)(MaxHP,4965)(MP,2740)(MaxMP,2740)(Physique,58)(Intelligence,50)(Neigong,71)(Qinggong,61)(Fight,44)(Sword,44)(Blade,78)(Spear,78)(Arrow,44)(Short,44)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 流寇
-    translated: Rebel bandits
+    translated: ''
 - lineNum: 879
   raw: n20656	49	fm00000	a00008		无量剑派掌门	ta0092p	st0071c,st0104,st0171c		0	ai00000	(MajorWeapon,eq10326)(MinorWeapon,eq10105)	0	(HP,8930)(MaxHP,8930)(MP,4806)(MaxMP,4806)(Physique,75)(Intelligence,50)(Neigong,123)(Qinggong,98)(Fight,108)(Sword,108)(Blade,88)(Spear,88)(Arrow,88)(Short,88)(Doctor,0)(Poison,90)(Money,0)(Madness,35)(Moral,-20)(Reputation,0)(ZOC,60)(YinAndYang,-120)		0,0	0
   translated: 
@@ -7123,7 +7123,7 @@
   splits:
   - split: 5
     text: 淘石帮 吕兆(怒川游鱼掌)
-    translated: 'Taoshi Gang: Lü Zhao (Nù Chuān Yóuyú Zhǎng)'
+    translated: 'Taoshi Gang: Lu Zhao (Nu Chuan Youyu Zhang)'
 - lineNum: 1018
   raw: n30008	16	fm00000	a00001		淘石帮 晁大河(开山碎玉刀)(刚)	ta0051	st0089d		0	ai00000	(MajorWeapon,eq10402)	0	(HP,2244)(MaxHP,2244)(MP,1161)(MaxMP,1161)(Physique,55)(Intelligence,50)(Neigong,30)(Qinggong,27)(Fight,37)(Sword,26)(Blade,37)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,2)(it40102,1)(it70314,1)	0,0	0
   translated: 
@@ -7249,7 +7249,7 @@
   splits:
   - split: 5
     text: 于兴和
-    translated: Yú Xīnghé
+    translated: Yu Xinghe
 - lineNum: 1036
   raw: n30029	15	fm00000	a00001		于兴平	ta0063	st0089g		0	ai00000		0	(HP,1783)(MaxHP,1783)(MP,1088)(MaxMP,1088)(Physique,43)(Intelligence,50)(Neigong,30)(Qinggong,23)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,8000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40101,5)(it40102,5)(it40103,5)(it40104,5)(it40105,5)(it40106,5)(it40107,5)(it40203,10)(it40204,10)(it40205,10)(it40206,10)(it40207,10)(it40208,10)(it40209,10)	0,0	6
   translated: 
@@ -7305,7 +7305,7 @@
   splits:
   - split: 5
     text: 樵夫 卢铁华
-    translated: Woodcutter Lü Tiexia
+    translated: Woodcutter Lu Tiexia
 - lineNum: 1044
   raw: n30061	12	fm00000	a00001		漱玉矶云游郎中		st0064,st0145		0	ai00000		0	(HP,1222)(MaxHP,1222)(MP,862)(MaxMP,862)(Physique,32)(Intelligence,50)(Neigong,24)(Qinggong,18)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,24)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40211,1)(it40208,1)(it40209,1)(it40206,1)(it801058,1)	0,0	6
   translated: 
@@ -7389,7 +7389,7 @@
   splits:
   - split: 5
     text: 劫花强盗(拙刚)(五虎断门刀)
-    translated: Rapscallion Flower Robber (Zhué Gāng) (Five Tigers Sword of Death)
+    translated: Rapscallion Flower Robber (Zhue Gang) (Five Tigers Sword of Death)
 - lineNum: 1056
   raw: n40004	33	fm00000	a00007		劫花强盗	ta0091c	st0092b		201	ai00000	(MajorWeapon,eq10502)	1	(HP,4754)(MaxHP,4754)(MP,2589)(MaxMP,2589)(Physique,57)(Intelligence,50)(Neigong,63)(Qinggong,73)(Fight,43)(Sword,43)(Blade,76)(Spear,76)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)		-1,-1	0
   translated: 
@@ -7907,7 +7907,7 @@
   splits:
   - split: 5
     text: 丹尸(花拳绣腿)
-    translated: Corpse of Dān (Flower Fist Embroidered Leg)
+    translated: Corpse of Dan (Flower Fist Embroidered Leg)
 - lineNum: 1130
   raw: n40051e	10	fm00000	n00095	nick125	丹尸(花拳绣腿)		st0064		0	ai00000		0	(HP,2460)(MaxHP,2460)(MP,701)(MaxMP,701)(Physique,100)(Intelligence,50)(Neigong,0)(Qinggong,0)(Fight,10)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-125)		-1,-1	0
   translated: 
@@ -7935,7 +7935,7 @@
   splits:
   - split: 5
     text: 赤丹宫妖道(千蛛万毒功)
-    translated: Chídān Gōng Yāodào (Qiānzhū Wàndú Gōng)
+    translated: Chidan Gong Yaodao (Qianzhu Wandu Gong)
 - lineNum: 1134
   raw: n40052d	40	fm00000	a00001	nick091	赤丹宫妖道高手(千蛛万毒功、玄冥神掌)	ta0092	st0998,st0148,st0161c		0	ai00000	(MajorWeapon,eq10104)(MinorWeapon,eq10708)	1	(HP,4218)(MaxHP,4218)(MP,2937)(MaxMP,2937)(Physique,40)(Intelligence,49)(Neigong,67)(Qinggong,67)(Fight,74)(Sword,47)(Blade,47)(Spear,47)(Arrow,74)(Short,84)(Doctor,42)(Poison,67)(Money,0)(Madness,25)(Moral,-50)(Reputation,0)(ZOC,60)(YinAndYang,-125)	(it50201,30)(it40108,1)	0,0	0
   translated: 
@@ -8047,7 +8047,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术、岳家散手)
-    translated: Qīngtiānzhài Archers (Xiàhóu Jiànshù, Yuèjiā Sànshǒu)
+    translated: Qingtianzhai Archers (Xiahou Jianshu, Yuejia Sanshou)
 - lineNum: 1150
   raw: n40056a	31	fm00000	a00007		擎天寨众(三连环刀法、岳家散手)	ta0091b	st0066b,st0011		208	ai00000	(MajorWeapon,eq10402)	1	(HP,4406)(MaxHP,4406)(MP,2364)(MaxMP,2364)(Physique,56)(Intelligence,50)(Neigong,53)(Qinggong,50)(Fight,62)(Sword,41)(Blade,62)(Spear,62)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
@@ -8096,7 +8096,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术、岳家散手)
-    translated: Qīngtiānzhài Bowmen (Xiàhóu Archery, Yuè Family Martial Arts)
+    translated: Qingtianzhai Bowmen (Xiahou Archery, Yue Family Martial Arts)
 - lineNum: 1157
   raw: n40057b	32	fm00000	a00008		狼蛮兵(飞鹰箭诀)	ta0091b	st0068c		210	ai00000	(MajorWeapon,eq10801)	1	(HP,4549)(MaxHP,4549)(MP,2452)(MaxMP,2452)(Physique,56)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,74)(Spear,74)(Arrow,42)(Short,42)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,60)		-1,-1	0
   translated: 
@@ -8159,7 +8159,7 @@
   splits:
   - split: 5
     text: 狼蛮兵(飞鹰箭诀)
-    translated: Wolf Barbarian Archer (Fēiyīng Jiàn Jué)
+    translated: Wolf Barbarian Archer (Feiying Jian Jue)
 - lineNum: 1166
   raw: n40058e	33	fm00000	a00008		狼蛮士兵(黄沙刀法)	ta0091	st0008c		210	ai00000	(MajorWeapon,eq10402)	1	(HP,4691)(MaxHP,4691)(MP,2540)(MaxMP,2540)(Physique,56)(Intelligence,50)(Neigong,56)(Qinggong,53)(Fight,43)(Sword,43)(Blade,76)(Spear,76)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,60)		-1,-1	0
   translated: 
@@ -8229,7 +8229,7 @@
   splits:
   - split: 5
     text: 狼蛮兵(飞鹰箭诀)
-    translated: Wolf Barbarian Archer (Fēiyīng Jiàn Jué)
+    translated: Wolf Barbarian Archer (Feiying Jian Jue)
 - lineNum: 1176
   raw: n40060f	31	fm00000	a00007		狼蛮士兵(疯魔杖法)	ta0091	st0155		210	ai00000	(MajorWeapon,eq10515)	1	(HP,4347)(MaxHP,4347)(MP,2364)(MaxMP,2364)(Physique,55)(Intelligence,50)(Neigong,53)(Qinggong,50)(Fight,41)(Sword,41)(Blade,72)(Spear,72)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,60)		-1,-1	0
   translated: 
@@ -8320,7 +8320,7 @@
   splits:
   - split: 5
     text: 狼蛮兵(飞鹰箭诀)
-    translated: Wolf Barbarian (Fēiyīng Jiànjué Technique)
+    translated: Wolf Barbarian (Feiying Jianjue Technique)
 - lineNum: 1189
   raw: n40061j	32	fm00000	a00007		狼蛮兵(飞鹰箭诀)	ta0091b	st0068c		210	ai00000	(MajorWeapon,eq10801)	1	(HP,4488)(MaxHP,4488)(MP,2452)(MaxMP,2452)(Physique,55)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,74)(Spear,74)(Arrow,42)(Short,42)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,60)		-1,-1	0
   translated: 
@@ -8418,7 +8418,7 @@
   splits:
   - split: 5
     text: 锦衣卫b(岳家枪)(刚)
-    translated: Jinyiwei B (Yuejiaqiang) Gāng
+    translated: Jinyiwei B (Yuejiaqiang) Gang
 - lineNum: 1203
   raw: n40063c	31	fm00000	a00006		锦衣卫c(梨花枪)(柔)	ta0091d	st0125b,st0999		0	ai00000	(MajorWeapon,eq10520)(Cloth,eq20107)	1	(HP,3751)(MaxHP,3751)(MP,2388)(MaxMP,2388)(Physique,49)(Intelligence,50)(Neigong,62)(Qinggong,57)(Fight,41)(Sword,41)(Blade,41)(Spear,92)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,100)(Madness,-20)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,60)	(it40101,1)(it70103,1)	-1,-1	0
   translated: 
@@ -8488,7 +8488,7 @@
   splits:
   - split: 5
     text: 敏婆婆
-    translated: Auntie Mín's Mother-in-law
+    translated: Auntie Min's Mother-in-law
 - lineNum: 1213
   raw: n40069	38	fm00000	a00001	nick150	东郭强(岁寒剑法)(静)	ta0045	st0053d,st0998		0	ai00000	(MajorWeapon,eq10304)(MinorWeapon,eq10304)	0	(HP,5650)(MaxHP,5650)(MP,3060)(MaxMP,3060)(Physique,60)(Intelligence,50)(Neigong,80)(Qinggong,70)(Fight,48)(Sword,90)(Blade,48)(Spear,48)(Arrow,48)(Short,48)(Doctor,0)(Poison,0)(Money,361)(Madness,0)(Moral,30)(Reputation,300)(ZOC,60)(YinAndYang,-50)	(it40101,2)(it40102,1)(it80306,1)(it30225,1)	0,0	0
   translated: 
@@ -8544,7 +8544,7 @@
   splits:
   - split: 5
     text: 菩斯曲蛇
-    translated: Pusiqushé
+    translated: Pusiqushe
 - lineNum: 1221
   raw: n40071a	30	fm00000	n60425a	nick091	毒殭(石鸿图控制的人，身法慢但力气大)		st0064		0	ai00000	(MajorWeapon,eq10102)	0	(HP,4300)(MaxHP,4300)(MP,2361)(MaxMP,2361)(Physique,60)(Intelligence,50)(Neigong,52)(Qinggong,45)(Fight,50)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,76)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-90)	(it50101,1)(it50102,1)	-1,-1	0
   translated: 
@@ -8642,7 +8642,7 @@
   splits:
   - split: 5
     text: 白面道人(玄冥神掌、千蛛万毒功)
-    translated: White-Clothed Taoist (Xuánmíng Shénzhǎng, Qiānzhū Wàndú Gōng)
+    translated: White-Clothed Taoist (Xuanming Shenzhang, Qianzhu Wandu Gong)
 - lineNum: 1235
   raw: n40073b	45	fm00000	n00102	nick114	黑面道人(玄冥神掌、千蛛万毒功)	ta0092h	st0998,st0148b,st0161c		0	ai00000	(MajorWeapon,eq10104)(MinorWeapon,eq10720)(Cloth,eq20104)	1	(HP,10380)(MaxHP,10380)(MP,5512)(MaxMP,5512)(Physique,95)(Intelligence,75)(Neigong,130)(Qinggong,75)(Fight,140)(Sword,91)(Blade,87)(Spear,82)(Arrow,100)(Short,91)(Doctor,60)(Poison,80)(Money,0)(Madness,40)(Moral,-65)(Reputation,0)(ZOC,60)(YinAndYang,-155)	(it40117,1)(it40108,1)	0,0	0
   translated: 
@@ -8789,14 +8789,14 @@
   splits:
   - split: 5
     text: 江湖人士(怒川游鱼掌、盗墓腿法)(动巧)
-    translated: Wanderer of the Martial World (Nüchuan Youyu's Palm, Tomb-Robbing Leg Technique) (Agile in Motion)
+    translated: Wanderer of the Martial World (Nuchuan Youyu's Palm, Tomb-Robbing Leg Technique) (Agile in Motion)
 - lineNum: 1256
   raw: n40081b	44	fm00000	a00001		江湖人士(惊波刀法、雪片旋刀势)(巧柔)	ta0091d	st0109,st0065,st0999		202	ai00000	(MajorWeapon,eq10409)(Cloth,eq20107)	1	(HP,6171)(MaxHP,6171)(MP,3586)(MaxMP,3586)(Physique,55)(Intelligence,50)(Neigong,75)(Qinggong,70)(Fight,88)(Sword,54)(Blade,88)(Spear,88)(Arrow,54)(Short,54)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it801025,1)(eq10409,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 江湖人士(惊波刀法、雪片旋刀势)(巧柔)
-    translated: Jiānghú rénshì (Qǐngbō dāofǎ, xuěpiàn xuàndāo shì) (Qiǎoróu)
+    translated: Jianghu renshi (Qingbo daofa, xuepian xuandao shi) (Qiaorou)
 - lineNum: 1257
   raw: n40081c	41	fm00000	a00001		江湖人士(中平枪、五郎八卦棍)(静拙)	ta0091f	st0124c,st0123b,st0999		202	ai00000	(MajorWeapon,eq10505)(Cloth,eq20107)	0	(HP,6570)(MaxHP,6570)(MP,3286)(MaxMP,3286)(Physique,65)(Intelligence,50)(Neigong,70)(Qinggong,66)(Fight,82)(Sword,51)(Blade,82)(Spear,82)(Arrow,51)(Short,51)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it801025,1)(eq10515,1)	0,0	0
   translated: 
@@ -8859,7 +8859,7 @@
   splits:
   - split: 5
     text: 狼蛮兵(飞鹰箭诀)
-    translated: Wolf Barbarian Archer (Fēiyīng Jiàn Jué)
+    translated: Wolf Barbarian Archer (Feiying Jian Jue)
 - lineNum: 1266
   raw: n40083c	34	fm00000	a00009		狼蛮兵(飞鹰箭诀)	ta0091b	st0068c		210	ai00000	(MajorWeapon,eq10801)	1	(HP,4610)(MaxHP,4610)(MP,2852)(MaxMP,2852)(Physique,57)(Intelligence,50)(Neigong,54)(Qinggong,55)(Fight,42)(Sword,42)(Blade,74)(Spear,80)(Arrow,42)(Short,42)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,60)		0,0	0
   translated: 
@@ -8992,7 +8992,7 @@
   splits:
   - split: 5
     text: 流寇(怒川游鱼掌、盗墓腿法)(动巧)
-    translated: Rebel Forces (Nù Chuān Yóuyú Zhǎng, Tomb Robbing Leg Technique) (Dòngqiǎo)
+    translated: Rebel Forces (Nu Chuan Youyu Zhang, Tomb Robbing Leg Technique) (Dongqiao)
 - lineNum: 1285
   raw: n40088d	35	fm00000	a00001		流寇(甩手封喉)	ta0091b	st0014c		201	ai00000	(MajorWeapon,eq10703)	0	(HP,4338)(MaxHP,4338)(MP,2748)(MaxMP,2748)(Physique,46)(Intelligence,49)(Neigong,63)(Qinggong,60)(Fight,45)(Sword,45)(Blade,45)(Spear,45)(Arrow,80)(Short,45)(Doctor,0)(Poison,0)(Money,0)(Madness,5)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -9013,7 +9013,7 @@
   splits:
   - split: 5
     text: 流寇(惊波刀法、雪片旋刀势)
-    translated: Roving bandit (Jīngbō dāofǎ, Xuěpiàn xuándāo shì)
+    translated: Roving bandit (Jingbo daofa, Xuepian xuandao shi)
 - lineNum: 1288
   raw: n40088g	35	fm00000	a00001		流寇(怒川游鱼掌、盗墓腿法)(动巧)	ta0091c	st0089f,st0111b		201	ai00000	(MajorWeapon,eq10102)	0	(HP,4278)(MaxHP,4278)(MP,2748)(MaxMP,2748)(Physique,45)(Intelligence,51)(Neigong,63)(Qinggong,56)(Fight,80)(Sword,45)(Blade,45)(Spear,45)(Arrow,45)(Short,45)(Doctor,0)(Poison,0)(Money,0)(Madness,5)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -9048,7 +9048,7 @@
   splits:
   - split: 5
     text: 噶玛寺扫地僧
-    translated: Gāmǎ Sì Sàodì Sēng
+    translated: Gama Si Saodi Seng
 - lineNum: 1293
   raw: n50002	10	fm00000	a00001		纳西族老丈		st0064		0	ai00000		0	(HP,1140)(MaxHP,1140)(MP,714)(MaxMP,714)(Physique,40)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,3)	0,0	0
   translated: 
@@ -9097,7 +9097,7 @@
   splits:
   - split: 5
     text: 索巴南卓(大手印)
-    translated: Sarvabhaṇa Thākura (Great Seal of the Hand)
+    translated: Sarvabhana Thakura (Great Seal of the Hand)
 - lineNum: 1300
   raw: n50013b	18	fm00000	a00001		索巴南卓(大手印)	ta0051	st0103b		0	ai00000	(MajorWeapon,eq10102)(Cloth,eq20102)(Jewelry,eq20207)	0	(HP,2700)(MaxHP,2700)(MP,1320)(MaxMP,1320)(Physique,60)(Intelligence,50)(Neigong,36)(Qinggong,29)(Fight,46)(Sword,28)(Blade,28)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,20)(Moral,75)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it40101,2)(it40102,1)	0,0	0
   translated: 
@@ -9195,7 +9195,7 @@
   splits:
   - split: 5
     text: 木初(玉龙拳法、袖里回风式、千金方、药石野集)(柔静)
-    translated: Mù Chū (Yùlóng Quánfǎ, Xiù lǐ huí fēng shì, Qiānjīn Fāng, Yàoshí Yě Jí) (Róu Jìng)
+    translated: Mu Chu (Yulong Quanfa, Xiu li hui feng shi, Qianjin Fang, Yaoshi Ye Ji) (Rou Jing)
 - lineNum: 1314
   raw: n50049	20	fm00000	a00001		盗采者李连(雪片旋刀势、惊波刀法)	ta0068	st0065,st0109		202	ai04	(MajorWeapon,eq10403)	0	(HP,2620)(MaxHP,2620)(MP,1461)(MaxMP,1461)(Physique,50)(Intelligence,50)(Neigong,34)(Qinggong,32)(Fight,30)(Sword,30)(Blade,50)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-50)		0,0	0
   translated: 
@@ -9223,7 +9223,7 @@
   splits:
   - split: 5
     text: 鹰猎人阿季(飞鹰箭诀、狩猎弓术)(刚)
-    translated: Hawk Hunter A Ji (Fēi Yīng Jiàn Jué, Shòu Liè Gōng Shù) (Gāng)
+    translated: Hawk Hunter A Ji (Fei Ying Jian Jue, Shou Lie Gong Shu) (Gang)
 - lineNum: 1318
   raw: n50056a	20	fm00000	a00001		鹰猎人阿席(飞鹰箭诀、狩猎弓术)(动)	ta0056	st0068c,st0005		0	ai00000	(MajorWeapon,eq10801)(Cloth,eq20102)(Jewelry,eq20222)	0	(HP,2584)(MaxHP,2584)(MP,1531)(MaxMP,1531)(Physique,49)(Intelligence,50)(Neigong,54)(Qinggong,36)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
@@ -9370,7 +9370,7 @@
   splits:
   - split: 5
     text: 木奎(飞雪神箭、三朵神枪)(刚动)(最终战)
-    translated: Mukuí (Fēixuě Shénjiàn, Sānduǒ Shénqiāng) (Gàng Dòng) (Zuìzhōnghán)
+    translated: Mukui (Feixue Shenjian, Sanduo Shenqiang) (Gang Dong) (Zuizhonghan)
 - lineNum: 1339
   raw: n50070	42	fm00000	al20004	nick009b	雪翼雕	ta0081	st0070c		107	ai01		0	(HP,7654)(MaxHP,7654)(MP,3753)(MaxMP,3753)(Physique,75)(Intelligence,50)(Neigong,100)(Qinggong,100)(Fight,90)(Sword,80)(Blade,80)(Spear,90)(Arrow,30)(Short,90)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -9398,7 +9398,7 @@
   splits:
   - split: 5
     text: 雪翼雕
-    translated: Suzhi Diāo
+    translated: Suzhi Diao
 - lineNum: 1343
   raw: n50070e	70	fm00000	al20004	nick009b	雪翼雕	ta0081	st0070c		107	ai01		0	(HP,12757)(MaxHP,12757)(MP,6255)(MaxMP,6255)(Physique,75)(Intelligence,50)(Neigong,100)(Qinggong,100)(Fight,90)(Sword,80)(Blade,80)(Spear,90)(Arrow,30)(Short,90)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -9454,7 +9454,7 @@
   splits:
   - split: 5
     text: 木府卫兵(三朵神枪、玉龙拳谱)(动)
-    translated: Mù Fǔ Wèibīng (Sān Duō Shén Qiāng, Yù Lóng Quán Pǔ) (Animation)
+    translated: Mu Fu Weibing (San Duo Shen Qiang, Yu Long Quan Pu) (Animation)
 - lineNum: 1351
   raw: n50074b	17	fm00000	a00001		木府卫兵(三朵神枪、玉龙拳谱)(刚)	ta0051	st0067a,st0069a		203	ai00000	(MajorWeapon,eq10502)(Cloth,eq20103)	0	(HP,2227)(MaxHP,2227)(MP,1231)(MaxMP,1231)(Physique,50)(Intelligence,50)(Neigong,29)(Qinggong,29)(Fight,34)(Sword,27)(Blade,27)(Spear,44)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it60203,1)	0,0	0
   translated: 
@@ -9468,28 +9468,28 @@
   splits:
   - split: 5
     text: 木府卫兵(三朵神枪、玉龙拳谱)(动)
-    translated: Mù Fǔ Wèibīng (Sān Duǒ Shén Qiāng, Yùlóng Quánbǔ) (Animation)
+    translated: Mu Fu Weibing (San Duo Shen Qiang, Yulong Quanbu) (Animation)
 - lineNum: 1353
   raw: n50074d	18	fm00000	a00001		木府卫兵(三朵神枪、玉龙拳谱)(刚)	ta0051	st0067a,st0069a		203	ai00000	(MajorWeapon,eq10502)(Cloth,eq20103)	0	(HP,2390)(MaxHP,2390)(MP,1307)(MaxMP,1307)(Physique,51)(Intelligence,50)(Neigong,31)(Qinggong,31)(Fight,36)(Sword,28)(Blade,28)(Spear,46)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(eq20222,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府卫兵(三朵神枪、玉龙拳谱)(刚)
-    translated: Mùfǔ Wèibīng (Three Divine Cannon Shots, Jade Dragon Fist Scroll) (Strong)
+    translated: Mufu Weibing (Three Divine Cannon Shots, Jade Dragon Fist Scroll) (Strong)
 - lineNum: 1354
   raw: n50074e	17	fm00000	a00001		木府卫兵(三朵神枪、玉龙拳谱)(动)	ta0055b	st0067a,st0069a		203	ai00000	(MajorWeapon,eq10502)(Cloth,eq20103)	0	(HP,2166)(MaxHP,2166)(MP,1231)(MaxMP,1231)(Physique,48)(Intelligence,50)(Neigong,29)(Qinggong,29)(Fight,34)(Sword,27)(Blade,27)(Spear,44)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府卫兵(三朵神枪、玉龙拳谱)(动)
-    translated: Mù Fǔ Wèi Bīng (Sān Duǒ Shén Qiāng, Yù Lóng Quán Pǔ) (Dòng)
+    translated: Mu Fu Wei Bing (San Duo Shen Qiang, Yu Long Quan Pu) (Dong)
 - lineNum: 1355
   raw: n50074f	18	fm00000	a00001		木府卫兵(三朵神枪、玉龙拳谱)(刚)	ta0051	st0067a,st0069a		203	ai00000	(MajorWeapon,eq10502)(Cloth,eq20103)	0	(HP,2262)(MaxHP,2262)(MP,1307)(MaxMP,1307)(Physique,47)(Intelligence,50)(Neigong,31)(Qinggong,31)(Fight,36)(Sword,28)(Blade,28)(Spear,46)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)(it40101,2)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府卫兵(三朵神枪、玉龙拳谱)(刚)
-    translated: Mù Fǔ Wèibīng (Sān Duǒ Shén Qiāng, Yù Lóng Quán Pǔ) (Gāng)
+    translated: Mu Fu Weibing (San Duo Shen Qiang, Yu Long Quan Pu) (Gang)
 - lineNum: 1356
   raw: n50074g	17	fm00000	a00001		木府卫兵(三朵神枪、玉龙拳谱)(动)	ta0055b	st0067a,st0069a		203	ai00000	(MajorWeapon,eq10502)(Cloth,eq20103)	0	(HP,2166)(MaxHP,2166)(MP,1231)(MaxMP,1231)(Physique,48)(Intelligence,50)(Neigong,29)(Qinggong,29)(Fight,34)(Sword,27)(Blade,27)(Spear,44)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(eq20222,1)	0,0	0
   translated: 
@@ -9531,7 +9531,7 @@
   splits:
   - split: 5
     text: 木府卫兵(三朵神枪、玉龙拳谱)(动)
-    translated: Mù Fǔ Wèi Bīng (Three Divine Pistols, Jade Dragon Fist Classic) Animation
+    translated: Mu Fu Wei Bing (Three Divine Pistols, Jade Dragon Fist Classic) Animation
 - lineNum: 1362
   raw: n50075c	23	fm00000	a00001		木府卫兵(三朵神枪、玉龙拳谱)(刚)	ta0052	st0067b,st0069b		203	ai00000	(MajorWeapon,eq10503)(Cloth,eq20103)	1	(HP,2890)(MaxHP,2890)(MP,1698)(MaxMP,1698)(Physique,47)(Intelligence,50)(Neigong,39)(Qinggong,39)(Fight,46)(Sword,33)(Blade,33)(Spear,56)(Arrow,33)(Short,33)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)	0,0	0
   translated: 
@@ -9601,7 +9601,7 @@
   splits:
   - split: 5
     text: 打更兵(飞鹰箭诀、玉龙拳谱)(刚)
-    translated: Night Watchman (Fēiyīng Jiànjùe, Yùlóng Quánbǔ) (Strong)
+    translated: Night Watchman (Feiying Jianjue, Yulong Quanbu) (Strong)
 - lineNum: 1372
   raw: n50076a	17	fm00000	a00001		木府弓箭兵(飞鹰箭诀、玉龙拳谱)(刚)	ta0051	st0068c,st0069a		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10503)(Cloth,eq20103)	0	(HP,2136)(MaxHP,2136)(MP,1231)(MaxMP,1231)(Physique,47)(Intelligence,50)(Neigong,29)(Qinggong,29)(Fight,34)(Sword,27)(Blade,27)(Spear,44)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)	0,0	0
   translated: 
@@ -9615,28 +9615,28 @@
   splits:
   - split: 5
     text: 木府弓箭兵(飞鹰箭诀)(动)
-    translated: Mù Fǔ Bow-and-Arrow Soldier (Flying Eagle Bow Technique) (Animated)
+    translated: Mu Fu Bow-and-Arrow Soldier (Flying Eagle Bow Technique) (Animated)
 - lineNum: 1374
   raw: n50076c	17	fm00000	a00001		木府弓箭兵(飞鹰箭诀、玉龙拳谱)(巧)	ta0063	st0068a,st0069a		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10503)(Cloth,eq20103)	0	(HP,2107)(MaxHP,2107)(MP,1231)(MaxMP,1231)(Physique,46)(Intelligence,50)(Neigong,29)(Qinggong,29)(Fight,34)(Sword,27)(Blade,27)(Spear,44)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府弓箭兵(飞鹰箭诀、玉龙拳谱)(巧)
-    translated: Mù Fǔ Gōng Jiàn Bīng (Fēi Yīng Jiàn Jué, Yù Lóng Quán Pǔ) (Qiǎo)
+    translated: Mu Fu Gong Jian Bing (Fei Ying Jian Jue, Yu Long Quan Pu) (Qiao)
 - lineNum: 1375
   raw: n50076d	17	fm00000	a00001		木府弓箭兵(飞鹰箭诀、玉龙拳谱)(拙)	ta0059	st0068b,st0069a		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10503)(Cloth,eq20103)	0	(HP,2257)(MaxHP,2257)(MP,1231)(MaxMP,1231)(Physique,51)(Intelligence,50)(Neigong,29)(Qinggong,29)(Fight,34)(Sword,27)(Blade,27)(Spear,44)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府弓箭兵(飞鹰箭诀、玉龙拳谱)(拙)
-    translated: Mù Family Archers (Flying Eagle Bow Techniques, Jade Dragon Fist Manual) (Rudimentary)
+    translated: Mu Family Archers (Flying Eagle Bow Techniques, Jade Dragon Fist Manual) (Rudimentary)
 - lineNum: 1376
   raw: n50076e	17	fm00000	a00001		木府弓箭兵(飞鹰箭诀、玉龙拳谱)(拙)	ta0059	st0068b,st0069a		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10503)(Cloth,eq20103)	0	(HP,2166)(MaxHP,2166)(MP,1231)(MaxMP,1231)(Physique,48)(Intelligence,50)(Neigong,29)(Qinggong,29)(Fight,34)(Sword,27)(Blade,27)(Spear,44)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府弓箭兵(飞鹰箭诀、玉龙拳谱)(拙)
-    translated: Mù Fǔ Bow-and-Arrow Soldier (Flying Eagle Archery Skill, Jade Dragon Fist Manual) (Humbly Presented)
+    translated: Mu Fu Bow-and-Arrow Soldier (Flying Eagle Archery Skill, Jade Dragon Fist Manual) (Humbly Presented)
 - lineNum: 1377
   raw: n50077	17	fm00000	n50077		打更兵(飞鹰箭诀、玉龙拳谱)(拙)	ta0059	st0068b,st0069a		203	ai00000	(MajorWeapon,eq10502)(Cloth,eq20103)	0	(HP,2166)(MaxHP,2166)(MP,1231)(MaxMP,1231)(Physique,48)(Intelligence,50)(Neigong,29)(Qinggong,29)(Fight,34)(Sword,27)(Blade,27)(Spear,44)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)(it60114,1)	0,0	48
   translated: 
@@ -9692,7 +9692,7 @@
   splits:
   - split: 5
     text: 木府卫兵阿延(刚)
-    translated: Mù Fǔ wèi bīng Āyán (Gāng).
+    translated: Mu Fu wei bing Ayan (Gang).
 - lineNum: 1385
   raw: n50152bm	25	fm00000	a00001		鬼刀小弟(演出用)	ta0052	st0067b,st0069b		203	ai00000	(MajorWeapon,eq10403)	1	(HP,3186)(MaxHP,3186)(MP,1860)(MaxMP,1860)(Physique,48)(Intelligence,50)(Neigong,43)(Qinggong,43)(Fight,50)(Sword,35)(Blade,35)(Spear,60)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
@@ -9755,7 +9755,7 @@
   splits:
   - split: 5
     text: 拱石村樵夫
-    translated: Forester of Gǒngshí Village
+    translated: Forester of Gongshi Village
 - lineNum: 1394
   raw: n51005	6	fm00000	a00001		村民	ta0057	st0082b		0	ai00000	(MajorWeapon,eq11206)	1	(HP,684)(MaxHP,684)(MP,423)(MaxMP,423)(Physique,40)(Intelligence,50)(Neigong,10)(Qinggong,10)(Fight,12)(Sword,16)(Blade,16)(Spear,16)(Arrow,16)(Short,27)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -9790,7 +9790,7 @@
   splits:
   - split: 5
     text: 何白芍(碧蛇刀法、五毒掌)(巧)
-    translated: He Baisuo (Bìshé Dāo Fǎ, Wǔdú Zhǎng) (Qiao)
+    translated: He Baisuo (Bishe Dao Fa, Wudu Zhang) (Qiao)
 - lineNum: 1399
   raw: n51010	17	fm00000	a00001		蛇窟前男子(附带中毒状态)	ta0051	st0108b		201	ai00000	(MajorWeapon,eq10403)	1	(HP,1938)(MaxHP,1938)(MP,1238)(MaxMP,1238)(Physique,40)(Intelligence,50)(Neigong,32)(Qinggong,26)(Fight,27)(Sword,27)(Blade,49)(Spear,27)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
@@ -9804,7 +9804,7 @@
   splits:
   - split: 5
     text: 黑衣人(阎王帖)
-    translated: Shadowy Figure (Yánwángtiē)
+    translated: Shadowy Figure (Yanwangtie)
 - lineNum: 1401
   raw: n52003b	15	fm00000	a00001		黑衣人(阎王帖)	ta0063	st0113		204	ai00000	(MajorWeapon,eq10905)	1	(HP,1783)(MaxHP,1783)(MP,1085)(MaxMP,1085)(Physique,43)(Intelligence,50)(Neigong,29)(Qinggong,29)(Fight,25)(Sword,25)(Blade,25)(Spear,25)(Arrow,25)(Short,40)(Doctor,0)(Poison,0)(Money,100)(Madness,30)(Moral,-50)(Reputation,0)(ZOC,60)(YinAndYang,-25)		0,0	0
   translated: 
@@ -9986,14 +9986,14 @@
   splits:
   - split: 5
     text: 木府枪兵长(木初阵营)(三朵神枪、玉龙拳谱)(动)
-    translated: Mù Fǔ Qiangbīng Zhǎng (Wood Faction Leader Gunmen) (Three Divine Guns, Jade Dragon Fist Manual) (Animated)
+    translated: Mu Fu Qiangbing Zhang (Wood Faction Leader Gunmen) (Three Divine Guns, Jade Dragon Fist Manual) (Animated)
 - lineNum: 1427
   raw: n52011e	24	fm00000	a00001		木府弓箭手(木初阵营)(飞鹰箭诀)	ta0055b	st0068c		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10502)(Cloth,eq20103)	1	(HP,3016)(MaxHP,3016)(MP,1779)(MaxMP,1779)(Physique,47)(Intelligence,50)(Neigong,41)(Qinggong,41)(Fight,48)(Sword,34)(Blade,34)(Spear,58)(Arrow,34)(Short,34)(Doctor,10)(Poison,10)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府弓箭手(木初阵营)(飞鹰箭诀)
-    translated: Mù Fǔ Archers (Mù Chū Camp) (Fēi Yīng Jiàn Jué)
+    translated: Mu Fu Archers (Mu Chu Camp) (Fei Ying Jian Jue)
 - lineNum: 1428
   raw: n52011f	24	fm00000	a00001		木府弓箭手(木初阵营)(飞鹰箭诀)	ta0063	st0068a		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10502)(Cloth,eq20103)	1	(HP,3144)(MaxHP,3144)(MP,1779)(MaxMP,1779)(Physique,50)(Intelligence,50)(Neigong,41)(Qinggong,41)(Fight,48)(Sword,34)(Blade,34)(Spear,58)(Arrow,34)(Short,34)(Doctor,10)(Poison,10)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
@@ -10007,7 +10007,7 @@
   splits:
   - split: 5
     text: 木府弓箭手(木初阵营)(飞鹰箭诀、玉龙拳谱)
-    translated: Mù Fǔ Archers (Wood Initial Camp) (Flying Eagle Bow Technique, Jade Dragon Fist Manual)
+    translated: Mu Fu Archers (Wood Initial Camp) (Flying Eagle Bow Technique, Jade Dragon Fist Manual)
 - lineNum: 1430
   raw: n52012a	24	fm00000	a00001		木府枪兵(木奎阵营)(三朵神枪)(刚)	ta0052	st0067b		203	ai00000	(MajorWeapon,eq10503)(Cloth,eq20103)	1	(HP,3187)(MaxHP,3187)(MP,1779)(MaxMP,1779)(Physique,51)(Intelligence,50)(Neigong,41)(Qinggong,41)(Fight,48)(Sword,34)(Blade,34)(Spear,58)(Arrow,34)(Short,34)(Doctor,10)(Poison,10)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
@@ -10028,14 +10028,14 @@
   splits:
   - split: 5
     text: 木府枪兵(木奎阵营)(三朵神枪)(刚)
-    translated: Mù Family Gunners (Mù Kuí Camp)(Three Divine Musketeers) (Strong)
+    translated: Mu Family Gunners (Mu Kui Camp)(Three Divine Musketeers) (Strong)
 - lineNum: 1433
   raw: n52012d	22	fm00000	a00001		木府枪兵(木奎阵营)(三朵神枪、玉龙拳谱)(动)	ta0056	st0067b,st0069b		203	ai00000	(MajorWeapon,eq10503)(Cloth,eq20107)	1	(HP,2803)(MaxHP,2803)(MP,1619)(MaxMP,1619)(Physique,48)(Intelligence,50)(Neigong,37)(Qinggong,37)(Fight,44)(Sword,32)(Blade,32)(Spear,54)(Arrow,32)(Short,32)(Doctor,10)(Poison,10)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府枪兵(木奎阵营)(三朵神枪、玉龙拳谱)(动)
-    translated: Mù Fǔ Qiangbīng (Mù Kuí Zhènyì) (Sān Duǒ Shén Qiāng, Yù Lóng Quán Pǔ) (dòng)
+    translated: Mu Fu Qiangbing (Mu Kui Zhenyi) (San Duo Shen Qiang, Yu Long Quan Pu) (dong)
 - lineNum: 1434
   raw: n52012e	20	fm00000	a00001		木府弓箭手(木初阵营)(飞鹰箭诀)	ta0055b	st0068c		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10503)(Cloth,eq20103)	1	(HP,2513)(MaxHP,2513)(MP,1461)(MaxMP,1461)(Physique,47)(Intelligence,50)(Neigong,34)(Qinggong,34)(Fight,40)(Sword,30)(Blade,30)(Spear,50)(Arrow,30)(Short,30)(Doctor,10)(Poison,10)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
@@ -10049,7 +10049,7 @@
   splits:
   - split: 5
     text: 木府弓箭手(木初阵营)(飞鹰箭诀、玉龙拳谱)
-    translated: Mù Fǔ Archers (Mù Chū Camp) (Flying Eagle Arrow Technique, Jade Dragon Fist Manual)
+    translated: Mu Fu Archers (Mu Chu Camp) (Flying Eagle Arrow Technique, Jade Dragon Fist Manual)
 - lineNum: 1436
   raw: n52012g	27	fm00000	a00001		木府弓箭手(木初阵营)(飞鹰箭诀、玉龙拳谱)	ta0059	st0068b,st0069a		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10503)(Cloth,eq20103)	1	(HP,3346)(MaxHP,3346)(MP,2024)(MaxMP,2024)(Physique,46)(Intelligence,50)(Neigong,46)(Qinggong,46)(Fight,54)(Sword,37)(Blade,37)(Spear,64)(Arrow,37)(Short,37)(Doctor,10)(Poison,10)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
@@ -10203,7 +10203,7 @@
   splits:
   - split: 5
     text: 阿满阿天
-    translated: A-Mǎn A-Tiān
+    translated: A-Man A-Tian
 - lineNum: 1458
   raw: n52017f	39	fm00000	a00001	nick085	阿西阿贡	ta0092	st0068d,st0069c		0	ai01	(MajorWeapon,eq10811)(Cloth,eq20105)(Jewelry,eq20222)	1	(HP,7107)(MaxHP,7107)(MP,3093)(MaxMP,3093)(Physique,75)(Intelligence,50)(Neigong,66)(Qinggong,70)(Fight,49)(Sword,49)(Blade,49)(Spear,49)(Arrow,49)(Short,49)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,10)(Reputation,500)(ZOC,60)(YinAndYang,125)	(it40116,2)	0,0	0
   translated: 
@@ -10245,7 +10245,7 @@
   splits:
   - split: 5
     text: 鹰猎人阿季(飞鹰箭诀、狩猎弓术)(刚)
-    translated: Eagle Hunter Aji (Fēiyīng Jiànjué, Shòuliè Gōngshù) (Gāng)
+    translated: Eagle Hunter Aji (Feiying Jianjue, Shoulie Gongshu) (Gang)
 - lineNum: 1464
   raw: n52025b	20	fm00000	a00001		鹰猎人阿席(飞鹰箭诀、狩猎弓术)(动)	ta0056	st0068c,st0005	st0069a	0	ai00000	(MajorWeapon,eq10801)(Cloth,eq20102)(Jewelry,eq20222)	1	(HP,2960)(MaxHP,2960)(MP,1461)(MaxMP,1461)(Physique,59)(Intelligence,50)(Neigong,34)(Qinggong,36)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
@@ -10287,35 +10287,35 @@
   splits:
   - split: 5
     text: 噶玛寺僧侣
-    translated: Gäshar Monastery monks
+    translated: Gashar Monastery monks
 - lineNum: 1470
   raw: n52025h	31	fm00000	a00001		噶玛寺僧侣	ta0091	st0103b,st0162		205	ai00000	(MajorWeapon,eq10103)(Jewelry,eq20207)	0	(HP,4347)(MaxHP,4347)(MP,2405)(MaxMP,2405)(Physique,55)(Intelligence,50)(Neigong,59)(Qinggong,50)(Fight,72)(Sword,41)(Blade,41)(Spear,41)(Arrow,41)(Short,41)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 噶玛寺僧侣
-    translated: Gönpa lamas
+    translated: Gonpa lamas
 - lineNum: 1471
   raw: n52025i	31	fm00000	a00001		噶玛寺僧侣	ta0091b	st0103b,st0162		205	ai00000	(MajorWeapon,eq10103)(Jewelry,eq20207)	0	(HP,4347)(MaxHP,4347)(MP,2405)(MaxMP,2405)(Physique,55)(Intelligence,50)(Neigong,59)(Qinggong,50)(Fight,72)(Sword,41)(Blade,41)(Spear,41)(Arrow,41)(Short,41)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 噶玛寺僧侣
-    translated: Gāmǎ Sì sēnglǚ
+    translated: Gama Si senglu
 - lineNum: 1472
   raw: n52025j	31	fm00000	a00001		噶玛寺僧侣	ta0091	st0103b,st0162		205	ai00000	(MajorWeapon,eq10103)(Jewelry,eq20207)	0	(HP,4347)(MaxHP,4347)(MP,2405)(MaxMP,2405)(Physique,55)(Intelligence,50)(Neigong,59)(Qinggong,50)(Fight,72)(Sword,41)(Blade,41)(Spear,41)(Arrow,41)(Short,41)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 噶玛寺僧侣
-    translated: Gönpa Monastery monks
+    translated: Gonpa Monastery monks
 - lineNum: 1473
   raw: n52025k	31	fm00000	a00001		噶玛寺僧侣	ta0091b	st0103b,st0162		205	ai00000	(MajorWeapon,eq10103)(Jewelry,eq20207)	0	(HP,4347)(MaxHP,4347)(MP,2405)(MaxMP,2405)(Physique,55)(Intelligence,50)(Neigong,59)(Qinggong,50)(Fight,72)(Sword,41)(Blade,41)(Spear,41)(Arrow,41)(Short,41)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it60114,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 噶玛寺僧侣
-    translated: Gāmǎ Sì monk
+    translated: Gama Si monk
 - lineNum: 1474
   raw: n52027	16	fm00000	a00001		木府枪兵(木奎阵营)(三朵神枪、玉龙拳谱)(动)	ta0051	st0067b,st0069b		203	ai00000	(MajorWeapon,eq10520)(Cloth,eq20103)	0	(HP,2011)(MaxHP,2011)(MP,1155)(MaxMP,1155)(Physique,47)(Intelligence,50)(Neigong,27)(Qinggong,27)(Fight,32)(Sword,26)(Blade,26)(Spear,42)(Arrow,26)(Short,26)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
@@ -10329,28 +10329,28 @@
   splits:
   - split: 5
     text: 木府枪兵(木奎阵营)(三朵神枪、玉龙拳谱)(刚)
-    translated: Mù Fǔ Qiangbīng (Mù Kuí Zhènyíng) (Sān Duō Shén Qiāng, Yù Lóng Quán Pǔ) (Gāng)
+    translated: Mu Fu Qiangbing (Mu Kui Zhenying) (San Duo Shen Qiang, Yu Long Quan Pu) (Gang)
 - lineNum: 1476
   raw: n52027c	20	fm00000	a00001		木府弓箭手(木奎阵营)(飞鹰箭诀)	ta0055b	st0068c		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10503)(Cloth,eq20103)	1	(HP,2584)(MaxHP,2584)(MP,1461)(MaxMP,1461)(Physique,49)(Intelligence,50)(Neigong,34)(Qinggong,34)(Fight,40)(Sword,30)(Blade,30)(Spear,50)(Arrow,30)(Short,30)(Doctor,10)(Poison,10)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府弓箭手(木奎阵营)(飞鹰箭诀)
-    translated: Mù Fǔ Archers (Wu Kui Camp) (Flying Eagle Bow Technique)
+    translated: Mu Fu Archers (Wu Kui Camp) (Flying Eagle Bow Technique)
 - lineNum: 1477
   raw: n52027d	20	fm00000	a00001		木府弓箭手(木奎阵营)(飞鹰箭诀)	ta0063	st0068a		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10503)(Cloth,eq20103)	1	(HP,2620)(MaxHP,2620)(MP,1461)(MaxMP,1461)(Physique,50)(Intelligence,50)(Neigong,34)(Qinggong,34)(Fight,40)(Sword,30)(Blade,30)(Spear,50)(Arrow,30)(Short,30)(Doctor,10)(Poison,10)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府弓箭手(木奎阵营)(飞鹰箭诀)
-    translated: Mù Fǔ Archers (Mu Kuí Camp) (Fēiyīng Jiàn Jué)
+    translated: Mu Fu Archers (Mu Kui Camp) (Feiying Jian Jue)
 - lineNum: 1478
   raw: n52027e	16	fm00000	a00001		木府长枪兵(木奎阵营)	ta0051	st0067b,st0069b		203	ai00000	(MajorWeapon,eq10520)(Cloth,eq20103)	0	(HP,2011)(MaxHP,2011)(MP,1155)(MaxMP,1155)(Physique,47)(Intelligence,50)(Neigong,27)(Qinggong,27)(Fight,32)(Sword,26)(Blade,26)(Spear,42)(Arrow,26)(Short,26)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 木府长枪兵(木奎阵营)
-    translated: Long Spearman of the Mù Household (Mù Qū Camp)
+    translated: Long Spearman of the Mu Household (Mu Qu Camp)
 - lineNum: 1479
   raw: n52027f	16	fm00000	a00001		木府长枪兵(木奎阵营)	ta0055b	st0067b,st0069b		203	ai00000	(MajorWeapon,eq10520)(Cloth,eq20103)	0	(HP,2039)(MaxHP,2039)(MP,1155)(MaxMP,1155)(Physique,48)(Intelligence,50)(Neigong,27)(Qinggong,27)(Fight,32)(Sword,26)(Blade,26)(Spear,42)(Arrow,26)(Short,26)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
@@ -10364,7 +10364,7 @@
   splits:
   - split: 5
     text: 木府弓箭手(木奎阵营)(飞鹰箭诀)
-    translated: Mù Fǔ Archers (Mù Kuí Faction) (Fei Yīng Jìn Jué)
+    translated: Mu Fu Archers (Mu Kui Faction) (Fei Ying Jin Jue)
 - lineNum: 1481
   raw: n52027h	20	fm00000	a00001		木府弓箭手(木奎阵营)(飞鹰箭诀法)	ta0059	st0068b		203	ai00000	(MajorWeapon,eq10801)(MinorWeapon,eq10503)(Cloth,eq20103)	1	(HP,2513)(MaxHP,2513)(MP,1461)(MaxMP,1461)(Physique,47)(Intelligence,50)(Neigong,34)(Qinggong,34)(Fight,40)(Sword,30)(Blade,30)(Spear,50)(Arrow,30)(Short,30)(Doctor,10)(Poison,10)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0
   translated: 
@@ -10399,14 +10399,14 @@
   splits:
   - split: 5
     text: 明教教众陆云开(天鹏刀法-中)(动刚)
-    translated: 'Wudang Sect follower Lù Yún Kāi (Sword Technique: Tian Peng - Middle; Dao Style: Dynamic Yang)'
+    translated: 'Wudang Sect follower Lu Yun Kai (Sword Technique: Tian Peng - Middle; Dao Style: Dynamic Yang)'
 - lineNum: 1486
   raw: n53004c	38	fm00000	a00003		明教教众李阳辉(天鹏刀法-中)(动巧)	ta0091c	st0118c		206	ai01	(MajorWeapon,eq10420)(Cloth,eq20102)	0	(HP,4978)(MaxHP,4978)(MP,3033)(MaxMP,3033)(Physique,50)(Intelligence,50)(Neigong,68)(Qinggong,72)(Fight,48)(Sword,48)(Blade,86)(Spear,48)(Arrow,48)(Short,48)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it40108,3)(it40109,3)(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 明教教众李阳辉(天鹏刀法-中)(动巧)
-    translated: Lǐ Yáng Huī (Disciple of the Ming Sect) (Tianpeng Swordplay - Mid) (Agile Movement)
+    translated: Li Yang Hui (Disciple of the Ming Sect) (Tianpeng Swordplay - Mid) (Agile Movement)
 - lineNum: 1487
   raw: n53004d	37	fm00000	a00003		明教教众陆云开(天鹏刀法-中)(动刚)	ta0091b	st0118d		206	ai01	(MajorWeapon,eq10420)(Cloth,eq20102)	0	(HP,4847)(MaxHP,4847)(MP,2937)(MaxMP,2937)(Physique,50)(Intelligence,50)(Neigong,67)(Qinggong,70)(Fight,47)(Sword,47)(Blade,84)(Spear,47)(Arrow,47)(Short,47)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it40108,3)(it40109,3)(it80306,1)	0,0	0
   translated: 
@@ -10546,7 +10546,7 @@
   splits:
   - split: 5
     text: 明教教众(低阶天鹏刀法)
-    translated: Míng Jiào Jì Zhòng (Dījiē Tiānpéng Dāofǎ)
+    translated: Ming Jiao Ji Zhong (Dijie Tianpeng Daofa)
 - lineNum: 1507
   raw: n53007b	22	fm00000	a00001		明教教众(低阶天鹏刀法)	ta0056	st0118b		207	ai01	(MajorWeapon,eq10403)(Cloth,eq20102)	0	(HP,2765)(MaxHP,2765)(MP,1626)(MaxMP,1626)(Physique,47)(Intelligence,50)(Neigong,40)(Qinggong,42)(Fight,32)(Sword,32)(Blade,54)(Spear,32)(Arrow,32)(Short,32)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,35)	(it80306,1)	-1,-1	0
   translated: 
@@ -10658,7 +10658,7 @@
   splits:
   - split: 5
     text: 武人(天鹏刀法)(刚)
-    translated: Wǔrén (Tiānpéng Dáofǎ) (Gāng)
+    translated: Wuren (Tianpeng Daofa) (Gang)
 - lineNum: 1523
   raw: n53010e	22	fm00000	a00001		武人(天鹏刀法)(动)	ta0056	st0118c		207	ai01	(MajorWeapon,eq10403)	0	(HP,2962)(MaxHP,2962)(MP,1626)(MaxMP,1626)(Physique,52)(Intelligence,50)(Neigong,40)(Qinggong,42)(Fight,32)(Sword,32)(Blade,54)(Spear,32)(Arrow,32)(Short,32)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it80306,1)	0,0	24
   translated: 
@@ -10679,21 +10679,21 @@
   splits:
   - split: 5
     text: 武人(天鹏刀法)(刚)
-    translated: Wǔrén (Tiānpéng dāofǎ) (Gāng)
+    translated: Wuren (Tianpeng daofa) (Gang)
 - lineNum: 1526
   raw: n53010h	23	fm00000	a00001		武人(天鹏刀法)(动)	ta0056	st0118d		207	ai01	(MajorWeapon,eq10403)(Cloth,eq20102)	0	(HP,3096)(MaxHP,3096)(MP,1707)(MaxMP,1707)(Physique,52)(Intelligence,50)(Neigong,41)(Qinggong,44)(Fight,33)(Sword,33)(Blade,56)(Spear,33)(Arrow,33)(Short,33)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it80306,1)	0,0	4
   translated: 
   splits:
   - split: 5
     text: 武人(天鹏刀法)(动)
-    translated: Wu Ren (Tiānpéng Dáfǎ) (Moving)
+    translated: Wu Ren (Tianpeng Dafa) (Moving)
 - lineNum: 1527
   raw: n53010i	21	fm00000	a00001		武人(天鹏刀法)(巧)	ta0064	st0118c		207	ai01	(MajorWeapon,eq10403)(Cloth,eq20102)	0	(HP,2751)(MaxHP,2751)(MP,1546)(MaxMP,1546)(Physique,50)(Intelligence,50)(Neigong,38)(Qinggong,40)(Fight,31)(Sword,31)(Blade,52)(Spear,31)(Arrow,31)(Short,31)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it80306,1)	0,0	4
   translated: 
   splits:
   - split: 5
     text: 武人(天鹏刀法)(巧)
-    translated: Martial Artist (Péngtíang Sword Technique) (Skillful)
+    translated: Martial Artist (Pengtiang Sword Technique) (Skillful)
 - lineNum: 1528
   raw: n53010j	22	fm00000	a00001		武人(天鹏刀法)(刚)	ta0052	st0118d		207	ai01	(MajorWeapon,eq10421)(Cloth,eq20102)	0	(HP,3002)(MaxHP,3002)(MP,1626)(MaxMP,1626)(Physique,53)(Intelligence,50)(Neigong,40)(Qinggong,42)(Fight,32)(Sword,32)(Blade,54)(Spear,32)(Arrow,32)(Short,32)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40108,2)(it40109,2)	0,0	4
   translated: 
@@ -10707,7 +10707,7 @@
   splits:
   - split: 5
     text: 武人(天鹏刀法)(动)
-    translated: Wǔ rén (Tian Péng Dāo Fǎ) (dòng)
+    translated: Wu ren (Tian Peng Dao Fa) (dong)
 - lineNum: 1530
   raw: n53010l	27	fm00000	a00003		武人(天鹏刀法)(巧)	ta0064	st0118d		207	ai01	(MajorWeapon,eq10420)(Cloth,eq20102)	0	(HP,3585)(MaxHP,3585)(MP,2038)(MaxMP,2038)(Physique,51)(Intelligence,50)(Neigong,49)(Qinggong,51)(Fight,37)(Sword,37)(Blade,64)(Spear,37)(Arrow,37)(Short,37)(Doctor,10)(Poison,10)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40116,1)(it40117,1)	0,0	4
   translated: 
@@ -10791,7 +10791,7 @@
   splits:
   - split: 5
     text: 黑衣人(阎王帖)
-    translated: Dark-Clothed Person (Yánwáng Tiè)
+    translated: Dark-Clothed Person (Yanwang Tie)
 - lineNum: 1542
   raw: n54002_02c	25	fm00000	a00001		黑衣人(阴风刀)	ta0064	st0114b		204	ai00000	(MajorWeapon,eq10403)	1	(HP,3014)(MaxHP,3014)(MP,1882)(MaxMP,1882)(Physique,44)(Intelligence,50)(Neigong,48)(Qinggong,48)(Fight,35)(Sword,35)(Blade,60)(Spear,35)(Arrow,35)(Short,35)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-50)	(it80306,1)	0,0	0
   translated: 
@@ -10903,14 +10903,14 @@
   splits:
   - split: 5
     text: 黑衣人(阎王帖)
-    translated: Shadowy Figure (Yán Wáng Tiè)
+    translated: Shadowy Figure (Yan Wang Tie)
 - lineNum: 1558
   raw: n54004b_02b	19	fm00000	a00001		黑衣人(阎王帖)	ta0064	st0113b		204	ai00000	(MajorWeapon,eq10917)	1	(HP,2322)(MaxHP,2322)(MP,1394)(MaxMP,1394)(Physique,45)(Intelligence,50)(Neigong,36)(Qinggong,36)(Fight,29)(Sword,29)(Blade,29)(Spear,29)(Arrow,29)(Short,48)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 黑衣人(阎王帖)
-    translated: Cloaked Figure (Yán Wáng Tiè)
+    translated: Cloaked Figure (Yan Wang Tie)
 - lineNum: 1559
   raw: n54004b_02c	22	fm00000	a00001		黑衣人(追魂七破)	ta0056	st0115b		204	ai00000	(MajorWeapon,eq10702)	1	(HP,2689)(MaxHP,2689)(MP,1634)(MaxMP,1634)(Physique,45)(Intelligence,50)(Neigong,42)(Qinggong,42)(Fight,32)(Sword,32)(Blade,32)(Spear,32)(Arrow,54)(Short,32)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-35)	(it80306,1)(it40101,3)	0,0	0
   translated: 
@@ -11008,7 +11008,7 @@
   splits:
   - split: 5
     text: 怒目蛟龙 张硕(狂澜绝刀势)(拙)
-    translated: Furious-eyed Dragon Zhang Shuo (Kuànglán Jué Dāoshì - Clumsy)
+    translated: Furious-eyed Dragon Zhang Shuo (Kuanglan Jue Daoshi - Clumsy)
 - lineNum: 1573
   raw: n55001b	23	fm00000	a00001		流寇 二刀(奇门三才刀、阴风刀)巧	ta0064	st0106,st0114b		201	ai01	(MajorWeapon,eq10402)	0	(HP,2811)(MaxHP,2811)(MP,1698)(MaxMP,1698)(Physique,45)(Intelligence,50)(Neigong,39)(Qinggong,46)(Fight,33)(Sword,33)(Blade,56)(Spear,33)(Arrow,33)(Short,33)(Doctor,15)(Poison,15)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-50)	(it80306,1)(it40108,2)(it60203,1)(it80302,1)	3,6	1
   translated: 
@@ -11127,7 +11127,7 @@
   splits:
   - split: 5
     text: 流寇 五棍(梨花枪、一十八路暴变枪)巧
-    translated: Outlaw Five Club (Líhuā Qiang, Eighteen Change Techniques Spear) Skillful
+    translated: Outlaw Five Club (Lihua Qiang, Eighteen Change Techniques Spear) Skillful
 - lineNum: 1590
   raw: n55004f	23	fm00000	a00001		流寇 二棍(三朵神枪、太祖棒)刚	ta0052	st0067a,st0158		201	ai01	(MajorWeapon,eq10502)	0	(HP,3225)(MaxHP,3225)(MP,1698)(MaxMP,1698)(Physique,55)(Intelligence,50)(Neigong,39)(Qinggong,39)(Fight,33)(Sword,33)(Blade,33)(Spear,56)(Arrow,33)(Short,33)(Doctor,15)(Poison,15)(Money,100)(Madness,50)(Moral,-50)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it80306,1)(it40108,2)(it60203,1)(it80302,1)	3,6	1
   translated: 
@@ -13087,7 +13087,7 @@
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Grey Wolf (to the south of Gǒngshí Village in the forested hills)
+    translated: Grey Wolf (to the south of Gongshi Village in the forested hills)
 - lineNum: 1870
   raw: n59002_004	10	fm00000	al20011		灰狼(拱石村南方山林)	ta0075b	st0016		103	ai00000		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -13122,7 +13122,7 @@
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Grey Wolf (Gǒngshí Village South Forests)
+    translated: Grey Wolf (Gongshi Village South Forests)
 - lineNum: 1875
   raw: n59002_014	10	fm00000	al20011		灰狼(拱石村南方山林)	ta0075b	st0016		103	ai00000		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -13136,7 +13136,7 @@
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Grey Wolf (Gǒngshí Village south mountain forest)
+    translated: Grey Wolf (Gongshi Village south mountain forest)
 - lineNum: 1877
   raw: n59002_021	10	fm00000	al20011		大灰狼(拱石村南方山林)	ta0075c	st0016		103	ai01		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -13157,7 +13157,7 @@
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Gray Wolf (Gǒngshí Village, South Forest)
+    translated: Gray Wolf (Gongshi Village, South Forest)
 - lineNum: 1880
   raw: n59002_031	10	fm00000	al20011		大灰狼(拱石村南方山林)	ta0075c	st0016		103	ai01		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -13178,7 +13178,7 @@
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Gray Wolf (Gǒngshí Village South Mountain Forest)
+    translated: Gray Wolf (Gongshi Village South Mountain Forest)
 - lineNum: 1883
   raw: n59002_034	10	fm00000	al20011		灰狼(拱石村南方山林)	ta0075b	st0016		103	ai00000		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -13192,21 +13192,21 @@
   splits:
   - split: 5
     text: 大灰狼(拱石村南方山林)
-    translated: Great Gray Wolf (in the forest south of Gōngshí Village)
+    translated: Great Gray Wolf (in the forest south of Gongshi Village)
 - lineNum: 1885
   raw: n59002_042	10	fm00000	al20011		灰狼(拱石村南方山林)	ta0075b	st0016		103	ai00000		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Gray Wolf (Gǒngshí Village South Mountain Forest)
+    translated: Gray Wolf (Gongshi Village South Mountain Forest)
 - lineNum: 1886
   raw: n59002_043	10	fm00000	al20011		灰狼(拱石村南方山林)	ta0075b	st0016		103	ai00000		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Gray Wolf (Guăngshí Village South Forests)
+    translated: Gray Wolf (Guangshi Village South Forests)
 - lineNum: 1887
   raw: n59002_044	10	fm00000	al20011		灰狼(拱石村南方山林)	ta0075b	st0016		103	ai00000		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -13248,7 +13248,7 @@
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Gray Wolf (in the mountains south of Gǒngshí Village)
+    translated: Gray Wolf (in the mountains south of Gongshi Village)
 - lineNum: 1893
   raw: n59002_054	10	fm00000	al20011		灰狼(拱石村南方山林)	ta0075b	st0016		103	ai00000		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -13325,7 +13325,7 @@
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Gray Wolf (Gǒngshí Village, south of the mountain forest)
+    translated: Gray Wolf (Gongshi Village, south of the mountain forest)
 - lineNum: 1904
   raw: n59002_081	10	fm00000	al20011		大灰狼(拱石村南方山林)	ta0075c	st0016		103	ai01		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -13346,7 +13346,7 @@
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Grey Wolf (Guǎngshí Village, south of the mountain forests)
+    translated: Grey Wolf (Guangshi Village, south of the mountain forests)
 - lineNum: 1907
   raw: n59002_091	10	fm00000	al20011		大灰狼(拱石村南方山林)	ta0075c	st0016		103	ai01		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -13381,7 +13381,7 @@
   splits:
   - split: 5
     text: 灰狼(拱石村南方山林)
-    translated: Grey Wolf (Gǒngshí Village, South Forest)
+    translated: Grey Wolf (Gongshi Village, South Forest)
 - lineNum: 1912
   raw: n59002_101	10	fm00000	al20011		大灰狼(拱石村南方山林)	ta0075c	st0016		103	ai01		0	(HP,860)(MaxHP,860)(MP,710)(MaxMP,710)(Physique,20)(Intelligence,50)(Neigong,15)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -13479,7 +13479,7 @@
   splits:
   - split: 5
     text: 灰狼(天龙寺邻近山林)
-    translated: Grey Wolf (near Tenryū Temple in the adjacent mountains)
+    translated: Grey Wolf (near Tenryu Temple in the adjacent mountains)
 - lineNum: 1926
   raw: n59002_125	10	fm00000	al20011		灰狼(天龙寺邻近山林)	ta0075b	st0016		103	ai00000		0	(HP,1310)(MaxHP,1310)(MP,725)(MaxMP,725)(Physique,50)(Intelligence,50)(Neigong,30)(Qinggong,40)(Fight,40)(Sword,20)(Blade,30)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70403,1)(it40229,1)	24,36	1
   translated: 
@@ -15397,14 +15397,14 @@
   splits:
   - split: 5
     text: 野猪(拱石村外围)
-    translated: Wild Boar (outside the village of Gǒngshí)
+    translated: Wild Boar (outside the village of Gongshi)
 - lineNum: 2200
   raw: n59003_004	10	fm00000	al20032		野猪(拱石村外围)		st0017		101	ai00000		0	(HP,750)(MaxHP,750)(MP,725)(MaxMP,725)(Physique,10)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40225,1)(it60503,1)(it70409,1)(it801089,1)	24,36	1
   translated: 
   splits:
   - split: 5
     text: 野猪(拱石村外围)
-    translated: Wild Boar (outside the village of Gǒngshí)
+    translated: Wild Boar (outside the village of Gongshi)
 - lineNum: 2201
   raw: n59003_005	10	fm00000	al20032		野猪(拱石村外围)		st0017		101	ai00000		0	(HP,750)(MaxHP,750)(MP,725)(MaxMP,725)(Physique,10)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40225,1)(it60503,1)(it70409,1)(it801089,1)	24,36	1
   translated: 
@@ -15432,7 +15432,7 @@
   splits:
   - split: 5
     text: 野猪(拱石村外围)
-    translated: Wild Boar (outside the village of Gǒngshí)
+    translated: Wild Boar (outside the village of Gongshi)
 - lineNum: 2205
   raw: n59003_009	10	fm00000	al20032		野猪(拱石村外围)		st0017		101	ai00000		0	(HP,750)(MaxHP,750)(MP,725)(MaxMP,725)(Physique,10)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40225,1)(it60503,1)(it70409,1)(it801089,1)	24,36	1
   translated: 
@@ -15446,7 +15446,7 @@
   splits:
   - split: 5
     text: 野猪(拱石村外围)
-    translated: Wild Boar (outside the village of Gǒngshí)
+    translated: Wild Boar (outside the village of Gongshi)
 - lineNum: 2207
   raw: n59003_011	10	fm00000	al20032		野猪(拱石村外围)		st0017		101	ai00000		0	(HP,750)(MaxHP,750)(MP,725)(MaxMP,725)(Physique,10)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40225,1)(it60503,1)(it70409,1)(it801089,1)	24,36	1
   translated: 
@@ -15467,7 +15467,7 @@
   splits:
   - split: 5
     text: 野猪(拱石村外围)
-    translated: Wild Boar (near the village of Gǒngshí)
+    translated: Wild Boar (near the village of Gongshi)
 - lineNum: 2210
   raw: n59003_014	6	fm00000	al20032		野猪(拱石村外围)		st0017		101	ai00000		0	(HP,450)(MaxHP,450)(MP,435)(MaxMP,435)(Physique,10)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40225,1)(it60503,1)(it70409,1)(it801089,1)	24,36	1
   translated: 
@@ -15509,14 +15509,14 @@
   splits:
   - split: 5
     text: 野猪(拱石村外围)
-    translated: Wild Boar (near the Gǒngshí Village outskirts)
+    translated: Wild Boar (near the Gongshi Village outskirts)
 - lineNum: 2216
   raw: n59003_020	10	fm00000	al20032		野猪(拱石村外围)		st0017		101	ai00000		0	(HP,750)(MaxHP,750)(MP,725)(MaxMP,725)(Physique,10)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40225,1)(it60503,1)(it70409,1)(it801089,1)	24,36	1
   translated: 
   splits:
   - split: 5
     text: 野猪(拱石村外围)
-    translated: Wild Boar (on the outskirts of Gǒngshí Village)
+    translated: Wild Boar (on the outskirts of Gongshi Village)
 - lineNum: 2217
   raw: n59003_021	6	fm00000	al20032		野猪(拱石村外围-北方河岸)		st0017		101	ai00000		0	(HP,450)(MaxHP,450)(MP,435)(MaxMP,435)(Physique,10)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40225,1)(it60503,1)(it70409,1)(it801089,1)	12,24	1
   translated: 
@@ -15572,7 +15572,7 @@
   splits:
   - split: 5
     text: 野猪(拱石村外围-北方河岸)
-    translated: Wild Boar (Northern Riverbank - Outside of Gǒngshí Village)
+    translated: Wild Boar (Northern Riverbank - Outside of Gongshi Village)
 - lineNum: 2225
   raw: n59003_029	10	fm00000	al20032		野猪(拱石村外围-北方河岸)		st0017		101	ai00000		0	(HP,750)(MaxHP,750)(MP,725)(MaxMP,725)(Physique,10)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40225,1)(it60503,1)(it70409,1)(it801089,1)	24,36	1
   translated: 
@@ -16090,7 +16090,7 @@
   splits:
   - split: 5
     text: 山猪王 寡妇制造者(拱石村废弃农田Boss)
-    translated: Boar King Widowmaker (Ruined Farm Boss of Gǒngshí Village)
+    translated: Boar King Widowmaker (Ruined Farm Boss of Gongshi Village)
 - lineNum: 2299
   raw: n59003_a03	45	fm00000	al20032	nick530	山猪王 寡妇制造者(拱石村废弃农田Boss)	ta0091b	st0017c		101	ai00000		0	(HP,6750)(MaxHP,6750)(MP,3502)(MaxMP,3502)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,40)(Fight,50)(Sword,80)(Blade,80)(Spear,60)(Arrow,80)(Short,80)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,50)(YinAndYang,0)	(it40225,1)(it60503,2)(it70420,1)(it801089,1)	-1,-1	1
   translated: 
@@ -16139,7 +16139,7 @@
   splits:
   - split: 5
     text: 大野猪(拱石村东北方废弃农田)
-    translated: Great Boar (Abandoned Farmland northeast of Gǒngshí Village)
+    translated: Great Boar (Abandoned Farmland northeast of Gongshi Village)
 - lineNum: 2306
   raw: n59003_B05	15	fm00000	al20032		大野猪(拱石村东北方废弃农田)	ta0076c	st0017b		101	ai00000		0	(HP,1710)(MaxHP,1710)(MP,1088)(MaxMP,1088)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40225,1)(it60503,2)(it70409,2)(it801089,1)	-1,-1	1
   translated: 
@@ -16153,7 +16153,7 @@
   splits:
   - split: 5
     text: 大野猪(拱石村东北方废弃农田)
-    translated: Dà Yě Zhū (Gǒng Shí Village northeast abandoned farmland)
+    translated: Da Ye Zhu (Gong Shi Village northeast abandoned farmland)
 - lineNum: 2308
   raw: n59003_B07	12	fm00000	al20032		大野猪(拱石村东北方废弃农田)	ta0076c	st0017b		101	ai00000		0	(HP,1368)(MaxHP,1368)(MP,870)(MaxMP,870)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,15)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40225,1)(it60503,2)(it70409,2)(it801089,1)	-1,-1	1
   translated: 
@@ -16517,7 +16517,7 @@
   splits:
   - split: 5
     text: 野熊(拱石村西南方山区)
-    translated: Bear (West-South of Gǒngshí Village in the Mountainous Area)
+    translated: Bear (West-South of Gongshi Village in the Mountainous Area)
 - lineNum: 2360
   raw: n59004_003	40	fm00000	al20008		野熊(拱石村西南方山区)	ta0077b	st0030		109	ai00000		0	(HP,10410)(MaxHP,10410)(MP,3318)(MaxMP,3318)(Physique,105)(Intelligence,50)(Neigong,80)(Qinggong,20)(Fight,50)(Sword,80)(Blade,80)(Spear,70)(Arrow,80)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40226,1)(it60511,1)(it70406,1)	36,48	1
   translated: 
@@ -16573,7 +16573,7 @@
   splits:
   - split: 5
     text: 野熊(拱石村西南方山区)
-    translated: Wild Bear (west-southwest of Kǒngshí Village in the mountainous area)
+    translated: Wild Bear (west-southwest of Kongshi Village in the mountainous area)
 - lineNum: 2368
   raw: n59004_011	40	fm00000	al20008		野熊	ta0077b	st0030		109	ai00000		0	(HP,10410)(MaxHP,10410)(MP,3318)(MaxMP,3318)(Physique,105)(Intelligence,50)(Neigong,80)(Qinggong,20)(Fight,50)(Sword,80)(Blade,80)(Spear,70)(Arrow,80)(Short,40)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40226,1)(it60511,1)(it70406,1)	36,48	1
   translated: 
@@ -17273,7 +17273,7 @@
   splits:
   - split: 5
     text: 白熊 银掌
-    translated: Pái Xióng Yín Zhǎo
+    translated: Pai Xiong Yin Zhao
 - lineNum: 2468
   raw: n59004f_a01	15	fm00000	al20008	nick537	白熊 银掌	ta0077	st0030		109	ai00000		0	(HP,3903)(MaxHP,3903)(MP,1110)(MaxMP,1110)(Physique,105)(Intelligence,50)(Neigong,40)(Qinggong,25)(Fight,30)(Sword,60)(Blade,60)(Spear,70)(Arrow,60)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40230,1)(it60511,1)(it70415,1)	-1,-1	1
   translated: 
@@ -17308,7 +17308,7 @@
   splits:
   - split: 5
     text: 白熊 银掌
-    translated: Píxíng Yín Zhǎo
+    translated: Pixing Yin Zhao
 - lineNum: 2473
   raw: n59004g	56	fm00000	al20008		白熊	ta0077	st0030		109	ai00000		0	(HP,14574)(MaxHP,14574)(MP,4645)(MaxMP,4645)(Physique,105)(Intelligence,50)(Neigong,80)(Qinggong,35)(Fight,60)(Sword,90)(Blade,90)(Spear,80)(Arrow,90)(Short,50)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40230,1)(it60511,1)(it70415,1)	72,144	1
   translated: 
@@ -17329,7 +17329,7 @@
   splits:
   - split: 5
     text: 白熊
-    translated: Panda Bear
+    translated: White Bear
 - lineNum: 2476
   raw: n59004j	85	fm00000	al20008		白熊	ta0077	st0030		109	ai00000		0	(HP,22121)(MaxHP,22121)(MP,7051)(MaxMP,7051)(Physique,105)(Intelligence,50)(Neigong,80)(Qinggong,35)(Fight,80)(Sword,110)(Blade,110)(Spear,100)(Arrow,110)(Short,70)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40230,1)(it60511,1)(it70415,1)	72,144	1
   translated: 
@@ -19289,7 +19289,7 @@
   splits:
   - split: 5
     text: 菩斯曲蛇 巨木
-    translated: Púsīqié's Great Wood
+    translated: Pusiqie's Great Wood
 - lineNum: 2756
   raw: n59008_001	15	fm00000	al20001	nick543	菩斯曲蛇 巨木	ta0002	st0028b		106	ai00000		0	(HP,3690)(MaxHP,3690)(MP,1136)(MaxMP,1136)(Physique,100)(Intelligence,50)(Neigong,50)(Qinggong,50)(Fight,60)(Sword,40)(Blade,50)(Spear,50)(Arrow,30)(Short,40)(Doctor,10)(Poison,50)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50309,1)(it60507,2)(it40224,1)	-1,-1	1
   translated: 
@@ -19317,7 +19317,7 @@
   splits:
   - split: 5
     text: 菩斯曲蛇 巨木
-    translated: Pusiqushé Ju Mù
+    translated: Pusiqushe Ju Mu
 - lineNum: 2760
   raw: n59008_005	70	fm00000	al20001	nick543	菩斯曲蛇 巨木	ta0002	st0028b		106	ai00000		0	(HP,17220)(MaxHP,17220)(MP,5616)(MaxMP,5616)(Physique,100)(Intelligence,50)(Neigong,70)(Qinggong,70)(Fight,60)(Sword,40)(Blade,50)(Spear,50)(Arrow,30)(Short,40)(Doctor,10)(Poison,90)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it50309,1)(it60507,2)(it40224,1)	-1,-1	1
   translated: 
@@ -20479,7 +20479,7 @@
   splits:
   - split: 5
     text: 淘石帮总管 天哥(开山碎玉刀)见笑转生气攻击力上升
-    translated: Taoshí Bāng Zŏngguǎn Tiān Gē (Kāishān Suìyù Dāo) jiàn xiào zhuǎn shēngqì gōngjī lì shàngshēng.
+    translated: Taoshi Bang Zongguan Tian Ge (Kaishan Suiyu Dao) jian xiao zhuan shengqi gongji li shangsheng.
 - lineNum: 2926
   raw: n60004	50	fm00000	a00001	nick159	西门玉堂(非战斗，一般日常交易、偷东西用)	ta0092b	st0078b,st0080b		0	ai00000	(MajorWeapon,eq10110)	1	(HP,5862)(MaxHP,5862)(MP,4382)(MaxMP,4382)(Physique,42)(Intelligence,50)(Neigong,95)(Qinggong,125)(Fight,100)(Sword,60)(Blade,100)(Spear,60)(Arrow,60)(Short,60)(Doctor,0)(Poison,0)(Money,7000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70402,1)(it30317,1)	0,0	0
   translated: 
@@ -20752,7 +20752,7 @@
   splits:
   - split: 5
     text: 伙计 辛霖
-    translated: Comrade Xīnlín
+    translated: Comrade Xinlin
 - lineNum: 2965
   raw: n60040	20	fm00000	n60040	nick013	漆笑儿(春江诀、岁寒剑法)	ta0007	st0055,st0053b		0	ai00000	(MajorWeapon,eq10915)(MinorWeapon,eq10916)	0	(HP,2445)(MaxHP,2445)(MP,1535)(MaxMP,1535)(Physique,45)(Intelligence,70)(Neigong,55)(Qinggong,50)(Fight,40)(Sword,55)(Blade,45)(Spear,20)(Arrow,40)(Short,50)(Doctor,0)(Poison,0)(Money,5200)(Madness,-15)(Moral,20)(Reputation,150)(ZOC,60)(YinAndYang,-25)	(it30205,1)	0,0	0
   translated: 
@@ -20906,7 +20906,7 @@
   splits:
   - split: 5
     text: 樊香蝶(红袖曲、神女赋)
-    translated: Fàn Xiāngdié (Red Sleeve Melody, The Goddess' Exposition)
+    translated: Fan Xiangdie (Red Sleeve Melody, The Goddess' Exposition)
 - lineNum: 2987
   raw: n60106	23	fm00000	a00011		艳雪(红袖曲、神女赋)	ta0064	st0081a,st0019c		0	ai00000	(MajorWeapon,eq10918)	0	(HP,2585)(MaxHP,2585)(MP,1725)(MaxMP,1725)(Physique,39)(Intelligence,50)(Neigong,46)(Qinggong,51)(Fight,56)(Sword,33)(Blade,33)(Spear,33)(Arrow,33)(Short,56)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,-40)	(it40101,1)(it40102,1)	0,0	0
   translated: 
@@ -20955,7 +20955,7 @@
   splits:
   - split: 5
     text: 何老头(太祖长拳)
-    translated: Hé Lǎotóu (Tàizǔ Chángquán)
+    translated: He Laotou (Taizu Changquan)
 - lineNum: 2994
   raw: n60113	14	fm00000	a00001		郭猎户(庄稼把式)		st0082c		0	ai00000	(MajorWeapon,eq11208)	0	(HP,1808)(MaxHP,1808)(MP,1010)(MaxMP,1010)(Physique,49)(Intelligence,50)(Neigong,27)(Qinggong,25)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,38)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)(it40228,1)(it70410,1)	0,0	0
   translated: 
@@ -20997,7 +20997,7 @@
   splits:
   - split: 5
     text: 打手 买小(五郎八卦棍、太祖长拳)
-    translated: Hired goon buys Five-Pole Goblet Staff (Wǔláng guàgùn), Taizu Long Fist.
+    translated: Hired goon buys Five-Pole Goblet Staff (Wulang guagun), Taizu Long Fist.
 - lineNum: 3000
   raw: n60120	28	fm00000	a00001		打手 向宫(甩手封喉、九宫八卦掌)	ta0056	st0075,st0083		201	ai00000	(MajorWeapon,eq10702)	0	(HP,3769)(MaxHP,3769)(MP,2123)(MaxMP,2123)(Physique,52)(Intelligence,50)(Neigong,50)(Qinggong,56)(Fight,66)(Sword,38)(Blade,38)(Spear,38)(Arrow,66)(Short,38)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
@@ -21046,7 +21046,7 @@
   splits:
   - split: 5
     text: 司徒荆(尸蛇毒血功)
-    translated: Shī Zhēngāng (Corpse Serpent Venom Blood Skill)
+    translated: Shi Zhengang (Corpse Serpent Venom Blood Skill)
 - lineNum: 3007
   raw: n60132	12	fm00000	a00001		俏梦阁夏柳老爷		st0064		0	ai00000		0	(HP,1032)(MaxHP,1032)(MP,857)(MaxMP,857)(Physique,20)(Intelligence,50)(Neigong,20)(Qinggong,25)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,25)(Short,15)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)(it80302,2)(it80311,1)	0,0	0
   translated: 
@@ -21158,7 +21158,7 @@
   splits:
   - split: 5
     text: 司慧(红袖曲、神女赋)
-    translated: Sihui (Hongxiu Qu, Shen Nü Fu)
+    translated: Sihui (Hongxiu Qu, Shen Nu Fu)
 - lineNum: 3023
   raw: n60166	10	fm00000	a00001		白首不相离老婆婆		st0064		0	ai00000		0	(HP,813)(MaxHP,813)(MP,714)(MaxMP,714)(Physique,16)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,10)(Doctor,0)(Poison,0)(Money,4768)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60609,10)(it60608,10)(it60611,10)(it60115,2)	0,0	6
   translated: 
@@ -21186,7 +21186,7 @@
   splits:
   - split: 5
     text: 俏梦阁卢公子
-    translated: Lú Gōngzǐ from Qiao Mènggé
+    translated: Lu Gongzi from Qiao Mengge
 - lineNum: 3027
   raw: n60178	25	fm00000	a00001		黑衣人(追魂七破)	ta0056	st0115b		204	ai00000	(MajorWeapon,eq10702)	0	(HP,3014)(MaxHP,3014)(MP,1882)(MaxMP,1882)(Physique,44)(Intelligence,50)(Neigong,48)(Qinggong,48)(Fight,35)(Sword,35)(Blade,35)(Spear,35)(Arrow,60)(Short,35)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it60614,10)(it60615,10)(it60618,10)	0,0	0
   translated: 
@@ -21200,7 +21200,7 @@
   splits:
   - split: 5
     text: 黑衣人(阎王帖)
-    translated: The Cloaked Figure (Yánwáng Tiě)
+    translated: The Cloaked Figure (Yanwang Tie)
 - lineNum: 3029
   raw: n60180	28	fm00000	a00003		黑衣人(追魂七破)	ta0056	st0115b		204	ai00000	(MajorWeapon,eq10702)	0	(HP,3375)(MaxHP,3375)(MP,2138)(MaxMP,2138)(Physique,44)(Intelligence,50)(Neigong,53)(Qinggong,53)(Fight,38)(Sword,38)(Blade,38)(Spear,38)(Arrow,66)(Short,38)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it60614,10)(it60615,10)(it60618,10)	0,0	0
   translated: 
@@ -21214,7 +21214,7 @@
   splits:
   - split: 5
     text: 黑衣人(阎王帖)
-    translated: Cloaked Figure (Yán Wáng Tiē)
+    translated: Cloaked Figure (Yan Wang Tie)
 - lineNum: 3031
   raw: n60183	27	fm00000	a00001		黑衣人(追魂七破)	ta0056	st0115b		204	ai00000	(MajorWeapon,eq10702)	0	(HP,3255)(MaxHP,3255)(MP,2052)(MaxMP,2052)(Physique,44)(Intelligence,50)(Neigong,51)(Qinggong,51)(Fight,37)(Sword,37)(Blade,37)(Spear,37)(Arrow,64)(Short,37)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it60614,10)(it60615,10)(it60618,10)	0,0	0
   translated: 
@@ -21235,7 +21235,7 @@
   splits:
   - split: 5
     text: 骚人(回风袖里式)
-    translated: Sāo rén (Huífēng xiù lǐ shì)
+    translated: Sao ren (Huifeng xiu li shi)
 - lineNum: 3034
   raw: n60186-1	28	fm00000	a00004		善人府壮士(岳家枪法、岳家散手)(动)	ta0056	st0010c,st0011		208	ai00000	(MajorWeapon,eq10502)	0	(HP,3568)(MaxHP,3568)(MP,2108)(MaxMP,2108)(Physique,48)(Intelligence,50)(Neigong,48)(Qinggong,45)(Fight,56)(Sword,38)(Blade,56)(Spear,56)(Arrow,38)(Short,38)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it40105,1)	0,0	0
   translated: 
@@ -21312,7 +21312,7 @@
   splits:
   - split: 5
     text: 矿坑守卫(怒川游鱼掌)(柔)
-    translated: Mine Pit Guardian (Nú Chuān Fish Hand Technique) (Soft)
+    translated: Mine Pit Guardian (Nu Chuan Fish Hand Technique) (Soft)
 - lineNum: 3045
   raw: n60189e	15	fm00000	a00001		矿坑守卫(怒川游鱼掌)(柔)	ta0067	st0089f		0	ai00000	(MajorWeapon,eq10102)	0	(HP,1833)(MaxHP,1833)(MP,1082)(MaxMP,1082)(Physique,45)(Intelligence,50)(Neigong,27)(Qinggong,29)(Fight,40)(Sword,25)(Blade,25)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-30)		-1,-1	0
   translated: 
@@ -21326,7 +21326,7 @@
   splits:
   - split: 5
     text: 矿坑守卫(怒川游鱼掌)(巧)
-    translated: Mineshaft Guard (Nú Chuān Yuán Yú Zhǎng) (Skilled)
+    translated: Mineshaft Guard (Nu Chuan Yuan Yu Zhang) (Skilled)
 - lineNum: 3047
   raw: n60189g	16	fm00000	a00001		矿坑守卫(开山碎玉刀)(刚)	ta0051	st0089b		0	ai00000	(MajorWeapon,eq10402)	0	(HP,2274)(MaxHP,2274)(MP,1158)(MaxMP,1158)(Physique,56)(Intelligence,50)(Neigong,29)(Qinggong,26)(Fight,26)(Sword,26)(Blade,42)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)		-1,-1	0
   translated: 
@@ -21340,7 +21340,7 @@
   splits:
   - split: 5
     text: 矿坑守卫(怒川游鱼掌)(柔)
-    translated: Mine Pit Guard (Nú Chuān Yuán Yóu Yú Zhǎng) (Soft)
+    translated: Mine Pit Guard (Nu Chuan Yuan You Yu Zhang) (Soft)
 - lineNum: 3049
   raw: n60189i	17	fm00000	a00002		矿坑守卫(开山碎玉刀)(动)	ta0055b	st0089c		0	ai00000	(MajorWeapon,eq10420)	0	(HP,2320)(MaxHP,2320)(MP,1234)(MaxMP,1234)(Physique,53)(Intelligence,50)(Neigong,31)(Qinggong,27)(Fight,27)(Sword,27)(Blade,44)(Spear,27)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)		-1,-1	0
   translated: 
@@ -21375,7 +21375,7 @@
   splits:
   - split: 5
     text: 矿坑守卫(开山碎玉刀)(刚)
-    translated: Mountain Pass Guard (Kāishān Suìyù Dāo) (Strong)
+    translated: Mountain Pass Guard (Kaishan Suiyu Dao) (Strong)
 - lineNum: 3054
   raw: n60192b	16	fm00000	a00001		矿坑守卫(怒川游鱼掌)(柔)	ta0067	st0089f		0	ai00000	(MajorWeapon,eq10102)	0	(HP,1956)(MaxHP,1956)(MP,1158)(MaxMP,1158)(Physique,45)(Intelligence,50)(Neigong,29)(Qinggong,30)(Fight,42)(Sword,26)(Blade,26)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-30)		-1,-1	0
   translated: 
@@ -21403,7 +21403,7 @@
   splits:
   - split: 5
     text: 驴蛋(怒川游鱼掌)
-    translated: Lüdan (Nuchuan Yu Zhang)
+    translated: Ludan (Nuchuan Yu Zhang)
 - lineNum: 3058
   raw: n60194	11	fm00000	a00001		俏梦阁老鸨宝姨		st0064		0	ai00000		0	(HP,1254)(MaxHP,1254)(MP,788)(MaxMP,788)(Physique,40)(Intelligence,50)(Neigong,22)(Qinggong,17)(Fight,22)(Sword,22)(Blade,22)(Spear,22)(Arrow,22)(Short,10)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80311,1)	0,0	0
   translated: 
@@ -21424,7 +21424,7 @@
   splits:
   - split: 5
     text: 拱石村梅信辉
-    translated: Méngshí Village Meixīnhuī
+    translated: Mengshi Village Meixinhui
 - lineNum: 3061
   raw: n60203	9	fm00000	a00001		拱石村客栈吉大发		st0064		0	ai00000		0	(HP,1179)(MaxHP,1179)(MP,641)(MaxMP,641)(Physique,50)(Intelligence,50)(Neigong,18)(Qinggong,14)(Fight,18)(Sword,18)(Blade,18)(Spear,18)(Arrow,18)(Short,10)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80305,3)	0,0	0
   translated: 
@@ -21438,7 +21438,7 @@
   splits:
   - split: 5
     text: 拱石村铁匠
-    translated: Blacksmith of Gǒngshí Village
+    translated: Blacksmith of Gongshi Village
 - lineNum: 3063
   raw: n60205	8	fm00000	a00001		拱石村束阿桂		st0064		0	ai00000		0	(HP,600)(MaxHP,600)(MP,568)(MaxMP,568)(Physique,10)(Intelligence,50)(Neigong,16)(Qinggong,12)(Fight,16)(Sword,16)(Blade,16)(Spear,16)(Arrow,16)(Short,10)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60101,3)	0,0	0
   translated: 
@@ -21655,7 +21655,7 @@
   splits:
   - split: 5
     text: 钟离经略
-    translated: Zhongli Jinglüe
+    translated: Zhongli Jinglue
 - lineNum: 3094
   raw: n60247	9	fm00000	a00001		乡勇 马驷发(一十八路豹变枪)(巧)	ta0062	st0092		0	ai00000	(MajorWeapon,eq10502)	0	(HP,969)(MaxHP,969)(MP,637)(MaxMP,637)(Physique,36)(Intelligence,50)(Neigong,14)(Qinggong,23)(Fight,19)(Sword,19)(Blade,19)(Spear,28)(Arrow,19)(Short,19)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,-15)	(it40101,1)(it70103,1)	0,0	0
   translated: 
@@ -21935,7 +21935,7 @@
   splits:
   - split: 5
     text: 骆元玉
-    translated: Luò Yuányù
+    translated: Luo Yuanyu
 - lineNum: 3134
   raw: n60274	6	fm00000	al20006		黑皮(水牛)		st0027		101	ai00000		0	(HP,786)(MaxHP,786)(MP,454)(MaxMP,454)(Physique,50)(Intelligence,50)(Neigong,50)(Qinggong,15)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	24
   translated: 
@@ -22033,7 +22033,7 @@
   splits:
   - split: 5
     text: 旁系 陈埈(太白飞剑)
-    translated: Cousin Chen Xun (Master Tàipǐ Fēijiàn)
+    translated: Cousin Chen Xun (Master Taipi Feijian)
 - lineNum: 3148
   raw: n60310	23	fm00000	a00001		旁系 陈地(太白飞剑)	ta0056	st0130,st0111b		0	ai00000	(MajorWeapon,eq10329)	0	(HP,2811)(MaxHP,2811)(MP,1698)(MaxMP,1698)(Physique,45)(Intelligence,50)(Neigong,39)(Qinggong,51)(Fight,33)(Sword,56)(Blade,33)(Spear,33)(Arrow,33)(Short,33)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
@@ -22047,7 +22047,7 @@
   splits:
   - split: 5
     text: 旁系 陈坡(太白飞剑)
-    translated: Collateral Chen Pō (Taìbái Fēijiàn)
+    translated: Collateral Chen Po (Taibai Feijian)
 - lineNum: 3150
   raw: n60312	23	fm00000	a00001		旁系 陈坪(太白飞剑)	ta0056	st0130,st0111b		0	ai00000	(MajorWeapon,eq10329)	0	(HP,2772)(MaxHP,2772)(MP,1698)(MaxMP,1698)(Physique,44)(Intelligence,50)(Neigong,39)(Qinggong,51)(Fight,33)(Sword,56)(Blade,33)(Spear,33)(Arrow,33)(Short,33)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0
   translated: 
@@ -22292,7 +22292,7 @@
   splits:
   - split: 5
     text: 石鸿图
-    translated: Shí Hóngtú
+    translated: Shi Hongtu
 - lineNum: 3185
   raw: n60403	10	fm00000	n60403		杜玉绯(小程灵素)	ta0066	st0151		0	ai03		0	(HP,922)(MaxHP,922)(MP,711)(MaxMP,711)(Physique,25)(Intelligence,50)(Neigong,17)(Qinggong,30)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,30)(Poison,30)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -22418,7 +22418,7 @@
   splits:
   - split: 5
     text: 毒殭(石鸿图控制的人，身法慢但力气大)
-    translated: Poison Zombie (controlled by Shí Hóngtú, slow but strong)
+    translated: Poison Zombie (controlled by Shi Hongtu, slow but strong)
 - lineNum: 3203
   raw: n60425b	25	fm00000	n60425a	nick091	毒殭(石鸿图控制的人，身法慢但力气大)		st0064		0	ai00000		0	(HP,3750)(MaxHP,3750)(MP,1840)(MaxMP,1840)(Physique,60)(Intelligence,50)(Neigong,38)(Qinggong,25)(Fight,35)(Sword,35)(Blade,35)(Spear,35)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-90)	(it50101,1)(it50103,1)	0,0	0
   translated: 
@@ -22621,7 +22621,7 @@
   splits:
   - split: 5
     text: 郭光
-    translated: Guō Guāng
+    translated: Guo Guang
 - lineNum: 3232
   raw: n60430	27	fm00000	a00006		衙役-->缇骑(凌尘剑法、分柳剑)	ta0056	st0071,st0021		0	ai00000	(MajorWeapon,eq10304)	0	(HP,3210)(MaxHP,3210)(MP,2024)(MaxMP,2024)(Physique,43)(Intelligence,50)(Neigong,46)(Qinggong,59)(Fight,37)(Sword,64)(Blade,37)(Spear,37)(Arrow,37)(Short,37)(Doctor,0)(Poison,0)(Money,0)(Madness,-15)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0
   translated: 
@@ -22740,7 +22740,7 @@
   splits:
   - split: 5
     text: 太华门 守洞弟子(广寒剑诀)
-    translated: Tàihuāmén Shǒudòng Dìzǐ (Guǎnghán Jiànjué)
+    translated: Taihuamen Shoudong Dizi (Guanghan Jianjue)
 - lineNum: 3249
   raw: n60508	24	fm00000	a00004		太华门 守洞弟子(广寒剑诀)	ta0064	st0129b		0	ai00000	(MajorWeapon,eq10329)	0	(HP,2774)(MaxHP,2774)(MP,1779)(MaxMP,1779)(Physique,41)(Intelligence,50)(Neigong,41)(Qinggong,53)(Fight,34)(Sword,58)(Blade,34)(Spear,34)(Arrow,34)(Short,34)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,-60)	(it40110,1)	0,0	0
   translated: 
@@ -22831,7 +22831,7 @@
   splits:
   - split: 5
     text: 太华门 女弟子(广寒剑诀)
-    translated: Da Hua Men Nü Disciple (Guang Han Sword Technique)
+    translated: Da Hua Men Nu Disciple (Guang Han Sword Technique)
 - lineNum: 3262
   raw: n60521	24	fm00000	a00011		太华门 女弟子(广寒剑诀)	ta0068	st0129		0	ai00000	(MajorWeapon,eq10329)	0	(HP,2813)(MaxHP,2813)(MP,1779)(MaxMP,1779)(Physique,42)(Intelligence,50)(Neigong,41)(Qinggong,53)(Fight,34)(Sword,58)(Blade,34)(Spear,34)(Arrow,34)(Short,34)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,-60)	(it40110,1)	0,0	0
   translated: 
@@ -23118,7 +23118,7 @@
   splits:
   - split: 5
     text: 农妇 陆叔
-    translated: Peasant woman Lù shū
+    translated: Peasant woman Lu shu
 - lineNum: 3303
   raw: n60581	10	fm00000	a00001		农夫 游伯		st0064		0	ai00000		0	(HP,1156)(MaxHP,1156)(MP,714)(MaxMP,714)(Physique,41)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,6000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60105,1)(it60103,1)(it60507,1)	0,0	6
   translated: 
@@ -23300,7 +23300,7 @@
   splits:
   - split: 5
     text: 流寇(凌尘剑法)(分柳剑法)(动)
-    translated: Rebel (Liúng Chén Sword Technique) (Fēn Liǔ Sword Technique) (Animation)
+    translated: Rebel (Liung Chen Sword Technique) (Fen Liu Sword Technique) (Animation)
 - lineNum: 3329
   raw: n60593g	26	fm00000	a00004		流寇(岳家枪法、岳家散手)(动)	ta0056	st0010c,st0011		208	ai00000	(MajorWeapon,eq10502)	1	(HP,3313)(MaxHP,3313)(MP,1942)(MaxMP,1942)(Physique,48)(Intelligence,50)(Neigong,44)(Qinggong,42)(Fight,52)(Sword,36)(Blade,52)(Spear,52)(Arrow,36)(Short,36)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(eq11207,1)	4,6	0
   translated: 
@@ -23349,7 +23349,7 @@
   splits:
   - split: 5
     text: 白鹤(回风袖里式)
-    translated: Bái Hè (Huí Fēng Xiù Lǐ Shì)
+    translated: Bai He (Hui Feng Xiu Li Shi)
 - lineNum: 3336
   raw: n60601	40	fm00000	a00001		花燕(千蛛万毒手)	ta0092j	st0161c,st0998		0	ai00000	(MajorWeapon,eq10104)	0	(HP,7107)(MaxHP,7107)(MP,3318)(MaxMP,3318)(Physique,73)(Intelligence,50)(Neigong,80)(Qinggong,80)(Fight,106)(Sword,70)(Blade,70)(Spear,70)(Arrow,70)(Short,70)(Doctor,0)(Poison,90)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,-100)	(it40108,3)(it40109,3)	0,0	0
   translated: 
@@ -23370,7 +23370,7 @@
   splits:
   - split: 5
     text: 白花花党羽(三连环刀法)
-    translated: Báihuāhuā dǎngyǔ (Sān Lián Huán Dāo Fǎ)
+    translated: Baihuahua dangyu (San Lian Huan Dao Fa)
 - lineNum: 3339
   raw: n60603-2	35	fm00000	a00006		白花花党羽(雪片旋刀势)	ta0091d	st0065		201	ai00000	(MajorWeapon,eq10402)	1	(HP,3990)(MaxHP,3990)(MP,2748)(MaxMP,2748)(Physique,40)(Intelligence,50)(Neigong,63)(Qinggong,53)(Fight,45)(Sword,45)(Blade,80)(Spear,45)(Arrow,45)(Short,45)(Doctor,0)(Poison,0)(Money,0)(Madness,5)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,-75)		0,0	0
   translated: 
@@ -23447,7 +23447,7 @@
   splits:
   - split: 5
     text: 余三白
-    translated: Yú Sānbái
+    translated: Yu Sanbai
 - lineNum: 3350
   raw: n70059	35	fm00000	a00001		糜壬言	ta0047	st0102c		0	ai00000	(MajorWeapon,eq10102)	0	(HP,3990)(MaxHP,3990)(MP,2808)(MaxMP,2808)(Physique,40)(Intelligence,50)(Neigong,70)(Qinggong,53)(Fight,70)(Sword,70)(Blade,70)(Spear,70)(Arrow,70)(Short,70)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
@@ -23615,7 +23615,7 @@
   splits:
   - split: 5
     text: 孔大玉（大刀十三劈、五虎断门刀）
-    translated: Kong Dàyù (Dàdāo Shísān Pī, Wǔhǔ Duànméndāo)
+    translated: Kong Dayu (Dadao Shisan Pi, Wuhu Duanmendao)
 - lineNum: 3374
   raw: n80016	25	fm00000	a00001		赛伊尹（荆轲武诀，零星一文手法）	ta0044	st0135,st0014		0	ai00000	(MajorWeapon,eq10908)(MinorWeapon,eq10708)	0	(HP,3056)(MaxHP,3056)(MP,1894)(MaxMP,1894)(Physique,45)(Intelligence,50)(Neigong,50)(Qinggong,38)(Fight,50)(Sword,50)(Blade,50)(Spear,50)(Arrow,50)(Short,50)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-90)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
@@ -23643,7 +23643,7 @@
   splits:
   - split: 5
     text: 岳大龙（五虎断门刀,铁砂掌）
-    translated: Yuè Dàlóng (Wǔ Hǔ Duànméndāo, Tiěshā Zhǎng)
+    translated: Yue Dalong (Wu Hu Duanmendao, Tiesha Zhang)
 - lineNum: 3378
   raw: n80022	16	fm00000	a00001		岳二龙（太祖棍）	ta0059	st0124,st0158		202	ai00000	(MajorWeapon,eq10507)	1	(HP,2336)(MaxHP,2336)(MP,1155)(MaxMP,1155)(Physique,58)(Intelligence,50)(Neigong,27)(Qinggong,24)(Fight,26)(Sword,26)(Blade,26)(Spear,42)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,100)(ZOC,60)(YinAndYang,25)	(it40108,1)	0,0	0
   translated: 
@@ -23657,14 +23657,14 @@
   splits:
   - split: 5
     text: 岳少龙（凌尘剑法，甩手封喉）
-    translated: Yuè Shàolóng (Língchén Jiānfǎ, Shuǎi shǒu fēnghóu)
+    translated: Yue Shaolong (Lingchen Jianfa, Shuai shou fenghou)
 - lineNum: 3380
   raw: n80026	10	fm00000	a00001		石为天		st0064		0	ai00000		0	(HP,1062)(MaxHP,1062)(MP,714)(MaxMP,714)(Physique,35)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 石为天
-    translated: Shí wèi tiān
+    translated: Shi wei tian
 - lineNum: 3381
   raw: n80027	11	fm00000	a00001		石为地		st0064		0	ai00000		0	(HP,1168)(MaxHP,1168)(MP,788)(MaxMP,788)(Physique,35)(Intelligence,50)(Neigong,22)(Qinggong,17)(Fight,22)(Sword,22)(Blade,22)(Spear,22)(Arrow,22)(Short,22)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)	0,0	0
   translated: 
@@ -23713,14 +23713,14 @@
   splits:
   - split: 5
     text: 刁不易（庖丁解牛刀法、霹雳刀法）
-    translated: Diāo Bù Yì (Páo Dīng Jiě Niú Dāo Fǎ, Pī Lì Dāo Fǎ)
+    translated: Diao Bu Yi (Pao Ding Jie Niu Dao Fa, Pi Li Dao Fa)
 - lineNum: 3388
   raw: n80030a	45	fm00000	a00001		（真）刁不易（庖丁解牛刀法、霹雳刀法）	ta0044	st0101c,st0139		0	ai00000	(MajorWeapon,eq10913)	0	(HP,7894)(MaxHP,7894)(MP,3688)(MaxMP,3688)(Physique,72)(Intelligence,50)(Neigong,77)(Qinggong,108)(Fight,55)(Sword,55)(Blade,114)(Spear,55)(Arrow,55)(Short,55)(Doctor,0)(Poison,0)(Money,1000)(Madness,15)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(eq10913,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: （真）刁不易（庖丁解牛刀法、霹雳刀法）
-    translated: Diāo Bùyì (Páo Dīng Jiě Niú Dāo Fǎ, Pí Lì Dāo Fǎ)
+    translated: Diao Buyi (Pao Ding Jie Niu Dao Fa, Pi Li Dao Fa)
 - lineNum: 3389
   raw: n80032	6	fm00000	al20024		野猴	ta0079b	st0026		102	ai00000		0	(HP,516)(MaxHP,516)(MP,428)(MaxMP,428)(Physique,20)(Intelligence,50)(Neigong,20)(Qinggong,36)(Fight,30)(Sword,10)(Blade,20)(Spear,40)(Arrow,40)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60401,1)(it60402,1)	20,24	1
   translated: 
@@ -23769,7 +23769,7 @@
   splits:
   - split: 5
     text: 柴夫
-    translated: Chai's Husband
+    translated: Chai Fu
 - lineNum: 3396
   raw: n80035	10	fm00000	a00001		笋农		st0064		0	ai00000		1	(HP,1274)(MaxHP,1274)(MP,714)(MaxMP,714)(Physique,48)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60605,5)(it80306,1)	0,0	0
   translated: 
@@ -23853,7 +23853,7 @@
   splits:
   - split: 5
     text: 文三娘（分筋错骨手、含沙射影）
-    translated: Wǔ Sānniáng (Fēnjīn Cuògǔ Shǒu, Hánshā Shèyǐng)
+    translated: Wu Sanniang (Fenjin Cuogu Shou, Hansha Sheying)
 - lineNum: 3408
   raw: n80047	10	fm00000	al20032		野猪	ta0000	st0017		101	ai00000		0	(HP,1140)(MaxHP,1140)(MP,725)(MaxMP,725)(Physique,40)(Intelligence,50)(Neigong,30)(Qinggong,21)(Fight,10)(Sword,30)(Blade,20)(Spear,10)(Arrow,30)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60503,1)(it70409,1)(it40225,1)	20,24	1
   translated: 
@@ -23909,7 +23909,7 @@
   splits:
   - split: 5
     text: 流寇（大刀十三劈、五虎断门刀）
-    translated: Outlaws (Dada Shi San Pì, Wǔ Hǔ Duàn Mén Dāo)
+    translated: Outlaws (Dada Shi San Pi, Wu Hu Duan Men Dao)
 - lineNum: 3416
   raw: n80055	12	fm00000	a00001		旅行菜贩		st0064		0	ai00000		0	(HP,1188)(MaxHP,1188)(MP,862)(MaxMP,862)(Physique,30)(Intelligence,50)(Neigong,24)(Qinggong,18)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,24)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60602,5)(it60605,5)(it60611,5)(it60614,10)(it60615,10)(it60618,10)	0,0	6
   translated: 
@@ -24091,7 +24091,7 @@
   splits:
   - split: 5
     text: 樊景相（四象刀谱）(静)
-    translated: Fān Jǐngxiāng (Sì Xiàng Dāopǔ) (Jìng)
+    translated: Fan Jingxiang (Si Xiang Daopu) (Jing)
 - lineNum: 3442
   raw: n80088	30	fm00000	a00001		虎头三（五虎断门刀）(拙)	ta0047	st0108e		0	ai00000	(MajorWeapon,eq10406)	0	(HP,5196)(MaxHP,5196)(MP,2296)(MaxMP,2296)(Physique,71)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,40)(Sword,40)(Blade,70)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(eq10406,1)(it801025,1)	0,0	0
   translated: 
@@ -24280,7 +24280,7 @@
   splits:
   - split: 5
     text: 文三娘手下（大刀十三劈）
-    translated: Wén Sānniáng's Underlings (Dàdāo Shísān Pī)
+    translated: Wen Sanniang's Underlings (Dadao Shisan Pi)
 - lineNum: 3469
   raw: n80114	18	fm00000	a00001		粗恶的壮汉（大刀十三劈）	ta0053	st0057		201	ai00000	(MajorWeapon,eq10403)	0	(HP,2262)(MaxHP,2262)(MP,1307)(MaxMP,1307)(Physique,47)(Intelligence,50)(Neigong,31)(Qinggong,29)(Fight,28)(Sword,28)(Blade,46)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(eq10403,1)(it80306,1)	0,0	0
   translated: 
@@ -24343,14 +24343,14 @@
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: Wǔsān Niáng's underlings (Fēngjīn Cuògǔ Shǒu, Xiàzuò Sān Jué)
+    translated: Wusan Niang's underlings (Fengjin Cuogu Shou, Xiazuo San Jue)
 - lineNum: 3478
   raw: n80123	18	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102a,st0020b		201	ai00000		0	(HP,2170)(MaxHP,2170)(MP,1307)(MaxMP,1307)(Physique,44)(Intelligence,50)(Neigong,31)(Qinggong,41)(Fight,46)(Sword,28)(Blade,28)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: Wén Sān Niáng's underlings (Fēng Jīn Cuò Gǔ Shǒu, Xià Zuò Sān Jué)
+    translated: Wen San Niang's underlings (Feng Jin Cuo Gu Shou, Xia Zuo San Jue)
 - lineNum: 3479
   raw: n80124	18	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102,st0020b		201	ai00000		0	(HP,2110)(MaxHP,2110)(MP,1307)(MaxMP,1307)(Physique,42)(Intelligence,50)(Neigong,31)(Qinggong,41)(Fight,46)(Sword,28)(Blade,28)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
@@ -24378,7 +24378,7 @@
   splits:
   - split: 5
     text: 文三娘手下（分筋错骨手、下作三诀）
-    translated: Wén Sānniáng's subordinates (Fēngjīncuògǔshǒu, Xiàzuòsānjù)
+    translated: Wen Sanniang's subordinates (Fengjincuogushou, Xiazuosanju)
 - lineNum: 3483
   raw: n80128	18	fm00000	a00001		文三娘手下（分筋错骨手、下作三诀）	ta0063	st0102,st0020b		201	ai00000		0	(HP,2140)(MaxHP,2140)(MP,1307)(MaxMP,1307)(Physique,43)(Intelligence,50)(Neigong,31)(Qinggong,41)(Fight,46)(Sword,28)(Blade,28)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(eq10403,1)(it80306,1)(it80317,99)	0,0	0
   translated: 
@@ -24462,7 +24462,7 @@
   splits:
   - split: 5
     text: 叶家马帮帮众(破山刀)
-    translated: Yè Jiā Mǎ Bāng Bāng Zhòng (Pò Shān Dāo)
+    translated: Ye Jia Ma Bang Bang Zhong (Po Shan Dao)
 - lineNum: 3495
   raw: n80157	17	fm00000	a00001		黑衣人(追魂七破)	ta0055	st0115b,st0113b		204	ai00000	(MajorWeapon,eq10703)(MinorWeapon,eq10905)	0	(HP,1938)(MaxHP,1938)(MP,1234)(MaxMP,1234)(Physique,40)(Intelligence,50)(Neigong,31)(Qinggong,32)(Fight,27)(Sword,27)(Blade,27)(Spear,27)(Arrow,49)(Short,27)(Doctor,0)(Poison,0)(Money,1000)(Madness,30)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-25)		0,0	0
   translated: 
@@ -24518,14 +24518,14 @@
   splits:
   - split: 5
     text: 擎天寨众(岳家枪法、岳家散手)(动)
-    translated: Yue Family Spear Technique, Yue Family Hand-to-Hand Combat (dynamic) - Qīng Tiān Zhài Followers
+    translated: Yue Family Spear Technique, Yue Family Hand-to-Hand Combat (dynamic) - Qing Tian Zhai Followers
 - lineNum: 3503
   raw: n80165	28	fm00000	a00001		擎天寨众(岳家枪法、岳家散手)(刚)	ta0091b	st0010c,st0011		208	ai00000	(MajorWeapon,eq10502)	0	(HP,3821)(MaxHP,3821)(MP,2108)(MaxMP,2108)(Physique,53)(Intelligence,50)(Neigong,48)(Qinggong,45)(Fight,56)(Sword,38)(Blade,56)(Spear,56)(Arrow,38)(Short,38)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨众(岳家枪法、岳家散手)(刚)
-    translated: Qīngtiānzhài multitudes (Yuè family spear techniques, Yuè family hand-to-hand combat) (Strong)
+    translated: Qingtianzhai multitudes (Yue family spear techniques, Yue family hand-to-hand combat) (Strong)
 - lineNum: 3504
   raw: n80166	29	fm00000	a00001		擎天寨众(三连环刀法、岳家散手)	ta0091b	st0066b,st0011		208	ai00000	(MajorWeapon,eq10402)	0	(HP,3851)(MaxHP,3851)(MP,2193)(MaxMP,2193)(Physique,51)(Intelligence,50)(Neigong,49)(Qinggong,46)(Fight,58)(Sword,39)(Blade,58)(Spear,58)(Arrow,39)(Short,39)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
@@ -24595,14 +24595,14 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术、岳家散手)
-    translated: Qiántiānzhài Archers (Xiahou Bow Skills, Yue Family Swordsmanship)
+    translated: Qiantianzhai Archers (Xiahou Bow Skills, Yue Family Swordsmanship)
 - lineNum: 3514
   raw: n80176	33	fm00000	a00001		擎天寨弓箭手(夏侯箭术、岳家散手)	ta0091b	st0013c,st0011b		208	ai00000	(MajorWeapon,eq10801)	1	(HP,4504)(MaxHP,4504)(MP,2540)(MaxMP,2540)(Physique,53)(Intelligence,50)(Neigong,56)(Qinggong,53)(Fight,66)(Sword,43)(Blade,66)(Spear,66)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术、岳家散手)
-    translated: Qīng Tiān Zhài Archers (Xià Hóu Bow Techniques, Yuè Jia Scattered Hand Techniques)
+    translated: Qing Tian Zhai Archers (Xia Hou Bow Techniques, Yue Jia Scattered Hand Techniques)
 - lineNum: 3515
   raw: n80177	31	fm00000	a00001		金石谷军需官	ta0091	st0010c		211	ai00000	(MajorWeapon,eq10502)	0	(HP,4650)(MaxHP,4650)(MP,2427)(MaxMP,2427)(Physique,60)(Intelligence,50)(Neigong,62)(Qinggong,47)(Fight,62)(Sword,62)(Blade,62)(Spear,62)(Arrow,62)(Short,62)(Doctor,0)(Poison,0)(Money,100000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40101,5)(it40102,5)(it40103,5)(it40104,5)(it40105,5)(it40108,5)(it40109,5)(it40110,5)(it40111,5)(it40112,5)	0,0	6
   translated: 
@@ -24616,7 +24616,7 @@
   splits:
   - split: 5
     text: 蔘王山军需官
-    translated: Shēn Wáng Mountain Supply Officer
+    translated: Shen Wang Mountain Supply Officer
 - lineNum: 3517
   raw: n80179	25	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3412)(MaxHP,3412)(MP,1860)(MaxMP,1860)(Physique,53)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70106,1)(it70104,1)(it801025,1)	24,24	0
   translated: 
@@ -24994,7 +24994,7 @@
   splits:
   - split: 5
     text: 金石谷军帮众
-    translated: The martial followers of Jīng Shí Gǔ's army faction.
+    translated: The martial followers of Jing Shi Gu's army faction.
 - lineNum: 3571
   raw: n80233	32	fm00000	a00001		金石谷军帮众	ta0028	st0010b		211	ai00000	(MajorWeapon,eq10502)	1	(HP,4367)(MaxHP,4367)(MP,2452)(MaxMP,2452)(Physique,53)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,64)(Spear,64)(Arrow,42)(Short,64)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6
   translated: 
@@ -25092,14 +25092,14 @@
   splits:
   - split: 5
     text: 蔘王山军帮众
-    translated: Shīwáng Mountain Army Militia Followers
+    translated: Shiwang Mountain Army Militia Followers
 - lineNum: 3585
   raw: n80247	25	fm00000	a00001		蔘王山军帮众	ta0025	st0008b		212	ai00000	(MajorWeapon,eq10405)	1	(HP,3275)(MaxHP,3275)(MP,1860)(MaxMP,1860)(Physique,50)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40101,1)(it40206,1)(it801025,1)	24,24	6
   translated: 
   splits:
   - split: 5
     text: 蔘王山军帮众
-    translated: Shīwáng Shānjūn Bǎngzhòng
+    translated: Shiwang Shanjun Bangzhong
 - lineNum: 3586
   raw: n80248	25	fm00000	a00001		蔘王山军帮众	ta0026	st0113b		212	ai00000	(MajorWeapon,eq10905)	1	(HP,3320)(MaxHP,3320)(MP,1860)(MaxMP,1860)(Physique,51)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40101,1)(it40206,1)(it801025,1)	24,24	6
   translated: 
@@ -25267,14 +25267,14 @@
   splits:
   - split: 5
     text: 蔘王山军帮众
-    translated: Shīwáng Mountain Army Faction Members
+    translated: Shiwang Mountain Army Faction Members
 - lineNum: 3610
   raw: n80272	34	fm00000	a00001		蔘王山军帮众	ta0025	st0008b		212	ai00000	(MajorWeapon,eq10405)	1	(HP,4393)(MaxHP,4393)(MP,2630)(MaxMP,2630)(Physique,49)(Intelligence,50)(Neigong,58)(Qinggong,54)(Fight,44)(Sword,44)(Blade,68)(Spear,68)(Arrow,44)(Short,68)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it40101,1)(it40206,1)(it801025,1)	24,24	6
   translated: 
   splits:
   - split: 5
     text: 蔘王山军帮众
-    translated: Shēn Wáng Mountain Army Bandits
+    translated: Shen Wang Mountain Army Bandits
 - lineNum: 3611
   raw: n80273	32	fm00000	a00004		蔘王山军帮众	ta0028	st0008		212	ai00000	(MajorWeapon,eq10405)	1	(HP,4367)(MaxHP,4367)(MP,2452)(MaxMP,2452)(Physique,53)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,64)(Spear,64)(Arrow,42)(Short,64)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it40101,1)(it40206,1)(it801025,1)	24,24	6
   translated: 
@@ -25421,7 +25421,7 @@
   splits:
   - split: 5
     text: 蔘王山军帮众
-    translated: Shīwáng Shānjūn Bǎngzhòng
+    translated: Shiwang Shanjun Bangzhong
 - lineNum: 3632
   raw: n80294	35	fm00000	a00001		蔘王山军帮众	ta0028	st0066		212	ai00000	(MajorWeapon,eq10405)	1	(HP,4648)(MaxHP,4648)(MP,2720)(MaxMP,2720)(Physique,51)(Intelligence,50)(Neigong,60)(Qinggong,56)(Fight,45)(Sword,45)(Blade,70)(Spear,70)(Arrow,45)(Short,70)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it40101,1)(it40206,1)(it801025,1)	24,24	6
   translated: 
@@ -25554,14 +25554,14 @@
   splits:
   - split: 5
     text: 祝一龙（刀,掌）
-    translated: Zhū Yīlóng (Sword, Palm)
+    translated: Zhu Yilong (Sword, Palm)
 - lineNum: 3651
   raw: n80375	25	fm00000	a00001		祝二虎（棍）	ta0045	st0145,st0140		202	ai02	(MajorWeapon,eq10512)	1	(HP,3506)(MaxHP,3506)(MP,1894)(MaxMP,1894)(Physique,55)(Intelligence,50)(Neigong,50)(Qinggong,38)(Fight,50)(Sword,50)(Blade,50)(Spear,50)(Arrow,50)(Short,50)(Doctor,50)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,100)(ZOC,60)(YinAndYang,0)	(it40108,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 祝二虎（棍）
-    translated: Zhù Èrhǔ (Gùn)
+    translated: Zhu Erhu (Gun)
 - lineNum: 3652
   raw: n80376	25	fm00000	a00001		祝三猫（剑，暗器）	ta0044	st0144,st0112		202	ai03		0	(HP,3056)(MaxHP,3056)(MP,1894)(MaxMP,1894)(Physique,45)(Intelligence,50)(Neigong,50)(Qinggong,38)(Fight,50)(Sword,50)(Blade,50)(Spear,50)(Arrow,50)(Short,50)(Doctor,70)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,80)(ZOC,60)(YinAndYang,0)	(it70320,1)(it70108,1)	0,0	0
   translated: 
@@ -25680,28 +25680,28 @@
   splits:
   - split: 5
     text: 江湖人
-    translated: Wandering folk of the Jianghu.
+    translated: ''
 - lineNum: 3669
   raw: n80393	20	fm00000	a00001		江湖人		st0112		0	ai00000		0	(HP,1980)(MaxHP,1980)(MP,1480)(MaxMP,1480)(Physique,30)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 江湖人
-    translated: Wanderer of the Wulin
+    translated: ''
 - lineNum: 3670
   raw: n80394	20	fm00000	a00001		江湖人		st0112		0	ai00000		0	(HP,1980)(MaxHP,1980)(MP,1480)(MaxMP,1480)(Physique,30)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 江湖人
-    translated: Wanderer of the Wulin
+    translated: ''
 - lineNum: 3671
   raw: n80395	20	fm00000	a00001		江湖人		st0112		0	ai00000		0	(HP,1980)(MaxHP,1980)(MP,1480)(MaxMP,1480)(Physique,30)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 江湖人
-    translated: Wanderer of the Wulin
+    translated: ''
 - lineNum: 3672
   raw: n80396	35	fm00000	a00001		迷魂水寨帮众	ta0091d	st0109c		0	ai00000	(MajorWeapon,eq10502)	1	(HP,3990)(MaxHP,3990)(MP,2808)(MaxMP,2808)(Physique,40)(Intelligence,50)(Neigong,70)(Qinggong,53)(Fight,70)(Sword,70)(Blade,70)(Spear,70)(Arrow,70)(Short,70)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it801025,1)	0,0	0
   translated: 
@@ -25764,35 +25764,35 @@
   splits:
   - split: 5
     text: 迷魂水寨帮众
-    translated: Míhúnshuǐ Zhai Bandits
+    translated: Mihunshui Zhai Bandits
 - lineNum: 3681
   raw: n80405	20	fm00000	a00001		江湖人		st0112		0	ai00000		0	(HP,1980)(MaxHP,1980)(MP,1480)(MaxMP,1480)(Physique,30)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 江湖人
-    translated: Wanderer of the Wulin
+    translated: ''
 - lineNum: 3682
   raw: n80406	20	fm00000	a00001		江湖人		st0112		0	ai00000		0	(HP,1980)(MaxHP,1980)(MP,1480)(MaxMP,1480)(Physique,30)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 江湖人
-    translated: Wanderer of the Wandering Path
+    translated: ''
 - lineNum: 3683
   raw: n80407	20	fm00000	a00001		江湖人		st0112		0	ai00000		0	(HP,1980)(MaxHP,1980)(MP,1480)(MaxMP,1480)(Physique,30)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 江湖人
-    translated: Wanderer of the Wulin
+    translated: ''
 - lineNum: 3684
   raw: n80408	20	fm00000	a00001		江湖人		st0112		0	ai00000		0	(HP,1980)(MaxHP,1980)(MP,1480)(MaxMP,1480)(Physique,30)(Intelligence,50)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,40)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 江湖人
-    translated: Wanderer of the Wulin
+    translated: Martial artists of the Wulin.
 - lineNum: 3685
   raw: n80409	35	fm00000	a00001		迷魂水寨物资官	ta0091d	st0010c		0	ai00000	(MajorWeapon,eq10502)	0	(HP,5250)(MaxHP,5250)(MP,2808)(MaxMP,2808)(Physique,60)(Intelligence,50)(Neigong,70)(Qinggong,53)(Fight,70)(Sword,70)(Blade,70)(Spear,70)(Arrow,70)(Short,70)(Doctor,0)(Poison,0)(Money,100000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it40101,5)(it40102,5)(it40103,5)(it40104,5)(it40105,5)(it40108,5)(it40109,5)(it40110,5)(it40111,5)(it40112,5)	0,0	6
   translated: 
@@ -25855,7 +25855,7 @@
   splits:
   - split: 5
     text: 胡飞雪
-    translated: Hú Fēixuě
+    translated: Hu Feixue
 - lineNum: 3694
   raw: n80418	1	fm00000	a00006		皇甫登云		st0000		0	ai00000	(Book,it30100)(Fashion,eq20121)(MajorWeapon,eq10103)	1	(HP,1000)(MaxHP,1000)(MP,1000)(MaxMP,1000)(Physique,50)(Intelligence,50)(Neigong,45)(Qinggong,25)(Fight,25)(Sword,25)(Blade,25)(Spear,25)(Arrow,25)(Short,25)(Doctor,25)(Poison,25)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it81101,10)	0,0	0
   translated: 
@@ -25904,7 +25904,7 @@
   splits:
   - split: 5
     text: 段一灯
-    translated: Duàn Yīdēng
+    translated: Duan Yideng
 - lineNum: 3701
   raw: n80425	1	fm00000	a00004	nick608	洪乞儿		st0000,st0809,st0100c		0	ai00000	(Book,it30100)(Fashion,eq20152)(MajorWeapon,eq10109)(MinorWeapon,eq10712)	0	(HP,1500)(MaxHP,1500)(MP,1000)(MaxMP,1000)(Physique,80)(Intelligence,85)(Neigong,80)(Qinggong,55)(Fight,90)(Sword,50)(Blade,50)(Spear,85)(Arrow,55)(Short,50)(Doctor,50)(Poison,50)(Money,50)(Madness,0)(Moral,70)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it81101,10)(it30115,1)(it30516,1)	0,0	0
   translated: 
@@ -25995,7 +25995,7 @@
   splits:
   - split: 5
     text: 迷魂水寨帮众(怒川游鱼掌、盗墓腿法)(动巧)
-    translated: Enchanting Water Guild Members (Núchuān Yóuyú Zhǎng, Tomb Raider Leg Technique) (Dynamic Agility)
+    translated: Enchanting Water Guild Members (Nuchuan Youyu Zhang, Tomb Raider Leg Technique) (Dynamic Agility)
 - lineNum: 3714
   raw: n80438	41	fm00000	a00001		迷魂水寨帮众(惊波刀法、雪片旋刀势)(巧柔)	ta0091d	st0109,st0065		0	ai00000	(MajorWeapon,eq10409)	1	(HP,5750)(MaxHP,5750)(MP,3286)(MaxMP,3286)(Physique,55)(Intelligence,50)(Neigong,70)(Qinggong,66)(Fight,82)(Sword,51)(Blade,82)(Spear,82)(Arrow,51)(Short,51)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it801025,1)	0,0	0
   translated: 
@@ -26030,14 +26030,14 @@
   splits:
   - split: 5
     text: 迷魂水寨帮众(怒川游鱼掌、盗墓腿法)(动巧)
-    translated: Phantom Pond Gang members (Núchuān Yóuyú Chǎng, Grave Robbing Leg Skills) (Agility)
+    translated: Phantom Pond Gang members (Nuchuan Youyu Chang, Grave Robbing Leg Skills) (Agility)
 - lineNum: 3719
   raw: n80443	41	fm00000	a00001		迷魂水寨帮众(夏侯箭术、铁砂掌)(刚动)	ta0091b	st0013b,st0054b		0	ai00000	(MajorWeapon,eq10811)	0	(HP,5371)(MaxHP,5371)(MP,3286)(MaxMP,3286)(Physique,50)(Intelligence,50)(Neigong,70)(Qinggong,66)(Fight,82)(Sword,51)(Blade,82)(Spear,82)(Arrow,51)(Short,51)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it801025,1)	0,0	0
   translated: 
   splits:
   - split: 5
     text: 迷魂水寨帮众(夏侯箭术、铁砂掌)(刚动)
-    translated: Méihuúnshuǐ zhài bāngzhòng (Xiàhóu jiànshù, tiěshā zhǎng) (gāng dòng)
+    translated: Meihuunshui zhai bangzhong (Xiahou jianshu, tiesha zhang) (gang dong)
 - lineNum: 3720
   raw: n80444	43	fm00000	a00001		迷魂水寨帮众(中平枪、五郎八卦棍)(静拙)	ta0091f	st0124d,st0123b		0	ai00000	(MajorWeapon,eq10515)	0	(HP,6890)(MaxHP,6890)(MP,3485)(MaxMP,3485)(Physique,65)(Intelligence,50)(Neigong,73)(Qinggong,69)(Fight,86)(Sword,53)(Blade,86)(Spear,86)(Arrow,53)(Short,53)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it801025,1)	0,0	0
   translated: 
@@ -26114,7 +26114,7 @@
   splits:
   - split: 5
     text: 湖贼(怒川游鱼掌、盗墓腿法)(动巧)
-    translated: Lake Bandit (Nú Chuān Yóuyú Zhǎng, Tomb Robbing Leg Technique) (Dynamic Nimbleness)
+    translated: Lake Bandit (Nu Chuan Youyu Zhang, Tomb Robbing Leg Technique) (Dynamic Nimbleness)
 - lineNum: 3731
   raw: n80455	44	fm00000	a00001		湖贼(惊波刀法、雪片旋刀势)(巧柔)	ta0091d	st0109,st0065		202	ai00000	(MajorWeapon,eq10409)	1	(HP,6171)(MaxHP,6171)(MP,3586)(MaxMP,3586)(Physique,55)(Intelligence,50)(Neigong,75)(Qinggong,70)(Fight,88)(Sword,54)(Blade,88)(Spear,88)(Arrow,54)(Short,54)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it801025,1)(it70113,1)(it70209,1)(it70412,1)(eq10409,1)	12,12	6
   translated: 
@@ -26142,7 +26142,7 @@
   splits:
   - split: 5
     text: 湖贼(怒川游鱼掌、盗墓腿法)(动巧)
-    translated: Lake Bandit (Nú Chuān Yóu Yú Zhǎng, Dao Mù Tuǐ Fǎ) (Dynamic Agility)
+    translated: Lake Bandit (Nu Chuan You Yu Zhang, Dao Mu Tui Fa) (Dynamic Agility)
 - lineNum: 3735
   raw: n80459	41	fm00000	a00001		湖贼(惊波刀法、雪片旋刀势)(巧柔)	ta0091d	st0109,st0065		202	ai00000	(MajorWeapon,eq10409)	1	(HP,5750)(MaxHP,5750)(MP,3286)(MaxMP,3286)(Physique,55)(Intelligence,50)(Neigong,70)(Qinggong,66)(Fight,82)(Sword,51)(Blade,82)(Spear,82)(Arrow,51)(Short,51)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it801025,1)(it70113,1)(it70209,1)(it70412,1)(eq10409,1)	12,12	6
   translated: 
@@ -26401,14 +26401,14 @@
   splits:
   - split: 5
     text: 鲁公会帮众
-    translated: The Lü Clan's Followers
+    translated: The Lu Clan's Followers
 - lineNum: 3772
   raw: n90008	14	fm00000	a00001		鲁公会帮众		st0064		0	ai00000		0	(HP,1596)(MaxHP,1596)(MP,1012)(MaxMP,1012)(Physique,40)(Intelligence,50)(Neigong,28)(Qinggong,21)(Fight,28)(Sword,28)(Blade,28)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,5000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60126,1)	0,0	24
   translated: 
   splits:
   - split: 5
     text: 鲁公会帮众
-    translated: Lü Gong's faction members
+    translated: Lu Gong's faction members
 - lineNum: 3773
   raw: n90009	12	fm00000	a00001		药铺伙计		st0064		0	ai00000		0	(HP,1275)(MaxHP,1275)(MP,862)(MaxMP,862)(Physique,35)(Intelligence,50)(Neigong,24)(Qinggong,18)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,24)(Doctor,0)(Poison,0)(Money,5000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40101,10)(it40102,10)(it40103,10)(it40104,10)(it40105,10)(it40106,10)(it40107,10)	0,0	6
   translated: 
@@ -26457,7 +26457,7 @@
   splits:
   - split: 5
     text: 画商 张进魁(回风袖里刀)
-    translated: Painter Zhang Jin'kui (Huífēng Xiùlǐ Dāo)
+    translated: Painter Zhang Jin'kui (Huifeng Xiuli Dao)
 - lineNum: 3780
   raw: n90017	21	fm00000	a00001		强盗(大刀十三劈、铁砂掌)	ta0052	st0057,st0054		202	ai00000	(MajorWeapon,eq10403)	0	(HP,3234)(MaxHP,3234)(MP,1553)(MaxMP,1553)(Physique,62)(Intelligence,50)(Neigong,40)(Qinggong,34)(Fight,52)(Sword,31)(Blade,52)(Spear,31)(Arrow,31)(Short,31)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it80306,1)(it40108,2)(it40234,1)(it60135,1)(it80302,1)	0,0	0
   translated: 
@@ -26898,14 +26898,14 @@
   splits:
   - split: 5
     text: 马
-    translated: Mǎ
+    translated: Ma
 - lineNum: 3843
   raw: n90516n	10	fm00000	a00001		马		st0068a		0	ai00000		0	(HP,1108)(MaxHP,1108)(MP,714)(MaxMP,714)(Physique,38)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 马
-    translated: Mǎ
+    translated: Ma
 - lineNum: 3844
   raw: n90517	18	fm00000	al20004		猎鹰		st0070b		107	ai00000		0	(HP,2140)(MaxHP,2140)(MP,1306)(MaxMP,1306)(Physique,43)(Intelligence,50)(Neigong,30)(Qinggong,10)(Fight,60)(Sword,50)(Blade,50)(Spear,60)(Arrow,10)(Short,60)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0
   translated: 
@@ -27024,14 +27024,14 @@
   splits:
   - split: 5
     text: 白露霜(暴雨梨花、绵掌)
-    translated: Báilù Shuāng (Bàoyǔ Líhuā, Mián Zhǎng)
+    translated: Bailu Shuang (Baoyu Lihua, Mian Zhang)
 - lineNum: 3861
   raw: n90602c	40	fm00000	a00001	nick136	白露霜(纯演出用_拿匕首)	ta0092g	st0096d,st0052c,st0998		204	ai00000	(MajorWeapon,eq10917)	0	(HP,6840)(MaxHP,6840)(MP,3691)(MaxMP,3691)(Physique,70)(Intelligence,50)(Neigong,108)(Qinggong,80)(Fight,80)(Sword,82)(Blade,78)(Spear,70)(Arrow,114)(Short,86)(Doctor,0)(Poison,0)(Money,0)(Madness,25)(Moral,-25)(Reputation,0)(ZOC,60)(YinAndYang,-125)		0,0	0
   translated: 
   splits:
   - split: 5
     text: 白露霜(纯演出用_拿匕首)
-    translated: Bái Lùshuāng (Pure Performance Use—Wielding a Dagger)
+    translated: Bai Lushuang (Pure Performance Use—Wielding a Dagger)
 - lineNum: 3862
   raw: n90603	40	fm00000	a00001	nick137	李彦仙(四象刀法、岳家散手)	ta0092l	st0107b,st0011b,st0998		208	ai00000	(MajorWeapon,eq10409)	0	(HP,8250)(MaxHP,8250)(MP,3816)(MaxMP,3816)(Physique,85)(Intelligence,50)(Neigong,116)(Qinggong,64)(Fight,90)(Sword,86)(Blade,118)(Spear,82)(Arrow,74)(Short,70)(Doctor,0)(Poison,0)(Money,0)(Madness,-30)(Moral,65)(Reputation,0)(ZOC,60)(YinAndYang,125)		0,0	0
   translated: 
@@ -27150,7 +27150,7 @@
   splits:
   - split: 5
     text: 不赦楼门人(阴风刀)
-    translated: Unforgiving to the Lóu Family Sect Members (Yīnfēng Dāo)
+    translated: Unforgiving to the Lou Family Sect Members (Yinfeng Dao)
 - lineNum: 3879
   raw: n90625	32	fm00000	a00001		不赦楼门人(阴风刀)	ta0091d	st0114c		204	ai00000	(MajorWeapon,eq10416)	1	(HP,3699)(MaxHP,3699)(MP,2473)(MaxMP,2473)(Physique,41)(Intelligence,50)(Neigong,58)(Qinggong,61)(Fight,42)(Sword,42)(Blade,74)(Spear,42)(Arrow,42)(Short,42)(Doctor,0)(Poison,0)(Money,1000)(Madness,30)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-75)		0,0	0
   translated: 
@@ -27318,7 +27318,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术、岳家散手)
-    translated: Qīngtiān Zhài Bowmen (Xiàhóu Archery, Yuè Family Boxing)
+    translated: Qingtian Zhai Bowmen (Xiahou Archery, Yue Family Boxing)
 - lineNum: 3903
   raw: n90651	36	fm00000	a00001		豹王寨众(甩手封喉、血海迷踪)	ta0091b	st0014d,st0022		201	ai00000	(MajorWeapon,eq10703)	0	(HP,4716)(MaxHP,4716)(MP,2842)(MaxMP,2842)(Physique,50)(Intelligence,50)(Neigong,65)(Qinggong,61)(Fight,46)(Sword,46)(Blade,46)(Spear,46)(Arrow,82)(Short,46)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it40103,2)(it40107,1)(it40114,1)	-1,-1	0
   translated: 
@@ -27367,7 +27367,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)
-    translated: Qíngtiānzhài Archers (Xiàhóu Bow Technique)
+    translated: Qingtianzhai Archers (Xiahou Bow Technique)
 - lineNum: 3910
   raw: n90658	35	fm00000	a00001		擎天寨弓箭手(夏侯箭术)	ta0091b	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,4908)(MaxHP,4908)(MP,2720)(MaxMP,2720)(Physique,55)(Intelligence,50)(Neigong,60)(Qinggong,70)(Fight,70)(Sword,45)(Blade,70)(Spear,70)(Arrow,45)(Short,45)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it60204,1)(it80302,1)(it801025,1)	-1,-1	0
   translated: 
@@ -27395,7 +27395,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)
-    translated: Qīngtiān Zhai Archers (Xiaohou Bow Technique)
+    translated: Qingtian Zhai Archers (Xiaohou Bow Technique)
 - lineNum: 3914
   raw: n90662	33	fm00000	a00001		擎天寨弓箭手(夏侯箭术)	ta0091b	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,4443)(MaxHP,4443)(MP,2540)(MaxMP,2540)(Physique,52)(Intelligence,50)(Neigong,56)(Qinggong,53)(Fight,66)(Sword,43)(Blade,66)(Spear,66)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it80306,1)(it40101,1)(it40108,1)	-1,-1	0
   translated: 
@@ -27409,21 +27409,21 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)
-    translated: Qīngtiānzhài Bowmen (Xiàhóu Archery Skill)
+    translated: Qingtianzhai Bowmen (Xiahou Archery Skill)
 - lineNum: 3916
   raw: n90664	35	fm00000	a00001		擎天寨弓箭手(夏侯箭术)	ta0091b	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,4777)(MaxHP,4777)(MP,2720)(MaxMP,2720)(Physique,53)(Intelligence,50)(Neigong,60)(Qinggong,56)(Fight,70)(Sword,45)(Blade,70)(Spear,70)(Arrow,45)(Short,45)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it60126,1)(it60105,1)(it60135,1)	-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)
-    translated: Qíngtiān Zhaì Archers (Xiàhóu Bowmanship)
+    translated: Qingtian Zhai Archers (Xiahou Bowmanship)
 - lineNum: 3917
   raw: n90665	33	fm00000	a00001		擎天寨弓箭手(夏侯箭术)	ta0091b	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,4628)(MaxHP,4628)(MP,2540)(MaxMP,2540)(Physique,55)(Intelligence,50)(Neigong,56)(Qinggong,53)(Fight,66)(Sword,43)(Blade,66)(Spear,66)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)
-    translated: Qíngtiān Zhai Bowmen (Xiaohou Archery)
+    translated: Qingtian Zhai Bowmen (Xiaohou Archery)
 - lineNum: 3918
   raw: n90666	34	fm00000	a00001		擎天寨弓箭手(夏侯箭术)	ta0091b	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,4768)(MaxHP,4768)(MP,2630)(MaxMP,2630)(Physique,55)(Intelligence,50)(Neigong,58)(Qinggong,54)(Fight,68)(Sword,44)(Blade,68)(Spear,68)(Arrow,44)(Short,44)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
@@ -27437,7 +27437,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)
-    translated: Qíngtiān Zhuì Archers (Xiàhóu Jiànshù)
+    translated: Qingtian Zhui Archers (Xiahou Jianshu)
 - lineNum: 3920
   raw: n90668	33	fm00000	a00001		擎天寨弓箭手(夏侯箭术)	ta0091b	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,4504)(MaxHP,4504)(MP,2540)(MaxMP,2540)(Physique,53)(Intelligence,50)(Neigong,56)(Qinggong,53)(Fight,66)(Sword,43)(Blade,66)(Spear,66)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70304,1)(it70305,1)	-1,-1	0
   translated: 
@@ -27451,7 +27451,7 @@
   splits:
   - split: 5
     text: 擎天寨弓箭手(夏侯箭术)
-    translated: Qiānghóu's Archers (Xiahou School of Archery) at Qīngtiān Outpost
+    translated: Qianghou's Archers (Xiahou School of Archery) at Qingtian Outpost
 - lineNum: 3922
   raw: n90670	34	fm00000	a00001		擎天寨弓箭手(夏侯箭术)	ta0091b	st0013c		208	ai00000	(MajorWeapon,eq10801)	1	(HP,4577)(MaxHP,4577)(MP,2630)(MaxMP,2630)(Physique,52)(Intelligence,50)(Neigong,58)(Qinggong,54)(Fight,68)(Sword,44)(Blade,68)(Spear,68)(Arrow,44)(Short,44)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
@@ -27479,14 +27479,14 @@
   splits:
   - split: 5
     text: 擎天寨众(岳家枪法、岳家散手)(刚)
-    translated: 'Qīngtiānzhài People (Yue Family Spear, Yue Family Hand-to-Hand Combat) (Strength: Strong)'
+    translated: 'Qingtianzhai People (Yue Family Spear, Yue Family Hand-to-Hand Combat) (Strength: Strong)'
 - lineNum: 3926
   raw: n90674	34	fm00000	a00001		擎天寨众(岳家枪法、岳家散手)(动)	ta0091b	st0010c,st0011		208	ai00000	(MajorWeapon,eq10502)	0	(HP,4704)(MaxHP,4704)(MP,2630)(MaxMP,2630)(Physique,54)(Intelligence,50)(Neigong,58)(Qinggong,54)(Fight,68)(Sword,44)(Blade,68)(Spear,68)(Arrow,44)(Short,44)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it80306,1)(it81101,1)	-1,-1	0
   translated: 
   splits:
   - split: 5
     text: 擎天寨众(岳家枪法、岳家散手)(动)
-    translated: Support of Heaven Fortress People (Yuè Family Spear Techniques, Yuè Family Hand-to-Hand Combat) Action
+    translated: Support of Heaven Fortress People (Yue Family Spear Techniques, Yue Family Hand-to-Hand Combat) Action
 - lineNum: 3927
   raw: n90675	33	fm00000	a00001		擎天寨众(岳家枪法、岳家散手)(刚)	ta0091b	st0010c,st0011		208	ai00000	(MajorWeapon,eq10502)	1	(HP,4504)(MaxHP,4504)(MP,2540)(MaxMP,2540)(Physique,53)(Intelligence,50)(Neigong,56)(Qinggong,53)(Fight,66)(Sword,43)(Blade,66)(Spear,66)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 
@@ -27507,7 +27507,7 @@
   splits:
   - split: 5
     text: 豹王寨众(五虎断门刀)
-    translated: Bàowáng Zhài zhòng (Wǔ Hǔ Duàn Mén Dāo)
+    translated: Baowang Zhai zhong (Wu Hu Duan Men Dao)
 - lineNum: 3930
   raw: n90678	33	fm00000	a00001		豹王寨众(五虎断门刀)	ta0091	st0108e		204	ai00000	(MajorWeapon,eq10416)	0	(HP,4565)(MaxHP,4565)(MP,2540)(MaxMP,2540)(Physique,54)(Intelligence,50)(Neigong,56)(Qinggong,53)(Fight,43)(Sword,43)(Blade,76)(Spear,43)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0
   translated: 

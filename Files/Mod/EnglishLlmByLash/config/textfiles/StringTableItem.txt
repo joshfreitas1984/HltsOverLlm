@@ -1,324 +1,325 @@
 #共享	
-OK	OK
-Cancel	Cancellation
-Or	or
-None	None
-Enable	Enable
-Disable	Deactivation
+OK	Confirmed.
+Cancel	Cancel
+Or	Or
+None	无
+Enable	Activate
+Disable	Disabled
 #UI	
-Message	Messages
-QuestEventType000	Mission begins
-QuestEventType001	Abandonment of mission
-QuestEventType002	Mission accomplished
-QuestEventType003	Mission failed
-QuestEventType004	Mission update
+Message	Message
+QuestEventType000	Task begins.
+QuestEventType001	Abandon mission
+QuestEventType002	Task completed.
+QuestEventType003	Task failed.
+QuestEventType004	Task Update
 #后面有留空格键是要做排版	
-Method0	Added
-Method1	Removed
-HintTypeMoney	{0}{1} Money.
-HintTypeExp	{0}{1} Experience.
-HintTypeInventory	{0} {1} pieces
-HintTypeStealTodayDontSteal	It is no longer possible to do anything to this man today
-HintTypeStealInventoryNull	There is nothing on the other side.
-HintTypeStealProbabilityZero	The other side is heavily guarded.
-HintTypeStealTooFar	Target too far away.
-HintTypeStealAnimal	Unable to lay hands on the beast
-HintTypeLearnDrug	Acquired {0} Medicinal Prescriptions
-HintTypeLearnCook	Acquisitions {0} Recipes
-HintTypeLearnForge	Acquisitions {0} Blueprint
-HintTypePropertyUp	Your {0} Boosted.
-HintTypePropertyDown	Your {0} lowered
-HintTypeAreaFriendlyUp	Your friendliness with {0} has gone up
-HintTypeAreaFriendlyDown	Your friendliness with {0} has decreased
-HintTypeLevelUp	{0} Leveled Up
+Method0	Obtained
+Method1	Reduce
+HintTypeMoney	{0} {1} Qian
+HintTypeExp	{0} {1} experience
+HintTypeInventory	{0} {1} people
+HintTypeStealTodayDontSteal	We can no longer take action against this person today.
+HintTypeStealInventoryNull	The other party had nothing on them.
+HintTypeStealProbabilityZero	The opposing side is on high alert.
+HintTypeStealTooFar	The target is too far away.
+HintTypeStealAnimal	Unable to take action against the beast.
+HintTypeLearnDrug	Learned the prescription for {0}.
+HintTypeLearnCook	Learned {0} recipe.
+HintTypeLearnForge	Learn the {0} blueprint.
+HintTypePropertyUp	Your {0} has improved.
+HintTypePropertyDown	Your {0} has decreased.
+HintTypeAreaFriendlyUp	Your friendship level with {0} has increased.
+HintTypeAreaFriendlyDown	Your friendship level with {0} has decreased.
+HintTypeTeammateFriendly	Teammate friendliness has increased.
+HintTypeLevelUp	{0} upgraded.
 HintTypeTeamFull	Your team is full.
-HintTypeTeammmateJoin	{0} Join the team
-HintTypeTeammmateLeave	{0} Leaving the group
-HintTypeNicknameUnlocked	Gaining Title {0}
-HintTypeAchievement	Achieving Achievement Goals {0}
-HintTypeAchievementStart	Discovering Hidden Achievements {0}
-HintTypeMadnessUp	You've become more wildly uninhibited.
-HintTypeMadnessDown	You're more impetuous than ever.
-HintTypeMoralUp	You have become more righteous.
-HintTypeMoralDown	You have become even more evil.
-HintTypeYinAndYangUp	You have become more masculine.
-HintTypeYinAndYangDown	You've become more feminine.
-HintTypeFallAndHurt	Your fall from a high place reduced {0} the blood of the air
-HintTypeFallAndDie	You fell and died.
-HintTypeFoodBufferDisappeared	The {1} effect of {0} has disappeared.
-InventoryDialogTitle	Objects in use
-InventoryDialogTitle2	Equipment Secrets
-InventoryDialogText	Identify to use
-InventoryDialogText2	To practice {0}?
+HintTypeTeammmateJoin	{0} joins the team.
+HintTypeTeammmateLeave	{0} leaves the team.
+HintTypeNicknameUnlocked	Obtained the title {0}.
+HintTypeAchievement	Achieve accomplishment goal {0}.
+HintTypeAchievementStart	Discovered hidden achievement {0}.
+HintTypeMadnessUp	You have become more unrestrained and wild.
+HintTypeMadnessDown	You have become more upright and strict with yourself.
+HintTypeMoralUp	You have become even more resolute in your integrity.
+HintTypeMoralDown	You have become even more sinister and intimidating.
+HintTypeYinAndYangUp	You've become more masculine.
+HintTypeYinAndYangDown	You've become more gentle or subdued.
+HintTypeFallAndHurt	You lost {0} Qi from falling from a height.
+HintTypeFallAndDie	You died from falling.
+HintTypeFoodBufferDisappeared	The effects of {0}'s {1} have disappeared.
+InventoryDialogTitle	Using items
+InventoryDialogTitle2	Equipment Manual
+InventoryDialogText	Confirm use.
+InventoryDialogText2	Do you want to cultivate {0}?
 Interactive02	Conversation
-Interactive03	Take
-Interactive04	Excavation
-Interactive05	Picking
+Interactive03	Grab {0}
+Interactive04	Excavate
+Interactive05	Harvesting
 Interactive06	Capture
-Interactive07	Steal
-Interactive08	Attacks
-Interactive09	Survey
-Interactive10	Hunting
-Interactive11	Ambush
-Interactive12	Hunting
-TalkStealNotice	What are you sneaking around for?
+Interactive07	<color=#ff2222>Clandestine theft</color>
+Interactive08	<color=#ff2222>Attack</color>
+Interactive09	Investigation
+Interactive10	Hunter
+Interactive11	<color=#ff2222>Shadow Enforcer</color>
+Interactive12	Hunting Down
+TalkStealNotice	What are you up to sneaking around like that?
 TalkAmbushPlayer1	I suddenly want to beat you up.
-TalkAmbushPlayer2	I would like to learn a few moves from Your Excellency.
-TalkAmbushPlayer3	Ha-ha, a fight is refreshing and all illnesses are gone!
-TalkAmbushPlayer4	Conceded.
-TalkAmbushNpc1	Fighting? Who's afraid of who!
-TalkAmbushNpc2	Please enlighten me!
-TalkAmbushNpc3	We are all civilized people, why do we have to be so rough?
-TalkAmbushNpc4	Forgive me if I refuse.
-TalkAmbushNpc5	You're good, we'll see.
-TalkAmbushNpc6	Your martial arts skills are very impressive, I am impressed.
-TalkAmbushNpc7	Don't be flattered, it was just a moment of carelessness.
-TalkAmbushNpc8	I can't believe I've lost to you by a single mistake.
-TalkAmbushNpc9	You are no match for me in terms of real skill....
-TalkAmbushNpc10	I... I am defeated by a nobody.... It is impossible....
-NoBook	Not yet selected.
+TalkAmbushPlayer2	I would like to learn a few techniques from you, Sir.
+TalkAmbushPlayer3	Ha ha, fighting makes you clear-minded and energetic; all ailments disappear!
+TalkAmbushPlayer4	Reluctantly agree.
+TalkAmbushNpc1	Fighting? Who's afraid of whom!
+TalkAmbushNpc2	Please instruct me!
+TalkAmbushNpc3	We're all civilized people; why do we have to resort to violence?
+TalkAmbushNpc4	Please forgive my refusal.
+TalkAmbushNpc5	That's impressive, we'll see how it goes.
+TalkAmbushNpc6	Your martial skills are impressive; I am truly impressed.
+TalkAmbushNpc7	Hmph, don't get cocky; I was just momentarily careless.
+TalkAmbushNpc8	I didn't expect that one mistake would lead me to defeat at your hands.
+TalkAmbushNpc9	Hmph, even if you use some cunning tricks, in terms of true ability, you are no match for me.
+TalkAmbushNpc10	I... I have been defeated by an unknown person... impossible...。
+NoBook	Not yet selected the manual.
 ActivateA	Please select {0}.
-InventoryLevel	Rarity
-InventoryLevel0	General
+InventoryLevel	Rarity level
+InventoryLevel0	Generally.
 InventoryLevel1	Rare
-InventoryLevel2	Excellence
-InventoryLevel3	Extraordinary
+InventoryLevel2	Exceptional
+InventoryLevel3	Transcendent
 InventoryLevel5	Special
 Hurt0	Damage Reduction
-Hurt1	Fist Damage
-Hurt2	Fencing Damage
-Hurt3	Blade Damage
-Hurt4	Spear damage
-Hurt5	Dark weapon damage
-Hurt6	Short damage
-Hurt7	Other injuries
-Hurt8	Double Sword Damage
-Hurt9	Double Blade Damage
-Hurt10	Sword damage
-Hurt11	Bow and arrow damage
-Hurt	Injury
-Weight	weight
+Hurt1	Fighting damage
+Hurt2	Sword skill damage
+Hurt3	Sword technique damage
+Hurt4	Gun and cudgel damage.
+Hurt5	Hidden weapon damage
+Hurt6	Melee damage
+Hurt7	Other damage
+Hurt8	Dual-sword damage
+Hurt9	Double-bladed damage
+Hurt10	Sword and blade damage
+Hurt11	Bow and arrow damage.
+Hurt	Harm
+Weight	Weight
 Durability	Durability
 Hardness	Hardness
 BaseEffect	Special effects
 AdditiveEffect	Additional effects
-InventoryTip	Applied to weapons
-InventoryTip0	cannot be used directly
-InventoryTip2	Can only be used in combat
-InventoryTip98	Can't practice this secret book because it has a limited target!
-InventoryTip99	Limited equipment.
-CharacterProperty50	Qi and Blood
-CharacterProperty51	Blood and Qi cap
-CharacterProperty52	Inner Force
-CharacterProperty53	Inner Strength Cap
+InventoryTip	Anointed upon the weapon.
+InventoryTip0	Cannot be used directly.
+InventoryTip2	Can only be used in combat.
+InventoryTip98	This secret manual cannot be practiced because it has limited targets!
+InventoryTip99	Limited Equipment:
+CharacterProperty50	Vital energy
+CharacterProperty51	Maximum Qi and Blood Capacity
+CharacterProperty52	Internal Energy
+CharacterProperty53	Internal power limit
 CharacterProperty54	Energy
-CharacterProperty55	Energy cap
-CharacterProperty58	Physical Fitness
+CharacterProperty55	Maximum Energy Limit
+CharacterProperty58	体魄
 CharacterProperty59	Qualifications
 CharacterProperty108	Money
-CharacterProperty109	The impetuous
-CharacterProperty110	Ethics
-CharacterProperty111	Prestige of the Jiang Hu
-CharacterProperty112	Yin and Yang
-CharacterProperty196	Blitzkrieg
-CharacterProperty197	Unloading
-CharacterProperty198	Combo
+CharacterProperty109	Crazy yet Just
+CharacterProperty110	道德
+CharacterProperty111	Reputation in the martial arts world
+CharacterProperty112	Yinyang
+CharacterProperty196	Critical Hit
+CharacterProperty197	Loosen up.
+CharacterProperty198	Combination attack
 CharacterProperty199	Counterattack
-CharacterProperty200	False Claims
-CharacterProperty301	Fists
-CharacterProperty302	Swordplay.
-CharacterProperty303	Knife Art.
-CharacterProperty304	Spears
-CharacterProperty305	Dark Arms
-CharacterProperty306	Shorts
-CharacterProperty307	Medical Science
-CharacterProperty308	Toxic Arts
-CharacterProperty309	Inner Work
-CharacterProperty310	Light Work
-CharacterProperty321	Herbology
+CharacterProperty200	Feigned invitation.
+CharacterProperty301	Fighting
+CharacterProperty302	Fencing technique
+CharacterProperty303	Fencing technique
+CharacterProperty304	Gunstick
+CharacterProperty305	Hidden weapon
+CharacterProperty306	A swift clash of weapons during combat at close quarters.
+CharacterProperty307	Medical skill.
+CharacterProperty308	Poison Technique
+CharacterProperty309	Internal cultivation
+CharacterProperty310	Lightness Skill
+CharacterProperty321	Pharmacognosy
 CharacterProperty322	Mineralogy
-CharacterProperty323	Theft studies
+CharacterProperty323	Theftology
 CharacterProperty324	Business Studies
-CharacterProperty400	Internal Injuries
-CharacterProperty401	Trauma
+CharacterProperty400	Internal injury
+CharacterProperty401	External injury
 CharacterProperty402	Poisoning
-CharacterProperty403	Seal the Den
-CharacterProperty404	Confusion
+CharacterProperty403	Sealing the Acupoint
+CharacterProperty404	Confused
 CharacterProperty405	Dizziness
-CharacterProperty406	Split Ribs
-CharacterProperty407	Wrong bone
-CharacterProperty408	Scattergories
-CharacterProperty409	Frozen
-CharacterProperty410	Intoxication
+CharacterProperty406	Relieve muscle tension
+CharacterProperty407	Fault in the bone.
+CharacterProperty408	To disengage martial energy.
+CharacterProperty409	Frostbound
+CharacterProperty410	Drunkenness
 #阴阳	
-YinAndYang0	Solstice
-YinAndYang1	Shao Yin
+YinAndYang0	Zhi Yin
+YinAndYang1	Shaoyin
 YinAndYang2	
 YinAndYang3	Shaoyang
-YinAndYang4	Solstice
+YinAndYang4	Zhi Yang
 #感悟	
-TalentType0	Movement
-TalentType1	Silence
-TalentType2	Gang
+TalentType0	Moving
+TalentType1	Quiet
+TalentType2	Just now.
 TalentType3	Soft
-TalentType4	Coincidence
-TalentType5	Clumsy
+TalentType4	巧
+TalentType5	Humble
 #区域	
-Area0	A Jianghu disperser.
-Area1	Archstone Village
-Area2	Soyodo
-Area3	Daein Town
-Area4	Eagle Hunter Settlements
-Area5	Sorrento
-Area6	Chateau Ichirofune
-Area7	Jhangren Village
-Area8	Dushi Nishikawa
-Area9	Qingcheng Pai
-Area10	Redan Palace
+Area0	Wanderer of the Way
+Area1	Gongshi Village
+Area2	Shu Yujing
+Area3	Da Yan Town
+Area4	Eagle Hunter Village
+Area5	Qing Tian Zhai
+Area6	One Generation of Wealth and Prosperity Wine Estate
+Area7	Father-in-law's village
+Area8	Western River Prefectural Commander
+Area9	Qingcheng Sect
+Area10	Chidan Gong
 Area11	Shijiazhuang
-Area12	Taihua Gate
-Area13	Pao Wang Zhai
-Area14	White Marquee
-Area15	Tibetan Flower and Grass Shed
-Area16	Duan of Nanzhao
-Area17	Turnip Bridge
-Area18	Wojia Horse Gang
-Area19	Yip's Horse Gang
-Area20	Karma Temple
-Area21	The Beast
-Area22	Pretty Dreams Gallery
-Area23	Vertigo Waterfall
-Area24	The Academy of Idleness
+Area12	Great Wall Gate of Badaling
+Area13	Leopard King Camp
+Area14	Paima Ju
+Area15	Herb Pavilion
+Area16	Nanzhao Duan clan
+Area17	Cen Zhai
+Area18	He family horse gang
+Area19	Ye Family Ma Bandits
+Area20	Gesang Monastery
+Area21	Beast
+Area22	Charming Dream Pavilion
+Area23	Enchanting Water Fortress
+Area24	Idle Scholar's Academy
 Area25	Tianlong Temple
-Area26	Dainties
-Area27	Wolf Barbarians
-Area28	Valley of Goldstone
-Area29	Sam Wong San
-Area30	The Hundred Beasts'
+Area26	Gourmet Club
+Area27	Wolfraven Tribe
+Area28	Goldstone Valley
+Area29	Ginseng King Mountain
+Area30	Bai Shou Zhuang
 Area31	Prey
 Area32	Livestock
-Area101	Blacksmith Shop
-Area102	Hotels
+Area101	Blacksmith's Shop
+Area102	Inn
 Area103	Pawnshop
-Area104	Fur shop
-Area105	Butcher's shop
-Area106	Grocery Stores
+Area104	Fur Shop
+Area105	Meat shop
+Area106	杂货店
 Area107	Pharmacy
-Area108	Vegetable shop
+Area108	Vegetable Shop
 Area109	Fruit Shop
 Area110	Fish Shop
-Area111	Woodsmen's Union
-Area112	Bouchon
-Area113	Food stores
-Area114	Restaurants
-Area115	Yu Fang
-ArrivalEndOfWorld	The area ahead is not open. Please turn back.
+Area111	Lumberjack League
+Area112	Tavern Owner
+Area113	Foods Shop
+Area114	Teahouse
+Area115	Jade Courtyard
+ArrivalEndOfWorld	The area ahead is closed, please turn around.
 #传言	
-HearsayNoneArea	On the River
+HearsayNoneArea	Wulin
 HearsayAreaUnit	of
 #队伍	
-RemoveTeammateTitle	Remove teammates
-RemoveTeammate	Whether or not to exclude teammate "{0}
-TeamFull	The line is full.
-GetExp	{0} Gain {1} experience points
+RemoveTeammateTitle	Remove teammates.
+RemoveTeammate	Should {0} be kicked out of the team?
+TeamFull	The team is full.
+GetExp	{0} gains {1} experience points.
 #交易	
-StoreNoItemTransaction	You have to choose the item, then we can trade.
+StoreNoItemTransaction	You need to choose items so we can trade.
 StorePlayerMoneyLacking	You don't have enough money.
-StorePlayerTotalPriceLow	The value of the item you are offering is too low, I don't want to trade with you.
-StoreNpcMoneyLacking	I don't have that much money on me...
-StorePlayerNoFavarites	It seems you don't have anything I want on you.
-StoreNpcFavoriteHaveMoney	I like money, and you can make up the difference with it.
-StoreNpcDontWant	I don't need this, please choose something else.
+StorePlayerTotalPriceLow	The value of your item is too low; I don't want to trade with you.
+StoreNpcMoneyLacking	I don't have that much money on me.
+StorePlayerNoFavarites	It seems you don't have what I'm looking for on your person.
+StoreNpcFavoriteHaveMoney	I like money; you can make up the difference with money.
+StoreNpcDontWant	I don't need this, please choose another one.
 #传闻	
-RumorNothing1	Well, it's not so bad to have a calm journey and enjoy the scenery along the way!
-RumorNothing2	Well, it's not bad to have a calm journey and enjoy the scenery along the way!
-RumorNothing3	Well, it's not so bad to have a calm journey and enjoy the scenery along the way!
-RumorNothing4	Well, it's not bad to have a calm journey and enjoy the scenery along the way!
-RumorNothing5	Well, it's not so bad to have a calm journey and enjoy the scenery along the way!
+RumorNothing1	Well, the journey has been smooth sailing so far, and it's pleasant to enjoy the scenery along the way. Not bad at all!
+RumorNothing2	Hmm, it's been smooth sailing so far, and the scenery along the way is quite pleasant! Not bad at all!
+RumorNothing3	Hmm, on this journey so far, it has been smooth sailing; along the way, enjoying the scenery was not bad at all!
+RumorNothing4	Well, the journey has been smooth, and enjoying the scenery along the way hasn't been bad!
+RumorNothing5	Well, it's been smooth sailing so far on this journey, enjoying the scenery along the way; not bad at all!
 #锻造	
 HurtRang	{0}~{1}%
-BluePrintType1	Fists
-BluePrintType2	Sword
-BluePrintType3	Knives
-BluePrintType4	Spears
-BluePrintType5	Shorts
-BluePrintType6	Arrows
-BluePrintType7	Defence equipment
-EquipPartType0	Body
-EquipPartType1	grid
-EquipPartType2	Shank
-EquipPartType3	rings
+BluePrintType1	Fighting weapons
+BluePrintType2	剑
+BluePrintType3	刀
+BluePrintType4	Gunstick
+BluePrintType5	A swift clash of weapons during combat at close quarters.
+BluePrintType6	Crossbow
+BluePrintType7	防具
+EquipPartType0	Body.
+EquipPartType1	格
+EquipPartType2	柄
+EquipPartType3	环
 EquipPartType4	Head
-EquipPartType5	Coma
-EquipPartType6	pole
-EquipPartType7	tail
-EquipPartType8	lining
-EquipPartType9	surface
+EquipPartType5	Sash
+EquipPartType6	Pole
+EquipPartType7	Tail
+EquipPartType8	lining, trim, facing
+EquipPartType9	Face
 EquipPartType10	Bone
-EquipPartType11	Strings
-EquipPartType12	Vector
-EquipPartType13	Bow
-EquipPartType14	Poisoning
-EquipPartType15	Casting Furnace
-BaseProperty	Basic attributes
-ForgeProperty	Special effects
-InventoryType301	Fist Scores
-InventoryType302	Swordplay
-InventoryType303	Knife Art.
-InventoryType304	Spears
-InventoryType305	Dark Weapons
-InventoryType306	Shorts
-InventoryType307	Inner Work
-InventoryType308	Light Work
-InventoryType309	Medical Books
-InventoryType310	Poison Sutra
-InventoryType318	Other
-InventoryType701	Ores
+EquipPartType11	string
+EquipPartType12	Arrow
+EquipPartType13	Bow.
+EquipPartType14	Apply poison
+EquipPartType15	Throw into the furnace.
+BaseProperty	Basic Attributes
+ForgeProperty	Special Effects
+InventoryType301	Fist Manual
+InventoryType302	Fencing technique
+InventoryType303	Fencing technique
+InventoryType304	Gunmanship
+InventoryType305	Shadow Weapons
+InventoryType306	A swift clash of weapons during combat at close quarters.
+InventoryType307	Internal cultivation techniques.
+InventoryType308	Lightness Skill
+InventoryType309	Medical book
+InventoryType310	Poisoning Classics
+InventoryType318	Others
+InventoryType701	Ore mineral
 InventoryType702	Timber
-InventoryType703	Casting Furnace
+InventoryType703	Throw into the furnace.
 InventoryType704	Leather
-InventoryType705	Silk
-InventoryType706	Tendons
+InventoryType705	Silk.
+InventoryType706	Tendon.
 InventoryType707	Gunpowder
 InventoryType708	Black Blood Spider Venom
-InventoryType709	Soul-Shattering Centipede Venom
-InventoryType710	Pit viper venom
-InventoryType711	Fierce Scorpion Venom
-EffectLevel1	Mild
+InventoryType709	Fatal Wasp Spider Poison
+InventoryType710	Milk viper is extremely poisonous.
+InventoryType711	Viper Venom
+EffectLevel1	Mildly
 EffectLevel2	Moderate
 EffectLevel3	Height
-AchievementMode0	Single game system
-AchievementMode1	Overall cumulative system
-AchievementType0	General
-AchievementType1	Combat
+AchievementMode0	Single Game Maker
+AchievementMode1	Total cumulative production
+AchievementType0	Generally.
+AchievementType1	Battle
 AchievementType2	Plot
-AchievementType3	Martial Arts
-AchievementType4	Capacity
+AchievementType3	Wuxia
+AchievementType4	Ability
 AchievementType5	Reputation
-AchievementType6	Collection
+AchievementType6	Collecting
 #游戏难度	
-GameDifficulty0	Simple
-GameDifficulty1	General
-GameDifficulty2	Difficulties
-GameDifficulty3	Purgatory
-DifficultyDetails	Detailed description
-DifficultyWarning0	The game difficulty level currently selected is the Purgatory level, and some of the game content will be somewhat different.
-DifficultyWarning1	.
-DifficultyWarning2	Combat value adjustment: Self-unit's power will be weakened, while enemy unit's power will be increased.
-DifficultyWarning3	Combat mechanic added: If any unit of your own force (green) dies, the battle will be lost.
-DifficultyWarning4	Change in battle rules: The victory conditions of some battles may be changed, such as friendly battle.
-DifficultyWarning5	Beast King Book Adjustment: The initial number of rounds a Beast King can fight has increased.
+GameDifficulty0	Simple.
+GameDifficulty1	Ordinary
+GameDifficulty2	Difficult
+GameDifficulty3	Crucible Realm
+DifficultyDetails	Detailed explanation
+DifficultyWarning0	The currently selected game difficulty is <color=#ff2222>Inferno</color> level, and some parts of the game content may differ.
+DifficultyWarning1	
+DifficultyWarning2	<color=#FFE829>Fight Value Adjustment</color>: Allied units' combat power will <color=#ff2222>weaken</color>, while enemy units' combat power will <color=#ff2222>strengthen</color>.
+DifficultyWarning3	<color=#FFE829>New Battle Mechanism:</color> <color=#22FF22>The allied forces (green)</color> lose when any unit <color=#ff2222>dies</color>, resulting in a <color=#ff2222>battle failure</color>.
+DifficultyWarning4	<color=#FFE829>Battle Rules Changes</color>: The <color=#ff2222>victory conditions</color> for some campaigns may change, such as friendly defense battles.
+DifficultyWarning5	<color=#FFE829>Pet King Record Adjustment</color>: Initial number of turns in which the Pet King participates increased.
 DifficultyWarning6	
-DifficultyWarning7	Click on the detailed instructions button below, or open the help page to see more explanations about the difficulty level,
-DifficultyWarning8	If you want to change the difficulty level, please re-do the questionnaire and choose another difficulty level to play,
-DifficultyWarning9	Enjoy your trip!
+DifficultyWarning7	Select the '<color=#ff2222>Details</color>' button below, or open the '<color=#ff2222>Help Page</color>', to see more explanations related to difficulty.
+DifficultyWarning8	If you want to switch to a different difficulty for another player, please <color=#ff2222>redo the questionnaire</color> and select another difficulty to play.
+DifficultyWarning9	Wish you a pleasant journey!
 #按键提示对应	
 KeyName_UpArrow	↑
 KeyName_DownArrow	↓
 KeyName_LeftArrow	←
 KeyName_RightArrow	→
 KeyName_Arrow	↑/↓/←/→
-KeyName_NumberArrow	Numeric Keypad Orientation
+KeyName_NumberArrow	Numeric keypad direction keys.
 KeyName_Alpha0	0
 KeyName_Alpha1	1
 KeyName_Alpha2	2
@@ -332,1055 +333,1062 @@ KeyName_Alpha9	9
 KeyName_BackQuote	~
 KeyName_Minus	-
 KeyName_Equals	=
-KeyName_Backslash	Dushanbe
+KeyName_Backslash	\
 KeyName_LeftBracket	[
 KeyName_RightBracket	]
 KeyName_Semicolon	;
 KeyName_Quote	'
 KeyName_Comma	,
 KeyName_Period	.
-KeyName_LBRB	.
-KeyName_Slash	/.
+KeyName_LBRB	< / >
+KeyName_Slash	/
 KeyName_Escape	ESC
 KeyName_LeftControl	LeftCtrl
 KeyName_RightControl	RightCtrl
-KeyName_LeftAnalogPress	Left analog joystick
-KeyName_RightAnalogPress	Right analog joystick
+KeyName_LeftAnalogPress	Left Joystick Simulator
+KeyName_RightAnalogPress	Right joystick for game controller simulation
 KeyName_JoystickButton0	A
 KeyName_JoystickButton1	B
 KeyName_JoystickButton2	X
 KeyName_JoystickButton3	Y
 KeyName_JoystickButton4	LB
 KeyName_JoystickButton5	RB
-KeyDesc_Up	up/move
-KeyDesc_Down	Down/move
-KeyDesc_Left	left/move
-KeyDesc_Right	right/move
-KeyDesc_Arrow	Directional movement
-KeyDesc_Confrim	Acknowledgement
-KeyDesc_Cancel	Cancellation
-KeyDesc_NumberUp	Up/Switching Blocks
-KeyDesc_NumberDown	Down/Switch Blocks
-KeyDesc_NumberLeft	Left/Switching Blocks
-KeyDesc_NumberRight	Right/Switch Block
+KeyDesc_Up	Move up/Upwards
+KeyDesc_Down	Next/Move Down
+KeyDesc_Left	Move left.
+KeyDesc_Right	Move Right
+KeyDesc_Arrow	Directional Movement
+KeyDesc_Confrim	Confirm.
+KeyDesc_Cancel	Cancel
+KeyDesc_NumberUp	Switch Block Section
+KeyDesc_NumberDown	Switch Block
+KeyDesc_NumberLeft	Toggle Block Left/Right
+KeyDesc_NumberRight	Toggle Block
 KeyDesc_NumberArrow	Block Switching
-KeyDesc_LB	Left/Switch tabs
-KeyDesc_RB	Right/Switch tabs
-KeyDesc_LBRB	Switch tabs
-KeyDesc_LT	zoom in/close in
-KeyDesc_RT	Zoom in/out
-KeyDesc_DpadUp	up arrow key
-KeyDesc_DpadDown	Down arrow key
-KeyDesc_DpadLeft	left arrow key
-KeyDesc_DpadRight	right arrow key
-KeyDesc_Main	Information page
-KeyDesc_Team	Item interface
-KeyDesc_Skill	Martial Arts Interface
-KeyDesc_Talent	Perception Interface
-KeyDesc_Map	Mission Interface
-KeyDesc_Alchemy	Recipe interface
-KeyDesc_Achievement	Achievement Interface
-KeyDesc_System	System Menu
-KeyDesc_SaveGame	Auto-saving
-KeyDesc_X	Kicking off teammates
-KeyDesc_Y	Packing the Backpack
-KeyDesc_ShowHerb	Display collection
-KeyDesc_MouseLeft	Identify/select
-KeyDesc_MouseRight	Cancellation
-KeyDesc_MouseMiddle	Adjust near/near/scroll up/down
-KeyDesc_LeftAnalogPress	Left analog joystick
-KeyDesc_RightAnalogPress	Resetting the camera
+KeyDesc_LB	Switch Tab
+KeyDesc_RB	Switch Tab Right
+KeyDesc_LBRB	Switch Tabs
+KeyDesc_LT	Zoom in/Close up
+KeyDesc_RT	Zoom in/zoom out
+KeyDesc_DpadUp	Press the up arrow key.
+KeyDesc_DpadDown	Press the down arrow key.
+KeyDesc_DpadLeft	Left arrow key
+KeyDesc_DpadRight	Right arrow key
+KeyDesc_Main	Information Page
+KeyDesc_Team	Item Interface
+KeyDesc_Skill	Martial arts community
+KeyDesc_Talent	Insight Interface
+KeyDesc_Map	Interface Task
+KeyDesc_Alchemy	Recipe Interface
+KeyDesc_Achievement	Achievements interface
+KeyDesc_System	System Selection Menu
+KeyDesc_SaveGame	Automatic archiving
+KeyDesc_X	Kicking out a teammate.
+KeyDesc_Y	Organize backpack
+KeyDesc_ShowHerb	Displayed Collected Items
+KeyDesc_MouseLeft	Confirm/select
+KeyDesc_MouseRight	Cancel
+KeyDesc_MouseMiddle	Adjust Zoom/Fit Scroll Up/Down
+KeyDesc_LeftAnalogPress	Left Joystick in Game Simulation
+KeyDesc_RightAnalogPress	Reset camera
 KeyDesc_AddSpeed	Sprint
-KeyDesc_Jump	Jumping
-KeyDesc_AutoRun	Automatic running
-KeyDesc_Steal	Steal
-KeyDesc_Ambush	Fight
-KeyDesc_SkillShortcut1	Skill Shortcut 1
-KeyDesc_SkillShortcut2	Skill Shortcut 2
-KeyDesc_SkillShortcut3	Skill Shortcut 3
-KeyDesc_SkillShortcut4	Skill Shortcut 4
-KeyDesc_SkillShortcut5	Skill Shortcut 5
-KeyDesc_SkillShortcut6	Skill Shortcut 6
-KeyDesc_OpenInventory	Combat backpack enabled
-KeyDesc_OpenLearnedSkill	Enable Combat Skills
-KeyDesc_BattleRest	Combat Break
+KeyDesc_Jump	Leap
+KeyDesc_AutoRun	Autonomous running
+KeyDesc_Steal	Covertly acquire
+KeyDesc_Ambush	Sharpening skills through friendly sparring.
+KeyDesc_SkillShortcut1	Skill shortcut key 1
+KeyDesc_SkillShortcut2	Skill Shortcut Key 2
+KeyDesc_SkillShortcut3	Skill Shortcut Key 3
+KeyDesc_SkillShortcut4	Skill Shortcut Key 4
+KeyDesc_SkillShortcut5	Skill Shortcut Key 5
+KeyDesc_SkillShortcut6	Skill Shortcut Key 6
+KeyDesc_OpenInventory	Open Battle Bag
+KeyDesc_OpenLearnedSkill	Activate combat skills.
+KeyDesc_BattleRest	Battle rest
 KeyDesc_BattleWaiting	Battle Awaits
-KeyDesc_ScreenShot	Capture Screen
-KeyDesc_ShowCursor	Display Mouse
+KeyDesc_ScreenShot	Capture screen
+KeyDesc_ShowCursor	Show Mouse Cursor
 #游戏提示	
-GameHint1	The game encyclopedia can be found on the main menu, ESC menu and the question mark button in the upper right corner of the character attribute interface, Easy access to game information.
-GameHint2	When you are exploring in the field, press V to help you find ores or herbs quickly.
-GameHint3	When in battle, click on the upper left avatar to open the character's battle information interface, you can learn more about the character's details. .
-GameHint4	During battle, click on the upper left avatar to hear the character's voice and open the character's combat message interface. For more detailed information about the character, press the Alt key to display the distance between the target and the cursor.
-GameHint5	Tasks are divided into three levels of difficulty: easy (white), normal (orange), and difficult (red). You will be able to perform missions with your own abilities.
-GameHint6	Characters can equip one primary weapon and one secondary weapon, using the features of each weapon to gain an advantage in battle.
-GameHint7	Each character can equip a different loadout, exceeding the maximum loadout will reduce the character's mobility.
-GameHint8	Some quests will have a hint of where you are on the map, making it easier to identify your location.
-GameHint9	You can choose to use either the mini-map or the location bar in your settings, depending on your preferences or habits, for location assistance.
-GameHint10	In the main menu, ESC menu and the question mark button in the upper right corner of the character attribute interface, you can find the game encyclopedia, Convenient for you to check game information.
-GameHint11	The durability of weapons and equipment will affect the value of attack and defense, you can ask a blacksmith to repair equipment.
-GameHint12	You can sell your weapons and equipment to merchants for silver, or ask blacksmiths to dismantle them to make a small amount of forge. Ingredients.
-GameHint13	Learning healing arts can turn wild harvested herbs into pills, strengthening the effect of recovery.
-GameHint14	A carriage driver can take you to your destination, but only if you have been there before.
-GameHint15	Merchants have different business items, and you cannot trade with merchants for items they don't like.
-GameHint16	If you get stuck in a different place, press ESC twice to switch the main menu and see what happens.
-GameHint17	Counterattacking doesn't consume energy, but it does consume more internal energy.
-GameHint18	If you don't have enough power during a battle, it will be much less powerful.
-GameHint19	Press Alt key to show the distance between the target and the cursor during the battle, easy to determine the location when moving.
-GameHint20	Changes in character will affect the interaction between teammates, and may change the willingness of teammates to go on adventures together.
-GameHint21	Press and hold the F key when you are close to an NPC, you can secretly get items from them, but you have to be careful not to be found.
-GameHint22	When exploring the wilderness, always be prepared for battle and be aware of the enemy's strength.
-GameHint23	Forge with materials of higher rarity to create better weapons and defense equipment.
-GameHint24	There are many things to explore in the world of Rivera, so keep an eye out for interactive items around you.
-GameHint25	Learn cooking skills to cook ingredients and make delicious food, which can be eaten to gain temporary benefits. .
+GameHint1	In the main menu, ESC menu, and role attribute interface on the upper right corner's question mark button, you can find the game encyclopedia to conveniently query game information.
+GameHint2	While exploring outdoors, pressing the V key can help you quickly find ore or herbs.
+GameHint3	During battle, clicking the small portrait in the upper left corner can open the character combat message interface to learn more detailed information about that character.
+GameHint4	During battle, clicking the small profile icon in the top left can play the character's voice dialogue and open the character battle message interface to learn more about the character's details.
+GameHint5	The difficulty of the task is categorized into simple (white), normal (orange), and difficult (red). Please choose tasks that match your ability as much as possible.
+GameHint6	Characters can equip a main weapon and an off-hand weapon, leveraging the unique features of different weapons to gain an advantage in combat.
+GameHint7	The weight limit that each character can carry varies; exceeding the maximum load will reduce their mobility.
+GameHint8	Some tasks have location prompts on the map to help players distinguish them.
+GameHint9	You can choose to use a mini-map or compass bar for location assistance according to your preference or habit in the settings.
+GameHint10	In the main menu, ESC menu, and character attributes interface in the top right corner, you can find the game encyclopedia to help you look up game information.
+GameHint11	The durability of weapons and equipment affects attack and defense values, and you can have a blacksmith help repair the equipment.
+GameHint12	Unnecessary weapons and armor can be sold to merchants for silver, or found at a blacksmith's to be dismantled into a small amount of forge material.
+GameHint13	Studying medical skills can refine wild-harvested herbs into elixirs, enhancing the effectiveness of recovery.
+GameHint14	The coachman can quickly deliver the player to your destination, provided it is a place you have previously visited.
+GameHint15	Merchants have different business projects, and you cannot trade items with them that they dislike.
+GameHint16	If you are stuck in a different place and cannot free yourself, consider pressing the ESC key twice to open the main menu first, then see what happens.
+GameHint17	Counterattacks do not deplete energy, but they consume more internal strength.
+GameHint18	During battle, if Qi is insufficient, power will decrease significantly.
+GameHint19	During combat, pressing the Alt key will display the distance between the target and the cursor, making it easier to decide where to move.
+GameHint20	Changes in a player character's personality can affect interactions between teammates and may alter their willingness to embark on adventures together.
+GameHint21	Press and hold F key when near NPC to stealthily take items from them, but be careful not to get caught.
+GameHint22	When exploring outdoors, always maintain good combat readiness and be aware of the enemy's strength.
+GameHint23	Using materials with higher rarity in forging can create better weapons and armor.
+GameHint24	In the Huoluo world, there are many things waiting for players to explore; please pay close attention to interactable objects around you.
+GameHint25	Studying cooking techniques allows you to cook ingredients, create delicious food, and gain temporary enhancement effects upon consumption.
+GameHint26	You can follow the game habit and choose whether to use the auto-follow mouse view mode in the environment settings operation page for gameplay.
 #任务	
-QuestStep	Task Steps
-QuestDescTitle	Mission description
+QuestStep	Task steps
+QuestDescTitle	Task Description
 #存读档	
-Save	Save
-Load	Load
-Saving	Saving
-Loading	Loading
-LoadWhenModDifferent	The module {0} used to save the disk is different from the current module {1}!
-Deleting	is on its way to the main menu
-NoFile	No progress stored
-SaveTypeFast	Quick Save
-SaveTypeAuto	Automatic Saving
-SaveTypeManual	Saved {0}
-TotalPlayTime	Total playtime
+Save	储存
+Load	Read
+Saving	储存中
+Loading	Read in Chinese.
+LoadWhenModDifferent	The module {0} used by the storage system is different from the current module {1}!
+Deleting	On the road to the main menu.
+NoFile	No saved progress.
+SaveTypeFast	Rapid Save
+SaveTypeAuto	Automatic archiving
+SaveTypeManual	Archive {0}
+TotalPlayTime	Total game time
 DayFromBeginning	Day {0}
-LoadFile	Do you want to Load {0}?
-OverwriteFile	Does it overwrite this save game?
-SaveGameMessage	Saved
-LoadingCreatePlayer	Juvenile Transom
-LoadingCreateScene	Letter Walk Mountain River
-LoadingCreateNpc	Looking out over the red world
-LoadingCreateEventCube	Playing the sword and making a song
-LoadingEndState	The flower path has never been swept by a guest, and the door is now open for you.
+LoadFile	Should I read {0}?
+OverwriteFile	Does this record cover that save?
+SaveGameMessage	File saved.
+LevelLabel	Level
+Delete	Delete archive.
+DeleteFile	Do you want to delete this save record?
+LoadingCreatePlayer	Teenager from the Heavens
+LoadingCreateScene	Wandering through mountains and rivers.
+LoadingCreateNpc	Gaze upon that red dust.
+LoadingCreateEventCube	Play the sword and sing a song.
+LoadingEndState	The flower paths have never been swept by guests; today they are opened for you at the humble gate.
 #UI系列	
-InventoryType1	Weapons
-InventoryType2	Defence equipment
-InventoryType3	Martial Arts Secrets
-InventoryType4	Pills
-InventoryType5	Poison
+InventoryType1	Weapon
+InventoryType2	防具
+InventoryType3	Martial Arts Secret Manual
+InventoryType4	Potion of Elixir
+InventoryType5	Poisonous Substance
 InventoryType6	Food
-InventoryType7	Forging Materials
-InventoryType8	Miscellaneous
-InventoryType1001	Pill Food
-InventoryType1002	Collecting Items
-InventoryType1003	Other
+InventoryType7	Forging materials
+InventoryType8	Miscellaneous items.
+InventoryType1001	Medicinal herbs and food.
+InventoryType1002	Collect items.
+InventoryType1003	Others.
 InventoryType1004	Equipment
-UIInventoryType101	Boxing Gloves
-UIInventoryType102	Sword Class
-UIInventoryType103	Knives
-UIInventoryType104	Spears
-UIInventoryType105	Concealed Archery
-UIInventoryType106	Shorts
-UIInventoryType201	Armor
+UIInventoryType101	Fist wrap
+UIInventoryType102	剑类
+UIInventoryType103	Bladed weapons
+UIInventoryType104	Gunstick
+UIInventoryType105	Hidden weapons; bows and arrows.
+UIInventoryType106	A swift clash of weapons during combat at close quarters.
+UIInventoryType201	护甲
 UIInventoryType202	Jewelry
-UIInventoryType203	Coats
-UIInventoryType301	Pills
-UIInventoryType302	Herbs
+UIInventoryType203	Coat
+UIInventoryType301	Potion of Elixir
+UIInventoryType302	Medicinal herbs
 UIInventoryType303	Food
 UIInventoryType304	Ingredients
 UIInventoryType401	Poison
-UIInventoryType402	Forging Materials
-UIInventoryType403	Hardening Materials
-UIInventoryType404	Furs
-UIInventoryType501	Fists
-UIInventoryType502	Swordplay.
-UIInventoryType503	Knife Art.
-UIInventoryType504	Stickwork
-UIInventoryType505	Concealed Archery
-UIInventoryType506	Shorts
-UIInventoryType507	Mindfulness
+UIInventoryType402	Forging material
+UIInventoryType403	Tempering materials
+UIInventoryType404	Fur
+UIInventoryType501	Fighting
+UIInventoryType502	Fencing technique
+UIInventoryType503	Fencing technique
+UIInventoryType504	Staff techniques
+UIInventoryType505	Hidden Weapons: Bow and Arrow
+UIInventoryType506	A swift clash of weapons during combat at close quarters.
+UIInventoryType507	Mind Method
 UIInventoryType508	Other
-UIInventoryType601	Quest Props
+UIInventoryType601	Task tool.
 UIInventoryType602	Groceries
 #说明分类	
-HelpCatalogType1	Game Description
-HelpCatalogType101	method of operation
-HelpCatalogType102	Game Time
+HelpCatalogType1	Game Instructions
+HelpCatalogType101	Operation Method
+HelpCatalogType102	Game time
 HelpCatalogType103	Interaction
-HelpCatalogType104	Facilitation functions
-HelpCatalogType105	Teammate.
-HelpCatalogType106	Transactions
-HelpCatalogType107	Achievements
-HelpCatalogType108	Formulation
-HelpCatalogType109	Game difficulty
-HelpCatalogType110	Rumours of the Jianghu River
-HelpCatalogType2	Roles
-HelpCatalogType201	General Attributes
-HelpCatalogType202	Martial Attributes
+HelpCatalogType104	Convenience features
+HelpCatalogType105	Teammate
+HelpCatalogType106	Transaction
+HelpCatalogType107	Achievement
+HelpCatalogType108	Recipe
+HelpCatalogType109	Game Difficulty
+HelpCatalogType110	Wandering rumors of the martial world.
+HelpCatalogType2	角色
+HelpCatalogType201	General attributes
+HelpCatalogType202	Wuxia attributes
 HelpCatalogType203	Negative Attributes
 HelpCatalogType204	Equipment
-HelpCatalogType205	Designation
-HelpCatalogType3	Martial Arts
-HelpCatalogType301	Martial Arts Descriptions
-HelpCatalogType302	Secrets
-HelpCatalogType303	Type of skill
+HelpCatalogType205	Title
+HelpCatalogType3	Martial arts
+HelpCatalogType301	Wuxia Explanation
+HelpCatalogType302	Manual
+HelpCatalogType303	Skill Type
 HelpCatalogType304	Skill Information
-HelpCatalogType4	Perception
-HelpCatalogType401	Description of Perceptions
-HelpCatalogType402	Classification of Perceptions
-HelpCatalogType5	Mission map
+HelpCatalogType4	感悟
+HelpCatalogType401	Insight Explanation
+HelpCatalogType402	Insights Categorization
+HelpCatalogType5	Task Map
 HelpCatalogType501	Map
-HelpCatalogType502	Mission
+HelpCatalogType502	Task
 HelpCatalogType503	Transmission
-HelpCatalogType504	Positioning aid
-HelpCatalogType6	Combat
-HelpCatalogType601	Combat Instructions
-HelpCatalogType602	Stunt Value
-HelpCatalogType603	Derogatory status
-HelpCatalogType604	Combat Aid
-HelpCatalogType7	Forging System
-HelpCatalogType701	Forge
-HelpCatalogType702	Hardening
+HelpCatalogType504	Positional Assistance
+HelpCatalogType6	Battle
+HelpCatalogType601	Battle Instructions
+HelpCatalogType602	Skill value
+HelpCatalogType603	Debilitating State
+HelpCatalogType604	Battle Support
+HelpCatalogType7	Forging system
+HelpCatalogType701	锻造
+HelpCatalogType702	Tempering
 HelpCatalogType703	Repair
-HelpCatalogType704	Disassembly
-HelpCatalogType705	Heavy forging
-HelpCatalogType8	Props
-HelpCatalogType801	Weapons
-HelpCatalogType802	Defence equipment
-HelpCatalogType803	Pills and Food
+HelpCatalogType704	Disassemble
+HelpCatalogType705	重锻
+HelpCatalogType8	Item
+HelpCatalogType801	Weapon
+HelpCatalogType802	防具
+HelpCatalogType803	Herb medicine and food.
 HelpCatalogType804	Poison
 HelpCatalogType805	Forging/Hardening Materials
 HelpCatalogType806	Other items
 #接口名称	
-UICompass	Azimuth bar
-UIMinimap	Small map
-UITrackedQuest	Mission tracking
+UICompass	Direction Clause
+UIMinimap	Mini-map
+UITrackedQuest	Task Tracking
 #创角界面	
-UICreateEnterText	Before you enter the world of He Luo, there are some questions you need to answer! Are you ready?
+UICreateEnterText	Before entering the Hela Clansmen Chronicles world, there are some questions you need to answer!<br>Are you ready?
 UICreateClickToContinue	Click to continue
-UICreateQuestNo	Questions
-UICreateInvestigateTitle	Ignore reality and choose your deepest heart's desire.
+UICreateQuestNo	Question
+UICreateInvestigateTitle	Please ignore reality and choose your deepest desire from the depths of your heart.
 UICreateNext	Next Page
-UICreateError1	Remaining fields not answered
-UICreateRenameTitle	Finally, please give yourself a ringing name in the world of martial arts.
+UICreateError1	There are still some fields unanswered.
+UICreateRenameTitle	Finally, please choose a resounding name for yourself in this Wuxia world.
 UICreateNameText	Name
-UICreateIllegalName	Name contains an illegal string!
-UICreateAnalyzeTitle	Under analysis....
-UICreateRename	Renaming....
-UICreateReinvestigate	Redoing the questionnaire
-UICreateRandomProperty	Heavy Dice Value
-UICreateStartGame	Start the game
-UICreateMessage01	Redoing the questionnaire will re-analyze your attributes and give you the right results.
-UICreateMessage02	Do you want to enter the world of He Luo as {0} and have an adventure?
-UICreateMessage03	This name has already been used by other players!
+UICreateIllegalName	Name contains illegal string!
+UICreateAnalyzeTitle	Analyzing...
+UICreateRename	Rename
+UICreateReinvestigate	Redo the survey.
+UICreateRandomProperty	Re-roll dice value
+UICreateStartGame	Start game
+UICreateMessage01	Retake the survey to reanalyze your traits and provide appropriate results; do you want to abandon the current results?
+UICreateMessage02	Do you want to enter the River Luo world as a <color=#3174F8>{0}</color> and embark on an adventure?
+UICreateMessage03	This name has already been taken by another player!
 #Main界面	
-UIMainTabInventory	Items
-UIMainTabSkill	Martial Arts
-UIMainTabTalent	Perceptions
-UIMainTabQuestMap	Mission
-UIMainTabAlchemy	Formulation
-UIMainTabRest	Rest.
-UIMainTabAchievement	Achievements
+UIMainTabInventory	Item
+UIMainTabSkill	Martial arts
+UIMainTabTalent	感悟
+UIMainTabQuestMap	Task
+UIMainTabAlchemy	Recipe
+UIMainTabRest	Rest
+UIMainTabAchievement	Achievement
 #队伍接口(物品接口)	
-UITeamLevelLabel	Rank
-UITeamExpLabel	Exp
-UITeamNoNickname	No title
-UITeamWeightLabel	Weight
-UITeamEquipColumn0	Primary hand weapons
-UITeamEquipColumn1	Secondary weapons
-UITeamEquipColumn2	Armor.
-UITeamEquipColumn3	Ornaments
-UITeamEquipColumn4	Costume
-UITeamPersonality1	Personality
-UITeamPersonality2	Evil
-UITeamPersonality3	Good
-UITeamPersonality4	Upright
-UITeamPersonality5	Wild
-UITeamPersonality6	Yin
-UITeamPersonality7	Yang
-UITeamSkillProperty	Martial Arts
-UITeamTalentName	Perceptions
-UITeamResidual	Remaining {0} hours
-UITeamDuration	Duration {0} When
+UITeamLevelLabel	Level
+UITeamExpLabel	Experience
+UITeamNoNickname	Titleless
+UITeamWeightLabel	Total equipment weight
+UITeamEquipColumn0	Primary weapon
+UITeamEquipColumn1	Off-hand weapon
+UITeamEquipColumn2	护甲
+UITeamEquipColumn3	Jewelry
+UITeamEquipColumn4	Outer garment
+UITeamPersonality1	Personality.
+UITeamPersonality2	Evil {name_1} br>Darkness within {name_2}
+UITeamPersonality3	正
+UITeamPersonality4	狷
+UITeamPersonality5	Madman
+UITeamPersonality6	Darkness
+UITeamPersonality7	阳
+UITeamSkillProperty	Wuxia
+UITeamTalentName	感悟
+UITeamResidual	Remaining {0} hours.
+UITeamDuration	for {0} seconds
 #炼金接口(生产接口)	
-UIAlchemyTabDrug	Alchemy
-UIAlchemyTabPoison	Toxic Arts
+UIAlchemyTabDrug	Alchemical Elixirs Preparation
+UIAlchemyTabPoison	Poison Techniques
 UIAlchemyTabCook	Cooking
-UIAlchemyTabForge	Forging
-UIAlchemyButtonDrug	Alchemy begins
-UIAlchemyButtonPoison	Poisoning begins
-UIAlchemyButtonCook1	Cooking begins
-UIAlchemyButtonCook2	Have it made by a master chef.
-UIAlchemyButtonForge1	Forge Begins
-UIAlchemyButtonForge2	Ask a master forger to make it.
-UIAlchemyEffectTitle1	Edible effects
-UIAlchemyEffectTitle2	Effect of use
-UIAlchemyEffectTitle3	Damage Effect
-UIAlchemyTip1	Completion
-UIAlchemyNotEnough	Insufficient material
+UIAlchemyTabForge	锻造
+UIAlchemyButtonDrug	Alchemy begins.
+UIAlchemyButtonPoison	Toxic production begins.
+UIAlchemyButtonCook1	Cooking begins.
+UIAlchemyButtonCook2	Please have the Master Chef prepare it.
+UIAlchemyButtonForge1	Forging begins.
+UIAlchemyButtonForge2	Please have a master craftsman forge it.
+UIAlchemyEffectTitle1	Eating effect
+UIAlchemyEffectTitle2	Effectiveness in use.
+UIAlchemyEffectTitle3	Damage effect
+UIAlchemyTip1	Completed
+UIAlchemyNotEnough	Insufficient materials.
 UIAlchemyMaterialTitle	Material requirements
 UIAlchemyNoEffect	No effect
 #方位条界面	
 UICompassDirection1	East
 UICompassDirection2	West
 UICompassDirection3	South
-UICompassDirection4	North
-DirectionUnit	Fang
-AreaNone	Field areas
-AreaNear	vicinity
+UICompassDirection4	北
+DirectionUnit	方
+AreaNone	Outdoor areas
+AreaNear	Nearby
 #休息界面	
-UIRestTimeTitle	Now Time.
-UIRestRestTitle	Break time
-UIRestRestUnit	hours
-UIRestDialogTitle	Break
-UIRestDialog	To rest {0} hours to {1}?
-UIRestDialogError	Insufficient number of props available to provide rest!
+UIRestTimeTitle	The current time is {0}.
+UIRestRestTitle	Rest time
+UIRestRestUnit	Childhood
+UIRestDialogTitle	Rest
+UIRestDialog	Do you want to rest from {0} hours until {1}?
+UIRestDialogError	The number of rest items provided is insufficient!
 #地图接口(任务接口)	
-UIQuestMapTab0	Ongoing Mainline
-UIQuestMapTab1	Ongoing branch line
-UIQuestMapTab2	Mission completed
-UIQuestMapTab3	Failed missions
+UIQuestMapTab0	Ongoing main storyline
+UIQuestMapTab1	Ongoing Side Quest
+UIQuestMapTab2	Task completed.
+UIQuestMapTab3	Failed mission.
 UIQuestMapCellNew	New
 #传送界面	
-UITransferTitle	Send
-UITransferMessage	Whether to transfer to
+UITransferTitle	Transmission
+UITransferMessage	Is it being transmitted to?
 #系统接口	
-UISystemContinue	Continue the game
-UISystemSave	Saved Games
-UISystemLoad	Load game
-UISystemEnvironment	Environment settings
-UISystemKeys	Key Setting
-UISystemEscape	Escaped from the point.
-UISystemAchievement	List of Achievements
-UISystemReturn	Back to the main menu
+UISystemContinue	Continue playing the game.
+UISystemSave	Save Game
+UISystemLoad	Read game data.
+UISystemEnvironment	Setting
+UISystemKeys	Key Settings
+UISystemEscape	Escape at a critical moment.
+UISystemAchievement	Achievements list
+UISystemReturn	Return to Main Menu
 UISystemExit	Leave the game
 UISystemHelp	Game Encyclopedia
-UITitleNewGame	New to the Martial Arts World
-UITitleLoad	Battle again.
-UITitleMod	Module selection
-UITitleModText	Current Module : Legend of Heroic Warriors
-UIModTitle	Modules
+UITitleNewGame	Entering the martial world for the first time.
+UITitleLoad	Fighting Once Again in the Martial World
+UITitleMod	Module Selection
+UITitleModText	Current module: Huo Luo Quan Xia Zhuan
+UIModTitle	Module
 #环境设定接口	
-UISettingTitle	Environmental Settings
-SettingGroup0	Video
-SettingGroup1	Sound effects
+UISettingTitle	Setting Description
+SettingGroup0	Video call
+SettingGroup1	Sound effect.
 SettingGroup2	Operation
-SettingGroup3	Games
+SettingGroup3	Game
 SettingGroup4	3D Vision
-UISettingWindow	Screen Settings
+UISettingWindow	Scene Setting
 UISettingWindowState	Screen Mode
-UISettingWindowState0	Full Screen
-UISettingWindowState1	Windowing
-UISettingWindowSize	resolution
-UIGraphicsSettingGeneral	General Settings
-UIGraphicsSettingPlayerIK	Protagonist fits on the floor
-UIGraphicsSettingCullingDistanceMultiplier	Object Visibility Distance
-UIGraphicsSettingShadowEnabled	Shadows
-UIGraphicsSettingShadowDistance	Shadow Distance
-UIGraphicsSettingVSync	Vertical Synchronization
+UISettingWindowState0	Full screen
+UISettingWindowState1	Windowed Mode
+UISettingWindowSize	Resolution
+UIGraphicsSettingGeneral	General setting
+UIGraphicsSettingPlayerIK	Protagonist adheres closely to the ground.
+UIGraphicsSettingCullingDistanceMultiplier	Line-of-sight distance of an object.
+UIGraphicsSettingShadowEnabled	Shadow
+UIGraphicsSettingShadowDistance	Shadow distance
+UIGraphicsSettingVSync	Vertical synchronization
 UIGraphicsSettingSkyDomeSetting	Sky
-UIGraphicsSettingVolumeLighting	Beam
+UIGraphicsSettingVolumeLighting	Beam of light.
 UIGraphicsSettingGlobalParticleEmissionRates	Particle density
-UIGraphicsSettingAmbientQuality	Ambient light quality
-UIGraphicsSettingCloudsQuality	Cloud Quality
-UIGraphicsSettingResolution	volume optical resolution
-UIGraphicsSettingPostProcessingSetting	Screen Effects
-UIGraphicsSettingOcclusion	Ambient light shading
-UIGraphicsSettingBeautify	Chromatic Aberration
-UIGraphicsSettingLensDirt	Lens Glare
-UIGraphicsSettingScreenSpaceShadow	Shadow Enhancement
-UIGraphicsSettingBloom	Highlights
-UIGraphicsSettingEyeAdaptation	Light adaptation
-UIGraphicsSettingAntiAliasing	Anti-aliasing
-UIGraphicsSettingPostProcessVolume	Dynamic Blur
-UIGraphicsSettingPerspectiveCamera	Depth Camera
+UIGraphicsSettingAmbientQuality	Environmental light quality
+UIGraphicsSettingCloudsQuality	Cloud Layer Quality
+UIGraphicsSettingResolution	Spatial resolution of light intensity.
+UIGraphicsSettingPostProcessingSetting	Visual effects
+UIGraphicsSettingOcclusion	Light pollution shielding
+UIGraphicsSettingBeautify	色差
+UIGraphicsSettingLensDirt	Camera flash glare
+UIGraphicsSettingScreenSpaceShadow	Shadow enhancement
+UIGraphicsSettingBloom	高光
+UIGraphicsSettingEyeAdaptation	Adaptation to light conditions.
+UIGraphicsSettingAntiAliasing	Antialiasing
+UIGraphicsSettingPostProcessVolume	Dynamic Fuzziness
+UIGraphicsSettingPerspectiveCamera	Deep photography camera
 UIGraphicsSettingVegetationSetting	Vegetation
 UIGraphicsSettingPackage	Quality
-UIGraphicsSettingVisibleDistance	Visible Distance
-UIGraphicsSettingFarVegetations	Distant vegetation
+UIGraphicsSettingVisibleDistance	Clearly visible distance
+UIGraphicsSettingFarVegetations	Vegetation in distant areas.
 UIGraphicsSettingDensity	Density
 UIGraphicsSettingTreeDensity	Tree density
-UIGraphicsSettingLevel	Picture Quality
-UIGraphicsSettingLevelFastest	Fastest
-UIGraphicsSettingLevelFast	Fast
+UIGraphicsSettingLevel	Image quality
+UIGraphicsSettingLevelFastest	The fastest
+UIGraphicsSettingLevelFast	Quickly
 UIGraphicsSettingLevelSimple	Basic
 UIGraphicsSettingLevelGood	Good.
-UIGraphicsSettingLevelBeautiful	Quality first
-UIGraphicsSettingLevelFantastic	Full open
-UIGraphicsSettingLevelCustom	Custom
+UIGraphicsSettingLevelBeautiful	Quality first.
+UIGraphicsSettingLevelFantastic	Fully open
+UIGraphicsSettingLevelCustom	Customize
 UIGraphicsSettingVolumtericResolutionFull	High
-UIGraphicsSettingVolumtericResolutionHalf	Medium
+UIGraphicsSettingVolumtericResolutionHalf	Could you please provide the text you would like translated?
 UIGraphicsSettingVolumtericResolutionQuarter	Low
 UIGraphicsSettingVegetationPackageHigh	High
-UIGraphicsSettingVegetationPackageMid	Medium
+UIGraphicsSettingVegetationPackageMid	Could you please provide the text you would like translated?
 UIGraphicsSettingVegetationPackageLow	Low
 UIGraphicsSettingBinaryQualityLow	Low
 UIGraphicsSettingBinaryQualityHigh	High
-UIGraphicsSettingAntiAliasingNone	Closed
+UIGraphicsSettingAntiAliasingNone	Close
 UIGraphicsSettingAntiAliasingLow	Low
 UIGraphicsSettingAntiAliasingHigh	High
-UIGraphicsSettingSaveNotice	This setting must be restarted for the game to take effect
-UISettingME	Sound
-UISettingBGM	Background Music
-UISettingAmbient	Ambient Music
+UIGraphicsSettingSaveNotice	This setting must take effect after restarting the game.
+UISettingME	Sound Effects
+UISettingBGM	Background music
+UISettingAmbient	Ambient music
 UISettingVoice	Voice
 UISettingVolume	Volume
 UISettingUI	Interface
-UISettingTalk	Voice of dialogue
-UISettingMapPlayerPosition	Display the character's current coordinates.
-UISettingMapQuestIcon	Show task location markers
-UISettingMsg1	Do you want to store the current {0} setting?
-UISettingMsg2	Do you want to discard the current {0} setting and return to the preset setting?
-UICameraSetting	Camera operations
-UICameraSettingSpeed	View movement speed
-UICameraSettingHorizontal	Move the perspective horizontally in reverse.
-UICameraSettingVertical	Move view vertically opposite
-UICameraSettingFollowCursor	Perspective auto-follow mouse
-UIDelayLoading	Delayed loading of maps and characters
+UISettingTalk	Dialogue audio.
+UISettingFootStep	Footstep sound effect
+UISettingSwitch	Switch
+UISettingMapPlayerPosition	Display current character coordinates
+UISettingMapQuestIcon	Display task position indicators.
+UISettingMsg1	Do you want to save the current {0} settings?
+UISettingMsg2	Do you want to discard the current {0} settings and return to the default settings?
+UICameraSetting	Camera operation
+UICameraSettingSpeed	Camera movement speed
+UICameraSettingHorizontal	Change perspective horizontally in the opposite direction.
+UICameraSettingVertical	Change viewpoint vertically in opposite direction.
+UICameraSettingFollowCursor	Camera automatically follows mouse cursor.
+UIDelayLoading	Map and character loading delay.
 #热键设定接口	
-UIHotkeyTitle	Key Setting
-UIHotkeyDefault	Reply preset
-UIHotkeySave	applied
+UIHotkeyTitle	Key Settings
+UIHotkeyDefault	Reply Preset
+UIHotkeySave	套用
 UIHotkeyInputMode1	Keyboard Settings
-UIHotkeyInputMode2	Handlebar Settings
-UIHotkeyNormalGroup	Move key/action key
-UIHotkeyFunctionGroup	Function keys
-UIHotkeyUIGroup	Interface Shortcuts
-UIHotkeyBattleGroup	Combat Shortcuts
-UIHotkeyHintText	Please press the button you want to replace it with
-UIHotkeyHintSuccess	Successful key replacement
-UIHotkeyHintFailed0	Do not allow changing mouse button configurations
-UIHotkeyHintFailed1	Keys have been defined for special purposes, please set other keys.
-UIHotkeyHintExchange	button {0} is already set to {1}, do I need to change the button setting?
-UIHotkeyMsg1	Do you want to save the current key settings?
-UIHotkeyMsg2	Do you want to discard the current key settings and return to the default key settings?
+UIHotkeyInputMode2	Device settings
+UIHotkeyNormalGroup	Move key/Operation key
+UIHotkeyFunctionGroup	Function key
+UIHotkeyUIGroup	Interface shortcuts
+UIHotkeyBattleGroup	Combat shortcut keys
+UIHotkeyHintText	Please press the key you want to change.
+UIHotkeyHintSuccess	Key swap successful.
+UIHotkeyHintFailed0	Prohibited from switching mouse button configurations.
+UIHotkeyHintFailed1	The key has been defined for a special purpose; please set another key.
+UIHotkeyHintExchange	Key '<color=#3174F8>{0}</color>' is set to '<color=#ff2222>{1}</color>'. Do you want to swap the key settings?
+UIHotkeyMsg1	Should the current key settings be saved?
+UIHotkeyMsg2	Shall I discard the current key settings and revert to the default key settings?
 #交易接口	
-UIStoreTransactionTitle	Trading Items
-UIStoreChangeTitle	Exchange of goods
-UIStoreMoneyHave	Amount held.
-UIStoreTransaction	Confirmation of transactions
-UIStoreChange	Determination of exchange
+UIStoreTransactionTitle	Trading items
+UIStoreChangeTitle	Exchange items.
+UIStoreMoneyHave	Amount held:
+UIStoreTransaction	Confirm transaction.
+UIStoreChange	Confirm exchange.
 #技能界面(武学)	
 UISkillBookExp	Experience Points
-UISkillRemovebook	Unloading
+UISkillRemovebook	Unload
 UISkillBookExpert	Proficient
-UISkillLearnSkill	Practicing Martial Arts
-UISkillLearningBook	Practice
-UISkillWorkingSkill	running
-UISkillPropertyTitle	Attributes
-UISkillTreeNodeState1	In Practice
-UISkillTreeNodeState2	in operation
-UISkillTreeNodeState3	in counterattack
-UISkillNodeClickDialog	Learning {0} will cost {1} skill experience points
-UISkillConfirmButton	Applied Skill Configuration
-UISkillUseNeigongButton	Running the Inner Workings
-UISkillLearnedSkill	Martial Arts Practiced
-UISkillCounterSkill	Equippable Counter-Strikes
-UISkillNeigongSkill	Runnable Inner Workings
+UISkillLearnSkill	Practice martial arts skills
+UISkillLearningBook	Cultivation
+UISkillWorkingSkill	Execute
+UISkillPropertyTitle	Could you please provide the text you would like translated? I'll be happy to assist with that.
+UISkillTreeNodeState1	Training in progress.
+UISkillTreeNodeState2	Running
+UISkillTreeNodeState3	Counterattack in progress.
+UISkillNodeClickDialog	Learning {0} will consume {1} skill experience points.
+UISkillConfirmButton	Apply skill configuration
+UISkillUseNeigongButton	Cultivate internal energy.
+UISkillLearnedSkill	Has mastered martial arts.
+UISkillCounterSkill	Retaliatory skills that can be equipped
+UISkillNeigongSkill	Internal energy that can be activated or put into use.
 UISkillInventoryFilterButton	Screening
-UISkillInventoryFilter	Secret Show Category
-UISKillInventoryAllChoose	Select all
-UISkillExpDistributeTip1	Experience points gained are allocated to the secret book in proportion to the ratio, with higher ratios resulting in less character growth. experience points, but you can gain more secret experience points.
-UISkillExpDistributeTip2	(effect applied to all teammates)
-UISkillTransfer	Convert XP
-UISkillTransferExp	Do I want to convert {0} points of secret experience to character experience?
-UISkillTransferNoExp	There are no experience points to convert to this secret.
+UISkillInventoryFilter	Manual displays categorization.
+UISKillInventoryAllChoose	Select All
+UISkillExpDistributeTip1	The experience points gained are allocated to the secret manuals based on a certain ratio. If this ratio is increased, characters will receive fewer growth experience points but can gain more secret manual experience points.
+UISkillExpDistributeTip2	(Apply effect to all teammates)
+UISkillTransfer	Convert Secret Manual Experience
+UISkillTransferExp	Should {0} point of skill experience be converted into character experience?
+UISkillTransferNoExp	This manual cannot be converted into experience points.
 #天赋接口(感悟接口)	
-UITalentConfirmButton	Applying a talent configuration
-UITalentNodeClickDialog	Mastery {0} will cost {1} Sense Points
-TalentTipNeedPoint	Needs perception points
-TalentTipPCondition	Demand attributes
-TalentTipTCondition	Perception of Needs
-TalentTipBuffer	Perception Effects
+UITalentConfirmButton	Apply talent configuration
+UITalentNodeClickDialog	Mastering {0} will consume {1} insight points.
+TalentTipNeedPoint	Requirement insight point.
+TalentTipPCondition	Requirement Attributes
+TalentTipTCondition	Requirement Perception
+TalentTipBuffer	Insight into special effects.
 #追踪的任务接口	
-UITrackedQuestTitle	No current tracked tasks
+UITrackedQuestTitle	Currently, there are no tasks being tracked.
 #称号界面	
 UINicknameTitle1	Title
-UINicknameTitle2	Description of title
-UINicknameTitle3	Equipment Effects
-UINicknameNotEffect	No effect
+UINicknameTitle2	Title Description
+UINicknameTitle3	Equipment effect
+UINicknameNotEffect	No effect.
 UINicknameConfirm	Equipment Title
-UINicknameEquipping	in equipment
+UINicknameEquipping	Equipment section.
 #锻造界面	
-UIBlacksmithTabForge	Forge
-UIBlacksmithTabQuench	Hardening
+UIBlacksmithTabForge	锻造
+UIBlacksmithTabQuench	Tempering
 UIBlacksmithTabRepair	Repair
-UIBlacksmithTabDecompose	Dismantling
-UIBlacksmithTabReforge	Heavy forging
-UIBlacksmithTabSmelt	Melting
-UIBlacksmithFinalTitle	Forging Success
-UIBlacksmithCosts	Forging costs.
-UIBlacksmithDialog1	The cost of forging is {0} money, you do not have enough money.
-UIBlacksmithInventoryHint	Items in equipment must be unloaded into your backpack before they will appear.
+UIBlacksmithTabDecompose	Disassemble
+UIBlacksmithTabReforge	Recasting
+UIBlacksmithTabSmelt	Smelting
+UIBlacksmithFinalTitle	Forging succeeded.
+UIBlacksmithCosts	Forging Fee:
+UIBlacksmithDialog1	The cost required at the forge is {0} wenqian. You do not have enough money.
+UIBlacksmithInventoryHint	Items in your equipment must be unequipped into your inventory before they will appear.
 #淬炼界面	
-UIQuenchError	There are no quenchable fields for this item
-UIQuenchConfirm	Hardening Begins
-UIQuenchBeforeTitle	Effect of holding
-UIQuenchAfterTitle	After Hardening Effect
-UIQuenchFinalTitle	Hardening Success
+UIQuenchError	This item does not have a field that can be smelted.
+UIQuenchConfirm	Tempering begins.
+UIQuenchBeforeTitle	Effects of possession
+UIQuenchAfterTitle	Effects after tempering.
+UIQuenchFinalTitle	Tempering successful
 UIQuenchFinalBuff	Additional effects
-UIQuenchHoleCountTitle	Hardenable Holes
-UIQuenchHoleCount1	{0}-{1}pc.
-UIQuenchHoleCount2	{0}pc.
-UIQuenchCosts	Hardening costs.
-UIQuenchDialog1	Hardening costs {0} money, you do not have enough money.
+UIQuenchHoleCountTitle	Capable of tempering countless times.
+UIQuenchHoleCount1	{0}-{1} individuals
+UIQuenchHoleCount2	{0} people
+UIQuenchCosts	Tempering Fee:
+UIQuenchDialog1	The cost required for tempering is {0} wenqian, and your funds are insufficient.
 #修理界面	
-UIRepairWearing	In equipment
-UIRepair0	Total repair amount
-UIRepair1	Current possession of money
-UIRepair2	Literary money
-UIRepair3	Repairs
-UIRepair4	Repair all
-UIRepairDialog1	It costs {0} to repair all the equipment, do you want to repair it?
-UIRepairDialog2	It costs {0} money to repair all the equipment, you do not have enough money.
-UIRepairDialog3	There is no equipment that needs to be repaired.
+UIRepairWearing	Equipment section.
+UIRepair0	Total Repair Cost
+UIRepair1	Currently possess money.
+UIRepair2	Mr. Qian
+UIRepair3	Repairing
+UIRepair4	Repair all.
+UIRepairDialog1	Repairing all equipment will cost {0} wen. Do you want to repair?
+UIRepairDialog2	Repairing all equipment will cost {0} wenqian, which exceeds your available funds.
+UIRepairDialog3	There is no equipment that needs repairing.
 #拆解界面	
 UIDecompose0	Total Disassembly Amount
-UIDecompose3	Disassembly
-UIDecomposeDialog1	It costs {0} to dismantle all the equipment, do you want to dismantle it?
-UIDecomposeDialog2	Disassembling all the equipment costs {0} money, you do not have enough money.
-UIDecomposeDialog3	No equipment to dismantle is selected.
-UIDecomposeResult	Obtain disassembled items
+UIDecompose3	Disassemble
+UIDecomposeDialog1	Disassemble all equipment at a cost of {0} wenqian? Do you want to disassemble?
+UIDecomposeDialog2	To disassemble all equipment requires spending {0} wen, but you do not have enough money.
+UIDecomposeDialog3	No equipment has been selected for disassembly.
+UIDecomposeResult	Obtain disassembly tools
 #重锻界面	
-ReforgeType0	Injury First
-ReforgeType1	Effectiveness first
+ReforgeType0	Harm Above All Else
+ReforgeType1	Results above all else.
 ReforgeType2	Average growth
-UIReforgeFinalTitle	Remade successfully
+UIReforgeFinalTitle	Re-forged successfully.
 UIReforgeNoReforge	This item cannot be re-forged.
-UIReforgeMaterialRequire	Number of requirements.
-UIReforgeNotEnough	(insufficient number)
-UIReforgeNoMaterials	Lack of materials needed for strengthening!
-UIReforgeStart	Is it to be re-forged in a {0} fashion?
-UIReforgeChangeReforge	This weapon has been re-forged, are you sure you want to discard the effect of the previous forging to get the new effect?
+UIReforgeMaterialRequire	Quantity required:
+UIReforgeNotEnough	(Insufficient quantity)
+UIReforgeNoMaterials	Lacking the materials needed for reinforcement!
+UIReforgeStart	Should it be re-forged in the manner of {0}?
+UIReforgeChangeReforge	This weapon has been reforged already; are you sure you want to discard the previous forging effects in order to obtain new ones?
 #熔炼界面	
-UISmeltMaterialHintText	Rarity of {0} of {1} total of {2}
-UISmeltConfirm	Confirmation of melting
-UISmeltAutoFill	Automatic placement
-UISmeltAutoReturn	Retrieved in full
-UISmeltNoMaterials	Missing the materials needed for melting!
+UISmeltMaterialHintText	Rarity level {0} of {1} totals {2} pieces.
+UISmeltConfirm	Confirm smelting.
+UISmeltAutoFill	Automatically inserted
+UISmeltAutoReturn	Recover all.
+UISmeltNoMaterials	Missing the materials needed for smelting!
 #画面提示	
-UIMouseHint	Display mouse: {0}
+UIMouseHint	Show Mouse: {0}
 #SkillTip	
-SkillTipCondition	Conditions of Training
-SkillTipAffectedSkill	Influence Moves
-SkillTipSkillAction	Additional Effects
-SkillTipNeedWeapon	equipment required
+SkillTipCondition	Training Requirements
+SkillTipAffectedSkill	Technique Affecting Style
+SkillTipSkillAction	Additional effects
+SkillTipNeedWeapon	Required equipment.
 SkillTipNeedExp	Experience
-SkillTipNeedSkill	Martial Arts
-SkillTipNeedTalent	Perceptions
-SkillTipNotTalent	Conflict
-SkillTipNeedInventory	Props
-SkillTipSwitchApCost	Energy Required for Switching
-SkillTipApCost	Consuming Energy
-SkillTipManaCost	Consuming Internal Energy
-SkillTipSelector	Attack Range
-SkillTipIsCounter	Counterattackable
-SkillTipAttack	Base Damage
+SkillTipNeedSkill	Wuxia
+SkillTipNeedTalent	感悟
+SkillTipNotTalent	Resist
+SkillTipNeedInventory	Item
+SkillTipSwitchApCost	Switching requires energy.
+SkillTipApCost	Expend energy
+SkillTipManaCost	Consume internal energy
+SkillTipSelector	Attack range
+SkillTipIsCounter	Counterattack
+SkillTipAttack	Basic Damage
 SkillTipSingleRange	{0}
 SkillTipMultiRange	{0}-{1}
-SkillTipSelectorRange	effective distance
-SkillTipBuffer	Effect
-SkillTipBuffer2	Run effect
-SkillTipNeedInventoryValue	{0}{1}pc.
-SkillTipNeedTypeTalentValue	{0}Perceptions {1}Points
+SkillTipSelectorRange	Effective Range
+SkillTipBuffer	Effectiveness
+SkillTipBuffer2	Performance in operation
+SkillTipNeedInventoryValue	{0} {1} individuals
+SkillTipNeedTypeTalentValue	{0}, insight {1} point.
 #成就界面	
-UIAchievementRewardMsg	Are you sure you want to collect your reward?
-UIAchievementRewardTitle	Awards.
-UIAchievementCanReward	(rewards available)
-UIAchievementRewarded	(completed)
-UIAchievementProgressTitle	Progress.
+UIAchievementRewardMsg	Are you sure you want to claim the reward?
+UIAchievementRewardTitle	Rewards:
+UIAchievementCanReward	(Available Reward Claim)
+UIAchievementRewarded	Completed.
+UIAchievementProgressTitle	Progress:
 #战斗界面	
-UIBattleGetInventory	Obtaining Items
-UIBattleGetSkill	New skills can be learned
+UIBattleGetInventory	Obtain item
+UIBattleGetSkill	Capable of learning new skills.
 #战斗跳的讯息	
-CaptureSuccess	Taming Success.
-CaptureFailure	Taming Failure
-CannotCapture	This target cannot be tamed.
-PetRemoved	Round limit reached
+CaptureSuccess	Taming successful.
+CaptureFailure	Taming failed.
+CannotCapture	This target is unmanageable.
+PetRemoved	Reached turn limit for entrance.
 #范围选择	
 UnitSelector	Single
 CircleSelector	Region
-SegmentSelector	Sector
+SegmentSelector	Fan-shaped
 RectangleSelector	Rectangle
 #阵营单位	
-Affected0	Teammate.
-Affected1	Our side
-Affected2	Enemy
+Affected0	Teammate
+Affected1	Our side.
+Affected2	Adversary
 #Mod模块	
-CurrentMod	Current Modules
-ModUpload	Upload Module
-ModUploadCheck	Do you want to upload a {0} module?
-ModUploading	Module {0} Uploading...
-ModUploadFinish	Upload complete
-ModUploadFailure	Upload failed
-ModUpdating	Updating in progress...
-ModApply	Copy from another source
-ModApplyCheck	Do you want to apply a {0} module?
+CurrentMod	Currently, the module
+ModUpload	Upload module
+ModUploadCheck	Should we upload the {0} module?
+ModUploading	Module {0} uploading…
+ModUploadFinish	Upload completed.
+ModUploadFailure	Upload failed.
+ModUpdating	Updating…
+ModApply	套用中
+ModApplyCheck	Should we apply module {0}?
 IsRemoteMod	Remote
 #战斗	
-CurrentTurn	Rounds {0}
-BattleInfoApRecovery	Energy restored per round
-BattleInfoCountAttackSkill	Counter-Strike.
-Critical	Blitzkrieg
-Release	Unload the force
-Combo	Combo
+CurrentTurn	Round {0}
+BattleInfoApRecovery	Restore energy each turn.
+BattleInfoCountAttackSkill	Counterattack Technique
+Critical	Critical Hit
+Release	Loosen tension
+Combo	Combination attack
 CounterAttack	Counterattack
-Trick	False Claims
-NoEquip	No equipment
-MinorWeapon	(Deputy)
-rate	Rate
-value	value
-KeepTurn	Lasts {0}Rounds
-BeginUnitTalent	Cumulative {0} {1} % per round
-AfterDamageTalent	Cumulative {0} {1} % for each attack.
-CriticalEffect	Add {0} % to damage when Blast is initiated.
-ReleaseEffect	Damage reduction {0} % when unload is activated.
-ComboEffect	Additional energy {0} points when combo is launched
-CounterAttackEffect	When counterattacking, use {0} to counterattack the enemy.
-TrickEffect	When a false move is launched, a random negative status {0} points is added to the hitter.
-APRecovery	Restoration of energy
+Trick	Feigned invitation.
+NoEquip	No equipment.
+MinorWeapon	Assistant (Deputy)
+rate	Lead
+value	Value.
+KeepTurn	Lasts {0} rounds.
+BeginUnitTalent	Each round accumulates {0} <color=#00ffff>{1} %</color>
+AfterDamageTalent	Every time an attack is received, accumulate {0} <color=#00ffff>{1} %</color>
+CriticalEffect	When Berserk is activated, damage dealt in that hit increases by <color=#00ffff>{0} %</color>.
+ReleaseEffect	Reduce self-damage by <color=#00ffff>{0} %</color> when releasing power.
+ComboEffect	When activating a combo attack, an additional amount of energy is restored: <color=#00ffff>{0}</color> points.
+CounterAttackEffect	Counterattack initiated with a <color=#00ffff>{0}</color> counterstrike against the enemy.
+TrickEffect	When triggered by a feigned attack, the hit target is randomly inflicted with one negative status: <color=#00ffff>{0}</color> points.
+APRecovery	Restore energy
 #异常状态TIP	
-TipTurnLossHp	Loses {0} points of qi per round
-TipTurnLossMp	Loss of internal strength {0} points per round
-TipTurnLossAp	Energy recovery is reduced by {0} points per round
-TipAttackFall	Damage reduction {0}% when attacking
-TipIncreasedDamage	Damage increased by {0}% when attacked
-TipAttackLossHp	Attack causes {0} points of blood loss on attack
-TipBan	{0}Unable to start, cumulative value
-TipZero	{0}Value goes to 0
-TipCramped	Distance traveled per point of energy reduced to {0}%
-TipSealed	max energy reduced to {0} points
-TipFrozen	{0}Decrease of {1} points
-TipDazed	Start of each round {0} % Unable to act
+TipTurnLossHp	Lose <color=#00ffff>{0}</color> points of Qi per turn.
+TipTurnLossMp	Each round lose <color=#00ffff>{0}</color> points of internal strength.
+TipTurnLossAp	Each turn energy recovery is reduced by <color=#00ffff>{0}</color> points.
+TipAttackFall	Damage taken is reduced by <color=#00ffff>{0}</color>% when attacking.
+TipIncreasedDamage	Damage increased by <color=#00ffff>{0}</color>% when attacked.
+TipAttackLossHp	During an attack, it will cause a loss of <color=#00ffff>{0}</color> points of life force for oneself.
+TipBan	{0} cannot be activated, cumulative value
+TipZero	{0}, set the number to <color=#00ffff>0</color>
+TipCramped	Each point of energy moves a distance reduced by {0}%.
+TipSealed	Maximum energy reduced by <color=#00ffff>{0}</color> points.
+TipFrozen	Reduce <color=#00ffff>{1}</color> by {0} points.
+TipDazed	At the start of each turn, <color=#00ffff> {0} % </color> cannot act.
 #按键TIP	
-TipWaiting	Waiting consumes {0} points of energy
-TipChangeSkill	Replacement of shortcuts
-TipOpenInventory	Open Backpack Replacement Weapon Consumption {0} Points Energy Use Item Consumption {1} Points Energy
-TipRest	Conclusion of operations
-TipFinish	End of battle
+TipWaiting	Waiting<br>Consumes {0} points of energy
+TipChangeSkill	Change shortcut
+TipOpenInventory	Open Backpack<br>Switch Weapon Consumes {0} Energy Points<br>Use Item Consumes {1} Energy Points
+TipRest	End action.
+TipFinish	End the fight.
+TipGameMenu	Game Menu
 #战斗讯息	
-MsgBeginBattle	Battle {0} Begin.
-MsgEndBattle	Combat {0} End.
-MsgBeginTurn	Start of {0} Round
-MsgEndTurn	End of {0} Round
-MsgBeginUnit	{0} Commence action.
-MsgEndUnit	{0} End of operation
-MsgCounterAttackNotFound	{0} No Counterattack Skills
-MsgCounterAttack	{0} Use {1} Counterattack
+MsgBeginBattle	Battle begins {0}.
+MsgEndBattle	Battle {0} Ended
+MsgBeginTurn	Begin Round {0}
+MsgEndTurn	Ending the {0} round.
+MsgBeginUnit	{0} begins action.
+MsgEndUnit	{0} concludes the operation.
+MsgCounterAttackNotFound	{0} has no counterattack skill.
+MsgCounterAttack	{0} uses {1} to counterattack.
 MsgCounterAttackFail	Counterattack failed.
-MsgPleaseSelectAvaliableTarget	Please select a valid target.
-MsgUnavaliableBlinkPosition	Unable to flash near this target
-MsgTargetTooFar	Distance {0} Too far.
-MsgUseSkill	{0} Used the {1} skill.
-MsgUnitDead	{0} Death.
-MsgReduceDueTo	{0} Decrease due to {1} {2} {3}
-MsgAddDueTo	{0} due to {1} increase {2} {3}
-MsgAddProp	{0} {1} Increase {2}
-MsgSubProp	{0} {1} Decrease {2}
-MsgUnitDeadDueToInjured	{0} Death from internal injuries
-MsgRaiseComboAttack	{0} Initiate combo,+{1} AP
-MsgUnitDodge	{0} Flashed this attack.
-MsgResetRelease	{0} Unloading to Zero
-MsgReceiveDamage	{0} {2} points of damage to {1}.
-MsgReceiveCriticalDamage	{0} dealt {2} point blast damage to {1}.
-MsgReceiveHeal	{0} Caused {2} point healing to {1}
-MsgResetCounterAttack	{0} Counterattack to zero.
-MsgGainDebuffDueToTrick	{0} Because the virtual move gets a random negative status value.
-MsgGainProperty	{0} Gets status value {1} : {2}
-MsgCurrentProperty	{0} Present {1}:{2}
+MsgPleaseSelectAvaliableTarget	Please choose an effective target.
+MsgUnavaliableBlinkPosition	Unable to flash to near this target.
+MsgTargetTooFar	Too far from {0}.
+MsgUseSkill	{0} used the {1} skill.
+MsgUnitDead	{0} has died.
+MsgReduceDueTo	{0} due to a reduction in {1} {2} {3}
+MsgAddDueTo	{0} due to an increase in {1} {2} {3}
+MsgAddProp	{0} {1} increased <color=#FFFF00>{2}</color>
+MsgSubProp	{0} {1} reduce <color=#FFFF00>{2}</color>
+MsgUnitDeadDueToInjured	{0} died due to internal injury.
+MsgRaiseComboAttack	{0} initiates a combo attack, adding +{1} AP.
+MsgUnitDodge	{0} evaded this attack.
+MsgResetRelease	{0} release tension reset zero
+MsgReceiveDamage	{0} caused {1} <color=#FFFF00>{2}</color> points of damage.
+MsgReceiveCriticalDamage	{0} inflicted a critical hit of <color=#FFFF00>{2}</color> points on {1}.
+MsgReceiveHeal	{0} inflicted a <color=#FFFF00>{2}</color> healing point on {1}.
+MsgResetCounterAttack	{0} counterattack returns to zero.
+MsgGainDebuffDueToTrick	{0} due to an imaginary call received a random negative status effect.
+MsgGainProperty	{0} obtained status value {1}: {2}
+MsgCurrentProperty	Currently at {0}: {1} - {2}
 MsgAPNotEnough	Lack of energy
-MsgMPNotEnough	Insufficient internal strength
+MsgMPNotEnough	Insufficient internal energy.
 MsgLaunch	{0}
-MsgHaveNot	{0} None {1}
+MsgHaveNot	{0} with no {1}
 #结局00	
-Final00_00	Fantasy Bubble
-Final00_01	With the matter-of-fact voice of the announcer,
-Final00_02	The big, cold screen is like a diversionary pastime between major news stories,
-Final00_03	has been temporarily interrupting the broadcast of your disappearance,
-Final00_04	No one knows that you have passed away in some distant world.
-Final00_05	Even if your friends and family are running around...,
-Final00_06	I've been searching for years, but I still haven't heard from you.
-Final00_07	As the sun and moon fly by, the stars change,
-Final00_08	Eventually, inevitably, people slowly forget you existed,
-Final00_09	All that's left is maybe the mention of your name,
-Final00_10	A sigh of relief
+Final00_00	A dream within a bubble.
+Final00_01	Accompanied by the broadcaster's indifferent tone,
+Final00_02	The cold large screen seemed like a diversion between important news broadcasts.
+Final00_03	An interruption was made to air your missing person report.
+Final00_04	No one knows you disappeared into a distant world.
+Final00_05	Even if your relatives and friends run around in every direction,
+Final00_06	Despite searching for years, I still have no news of you.
+Final00_07	Days fly like an arrow and nights pass swiftly; time changes and stars move on.
+Final00_08	Inevitably, people gradually forgot your existence.
+Final00_09	What remains is perhaps only when your name is mentioned.
+Final00_10	A soft sigh was let out.
 #结局01	
-Final01_00	The arrow returns to the heart.
-Final01_01	As in the end of every good story, good things come to those who do good, and evil things come to those who do evil,
-Final01_02	Even if, as is customary, the malice that comes to you at the end from the shadows,
-Final01_03	Nor will it deter you from returning home.
-Final01_04	This journey has been an unexpected interlude for you,
-Final01_05	But it will be a warning to you in the future,
-Final01_06	The consequences of giving up the life that is before you,
-Final01_07	What the end will be.
-Final01_08	You shake your head and cast away the heavy thoughts,
-Final01_09	To your friends who have fought with you on this journey,
+Final01_00	Like an arrow returning to its heart.
+Final01_01	As in every good story's ending, good deeds are rewarded with goodness, and evil deeds are punished with evil.
+Final01_02	Even according to custom, in the end, from behind, there was a gesture of malice extended towards you.
+Final01_03	It cannot stop your determination to go home.
+Final01_04	This journey may be an unexpected interlude for you.
+Final01_05	But it will rouse you in future moments.
+Final01_06	Grumbling against heaven and blaming others, the consequence is giving up on one's current life.
+Final01_07	That will be how it ultimately is.
+Final01_08	You shook your head and put aside the heavy thoughts.
+Final01_09	Facing your comrades who have fought alongside you on this journey,
 Final01_10	Smile and wave goodbye.
-Final01_11	Although the city of brocade is happy, it is better to return home early.
-Final01_12	With a hint of excitement, but also with anxiety,
-Final01_13	You step once again through the doors of the Temple that are both familiar and strange.
-Final01_14	This time ahead awaits you,
-Final01_15	would be a warm home,
-Final01_16	Or will it be another new adventure?
+Final01_11	The city of Jin is said to be happy, but it's better to return home early.
+Final01_12	With a mix of excitement and apprehension in their heart,
+Final01_13	You again stepped into that temple door which was both familiar and unfamiliar.
+Final01_14	This time awaiting you at the front is,
+Final01_15	It will be a warm home.
+Final01_16	Or perhaps it will be another new adventure?
 #结局 02	
-Final02_00	Heart of the White Head
-Final02_01	You woke up with a slap the one before you who was cowering in illusion,
-Final02_02	The old man who is constantly running away from reality.
-Final02_03	The illusory beauty he sought could not free him from his miserable reality,
-Final02_04	That is the future to which you refuse to submit,
-Final02_05	It's also a mirror that you can't let go of.
-Final02_06	Life exists beautifully ,
-Final02_07	But it will never come before people who give up lightly.
-Final02_08	There is only one thing you have to do,
-Final02_09	is to bring back the old man before you,
-Final02_10	To renew each other's determination to strive for a better life.
-Final02_11	Returning home, no matter how bitter the reality may be,
-Final02_12	You will all move forward boldly and write your own lives!
-Final02_13	Who says that life is no less?
-Final02_14	Flowing water in front of the gate can still be west! Hugh will sing the yellow chicken with white hair.
+Final02_00	The heart of lifelong devotion.
+Final02_01	You knocked him awake with one palm, who had been cowering in the illusion.
+Final02_02	The old man who constantly avoids reality.
+Final02_03	His pursuit of illusory happiness could not free him from the wretched reality.
+Final02_04	That is your future if you refuse to submit.
+Final02_05	It is also a mirror that you cannot let go of.
+Final02_06	There is beauty in life,
+Final02_07	But it will never appear before those who do not easily give up.
+Final02_08	The thing you have to do is only one:
+Final02_09	It's about bringing back the old man in front of you.
+Final02_10	Rekindle our determination to strive together for a beautiful life.
+Final02_11	After returning home, no matter how bitter reality may be,
+Final02_12	All of you will move bravely forward and write your own life story!
+Final02_13	Who says life has no second chances?
+Final02_14	The flowing water in front of the gate still flows west! Do not sing about white hair while singing about yellow chicks.
 #结局 03	
-Final03_00	Seeing the nature and clarifying the heart
-Final03_01	The heavenly books are united and invincible,
-Final03_02	In the blink of an eye, all of Shu's masters were defeated by you two.
-Final03_03	You sweep coldly across the ground, sweeping over your friends who were on the same side as you,
-Final03_04	A scattered body,
-Final03_05	It is all about the foolishness of the past that speaks to you.
-Final03_06	It is "you" who tell yourself ,
-Final03_07	Should no longer be limited by foolish benevolence,
-Final03_08	Let the power that is in your hands slip away from you.
-Final03_09	Look back at the strange yet familiar "you" and smile at each other,
-Final03_10	In the future, you two will walk hand in hand,
-Final03_11	Create the ideal future that belongs only to "you".
-Final03_12	In that split second, you are more certain that you have chosen the right path.
-Final03_13	Exactly: The tide comes in on the Qiantang River, and today you know I am me!
+Final03_00	Perceiving nature and illuminating the heart.
+Final03_01	Unanimous in spirit as described in the Heavens' Book; unstoppable wherever they go.
+Final03_02	However, in an instant, all the skilled martial artists from Shu were defeated by you two.
+Final03_03	You scanned those friends on the ground who once stood with you in the same ranks.
+Final03_04	A collection of bodies in tatters,
+Final03_05	All of them were telling you about their past foolishness.
+Final03_06	It is you who told yourself.
+Final03_07	One should not be restricted by foolish benevolence, righteousness, and morality anymore.
+Final03_08	The power that was in your grasp vanished before your eyes.
+Final03_09	Looking back at you, who feels both unfamiliar yet familiar, we share a smile with each other.
+Final03_10	Hereafter, you two shall walk together.
+Final03_11	Create your ideal future that is uniquely yours.
+Final03_12	At that moment, you became even more certain that you had chosen the right path.
+Final03_13	Indeed: The tidal signal comes from Qiantang River; today I finally know that I am myself!
 #结局 04	
-Final04_00	Wolf's Ambition.
-Final04_01	As the saying goes, "Nine words awaken the wayward, but one word awakens the dreamer.
-Final04_02	The "you" who was lying in the pool of blood did say one thing correctly,
+Final04_00	Ambition of a Wolf Cub
+Final04_01	The saying goes: Nine words awaken those lost on the path of officialdom; one word awakens people in their dreams.
+Final04_02	That one lying in the pool of blood, you, did indeed say something right.
 Final04_03	Power should not be wasted in vain.
-Final04_04	And that is why it should most certainly be used to take more power.
-Final04_05	If the so-called future is so ugly, why not let it be forgotten?
-Final04_06	Look at this sea of broken spears and broken corpses,
-Final04_07	This is the power you have to transform the world.
-Final04_08	You will use this power to transform the unreal into a new future,
-Final04_09	No one will be able to stop your desires and intentions.
-Final04_10	That ideal land that lurks in your heart ,
-Final04_11	It is already within reach!
+Final04_04	Precisely because of this, it should be used to seize even greater power.
+Final04_05	So-called future is so ugly; why not just let it be forgotten?
+Final04_06	Seeing this pile of broken spears and swords, mountains of corpses, and seas of blood,
+Final04_07	This is your power to change the world.
+Final04_08	You will use this power to transform illusion into a brand-new future.
+Final04_09	No one can stop your desire and ambition.
+Final04_10	That ideal realm hidden within your heart,
+Final04_11	It is already so close that it can be easily attained with a snap of the fingers!
 #结局 05	
-Final05_00	The foothills of the Cang Mountain
-Final05_01	The righteous army formed by Duan Si Ping and the clans of Nanzhao,
-Final05_02	All the way to the capital of Nanzhao, Er City,
-Final05_03	Yang Tianyi fled the country without knowing where he was going.
-Final05_04	Then Duan Si Ping became the emperor and founded the Dali state,
-Final05_05	Working to improve the lives of the Nanzhao clans,
-Final05_06	It created a powerful nation based in southern Yunnan for centuries to come.
-Final05_07	As a tribute to Zen Master Jinding's legacy,
-Final05_08	Duan Si Ping built the Tian Long Temple in the city, and ordered his descendants to worship it for generations.
-Final05_09	Hearing the sad news of He Bai Shao's death,
-Final05_10	He Yudie recognizes the mistakes she made in the past,
-Final05_11	It was decided to delegate the authority and heavy responsibility of leading the turnip clan to several turnip clansmen.
-Final05_12	In addition to being the incoming head of the turnip clan, Hetero,
-Final05_13	Finally, she also had the right to pursue freedom.
-Final05_14	During her leadership, the turnip was the mainstay of support for the Dali state,
-Final05_15	Continuously prosperous, they are marching towards a glorious future together with the Dali kingdom.
-Final05_16	The two of them viewed this hard-won achievement from the mountains,
-Final05_17	Thinking of the heavenly visitor who played an important role in the journey,
-Final05_18	Guessing where he would be today?
-Final05_19	Will there ever be a day when we will be together again, cutting the candles at the western window?
+Final05_00	Foot of Azure Mountain
+Final05_01	Duan Siping and the allied forces of Nanzhao tribes formed a righteous army.
+Final05_02	Unstoppable on their journey, they breached the capital of Nanzhao in Ercheng.
+Final05_03	Yang Tianyi fled in confusion, his fate unknown.
+Final05_04	Then, Deng Ji became emperor and founded the Dali Kingdom.
+Final05_05	Dedicated to improving the lives of the various tribes of Nanzhao.
+Final05_06	Founded a strong nation in Sichuan that would endure for several hundred years.
+Final05_07	In gratitude for Master Jin Ding's transmission of kung fu skills,
+Final05_08	Duan Siping built the Tianlong Temple in the city and ordered his descendants of the Duan family to worship it for generations.
+Final05_09	I have heard of the dire news concerning He Baishe's death.
+Final05_10	He Yudie acknowledges the mistakes she made in the past.
+Final05_11	The decision has been made to delegate the power and responsibility of leading the Cengzhai community to several members of the Cengzhai ethnic group.
+Final05_12	He Ziwu, in addition to being the successor to the tribal chief,
+Final05_13	At last, we also have the power to pursue freedom.
+Final05_14	During her leadership period, Jingzhai served as a keystone supporting the Dali Kingdom.
+Final05_15	Sustained prosperity and flourishing, moving towards a glorious future together with the Dali Kingdom.
+Final05_16	The two of them looked out over this hard-earned achievement from afar on the vast mountains.
+Final05_17	Reflecting on that outsider who played an important role during the journey,
+Final05_18	Speculating on where he might be now.
+Final05_19	Will there be another day when we can share a desk and reminisce about the past by trimming candles at our western window?
 #结局 06	
-Final06_00	White Horse Idle Motion
-Final06_01	The troubled world is still troubled, but the people of Whitehorse House seem to be unaware of it,
-Final06_02	Laughing and toiling, sunrise and sunset.
-Final06_03	Even Qi Xiaoyi was terrified when she left the school,
-Final06_04	In the daytime, she seems stubborn, but in the night, she feels sad.
-Final06_05	Fortunately, Li Qi took good care of her and brought her to the world.
-Final06_06	The two of them also stole a letter back from the Dotsang Master and left it behind,
-Final06_07	Kneel down and ask your master not to miss you.
-Final06_08	Finally, he returned to Whitehorse and settled down to be married for the rest of his life.
+Final06_00	Bai Ma Xian Qing
+Final06_01	The chaotic world remains as such, yet the people of Baima seem unaffected by it.
+Final06_02	Laughing and working hard, from sunrise to sunset.
+Final06_03	Qi Xiaor suddenly left his martial arts school and was initially at a loss as well.
+Final06_04	By day she seems stubborn; by night she silently mourns.
+Final06_05	Fortunately, Li Tan took good care of her, traveling the world with Zhu Xia'er.
+Final06_06	The two also once secretly returned some letters left by the Pointed Sword Sect.
+Final06_07	Please do not reproach or hold a grudge against me, Master.
+Final06_08	Finally returning to White Horse Village, they settled down and married, spending their lives together.
 #结局 07	
-Final07_00	the eagle of the snowy mountains
-Final07_01	Although Kifu has suffered a devastating coup d'état and has lost many lives,
-Final07_02	But as a result of this, they became more united, and there was no longer any factional strife.
-Final07_03	Kifu, led by Kimchu,
-Final07_04	Bringing a period of peace and tranquility to the town of Daein.
-Final07_05	And Adeak, not forgetting his ideals, after settling the settlement,
-Final07_06	Then he took a boat, crossed to Osawa, and went eastward.
-Final07_07	A few years later, the rumor in the town of Daeyeon went like this.
-Final07_08	In the far east of the martial arts world, a foreign traveler with an eagle appeared,
-Final07_09	With his superb archery skills, he vanquished the bandits and pacified the troubles.
-Final07_10	The name of "The Eagle of Snow Mountain" quickly spread throughout the martial arts world.
-Final07_11	After a long journey, the weather-beaten Adeok finally returned,
-Final07_12	He was warmly received by the townspeople.
-Final07_13	He taught the townspeople and the guards the art of taming eagles,
-Final07_14	The town of Daeyeon has become a beautiful town where Confucianism and the tradition of falconry are blended.
-Final07_15	In the future, every time he came to Mukwe's grave, Adeok couldn't help but think of the following,
-Final07_16	The visitor from heaven who fought with us,
-Final07_17	And where are we now?
-Final07_18	We may never see each other again, but the journey we have been on together,
-Final07_19	But Adeac has not forgotten.
+Final07_00	Snow Mountain Divine Eagle
+Final07_01	The Mufu, despite having suffered a catastrophic coup that resulted in the loss of many lives,
+Final07_02	However, this made them more united, with no factional disputes any longer.
+Final07_03	The Wood Clan led by Master Wumu.
+Final07_04	Bringing a period of peace and stability to Daxian Town.
+Final07_05	Ade Akezze does not forget his ideals after settling the village.
+Final07_06	Boarding a boat, crossing the large marsh, and setting off eastward on travels.
+Final07_07	Several years later, rumors began circulating in Daxian Town:
+Final07_08	In a distant Eastern martial world, there appeared a traveler from afar accompanied by an eagle.
+Final07_09	With exceptional archery skills, eradicate the bandits' hideout and restore peace to the turmoil.
+Final07_10	The name Snow Mountain Divine Eagle quickly spread throughout the martial world.
+Final07_11	After many colds and heats, enduring the frost and wind, A De A Ke finally returns from his long journey.
+Final07_12	Elected with enthusiastic support from all the town's citizens.
+Final07_13	He passed on his falconry skills to the townspeople and guardsmen.
+Final07_14	Dayantian has become a beautiful town where the traditions of Confucianism and falconry blend.
+Final07_15	In the future, every time they came to Mokuqi's tomb, A Dee A Ke was always unable to help but reminisce.
+Final07_16	That once companion-in-arms, an outsider from beyond the heavens,
+Final07_17	Now where have we arrived?
+Final07_18	Perhaps there will be no more days when we meet again in the future, but the journey we have experienced together,
+Final07_19	Ade Akue has never forgotten.
 #结局 08	
-Final08_00	The song ends with Sonja.
-Final08_01	The world rises and falls, but the Pavilion of Beauty and Dreams always manages to float between the various forces,
-Final08_02	Fan Xiangdie carried her sisters through time and time again through difficulties and covetousness,
+Final08_00	The melody ends with a beautiful tune.
+Final08_01	Rise and fall in the martial world, yet Quao Meng Ge always deftly navigates among various factions.
+Final08_02	Fan Xiangdie led her sisters through one ordeal after another, facing the covetous eyes of various parties.
 Final08_03	and with the financial support of Su Qingrui,
-Final08_04	Further expanding the scope of intelligence to the whole of Saicheon.
-Final08_05	Su Qingrui, after the Jing Tai Ran incident,
-Final08_06	Reviving the Soviet Union after a long and painful hiatus,
-Final08_07	and to gather together the wise and the talented to manage their forces,
-Final08_08	Relying on the intelligence network of the Pavilion of Dreams,
-Final08_09	Mobilization of men and horses in support of the righteousness of the parties in Sichon,
-Final08_10	At last it became a matter of mention in the rivers and lakes,
-Final08_11	Then everyone gave the thumbs up and shouted for the little Mon-tan and the great warrior Su.
+Final08_04	Further expand the scope of intelligence to cover all Xichuan.
+Final08_05	Su Qingrui, after going through the Jingtairen incident,
+Final08_06	After reflecting deeply on past sorrows, revitalize the Su family estate again.
+Final08_07	And widely accept virtuous talents, diligently manage power.
+Final08_08	Relying on the Qiaomeng Ge intelligence network,
+Final08_09	Mobilize forces to support all righteous parties in Xichuan.
+Final08_10	Finally becoming renowned in the martial arts world upon mention,
+Final08_11	The modest Xiao Mengchang and the great martial artist Su Dashixia were applauded by everyone with a resounding cheer.
 #结局 09	
-Final09_00	Moving like a merchant.
-Final09_01	After the tragedy at the Academy of Idleness, the collection of books in the Academy was destroyed,
-Final09_02	Countless precious martial arts secrets have been lost.
-Final09_03	But without the secret provocation of the Imperial Guard,
-Final09_04	At last, the bloodshed in the world of Jianghu is a bit less.
-Final09_05	A few months later, a mysterious swordswoman was born,
-Final09_06	This swordswoman walks alone, all the way north,
-Final09_07	No one in the world can match her skill with a sword.
-Final09_08	Whenever asked about the purpose of her journey,
-Final09_09	She just laughed and didn't say anything.
-Final09_10	But just as she was reaching the pinnacle of fame ..,
-Final09_11	But she disappeared beyond the Great Wall, never to be seen again.
-Final09_12	Decades later, the name is still heard in the jianghu as if born like a meteor,
-Final09_13	The story of the swordswoman who also disappeared like a meteor.
-Final09_14	Looking out over the vast meadow where her mother was born,
-Final09_15	Yan Yushu has finally fulfilled a wish of her heart.
-Final09_16	Next, she wanted to see the world,
-Final09_17	Somewhere, perhaps, there will be another door to the Holy Temple,
-Final09_18	able to lead to the place where he is.
+Final09_00	Moving like the stars of Ursa Major and Minor.
+Final09_01	After the disastrous incident at Fu Xian Academy, all the books in the academy were destroyed overnight.
+Final09_02	Countless precious martial arts manuals were thus lost.
+Final09_03	But without the secret incitement of the Imperial Bodyguard,
+Final09_04	The slaughter in the martial world has finally diminished a little.
+Final09_05	Several months later, a mysterious female swordsman with exquisite swordsmanship appeared suddenly in the world.
+Final09_06	This female swordsman walked alone in a solitary manner, heading north.
+Final09_07	A sword technique refined to perfection, unmatched by anyone in the world.
+Final09_08	Every time someone asked her about the purpose of her journey,
+Final09_09	She just smiled and said nothing.
+Final09_10	But just as her fame reached its peak at that moment,
+Final09_11	She disappeared beyond the Great Wall and never appeared again.
+Final09_12	Decades later, the martial world still recounted tales of the man who rose like a meteor.
+Final09_13	The story of a woman swordsman who vanished like a meteor.
+Final09_14	Gazing at the vast grasslands where his mother was born,
+Final09_15	Yan Yushu has finally fulfilled a wish that had been on his mind.
+Final09_16	Next, she wanted to see this world,
+Final09_17	Perhaps in some place, there might be another gate of the sacred hall,
+Final09_18	It can lead to where he is located.
 #结局 10	
-Final10_00	The moon is setting and the stars are sinking
-Final10_01	After the storm over the Book of Heaven ,
-Final10_02	Yan Yushu and Dongfang Chi quietly left the Free Academy.
-Final10_03	Emperor Zhu Yuan Juan had sent his men to search for them, but they always found nothing.
-Final10_04	A few months later, a mysterious swordswoman was born,
-Final10_05	This swordswoman walked alone, heading north,
-Final10_06	With a sword that is unparalleled in the world.
-Final10_07	Whenever asked about the purpose of her journey,
-Final10_08	She just laughed and didn't say anything.
-Final10_09	But just as she was reaching the pinnacle of fame ..,
-Final10_10	But she disappeared beyond the Great Wall, never to be seen again.
-Final10_11	Decades later, rumors still circulated that the name was born like a meteor,
-Final10_12	The story of the swordswoman who also disappeared like a meteor.
-Final10_13	Looking out over the vast meadow where her mother was born,
-Final10_14	Yan Yushu has finally fulfilled a wish of her heart.
-Final10_15	Now, there is only one thought left in her mind.
-Final10_16	In the next life, will there be a day to meet again?
+Final10_00	Moon sets, stars fade.
+Final10_01	After the turmoil over the quest for the Heavenly Scriptures ended,
+Final10_02	Yan Yushu and Dongfang Chi quietly left the Fu Xian Academy.
+Final10_03	Emperor Zhu Yuanzhang sent people to search but always found nothing.
+Final10_04	Several months later, a mysterious woman swordsman renowned for her unique sword skills suddenly emerged.
+Final10_05	This female swordsman walks alone, heading north.
+Final10_06	Martial skills with unparalleled finesse in swordsmanship that no one in the world can rival.
+Final10_07	Every time someone asked her about the purpose of her journey,
+Final10_08	She only smiled and said nothing.
+Final10_09	But just as her fame reached its peak at that moment,
+Final10_10	She vanished beyond the Great Wall and was never seen again.
+Final10_11	Several decades later, the stories of that name, which appeared like a shooting star, continued to circulate in the martial world.
+Final10_12	The story of the female swordsman who vanished like a meteor.
+Final10_13	Gazing at the vast grasslands where my mother was born,
+Final10_14	Yan Yushu finally fulfilled a long-held desire in his heart.
+Final10_15	Now, only one thought remains in her mind.
+Final10_16	In the next life, will there be a day when we can meet again?
 #结局 11	
-Final11_00	Leaning on the saddle, thinking of the steed
-Final11_01	For the death of Wo Wang Yuan, Wo Yu Qing blamed herself very much,
-Final11_02	And so she has put away her old rude ways,
-Final11_03	Leading the Harvest horses,
-Final11_04	Over and over again, they have fought against the encroachment of poor mountains and mountain bandits.
-Final11_05	Although the Harvest Horse Gang was no longer unique ,
-Final11_06	But Wo Yu Ching with his superb swordsmanship and toughness of character,
-Final11_07	Remains the most revered Horse Potter in the Tiannan martial arts world.
-Final11_08	Wo Yuqing has always regarded it as his duty to protect the Wo Family Horse Clan,
-Final11_09	Yet the older gangs used to say this from time to time,
-Final11_10	"Iku is not the same Iku anymore.
-Final11_11	The young gangster never knew what that meant ,
-Final11_12	Perhaps even Wo Yuqing herself didn't know.
-Final11_13	Her deep eyes shone with loneliness ,
-Final11_14	Because the responsibility is too heavy on their shoulders? Guilt over your father's death?
-Final11_15	Or perhaps, deep down, there were other desires hidden in her heart?
+Final11_00	Resting on a saddle, contemplating the horse.
+Final11_01	For He Hongyuan's death, He Yuqing was extremely self-reproachful.
+Final11_02	Therefore, she also gave up her previous stubbornness and capriciousness.
+Final11_03	Leading the Hu Family Horse Gang,
+Final11_04	Time and again, they faced off against the harsh mountains and waters as well as the bandit raids.
+Final11_05	Although the Hu family Ma faction is no longer unrivaled.
+Final11_06	But Hu Yuqing, relying on his masterful swordsmanship and indomitable spirit,
+Final11_07	Still revered as one of the most respected martial figures in Tianshannan Wulin, the Mad Cook.
+Final11_08	Hu Yiqing has always regarded protecting Hu Family's Ma Gang as his own responsibility.
+Final11_09	However, the older generation of gangsters would often say such things.
+Final11_10	Ayui is no longer the same Ayui as before.
+Final11_11	The young gang members never understood what this meant.
+Final11_12	Perhaps even Huo Yue Qing himself does not know.
+Final11_13	Her deep eyes flickered with a sense of loneliness.
+Final11_14	Is it because the responsibility on your shoulders is too heavy? Do you feel guilty about your father's death?
+Final11_15	Or perhaps, deep within her heart, there are still other desires hidden?
 #结局 12	
-Final12_00	Shadow of the Day by Day
-Final12_01	Huang Shang did her best,
-Final12_02	And still it was not possible to stop the guest of God who had let the scourge go,
-Final12_03	He could only watch as he entered the gates of the Temple,
-Final12_04	Disappears into the void.
-Final12_05	Rehabilitate yourself? Atonement?
-Final12_06	The hypocritical words that were spewed out in that arrogant, chivalrous heavenly visitor,
-Final12_07	While trampling on the dignity of his dead wife and children,
-Final12_08	And he became one of Huang Shang's enemies.
-Final12_09	Day after day, year after year,
-Final12_10	No matter how hard the He Luo clan tried to persuade him, he never softened in the slightest,
-Final12_11	He killed all the remnants of the Unforgiving House,
-Final12_12	Set out in pursuit of the Holy Temple, which has long since been moved from its place of manifestation.
-Final12_13	Wherever the visitor from heaven has fled,
-Final12_14	For the grievances of his dead wife and children,
-Final12_15	And for the fire of his unquenchable vengeance,
-Final12_16	As long as he lives,
-Final12_17	It will be as quick as a shadow, after killing.
+Final12_00	The shadow that follows every day.
+Final12_01	Huang Shang exerted every effort,
+Final12_02	Still unable to stop that interloper from letting the villain run free,
+Final12_03	He could only watch helplessly as he entered the sacred temple gate.
+Final12_04	Vanish into thin air.
+Final12_05	Reform oneself? Make amends through good deeds?
+Final12_06	When that conceited righteous outsider spat out those hypocritical words,
+Final12_07	Trampling upon the dignity of his deceased wife and children at the same time,
+Final12_08	He also became one of Huang Shang's enemies.
+Final12_09	Day by day, year after year,
+Final12_10	No matter how much the Huo clan tried to guide him, he never showed any softening at all.
+Final12_11	He exterminated all the remnants of those who had no mercy in that year.
+Final12_12	Begin the pursuit of the sanctuary that has already moved to a different location.
+Final12_13	No matter where that nameless stranger from beyond the stars flees to,
+Final12_14	To avenge his late wife and children's suffering,
+Final12_15	Also because of his inextinguishable fire of vengeance,
+Final12_16	As long as he is still alive.
+Final12_17	It will shadow you like an echo; kill swiftly thereafter.
 #结局 13	
-Final13_00	cure the world of diseases
-Final13_01	Cheng Yanhua and Du Jinpeng are no longer in love,
-Final13_02	With his daughter, he hid himself in a hut of flowers,
-Final13_03	Help Chen Zhiji heal the poor.
-Final13_04	Not willing to make any more waves,
-Final13_05	Thus the external affairs were left to the sole responsibility of Chen Zhiji,
-Final13_06	As time passes, the name of Lady Cheng fades from the world's attention.
-Final13_07	Crimson is smart and studious, and learns the art of medicine and poisoning from Chen Zhiji,
-Final13_08	Having ten per cent more understanding than his mother,
-Final13_09	and succeeded Chen Zhiji after his death,
-Final13_10	Become the new generation of Medicine King's successor.
-Final13_11	After this battle, Shi Hongtu temporarily disappeared from the world,
-Final13_12	Wait for the right time to do it again.
+Final13_00	The World's Savior and Great Healer of Medicine
+Final13_01	Cheng Yanhua and Du Jinpeng have severed their ties of gratitude and obligation.
+Final13_02	Retiring with his daughter to a sheltered garden plot of flowers and plants.
+Final13_03	Help Doctor Chen Zhiji treat poor villagers.
+Final13_04	However, Yan Hua's heart is like still water, unwilling to create any waves again.
+Final13_05	Therefore, external matters were taken on by Chen Zhiji alone.
+Final13_06	After a while, Master Cheng's reputation gradually faded from public view.
+Final13_07	Vivi is intelligent and eager to learn, studying the art of medical poisons under Chen Zhiji.
+Final13_08	Comprehension surpasses his mother by tenfold.
+Final13_09	And after Chen Zhiji's passing, succeeded him in his mantle.
+Final13_10	To become a successor of the new generation of Emperor of Medicine.
+Final13_11	Shi Hongtu has temporarily gone into hiding in the wilderness after this battle.
+Final13_12	Wait for an appropriate opportunity before striking again.
 #结局 14	
-Final14_00	Spicy hand, poisonous heart.
-Final14_01	In the end, Cheng Yanhua was killed by Feng Qiuxiang's secret plan.
-Final14_02	Du Jinpeng's grief and hatred are unbearable, but he does not dare to say anything,
-Final14_03	Take out your anger on the Tibetan flower and grass shed.
-Final14_04	Shi Hongtu has never been able to find the Pill King Divine Chapter,
-Final14_05	The poison king's name is now known as the Poison King as his temperament becomes more violent.
-Final14_06	However, after the death of his mother, Du Yuzhi inherited the Pill King's Divine Chapter,
-Final14_07	endured two years of humiliation, and finally poisoned and killed the entire Du family.
+Final14_00	Cruel hands, venomous heart.
+Final14_01	Under Feng Qiu Xiang's secret operations, Cheng Yan Hua was ultimately killed by the Du family.
+Final14_02	Du Jinpeng was filled with sorrow and resentment, yet dared not utter a word.
+Final14_03	Vent his anger all at once on the flower and grass shed.
+Final14_04	Shi Hongtu has always been unable to find the Shen Pian of the Yaowang.
+Final14_05	His temperament became increasingly cruel, and his reputation as The Poison King spread like wildfire.
+Final14_06	Duo Yu Fei inherited the Sacred Volume of the King of Medicine after his mother passed away.
+Final14_07	Endured humiliation for two years, finally succeeded in poisoning and killing all of the Du family members.
 Final14_08	Ten years later,
-Final14_09	In the place of the former Tibetan flower and straw shed a small field of flowers was added,
-Final14_10	The name of the Medicine King rises again.
+Final14_09	The area of the shed for flowers and plants increased by an additional acre of small flower garden.
+Final14_10	The name of the King of Medicine has risen again.
 #结局 15	
-Final15_00	Recreating the Heavenly Family
-Final15_01	Looking back, Situ Jing had a rough life,
-Final15_02	He was oppressed when he entered the palace at an early age,
-Final15_03	After being expelled from the palace, he was despised for being a eunuch.
-Final15_04	He practices poisonous kung fu, and spends all his time thinking about revenge, resenting that he has no peace.
-Final15_05	After the winery's assault,
-Final15_06	After a bitter recollection, he leaves Yoon Soo at the winery and leaves.
-Final15_07	Master Chen, the richest man in his life, saw Rongxiu's intelligence and kindness,
-Final15_08	After understanding that her grandson, Chan Chi Kee, has no intention to inherit the winery as he wants to travel around the world,
-Final15_09	Passing on all the skills of brewing to Rong Xiu,
-Final15_10	And on the day of his death, he made it a rule that the estate should be passed on to his wise men and not to his family,
-Final15_11	Breaking the rule that the wealth of a lifetime should be held by the sons of Chen,
-Final15_12	Passing the estate to Yann Rongxiu to inherit.
-Final15_13	When Rongxiu became an adult, she searched several times,
-Final15_14	Finally found the hidden Situ Jing,
-Final15_15	To take them to the outskirts of the estate and settle them there,
-Final15_16	And to be at peace every day, and to be filial to your side, and to enjoy your days.
+Final15_00	Recreating family bliss
+Final15_01	Looking back at the past, Si Tu Jing's life was full of hardships.
+Final15_02	Young, entered the palace and suffered much oppression,
+Final15_03	After being expelled from the palace, he also suffered contempt due to his status as an eunuch.
+Final15_04	Diligently practiced in toxic techniques, day and night fixated on revenge, with not a single moment of peace due to resentment.
+Final15_05	After experiencing a head-on reprimand at the winery,
+Final15_06	Grievous in hindsight, he left a small portion of wine at the winery before departing with Xiao Rongxiao.
+Final15_07	The illustrious Chen Elderly Gentleman sees that Rong Xiu is intelligent and kind.
+Final15_08	Understanding that his grandson Chen Zhiqi is inclined towards travel with no intention of inheriting the winery,
+Final15_09	To impart all brewing skills to Rong Xiu.
+Final15_10	And on the day of their passing, established the rule: the winery is passed down based on merit, not family lineage.
+Final15_11	Breaking the age-old rule that only sons of the Chen family held wealth and status.
+Final15_12	Pass on the winery to Yan Rongxiu as heir.
+Final15_13	Rong Xiucheng, after reaching adulthood, sought her several times.
+Final15_14	Finally found recluse Situ Jing,
+Final15_15	Settle near the winery in its vicinity.
+Final15_16	Every day I pay my respects and dutifully serve by your side, cherishing life with you through the years.
 #结局 16	
-Final16_00	Never to return.
-Final16_01	Situ Jing wandered the world with Yan Rongxiu,
-Final16_02	And he passed on all his evil martial arts skills to Rong Xiu,
-Final16_03	The assassins who were involved in the killing of Yan Baochuan were found one by one,
-Final16_04	And use the Corpse Snake Poison Blood Kung Fu to kill.
-Final16_05	Yan Rongxiu became a master of the evil ways,
-Final16_06	Burning, killing, and looting, everyone in the triads is horrified by the news.
-Final16_07	Looking back, Situ Jing had a rough life,
-Final16_08	He was oppressed at an early age when he entered the palace, and then humiliated as a eunuch when he was expelled from the palace,
-Final16_09	Having learned the evil sect's kung fu, he is always thinking of revenge,
-Final16_10	Hate that no day of peace,
-Final16_11	In the eagerness of youth to practice,
-Final16_12	And the practice of the serpent's venomous blood Kung Fu through unorthodox means,
-Final16_13	Ultimately, his power was reversed and he died with a festering internal organ,
-Final16_14	After groaning seventy-seven and forty-nine days,
-Final16_15	The gas was cut off from a house in a back alley in Xichuan.
+Final16_00	Irrecoverably lost or destroyed; beyond redemption.
+Final16_01	Stuart Jing leads Yan Rongxiu across the world.
+Final16_02	And transmit all your sect's martial arts skills entirely to Rou Xiu.
+Final16_03	The hitmen who participated in the assassination of Yan Baochuan were one by one identified years ago.
+Final16_04	And with Corpse Serpent Venom Skill, subject them to Lingchi torture and cruelty.
+Final16_05	Yan Rongxiu, having been immersed in such an environment from a young age, became an expert in the way of evil upon reaching adulthood.
+Final16_06	Burn, kill, abduct, and plunder—upon hearing these words, people throughout the Jianghu turn pale with fear.
+Final16_07	Reflecting on the past, Shi Tu Jing's life was full of hardships,
+Final16_08	As a young person entering the palace, they suffered humiliation and oppression. After being expelled from the palace, they also endured great disgrace due to being castrated.
+Final16_09	After learning a forbidden martial art technique, he spent his days plotting revenge.
+Final16_10	Unable to find peace even for a single day.
+Final16_11	Because I was eager to train when I was young,
+Final16_12	However, using cunning side-door methods, he forcefully practiced the Corpse Serpent Poison Blood Skill.
+Final16_13	Ultimately met with backlash from the martial arts technique, dying with their internal organs rotted away.
+Final16_14	After groaning for seventy-nine days,
+Final16_15	He died in a secluded alley near Xishui Village.
 #结局 17	
-Final17_00	Dao Danxin.
-Final17_01	Under the turmoil caused by Zhan Yinfei,
-Final17_02	Wang Che saw righteous brother Li Yanxian, righteous sister Bai Lushang
-Final17_03	Both died in order to stop the unforgiving house.
-Final17_04	In the midst of his grief, he resolved to carry on his brother's legacy,
-Final17_05	A lifetime of defending the country from foreign invasion.
-Final17_06	After ascending to the top of Sorrento, Wang Zhe took over the position of the stronghold,
-Final17_07	Leading the Sorrento Fortress against the wolf barbarians.
-Final17_08	While leading an army on a trek,
-Final17_09	Several times Wang Che met the Taoist Pure Yangzi, whom he met in Wolong Village,
-Final17_10	In every encounter, the pure yangzi will be there to give guidance,
-Final17_11	Guide Wang Zhe to understand the profound meaning of Taoism in "Tai Qing Di Gang Qi",
-Final17_12	Wang Che is highly qualified in both martial arts and Taoism,
-Final17_13	Although he is concerned about the affairs of his country, and has devoted himself to the army, when he is nearing the end of his life,
-Final17_14	And still, I have understood the most profound knowledge of the "Tai Ching Dipper",
-Final17_15	A few years later, he founded the Jeonjin sect, creating an unparalleled martial art,
-Final17_16	Known to the world as "Chrysostom".
-Final17_17	However, every time he hears of an invading enemy,
-Final17_18	Wang Zhe always remembered the words of his elder brother before his death,
-Final17_19	I recall my brother's magnanimity in defending the country and putting his own life at risk.
+Final17_00	Great Way, Sincere Heart
+Final17_01	Amidst the turmoil caused by Zhan Yinfei's uprising,
+Final17_02	Wang Zhe saw his sworn brother Li Yanxian and his sworn sister Bai Lushuang.
+Final17_03	In order to prevent an unforgivable evil from occurring, they both sacrificed themselves.
+Final17_04	Amid his grief, he resolved to uphold the legacy of his sworn brother.
+Final17_05	To withstand foreign invasions throughout life and protect one's family and country.
+Final17_06	After returning to Mount Penglai, Wang Zhe took over as the leader of the fort.
+Final17_07	Lead the forces of Qingtian Camp in resisting the wolf bandits.
+Final17_08	During a leading march across rough terrain,
+Final17_09	Wang Zhe again encountered the Daoist named Chunyangzi in Wulong Village.
+Final17_10	Every time they meet, Master Chunyang always guides from the side.
+Final17_11	Guide Wang Zhe to understand the profound Daoist meaning of Tai Qing Gang Qi.
+Final17_12	Wang Zhe excels in both martial and scholarly disciplines.
+Final17_13	Though my heart is tied to national affairs and I have dedicated myself to military service, at a time when I am approaching the age of discerning destiny,
+Final17_14	Still mastered the deepest layer of the Taiqing Gang Qi pinnacle skill.
+Final17_15	Several years later, he founded the Quanzhen Sect and pioneered a peerless martial art.
+Final17_16	Revered by people throughout the world as Zhuangyang Zhenren.
+Final17_17	However, every time we hear of foreign invaders advancing,
+Final17_18	Wang Zhe would always remember his sworn brother's last words.
+Final17_19	Recalling how my elder brother defended our country with a spirit that places personal life and death as secondary considerations, embodying great breadth of mind and dignity.
 #结局 18	
-Final18_00	Stop clouds and Set the moon
-Final18_01	At the end of the treacherous adventure in Shu,
-Final18_02	Zhang Junbao waved goodbye to two friends in succession,
-Final18_03	Once again, I set out on a journey to travel the world.
-Final18_04	The three who swore they would meet again have been separated from each other ever since.
-Final18_05	Thirty years ago, an epidemic broke out in Shuzhong,
-Final18_06	Zhang Sanfeng drove all the way from the Middle Kingdom to Xichuan,
-Final18_07	Just in time to see his old friend one last time.
-Final18_08	Now that he is nearly a hundred years old, he has attained a state of pure inner strength,
-Final18_09	But in recent years, there has been a gradual loss of strength.
-Final18_10	That night, Zhang Sanfeng sat alone in his room, and suddenly felt something,
-Final18_11	Look out towards the temple where the sky visitor left.
-Final18_12	"If you don't come, my old friend won't be waiting for you.
+Final18_00	Stop Clouds Descend Moon
+Final18_01	After the epic adventures in Shu came to an end,
+Final18_02	Zhang Junbao successively said goodbye to two friends.
+Final18_03	Embarking once again on a journey across the clouds.
+Final18_04	The three people who swore they would meet again ended up parting ways in different directions.
+Final18_05	Thirty years ago, a great plague struck Shu.
+Final18_06	Zhang Sanfeng traveled from Zhongyuan to Xichuan.
+Final18_07	Just in time to see my old friend one last time.
+Final18_08	Now he is also in his nineties, although his pure internal cultivation has reached the realm of transcendence,
+Final18_09	However, in recent years, I have also gradually begun to feel that my strength is insufficient.
+Final18_10	This night, Zhang Sanfeng sat alone in his room when he suddenly had a sudden feeling.
+Final18_11	Gazing afar at the sacred temple where the guests from beyond once departed long ago.
+Final18_12	You, if you don't come soon, old friends won't wait for you.
 #结局 19	
-Final19_00	dark spirits of the underworld
-Final19_01	Ever since that day when he slew that man in that nameless valley,
-Final19_02	A thorn in the heart of the Hundred-Loss Daoist Goddess｜
-Final19_03	She did not hear the sound of the man on the ground.
-Final19_04	Several nights, she felt as if she were back at the edge of the valley,
-Final19_05	Watching that cheerful, obnoxious face disappear from view.
-Final19_06	But no matter how attentive and careful she was ,
-Final19_07	She still could not hear the coveted, beautiful sound of the crash.
-Final19_08	Only the sound of the wind whistling in the dry valley mocked her, dumbly.
-Final19_09	In order to remove the thorn in her heart, she had been practicing her martial arts for years,
-Final19_10	Raised the martial arts of the master to a realm unimaginable by his predecessors.
-Final19_11	The two new apprentices were avidly meeting and patting horses ,
-Final19_12	But she herself knew that the man was a true martial arts genius,
-Final19_13	She would not outlast him one day.
-Final19_14	The wind in her ears had become clearer lately, and it was clearly his voice.
-Final19_15	"I will come to you.
+Final19_00	Yoming angui
+Final19_01	Since that day when I knocked him into the nameless deep chasm,
+Final19_02	The Beggar Nun's heart has a thorn in it.
+Final19_03	She didn't hear the sound of that person landing.
+Final19_04	Many times at night, she felt as if she had returned to the edge of that vast chasm again,
+Final19_05	Watching that bright, irritating face disappear from view.
+Final19_06	However much she may be focused, however careful she may be,
+Final19_07	She still couldn't hear that long-awaited, wonderful sound of the landing.
+Final19_08	Only the howling wind in the dried-up valley mocked her silently.
+Final19_09	In order to remove the thorn from her heart, she has been diligently practicing martial arts for years.
+Final19_10	The martial arts of our school have been elevated to a level beyond what previous generations could imagine.
+Final19_11	The two new disciples keep flattering and fawning on us incessantly.
+Final19_12	But she knew that person was truly a martial arts genius.
+Final19_13	She will never have a day better than him.
+Final19_14	Recently, the whispers I've been hearing are getting clearer by the day; it's definitely his voice.
+Final19_15	I will come find you.
 #结局 20	
-Final20_00	Magpie Starlight.
-Final20_01	That day she made a desperate leap in the Holy of Holies,
-Final20_02	Changed your life forever.
-Final20_03	Finally it's your turn too ,
-Final20_04	What it's like to have your ordinary life messed up by an outsider.
-Final20_05	A woman from a different world with no identity, where every day is an adventure.
-Final20_06	A missing person who returns to reality, never to live an ordinary life again.
-Final20_07	Nonetheless, she is the only proof of your otherworldly adventure,
-Final20_08	Through the strange days of the sword,
-Final20_09	The world of martial arts has long since become another homeland for you.
-Final20_10	Whenever you think of those unforgettable moments...,
-Final20_11	Or misses someone who was once with her in life and in death.
-Final20_12	She thought the telephone and the computer were some kind of magic spell,
-Final20_13	It became the only person you could talk to at will.
-Final20_14	Every morning, when you hear her scream again,
-Final20_15	With the noise of some electrical appliance going out of control,
-Final20_16	And you know, the skywalker story isn't over yet.
+Final20_00	Magpie Bridge Star Glow
+Final20_01	That day she leaped recklessly into the sanctuary.
+Final20_02	It changed your life forever.
+Final20_03	It's finally your turn, too.
+Final20_04	The taste of a mundane life being disrupted by an unexpected outsider.
+Final20_05	A statusless otherworldly woman faces adventure every day here.
+Final20_06	A missing person returns to reality but can no longer lead an ordinary life.
+Final20_07	Despite that, she is also your only proof of your adventures in another world.
+Final20_08	After those strange days of wandering the world with a sword in hand,
+Final20_09	The Wuxia world has already become your other hometown.
+Final20_10	Each time you recall those unforgettable moments,
+Final20_11	Or perhaps you're thinking of someone with whom you once shared life and death.
+Final20_12	She thought that the telephone and computer were some kind of sorcery or witchcraft.
+Final20_13	You have become my only confidant who I can freely pour out my heart to.
+Final20_14	Every morning when you hear her scream again,
+Final20_15	Accompanied by a disruptive noise from some malfunctioning electrical appliance.
+Final20_16	You only know that the story of the visitor from beyond the skies has not yet ended.
 #结局 21	
-Final21_00	a natural talent
-Final21_01	And you led him out of the village of Arches,
-Final21_02	By adventuring along the way, you will be able to show the full love of the rivers and lakes.
-Final21_03	Look at your energetic smile,
-Final21_04	Luo Yuanyu secretly made up her mind ,
-Final21_05	To be a man like you.
-Final21_06	He who is good at dealing with people ,
-Final21_07	A group of seemingly useless beggars quickly gathered,
-Final21_08	Start your own business based in a beggar's dwelling.
+Final21_00	Nature has endowed me with talent.
+Final21_01	You led him out of Xiangshi Village.
+Final21_02	Through adventures along the way, it revealed the side of the Jianghu filled with loyalty and brotherhood.
+Final21_03	Looking at your vibrant smile,
+Final21_04	Luo Yuanyu secretly resolved in his heart,
+Final21_05	To become a person like you.
+Final21_06	He is good at dealing with people.
+Final21_07	A group of seemingly useless beggars quickly gathered.
+Final21_08	Using a beggar's lodge as a base of operations, they set up their own business.
 #结局 22	
-Final22_00	The hare is dead and the dog is cooked.
-Final22_01	And you led him out of the village of Archstone, by adventure along the way,
-Final22_02	And he grew, and grew strong.
-Final22_03	But he who had fought with you for many years, and thought he had achieved fame,
-Final22_04	In the end, you, who do not want to share power, turned against him and killed him mercilessly.
-Final22_05	His motto in life is to be ruthless and merciless, and to change the times.
-Final22_06	He was good at dealing with people, and soon made a comeback,
+Final22_00	When the rabbit dies, the dog gets cooked.
+Final22_01	You led him out of Gongshi Village through the adventures along the way,
+Final22_02	He also gradually grew up and became stronger.
+Final22_03	Having followed you on countless campaigns across the land for many years, I originally thought that he would have achieved success and fame by now.
+Final22_04	In the end, you were mercilessly pursued by me, who was unwilling to share power and had turned against you.
+Final22_05	Cruel-hearted and ruthless, adaptable to changing circumstances—became his guiding principle in life.
+Final22_06	He is good at dealing with people, quickly rising again.
 Final22_07	Gathered a group of seemingly useless beggars,
-Final22_08	Start your own business based in a beggar's dwelling.
+Final22_08	With the Beggar's Guild as their base of operations, they began running their own business.
 #结局 23	
-Final23_00	Warm words gazing into eyes
-Final23_01	I would have stayed at the gate of Taiwah all my life,
-Final23_02	Not understanding the world outside,
-Final23_03	Not knowing the story of the grandparents,
-Final23_04	Do not know｜You,
-Final23_05	But it is good that we have met.
-Final23_06	Thank you, brother, I will be good.
-Final23_07	You too,｜.
+Final23_00	Wen Yu narrows her eyes.
+Final23_01	Originally, I would have stayed at Taihua Gate my whole life,
+Final23_02	I don't understand the outside world.
+Final23_03	Not knowing my grandparents' story,
+Final23_04	I don't know you.| You,
+Final23_05	But it's fortunate that we met.
+Final23_06	Big Brother, thank you, I will be fine.
+Final23_07	You too are |
 #结局 24	
-Final24_00	River and Mountain Beauty.
-Final24_01	A red face? A dumping ground?
-Final24_02	In the face of the advances of your subordinates against you,
-Final24_03	You laughed it off, unashamedly,
-Final24_04	Take the smiling beauty beside you in your arms.
-Final24_05	In complete control of the world, you recall that moment,
-Final24_06	They who chose to stand by you at that time,
-Final24_07	Thirsting for long-term belonging and dependence,
-Final24_08	That's another way to stay on the right path,
-Final24_09	A single-minded desire to go home to what you cannot give.
-Final24_10	So you make the decision that you will satisfy them,
-Final24_11	Give them a future where they are no longer alone.
-Final24_12	But to-day,
-Final24_13	And what is their true place in your heart?
-Final24_14	Ask yourself, you've finally understood,
-Final24_15	They are, after all, only an amusement to your noble status,
-Final24_16	Companionship, favour,
-Final24_17	That is all grace from you as Sovereign,
-Final24_18	Your companion is never a beauty,
-Final24_19	It's the picturesque mountains, the supreme power.
+Final24_00	Beautiful Lady of Rivers and Mountains
+Final24_01	Red-faced maiden? Charm that could sway a nation?
+Final24_02	Facing your subordinates' advice,
+Final24_03	You laughed it off, with no regard whatsoever.
+Final24_04	Embrace the charming beauties beside you into your arms.
+Final24_05	You, who completely control the world, recalled that moment.
+Final24_06	At that time, they chose to stand by your side.
+Final24_07	Yearning for a lasting belonging and support,
+Final24_08	That was another who upheld righteousness.
+Final24_09	One who only thinks of what they cannot give themselves at home.
+Final24_10	So you've made a decision; you will satisfy them,
+Final24_11	Give them a future free from loneliness.
+Final24_12	But as of today,
+Final24_13	What is their true position in your heart?
+Final24_14	Touch your heart and ask yourself, you have finally understood.
+Final24_15	They were ultimately just diversions for your distinguished status.
+Final24_16	Accompanying, indulging in favoritism,
+Final24_17	That is all grace bestowed upon you as Sovereign.
+Final24_18	Your partner has never been a beauty,
+Final24_19	But rather this picturesque landscape, supreme power.
 #自宫	
-cutyourself	Practicing the Book of Broken Flowers
-cutyourself02	To practice this martial art you must be self-employed, do you want to continue practicing?
+cutyourself	Refine the study of the Remnant Flower Mirror.
+cutyourself02	Training in this martial art requires self-castration. Do you wish to continue training?

@@ -1,38 +1,39 @@
-it60104	Fists +{0}	24	24		(Fight,1)	0
-it60105	Light Work + {0}	24	24		(Qinggong,3)	0
-it60401	Qualification + {0}	24	24		(Intelligence,1)	0
-it60402	Qualification + {0}	24	24		(Intelligence,1)	0
-it60606	Qualification + {0}	24	24		(Intelligence,2)	0
-it60621	Qualification + {0}	24	24		(Intelligence,1)	0
-it60113	Spear +{0}	24	24		(Spear,3)	0
-it60103	Light + {0}	24	24		(Qinggong,3)	0
-it60144	Qualification + {0}	24	24		(Intelligence,2)	0
+it40118	Qualifications, agility, internal power + {0}	24	24		(Intelligence,10)(Neigong,10)(Qinggong,10)	0
+it60104	Martial Arts + {0}	24	24		(Fight,1)	0
+it60105	Qinggong + {0}	24	24		(Qinggong,3)	0
+it60401	Qualifications + {0}	24	24		(Intelligence,1)	0
+it60402	Qualifications + {0}	24	24		(Intelligence,1)	0
+it60606	Qualifications + {0}	24	24		(Intelligence,2)	0
+it60621	Qualifications + {0}	24	24		(Intelligence,1)	0
+it60113	Gunstick + {0}	24	24		(Spear,3)	0
+it60103	Lightness + {0}	24	24		(Qinggong,3)	0
+it60144	Qualifications + {0}	24	24		(Intelligence,2)	0
 it60119	Qualification + {0}	24	24		(Intelligence,2)	0
-it60132	Inner Power + {0}	24	24		(Neigong,5)	0
-it60143	Swordplay + {0}	24	24		(Sword,3)	0
-it60101	Knife Art + {0}	24	24		(Blade,3)	0
-it60102	Knife Art + {0}	24	24		(Blade,1)	0
-it60118	Short + {0}	24	24		(Short,3)	0
-it60107	Toxicism + {0}	24	24		(Poison,3)	0
-it60124	Qualification + {0}	24	24		(Intelligence,2)	0
-it60127	Healing + {0}	24	24		(Doctor,3)	0
-it60123	Shorts + {0}	24	24		(Short,3)	0
-it60125	Toxicism + {0}	24	24		(Poison,3)	0
-it60134	Fists +{0}	24	24		(Fight,5)	0
-it60146	Light Work + {0}	24	24		(Qinggong,3)	0
-it60145	Spear +{0}	24	24		(Spear,3)	0
-it60121	Spear +{0}	24	24		(Spear,3)	0
-it60122	Knife Art + {0}	24	24		(Blade,3)	0
-it60128	Inner Power + {0}	24	24		(Neigong,2)	0
-it60133	Swordplay + {0}	24	24		(Sword,3)	0
-it60135	Fists +{0}	24	24		(Fight,2)	0
-it60136	Fists +{0}	24	24		(Fight,2)	0
-it60114	Darkware + {0}	24	24		(Arrow,3)	0
-it60126	Qualification + {0}	24	24		(Intelligence,2)	0
-it60201	Inner Power + {0}	24	24		(Neigong,2)	0
-it60202	Inner Power + {0}	24	24		(Neigong,3)	0
-it60203	Inner Power + {0}	24	24		(Neigong,2)	0
-it60204	Inner Power + {0}	24	24		(Neigong,2)	0
-it60205	Inner Power + {0}	24	24		(Neigong,2)	0
-it60207	Inner Power + {0}	24	24		(Neigong,5)	0
-it60208	Inner Power + {0}	24	24		(Neigong,8)	0
+it60132	Internal Cultivation + {0}	24	24		(Neigong,5)	0
+it60143	Swordsmanship + {0}	24	24		(Sword,3)	0
+it60101	Swordsmanship + {0}	24	24		(Blade,3)	0
+it60102	Swordsmanship + {0}	24	24		(Blade,1)	0
+it60118	Close combat + {0}	24	24		(Short,3)	0
+it60107	Poison Technique + {0}	24	24		(Poison,3)	0
+it60124	Qualifications + {0}	24	24		(Intelligence,2)	0
+it60127	Medical skills + {0}	24	24		(Doctor,3)	0
+it60123	Short-range combat {0}	24	24		(Short,3)	0
+it60125	Poison Technique + {0}	24	24		(Poison,3)	0
+it60134	Fighting + {0}	24	24		(Fight,5)	0
+it60146	Qinggong + {0}	24	24		(Qinggong,3)	0
+it60145	Gunstick + {0}	24	24		(Spear,3)	0
+it60121	Swordsman + {0}	24	24		(Spear,3)	0
+it60122	Swordsmanship + {0}	24	24		(Blade,3)	0
+it60128	Internal Skill + {0}	24	24		(Neigong,2)	0
+it60133	Swordsmanship + {0}	24	24		(Sword,3)	0
+it60135	Fighting + {0}	24	24		(Fight,2)	0
+it60136	Fighting {0}	24	24		(Fight,2)	0
+it60114	Hidden Weapon + {0}	24	24		(Arrow,3)	0
+it60126	Qualifications + {0}	24	24		(Intelligence,2)	0
+it60201	Internal Skill + {0}	24	24		(Neigong,2)	0
+it60202	Internal Strength + {0}	24	24		(Neigong,3)	0
+it60203	Internal Kung Fu + {0}	24	24		(Neigong,2)	0
+it60204	Internal Kungfu + {0}	24	24		(Neigong,2)	0
+it60205	Internal Cultivation + {0}	24	24		(Neigong,2)	0
+it60207	Internal Power + {0}	24	24		(Neigong,5)	0
+it60208	Internal Skill + {0}	24	24		(Neigong,8)	0

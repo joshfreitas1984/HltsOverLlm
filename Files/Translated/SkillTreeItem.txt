@@ -4,7 +4,7 @@
   splits:
   - split: 1
     text: 野球拳
-    translated: ''
+    translated: Yakyuken
   - split: 3
     text: 这是你来到此世，脑海中唯一记得的一套拳法，虽然此套拳法软弱无力，临敌几乎无用，你却隐隐有股预感，只要勤学苦练，他日必能以此套拳法扬眉吐气，一鸣惊人。
     translated: This is the only martial arts style you remember upon arriving in this world, though it is weak and nearly useless in battle. However, you have a premonition that with diligent practice and hard training, one day you will be able to use this martial arts style to regain your dignity and make a name for yourself.
@@ -44,7 +44,7 @@
   splits:
   - split: 1
     text: 怒川游鱼掌法
-    translated: Nùchuān Yóuyú Zhǎngfǎ
+    translated: Nuchuan Youyu Zhangfa
   - split: 3
     text: 此套掌法由潄玉矶当地潜水身法而来，修练之时需沉入水中，穿梭于暗流漩涡之间，以练其小巧挪腾身法。身形变化之际尚须徒手挡、捉、击水中鱼群，以练就掌法之迅捷灵动。
     translated: This set of hand techniques originates from the diving skills practiced by people in Xuyu Bay. When training, one must submerge in water and navigate through dark currents and whirlpools to practice agile and nimble body movements. During changes in form, one still needs to block, capture, and strike fish schools underwater with bare hands to master the quickness and liveliness of the hand techniques.
@@ -74,7 +74,7 @@
   splits:
   - split: 1
     text: 幽谷指法
-    translated: Yóugǔ zhǐfǎ
+    translated: Yougu zhifa
   - split: 3
     text: 三过居士陈之济授予程雁华防身的指法，身法轻灵，出指柔美，一拂一点之间将内力打入对手穴道之中，对手每每发功都将感到内息一滞，运气不畅，最终完全丧失一战之力。
     translated: The layman Chen Zhiji taught Cheng Yanhua the hand techniques for self-defense. The movements were light and nimble, with graceful finger strikes that delivered internal energy into the opponent's acupoints with each brush and point. Opponents would invariably feel their internal energy become sluggish and unable to flow freely whenever they attempted to gather power, ultimately losing all ability to fight effectively.
@@ -144,7 +144,7 @@
   splits:
   - split: 1
     text: 铁沙掌
-    translated: Iron Sand Palm
+    translated: ''
   - split: 3
     text: 将铁沙浸入特定药材，置入麻袋中，再透过独特功法练习而来的掌上硬功夫，练久后，可劈砖裂石，无坚不摧。
     translated: Submerge iron sand in specific medicinal herbs, place it in a hemp bag, and then apply unique martial arts techniques practiced through palm power. After prolonged training, it can split bricks and shatter rocks, overcoming any obstacle.
@@ -154,7 +154,7 @@
   splits:
   - split: 1
     text: 大手印
-    translated: ''
+    translated: Big Palm Print
   - split: 3
     text: 吐蕃密宗的独门秘法，其宗旨在于降妖伏魔。
     translated: The secret methods of the Tangut Esoteric Buddhism are intended for subduing demons and taming evil spirits.
@@ -214,7 +214,7 @@
   splits:
   - split: 1
     text: 柔云掌法
-    translated: Róu Yún Zhǎngfǎ
+    translated: Rou Yun Zhangfa
   - split: 3
     text: 柔云掌法
     translated: Rouyun Palm Technique
@@ -284,7 +284,7 @@
   splits:
   - split: 1
     text: 浑金剑诀
-    translated: Hún Jīn Jiàn Jué
+    translated: Hun Jin Jian Jue
   - split: 3
     text: 西川兵马指挥使皇甫登云所使剑法，所谓浑金璞玉，未加雕饰，是以剑法之理亦极为简单，仅仅只是以自身内力灌输于兵刃之中，以力服人，招式亦是古朴拙重，毫不花巧。
     translated: The sword technique used by Imperial Commissioner and Commander-in-Chief of Xichuan, Huangfu Dengyun, is said to be pure jade and unadorned gold—simple in its principles. It relies solely on infusing one's internal energy into the weapon to overpower others, with forms that are plain, crude, and devoid of any artifice or cunning.
@@ -297,7 +297,7 @@
     translated: ''
   - split: 3
     text: 春江诀乃取春之善变，江之诡谲，是一门极灵动之双剑武学。春江诀为漆笑儿家传武学，虽漆笑儿拜入点苍派门下，然其为武林名门漆家之独女，因此得以继承漆家家传武学。
-    translated: The Spring River Method is a highly agile dual-sword martial art that embodies the good changes of spring and the elusive nature of rivers. The Spring River Method is a family martial art passed down in the Qī Family, though Qī Xiàor, its creator, entered the Diancang Sect as an apprentice. However, since she was the sole daughter of the renowned martial family Qī, she inherited the Qī Family's secret martial arts.
+    translated: The Spring River Method is a highly agile dual-sword martial art that embodies the good changes of spring and the elusive nature of rivers. The Spring River Method is a family martial art passed down in the Qi Family, though Qi Xiaor, its creator, entered the Diancang Sect as an apprentice. However, since she was the sole daughter of the renowned martial family Qi, she inherited the Qi Family's secret martial arts.
 - lineNum: 30
   raw: it30206	龙隐剑谱	sword	青城四合绝学之一，非领略青城剑法精义者不得修习。此套剑法虽名为龙隐，真正的要旨却在于动如飞龙在天，但能修练到此境界者却微乎其微。	302	5000	2500	TRUE	1	70	999999	SkillTree098	Sword	0	0	0
   translated: 
@@ -324,10 +324,10 @@
   splits:
   - split: 1
     text: 段家剑谱
-    translated: Duàn jiā jiàn pǔ
+    translated: Duan jia jian pu
   - split: 3
     text: 段家家传剑法，正大光明，端凝自重，开阖之际隐然透露出王者之气。
-    translated: The Duàn family's secret martial art is upright and clear, calm and weighty. At the opening and closing moments, there is a subtle emanation of the aura of a king.
+    translated: The Duan family's secret martial art is upright and clear, calm and weighty. At the opening and closing moments, there is a subtle emanation of the aura of a king.
 - lineNum: 33
   raw: it30211	太白飞剑	it30211	相传为谪仙人李太白所传授之剑法。根据记载，李白施展此剑法时「掷剑入云，高数十丈，若电光下射，漫引手执鞘承之，剑透空而入，观者千百人，无不凉惊栗。」	302	5000	2500	TRUE	1	70	999999	SkillTree125	Sword	0	0	0.5
   translated: 
@@ -344,7 +344,7 @@
   splits:
   - split: 1
     text: 柔云剑法
-    translated: Róuyún Jiànfǎ
+    translated: Rouyun Jianfa
   - split: 3
     text: 柔云剑法绵密严谨，一经施展开来，便有如柔丝不断，连绵不绝。可惜此剑法虽长于守御，却是凌厉不足，但高手使开来，将使对手难以近身，藉此取得反制之机。
     translated: Rouyun swordplay is dense and meticulous. Once deployed, it resembles an unending stream of soft silk. Although this style excels in defense but lacks ferocity, a skilled master can make it difficult for the opponent to approach closely, thereby seizing an opportunity for counterattack.
@@ -407,7 +407,7 @@
     translated: Pine Wind Sword Manual
   - split: 3
     text: 青城派的基本剑法，招式灵动，为道家正宗武学。青城派前掌门－－心良道人有感于昔年瘟疫和战乱，广授于民，让其习练以强身健体，因此蜀中人士大多会使上几招。
-    translated: The basic swordsmanship of the Qingcheng Sect is agile and representative of orthodox Taoist martial arts. The former abbot of Qingcheng Sect, Xīnlíng Dàorén, out of concern for past plagues and wars, widely taught it to the people so they could practice to strengthen themselves physically; hence, many in Sichuan are familiar with a few of its techniques.
+    translated: The basic swordsmanship of the Qingcheng Sect is agile and representative of orthodox Taoist martial arts. The former abbot of Qingcheng Sect, Xinling Daoren, out of concern for past plagues and wars, widely taught it to the people so they could practice to strengthen themselves physically; hence, many in Sichuan are familiar with a few of its techniques.
 - lineNum: 41
   raw: it30222	醉八仙剑	it30222	南闲徐暇客独门绝技，闻名于江湖之上的醉八仙本为拳法，南闲奇思妙想之下将之化为剑法，以剑柄、剑刃、剑锋模拟诸般古怪拳势，更加使其难以预料，威力更上一层楼。	302	5000	2500	TRUE	1	70	999999	SkillTree126	Sword	0	0	-0.5
   translated: 
@@ -464,10 +464,10 @@
   splits:
   - split: 1
     text: 分柳剑谱
-    translated: The Division of Lǚ's Sword Manual
+    translated: The Division of Lu's Sword Manual
   - split: 3
     text: 分柳剑谱
-    translated: Divide the Lü Sword Manual
+    translated: Divide the Lu Sword Manual
 - lineNum: 47
   raw: it30228	凌尘剑谱	it30228	似是由一名身负绝顶轻功的侠盗所创出的剑法，除了剑法中少见的凌空下击的法门，亦纪载了许多出其不意，偷袭敌后的不光彩招式。	302	2500	1250	TRUE	0	70	999999	SkillTree104	Sword	0	0	0.5
   translated: 
@@ -494,7 +494,7 @@
   splits:
   - split: 1
     text: 惊波刀谱
-    translated: Jīngbō Dāopǔ
+    translated: Jingbo Daopu
   - split: 3
     text: 江湖中流传甚广的刀法，刀势有若水中蛟龙翻腾之貌，虽非一等一的武功，但也有不少独到之处。
     translated: The sword technique widely circulated in the martial world is as if a dragon-like serpent writhing in water. Although it is not top-tier martial art, it has several unique aspects.
@@ -614,7 +614,7 @@
   splits:
   - split: 1
     text: 阴风刀
-    translated: ''
+    translated: Yin Feng Dao
   - split: 3
     text: 邪派刀法，其要旨在趁人无备，直击要害。此招歹毒阴狠，多为武林正派人士所不齿。
     translated: Heretic swordsmanship, its essence lies in striking the vulnerable when one is unprepared. This technique is wicked and sinister, often looked down upon by righteous martial arts practitioners.
@@ -624,7 +624,7 @@
   splits:
   - split: 1
     text: 太玄霹雳刀法
-    translated: Tàixuán Pīlì Dāo Fǎ
+    translated: Taixuan Pili Dao Fa
   - split: 3
     text: 霹雳刀法进阶武学。
     translated: Advanced Thunderbolt Sword Techniques in Martial Arts.
@@ -654,7 +654,7 @@
   splits:
   - split: 1
     text: 西川明月刀
-    translated: Xīchuān Míngyuè Dāo
+    translated: Xichuan Mingyue Dao
   - split: 3
     text: 滚滚西川，明月似梦，盖西川刀法以快如江流、猛如滚浪、幻若月辉而得名，为李叹少年之际，临江月夜而创，同时亦为其成名刀法。由于此刀法放荡疏狂，刀势一再移转变化，李叹乃以「停杯」笑话敌人不知如何闪躲以致身法凝滞，覆又问候不知出招之后，敌人身首仍犹安否？
     translated: Rolling Sichuan, the moon like a dream; the West River Swordplay, named for its swiftness like river flow, ferocity like rolling waves, and illusion like moonlight, was created by Li Tan during his youth on a moonlit night beside the river. It also became his signature sword technique. Due to its wild and reckless nature, with movements that repeatedly shift and change, Li Tan jestingly challenges enemies, asking if they know how to dodge so their stance becomes stiff. He further teases, inquiring after their fate when they don't know how to counterattack, wondering if they are still unharmed.
@@ -714,7 +714,7 @@
   splits:
   - split: 1
     text: 岳家枪法
-    translated: Yuè family spear technique
+    translated: Yue family spear technique
   - split: 3
     text: 由名将岳飞所创，乃岳家军扬名天下的枪技，｢撼山易，撼岳家军难」亦是由此而来。枪法动作简洁有力，攻防一体。
     translated: Created by the renowned general Yue Fei, this spear technique of the Yue family's army became famous across the land. The saying Easier to move mountains than the Yue family's army also originates from this. The spear techniques are concise and powerful, integrating offense and defense seamlessly.
@@ -737,7 +737,7 @@
     translated: Three Divine Guns
   - split: 3
     text: 木府战士所使用的枪法，相传由古代的战神所创，而此战神便以三朵之名流传于世。
-    translated: The gunplay used by the Mù family warrior is said to have been created by an ancient war god, who was known as the Three Blossoms in legend.
+    translated: The gunplay used by the Mu family warrior is said to have been created by an ancient war god, who was known as the Three Blossoms in legend.
 - lineNum: 74
   raw: it30405	五郎八卦棍	it30405	高仇恨值武学。五郎八卦棍相传由杨家将之一的杨五郎始创。杨五郎随父征契丹，兵败后到五台山为僧，以枪化棍，棍法由太极生两仪，两仪生四象，四象生八卦，演变为六十四点棍法，符合内外八卦八八六十四之数，故名五郎八卦。	304	5000	2500	TRUE	1	70	999999	SkillTree109	Spear	0	0	0
   translated: 
@@ -824,7 +824,7 @@
   splits:
   - split: 1
     text: 碧山棍谱
-    translated: Bìshān Gùnpǔ
+    translated: Bishan Gunpu
   - split: 3
     text: 麒麟棍法进阶武学。
     translated: Qilin Gun Fa Progression Martial Arts.
@@ -1104,7 +1104,7 @@
   splits:
   - split: 1
     text: 阎王帖
-    translated: ''
+    translated: Demon King List
   - split: 3
     text: 不赦楼杀手的秘传杀招之一。多以匕首使之，专刺敌人要害，旨在一击毙命。此招歹毒阴狠，多为武林正派人士所不齿。
     translated: One of the secret killing techniques passed down by the Liao Assassins. Primarily executed with a dagger, it targets an enemy's vital points, aiming to kill in one strike. This technique is extremely cruel and sinister, often despised by righteous martial artists.
@@ -1144,7 +1144,7 @@
   splits:
   - split: 1
     text: 玄天武诀
-    translated: Xuántiān Wǔjué
+    translated: Xuantian Wujue
   - split: 3
     text: 相传为双鞭呼延灼所传下之双鞭武学。
     translated: It is said to be the martial art of dual whipsmanship passed down by Huo Yan Zhuo of the Dual Whip Sect.
@@ -1204,7 +1204,7 @@
   splits:
   - split: 1
     text: 离合参商
-    translated: ''
+    translated: Li He, Cang Shu, Shang Geng, and Song Yu.
   - split: 3
     text: 一套极为奇妙的功法，将借力打力之巧妙应用转嫁到了运转内息之上，习练之人首先需得有深厚内功基础，并且精通于借劲御力之术，令全身都能包裹在一层能够偏移、导引攻势的气衣之中，就好似罩上了一件滑溜衣裳，无论面对何种攻势都能以这层气衣将之迁移挪引。
     translated: A set of incredibly ingenious martial techniques applies the clever use of leveraging force to the circulation of inner energy. Practitioners must first have a solid foundation in internal power and master the art of using strength, allowing their entire body to be enveloped in an air-like garment capable of deflecting and guiding attacks, much like wearing slippery clothing that can shift and redirect any form of attack it faces.
@@ -1224,7 +1224,7 @@
   splits:
   - split: 1
     text: 先天功
-    translated: ''
+    translated: Innate Skill
   - split: 3
     text: 王喆从天书之上所领悟的内功绝学，透过养生吐纳吸收天地精华，自然灵气，进而返后天为先天，聚元气、元神、元精于一身，激发人体潜能，产生无穷无尽之真气为己用。
     translated: Wang Zhe's internal martial art, as understood from the Heavens' Scripture, absorbs the essence of heaven and earth through nurturing life and expelling breath. It naturally draws qi to transform postnatal existence into prenatal, concentrating vital energy, spirit, and essence within oneself. This awakens latent human potential, generating an inexhaustible true qi for personal use.
@@ -1304,7 +1304,7 @@
   splits:
   - split: 1
     text: 腾元功诀
-    translated: ''
+    translated: Teng Yuan Gong Jue
   - split: 3
     text: 中原奇人「蓬门老祖」的毕生绝学。
     translated: Central Plains eccentric Pengmen Laozu's lifetime ultimate technique.
@@ -1314,7 +1314,7 @@
   splits:
   - split: 1
     text: 混元功
-    translated: ''
+    translated: Hunyuan Gong
   - split: 3
     text: 江湖上乘内功秘籍，混元功一反常规练气之法，由外而内，以掌练气，掌法内功，相辅相成，初时进境虽慢，然一旦大成，深厚内劲不旦将使混元掌威力大增，亦可化为周身之力，摧枯拉朽，无往不利。
     translated: In the martial arts world, there is a rare internal cultivation manual that uses a reverse method of practicing Qi in cultivating the Dongyuan Quan. It practices from outside to inside by using hand techniques to cultivate internal power, mutually reinforcing each other. Although progress is initially slow, once mastery is achieved, the profound inner strength will greatly enhance the power of the Dongyuan Quan and can be transformed into bodily force, capable of crumbling trees and pulling up weeds without fail.
@@ -1394,7 +1394,7 @@
   splits:
   - split: 1
     text: 太玄经
-    translated: The Grand Mystery Classic
+    translated: ''
   - split: 3
     text: 在地牢的一隅所发现，根据李白诗句侠客行所绘的二十四张图谱，为何会出现在地牢之中，如今已是难解之谜。其上每张图谱都对应了诗中的一句，或为内功、或为掌法、或为剑法、或为刀法，二十四句诗中包罗万象，真正精要仅仅在于图谱之中，常人若是拘泥于诗句之意，修练进境反而将窒碍难行。
     translated: Found in a corner of the dungeon, the 24 maps depicted by Li Bai's verse Xiake Xing remain an unsolved mystery. Each map corresponds to one line of the poem, covering internal power, fist techniques, swordsmanship, or blade skills. The essence lies within the maps themselves; if people are too literal about the verses and train based on them, their progress will be hindered.
@@ -1487,7 +1487,7 @@
     translated: Yin Cuo Yang Cha Bu Fa
   - split: 3
     text: ???
-    translated: ''
+    translated: ???
 - lineNum: 149
   raw: it30804	如燕诀	it30804	作者不详的轻功密册。由丈人村铁小轻所赠，据说是一位厉害的老公公给她的。	308	5000	2500	TRUE	1	70	999999	SkillTree127	Less	0	0	0
   translated: 
@@ -1554,7 +1554,7 @@
   splits:
   - split: 1
     text: 梯云纵
-    translated: Tí Yún Zòng
+    translated: Ti Yun Zong
   - split: 3
     text: 梯云纵
     translated: Tie Yunzong
@@ -1577,7 +1577,7 @@
     translated: Martial strength in Tian Nan region.
   - split: 3
     text: 段家家传步法，由行军作战发展而出，着重锻炼沉稳的体势和步伐，即使遭到对手猛攻，依然能够保持架式不崩，随时反攻。
-    translated: The Duàn family's martial art technique, developed from military marches and warfare, emphasizes the cultivation of a steady posture and gait. Even when faced with fierce attacks from an opponent, it maintains its stance without collapsing and is always ready to counterattack.
+    translated: The Duan family's martial art technique, developed from military marches and warfare, emphasizes the cultivation of a steady posture and gait. Even when faced with fierce attacks from an opponent, it maintains its stance without collapsing and is always ready to counterattack.
 - lineNum: 158
   raw: it30813	觔斗法	it30813	自戏班中孙行者的科介所演变而来的轻身功夫，虽不如话本中所言那般，觔斗一翻可行十万八千里，然而若是练到深处，不但可一气飞跃大川深壑，在极端凶险的境地，亦可从容脱身。	308	5000	2500	TRUE	1	70	999999	SkillTree120	Less	0	0	0
   translated: 
@@ -1614,7 +1614,7 @@
   splits:
   - split: 1
     text: 千金方
-    translated: Thousand Gold Method
+    translated: ''
   - split: 3
     text: 唐朝医学家孙思邈所著，集初唐以前医经、方书大成之作。虽然正本早已失传，但其部分手抄残本似乎仍流传于世。
     translated: An anthology of ancient medical texts and prescriptions compiled by Tang dynasty physician Sun Simiao, encompassing the achievements before the early Tang period. Although the original copies are lost, some handwritten fragments appear to have survived over time.
@@ -1634,10 +1634,10 @@
   splits:
   - split: 1
     text: 段家指诀
-    translated: Duàn family teachings
+    translated: Duan family teachings
   - split: 3
     text: 段氏家传武学，传闻指力雄浑，不但可隔空伤敌，封穴截脉，更可救死扶伤，然而实际练至高深境界者却是寥寥无几。
-    translated: The martial arts of the Duàn family, reportedly known for their robust power, not only allow one to injure enemies through empty spaces and block channels or cut vessels but also can save lives. However, those who truly practice it to a high level are extremely rare.
+    translated: The martial arts of the Duan family, reportedly known for their robust power, not only allow one to injure enemies through empty spaces and block channels or cut vessels but also can save lives. However, those who truly practice it to a high level are extremely rare.
 - lineNum: 164
   raw: it30906	药王神篇	it30906	《药王神篇》为陈之济所编写的医药手录，九成为治病救伤的医道，关于练毒施毒，种植毒草、培养毒虫之法却说得极为简略。	309	20000	10000	TRUE	3	70	999999	SkillTree161	Less	0	0	0
   translated: 
@@ -1684,7 +1684,7 @@
   splits:
   - split: 1
     text: 五毒经
-    translated: Wǔ Dú Jīng
+    translated: Wu Du Jing
   - split: 3
     text: 云南五毒教的入门经书，上面记载着五种毒物的特性，以及关于炼毒的基本知识。
     translated: The introductory scripture of the Yunnan Five Poison Sect, which records the characteristics of five types of poisons and basic knowledge about refining poison.
@@ -1704,7 +1704,7 @@
   splits:
   - split: 1
     text: 碧落黄泉
-    translated: Pílù Huángquán
+    translated: Pilu Huangquan
   - split: 3
     text: 石鸿图几近走火入魔之研毒心得，一说此书意谓其上穷碧落下黄泉的搜览各式毒虫毒术，对其完整性十分自豪；另说是中此书内之毒者，上穷碧落下黄泉也无人能解。
     translated: Shi Hongtu's near-insane research into poisons, The Essence of Poisonous Intentions, is said to imply that it comprehensively explores various poisonous creatures and techniques, with the author taking great pride in its completeness. Another interpretation suggests that anyone who falls under this book's poison will be beyond help even if they ascend to the celestial realms or descend to the underworld.
@@ -1734,7 +1734,7 @@
   splits:
   - split: 1
     text: 鬼蟾经
-    translated: Guī Chán Jīng
+    translated: Gui Chan Jing
   - split: 3
     text: 鬼蟾经
     translated: Ghost Toad Classic
@@ -1824,7 +1824,7 @@
   splits:
   - split: 1
     text: 豹
-    translated: Panda Bear Spirit Leopard
+    translated: Leopard
   - split: 3
     text: 野兽之豹。
     translated: Beast of the Leopard.
@@ -1907,7 +1907,7 @@
     translated: The White Goat
   - split: 3
     text: 山羊阿白。
-    translated: The goat named A Bái.
+    translated: The goat named A Bai.
 - lineNum: 191
   raw: it31816	移魂大法	it31816	自天书上所领悟的奇妙武学，单单只需以眼神注视，便能够使心智薄弱的对手失去意识，任凭宰割。	318	20000	10000	TRUE	3	70	999999	SkillTree174	Other	0	0	0
   translated: 

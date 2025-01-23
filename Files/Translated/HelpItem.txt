@@ -138,7 +138,7 @@
   splits:
   - split: 3
     text: 猎捕
-    translated: Hunting and capturing.
+    translated: ''
   - split: 4
     text: 当玩家靠近某些野生动物时，可以猎捕他们。
     translated: When a player approaches certain wild animals, they can hunt them.
@@ -148,7 +148,7 @@
   splits:
   - split: 3
     text: 暗捕
-    translated: ''
+    translated: Dark Hunt
   - split: 4
     text: 当玩家靠近某些驯养的牲畜，可以进行暗捕，但可能会被村人所讨厌。
     translated: When players approach certain tamed livestock, they can perform a stealth capture but may be disliked by the villagers.
@@ -568,7 +568,7 @@
   splits:
   - split: 3
     text: 气血
-    translated: Blood and Vital Energy
+    translated: ''
   - split: 4
     text: 影响角色在战斗中生存力的主要数值，归零的话则角色便会退场。
     translated: The main value that affects a character's survivability in battle, once depleted, will cause the character to retreat from the battlefield.
@@ -588,7 +588,7 @@
   splits:
   - split: 3
     text: 精力
-    translated: ''
+    translated: Energy
   - split: 4
     text: 影响角色在战斗中的移动、行为与施展技能招式的重要数值，精力越高的角色在战斗中可以进行更多的行动。
     translated: The important values that affect a character's movement, behavior, and skill casting in battle are energy levels. The higher the energy level of a character, the more actions they can perform during combat.
@@ -618,7 +618,7 @@
   splits:
   - split: 3
     text: 正邪值
-    translated: The Struggle Between Good and Evil
+    translated: Good vs Evil Encounter
   - split: 4
     text: 决定玩家在这个世界立场与能否触发某些特殊条件事件的重要数值，玩家在这个世界进行各种行为都有可能会影响其发展。
     translated: A crucial value determining a player's standing in this world and their ability to trigger certain special conditional events is how they conduct themselves across various actions, all of which can potentially influence its development.
@@ -668,7 +668,7 @@
   splits:
   - split: 3
     text: 剑法
-    translated: ''
+    translated: Fencing technique
   - split: 4
     text: 角色使用剑法武学的能力，数值越高能产生越强的威力加成。
     translated: The character's skill in using martial arts sword techniques increases the power boost, with higher values producing stronger enhancements.
@@ -678,7 +678,7 @@
   splits:
   - split: 3
     text: 刀法
-    translated: ''
+    translated: Fencing technique
   - split: 4
     text: 角色使用刀法武学的能力，数值越高能产生越强的威力加成。
     translated: "The character's swordplay martial arts ability: the higher the value, the greater the power bonus generated."
@@ -698,7 +698,7 @@
   splits:
   - split: 3
     text: 暗器
-    translated: ''
+    translated: Shadow Weapons
   - split: 4
     text: 角色使用暗器武学的能力，数值越高能产生越强的威力加成。
     translated: The character's ability in the art of shuriken can produce a greater power bonus with higher values.
@@ -708,7 +708,7 @@
   splits:
   - split: 3
     text: 短兵
-    translated: ''
+    translated: A swift clash of weapons during combat at close quarters.
   - split: 4
     text: 角色使用短兵武学的能力，数值越高能产生越强的威力加成。
     translated: The character's martial arts ability in short-range combat generates greater power bonuses as the value increases.
@@ -748,7 +748,7 @@
   splits:
   - split: 3
     text: 轻功
-    translated: ''
+    translated: Lightness Skill
   - split: 4
     text: 轻功会影响角色在战斗中的出手排序、移动距离与相关武学感悟的加成效果，同时也会让玩家在大地图行走时更加迅速与有趣，轻功到达一定程度甚至可以施展水上飘。
     translated: Mastery of martial steps influences a character's attack order, movement range, and the bonuses from related martial insights in battle. It also allows players to move more swiftly and enjoyably across large maps, with high proficiency enabling them to perform feats like floating on water.
@@ -758,7 +758,7 @@
   splits:
   - split: 3
     text: 外伤
-    translated: ''
+    translated: Trauma injury
   - split: 4
     text: 每回合损失气血，数值越高效果也越显著。
     translated: Each round loses Qi, the higher the value, the more pronounced the effect.
@@ -958,7 +958,7 @@
   splits:
   - split: 3
     text: 轻功武学
-    translated: Qiángōng Wǔxué
+    translated: Qiangong Wuxue
   - split: 4
     text: 大多数的轻功武学都没有能直接产生伤害的招式，但却能让玩家在战斗中更具有优势，同时它也能提高玩家轻功的基础数值，让玩家可以更轻松快速的在这个世界游历。
     translated: Most Wuxia kung fu schools do not have techniques that directly cause damage, but they give players an advantage in combat and improve their base kung fu skills. This allows players to travel more easily and quickly through the world.
@@ -1148,7 +1148,7 @@
   splits:
   - split: 3
     text: 柔感悟
-    translated: Intuitive understanding
+    translated: Rou Ganwu
   - split: 4
     text: 柔感悟能带来的特技是「卸劲」，发动时可以减免来自敌人的大量伤害，同时柔感悟也会制造较多的仇恨值，适合喜欢担任坦克的玩家。
     translated: Rou's innate talent, Unburden, can significantly reduce damage from enemies when activated. It also generates a substantial amount of aggro, making it ideal for players who prefer playing as tanks.
@@ -1171,7 +1171,7 @@
     translated: Zen insight
   - split: 4
     text: 静感悟能带来的特技是「反击」，发动时可以自动对敌人发动反击技能伤害，适合喜欢布阵谋略的玩家。
-    translated: The special technique Counterattack brought by the Jīng Gǎn Néng skill automatically retaliates against an enemy when activated, making it suitable for players who enjoy strategic positioning and tactics.
+    translated: The special technique Counterattack brought by the Jing Gan Neng skill automatically retaliates against an enemy when activated, making it suitable for players who enjoy strategic positioning and tactics.
 - lineNum: 118
   raw: h40205	402	TalentTree/Img_TalentTree_Clever.png	巧感悟	巧感悟能带来的特技是「虚招」，发动时可以造成敌人的大量负面状态，适合喜欢控场并玩弄对手的玩家，此外，巧感悟会让玩家拥有更好的资质，能在经验值的获取上更加轻松。
   translated: 
@@ -1188,7 +1188,7 @@
   splits:
   - split: 3
     text: 拙感悟
-    translated: My humble understanding.
+    translated: My humble perception.
   - split: 4
     text: 拙感悟不会带来任何特技，但可以提升玩家的基础体魄、内功与施展武学招式的距离，也能避免敌人其他特技的发动，适合喜欢追求自身基础能力强化的玩家。
     translated: My understanding does not confer any special skills, but it can enhance the player's basic physical strength, internal cultivation, and increase the range for executing martial arts techniques. It also helps avoid triggering enemies' other special skills, making it suitable for players who prefer to pursue enhancement of their foundational abilities.
@@ -1518,7 +1518,7 @@
   splits:
   - split: 3
     text: 连击
-    translated: ''
+    translated: Combination attack
   - split: 4
     text: 连击发动时，能让施放技能者回复消耗的行动点数，使该单位能够再次执行更多的指令。
     translated: When the chain attack is activated, it allows the user who cast the skill to recover the expended action points, enabling that unit to execute more commands.
@@ -1548,7 +1548,7 @@
   splits:
   - split: 3
     text: 虚招
-    translated: ''
+    translated: Feigned invitation.
   - split: 4
     text: 虚招发动时，会随机附加受击单位负面状态。
     translated: When the feint is activated, it will randomly inflict a negative status on the target unit.
@@ -1608,7 +1608,7 @@
   splits:
   - split: 3
     text: 迷惑
-    translated: ''
+    translated: Confused
   - split: 4
     text: 降低减伤的能力，超过50点时会无法施展卸劲。
     translated: Reduced damage mitigation capability; exceeding 50 points will prevent the release of tension.
@@ -2038,7 +2038,7 @@
   splits:
   - split: 3
     text: 暗器
-    translated: ''
+    translated: Shadow Weapons
   - split: 4
     text: 暗器为远程武器，装备暗器可以在中远程距离攻击敌人，不过对贴身攻击的敌人比较没辙。
     translated: Traps and projectiles are ranged weapons. Equipping traps and projectiles allows you to attack enemies at medium-range, but they are less effective against enemies in close combat.
@@ -2058,7 +2058,7 @@
   splits:
   - split: 3
     text: 短兵
-    translated: ''
+    translated: A swift clash of weapons during combat at close quarters.
   - split: 4
     text: 短兵为近战武器，轻巧的短兵在伤害上也不亚于其他兵器。
     translated: Short weapons are melee weapons, and the lightweight short weapons do not fall behind other weapons in terms of damage.
@@ -2098,7 +2098,7 @@
   splits:
   - split: 3
     text: 外衣
-    translated: ''
+    translated: Coat
   - split: 4
     text: 能改变主角外观的特殊服饰，有些对应阵营的服饰能触发特殊的事件或效果。
     translated: Special attire that can change the protagonist's appearance; some faction-specific outfits can trigger special events or effects.

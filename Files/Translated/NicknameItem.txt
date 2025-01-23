@@ -28,7 +28,7 @@
   splits:
   - split: 1
     text: 再世神农
-    translated: Zaishì Shénngōng
+    translated: Zaishi Shenngong
   - split: 2
     text: 采集药草时，20%机率得到双份。
     translated: When collecting medicinal herbs, there is a 20% chance of obtaining double the amount.
@@ -58,7 +58,7 @@
   splits:
   - split: 1
     text: 富二代
-    translated: ''
+    translated: Second-generation wealthy individual
   - split: 2
     text: 获得金钱增加10%
     translated: Receive a 10% increase in money.
@@ -78,7 +78,7 @@
   splits:
   - split: 1
     text: 天南王道
-    translated: King Wáng of Tiānnán
+    translated: King Wang of Tiannan
   - split: 2
     text: 周遭2格范围内友方，每回合降低自身负面状态5点
     translated: Within a two-square radius around allies, reduce their own negative status by 5 points each turn.
@@ -188,7 +188,7 @@
   splits:
   - split: 1
     text: 兰蕙解语
-    translated: Lán Huì Jiěyǔ
+    translated: Lan Hui Jieyu
   - split: 2
     text: 颜玉书在场上时，所有队友的攻击力提升50%
     translated: When Yan Yushu is on the field, all teammates' attack power increases by 50%.
@@ -228,7 +228,7 @@
   splits:
   - split: 1
     text: 马帮千金
-    translated: Mǎ Bāng Qīnjīn
+    translated: Ma Bang Qinjin
   - split: 2
     text: 每次受击所累积的爆击率增加10%，暴击伤害提升50%
     translated: Each time you take a hit, your critical hit rate increases by 10%, and the critical hit damage is increased by 50%.
@@ -451,7 +451,7 @@
     translated: Fatty Sheep
   - split: 2
     text: 肥嫩可口的阿白，大家都想吃他
-    translated: Fatty and delicious A Bái, everyone wants to eat him.
+    translated: Fatty and delicious A Bai, everyone wants to eat him.
 - lineNum: 46
   raw: nick024	丧心病狂	每次攻击，有机会让敌人陷入混乱，三回合内敌我不分。敌人的晕眩、迷惑值越高，陷入混乱的机率越高		n60402	nick024
   translated: 
@@ -518,7 +518,7 @@
   splits:
   - split: 1
     text: 落地鹏
-    translated: ''
+    translated: Falcon Descends
   - split: 2
     text: 每次出招，有35%机率精力回复1点及连击率提升20%
     translated: Each time a technique is used, there is a 35% chance of restoring 1 point of energy and increasing the combo rate by 20%.
@@ -838,7 +838,7 @@
   splits:
   - split: 1
     text: 上师
-    translated: ''
+    translated: Venerable Master
   - split: 2
     text: 发动爆击时，消除自身所有负面状态25点
     translated: Activate burst attack to remove all negative conditions from oneself by 25 points.
@@ -1418,7 +1418,7 @@
   splits:
   - split: 1
     text: 敲个没完
-    translated: Ke gè méi wán.
+    translated: Ke ge mei wan.
   - split: 2
     text: 铁匠铺的商品与服务八折优待！
     translated: Blacksmith shop products and services offered at an eight percent discount!
@@ -1681,7 +1681,7 @@
     translated: Night Shadow
   - split: 2
     text: 黑豹王「夜影」现在任你差遣！
-    translated: The Black Panther King Yè Yǐng is now at your disposal!
+    translated: The Black Panther King Ye Ying is now at your disposal!
 - lineNum: 169
   raw: nick527	「雪影」	雪豹王「雪影」现在任你差遣！		Player	nick527
   translated: 
