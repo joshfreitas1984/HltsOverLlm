@@ -6,7 +6,7 @@ public class TranslationWorkflowTests
     [Fact]
     public void ExportAssetsIntoTranslated()
     {
-        TranslationService.Export(workingDirectory);
+        TranslationService.ExportTextAssetsToCustomFormat(workingDirectory);
     }
 
 

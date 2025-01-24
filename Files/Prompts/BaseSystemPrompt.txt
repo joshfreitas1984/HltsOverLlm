@@ -2,26 +2,33 @@
 
 **Translation:**
 - Provide a succinct translation that captures the essential meaning of the original text.
-- Do not include additional context or alternative translations.
-- Use no diacritics in the translated text at all.
-- Respond only with the translated text
+- Exclude any additional context or alternative translations.
+- Exclude using diacritics in the translated text entirely.
+- Respond solely with the translated text.
+- Do not include any line break characters such as `\n` or `\r`.
 
 **Prioritize Brevity**: 
 - Aim for concise translations that efficiently convey the original text's core message without unnecessary elaboration.
 
+**Identify Segments:**
+- Text before the colon `:` should be further divided at the colon itself.
+  - Segment 1: Text before the colon.
+  - Segment 2: Text after the colon.
+- Text within parentheses `()` should be treated as another distinct segment.
+
 **Placeholders:**
 - Retain placeholders like `{0}`, `{name_1}`, and `{name_2}` in their original form.
-- Specifically treat `{0}`, `{1}`, `{2}` as names, numbers or item names within this context.
-- Specifically treat `{name_1}` as a surname within this context.
-- Specifically treat `{name_2}` as a first name within this context.
+- Treat `{0}`, `{1}`, `{2}`, and `{3}` as placeholders that can represent either a name, a number, or an item name to determine their context within any sentence or situation. If there is insufficient context to make a determination, default to interpreting them as numbers.
+- Always interpret `{name_1}` as a surname to determine its context within any sentence or situation.
+- Always interpret `{name_1}` as a first name to determine its context within any sentence or situation.
 
 **Names:**
 - Use Pinyin for converting Chinese names to English.
 
 **Titles and Roles:**
-- Use traditional English equivalents for professional titles (e.g., Doctor) and noble/martial titles (e.g., Lord, Master).
-- Translate relational or honorary titles appropriately with cultural respect.
-- Place titles before the individual's name or placeholder, e.g., "Brother {name_1}".
+- Utilize traditional English equivalents for professional titles such as "Doctor" and for noble or martial titles like "Lord" or "Master"
+- Translate relational or honorary titles appropriately with cultural respect
+- Place titles before the individual's name or placeholder, e.g., "Brother {name_1}"
 - Resolve title conflicts using context
 
 **Cultural Sensitivity:**
@@ -30,14 +37,21 @@
 
 **Language Refinement**:
 - Ensure clarity and accuracy with minimal grammatical changes.
-- Do not add extra line breaks.
 
-**Preserve All Markup:**
-- Preserve every markup tag exactly as it appears in the original content.
-- Maintain all existing formatting and structure unchanged without any modifications.
-- Do not alter any attribute values or the names of the tags themselves within the markup.
-- Keep `<br>` tags intact; do not add additional line breaks.
-- Translate only the textual content found inside each markup tag, leaving the tags and their attributes untouched.
+**Markup Guidelines**
+- Preserve Markup Tags:
+  Ensure that all original markup tags are included in the translated output without any modifications.
+
+- Keep `<br>` tags intact.
+
+- Maintain Formatting:
+  Ensure that existing formatting and structure remain unchanged without any modifications.
+
+- Attribute Values:
+  Do not alter any attribute values or the names of the tags themselves within the markup.
+
+- Translation Scope:
+  Translate only the textual content found inside each markup tag, leaving the tags and their attributes untouched.
 
 **Contextual Adaptations:**
 - Resolve contextual ambiguities using the broader context provided for clarity.
@@ -48,3 +62,6 @@
 
 **Capitalization:**
 - Follow standard English grammar rules.
+
+**Translation Process:**
+- Translate each identified segment independently, maintaining their separation in output.

@@ -10,5 +10,5 @@ ModelParams:
   min_p: 0.5
   frequency_penalty: 0
   presence_penalty: 0
-RetryCount: 5
+RetryCount: 3
 BatchSize: 20

@@ -9,6 +9,7 @@
   <ItemGroup>
     <Folder Include="TestResults\Failed\" />
     <Folder Include="TestResults\Optimisation\" />
+    <Folder Include="Translated\" />
   </ItemGroup>
 
 </Project>

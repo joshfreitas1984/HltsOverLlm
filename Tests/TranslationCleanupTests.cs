@@ -34,7 +34,7 @@ public class TranslationCleanupTests
                     }
 
                     // Clean up Diacritics
-                    var cleanedUp = TranslationService.CleanupLine(split.Translated, split.Text);
+                    var cleanedUp = LineValidation.CleanupLine(split.Translated, split.Text);
                     if (cleanedUp != split.Translated)
                     {
                         Console.WriteLine($"Cleaned up {textFileToTranslate.Path} \n{split.Translated}\n{cleanedUp}");
@@ -43,7 +43,7 @@ public class TranslationCleanupTests
                         continue;
                     }
 
-                    var result = TranslationService.CheckTransalationSuccessful(config, split.Text, split.Translated ?? string.Empty);
+                    var result = LineValidation.CheckTransalationSuccessful(config, split.Text, split.Translated ?? string.Empty);
                     if (!result.Valid)
                     {
                         Console.WriteLine($"Invalid {textFileToTranslate.Path} Failures:{result.CorrectionPrompt}\n{split.Translated}");
@@ -142,7 +142,7 @@ public class TranslationCleanupTests
 
         foreach (var line in testLines)
         {
-            var valid = TranslationService.CheckTransalationSuccessful(config, line.Item1, line.Item2);
+            var valid = LineValidation.CheckTransalationSuccessful(config, line.Item1, line.Item2);
             lines.Add($"valid:  {valid}");
             lines.Add($"from:  {line.Item1}");
             lines.Add($"to:    {line.Item2}");
@@ -155,7 +155,7 @@ public class TranslationCleanupTests
     [Fact]
     public void FindMarkUpTest()
     {
-        var strings = TranslationService.FindMarkup("唔…也许<color=#FF0000>李叹兄弟</color>识货无数，对于藏宝诗词肯定也是懂的。或许可以找个适当借口，向李叹兄弟问问这事。");
+        var strings = LineValidation.FindMarkup("唔…也许<color=#FF0000>李叹兄弟</color>识货无数，对于藏宝诗词肯定也是懂的。或许可以找个适当借口，向李叹兄弟问问这事。");
 
         foreach (var text in strings)
             Console.WriteLine(text);
