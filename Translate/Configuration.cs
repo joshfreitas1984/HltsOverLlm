@@ -1,6 +1,5 @@
 ﻿using System.Text;
 using YamlDotNet.Serialization;
-using YamlDotNet.Serialization.NamingConventions;
 
 namespace Translate;
 
@@ -9,9 +8,11 @@ public class LlmConfig
     public string? ApiKey { get; set; }
     public bool ApiKeyRequired { get; set; }
     public string? Url { get; set; }
-    public string? Model { get; set; }    
+    public string? Model { get; set; }
     public int? RetryCount { get; set; }
     public int? BatchSize { get; set; }
+    public bool OptimizationMode { get; set; }
+    public bool SkipLineValidation { get; set; }
     public Dictionary<string, object>? ModelParams { get; set; }
 
     // Not serialised in Yaml

@@ -1,5 +1,4 @@
-﻿using Newtonsoft.Json.Linq;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 
@@ -16,7 +15,7 @@ public class TranslationCleanupTests
 
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
-            int recordsModded = 0; 
+            int recordsModded = 0;
             foreach (var line in fileLines)
             {
                 foreach (var split in line.Splits)
@@ -125,7 +124,7 @@ public class TranslationCleanupTests
 
             await Task.CompletedTask;
         });
-        
+
         File.WriteAllLines($"{workingDirectory}/TestResults/FailingTranslations.txt", failures);
     }
 
@@ -159,5 +158,19 @@ public class TranslationCleanupTests
 
         foreach (var text in strings)
             Console.WriteLine(text);
+    }
+
+    [Fact]
+    public static void ColorConversion()
+    {
+        string input = "佛教七宝就是，佛教僧人修行所用的七项宝物，有「<color=#FF0000>金</color>、<color=#FF0000>银</color>、<color=#FF0000>珍珠</color>、<color=#FF0000>珊瑚</color>、<color=#FF0000>蜜蜡</color>、<color=#FF0000>砗磲</color>、<color=#FF0000>红玉髓</color>」等七种，各自都有不同的修行作用与宗教意义。";
+
+        // Convert <color> tags to <font> tags
+        string fontTagOutput = LineValidation.ConvertColorTagsToPlaceholderTags(input);
+        Console.WriteLine(fontTagOutput);  // Output the result
+
+        // Convert <font> tags back to <color> tags
+        string colorTagOutput = LineValidation.ConvertPlaceholderTagsToColorTags(fontTagOutput);
+        Console.WriteLine(colorTagOutput);  // Output the result
     }
 }

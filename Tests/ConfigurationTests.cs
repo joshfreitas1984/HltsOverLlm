@@ -1,17 +1,12 @@
-﻿using System.Drawing;
-using Translate;
+﻿using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
-using YamlDotNet.Serialization;
-using System.Diagnostics;
-using System.Runtime.CompilerServices;
-using Microsoft.VisualBasic;
 
 namespace Translate.Tests;
 
 public class ConfigurationTests
 {
     const string workingDirectory = "../../../../Files";
-    
+
     [Fact]
     public async Task CachePromptsTest()
     {

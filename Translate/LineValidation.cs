@@ -5,272 +5,393 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using System.Xml;
 
 namespace Translate;
 
 public class LineValidation
 {
-  public static ValidationResult CheckTransalationSuccessful(LlmConfig config, string raw, string result)
-  {
-    var response = true;
-    var correctionPrompts = new StringBuilder();
+    public const string ChineseCharPattern = @"\p{IsCJKUnifiedIdeographs}";
 
-    if (string.IsNullOrEmpty(raw))
-      response = false;
+    public static ValidationResult CheckTransalationSuccessful(LlmConfig config, string raw, string result)
+    {
+        var response = true;
+        var correctionPrompts = new StringBuilder();
 
-    // Didnt translate at all and default response to prompt.
-    if (result.Contains("provide the text you would"))
-    {
-      response = false;
-    }
+        if (string.IsNullOrEmpty(raw))
+            response = false;
 
-    //Alternativves
-    if (result.Contains('/') && !raw.Contains('/'))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "/");
-    }
+        // Didnt translate at all and default response to prompt.
+        if (result.Contains("provide the text") || result.Contains("'''html"))
+            response = false;
 
-    if (result.Contains('\\') && !raw.Contains('\\'))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "\\");
-    }
+        ////Alternativves
+        //if (result.Contains('/') && !raw.Contains('/'))
+        //{
+        //    response = false;
+        //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "/");
+        //}
 
-    // Small source with 'or' is ususually an alternative
-    if (result.Contains("or") && raw.Length < 4)
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "or");
-    }
+        //if (result.Contains('\\') && !raw.Contains('\\'))
+        //{
+        //    response = false;
+        //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "\\");
+        //}
 
-    // Small source with 'and' is ususually an alternative
-    if (result.Contains("and") && raw.Length < 4)
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "and");
-    }
+        //// Small source with 'or' is ususually an alternative
+        //if (result.Contains("or") && raw.Length < 4)
+        //{
+        //    response = false;
+        //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "or");
+        //}
 
-    // Small source with ';' is ususually an alternative
-    if (result.Contains(';') && raw.Length < 4)
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", ";");
-    }
+        //// Small source with 'and' is ususually an alternative
+        //if (result.Contains("and") && raw.Length < 4)
+        //{
+        //    response = false;
+        //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "and");
+        //}
 
-    //// Added Brackets (Literation) where no brackets or widebrackets in raw
-    if (result.Contains('(') && !raw.Contains('(') && !raw.Contains('（'))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectExplainationPrompt");
-    }
+        // Small source with ';' is ususually an alternative
+        //if (result.Contains(';') && raw.Length < 4)
+        //{
+        //    response = false;
+        //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", ";");
+        //}
 
-    // Added literal
-    if (result.Contains("(lit."))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectExplainationPrompt");
-    }
+        //// Added Brackets (Literation) where no brackets or widebrackets in raw
+        //if (result.Contains('(') && !raw.Contains('(') && !raw.Contains('（'))
+        //{
+        //    response = false;
+        //    correctionPrompts.AddPromptWithValues(config, "CorrectExplainationPrompt");
+        //}
 
-    // Removed :
-    if (raw.Contains(':') && !result.Contains(':'))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectColonSegementPrompt");
-    }
-
-    //Place holders - incase the model ditched them
-    if (raw.Contains("{0}") && !result.Contains("{0}"))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{0}");
-    }
-    if (raw.Contains("{1}") && !result.Contains("{1}"))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{1}");
-    }
-    if (raw.Contains("{2}") && !result.Contains("{2}"))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{2}");
-    }
-    if (raw.Contains("{3}") && !result.Contains("{3}"))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{3}");
-    }
-    if (raw.Contains("{name_1}") && !result.Contains("{name_1}"))
-    {
-      if (result.Contains("{Name_1}"))
-        result = result.Replace("{Name_1}", "{name_1}");
-      else
-      {
-        response = false;
-        correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{name_1}");
-      }
-    }
-    if (raw.Contains("{name_2}") && !result.Contains("{name_2}"))
-    {
-      if (result.Contains("{Name_2}"))
-        result = result.Replace("{Name_2}", "{name_2}");
-      else
-      {
-        response = false;
-        correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderPrompt", "{name_2}");
-      }
-    }
-
-    // This can cause bad hallucinations if not being explicit on retries
-    if (raw.Contains("<br>") && !result.Contains("<br>"))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectTagBrPrompt");
-    }
-    // New Lines only if <br> correction isnt there helps quite a bit
-    else if (result.Contains('\n') && !raw.Contains('\n'))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectNewLinesPrompt");
-    }
-    else if (raw.Contains("<color") && !result.Contains("<color"))
-    {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectTagColorPrompt");
-    }
-    else if (raw.Contains('<'))
-    {
-      // Check markup
-      var markup = FindMarkup(raw);
-      if (markup.Count > 0)
-      {
-        var resultMarkup = FindMarkup(result);
-        if (resultMarkup.Count != markup.Count)
+        // Added literal
+        if (result.Contains("(lit."))
         {
-          response = false;
-          correctionPrompts.AddPromptWithValues(config, "CorrectTagMiscPrompt");
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectExplainationPrompt");
         }
-      }
+
+        // Removed :
+        if (raw.Contains(':') && !result.Contains(':'))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectColonSegementPrompt");
+        }
+
+        //Place holders - incase the model ditched them
+        if (raw.Contains("{0}") && !result.Contains("{0}"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{0}");
+        }
+        if (raw.Contains("{1}") && !result.Contains("{1}"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{1}");
+        }
+        if (raw.Contains("{2}") && !result.Contains("{2}"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{2}");
+        }
+        if (raw.Contains("{3}") && !result.Contains("{3}"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{3}");
+        }
+        if (raw.Contains("{name_1}") && !result.Contains("{name_1}"))
+        {
+            if (result.Contains("{Name_1}"))
+                result = result.Replace("{Name_1}", "{name_1}");
+            else
+            {
+                response = false;
+                correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{name_1}");
+            }
+        }
+        if (raw.Contains("{name_2}") && !result.Contains("{name_2}"))
+        {
+            if (result.Contains("{Name_2}"))
+                result = result.Replace("{Name_2}", "{name_2}");
+            else
+            {
+                response = false;
+                correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{name_2}");
+            }
+        }
+
+        // This can cause bad hallucinations if not being explicit on retries
+        if (raw.Contains("<br>") && !result.Contains("<br>"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "<br>");
+            //correctionPrompts.AddPromptWithValues(config, "CorrectTagPrompt");
+        }
+        // New Lines only if <br> correction isnt there helps quite a bit - HLTS doesnt have 
+        //else if (result.Contains('\n') && !raw.Contains('\n'))
+        //{
+        //  response = false;
+        //  correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt",);
+        //}
+        // Color tags are evil
+        //else if (raw.Contains("<color") && !result.Contains("<color"))
+        //{
+        //    response = false;
+        //    correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "<color>");
+        //    correctionPrompts.AddPromptWithValues(config, "CorrectTagPrompt");
+        //}
+        //else if (raw.Contains('<'))
+        //{
+        //  // Check markup
+        //  var markup = FindMarkup(raw);
+        //  if (markup.Count > 0)
+        //  {
+        //    var resultMarkup = FindMarkup(result);
+        //    if (resultMarkup.Count != markup.Count)
+        //    {
+        //      response = false;
+        //      correctionPrompts.AddPromptWithValues(config, "CorrectTagPrompt");
+        //    }
+        //  }
+        //}
+
+        // Random additions
+        if (result.Contains("<br>") && !raw.Contains("<br>"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalPrompt", "<br>");
+        }
+
+        //if (result.Contains("<color") && !raw.Contains("<color"))
+        //{
+        //    response = false;
+        //    correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalPrompt", "<color>");
+        //}
+
+        // It sometime can be in [] or {} or ()
+        if (result.Contains("name_1") && !raw.Contains("name_1"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalPrompt", "name_1");
+        }
+
+        if (result.Contains("name_2") && !raw.Contains("name_2"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalPrompt", "name_2");
+        }
+
+        var pattern = ChineseCharPattern;
+        if (Regex.IsMatch(result, pattern))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectChinesePrompt");
+        }
+
+        return new ValidationResult
+        {
+            Valid = response,
+            CorrectionPrompt = correctionPrompts.ToString(),
+        };
     }
 
-    // Random additions
-    if (result.Contains("<br>") && !raw.Contains("<br>"))
+    public static string CleanupLine(string input, string raw)
     {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectTagBrAddedPrompt");
+        if (!string.IsNullOrEmpty(input))
+        {
+            if (input.Contains('\"') && !raw.Contains('\"'))
+                input = input.Replace("\"", "");
+
+            if (input.Contains('[') && !raw.Contains('['))
+                input = input.Replace("[", "");
+
+            if (input.Contains(']') && !raw.Contains(']'))
+                input = input.Replace("]", "");
+
+            if (input.Contains('`') && !raw.Contains('`'))
+                input = input.Replace("`", "'");
+
+            //Strip .'s
+            if (input.EndsWith('.'))
+                input = input[..^1];
+
+            input = RemoveDiacritics(input);
+        }
+
+        return input;
     }
 
-    if (result.Contains("<color") && !raw.Contains("<color"))
+    public static List<string> FindMarkup(string input)
     {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectTagColorAddedPrompt");
+        var markupTags = new List<string>();
+
+        if (input == null)
+            return markupTags;
+
+        // Regular expression to match markup tags in the format <tag>
+        string pattern = "<[^>]+>";
+        MatchCollection matches = Regex.Matches(input, pattern);
+
+        // Add each match to the list of markup tags
+        foreach (Match match in matches)
+            markupTags.Add(match.Value);
+
+        return markupTags;
     }
 
-    // It sometime can be in [] or {} or ()
-    if (result.Contains("name_1") && !raw.Contains("name_1"))
+    public static List<string> FindPlaceholders(string input)
     {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderAddedPrompt", "name_1");
+        var placeholders = new List<string>();
+
+        if (input == null)
+            return placeholders;
+
+        // Regular expression to match placeholders in the format {number}
+        string pattern = "\\{.+\\}";
+        MatchCollection matches = Regex.Matches(input, pattern);
+
+        // Add each match to the list of placeholders
+        foreach (Match match in matches)
+            placeholders.Add(match.Value);
+
+        return placeholders;
     }
 
-    if (result.Contains("name_2") && !raw.Contains("name_2"))
+    public static string RemoveDiacritics(string text)
     {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectPlaceholderAddedPrompt", "name_2");
+        if (string.IsNullOrEmpty(text))
+            return string.Empty;
+
+        var normalizedString = text.Normalize(NormalizationForm.FormD);
+        var stringBuilder = new StringBuilder();
+
+        foreach (var c in normalizedString)
+        {
+            var unicodeCategory = CharUnicodeInfo.GetUnicodeCategory(c);
+            if (unicodeCategory != UnicodeCategory.NonSpacingMark)
+            {
+                stringBuilder.Append(c);
+            }
+        }
+
+        return stringBuilder.ToString().Normalize(NormalizationForm.FormC);
     }
 
-    if (Regex.IsMatch(result, @"\p{IsCJKUnifiedIdeographs}"))
+    public static string CalulateCorrectionPrompt(LlmConfig config, ValidationResult validationResult, string raw, string result)
     {
-      response = false;
-      correctionPrompts.AddPromptWithValues(config, "CorrectChinesePrompt");
+        return string.Format(config.Prompts["BaseCorrectionPrompt"], raw, result, validationResult.CorrectionPrompt); ;
     }
 
-    return new ValidationResult
+    public static (Dictionary<string, string> mappings, string stripped) StripHtml(string raw)
     {
-      Valid = response,
-      CorrectionPrompt = correctionPrompts.ToString(),
-    };
-  }
+        // Dictionary to store mappings from placeholders to actual HTML tags.
+        var tagMappings = new Dictionary<string, string>();
 
-  public static string CleanupLine(string input, string raw)
-  {
-    if (!string.IsNullOrEmpty(input))
+        // Regex pattern to match opening and closing tags separately
+        var openTagPattern = @"<([a-zA-Z0-9]+)(?:\s[^>]*)?>";
+        var closeTagPattern = @"</([a-zA-Z0-9]+)>";
+
+        // Use a counter for unique placeholder IDs
+        var openCounter = 0;
+        var closeCounter = 0;
+
+        // MatchEvaluator delegate to replace each opening tag with its placeholder
+        string openEvaluator(Match match)
+        {
+            var tagName = match.Groups[1].Value; // Capture the tag name
+            var placeholder = $"<TagID_{openCounter}_Open>";
+
+            // Map the actual HTML tag to this placeholder
+            tagMappings.Add(placeholder, match.Value);
+
+            openCounter++;
+            return placeholder;
+        }
+
+        // MatchEvaluator delegate to replace each closing tag with its placeholder
+        string closeEvaluator(Match match)
+        {
+            var tagName = match.Groups[1].Value; // Capture the tag name
+            var placeholder = $"<TagID_{closeCounter}_Closed>";
+
+            // Map the actual HTML tag to this placeholder
+            tagMappings.Add(placeholder, match.Value);
+
+            closeCounter++;
+            return placeholder;
+        }
+
+        // Replace opening tags with placeholders
+        var processedText = Regex.Replace(raw, openTagPattern, openEvaluator);
+
+        // Replace closing tags with placeholders
+        processedText = Regex.Replace(processedText, closeTagPattern, closeEvaluator);
+
+        return (tagMappings, raw);
+
+    }
+    public static string ConvertColorTagsToPlaceholderTags(string input)
     {
-      if (input.Contains('\"') && !raw.Contains('\"'))
-        input = input.Replace("\"", "");
+        // Regex to match <color> tags and capture their contents and attributes
+        string pattern = @"<color=(#[0-9A-Fa-f]{6})>(.*?)<\/color>";
+        string replacement = "<mark style=\"color: $1;\">$2</mark>";
 
-      if (input.Contains('[') && !raw.Contains('['))
-        input = input.Replace("[", "");
+        // Replace <color> tags with <font> tags
+        string result = Regex.Replace(input, pattern, replacement, RegexOptions.Singleline | RegexOptions.IgnoreCase);
 
-      if (input.Contains(']') && !raw.Contains(']'))
-        input = input.Replace("]", "");
+        return result;
+    }
+    public static string ConvertPlaceholderTagsToColorTags(string input)
+    {
+        // Regex to match <font> tags and capture their contents and attributes
+        string pattern = @"<mark style=\""color: (#[0-9A-Fa-f]{6});\"">(.*?)<\/mark>";
+        string replacement = "<color=$1>$2</color>";
 
-      if (input.Contains('`') && !raw.Contains('`'))
-        input = input.Replace("`", "'");
+        // Replace <font> tags with <color> tags
+        string result = Regex.Replace(input, pattern, replacement, RegexOptions.Singleline | RegexOptions.IgnoreCase);
 
-      //Strip .'s
-      if (input.EndsWith('.'))
-        input = input[..^1];
+        return result;
+    }
+    
+    public static string StripColorTags(string input)
+    {
+        // Regex to match <color> tags and capture their contents
+        string pattern = @"<color=(#[0-9A-Fa-f]{6})>(.*?)<\/color>";
+        string replacement = "$2"; // Keep only the contents within the <color> tags
 
-      input = RemoveDiacritics(input);
+        // Remove <color> tags and keep contents
+        string result = Regex.Replace(input, pattern, replacement, RegexOptions.Singleline | RegexOptions.IgnoreCase);
+
+        return result;
     }
 
-    return input;
-  }
-
-  public static List<string> FindMarkup(string input)
-  {
-    var markupTags = new List<string>();
-
-    if (input == null)
-      return markupTags;
-
-    // Regular expression to match markup tags in the format <tag>
-    string pattern = "<[^>]+>";
-    MatchCollection matches = Regex.Matches(input, pattern);
-
-    // Add each match to the list of markup tags
-    foreach (Match match in matches)
-      markupTags.Add(match.Value);
-
-    return markupTags;
-  }
-
-  public static List<string> FindPlaceholders(string input)
-  {
-    var placeholders = new List<string>();
-
-    if (input == null)
-      return placeholders;
-
-    // Regular expression to match placeholders in the format {number}
-    string pattern = "\\{.+\\}";
-    MatchCollection matches = Regex.Matches(input, pattern);
-
-    // Add each match to the list of placeholders
-    foreach (Match match in matches)
-      placeholders.Add(match.Value);
-
-    return placeholders;
-  }
-
-  public static string RemoveDiacritics(string text)
-  {
-    if (string.IsNullOrEmpty(text))
-      return string.Empty;
-
-    var normalizedString = text.Normalize(NormalizationForm.FormD);
-    var stringBuilder = new StringBuilder();
-
-    foreach (var c in normalizedString)
+    public static string PrepareRaw(string raw)
     {
-      var unicodeCategory = CharUnicodeInfo.GetUnicodeCategory(c);
-      if (unicodeCategory != UnicodeCategory.NonSpacingMark)
-      {
-        stringBuilder.Append(c);
-      }
+        return StripColorTags(raw);
     }
 
-    return stringBuilder.ToString().Normalize(NormalizationForm.FormC);
-  }
+    public static string PrepareResult(string llmResult)
+    {
+        llmResult = llmResult
+            .Replace("<Div>", "<div>")
+            .Replace("</Div>", "</div>");
+
+        if (llmResult.Contains("<div>"))
+        {
+            var pattern = @"<div>(.*?)</div>";
+            var result = Regex.Match(llmResult, pattern, RegexOptions.Singleline).Groups[1].Value;
+
+            //Handle LLM adding line breaks in the div tag
+            if (result.EndsWith('\n'))
+                result = result[..^1];
+            if (result.StartsWith('\n'))
+                result = result[1..];
+
+            return result;
+        }
+        else
+            return llmResult;
+    }
 }
