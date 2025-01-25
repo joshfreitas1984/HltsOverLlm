@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.Diagnostics;
+using System.Text.RegularExpressions;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 
@@ -9,22 +10,44 @@ public class TranslationCleanupTests
     const string workingDirectory = "../../../../Files";
 
     [Fact]
-    public async Task RemoveInvalidTranslationsFromTranslated()
+    public async Task UpdateCurrentTranslatedLines()
     {
         var config = Configuration.GetConfiguration(workingDirectory);
+        var pattern = LineValidation.ChineseCharPattern;
+
+        var manual = TranslationService.GetManualCorrections();
+        var newGlossaryStrings = new List<string>
+        {
+            //"野球拳",
+            //"南诏",
+            //"徐花"
+        };
 
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             int recordsModded = 0;
+
             foreach (var line in fileLines)
             {
                 foreach (var split in line.Splits)
                 {
-                    if (string.IsNullOrEmpty(split.Translated))
+                    // Add Manual Translations in that are missing
+                    var preparedRaw = LineValidation.PrepareRaw(split.Text);               
+
+                    // If it is manually corrected
+                    if (manual.TryGetValue(preparedRaw, out string? value))
+                    {
+                        if (split.Translated != value)
+                        {
+                            Console.WriteLine($"Manually Translated {textFileToTranslate.Path} \n{split.Text}\n{split.Translated}");
+                            split.Translated = LineValidation.PrepareResult(value);
+                            recordsModded++;
+                        }
                         continue;
+                    }
 
                     // If it is already translated or just special characters return it
-                    if (!Regex.IsMatch(split.Text, @"\p{IsCJKUnifiedIdeographs}") && split.Translated != split.Text)
+                    if (!Regex.IsMatch(split.Text, pattern) && split.Translated != split.Text)
                     {
                         Console.WriteLine($"Already Translated {textFileToTranslate.Path} \n{split.Translated}");
                         split.Translated = split.Text;
@@ -32,8 +55,30 @@ public class TranslationCleanupTests
                         continue;
                     }
 
+                    // Clean up Translations that are already in
+                    if (string.IsNullOrEmpty(split.Translated))
+                        continue;
+
+                    //Trim
+                    if (split.Translated.Trim().Length != split.Translated.Length)
+                    {
+                        Console.WriteLine($"Needed Trimming:{textFileToTranslate.Path} \n{split.Translated}");
+                        split.Translated = split.Translated.Trim();
+                        recordsModded++;
+                        //Don't continue we still want other stuff to happen
+                    }                   
+
+                    foreach (var glossary in newGlossaryStrings)
+                        if (split.Text.Contains(glossary))
+                        {
+                            Console.WriteLine($"New Glossary {textFileToTranslate.Path} Replaces: \n{split.Translated}");
+                            split.Translated = string.Empty;
+                            recordsModded++;
+                            continue;
+                        }                   
+
                     // Clean up Diacritics
-                    var cleanedUp = LineValidation.CleanupLine(split.Translated, split.Text);
+                    var cleanedUp = LineValidation.CleanupLineBeforeSaving(split.Translated, split.Text);
                     if (cleanedUp != split.Translated)
                     {
                         Console.WriteLine($"Cleaned up {textFileToTranslate.Path} \n{split.Translated}\n{cleanedUp}");
@@ -42,6 +87,7 @@ public class TranslationCleanupTests
                         continue;
                     }
 
+                    // Remove Invalid ones
                     var result = LineValidation.CheckTransalationSuccessful(config, split.Text, split.Translated ?? string.Empty);
                     if (!result.Valid)
                     {
@@ -103,6 +149,9 @@ public class TranslationCleanupTests
     public async Task FindAllFailingTranslations()
     {
         var failures = new List<string>();
+        var pattern = LineValidation.ChineseCharPattern;
+
+        var forTheGlossary = new List<string>();
 
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
@@ -114,11 +163,17 @@ public class TranslationCleanupTests
                         continue;
 
                     // If it is already translated or just special characters return it
-                    if (!Regex.IsMatch(split.Text, @"\p{IsCJKUnifiedIdeographs}"))
+                    if (!Regex.IsMatch(split.Text, pattern))
                         continue;
 
                     if (!string.IsNullOrEmpty(split.Text) && string.IsNullOrEmpty(split.Translated))
+                    {
                         failures.Add($"Invalid {textFileToTranslate.Path}:\n{split.Text}");
+
+                        //if (split.Text.Length < 6)
+                            if (!forTheGlossary.Contains(split.Text))
+                                forTheGlossary.Add(LineValidation.PrepareRaw(split.Text));
+                    }
                 }
             }
 
@@ -126,6 +181,7 @@ public class TranslationCleanupTests
         });
 
         File.WriteAllLines($"{workingDirectory}/TestResults/FailingTranslations.txt", failures);
+        File.WriteAllLines($"{workingDirectory}/TestResults/ForTheGlossary.txt", forTheGlossary);
     }
 
     [Fact]
@@ -172,5 +228,73 @@ public class TranslationCleanupTests
         // Convert <font> tags back to <color> tags
         string colorTagOutput = LineValidation.ConvertPlaceholderTagsToColorTags(fontTagOutput);
         Console.WriteLine(colorTagOutput);  // Output the result
+    }
+
+    [Fact]
+    public static void TestPuttingColorsBackForSelected()
+    {
+        var input = "<color=#FFCC22>我手上有一封信，是洪义交给我的。</color>";
+        var translated = "Inner Translation";
+        var input2 = "<color=#FFCC22>我手上有一封信，是洪义交给我的。</color>我手上有一封信，是洪义交给我的<color=#FFCC22>Should Fail</color>";
+
+        //If the string is 100% encased 
+        var result1 = LineValidation.EncaseColorsForWholeLines(input, translated);
+        var result2 = LineValidation.EncaseColorsForWholeLines(input2, translated);
+        var result3 = LineValidation.EncaseColorsForWholeLines(input, result1);
+
+        Assert.StartsWith("<color=#FFCC22>", result1);
+        Assert.EndsWith("</color>", result1);
+        Assert.True(result2 == translated);
+        Assert.Equal(result3, result1);
+    }
+
+    [Fact]
+    public async Task TranslateForGlossary()
+    {
+        var config = Configuration.GetConfiguration(workingDirectory);
+        string inputFile = $"{workingDirectory}/TestResults/ForTheGlossary.txt";
+
+        // Create an HttpClient instance
+        using var client = new HttpClient();
+        client.Timeout = TimeSpan.FromSeconds(300);
+
+        var batchSize = config.BatchSize ?? 10;
+        var testLines = File.ReadLines(inputFile).ToList();
+
+        var results = new List<string>();
+        var totalLines = testLines.Count;
+        var stopWatch = Stopwatch.StartNew();
+
+        //Optimisation Folder
+        var optimisationFolder = $"{workingDirectory}/TestResults/Optimisation";
+        if (config.OptimizationMode && Directory.Exists(optimisationFolder))
+            Directory.Delete(optimisationFolder, true);
+        Directory.CreateDirectory(optimisationFolder);
+
+        // Turn off validation
+        config.SkipLineValidation = true;
+
+        for (int i = 0; i < totalLines; i += batchSize)
+        {
+            stopWatch.Restart();
+
+            int batchRange = Math.Min(batchSize, totalLines - i);
+            var batch = testLines.GetRange(i, batchRange);
+            int recordsProcessed = 0;
+
+            // Process the batch in parallel
+            await Task.WhenAll(batch.Select(async line =>
+            {
+                var result = await TranslationService.TranslateSplitAsync(config, line, client);
+                results.Add($"{{ \"{line}\", \"{result}\" }}, ");
+                recordsProcessed++;
+            }));
+
+            var elapsed = stopWatch.ElapsedMilliseconds;
+            var speed = recordsProcessed == 0 ? 0 : elapsed / recordsProcessed;
+            Console.WriteLine($"Line: {i + batchRange} of {totalLines} ({elapsed} ms ~ {speed}/line)");
+        }
+
+        File.WriteAllLines($"{workingDirectory}/TestResults/ForTheGlossaryTrans.txt", results);
     }
 }

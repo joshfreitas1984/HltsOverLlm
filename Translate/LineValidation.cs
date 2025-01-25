@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Globalization;
 using System.Linq;
 using System.Text;
@@ -13,8 +14,36 @@ public class LineValidation
 {
     public const string ChineseCharPattern = @"\p{IsCJKUnifiedIdeographs}";
 
-    public static ValidationResult CheckTransalationSuccessful(LlmConfig config, string raw, string result)
+    public static string PrepareRaw(string raw)
     {
+        return StripColorTags(raw);
+    }
+
+    public static string PrepareResult(string llmResult)
+    {
+        llmResult = llmResult
+            .Replace("<Div>", "<div>")
+            .Replace("</Div>", "</div>");
+
+        if (llmResult.Contains("<div>"))
+        {
+            var pattern = @"<div>(.*?)</div>";
+            var result = Regex.Match(llmResult, pattern, RegexOptions.Singleline).Groups[1].Value;
+
+            //Handle LLM adding line breaks in the div tag
+            if (result.EndsWith('\n'))
+                result = result[..^1];
+            if (result.StartsWith('\n'))
+                result = result[1..];
+
+            return result;
+        }
+        else
+            return llmResult;
+    }
+
+    public static ValidationResult CheckTransalationSuccessful(LlmConfig config, string raw, string result)
+    {                     
         var response = true;
         var correctionPrompts = new StringBuilder();
 
@@ -22,7 +51,11 @@ public class LineValidation
             response = false;
 
         // Didnt translate at all and default response to prompt.
-        if (result.Contains("provide the text") || result.Contains("'''html"))
+        if (result.Contains("provide the text") || result.Contains("'''") || result.Contains("<p") || result.Contains("<em"))
+            response = false;
+
+        // 99% chance its gone crazy with hallucinations
+        if (result.Length > 50 && raw.Length < 6)
             response = false;
 
         ////Alternativves
@@ -38,26 +71,26 @@ public class LineValidation
         //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "\\");
         //}
 
-        //// Small source with 'or' is ususually an alternative
-        //if (result.Contains("or") && raw.Length < 4)
-        //{
-        //    response = false;
-        //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "or");
-        //}
+        // Small source with 'or' is ususually an alternative
+        if ((result.Contains(" or") || result.Contains("(or")) && raw.Length < 3)
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "or");
+        }
 
-        //// Small source with 'and' is ususually an alternative
-        //if (result.Contains("and") && raw.Length < 4)
-        //{
-        //    response = false;
-        //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "and");
-        //}
+        // Small source with 'and' is ususually an alternative
+        if (result.Contains(" and") && raw.Length < 3)
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "and");
+        }
 
         // Small source with ';' is ususually an alternative
-        //if (result.Contains(';') && raw.Length < 4)
-        //{
-        //    response = false;
-        //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", ";");
-        //}
+        if (result.Contains(';') && !raw.Contains(';') && raw.Length < 3)
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", ";");
+        }
 
         //// Added Brackets (Literation) where no brackets or widebrackets in raw
         //if (result.Contains('(') && !raw.Contains('(') && !raw.Contains('（'))
@@ -129,12 +162,6 @@ public class LineValidation
             correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "<br>");
             //correctionPrompts.AddPromptWithValues(config, "CorrectTagPrompt");
         }
-        // New Lines only if <br> correction isnt there helps quite a bit - HLTS doesnt have 
-        //else if (result.Contains('\n') && !raw.Contains('\n'))
-        //{
-        //  response = false;
-        //  correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt",);
-        //}
         // Color tags are evil
         //else if (raw.Contains("<color") && !result.Contains("<color"))
         //{
@@ -162,6 +189,12 @@ public class LineValidation
         {
             response = false;
             correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalPrompt", "<br>");
+        }
+
+        if (result.Contains('\n'))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalPrompt", "\\n");
         }
 
         //if (result.Contains("<color") && !raw.Contains("<color"))
@@ -197,93 +230,49 @@ public class LineValidation
         };
     }
 
-    public static string CleanupLine(string input, string raw)
+    public static string CleanupLineBeforeSaving(string input, string raw)
     {
-        if (!string.IsNullOrEmpty(input))
+        var result = input.Trim();
+        if (!string.IsNullOrEmpty(result))
         {
-            if (input.Contains('\"') && !raw.Contains('\"'))
-                input = input.Replace("\"", "");
+            if (result.Contains('\"') && !raw.Contains('\"'))
+                result = result.Replace("\"", "");
 
-            if (input.Contains('[') && !raw.Contains('['))
-                input = input.Replace("[", "");
+            if (result.Contains('[') && !raw.Contains('['))
+                result = result.Replace("[", "");
 
-            if (input.Contains(']') && !raw.Contains(']'))
-                input = input.Replace("]", "");
+            if (result.Contains(']') && !raw.Contains(']'))
+                result = result.Replace("]", "");
 
-            if (input.Contains('`') && !raw.Contains('`'))
-                input = input.Replace("`", "'");
+            if (result.Contains('`') && !raw.Contains('`'))
+                result = result.Replace("`", "'");
 
             //Strip .'s
-            if (input.EndsWith('.'))
-                input = input[..^1];
+            if (result.EndsWith('.') && raw != "." && !result.EndsWith(".."))
+                result = result[..^1];
 
-            input = RemoveDiacritics(input);
-        }
+            result = LineValidation.RemoveDiacritics(result);
 
-        return input;
-    }
+            result = LineValidation.EncaseColorsForWholeLines(raw, result);
 
-    public static List<string> FindMarkup(string input)
-    {
-        var markupTags = new List<string>();
-
-        if (input == null)
-            return markupTags;
-
-        // Regular expression to match markup tags in the format <tag>
-        string pattern = "<[^>]+>";
-        MatchCollection matches = Regex.Matches(input, pattern);
-
-        // Add each match to the list of markup tags
-        foreach (Match match in matches)
-            markupTags.Add(match.Value);
-
-        return markupTags;
-    }
-
-    public static List<string> FindPlaceholders(string input)
-    {
-        var placeholders = new List<string>();
-
-        if (input == null)
-            return placeholders;
-
-        // Regular expression to match placeholders in the format {number}
-        string pattern = "\\{.+\\}";
-        MatchCollection matches = Regex.Matches(input, pattern);
-
-        // Add each match to the list of placeholders
-        foreach (Match match in matches)
-            placeholders.Add(match.Value);
-
-        return placeholders;
-    }
-
-    public static string RemoveDiacritics(string text)
-    {
-        if (string.IsNullOrEmpty(text))
-            return string.Empty;
-
-        var normalizedString = text.Normalize(NormalizationForm.FormD);
-        var stringBuilder = new StringBuilder();
-
-        foreach (var c in normalizedString)
-        {
-            var unicodeCategory = CharUnicodeInfo.GetUnicodeCategory(c);
-            if (unicodeCategory != UnicodeCategory.NonSpacingMark)
+            if (string.IsNullOrEmpty(result))
             {
-                stringBuilder.Append(c);
+                Console.WriteLine($"Something Bad happened somewhere: {raw}\n{result}");
+                return result;
             }
+
+            if (Char.IsLower(result[0]) && raw != result)
+                result = Char.ToUpper(result[0]) + result[1..];
         }
 
-        return stringBuilder.ToString().Normalize(NormalizationForm.FormC);
-    }
-
+        return result;
+    }   
+    
     public static string CalulateCorrectionPrompt(LlmConfig config, ValidationResult validationResult, string raw, string result)
     {
         return string.Format(config.Prompts["BaseCorrectionPrompt"], raw, result, validationResult.CorrectionPrompt); ;
     }
-
+    
     public static (Dictionary<string, string> mappings, string stripped) StripHtml(string raw)
     {
         // Dictionary to store mappings from placeholders to actual HTML tags.
@@ -332,6 +321,43 @@ public class LineValidation
         return (tagMappings, raw);
 
     }
+
+    public static List<string> FindMarkup(string input)
+    {
+        var markupTags = new List<string>();
+
+        if (input == null)
+            return markupTags;
+
+        // Regular expression to match markup tags in the format <tag>
+        string pattern = "<[^>]+>";
+        MatchCollection matches = Regex.Matches(input, pattern);
+
+        // Add each match to the list of markup tags
+        foreach (Match match in matches)
+            markupTags.Add(match.Value);
+
+        return markupTags;
+    }
+
+    public static List<string> FindPlaceholders(string input)
+    {
+        var placeholders = new List<string>();
+
+        if (input == null)
+            return placeholders;
+
+        // Regular expression to match placeholders in the format {number}
+        string pattern = "\\{.+\\}";
+        MatchCollection matches = Regex.Matches(input, pattern);
+
+        // Add each match to the list of placeholders
+        foreach (Match match in matches)
+            placeholders.Add(match.Value);
+
+        return placeholders;
+    }
+
     public static string ConvertColorTagsToPlaceholderTags(string input)
     {
         // Regex to match <color> tags and capture their contents and attributes
@@ -343,6 +369,7 @@ public class LineValidation
 
         return result;
     }
+    
     public static string ConvertPlaceholderTagsToColorTags(string input)
     {
         // Regex to match <font> tags and capture their contents and attributes
@@ -367,31 +394,39 @@ public class LineValidation
         return result;
     }
 
-    public static string PrepareRaw(string raw)
+    public static string EncaseColorsForWholeLines(string raw, string translated)
     {
-        return StripColorTags(raw);
+        var pattern = @"(<[^>]+>).*(</[^>]+>)";
+
+        if (raw.StartsWith("<color") && raw.EndsWith("</color>")
+            && raw.LastIndexOf("<color") == 0 && !translated.StartsWith("<color"))
+        {
+            var matches = Regex.Matches(raw, pattern);
+            string start = matches[0].Groups[1].Value;
+            string end = matches[0].Groups[2].Value;
+            translated = $"{start}{translated}{end}";
+        }
+
+        return translated;
     }
 
-    public static string PrepareResult(string llmResult)
+    public static string RemoveDiacritics(string text)
     {
-        llmResult = llmResult
-            .Replace("<Div>", "<div>")
-            .Replace("</Div>", "</div>");
+        if (string.IsNullOrEmpty(text))
+            return string.Empty;
 
-        if (llmResult.Contains("<div>"))
+        var normalizedString = text.Normalize(NormalizationForm.FormD);
+        var stringBuilder = new StringBuilder();
+
+        foreach (var c in normalizedString)
         {
-            var pattern = @"<div>(.*?)</div>";
-            var result = Regex.Match(llmResult, pattern, RegexOptions.Singleline).Groups[1].Value;
-
-            //Handle LLM adding line breaks in the div tag
-            if (result.EndsWith('\n'))
-                result = result[..^1];
-            if (result.StartsWith('\n'))
-                result = result[1..];
-
-            return result;
+            var unicodeCategory = CharUnicodeInfo.GetUnicodeCategory(c);
+            if (unicodeCategory != UnicodeCategory.NonSpacingMark)
+            {
+                stringBuilder.Append(c);
+            }
         }
-        else
-            return llmResult;
+
+        return stringBuilder.ToString().Normalize(NormalizationForm.FormC);
     }
 }

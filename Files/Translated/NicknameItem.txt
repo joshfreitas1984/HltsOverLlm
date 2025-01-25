@@ -4,10 +4,10 @@
   splits:
   - split: 1
     text: "无称号"
-    translated: "Titleless"
+    translated: "Without a title"
   - split: 2
     text: "不使用任何称号。"
-    translated: "Do not use any titles."
+    translated: "Don't use any titles"
 - lineNum: 1
   raw: "#上面defaultNickname不要删掉，那是每个角色最初始的称号					"
   translated: ""
@@ -18,190 +18,190 @@
   splits:
   - split: 1
     text: "天外来客"
-    translated: "Stranger from the stars"
+    translated: "A Guest from Another World"
   - split: 2
     text: "第一个拿到的称号，对这个世界来说，我就是一个天外的来客。(测试)"
-    translated: "The first title I obtained in this world makes me a stranger from beyond the heavens. (Test)"
+    translated: "The first title I acquire, to this world, I am a guest from beyond the sky. (Test)"
 - lineNum: 3
   raw: "nick001	再世神农	采集药草时，20%机率得到双份。		Player	nick001"
   translated: ""
   splits:
   - split: 1
     text: "再世神农"
-    translated: "Zaishi Shenngong"
+    translated: "Again, God of Agriculture"
   - split: 2
     text: "采集药草时，20%机率得到双份。"
-    translated: "When collecting medicinal herbs, there is a 20% chance of obtaining double the amount."
+    translated: "When collecting herbs, there is a 20% chance of obtaining double"
 - lineNum: 4
   raw: "nick003	淘金矿工	采集矿石时，20%机率得到双份。		Player	nick003"
   translated: ""
   splits:
   - split: 1
     text: "淘金矿工"
-    translated: "Gold Prospector Miner"
+    translated: "Gold Prospector"
   - split: 2
     text: "采集矿石时，20%机率得到双份。"
-    translated: "When collecting ore, there is a 20% chance of obtaining double the amount."
+    translated: "During mining, there is a 20% chance to collect double the amount of ore"
 - lineNum: 5
   raw: "nick004	透明人	施展妙手空空时比较不容易被发现。(被发现机率降低50%)		Player	nick004"
   translated: ""
   splits:
   - split: 1
     text: "透明人"
-    translated: "Transparent person"
+    translated: "Invisible Person"
   - split: 2
     text: "施展妙手空空时比较不容易被发现。(被发现机率降低50%)"
-    translated: "When Shi Zhan employs Miao Shou Kong Kong, it is comparatively harder to be discovered (the probability of being detected decreases by 50%)."
+    translated: "When using the Mysterious Hand Trick, it is comparatively difficult to be discovered (the chance of being discovered decreases by 50%)"
 - lineNum: 6
   raw: "nick005	富二代	获得金钱增加10%		Player	nick005"
   translated: ""
   splits:
   - split: 1
     text: "富二代"
-    translated: "Second-generation wealthy individual"
+    translated: "Heir to a wealthy family"
   - split: 2
     text: "获得金钱增加10%"
-    translated: "Receive a 10% increase in money."
+    translated: "Gain a 10% increase in money"
 - lineNum: 7
   raw: "nick006	天选之人	野球拳的基础伤害+20%，且随着等级提升，伤害加成也将跟着提升。		Player	nick006"
   translated: ""
   splits:
   - split: 1
     text: "天选之人"
-    translated: "The Chosen One"
+    translated: "Chosen One"
   - split: 2
     text: "野球拳的基础伤害+20%，且随着等级提升，伤害加成也将跟着提升。"
-    translated: "Base damage from Yakyuken increased by 20%, and the damage bonus will also increase with level."
+    translated: "Base damage of baseball fist increases by 20%, and the damage bonus will also increase as the level goes up"
 - lineNum: 8
   raw: "nick007	天南王道	周遭2格范围内友方，每回合降低自身负面状态5点		n51001	nick007"
   translated: ""
   splits:
   - split: 1
     text: "天南王道"
-    translated: "King Wang of Tiannan"
+    translated: "Tian Nan Wang Dao"
   - split: 2
     text: "周遭2格范围内友方，每回合降低自身负面状态5点"
-    translated: "Within a two-square radius around allies, reduce their own negative status by 5 points each turn."
+    translated: "Within a two-grid radius, allies reduce their own negative status by 5 points each round"
 - lineNum: 9
   raw: "nick007P	振兴王道	周遭4格范围内友方，每回合降低自身负面状态5点、提升自身正面状态3点		n51001	nick007Plus"
   translated: ""
   splits:
   - split: 1
     text: "振兴王道"
-    translated: "Rejuvenating the Kingly Way"
+    translated: "Revive the Kingly Way"
   - split: 2
     text: "周遭4格范围内友方，每回合降低自身负面状态5点、提升自身正面状态3点"
-    translated: "Within a 4-tile radius around allies, reduce own negative status by 5 points and increase own positive status by 3 points per turn."
+    translated: "Within a 4-tile radius of allies, reduce negative status by 5 points and increase positive status by 3 points each turn"
 - lineNum: 10
   raw: "nick008	箐林鸩羽	若待在何紫菀周围2单位距离内，每回合中毒8点		n90405	nick008"
   translated: ""
   splits:
   - split: 1
     text: "箐林鸩羽"
-    translated: "Thicket Forest Poisonous Feathers"
+    translated: "Thicket of Poisonous Feathers"
   - split: 2
     text: "若待在何紫菀周围2单位距离内，每回合中毒8点"
-    translated: "If within a distance of 2 units from He Zhiwan, be poisoned for 8 points each turn."
+    translated: "If you are within 2 units of distance from He Ziwang each round, you will be poisoned for 8 points"
 - lineNum: 11
   raw: "nick008P	比翼鸩羽	若待在何紫菀周围4单位距离内，每回合中毒8点、队友降低5点		n90405	nick008Plus"
   translated: ""
   splits:
   - split: 1
     text: "比翼鸩羽"
-    translated: "Swallowing Arsenic with a Pair of Wings"
+    translated: "Swans that die together"
   - split: 2
     text: "若待在何紫菀周围4单位距离内，每回合中毒8点、队友降低5点"
-    translated: "If you remain within a 4-unit distance of He Ziwang for an entire round, you will be poisoned by 8 points and your teammates' damage will be reduced by 5 points."
+    translated: "If you remain within a 4-unit distance of He Ziwang each round, you will be poisoned for 8 points and your allies' combat effectiveness reduced by 5 points"
 - lineNum: 12
   raw: "nick009	雪山神鹰	战斗时，雪翼雕加入战局；自身弓箭伤害增加25%，且所有友方获得状态「飞鹰猎手」		n50060	nick009"
   translated: ""
   splits:
   - split: 1
     text: "雪山神鹰"
-    translated: "Snow Mountain Divine Eagle"
+    translated: "Snowy Mountain Divine Eagle"
   - split: 2
     text: "战斗时，雪翼雕加入战局；自身弓箭伤害增加25%，且所有友方获得状态「飞鹰猎手」"
-    translated: "During battle, the Snowwing Eagle enters the fray; its own bow and arrow damage increases by 25%, and all allies gain the status Falcon Hunter."
+    translated: "Snowy Wing Sparrow joins the battle; personal archery damage increases by 25%, and all allies receive the status Falconer"
 - lineNum: 13
   raw: "nick009b	振翅千里	有20%机率闪避攻击		n50070	nick009b"
   translated: ""
   splits:
   - split: 1
     text: "振翅千里"
-    translated: "Soar across a thousand miles"
+    translated: "Soar for a thousand miles"
   - split: 2
     text: "有20%机率闪避攻击"
-    translated: "20% chance to evade attacks"
+    translated: "There is a 20% chance to dodge the attack"
 - lineNum: 14
   raw: "nick009c	雪山神鹰	进场时，猎鹰加入战局；自身弓箭伤害增加25%，且所有友方获得状态「飞鹰猎手」		n50060	nick009c"
   translated: ""
   splits:
   - split: 1
     text: "雪山神鹰"
-    translated: "Snow Mountain Holy Eagle"
+    translated: "Snowy Mountain Divine Eagle"
   - split: 2
     text: "进场时，猎鹰加入战局；自身弓箭伤害增加25%，且所有友方获得状态「飞鹰猎手」"
-    translated: "Upon entry, the Falcon joins the battle; its own archery damage increases by 25%, and all allies gain the status Hawk's Hunt."
+    translated: "Upon entering the field, the Eagle Hunter joins the battle; personal bow and arrow damage increases by 25%, and all allies receive the status Eagle Hunter"
 - lineNum: 15
   raw: "nick009d	雪山神鹰	自身弓箭伤害增加25%		n50060	nick009d"
   translated: ""
   splits:
   - split: 1
     text: "雪山神鹰"
-    translated: "Snow Mountain Divine Eagle"
+    translated: "Snowy Mountain Divine Eagle"
   - split: 2
     text: "自身弓箭伤害增加25%"
-    translated: "Self-inflicted archery damage increased by 25%."
+    translated: "Self-bow and arrow damage increased by 25%"
 - lineNum: 16
   raw: "nick009e	振翅千里	有10%机率闪避攻击，并对自身附加状态「麻痹剧毒」		n50070	nick009e"
   translated: ""
   splits:
   - split: 1
     text: "振翅千里"
-    translated: "Soar a thousand miles."
+    translated: "Soar for a thousand miles"
   - split: 2
     text: "有10%机率闪避攻击，并对自身附加状态「麻痹剧毒」"
-    translated: "There is a 10% chance to evade the attack and inflict the status Paralysis Poison on oneself."
+    translated: "There is a 10% chance to dodge the attack and inflict the status Paralysis Poison on yourself"
 - lineNum: 17
   raw: "nick009P1	神鹰再起	战斗时，雪翼雕加入战局；自身弓箭伤害增加40%，且所有友方获得状态「飞鹰猎手」		n50060	nick009P1"
   translated: ""
   splits:
   - split: 1
     text: "神鹰再起"
-    translated: "The Phoenix Soars Again"
+    translated: "Phoenix Eagle Rises Again"
   - split: 2
     text: "战斗时，雪翼雕加入战局；自身弓箭伤害增加40%，且所有友方获得状态「飞鹰猎手」"
-    translated: "During battle, Snowwing Hawk joins the fight; its own archery damage increases by 40%, and all allies gain the status Hawk-Eye Archer."
+    translated: "During battle, Xueyidiao joins the fight; personal archery damage increases by 40%, and all allies gain the status Falconer"
 - lineNum: 18
   raw: "nick009P2	神鹰再起	进场时，猎鹰加入战局；自身弓箭伤害增加40%，且所有友方获得状态「飞鹰猎手」		n50060	nick009P2"
   translated: ""
   splits:
   - split: 1
     text: "神鹰再起"
-    translated: "The Soaring Phoenix Rises Again"
+    translated: "Phoenix Eagle Rises Again"
   - split: 2
     text: "进场时，猎鹰加入战局；自身弓箭伤害增加40%，且所有友方获得状态「飞鹰猎手」"
-    translated: "Upon entry, the Falconer joins the battle; personal archery damage increased by 40%, and all allies gain the status Hawkeye Marksman."
+    translated: "When entering the battlefield, Eagle Hunter joins the fight; their own bow and arrow damage increases by 40%, and all allies receive the status Hawk Hunter"
 - lineNum: 19
   raw: "nick010a	兰蕙解语	颜玉书在场上时，所有队友的攻击力提升50%		n09999a	nick010a"
   translated: ""
   splits:
   - split: 1
     text: "兰蕙解语"
-    translated: "Lan Hui Jieyu"
+    translated: "Lan Hui Jie Yu"
   - split: 2
     text: "颜玉书在场上时，所有队友的攻击力提升50%"
-    translated: "When Yan Yushu is on the field, all teammates' attack power increases by 50%."
+    translated: "When Yan Yushu is on the field, all teammates' attack power increases by 50%"
 - lineNum: 20
   raw: "nick010aP	缥缈幽蕙	颜玉书在场上时，所有队友的攻击力提升50%，减伤10%		n09999a	nick010aP"
   translated: ""
   splits:
   - split: 1
     text: "缥缈幽蕙"
-    translated: "Ethereal and secluded orchids."
+    translated: "Ghostly Fragrance"
   - split: 2
     text: "颜玉书在场上时，所有队友的攻击力提升50%，减伤10%"
-    translated: "When Yan Yushu is on the field, all teammates' attack power increases by 50%, and damage taken decreases by 10%."
+    translated: "When Yan Yushu is on the field, all teammates' attack power increases by 50%, and their damage reduction is 10%"
 - lineNum: 21
   raw: "nick010b	兰蕙解语	颜玉书在场上时，所有队友的攻击力提升50%		n09999b	nick010b"
   translated: ""
@@ -211,37 +211,37 @@
     translated: "Lan Hui Jie Yu"
   - split: 2
     text: "颜玉书在场上时，所有队友的攻击力提升50%"
-    translated: "When Yan Yushu is on the field, all teammates' attack power increases by 50%."
+    translated: "When Yan Yushu is on the field, all teammates' attack power increases by 50%"
 - lineNum: 22
   raw: "nick010bP	蕙语兰情	颜玉书在场上时，所有队友的攻击力提升50%，减伤10%		n09999b	nick010bP"
   translated: ""
   splits:
   - split: 1
     text: "蕙语兰情"
-    translated: "Graceful speech and charming demeanor."
+    translated: "Mint Words and Orchid Feelings"
   - split: 2
     text: "颜玉书在场上时，所有队友的攻击力提升50%，减伤10%"
-    translated: "When Yan Yushu is on the field, all teammates' attack power increases by 50%, and damage reduction of 10%."
+    translated: "When Yan Yushu is on the field, all teammates' attack power increases by 50%, and damage taken decreases by 10%"
 - lineNum: 23
   raw: "nick011	马帮千金	每次受击所累积的爆击率增加10%，暴击伤害提升50%		n20049	nick011"
   translated: ""
   splits:
   - split: 1
     text: "马帮千金"
-    translated: "Ma Bang Qinjin"
+    translated: "Thousand Golds of the Ma Gang"
   - split: 2
     text: "每次受击所累积的爆击率增加10%，暴击伤害提升50%"
-    translated: "Each time you take a hit, your critical hit rate increases by 10%, and the critical hit damage is increased by 50%."
+    translated: "Every time you are hit, the critical strike rate accumulates an additional 10%, and the critical hit damage increases by 50%"
 - lineNum: 24
   raw: "nick011P	马帮首领	每次受击所累积的爆击率增加20%，暴击伤害提升80%		n20049	nick011P"
   translated: ""
   splits:
   - split: 1
     text: "马帮首领"
-    translated: "Chief of the Ma Gang"
+    translated: "Leader of the Ma Gang"
   - split: 2
     text: "每次受击所累积的爆击率增加20%，暴击伤害提升80%"
-    translated: "Every time you take a hit, the critical hit rate increases by 20%, and critical damage is increased by 80%."
+    translated: "Every time you are hit, the critical strike rate increases by 20%, and the critical hit damage is increased by 80%"
 - lineNum: 25
   raw: "nick012	十月春风	有机率闪避敌人攻击，自身轻功越高，闪避率越高		n60005	nick012"
   translated: ""
@@ -251,87 +251,87 @@
     translated: "Spring breeze in October"
   - split: 2
     text: "有机率闪避敌人攻击，自身轻功越高，闪避率越高"
-    translated: "There is a chance to evade enemy attacks; the higher one's martial arts skill, the higher the evasion rate."
+    translated: "There is a chance to dodge an enemy's attack; the higher your qinggong, the higher your dodging rate"
 - lineNum: 26
   raw: "nick012P	大师兄	自身轻功越高，闪避率越高；背袭时额外造成目标15点晕眩		n60005	nick012P"
   translated: ""
   splits:
   - split: 1
     text: "大师兄"
-    translated: "Eldest Master"
+    translated: "Great Elder Brother"
   - split: 2
     text: "自身轻功越高，闪避率越高；背袭时额外造成目标15点晕眩"
-    translated: "The higher one's agility, the higher their evasion rate; when backstabbing, it additionally causes the target to be stunned for 15 points."
+    translated: "Higher one's qi-enhanced agility, the higher their evasive ability; when executing a back attack, an additional 15 points of disorientation is inflicted on the target"
 - lineNum: 27
   raw: "nick013	点苍仙子	双剑或双短兵的招式威力增强30%		n60040	nick013"
   translated: ""
   splits:
   - split: 1
     text: "点苍仙子"
-    translated: "Peakless Immortal Maiden"
+    translated: "Dian Cang Xianzi"
   - split: 2
     text: "双剑或双短兵的招式威力增强30%"
-    translated: "The power of techniques involving two swords or short weapons is increased by 30%."
+    translated: "Double-sword or double-short-weapon techniques increase damage by 30%"
 - lineNum: 28
   raw: "nick013P	白马仙子	双剑或双短兵的招式威力增强50%，战斗时轻功提升10点		n60040	nick013P"
   translated: ""
   splits:
   - split: 1
     text: "白马仙子"
-    translated: "Maiden of the White Horse"
+    translated: "White Horse Fairy"
   - split: 2
     text: "双剑或双短兵的招式威力增强50%，战斗时轻功提升10点"
-    translated: "The power of dual-sword or dual-weapon techniques increases by 50%, and agility is enhanced by 10 points during combat."
+    translated: "Double-sword or double-short-weapon techniques increase power by 50%, and agility is increased by 10 points during combat"
 - lineNum: 29
   raw: "nick014	血煞观音	攻击对象为男性时，有25%机率造成对方15点晕眩、15点迷惑		n60100	nick014"
   translated: ""
   splits:
   - split: 1
     text: "血煞观音"
-    translated: "Blood Demon Guanyin"
+    translated: "Dark Blood Mantra"
   - split: 2
     text: "攻击对象为男性时，有25%机率造成对方15点晕眩、15点迷惑"
-    translated: "When the target is male, there is a 25% chance to inflict 15 points of dizziness and 15 points of confusion on the opponent."
+    translated: "When attacking a male target, there is a 25% chance to inflict the opponent with 15 points of dizziness and 15 points of confusion"
 - lineNum: 30
   raw: "nick014P	俏梦阁主	攻击对象为男性时，技能伤害提升，有25%机率造成对方15点晕眩、15点迷惑		n60100	nick014P"
   translated: ""
   splits:
   - split: 1
     text: "俏梦阁主"
-    translated: "Madame Dreaming Pavilion Mistress"
+    translated: "Madame of Charming Dream Hall"
   - split: 2
     text: "攻击对象为男性时，技能伤害提升，有25%机率造成对方15点晕眩、15点迷惑"
-    translated: "When the target is male, skill damage increases, with a 25% chance to cause 15 points of stun and 15 points of confusion."
+    translated: "When the target is male, the skill damage increases, with a 25% chance to inflict 15 points of dizziness and 15 points of confusion on the opponent"
 - lineNum: 31
   raw: "nick015	擎天高义	发动卸劲时，能卸掉自身所受60%伤害；每一次出手都会让敌人更倾向于将目标转为自己		n20033	nick015"
   translated: ""
   splits:
   - split: 1
     text: "擎天高义"
-    translated: "Cheng Tian Gao Yi"
+    translated: "Heaven's Pillar Fort"
   - split: 2
     text: "发动卸劲时，能卸掉自身所受60%伤害；每一次出手都会让敌人更倾向于将目标转为自己"
-    translated: "Upon releasing pressure, it can negate 60% of the damage taken; each move makes the enemy more inclined to shift their target towards oneself."
+    translated: "When activating the release of energy, one can absorb 60% of their own inflicted damage; each time they attack, it makes enemies more likely to redirect their target towards themselves"
 - lineNum: 32
   raw: "nick015P	侠之大者	发动卸劲时，能卸掉自身所受80%伤害；每一次出手都会让敌人更倾向于将目标转为自己		n20033	nick015P"
   translated: ""
   splits:
   - split: 1
     text: "侠之大者"
-    translated: "The greatest among the righteous warriors."
+    translated: "What is greatest in a hero"
   - split: 2
     text: "发动卸劲时，能卸掉自身所受80%伤害；每一次出手都会让敌人更倾向于将目标转为自己"
-    translated: "When discharging internal energy, one can deflect 80% of the damage inflicted upon oneself; each time they act, it makes the enemy more likely to turn their target towards them."
+    translated: "When unleashing power, one can reduce their own received damage by 80%; each time they strike, it makes the enemy more inclined to switch targets to them"
 - lineNum: 33
   raw: "nick016	青天孤月	发动四两拨千金、借力打力时，对敌人造成的伤害更大		n09997	nick016"
   translated: ""
   splits:
   - split: 1
     text: "青天孤月"
-    translated: "The Lone Moon in a Clear Sky"
+    translated: "Clear sky, solitary moon"
   - split: 2
     text: "发动四两拨千金、借力打力时，对敌人造成的伤害更大"
-    translated: "Leveraging the principle of move two catties and displace a thousand ounces, inflicting greater damage on an opponent by borrowing strength."
+    translated: "When employing Four ounces to move a thousand gold and Using leverage to apply force, the damage inflicted on the enemy is greater"
 - lineNum: 34
   raw: "nick016P	青天明月	发动四两拨千金、借力打力时，对敌人造成的伤害更大；减伤10%		n09997	nick016P"
   translated: ""
@@ -341,267 +341,267 @@
     translated: "Clear sky and bright moon"
   - split: 2
     text: "发动四两拨千金、借力打力时，对敌人造成的伤害更大；减伤10%"
-    translated: "Utilize the principle of four ounces moving ten thousand pounds and leverage to maximize damage against enemies; reduce damage taken by 10%."
+    translated: "Activate Move Two Liang to Win a Qian Jin, leveraging external force against the enemy; increases damage dealt and reduces damage taken by 10%"
 - lineNum: 35
   raw: "nick017	玉骨芝兰	施展补血技能时，补血效果提升为125%		n60400	nick017"
   translated: ""
   splits:
   - split: 1
     text: "玉骨芝兰"
-    translated: "Jade bone orchid lily"
+    translated: "Yu Gu Zhi Lan"
   - split: 2
     text: "施展补血技能时，补血效果提升为125%"
-    translated: "When Shi Zhan uses the healing skill, the healing effect is increased by 125%."
+    translated: "When using the healing skill, the healing effect increases to 125%"
 - lineNum: 36
   raw: "nick017P	藏花妙手	施展补血技能时，补血效果提升为130%；减伤10%		n60400	nick017P"
   translated: ""
   splits:
   - split: 1
     text: "藏花妙手"
-    translated: "Adept at Concealing Flowers"
+    translated: "Flower-planting Master"
   - split: 2
     text: "施展补血技能时，补血效果提升为130%；减伤10%"
-    translated: "When Shi Zhan uses the Blood Replenishment skill, the effect is enhanced to 130%; damage reduced by 10%."
+    translated: "When using the healing skill, the healing effect is increased to 130%; damage taken is reduced by 10%"
 - lineNum: 37
   raw: "nick018	恨海孤魂	每回合自身攻击力+10%，至多累积50%；每回合自身内伤值+10		n53001	nick018"
   translated: ""
   splits:
   - split: 1
     text: "恨海孤魂"
-    translated: "Vengeful Spirit of the Sea of Hatred"
+    translated: "Sea of Hatred, Lonely Soul"
   - split: 2
     text: "每回合自身攻击力+10%，至多累积50%；每回合自身内伤值+10"
-    translated: "Each round increases your attack power by 10%, up to a maximum of 50%; each round, your internal damage value increases by 10."
+    translated: "Each round, self-attack power increases by 10%, with a maximum cumulative increase of 50%; each round, self-internal injury value increases by 10"
 - lineNum: 38
   raw: "nick018b	恨海孤魂	每回合自身攻击力+10%，至多累积50%；发动爆击时，爆击伤害额外增加25%		n53001	nick018b"
   translated: ""
   splits:
   - split: 1
     text: "恨海孤魂"
-    translated: "Sea of Hatred's Lonely Soul"
+    translated: "Sea of Hatred, Lonely Soul"
   - split: 2
     text: "每回合自身攻击力+10%，至多累积50%；发动爆击时，爆击伤害额外增加25%"
-    translated: "Each round, self-attack power increases by 10%, accumulating up to a maximum of 50%; when critical hits are triggered, critical hit damage is additionally increased by 25%."
+    translated: "Each round, self-attack power increases by 10%, up to a maximum cumulative increase of 50%; when triggering a critical hit, the critical hit damage is additionally increased by 25%"
 - lineNum: 39
   raw: "nick018bP	绝世高手	每回合自身攻击力+10%，至多累积80%；发动爆击时，爆击伤害额外增加30%		n53001	nick018bP"
   translated: ""
   splits:
   - split: 1
     text: "绝世高手"
-    translated: "Unparalleled Master of Skill"
+    translated: "Peerless Master"
   - split: 2
     text: "每回合自身攻击力+10%，至多累积80%；发动爆击时，爆击伤害额外增加30%"
-    translated: "Each turn, increase own attack power by 10%, with a maximum accumulation of 80%; when triggering a critical hit, critical damage increases by an additional 30%."
+    translated: "Each round, self-attack power increases by 10%, cumulative up to a maximum of 80%; when critical hit is triggered, critical hit damage increases by an additional 30%"
 - lineNum: 40
   raw: "nick019	山魈鬼王	背袭时威力增强30%，攻击时15%伤害转换为自身气血		n20286	nick019"
   translated: ""
   splits:
   - split: 1
     text: "山魈鬼王"
-    translated: "Mountain Demon King"
+    translated: "Mountain Goblin Demon King"
   - split: 2
     text: "背袭时威力增强30%，攻击时15%伤害转换为自身气血"
-    translated: "Backstab deals 30% more damage and converts 15% of attack damage to the attacker's own Qi."
+    translated: "When used offensively, power increases by 30%, and 15% of the damage dealt is converted into your own Qi"
 - lineNum: 41
   raw: "nick020	儒心剑胆	自身每回合反击值+25，所有友方获得状态「儒剑之阵」		n70044	nick020"
   translated: ""
   splits:
   - split: 1
     text: "儒心剑胆"
-    translated: "Cultured in Heart, Brave in Swordsmanship"
+    translated: "Confucian Heart, Sword Arm"
   - split: 2
     text: "自身每回合反击值+25，所有友方获得状态「儒剑之阵」"
-    translated: "Each turn, increase your counterattack by +25; all allies gain the status Confucian Sword Formation."
+    translated: "Each turn, increase the counterattack value by 25. All allies gain the status Confusion of the Scholar's Sword"
 - lineNum: 42
   raw: "nick021	广寒仙子	若施展带有冰封效果的武功，招式威力更强		n09996	nick021"
   translated: ""
   splits:
   - split: 1
     text: "广寒仙子"
-    translated: "Mistress of the Jade Frost Palace"
+    translated: "Immortal Lady of Broad Cold"
   - split: 2
     text: "若施展带有冰封效果的武功，招式威力更强"
-    translated: "If you perform a technique with an ice-binding effect, the power of the move is even greater."
+    translated: "If one practices martial arts techniques that have an ice seal effect, the power of the moves becomes stronger"
 - lineNum: 43
   raw: "nick021P	广寒宫主	若施展带有冰封效果的武功，招式威力变得更强大		n09996	nick021P"
   translated: ""
   splits:
   - split: 1
     text: "广寒宫主"
-    translated: "Queen of the Cold Palace"
+    translated: "Guang Han Gongzhu"
   - split: 2
     text: "若施展带有冰封效果的武功，招式威力变得更强大"
-    translated: "If a martial art with an ice-binding effect is executed, the technique becomes more powerful."
+    translated: "If one practices martial arts with an ice-sealing effect, the techniques become more powerful"
 - lineNum: 44
   raw: "nick022	希有风王	发动爆击时，回复精力3点；所有友方获得状态「风王阵」		n07002	nick022"
   translated: ""
   splits:
   - split: 1
     text: "希有风王"
-    translated: "Rare Wind King"
+    translated: "Scarce Wind King"
   - split: 2
     text: "发动爆击时，回复精力3点；所有友方获得状态「风王阵」"
-    translated: "When initiating a burst attack, recover 3 energy points; all allies gain the status Wind King Formation."
+    translated: "When activating a critical hit, recover 3 energy points; all allies gain the status Fengwang Formation"
 - lineNum: 45
   raw: "nick023	肥羊	肥嫩可口的阿白，大家都想吃他		n21131	nick023"
   translated: ""
   splits:
   - split: 1
     text: "肥羊"
-    translated: "Fatty Sheep"
+    translated: "Fat Lamb"
   - split: 2
     text: "肥嫩可口的阿白，大家都想吃他"
-    translated: "Fatty and delicious A Bai, everyone wants to eat him."
+    translated: "Flavorful and delicious, everyone wants to eat the little white one"
 - lineNum: 46
   raw: "nick024	丧心病狂	每次攻击，有机会让敌人陷入混乱，三回合内敌我不分。敌人的晕眩、迷惑值越高，陷入混乱的机率越高		n60402	nick024"
   translated: ""
   splits:
   - split: 1
     text: "丧心病狂"
-    translated: "Frenziedly cruel or insanely reckless."
+    translated: "Malevolent and insane"
   - split: 2
     text: "每次攻击，有机会让敌人陷入混乱，三回合内敌我不分。敌人的晕眩、迷惑值越高，陷入混乱的机率越高"
-    translated: "Each time an attack is made, there's a chance to confuse the enemy for three turns, making friend and foe indistinguishable. The higher the enemy's dizziness or confusion value, the greater the chance of them becoming confused."
+    translated: "Each attack has a chance to cause the enemy to become disoriented, blurring the lines between ally and foe for three turns. The higher the enemy's dizziness and confusion values, the greater the likelihood of becoming disoriented"
 - lineNum: 47
   raw: "nick024P	灭世毒王	每次攻击，有机会让敌人陷入混乱，四回合内敌我不分。敌人的晕眩、迷惑、中毒值越高，陷入混乱的机率越高		n60402	nick024P"
   translated: ""
   splits:
   - split: 1
     text: "灭世毒王"
-    translated: "World-Ending Poison King"
+    translated: "Destroy the World Poison King"
   - split: 2
     text: "每次攻击，有机会让敌人陷入混乱，四回合内敌我不分。敌人的晕眩、迷惑、中毒值越高，陷入混乱的机率越高"
-    translated: "Each attack has a chance to cause the enemy to become confused, unable to distinguish friend from foe for four turns. The higher the values of stun, confusion, and poison on the enemies, the greater the likelihood they will become confused."
+    translated: "Each attack has a chance to make the enemy confused, making it impossible to distinguish between friend and foe for four turns. The higher the values of dizziness, confusion, and poison on the enemy, the higher the probability of them becoming confused"
 - lineNum: 48
   raw: "nick025	心狠手辣	每击杀一名敌人，回复自身精力3点		n60130	nick025"
   translated: ""
   splits:
   - split: 1
     text: "心狠手辣"
-    translated: "Cruel-hearted and ruthless."
+    translated: "Heartless and ruthless"
   - split: 2
     text: "每击杀一名敌人，回复自身精力3点"
-    translated: "Regain 3 Qi points upon defeating one enemy."
+    translated: "For every enemy killed, restore 3 points of energy to oneself"
 - lineNum: 49
   raw: "nick025P	赶尽杀绝	每击杀一名敌人，回复自身精力3点，该回合攻击力提升50%		n60130	nick025P"
   translated: ""
   splits:
   - split: 1
     text: "赶尽杀绝"
-    translated: "Annihilate completely."
+    translated: "Wipe out completely"
   - split: 2
     text: "每击杀一名敌人，回复自身精力3点，该回合攻击力提升50%"
-    translated: "For each enemy defeated, restore 3 points of energy to yourself; attack power is increased by 50% this round."
+    translated: "For each enemy defeated, restore 3 points of energy and increase attack power by 50% this turn"
 - lineNum: 50
   raw: "nick025buffP	杀杀杀杀！	杀人如麻，攻击力提升50%		n60130	nick025buffP"
   translated: ""
   splits:
   - split: 1
     text: "杀杀杀杀！"
-    translated: "Kill kill kill kill!"
+    translated: "Kill! Kill! Kill! Kill!"
   - split: 2
     text: "杀人如麻，攻击力提升50%"
-    translated: "Killing is a piece of cake; attack power increased by 50%."
+    translated: "Butchering like swatting flies, attack power increased by 50%"
 - lineNum: 51
   raw: "nick026	翻天鲲	每次出招，有30%机率精力回复1点		n60273	nick026"
   translated: ""
   splits:
   - split: 1
     text: "翻天鲲"
-    translated: "Surgeon Sky Whale"
+    translated: "Overturning the Leviathan"
   - split: 2
     text: "每次出招，有30%机率精力回复1点"
-    translated: "Each time an attack is executed, there is a 30% chance of recovering 1 point of energy."
+    translated: "Each time a move is made, there is a 30% chance to recover 1 point of energy"
 - lineNum: 52
   raw: "nick026P	落地鹏	每次出招，有35%机率精力回复1点及连击率提升20%		n60273	nick026P"
   translated: ""
   splits:
   - split: 1
     text: "落地鹏"
-    translated: "Falcon Descends"
+    translated: "Plum Blossom Ground"
   - split: 2
     text: "每次出招，有35%机率精力回复1点及连击率提升20%"
-    translated: "Each time a technique is used, there is a 35% chance of restoring 1 point of energy and increasing the combo rate by 20%."
+    translated: "Each time a technique is used, there is a 35% chance to recover 1 point of energy and a 20% increase in the combo rate"
 - lineNum: 53
   raw: "nick027	银钩皓彩	战斗时，泼墨雪加入战局。		n60560	nick027"
   translated: ""
   splits:
   - split: 1
     text: "银钩皓彩"
-    translated: "Silver Hook Radiant Hue"
+    translated: "Silver Hook Lustrous Colors"
   - split: 2
     text: "战斗时，泼墨雪加入战局。"
-    translated: "During the fight, Pomo Xue joined the battle."
+    translated: "During the battle, Pomo Xue joined the fight"
 - lineNum: 54
   raw: "nick027P	镜花水月	战斗时，泼墨雪加入战局，自身每回合卸劲、虚招上升10%。		n60560	nick027P"
   translated: ""
   splits:
   - split: 1
     text: "镜花水月"
-    translated: "Mirage of flowers in the mirror and moon on water"
+    translated: "Illusory reflections"
   - split: 2
     text: "战斗时，泼墨雪加入战局，自身每回合卸劲、虚招上升10%。"
-    translated: "During combat, Pow Mo Xue enters the fray, increasing his feign attacks by 10% each turn."
+    translated: "During combat, when Po Mo Xue joins the fray, his chances of feigning and releasing energy each turn increase by 10%"
 - lineNum: 55
   raw: "nick028	天煞孤星	若没有友军，伤害与减伤提高50%，每回合解除负面状态12点，每次攻击回复自身1点精力，每3次攻击替自己回复15%的生命与内力。		Player	nick028"
   translated: ""
   splits:
   - split: 1
     text: "天煞孤星"
-    translated: "Heavenly Vagabond Solitary Star"
+    translated: "Heavenly Meteor, Solitary Star"
   - split: 2
     text: "若没有友军，伤害与减伤提高50%，每回合解除负面状态12点，每次攻击回复自身1点精力，每3次攻击替自己回复15%的生命与内力。"
-    translated: "If there are no allied units, damage dealt and damage mitigation increase by 50%. At the start of each turn, removes 12 points of negative status. Each attack restores 1 point of energy to self. Every 3 attacks, recovers 15% of life and Qi for self."
+    translated: "If there are no allies, damage and defense increase by 50%, remove negative status effects for 12 points per round, recover 1 energy point with each attack, and restore 15% of life and internal power every 3 attacks"
 - lineNum: 56
   raw: "nick029	刀神	所有刀法威力+70%		Player	nick029"
   translated: ""
   splits:
   - split: 1
     text: "刀神"
-    translated: ""
+    translated: "Bladesman"
   - split: 2
     text: "所有刀法威力+70%"
-    translated: "All sword techniques power increased by 70%."
+    translated: "All blade skills power +70%"
 - lineNum: 57
   raw: "nick030	刀狂	所有刀法威力+40%		Player	nick030"
   translated: ""
   splits:
   - split: 1
     text: "刀狂"
-    translated: ""
+    translated: "Blade Madman"
   - split: 2
     text: "所有刀法威力+40%"
-    translated: "All sword techniques' power +40%."
+    translated: "All blade skills power +40%"
 - lineNum: 58
   raw: "nick031	惊波狂澜	惊波刀法与狂澜绝刀势刀法威力+30%		Player	nick031"
   translated: ""
   splits:
   - split: 1
     text: "惊波狂澜"
-    translated: "Turbulent Waves"
+    translated: "Surging waves of turmoil"
   - split: 2
     text: "惊波刀法与狂澜绝刀势刀法威力+30%"
-    translated: "Surging Wave Blade Technique and Roaring Tide Ultimate Blade Technique increase power by 30%."
+    translated: "Shockwave Blade Technique and Torrential Fury Supreme Swordsmanship Damage Increase +30%"
 - lineNum: 59
   raw: "nick032	五虎断门刀	五虎断门刀刀法威力+30%		Player	nick032"
   translated: ""
   splits:
   - split: 1
     text: "五虎断门刀"
-    translated: "Five Tiger Decapitation Swords"
+    translated: "Five Tiger Severance Sword"
   - split: 2
     text: "五虎断门刀刀法威力+30%"
-    translated: "Five Tiger Gate Executioner's Sword Technique increases power by +30%."
+    translated: "Five Tiger's Split Gate Blade Technique Power +30%"
 - lineNum: 60
   raw: "nick033	四象刀	四象刀刀法威力+30%		Player	nick033"
   translated: ""
   splits:
   - split: 1
     text: "四象刀"
-    translated: ""
+    translated: "Si Xiang Dao"
   - split: 2
     text: "四象刀刀法威力+30%"
-    translated: "Four Symbols Sword Form: Increases power by 30%."
+    translated: "Four Symbols Swordsmanship Power +30%"
 - lineNum: 61
   raw: "nick034	三才刀	三才刀刀法威力+30%		Player	nick034"
   translated: ""
@@ -611,7 +611,7 @@
     translated: "San Cai Dao"
   - split: 2
     text: "三才刀刀法威力+30%"
-    translated: "Three Talents Sword Art increases damage by 30%."
+    translated: "Three Talents Swordsmanship Power +30%"
 - lineNum: 62
   raw: "nick035	村民	花拳绣腿威力+50%		Player	nick035"
   translated: ""
@@ -621,7 +621,7 @@
     translated: "Villager"
   - split: 2
     text: "花拳绣腿威力+50%"
-    translated: "Flower Fist Embroidered Leg Power +50%"
+    translated: "Flower Fist and Embroidered Leg techniques increase power by 50%"
 - lineNum: 63
   raw: "nick036	菁英村民	花拳绣腿威力+100%		Player	nick036"
   translated: ""
@@ -631,27 +631,27 @@
     translated: "Elite Villagers"
   - split: 2
     text: "花拳绣腿威力+100%"
-    translated: "Graceful fists and ornate leg techniques have +100% power."
+    translated: "Flower Fists and Embroidered Kicks power increased by 100%"
 - lineNum: 64
   raw: "nick037	管不住自己手	偷窃被发现的机率降低30%		Player	nick037"
   translated: ""
   splits:
   - split: 1
     text: "管不住自己手"
-    translated: "Unable to control one's own hands."
+    translated: "Cannot control one's own hands"
   - split: 2
     text: "偷窃被发现的机率降低30%"
-    translated: "The likelihood of being caught stealing is reduced by 30%."
+    translated: "The chance of being caught stealing is reduced by 30%"
 - lineNum: 65
   raw: "nick038	借惯了	偷窃被发现的机率降低50%		Player	nick038"
   translated: ""
   splits:
   - split: 1
     text: "借惯了"
-    translated: ""
+    translated: "It's a habit to borrow"
   - split: 2
     text: "偷窃被发现的机率降低50%"
-    translated: "The likelihood of being caught stealing is reduced by 50%."
+    translated: "The chance of getting caught stealing is reduced by 50%"
 - lineNum: 66
   raw: "nick039	盗王	偷窃不会被发现		Player	nick039"
   translated: ""
@@ -661,77 +661,77 @@
     translated: "Thief King"
   - split: 2
     text: "偷窃不会被发现"
-    translated: "The theft will go undetected."
+    translated: "The theft will not be discovered"
 - lineNum: 67
   raw: "nick040	多愁善感	资质提高10点；但自身每次负面状态值增加时，增加幅度提升30%。	(Intelligence,10)	Player	nick040"
   translated: ""
   splits:
   - split: 1
     text: "多愁善感"
-    translated: "Sentimentally sensitive or easily moved."
+    translated: "Sentimental"
   - split: 2
     text: "资质提高10点；但自身每次负面状态值增加时，增加幅度提升30%。"
-    translated: "Skill enhancement by 10 points; however, each time a negative status value is increased, the magnitude of increase is enhanced by an additional 30%."
+    translated: "Aptitude increases by 10 points; however, each time the negative status value increases, the increase is amplified by an additional 30%"
 - lineNum: 68
   raw: "nick041	掷果潘郎	战斗时参战的女性队友伤害提升30%；但自身在战斗时容易遭到敌方锁定。		Player	nick041"
   translated: ""
   splits:
   - split: 1
     text: "掷果潘郎"
-    translated: "The Peach Garden Swashbuckler Pan'er"
+    translated: "Throwing apples to a young man"
   - split: 2
     text: "战斗时参战的女性队友伤害提升30%；但自身在战斗时容易遭到敌方锁定。"
-    translated: "Female team members' damage output increases by 30% during combat; however, they are more likely to be targeted by enemies."
+    translated: "When in battle, female allies' damage is increased by 30%; however, they are more susceptible to being locked onto by enemies"
 - lineNum: 69
   raw: "nick042	再世狂侠	每次从目标正面进行攻击时，有25%机率使目标累积10点错骨；每次从目标侧面、背面进行攻击时，自身有25%机率累积迷惑10点		Player	nick042"
   translated: ""
   splits:
   - split: 1
     text: "再世狂侠"
-    translated: "Immortal Mad Swordsman"
+    translated: "Reborn Mad Swordsman"
   - split: 2
     text: "每次从目标正面进行攻击时，有25%机率使目标累积10点错骨；每次从目标侧面、背面进行攻击时，自身有25%机率累积迷惑10点"
-    translated: "Each time an attack is made from the front of the target, there is a 25% chance to accumulate 10 points of Debuff on the target; each time an attack is made from the side or back of the target, there is a 25% chance for the attacker to accumulate 10 points of Confusion."
+    translated: "When attacking the target from the front, there is a 25% chance to accumulate 10 points of joint manipulation on the target; when attacking the target from the side or back, there is a 25% chance for the attacker to accumulate 10 points of confusion"
 - lineNum: 70
   raw: "nick043	后知后觉	体质增加10点；且自身每次负面状态值增加时，增加幅度降低30%。	(Physique,10)	Player	nick043"
   translated: ""
   splits:
   - split: 1
     text: "后知后觉"
-    translated: "Awareness after the fact."
+    translated: "After the fact"
   - split: 2
     text: "体质增加10点；且自身每次负面状态值增加时，增加幅度降低30%。"
-    translated: "Increase vitality by 10 points; and when the negative status value of the body increases, reduce the increase in magnitude by 30%."
+    translated: "Physical Constitution increases by 10 points; and each time the character's negative status value increases, the increment is reduced by 30%"
 - lineNum: 71
   raw: "nick044	武林中人	你的武学威力随着你的等级成长而提升。		Player	nick044"
   translated: ""
   splits:
   - split: 1
     text: "武林中人"
-    translated: "Kungfu practitioner"
+    translated: "Wulin insiders"
   - split: 2
     text: "你的武学威力随着你的等级成长而提升。"
-    translated: "Your martial arts prowess grows stronger as your level increases."
+    translated: "Your martial arts power increases as your level grows"
 - lineNum: 72
   raw: "nick045	身无长物	采集药草与矿石时，40%机率得到双份，但获得的金钱会减少20%。		Player	nick045"
   translated: ""
   splits:
   - split: 1
     text: "身无长物"
-    translated: "To have nothing with you but your wits and skills."
+    translated: "Having nothing but one's wits"
   - split: 2
     text: "采集药草与矿石时，40%机率得到双份，但获得的金钱会减少20%。"
-    translated: "When collecting herbs and ores, there is a 40% chance of obtaining double the amount, but the money earned will be reduced by 20%."
+    translated: "When collecting medicinal herbs and ores, there is a 40% chance to obtain double the amount, but the money earned will be reduced by 20%"
 - lineNum: 73
   raw: "nick046	河洛大侠	你的攻防能力将随着你的江湖声望提升。		Player	nick046"
   translated: ""
   splits:
   - split: 1
     text: "河洛大侠"
-    translated: "Hero of the Huai and Luo Regions"
+    translated: "Helaodaxia"
   - split: 2
     text: "你的攻防能力将随着你的江湖声望提升。"
-    translated: "Your offensive and defensive skills will improve with your rise in reputation within the martial world."
+    translated: "Your offensive and defensive skills will improve as your reputation in the Jianghu increases"
 - lineNum: 74
   raw: "nick080	真‧弱鸡侠	嗯，你果然就是弱鸡侠本人，不意外。		Player	"
   translated: ""
@@ -741,227 +741,227 @@
     translated: "True Weakling Hero"
   - split: 2
     text: "嗯，你果然就是弱鸡侠本人，不意外。"
-    translated: "Ah, you're indeed the so-called Weakling Knight, as expected."
+    translated: "Well, you are indeed the sissy hero as expected"
 - lineNum: 75
   raw: "nick081	玉龙战神	当装备玉龙神枪时，枪棍招式威力+25%		Player	"
   translated: ""
   splits:
   - split: 1
     text: "玉龙战神"
-    translated: "Jade Dragon God of War"
+    translated: "Yulong Zhanshen"
   - split: 2
     text: "当装备玉龙神枪时，枪棍招式威力+25%"
-    translated: "When equipping the Jade Dragon Divine Gun, gun techniques damage increases by 25%."
+    translated: "When equipped with the Jade Dragon Divine Spear, spear technique power increases by 25%"
 - lineNum: 76
   raw: "nick082	盗王之王	当装备玉龙神枪时，枪棍招式威力+25%		Player	"
   translated: ""
   splits:
   - split: 1
     text: "盗王之王"
-    translated: "King of Thieves King"
+    translated: "Thief King Supreme"
   - split: 2
     text: "当装备玉龙神枪时，枪棍招式威力+25%"
-    translated: "When equipping the Jade Dragon Divine Gun, gun staff techniques damage increases by 25%."
+    translated: "When equipped with the Jade Dragon Divine Spear, spear techniques power increases by 25%"
 - lineNum: 77
   raw: "nick083	纳西传说	当装备玉龙神枪时，枪棍招式威力+25%		Player	"
   translated: ""
   splits:
   - split: 1
     text: "纳西传说"
-    translated: "Naxi Legend"
+    translated: "The Naxi Legend"
   - split: 2
     text: "当装备玉龙神枪时，枪棍招式威力+25%"
-    translated: "When equipping the Jade Dragon Divine Gun, gun staff techniques increase in power by 25%."
+    translated: "When equipping the Jade Dragon Divine Gun, spear and staff techniques damage increases by 25%"
 - lineNum: 78
   raw: "nick084	百步穿杨	弓箭伤害增加15%		Player	nick084"
   translated: ""
   splits:
   - split: 1
     text: "百步穿杨"
-    translated: "Hundred-Foot Hops"
+    translated: "One Hundred Paces, One Shoot"
   - split: 2
     text: "弓箭伤害增加15%"
-    translated: "Bow damage increased by 15%."
+    translated: "Archery damage increased by 15%"
 - lineNum: 79
   raw: "nick085	北岳苍鹰	弓箭伤害增加20%		Player	nick085"
   translated: ""
   splits:
   - split: 1
     text: "北岳苍鹰"
-    translated: "Blue Eagle of the Northern Peak"
+    translated: "Beishan Blue Eagle"
   - split: 2
     text: "弓箭伤害增加20%"
-    translated: "Bow damage increased by 20%."
+    translated: "Arrow damage increased by 20%"
 - lineNum: 80
   raw: "nick086	玉龙飞鹰	弓箭伤害增加25%；当阿得阿克在队伍中时，你与阿得阿克的弓箭伤害额外增加15%		Player	nick086"
   translated: ""
   splits:
   - split: 1
     text: "玉龙飞鹰"
-    translated: "Juyong Flying Eagle"
+    translated: "Yulong Feiying"
   - split: 2
     text: "弓箭伤害增加25%；当阿得阿克在队伍中时，你与阿得阿克的弓箭伤害额外增加15%"
-    translated: "Bow damage increased by 25%; when A'dal is in your group, bow damage with A'dal increases additionally by 15%."
+    translated: "Bow damage increases by 25%; when Ade Ake is in the team, bow damage dealt to and from you and Ade Ake increases by an additional 15%"
 - lineNum: 81
   raw: "nick091	「毒手」	此单位的每一击都带着剧毒！			nick091"
   translated: ""
   splits:
   - split: 1
     text: "「毒手」"
-    translated: "Poison Hand"
+    translated: "Deadly Hand"
   - split: 2
     text: "此单位的每一击都带着剧毒！"
-    translated: "Each blow from this unit is laced with potent poison!"
+    translated: "This unit's every strike carries deadly poison!"
 - lineNum: 82
   raw: "nick092	「拳神」	武林至尊，拳神无敌！			nick092"
   translated: ""
   splits:
   - split: 1
     text: "「拳神」"
-    translated: "God of Kung Fu"
+    translated: "God of Fist"
   - split: 2
     text: "武林至尊，拳神无敌！"
-    translated: "Martial supremo of the world, invincible martial arts god!"
+    translated: "Swordsman Supreme, Invincible Fist God!"
 - lineNum: 83
   raw: "nick103	铁豹银枪	战斗时，黑豹加入战局；每回合提升自身招式伤害5%，至多50%		n07003	nick103"
   translated: ""
   splits:
   - split: 1
     text: "铁豹银枪"
-    translated: "Iron Leopard Silver Spear"
+    translated: "Iron Panther Silver Spear"
   - split: 2
     text: "战斗时，黑豹加入战局；每回合提升自身招式伤害5%，至多50%"
-    translated: "During battle, Black Panther joins the fray; each turn increases their own move damage by 5%, up to a maximum of 50%."
+    translated: "During battle, Black Panther joins the fray; each turn it increases its move damage by 5%, up to a maximum of 50%"
 - lineNum: 84
   raw: "nick110	上师	发动爆击时，消除自身所有负面状态25点		n50004	nick110"
   translated: ""
   splits:
   - split: 1
     text: "上师"
-    translated: "Venerable Master"
+    translated: "Master"
   - split: 2
     text: "发动爆击时，消除自身所有负面状态25点"
-    translated: "Activate burst attack to remove all negative conditions from oneself by 25 points."
+    translated: "Upon unleashing a critical strike, eliminate all negative states from oneself by 25 points"
 - lineNum: 85
   raw: "nick101	百足不僵	每回合提升闪避率2%，提升上限为20%		n90425,n90425b	nick101"
   translated: ""
   splits:
   - split: 1
     text: "百足不僵"
-    translated: "A hundred legs do not get stuck."
+    translated: "There is strength in unity"
   - split: 2
     text: "每回合提升闪避率2%，提升上限为20%"
-    translated: "Increase evasion rate by 2% per turn; maximum increase is 20%."
+    translated: "Each turn, increase dodge rate by 2%, with a maximum of 20%"
 - lineNum: 86
   raw: "nick102	菁寨苗女	何白芍周围2单位距离内敌军，每回合累积中毒值12点、迷惑值6点		n51009,n51009b	nick102"
   translated: ""
   splits:
   - split: 1
     text: "菁寨苗女"
-    translated: "Djenko Tribe Miao Woman"
+    translated: "Green Village Miao Women"
   - split: 2
     text: "何白芍周围2单位距离内敌军，每回合累积中毒值12点、迷惑值6点"
-    translated: "He Baishe causes surrounding enemy units within a 2-unit distance to accumulate poison value of 12 points and confusion value of 6 points per turn."
+    translated: "Within a 2 unit radius of He Baishe, enemy troops accumulate 12 points of poison and 6 points of confusion each round"
 - lineNum: 87
   raw: "nick104	南诏小将	段思良周围10单位距离内每位友军，每回合开始时段思良额外提升爆击率5%		n90402	nick104"
   translated: ""
   splits:
   - split: 1
     text: "南诏小将"
-    translated: "Southern Chief's Junior Commander"
+    translated: "Nanzhao Soldier"
   - split: 2
     text: "段思良周围10单位距离内每位友军，每回合开始时段思良额外提升爆击率5%"
-    translated: "Within a 10-unit radius around Meng Siliang, each allied friend at the start of Meng Siliang's turn gains an additional 5% critical hit rate."
+    translated: "Duan Silang increases his critical hit rate by an additional 5% at the start of each round for every allied unit within a 10-unit radius"
 - lineNum: 88
   raw: "nick105	名门世族	董迦罗周围5单位内距离敌军，每回合开始时降低爆击率15%		n90403	nick105"
   translated: ""
   splits:
   - split: 1
     text: "名门世族"
-    translated: "Noble Family of Renowned Lineage"
+    translated: "Ancient and Noble Family"
   - split: 2
     text: "董迦罗周围5单位内距离敌军，每回合开始时降低爆击率15%"
-    translated: "Dongjialuo reduces the Critical Rate of enemies within a 5-unit radius by 15% at the start of each round."
+    translated: "Within a range of 5 units from Dong Jialuo, reduce the critical hit rate of enemy forces by 15% at the start of each round"
 - lineNum: 89
   raw: "nick106	土司继任者	每回合开始时回复周围2单位距离内友军15%气血值，连击率提升15%		n50048	nick106"
   translated: ""
   splits:
   - split: 1
     text: "土司继任者"
-    translated: "Successor of the Tribal Chief"
+    translated: "Successor to the Headman"
   - split: 2
     text: "每回合开始时回复周围2单位距离内友军15%气血值，连击率提升15%"
-    translated: "At the start of each turn, restore 15% of health to friendly units within a 2-unit radius, and increase critical hit rate by 15%."
+    translated: "At the start of each turn, restore 15% of Life to allies within a 2-unit range; increase critical hit rate by 15%"
 - lineNum: 90
   raw: "nick107	木府军阀	发动爆击时，自身爆击率提升20%，并对自身与范围2格内友方附加「战意高昂」		n50065,n50065b	nick107"
   translated: ""
   splits:
   - split: 1
     text: "木府军阀"
-    translated: "The Wood Family Warlord"
+    translated: "Forest Clan Warlord"
   - split: 2
     text: "发动爆击时，自身爆击率提升20%，并对自身与范围2格内友方附加「战意高昂」"
-    translated: "When activating a critical hit, increase your own critical hit rate by 20% and grant Spirit of Battle to yourself and friendly units within 2 squares."
+    translated: "When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares"
 - lineNum: 91
   raw: "nick108	三朵战将	自身周围2单位距离内每存在一名敌军，自身爆击时额外回复精力1点		n50073a,n50073a2	nick108"
   translated: ""
   splits:
   - split: 1
     text: "三朵战将"
-    translated: "Three War Generals"
+    translated: "Three Heroic Generals"
   - split: 2
     text: "自身周围2单位距离内每存在一名敌军，自身爆击时额外回复精力1点"
-    translated: "Whenever there is one enemy within a 2-unit radius, recover 1 point of energy for each when self crits."
+    translated: "Within a 2-unit distance around oneself, for each enemy present, an additional 1 point of energy is restored when the self executes a critical hit"
 - lineNum: 92
   raw: "nick111	天下无双	第二痴固有称号，血量每减少10%，伤害增加10%。每回合开始时，负面状态减少20点。		n09998,n09998a	nick111"
   translated: ""
   splits:
   - split: 1
     text: "天下无双"
-    translated: "Unrivaled throughout the world"
+    translated: "Unrivaled in the world"
   - split: 2
     text: "第二痴固有称号，血量每减少10%，伤害增加10%。每回合开始时，负面状态减少20点。"
-    translated: "The second skill has a unique title: for every 10% reduction in health, damage increases by 10%. At the start of each turn, negative status is reduced by 20 points."
+    translated: "The second trait has a special title. When the health decreases by 10%, damage increases by 10%. At the start of each turn, negative status is reduced by 20 points"
 - lineNum: 93
   raw: "nick112	从心所欲	心良道人固有称号，自身每回合反击率、卸劲率提升25%		n70045	nick112"
   translated: ""
   splits:
   - split: 1
     text: "从心所欲"
-    translated: "As one desires from the heart."
+    translated: "Follow one's heart"
   - split: 2
     text: "心良道人固有称号，自身每回合反击率、卸劲率提升25%"
-    translated: "The title Heart-and-Mind Daoist inherently increases the user's counterattack and damage mitigation rates by 25% each turn."
+    translated: "The Xinliang Daoist has its own title, with a 25% increase in counterattack rate and force reduction rate per turn"
 - lineNum: 94
   raw: "nick114	毒手人屠	攻击时目标每累积中毒值1点，伤害增加1%		n00102	nick114"
   translated: ""
   splits:
   - split: 1
     text: "毒手人屠"
-    translated: "Butcher of the Murderous Hand"
+    translated: "Executioner"
   - split: 2
     text: "攻击时目标每累积中毒值1点，伤害增加1%"
-    translated: "During an attack, each accumulated poison point on the target increases damage by 1%."
+    translated: "When attacking, each accumulated point of poison on the target increases damage by 1%"
 - lineNum: 95
   raw: "nick115	东豪	使用霹雳雷火弹时有25%的机率攻击两次		n90201	nick115"
   translated: ""
   splits:
   - split: 1
     text: "东豪"
-    translated: "Dong Hao"
+    translated: "East Haohao"
   - split: 2
     text: "使用霹雳雷火弹时有25%的机率攻击两次"
-    translated: "Using the Thunderbolt Fireball results in a 25% chance of attacking twice."
+    translated: "When using the Thunderbolt Fireball Grenade, there is a 25% chance to attack twice"
 - lineNum: 96
   raw: "nick116	南闲	每回合开始时，额外随机回复自身精力2到8点		n20230	nick116"
   translated: ""
   splits:
   - split: 1
     text: "南闲"
-    translated: "Nan Xian"
+    translated: "South Leisure"
   - split: 2
     text: "每回合开始时，额外随机回复自身精力2到8点"
-    translated: "At the start of each round, randomly recover between 2 to 8 points of one's own energy."
+    translated: "At the beginning of each round, randomly recover between 2 and 8 points of Qi"
 - lineNum: 97
   raw: "nick117	西庖	攻击时50%伤害转换为自身气血		n07006	nick117"
   translated: ""
@@ -971,247 +971,247 @@
     translated: "Western Kitchen"
   - split: 2
     text: "攻击时50%伤害转换为自身气血"
-    translated: "When attacking, convert 50% of the damage dealt into your own Qi."
+    translated: "During an attack, convert 50% of the damage dealt into self Qi"
 - lineNum: 98
   raw: "nick118	北丑	触发连击时攻击力增加100%，持续一回合		n07007	nick118"
   translated: ""
   splits:
   - split: 1
     text: "北丑"
-    translated: ""
+    translated: "Beiqu"
   - split: 2
     text: "触发连击时攻击力增加100%，持续一回合"
-    translated: "When a combo is triggered, attack power increases by 100%, lasting one turn."
+    translated: "When triggering a combo, attack power increases by 100% for one round"
 - lineNum: 99
   raw: "nick119	武学障(拙)	武学障(拙)			nick119"
   translated: ""
   splits:
   - split: 1
     text: "武学障(拙)"
-    translated: "Martial arts clumsiness (rudeness)"
+    translated: "Wuxia Shortcomings"
   - split: 2
     text: "武学障(拙)"
-    translated: "Martial arts obstacle (clumsy)"
+    translated: "Wuxia Shortcomings"
 - lineNum: 100
   raw: "nick120	武学障(静)	武学障(静)			nick120"
   translated: ""
   splits:
   - split: 1
     text: "武学障(静)"
-    translated: "Martial Arts Block (Static)"
+    translated: "Wuxia barrier (stillness)"
   - split: 2
     text: "武学障(静)"
-    translated: "Wuxia Jiezhao (Jing)"
+    translated: "Wuxia barrier (stillness)"
 - lineNum: 101
   raw: "nick121	武学障(柔)	武学障(柔)			nick121"
   translated: ""
   splits:
   - split: 1
     text: "武学障(柔)"
-    translated: "Martial Arts Obstacle (Soft)"
+    translated: "Wuxia Barrier (Soft)"
   - split: 2
     text: "武学障(柔)"
-    translated: "Martial arts syndrome (softness)"
+    translated: "Wuxia Barrier (Soft)"
 - lineNum: 102
   raw: "nick122	武学障(巧)	武学障(巧)			nick122"
   translated: ""
   splits:
   - split: 1
     text: "武学障(巧)"
-    translated: "Martial arts skill (trickery)"
+    translated: "Wuxia Obstacle (Skill)"
   - split: 2
     text: "武学障(巧)"
-    translated: "Wuxia Barrier (Skill)"
+    translated: "Wuxia Obstacle (Skill)"
 - lineNum: 103
   raw: "nick123	武学障(动)	武学障(动)			nick123"
   translated: ""
   splits:
   - split: 1
     text: "武学障(动)"
-    translated: "Wuxia impediment (animate)"
+    translated: "Wuxia Barrier"
   - split: 2
     text: "武学障(动)"
-    translated: "Martial Arts Obstacle (Dynamic)"
+    translated: "Wuxia Barrier"
 - lineNum: 104
   raw: "nick124	武学障(刚)	武学障(刚)			nick124"
   translated: ""
   splits:
   - split: 1
     text: "武学障(刚)"
-    translated: "Wuxia Disorder (Acute)"
+    translated: "Wuxia Obstacle (Strength)"
   - split: 2
     text: "武学障(刚)"
-    translated: "Martial Arts Block (Firm)"
+    translated: "Wuxia Obstacle (Strength)"
 - lineNum: 105
   raw: "nick125	赤丹魁儡	攻击时目标累积中毒值2点、外伤值2点、分筋值2点		n00095a,n00095b,n00095c,n00095d,n00095e,n00095f	nick125"
   translated: ""
   splits:
   - split: 1
     text: "赤丹魁儡"
-    translated: "Scarlet Puppet Master"
+    translated: "Scarlet Alchemist Puppet"
   - split: 2
     text: "攻击时目标累积中毒值2点、外伤值2点、分筋值2点"
-    translated: "When attacking, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of dislocation value."
+    translated: "During an attack, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of tendon damage value"
 - lineNum: 106
   raw: "nick126	西川兵马指挥使	对自身周围距离3个单位内敌方，每回合降低所有特技值25点		n07001,n07001a	nick126"
   translated: ""
   splits:
   - split: 1
     text: "西川兵马指挥使"
-    translated: "Commander-in-Chief of the West River Military Forces"
+    translated: "Western River Military Commander"
   - split: 2
     text: "对自身周围距离3个单位内敌方，每回合降低所有特技值25点"
-    translated: "Reduce all skills of enemies within a range of 3 units from self by 25 points each turn."
+    translated: "For enemies within a 3-unit radius, reduce all special attribute values by 25 points each turn"
 - lineNum: 107
   raw: "nick126b	不赦楼主	对自身周围距离3个单位内敌方，每回合降低所有特技值25点；使用野球拳时，招式威力增加75%		n07001,n07001a	nick126b"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼主"
-    translated: "Not pardon the master of the building."
+    translated: "Unforgiving to the Sect Leader"
   - split: 2
     text: "对自身周围距离3个单位内敌方，每回合降低所有特技值25点；使用野球拳时，招式威力增加75%"
-    translated: "Reduces all Technique Values of enemy units within a 3-unit radius by 25 points each turn; increases the power of moves used with Baseball Fists by 75%."
+    translated: "For enemies within 3 units of range, reduce all skill values by 25 points each turn; when using Baseball Fist, increase the power of the technique by 75%"
 - lineNum: 108
   raw: "nick127	混元推手	发动四两拨千金时，发动对象累积内伤值10点；若对象为男性，额外再累积内伤值10点		n90215	nick127"
   translated: ""
   splits:
   - split: 1
     text: "混元推手"
-    translated: "Primordial Pushing Hand Technique"
+    translated: "Primal Push Hands"
   - split: 2
     text: "发动四两拨千金时，发动对象累积内伤值10点；若对象为男性，额外再累积内伤值10点"
-    translated: "When you activate the Two Liang to Move a Qian Jin ability, the target accumulates 10 points of internal damage. If the target is male, they additionally accumulate another 10 points of internal damage."
+    translated: "When activating Move Four Liang to Generate a Thousand Jin, the target accumulates an internal injury value of 10 points. If the target is male, they additionally accumulate an extra 10 points of internal injury"
 - lineNum: 109
   raw: "nick128	冷面阎王	发动虚招时，25%机率对该目标附加「阎王索命」，每回合减少内功3点		n07004	nick128"
   translated: ""
   splits:
   - split: 1
     text: "冷面阎王"
-    translated: "Frost-faced King Yama"
+    translated: "The Cold-Faced Yanwang"
   - split: 2
     text: "发动虚招时，25%机率对该目标附加「阎王索命」，每回合减少内功3点"
-    translated: "When launching a feigned attack, there is a 25% chance to apply King Yama's Demand to the target, reducing their internal strength by 3 points each turn."
+    translated: "When launching a feint, there is a 25% chance to apply Yanwang Somo to the target, reducing their Neigong by 3 points each turn"
 - lineNum: 110
   raw: "nick129	追魂夺命	有10%机率闪避攻击；发动虚招时，额外增加自身精力3点		n52009,n52009b	nick129"
   translated: ""
   splits:
   - split: 1
     text: "追魂夺命"
-    translated: "Soul-hunting life-taking"
+    translated: "Life-and-death pursuit"
   - split: 2
     text: "有10%机率闪避攻击；发动虚招时，额外增加自身精力3点"
-    translated: "10% chance to evade attacks; when executing a feint, additionally increase own Qi by 3 points."
+    translated: "There is a 10% chance to dodge the attack; when performing an evasive maneuver, the practitioner's energy increases by an additional 3 points"
 - lineNum: 111
   raw: "nick130	饥肠辘辘	攻击后，25%机率消耗1个背包里的肉包，并对自身附加「饱食」，每回合额外恢复气血15%、精力值1点		n50071,n50071b	nick130"
   translated: ""
   splits:
   - split: 1
     text: "饥肠辘辘"
-    translated: "Hunger-stricken stomach."
+    translated: "Extremely hungry"
   - split: 2
     text: "攻击后，25%机率消耗1个背包里的肉包，并对自身附加「饱食」，每回合额外恢复气血15%、精力值1点"
-    translated: "After attacking, there is a 25% chance to consume one meat bun from the inventory and apply Satiated to self, restoring an additional 15% of maximum HP and 1 point of energy each turn."
+    translated: "After the attack, there is a 25% chance to consume one meat bun from the inventory and apply Full Stomach to oneself, restoring an additional 15% of life force and 1 energy point per turn"
 - lineNum: 112
   raw: "nick131	输光屁股	每次攻击有50%机率对目标造成250%伤害，50%机率造成25%伤害		n20191	nick131"
   translated: ""
   splits:
   - split: 1
     text: "输光屁股"
-    translated: "Expose buttocks completely."
+    translated: "Expose one's backside"
   - split: 2
     text: "每次攻击有50%机率对目标造成250%伤害，50%机率造成25%伤害"
-    translated: "Each attack has a 50% chance of dealing 250% damage to the target, and a 50% chance of dealing 25% damage."
+    translated: "Each attack has a 50% chance to deal 250% damage to the target, and a 50% chance to inflict 25% damage"
 - lineNum: 113
   raw: "nick132	梅开二度	发动连击时，对目标额外造成1次伤害		n60231	nick132"
   translated: ""
   splits:
   - split: 1
     text: "梅开二度"
-    translated: "Reoccurring after a brief period of improvement."
+    translated: "Mei kai er du"
   - split: 2
     text: "发动连击时，对目标额外造成1次伤害"
-    translated: "When initiating a combo attack, inflict an additional point of damage on the target."
+    translated: "During the combo, deal an additional hit to the target"
 - lineNum: 114
   raw: "nick133	大锅头	自身气血愈少，爆击时伤害愈高(每少10%气血，爆击时额外伤害增加10%)		n20000	nick133"
   translated: ""
   splits:
   - split: 1
     text: "大锅头"
-    translated: "Big Pot Head"
+    translated: "Large Cauldron"
   - split: 2
     text: "自身气血愈少，爆击时伤害愈高(每少10%气血，爆击时额外伤害增加10%)"
-    translated: "The less Qi and blood you have, the higher the damage dealt by a critical hit (for every 10% decrease in Qi and blood, the additional damage from a critical hit increases by 10%)."
+    translated: "As one's own Qi and blood diminish, the damage dealt during an explosion increases (for every 10% decrease in Qi and blood, the additional damage from an explosion increases by 10%)"
 - lineNum: 115
   raw: "nick134	叶家少主	若攻击目标为男性，造成的伤害增加50%，若攻击目标为女性，造成的伤害减少50%		n20137	nick134"
   translated: ""
   splits:
   - split: 1
     text: "叶家少主"
-    translated: "Head of the Ye Family"
+    translated: "Ye Family Heir"
   - split: 2
     text: "若攻击目标为男性，造成的伤害增加50%，若攻击目标为女性，造成的伤害减少50%"
-    translated: "If the target is male, damage dealt increases by 50%; if the target is female, damage dealt decreases by 50%."
+    translated: "If the target is male, damage increases by 50%; if the target is female, damage decreases by 50%"
 - lineNum: 116
   raw: "nick135	叶家帮主	每移动一次，招式伤害提升5%，至多50%		n20146	nick135"
   translated: ""
   splits:
   - split: 1
     text: "叶家帮主"
-    translated: "Ye Family Patriarch"
+    translated: "Ye Family Guildmaster"
   - split: 2
     text: "每移动一次，招式伤害提升5%，至多50%"
-    translated: "Each time you move, the technique's damage increases by 5%, up to a maximum of 50%."
+    translated: "Each time a move is made, the technique's damage increases by 5%, up to a maximum of 50%"
 - lineNum: 117
   raw: "nick136	霜发罗煞	当敌人在自身反击范围内攻击友方时，有25%机率对该敌人进行反击		n90602,n90602c	nick136"
   translated: ""
   splits:
   - split: 1
     text: "霜发罗煞"
-    translated: "Hoarfrost Beard Martial Artist"
+    translated: "Hail and Frost Demon Blade"
   - split: 2
     text: "当敌人在自身反击范围内攻击友方时，有25%机率对该敌人进行反击"
-    translated: "When an enemy attacks an ally within its counter-attack range, there is a 25% chance to counter-attack that enemy."
+    translated: "When an enemy attacks a friendly target within their own counterattack range, there is a 25% chance to retaliate against that enemy"
 - lineNum: 118
   raw: "nick137	忠威义烈	每回合自身周围距离2单位内友方，回复气血10%、提升反击率10%		n90603	nick137"
   translated: ""
   splits:
   - split: 1
     text: "忠威义烈"
-    translated: "Loyal and brave in righteousness and valor."
+    translated: "Chongwei Yilie"
   - split: 2
     text: "每回合自身周围距离2单位内友方，回复气血10%、提升反击率10%"
-    translated: "Each round, all allies within a distance of 2 units from oneself recover 10% of their Qi and increase their counterattack rate by 10%."
+    translated: "At the start of each round, heal self and allies within 2 units radius by 10% HP, and increase counter-attack rate by 10%"
 - lineNum: 119
   raw: "nick138	铁面劲装	发动爆击时，额外回复自身精力3点		n20037	nick138"
   translated: ""
   splits:
   - split: 1
     text: "铁面劲装"
-    translated: "Iron-faced warrior attire"
+    translated: "Iron Face Battle Armor"
   - split: 2
     text: "发动爆击时，额外回复自身精力3点"
-    translated: "When launching a devastating attack, restore an additional 3 Qi to yourself."
+    translated: "When activating a critical strike, additionally restore 3 points of one's own energy"
 - lineNum: 120
   raw: "nick139	嗜血人屠	每击杀一名敌方，额外回复自身精力3点		n19976,n19976a	nick139"
   translated: ""
   splits:
   - split: 1
     text: "嗜血人屠"
-    translated: "Bloodthirsty Butcher"
+    translated: "Butcher of Bloodthirsty People"
   - split: 2
     text: "每击杀一名敌方，额外回复自身精力3点"
-    translated: "For each enemy killed, recover an additional 3 points of energy."
+    translated: "For each enemy killed, restore an additional 3 points of stamina"
 - lineNum: 121
   raw: "nick140	大黑天庇护	每移动一次，提升连击率与爆击率8%		n00013,n00013b	nick140"
   translated: ""
   splits:
   - split: 1
     text: "大黑天庇护"
-    translated: "The Great Black Heaven Protects"
+    translated: "Great Black Heaven Protect"
   - split: 2
     text: "每移动一次，提升连击率与爆击率8%"
-    translated: "For each move, increase the combo rate and critical hit rate by 8%."
+    translated: "Each time you move, increase the combo rate and critical hit rate by 8%"
 - lineNum: 122
   raw: "nick141	佛光无涯	发动攻击时，若目标为道德低落之人，招式伤害提升75%		n20586	nick141"
   translated: ""
@@ -1221,87 +1221,87 @@
     translated: "Boundless Buddha Light"
   - split: 2
     text: "发动攻击时，若目标为道德低落之人，招式伤害提升75%"
-    translated: "When attacking a person in moral decline, the damage of the technique is increased by 75%."
+    translated: "When launching an attack, if the target is a morally degenerate person, damage from techniques increases by 75%"
 - lineNum: 123
   raw: "nick142	墨雪双剑	自身闪避率提升，攻击时造成目标8点晕眩		n20245	nick142"
   translated: ""
   splits:
   - split: 1
     text: "墨雪双剑"
-    translated: "Dark Snow Twin Swords"
+    translated: "Black Snow Twin Swords"
   - split: 2
     text: "自身闪避率提升，攻击时造成目标8点晕眩"
-    translated: "Increase personal evasion rate; deal 8 points of dizziness to the target when attacking."
+    translated: "Increases own evasion rate, causing the target to be dazed for 8 points when attacked"
 - lineNum: 124
   raw: "nick143	墨雪双剑	自身闪避率提升，攻击时造成目标8点迷惑		n20246	nick143"
   translated: ""
   splits:
   - split: 1
     text: "墨雪双剑"
-    translated: "Ink Snow Twin Swords"
+    translated: "Black Snow Twin Swords"
   - split: 2
     text: "自身闪避率提升，攻击时造成目标8点迷惑"
-    translated: "Self-buff dodge rate increased; when attacking, causes the target to be confused for 8 points."
+    translated: "When activated, self-evasion rate increases; when attacking, the target suffers 8 points of confusion"
 - lineNum: 125
   raw: "nick144	酒庄大郎	每回合提升闪避率1%，最高10%；每回合提升爆击率2%		n60302	nick144"
   translated: ""
   splits:
   - split: 1
     text: "酒庄大郎"
-    translated: "Vineyard Elder Brother"
+    translated: "Winery Eldest Son"
   - split: 2
     text: "每回合提升闪避率1%，最高10%；每回合提升爆击率2%"
-    translated: "Increase dodge rate by 1% per turn; maximum increase of 10%. Increase critical hit rate by 2% per turn."
+    translated: "Each round increases evasion rate by 1%, up to a maximum of 10%; each round increases critical hit rate by 2%"
 - lineNum: 126
   raw: "nick145	酒庄二郎	每回合提升闪避率1%，最高10%；每回合提升连击率、虚招率2%		n60303	nick145"
   translated: ""
   splits:
   - split: 1
     text: "酒庄二郎"
-    translated: "Wine Estate Elder Brother Erlang"
+    translated: "Winery Second Brother"
   - split: 2
     text: "每回合提升闪避率1%，最高10%；每回合提升连击率、虚招率2%"
-    translated: "Increase Evasion Rate by 1% per turn, up to a maximum of 10%; increase Critical Hit Rate and Feint Rate by 2% per turn."
+    translated: "Each round, increase dodge rate by 1%, up to a maximum of 10%; each round, increase combo rate and feint rate by 2%"
 - lineNum: 127
   raw: "nick146	酒庄三郎	每回合提升闪避率1%，最高10%；每回合额外提升连击率5%		n60301	nick146"
   translated: ""
   splits:
   - split: 1
     text: "酒庄三郎"
-    translated: "Wine Estate San Lang"
+    translated: "Winery's Third Brother"
   - split: 2
     text: "每回合提升闪避率1%，最高10%；每回合额外提升连击率5%"
-    translated: "Increase dodge rate by 1% per turn, up to a maximum of 10%; increase combo rate by an additional 5% each turn."
+    translated: "Each round increases dodge rate by 1%, maximum 10%; additionally, increase combo rate by 5% each round"
 - lineNum: 128
   raw: "nick147	酒庄庄主	每回合提升闪避率3%，最高15%；发动连击时，额外提升虚招率9%		n60304	nick147"
   translated: ""
   splits:
   - split: 1
     text: "酒庄庄主"
-    translated: "Wine Estate Master"
+    translated: "Winery Master"
   - split: 2
     text: "每回合提升闪避率3%，最高15%；发动连击时，额外提升虚招率9%"
-    translated: "Each turn increases evasion rate by 3%, up to a maximum of 15%; when initiating a combo attack, also increase feinting rate by an additional 9%."
+    translated: "Each round increases dodge rate by 3%, up to a maximum of 15%; when launching a combo, additionally increase feint rate by 9%"
 - lineNum: 129
   raw: "nick148	酒庄老太爷	每回合提升闪避率3%，最高15%；发动连击时，额外提升爆击率9%		n60305	nick148"
   translated: ""
   splits:
   - split: 1
     text: "酒庄老太爷"
-    translated: "Senior Master of the Winery"
+    translated: "Winery Elder"
   - split: 2
     text: "每回合提升闪避率3%，最高15%；发动连击时，额外提升爆击率9%"
-    translated: "Each turn increases evasion rate by 3%, up to a maximum of 15%; when triggering a combo attack, additionally increase critical hit rate by 9%."
+    translated: "Each round increases dodge rate by 3%, maximum 15%; when activating combo, additional increase to critical hit rate by 9%"
 - lineNum: 130
   raw: "nick149	锦衣卫指挥使	每回合自身周围距离2单位内敌方，减少所有特技值10点		n60340	nick149"
   translated: ""
   splits:
   - split: 1
     text: "锦衣卫指挥使"
-    translated: "Imperial Guards Commander of the Banners and Uniforms Division"
+    translated: "Imperial Guard Commander"
   - split: 2
     text: "每回合自身周围距离2单位内敌方，减少所有特技值10点"
-    translated: "Each turn, reduce all skills by 10 points for enemies within a distance of 2 units from the self."
+    translated: "Each round, for enemies within a distance of 2 units from oneself, reduce all skill values by 10 points"
 - lineNum: 131
   raw: "nick150	点苍剑客	发动反击后，自身攻击力增加5%，至多累积50%		n60007	nick150"
   translated: ""
@@ -1311,67 +1311,67 @@
     translated: "Mount Diancang Swordsman"
   - split: 2
     text: "发动反击后，自身攻击力增加5%，至多累积50%"
-    translated: "After launching a counterattack, self-attack power increases by 5%, up to a maximum cumulative increase of 50%."
+    translated: "After launching a counterattack, the character's attack power increases by 5%, up to a maximum cumulative increase of 50%"
 - lineNum: 132
   raw: "nick151	边防将军	场上所有友军，受到伤害减免15%		n20495,n20495b	nick151"
   translated: ""
   splits:
   - split: 1
     text: "边防将军"
-    translated: "Frontier General"
+    translated: "Border General"
   - split: 2
     text: "场上所有友军，受到伤害减免15%"
-    translated: "All friendly forces on the field receive a 15% damage reduction."
+    translated: "All allied forces on the field receive a 15% damage reduction"
 - lineNum: 133
   raw: "nick152	狼蛮国师	每击杀一名敌方，回复自身气血30%，回复自身精力3点		n20510	nick152"
   translated: ""
   splits:
   - split: 1
     text: "狼蛮国师"
-    translated: "Shaman of the Wolf Barbarians"
+    translated: "Wugenguo Shishi"
   - split: 2
     text: "每击杀一名敌方，回复自身气血30%，回复自身精力3点"
-    translated: "For every enemy defeated, restore 30% of your own Qi and recover 3 points of energy."
+    translated: "For each enemy killed, restore 30% of your own Qi and recover 3 points of your energy"
 - lineNum: 134
   raw: "nick153	大燕皇室	若发动反击、守株待兔、黄雀在后，额外减少目标2点精力		n20513	nick153"
   translated: ""
   splits:
   - split: 1
     text: "大燕皇室"
-    translated: "The Great Yan Royal Family"
+    translated: "Great Yan Imperial Family"
   - split: 2
     text: "若发动反击、守株待兔、黄雀在后，额外减少目标2点精力"
-    translated: "If initiating a counterattack, waiting idly for opportunity, or being overtaken by smaller forces, reduce the target's Qi by an additional 2 points."
+    translated: "Should a counterattack, waiting by the stump for rabbits, or cuckoos after swallows occur, additionally reduce the target's 2 points of energy"
 - lineNum: 135
   raw: "nick154	九袋长老	当自身气血少于60%，攻击力增加50%；当自气血少于30%，攻击力增加100%		n20583	nick154"
   translated: ""
   splits:
   - split: 1
     text: "九袋长老"
-    translated: "Ninth Patriarch of the Nine Satchels"
+    translated: "Nine-Pouch Elder"
   - split: 2
     text: "当自身气血少于60%，攻击力增加50%；当自气血少于30%，攻击力增加100%"
-    translated: "When the character's health is below 60%, attack power increases by 50%; when the character's health is below 30%, attack power increases by 100%."
+    translated: "When one's own Qi and blood are less than 60%, attack power increases by 50%; when one's own Qi and blood are less than 30%, attack power increases by 100%"
 - lineNum: 136
   raw: "nick155	淘石副帮主	发动卸劲后，增加自身招式伤害5%，最高30%		n60001	nick155"
   translated: ""
   splits:
   - split: 1
     text: "淘石副帮主"
-    translated: "Tao Shi Vice-Chief of the Sect"
+    translated: "Deputy Guildmaster of Taoshi"
   - split: 2
     text: "发动卸劲后，增加自身招式伤害5%，最高30%"
-    translated: "After discharging momentum, increase the damage of your own techniques by 5%, up to a maximum of 30%."
+    translated: "After releasing Qi, increase damage of own techniques by 5%, up to a maximum of 30%"
 - lineNum: 137
   raw: "nick156	淘石帮主	发动爆击后，增加自身招式伤害5%，最高50%		n60002	nick156"
   translated: ""
   splits:
   - split: 1
     text: "淘石帮主"
-    translated: "Master Taoshan of the Taoshan Sect"
+    translated: "Master of the Taoshi Guild"
   - split: 2
     text: "发动爆击后，增加自身招式伤害5%，最高50%"
-    translated: "After activating a critical hit, increase the damage of your own techniques by 5%, up to a maximum of 50%."
+    translated: "After activating a critical hit, increase the damage of your techniques by 5%, up to a maximum of 50%"
 - lineNum: 138
   raw: "nick157	蛇丐	发动虚招后，提升自身连击率15%		n60055	nick157"
   translated: ""
@@ -1381,107 +1381,107 @@
     translated: "Snake Beggar"
   - split: 2
     text: "发动虚招后，提升自身连击率15%"
-    translated: "After performing a feint, increase the combo rate by 15%."
+    translated: "After executing a feint, increase the self combo rate by 15%"
 - lineNum: 139
   raw: "nick158	农民无双	使用招式「庄稼把式」时伤害增加200%		n00017	nick158"
   translated: ""
   splits:
   - split: 1
     text: "农民无双"
-    translated: "Farmer Wushuang"
+    translated: "Farmer without peer"
   - split: 2
     text: "使用招式「庄稼把式」时伤害增加200%"
-    translated: "When using the Farmhand Technique, damage increases by 200%."
+    translated: "When using the technique Farmhand's Grip, damage increases by 200%"
 - lineNum: 140
   raw: "nick159	狐仙爷爷	背袭时额外造成目标15点晕眩		n60004,n60004a,n60004b,n60004c	nick159"
   translated: ""
   splits:
   - split: 1
     text: "狐仙爷爷"
-    translated: "Fennec Fox Uncle"
+    translated: "Huxian Yeye"
   - split: 2
     text: "背袭时额外造成目标15点晕眩"
-    translated: "Attacks from behind inflict an additional 15 points of dizziness on the target."
+    translated: "Backsweep deals an additional 15 points of dizziness to the target"
 - lineNum: 141
   raw: "nick160	景大善人	当自身气血在50%以下时，每回合提升自身卸劲率与反击率15%		n60068	nick160"
   translated: ""
   splits:
   - split: 1
     text: "景大善人"
-    translated: "Kind-hearted person at Jing Da Academy."
+    translated: "Jing Da Shan Ren"
   - split: 2
     text: "当自身气血在50%以下时，每回合提升自身卸劲率与反击率15%"
-    translated: "When one's own Qi and blood fall below 50%, increase their ability to break resistance and counterattack by 15% each turn."
+    translated: "When one's own vitality and blood are below 50%, increase the off-stance rate and counterattack rate by 15% each turn"
 - lineNum: 142
   raw: "nick500	敲个没完	铁匠铺的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "敲个没完"
-    translated: "Ke ge mei wan."
+    translated: "Knock without end"
   - split: 2
     text: "铁匠铺的商品与服务八折优待！"
-    translated: "Blacksmith shop products and services offered at an eight percent discount!"
+    translated: "Blacksmith Shop's Products and Services at an 80% Discount!"
 - lineNum: 143
   raw: "nick501	无以为家	旅店的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "无以为家"
-    translated: "Unable to manage a household."
+    translated: "Without a home to return to"
   - split: 2
     text: "旅店的商品与服务八折优待！"
-    translated: "The goods and services at the inn are available at an eight-tenth discount!"
+    translated: "Travel inn's goods and services at an eight-tenth discount!"
 - lineNum: 144
   raw: "nick502	手头紧了些	当铺的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "手头紧了些"
-    translated: "I'm a bit short on cash at the moment."
+    translated: "Money is a bit tight"
   - split: 2
     text: "当铺的商品与服务八折优待！"
-    translated: "Antique shop's goods and services at an eight percent discount!"
+    translated: "Antique shop products and services are discounted by 20%!"
 - lineNum: 145
   raw: "nick503	皮要肉不要	毛皮店的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "皮要肉不要"
-    translated: "The skin is wanted, not the flesh."
+    translated: "Hide the flesh, not the skin"
   - split: 2
     text: "毛皮店的商品与服务八折优待！"
-    translated: "Fur shop products and services at an eight percent discount!"
+    translated: "Eighty percent discount on fur shop goods and services!"
 - lineNum: 146
   raw: "nick504	那个也帮我剁了	肉铺的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "那个也帮我剁了"
-    translated: "That one helped me butcher it as well."
+    translated: "That one helped me chop it up too"
   - split: 2
     text: "肉铺的商品与服务八折优待！"
-    translated: "Meat shop products and services at an 80% discount!"
+    translated: "The meat shop's products and services are available at an 80% discount!"
 - lineNum: 147
   raw: "nick505	什么都能收	杂货店的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "什么都能收"
-    translated: "Anything can be collected."
+    translated: "Anything can be collected"
   - split: 2
     text: "杂货店的商品与服务八折优待！"
-    translated: "Grocery store merchandise and services at an eight-tenth discount!"
+    translated: "General store products and services have an eight-for-seven promotion!"
 - lineNum: 148
   raw: "nick506	没病强身	药铺的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "没病强身"
-    translated: "No illness, strong body."
+    translated: "Health is strength"
   - split: 2
     text: "药铺的商品与服务八折优待！"
-    translated: "Pharmacy goods and services at an 80% discount!"
+    translated: "Herbal Medicine Shop's Goods and Services are Enjoying an Eighty Percent Discount!"
 - lineNum: 149
   raw: "nick507	吃素的	蔬菜铺的商品与服务八折优待！		Player	"
   translated: ""
@@ -1491,107 +1491,107 @@
     translated: "Vegetarian"
   - split: 2
     text: "蔬菜铺的商品与服务八折优待！"
-    translated: "Vegetable store products and services at an 80% discount!"
+    translated: "Vegetable Stall's Products and Services at 20% Discount!"
 - lineNum: 150
   raw: "nick508	香甜多汁	水果铺的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "香甜多汁"
-    translated: "Sweet and juicy"
+    translated: "Delicious and juicy"
   - split: 2
     text: "水果铺的商品与服务八折优待！"
-    translated: "Fruit store products and services at an 80% discount!"
+    translated: "Watermelon Shop's goods and services at an 80% discount!"
 - lineNum: 151
   raw: "nick509	麻烦去鳞	鱼铺的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "麻烦去鳞"
-    translated: "Sorry to trouble you."
+    translated: "Kindly go and visit"
   - split: 2
     text: "鱼铺的商品与服务八折优待！"
-    translated: "Fish Shop's products and services enjoy an eight-for-ten discount!"
+    translated: "Retail goods and services at the fish shop are offered at an 80% discount!"
 - lineNum: 152
   raw: "nick510	枯藤老树	樵夫们的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "枯藤老树"
-    translated: "Dried Vine, Ancient Tree"
+    translated: "Ku Teng Lao Shu"
   - split: 2
     text: "樵夫们的商品与服务八折优待！"
-    translated: "Products and services of the woodcutters with an 80% discount!"
+    translated: "Woodcutters' goods and services are offered at an eight percent discount!"
 - lineNum: 153
   raw: "nick511	佛要金装	布庄的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "佛要金装"
-    translated: "Buddha wants to be adorned in gold."
+    translated: "Got to be decked out in gold"
   - split: 2
     text: "布庄的商品与服务八折优待！"
-    translated: "Bu Zhuang's products and services enjoy an 80% discount!"
+    translated: "The winery's products and services are offered at an eight percent discount!"
 - lineNum: 154
   raw: "nick512	民以食为天	食堂的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "民以食为天"
-    translated: "The people regard food as their utmost priority."
+    translated: "People regard food as their utmost priority"
   - split: 2
     text: "食堂的商品与服务八折优待！"
-    translated: "Cafeteria goods and services at an 80% discount!"
+    translated: "The canteen's goods and services are offered at an eight-digits discount!"
 - lineNum: 155
   raw: "nick513	酒足饭饱	酒楼的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "酒足饭饱"
-    translated: "Having drunk enough wine and eaten enough food."
+    translated: "Sated with drink and meal"
   - split: 2
     text: "酒楼的商品与服务八折优待！"
-    translated: "Dining hall products and services enjoy an eight-for-ten discount!"
+    translated: "Hotel's goods and services are offered at an 80% discount!"
 - lineNum: 156
   raw: "nick514	金玉满堂	玉坊的商品与服务八折优待！		Player	"
   translated: ""
   splits:
   - split: 1
     text: "金玉满堂"
-    translated: "A house full of gold and jade."
+    translated: "House full of gold and jade"
   - split: 2
     text: "玉坊的商品与服务八折优待！"
-    translated: "Yufang's products and services enjoy an eight percent discount!"
+    translated: "Shao Family Jade Courtyard's goods and services are offered at an 80% discount!"
 - lineNum: 157
   raw: "nick515	「巨猿之友」	巨猿之王「猴三」现在任你差遣！		Player	nick515"
   translated: ""
   splits:
   - split: 1
     text: "「巨猿之友」"
-    translated: "Friend of the Giant Ape"
+    translated: "Giants' Friend"
   - split: 2
     text: "巨猿之王「猴三」现在任你差遣！"
-    translated: "King of the Great Apes Monkey King is at your disposal now!"
+    translated: "King of the Great Apes Monkey Three is now at your disposal!"
 - lineNum: 158
   raw: "nick516	「寡妇制造者」	野猪王「寡妇制造者」现在任你差遣！		Player	nick516"
   translated: ""
   splits:
   - split: 1
     text: "「寡妇制造者」"
-    translated: "Creator of Widows"
+    translated: "Widow Maker"
   - split: 2
     text: "野猪王「寡妇制造者」现在任你差遣！"
-    translated: "Wild Boar King Widow Maker at your service now!"
+    translated: "Wild Boar King 'Widow Maker' at your command!"
 - lineNum: 159
   raw: "nick517	「红斑」	鳄鱼王「红斑」现在任你差遣！		Player	nick517"
   translated: ""
   splits:
   - split: 1
     text: "「红斑」"
-    translated: "Red Patch or Scarlet Rash, depending on the context in which it is used."
+    translated: "Red Spot"
   - split: 2
     text: "鳄鱼王「红斑」现在任你差遣！"
-    translated: "Crocodile King Hongban is at your service!"
+    translated: "Dragon King Red Spotted is now at your command!"
 - lineNum: 160
   raw: "nick518	「白纹」	鳄鱼王「白纹」现在任你差遣！		Player	nick518"
   translated: ""
@@ -1601,27 +1601,27 @@
     translated: "White Pattern"
   - split: 2
     text: "鳄鱼王「白纹」现在任你差遣！"
-    translated: "Alligator King Baiwen is now at your disposal!"
+    translated: "Albino Crocodile King, White Stripe, is now at your command!"
 - lineNum: 161
   raw: "nick519	「暴牙」	黑狼王「暴牙」现在任你差遣！		Player	nick519"
   translated: ""
   splits:
   - split: 1
     text: "「暴牙」"
-    translated: "Brute Teeth"
+    translated: "Brutal Teeth"
   - split: 2
     text: "黑狼王「暴牙」现在任你差遣！"
-    translated: "The Black Wolf King Bao Ya is now at your command!"
+    translated: "Wolfs Lord Fang is at your command!"
 - lineNum: 162
   raw: "nick520	「白牙」	雪狼王「白牙」现在任你差遣！		Player	nick520"
   translated: ""
   splits:
   - split: 1
     text: "「白牙」"
-    translated: "White Tooth"
+    translated: "White Fang"
   - split: 2
     text: "雪狼王「白牙」现在任你差遣！"
-    translated: "Wolf King Baiya is now at your disposal!"
+    translated: "White Fang the Snow Wolf King is now at your disposal!"
 - lineNum: 163
   raw: "nick521	「铁斧」	黑熊王「铁斧」现在任你差遣！		Player	nick521"
   translated: ""
@@ -1631,7 +1631,7 @@
     translated: "Iron Axe"
   - split: 2
     text: "黑熊王「铁斧」现在任你差遣！"
-    translated: "The Black Bear King Iron Axe is now at your command!"
+    translated: "Black Bear King Iron Axe is now at your disposal!"
 - lineNum: 164
   raw: "nick522	「银掌」	白熊王「银掌」现在任你差遣！		Player	nick522"
   translated: ""
@@ -1641,87 +1641,87 @@
     translated: "Silver Palm"
   - split: 2
     text: "白熊王「银掌」现在任你差遣！"
-    translated: "Polar Bear King Silver Palm is now at your disposal!"
+    translated: "White Bear King Silver Palm is now at your disposal!"
 - lineNum: 165
   raw: "nick523	「黑骨」	黑蓝虎王「黑骨」现在任你差遣！		Player	nick523"
   translated: ""
   splits:
   - split: 1
     text: "「黑骨」"
-    translated: "Dark Bone"
+    translated: "Black Bone"
   - split: 2
     text: "黑蓝虎王「黑骨」现在任你差遣！"
-    translated: "The Black Blue Tiger King Hei Gu is now at your disposal!"
+    translated: "Hua Lanhutong, the Black Bone Demon King, is now at your command!"
 - lineNum: 166
   raw: "nick524	「南霸天」	白虎王「南霸天」现在任你差遣！		Player	nick524"
   translated: ""
   splits:
   - split: 1
     text: "「南霸天」"
-    translated: "Southern Hegemon"
+    translated: "Nam Batian"
   - split: 2
     text: "白虎王「南霸天」现在任你差遣！"
-    translated: "The White Tiger King Nan Batian is now at your disposal!"
+    translated: "White Tiger King Nam Batian is now at your disposal!"
 - lineNum: 167
   raw: "nick525	「啼不住」	金丝猴王「啼不住」现在任你差遣！		Player	nick525"
   translated: ""
   splits:
   - split: 1
     text: "「啼不住」"
-    translated: "Can't stop crying."
+    translated: "Chirping incessantly"
   - split: 2
     text: "金丝猴王「啼不住」现在任你差遣！"
-    translated: "The Golden Monkey King Can't Stop Crying is now at your disposal!"
+    translated: "The Golden Monkey King Cannot Stop Crying is now at your disposal!"
 - lineNum: 168
   raw: "nick526	「夜影」	黑豹王「夜影」现在任你差遣！		Player	nick526"
   translated: ""
   splits:
   - split: 1
     text: "「夜影」"
-    translated: "Night Shadow"
+    translated: "Ye Ying"
   - split: 2
     text: "黑豹王「夜影」现在任你差遣！"
-    translated: "The Black Panther King Ye Ying is now at your disposal!"
+    translated: "Black Panther King Night Shadow is now at your disposal!"
 - lineNum: 169
   raw: "nick527	「雪影」	雪豹王「雪影」现在任你差遣！		Player	nick527"
   translated: ""
   splits:
   - split: 1
     text: "「雪影」"
-    translated: "Snow Shadow"
+    translated: "Shuiying"
   - split: 2
     text: "雪豹王「雪影」现在任你差遣！"
-    translated: "The Snow Leopard King Xueying is now at your command!"
+    translated: "Snow Leopard King Snow Shadow is now at your disposal!"
 - lineNum: 170
   raw: "nick528	「巨木」	普斯曲蛇王「巨木」现在任你差遣！		Player	nick528"
   translated: ""
   splits:
   - split: 1
     text: "「巨木」"
-    translated: "Giant Tree"
+    translated: "Colossal Tree"
   - split: 2
     text: "普斯曲蛇王「巨木」现在任你差遣！"
-    translated: "The Serpent King of Pusiqe Jumu is now at your disposal!"
+    translated: "Princeps Serpentis Gigantic Wood is now at your disposal!"
 - lineNum: 171
   raw: "nick529	「巨猿王」	猴三会在战斗中吸引所有敌人的注意且在回合结束时消除自身部分的负面状态。		n80150,n80150a,n80150b,n80150c,n80150d,n80150e	nick529"
   translated: ""
   splits:
   - split: 1
     text: "「巨猿王」"
-    translated: "King of the Gigantic Apes"
+    translated: "King Kong"
   - split: 2
     text: "猴三会在战斗中吸引所有敌人的注意且在回合结束时消除自身部分的负面状态。"
-    translated: "Monkey Three gathers all enemy attention in battle and dispels some of its own negative statuses at the end of its turn."
+    translated: "Monkey Three Gathering draws the attention of all enemies in battle and dispels some of its negative statuses at the end of the turn"
 - lineNum: 172
   raw: "nick530	「破阵先锋」	寡妇制造者的攻击会造成敌人严重的内伤。		n59003,n59003_a01,n59003_a02,n59003_a03,n59003_a04,n59003_a05	nick530"
   translated: ""
   splits:
   - split: 1
     text: "「破阵先锋」"
-    translated: "Disrupt the Formation Vanguard"
+    translated: "Chief Vanguard"
   - split: 2
     text: "寡妇制造者的攻击会造成敌人严重的内伤。"
-    translated: "The Widow Maker's attack causes serious internal damage to the enemy."
+    translated: "Widow Maker's attack causes severe internal injuries to the enemy"
 - lineNum: 173
   raw: "nick531	「河之主」	每受击三次，白纹必定反击对手。		n59001d,n59001d_001,n59001d_002,n59001d_003,n59001d_004,n59001d_005	nick531"
   translated: ""
@@ -1731,7 +1731,7 @@
     translated: "Master of the River"
   - split: 2
     text: "每受击三次，白纹必定反击对手。"
-    translated: "After being hit three times, Bai Wen will definitely counterattack the opponent."
+    translated: "For every three strikes received, Bai Wen will inevitably counterattack the opponent"
 - lineNum: 174
   raw: "nick532	「金鬃」	传奇兽王「金鬃」现在任你差遣！		Player	nick532"
   translated: ""
@@ -1741,47 +1741,47 @@
     translated: "Golden Mane"
   - split: 2
     text: "传奇兽王「金鬃」现在任你差遣！"
-    translated: "Legendary Beast King Jin Zong is now at your command!"
+    translated: "The legendary beast king Golden Mane is now at your disposal!"
 - lineNum: 175
   raw: "nick533	「牙通牙」	黑狼王的利齿会对敌人造成严重的外伤与感染毒伤。		n59002,n59002_a01,n59002_a02,n59002_a03,n59002_a04,n59002_a05	nick533"
   translated: ""
   splits:
   - split: 1
     text: "「牙通牙」"
-    translated: "Teeth communicate with teeth."
+    translated: "One tooth for one tooth"
   - split: 2
     text: "黑狼王的利齿会对敌人造成严重的外伤与感染毒伤。"
-    translated: "The Fang of the Black Wolf King can cause severe external injuries and toxic poisoning to enemies."
+    translated: "Black Wolf King's sharp teeth can cause severe external injuries and infectious poison damage to enemies"
 - lineNum: 176
   raw: "nick534	「白牙一闪」	白狼王有机会对敌人造成两次伤害并附加外伤。		n21125,n21125_a01,n21125_a02,n21125_a03,n21125_a04,n21125_a05	nick534"
   translated: ""
   splits:
   - split: 1
     text: "「白牙一闪」"
-    translated: "White Tooth Flashes"
+    translated: "White Fang Flash"
   - split: 2
     text: "白狼王有机会对敌人造成两次伤害并附加外伤。"
-    translated: "White Wolf King has the opportunity to inflict two attacks on an enemy and add external injuries."
+    translated: "White Wolf King has the opportunity to deal two instances of damage to an enemy and inflict additional bleeding wounds"
 - lineNum: 177
   raw: "nick535	「沼之主」	嗜血巨鳄红斑会将造成的伤害30%转为自己的气血。		n59001,n59001_01,n59001_02,n59001_03,n59001_04,n59001_05	nick535"
   translated: ""
   splits:
   - split: 1
     text: "「沼之主」"
-    translated: "Marsh Lord"
+    translated: "Lord of the Marsh"
   - split: 2
     text: "嗜血巨鳄红斑会将造成的伤害30%转为自己的气血。"
-    translated: "Voracious Blood Crocodiles of the Red Spots convert 30% of the damage they cause into their own Qi."
+    translated: "Voracious Blood Crocodile Crimson Stain Guild converts 30% of the inflicted damage into its own Qi"
 - lineNum: 178
   raw: "nick536	「劈山击」	黑熊王铁斧会在战斗中吸引敌人的注意，并有机会将敌人打晕。		n59004,n59004_a01,n59004_a02,n59004_a03,n59004_a04,n59004_a05	nick536"
   translated: ""
   splits:
   - split: 1
     text: "「劈山击」"
-    translated: "Mountain Splitting Strike"
+    translated: "Crashing Mountain Strike"
   - split: 2
     text: "黑熊王铁斧会在战斗中吸引敌人的注意，并有机会将敌人打晕。"
-    translated: "Black Bear King Iron Axe will attract the attention of enemies during battles and have an opportunity to knock out enemies."
+    translated: "Black Bear King Iron Axe can attract the attention of enemies in battle and has the opportunity to knock them out"
 - lineNum: 179
   raw: "nick537	「破冰搥」	白熊王银掌会在战斗中吸引敌人的注意，并有机会将敌人打晕。		n59004f,n59004f_a01,n59004f_a02,n59004f_a03,n59004f_a04,n59004f_a05	nick537"
   translated: ""
@@ -1791,57 +1791,57 @@
     translated: "Break Ice Hammer"
   - split: 2
     text: "白熊王银掌会在战斗中吸引敌人的注意，并有机会将敌人打晕。"
-    translated: "The White Bear King's Silver Palm Technique attracts the attention of enemies during battle, creating an opportunity to knock them out."
+    translated: "White Bear King Silver Palm can attract the enemy's attention in battle and has an opportunity to knock out the enemy"
 - lineNum: 180
   raw: "nick538	「林之王」	虎王黑骨会对敌人造成严重的外伤并将造成的伤害30%转为自己的气血。		n59005f,n59005f_a01,n59005f_a02,n59005f_a03,n59005f_a04,n59005f_a05	nick538"
   translated: ""
   splits:
   - split: 1
     text: "「林之王」"
-    translated: "The King of the Lin Clan"
+    translated: "Lin Zhi Wang"
   - split: 2
     text: "虎王黑骨会对敌人造成严重的外伤并将造成的伤害30%转为自己的气血。"
-    translated: "The Tiger King Black Bone can cause serious external injuries to enemies and convert 30% of the inflicted damage into their own Qi."
+    translated: "Hu Wang Black Bone Sect inflicts severe external injuries on enemies and converts 30% of the inflicted damage into its own Qi"
 - lineNum: 181
   raw: "nick539	「山之主」	虎王南霸天会对敌人造成严重的外伤并将造成的伤害30%转为自己的气血。		n59005,n59005_a01,n59005_a02,n59005_a03,n59005_a04,n59005_a05	nick539"
   translated: ""
   splits:
   - split: 1
     text: "「山之主」"
-    translated: "Mountain's Master"
+    translated: "Lord of the Mountain"
   - split: 2
     text: "虎王南霸天会对敌人造成严重的外伤并将造成的伤害30%转为自己的气血。"
-    translated: "The Tiger King, Nanbatian, inflicts severe external damage on enemies and converts 30% of that damage into his own Qi."
+    translated: "Huwang Nanbaotian's move inflicts serious external injuries on the opponent and converts 30% of the inflicted damage into its own Qi"
 - lineNum: 182
   raw: "nick540	「喧嚣不已」	啼不住的每三次攻击必定发动虚招，且有一定的机率闪躲过敌人的攻击。		n59006,n59006_a01,n59006_a02,n59006_a03,n59006_a04,n59006_a05	nick540"
   translated: ""
   splits:
   - split: 1
     text: "「喧嚣不已」"
-    translated: "Never-ending clamor."
+    translated: "Constantly noisy or clamorous"
   - split: 2
     text: "啼不住的每三次攻击必定发动虚招，且有一定的机率闪躲过敌人的攻击。"
-    translated: "It cries continuously, and every third attack will be a feint, with a chance to dodge the enemy's attacks."
+    translated: "Every third attack will definitely be a feint, and there is a chance to dodge the enemy's attack"
 - lineNum: 183
   raw: "nick541	「影突」	黑影能对敌人制造带着外伤效果的高伤害，还有一定机率闪避敌人的攻击。		n59007_B01,n59007_B01a,n59007_B01b,n59007_B01c,n59007_B01d,n59007_B01e	nick541"
   translated: ""
   splits:
   - split: 1
     text: "「影突」"
-    translated: "Shadow Strike"
+    translated: "Shadow Swift"
   - split: 2
     text: "黑影能对敌人制造带着外伤效果的高伤害，还有一定机率闪避敌人的攻击。"
-    translated: "Shadow can inflict external damage to enemies and has a chance to evade enemy attacks."
+    translated: "The shadow can inflict high damage with an external injury effect on enemies, and has a chance to dodge enemy attacks"
 - lineNum: 184
   raw: "nick542	「血袭」	雪影能对敌人制造带着外伤效果的高伤害，并将一定的伤害转化成自己的气血。		n59007_W01,n59007_W01a,n59007_W01b,n59007_W01c,n59007_W01d,n59007_W01e	nick542"
   translated: ""
   splits:
   - split: 1
     text: "「血袭」"
-    translated: "Blood Hunt"
+    translated: "Chexi"
   - split: 2
     text: "雪影能对敌人制造带着外伤效果的高伤害，并将一定的伤害转化成自己的气血。"
-    translated: "Snow Shadow can deal high damage to enemies with an external injury effect and convert a portion of the damage into its own Qi."
+    translated: "Snow Shadow can inflict high damage with an external injury effect on enemies, and convert a certain amount of that damage into its own Qi"
 - lineNum: 185
   raw: "nick543	「毒之王」	巨木的每次攻击都带着剧毒，同时牠也能在战斗中闪避敌人的攻击。		n59008,n59008_001,n59008_002,n59008_003,n59008_004,n59008_005	nick543"
   translated: ""
@@ -1851,7 +1851,7 @@
     translated: "King of Venom"
   - split: 2
     text: "巨木的每次攻击都带着剧毒，同时牠也能在战斗中闪避敌人的攻击。"
-    translated: "The giant tree's every attack is laced with deadly poison, and it can also dodge enemy attacks in battle."
+    translated: "Each time Gigantum attacks, it does so with deadly poison while also being able to evade enemy attacks during combat"
 - lineNum: 186
   raw: "nick544	「传奇兽王」	兽王金鬃，天下无双，无人能敌。		n59009,n59009_a01,n59009_a02,n59009_a03,n59009_a04,n59009_a05	nick544"
   translated: ""
@@ -1861,87 +1861,87 @@
     translated: "Legendary Beast King"
   - split: 2
     text: "兽王金鬃，天下无双，无人能敌。"
-    translated: "King of Beasts Golden Mane, unparalleled across the world; none can rival him."
+    translated: "The Beast King Jinzong, unmatched in the world; no one can rival him"
 - lineNum: 187
   raw: "nick600	「北侠」	北侠之名，威震中原，拳掌与弓箭威力上升25%，而且有50%机会对敌人造成2次伤害。		n80416,Player	nick600"
   translated: ""
   splits:
   - split: 1
     text: "「北侠」"
-    translated: "Northern Swordsman"
+    translated: "Beikexia"
   - split: 2
     text: "北侠之名，威震中原，拳掌与弓箭威力上升25%，而且有50%机会对敌人造成2次伤害。"
-    translated: "The Northern Swordsman's Fame, renowned across the Central Plains, increases punch and kick damage by 25%, and has a 50% chance to inflict double damage on enemies."
+    translated: "The name of the Northern Wuxia is formidable across the Central Plains. The power of fist and sword, as well as bow and arrow, increases by 25%, and there is a 50% chance to inflict damage on an enemy twice"
 - lineNum: 188
   raw: "nick601	「雪山飞狐」	雪山奇侠，刀法无双，刀法威力上升30%，所有伤害技能都会带着外伤效果。		n80417,Player	nick601"
   translated: ""
   splits:
   - split: 1
     text: "「雪山飞狐」"
-    translated: "Fox Volant of the Snowy Mountain"
+    translated: "Snow Wolf Flying Fox"
   - split: 2
     text: "雪山奇侠，刀法无双，刀法威力上升30%，所有伤害技能都会带着外伤效果。"
-    translated: "The Snow Mountain Swordsman, unmatched in swordsmanship, increases the power of his sword techniques by 30%, and all damage skills inflict a wound effect."
+    translated: "Snowy Mountain Wuxia, unmatched in blade skills; blade skill damage increased by 30%, and all damage abilities carry an external injury effect"
 - lineNum: 189
   raw: "nick602	「老毒物」	武学泰斗，毒中之王，所有技能威力上升30%，而且你的每一击都带着剧毒。		n80419,Player	nick602"
   translated: ""
   splits:
   - split: 1
     text: "「老毒物」"
-    translated: "The Old Poisoner"
+    translated: "Old Poisoner"
   - split: 2
     text: "武学泰斗，毒中之王，所有技能威力上升30%，而且你的每一击都带着剧毒。"
-    translated: "Sage of Wuxia, King of Poison, all skills power increased by 30%, and your every strike is laced with deadly poison."
+    translated: "Swordsmanship Sage, King of Poison, all skills increase in power by 30%, and every blow carries deadly poison"
 - lineNum: 190
   raw: "nick603	「笑傲江湖」	你的剑法威力额外随剑术上升再提升，并且战斗中有20%的机会闪避伤害。		n80420,Player	nick603"
   translated: ""
   splits:
   - split: 1
     text: "「笑傲江湖」"
-    translated: "Smile with Pride Over the Jianghu"
+    translated: "Swordsmen Who Are Laughing at the World"
   - split: 2
     text: "你的剑法威力额外随剑术上升再提升，并且战斗中有20%的机会闪避伤害。"
-    translated: "Your swordsmanship power increases additionally with your martial arts level and, during combat, you have a 20% chance to avoid damage."
+    translated: "Your swordsmanship power increases further with your advancement in sword techniques, and during combat, there is a 20% chance to avoid damage"
 - lineNum: 191
   raw: "nick604	「神行百变」	天资聪颖的你能在战斗中得到更多经验值，且你在战斗中有25%的机率回避伤害。	(Intelligence,10)	n80421,Player	nick604"
   translated: ""
   splits:
   - split: 1
     text: "「神行百变」"
-    translated: "Divine Martial Transformation"
+    translated: "Transcendently Versatile"
   - split: 2
     text: "天资聪颖的你能在战斗中得到更多经验值，且你在战斗中有25%的机率回避伤害。"
-    translated: "Your natural talent allows you to gain more experience points in battle, and there is a 25% chance that you will avoid damage during combat."
+    translated: "Your innate talent and intelligence allow you to gain more experience points in battle, and there is a 25% chance for you to dodge damage during combat"
 - lineNum: 192
   raw: "nick605	「西狂」	狂值越高，武功威力越强，剑法威力上升30％。		n80422,Player	nick605"
   translated: ""
   splits:
   - split: 1
     text: "「西狂」"
-    translated: "The Western Madman"
+    translated: "Western Madman"
   - split: 2
     text: "狂值越高，武功威力越强，剑法威力上升30％。"
-    translated: "The higher the rage value, the stronger the martial arts power, with sword technique power increasing by 30%."
+    translated: "As the value increases, martial arts power becomes stronger, and swordsmanship power increases by 30%"
 - lineNum: 193
   raw: "nick606	「弹指神通」	暗器威力上升40%，战斗中有30%的机会闪避伤害。		n80423,Player	nick606"
   translated: ""
   splits:
   - split: 1
     text: "「弹指神通」"
-    translated: "Divine Fist of the Flickering Finger"
+    translated: "Teleportation with a Snap of Fingers"
   - split: 2
     text: "暗器威力上升40%，战斗中有30%的机会闪避伤害。"
-    translated: "The power of the hidden weapons increases by 40%, with a 30% chance to evade damage during combat."
+    translated: "Stealth weapons damage increased by 40%, with a 30% chance to dodge attacks during combat"
 - lineNum: 194
   raw: "nick607	「慈悲为怀」	所有技能威力上升40%，且道德越高，技能威力越强。		n80424,Player	nick607"
   translated: ""
   splits:
   - split: 1
     text: "「慈悲为怀」"
-    translated: "Compassion in mind."
+    translated: "Compassion in one's heart"
   - split: 2
     text: "所有技能威力上升40%，且道德越高，技能威力越强。"
-    translated: "All skill power is increased by 40%, and the higher your morality, the stronger your skill power becomes."
+    translated: "All skills' power increases by 40%, and the higher the morality, the stronger the skill's power"
 - lineNum: 195
   raw: "nick608	「降龙神掌」	拳掌威力上升40%，所有伤害技能附带内伤效果。		n80425,Player	nick608"
   translated: ""
@@ -1951,24 +1951,24 @@
     translated: "Descending Dragon Divine Palm"
   - split: 2
     text: "拳掌威力上升40%，所有伤害技能附带内伤效果。"
-    translated: "Punching and kicking power increased by 40%. All damage skills inflict internal injury effects."
+    translated: "Power of fists and palms increased by 40%, all damage skills have internal injury effects"
 - lineNum: 196
   raw: "nick609	「再世神通」	所有技能威力上升30%，而且有25%机会对敌人造成2次伤害。		n80426,Player	nick609"
   translated: ""
   splits:
   - split: 1
     text: "「再世神通」"
-    translated: "Reincarnated with Supernatural Powers"
+    translated: "Reincarnation Transcendence"
   - split: 2
     text: "所有技能威力上升30%，而且有25%机会对敌人造成2次伤害。"
-    translated: "All skills have a power increase of 30%, and there is a 25% chance to deal damage to the enemy twice."
+    translated: "All skills' power increases by 30%, and there is a 25% chance to inflict damage on the enemy twice"
 - lineNum: 197
   raw: "nick610	「传奇之人」	所有技能威力上升50%，而且有50%机会对敌人造成2次伤害。	(Intelligence,10)(Physique,10)	n80427,Player	nick610"
   translated: ""
   splits:
   - split: 1
     text: "「传奇之人」"
-    translated: "The Legendary Person"
+    translated: "Legendary Person"
   - split: 2
     text: "所有技能威力上升50%，而且有50%机会对敌人造成2次伤害。"
-    translated: "All skills increase in power by 50%, and there is a 50% chance to deal damage twice to the enemy."
+    translated: "All skills' power increases by 50%, and there is a 50% chance to deal damage twice to the enemy"

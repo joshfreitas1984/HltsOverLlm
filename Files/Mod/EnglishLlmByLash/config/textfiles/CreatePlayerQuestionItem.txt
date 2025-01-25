@@ -1,76 +1,76 @@
 #Id	问题/选项文字	问题集编号	子选项(问题才要填)	获得旗标(选项才要填)	获得属性(选项才要填)	默认选项(问题才要填)
 Question01	Why do you want to enter the Wuxia world?	0	Question01_1,Question01_2,Question01_3,Question01_4,Question01_5			3
-Question01_1	Wuxia is a romantic genre.	0		(cf005,1)(nf007,1)(af001,1)		0
-Question01_2	I don't want to be single anymore.	0		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0
-Question01_3	I don't want to be a nobody; I want to become the elite!	0		(cf002,1)(nf009,1)(af003,1)(cf003,1)		0
+Question01_1	Wuxia is a form of romance	0		(cf005,1)(nf007,1)(af001,1)		0
+Question01_2	I don't want to be a single dog anymore	0		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0
+Question01_3	I don't want to be a loser; I want to become an elite!	0		(cf002,1)(nf009,1)(af003,1)(cf003,1)		0
 Question01_4	What? Is this a Wuxia world?	0		(nf010,1)(af004,1)(cf001,1)		0
-Question01_5	So what if I'm always alone wherever I go? Is there a difference?	0		(cf007,1)(nf006,1)(af005,1)		0
-Question02	Entering the world of Wuxia, what kind of person would you like to become?	0	Question02_1,Question02_2,Question02_3,Question02_4			2
-Question02_1	For the country, for the people, it is the greatest virtue of a knight-errant.	0		(cf001,1)	(Moral,30)	0
-Question02_2	Command the world; none dare disobey.	0		(cf003,1)	(Moral,-30)	0
-Question02_3	Living recklessly without restraint or concern for appearances; behaving arrogantly and defiantly.	0		(cf005,1)(cf007,1)(cf006,1)	(Madness,30)	0
-Question02_4	Upright in manners and observant of etiquette, a distinguished gentleman.	0		(cf002,1)	(Madness,-30)	0
-Question03	When you travel the world with no money in your pocket, how would you choose to make a living?	0	Question03_1,Question03_2,Question03_3,Question03_4			3
-Question03_1	Eating grass, emulating the spirit of Shennong's tasting of a hundred herbs.	0		(cf002,1)(nf001,1)		0
-Question03_2	Mining could potentially yield bitcoins.	0		(cf007,1)(nf003,1)		0
-Question03_3	Borrowing is my thing—I'm so inconspicuous that it's perfect for borrowing things from others.	0		(cf003,1)(nf004,1)		0
-Question03_4	Penniless? What does penniless mean?	0		(cf005,1)(cf006,1)(nf005,1)		0
-Question04	In the Wuxia world, which weapon would you most like to use?	0	Question04_1,Question04_2,Question04_3,Question04_4,Question04_5,Question04_6,Question04_7			1
-Question04_1	Fighting barehanded and engaging in close-quarters combat.	0		(cf001,2)(cf003,1)	(Fight,11)	0
-Question04_2	Sword like flying phoenix, lord of a hundred warriors.	0		(cf005,1)(cf007,1)	(Sword,11)	0
-Question04_3	The sword is like a fierce tiger; it instills courage in a hundred soldiers.	0		(cf002,1)	(Blade,11)	0
-Question04_4	Polearms and cudgels, an inch long, an inch strong.	0			(Spear,11)	0
-Question04_5	Hand-to-hand combat is intense; every inch is crucial and perilous.	0		(cf006,1)	(Short,11)	0
-Question04_6	Distant shot shuriken; Thousand-Armed Bodhisattva.	0			(Arrow,11)	0
-Question04_7	Navigate the martial world with skill; without poison, one is not a man.	0			(Poison,16)	0
-Question05	In the wuxia world, who do you think embodies the essence of martial arts?	0	Question05_1,Question05_2,Question05_3,Question05_4,Question05_5,Question05_6			3
-Question05_1	Impetuous beyond compare, leaving his adversaries in awe.	0		(cf007,1)(tf001,1)		0
-Question05_2	Weakness overcomes strength; softness conquers hardness.	0		(tf002,1)		0
-Question05_3	Agile as the wind, striking like lightning.	0		(cf002,1)(cf003,1)(tf003,1)		0
-Question05_4	Leverage the strength of others; a latecomer can still overcome an early starter.	0		(cf005,1)(tf004,1)		0
-Question05_5	Capricious and erratic; pointing east while hitting west.	0		(cf006,1)(tf005,1)		0
-Question05_6	Great art appears effortless; returning to one's true nature is authentic simplicity.	0		(tf006,1)(cf001,1)		0
-Question06	What is the appearance of the wuxia world you imagine? (Game difficulty)	0	Question06_1,Question06_2,Question06_3,Question06_4			2
-Question06_1	National stability and peace, fair weather and moderate climate, a land of etiquette and propriety, living in comfort and happiness. (Simplified)	0		(ff002,1)		0
-Question06_2	Self-restraint and observing rites, valorous deeds for justice, remaining vigilant in security, and transforming one's nature to benevolence. (Common saying)	0		(ff002,2)		0
-Question06_3	Morals decline daily, hearts have lost their ancient virtues; people vie for power and profit with sweet words but daggers in their hearts. (Difficult)	0		(ff002,3)		0
-Question06_4	Blades flash, swords dance; armies face off, talents emerge in succession—who dares challenge them? (In the cauldron of war)	0		(ff002,4)		0
+Question01_5	So what if I'm always alone wherever I go, does it matter?	0		(cf007,1)(nf006,1)(af005,1)		0
+Question02	Enter the Wuxia world, what kind of person do you want to become?	0	Question02_1,Question02_2,Question02_3,Question02_4			2
+Question02_1	For the country, for the people, it is the greatest among heroes	0		(cf001,1)	(Moral,30)	0
+Question02_2	Command the world, and none dare disobey	0		(cf003,1)	(Moral,-30)	0
+Question02_3	Living a life free and unrestrained, haughty and untamed	0		(cf005,1)(cf007,1)(cf006,1)	(Madness,30)	0
+Question02_4	Upright and respectful, a distinguished gentleman	0		(cf002,1)	(Madness,-30)	0
+Question03	When you wander the wulin without a penny to your name, what do you want to live on?	0	Question03_1,Question03_2,Question03_3,Question03_4			3
+Question03_1	Consume grass, following the spirit of Shen Nong tasting a hundred herbs	0		(cf002,1)(nf001,1)		0
+Question03_2	Mineral extraction, who knows, you might mine Bitcoin	0		(cf007,1)(nf003,1)		0
+Question03_3	I'm so invisible, it's perfect to borrow things from others	0		(cf003,1)(nf004,1)		0
+Question03_4	Have no money at all? What does it mean to have no money at all?	0		(cf005,1)(cf006,1)(nf005,1)		0
+Question04	In the wuxia world, what kind of weapon would you most like to use?	0	Question04_1,Question04_2,Question04_3,Question04_4,Question04_5,Question04_6,Question04_7			1
+Question04_1	Unarmed and bare-knuckled, fighting in close quarters	0		(cf001,2)(cf003,1)	(Fight,11)	0
+Question04_2	Blade like a soaring phoenix, ruler among blades	0		(cf005,1)(cf007,1)	(Sword,11)	0
+Question04_3	Blade like a fierce tiger, strikes fear into the hearts of a hundred soldiers	0		(cf002,1)	(Blade,11)	0
+Question04_4	Long spear and club, one inch long, one inch strong	0			(Spear,11)	0
+Question04_5	Close combat, inch by inch short and precarious	0		(cf006,1)	(Short,11)	0
+Question04_6	Hidden weapons fired at long range, the Thousand-Armed One	0			(Arrow,11)	0
+Question04_7	Those who tread the martial world must master poison; a man without knowledge of poisons is incomplete	0			(Poison,16)	0
+Question05	In the wuxia world, which do you think is the ultimate principle of martial arts?	0	Question05_1,Question05_2,Question05_3,Question05_4,Question05_5,Question05_6			3
+Question05_1	Brave and fierce, unmatched by any; those who face him feel daunted	0		(cf007,1)(tf001,1)		0
+Question05_2	Weakness overcomes strength, and softness overcomes hardness	0		(tf002,1)		0
+Question05_3	Agile as the wind, swift and decisive in action	0		(cf002,1)(cf003,1)(tf003,1)		0
+Question05_4	Use someone else's strength to defeat them, and strike back at a later time	0		(cf005,1)(tf004,1)		0
+Question05_5	Every change without direction, striking east and west	0		(cf006,1)(tf005,1)		0
+Question05_6	Great skill appears unrefined, revealing true essence	0		(tf006,1)(cf001,1)		0
+Question06	What is the appearance of your imagined Wuxia world? (Game difficulty)	0	Question06_1,Question06_2,Question06_3,Question06_4			2
+Question06_1	Prosperity and peace for the country, gentle winds and favorable rains, a land of courtesy and propriety, living in comfort and contentment	0		(ff002,1)		0
+Question06_2	Self-discipline and adherence to ritual, upholding righteousness with courage and justice; in times of peace, think of danger; eliminate evil to cultivate benevolence	0		(ff002,2)		0
+Question06_3	The moral climate is declining, people's hearts are not ancient; they fight for power and wealth while harboring deceitful intentions	0		(ff002,3)		0
+Question06_4	Blades gleam and swords flash, armies face each other, talents emerge in succession, who dares to contend? (Realm of Trials)	0		(ff002,4)		0
 Question11	Why do you want to enter the Wuxia world?	1	Question11_1,Question11_2,Question11_3,Question11_4,Question11_5,Question11_6			3
-Question11_1	Wuxia is a romantic genre.	1		(cf005,1)(nf007,1)(af001,1)		0
-Question11_2	I don't want to be a single dog anymore.	1		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0
-Question11_3	I don't want to be a loser; I want to become an elite!	1		(cf002,1)(nf009,1)(af003,1)(cf003,1)		0
-Question11_4	What? Is this the wuxia world?	1		(nf010,1)(af004,1)(cf001,1)		0
-Question11_5	Regardless, I'm always by myself wherever I go; does it matter?	1		(cf007,1)(nf006,1)(af005,1)		0
-Question11_6	What wuxia world? This is my world.	1		(cf008,1)(cf011,1)(cf004,1)(cf009,1)(cf010,1)(nf011,1)		0
-Question12	In the wuxia world, what kind of person do you want to become?	1	Question12_1,Question12_2,Question12_3,Question12_4,Question12_5			2
-Question12_1	For the nation, for the people—this is the greatest attribute of a knight-errant.	1		(cf010,1)(cf001,1)	(Moral,30)	0
-Question12_2	Commanding the world, none dare disobey.	1		(cf003,1)	(Moral,-30)	0
-Question12_3	Living a life of reckless abandon, proud and unrestrained.	1		(cf005,1)(cf011,1)(cf008,1)(cf007,1)(cf006,1)(cf004,1)	(Madness,30)	0
-Question12_4	Upright and respectful, a true gentleman.	1		(cf002,1)	(Madness,-30)	0
-Question12_5	Wu yu wu qiu, zhongyong zhi dao.	1		(cf009,1)		0
-Question13	When you travel the world without a penny in your pocket, how do you intend to make a living?	1	Question13_1,Question13_2,Question13_3,Question13_4,Question13_5			3
-Question13_1	Eat grass, emulating the spirit of Shen Nong tasting hundreds of herbs.	1		(cf008,1)(cf002,1)(nf001,1)		0
-Question13_2	Mining might just lead to discovering Bitcoin.	1		(cf007,1)(nf003,1)		0
-Question13_3	Borrowing, I am super lacking in presence; it's really suitable for borrowing things from other people.	1		(cf003,1)(nf004,1)		0
-Question13_4	Pennyless? What does pennyless mean?	1		(cf005,1)(cf006,1)(cf004,1)(nf005,1)(cf009,1)		0
-Question13_5	The heavens as a canopy, the earth as a bed, in every situation one finds contentment without effort.	1		(cf010,1)(cf011,1)(nf012,1)		0
-Question14	In the wuxia world, what weapon would you most like to use?	1	Question14_1,Question14_2,Question14_3,Question14_4,Question14_5,Question14_6,Question14_7			1
-Question14_1	Hand-to-hand combat with bare hands.	1		(cf011,1)(cf010,1)(cf009,1)(cf001,2)(cf003,1)	(Fight,21)	0
-Question14_2	The sword is like a flying phoenix; the lord of a hundred warriors.	1		(cf005,1)(cf009,1)(cf007,1)	(Sword,21)	0
-Question14_3	The sword is like a fierce tiger; it instills courage in a hundred soldiers.	1		(cf002,1)	(Blade,21)	0
-Question14_4	Spear and staff, one inch long, one inch strong.	1		(cf010,1)	(Spear,21)	0
-Question14_5	Close-quarters combat; a foot short, a foot dangerous.	1		(cf006,1)	(Short,21)	0
-Question14_6	Elusive throwing weapons from a distance; the thousand-armed Guanyin.	1		(cf008,1)	(Arrow,21)	0
-Question14_7	To walk among the martial world without poison is not a man.	1		(cf004,1)	(Poison,26)	0
+Question11_1	Wuxia is a form of romance	1		(cf005,1)(nf007,1)(af001,1)		0
+Question11_2	I don't want to be a single dog anymore	1		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0
+Question11_3	I don't want to be a loser; I want to become one of the elite!	1		(cf002,1)(nf009,1)(af003,1)(cf003,1)		0
+Question11_4	What? Is this the Wuxia world?	1		(nf010,1)(af004,1)(cf001,1)		0
+Question11_5	It doesn't matter where I go, I'm always alone. Does it make a difference?	1		(cf007,1)(nf006,1)(af005,1)		0
+Question11_6	What Wuxia world? This is my world	1		(cf008,1)(cf011,1)(cf004,1)(cf009,1)(cf010,1)(nf011,1)		0
+Question12	Enter the Wuxia world, what kind of person do you want to be?	1	Question12_1,Question12_2,Question12_3,Question12_4,Question12_5			2
+Question12_1	For country, for people, the greatest of a hero	1		(cf010,1)(cf001,1)	(Moral,30)	0
+Question12_2	Command the world, none dare disobey	1		(cf003,1)	(Moral,-30)	0
+Question12_3	Reckless in body and spirit, wild and unrestrained	1		(cf005,1)(cf011,1)(cf008,1)(cf007,1)(cf006,1)(cf004,1)	(Madness,30)	0
+Question12_4	Uphold solemnity and propriety, a gentlemanly figure	1		(cf002,1)	(Madness,-30)	0
+Question12_5	Without desire and without seeking, the way of moderation	1		(cf009,1)		0
+Question13	When you walk the Jianghu without a penny to your name, how do you plan to make ends meet?	1	Question13_1,Question13_2,Question13_3,Question13_4,Question13_5			3
+Question13_1	Eat grass, emulating the spirit of Shennong tasting a hundred herbs	1		(cf008,1)(cf002,1)(nf001,1)		0
+Question13_2	Minning, you never know, you might mine Bitcoin	1		(cf007,1)(nf003,1)		0
+Question13_3	I'm super inconspicuous, so I'm great at borrowing things from other people	1		(cf003,1)(nf004,1)		0
+Question13_4	What does it mean to be penniless? What is being penniless?	1		(cf005,1)(cf006,1)(cf004,1)(nf005,1)(cf009,1)		0
+Question13_5	The sky is the canopy, the earth is the bed; one who enters finds contentment without effort	1		(cf010,1)(cf011,1)(nf012,1)		0
+Question14	In the Wuxia world, which weapon would you most like to use?	1	Question14_1,Question14_2,Question14_3,Question14_4,Question14_5,Question14_6,Question14_7			1
+Question14_1	With bare hands and empty fists, in close combat	1		(cf011,1)(cf010,1)(cf009,1)(cf001,2)(cf003,1)	(Fight,21)	0
+Question14_2	Sword like a flying phoenix, master of a hundred soldiers	1		(cf005,1)(cf009,1)(cf007,1)	(Sword,21)	0
+Question14_3	Blades are like fierce tigers, instilling fear in a hundred armies	1		(cf002,1)	(Blade,21)	0
+Question14_4	Long spear, club; one inch long, one inch strong	1		(cf010,1)	(Spear,21)	0
+Question14_5	In close combat, every inch is short and dangerous	1		(cf006,1)	(Short,21)	0
+Question14_6	Dark projectiles fired from a distance, a thousand-armed Bodhisattva	1		(cf008,1)	(Arrow,21)	0
+Question14_7	Those who venture into the martial world must be fearless in the face of poison	1		(cf004,1)	(Poison,26)	0
 Question15	In the Wuxia world, what do you think is the ultimate principle of martial arts?	1	Question15_1,Question15_2,Question15_3,Question15_4,Question15_5,Question15_6			3
-Question15_1	Fierce beyond comparison; those who meet him shrink back in fear.	1		(cf010,1)(cf007,1)(tf001,1)		0
-Question15_2	Weakness overcomes strength; softness conquers hardness.	1		(cf009,1)(tf002,1)		0
-Question15_3	Light-footed as the wind; moves like lightning.	1		(cf002,1)(cf008,1)(cf003,1)(tf003,1)		0
-Question15_4	Leverage power to gain strength; strike at the right moment when others have acted.	1		(cf005,1)(cf004,1)(tf004,1)		0
-Question15_5	Erratic and directionless; moving aimlessly here and there.	1		(cf011,1)(cf006,1)(tf005,1)		0
-Question15_6	True excellence is simple; the unrefined becomes genuine.	1		(tf006,1)(cf001,1)		0
-Question16	What does your imagined Wuxia world look like? (Game difficulty)	1	Question16_1,Question16_2,Question16_3,Question16_4			2
-Question16_1	Prosperity within the nation; peace among its people; harmonious weather patterns; a land of etiquette and propriety, living in comfort and contentment.	1		(ff002,1)		0
-Question16_2	Subdue one's self and return to propriety, act as a knight-errant with righteousness, reside in safety while considering danger, and slay beasts to cultivate benevolence. (Common)	1		(ff002,2)		0
-Question16_3	Manners decline with each passing day, people's hearts grow untraditional; in the struggle for power and profit, they speak sweetly but harbor knives. (Challenging)	1		(ff002,3)		0
-Question16_4	Blades flash, swords clash; soldiers face each other; talent emerges in succession— who shall rival them? (In the Crucible)	1		(ff002,4)		0
+Question15_1	Brave and unmatched, striking awe into the hearts of those who face them	1		(cf010,1)(cf007,1)(tf001,1)		0
+Question15_2	With weakness conquering strength, with soft overcoming hard	1		(cf009,1)(tf002,1)		0
+Question15_3	Agile as the wind, striking like lightning	1		(cf002,1)(cf008,1)(cf003,1)(tf003,1)		0
+Question15_4	Leverage one's strength to overcome an opponent; seize the initiative when the opportunity arises	1		(cf005,1)(cf004,1)(tf004,1)		0
+Question15_5	Capricious and unpredictable; striking left when pointing right	1		(cf011,1)(cf006,1)(tf005,1)		0
+Question15_6	Great skill lies in simplicity; true quality emerges from raw form	1		(tf006,1)(cf001,1)		0
+Question16	What does your imagined Wuxia world look like? (game difficulty)	1	Question16_1,Question16_2,Question16_3,Question16_4			2
+Question16_1	Peace and prosperity to the nation, gentle winds and favorable rains, a land of etiquette where people live in peace and contentment	1		(ff002,1)		0
+Question16_2	Self-discipline and the restoration of ritual, chivalry and righteousness, staying calm in safety but thinking of danger, transforming killing into benevolence	1		(ff002,2)		0
+Question16_3	As times change, people's hearts become less noble; everyone is vying for power and profit with honeyed words but daggers hidden in their hearts	1		(ff002,3)		0
+Question16_4	Blades clashed and swords shimmered, as armies faced each other head-on. Talented individuals emerged from every direction; who could rival them in battle? (Realm of Trials)	1		(ff002,4)		0

@@ -4,14 +4,14 @@
   splits:
   - split: 1
     text: "资质、轻功、内功+{0}"
-    translated: "Qualifications, agility, internal power + {0}"
+    translated: "Endowment, Qinggong, Neigong + {0}"
 - lineNum: 1
   raw: "it60104	搏击+{0}	24	24		(Fight,1)	0"
   translated: ""
   splits:
   - split: 1
     text: "搏击+{0}"
-    translated: "Martial Arts + {0}"
+    translated: "Combat + {0}"
 - lineNum: 2
   raw: "it60105	轻功+{0}	24	24		(Qinggong,3)	0"
   translated: ""
@@ -25,91 +25,91 @@
   splits:
   - split: 1
     text: "资质+{0}"
-    translated: "Qualifications + {0}"
+    translated: "Aptitude + {0}"
 - lineNum: 4
   raw: "it60402	资质+{0}	24	24		(Intelligence,1)	0"
   translated: ""
   splits:
   - split: 1
     text: "资质+{0}"
-    translated: "Qualifications + {0}"
+    translated: "Aptitude + {0}"
 - lineNum: 5
   raw: "it60606	资质+{0}	24	24		(Intelligence,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "资质+{0}"
-    translated: "Qualifications + {0}"
+    translated: "Aptitude + {0}"
 - lineNum: 6
   raw: "it60621	资质+{0}	24	24		(Intelligence,1)	0"
   translated: ""
   splits:
   - split: 1
     text: "资质+{0}"
-    translated: "Qualifications + {0}"
+    translated: "Aptitude + {0}"
 - lineNum: 7
   raw: "it60113	枪棍+{0}	24	24		(Spear,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "枪棍+{0}"
-    translated: "Gunstick + {0}"
+    translated: "Qianggong + {0}"
 - lineNum: 8
   raw: "it60103	轻功+{0}	24	24		(Qinggong,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "轻功+{0}"
-    translated: "Lightness + {0}"
+    translated: "Qinggong plus {0}"
 - lineNum: 9
   raw: "it60144	资质+{0}	24	24		(Intelligence,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "资质+{0}"
-    translated: "Qualifications + {0}"
+    translated: "Aptitude + {0}"
 - lineNum: 10
   raw: "it60119	资质+{0}	24	24		(Intelligence,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "资质+{0}"
-    translated: "Qualification + {0}"
+    translated: "Aptitude + {0}"
 - lineNum: 11
   raw: "it60132	内功+{0}	24	24		(Neigong,5)	0"
   translated: ""
   splits:
   - split: 1
     text: "内功+{0}"
-    translated: "Internal Cultivation + {0}"
+    translated: "Neigong + {0}"
 - lineNum: 12
   raw: "it60143	剑法+{0}	24	24		(Sword,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "剑法+{0}"
-    translated: "Swordsmanship + {0}"
+    translated: "Blade Skills + {0}"
 - lineNum: 13
   raw: "it60101	刀法+{0}	24	24		(Blade,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "刀法+{0}"
-    translated: "Swordsmanship + {0}"
+    translated: "Blade Skills + {0}"
 - lineNum: 14
   raw: "it60102	刀法+{0}	24	24		(Blade,1)	0"
   translated: ""
   splits:
   - split: 1
     text: "刀法+{0}"
-    translated: "Swordsmanship + {0}"
+    translated: "Blade Skills + {0}"
 - lineNum: 15
   raw: "it60118	短兵+{0}	24	24		(Short,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "短兵+{0}"
-    translated: "Close combat + {0}"
+    translated: "Short Weapons + {0}"
 - lineNum: 16
   raw: "it60107	毒术+{0}	24	24		(Poison,3)	0"
   translated: ""
@@ -123,35 +123,35 @@
   splits:
   - split: 1
     text: "资质+{0}"
-    translated: "Qualifications + {0}"
+    translated: "Attributes + {0}"
 - lineNum: 18
   raw: "it60127	医术+{0}	24	24		(Doctor,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "医术+{0}"
-    translated: "Medical skills + {0}"
+    translated: "Medical Skills + {0}"
 - lineNum: 19
   raw: "it60123	短兵+{0}	24	24		(Short,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "短兵+{0}"
-    translated: "Short-range combat {0}"
+    translated: "Short Weapons + {0}"
 - lineNum: 20
   raw: "it60125	毒术+{0}	24	24		(Poison,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "毒术+{0}"
-    translated: "Poison Technique + {0}"
+    translated: "Poison Techniques + {0}"
 - lineNum: 21
   raw: "it60134	搏击+{0}	24	24		(Fight,5)	0"
   translated: ""
   splits:
   - split: 1
     text: "搏击+{0}"
-    translated: "Fighting + {0}"
+    translated: "Combat + {0}"
 - lineNum: 22
   raw: "it60146	轻功+{0}	24	24		(Qinggong,3)	0"
   translated: ""
@@ -165,49 +165,49 @@
   splits:
   - split: 1
     text: "枪棍+{0}"
-    translated: "Gunstick + {0}"
+    translated: "Qiang gun + {0}"
 - lineNum: 24
   raw: "it60121	枪棍+{0}	24	24		(Spear,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "枪棍+{0}"
-    translated: "Swordsman + {0}"
+    translated: "Spear and {0}"
 - lineNum: 25
   raw: "it60122	刀法+{0}	24	24		(Blade,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "刀法+{0}"
-    translated: "Swordsmanship + {0}"
+    translated: "Bladeskill + {0}"
 - lineNum: 26
   raw: "it60128	内功+{0}	24	24		(Neigong,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "内功+{0}"
-    translated: "Internal Skill + {0}"
+    translated: "Neigong + {0}"
 - lineNum: 27
   raw: "it60133	剑法+{0}	24	24		(Sword,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "剑法+{0}"
-    translated: "Swordsmanship + {0}"
+    translated: "Bladesmanship + {0}"
 - lineNum: 28
   raw: "it60135	搏击+{0}	24	24		(Fight,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "搏击+{0}"
-    translated: "Fighting + {0}"
+    translated: "Combat + {0}"
 - lineNum: 29
   raw: "it60136	搏击+{0}	24	24		(Fight,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "搏击+{0}"
-    translated: "Fighting {0}"
+    translated: "Fighting + {0}"
 - lineNum: 30
   raw: "it60114	暗器+{0}	24	24		(Arrow,3)	0"
   translated: ""
@@ -221,53 +221,53 @@
   splits:
   - split: 1
     text: "资质+{0}"
-    translated: "Qualifications + {0}"
+    translated: "Aptitude + {0}"
 - lineNum: 32
   raw: "it60201	内功+{0}	24	24		(Neigong,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "内功+{0}"
-    translated: "Internal Skill + {0}"
+    translated: "Neigong + {0}"
 - lineNum: 33
   raw: "it60202	内功+{0}	24	24		(Neigong,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "内功+{0}"
-    translated: "Internal Strength + {0}"
+    translated: "Neigong + {0}"
 - lineNum: 34
   raw: "it60203	内功+{0}	24	24		(Neigong,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "内功+{0}"
-    translated: "Internal Kung Fu + {0}"
+    translated: "Neigong + {0}"
 - lineNum: 35
   raw: "it60204	内功+{0}	24	24		(Neigong,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "内功+{0}"
-    translated: "Internal Kungfu + {0}"
+    translated: "Neigong + {0}"
 - lineNum: 36
   raw: "it60205	内功+{0}	24	24		(Neigong,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "内功+{0}"
-    translated: "Internal Cultivation + {0}"
+    translated: "Internal Power + {0}"
 - lineNum: 37
   raw: "it60207	内功+{0}	24	24		(Neigong,5)	0"
   translated: ""
   splits:
   - split: 1
     text: "内功+{0}"
-    translated: "Internal Power + {0}"
+    translated: "Neigong + {0}"
 - lineNum: 38
   raw: "it60208	内功+{0}	24	24		(Neigong,8)	0"
   translated: ""
   splits:
   - split: 1
     text: "内功+{0}"
-    translated: "Internal Skill + {0}"
+    translated: "Neigong + {0}"
