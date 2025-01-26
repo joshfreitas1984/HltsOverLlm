@@ -77,7 +77,7 @@
     translated: "Jiuzhuan Tongyun Dan"
   - split: 3
     text: "药材每经一次提炼，称为「转」，九转指其工序繁复。又因丹丸有红丝如云，得名彤云丹。主要取用赤芍、鹿茸，对补养气血有奇效，但具毒性，服用时需特别谨慎。"
-    translated: "The refining process of medicinal herbs is called a turn, and nine turns indicate a complex procedure. It's named Red Cloud Pill because the pills have red threads like clouds. The main ingredients are Red Peony and Deer Antler, which are remarkably effective in nourishing qi and blood but are toxic. Therefore, caution must be exercised when consuming them"
+    translated: "The refining process of medicinal herbs is called a turn, and nine turns indicate a complex procedure. It's named Red Cloud Pill because the pills have red threads like clouds. The main ingredients are Red Peony and Deer Antler, which are remarkably effective in nourishing lifeforce but are toxic. Therefore, caution must be exercised when consuming them"
 - lineNum: 8
   raw: "it40109	玉龙养气丸	it40109	以雪蔘、蛇胆炼制。雪蔘又称玉蔘，蛇即小龙，故雅称玉龙养气丸。此乃补气良药，对恢复真气内力有奇效。也是富户常用的养生药。	401	1200	600	TRUE	1	26	0	0	0		3		(MP,2000)(HP,1000)	{ \"MultiAction\" : [ { \"MultiLogicaAction\" : [ { \"CheckSkillLearnedAction\" : \"\", \"SkillTree142_008\", True} , { \"SetNpcPropertyAction\" : 52, 400, 0, \"\"}  ]} , { \"MultiLogicaAction\" : [ { \"CheckSkillLearnedAction\" : \"\", \"SkillTree142_008\", True} , { \"SetNpcPropertyAction\" : 50, 300, 0, \"\"}  ]}  ]}"
   translated: ""
@@ -277,7 +277,7 @@
     translated: "Thousand-Year Lingzhi"
   - split: 3
     text: "性平；味苦涩；归心、肝、脾、肺、肾五经。灵芝长成后会因木质化渐失药效。千年灵芝可谓凤毛麟角，服食可增益气血。"
-    translated: "Non-toxic; bitter and astringent taste; beneficial for the heart, liver, spleen, lungs, and kidneys. As Lingzhi matures and becomes woody, its medicinal efficacy decreases. A thousand-year-old Lingzhi is exceedingly rare, and consuming it can enhance qi and blood"
+    translated: "Non-toxic; bitter and astringent taste; beneficial for the heart, liver, spleen, lungs, and kidneys. As Lingzhi matures and becomes woody, its medicinal efficacy decreases. A thousand-year-old Lingzhi is exceedingly rare, and consuming it can enhance lifeforce"
 - lineNum: 28
   raw: "it40212	深山老蔘	temp	性甘温；味甜、微苦；归脾、肾经。成型的老蔘药力浑厚，可增进内力。	402	10000	5000	TRUE	3	100	0	0	0		0			0"
   translated: ""
@@ -317,7 +317,7 @@
     translated: "Thousand-year Fu Ling"
   - split: 3
     text: "茯苓乃是指寄生于松树根部的菌类，成薯状。要找到千年茯苓，必先寻得千年老松。食之可增气血。"
-    translated: "Fuling refers to a type of mushroom that parasitizes the roots of pine trees and grows in tuberous shapes. To find thousand-yearfuling, one must first locate a thousand-year-old pine tree. Consuming it can increase qi and blood"
+    translated: "Fuling refers to a type of mushroom that parasitizes the roots of pine trees and grows in tuberous shapes. To find thousand-yearfuling, one must first locate a thousand-year-old pine tree. Consuming it can increase lifeforce"
 - lineNum: 32
   raw: "it40216	寒玉冰蟾	it40216	蟾科多有毒，而玉蟾虽具毒性，但亦有药效。生长在天寒地冻处的玉蟾，其毒性尽退，大益于内力修为。	402	10000	5000	TRUE	3	99	0	0	0		1		(MaxMP,150)	0"
   translated: ""

@@ -505,21 +505,21 @@
   splits:
   - split: 1
     text: "国泰民安，风调雨顺，礼仪之邦，安居乐业。(简单)"
-    translated: "Peace and prosperity to the nation, gentle winds and favorable rains, a land of etiquette where people live in peace and contentment"
+    translated: "Peace and prosperity to the nation, gentle winds and favorable rains, a land of etiquette where people live in peace and contentment (Easy)"
 - lineNum: 73
   raw: "Question16_2	克己复礼，行侠仗义，居安思危，杀生成仁。(普通)	1		(ff002,2)		0"
   translated: ""
   splits:
   - split: 1
     text: "克己复礼，行侠仗义，居安思危，杀生成仁。(普通)"
-    translated: "Self-discipline and the restoration of ritual, chivalry and righteousness, staying calm in safety but thinking of danger, transforming killing into benevolence"
+    translated: "Self-discipline and the restoration of ritual, chivalry and righteousness, staying calm in safety but thinking of danger, transforming killing into benevolence (Normal)"
 - lineNum: 74
   raw: "Question16_3	世风日下，人心不古，争权夺利，口蜜腹剑。(困难)	1		(ff002,3)		0"
   translated: ""
   splits:
   - split: 1
     text: "世风日下，人心不古，争权夺利，口蜜腹剑。(困难)"
-    translated: "As times change, people's hearts become less noble; everyone is vying for power and profit with honeyed words but daggers hidden in their hearts"
+    translated: "As times change, people's hearts become less noble; everyone is vying for power and profit with honeyed words but daggers hidden in their hearts (Hard)"
 - lineNum: 75
   raw: "Question16_4	刀光剑影，兵戎相向，人才辈出，谁与争锋。(炼狱)	1		(ff002,4)		0"
   translated: ""

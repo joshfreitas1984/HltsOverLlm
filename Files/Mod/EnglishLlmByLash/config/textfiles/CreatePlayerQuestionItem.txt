@@ -70,7 +70,7 @@ Question15_4	Leverage one's strength to overcome an opponent; seize the initiati
 Question15_5	Capricious and unpredictable; striking left when pointing right	1		(cf011,1)(cf006,1)(tf005,1)		0
 Question15_6	Great skill lies in simplicity; true quality emerges from raw form	1		(tf006,1)(cf001,1)		0
 Question16	What does your imagined Wuxia world look like? (game difficulty)	1	Question16_1,Question16_2,Question16_3,Question16_4			2
-Question16_1	Peace and prosperity to the nation, gentle winds and favorable rains, a land of etiquette where people live in peace and contentment	1		(ff002,1)		0
-Question16_2	Self-discipline and the restoration of ritual, chivalry and righteousness, staying calm in safety but thinking of danger, transforming killing into benevolence	1		(ff002,2)		0
-Question16_3	As times change, people's hearts become less noble; everyone is vying for power and profit with honeyed words but daggers hidden in their hearts	1		(ff002,3)		0
+Question16_1	Peace and prosperity to the nation, gentle winds and favorable rains, a land of etiquette where people live in peace and contentment (Easy)	1		(ff002,1)		0
+Question16_2	Self-discipline and the restoration of ritual, chivalry and righteousness, staying calm in safety but thinking of danger, transforming killing into benevolence (Normal)	1		(ff002,2)		0
+Question16_3	As times change, people's hearts become less noble; everyone is vying for power and profit with honeyed words but daggers hidden in their hearts (Hard)	1		(ff002,3)		0
 Question16_4	Blades and swords flashing, armies facing each other, talented individuals emerging; who can contend with them? (Purgatory)	1		(ff002,4)		0
