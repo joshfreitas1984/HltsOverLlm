@@ -12827,7 +12827,7 @@
     translated: "Basic Endurance Training"
   - split: 2
     text: "强化兽王的耐力，使兽王可战斗回合数增加2回合，在炼狱模式下，兽王的初始可战斗回合数增为8回合。"
-    translated: ""
+    translated: "Enhance the Beast King's endurance to increase its number of combat turns by 2. In Purgatory mode, the initial number of combat turns for the Beast King increases to 8"
 - lineNum: 1283
   raw: "SkillTree171_002	进阶耐力训练	强化兽王的耐力，使兽王可战斗回合数增加2回合。	6000	skillIcon001_1	null	PropertyAdd		0		0	0	Enemy			Target	0	buffSkillTree171_002	FALSE	0	None	0	0	"
   translated: ""

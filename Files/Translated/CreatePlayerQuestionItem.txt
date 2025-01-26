@@ -232,28 +232,28 @@
   splits:
   - split: 1
     text: "国泰民安，风调雨顺，礼仪之邦，安居乐业。(简单)"
-    translated: "Prosperity and peace for the country, gentle winds and favorable rains, a land of courtesy and propriety, living in comfort and contentment"
+    translated: "Prosperity and peace for the country, gentle winds and favorable rains, a land of courtesy and propriety, living in comfort and contentment (Easy)"
 - lineNum: 34
   raw: "Question06_2	克己复礼，行侠仗义，居安思危，杀生成仁。(普通)	0		(ff002,2)		0"
   translated: ""
   splits:
   - split: 1
     text: "克己复礼，行侠仗义，居安思危，杀生成仁。(普通)"
-    translated: "Self-discipline and adherence to ritual, upholding righteousness with courage and justice; in times of peace, think of danger; eliminate evil to cultivate benevolence"
+    translated: "Self-discipline and adherence to ritual, upholding righteousness with courage and justice; in times of peace, think of danger; eliminate evil to cultivate benevolence (Normal)"
 - lineNum: 35
   raw: "Question06_3	世风日下，人心不古，争权夺利，口蜜腹剑。(困难)	0		(ff002,3)		0"
   translated: ""
   splits:
   - split: 1
     text: "世风日下，人心不古，争权夺利，口蜜腹剑。(困难)"
-    translated: "The moral climate is declining, people's hearts are not ancient; they fight for power and wealth while harboring deceitful intentions"
+    translated: "The moral climate is declining, people's hearts are not ancient; they fight for power and wealth while harboring deceitful intentions (Hard)"
 - lineNum: 36
   raw: "Question06_4	刀光剑影，兵戎相向，人才辈出，谁与争锋。(炼狱)	0		(ff002,4)		0"
   translated: ""
   splits:
   - split: 1
     text: "刀光剑影，兵戎相向，人才辈出，谁与争锋。(炼狱)"
-    translated: ""
+    translated: "Blades and swords clashed, armies collided; talents emerged continuously—whom to contest with? (Purgatory)"
 - lineNum: 37
   raw: "Question11	为什么想进入武侠世界？	1	Question11_1,Question11_2,Question11_3,Question11_4,Question11_5,Question11_6			3"
   translated: ""
@@ -526,4 +526,4 @@
   splits:
   - split: 1
     text: "刀光剑影，兵戎相向，人才辈出，谁与争锋。(炼狱)"
-    translated: ""
+    translated: "Blades and swords flashing, armies facing each other, talented individuals emerging; who can contend with them? (Purgatory)"

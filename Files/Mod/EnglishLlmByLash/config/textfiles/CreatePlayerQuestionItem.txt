@@ -31,10 +31,10 @@ Question05_4	Use someone else's strength to defeat them, and strike back at a la
 Question05_5	Every change without direction, striking east and west	0		(cf006,1)(tf005,1)		0
 Question05_6	Great skill appears unrefined, revealing true essence	0		(tf006,1)(cf001,1)		0
 Question06	What is the appearance of your imagined Wuxia world? (Game difficulty)	0	Question06_1,Question06_2,Question06_3,Question06_4			2
-Question06_1	Prosperity and peace for the country, gentle winds and favorable rains, a land of courtesy and propriety, living in comfort and contentment	0		(ff002,1)		0
-Question06_2	Self-discipline and adherence to ritual, upholding righteousness with courage and justice; in times of peace, think of danger; eliminate evil to cultivate benevolence	0		(ff002,2)		0
-Question06_3	The moral climate is declining, people's hearts are not ancient; they fight for power and wealth while harboring deceitful intentions	0		(ff002,3)		0
-Question06_4	Blades gleam and swords flash, armies face each other, talents emerge in succession, who dares to contend? (Realm of Trials)	0		(ff002,4)		0
+Question06_1	Prosperity and peace for the country, gentle winds and favorable rains, a land of courtesy and propriety, living in comfort and contentment (Easy)	0		(ff002,1)		0
+Question06_2	Self-discipline and adherence to ritual, upholding righteousness with courage and justice; in times of peace, think of danger; eliminate evil to cultivate benevolence (Normal)	0		(ff002,2)		0
+Question06_3	The moral climate is declining, people's hearts are not ancient; they fight for power and wealth while harboring deceitful intentions (Hard)	0		(ff002,3)		0
+Question06_4	Blades and swords clashed, armies collided; talents emerged continuously—whom to contest with? (Purgatory)	0		(ff002,4)		0
 Question11	Why do you want to enter the Wuxia world?	1	Question11_1,Question11_2,Question11_3,Question11_4,Question11_5,Question11_6			3
 Question11_1	Wuxia is a form of romance	1		(cf005,1)(nf007,1)(af001,1)		0
 Question11_2	I don't want to be a single dog anymore	1		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0
@@ -73,4 +73,4 @@ Question16	What does your imagined Wuxia world look like? (game difficulty)	1	Qu
 Question16_1	Peace and prosperity to the nation, gentle winds and favorable rains, a land of etiquette where people live in peace and contentment	1		(ff002,1)		0
 Question16_2	Self-discipline and the restoration of ritual, chivalry and righteousness, staying calm in safety but thinking of danger, transforming killing into benevolence	1		(ff002,2)		0
 Question16_3	As times change, people's hearts become less noble; everyone is vying for power and profit with honeyed words but daggers hidden in their hearts	1		(ff002,3)		0
-Question16_4	Blades clashed and swords shimmered, as armies faced each other head-on. Talented individuals emerged from every direction; who could rival them in battle? (Realm of Trials)	1		(ff002,4)		0
+Question16_4	Blades and swords flashing, armies facing each other, talented individuals emerging; who can contend with them? (Purgatory)	1		(ff002,4)		0

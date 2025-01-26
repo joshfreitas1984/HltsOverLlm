@@ -271,7 +271,7 @@
     translated: "Team Member Limit"
   - split: 4
     text: "扣除主角不计，简单与普通模式的队友人数上限为三个，困难模式下会多增加第四位可同行队友的字段，而炼狱模式下最多可以与五位队友共同冒险。"
-    translated: ""
+    translated: "Excluding the main character, the number of allies in Easy and Normal modes is limited to three. In Difficult mode, a fourth ally can be added. In Purgatory mode, you can adventure with up to five allies"
 - lineNum: 28
   raw: "h10601	106		交易	部分村庄中的NPC可以与玩家交易，贩卖物品给玩家，或是向玩家收购特定物品，行走江湖需要盘缠时，不妨可以拿不需要的物品去换成银两。"
   translated: ""
@@ -428,7 +428,7 @@
   splits:
   - split: 3
     text: "<color=#00FF00>简单</color>"
-    translated: "<color=#00FF00>Simple</color>"
+    translated: "<color=#00FF00>Easy</color>"
   - split: 4
     text: "简单模式适合初入江湖的玩家，玩家在战斗中的能力占有相对优势，我方单位的攻击与防御会大幅度增强，并削弱敌方单位的攻防能力。"
     translated: "Easy mode is suitable for new players entering Jianghu, allowing our units to have a relative advantage in combat abilities. Our units' attack and defense are significantly enhanced, while the enemy units' offensive and defensive capabilities are weakened"
@@ -438,7 +438,7 @@
   splits:
   - split: 3
     text: "<color=#29A6FF>普通</color>"
-    translated: "<color=#29A6FF>Common</color>"
+    translated: "<color=#29A6FF>Normal</color>"
   - split: 4
     text: "普通模式适合较为上手的玩家，玩家与敌方在战斗中的能力采用原始设定。"
     translated: "Normal mode is suitable for players who are more experienced, with the player's and enemy's abilities set to their original values during battles"
@@ -448,7 +448,7 @@
   splits:
   - split: 3
     text: "<color=#FF8000>困难</color>"
-    translated: "<color=#FF8000>Difficult</color>"
+    translated: "<color=#FF8000>Hard</color>"
   - split: 4
     text: "困难模式适合熟练游戏玩法的玩家，敌方在战斗中的能力占有相对优势，我方单位的攻击与防御会减弱，并强化敌方单位的攻防能力。"
     translated: "Hard Mode is suitable for players who are familiar with the game mechanics. In combat, enemies have a relative advantage in abilities, while our units' attack and defense will be weakened, and the enemy units' attack and defense capabilities will be enhanced"
@@ -458,10 +458,10 @@
   splits:
   - split: 3
     text: "<color=#FF0000>炼狱</color>"
-    translated: ""
+    translated: "<color=#FF0000>Purgatory</color>"
   - split: 4
     text: "炼狱模式适合喜欢挑战的玩家，玩家在战斗中的的能力会被大幅度减弱，许多战斗的规则也可能改变，且战斗中我方单位死亡会导致战斗失败。"
-    translated: ""
+    translated: "Purgatory mode is suitable for players who enjoy challenges. Players' abilities will be significantly weakened in battle, many of the battle rules may change, and the death of our side units during combat will lead to battle failure"
 - lineNum: 47
   raw: "h10906	109		队友上限	扣除主角不计，简单与普通模式的队友人数上限为三个，困难模式下会多增加第四位可同行队友的字段，而炼狱模式下最多可以与五位队友共同冒险。"
   translated: ""
@@ -471,7 +471,7 @@
     translated: "Team Member Limit"
   - split: 4
     text: "扣除主角不计，简单与普通模式的队友人数上限为三个，困难模式下会多增加第四位可同行队友的字段，而炼狱模式下最多可以与五位队友共同冒险。"
-    translated: ""
+    translated: "Excluding the main character, the maximum number of allies in Simple and Normal modes is three. In Hard mode, a fourth ally can be added as a companion. In Purgatory mode, up to five allies can accompany you on adventures"
 - lineNum: 48
   raw: "h10907	109		战斗限制	炼狱难度模式下的战斗会新增一条战斗限制，任一我方可控制战斗单位死亡就会判定玩家战斗失败。"
   translated: ""
@@ -481,7 +481,7 @@
     translated: "Combat Restrictions"
   - split: 4
     text: "炼狱难度模式下的战斗会新增一条战斗限制，任一我方可控制战斗单位死亡就会判定玩家战斗失败。"
-    translated: ""
+    translated: "In the Purgatory difficulty mode, an additional battle restriction is added: if any controllable unit on your side dies, it will be deemed a player's battle failure"
 - lineNum: 49
   raw: "h10908	109		战斗玩法	炼狱难度模式下的部分战斗玩法可能会改变，例如需要保护特定队友不能死亡的友军保卫战，或是改变某些战斗的胜利条件等等。"
   translated: ""
@@ -491,7 +491,7 @@
     translated: "Combat Gameplay"
   - split: 4
     text: "炼狱难度模式下的部分战斗玩法可能会改变，例如需要保护特定队友不能死亡的友军保卫战，或是改变某些战斗的胜利条件等等。"
-    translated: ""
+    translated: "In Hell Mode, certain battle mechanics may change, such as the need to protect specific teammates in ally defense battles, or altering the victory conditions of some fights"
 - lineNum: 50
   raw: "h10909	109		江湖传言	随着不同的游戏难易度，江湖传言事件的类型与发生条件也不尽相同，或许还能遇到特定难度下才有的特殊江湖事件。"
   translated: ""
@@ -511,7 +511,7 @@
     translated: "NPC Practice"
   - split: 4
     text: "困难与炼狱难度模式下的部分NPC，玩家可以对其提出切磋要求（预设为G键），玩家会与NPC进行一对一切磋，切磋胜利时有一定的机率可以获得该NPC身上的物品，但一天只能对同一个NPC提出一次切磋要求。"
-    translated: ""
+    translated: "In the hard and purgatory difficulty modes, certain NPCs allow players to challenge them for sparring (pre-set to G key). Players engage in one-on-one sparring with these NPCs. Upon winning a spar, there is a chance to obtain an item from the NPC, but you can only request a spar with the same NPC once per day"
 - lineNum: 52
   raw: "h11001	110		江湖传言	河洛世界会随机发生不同的传言事件，玩家可藉由与NPC打听来获得传言相关讯息，去进行相对应的行动或任务，当然玩家也可以选择不予理会。"
   translated: ""

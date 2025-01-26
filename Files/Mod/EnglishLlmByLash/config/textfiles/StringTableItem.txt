@@ -298,10 +298,10 @@ AchievementType4	Ability
 AchievementType5	Reputation
 AchievementType6	Collect
 #游戏难度	
-GameDifficulty0	Simple
-GameDifficulty1	Ordinary
-GameDifficulty2	Difficult
-GameDifficulty3	Realm of Trials
+GameDifficulty0	Easy
+GameDifficulty1	Normal
+GameDifficulty2	Hard
+GameDifficulty3	Purgatory
 DifficultyDetails	Provide detailed explanation
 DifficultyWarning0	The current selected game difficulty is 'Inferno' and some parts of the game content will be different.
 DifficultyWarning1	
@@ -590,7 +590,7 @@ UITeamEquipColumn0	Main weapon
 UITeamEquipColumn1	Secondary weapon
 UITeamEquipColumn2	Armor
 UITeamEquipColumn3	Jewelry
-UITeamEquipColumn4	Outer garment
+UITeamEquipColumn4	Costume
 UITeamPersonality1	Personality
 UITeamPersonality2	Evil
 UITeamPersonality3	Good

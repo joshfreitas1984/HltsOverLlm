@@ -14557,7 +14557,7 @@
   splits:
   - split: 1
     text: "火龙珠"
-    translated: ""
+    translated: "Dragon Ball"
 - lineNum: 2080
   raw: "m60505-03	豆沙糕	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_071_B.prefab	Steal	-198.361, 137.262, -143.706	1, 1, 1	0.7037404, 0.7037404, 0.7037404	0, 0, 0	True	72		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f65003打贏太華門戰鬥\", 0, 0}  ], 0} , { \"LogicalNode\" : [ { \"TimeCondition\" : 20, 24} , { \"TimeCondition\" : 0, 4}  ], 1}  ], 0} 	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it60103\", 1}  ]} 	0"
   translated: ""

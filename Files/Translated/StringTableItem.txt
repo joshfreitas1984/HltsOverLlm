@@ -2068,28 +2068,28 @@
   splits:
   - split: 1
     text: "简单"
-    translated: "Simple"
+    translated: "Easy"
 - lineNum: 301
   raw: "GameDifficulty1	普通"
   translated: ""
   splits:
   - split: 1
     text: "普通"
-    translated: "Ordinary"
+    translated: "Normal"
 - lineNum: 302
   raw: "GameDifficulty2	困难"
   translated: ""
   splits:
   - split: 1
     text: "困难"
-    translated: "Difficult"
+    translated: "Hard"
 - lineNum: 303
   raw: "GameDifficulty3	炼狱"
   translated: ""
   splits:
   - split: 1
     text: "炼狱"
-    translated: ""
+    translated: "Purgatory"
 - lineNum: 304
   raw: "DifficultyDetails	详细说明"
   translated: ""

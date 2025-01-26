@@ -240,7 +240,7 @@ ach1007	Behaving brutally and fiercely	Accumulate NPC attacks to 1,000 times	Img
 ach1011	As easy as a flip of the hand	On the easiest game difficulty, achieve the ending	Img_Achieve_Iron.png	1	0	1	FALSE	0	-1	(AA_GameDifficulty0,1)	0	Without reward	0	0
 ach1012	Proceed with caution	With a normal game difficulty, reach the ending	Img_Achieve_Iron.png	1	0	1	FALSE	0	-1	(AA_GameDifficulty1,1)	0	Without reward	0	0
 ach1013	Every step is arduous	By achieving the ending with a difficult game difficulty	Img_Achieve_Iron.png	1	0	1	FALSE	0	-1	(AA_GameDifficulty2,1)	0	Without reward	0	0
-ach1014	After hardships come joys	Reach the ending in the Realm of Trials game difficulty	Img_Achieve_Iron.png	1	0	1	FALSE	0	-1	(AA_GameDifficulty3,1)	0	Without reward	0	0
+ach1014	After hardships come joys	Reach the ending in the game by achieving the difficulty level of purgatory	Img_Achieve_Iron.png	1	0	1	FALSE	0	-1	(AA_GameDifficulty3,1)	0	Without reward	0	0
 ach1101	Boar Demon Star	Slain 1,000 wild boars	Img_Achieve_Gold.png	1	1	4	FALSE	0	-1	(AA_Animal_Pig,1000)	0	Without reward	0	0
 ach1102	Wolf Clan Demons	Eliminate 1,000 wild wolves	Img_Achieve_Gold.png	1	1	4	FALSE	0	-1	(AA_Animal_Wolf,1000)	0	Without reward	0	0
 ach1103	Plague Bandit Stars	Eliminate 1,000 bandits	Img_Achieve_Gold.png	1	1	4	FALSE	0	-1	(AA_Human_Bandit,1000)	0	Without reward	0	0
