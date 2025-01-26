@@ -27,6 +27,8 @@ public class TranslationSplit
     [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
     public string? Translated { get; set; }
 
+    public bool FlaggedForRetranslation { get; set; }
+
     public TranslationSplit() { }
 
     public TranslationSplit(int split, string text)

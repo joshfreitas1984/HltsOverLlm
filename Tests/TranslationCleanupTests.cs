@@ -2,6 +2,8 @@
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography;
+using System.Text.Json;
+using System.Text;
 using System.Text.RegularExpressions;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
@@ -13,11 +15,29 @@ public class TranslationCleanupTests
 {
     const string workingDirectory = "../../../../Files";
 
+    private bool ContainsGender(string input)
+    {
+        var genderWhack = new List<string>()
+        {
+            "He",
+            "She",
+        };
+
+        if (input.StartsWith("he ", StringComparison.OrdinalIgnoreCase) ||
+            input.StartsWith("she ", StringComparison.OrdinalIgnoreCase) ||
+            input.Contains(" he ", StringComparison.OrdinalIgnoreCase) ||
+            input.Contains(" she ", StringComparison.OrdinalIgnoreCase))
+            return true;
+
+        return false;
+    }
+
     [Fact]
     public async Task UpdateCurrentTranslatedLines()
     {
         var config = Configuration.GetConfiguration(workingDirectory);
         var pattern = LineValidation.ChineseCharPattern;
+        bool resetFlag = false;
 
         var manual = TranslationService.GetManualCorrections();
         var newGlossaryStrings = new List<string>
@@ -45,6 +65,7 @@ public class TranslationCleanupTests
             //"刁不易",
         };
 
+  
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             int recordsModded = 0;
@@ -66,6 +87,21 @@ public class TranslationCleanupTests
                             recordsModded++;
                         }
                         continue;
+                    }
+
+                    // Reset all the retrans flags
+                    if (resetFlag)
+                    { 
+                        recordsModded++;
+                        split.FlaggedForRetranslation = false;
+                    }
+
+                    // Mark for Gender whack
+                    if (!split.FlaggedForRetranslation && ContainsGender(split.Translated))
+                    {
+                        Console.WriteLine($"Contains gender {textFileToTranslate.Path} \n{split.Translated}");
+                        recordsModded++;
+                        split.FlaggedForRetranslation = true;
                     }
 
                     // If it is already translated or just special characters return it
@@ -212,7 +248,99 @@ public class TranslationCleanupTests
         });
 
         File.WriteAllLines($"{workingDirectory}/TestResults/FailingTranslations.txt", failures);
-        File.WriteAllLines($"{workingDirectory}/TestResults/ForTheGlossary.txt", forTheGlossary);
+        File.WriteAllLines($"{workingDirectory}/TestResults/ForManualTrans.txt", forTheGlossary);
+    }
+
+    [Fact]
+    public async Task IsItEnglishPrompt()
+    {
+        var config = Configuration.GetConfiguration(workingDirectory);
+
+        // Create an HttpClient instance
+        using var client = new HttpClient();
+        client.Timeout = TimeSpan.FromSeconds(300);
+
+        // Prime the Request
+
+        var basePrompt = config.Prompts["QueryEnglish"];
+        var lines = new List<string>();
+
+        var parallelOptions = new ParallelOptions
+        {
+            MaxDegreeOfParallelism = config.BatchSize ?? 10 
+        };
+
+        await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+        {
+            foreach (var line in fileLines)
+            {
+                int recordsModded = 0;
+
+                await Parallel.ForEachAsync(line.Splits, parallelOptions, async (split, cancellationToken) =>
+                {
+                    var stopWatch = new Stopwatch();
+                    stopWatch.Start();
+
+                    if (string.IsNullOrEmpty(split.Text))
+                        return;
+
+                    if (split.FlaggedForRetranslation)
+                        return;
+
+                    var prompt = $"{basePrompt}\n{split.Translated}";
+
+                    List<object> messages =
+                       [
+                           LlmHelpers.GenerateUserPrompt(prompt)
+                       ];
+
+                    // Generate based on what would have been created
+                    var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
+
+                    // Send correction & Get result
+                    HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
+                    HttpResponseMessage response = await client.PostAsync(config.Url, content);
+                    response.EnsureSuccessStatusCode();
+                    string responseBody = await response.Content.ReadAsStringAsync();
+                    using var jsonDoc = JsonDocument.Parse(responseBody);
+                    var result = jsonDoc.RootElement
+                        .GetProperty("message")!
+                        .GetProperty("content")!
+                        .GetString()
+                        ?.Trim() ?? string.Empty;
+
+                    if (result.StartsWith("No"))
+                    {
+                        var output = $"File: {outputFile}\nLine: {line.LineNum}-{split.Split} Text: {split.Translated}";
+                        Console.WriteLine(output);
+                        Console.WriteLine(result);
+                        lines.Add(output);
+                    }
+
+                    Console.WriteLine($"Elapsed: {stopWatch.Elapsed}");
+
+                    split.FlaggedForRetranslation = true;
+                    recordsModded++;
+                });
+
+                var serializer = new SerializerBuilder()
+                .WithNamingConvention(CamelCaseNamingConvention.Instance)
+                .Build();
+
+                if (recordsModded > 0)
+                {
+                    Console.WriteLine($"Writing {recordsModded} records to {outputFile}");
+                    await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
+                }
+            }
+
+            await Task.CompletedTask;
+            File.WriteAllLines($"{workingDirectory}/TestResults/NotEnglishLines.txt", lines);
+        });
+
+       
+
+        File.WriteAllLines($"{workingDirectory}/TestResults/NotEnglishLines.txt", lines);
     }
 
     [Fact]
@@ -280,10 +408,10 @@ public class TranslationCleanupTests
     }
 
     [Fact]
-    public async Task TranslateForGlossary()
+    public async Task TranslateForManualTranslation()
     {
         var config = Configuration.GetConfiguration(workingDirectory);
-        string inputFile = $"{workingDirectory}/TestResults/ForTheGlossary.txt";
+        string inputFile = $"{workingDirectory}/TestResults/ForManualTrans.txt";
 
         // Create an HttpClient instance
         using var client = new HttpClient();
@@ -326,7 +454,7 @@ public class TranslationCleanupTests
             Console.WriteLine($"Line: {i + batchRange} of {totalLines} ({elapsed} ms ~ {speed}/line)");
         }
 
-        File.WriteAllLines($"{workingDirectory}/TestResults/ForTheGlossaryTrans.txt", results);
+        File.WriteAllLines($"{workingDirectory}/TestResults/ForManualTransComplete.txt", results);
     }
 
     [Fact]

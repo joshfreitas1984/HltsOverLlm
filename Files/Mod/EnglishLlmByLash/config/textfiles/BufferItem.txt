@@ -415,7 +415,7 @@ buffSkillTree049_009	Goosebumps on the back	If you activate Sanguan Feixing and 
 buffSkillTree049_010	Unresolved ghosts	If you use Sanguan Feixing and issue a feigned move, there is a 50% chance to recover 1 point of your own energy	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_010
 buffSkillTree049_011	Chase the Soul Seven Breaks	If the Pursuit of the Soul Seven Dispersions is activated, recover 2 points of energy after executing a combo	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_011
 buffSkillTree050_000	Take my thunderbolt pill!	Special move exclusive to Kong Jin	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree050_001	Cong Ba La	Kong Jin's exclusive technique	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree050_001	Lord Kong Ba	Kong Jin's exclusive technique	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree051_000	Graceful and delicate steps	After performing Levitating Steps, increase dodge rate by 6% for the next 5 turns	0	microstep	0	TRUE	0	FALSE	0	0		buffSkillTree051_000
 buffSkillTree051_007	As elusive as a god	After executing the Light Step Dance, evade rate increases by 12% for the next five rounds; recover 2% of internal energy per unit distance moved	0	microstep	0	TRUE	0	FALSE	0	0		buffSkillTree051_000
 buffSkillTree052_001	Proclamation Method	Teng Yuan Gong provides an additional resistance of 6 points against dizziness and 6 points against confusion	0		0	FALSE	0	FALSE	0	0		0

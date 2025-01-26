@@ -14,6 +14,7 @@ public class LlmConfig
     public bool OptimizationMode { get; set; }
     public bool SkipLineValidation { get; set; }
     public bool CorrectionPromptsEnabled { get; set; }
+    public bool TranslateFlagged { get; set; }
     public Dictionary<string, object>? ModelParams { get; set; }
 
     // Not serialised in Yaml

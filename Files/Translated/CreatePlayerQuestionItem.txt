@@ -9,6 +9,7 @@
   - split: 1
     text: "为什么想进入武侠世界？"
     translated: "Why do you want to enter the Wuxia world?"
+    flaggedForRetranslation: false
 - lineNum: 2
   raw: "Question01_1	武侠是一种浪漫。	0		(cf005,1)(nf007,1)(af001,1)		0"
   translated: ""
@@ -16,6 +17,7 @@
   - split: 1
     text: "武侠是一种浪漫。"
     translated: "Wuxia is a form of romance"
+    flaggedForRetranslation: false
 - lineNum: 3
   raw: "Question01_2	我不想再当单身狗。	0		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0"
   translated: ""
@@ -23,6 +25,7 @@
   - split: 1
     text: "我不想再当单身狗。"
     translated: "I don't want to be a single dog anymore"
+    flaggedForRetranslation: false
 - lineNum: 4
   raw: "Question01_3	我不想当屌丝，我想成为人上人！	0		(cf002,1)(nf009,1)(af003,1)(cf003,1)		0"
   translated: ""
@@ -30,6 +33,7 @@
   - split: 1
     text: "我不想当屌丝，我想成为人上人！"
     translated: "I don't want to be a loser; I want to become an elite!"
+    flaggedForRetranslation: false
 - lineNum: 5
   raw: "Question01_4	甚么？这是武侠世界吗？	0		(nf010,1)(af004,1)(cf001,1)		0"
   translated: ""
@@ -37,6 +41,7 @@
   - split: 1
     text: "甚么？这是武侠世界吗？"
     translated: "What? Is this a Wuxia world?"
+    flaggedForRetranslation: false
 - lineNum: 6
   raw: "Question01_5	反正我到哪都是一个人，有差吗？	0		(cf007,1)(nf006,1)(af005,1)		0"
   translated: ""
@@ -44,6 +49,7 @@
   - split: 1
     text: "反正我到哪都是一个人，有差吗？"
     translated: "So what if I'm always alone wherever I go, does it matter?"
+    flaggedForRetranslation: false
 - lineNum: 7
   raw: "Question02	进入武侠世界，你想成为甚么样的人？	0	Question02_1,Question02_2,Question02_3,Question02_4			2"
   translated: ""
@@ -51,6 +57,7 @@
   - split: 1
     text: "进入武侠世界，你想成为甚么样的人？"
     translated: "Enter the Wuxia world, what kind of person do you want to become?"
+    flaggedForRetranslation: false
 - lineNum: 8
   raw: "Question02_1	为国为民，侠之大者。	0		(cf001,1)	(Moral,30)	0"
   translated: ""
@@ -58,6 +65,7 @@
   - split: 1
     text: "为国为民，侠之大者。"
     translated: "For the country, for the people, it is the greatest among heroes"
+    flaggedForRetranslation: false
 - lineNum: 9
   raw: "Question02_2	号令天下，莫敢不从。	0		(cf003,1)	(Moral,-30)	0"
   translated: ""
@@ -65,6 +73,7 @@
   - split: 1
     text: "号令天下，莫敢不从。"
     translated: "Command the world, and none dare disobey"
+    flaggedForRetranslation: false
 - lineNum: 10
   raw: "Question02_3	放浪形骸，狂傲不羁。	0		(cf005,1)(cf007,1)(cf006,1)	(Madness,30)	0"
   translated: ""
@@ -72,6 +81,7 @@
   - split: 1
     text: "放浪形骸，狂傲不羁。"
     translated: "Living a life free and unrestrained, haughty and untamed"
+    flaggedForRetranslation: false
 - lineNum: 11
   raw: "Question02_4	端严守礼，翩翩君子。	0		(cf002,1)	(Madness,-30)	0"
   translated: ""
@@ -79,6 +89,7 @@
   - split: 1
     text: "端严守礼，翩翩君子。"
     translated: "Upright and respectful, a distinguished gentleman"
+    flaggedForRetranslation: false
 - lineNum: 12
   raw: "Question03	当你行走江湖而身无分文时，你想靠甚么方式维生?	0	Question03_1,Question03_2,Question03_3,Question03_4			3"
   translated: ""
@@ -86,6 +97,7 @@
   - split: 1
     text: "当你行走江湖而身无分文时，你想靠甚么方式维生?"
     translated: "When you wander the wulin without a penny to your name, what do you want to live on?"
+    flaggedForRetranslation: false
 - lineNum: 13
   raw: "Question03_1	吃草，效仿神农尝百草的精神。	0		(cf002,1)(nf001,1)		0"
   translated: ""
@@ -93,6 +105,7 @@
   - split: 1
     text: "吃草，效仿神农尝百草的精神。"
     translated: "Consume grass, following the spirit of Shen Nong tasting a hundred herbs"
+    flaggedForRetranslation: false
 - lineNum: 14
   raw: "Question03_2	挖矿，说不定会挖到比特币。	0		(cf007,1)(nf003,1)		0"
   translated: ""
@@ -100,6 +113,7 @@
   - split: 1
     text: "挖矿，说不定会挖到比特币。"
     translated: "Mineral extraction, who knows, you might mine Bitcoin"
+    flaggedForRetranslation: false
 - lineNum: 15
   raw: "Question03_3	借用，我超没存在感，很适合借用别人身上的东西。	0		(cf003,1)(nf004,1)		0"
   translated: ""
@@ -107,6 +121,7 @@
   - split: 1
     text: "借用，我超没存在感，很适合借用别人身上的东西。"
     translated: "I'm so invisible, it's perfect to borrow things from others"
+    flaggedForRetranslation: false
 - lineNum: 16
   raw: "Question03_4	身无分文？甚么是身无分文？	0		(cf005,1)(cf006,1)(nf005,1)		0"
   translated: ""
@@ -114,6 +129,7 @@
   - split: 1
     text: "身无分文？甚么是身无分文？"
     translated: "Have no money at all? What does it mean to have no money at all?"
+    flaggedForRetranslation: false
 - lineNum: 17
   raw: "Question04	在武侠世界中，你最想用何种兵器。	0	Question04_1,Question04_2,Question04_3,Question04_4,Question04_5,Question04_6,Question04_7			1"
   translated: ""
@@ -121,6 +137,7 @@
   - split: 1
     text: "在武侠世界中，你最想用何种兵器。"
     translated: "In the wuxia world, what kind of weapon would you most like to use?"
+    flaggedForRetranslation: false
 - lineNum: 18
   raw: "Question04_1	赤手空拳，贴身肉搏。	0		(cf001,2)(cf003,1)	(Fight,11)	0"
   translated: ""
@@ -128,6 +145,7 @@
   - split: 1
     text: "赤手空拳，贴身肉搏。"
     translated: "Unarmed and bare-knuckled, fighting in close quarters"
+    flaggedForRetranslation: false
 - lineNum: 19
   raw: "Question04_2	剑似飞凤，百兵之君。	0		(cf005,1)(cf007,1)	(Sword,11)	0"
   translated: ""
@@ -135,6 +153,7 @@
   - split: 1
     text: "剑似飞凤，百兵之君。"
     translated: "Blade like a soaring phoenix, ruler among blades"
+    flaggedForRetranslation: false
 - lineNum: 20
   raw: "Question04_3	刀如猛虎，百兵之胆。	0		(cf002,1)	(Blade,11)	0"
   translated: ""
@@ -142,6 +161,7 @@
   - split: 1
     text: "刀如猛虎，百兵之胆。"
     translated: "Blade like a fierce tiger, strikes fear into the hearts of a hundred soldiers"
+    flaggedForRetranslation: false
 - lineNum: 21
   raw: "Question04_4	长枪棍棒，一寸长，一寸强。	0			(Spear,11)	0"
   translated: ""
@@ -149,6 +169,7 @@
   - split: 1
     text: "长枪棍棒，一寸长，一寸强。"
     translated: "Long spear and club, one inch long, one inch strong"
+    flaggedForRetranslation: false
 - lineNum: 22
   raw: "Question04_5	短兵相接，一寸短，一寸险。	0		(cf006,1)	(Short,11)	0"
   translated: ""
@@ -156,6 +177,7 @@
   - split: 1
     text: "短兵相接，一寸短，一寸险。"
     translated: "Close combat, inch by inch short and precarious"
+    flaggedForRetranslation: false
 - lineNum: 23
   raw: "Question04_6	暗器远射，千臂如来。	0			(Arrow,11)	0"
   translated: ""
@@ -163,6 +185,7 @@
   - split: 1
     text: "暗器远射，千臂如来。"
     translated: "Hidden weapons fired at long range, the Thousand-Armed One"
+    flaggedForRetranslation: false
 - lineNum: 24
   raw: "Question04_7	毒步武林，无毒不丈夫。	0			(Poison,16)	0"
   translated: ""
@@ -170,6 +193,7 @@
   - split: 1
     text: "毒步武林，无毒不丈夫。"
     translated: "Those who tread the martial world must master poison; a man without knowledge of poisons is incomplete"
+    flaggedForRetranslation: false
 - lineNum: 25
   raw: "Question05	在武侠世界中，你觉得何者才是武学的至理？	0	Question05_1,Question05_2,Question05_3,Question05_4,Question05_5,Question05_6			3"
   translated: ""
@@ -177,6 +201,7 @@
   - split: 1
     text: "在武侠世界中，你觉得何者才是武学的至理？"
     translated: "In the wuxia world, which do you think is the ultimate principle of martial arts?"
+    flaggedForRetranslation: false
 - lineNum: 26
   raw: "Question05_1	刚猛无俦，当者辟易。	0		(cf007,1)(tf001,1)		0"
   translated: ""
@@ -184,6 +209,7 @@
   - split: 1
     text: "刚猛无俦，当者辟易。"
     translated: "Brave and fierce, unmatched by any; those who face him feel daunted"
+    flaggedForRetranslation: false
 - lineNum: 27
   raw: "Question05_2	以弱胜强，以柔克刚。	0		(tf002,1)		0"
   translated: ""
@@ -191,6 +217,7 @@
   - split: 1
     text: "以弱胜强，以柔克刚。"
     translated: "Weakness overcomes strength, and softness overcomes hardness"
+    flaggedForRetranslation: false
 - lineNum: 28
   raw: "Question05_3	身法如风，出手如电。	0		(cf002,1)(cf003,1)(tf003,1)		0"
   translated: ""
@@ -198,6 +225,7 @@
   - split: 1
     text: "身法如风，出手如电。"
     translated: "Agile as the wind, swift and decisive in action"
+    flaggedForRetranslation: false
 - lineNum: 29
   raw: "Question05_4	借力打力，后发制人。	0		(cf005,1)(tf004,1)		0"
   translated: ""
@@ -205,6 +233,7 @@
   - split: 1
     text: "借力打力，后发制人。"
     translated: "Use someone else's strength to defeat them, and strike back at a later time"
+    flaggedForRetranslation: false
 - lineNum: 30
   raw: "Question05_5	变幻无方，指东打西。	0		(cf006,1)(tf005,1)		0"
   translated: ""
@@ -212,6 +241,7 @@
   - split: 1
     text: "变幻无方，指东打西。"
     translated: "Every change without direction, striking east and west"
+    flaggedForRetranslation: false
 - lineNum: 31
   raw: "Question05_6	大巧不工，反璞归真。	0		(tf006,1)(cf001,1)		0"
   translated: ""
@@ -219,6 +249,7 @@
   - split: 1
     text: "大巧不工，反璞归真。"
     translated: "Great skill appears unrefined, revealing true essence"
+    flaggedForRetranslation: false
 - lineNum: 32
   raw: "Question06	你想象中的武侠世界是何种面貌？(游戏难易度)	0	Question06_1,Question06_2,Question06_3,Question06_4			2"
   translated: ""
@@ -226,6 +257,7 @@
   - split: 1
     text: "你想象中的武侠世界是何种面貌？(游戏难易度)"
     translated: "What is the appearance of your imagined Wuxia world? (Game difficulty)"
+    flaggedForRetranslation: false
 - lineNum: 33
   raw: "Question06_1	国泰民安，风调雨顺，礼仪之邦，安居乐业。(简单)	0		(ff002,1)		0"
   translated: ""
@@ -233,6 +265,7 @@
   - split: 1
     text: "国泰民安，风调雨顺，礼仪之邦，安居乐业。(简单)"
     translated: "Prosperity and peace for the country, gentle winds and favorable rains, a land of courtesy and propriety, living in comfort and contentment (Easy)"
+    flaggedForRetranslation: false
 - lineNum: 34
   raw: "Question06_2	克己复礼，行侠仗义，居安思危，杀生成仁。(普通)	0		(ff002,2)		0"
   translated: ""
@@ -240,6 +273,7 @@
   - split: 1
     text: "克己复礼，行侠仗义，居安思危，杀生成仁。(普通)"
     translated: "Self-discipline and adherence to ritual, upholding righteousness with courage and justice; in times of peace, think of danger; eliminate evil to cultivate benevolence (Normal)"
+    flaggedForRetranslation: false
 - lineNum: 35
   raw: "Question06_3	世风日下，人心不古，争权夺利，口蜜腹剑。(困难)	0		(ff002,3)		0"
   translated: ""
@@ -247,6 +281,7 @@
   - split: 1
     text: "世风日下，人心不古，争权夺利，口蜜腹剑。(困难)"
     translated: "The moral climate is declining, people's hearts are not ancient; they fight for power and wealth while harboring deceitful intentions (Hard)"
+    flaggedForRetranslation: false
 - lineNum: 36
   raw: "Question06_4	刀光剑影，兵戎相向，人才辈出，谁与争锋。(炼狱)	0		(ff002,4)		0"
   translated: ""
@@ -254,6 +289,7 @@
   - split: 1
     text: "刀光剑影，兵戎相向，人才辈出，谁与争锋。(炼狱)"
     translated: "Blades and swords clashed, armies collided; talents emerged continuously—whom to contest with? (Purgatory)"
+    flaggedForRetranslation: false
 - lineNum: 37
   raw: "Question11	为什么想进入武侠世界？	1	Question11_1,Question11_2,Question11_3,Question11_4,Question11_5,Question11_6			3"
   translated: ""
@@ -261,6 +297,7 @@
   - split: 1
     text: "为什么想进入武侠世界？"
     translated: "Why do you want to enter the Wuxia world?"
+    flaggedForRetranslation: false
 - lineNum: 38
   raw: "Question11_1	武侠是一种浪漫。	1		(cf005,1)(nf007,1)(af001,1)		0"
   translated: ""
@@ -268,6 +305,7 @@
   - split: 1
     text: "武侠是一种浪漫。"
     translated: "Wuxia is a form of romance"
+    flaggedForRetranslation: false
 - lineNum: 39
   raw: "Question11_2	我不想再当单身狗。	1		(ff001,1)(cf006,1)(nf008,1)(af002,1)		0"
   translated: ""
@@ -275,6 +313,7 @@
   - split: 1
     text: "我不想再当单身狗。"
     translated: "I don't want to be a single dog anymore"
+    flaggedForRetranslation: false
 - lineNum: 40
   raw: "Question11_3	我不想当屌丝，我想成为人上人！	1		(cf002,1)(nf009,1)(af003,1)(cf003,1)		0"
   translated: ""
@@ -282,6 +321,7 @@
   - split: 1
     text: "我不想当屌丝，我想成为人上人！"
     translated: "I don't want to be a loser; I want to become one of the elite!"
+    flaggedForRetranslation: false
 - lineNum: 41
   raw: "Question11_4	甚么？这是武侠世界吗？	1		(nf010,1)(af004,1)(cf001,1)		0"
   translated: ""
@@ -289,6 +329,7 @@
   - split: 1
     text: "甚么？这是武侠世界吗？"
     translated: "What? Is this the Wuxia world?"
+    flaggedForRetranslation: false
 - lineNum: 42
   raw: "Question11_5	反正我到哪都是一个人，有差吗？	1		(cf007,1)(nf006,1)(af005,1)		0"
   translated: ""
@@ -296,6 +337,7 @@
   - split: 1
     text: "反正我到哪都是一个人，有差吗？"
     translated: "It doesn't matter where I go, I'm always alone. Does it make a difference?"
+    flaggedForRetranslation: false
 - lineNum: 43
   raw: "Question11_6	什么武侠世界？这就是我的世界。	1		(cf008,1)(cf011,1)(cf004,1)(cf009,1)(cf010,1)(nf011,1)		0"
   translated: ""
@@ -303,6 +345,7 @@
   - split: 1
     text: "什么武侠世界？这就是我的世界。"
     translated: "What Wuxia world? This is my world"
+    flaggedForRetranslation: false
 - lineNum: 44
   raw: "Question12	进入武侠世界，你想成为甚么样的人？	1	Question12_1,Question12_2,Question12_3,Question12_4,Question12_5			2"
   translated: ""
@@ -310,6 +353,7 @@
   - split: 1
     text: "进入武侠世界，你想成为甚么样的人？"
     translated: "Enter the Wuxia world, what kind of person do you want to be?"
+    flaggedForRetranslation: false
 - lineNum: 45
   raw: "Question12_1	为国为民，侠之大者。	1		(cf010,1)(cf001,1)	(Moral,30)	0"
   translated: ""
@@ -317,6 +361,7 @@
   - split: 1
     text: "为国为民，侠之大者。"
     translated: "For country, for people, the greatest of a hero"
+    flaggedForRetranslation: false
 - lineNum: 46
   raw: "Question12_2	号令天下，莫敢不从。	1		(cf003,1)	(Moral,-30)	0"
   translated: ""
@@ -324,6 +369,7 @@
   - split: 1
     text: "号令天下，莫敢不从。"
     translated: "Command the world, none dare disobey"
+    flaggedForRetranslation: false
 - lineNum: 47
   raw: "Question12_3	放浪形骸，狂傲不羁。	1		(cf005,1)(cf011,1)(cf008,1)(cf007,1)(cf006,1)(cf004,1)	(Madness,30)	0"
   translated: ""
@@ -331,6 +377,7 @@
   - split: 1
     text: "放浪形骸，狂傲不羁。"
     translated: "Reckless in body and spirit, wild and unrestrained"
+    flaggedForRetranslation: false
 - lineNum: 48
   raw: "Question12_4	端严守礼，翩翩君子。	1		(cf002,1)	(Madness,-30)	0"
   translated: ""
@@ -338,6 +385,7 @@
   - split: 1
     text: "端严守礼，翩翩君子。"
     translated: "Uphold solemnity and propriety, a gentlemanly figure"
+    flaggedForRetranslation: false
 - lineNum: 49
   raw: "Question12_5	无欲无求，中庸之道。	1		(cf009,1)		0"
   translated: ""
@@ -345,6 +393,7 @@
   - split: 1
     text: "无欲无求，中庸之道。"
     translated: "Without desire and without seeking, the way of moderation"
+    flaggedForRetranslation: false
 - lineNum: 50
   raw: "Question13	当你行走江湖而身无分文时，你想靠甚么方式维生?	1	Question13_1,Question13_2,Question13_3,Question13_4,Question13_5			3"
   translated: ""
@@ -352,6 +401,7 @@
   - split: 1
     text: "当你行走江湖而身无分文时，你想靠甚么方式维生?"
     translated: "When you walk the Jianghu without a penny to your name, how do you plan to make ends meet?"
+    flaggedForRetranslation: false
 - lineNum: 51
   raw: "Question13_1	吃草，效仿神农尝百草的精神。	1		(cf008,1)(cf002,1)(nf001,1)		0"
   translated: ""
@@ -359,6 +409,7 @@
   - split: 1
     text: "吃草，效仿神农尝百草的精神。"
     translated: "Eat grass, emulating the spirit of Shennong tasting a hundred herbs"
+    flaggedForRetranslation: false
 - lineNum: 52
   raw: "Question13_2	挖矿，说不定会挖到比特币。	1		(cf007,1)(nf003,1)		0"
   translated: ""
@@ -366,6 +417,7 @@
   - split: 1
     text: "挖矿，说不定会挖到比特币。"
     translated: "Minning, you never know, you might mine Bitcoin"
+    flaggedForRetranslation: false
 - lineNum: 53
   raw: "Question13_3	借用，我超没存在感，很适合借用别人身上的东西。	1		(cf003,1)(nf004,1)		0"
   translated: ""
@@ -373,6 +425,7 @@
   - split: 1
     text: "借用，我超没存在感，很适合借用别人身上的东西。"
     translated: "I'm super inconspicuous, so I'm great at borrowing things from other people"
+    flaggedForRetranslation: false
 - lineNum: 54
   raw: "Question13_4	身无分文？甚么是身无分文？	1		(cf005,1)(cf006,1)(cf004,1)(nf005,1)(cf009,1)		0"
   translated: ""
@@ -380,6 +433,7 @@
   - split: 1
     text: "身无分文？甚么是身无分文？"
     translated: "What does it mean to be penniless? What is being penniless?"
+    flaggedForRetranslation: false
 - lineNum: 55
   raw: "Question13_5	天为盖，地为床，无入而不自得。	1		(cf010,1)(cf011,1)(nf012,1)		0"
   translated: ""
@@ -387,6 +441,7 @@
   - split: 1
     text: "天为盖，地为床，无入而不自得。"
     translated: "The sky is the canopy, the earth is the bed; one who enters finds contentment without effort"
+    flaggedForRetranslation: false
 - lineNum: 56
   raw: "Question14	在武侠世界中，你最想用何种兵器。	1	Question14_1,Question14_2,Question14_3,Question14_4,Question14_5,Question14_6,Question14_7			1"
   translated: ""
@@ -394,6 +449,7 @@
   - split: 1
     text: "在武侠世界中，你最想用何种兵器。"
     translated: "In the Wuxia world, which weapon would you most like to use?"
+    flaggedForRetranslation: false
 - lineNum: 57
   raw: "Question14_1	赤手空拳，贴身肉搏。	1		(cf011,1)(cf010,1)(cf009,1)(cf001,2)(cf003,1)	(Fight,21)	0"
   translated: ""
@@ -401,6 +457,7 @@
   - split: 1
     text: "赤手空拳，贴身肉搏。"
     translated: "With bare hands and empty fists, in close combat"
+    flaggedForRetranslation: false
 - lineNum: 58
   raw: "Question14_2	剑似飞凤，百兵之君。	1		(cf005,1)(cf009,1)(cf007,1)	(Sword,21)	0"
   translated: ""
@@ -408,6 +465,7 @@
   - split: 1
     text: "剑似飞凤，百兵之君。"
     translated: "Sword like a flying phoenix, master of a hundred soldiers"
+    flaggedForRetranslation: false
 - lineNum: 59
   raw: "Question14_3	刀如猛虎，百兵之胆。	1		(cf002,1)	(Blade,21)	0"
   translated: ""
@@ -415,6 +473,7 @@
   - split: 1
     text: "刀如猛虎，百兵之胆。"
     translated: "Blades are like fierce tigers, instilling fear in a hundred armies"
+    flaggedForRetranslation: false
 - lineNum: 60
   raw: "Question14_4	长枪棍棒，一寸长，一寸强。	1		(cf010,1)	(Spear,21)	0"
   translated: ""
@@ -422,6 +481,7 @@
   - split: 1
     text: "长枪棍棒，一寸长，一寸强。"
     translated: "Long spear, club; one inch long, one inch strong"
+    flaggedForRetranslation: false
 - lineNum: 61
   raw: "Question14_5	短兵相接，一寸短，一寸险。	1		(cf006,1)	(Short,21)	0"
   translated: ""
@@ -429,6 +489,7 @@
   - split: 1
     text: "短兵相接，一寸短，一寸险。"
     translated: "In close combat, every inch is short and dangerous"
+    flaggedForRetranslation: false
 - lineNum: 62
   raw: "Question14_6	暗器远射，千臂如来。	1		(cf008,1)	(Arrow,21)	0"
   translated: ""
@@ -436,6 +497,7 @@
   - split: 1
     text: "暗器远射，千臂如来。"
     translated: "Dark projectiles fired from a distance, a thousand-armed Bodhisattva"
+    flaggedForRetranslation: false
 - lineNum: 63
   raw: "Question14_7	毒步武林，无毒不丈夫。	1		(cf004,1)	(Poison,26)	0"
   translated: ""
@@ -443,6 +505,7 @@
   - split: 1
     text: "毒步武林，无毒不丈夫。"
     translated: "Those who venture into the martial world must be fearless in the face of poison"
+    flaggedForRetranslation: false
 - lineNum: 64
   raw: "Question15	在武侠世界中，你觉得何者才是武学的至理？	1	Question15_1,Question15_2,Question15_3,Question15_4,Question15_5,Question15_6			3"
   translated: ""
@@ -450,6 +513,7 @@
   - split: 1
     text: "在武侠世界中，你觉得何者才是武学的至理？"
     translated: "In the Wuxia world, what do you think is the ultimate principle of martial arts?"
+    flaggedForRetranslation: false
 - lineNum: 65
   raw: "Question15_1	刚猛无俦，当者辟易。	1		(cf010,1)(cf007,1)(tf001,1)		0"
   translated: ""
@@ -457,6 +521,7 @@
   - split: 1
     text: "刚猛无俦，当者辟易。"
     translated: "Brave and unmatched, striking awe into the hearts of those who face them"
+    flaggedForRetranslation: false
 - lineNum: 66
   raw: "Question15_2	以弱胜强，以柔克刚。	1		(cf009,1)(tf002,1)		0"
   translated: ""
@@ -464,6 +529,7 @@
   - split: 1
     text: "以弱胜强，以柔克刚。"
     translated: "With weakness conquering strength, with soft overcoming hard"
+    flaggedForRetranslation: false
 - lineNum: 67
   raw: "Question15_3	身法如风，出手如电。	1		(cf002,1)(cf008,1)(cf003,1)(tf003,1)		0"
   translated: ""
@@ -471,6 +537,7 @@
   - split: 1
     text: "身法如风，出手如电。"
     translated: "Agile as the wind, striking like lightning"
+    flaggedForRetranslation: false
 - lineNum: 68
   raw: "Question15_4	借力打力，后发制人。	1		(cf005,1)(cf004,1)(tf004,1)		0"
   translated: ""
@@ -478,6 +545,7 @@
   - split: 1
     text: "借力打力，后发制人。"
     translated: "Leverage one's strength to overcome an opponent; seize the initiative when the opportunity arises"
+    flaggedForRetranslation: false
 - lineNum: 69
   raw: "Question15_5	变幻无方，指东打西。	1		(cf011,1)(cf006,1)(tf005,1)		0"
   translated: ""
@@ -485,6 +553,7 @@
   - split: 1
     text: "变幻无方，指东打西。"
     translated: "Capricious and unpredictable; striking left when pointing right"
+    flaggedForRetranslation: false
 - lineNum: 70
   raw: "Question15_6	大巧不工，反璞归真。	1		(tf006,1)(cf001,1)		0"
   translated: ""
@@ -492,6 +561,7 @@
   - split: 1
     text: "大巧不工，反璞归真。"
     translated: "Great skill lies in simplicity; true quality emerges from raw form"
+    flaggedForRetranslation: false
 - lineNum: 71
   raw: "Question16	你想象中的武侠世界是何种面貌？(游戏难易度)	1	Question16_1,Question16_2,Question16_3,Question16_4			2"
   translated: ""
@@ -499,6 +569,7 @@
   - split: 1
     text: "你想象中的武侠世界是何种面貌？(游戏难易度)"
     translated: "What does your imagined Wuxia world look like? (game difficulty)"
+    flaggedForRetranslation: false
 - lineNum: 72
   raw: "Question16_1	国泰民安，风调雨顺，礼仪之邦，安居乐业。(简单)	1		(ff002,1)		0"
   translated: ""
@@ -506,6 +577,7 @@
   - split: 1
     text: "国泰民安，风调雨顺，礼仪之邦，安居乐业。(简单)"
     translated: "Peace and prosperity to the nation, gentle winds and favorable rains, a land of etiquette where people live in peace and contentment (Easy)"
+    flaggedForRetranslation: false
 - lineNum: 73
   raw: "Question16_2	克己复礼，行侠仗义，居安思危，杀生成仁。(普通)	1		(ff002,2)		0"
   translated: ""
@@ -513,6 +585,7 @@
   - split: 1
     text: "克己复礼，行侠仗义，居安思危，杀生成仁。(普通)"
     translated: "Self-discipline and the restoration of ritual, chivalry and righteousness, staying calm in safety but thinking of danger, transforming killing into benevolence (Normal)"
+    flaggedForRetranslation: false
 - lineNum: 74
   raw: "Question16_3	世风日下，人心不古，争权夺利，口蜜腹剑。(困难)	1		(ff002,3)		0"
   translated: ""
@@ -520,6 +593,7 @@
   - split: 1
     text: "世风日下，人心不古，争权夺利，口蜜腹剑。(困难)"
     translated: "As times change, people's hearts become less noble; everyone is vying for power and profit with honeyed words but daggers hidden in their hearts (Hard)"
+    flaggedForRetranslation: false
 - lineNum: 75
   raw: "Question16_4	刀光剑影，兵戎相向，人才辈出，谁与争锋。(炼狱)	1		(ff002,4)		0"
   translated: ""
@@ -527,3 +601,4 @@
   - split: 1
     text: "刀光剑影，兵戎相向，人才辈出，谁与争锋。(炼狱)"
     translated: "Blades and swords flashing, armies facing each other, talented individuals emerging; who can contend with them? (Purgatory)"
+    flaggedForRetranslation: false

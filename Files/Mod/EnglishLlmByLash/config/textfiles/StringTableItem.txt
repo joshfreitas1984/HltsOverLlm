@@ -13,8 +13,8 @@ QuestEventType002	Task completed
 QuestEventType003	Task failure
 QuestEventType004	Task Update
 #后面有留空格键是要做排版	
-Method0	Obtained
-Method1	Decrease
+Method0	Obtained:
+Method1	Lost:
 HintTypeMoney	{0} {1} money
 HintTypeExp	{0} {1} Experience
 HintTypeInventory	{0} {1}x
@@ -631,7 +631,7 @@ AreaNear	Nearby
 #休息界面	
 UIRestTimeTitle	Now time
 UIRestRestTitle	Rest Time
-UIRestRestUnit	Children
+UIRestRestUnit	Hours
 UIRestDialogTitle	Rest
 UIRestDialog	Do you need to rest for {0} hours until {1}?
 UIRestDialogError	There are not enough rest items!

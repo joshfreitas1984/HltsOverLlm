@@ -111,6 +111,9 @@ public class PromptTuningTests
         var batchSize = config.BatchSize ?? 10;
 
         var testLines = new List<TranslatedRaw> {
+            new("小时"),
+            new("嗷呜"),
+            new("吱吱！！"),
             new ("亢龍有悔"),
             new ("初入江湖"),
             new ("经验值80000点，江湖声望，玄铁"),
@@ -132,6 +135,7 @@ public class PromptTuningTests
             new("蟒蛇"),
             new("黄连"),
             new("迷惑"),
+            new("嗷呜"),
             new("孩子，若是你<color=#FF0000>搜索天书的过程里有了些进展，便回来这儿看看</color>，说不准我们也会有什么重大的突破。"),
             new("<color=#FFCC22>我手上有一封信，是洪义交给我的。</color>"),
             new("难道会是梨花姑娘挣扎之时，从<color=#FF0000>凶手</color>身上扯将下来的<color=#FF0000>证据</color>吗？"),

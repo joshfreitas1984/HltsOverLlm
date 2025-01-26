@@ -176,9 +176,10 @@ public static class TranslationService
             { "唔……看起来和我来的圣堂还挺像的……难道这里也是圣堂？不会还要我再找一次十四天书吧？", "Hmm... It looks quite similar to the Holy Sanctuary I came from...Could this place also be a Holy Sanctuary? I hope I don't have to search for the Fourteen-Day Book again..." },
             { "这……这不是槟榔嘛！骆兄到底是从哪里找到的！", "This... this is not betel nut! Where did Brother Lou find it from anyway!" },
             { "嗯？等等，这不是槟榔吗？怎么会在这种地方？", "Huh? Wait, isn't this a betel nut? How is it here in a place like this?" },
-
             { "还有南闲…嗯……村里的人会知道这个名号吗？他叫什么名字来着…？", "There is also the Southern Sage... hmm... Would the villagers know this title? What was his name again?" },
             { "六片...洛书碎片...南闲，你这情报来自何处？怎么前些日子都没和我提起？", "Six pieces... fragments of the Luoshu... Southern Leisure, where did you get this intelligence from? Why didn't you mention to me these past few days?" },
+            { "呃…我不是淘石帮里的人。兄弟，你怎地看起来如此害怕，一个人躲在这里。", "Um... I'm not from Taoshi Sect. Brother, why do you look so scared and hiding here all by yourself?" },
+            { "呃…我身上一时没带这么多钱，回头等我凑到五千文钱立刻回来买下这只锦缎观月瓶。", "Um... I don't have that much money on me right now. I'll come back and buy this embroidered moon flask for five thousand wen once I have the cash." },
         };
     }
 
@@ -316,7 +317,7 @@ public static class TranslationService
 
                         var cacheHit = translationCache.ContainsKey(split.Text);
 
-                        if (string.IsNullOrEmpty(split.Translated) || forceRetranslation)
+                        if (string.IsNullOrEmpty(split.Translated) || forceRetranslation || (config.TranslateFlagged && split.FlaggedForRetranslation))
                         {
                             if (useTranslationCache && cacheHit)
                                 split.Translated = translationCache[split.Text];
