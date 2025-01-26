@@ -18,11 +18,7 @@ public class TranslationCleanupTests
         var manual = TranslationService.GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
-            //"气血",           
-            //"东豪",
-            //"北丑",
-            //"西庖",
-            //"阿巧",
+            "不赦楼",               
         };
 
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>

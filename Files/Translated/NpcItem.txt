@@ -2874,28 +2874,28 @@
   splits:
   - split: 1
     text: "蓝拂衣"
-    translated: "Blue Peony Robe"
+    translated: "Lan Fuyi"
 - lineNum: 411
   raw: "n07005a	蓝拂衣	w_standG00	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				0	0"
   translated: ""
   splits:
   - split: 1
     text: "蓝拂衣"
-    translated: "Blue Brush Robe"
+    translated: "Lan Fuyi"
 - lineNum: 412
   raw: "n07005b	蓝拂衣	ml_idle009	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00024\", 1, 1}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "蓝拂衣"
-    translated: "Blue Fan Cloak"
+    translated: "Lan Fuyi"
 - lineNum: 413
   raw: "n07005c	蓝拂衣	w_standG00	n90215	149.117, 88.24791, 96.127	174.6601		FALSE	TRUE		v00025				2	0	0	n20209	n90215				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07004\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "蓝拂衣"
-    translated: "Blue Skirt"
+    translated: "Lan Fuyi"
 - lineNum: 414
   raw: "n07006	云种火	w_standA00	n07006	0, 0, 0	0		TRUE	TRUE		v00242				2	26	0	n07006	n07006				0	0"
   translated: ""
@@ -21235,7 +21235,7 @@
   splits:
   - split: 1
     text: "蓝拂衣"
-    translated: "Blue Fan Cloak"
+    translated: "Lan Fuyi"
 - lineNum: 3034
   raw: "n54004_01	豹王寨众	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29006	n54004_01				0	0"
   translated: ""
@@ -40093,14 +40093,14 @@
   splits:
   - split: 1
     text: "蓝拂衣"
-    translated: "Blue Fan Cloak"
+    translated: "Lan Fuyi"
 - lineNum: 5728
   raw: "n90215b	蓝拂衣	w_standE00	n90215	-740.2009, 66.1883, -1080.878	171.1449		FALSE	TRUE		v00025				2	0	0	n20209	n90215				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60016\", 1, True} , { \"QuestCondition\" : \"Q60017\", 1, True} , { \"QuestCondition\" : \"Q60016\", 2, True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "蓝拂衣"
-    translated: "Blue Fan Cloak"
+    translated: "Lan Fuyi"
 - lineNum: 5729
   raw: "n90216	黑衣人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90216				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10001\", 1, False}  ], 0} 	0"
   translated: ""

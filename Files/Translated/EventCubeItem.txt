@@ -11442,21 +11442,21 @@
   splits:
   - split: 1
     text: "樊香蝶深夜洗澡(蓝拂衣事件前)"
-    translated: "Phantom Butterfly Fan Xiangdie bathing at night (before the Lan Fuyi event)"
+    translated: "Female butterfly Fan Xiangdie washing her hair at night (before the Lan Fuyi incident)"
 - lineNum: 1635
   raw: "m60162-1	俏梦阁蓝拂衣（正线）	EventBox		None	-741.12, 66.8, -1085.31	1, 1, 1	10.94665, 1.405131, 11.3794	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60017\", 1, True} , { \"QuestCondition\" : \"Q60016\", 1, True}  ], 1} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f61044俏夢閣打過藍拂衣\", 1, 0}  ], 0}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6010002\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "俏梦阁蓝拂衣（正线）"
-    translated: "Charming Dream Hall, Lan Fu Yi (Mainline)"
+    translated: "Charming Dream Hall, Lan Fuyi (Main Plot)"
 - lineNum: 1636
   raw: "m60162-2	俏梦阁蓝拂衣（邪线）	EventBox		None	-741.12, 66.8, -1083.93	1, 1, 1	10.94665, 1.405131, 11.3794	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60016\", 2, True}  ], 0} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f61044俏夢閣打過藍拂衣\", 1, 0}  ], 0}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6010003\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "俏梦阁蓝拂衣（邪线）"
-    translated: "Charming Dream Hall Lan Fuyi (Xiexian)"
+    translated: "Charming Dream Hall Lan Fuyi (Villain)"
 - lineNum: 1637
   raw: "m60164-1	不准进矿坑	EventBox		None	-541.63, 121.87, -1292.26	1, 1, 1	7.518993, 5.188128, 2.434976	0, 2.761449, 0	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60009_08\", 1, False}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6018701\"}  ]} 	0"
   translated: ""

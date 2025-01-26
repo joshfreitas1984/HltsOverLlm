@@ -408,10 +408,10 @@ n07003a	Phoenix Gao watches	ml_stand101	n90428	0, 0, 0	0		FALSE	TRUE		v00224				
 n07003b	Wang Guanxi	ml_idle304	n90428	0, 0, 0	0		FALSE	TRUE		v00224				1	0	0	n07003	n07003				{ "LogicalNode" : [ { "CheckFlagAction" : "f00024", 1, 1}  ], 0} 	0
 n07004	Li Huoxiang	old_m_idle001	n20129	0, 0, 0	0		FALSE	TRUE		v00226				1	0	0	n20129	n07004				0	0
 n07004a	Li Huoxiang	ml_idle008	n20129	0, 0, 0	0		FALSE	TRUE		v00226				1	0	0	n20129	n07004				{ "LogicalNode" : [ { "CheckFlagAction" : "f00024", 1, 1}  ], 0} 	0
-n07005	Blue Peony Robe	old_w_idle002	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				0	0
-n07005a	Blue Brush Robe	w_standG00	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				0	0
-n07005b	Blue Fan Cloak	ml_idle009	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				{ "LogicalNode" : [ { "CheckFlagAction" : "f00024", 1, 1}  ], 0} 	0
-n07005c	Blue Skirt	w_standG00	n90215	149.117, 88.24791, 96.127	174.6601		FALSE	TRUE		v00025				2	0	0	n20209	n90215				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
+n07005	Lan Fuyi	old_w_idle002	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				0	0
+n07005a	Lan Fuyi	w_standG00	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				0	0
+n07005b	Lan Fuyi	ml_idle009	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				{ "LogicalNode" : [ { "CheckFlagAction" : "f00024", 1, 1}  ], 0} 	0
+n07005c	Lan Fuyi	w_standG00	n90215	149.117, 88.24791, 96.127	174.6601		FALSE	TRUE		v00025				2	0	0	n20209	n90215				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n07006	Ignite the clouds	w_standA00	n07006	0, 0, 0	0		TRUE	TRUE		v00242				2	26	0	n07006	n07006				0	0
 n07006a	Summon a fire dragon	w_standA00	n07006	0, 0, 0	0		TRUE	TRUE		v00242				2	26	0	n07006	n07006				0	0
 n07006b	Cloud breeds fire	w_standA00	n07006	111.466, 90.07541, -243.387	193.1319		TRUE	TRUE	n0700601000	v00242				2	26	0	n07006	n07006				{ "LogicalNode" : [ { "QuestCondition" : "Q07001_02", 0, True} , { "QuestCondition" : "Q07001_03", 0, True}  ], 1} 	0
@@ -3031,7 +3031,7 @@ n54003_01a	The Black-Clothed Man	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v0002
 n54003_01b	The Black-Clothed Man	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_01b				0	0
 n54003_01c	The Black-Clothed Man	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_01c				0	0
 n54003_02	Black-Clothed Messenger	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_02				0	0
-n54003_03	Blue Fan Cloak	w_standE00	n90215	0, 0, 0	0		FALSE	TRUE						1	0	0	n20209	n90215				0	0
+n54003_03	Lan Fuyi	w_standE00	n90215	0, 0, 0	0		FALSE	TRUE						1	0	0	n20209	n90215				0	0
 n54004_01	Leopards' Den Followers	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29006	n54004_01				0	0
 n54004_01b	Leopards' Den Followers	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29007	n54004_01b				0	0
 n54004_01c	Leopards' Den Followers	ml_idle306	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29008	n54004_01c				0	0
@@ -5725,8 +5725,8 @@ n90213	The Black-Clothed Man	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				
 n90213d	The Black-Clothed Man	m_sleep_dead003_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
 n90214	The Black-Clothed Man	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90214				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
 n90214d	The Black-Clothed Man	m_sleep_dead004_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90215	Blue Fan Cloak	w_standE00	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				0	0
-n90215b	Blue Fan Cloak	w_standE00	n90215	-740.2009, 66.1883, -1080.878	171.1449		FALSE	TRUE		v00025				2	0	0	n20209	n90215				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
+n90215	Lan Fuyi	w_standE00	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				0	0
+n90215b	Lan Fuyi	w_standE00	n90215	-740.2009, 66.1883, -1080.878	171.1449		FALSE	TRUE		v00025				2	0	0	n20209	n90215				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
 n90216	The Black-Clothed Man	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90216				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
 n90216d	The Black-Clothed Man	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
 n90301	Laborer	ml_standA00		-702.5344, 66.0829, -964.696	82.42727	7-18	FALSE	FALSE	n9030101000		sc90301a			1	3	0	n90301					0	0
