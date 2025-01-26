@@ -160,7 +160,8 @@ public class TranslationCleanupTests
         var manual = GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
-            //"凌中岳",            
+            "梅星河",
+            "梅村长",
         };
 
 
@@ -239,7 +240,7 @@ public class TranslationCleanupTests
                         if (split.Text.Contains(glossary))
                         {
                             Console.WriteLine($"New Glossary {textFileToTranslate.Path} Replaces: \n{split.Translated}");
-                            split.Translated = string.Empty;
+                            split.FlaggedForRetranslation = false;
                             recordsModded++;
                             continue;
                         }

@@ -2364,7 +2364,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 296
   raw: "m19997001	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	63.81336, 236.318, -1215.817	1, 1, 1	10, 10, 10	40.04904, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it50301\", 1} , { \"SetTalkIdAction\" : \"m1999700007\"}  ]} 	0"
@@ -2460,7 +2460,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 308
   raw: "m19997013	毒蛇	MouseEventBox	Resources_Art/Art3D/Ore/Snake_2.prefab	Catch	93.28, 141.11, -1167.462	1, 1, 1	1, 1, 1	9.925377, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50304\", 1}  ]} 	0"
@@ -2476,7 +2476,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 310
   raw: "m19997015	毒蟾蜍	MouseEventBox	Resources_Art/Art3D/Ore/Frog.prefab	Catch	133.9233, 114.8497, -1039.355	1, 1, 1	0.4, 0.4, 0.4	350.973, 243.5043, 350.2784	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50303\", 1}  ]} 	0"
@@ -2532,7 +2532,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 317
   raw: "m19997022	毒蟾蜍	MouseEventBox	Resources_Art/Art3D/Ore/Frog.prefab	Catch	-488.279, 62.001, -1115.842	1, 1, 1	0.4, 0.4, 0.4	357.8556, 167.6334, 344.929	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50303\", 1}  ]} 	0"
@@ -2580,7 +2580,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 323
   raw: "m19997028	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-355.5134, 68.51505, -1005.91	1, 1, 1	10, 10, 10	86.12521, 188.4324, 97.35484	True	96		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it50301\", 1} , { \"SetTalkIdAction\" : \"m1999700007\"}  ]} 	0"
@@ -2700,7 +2700,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 338
   raw: "m19997043	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	682.5886, 65.413, 1263.357	1, 1, 1	1, 1, 1	3.443184, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -2708,7 +2708,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 339
   raw: "m19997044	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-1451.338, 67.22659, 574.1548	1, 1, 1	1, 1, 1	20.8179, 230.3269, 23.19462	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -2716,7 +2716,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 340
   raw: "m19997045	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-1497.282, 79.892, 571.118	1, 1, 1	1, 1, 1	0.8152672, 4.610967, 345.9238	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -2724,7 +2724,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 341
   raw: "m19997046	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-1475.503, 64.144, 550.058	1, 1, 1	1, 1, 1	340.3629, 278.6721, 352.7225	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -2732,7 +2732,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 342
   raw: "m19997047	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-1492.657, 77.937, 547.292	1, 1, 1	1, 1, 1	337.4941, 277.6404, 9.713195	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -2740,7 +2740,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 343
   raw: "m19997048	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	738.368, 101.889, -834.902	1, 1, 1	10, 10, 10	86.93299, 96.86809, 92.01601	True	96		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it50301\", 1} , { \"SetTalkIdAction\" : \"m1999700007\"}  ]} 	0"
@@ -2780,7 +2780,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 348
   raw: "m19997053	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-140.424, 100.574, -589.81	1, 1, 1	10, 10, 10	349.6158, 355.7978, 258.7964	False	96		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it50301\", 1} , { \"SetTalkIdAction\" : \"m1999700007\"}  ]} 	0"
@@ -2812,7 +2812,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 352
   raw: "m19997057	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-777.076, 94.822, 1322.363	1, 1, 1	1, 1, 1	2.036021, 339.5245, 0.2553519	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -2820,7 +2820,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 353
   raw: "m19997058	毒蟾蜍	MouseEventBox	Resources_Art/Art3D/Ore/Frog.prefab	Catch	84.272, 116.402, -1353.534	1, 1, 1	0.4, 0.4, 0.4	348.9478, 327.3628, 10.34688	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50303\", 1}  ]} 	0"
@@ -2868,7 +2868,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 359
   raw: "m19997064	蝎子	MouseEventBox	Resources_Art/Art3D/Ore/scorpion.prefab	Catch	-17.073, 201.074, -1209.744	1, 1, 1	0.5, 0.5, 0.5	39.5237, 348.1699, 2.134413	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50305\", 1}  ]} 	0"
@@ -2884,7 +2884,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 361
   raw: "m19997066	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-65.649, 110.991, -908.421	1, 1, 1	1, 1, 1	356.8013, 28.57841, 351.9944	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -2892,7 +2892,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 362
   raw: "m19997067	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-298.61, 193.9967, -1341.375	1, 1, 1	10, 10, 10	0, 134.8535, 0	True	96		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it50301\", 1} , { \"SetTalkIdAction\" : \"m1999700007\"}  ]} 	0"
@@ -3004,7 +3004,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 376
   raw: "m19997081	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-464.259, 222.1435, -1484.882	1, 1, 1	1, 1, 1	0, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3012,7 +3012,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 377
   raw: "m19997082	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	304.188, 76.515, -728.495	1, 1, 1	1, 1, 1	39.62904, -3.879831E-06, 17.0427	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3020,7 +3020,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 378
   raw: "m19997083	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	308.706, 80.51, -737.73	1, 1, 1	1, 1, 1	16.05342, 34.23888, 18.14624	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3028,7 +3028,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 379
   raw: "m19997084	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	309.202, 82.868, -751.709	1, 1, 1	1, 1, 1	2.651536, 55.59418, 14.9506	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3036,7 +3036,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 380
   raw: "m19997085	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	300.907, 92.456, -753.611	1, 1, 1	1, 1, 1	11.92128, 1.729492, 17.57017	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3044,7 +3044,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 381
   raw: "m19997086	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	267.171, 68.711, -753.541	1, 1, 1	1, 1, 1	2.049284, -3.337187E-09, 358.1725	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3052,7 +3052,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 382
   raw: "m19997087	毒蟾蜍	MouseEventBox	Resources_Art/Art3D/Ore/Frog.prefab	Catch	486.242, 62.242, -174.696	1, 1, 1	0.4, 0.4, 0.4	340.015, 319.1318, 1.36272E-06	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50303\", 1}  ]} 	0"
@@ -3124,7 +3124,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 391
   raw: "m19997096	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-1362.418, 190.5432, -738.9431	1, 1, 1	1, 1, 1	337.2721, 263.2153, 345.9005	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3132,7 +3132,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 392
   raw: "m19997097	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-1355.812, 190.678, -776.734	1, 1, 1	1, 1, 1	70.10764, 180, 24.31425	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3140,7 +3140,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 393
   raw: "m19997098	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-1390.396, 197.918, -720.699	1, 1, 1	1, 1, 1	77.4827, 5.920938, 335.333	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3148,7 +3148,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 394
   raw: "m19997099	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-1415.85, 216.5032, -759.7474	1, 1, 1	1, 1, 1	345.2798, 357.2036, 18.8804	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3156,7 +3156,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 395
   raw: "m19997100	毒蛇	MouseEventBox	Resources_Art/Art3D/Ore/Snake_2.prefab	Catch	-1338.525, 143.0955, -648.8772	1, 1, 1	1, 1, 1	0, 0, 340.4654	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50304\", 1}  ]} 	0"
@@ -3212,7 +3212,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 402
   raw: "m19997107	毒蟾蜍	MouseEventBox	Resources_Art/Art3D/Ore/Frog.prefab	None	-1111.003, 62.515, -480.164	1, 1, 1	0.4, 0.4, 0.4	1.928644, 352.2561, 18.98457	False	96		0	0	0"
@@ -3628,7 +3628,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 454
   raw: "m19997159	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	166.4866, 48.161, 1321.477	1, 1, 1	1, 1, 1	0, 248.8955, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3636,7 +3636,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 455
   raw: "m19997160	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	106.749, 39.904, 1425.84	1, 1, 1	1, 1, 1	0, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3644,7 +3644,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 456
   raw: "m19997161	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	221.384, 50.103, 1385.093	1, 1, 1	1, 1, 1	0, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3652,7 +3652,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 457
   raw: "m19997162	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	116.0262, 47.126, 1384.851	1, 1, 1	1, 1, 1	0, 158.4392, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -3660,7 +3660,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 458
   raw: "m19997163	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-140.701, 103.427, -590.101	1, 1, 1	10, 10, 10	340.7817, 302.4464, 253.6544	False	96		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it50301\", 1} , { \"SetTalkIdAction\" : \"m1999700007\"}  ]} 	0"
@@ -7532,7 +7532,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 942
   raw: "m40004	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-169.846, 75.887, -805.867	1, 1, 1	10, 10, 10	56.049, 163.537, 10.977	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50301\", 1}  ]} 	0"
@@ -8148,7 +8148,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 1019
   raw: "m40022	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-351.32, 70.51, -1040.75	1, 1, 1	1, 1, 1	0, 28.39018, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -8156,7 +8156,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 1020
   raw: "m40023	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	-299.62, 72.65, -1046.28	1, 1, 1	1, 1, 1	0, 28.39018, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
@@ -8164,7 +8164,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 1021
   raw: "m40024	赤铜	MouseEventBox	Resources_Art/Art3D/Ore/it70104.prefab	Dig	-500.09, 155.9, -1305.21	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it70104\", 1}  ]} 	0"
@@ -10980,7 +10980,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 1373
   raw: "m55006	长枪	MouseEventBox	Character/All_Accessories/Prefab/ac3c0069.prefab	Pick	504.9845, 94.26921, -901.3571	1, 1, 1	1, 1, 1	49.32919, 152.1863, 172.8216	False	0		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"eq10505\", 1}  ]} 	0"
@@ -11028,7 +11028,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 1379
   raw: "m55012	大刀	MouseEventBox	Character/All_Accessories/Prefab/ac3a0063.prefab	Pick	505.337, 86.7, -900.93	1, 1, 1	1, 1, 1	343.0573, 55.08953, 8.925114E-07	False	0		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"eq10420\", 1}  ]} 	0"
@@ -11092,7 +11092,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 1387
   raw: "m55020	蜘蛛	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Special/special_040_D.prefab	Catch	-198.446, 131.853, 627.875	1, 1, 1	1, 1, 1	0, 72.75739, 0	True	12		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it50301\", 1}  ]} 	0"
@@ -13196,7 +13196,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 1650
   raw: "m60166-09	毒蟾蜍	MouseEventBox	Resources_Art/Art3D/Ore/Frog.prefab	Catch	-543.5735, 113.3886, -1324.729	1, 1, 1	0.4, 0.4, 0.4	0, 243.5043, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50303\", 1}  ]} 	0"
@@ -15252,7 +15252,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 1907
   raw: "m60309-16	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-318.03, 93.5, 674.57	1, 1, 1	10, 10, 10	4.702765, 357.1502, 328.7698	False	96		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it50301\", 1} , { \"SetTalkIdAction\" : \"m1999700007\"}  ]} 	0"
@@ -15284,7 +15284,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 1911
   raw: "m60309-20	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-345.168, 97.858, 690.167	1, 1, 1	10, 10, 10	273.0797, 86.84114, 14.4392	False	96		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it50301\", 1} , { \"SetTalkIdAction\" : \"m1999700007\"}  ]} 	0"
@@ -15588,7 +15588,7 @@
   splits:
   - split: 1
     text: "蜈蚣"
-    translated: "Scolopendra"
+    translated: "Centipede"
     flaggedForRetranslation: false
 - lineNum: 1949
   raw: "m60404-2	毒蜘蛛	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Catch	-373.6303, 70.35622, 1318.385	1, 1, 1	10, 10, 10	0, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it50301\", 1} , { \"SetTalkIdAction\" : \"m1999700007\"}  ]} 	0"
