@@ -1257,14 +1257,14 @@
   splits:
   - split: 5
     text: "西庖(庖丁解牛刀法、碧虚掌法)(动巧)"
-    translated: "Xi Pao (Pao Ding's Cattle Butchering Blade Technique, Bi Xu Palm Technique) (Dexterity)"
+    translated: "Western Kitchen (Pao Ding's Butcher's Sword Method, Bixu Palm Technique) (Dexterity)"
 - lineNum: 180
   raw: "n07007	33	fm00000	a00010	nick118	北丑(龙啸穿云枪、岳家散手)(动)	ta0044	st0015,st0011b,st0998		0	ai04	(MajorWeapon,eq10526)	0	(HP,5643)(MaxHP,5643)(MP,2730)(MaxMP,2730)(Physique,70)(Intelligence,62)(Neigong,79)(Qinggong,63)(Fight,62)(Sword,62)(Blade,62)(Spear,102)(Arrow,62)(Short,62)(Doctor,0)(Poison,0)(Money,0)(Madness,90)(Moral,50)(Reputation,0)(ZOC,60)(YinAndYang,125)	(it40116,1)(it40117,2)	0,0	0"
   translated: ""
   splits:
   - split: 5
     text: "北丑(龙啸穿云枪、岳家散手)(动)"
-    translated: "Bei Chou (Dragon Roar Sky-Piercing Spear, Yue Family Hand-to-Hand Combat)"
+    translated: "Northern Ugly (Drunken Dragon Pierces the Clouds Spear, Yue Family Hand-to-Hand Combat) Moving"
 - lineNum: 181
   raw: "n09996	31	fm00000	n09996	nick021	百损(玄冥神掌)	ta0085	st0148		0	ai00000	(MajorWeapon,eq10112)	0	(HP,3789)(MaxHP,3789)(MP,2413)(MaxMP,2413)(Physique,45)(Intelligence,75)(Neigong,60)(Qinggong,50)(Fight,65)(Sword,40)(Blade,40)(Spear,30)(Arrow,40)(Short,40)(Doctor,40)(Poison,50)(Money,0)(Madness,0)(Moral,-75)(Reputation,0)(ZOC,60)(YinAndYang,-120)	(it30132,1)(it40105,3)	0,0	0"
   translated: ""
@@ -23636,7 +23636,7 @@
   splits:
   - split: 5
     text: "西庖（庖丁解牛刀法、霹雳刀法）"
-    translated: "Xi Pao (Paoding's Cattle-Slicing Blade Technique, Thunderbolt Blade Technique)"
+    translated: "Western Kitchen (Pao Ding's Cow Slicing Blade Technique, Thunderbolt Blade Technique)"
 - lineNum: 3377
   raw: "n80021	21	fm00000	a00001		岳大龙（五虎断门刀,铁砂掌）	ta0052	st0137,st0054b		202	ai00000	(MajorWeapon,eq10403)(Cloth,eq20103)	1	(HP,2905)(MaxHP,2905)(MP,1540)(MaxMP,1540)(Physique,54)(Intelligence,50)(Neigong,36)(Qinggong,32)(Fight,31)(Sword,31)(Blade,52)(Spear,31)(Arrow,31)(Short,31)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-20)(Reputation,150)(ZOC,60)(YinAndYang,35)		0,0	0"
   translated: ""

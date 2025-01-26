@@ -795,7 +795,7 @@
   splits:
   - split: 1
     text: "北丑的床"
-    translated: "Bei Chou's bed"
+    translated: "Northern Ugly's Bed"
 - lineNum: 114
   raw: "m00040a	劈的柴	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_032_D.prefab	None	-827.105, 157.987, 183.972	1, 1, 1	1, 1, 1	90, 0, 0	False	0		{ \"LogicalNode\" : [ { \"CheckNpcFlagAction\" : \"01\", 1, 0, \"n00081i\"}  ], 0} 	0	0"
   translated: ""
@@ -1341,28 +1341,28 @@
   splits:
   - split: 1
     text: "寻访北丑1"
-    translated: "Seek out Bei Chou 1"
+    translated: "Seek Northern Ugly"
 - lineNum: 192
   raw: "m07010	寻访北丑2	EventBox		None	-592.69, 66.6, 48.02	1, 1, 1	25, 1.5, 25	0, 314.9578, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07002_01\", 0, True} , { \"TimeCondition\" : 7, 18}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m07010\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "寻访北丑2"
-    translated: "Seeking out Bei Chou 2"
+    translated: "Seeking out Northern Ugly 2"
 - lineNum: 193
   raw: "m07012	寻访北丑3	EventBox		None	101.02, 90.1, -205.96	1, 1, 1	12, 1.5, 9	0, 340.1755, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07002_02\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m07012\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "寻访北丑3"
-    translated: "Seek out Bei Chou"
+    translated: "Seeking Out Northern Ugly"
 - lineNum: 194
   raw: "m07013	营救东豪1	EventBox		None	125.26, 89.799, -192.16	1, 1, 1	25, 1, 15	0, 344.1754, 0	False	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f9天書碎片數量\", 0, 3} , { \"QuestCondition\" : \"Q07002\", 1, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m07013\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "营救东豪1"
-    translated: "Rescue Dong Hao 1"
+    translated: "Rescue Eastern Noble 1"
 - lineNum: 195
   raw: "m07013a	救护车	MouseEventBox	Resources_Art/Art3D/3rdPackage/FISHING VILLAGE/Prefab/Carriage.prefab	None	126, 90.005, -192.033	1, 1, 1	1, 1, 1	0, 172.322, 0	False	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f9天書碎片數量\", 0, 3} , { \"QuestCondition\" : \"Q07002\", 1, True}  ], 0} 	0	0"
   translated: ""
@@ -1376,7 +1376,7 @@
   splits:
   - split: 1
     text: "营救东豪2"
-    translated: "Rescue Dong Hao 2"
+    translated: "Rescue Eastern Noble 2"
 - lineNum: 197
   raw: "m07014a	无视燕槐	EventBox		None	-1497.302, 83.25, 582.75	1, 1, 1	1, 5, 8	0, 36.14175, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003_01\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n0701003000\"} , { \"StopScheduleAction\" : \"n07010c\"}  ]} 	0"
   translated: ""
@@ -1404,7 +1404,7 @@
   splits:
   - split: 1
     text: "营救东豪5"
-    translated: "Rescue Dong Hao 5"
+    translated: "Rescue Eastern Noble 5"
 - lineNum: 201
   raw: "m07019	身陷重围	EventBox		None	123.706, 91.365, -222.76	1, 1, 1	2.891149, 3.180879, 1	0, 340.5995, 0	False	0		{ \"LogicalNode\" : [ { \"CheckInventoryCountAction\" : \"it801030\", 0, 0} , { \"CheckInventoryCountAction\" : \"it801031\", 0, 0} , { \"CheckInventoryCountAction\" : \"it801032\", 0, 0} , { \"CheckInventoryCountAction\" : \"it801033\", 0, 0} , { \"CheckInventoryCountAction\" : \"it801034\", 0, 0} , { \"CheckInventoryCountAction\" : \"it801035\", 0, 0} , { \"QuestCondition\" : \"Q07003\", 1, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m07018\"}  ]} 	0"
   translated: ""

@@ -1134,11 +1134,11 @@ nick110	Master	Each round restores 30% of internal power; when initiating a crit
 nick111	Unequaled in the world	For every 1% of Qi and blood lost, damage increases by 1%; each turn, removes all negative status effects for 20 points	0	nickname	0	TRUE	0	FALSE	0	0		nick111
 nick112	Follow your heart's desires	Self's counterattack and force reduction rate increased by 25% each round	0	nickname	0	TRUE	0	FALSE	0	0		nick112
 nick114	Butcher's Poisonous Hand	When attacking, the target accumulates 1 point of poison per attack, increasing damage by 1%	0	nickname	0	TRUE	0	FALSE	0	0		nick114
-nick115	East Haowang	When using the Thunderbolt Fire Bomb, there is a 25% chance that it will cause the target to take an external injury of 30 points	0	nickname	0	TRUE	0	FALSE	0	0		nick115
-nick116	Nan Xian	At the start of each round, randomly recover 2 to 8 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick116
-nick117	Xi Pao	When attacking, 50% of the damage is converted to your own Qi	0	nickname	0	TRUE	0	FALSE	0	0		nick117
-nick118	Bei Chou	When triggering a combo, attack power increases by 100% for one turn	0	nickname	0	TRUE	0	FALSE	0	0		nick118
-nick118a	Bei Chou	Attack power increased by 100%, lasting for one round	0	nickname	0	TRUE	0	FALSE	0	0		nick118a
+nick115	Eastern Noble	When using the Thunderbolt Fire Bomb, there is a 25% chance that it will cause the target to take an external injury of 30 points	0	nickname	0	TRUE	0	FALSE	0	0		nick115
+nick116	Southern Leisure	At the start of each round, randomly recover 2 to 8 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick116
+nick117	Western Kitchen	When attacking, 50% of the damage is converted to your own Qi	0	nickname	0	TRUE	0	FALSE	0	0		nick117
+nick118	North Ugly	When triggering a combo, attack power increases by 100% for one turn	0	nickname	0	TRUE	0	FALSE	0	0		nick118
+nick118a	Northern Ugly	Attack power increased by 100%, lasting for one round	0	nickname	0	TRUE	0	FALSE	0	0		nick118a
 nick119buff	Martial Arts Barrier：Clumsy	Your understanding and effects are astonishing	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick120buff	Martial Arts Barrier：Quiet	Repay them with their own methods	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick121buff	Obstacles in martial arts：Soft	Using two catties to move a thousand catties, causing more damage to surrounding enemies	0	nickname	0	TRUE	0	FALSE	0	0		foricon

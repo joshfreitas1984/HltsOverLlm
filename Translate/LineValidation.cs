@@ -230,7 +230,7 @@ public class LineValidation
         };
     }
 
-    public static string CleanupLineBeforeSaving(string input, string raw)
+    public static string CleanupLineBeforeSaving(string input, string raw, string outputFile)
     {
         var result = input.Trim();
         if (!string.IsNullOrEmpty(result))
@@ -248,7 +248,7 @@ public class LineValidation
                 result = result.Replace("`", "'");
 
             //Strip .'s
-            if (result.EndsWith('.') && raw != "." && !result.EndsWith(".."))
+            if (outputFile != "NpcTalkItem.txt" && result.EndsWith('.') && raw != "." && !result.EndsWith(".."))
                 result = result[..^1];
 
             result = LineValidation.RemoveDiacritics(result);

@@ -128,7 +128,7 @@ public class PromptTuningTests
             // Process the batch in parallel
             await Task.WhenAll(batch.Select(async line =>
             {
-                line.Trans = await TranslationService.TranslateSplitAsync(config, line.Raw, client);
+                line.Trans = await TranslationService.TranslateSplitAsync(config, line.Raw, client, string.Empty);
                 recordsProcessed++;
             }));
 

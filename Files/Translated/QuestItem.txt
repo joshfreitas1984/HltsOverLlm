@@ -667,17 +667,17 @@
     translated: "Heroes of the Ale Kingdom"
   - split: 3
     text: "被西庖严令禁止离开美馔楼一步的南闲已经快要疯了。不能四处闲晃不说，掌柜金满腹竟然还拒绝给他白喝酒。只要你能帮他找来他西岭春、杂粮酒、杜康酒、即墨老酒、猴儿酒及葡萄酒等六种美酒，他愿意以他的招牌武功交换。<br>不过动作恐怕得快，说不准他何时有要事离开。"
-    translated: "Nan Xian, who was strictly ordered by Xi Pao not to leave the Delicacies Pavilion even a step and was almost going mad. Not only were they prohibited from roaming around aimlessly, but Master Jin Manfu also refused him free drinks. If you could help him obtain six kinds of fine wine—Xiling Spring, Zhailiang Wine, Dukang Wine, Jimo Old Wine, Monkey Wine, and Grape Wine—he would be willing to exchange his signature martial arts<br>However, the action must be quick; there's no telling when he might have to leave for something important"
+    translated: "Southern Leisure, who was strictly forbidden by Western Kitchen to leave the Delicacies Pavilion even one step, was almost going mad. Not only could he not wander around aimlessly, but Master Jin, filled with gold, also refused him free wine. If you can find six types of exquisite wines for him—Western Ridge Spring Wine, Mixed Grain Wine, Du Kang Wine, Jimo Old Wine, Monkey Wine, and Grape Wine—he is willing to exchange his signature martial art<br>However, the actions must be quick; you never know when he might have important matters to attend to and leave"
 - lineNum: 67
   raw: "Q00016_01	找到南闲指定的六种美酒	1	被西庖严令禁止离开美馔楼一步的南闲已经快要疯了。不能四处闲晃不说，掌柜金满腹竟然还拒绝给他白喝酒。只要你能帮他找来他西岭春、杂粮酒、杜康酒、即墨老酒、猴儿酒及葡萄酒等六种美酒，他愿意以他的招牌武功交换。<br>不过动作恐怕得快，说不准他何时有要事离开。	0	FALSE		0	TRUE		2400	(Reputation,12)	1"
   translated: ""
   splits:
   - split: 1
     text: "找到南闲指定的六种美酒"
-    translated: "Find the six types of fine wine designated by Nan Xian"
+    translated: "Find the six types of fine wine designated by Southern Leisure"
   - split: 3
     text: "被西庖严令禁止离开美馔楼一步的南闲已经快要疯了。不能四处闲晃不说，掌柜金满腹竟然还拒绝给他白喝酒。只要你能帮他找来他西岭春、杂粮酒、杜康酒、即墨老酒、猴儿酒及葡萄酒等六种美酒，他愿意以他的招牌武功交换。<br>不过动作恐怕得快，说不准他何时有要事离开。"
-    translated: "Nan Xian, who was strictly ordered by Xi Pao not to leave the Delicacies Pavilion even a step, was nearly going mad. Not only were aimless wanderings forbidden, but Master Kong Jin also refused to let him drink for free. If you could bring him six types of fine wine—Xiling Spring, mixed grain wine, Du Kang wine, Jimo old wine, monkey wine, and grape wine—he would be willing to exchange his signature martial art<br>However, the action must be swift; we can't predict when he might leave for an important matter"
+    translated: "Southern Leisure, who was strictly ordered by Western Kitchen not to leave the Delicacies Pavilion even a step, was nearly going mad. Not only was he forbidden from wandering about aimlessly, but Master Jin also refused to let him drink for free. If you can bring six types of fine wine—West Ridge Spring Wine, Miscellaneous Grain Wine, Du Kang Wine, Jimo Old Wine, Ape Wine, and Grape Wine—he is willing to exchange his signature martial arts technique<br>However, the action must be quick; you never know when he might have an important matter to leave for"
 - lineNum: 68
   raw: "Q00017	花蕊夫人	0	北丑在你面前又唱了一出不知所云的戏，推敲其中对白，似乎是想请你替他寻找唱本或是剧目一类的书籍，若是旅途上碰巧拿到了手，就拿回来给他瞧瞧吧！<br>不过动作恐怕得快，说不准他何时有要事离开。	0	FALSE	Q00017_01	0	TRUE		0		1"
   translated: ""
@@ -687,7 +687,7 @@
     translated: "Huarui's Wife"
   - split: 3
     text: "北丑在你面前又唱了一出不知所云的戏，推敲其中对白，似乎是想请你替他寻找唱本或是剧目一类的书籍，若是旅途上碰巧拿到了手，就拿回来给他瞧瞧吧！<br>不过动作恐怕得快，说不准他何时有要事离开。"
-    translated: "Beichou performed another incomprehensible skit in front of you, and upon examining the dialogue, it seems he wants you to find a libretto or script for him. If you happen to come across such a book during your travels, please bring it back for him to take a look at!<br>However, the action must be quick; it's uncertain when he might leave for something important"
+    translated: "Beichou performed an incomprehensible play in front of you and seemed to be asking for your help in finding a script or some kind of book related to it. If by chance you come across it on your journey, please bring it back for him to take a look<br>However, the action had better be quick; it's uncertain when he might have to leave for important matters"
 - lineNum: 69
   raw: "Q00017_01	收集古今戏曲考残篇	1	北丑在你面前又唱了一出不知所云的戏，推敲其中对白，似乎是想请你替他寻找唱本或是剧目一类的书籍，若是旅途上碰巧拿到了手，就拿回来给他瞧瞧吧！<br>不过动作恐怕得快，说不准他何时有要事离开。	0	FALSE		0	TRUE		19200	(Reputation,96)	1"
   translated: ""
@@ -697,7 +697,7 @@
     translated: "Collect surviving works of ancient and modern operatic studies"
   - split: 3
     text: "北丑在你面前又唱了一出不知所云的戏，推敲其中对白，似乎是想请你替他寻找唱本或是剧目一类的书籍，若是旅途上碰巧拿到了手，就拿回来给他瞧瞧吧！<br>不过动作恐怕得快，说不准他何时有要事离开。"
-    translated: "Bei Chou performed an incomprehensible act in front of you again, and upon analyzing his lines, it seemed he wanted you to find a script or a playbill for him. If by chance you come across one during your travels, bring it back so he can have a look!<br>However, the action must be quick; he might leave at any moment for something important"
+    translated: "Beichou performed another incomprehensible play in front of you, analyzing the dialogue which seemed like a request for you to find him some kind of script or playbook. If you happen to come across one during your travels, please take it and show it to him<br>But the action had to be quick, for one never knew when he might have urgent matters to attend to"
 - lineNum: 70
   raw: "Q00018	结义兄弟	0	凌霜峻的结义兄弟张君宝自己一个人跑去救助受狼蛮侵扰的百姓了，凌霜峻拜托你去看看情况，顺便带点吃的给他。	0	FALSE	Q00018_01,Q00018_02	0	TRUE		0		1"
   translated: ""
@@ -847,7 +847,7 @@
     translated: "He Tu and Lo Shu"
   - split: 3
     text: "南闲离去前提到了河洛一族在蜀地的大本营，由西庖所统领的珍馐会，据悉正积极调查袭击你和河洛一族的神秘组织－不赦楼的底细，若能前往一会，或可得知更多天书和不赦楼的情报。"
-    translated: "Nan Xian mentioned before leaving that the Hetuo clan's main base in Shu was led by Xi Pao, who heads the Zhenxun Society. They are reportedly actively investigating the mysterious organization Bu She Lou responsible for attacking you and the Hetuo clan. Visiting them could provide more information about the Heavenly Scriptures and Bu She Lou"
+    translated: "South Leisure mentioned before leaving that the Heluo Clan's main base in Shu is led by Western Kitchen's Zhenxun Society. They are reportedly actively investigating the mysterious organization - Unforgiven Tower, which attacked you and the Heluo Clan. If you go there for a while, you may learn more about the Heavenly Scriptures and Unforgiven Tower"
 - lineNum: 85
   raw: "Q07001_01	前往珍馐会	1	南闲离去前提到了河洛一族在蜀地的大本营，由西庖所统领的珍馐会，据悉正积极调查袭击你和河洛一族的神秘组织－不赦楼的底细，若能前往一会，或可得知更多天书和不赦楼的情报。	0	FALSE		106.6086,91.15105,-219.6454	TRUE		2400	(Reputation,12)	151"
   translated: ""
@@ -857,7 +857,7 @@
     translated: "Proceed to the Dining Club"
   - split: 3
     text: "南闲离去前提到了河洛一族在蜀地的大本营，由西庖所统领的珍馐会，据悉正积极调查袭击你和河洛一族的神秘组织－不赦楼的底细，若能前往一会，或可得知更多天书和不赦楼的情报。"
-    translated: "Nan Xian mentioned before leaving that the Hetu clan's main base in Shu is led by Xi Pao and their banquet organization, which is actively investigating the mysterious organization called Busheli Lou. If you visit soon, you might learn more about the Heavenly Scriptures and information on Busheli Lou"
+    translated: "Before Southern Leisure left, he mentioned that the Heluo clan's main base in Shu is led by Western Kitchen of the Zhenxun Association. They are reportedly actively investigating the details of the mysterious organization, Nishan Lou, which attacked you and the Heluo clan. If you visit them for a while, you may learn more about information related to Tian Shu and Nishan Lou"
 - lineNum: 86
   raw: "Q07001_02	回美馔楼	1	你来到珍馐会结识了西庖和河洛一族的成员，并与西川兵马指挥使皇甫登云见上了一面。西庖决定召回其余在外的珍馐会成员，共同商讨搜寻天书和下落不明的其余二位散人。回美馔楼问清任务的详情，并借机吃一顿传说中的「灶娘」亲手烧的菜吧。	0	FALSE		106.6086,91.15105,-219.6455	TRUE		600	(Reputation,3)	1"
   translated: ""
@@ -867,7 +867,7 @@
     translated: "Return to the Delicacies Pavilion"
   - split: 3
     text: "你来到珍馐会结识了西庖和河洛一族的成员，并与西川兵马指挥使皇甫登云见上了一面。西庖决定召回其余在外的珍馐会成员，共同商讨搜寻天书和下落不明的其余二位散人。回美馔楼问清任务的详情，并借机吃一顿传说中的「灶娘」亲手烧的菜吧。"
-    translated: "You met members of the Xi Pao and He Luo clan at the Zhenxun Guild and had a brief encounter with Huo Fudeyun, the military commander of Xichuan. Xi Pao decided to call back the remaining members of the Zhenxun Guild to discuss searching for the Heavenly Scriptures and tracing the missing two other xians. Head to Meizantan to clarify the details of the task, and take the opportunity to enjoy a meal prepared by Zaoniang herself"
+    translated: "You met members of the Western Kitchen and Heluo Clan at the Feast of Delicacies, and also encountered the Military Commander of Xichuan, Huangfu Dengyun. The Western Kitchen decided to recall the remaining members of the Feast of Delicacies who were outside to discuss searching for the Heavenly Scriptures and locating the other two missing rovers. Return to the Delicacies Pavilion to clarify the details of the task, and take the opportunity to enjoy a meal prepared by Zao Niang herself"
 - lineNum: 87
   raw: "Q07001_03	寻找燕槐	1	你来到珍馐会结识了西庖和河洛一族的成员，并与西川兵马指挥使皇甫登云见上了一面。西庖决定召回其余在外的珍馐会成员，共同商讨搜寻天书和下落不明的其余二位散人。根据西庖的指示，前往石家庄寻找珍馐会二当家，铁嘴仙燕槐吧！	0	FALSE		313.5732, 70.344, -549.1348	TRUE		1200	(Reputation,6)	1"
   translated: ""
@@ -877,27 +877,27 @@
     translated: "Seeking Yan Hua"
   - split: 3
     text: "你来到珍馐会结识了西庖和河洛一族的成员，并与西川兵马指挥使皇甫登云见上了一面。西庖决定召回其余在外的珍馐会成员，共同商讨搜寻天书和下落不明的其余二位散人。根据西庖的指示，前往石家庄寻找珍馐会二当家，铁嘴仙燕槐吧！"
-    translated: "You arrived at the Zhenxun Meetup and met members of the Xi Pao and Heluo clans. You also had a meeting with Western River Military Commander Huangfu Dengyun. Xi Pao decided to call back the remaining Zhenxun Meetup members to discuss searching for the Heavenly Scriptures and the whereabouts of the other two missing wanderers. According to Xi Pao's instructions, head to Shiji Town to find the second in command of the Zhenxun Meetup, Tiuzui Xianyanhuai!"
+    translated: "You arrived at the Fine Dining Association and met members of Western Kitchen and the River Luo Clan. You also had a meeting with the Western Sichuan Military Commander, Huangfu Dengyun. Western Kitchen decided to summon the other missing members of the Fine Dining Association to discuss searching for the Heavenly Scriptures and finding the other two missing Wanderers. According to Western Kitchen's instructions, go to Shijiazhuang to find the Second in Command of the Fine Dining Association, Iron Beak Divine Jasmine!"
 - lineNum: 88
   raw: "Q07001_04	回去找西庖	1	你与燕槐一同击败了袭击你们的流寇，返回美馔楼向西庖回报吧。	0	FALSE		146.5463, 90.103, -204.2556	TRUE		600	(Reputation,3)	1"
   translated: ""
   splits:
   - split: 1
     text: "回去找西庖"
-    translated: "Return to Xi Pao"
+    translated: "Go back and find Western Kitchen"
   - split: 3
     text: "你与燕槐一同击败了袭击你们的流寇，返回美馔楼向西庖回报吧。"
-    translated: "You and Yan Hua have jointly defeated the bandits who attacked you, return to Meizantou and report back to Xi Pao"
+    translated: "You and Yan Hua have defeated the bandits who attacked you. Return to Meizan Lou and report back to Xipao"
 - lineNum: 89
   raw: "Q07002	寻访北丑	0	燕巧传来了在丈人村找到北丑的信息，但却似乎因为某种原因无法带着他回到珍馐会，西庖指派了你和赛伊尹前往丈人村确认燕巧和北丑的情况，赛伊尹担心结伴容易引起注意，提议两人分开行动，并在丈人村会合。	0	FALSE	Q07002_01,Q07002_02	0	TRUE		0		0"
   translated: ""
   splits:
   - split: 1
     text: "寻访北丑"
-    translated: "Seek out Bei Chou"
+    translated: "Search for Northern Ugly"
   - split: 3
     text: "燕巧传来了在丈人村找到北丑的信息，但却似乎因为某种原因无法带着他回到珍馐会，西庖指派了你和赛伊尹前往丈人村确认燕巧和北丑的情况，赛伊尹担心结伴容易引起注意，提议两人分开行动，并在丈人村会合。"
-    translated: "Yan Qiao informed that Bei Chou was found in Elder's Village, but for some reason she could not bring him back to the Zhenxu Meeting. Xi Pao assigned you and Sai Yi Yin to go to Elder's Village to confirm Yan Qiao and Bei Chou's situation. Sai Yi Yin is concerned that traveling together would attract attention and suggests they proceed separately and meet up in Elder's Village"
+    translated: "Yan Qiao received information that he found Northern Ugly in Elder's Village, but for some reason was unable to bring him back to the Zhenxu Meeting. Western Kitchen assigned you and Sai Yi Yin to go to Elder's Village to confirm the situation with Yan Qiao and Northern Ugly. Sai Yi Yin is concerned about drawing attention by traveling together and suggests that both of them act separately and meet in Elder's Village"
 - lineNum: 90
   raw: "Q07002_01	前往丈人村	1	燕巧传来了在丈人村找到北丑的信息，但却似乎因为某种原因无法带着他回到珍馐会，西庖指派了你和赛伊尹前往丈人村确认燕巧和北丑的情况，赛伊尹担心结伴容易引起注意，提议两人分开行动，并在丈人村会合。	0	FALSE		-591.3622, 66.13526, 47.69153	TRUE		600	(Reputation,3)	251"
   translated: ""
@@ -907,7 +907,7 @@
     translated: "Go to Elder's Village"
   - split: 3
     text: "燕巧传来了在丈人村找到北丑的信息，但却似乎因为某种原因无法带着他回到珍馐会，西庖指派了你和赛伊尹前往丈人村确认燕巧和北丑的情况，赛伊尹担心结伴容易引起注意，提议两人分开行动，并在丈人村会合。"
-    translated: "Yan Qiao reported that she had found Bei Chou in Elder's Village, but for some reason she could not bring him back to the Zhenxiu Meeting. Xi Pao assigned you and Sai Yi Yin to go to Elder's Village to confirm the situation with Yan Qiao and Bei Chou. Sai Yi Yin is concerned that traveling together would draw attention and suggests that the two of you split up and meet in Elder's Village"
+    translated: "Yan Qiao has informed that they found Northern Ugly in Elder's Village, but for some reason cannot bring him back to the Zhenxiu Meeting. Western Kitchen has assigned you and Sai Yi Yin to go to Elder's Village to confirm Yan Qiao and Northern Ugly's situation. Sai Yi Yin is concerned that traveling together might attract attention and proposes that both of them travel separately, planning to meet in Elder's Village"
 - lineNum: 91
   raw: "Q07002_02	返回美馔楼	1	你顺利在丈人村找到了燕巧和北丑。在陪北丑唱了一出戏，并击败了来犯的不赦楼和豹王寨后，顺利与迟来的赛伊尹会合，赶紧和北丑返回美馔楼回报西庖吧！	0	FALSE		100.304, 89.93069, -206.3451	TRUE		4800	(Reputation,24)	1"
   translated: ""
@@ -917,17 +917,17 @@
     translated: "Return to Delicacies Pavilion"
   - split: 3
     text: "你顺利在丈人村找到了燕巧和北丑。在陪北丑唱了一出戏，并击败了来犯的不赦楼和豹王寨后，顺利与迟来的赛伊尹会合，赶紧和北丑返回美馔楼回报西庖吧！"
-    translated: "You successfully found Yan Qiao and Bei Chou in Elder's Village. After performing a play with Bei Chou and defeating the advancing Banishment Tower and Leopard King Fort, you quickly joined up with the late Sai Yiyin and hurried back to Delicacies Pavilion with Bei Chou to report to Xi Pao"
+    translated: "You successfully found Yan Qiao and Northern Ugly in Elder's Village. After performing a play with Northern Ugly and defeating the invaders from Bishen Lou and Huawang Zhai, you promptly joined the late Sai Yi Yin and hurried back to Delicacies Pavilion with Northern Ugly to report to Western Kitchen!"
 - lineNum: 92
   raw: "Q07003	营救东豪	0	皇甫登云铩羽而归，南闲生死不明，西庖不得不亲自出马，与欲一雪前耻的皇甫登云同行，营救南闲，临走前她交给了你另一项重要的任务，前往西北方的一处隐密山洞支持燕槐和刁不易，救出失踪已久的东豪孔金。	0	FALSE	Q07003_01,Q07003_02,Q07003_03,Q07003_04	0	TRUE		0		0"
   translated: ""
   splits:
   - split: 1
     text: "营救东豪"
-    translated: "Rescue Dong Hao"
+    translated: "Rescue Eastern Noble"
   - split: 3
     text: "皇甫登云铩羽而归，南闲生死不明，西庖不得不亲自出马，与欲一雪前耻的皇甫登云同行，营救南闲，临走前她交给了你另一项重要的任务，前往西北方的一处隐密山洞支持燕槐和刁不易，救出失踪已久的东豪孔金。"
-    translated: "Huangfu Dengyun returned in defeat, and Nan Xian's fate remained unknown. Xi Pao had no choice but to personally go on a mission with Huangfu Dengyun, who wished to redeem his past humiliation, to rescue Nan Xian. Before leaving, she entrusted you with another important task: travel to a secret mountain cave in the northwest to support Yan Hua and Diao Buyi in rescuing the long-missing Kong Jin of Dong Hao"
+    translated: "Huangfu Dengyun returned in disgrace, Southern Leisure's fate remains unknown, Western Kitchen had to personally set out to accompany Huangfu Dengyun—who wished to avenge past shame—in rescuing Southern Leisure. Before departing, she assigned you another important task: travel to a secluded mountain cave in the northwest to support Yanhuai and Diao Buyi in rescuing Eastern Noble Kong Jin, who has been missing for a long time"
 - lineNum: 93
   raw: "Q07003_01	与刁不易和燕槐会合	1	皇甫登云铩羽而归，南闲生死不明，西庖不得不亲自出马，与欲一雪前耻的皇甫登云同行，营救南闲，临走前她交给了你另一项重要的任务，前往西北方的一处隐密山洞支持燕槐和刁不易，救出失踪已久的东豪孔金。	0	FALSE		-1480.576, 80.26233, 572.6009	TRUE		1200	(Reputation,6)	321"
   translated: ""
@@ -937,7 +937,7 @@
     translated: "Meet with Diu Buye and Yan Hui"
   - split: 3
     text: "皇甫登云铩羽而归，南闲生死不明，西庖不得不亲自出马，与欲一雪前耻的皇甫登云同行，营救南闲，临走前她交给了你另一项重要的任务，前往西北方的一处隐密山洞支持燕槐和刁不易，救出失踪已久的东豪孔金。"
-    translated: "Upon his return in disgrace, Huangfu Dengyun did not know whether South Xian was alive or dead. Xi Pao had no choice but to personally accompany a resentful Huangfu Dengyun on a mission to rescue South Xian. Before departing, she entrusted you with another important task: travel to a secret mountain cave in the northwest to support Yan Hua and Chao Buyi in rescuing the long-missing Dongsun Kong Jin"
+    translated: "Huangfu Dengyun was defeated and returned with his wings clipped, while Southern Leisure's life status remained unknown. Western Kitchen had to personally take action and join with Huangfu Dengyun, who wanted to avenge his past disgrace, to rescue Southern Leisure. Before departing, she entrusted you with another important task: go to a secret mountain cave in the northwest to support Yan Huai and Diao Buyi, and rescue Eastern Noble Kong Jin, who has been missing for a long time"
 - lineNum: 94
   raw: "Q07003_02	杀进山洞	1	顺利抵达地图上的位置后，却只发现焦急不已的燕槐，原来刁不易为了独揽功劳，已自行进入洞中，赶紧与燕槐一同进入山洞支持吧。	0	FALSE		-1510.63, 61.66652, 584.67	TRUE		19200	(Reputation,96)	321"
   translated: ""
@@ -954,7 +954,7 @@
   splits:
   - split: 1
     text: "追上东豪"
-    translated: "Chase up East Hao"
+    translated: "Chase after Eastern Noble"
   - split: 3
     text: "冯观戏、蓝拂衣趁隙脱逃，孔金从洞里追了出去，赶紧跟上，希望他别中了甚么埋伏。"
     translated: "Fei Guanxi, Lan Fuyi took the opportunity to escape, and Kong Jin rushed out of the cave after them, quickly catching up. He hoped they hadn't encountered any ambush"
@@ -977,7 +977,7 @@
     translated: "Turn the tide"
   - split: 3
     text: "珍馐会意外遭到皇甫登云率军围攻，赛伊尹也临阵背叛，千钧一发之际，失踪已久的西庖、南闲现身来援，揭露了皇甫登云乃是不赦楼主的事实，你和珍馐会的成员们遵照四散人的命令，从包围中逃出。<br>前往武侯祠与众人会合，准备进攻皇甫登云所在的大本营，西川都司吧！"
-    translated: "Zhenxu unexpectedly came under siege by an army led by Huangfu Dengyun, and Sai Yin also betrayed them in the face of battle. At a critical moment, West Kitchen and South Idle reappeared to lend assistance, revealing that Huangfu Dengyun was none other than the unmerciful building's master. You and the members of Zhenxu followed the orders of Siasiren and escaped from the encirclement<br>Head to the Temple of the Military Sage to meet everyone, and prepare to attack the main base where Huangfu Dengyun is located, at the Western River Command Post!"
+    translated: "Chen xu hui yiwai zaodao Huangfu Dengyun shuai jun weigong, Sai Yiyin ye linzhen beipan, qianjun yifa zhiji, shizong yijiu de Xi Pao, Nan Xian xianshen laiyuan, jieluo le Huangfu Dengyun nai shi bushe Louzhu de shishi. Ni he Chen xu hui de chengyuan men zunzhe Sisan ren de mingche, cong baowei zhong teguo<br>Proceed to the Temple of the Military Sage and rendezvous with everyone, preparing to attack the main camp where Huangfu Dengyun is located, Western River Command Post!"
 - lineNum: 98
   raw: "Q07004_01	去武侯祠与珍馐会众人会合	1	珍馐会意外遭到皇甫登云率军围攻，赛伊尹也临阵背叛，千钧一发之际，失踪已久的西庖、南闲现身来援，揭露了皇甫登云乃是不赦楼主的事实，你和珍馐会的成员们遵照四散人的命令，从包围中逃出。<br>前往武侯祠与众人会合，准备进攻皇甫登云所在的大本营，西川都司吧！	0	FALSE		139.482, 105.9529, -49.159	TRUE		2400	(Reputation,12)	601"
   translated: ""
@@ -987,7 +987,7 @@
     translated: "Go to the Temple of the Military Sage and meet everyone at the Delicacies Pavilion"
   - split: 3
     text: "珍馐会意外遭到皇甫登云率军围攻，赛伊尹也临阵背叛，千钧一发之际，失踪已久的西庖、南闲现身来援，揭露了皇甫登云乃是不赦楼主的事实，你和珍馐会的成员们遵照四散人的命令，从包围中逃出。<br>前往武侯祠与众人会合，准备进攻皇甫登云所在的大本营，西川都司吧！"
-    translated: "Chenxu unexpectedly came under siege by an army led by Huangfu Dengyun, and Sai Yi Yin also betrayed them at the critical moment. When all seemed lost, Xipo and Nan Xian, who had been missing for a long time, appeared to provide assistance. They revealed that Huangfu Dengyun was actually not forgivable Louzhu. Following Four Sanshen's orders, you and the members of Chenxu escaped from the encirclement<br>Head to the Temple of the Military Sage and meet up with everyone, preparing to attack the main base where Huo Pufeng is located at the Western River Command Post!"
+    translated: "The Chenzhou Meeting was unexpectedly besieged by an army led by Huangfu Dengyun. Sai Yi Yin also betrayed them at the critical moment, but Western Kitchen and Southern Leisure appeared to come to their aid after being missing for a long time. They revealed that Huangfu Dengyun was actually a wanted leader of the Nishan Tower. You and the members of Chenzhou Meeting followed the orders of Si Su Ren to escape from the siege<br>Proceed to the Temple of the Military Sage and meet up with everyone. Prepare to attack the main base where Huangfu Dengyun is located, at the Western River Command Post!"
 - lineNum: 99
   raw: "Q07004_02	进攻西川都司	1	万事俱备，是时候发起进攻了，挑选队友前往西川都司吧！	0	FALSE		0	TRUE		38400	(Reputation,192)	601"
   translated: ""
@@ -1057,17 +1057,17 @@
     translated: "Follow Kong Jin to escape the Holy Sanctuary"
   - split: 3
     text: "本以为马上就要回到温暖的家，谁知却又来到了一个未知的所在，这里究竟是什么地方呢？袭来的这些神秘黑衣人究竟是何来历？<br>就连河洛一族的东豪孔金也是毫无头绪，如今也只能先和孔金一同想办法摆脱追杀，逃出圣堂了。"
-    translated: "I thought I was about to return to the warmth of home, but instead found myself in an unknown place. What exactly is this place? Where do these mysterious men in black come from?<br>Even the Esteemed Kong Jin of the Heluo Clan is at a loss, and now can only first try to find a way with Kong Jin to escape from the pursuit and flee from the Holy Sanctuary"
+    translated: "I thought I would soon be back in the warm home, but instead found myself in an unknown place. What is this place? Where do these mysterious figures in black come from?<br>Even the Eastern Noble Kong Jin of the Heluo clan was clueless, and now they could only first try to escape the pursuit with Kong Jin and get out of the Holy Sanctuary"
 - lineNum: 106
   raw: "Q10002	寻访南闲	0	在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲，村中的客店应是获取情报的好去处。	0	FALSE	Q10002_01,Q10002_02,Q10002_03,Q10002_04,Q10002_05,Q10002_06,Q10002_07,Q10002_08,Q10002_09	0	TRUE		0		0"
   translated: ""
   splits:
   - split: 1
     text: "寻访南闲"
-    translated: "Seek out Nan Xian"
+    translated: "Search for Southern Leisure"
   - split: 3
     text: "在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲，村中的客店应是获取情报的好去处。"
-    translated: "Thanks to Kong Jin's selfless rescue, they managed to escape from the Holy Sanctuary in a dangerous situation. However, now they are alone and vulnerable with enemies lurking around them, so they must follow Kong Jin's previous plan and head to Arched Stone Village to seek out their fellow Hetu clan member, Nan Xian. The guesthouse in the village should be a good place to gather information"
+    translated: "Thanks to Kong Jin sacrificing himself to save her, she narrowly escaped the Holy Sanctuary. However, now isolated and with unknown enemies lurking, she must follow Kong Jin's plan and head to Arched Stone Village to find Southern Leisure, another member of the Heluo clan. The village inn is likely a good place to gather intelligence"
 - lineNum: 107
   raw: "Q10002_01	自古客栈多情报	1	在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。<br>也许…村中的客店是获取情报的好地方？	0	FALSE	0	-21.73922, 126.5547, -1006.148	TRUE		300	(Reputation,1)	1"
   translated: ""
@@ -1077,17 +1077,17 @@
     translated: "Guesthouses have always been places where secrets are exchanged"
   - split: 3
     text: "在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。<br>也许…村中的客店是获取情报的好地方？"
-    translated: "Thanks to Kong Jin's life-saving rescue, we managed to escape the Holy Sanctuary in a dangerous situation. However, now we are isolated and vulnerable, with enemies lurking around us. We can only follow Kong Jin's previous plan and head to Arched Stone Village to find South Xian, who is also from the Heluo tribe<br>Perhaps the inn in the village is a good place to gather information?"
+    translated: "With the help of Kong Jin, who risked his life to save me, I narrowly escaped the Holy Sanctuary. Now left alone and facing unknown enemies, I can only follow Kong Jin's previous plan and head to Arched Stone Village to find Southern Leisure, another member of the Heluo Clan<br>Perhaps... the inn in the village is a good place to gather information?"
 - lineNum: 108
   raw: "Q10002_02	酒债南闲	1	在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。<br>询问客店老板后得知南闲似乎因为拖欠了酒钱，被押到村长那里了。因此你得前往村长家，了解详细情况。	0	FALSE	0	27.59982, 131.1403, -1036.286	TRUE		300	(Reputation,1)	1"
   translated: ""
   splits:
   - split: 1
     text: "酒债南闲"
-    translated: "Alcohol debt to South Xian"
+    translated: "Drinking debt of Southern Leisure"
   - split: 3
     text: "在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。<br>询问客店老板后得知南闲似乎因为拖欠了酒钱，被押到村长那里了。因此你得前往村长家，了解详细情况。"
-    translated: "Thanks to Kong Jin's sacrificial rescue, we managed to escape from the Holy Sanctuary in a dangerous situation, but now I am alone and weak, and the enemy is unknown while we are known. The only option is to follow Kong Jin's previous plan and go to Arched Stone Village to find Nan Xian, who is also from the Heluo tribe<br>After asking the innkeeper, it was learned that Nan Xian seems to have been taken to the village chief due to unpaid drinking debts. Therefore, you need to go to the Village Chief's House to understand the details"
+    translated: "Thanks to Kong Jin's selfless rescue, they managed to narrowly escape from the Holy Sanctuary. However, now being alone and outnumbered, with enemies lurking everywhere, they could only follow Kong Jin's previous plan and head to Arched Stone Village to find Southern Leisure, another member of the Heluo clan<br>After asking the innkeeper, we learned that Southern Leisure apparently owes money for wine and was taken to the village chief's house. Therefore, you need to go to the village chief’s house to understand the details"
 - lineNum: 109
   raw: "Q10002_03	多事之村	1	在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。询问客店老板后得知南闲被押到村长那儿了。<br>然而与村长梅红绮交谈后才知道，原来南闲早已自行逃脱，如今拱石村正逢蛇患肆虐、内忧外患的多事之秋，梅村长也腾不出手来帮忙搜寻，如果能够解决拱石村的问题，说不定…。	0	FALSE	0	-153.7463, 89.38679, -1113.479	TRUE		1200	(Reputation,6)	1"
   translated: ""
@@ -1097,7 +1097,7 @@
     translated: "Hamlet of Numerous Affairs"
   - split: 3
     text: "在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。询问客店老板后得知南闲被押到村长那儿了。<br>然而与村长梅红绮交谈后才知道，原来南闲早已自行逃脱，如今拱石村正逢蛇患肆虐、内忧外患的多事之秋，梅村长也腾不出手来帮忙搜寻，如果能够解决拱石村的问题，说不定…。"
-    translated: "With the help of Kong Jin, who risked his life to rescue them, they managed to narrowly escape from the Holy Sanctuary. However, now that they are alone and outnumbered by enemies, they must follow Kong Jin's previous plan and head to Arched Stone Village to seek out Nan Xian, another member of the Heluo Clan. After inquiring with the innkeeper, they learned that Nan Xian had been taken to the village chief<br>However, after talking to Village Chief Mei Hongqi, it was only then that they learned South Xian had already escaped on his own. At present, Arched Stone Village is facing a snake infestation and numerous troubles both inside and outside during this difficult autumn season, so even Village Chief Mei does not have the time to help search for him. If you could solve the problems of Arched Stone Village, perhaps…"
+    translated: "Thanks to Kong Jin sacrificing himself for a rescue, we managed to escape the Holy Sanctuary in a harrowing fashion. However, now we are alone and vulnerable, with enemies hiding while we stand exposed. We can only follow Kong Jin's previous plan and head to Arched Stone Village to find Southern Leisure of the Heluo Clan. After asking the innkeeper, we learned that Southern Leisure has been taken to the Village Chief<br>However, after talking to Village Chief Mei Hongqi, I learned that Southern Leisure had already escaped on his own. At present, Arched Stone Village is facing a snake plague and numerous internal and external troubles during this troubled autumn. Even Village Chief Mei does not have the time to help search for him. If we could solve the problems of Arched Stone Village, perhaps…"
 - lineNum: 110
   raw: "Q10002_04	客店会合	1	在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。如今拱石村虽是依然内外交迫，不过蛇窟的问题总算是解决了，梅村长也已答应派人协寻，到客店休息静候佳音吧。	0	FALSE	0	-23.64747, 126.51, -1017.683	TRUE		300	(Reputation,1)	1"
   translated: ""
@@ -1107,7 +1107,7 @@
     translated: "Meeting at the Inn"
   - split: 3
     text: "在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。如今拱石村虽是依然内外交迫，不过蛇窟的问题总算是解决了，梅村长也已答应派人协寻，到客店休息静候佳音吧。"
-    translated: "Thanks to Kong Jin's selfless rescue, I managed to escape the Holy Sanctuary in a dangerous situation. However, now that I am alone and lacking support, with enemies lurking everywhere, I can only follow Kong Jin's previous plan and go to Arched Stone Village to find Nan Xian from the Heluo clan. It seems that Nan Xian has run away after being detained at the Village Chief's place for unpaid bar tabs. Although Arched Stone Village is still under threat both internally and externally, the snake den issue has been resolved. Melon the Village Chief also agreed to send someone to help search. Let's rest in an inn and wait for good news"
+    translated: "Thanks to Kong Jin's selfless rescue, we managed to escape the Holy Sanctuary in a dangerous situation. However, now that we are alone and vulnerable with enemies lurking around us, all we can do is follow Kong Jin's previous plan and go to Arched Stone Village to find Southern Leisure, who is also from the Heluo clan. It seems that Southern Leisure has fled after being detained for owing bar debts at the village chief's place. Although Arched Stone Village remains under siege both internally and externally, the snake den issue has been resolved, and Chief Mei has agreed to send people to assist in searching. Let's rest at the inn and wait for good news"
 - lineNum: 111
   raw: "Q10002_05	村口会合	1	在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。如今拱石村内外交迫，不过蛇窟的问题总算是解决了，梅村长派出的乡勇邀请你一同搜索徐暇客的下落，跟着乡勇前往集合处吧。	0	FALSE	0	-71.85171, 96.6785, -878.2244	TRUE		600	(Reputation,3)	51"
   translated: ""
@@ -1117,7 +1117,7 @@
     translated: "Meet at the village entrance"
   - split: 3
     text: "在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。如今拱石村内外交迫，不过蛇窟的问题总算是解决了，梅村长派出的乡勇邀请你一同搜索徐暇客的下落，跟着乡勇前往集合处吧。"
-    translated: "Thanks to Kong Jin's brave rescue, you managed to escape the Holy Sanctuary in a risky situation. However, now isolated and with enemies lurking everywhere, you must follow Kong Jin's plan and head to Arched Stone Village to find Nan Xian from the He Luo clan. It seems Nan Xian has fled after being detained by the village chief for unpaid tavern debts. The situation inside and outside of Arched Stone Village is becoming urgent; thankfully, the snake pit issue is resolved. The village chief's militia invites you to help search for Xu Xiake. Follow the militia to their meeting place"
+    translated: "Thanks to Kong Jin's selfless rescue, you managed to escape the Holy Sanctuary narrowly. However, now isolated and facing hidden enemies, you must follow Kong Jin's plan to seek Southern Leisure in Arched Stone Village, a fellow member of the Heluo clan. But it seems that Southern Leisure has fled after being taken to the Village Chief for unpaid tavern debts. The situation inside and outside Arched Stone Village is pressing, though the problem with the snake den is resolved. Chief Mei's village militia invites you to join them in searching for Xu Xiake's whereabouts. Follow the militia to the gathering point"
 - lineNum: 112
   raw: "Q10002_06	营救小青	1	在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。在协助解决了蛇窟的问题后，梅村长派出的乡勇邀请你一同搜索徐暇客的下落。<br>跟着乡勇前往集合处，却想不到乡勇之中竟混入了豹王寨的流寇，根据他们供出的情报，梅小青被他们绑到了后山山洞，村中乡勇不知还藏着多少内应，为免打草惊蛇，此刻当先前往后山山洞营救梅小青。	0	FALSE	0	-72.80767, 148.4037, -1182.694	TRUE		600	(Reputation,3)	81"
   translated: ""
@@ -1127,7 +1127,7 @@
     translated: "Rescue Xia Qing"
   - split: 3
     text: "在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。在协助解决了蛇窟的问题后，梅村长派出的乡勇邀请你一同搜索徐暇客的下落。<br>跟着乡勇前往集合处，却想不到乡勇之中竟混入了豹王寨的流寇，根据他们供出的情报，梅小青被他们绑到了后山山洞，村中乡勇不知还藏着多少内应，为免打草惊蛇，此刻当先前往后山山洞营救梅小青。"
-    translated: "Thanks to Kong Jin risking his life to rescue me, I managed to escape the Holy Sanctuary in a perilous situation. However, now alone and vulnerable with enemies lurking everywhere, I can only follow Kong Jin's previous plan and head to Arched Stone Village to find Nan Xian, who is also from the Heluo clan. But it seems that due to unpaid tavern bills, Nan Xian was taken by the village chief but had already escaped on his own. After helping resolve an issue in a snake den, Chief Mei of Mei Village sent out local militia inviting me to search for Xu Xiake's whereabouts<br>Following the local militia to the rendezvous point, they were surprised to find that bandits from Bao Wang Zhai had infiltrated their ranks. According to the information the bandits revealed under interrogation, Me Xia Qing was tied up in a mountain cave behind the village. There might be many inside informants among the local militia, and to avoid alerting them, they decided to head to the mountain cave first to rescue Me Xiao Qing"
+    translated: "With the help of Kong Jin, who risked his life to save you, you narrowly escaped from the Holy Sanctuary. However, now you are alone and outnumbered by enemies, so according to Kong Jin's previous plan, you must go to Arched Stone Village to find Southern Leisure, another member of the Heluo clan. It seems that Southern Leisure has run away on his own after being detained for owing drinking money at the village chief's place. After resolving the Snake Cave issue with the help of local militia sent by Mei Village Chief, they invite you to search together for Xu Xiake<br>Following the village militia to the rendezvous point, they were surprised to find that some bandits from Baowangzhai had infiltrated their ranks. According to information extracted from them, Mei Xiaoqing was taken hostage and held in a cave in the hills behind the village. As there might be more traitors within the militia, it was important not to alert them. Therefore, they decided to lead the way immediately to rescue Mei Xiaoqing from the cave"
 - lineNum: 113
   raw: "Q10002_07	村民大会	1	在孔金舍命相救下惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。在协助解决了蛇窟的问题后，却想不到梅村长派出的乡勇竟混入了豹王寨的流寇。<br>成功救回梅小青，村民大会将在拱石村村长屋子前的空地召开，立马赶回拱石村揭发梅星河吧！	0	FALSE	0	26.46116, 131.1238, -1035.645	TRUE		2400	(Reputation,12)	121"
   translated: ""
@@ -1137,7 +1137,7 @@
     translated: "Village Meeting"
   - split: 3
     text: "在孔金舍命相救下惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。在协助解决了蛇窟的问题后，却想不到梅村长派出的乡勇竟混入了豹王寨的流寇。<br>成功救回梅小青，村民大会将在拱石村村长屋子前的空地召开，立马赶回拱石村揭发梅星河吧！"
-    translated: "Kong Jin sacrificed his life to save him, narrowly escaping the Holy Sanctuary. However, now he is alone and weak against unknown enemies. He can only follow Kong Jin's previous plan and head to Arched Stone Village to find Nan Xian, another member of the Heluo clan. But it seems that Nan Xian has fled after being taken to the village chief for owing gambling debts. After helping solve the snake den issue, he did not expect that the militiamen sent by Mei, the village chief, had infiltrated the bandits in Leopard King Fortress<br>Successfully rescued Mei Xiaqing, the village meeting will be held in front of the Village Chief's House at Arched Stone Village. Hurry back to Arched Stone Village and expose Meixing He!"
+    translated: "In the midst of danger, Kong Jin risked his life to rescue them from the Holy Sanctuary. Now alone and without support, they must follow Kong Jin's previous plan to seek out Southern Leisure in Arched Stone Village, a member of the Heluo clan as well. However, it seems that Southern Leisure had fled after being detained by the village chief for unpaid bar tabs. Unbeknownst to them, after resolving the snake pit issue, Kong Jin did not anticipate that local militia dispatched by Mei Village Chief had infiltrated the bandits of Leopard King Fortress<br>Successfully rescued Mei Xiaqing, the village meeting will be held in the open space in front of the Village Chief's House in Arched Stone Village, so hurry back to Arched Stone Village to expose Meixinghe!"
 - lineNum: 114
   raw: "Q10002_08	前往漱玉矶	1	在孔金舍命相救下惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。在协助解决了蛇窟的问题后，却想不到梅村长派出的乡勇竟混入了豹王寨的流寇。<br>成功救回了梅小青，并且在村民大会中阻止了梅星河的阴谋后，小青表示南闲似乎已经前往漱玉矶，赶紧动身往漱玉矶找出南闲的下落吧！	0	FALSE	0	-406.3332, 70.08, -1069.906	TRUE		300	(Reputation,1)	1"
   translated: ""
@@ -1147,14 +1147,14 @@
     translated: "Go to Gleaming Jade Beach"
   - split: 3
     text: "在孔金舍命相救下惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。在协助解决了蛇窟的问题后，却想不到梅村长派出的乡勇竟混入了豹王寨的流寇。<br>成功救回了梅小青，并且在村民大会中阻止了梅星河的阴谋后，小青表示南闲似乎已经前往漱玉矶，赶紧动身往漱玉矶找出南闲的下落吧！"
-    translated: "In a dangerous escape from the Holy Sanctuary, thanks to Kong Jin's lifesaving effort, he now stands alone and vulnerable. Unknown enemies lurk around, forcing him to follow Kong Jin's plan to seek Nan Xian of Arched Stone Village, who belongs to the He Luo clan. However, it seems that Nan Xian has already escaped from the village chief after being detained for unpaid drinking money. Unbeknownst to them, the hired villagers dispatched by Mei Village Chief have infiltrated the outlaws of Leopard King Camp following their resolution of the snake den issue<br>After successfully rescuing Mei Xia Qing and thwarting Mei Xing He's conspiracy at the village meeting, Xiao Qing said that Nan Xian seemed to have gone to Shu Yu Ji. Hurry and set off for Shu Yu Ji to find out where Nan Xian is!"
+    translated: "Kong Jin saved him with his life, and he narrowly escaped from the Holy Sanctuary. Now alone and vulnerable, the enemy is secretive while they are not. He can only follow Kong Jin's previous plan to seek out Southern Leisure in Arched Stone Village, who is also a member of the Heluo tribe. However, it seems that Southern Leisure has already escaped after being taken by the village chief for owing drinking money. Unexpectedly, the local militia sent by Mei Village Chief has infiltrated the bandits at Leopard King Fort, following the resolution of the snake den problem<br>Successfully rescued Mei Xia Qing and thwarted Mei Xing He's plot at the village meeting, Xia Qing says Southern Leisure seems to have gone to Shu Yu Ji. Hurry to head for Shu Yu Ji to find out where Southern Leisure has gone!"
 - lineNum: 115
   raw: "Q10002_09	在漱玉矶中找出南闲的下落	1	???	0	FALSE	0	0	FALSE		300	(Reputation,1)	161"
   translated: ""
   splits:
   - split: 1
     text: "在漱玉矶中找出南闲的下落"
-    translated: "Find out where Nan Xian is at Gleaming Jade Beach"
+    translated: "Locate Southern Leisure's whereabouts at Gleaming Jade Beach"
   - split: 3
     text: "???"
     translated: "???"

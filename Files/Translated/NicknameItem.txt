@@ -948,7 +948,7 @@
   splits:
   - split: 1
     text: "东豪"
-    translated: "East Haohao"
+    translated: "Eastern Noble"
   - split: 2
     text: "使用霹雳雷火弹时有25%的机率攻击两次"
     translated: "When using the Thunderbolt Fireball Grenade, there is a 25% chance to attack twice"
@@ -958,7 +958,7 @@
   splits:
   - split: 1
     text: "南闲"
-    translated: "Nan Xian"
+    translated: "South Leisure"
   - split: 2
     text: "每回合开始时，额外随机回复自身精力2到8点"
     translated: "At the beginning of each round, randomly recover between 2 and 8 points of Qi"
@@ -968,7 +968,7 @@
   splits:
   - split: 1
     text: "西庖"
-    translated: "Xi Pao"
+    translated: "Western Kitchen"
   - split: 2
     text: "攻击时50%伤害转换为自身气血"
     translated: "During an attack, convert 50% of the damage dealt into self Qi"
@@ -978,7 +978,7 @@
   splits:
   - split: 1
     text: "北丑"
-    translated: "Bei Chou"
+    translated: "Western Kitchen"
   - split: 2
     text: "触发连击时攻击力增加100%，持续一回合"
     translated: "When triggering a combo, attack power increases by 100% for one round"

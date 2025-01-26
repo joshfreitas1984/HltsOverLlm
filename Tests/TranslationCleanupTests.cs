@@ -18,11 +18,12 @@ public class TranslationCleanupTests
         var manual = TranslationService.GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
-            //"圣堂",
-            //"迦罗",
-            //"以娟",
+            //"南贤",
+            //"南闲",
+            //"东豪",
             //"北丑",
-            //"汪治枣",                   
+            //"西庖",
+            //"阿巧",
         };
 
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
@@ -42,7 +43,7 @@ public class TranslationCleanupTests
                         if (split.Translated != value)
                         {
                             Console.WriteLine($"Manually Translated {textFileToTranslate.Path} \n{split.Text}\n{split.Translated}");
-                            split.Translated = LineValidation.CleanupLineBeforeSaving(LineValidation.PrepareResult(value), split.Text);
+                            split.Translated = LineValidation.CleanupLineBeforeSaving(LineValidation.PrepareResult(value), split.Text, outputFile);
                             recordsModded++;
                         }
                         continue;
@@ -68,7 +69,16 @@ public class TranslationCleanupTests
                         split.Translated = split.Translated.Trim();
                         recordsModded++;
                         //Don't continue we still want other stuff to happen
-                    }                   
+                    }
+
+                    //Add . back in
+                    if (outputFile == "NpcTalkItem.txt" && char.IsLetter(outputFile[^1]))
+                    {
+                        Console.WriteLine($"Needed full stop:{textFileToTranslate.Path} \n{split.Translated}");
+                        split.Translated += '.';
+                        recordsModded++;
+                        //Don't continue we still want other stuff to happen
+                    }
 
                     foreach (var glossary in newGlossaryStrings)
                         if (split.Text.Contains(glossary))
@@ -80,7 +90,7 @@ public class TranslationCleanupTests
                         }                   
 
                     // Clean up Diacritics
-                    var cleanedUp = LineValidation.CleanupLineBeforeSaving(split.Translated, split.Text);
+                    var cleanedUp = LineValidation.CleanupLineBeforeSaving(split.Translated, split.Text, outputFile);
                     if (cleanedUp != split.Translated)
                     {
                         Console.WriteLine($"Cleaned up {textFileToTranslate.Path} \n{split.Translated}\n{cleanedUp}");
@@ -287,7 +297,7 @@ public class TranslationCleanupTests
             // Process the batch in parallel
             await Task.WhenAll(batch.Select(async line =>
             {
-                var result = await TranslationService.TranslateSplitAsync(config, line, client);
+                var result = await TranslationService.TranslateSplitAsync(config, line, client, string.Empty);
                 results.Add($"{{ \"{line}\", \"{result}\" }}, ");
                 recordsProcessed++;
             }));

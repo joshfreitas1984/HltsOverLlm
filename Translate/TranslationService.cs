@@ -315,7 +315,7 @@ public static class TranslationService
                             if (useTranslationCache && cacheHit)
                                 split.Translated = translationCache[split.Text];
                             else
-                                split.Translated = await TranslateSplitAsync(config, split.Text, client);
+                                split.Translated = await TranslateSplitAsync(config, split.Text, client, outputFile);
 
                             recordsProcessed++;
                             bufferedRecords++;
@@ -434,7 +434,7 @@ public static class TranslationService
         }
     }
 
-    public static async Task<(bool split, string result)> SplitIfNeeded(string testString, LlmConfig config, string raw, HttpClient client)
+    public static async Task<(bool split, string result)> SplitIfNeeded(string testString, LlmConfig config, string raw, HttpClient client, string outputFile)
     {
         if (raw.Contains(testString))
         {
@@ -443,7 +443,7 @@ public static class TranslationService
 
             foreach (var split in splits)
             {
-                var trans = await TranslateSplitAsync(config, split, client);
+                var trans = await TranslateSplitAsync(config, split, client, outputFile);
 
                 // If one fails we have to kill the lot
                 if (string.IsNullOrEmpty(trans))
@@ -461,7 +461,7 @@ public static class TranslationService
         return (false, string.Empty);
     }
 
-    public static async Task<string> TranslateSplitAsync(LlmConfig config, string? raw, HttpClient client)
+    public static async Task<string> TranslateSplitAsync(LlmConfig config, string? raw, HttpClient client, string outputFile)
     {
         if (string.IsNullOrEmpty(raw))
             return string.Empty;
@@ -477,7 +477,7 @@ public static class TranslationService
         var testStrings = new string[] { ":", "：", "<br>" };
         foreach (var testString in testStrings)
         {
-            var (split, result) = await SplitIfNeeded(testString, config, raw, client);
+            var (split, result) = await SplitIfNeeded(testString, config, raw, client, outputFile);
 
             // Because its recursive we want to bail out on the first successful one
             if (split)
@@ -546,7 +546,7 @@ public static class TranslationService
                 retryCount++;
             }
 
-            return translationValid ? LineValidation.CleanupLineBeforeSaving(preparedResult, raw) : string.Empty;
+            return translationValid ? LineValidation.CleanupLineBeforeSaving(preparedResult, raw, outputFile) : string.Empty;
         }
         catch (HttpRequestException e)
         {
