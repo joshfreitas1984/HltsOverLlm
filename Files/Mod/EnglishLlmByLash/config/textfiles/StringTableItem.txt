@@ -822,8 +822,8 @@ UIQuenchAfterTitle	Effects after tempering
 UIQuenchFinalTitle	Tempering successful
 UIQuenchFinalBuff	Additional effects
 UIQuenchHoleCountTitle	How many holes can it temper?
-UIQuenchHoleCount1	{0}-{1} people
-UIQuenchHoleCount2	{0} items
+UIQuenchHoleCount1	{0}-{1}x
+UIQuenchHoleCount2	{0}x
 UIQuenchCosts	Tempering cost:
 UIQuenchDialog1	The cost for tempering is {0} wen. You do not have enough money
 #修理界面	

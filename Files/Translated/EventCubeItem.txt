@@ -6644,7 +6644,7 @@
   splits:
   - split: 1
     text: "豹王寨梅星河卢小"
-    translated: "Leopard King Camp Mei Xinghe Lu Xiao"
+    translated: "Mei Xinghe from Leopard King Camp and Lu Xiaomei"
     flaggedForRetranslation: false
 - lineNum: 831
   raw: "m20115	将豹王寨矿坑工人转回原位	EventBox		None	-468.07, 216.64, -1523.4	1, 1, 1	8.957364, 5.615223, 1	0, 305.8843, 0	True	0		0	{ \"MultiAction\" : [ { \"ObjectTransformAction\" : 0, \"n20542\", 0.00000, 1, False, { 0.00000, 94.98506, 0.00000} } , { \"ObjectTransformAction\" : 0, \"n20543\", 0.00000, 1, False, { 0.00000, 259.92210, 0.00000} } , { \"ObjectTransformAction\" : 0, \"n20544\", 0.00000, 1, False, { 0.00000, 77.14672, 0.00000} } , { \"ObjectTransformAction\" : 0, \"n20545\", 0.00000, 1, False, { 0.00000, 307.76150, 0.00000} } , { \"ObjectTransformAction\" : 0, \"n20546\", 0.00000, 1, False, { 0.00000, 196.35760, 0.00000} }  ]} 	0"

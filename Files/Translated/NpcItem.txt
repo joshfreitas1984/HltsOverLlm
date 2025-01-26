@@ -7396,7 +7396,7 @@
   splits:
   - split: 1
     text: "梅星河"
-    translated: "Mei Xinghe"
+    translated: "Lan Xinghe"
     flaggedForRetranslation: false
 - lineNum: 925
   raw: "n20003b	梅星河	m_sleep_dead001_ec	n60231	0, 0, 0	0		FALSE	FALSE	n20003b01000	v00002b				1		1	n20009					{ \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f2殺梅星河b\", True}  ], 0} 	0"

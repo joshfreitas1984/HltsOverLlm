@@ -3836,7 +3836,7 @@
     flaggedForRetranslation: false
   - split: 3
     text: "梅村长赠与，据说能开启祖传秘盒的特殊钥匙。"
-    translated: "Mei Village Chief gifted a special key that is said to open the ancestral secret box"
+    translated: "According to Village Chief Mei, he has given a special key that is said to unlock an ancestral treasure chest"
     flaggedForRetranslation: false
 - lineNum: 320
   raw: "it801009	梅家祖传秘盒	it801009	从玛尼堆中取出的秘盒，必须要用梅村长给予的钥匙才能打开，不知道里面有些什么东西？	801	0	0	FALSE	3	50	0	0	0		1			{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6024601005\"} ]}"
@@ -3848,7 +3848,7 @@
     flaggedForRetranslation: false
   - split: 3
     text: "从玛尼堆中取出的秘盒，必须要用梅村长给予的钥匙才能打开，不知道里面有些什么东西？"
-    translated: "The secret box taken from the Mani pile must be opened with the key given by Mei Village Chief, but it's unknown what's inside"
+    translated: "The lockbox taken from the Mandala pile can only be opened with the key given by Village Chief Mei. What's inside it is unknown"
     flaggedForRetranslation: false
 - lineNum: 321
   raw: "it801010	手工饭团	it801010	凌霜峻亲手制作的爱心饭团，赶快送到张君宝手上吧。	801	0	0	FALSE	0	50	0	0	0		0			0"

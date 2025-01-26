@@ -155,13 +155,14 @@ public class TranslationCleanupTests
     {
         var config = Configuration.GetConfiguration(workingDirectory);
         var pattern = LineValidation.ChineseCharPattern;
-        bool resetFlag = true;
+        bool resetFlag = false;
 
         var manual = GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
-            "梅星河",
-            "梅村长",
+            //"梅星河",
+            //"梅村长",
+            "梅红绮"
         };
 
 
@@ -240,7 +241,7 @@ public class TranslationCleanupTests
                         if (split.Text.Contains(glossary))
                         {
                             Console.WriteLine($"New Glossary {textFileToTranslate.Path} Replaces: \n{split.Translated}");
-                            split.FlaggedForRetranslation = false;
+                            split.FlaggedForRetranslation = true;
                             recordsModded++;
                             continue;
                         }
