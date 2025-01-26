@@ -21,8 +21,8 @@ nick010a	Lan Hui Jie Yu	When Yan Yushu is on the field, all teammates' attack po
 nick010aP	Ghostly Fragrance	When Yan Yushu is on the field, all teammates' attack power increases by 50%, and their damage reduction is 10%		n09999a	nick010aP
 nick010b	Lan Hui Jie Yu	When Yan Yushu is on the field, all teammates' attack power increases by 50%		n09999b	nick010b
 nick010bP	Mint Words and Orchid Feelings	When Yan Yushu is on the field, all teammates' attack power increases by 50%, and damage taken decreases by 10%		n09999b	nick010bP
-nick011	Thousand Golds of the Ma Gang	Every time you are hit, the critical strike rate accumulates an additional 10%, and the critical hit damage increases by 50%		n20049	nick011
-nick011P	Leader of the Ma Gang	Every time you are hit, the critical strike rate increases by 20%, and the critical hit damage is increased by 80%		n20049	nick011P
+nick011	Thousand Gold Daughters of the Horse Gang	Every time you are hit, the critical strike rate accumulates an additional 10%, and the critical hit damage increases by 50%		n20049	nick011
+nick011P	Horse Gang Leader	Every time you are hit, the critical strike rate increases by 20%, and the critical hit damage is increased by 80%		n20049	nick011P
 nick012	Spring breeze in October	There is a chance to dodge an enemy's attack; the higher your qinggong, the higher your dodging rate		n60005	nick012
 nick012P	Great Elder Brother	Higher one's qi-enhanced agility, the higher their evasive ability; when executing a back attack, an additional 15 points of disorientation is inflicted on the target		n60005	nick012P
 nick013	Dian Cang Xianzi	Double-sword or double-short-weapon techniques increase damage by 30%		n60040	nick013
@@ -54,11 +54,11 @@ nick026P	Plum Blossom Ground	Each time a technique is used, there is a 35% chanc
 nick027	Silver Hook Lustrous Colors	During the battle, Pomo Xue joined the fight		n60560	nick027
 nick027P	Illusory reflections	During combat, when Po Mo Xue joins the fray, his chances of feigning and releasing energy each turn increase by 10%		n60560	nick027P
 nick028	Heavenly Meteor, Solitary Star	If there are no allies, damage and defense increase by 50%, remove negative status effects for 12 points per round, recover 1 energy point with each attack, and restore 15% of life and internal power every 3 attacks		Player	nick028
-nick029	Bladesman	All blade skills power +70%		Player	nick029
-nick030	Blade Madman	All blade skills power +40%		Player	nick030
-nick031	Surging waves of turmoil	Shockwave Blade Technique and Torrential Fury Supreme Swordsmanship Damage Increase +30%		Player	nick031
-nick032	Five Tiger Severance Sword	Five Tiger's Split Gate Blade Technique Power +30%		Player	nick032
-nick033	Si Xiang Dao	Four Symbols Swordsmanship Power +30%		Player	nick033
+nick029	Bladesman	All blade arts power +70%		Player	nick029
+nick030	Blade Madman	All blade arts power +40%		Player	nick030
+nick031	Surging waves of turmoil	Jingbo Sword Style and Kuanglan Ultimate Blade Artistry increase power by 30%		Player	nick031
+nick032	Five Tiger Severance Sword	Five Tiger Severing Gate Sword Arts power +30%		Player	nick032
+nick033	Si Xiang Dao	Si Xiang Dao daofa weili +30%		Player	nick033
 nick034	San Cai Dao	Three Talents Swordsmanship Power +30%		Player	nick034
 nick035	Villager	Flower Fist and Embroidered Leg techniques increase power by 50%		Player	nick035
 nick036	Elite Villagers	Flower Fists and Embroidered Kicks power increased by 100%		Player	nick036
@@ -71,7 +71,7 @@ nick042	Reborn Mad Swordsman	When attacking the target from the front, there is 
 nick043	After the fact	Physical Constitution increases by 10 points; and each time the character's negative status value increases, the increment is reduced by 30%	(Physique,10)	Player	nick043
 nick044	Wulin insiders	Your martial arts power increases as your level grows		Player	nick044
 nick045	Having nothing but one's wits	When collecting medicinal herbs and ores, there is a 40% chance to obtain double the amount, but the money earned will be reduced by 20%		Player	nick045
-nick046	Helaodaxia	Your offensive and defensive skills will improve as your reputation in the Jianghu increases		Player	nick046
+nick046	Heluo Great Heros	Your offensive and defensive skills will improve as your reputation in the Jianghu increases		Player	nick046
 nick080	True Weakling Hero	Well, you are indeed the sissy hero as expected		Player	
 nick081	Yulong Zhanshen	When equipped with the Jade Dragon Divine Spear, spear technique power increases by 25%		Player	
 nick082	Thief King Supreme	When equipped with the Jade Dragon Divine Spear, spear techniques power increases by 25%		Player	
@@ -86,7 +86,7 @@ nick110	Master	Upon unleashing a critical strike, eliminate all negative states 
 nick101	There is strength in unity	Each turn, increase dodge rate by 2%, with a maximum of 20%		n90425,n90425b	nick101
 nick102	Green Village Miao Women	Within a 2 unit radius of He Baishe, enemy troops accumulate 12 points of poison and 6 points of confusion each round		n51009,n51009b	nick102
 nick104	Nanzhao Soldier	Duan Silang increases his critical hit rate by an additional 5% at the start of each round for every allied unit within a 10-unit radius		n90402	nick104
-nick105	Ancient and Noble Family	Within a range of 5 units from Dong Jialuo, reduce the critical hit rate of enemy forces by 15% at the start of each round		n90403	nick105
+nick105	Ancient and Noble Family	Within a 5-unit radius around Dong Jialuo, reduce the critical hit rate of enemy forces by 15% at the start of each round		n90403	nick105
 nick106	Successor to the Headman	At the start of each turn, restore 15% of Life to allies within a 2-unit range; increase critical hit rate by 15%		n50048	nick106
 nick107	Forest Clan Warlord	When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares		n50065,n50065b	nick107
 nick108	Three Heroic Generals	Within a 2-unit distance around oneself, for each enemy present, an additional 1 point of energy is restored when the self executes a critical hit		n50073a,n50073a2	nick108
@@ -94,9 +94,9 @@ nick111	Unrivaled in the world	The second trait has a special title. When the he
 nick112	Follow one's heart	The Xinliang Daoist has its own title, with a 25% increase in counterattack rate and force reduction rate per turn		n70045	nick112
 nick114	Executioner	When attacking, each accumulated point of poison on the target increases damage by 1%		n00102	nick114
 nick115	East Haohao	When using the Thunderbolt Fireball Grenade, there is a 25% chance to attack twice		n90201	nick115
-nick116	South Leisure	At the beginning of each round, randomly recover between 2 and 8 points of Qi		n20230	nick116
-nick117	Western Kitchen	During an attack, convert 50% of the damage dealt into self Qi		n07006	nick117
-nick118	Beiqu	When triggering a combo, attack power increases by 100% for one round		n07007	nick118
+nick116	Nan Xian	At the beginning of each round, randomly recover between 2 and 8 points of Qi		n20230	nick116
+nick117	Xi Pao	During an attack, convert 50% of the damage dealt into self Qi		n07006	nick117
+nick118	Bei Chou	When triggering a combo, attack power increases by 100% for one round		n07007	nick118
 nick119	Wuxia Shortcomings	Wuxia Shortcomings			nick119
 nick120	Wuxia barrier (stillness)	Wuxia barrier (stillness)			nick120
 nick121	Wuxia Barrier (Soft)	Wuxia Barrier (Soft)			nick121
@@ -186,11 +186,11 @@ nick542	Chexi	Snow Shadow can inflict high damage with an external injury effect
 nick543	King of Venom	Each time Gigantum attacks, it does so with deadly poison while also being able to evade enemy attacks during combat		n59008,n59008_001,n59008_002,n59008_003,n59008_004,n59008_005	nick543
 nick544	Legendary Beast King	The Beast King Jinzong, unmatched in the world; no one can rival him		n59009,n59009_a01,n59009_a02,n59009_a03,n59009_a04,n59009_a05	nick544
 nick600	Beikexia	The name of the Northern Wuxia is formidable across the Central Plains. The power of fist and sword, as well as bow and arrow, increases by 25%, and there is a 50% chance to inflict damage on an enemy twice		n80416,Player	nick600
-nick601	Snow Wolf Flying Fox	Snowy Mountain Wuxia, unmatched in blade skills; blade skill damage increased by 30%, and all damage abilities carry an external injury effect		n80417,Player	nick601
+nick601	Snow Wolf Flying Fox	Snow Mountain Wuxia, unmatched swordsmanship; swordsmanship power increased by 30%, all damage skills will have external injury effects		n80417,Player	nick601
 nick602	Old Poisoner	Swordsmanship Sage, King of Poison, all skills increase in power by 30%, and every blow carries deadly poison		n80419,Player	nick602
-nick603	Swordsmen Who Are Laughing at the World	Your swordsmanship power increases further with your advancement in sword techniques, and during combat, there is a 20% chance to avoid damage		n80420,Player	nick603
+nick603	Swordsmen Who Are Laughing at the World	Your swordsmanship power increases additionally with the rise of your martial arts level, and there is a 20% chance to dodge damage in battle		n80420,Player	nick603
 nick604	Transcendently Versatile	Your innate talent and intelligence allow you to gain more experience points in battle, and there is a 25% chance for you to dodge damage during combat	(Intelligence,10)	n80421,Player	nick604
-nick605	Western Madman	As the value increases, martial arts power becomes stronger, and swordsmanship power increases by 30%		n80422,Player	nick605
+nick605	Western Madman	As the craziness value increases, martial arts power becomes stronger, and the effectiveness of swordsmanship increases by 30%		n80422,Player	nick605
 nick606	Teleportation with a Snap of Fingers	Stealth weapons damage increased by 40%, with a 30% chance to dodge attacks during combat		n80423,Player	nick606
 nick607	Compassion in one's heart	All skills' power increases by 40%, and the higher the morality, the stronger the skill's power		n80424,Player	nick607
 nick608	Descending Dragon Divine Palm	Power of fists and palms increased by 40%, all damage skills have internal injury effects		n80425,Player	nick608

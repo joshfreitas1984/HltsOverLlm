@@ -14,80 +14,80 @@
   splits:
   - split: 1
     text: "搏击+1"
-    translated: "Combat Skill +1"
+    translated: "Hand Combat +1"
   - split: 2
     text: "搏击+1"
-    translated: "Combat Skill +1"
+    translated: "Hand Combat +1"
 - lineNum: 2
   raw: "SkillTree000_002	搏击+1	搏击+1	200	skillIcon018_1	null	PropertyAdd	(Fight,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(Intelligence,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)(ZOC,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)	0		0	0	Teammate			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击+1"
-    translated: "Combat +1"
+    translated: "Hand Combat +1"
   - split: 2
     text: "搏击+1"
-    translated: "Combat Skill +1"
+    translated: "Hand Combat +1"
 - lineNum: 3
   raw: "SkillTree000_003	搏击修为	搏击+1	800	skillIcon018_1	[]	PropertyAdd	(Fight,2)(Neigong,2)	0		0	0	Teammate			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: "搏击+1"
-    translated: "Combat Skill +1"
+    translated: "Hand Combat +1"
 - lineNum: 4
   raw: "SkillTree000_004	搏击修为	搏击+2	3200	skillIcon018_1	[]	PropertyAdd	(Fight,4)(Neigong,4)	0		0	0	Teammate			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Proficiency"
   - split: 2
     text: "搏击+2"
-    translated: "Combat Skill +2"
+    translated: "Hand Combat +2"
 - lineNum: 5
   raw: "SkillTree000_005	搏击+1	搏击+1	3200	skillIcon018_1	null	PropertyAdd	(Fight,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(Intelligence,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)(ZOC,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)	0		0	0	Teammate			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击+1"
-    translated: "Unarmed Combat +1"
+    translated: "Hand Combat +1"
   - split: 2
     text: "搏击+1"
-    translated: "Combat Skill +1"
+    translated: "Hand Combat +1"
 - lineNum: 6
   raw: "SkillTree000_006	搏击+1	搏击+1	6400	skillIcon018_1	null	PropertyAdd	(Fight,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(Intelligence,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)(ZOC,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)	0		0	0	Teammate			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击+1"
-    translated: "Fighting Skill +1"
+    translated: "Hand Combat +1"
   - split: 2
     text: "搏击+1"
-    translated: "Combat Skill +1"
+    translated: "Hand Combat +1"
 - lineNum: 7
   raw: "SkillTree000_007	搏击修为	搏击+3	12800	skillIcon018_1	[]	PropertyAdd	(Fight,6)(Neigong,6)	0		0	0	Teammate			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Mastery"
+    translated: "Hand-to-hand combat skills"
   - split: 2
     text: "搏击+3"
-    translated: "Combative Arts +3"
+    translated: "Hand Combat +3"
 - lineNum: 8
   raw: "SkillTree000_008	搏击修为	搏击+4	51200	skillIcon018_1	null	PropertyAdd	(Fight,8)(Neigong,8)	0		0	0	Teammate			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Proficiency"
+    translated: "Hand Combat Cultivation"
   - split: 2
     text: "搏击+4"
-    translated: "Combat +4"
+    translated: "Hand Combat +4"
 - lineNum: 9
   raw: "SkillTree000_009	野球拳奥义	自身圆形范围3格，中招者散功值+20。	409600	skillIcon008_2	null	Active		0		6	230	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0	buffSkillTree000_009	FALSE	360	None	0	0	"
   translated: ""
@@ -164,7 +164,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -174,7 +174,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skills Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -184,7 +184,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skills Cultivation"
+    translated: "Blade arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -214,7 +214,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Proficiency"
   - split: 2
     text: ""
     translated: ""
@@ -224,7 +224,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Proficiency"
   - split: 2
     text: ""
     translated: ""
@@ -234,7 +234,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -264,7 +264,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -274,7 +274,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -304,7 +304,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -517,7 +517,7 @@
     translated: "Bagua Palm"
   - split: 2
     text: "需求武学「搏击45」，需求感悟「动：以快打慢」。出招前移动距离越长，伤害越高（每格提升3%伤害）。"
-    translated: "Require martial art Fighting 45, require insight Dong：Attack the slow, attack the fast. The damage increases by 3% for every unit of movement distance before making an attack"
+    translated: "Need martial arts 'Pojie 45', need insight 'Dong'：Attack quickly after moving slowly. The longer the distance moved before attacking, the higher the damage (damage increases by 3% per square)"
 - lineNum: 52
   raw: "SkillTree005_001	九宫八卦掌	需求武学「搏击45」，需求感悟「巧：？？？？」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。	2400	SkillNode04	null	Active		0	skill_wp0a008	4	160	Enemy	single : { 0, 0, 0 }, 0, 1.25		Target	0	buffSkillTree005_001	FALSE	208	Fight	0	0	"
   translated: ""
@@ -527,14 +527,14 @@
     translated: "Bagua Palm"
   - split: 2
     text: "需求武学「搏击45」，需求感悟「巧：？？？？」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。"
-    translated: "Requirement in martial arts 'Fighting 45', requires insight 'Clever'：? ??? ?! Once this move is deployed, the one using it will definitely maneuver around to the target enemy's right side before attacking"
+    translated: "Requirement: martial art Hand Combat 45, Requirement: insight Crafty：Upon executing this technique, the one who performs it will inevitably maneuver around to the right side of their target before attacking again"
 - lineNum: 53
   raw: "SkillTree005_002	搏击、轻功修为		3000	SkillNode01	null	PropertyAdd	(Fight,3)(Qinggong,2)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Intelligence,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)(ZOC,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combative skills, and training in qinggong"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -544,7 +544,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combat Skills, Martial Arts Proficiency"
+    translated: "Hand Combat, Qinggong Mastery"
   - split: 2
     text: ""
     translated: ""
@@ -557,7 +557,7 @@
     translated: "Eight Trigrams Serpent"
   - split: 2
     text: "需求武学「搏击45」，需求感悟「动：以快打慢」。出招前移动距离越长，伤害越高（每格提升3%伤害）。"
-    translated: "Need martial skill Combat 45, need to understand the insight motion：Attack fast, dodge slow. The longer the distance moved before attacking, the higher the damage (damage increases by 3% per tile)"
+    translated: "Need martial art skill Hand Combat 45, need to understand the concept of movement：Attack slowly, but strike fast. The longer the movement before an attack, the higher the damage (increases by 3% per grid)"
 - lineNum: 56
   raw: "SkillTree005_005	八卦游身	需求武学「搏击45」，需求感悟「巧：指东打西」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。	1200	SkillNode01	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree005_005	FALSE	0	None	0	0	"
   translated: ""
@@ -567,14 +567,14 @@
     translated: "Eight Trigrams Body"
   - split: 2
     text: "需求武学「搏击45」，需求感悟「巧：指东打西」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。"
-    translated: "Requirement for martial art Combat 45, requirement for insight Cleverness：Point East and Hit West. Once this technique is deployed, the user will inevitably circle around to their target's right side before launching an attack"
+    translated: "Require martial art Hand Combat 45, require insight Clever：Point east, strike west. Once this technique is executed, the user must necessarily move to the right side of the target opponent before attacking again"
 - lineNum: 57
   raw: "SkillTree005_006	搏击、轻功修为		3000	SkillNode01	null	PropertyAdd	(Fight,3)(Qinggong,2)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Intelligence,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)(ZOC,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Pugilism, Qinggong training"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -584,7 +584,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Wrestling, Qinggong training"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -594,7 +594,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combat Skills, Qinggong Training"
+    translated: "Hand combat, qi cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -667,14 +667,14 @@
     translated: "Thousands of threads"
   - split: 2
     text: "需求武学「剑法」。持续技，范围内的敌方，每经过一个时序都会受到些微伤害。持续三回合。"
-    translated: "Requires the martial art Swordsmanship. A continuous skill that deals minor damage to enemy targets within range at each interval. Lasts for three turns"
+    translated: "Need the martial skill Sword Arts. Continuous ability, within range of enemies, will take minor damage each sequence. Lasts for three turns"
 - lineNum: 67
   raw: "SkillTree007_001	剑法修为		3000	SkillNode01	null	PropertyAdd	(Sword,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(Intelligence,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)(ZOC,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -704,7 +704,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -714,7 +714,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -734,7 +734,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -754,7 +754,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -784,7 +784,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -794,7 +794,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -824,7 +824,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -834,7 +834,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -854,7 +854,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1014,7 +1014,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1044,7 +1044,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1054,7 +1054,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1074,7 +1074,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1094,7 +1094,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1124,7 +1124,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1144,7 +1144,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1154,7 +1154,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1184,7 +1184,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1194,7 +1194,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1214,7 +1214,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1227,7 +1227,7 @@
     translated: "Plentiful as the peach and plum trees across the river"
   - split: 2
     text: "若学会至少二种剑法，晕眩值、迷惑值额外+2"
-    translated: "If you master at least two swordsmanship styles, the dizzy and confusion values are each additionally increased by 2"
+    translated: "If one learns at least two sword techniques, dizzy and confused values are each additionally +2"
 - lineNum: 123
   raw: "SkillTree014_003	花团锦簇	若学会至少三种剑法，晕眩值、迷惑值额外+2	11000	SkillTree014	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree014_003	FALSE	0	None	0	0	SkillTree014_000"
   translated: ""
@@ -1237,7 +1237,7 @@
     translated: "Flourishing in abundance"
   - split: 2
     text: "若学会至少三种剑法，晕眩值、迷惑值额外+2"
-    translated: "If you learn at least three swordsmanship styles, the dizzy value and confusion value will each increase by an additional 2"
+    translated: "If you master at least three sword techniques, the dizzy and confusion values increase by an additional 2"
 - lineNum: 124
   raw: "SkillTree014_004	柳絮纷飞	若学会至少四种剑法，晕眩值、迷惑值额外+2	16000	SkillTree014	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree014_004	FALSE	0	None	0	0	SkillTree014_000"
   translated: ""
@@ -1247,14 +1247,14 @@
     translated: "Willow catkins fluttering"
   - split: 2
     text: "若学会至少四种剑法，晕眩值、迷惑值额外+2"
-    translated: "If you learn at least four sword techniques, the values for dizziness and confusion will each increase by an additional 2"
+    translated: "If you master at least four sword techniques, the dizziness and confusion values will increase by an additional 2"
 - lineNum: 125
   raw: "SkillTree014_005	剑法修为		5000	skillIcon019_1	null	PropertyAdd	(Sword,5)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1264,7 +1264,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1274,7 +1274,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1287,14 +1287,14 @@
     translated: "Scattered flowers in a burst"
   - split: 2
     text: "若学会至少五种剑法，晕眩值、迷惑值额外+2"
-    translated: "If you master at least five sword techniques, the dizziness and confusion values increase by an additional +2"
+    translated: "If you learn at least five sword techniques, the dizzy and confused values will additionally increase by 2"
 - lineNum: 129
   raw: "SkillTree014_009	剑法修为		5000	skillIcon019_1	null	PropertyAdd	(Sword,5)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1314,7 +1314,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1324,7 +1324,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1344,7 +1344,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1354,7 +1354,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1374,7 +1374,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1384,7 +1384,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -1404,7 +1404,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combat Skills, Qinggong Proficiency"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -1414,7 +1414,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combat skills, lightness cultivation"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -1464,7 +1464,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combat Skills, Acrobatic Training"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -1484,7 +1484,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Fighting, Qinggong cultivation"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -1524,7 +1524,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1534,7 +1534,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1564,7 +1564,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1574,7 +1574,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1624,7 +1624,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1914,7 +1914,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1954,7 +1954,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1964,7 +1964,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -1974,7 +1974,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2024,7 +2024,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2034,7 +2034,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2044,7 +2044,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2054,7 +2054,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2064,7 +2064,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2074,7 +2074,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2324,7 +2324,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -2334,7 +2334,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -2584,7 +2584,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2604,7 +2604,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2644,7 +2644,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2654,7 +2654,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2664,7 +2664,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -2934,7 +2934,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -2944,7 +2944,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -3034,7 +3034,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -3044,7 +3044,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -3134,7 +3134,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -3144,7 +3144,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -3614,7 +3614,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -3634,7 +3634,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -3644,7 +3644,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -3654,7 +3654,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -3684,7 +3684,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -3694,7 +3694,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -3927,7 +3927,7 @@
     translated: "Try my Thunderbolt!"
   - split: 2
     text: "孔金专属招式。"
-    translated: "Conan's exclusive technique"
+    translated: "Special move exclusive to Kong Jin"
 - lineNum: 393
   raw: "SkillTree050_001	孔八拉	孔金专属招式。	6000	SkillNode01	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree050_001	FALSE	0	None	0	0	"
   translated: ""
@@ -3937,7 +3937,7 @@
     translated: "Cong Ba La"
   - split: 2
     text: "孔金专属招式。"
-    translated: "Special Technique exclusive to Kong Jin"
+    translated: "Special move exclusive to Kong Jin"
 - lineNum: 394
   raw: "SkillTree051_000	凌波微步	施展凌波微步后，5回合内增加闪避率6%	12000	SkillTree051_000	[{\"Type\":1,\"Value1\":\"310\",\"Value2\":\"70\",\"Operator\":0}]	Active		0	skill_sprint007	4	80	Myself	single : { 0, 0, 0 }, 0, 1		Target	0	buffSkillTree051_000	FALSE	0	None	0	SkillTree051_000	"
   translated: ""
@@ -4134,40 +4134,40 @@
   splits:
   - split: 1
     text: "搏击、内功修为"
-    translated: "Combat, Internal Cultivation"
+    translated: "Hand Combat, Neigong Cultivation"
   - split: 2
     text: "搏击+2、内功+2"
-    translated: "Combat Skill +2, Internal Energy Mastery +2"
+    translated: "Hand Combat +2, Internal Power +2"
 - lineNum: 414
   raw: "SkillTree053_002	搏击、内功修为	搏击+2、内功+2	6000	skillIcon002_1	null	PropertyAdd	(Neigong,2)(Fight,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击、内功修为"
-    translated: "Combat, Internal Cultivation"
+    translated: "Hand Combat, Neigong Cultivation"
   - split: 2
     text: "搏击+2、内功+2"
-    translated: "Close Combat +2, Internal Cultivation +2"
+    translated: "Hand Combat +2, Neigong +2"
 - lineNum: 415
   raw: "SkillTree053_003	搏击、内功修为	搏击+2、内功+2	6000	skillIcon002_1	null	PropertyAdd	(Neigong,2)(Fight,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击、内功修为"
-    translated: "Combat Skills, Internal Cultivation"
+    translated: "Fist Fighting, Internal Cultivation"
   - split: 2
     text: "搏击+2、内功+2"
-    translated: "Combat +2, Internal Power +2"
+    translated: "Hand Combat +2, Internal Power Cultivation +2"
 - lineNum: 416
   raw: "SkillTree053_004	搏击、内功修为	搏击+2、内功+2	6000	skillIcon002_1	null	PropertyAdd	(Neigong,2)(Fight,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "搏击、内功修为"
-    translated: "Combat, Neigong cultivation"
+    translated: "Hand combat, internal cultivation"
   - split: 2
     text: "搏击+2、内功+2"
-    translated: "Enhanced Fighting by 2, Enhanced Internal Power by 2"
+    translated: "Hand Combat +2, Neigong (Internal Strength) +2"
 - lineNum: 417
   raw: "SkillTree053_005	混元一气	运行混元功时，每回合回复精力增加2点	10000	SkillTree053	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree053_005	FALSE	0	None	0	0	SkillTree053_000,SkillTree053_010"
   translated: ""
@@ -4454,7 +4454,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combat Skills, Mastery in Qinggong"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -4464,7 +4464,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combat, Qinggong training"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -4484,7 +4484,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Sparring, Lightness Cultivation"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -4514,7 +4514,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combat and Agility Cultivation"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -4694,7 +4694,7 @@
   splits:
   - split: 1
     text: "搏击招式"
-    translated: "Combat Techniques"
+    translated: "Hand Combat Techniques"
   - split: 2
     text: ""
     translated: ""
@@ -4704,7 +4704,7 @@
   splits:
   - split: 1
     text: "搏击招式"
-    translated: "Fighting Techniques"
+    translated: "Hand Combat Techniques"
   - split: 2
     text: ""
     translated: ""
@@ -4724,7 +4724,7 @@
   splits:
   - split: 1
     text: "剑法招式"
-    translated: "Swordsmanship Techniques"
+    translated: "Blade techniques"
   - split: 2
     text: ""
     translated: ""
@@ -4744,7 +4744,7 @@
   splits:
   - split: 1
     text: "刀法招式"
-    translated: "Blade techniques"
+    translated: "Blade Techniques"
   - split: 2
     text: ""
     translated: ""
@@ -4964,7 +4964,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -4974,7 +4974,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -4984,7 +4984,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -4994,7 +4994,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -5047,7 +5047,7 @@
     translated: "Opening Yang Martial Form"
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升3%"
-    translated: "With a +4 increase in swordsmanship, before moving each turn, perform Yao Guang Po Jun, increasing its power by 3%"
+    translated: "Enhance Swordsmanship by 4. Before moving in a turn, perform Yiaoguang Pohung with a power increase of 3%"
 - lineNum: 505
   raw: "SkillTree071_003	玉衡廉贞	剑法+4，每回合尚未移动前施展瑶光破军，威力提升6%	5000	SkillTree071_2	[]	Passive	(Sword,4)	0		0	0	Enemy			Target	0	buffSkillTree071_003	FALSE	0	None	0	0	SkillTree071_000"
   translated: ""
@@ -5057,7 +5057,7 @@
     translated: "Yuheng Lianzhen"
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升6%"
-    translated: "Swordsmanship +4, before moving in a round, cast Dazzling Light Breaks the Army, increasing effectiveness by 6%"
+    translated: "Sword Arts +4, before moving each turn to manifest Yao Guang Po Jun, increase power by 6%"
 - lineNum: 506
   raw: "SkillTree071_004	天权文曲	剑法+4，每回合尚未移动前施展瑶光破军，威力提升9%	5000	SkillTree071_2	[]	Passive	(Sword,4)	0		0	0	Enemy			Target	0	buffSkillTree071_004	FALSE	0	None	0	0	SkillTree071_000"
   translated: ""
@@ -5067,7 +5067,7 @@
     translated: "Heavenly Mandate and Literati"
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升9%"
-    translated: "With a +4 increase in swordsmanship, before moving each round, practice the Jade Glow Break Army technique, increasing its power by 9%"
+    translated: "Swordsmanship +4, before moving each round, perform Yuanguang Pojun; its power increases by 9%"
 - lineNum: 507
   raw: "SkillTree071_005	天玑禄存	剑法+4，每回合尚未移动前施展瑶光破军，威力提升12%	5000	SkillTree071_2	[]	Passive	(Sword,4)	0		0	0	Enemy			Target	0	buffSkillTree071_005	FALSE	0	None	0	0	SkillTree071_000"
   translated: ""
@@ -5077,7 +5077,7 @@
     translated: "Tian Jiru Cun"
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升12%"
-    translated: "Swordsmanship +4, before moving in the turn, perform Yao Guang Po Jun to increase its effectiveness by 12%"
+    translated: "Sword Arts +4, before moving each turn perform Shenyin Paojun to increase its potency by 12%"
 - lineNum: 508
   raw: "SkillTree071_006	天璇巨门	剑法+4，每回合尚未移动前施展瑶光破军，威力提升15%	5000	SkillTree071_2	[]	Passive	(Sword,4)	0		0	0	Enemy			Target	0	buffSkillTree071_006	FALSE	0	None	0	0	SkillTree071_000"
   translated: ""
@@ -5087,7 +5087,7 @@
     translated: "Heavenly Pivot Great Gate"
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升15%"
-    translated: "Swordsmanship +4, before moving each turn perform Yao Guang Po Jun to increase its effectiveness by 15%"
+    translated: "Unleash Yaoguang Pojun before moving during your turn. Swordsmanship +4, power increases by 15%"
 - lineNum: 509
   raw: "SkillTree072_000	饥餐胡虏肉		4000	SkillTree072_000	[]	Active		0	skill_wp0a042	4	80	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	0		TRUE	208	Fight	0.5	SkillTree072_000	"
   translated: ""
@@ -5104,7 +5104,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -5124,7 +5124,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -5134,7 +5134,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -5144,7 +5144,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -5154,7 +5154,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -5164,7 +5164,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -5184,7 +5184,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -5514,7 +5514,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -5524,7 +5524,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -5564,7 +5564,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -5574,7 +5574,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -5584,7 +5584,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -5774,7 +5774,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -5784,7 +5784,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -5794,7 +5794,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -5804,7 +5804,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -5814,7 +5814,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -5864,7 +5864,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6104,7 +6104,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6114,7 +6114,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6124,7 +6124,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6134,7 +6134,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6144,7 +6144,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6154,7 +6154,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6414,7 +6414,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6424,7 +6424,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6454,7 +6454,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6464,7 +6464,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6494,7 +6494,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6504,7 +6504,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6564,7 +6564,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6574,7 +6574,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6594,7 +6594,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6624,7 +6624,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6634,7 +6634,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6674,7 +6674,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6684,7 +6684,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6694,7 +6694,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6714,7 +6714,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6724,7 +6724,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -6794,7 +6794,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6804,7 +6804,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6834,7 +6834,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -6844,7 +6844,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7177,7 +7177,7 @@
     translated: "Python Venom Blood"
   - split: 2
     text: "狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "Devious Snake grabs the Cloud Pearl, adding 2 poison points, fighting +2, toxin techniques +2, and dark value +5"
+    translated: "Wily Snake Snatch Cloud Pearl additional poison value +2 points, hand combat +2, toxicology +2, dark side +5"
 - lineNum: 718
   raw: "SkillTree097_004	尸蛇毒血	狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5	6000	SkillTree097	[]	Passive	(Fight,2)(Poison,2)(Moral,-5)	0		0	0	Enemy			Target	0	buffSkillTree097_003	FALSE	0	None	0	0	SkillTree097_000"
   translated: ""
@@ -7187,7 +7187,7 @@
     translated: "Python Venom Blood"
   - split: 2
     text: "狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "Wily Serpent steals Cloud Pearl, adding 2 additional poison points, fighting +2, poison arts +2, and increases dark value by 5"
+    translated: "The Serpent Snake steals the Cloud Pearl, gaining an additional 2 points of Poison, +2 in Hand Combat, +2 in Toxicology, and +5 in Evil"
 - lineNum: 719
   raw: "SkillTree097_005	尸蛇毒血	狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5	6000	SkillTree097	[]	Passive	(Fight,2)(Poison,2)(Moral,-5)	0		0	0	Enemy			Target	0	buffSkillTree097_003	FALSE	0	None	0	0	SkillTree097_000"
   translated: ""
@@ -7197,7 +7197,7 @@
     translated: "Python Venom Blood"
   - split: 2
     text: "狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "Wily Snake Steals Cloud Jewel, adding 2 additional poison points, Combat +2, Poisoncraft +2, Dark Value +5"
+    translated: "The sly snake steals the cloud pearl, adding an extra 2 poison points, combat +2, poison skills +2, and dark value +5"
 - lineNum: 720
   raw: "SkillTree097_006	尸蛇毒血	灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5	6000	SkillTree097_1	[]	Passive	(Fight,2)(Poison,2)(Moral,-5)	0		0	0	Enemy			Target	0	buffSkillTree097_006	FALSE	0	None	0	0	SkillTree097_001"
   translated: ""
@@ -7207,7 +7207,7 @@
     translated: "Python Venom Blood"
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The Divine Python inflicts an extra 2 poison points, combat +2, poisonous techniques +2, and adds 5 to the dark value"
+    translated: "The Spirit Python adds 2 points of poison damage, increases melee combat by +2, increases toxicology skills by +2, and raises the evil value by +5"
 - lineNum: 721
   raw: "SkillTree097_007	尸蛇毒血	灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5	6000	SkillTree097_1	[]	Passive	(Fight,2)(Poison,2)(Moral,-5)	0		0	0	Enemy			Target	0	buffSkillTree097_006	FALSE	0	None	0	0	SkillTree097_001"
   translated: ""
@@ -7217,7 +7217,7 @@
     translated: "Python Venom Blood"
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The spirit python's additional poison value is 2 points, fighting +2, poison skills +2, and dark aura +5"
+    translated: "Ghost Python adds an extra 2 points of poison, plus 2 to hand combat and poisons, plus 5 to the evil value"
 - lineNum: 722
   raw: "SkillTree097_008	尸蛇毒血	灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5	6000	SkillTree097_1	[]	Passive	(Fight,2)(Poison,2)(Moral,-5)	0		0	0	Enemy			Target	0	buffSkillTree097_006	FALSE	0	None	0	0	SkillTree097_001"
   translated: ""
@@ -7227,7 +7227,7 @@
     translated: "Python Venom Blood"
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The Ghost Python adds 2 extra poison points to Shock Moon, plus +2 to grappling and +2 to poisonous skills, and increases the demonic value by 5"
+    translated: "Ling Mantis Startles Toad, adding 2 Poison Points extra; Hand-to-Hand Combat +2, Toxicology +2, Corruption Value +5"
 - lineNum: 723
   raw: "SkillTree097_009	蛇毒炼制	可炼制蛇毒	1000	SkillTree056_3	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree097_009	FALSE	0	None	0	0	"
   translated: ""
@@ -7504,7 +7504,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -7514,7 +7514,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -7524,7 +7524,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -7534,7 +7534,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -7544,7 +7544,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -7584,7 +7584,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7594,7 +7594,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7604,7 +7604,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7634,7 +7634,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7644,7 +7644,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7654,7 +7654,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7674,7 +7674,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7694,7 +7694,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7704,7 +7704,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7714,7 +7714,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7724,7 +7724,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7734,7 +7734,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7784,7 +7784,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7794,7 +7794,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7804,7 +7804,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7814,7 +7814,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7824,7 +7824,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7834,7 +7834,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7864,7 +7864,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7884,7 +7884,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -7904,7 +7904,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -8934,7 +8934,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -8944,7 +8944,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -8974,7 +8974,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -8984,7 +8984,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9004,7 +9004,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9014,7 +9014,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9024,7 +9024,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9064,7 +9064,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9074,7 +9074,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9084,7 +9084,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9134,7 +9134,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9144,7 +9144,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9174,7 +9174,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9184,7 +9184,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9204,7 +9204,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9234,7 +9234,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9254,7 +9254,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9264,7 +9264,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9294,7 +9294,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9304,7 +9304,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9314,7 +9314,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9334,7 +9334,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9354,7 +9354,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9394,7 +9394,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9404,7 +9404,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9424,7 +9424,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9434,7 +9434,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9464,7 +9464,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9484,7 +9484,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9494,7 +9494,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9574,7 +9574,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9614,7 +9614,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9624,7 +9624,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9824,7 +9824,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9834,7 +9834,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9844,7 +9844,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9854,7 +9854,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9884,7 +9884,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -9934,7 +9934,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9944,7 +9944,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9954,7 +9954,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -9964,7 +9964,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10004,7 +10004,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10024,7 +10024,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10074,7 +10074,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10114,7 +10114,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10124,7 +10124,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10134,7 +10134,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10154,7 +10154,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10174,7 +10174,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10224,7 +10224,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10244,7 +10244,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10274,7 +10274,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10284,7 +10284,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10294,7 +10294,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10337,14 +10337,14 @@
     translated: "Surging waves rolling"
   - split: 2
     text: "刀法"
-    translated: "Blade Skills"
+    translated: "Blade Arts"
 - lineNum: 1034
   raw: "SkillTree137_001	刀法修为		3000	skillIcon005_5	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10357,14 +10357,14 @@
     translated: "Dragon emerges from the water"
   - split: 2
     text: "刀法"
-    translated: "Blade Skills"
+    translated: "Blade Arts"
 - lineNum: 1036
   raw: "SkillTree137_003	刀法修为		3000	skillIcon001_1	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10394,7 +10394,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10404,7 +10404,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10524,7 +10524,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -10534,7 +10534,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -10544,7 +10544,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -10744,7 +10744,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -10814,7 +10814,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Fighting and Qinggong cultivation"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -10824,7 +10824,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Fighting, Lightness Training"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -10844,7 +10844,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combat Skills, Qinggong Cultivation"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -10854,7 +10854,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Fighting skills, Qinggong cultivation"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -10874,7 +10874,7 @@
   splits:
   - split: 1
     text: "搏击、轻功修为"
-    translated: "Combat skills, qinggong proficiency"
+    translated: "Hand Combat, Qinggong Training"
   - split: 2
     text: ""
     translated: ""
@@ -11707,7 +11707,7 @@
     translated: "Grand Mystery Divine Skill"
   - split: 2
     text: "运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加12点"
-    translated: "When running the Tai Xuan Jing, each of the fighting skills—pugilism, swordsmanship, bladeskills, spear-gunsword, hidden weapons, short weapons, and qinggong—increases by 12 points"
+    translated: "When running the Tai Xuan Jing, combat skills, sword arts, blade arts, spear and cudgel, hidden weapons, short weapons, and qinggong each increase by 12 points"
 - lineNum: 1171
   raw: "SkillTree154_001	内功修为		8000	skillIcon001_1	null	PropertyAdd	(Neigong,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -11737,7 +11737,7 @@
     translated: "White-Haired Patriarch's Extreme Mystery Classic"
   - split: 2
     text: "运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加24点"
-    translated: "When running the Taixuan Scripture, combat skills such as fighting, swordsmanship, blade techniques, spear and staff, hidden weapons, short weapons, and qinggong each increase by 24 points"
+    translated: "When performing the Taixuan Jing, unarmed combat, sword techniques, blade arts, spears and cudgels, hidden weapons, short weapons, and qinggong each increase by 24 points"
 - lineNum: 1174
   raw: "SkillTree154_004	内功修为		8000	skillIcon001_1	[]	PropertyAdd	(Neigong,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -12114,7 +12114,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -12124,7 +12124,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -12154,7 +12154,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -12164,7 +12164,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -12394,7 +12394,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -12404,7 +12404,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -12434,7 +12434,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -12444,7 +12444,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -13184,7 +13184,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13194,7 +13194,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13204,7 +13204,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13234,7 +13234,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13244,7 +13244,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13254,7 +13254,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13324,7 +13324,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13334,7 +13334,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13344,7 +13344,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13374,7 +13374,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13594,7 +13594,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -13604,7 +13604,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -13614,7 +13614,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -13624,7 +13624,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -13634,7 +13634,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -13644,7 +13644,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -13704,7 +13704,7 @@
   splits:
   - split: 1
     text: "刀法修为"
-    translated: "Blade Skill Cultivation"
+    translated: "Blade Arts Cultivation"
   - split: 2
     text: ""
     translated: ""
@@ -13944,7 +13944,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13964,7 +13964,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""
@@ -13984,7 +13984,7 @@
   splits:
   - split: 1
     text: "搏击修为"
-    translated: "Combat Cultivation"
+    translated: "Hand Combat Skills"
   - split: 2
     text: ""
     translated: ""

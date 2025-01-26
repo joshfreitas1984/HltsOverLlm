@@ -454,10 +454,10 @@
   splits:
   - split: 1
     text: "槟榔"
-    translated: "Areca nut"
+    translated: "Betel nut"
   - split: 3
     text: "槟榔树的果实，吃了或许有好处。"
-    translated: "Pinlang tree's fruit, eating it might be beneficial"
+    translated: "Areca palm fruit, consuming it may have benefits"
 - lineNum: 46
   raw: "it40235	智慧果	it40235	一颗来历不明的果实。服食后，可得到提神活脑的功效，提升服食者对武功与武学的悟性。	402	10000	5000	TRUE	3	99	0	0	0		1		(Intelligence,3)	0"
   translated: ""
@@ -484,10 +484,10 @@
   splits:
   - split: 1
     text: "槟榔王"
-    translated: "Areca King"
+    translated: "Champion of Betel Nut"
   - split: 3
     text: "这颗槟榔看上去和一般的槟榔无异，但直觉告诉你，它似乎有什么地方很不一样。若轻易尝试，可能带来极其严重的后果……"
-    translated: "This betel nut appears to be no different from the usual ones, but your instinct tells you that there seems to be something unusual about it. If you try it lightly, it might lead to extremely serious consequences"
+    translated: "This betel nut appears to be no different from an ordinary one, but your intuition tells you that something seems quite off. If you were to try it carelessly, it might lead to extremely serious consequences…"
 - lineNum: 49
   raw: "it40238	马粪	it40238	马粪，这是马粪，一种毫无用处的东西。为什么会有人想偷它呢？	801	2	1	FALSE	0	1	0	0	0		1			{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1000001000\"} ]}"
   translated: ""
@@ -3547,7 +3547,7 @@
     translated: "Six Meridian Classic"
   - split: 3
     text: "由金鼎禅师交给段思平的天龙寺失传绝学，其上所记载的剑法与经脉运行之法天马行空，艰涩难习，却似乎与段氏所修习的武学暗合，若与段氏家传武学一同修习或可收到奇效。"
-    translated: "The lost martial art of Tianlong Temple, handed down by Master Jin Ding to Duan Siping, features swordsmanship and techniques for manipulating meridians that are vast in scope and difficult to learn. However, it seems to align with the martial arts practiced by the Duan family. If studied alongside the Duan family's hereditary martial arts, it may produce extraordinary effects"
+    translated: "By Master Jin Ding, the lost technique of Tianlong Temple passed to Duan Siping was recorded in his scriptures. The sword techniques and meridian circulation methods were ingenious and difficult to learn but seemed to align with the martial arts practiced by the Duan family. If studied together with the Duan family's inherited martial arts, they might yield extraordinary effects"
 - lineNum: 355
   raw: "it801046	巧匠令	it801046	一个神秘的竹简。	801	0	0	FALSE	0	50	0	0	0		1			{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n8013001000\"} ]}"
   translated: ""
@@ -4297,7 +4297,7 @@
     translated: "Wan Min Shengsheng Jian Canpian"
   - split: 3
     text: "破旧古老的竹简，上面似乎记载着一路剑法精义。"
-    translated: "Old and dilapidated bamboo slips seem to record the essentials of a path's swordsmanship"
+    translated: "Aged and worn bamboo slips that seem to record the essence of a martial arts sword technique"
 - lineNum: 430
   raw: "it801122	王行天下刀残篇	it801122	破旧古老的竹简，上面似乎记载着一路刀法精义。	801	0	0	FALSE	0	50	0	0	0		1			{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"it80112201000\"} ]}"
   translated: ""
@@ -4307,7 +4307,7 @@
     translated: "Wang Xing Tianxia Dao Canpian"
   - split: 3
     text: "破旧古老的竹简，上面似乎记载着一路刀法精义。"
-    translated: "The worn and ancient bamboo slips seem to record the essence of a swordplay style"
+    translated: "Old and worn bamboo slips, which appear to record the essence of a blade technique"
 - lineNum: 431
   raw: "it801123	姚狠的书信	it801017	掉落在姚狠手边的书信。	801	0	0	FALSE	0	50	0	0	0		1			{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6017801000\"} ]}"
   translated: ""

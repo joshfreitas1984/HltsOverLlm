@@ -987,7 +987,7 @@
     translated: "Ruyi Jingu Bang"
   - split: 3
     text: "传说中齐天大圣孙悟空的神兵，原为东海的定海神针，重达一万三千五百斤，可随心变幻大小.....才怪，这根不明铁棒是北丑不知哪里弄来的道具，但重量颇沉、操作不易，若是真被打到也是会很痛的。"
-    translated: "The legendary weapon of the Great Sage Equal to Heaven, Sun Wukong, was originally the Dingshi Pin from the Eastern Sea, weighing thirteen thousand five hundred catties and able to change size at will... This is strange; this unidentified iron rod was brought by Beizhou, but it is quite heavy to handle. If someone were truly hit by it, it would be very painful"
+    translated: "It is said that the divine weapon of the legendary Great Sage Equal to Heaven, Sun Wukong, was originally the Dinghai Shen Zhen from the East Sea, weighing thirteen thousand five hundred catties and able to transform in size at will... That's strange. This mysterious iron rod is a prop from somewhere unknown brought by Bei Chou; it's quite heavy and difficult to handle, so if someone were to be struck by it, they would feel quite a lot of pain"
 - lineNum: 99
   raw: "eq10527	冷艳锯	eq10520	三国时代武圣关羽所使用的配刀，伴他一生斩敌无数。	106	24000	12000	TRUE	5	99	ac3c0029	82	150	150	(Blade,335)(Spear,335)	3		0	(it70111,4)"
   translated: ""
@@ -2057,7 +2057,7 @@
     translated: "Fur coat"
   - split: 3
     text: "孔金给你的皮衣，穿在身上有股熟悉感。"
-    translated: "The fur coat that Kong Jin gave you feels familiar when worn"
+    translated: "Kong Jin gave you the fur coat, and when worn it feels familiar"
 - lineNum: 206
   raw: "eq20116	金鳞衣	eq20116	古时蜀地开国君王鳖灵的贴身护甲，伴随其征战沙场，挡下无数明枪暗箭，同时亦为其陪葬之物。此衣以赤金、乌金、白金等三金之丝绞织而成，又因其纹繁密若鱼鳞，因而得名。	201	5000	2500	TRUE	2	99	eq20116	30	80	80	(Less,32)	5		0	(it70113,1)"
   translated: ""
@@ -2234,20 +2234,20 @@
   splits:
   - split: 1
     text: "禾家马帮服"
-    translated: "He Family Horse Band Uniform"
+    translated: "Huo Family Horse Gang Uniform"
   - split: 3
     text: "禾家马帮帮众服，拆除右袖的设计让帮众驭马更加灵活。"
-    translated: "The design of removing the right sleeve makes it more flexible for the followers of He family's horse gang to ride horses"
+    translated: "Huo Family Horse Gang members followed the command to remove the design from their right sleeves, allowing them to handle horses more flexibly"
 - lineNum: 224
   raw: "eq20137	叶家马帮服	eq20137	叶家马帮帮众服，由叶玉龙调整造型设计，无袖小立领设计除了驭马方便，亦可充分展现两臂肌肉线条，实用中增添三分性感。	203	400	200	TRUE	0	50	player003	1	0	0		0		0	"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮服"
-    translated: "Ye Family Horse Gang Servant"
+    translated: "Ye Family Horse Gang Uniform"
   - split: 3
     text: "叶家马帮帮众服，由叶玉龙调整造型设计，无袖小立领设计除了驭马方便，亦可充分展现两臂肌肉线条，实用中增添三分性感。"
-    translated: "The Ye family horse gang's attire is redesigned by Ye Yulong to feature a sleeveless small stand-up collar. This design not only facilitates riding but also fully showcases the lines of both arms, adding three parts sexiness to its practicality"
+    translated: "Ye Jia Horse Gang members' clothing, designed and adjusted by Ye Yulong, features a sleeveless small stand-up collar design. Besides making riding easier, it fully displays the lines of the upper arms, adding an element of sensuality to practical wear"
 - lineNum: 225
   raw: "eq20138	庄稼汉服装	eq20138	以粗布制成，裁缝简单的平民服饰，通常是工人做工时的穿著。	203	400	200	TRUE	0	50	player004	1	0	0		0		0	"
   translated: ""

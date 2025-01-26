@@ -11,7 +11,7 @@
   splits:
   - split: 1
     text: "搏击+{0}"
-    translated: "Combat + {0}"
+    translated: "Hand Combat + {0}"
 - lineNum: 2
   raw: "it60105	轻功+{0}	24	24		(Qinggong,3)	0"
   translated: ""
@@ -88,21 +88,21 @@
   splits:
   - split: 1
     text: "剑法+{0}"
-    translated: "Blade Skills + {0}"
+    translated: "Sword Arts + {0}"
 - lineNum: 13
   raw: "it60101	刀法+{0}	24	24		(Blade,3)	0"
   translated: ""
   splits:
   - split: 1
     text: "刀法+{0}"
-    translated: "Blade Skills + {0}"
+    translated: "Blade Arts + {0}"
 - lineNum: 14
   raw: "it60102	刀法+{0}	24	24		(Blade,1)	0"
   translated: ""
   splits:
   - split: 1
     text: "刀法+{0}"
-    translated: "Blade Skills + {0}"
+    translated: "Blade Arts + {0}"
 - lineNum: 15
   raw: "it60118	短兵+{0}	24	24		(Short,3)	0"
   translated: ""
@@ -151,7 +151,7 @@
   splits:
   - split: 1
     text: "搏击+{0}"
-    translated: "Combat + {0}"
+    translated: "Hand Combat + {0}"
 - lineNum: 22
   raw: "it60146	轻功+{0}	24	24		(Qinggong,3)	0"
   translated: ""
@@ -179,7 +179,7 @@
   splits:
   - split: 1
     text: "刀法+{0}"
-    translated: "Bladeskill + {0}"
+    translated: "Blade Arts + {0}"
 - lineNum: 26
   raw: "it60128	内功+{0}	24	24		(Neigong,2)	0"
   translated: ""
@@ -193,21 +193,21 @@
   splits:
   - split: 1
     text: "剑法+{0}"
-    translated: "Bladesmanship + {0}"
+    translated: "Blade Arts + {0}"
 - lineNum: 28
   raw: "it60135	搏击+{0}	24	24		(Fight,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "搏击+{0}"
-    translated: "Combat + {0}"
+    translated: "Hand Combat + {0}"
 - lineNum: 29
   raw: "it60136	搏击+{0}	24	24		(Fight,2)	0"
   translated: ""
   splits:
   - split: 1
     text: "搏击+{0}"
-    translated: "Fighting + {0}"
+    translated: "Hand Combat + {0}"
 - lineNum: 30
   raw: "it60114	暗器+{0}	24	24		(Arrow,3)	0"
   translated: ""

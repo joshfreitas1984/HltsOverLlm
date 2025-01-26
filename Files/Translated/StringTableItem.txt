@@ -114,21 +114,21 @@
   splits:
   - split: 1
     text: "{0}{1} 钱"
-    translated: "{0} some {1} money"
+    translated: "{0} {1} money"
 - lineNum: 18
   raw: "HintTypeExp	{0}{1} 经验"
   translated: ""
   splits:
   - split: 1
     text: "{0}{1} 经验"
-    translated: "Experience {0}{1}"
+    translated: "{0} {1} Experience"
 - lineNum: 19
   raw: "HintTypeInventory	{0} {1} 个"
   translated: ""
   splits:
   - split: 1
     text: "{0} {1} 个"
-    translated: "{0} {1} individual"
+    translated: "{0} {1}x"
 - lineNum: 20
   raw: "HintTypeStealTodayDontSteal	今日已无法再对此人下手"
   translated: ""
@@ -401,7 +401,7 @@
   splits:
   - split: 1
     text: "<color=#ff2222>暗取</color>"
-    translated: "<color=#ff2222>Steal secretly</color>"
+    translated: "<color=#ff2222>Steal Secretly</color>"
 - lineNum: 59
   raw: "Interactive08	<color=#ff2222>袭击</color>"
   translated: ""
@@ -415,7 +415,7 @@
   splits:
   - split: 1
     text: "调查"
-    translated: "Investigation"
+    translated: "Search"
 - lineNum: 61
   raw: "Interactive10	猎捕"
   translated: ""
@@ -429,7 +429,7 @@
   splits:
   - split: 1
     text: "<color=#ff2222>暗捕</color>"
-    translated: "<color=#ff2222>Covert Arrest</color>"
+    translated: "<color=#ff2222>Stealth Attack</color>"
 - lineNum: 63
   raw: "Interactive12	猎杀"
   translated: ""
@@ -611,21 +611,21 @@
   splits:
   - split: 1
     text: "搏击伤害"
-    translated: "Combat Damage"
+    translated: "Hand Combat Damage"
 - lineNum: 89
   raw: "Hurt2	剑法伤害"
   translated: ""
   splits:
   - split: 1
     text: "剑法伤害"
-    translated: "Swordsmanship Damage"
+    translated: "Blade Arts Damage"
 - lineNum: 90
   raw: "Hurt3	刀法伤害"
   translated: ""
   splits:
   - split: 1
     text: "刀法伤害"
-    translated: "Blade Skills Damage"
+    translated: "Blade Arts Damage"
 - lineNum: 91
   raw: "Hurt4	枪棍伤害"
   translated: ""
@@ -891,21 +891,21 @@
   splits:
   - split: 1
     text: "搏击"
-    translated: "Fighting"
+    translated: "Hand Combat"
 - lineNum: 129
   raw: "CharacterProperty302	剑法"
   translated: ""
   splits:
   - split: 1
     text: "剑法"
-    translated: "Swordsmanship"
+    translated: "Sword Arts"
 - lineNum: 130
   raw: "CharacterProperty303	刀法"
   translated: ""
   splits:
   - split: 1
     text: "刀法"
-    translated: "Blade Skills"
+    translated: "Blade Arts"
 - lineNum: 131
   raw: "CharacterProperty304	枪棍"
   translated: ""
@@ -1123,7 +1123,7 @@
   splits:
   - split: 1
     text: "刚"
-    translated: "Just now"
+    translated: "Strong"
 - lineNum: 163
   raw: "TalentType3	柔"
   translated: ""
@@ -1651,7 +1651,7 @@
   splits:
   - split: 1
     text: "搏击兵器"
-    translated: "Combat Weapons"
+    translated: "Hand Combat Weapons"
 - lineNum: 241
   raw: "BluePrintType2	剑"
   translated: ""
@@ -1833,14 +1833,14 @@
   splits:
   - split: 1
     text: "剑法"
-    translated: "Swordsmanship"
+    translated: "Sword Arts"
 - lineNum: 267
   raw: "InventoryType303	刀法"
   translated: ""
   splits:
   - split: 1
     text: "刀法"
-    translated: "Blade Skills"
+    translated: "Blade Arts"
 - lineNum: 268
   raw: "InventoryType304	枪术"
   translated: ""
@@ -2737,14 +2737,14 @@
   splits:
   - split: 1
     text: "暗取"
-    translated: "Covertly take"
+    translated: "Stealth"
 - lineNum: 397
   raw: "KeyDesc_Ambush	切磋"
   translated: ""
   splits:
   - split: 1
     text: "切磋"
-    translated: "Sparring"
+    translated: "Ambush"
 - lineNum: 398
   raw: "KeyDesc_SkillShortcut1	技能快捷键1"
   translated: ""
@@ -3064,7 +3064,7 @@
   splits:
   - split: 1
     text: "读取中"
-    translated: "Reading from Chinese"
+    translated: "Loading"
 - lineNum: 445
   raw: "LoadWhenModDifferent	存盘所使用模块 {0} 与当前模块 {1} 不同！"
   translated: ""
@@ -3348,7 +3348,7 @@
   splits:
   - split: 1
     text: "外衣"
-    translated: "Outer garment"
+    translated: "Costume"
 - lineNum: 486
   raw: "UIInventoryType301	丹药"
   translated: ""
@@ -3411,21 +3411,21 @@
   splits:
   - split: 1
     text: "搏击"
-    translated: "Fighting"
+    translated: "Hand Combat"
 - lineNum: 495
   raw: "UIInventoryType502	剑法"
   translated: ""
   splits:
   - split: 1
     text: "剑法"
-    translated: "Swordsmanship"
+    translated: "Sword Arts"
 - lineNum: 496
   raw: "UIInventoryType503	刀法"
   translated: ""
   splits:
   - split: 1
     text: "刀法"
-    translated: "Blade Skills"
+    translated: "Blade Arts"
 - lineNum: 497
   raw: "UIInventoryType504	棍法"
   translated: ""
@@ -3825,7 +3825,7 @@
   splits:
   - split: 1
     text: "方位条"
-    translated: "Directional Strip"
+    translated: "Compass"
 - lineNum: 555
   raw: "UIMinimap	小地图"
   translated: ""
@@ -3864,7 +3864,7 @@
   splits:
   - split: 1
     text: "问题"
-    translated: "What is the problem?"
+    translated: "Question"
 - lineNum: 561
   raw: "UICreateInvestigateTitle	请无视现实，选择您内心深处最深切的期盼"
   translated: ""
@@ -4103,21 +4103,21 @@
   splits:
   - split: 1
     text: "正"
-    translated: "Correct"
+    translated: "Good"
 - lineNum: 596
   raw: "UITeamPersonality4	狷"
   translated: ""
   splits:
   - split: 1
     text: "狷"
-    translated: "Stoic"
+    translated: "Calm"
 - lineNum: 597
   raw: "UITeamPersonality5	狂"
   translated: ""
   splits:
   - split: 1
     text: "狂"
-    translated: "Mad"
+    translated: "Wild"
 - lineNum: 598
   raw: "UITeamPersonality6	阴"
   translated: ""
@@ -4565,7 +4565,7 @@
   splits:
   - split: 1
     text: "视讯"
-    translated: "Video conferencing"
+    translated: "Video Settings"
 - lineNum: 665
   raw: "SettingGroup1	音效"
   translated: ""
@@ -4866,14 +4866,14 @@
   splits:
   - split: 1
     text: "质量优先"
-    translated: "Quality First"
+    translated: "High Quality"
 - lineNum: 708
   raw: "UIGraphicsSettingLevelFantastic	全开"
   translated: ""
   splits:
   - split: 1
     text: "全开"
-    translated: "Open fully"
+    translated: "Max Quality"
 - lineNum: 709
   raw: "UIGraphicsSettingLevelCustom	自定义"
   translated: ""
@@ -4894,7 +4894,7 @@
   splits:
   - split: 1
     text: "中"
-    translated: "It's in the middle"
+    translated: "Medium"
 - lineNum: 712
   raw: "UIGraphicsSettingVolumtericResolutionQuarter	低"
   translated: ""
@@ -4915,7 +4915,7 @@
   splits:
   - split: 1
     text: "中"
-    translated: "Chinese"
+    translated: "Medium"
 - lineNum: 715
   raw: "UIGraphicsSettingVegetationPackageLow	低"
   translated: ""
@@ -5115,7 +5115,7 @@
   splits:
   - split: 1
     text: "回复预设"
-    translated: "Reply preset"
+    translated: "Apply Defaults"
 - lineNum: 744
   raw: "UIHotkeySave	套用"
   translated: ""
@@ -5129,14 +5129,14 @@
   splits:
   - split: 1
     text: "键盘设置"
-    translated: "Keyboard configuration"
+    translated: "Keyboard"
 - lineNum: 746
   raw: "UIHotkeyInputMode2	手把设置"
   translated: ""
   splits:
   - split: 1
     text: "手把设置"
-    translated: "Hand-operated setting"
+    translated: "Controller"
 - lineNum: 747
   raw: "UIHotkeyNormalGroup	移动键/操作键"
   translated: ""
@@ -5527,7 +5527,7 @@
   splits:
   - split: 1
     text: "装备中"
-    translated: "Equipment Section"
+    translated: "Equip Selected"
 - lineNum: 805
   raw: "#锻造界面	"
   translated: ""
@@ -6070,7 +6070,7 @@
   splits:
   - split: 1
     text: "{0}{1}个"
-    translated: "{0} {1} ge"
+    translated: "{0} {1}x"
 - lineNum: 886
   raw: "SkillTipNeedTypeTalentValue	{0}感悟{1}点"
   translated: ""
@@ -6283,7 +6283,7 @@
   splits:
   - split: 1
     text: "套用中"
-    translated: "Apply in Chinese"
+    translated: "Apply in progress"
 - lineNum: 919
   raw: "ModApplyCheck	是否要套用 {0} 模块？"
   translated: ""
@@ -7000,7 +7000,7 @@
   splits:
   - split: 1
     text: "你再度踏入了那既熟悉又陌生的圣堂之门。"
-    translated: "You stepped once again into the gates of that cathedral, both familiar and unfamiliar"
+    translated: "You once again stepped through the doors of the Holy Sanctuary, which felt both familiar and strange"
 - lineNum: 1024
   raw: "Final01_14	这一次在前方等待着你的，"
   translated: ""
@@ -7809,7 +7809,7 @@
   splits:
   - split: 1
     text: "数月之后，一名剑法精奇的神秘女剑客横空出世，"
-    translated: "Several months later, a mysterious female swordswoman with extraordinary sword skills appeared out of nowhere"
+    translated: "Several months later, a mysterious female swordsman with exquisite sword skills suddenly appeared"
 - lineNum: 1143
   raw: "Final09_06	这名女剑客踽踽独行，一路向北，"
   translated: ""
@@ -7823,7 +7823,7 @@
   splits:
   - split: 1
     text: "一手妙到巅毫的剑法，天下无人能敌。"
-    translated: "Unparalleled swordsmanship, unmatched by anyone in the world"
+    translated: "A sword technique so exquisite at the tip that none in the world can rival it"
 - lineNum: 1145
   raw: "Final09_08	每当被人问起她旅途的目的，"
   translated: ""
@@ -7893,7 +7893,7 @@
   splits:
   - split: 1
     text: "也许在某个地方，会有另一扇圣堂之门，"
-    translated: "Perhaps in some place, there is another gate to the holy sanctuary"
+    translated: "Maybe there is another gate to the Holy Sanctuary somewhere"
 - lineNum: 1155
   raw: "Final09_18	能够通往他所在的那个地方。"
   translated: ""
@@ -7939,7 +7939,7 @@
   splits:
   - split: 1
     text: "数月之后，一名剑法精奇的神秘女剑客横空出世，"
-    translated: "Several months later, a mysterious female swordsman with exquisite sword skills appeared out of nowhere"
+    translated: "Several months later, a mysterious and exceptionally skilled female swordsman appeared"
 - lineNum: 1162
   raw: "Final10_05	这名女剑客踽踽独行，一路向北，"
   translated: ""
@@ -7953,7 +7953,7 @@
   splits:
   - split: 1
     text: "一手妙到巅毫的剑法，天下无人能敌。"
-    translated: "A masterful sword technique that is unparalleled in the world; no one can match it"
+    translated: "A sword technique so exquisite at its peak that no one in the world can rival it"
 - lineNum: 1164
   raw: "Final10_07	每当被人问起她旅途的目的，"
   translated: ""
@@ -8069,14 +8069,14 @@
   splits:
   - split: 1
     text: "虽然禾家马帮不再一枝独秀，"
-    translated: "Although the Huo Family Horse Gang is no longer unrivaled,"
+    translated: "Although the He Family Horse Gang is no longer unrivaled,"
 - lineNum: 1181
   raw: "Final11_06	但禾郁青凭借着精湛的刀法与坚韧的性格，"
   translated: ""
   splits:
   - split: 1
     text: "但禾郁青凭借着精湛的刀法与坚韧的性格，"
-    translated: "But He Yuqing, with her mastery of swordsmanship and resilient character,"
+    translated: "But He Yuqing, relying on his exquisite blade techniques and resilient character,"
 - lineNum: 1182
   raw: "Final11_07	仍然成为天南武林中最令人崇敬的马锅头。"
   translated: ""
@@ -8090,7 +8090,7 @@
   splits:
   - split: 1
     text: "禾郁青始终将守护禾家马帮视为自身的责任，"
-    translated: "He Yuqing always considered protecting the He Family Horse Gang to be his responsibility"
+    translated: "He Yuqing has always considered protecting the He Family Horse Gang as her own responsibility"
 - lineNum: 1184
   raw: "Final11_09	然而老一辈的帮众时常这样说着，"
   translated: ""
@@ -8171,7 +8171,7 @@
   splits:
   - split: 1
     text: "他只能眼睁睁的看着他进入圣堂之门，"
-    translated: "He could only watch helplessly as he entered the sanctuary"
+    translated: "He could only watch helplessly as he entered the Holy Sanctuary"
 - lineNum: 1196
   raw: "Final12_04	消失于虚空之中。"
   translated: ""
@@ -8234,7 +8234,7 @@
   splits:
   - split: 1
     text: "启程追寻早已转移显现地点的圣堂。"
-    translated: "Embark on the pursuit to find the church that has already shifted its manifested location"
+    translated: "Embark on the pursuit to find the newly revealed location of the Holy Sanctuary"
 - lineNum: 1205
   raw: "Final12_13	不论那名天外来客逃到何处，"
   translated: ""
@@ -8916,7 +8916,7 @@
   splits:
   - split: 1
     text: "向着天外来客当年离开的圣堂远眺"
-    translated: "Gazing afar at the sacred temple where he once left as a traveler from beyond the heavens"
+    translated: "Look towards the holy sanctuary where the heavenly guest departed long ago"
 - lineNum: 1305
   raw: "Final18_12	「你这家伙，再不来｜老朋友可不等你了啊。」"
   translated: ""
@@ -9057,7 +9057,7 @@
   splits:
   - split: 1
     text: "那日她在圣堂奋不顾身的一跃，"
-    translated: "That day she leaped fearlessly into the sanctuary"
+    translated: "That day, she leaped recklessly into the Holy Sanctuary"
 - lineNum: 1326
   raw: "Final20_02	永远的改变了你的人生。"
   translated: ""

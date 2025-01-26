@@ -2629,14 +2629,14 @@
   splits:
   - split: 1
     text: "马帮头目"
-    translated: "Horse Gang Leader"
+    translated: "Head of the Horse Gang"
 - lineNum: 376
   raw: "n00118b	马帮头目	ml_standA00	c_m08	0, 0, 0	0		FALSE	FALSE		v00078				1	0	0	n20040d	n00118b				0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮头目"
-    translated: "Leader of the Ma Gang"
+    translated: "Head of the Horse Gang"
 - lineNum: 377
   raw: "n00119a	装备修补匠	ml_standA00		149.641, 105.7364, -31.64	174.0264		TRUE	FALSE	n0011901000		sc90004001			1	9	1	n90004	n90004	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07004\", 0, True}  ], 0} 	0"
   translated: ""
@@ -3252,42 +3252,42 @@
   splits:
   - split: 1
     text: "孔金"
-    translated: "Wang Zhi"
+    translated: "Kong Jin"
 - lineNum: 465
   raw: "n07014a	孔金	m_standB00	n90201	-1496.72, 61.73124, 594.36	206.8539		FALSE	TRUE		v00024				1	0	1	n41103	n90201				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "孔金"
-    translated: "Wang Zhi"
+    translated: "Kong Jin"
 - lineNum: 466
   raw: "n07014b	孔金	m_kneel003	n90201	-1405.657, 62.42, 574.786	75.09898		FALSE	TRUE	n0701401000	v00024				1	0	1	n41103	n90201				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003_03\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "孔金"
-    translated: "Wang Zhi"
+    translated: "Kong Jin"
 - lineNum: 467
   raw: "n07014c	孔金	m_standA00	n90201	104.31, 89.98509, -233.74	179.4683		FALSE	TRUE		v00024				1	0	1	n41103	n90201				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003_04\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "孔金"
-    translated: "Wang Zhi"
+    translated: "Kong Jin"
 - lineNum: 468
   raw: "n07014d	孔金	m_standA00	n90201	129.852, 90.00475, -224.495	323.7518		FALSE	TRUE		v00024				1	0	1	n41103	n90201				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 1, True} , { \"LogicalNode\" : [ { \"CheckInventoryCountAction\" : \"it801036\", 0, 0} , { \"LogicalNode\" : [ { \"CheckInventoryCountAction\" : \"it801030\", 0, 0} , { \"CheckInventoryCountAction\" : \"it801031\", 0, 0} , { \"CheckInventoryCountAction\" : \"it801032\", 0, 0} , { \"CheckInventoryCountAction\" : \"it801033\", 0, 0} , { \"CheckInventoryCountAction\" : \"it801034\", 0, 0} , { \"CheckInventoryCountAction\" : \"it801035\", 0, 0}  ], 0}  ], 1}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "孔金"
-    translated: "Wang Zhi"
+    translated: "Kong Jin"
 - lineNum: 469
   raw: "n07014e	孔金	m_standA00	n90201	0, 0, 0	0		FALSE	TRUE		v00024				1	0	0	n41103	n90201				0	0"
   translated: ""
   splits:
   - split: 1
     text: "孔金"
-    translated: "Wang Zhi"
+    translated: "Kong Jin"
 - lineNum: 470
   raw: "n07015a	刁不易	m_kneel003	n07015	-1510.63, 61.66652, 584.67	87.89392		FALSE	TRUE	n0701501000	v00221				1	26	1	n90509	n80030				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
@@ -6430,7 +6430,7 @@
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "Members of the He Family's Horse Gang"
+    translated: "Huo Family Horse Gang Members"
 - lineNum: 919
   raw: "n20001c	禾嘉仁	ml_idle109	c_m14	0, 0, 0	0		FALSE	FALSE		v00078				1	18	0	n20042d	n20001c				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"CheckTimeBlackboardAction\" : \"f2滅禾家b\", True} , { \"QuestCondition\" : \"Q40008\", 0, False} , { \"QuestCondition\" : \"Q40008\", 1, False}  ], 1} 	0"
   translated: ""
@@ -6444,14 +6444,14 @@
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "Huo Family Horse Gang Members"
+    translated: "Hu Family Horse Gang Members"
 - lineNum: 921
   raw: "n20001e	禾家马帮帮众	ml_idle105	c_m08	0, 0, 0	0		FALSE	FALSE		v00077				1	18	0	n20040d	n20001e				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"CheckTimeBlackboardAction\" : \"f2滅禾家b\", True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 922
   raw: "n20002	木府士兵	m_standB00		-669.2063, 66.18829, -1083.839	267.9097		TRUE	FALSE	n2000201000	v00071b				1	3	0	n20050					{ \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f2滅禾家b\", False}  ], 0} 	0"
   translated: ""
@@ -7333,28 +7333,28 @@
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1048
   raw: "n20040b	禾家马帮帮众	m_sleep_dead001_ec		-630.627, 66.218, -1091.511	106.1541		FALSE	FALSE		v00077				1	18	3	n20040					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1049
   raw: "n20041	禾家马帮帮众	m_talk001		-629.892, 66.18829, -1076.077	0		FALSE	TRUE	n2004001001	v00078				1	18	0	n20040b		0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2聽過禾家馬幫後院聊天\", 3, 1} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1050
   raw: "n20041b	禾家马帮帮众	m_sleep_dead002_ec		-633.12, 66.218, -1096.01	167.6566		FALSE	FALSE		v00078				1	18	3	n20040b					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1051
   raw: "n20042	禾嘉仁	m_labor001		-660.353, 66.409, -1098.376	220.8432		FALSE	FALSE	n2004201002	v00077				1	18	1	n20042		n20042,n20042b,n20042c,n20042d			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_07\", 0, False}  ], 0} 	0"
   translated: ""
@@ -7382,70 +7382,70 @@
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1055
   raw: "n20043b	禾家马帮帮众	ml_standA00		-651.172, 66.62881, -1086.372	274.0771		FALSE	FALSE	n2004301002	v00077				1	18	0	n20040e					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_11\", 0, False} , { \"QuestCondition\" : \"Q20011_11\", 1, False} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1056
   raw: "n20044	禾家马帮帮众	m_talk001		-669.19, 66.18829, -1082.87	270.7446		FALSE	TRUE	n2004501000	v00078				1	18	0	n20044		n20044,n20044b,n20044c,n20044d,,n20044e,n20044_2,n20044c_2,n20044e_2			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1057
   raw: "n20045	禾家马帮帮众	m_standI00		-666.9825, 66.18829, -1087.496	263.2556		FALSE	FALSE	n2004501000	v00077				1	18	0	n20045	n20045	n20045,n20045b,n20045c,n20045d,n20045e,n20045_2,n20045c_2,n20045e_2			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1058
   raw: "n20046	禾家马帮帮众	ml_standA00		-626.739, 66.18829, -1086.856	254.7792		FALSE	FALSE	n2004601006	v00078	sc20046			1	18	0	n20046	n20046	n20046,n20046b			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_07\", 0, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1059
   raw: "n20046b	禾家马帮帮众	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00078				1	18	0	n20046b	n20046				0	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1060
   raw: "n20047	禾家马帮帮众	ml_standA01		-665.3436, 69.66531, -1098.237	267.9104		FALSE	TRUE	n2004701000	v00077				1	18	0	n20040e		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1061
   raw: "n20048	禾家马帮帮众	ml_standA00		-668.82, 66.218, -1085.622	242.1121		FALSE	TRUE	n2004801000	v00078				1	18	0	n20040		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1062
   raw: "n20048b	禾家马帮帮众	ml_standA00		-666.873, 66.18829, -1088.229	297.1221		FALSE	TRUE	n2004801000	v00078				1	18	0	n20040b		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1063
   raw: "n20048c	禾家马帮帮众	ml_standA00		-667.351, 66.18829, -1085.072	253.4482		FALSE	TRUE	n2004801000	v00078				1	18	0	n20040c		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1064
   raw: "n20049	禾郁青	wl_standA00	n20049	0, 0, 0	0		FALSE	TRUE		v00217				2	18	0	n20041	n20049	0			0	0"
   translated: ""
@@ -7697,7 +7697,7 @@
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1100
   raw: "n20069	算命民众	m_wipeSweat		-691.182, 79.301, -1153.615	193.8598	6-19	FALSE	FALSE	n2006901000	v00054	sc20069			1	3	0	n20070		n20069b,n20069c,n20069d,n20069e,n20069f			{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2排隊算命\", 3, 1} , { \"TimeCondition\" : 6, 20}  ], 0} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2排隊算命\", 1, 1} , { \"TimeCondition\" : 6, 18}  ], 0}  ], 1} 	0"
   translated: ""
@@ -7788,14 +7788,14 @@
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Horse Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bangzhong"
 - lineNum: 1113
   raw: "n20086	叶家马帮帮众	skill_wp1a008_noeff	c_m09	-772.678, 66.18829, -998.123	84.87347	6-19	FALSE	FALSE	n2008601001	v00075				1	19	1	n20086	n20086				0	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Horse Gang Members"
+    translated: "Ye Family Horse Gang Followers"
 - lineNum: 1114
   raw: "n20086b	叶家马帮帮众	m_sitEat001	c_m09	-675.363, 66.18829, -983.2977	233.076	20-23	FALSE	FALSE	n2009001000	v00076				1	19	1	n20086b					{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_06\", 1, False} , { \"QuestCondition\" : \"Q20011_11\", 1, True}  ], 1} , { \"QuestCondition\" : \"Q20018_02\", 1, False}  ], 0} 	0"
   translated: ""
@@ -7809,28 +7809,28 @@
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Band Members"
+    translated: "Ye Family Horse Gang Members"
 - lineNum: 1116
   raw: "n20087	叶家马帮帮众	skill_wp1a008_noeff	c_m10	-772.313, 66.18829, -1000.522	88.88523	6-19	FALSE	FALSE	n2008701003	v00075				1	19	1	n20087	n20087				0	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye family horse gang members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1117
   raw: "n20087b	叶家马帮帮众	m_sitEat001	c_m10	-675.441, 66.18829, -984.391	327.6182	20-23	FALSE	FALSE	n2009001000	v00076				1	19	1	n20087b					{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_06\", 1, False} , { \"QuestCondition\" : \"Q20011_11\", 1, True}  ], 1} , { \"QuestCondition\" : \"Q20018_02\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Followers"
+    translated: "Ye Family Horse Gang Members"
 - lineNum: 1118
   raw: "n20087c	叶家马帮帮众	ml_standA00	c_m10	0, 0, 0	0		FALSE	FALSE		v00075				1	19	0	n20087	n20087c				0	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Horse Gang Gang Members"
+    translated: "Ye Family Horse Gang Members"
 - lineNum: 1119
   raw: "n20088	叶家马帮帮众	m_talk001	c_m10	-786.2637, 70.261, -1004.511	174.3935		FALSE	FALSE	n2008901001	v00076				1	19	0	n20085d	n20088	0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2偷聽葉家馬幫談話\", 3, 1} , { \"QuestCondition\" : \"Q20018_02\", 1, False}  ], 0} 	0"
   translated: ""
@@ -7844,14 +7844,14 @@
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Members"
+    translated: "Ye Jia Horse Gang Members"
 - lineNum: 1121
   raw: "n20090	叶家马帮帮众	skill_wp1a008_noeff		-772.377, 66.18829, -1002.825	86.22604	6-19	FALSE	FALSE	n2009001013	v00075				1	19	1	n20088	n20090				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20018_02\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Family Horse Gang Members"
 - lineNum: 1122
   raw: "n20090b	叶家马帮帮众	m_sitEat001		-676.2425, 66.18829, -983.1173	151.5065	20-23	FALSE	FALSE	n2009001000	v00076				1	19	1	n20088b					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_06\", 1, False} , { \"QuestCondition\" : \"Q20011_06\", 0, False}  ], 0} 	0"
   translated: ""
@@ -7865,7 +7865,7 @@
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Followers"
+    translated: "Ye Family Horse Gang Members"
 - lineNum: 1124
   raw: "n20090d	叶家马帮帮众	ml_sitLoop001		-676.2425, 66.218, -983.1173	151.5064	20-23	FALSE	FALSE	v2008801014	v00058	sc20090b			1	19	1	n20147b					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_11\", 1, True} , { \"QuestCondition\" : \"Q20018_02\", 1, False}  ], 0} 	0"
   translated: ""
@@ -8138,7 +8138,7 @@
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1163
   raw: "n20129	李惑相	ml_standA00	n20129	-669.5244, 66.218, -1086.483	69.32441		FALSE	TRUE		v00226				1	3	0	n20129		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 0, True}  ], 0} 	0"
   translated: ""
@@ -8243,21 +8243,21 @@
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1178
   raw: "n20139	叶家马帮帮众	m_standB00	c_m10	-849.626, 66.28426, -1025.569	262.101		FALSE	TRUE		v00075				1	19	0	n20085d	n20139	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_02\", 0, True} , { \"QuestCondition\" : \"Q20011_09\", 0, True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1179
   raw: "n20140	叶家马帮帮众	ml_standA00	c_m06	-852.1304, 66.45271, -1022.922	203.4844		FALSE	TRUE		v00075				1	19	0	n20085b	n20140	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_02\", 0, True} , { \"QuestCondition\" : \"Q20011_09\", 0, True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1180
   raw: "n20141	疤面煞星	m_woodman_stand01	c_m19	-612.876, 63.11279, -903.362	224.0414		FALSE	TRUE		v00008				1	0	0	n20141	n20141	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20013\", 0, True}  ], 0} 	0"
   translated: ""
@@ -8320,28 +8320,28 @@
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1189
   raw: "n20145b	叶家马帮帮众	m_sitEat001		-596.232, 66.40041, -1125.683	266.0193	6-9	FALSE	FALSE	n2014501000					1	19	1	n20086b					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20018_02\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1190
   raw: "n20145c	叶家马帮帮众	m_sitDrink001	c_m01	-627.2476, 66.22084, -996.804	260.1342	11-14	FALSE	FALSE	n20145c01000					1	19	0	n20145c					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20018_02\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1191
   raw: "n20145d	叶家马帮帮众	m_sitDrink001		-628.844, 66.22084, -997.214	73.76247	11-14	FALSE	FALSE	n20145c01000					1	19	0	n20145d					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20018_02\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1192
   raw: "n20146	叶金虹	ml_standA00	n20146	-649.416, 66.994, -1026.281	333.9044		TRUE	TRUE	n2014601000	v00074				1	19	0	n20146	n20146				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_08\", 0, True} , { \"QuestCondition\" : \"Q20011_10\", 0, True}  ], 1} 	0"
   translated: ""
@@ -8362,35 +8362,35 @@
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1195
   raw: "n20147b	叶家马帮帮众	ml_standA00		-648.351, 66.994, -1027.203	324.9754		FALSE	FALSE	n20147b01000	v00075				1	19	0	n20147b					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_08\", 0, True} , { \"QuestCondition\" : \"Q20011_10\", 0, True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1196
   raw: "n20148	叶家马帮帮众	ml_standA00	c_m06	-770.579, 66.18896, -1019.293	338.1633	6-19	FALSE	FALSE	n2014701006	v00076				1	19	0	n20085b		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20018_02\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1197
   raw: "n20148b	叶家马帮帮众	ml_standA00	c_m06	-649.919, 66.964, -1027.9	1.147138		FALSE	FALSE	n20147b01000	v00076				1	19	0	n20085b					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_08\", 0, True} , { \"QuestCondition\" : \"Q20011_10\", 0, True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1198
   raw: "n20148c	叶家马帮帮众	ml_standA00	c_m06	0, 0, 0	0		FALSE	FALSE		v00076				1	19	0	n20085b	n20148				0	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1199
   raw: "n20149	马的尸体	al20017@Death		-1328.81, 140.25, -660.23	0		FALSE	TRUE						1	21	3	animal17		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_03\", 0, True} , { \"QuestCondition\" : \"Q20011_04\", 0, True} , { \"QuestCondition\" : \"Q20011_05\", 0, True} , { \"QuestCondition\" : \"Q20011_12\", 0, True} , { \"QuestCondition\" : \"Q20011_13\", 0, True}  ], 1} 	0"
   translated: ""
@@ -8425,63 +8425,63 @@
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1204
   raw: "n20151b	禾家马帮帮众	ml_standA00	c_m15	-1255.17, 185.812, -780.0192	336.3893		TRUE	FALSE	n20151b01000	v00077				1	18	0	n20040e		0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2山道搶匪\", 0, 0} , { \"QuestCondition\" : \"Q20011_07\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1205
   raw: "n20152	禾家马帮帮众	ml_idle105	c_m06	-1289.11, 106.94, -603.37	218.2783		FALSE	FALSE		v00078				1	18	1	n20040c	n20152	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_03\", 0, True} , { \"QuestCondition\" : \"Q20011_04\", 0, True} , { \"QuestCondition\" : \"Q20011_05\", 0, True} , { \"QuestCondition\" : \"Q20011_12\", 0, True} , { \"QuestCondition\" : \"Q20011_13\", 0, True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1206
   raw: "n20152b	禾家马帮帮众	ml_standA00	c_m06	-658.677, 69.82286, -1079.868	183.2158		TRUE	FALSE	n20152b01000	v00078				1	18	0	n20040c					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2不插手禾家父女\", 1, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1207
   raw: "n20152c	禾家马帮帮众	m_sleep_dead003_ec		-632.52, 66.218, -1075.82	29.17108		FALSE	FALSE		v00078				1	18	3	n20040c					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1208
   raw: "n20153	禾家马帮帮众	ml_idle105	c_m08	-1288.36, 106.9, -602.54	79.59102		FALSE	FALSE		v00077				1	18	1	n20040d	n20153	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_03\", 0, True} , { \"QuestCondition\" : \"Q20011_04\", 0, True} , { \"QuestCondition\" : \"Q20011_05\", 0, True} , { \"QuestCondition\" : \"Q20011_12\", 0, True} , { \"QuestCondition\" : \"Q20011_13\", 0, True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1209
   raw: "n20153b	禾家马帮帮众	ml_standA00	c_m08	-663.393, 69.76037, -1075.268	272.041	7-21	FALSE	FALSE	n20152b01000	v00077				1	18	0	n20040d					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2不插手禾家父女\", 1, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1210
   raw: "n20153c	禾家马帮帮众	m_doze_ec	c_m08	-663.393, 69.76037, -1075.268	272.041	22-23, 0-6	FALSE	FALSE	n20153b01000	v00077	sc20153b			1	18	2	n20040d					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2不插手禾家父女\", 1, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1211
   raw: "n20153d	禾家马帮帮众	m_sleep_dead004_ec		-630.12, 66.218, -1084.09	276.9948		FALSE	FALSE		v00077				1	18	3	n20040d					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1212
   raw: "n20154	劫匪	ml_idle102	n20154	-1293.36, 107.62, -599.98	133.2647		FALSE	FALSE		v00008				1	0	1	n20154	n20154	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_03\", 0, True} , { \"QuestCondition\" : \"Q20011_04\", 0, True} , { \"QuestCondition\" : \"Q20011_05\", 0, True} , { \"QuestCondition\" : \"Q20011_12\", 0, True} , { \"QuestCondition\" : \"Q20011_13\", 0, True}  ], 1} 	0"
   translated: ""
@@ -8558,14 +8558,14 @@
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1223
   raw: "n20167	叶家马帮帮众	m_labor002		-789.871, 66.18829, -1015.669	186.2216	6-19	FALSE	FALSE	n2016701001	v00075				1	19	1	n20167	n20167	0			0	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 1224
   raw: "n20168	贾丁	m_sitLoop002		-741.138, 66.34638, -1109.852	240.3121		FALSE	FALSE	n2016801000	v00055				1	0	1	n20168	n20168	0			0	0"
   translated: ""
@@ -11848,7 +11848,7 @@
   splits:
   - split: 1
     text: "孔金"
-    translated: "Wang Zhi"
+    translated: "Kong Jin"
 - lineNum: 1693
   raw: "n20551	徐暇客	ml_standA00	n20230	135.933, 131.735, -1301.733	96.15099		TRUE	TRUE						1	26	0	n40026	n20230				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07005_01\", 0, True}  ], 0} 	0"
   translated: ""
@@ -12611,28 +12611,28 @@
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1802
   raw: "n20647	禾家马帮帮众	m_sleep_dead002_ec		-1081.048, 164.9394, -1237.514	343.3957		FALSE	FALSE	n2064601000					1		3	n20040b					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1803
   raw: "n20648	禾家马帮帮众	m_sleep_dead003_ec		-1076.873, 165.2643, -1242.045	67.68496		FALSE	FALSE	n2064601000					1		3	n20040c					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1804
   raw: "n20649	禾家马帮帮众	m_sleep_dead004_ec		-1079.233, 164.9602, -1239.786	53.52349		FALSE	FALSE	n2064601000					1		3	n20040d					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 1805
   raw: "n20650	慈荫师太	wl_standA00	n20650	184.656, 103.8252, -305.4155	220.236		FALSE	TRUE						2		0	n20650	n20650				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2慈蔭文淬之相約破廟\", 1, 1} , { \"CheckFlagAction\" : \"f2路上殺了文解\", 3, 1}  ], 0} 	0"
   translated: ""
@@ -14347,7 +14347,7 @@
   splits:
   - split: 1
     text: "汪治枣"
-    translated: "Wang Zhi"
+    translated: "Wang Zhizao"
 - lineNum: 2050
   raw: "n30054	梅安曦	w_standB00	c_w02	-334.9562, 63.655, -976.634	263.103	5-17	FALSE	FALSE	n3005401000	v00038				2	2	0	n30040		0		(Stone_Forge,2)(Money,1)	0	0"
   translated: ""
@@ -14683,21 +14683,21 @@
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 2098
   raw: "n40013	禾家马帮帮众	m_sleep_dead001_ec		-1398.643, 110.275, -53.427	98.66068		FALSE	FALSE						1		3	n20040c					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40008_02\", 0, True} , { \"QuestCondition\" : \"Q40008_03\", 0, True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 2099
   raw: "n40014	禾家马帮帮众	m_sleep_dead001_ec		-1406.77, 118.978, -71.809	21.111		FALSE	FALSE						1	18	3	n20040c					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40008_02\", 0, True} , { \"QuestCondition\" : \"Q40008_03\", 0, True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 2100
   raw: "n40015	禾嘉仁	m_kneel003	c_m14	-1408.582, 131.221, -96.448	194.331		FALSE	FALSE						1		1	n20042d					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40008_02\", 0, True} , { \"QuestCondition\" : \"Q40008_03\", 0, True}  ], 1} 	0"
   translated: ""
@@ -20136,7 +20136,7 @@
   splits:
   - split: 1
     text: "禾家马帮帮众"
-    translated: "He Family Horse Gang Members"
+    translated: "He family horse gang members"
 - lineNum: 2877
   raw: "n52023	黑衣女子	ml_standA00	n52009	-651.734, 113.135, -497.125	31.16478		FALSE	TRUE		v00099				2		0	n52009	n52009				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q52006_08\", 0, True}  ], 0} 	0"
   translated: ""
@@ -36488,14 +36488,14 @@
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 5213
   raw: "n80156	叶家马帮帮众	ml_standA00	c_m10	0, 0, 0	0		FALSE	FALSE						1	19	0	n20085d	n80156				0	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 5214
   raw: "n80157	黑衣人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE						1	0	0	n20154	n80157				0	0"
   translated: ""
@@ -39904,7 +39904,7 @@
   splits:
   - split: 1
     text: "孔金"
-    translated: "Wang Zhi"
+    translated: "Kong Jin"
 - lineNum: 5701
   raw: "n90202	黑衣人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90202				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10001\", 1, False}  ], 0} 	0"
   translated: ""
@@ -40338,7 +40338,7 @@
   splits:
   - split: 1
     text: "叶家马帮帮众"
-    translated: "Ye Family Ma Gang Gang Members"
+    translated: "Ye Jia Ma Bang Bang Zhong"
 - lineNum: 5763
   raw: "n90326	商人	ml_standA00		0, 0, 0	0	13-16	TRUE	FALSE	n9031701003					1	3	0			n90326a			{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f90317e 擁有時間旗標t90317b 今天剛玩推推樂\", 1, 0} , { \"CheckTimeBlackboardAction\" : \"t90317b 今天剛玩推推樂\", False}  ], 1}  ], 0} 	0"
   translated: ""
@@ -40415,7 +40415,7 @@
   splits:
   - split: 1
     text: "董迦罗"
-    translated: "Don Jialuo"
+    translated: "Don Jia Luo"
 - lineNum: 5774
   raw: "n90404	何白芍	w_standG00	n51009	0, 0, 0	0		TRUE	TRUE		v00031				2	0	0	n41042	n51009b				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 0, False} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 0, True} , { \"TeammateCondition\" : \"n51001\", True} , { \"TeammateCondition\" : \"n90405\", True}  ], 0}  ], 1} 	0"
   translated: ""

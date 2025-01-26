@@ -64,9 +64,9 @@ h20106	201		Balance between good and evil	Decisions and actions made by the play
 h20107	201		Reckless and Chivalrous	The decision on the player's standing in this world and their ability to trigger certain special events is determined by an important value. All actions taken by the player in this world can potentially influence its development
 h20108	201		Yin-yang value	The player's internal power attribute is an important value that affects the damage multiplier of techniques. Players can change their Yin and Yang values through training with internal power manuals. If the internal power is a Yang attribute, using Yang attributes in attacks will result in a damage multiplier effect; conversely, if using Yin attribute techniques, the damage effect will decrease
 h20109	201		Jianghu reputation	The player's fame in this world is also an important reference value for triggering certain special conditional events
-h20201	202	SkillTree/Img_skill_HurtType1.png	Fighting	Character uses martial arts abilities based on fist and palm techniques, with higher values producing greater force bonuses
-h20202	202	SkillTree/Img_skill_HurtType2.png	Swordsmanship	The character's ability in swordsmanship, the higher the value, the stronger the force multiplier it can generate
-h20203	202	SkillTree/Img_skill_HurtType3.png	Blade Skills	Characters' ability in the art of blade techniques, the higher the value, the greater the power bonus they can produce
+h20201	202	SkillTree/Img_skill_HurtType1.png	Hand Combat	Character uses martial arts abilities based on fist and palm techniques, with higher values producing greater force bonuses
+h20202	202	SkillTree/Img_skill_HurtType2.png	Sword Arts	The character's ability in sword arts within martial arts, the higher the value, the stronger the power bonus produced
+h20203	202	SkillTree/Img_skill_HurtType3.png	Blade Arts	Character abilities in the art of blade techniques, the higher the value, the stronger the power bonus generated
 h20204	202	SkillTree/Img_skill_HurtType4.png	Spear	The character's ability in Gun-Spear martial arts, the higher the value, the greater the power bonus it produces
 h20205	202	SkillTree/Img_skill_HurtType5.png	Hidden Weapon	Characters' ability in the use of hidden weapons martial arts increases with higher values, producing stronger force multipliers
 h20206	202	SkillTree/Img_skill_HurtType6.png	Short Weapons	The character's ability in short weapons martial arts generates a stronger force multiplier the higher the value
@@ -198,9 +198,9 @@ h70503	705	Blacksmith/Img_Reforge_HurtUp.png	Damage above all else	The damage-or
 h70504	705	Blacksmith/Img_Reforge_BuffUp.png	Results above all	The effect-oriented forging method emphasizes the special effects of weapons, prioritizing diverse combat strategies over high damage output
 h70505	705	Blacksmith/Img_Reforge_AverageUp.png	Average Growth	On average, the forging method balances damage and special effects, making it a fairly balanced growth approach
 h70506	705	Main/Img_Main_Money.png	Cost of re-forging	Re-forging does not require a fee, but the corresponding materials must be provided. The required materials vary depending on different weapons and re-forging methods
-h80101	801	Blacksmith/Img_Forged_01.png	Knuckle Pads	Handcuffs are close-combat weapons; equipping handcuffs can make martial arts focused on fighting even more powerful
-h80102	801	Blacksmith/Img_Forged_02.png	Blade	Swords are close-combat weapons, and equipping a sword allows the use of martial arts techniques related to swordsmanship. If wielding two swords simultaneously, unique dual-sword skills can be executed
-h80103	801	Blacksmith/Img_Forged_03.png	Blade	The sword is a close-combat weapon; equipping a sword allows the use of related swordsmanship techniques. If wielding two swords, unique dual-sword skills can be employed
+h80101	801	Blacksmith/Img_Forged_01.png	Knuckle Pads	Handcuffs are melee weapons. Equipping handcuffs can make grappling martial arts more powerful
+h80102	801	Blacksmith/Img_Forged_02.png	Blade	Swords are close combat weapons, and equipping a sword allows you to use wuxia martial arts techniques related to swordsmanship. If wielding two swords, unique dual-sword skills can also be activated
+h80103	801	Blacksmith/Img_Forged_03.png	Blade	As a close combat weapon, equipping a sword allows one to perform martial arts techniques related to swordsmanship. If wielding two swords, unique twin-sword skills can also be executed
 h80104	801	Blacksmith/Img_Forged_04.png	Spear	Spear/staff is a melee long-handled weapon. Compared to other close-range weapons, spear/staff has a slight advantage in attack distance. Equipping a spear/staff allows you to perform related martial arts techniques
 h80105	801	Blacksmith/Img_Forged_06.png	Hidden Weapon	Hidden weapons are ranged weapons; equipping hidden weapons allows you to attack enemies at medium to long range, but it's not effective against close-range attackers
 h80106	801	Blacksmith/Img_Forged_06.png	Bow	Bows are ranged weapons; equipping a bow allows the use of Archery martial arts, but it is less effective against enemies in close combat

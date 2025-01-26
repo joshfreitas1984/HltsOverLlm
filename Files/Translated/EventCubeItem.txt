@@ -795,7 +795,7 @@
   splits:
   - split: 1
     text: "北丑的床"
-    translated: "North Ugly's Bed"
+    translated: "Bei Chou's bed"
 - lineNum: 114
   raw: "m00040a	劈的柴	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_032_D.prefab	None	-827.105, 157.987, 183.972	1, 1, 1	1, 1, 1	90, 0, 0	False	0		{ \"LogicalNode\" : [ { \"CheckNpcFlagAction\" : \"01\", 1, 0, \"n00081i\"}  ], 0} 	0	0"
   translated: ""
@@ -1341,21 +1341,21 @@
   splits:
   - split: 1
     text: "寻访北丑1"
-    translated: "Seeking Northern Ugly 1"
+    translated: "Seek out Bei Chou 1"
 - lineNum: 192
   raw: "m07010	寻访北丑2	EventBox		None	-592.69, 66.6, 48.02	1, 1, 1	25, 1.5, 25	0, 314.9578, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07002_01\", 0, True} , { \"TimeCondition\" : 7, 18}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m07010\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "寻访北丑2"
-    translated: "Seeking Out Northern Ugly 2"
+    translated: "Seeking out Bei Chou 2"
 - lineNum: 193
   raw: "m07012	寻访北丑3	EventBox		None	101.02, 90.1, -205.96	1, 1, 1	12, 1.5, 9	0, 340.1755, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07002_02\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m07012\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "寻访北丑3"
-    translated: "Seek Out Northern Ugly 3"
+    translated: "Seek out Bei Chou"
 - lineNum: 194
   raw: "m07013	营救东豪1	EventBox		None	125.26, 89.799, -192.16	1, 1, 1	25, 1, 15	0, 344.1754, 0	False	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f9天書碎片數量\", 0, 3} , { \"QuestCondition\" : \"Q07002\", 1, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m07013\"}  ]} 	0"
   translated: ""
@@ -5261,7 +5261,7 @@
   splits:
   - split: 1
     text: "禾家马帮与黑衣人"
-    translated: "He Family Horse Gang and Black-Clothed People"
+    translated: "Wheat Family Horse Gang and the Men in Black"
 - lineNum: 752
   raw: "m20041	禾郁青与鹰猎人守卫的对话	EventBox		None	-1252.2, 179.83, -810.71	1, 1, 1	12.95202, 1.318076, 12.23218	0.0007514275, 13.24024, 6.611038	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_03\", 0, True} , { \"TeammateCondition\" : \"n20049\", True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20017\"}  ]} 	0"
   translated: ""
@@ -5527,14 +5527,14 @@
   splits:
   - split: 1
     text: "茶庄马帮事件"
-    translated: "Tea Estate Ma Gang Incident"
+    translated: "Tea Estate Horse Gang Incident"
 - lineNum: 790
   raw: "m20073	叶家马帮受伤帮众	EventBox		None	-675.2, 66.621, -984.87	1, 1, 1	9.113286, 1, 8.329346	0, 325.4623, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20018_01\", 0, True} , { \"TeammateCondition\" : \"n20049\", True} , { \"TimeCondition\" : 20, 24}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20088\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮受伤帮众"
-    translated: "Ye Family Horse Gang Injured Members"
+    translated: "Members of the Ye Family Horse Gang are injured"
 - lineNum: 791
   raw: "m20074	蛇窟前事件	EventBox		None	-182.26, 111.12, -1102.57	9.367321, 4.756658, 10.02369	1.91161, 1.746218, 1	0, 325.2488, 0	False	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m2007401000\"}  ]} 	0"
   translated: ""
@@ -5555,14 +5555,14 @@
   splits:
   - split: 1
     text: "禾家马帮看守禾郁青"
-    translated: "Huo Family Horse Gang guards Hu Yuqing"
+    translated: "He family horse gang guards He Yuqing"
 - lineNum: 794
   raw: "m20077	禾家马帮看守禾郁青	EventBox		None	-662.257, 70.655, -1075.221	1, 1, 1	1, 2.293609, 2.187416	0, 0.7099593, 0	True	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2不插手禾家父女\", 1, 1} , { \"TimeCondition\" : 7, 22} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20098\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮看守禾郁青"
-    translated: "Huo Family Horse Gang guards Hu Yuqing"
+    translated: "Wheat Family Horse Gang guards Hu Yuqing"
 - lineNum: 795
   raw: "m20078	木箱	MouseEventBox	Resources_Art/Art3D/Ore/woodbox.prefab	Pick	-665.4101, 66.335, -1076.946	0.72, 0.72, 0.75	1, 1, 1	0, 0, 0	False	0		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it801049\", 1}  ]} 	0"
   translated: ""
@@ -5604,7 +5604,7 @@
   splits:
   - split: 1
     text: "山魈鬼王袭击禾家马帮"
-    translated: "Shanshe Guiwang attacked the He Family Horse Gang"
+    translated: "Shan Sheo Guiwang xiji Hejia Mabang"
 - lineNum: 801
   raw: "m20085	紫金八卦刀	MouseEventBox	Character/All_Accessories/Prefab/ac3a0066.prefab	Survey	-1037.16, 113.502, -1166.404	1, 1, 1	1, 1, 1	22.56339, 340.0962, 280.7596	False	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m2008501000\"} , { \"InventoryAction\" : 0, \"eq10411\", 1}  ]} 	0"
   translated: ""
@@ -5653,7 +5653,7 @@
   splits:
   - split: 1
     text: "禾家马帮遭袭"
-    translated: "He Family Horse Gang is under attack"
+    translated: "He family horse gang is attacked"
 - lineNum: 808
   raw: "m20092	狼窟	EventBox		None	-942.53, 161.51, -1423.51	1, 1, 1	1, 3.580231, 24.70936	0, 25.98825, 0	False	0		0	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20111\"}  ]} 	0"
   translated: ""
@@ -6073,7 +6073,7 @@
   splits:
   - split: 1
     text: "圣堂门后"
-    translated: "Behind the Sanctuary Door"
+    translated: "Behind the Holy Sanctuary"
 - lineNum: 868
   raw: "m20152	从陆地靠近无名老僧与慕容龙城	EventBox		None	-1347.78, 169.78, 832.57	1, 1, 1	2.057992, 9.802064, 17.14101	0, 337.8209, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20031_10\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetBlackboardAction\" : \"f2從陸地靠近\", 1, 2} , { \"RunMovieAction\" : \"v20173\"}  ]} 	0"
   translated: ""
@@ -9006,7 +9006,7 @@
   splits:
   - split: 1
     text: "木奎线：跟踪阿克来到马帮"
-    translated: "Wooden Beam Line：Follow Ake to the Ma Gang"
+    translated: "Mo Kuixian：Following Ade, they arrived at the Horse Gang"
 - lineNum: 1287
   raw: "m50187g	木奎线：在木府前目睹一片死尸	EventBox		None	-873, 66.1883, -953.32	1, 1, 1	47.08033, 1, 60.11816	0, 331.0127, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q52006_09\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m520060800\"}  ]} 	0"
   translated: ""
@@ -23335,7 +23335,7 @@
   splits:
   - split: 1
     text: "叶家马帮遗落货物"
-    translated: "Ye family horse gang abandoned goods"
+    translated: "Ye Ji Ma Bang Yiluo Huowu"
 - lineNum: 3334
   raw: "Q4004503	货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_010_B Variant.prefab	None	-1360.862, 95.44678, 405.4841	0.5629372, 0.5774143, 0.5961068	1, 1, 1	270, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40045_02\", 0, True} , { \"QuestCondition\" : \"Q40045_03\", 0, True}  ], 1} 	0	0"
   translated: ""
@@ -24196,105 +24196,105 @@
   splits:
   - split: 1
     text: "马帮货物"
-    translated: "Ma bang huowu"
+    translated: "Horse Gang Goods"
 - lineNum: 3457
   raw: "s20023b	马帮货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_M.prefab	None	-670.463, 66.18829, -1087.746	1, 1, 1	1, 1, 1	270, 0, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物"
-    translated: "Ma Gang Goods"
+    translated: "Horse Gang Goods"
 - lineNum: 3458
   raw: "s20023c	马帮货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_K.prefab	None	-668.9986, 66.148, -1085.696	1.116734, 0.3836777, 0.7309769	1, 1, 1	0, 287.4815, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物"
-    translated: "Ma Gang's goods"
+    translated: "Goods from the horse gang"
 - lineNum: 3459
   raw: "s20023d	马帮货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_J.prefab	None	-668.5959, 66.431, -1086.897	1, 1, 1	1, 1, 1	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物"
-    translated: "Ma Gang goods"
+    translated: "Goods of the Horse Gang"
 - lineNum: 3460
   raw: "s20023e	马帮货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_H.prefab	None	-667.8109, 66.18829, -1086.369	1, 1, 1	1, 1, 1	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物"
-    translated: "Ma Gang's Goods"
+    translated: "Goods of the Horse Gang"
 - lineNum: 3461
   raw: "s20023f	马帮货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_I.prefab	None	-669.376, 66.484, -1085.852	1, 1, 1	1, 1, 1	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物"
-    translated: "Ma Gang's goods"
+    translated: "Goods of the Horse Gang"
 - lineNum: 3462
   raw: "s20023g	马帮货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Vehicle/vehicle_001_A.prefab	None	-671.877, 66.18829, -1081.21	1.412496, 0.8714607, 1.016511	1, 1, 1	270, 286.5383, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"QuestCondition\" : \"Q20011_07\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物"
-    translated: "Ma Gang's goods"
+    translated: "Goods from the Horse Gang"
 - lineNum: 3463
   raw: "s20023h	马帮货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_045_K.prefab	None	-669.945, 66.24129, -1086.557	1.116734, 0.3836777, 0.7309769	1, 1, 1	0, 97.01371, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物"
-    translated: "Ma Gang's Goods"
+    translated: "Horse Gang Goods"
 - lineNum: 3464
   raw: "s20024	马帮货物b	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/koda/inside_039_A (1).prefab	None	-669.83, 66.436, -1088.524	1, 1, 1	1.5, 1.5, 1.5	0, 332.3902, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物b"
-    translated: "Ma Gang goods b"
+    translated: "Horse Gang goods b"
 - lineNum: 3465
   raw: "s20024b	马帮货物b	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/koda/inside_039_A (2).prefab	None	-669.969, 66.383, -1089.572	1, 1, 1	1.5, 1.5, 1.5	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物b"
-    translated: "Ma Gang goods b"
+    translated: "Goods of the Horse Gang"
 - lineNum: 3466
   raw: "s20024c	马帮货物b	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/koda/inside_039_A (1).prefab	None	-668.703, 66.434, -1090.082	1, 1, 1	1.5, 1.5, 1.5	0, 24.91117, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物b"
-    translated: "Ma Gang's goods"
+    translated: "Horse Gang Goods"
 - lineNum: 3467
   raw: "s20024d	马帮货物b	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/koda/inside_039_A (1).prefab	None	-669.214, 66.421, -1089.627	1, 1, 1	1.5, 1.5, 1.5	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物b"
-    translated: "Ma Gang's goods"
+    translated: "Goods from the horse gang"
 - lineNum: 3468
   raw: "s20024e	马帮货物b	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/koda/inside_039_A (2).prefab	None	-668.7, 66.391, -1088.821	1, 1, 1	1.5, 1.5, 1.5	0, 314.3184, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物b"
-    translated: "Ma Gang's Goods"
+    translated: "Goods of the Horse Gang"
 - lineNum: 3469
   raw: "s20024f	马帮货物b	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/koda/inside_039_A (2).prefab	None	-668.427, 66.41767, -1089.11	1, 1, 1	1.5, 1.5, 1.5	0, 18.90746, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物b"
-    translated: "Ma Gang's Goods b"
+    translated: "Horse Gang Goods B"
 - lineNum: 3470
   raw: "s20024g	马帮货物b	MouseEventBox	Resources_Art/Art3D/Building/Perfabs/house_shed/koda/inside_039_A (1).prefab	None	-668.315, 66.423, -1088.32	1, 1, 1	1.5, 1.5, 1.5	0, 338.8573, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 11} , { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0	0"
   translated: ""
   splits:
   - split: 1
     text: "马帮货物b"
-    translated: "Ma Gang's goods B"
+    translated: "Horse Gang Goods B"
 - lineNum: 3471
   raw: "s20025	丽江肉铺钻版	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_049_A.prefab	None	-640.4375, 67.48585, -1112.5	0.4924039, 0.5000001, 0.05000001	1, 1, 1	270, 0, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 20}  ], 0} 	0	0"
   translated: ""
@@ -24511,14 +24511,14 @@
   splits:
   - split: 1
     text: "禾家马帮铁觇"
-    translated: "He Family Horse Gang Iron Eyebrows"
+    translated: "He Family Horse Gang Iron Claw"
 - lineNum: 3502
   raw: "s20046	禾家马帮工具箱	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_039_C.prefab	None	-654.779, 66.39934, -1074.732	1, 1, 1	1, 1, 1	0, 157.2908, 0	False	0		0	0	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮工具箱"
-    translated: "He Family Horse Gang Tool Box"
+    translated: "He Family Horse Gang Toolbox"
 - lineNum: 3503
   raw: "s20047	禾家马帮铁器	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_039_J.prefab	None	-654.843, 66.54195, -1075.663	0.7581875, 0.671526, 0.1146092	1, 1, 1	270, 0, 0	False	0		0	0	0"
   translated: ""
@@ -24532,7 +24532,7 @@
   splits:
   - split: 1
     text: "叶家马帮铁觇"
-    translated: "Ye Family Horse Gang Iron Hook"
+    translated: "Ye Ji Ma Bang Tie Chan"
 - lineNum: 3505
   raw: "s20049	大石头	MouseEventBox	Resources_Art/Art3D/3rdPackage/PBR Graveyard 2.0/Prefabs/Foliage and Enviro/prefab_Big_rock_3_01.prefab	None	-236.995, 82.824, -906.101	2001, 1, 1	1, 1, 1	270, 40.81349, 0	False	0		0	0	0"
   translated: ""
@@ -24763,14 +24763,14 @@
   splits:
   - split: 1
     text: "叶家马帮假人"
-    translated: "Ye Family Horse Gang Dummy"
+    translated: "Ye Ji Ma Bang jia ren"
 - lineNum: 3538
   raw: "s20101	叶家马帮假人	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_048_A.prefab	None	-770.66, 66.22153, -1002.93	0.3580332, 0.3072974, 1.908633	1, 1, 1	270, 90.4938, 0	False	0		0	0	0"
   translated: ""
   splits:
   - split: 1
     text: "叶家马帮假人"
-    translated: "Ye Family Horse Gang Dummy"
+    translated: "Ye Jia Ma Bang Jia Ren"
 - lineNum: 3539
   raw: "s20102	叶家马帮假人	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_048_A.prefab	None	-770.65, 66.22153, -1000.57	0.3580332, 0.3072974, 1.908633	1, 1, 1	270, 90.4938, 0	False	0		0	0	0"
   translated: ""
@@ -25050,7 +25050,7 @@
   splits:
   - split: 1
     text: "圣堂门口大石头"
-    translated: "At the entrance of the sacred hall, a large stone"
+    translated: "Sanctuary Gate Big Rock"
 - lineNum: 3579
   raw: "s20138	血刀大法	MouseEventBox	Resources_Art/Art3D/Ore/redbook.prefab	None	0, 0, 0	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	0	0"
   translated: ""
@@ -25386,7 +25386,7 @@
   splits:
   - split: 1
     text: "汪治枣靠着的木板"
-    translated: "Wang Zhi sat on a wooden plank"
+    translated: "Wang Zhizao leaned against the plank"
 - lineNum: 3627
   raw: "s60045	琵琶女椅子左	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Chair/chair_001_A.prefab	None	-734.647, 66.88, -1117.697	0.2324116, 0.2421512, 0.4451471	1, 1, 1	270, 0, 0	True	0		0	0	0"
   translated: ""
@@ -27346,7 +27346,7 @@
   splits:
   - split: 1
     text: "虾米等孔金"
-    translated: "Shrimp crabs and golden conch"
+    translated: "Wait for Kong Jin"
 - lineNum: 3907
   raw: "s90208_1	破了个洞的钱袋	MouseEventBox	Character/All_Accessories/Prefab/ac6d0001.prefab	Pick	68.123, 160.341, -1335.659	1, 1, 1	1, 1, 1	334.6008, 315, 1.984769E-05	False	0		0	{ \"MultiAction\" : [ { \"SetMoneyAction\" : 90, 0}  ]} 	0"
   translated: ""
@@ -27507,21 +27507,21 @@
   splits:
   - split: 1
     text: "槟榔"
-    translated: "Areca nut"
+    translated: "Betel nut"
 - lineNum: 3930
   raw: "s90219	槟榔	MouseEventBox	Character/All_Accessories/Prefab/ac6d0001.prefab	Pick	-1.021, 126.711, -1311.407	1, 1, 1	2, 2, 2	341.4611, 126.0882, 6.592131	False	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n9020101075\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "槟榔"
-    translated: "Areca nut"
+    translated: "Betel nut"
 - lineNum: 3931
   raw: "s90220	槟榔	MouseEventBox	Character/All_Accessories/Prefab/ac6d0001.prefab	Pick	32.25, 125.962, -1327.07	1, 1, 1	2, 2, 2	335.1383, 245.011, 342.5568	False	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n9020101075\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "槟榔"
-    translated: "Areca nut"
+    translated: "Betel nut"
 - lineNum: 3932
   raw: "s90221a	铜	MouseEventBox	Resources_Art/Art3D/Ore/copper.prefab	Dig	83.756, 120.7, -1386.274	1, 1, 1	1, 1, 1	0, 132.7327, 0	True	72		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it70101\", 2}  ]} 	0"
   translated: ""

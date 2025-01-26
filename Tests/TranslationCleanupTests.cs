@@ -18,9 +18,11 @@ public class TranslationCleanupTests
         var manual = TranslationService.GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
-            //"野球拳",
-            //"南诏",
-            //"徐花"
+            //"圣堂",
+            //"迦罗",
+            //"以娟",
+            //"北丑",
+            //"汪治枣",                   
         };
 
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
@@ -40,7 +42,7 @@ public class TranslationCleanupTests
                         if (split.Translated != value)
                         {
                             Console.WriteLine($"Manually Translated {textFileToTranslate.Path} \n{split.Text}\n{split.Translated}");
-                            split.Translated = LineValidation.PrepareResult(value);
+                            split.Translated = LineValidation.CleanupLineBeforeSaving(LineValidation.PrepareResult(value), split.Text);
                             recordsModded++;
                         }
                         continue;

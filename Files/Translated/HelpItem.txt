@@ -658,7 +658,7 @@
   splits:
   - split: 3
     text: "搏击"
-    translated: "Fighting"
+    translated: "Hand Combat"
   - split: 4
     text: "角色使用拳掌武学的能力，数值越高能产生越强的威力加成。"
     translated: "Character uses martial arts abilities based on fist and palm techniques, with higher values producing greater force bonuses"
@@ -668,20 +668,20 @@
   splits:
   - split: 3
     text: "剑法"
-    translated: "Swordsmanship"
+    translated: "Sword Arts"
   - split: 4
     text: "角色使用剑法武学的能力，数值越高能产生越强的威力加成。"
-    translated: "The character's ability in swordsmanship, the higher the value, the stronger the force multiplier it can generate"
+    translated: "The character's ability in sword arts within martial arts, the higher the value, the stronger the power bonus produced"
 - lineNum: 68
   raw: "h20203	202	SkillTree/Img_skill_HurtType3.png	刀法	角色使用刀法武学的能力，数值越高能产生越强的威力加成。"
   translated: ""
   splits:
   - split: 3
     text: "刀法"
-    translated: "Blade Skills"
+    translated: "Blade Arts"
   - split: 4
     text: "角色使用刀法武学的能力，数值越高能产生越强的威力加成。"
-    translated: "Characters' ability in the art of blade techniques, the higher the value, the greater the power bonus they can produce"
+    translated: "Character abilities in the art of blade techniques, the higher the value, the stronger the power bonus generated"
 - lineNum: 69
   raw: "h20204	202	SkillTree/Img_skill_HurtType4.png	枪棍	角色使用枪棍武学的能力，数值越高能产生越强的威力加成。"
   translated: ""
@@ -2001,7 +2001,7 @@
     translated: "Knuckle Pads"
   - split: 4
     text: "拳套为近战武器，装备拳套可以使搏击类武学更加强劲。"
-    translated: "Handcuffs are close-combat weapons; equipping handcuffs can make martial arts focused on fighting even more powerful"
+    translated: "Handcuffs are melee weapons. Equipping handcuffs can make grappling martial arts more powerful"
 - lineNum: 201
   raw: "h80102	801	Blacksmith/Img_Forged_02.png	剑	剑为近战武器，装备剑可以施展剑法相关的武学招式，若双持两把剑，还能够施放独特的双剑技能。"
   translated: ""
@@ -2011,7 +2011,7 @@
     translated: "Blade"
   - split: 4
     text: "剑为近战武器，装备剑可以施展剑法相关的武学招式，若双持两把剑，还能够施放独特的双剑技能。"
-    translated: "Swords are close-combat weapons, and equipping a sword allows the use of martial arts techniques related to swordsmanship. If wielding two swords simultaneously, unique dual-sword skills can be executed"
+    translated: "Swords are close combat weapons, and equipping a sword allows you to use wuxia martial arts techniques related to swordsmanship. If wielding two swords, unique dual-sword skills can also be activated"
 - lineNum: 202
   raw: "h80103	801	Blacksmith/Img_Forged_03.png	刀	刀为近战武器，装备刀可以施展刀法相关的武学招式，若双持两把刀，还能够施展独特的双刀技能。"
   translated: ""
@@ -2021,7 +2021,7 @@
     translated: "Blade"
   - split: 4
     text: "刀为近战武器，装备刀可以施展刀法相关的武学招式，若双持两把刀，还能够施展独特的双刀技能。"
-    translated: "The sword is a close-combat weapon; equipping a sword allows the use of related swordsmanship techniques. If wielding two swords, unique dual-sword skills can be employed"
+    translated: "As a close combat weapon, equipping a sword allows one to perform martial arts techniques related to swordsmanship. If wielding two swords, unique twin-sword skills can also be executed"
 - lineNum: 203
   raw: "h80104	801	Blacksmith/Img_Forged_04.png	枪/棍	枪/棍为近战长柄武器，枪/棍比起其他近战武器来说，在攻击距离上稍占优势，装备枪/棍可以施展枪/棍相关的武学招式。"
   translated: ""

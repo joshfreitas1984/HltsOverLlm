@@ -1184,60 +1184,60 @@
   splits:
   - split: 1
     text: "加强刀法伤害一阶"
-    translated: "Enhance swordsmanship damage by one level"
+    translated: "Enhance sword art damage by one level"
   - split: 2
     text: "加强刀法伤害3%"
-    translated: "Boost blade skills damage by 3%"
+    translated: "Enhance Blade Arts damage by 3%"
 - lineNum: 119
   raw: "blade02	加强刀法伤害二阶	加强刀法伤害5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强刀法伤害二阶"
-    translated: "Enhance the damage of sword skills by two levels"
+    translated: "Enhance blade art damage to the second level"
   - split: 2
     text: "加强刀法伤害5%"
-    translated: "Enhance swordsmanship damage by 5%"
+    translated: "Enhance Sword Art Damage by 5%"
 - lineNum: 120
   raw: "blade03	加强刀法伤害三阶	加强刀法伤害8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强刀法伤害三阶"
-    translated: "Enhance swordsmanship damage by three levels"
+    translated: "Enhance the damage of swordsmanship by three ranks"
   - split: 2
     text: "加强刀法伤害8%"
-    translated: "Enhance blade skills damage by 8%"
+    translated: "Enhance blade arts damage by 8%"
 - lineNum: 121
   raw: "blade04	加强刀法伤害四阶	加强刀法伤害10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强刀法伤害四阶"
-    translated: "Enhance the blade skills damage by four levels"
+    translated: "Enhance the blade art's damage to fourth level"
   - split: 2
     text: "加强刀法伤害10%"
-    translated: "Enhance blade skills damage by 10%"
+    translated: "Enhance blade arts damage by 10%"
 - lineNum: 122
   raw: "blade05	加强刀法伤害五阶	加强刀法伤害25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强刀法伤害五阶"
-    translated: "Enhance sword skills damage to level five"
+    translated: "Enhance swordsmanship damage by five levels"
   - split: 2
     text: "加强刀法伤害25%"
-    translated: "Enhance swordsmanship damage by 25%"
+    translated: "Enhance sword damage by 25%"
 - lineNum: 123
   raw: "bladerange01	加大刀法攻击范围	加大刀法攻击范围	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0"
   translated: ""
   splits:
   - split: 1
     text: "加大刀法攻击范围"
-    translated: "Expand the swordsmanship attack range"
+    translated: "Expand the range of swordsmanship attacks"
   - split: 2
     text: "加大刀法攻击范围"
-    translated: "Expand the swordsmanship attack range"
+    translated: "Enlarge the swordsmanship attack range"
 - lineNum: 124
   raw: "bow01	加强弓箭伤害一阶	加强弓箭伤害3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0"
   translated: ""
@@ -1304,60 +1304,60 @@
   splits:
   - split: 1
     text: "加强搏击伤害一阶"
-    translated: "Enhance physical combat damage by one grade"
+    translated: "Enhance fistfighting damage by one tier"
   - split: 2
     text: "加强搏击伤害3%"
-    translated: "Enhance melee damage by 3%"
+    translated: "Enhance hand combat damage by 3%"
 - lineNum: 131
   raw: "combat02	加强搏击伤害二阶	加强搏击伤害5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强搏击伤害二阶"
-    translated: "Enhance battle damage by two levels"
+    translated: "Enhance the punch damage by two levels"
   - split: 2
     text: "加强搏击伤害5%"
-    translated: "Enhance battle damage by 5%"
+    translated: "Boost physical combat damage by 5%"
 - lineNum: 132
   raw: "combat03	加强搏击伤害三阶	加强搏击伤害8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强搏击伤害三阶"
-    translated: "Enhance combat damage by three levels"
+    translated: "Enhance the hand combat damage by three levels"
   - split: 2
     text: "加强搏击伤害8%"
-    translated: "Enhance melee combat damage by 8%"
+    translated: "Enhance melee damage by 8%"
 - lineNum: 133
   raw: "combat04	加强搏击伤害四阶	加强搏击伤害10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强搏击伤害四阶"
-    translated: "Enhance combat damage to the fourth level"
+    translated: "Enhance striking damage to the fourth tier"
   - split: 2
     text: "加强搏击伤害10%"
-    translated: "Enhance melee damage by 10%"
+    translated: "Enhance hand-to-hand combat damage by 10%"
 - lineNum: 134
   raw: "combat05	加强搏击伤害五阶	加强搏击伤害25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强搏击伤害五阶"
-    translated: "Enhance combat damage by five stages"
+    translated: "Enhance combat damage by five levels"
   - split: 2
     text: "加强搏击伤害25%"
-    translated: "Boost melee damage by 25%"
+    translated: "Enhance hand combat damage by 25%"
 - lineNum: 135
   raw: "combatrange01	加强搏击攻击范围	加强搏击攻击范围	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强搏击攻击范围"
-    translated: "Enhance the striking range"
+    translated: "Enhance the striking attack range"
   - split: 2
     text: "加强搏击攻击范围"
-    translated: "Enhance the combat attack range"
+    translated: "Enhance the range of hand combat attacks"
 - lineNum: 136
   raw: "darts01	加强暗器伤害一阶	加强暗器伤害3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0"
   translated: ""
@@ -1864,27 +1864,27 @@
   splits:
   - split: 1
     text: "加强剑法伤害一阶"
-    translated: "Enhance sword technique damage by one stage"
+    translated: "Enhance the sword technique's damage by one level"
   - split: 2
     text: "加强剑法伤害3%"
-    translated: "Enhance swordsmanship damage by 3%"
+    translated: "Enhance Sword Art Damage by 3%"
 - lineNum: 187
   raw: "sword02	加强剑法伤害二阶	加强剑法伤害5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强剑法伤害二阶"
-    translated: "Strengthen swordsmanship damage by two stages"
+    translated: "Enhance Sword Techniques to Second Tier Damage"
   - split: 2
     text: "加强剑法伤害5%"
-    translated: "Enhance sword skills damage by 5%"
+    translated: "Enhance sword damage by 5%"
 - lineNum: 188
   raw: "sword03	加强剑法伤害三阶	加强剑法伤害8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强剑法伤害三阶"
-    translated: "Enhance swordsmanship damage by three levels"
+    translated: "Enhance sword technique damage to the third tier"
   - split: 2
     text: "加强剑法伤害8%"
     translated: "Enhance swordsmanship damage by 8%"
@@ -1894,30 +1894,30 @@
   splits:
   - split: 1
     text: "加强剑法伤害四阶"
-    translated: "Enhance the damage of swordsmanship to four levels"
+    translated: "Enhance the damage of sword techniques to four levels"
   - split: 2
     text: "加强剑法伤害10%"
-    translated: "Enhance swordsmanship damage by 10%"
+    translated: "Enhance sword skills damage by 10%"
 - lineNum: 190
   raw: "sword05	加强剑法伤害五阶	加强剑法伤害25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0"
   translated: ""
   splits:
   - split: 1
     text: "加强剑法伤害五阶"
-    translated: "Enhance swordsmanship damage by five stages"
+    translated: "Enhance sword technique damage by five levels"
   - split: 2
     text: "加强剑法伤害25%"
-    translated: "Enhance swordsmanship damage by 25%"
+    translated: "Enhance sword technique damage by 25%"
 - lineNum: 191
   raw: "swordrange01	加大剑法攻击范围	加大剑法攻击范围	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0"
   translated: ""
   splits:
   - split: 1
     text: "加大剑法攻击范围"
-    translated: "Expand the swordsmanship attack range"
+    translated: "Enhance the sword technique attack range"
   - split: 2
     text: "加大剑法攻击范围"
-    translated: "Expand the swordsmanship attack range"
+    translated: "Expand the sword technique's attack range"
 - lineNum: 192
   raw: "talent00000_2	由x入x共享点	由x入x共享点	0		0	FALSE	0	FALSE	0	0		talent00000_2"
   translated: ""
@@ -2707,7 +2707,7 @@
     translated: "Bagua Palm"
   - split: 2
     text: "需求武学「搏击45」，需求感悟「动：以快打慢」。出招前移动距离越长，伤害越高（每格提升3%伤害）。"
-    translated: "Need martial arts 'Combat 45', need understanding of 'Motion'：Strike quickly, follow slowly. The longer the distance moved before striking, the higher the damage (damage increases by 3% per tile)"
+    translated: "Need martial arts Hand Combat 45, need perception Feel：Attack quickly, move slowly. The damage increases by 3% for each square of movement before attacking"
 - lineNum: 271
   raw: "buffSkillTree005_001	九宫八卦掌	需求武学「搏击45」，需求感悟「巧：？？？？」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -2717,7 +2717,7 @@
     translated: "Jiugong Bagua Zhang"
   - split: 2
     text: "需求武学「搏击45」，需求感悟「巧：？？？？」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。"
-    translated: "Require martial art Fighting 45, require enlightenment Skillful：When this technique is used, the user will inevitably maneuver to the right side of their target before striking"
+    translated: "'Requires martial art Poji 45 and the realization of Cleverness.'：Once this technique is executed, the user will invariably move around to the target enemy's right side before initiating another attack"
 - lineNum: 272
   raw: "buffSkillTree005_004	八卦游龙	需求武学「搏击45」，需求感悟「动：以快打慢」。出招前移动距离越长，伤害越高（每格提升3%伤害）。	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -2727,7 +2727,7 @@
     translated: "Eight Trigrams Serpent"
   - split: 2
     text: "需求武学「搏击45」，需求感悟「动：以快打慢」。出招前移动距离越长，伤害越高（每格提升3%伤害）。"
-    translated: "Requires martial art 'Pojie 45', needs to understand the insight 'Dong'：Attack the slower. The further you move before attacking, the higher the damage (damage increases by 3% per tile)"
+    translated: "Needs to master the martial art Hand Combat 45, needs to grasp the insight Movement：Fast strikes against slow ones. The further the movement before a strike, the higher the damage (increasing 3% per grid)"
 - lineNum: 273
   raw: "buffSkillTree005_005	八卦游身	需求武学「搏击45」，需求感悟「巧：指东打西」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -2737,7 +2737,7 @@
     translated: "Eight Trigrams Body"
   - split: 2
     text: "需求武学「搏击45」，需求感悟「巧：指东打西」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。"
-    translated: "Requirement for martial arts Combat 45, requirement for insight Sleight：Point East and Strike West. Once this technique is employed, the user will invariably move to the right side of their target before attacking"
+    translated: "Requires martial art Hand Combat 45, requires perception of Cunning：Point East and Strike West. Once this technique is deployed, the attacker will inevitably maneuver around to the right side of their target before launching an attack"
 - lineNum: 274
   raw: "buffSkillTree006_000	神剑令	若装备青城神剑令，飞剑归山的威力增强	0		0	FALSE	0	FALSE	0	0		buffSkillTree006_000"
   translated: ""
@@ -2777,7 +2777,7 @@
     translated: "Thousands of threads"
   - split: 2
     text: "需求武学「剑法」。持续技，范围内的敌方，每经过一个时序都会受到些微伤害。持续三回合。"
-    translated: "Requires the martial art Swordsmanship. A continuous skill, all enemies within range will take minor damage each turn for three rounds"
+    translated: "Need the martial art skill Sword Technique. Continuous effect; within range, enemy units will take minor damage each turn. Lasts for three rounds"
 - lineNum: 278
   raw: "buffSkillTree007_002	缠字诀	需求感悟「柔：」。范围内的友方，伤害减免+15%。	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -2997,7 +2997,7 @@
     translated: "Blushful confusion"
   - split: 2
     text: "剑法越高明，招式威力越强；学会越多剑法招式，万紫千红造成的晕眩值、迷惑值越高"
-    translated: "The higher the level of swordsmanship, the stronger the power of the techniques; the more swordsmanship techniques learned, the greater the disorientation and confusion values caused by Thousand Purples, Thousand Reds"
+    translated: "The more skilled the swordsmanship, the stronger the power of its techniques; mastering more swordsmanship techniques results in higher levels of dizziness and confusion from Ten Shades of Purple"
 - lineNum: 300
   raw: "buffSkillTree014_002	满川桃李	万紫千红的消耗精力增加1点，消耗内力增加15点。百花撩乱的效果加强	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -3557,7 +3557,7 @@
     translated: "Five Rooster Light Smoke"
   - split: 2
     text: "运行段家心法时，增强段家剑法与段家指法的招式威力"
-    translated: "When using the Duan Family Martial Arts, it enhances the power of Duan Family Swordsmanship and Duan Family Fencing techniques"
+    translated: "When practicing the Duan Family Qi Cultivation, enhance the power of Duan Family sword techniques and finger techniques"
 - lineNum: 356
   raw: "buffSkillTree038_007	地行	夜叉探海、旱魃为虐的威力增强	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -4167,7 +4167,7 @@
     translated: "Take my thunderbolt pill!"
   - split: 2
     text: "孔金专属招式。"
-    translated: "Kong Jin's Exclusive Technique"
+    translated: "Special move exclusive to Kong Jin"
 - lineNum: 417
   raw: "buffSkillTree050_001	孔八拉	孔金专属招式。	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -4177,7 +4177,7 @@
     translated: "Cong Ba La"
   - split: 2
     text: "孔金专属招式。"
-    translated: "Keong Jin's unique technique"
+    translated: "Kong Jin's exclusive technique"
 - lineNum: 418
   raw: "buffSkillTree051_000	凌波微步	施展凌波微步后，5回合内增加闪避率6%	0	microstep	0	TRUE	0	FALSE	0	0		buffSkillTree051_000"
   translated: ""
@@ -4637,7 +4637,7 @@
     translated: "Opening Yang Martial Form"
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升3%"
-    translated: "With a +4 bonus in swordsmanship, before moving at the start of each turn, perform Yaoguang Pojun to increase its power by 3%"
+    translated: "Swordsmanship +4, before moving each turn perform Yao Guang Po Jun to increase its effectiveness by 3%"
 - lineNum: 464
   raw: "buffSkillTree071_003	玉衡廉贞	剑法+4，每回合尚未移动前施展瑶光破军，威力提升6%	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -4647,7 +4647,7 @@
     translated: "Yuheng Lianzhen"
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升6%"
-    translated: "Enhanced Swordsmanship +4. Before moving in a turn, cast Yaoguang Pojun to increase its power by 6%"
+    translated: "Each round, before moving, enhance the Yuangongpojun technique by 6%, after increasing sword skill by 4"
 - lineNum: 465
   raw: "buffSkillTree071_004	天权文曲	剑法+4，每回合尚未移动前施展瑶光破军，威力提升9%	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -4657,7 +4657,7 @@
     translated: "Heavenly Mandate and Literati"
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升9%"
-    translated: "Swordsmanship +4, cast Yaoguang Pojun before moving in the round to increase its potency by 9%"
+    translated: "Swordsmanship +4, can perform Yao Guang Po Jun before moving in each round, increasing its power by 9%"
 - lineNum: 466
   raw: "buffSkillTree071_005	天玑禄存	剑法+4，每回合尚未移动前施展瑶光破军，威力提升12%	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -4667,7 +4667,7 @@
     translated: "Tian Jiru Cun"
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升12%"
-    translated: "Swordsmanship +4, before moving in a turn, perform Yao Guang Po Jun with a 12% increase in power"
+    translated: "Enhance Swordsmanship by 4, and if you cast Yaoguang Pojun before moving in the turn, its power is increased by 12%"
 - lineNum: 467
   raw: "buffSkillTree071_006	天璇巨门	剑法+4，每回合尚未移动前施展瑶光破军，威力提升15%	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -4677,7 +4677,7 @@
     translated: "Heavenly Pivot Great Gate"
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升15%"
-    translated: "Increase swordsmanship by +4, before moving each turn, perform Yao Guang Po Jun to boost its power by 15%"
+    translated: "Sword Arts +4, execute Yao Guang Po Jun before moving each round to increase power by 15%"
 - lineNum: 468
   raw: "buffSkillTree072_008	八千里路云和月	饥餐胡虏肉、渴饮匈奴血的消耗精力增加1点、消耗内力增加、威力增强、范围扩大	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -5617,7 +5617,7 @@
     translated: "Python Venom Blood"
   - split: 2
     text: "狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "Cunning Snake steals Cloud Jewel, increasing poison value by 2 points, combat +2, toxin skills +2, and adds 5 to the dark value"
+    translated: "Shrewd Snake steals Cloud Jewel, adding 2 extra points of poisoning. Hand Combat +2, Poison Mastery +2, Evil Value +5"
 - lineNum: 562
   raw: "buffSkillTree097_006	尸蛇毒血	灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -5627,7 +5627,7 @@
     translated: "Python venom blood"
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "Lingmang (Python) adds an additional 2 points of poison value, +2 to fighting, +2 to toxicology skills, and +5 to dark values"
+    translated: "Phantom Python adds 2 extra points of poisoning, hand combat +2, poison magic +2, and dark value +5"
 - lineNum: 563
   raw: "buffSkillTree097_009	蛇毒炼制	可炼制蛇毒	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -6907,17 +6907,17 @@
     translated: "Breaking Fist"
   - split: 2
     text: "面对搏击招式并以婵娟一剑反击时，必先闪避敌招后再进行反击"
-    translated: "When facing a grappling technique, one must first evade the enemy's move before countering with a swift sword strike"
+    translated: "When facing grappling moves, respond with a graceful counterstrike after first dodging the opponent's attack"
 - lineNum: 691
   raw: "buffSkillTree144_002_2	剑法修为	剑法+4	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: "剑法+4"
-    translated: "Swordsmanship +4"
+    translated: "Enhanced Sword Arts +4"
 - lineNum: 692
   raw: "buffSkillTree144_003	破剑	面对剑法招式并以婵娟一剑反击时，必先闪避敌招后再进行反击	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -6927,17 +6927,17 @@
     translated: "Broken Sword"
   - split: 2
     text: "面对剑法招式并以婵娟一剑反击时，必先闪避敌招后再进行反击"
-    translated: "When facing swordsmanship techniques, one must dodge the enemy's attack first and then counterattack with a swift blade strike"
+    translated: "When facing an opponent's swordplay technique and countering with a graceful counterattack, it is essential to first evade the enemy's attack before executing the counterstrike"
 - lineNum: 693
   raw: "buffSkillTree144_003_2	剑法修为	剑法+4	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Proficiency in Swordsmanship"
   - split: 2
     text: "剑法+4"
-    translated: "Enhance Swordsmanship by +4"
+    translated: "Improved Swordsmanship by 4"
 - lineNum: 694
   raw: "buffSkillTree144_004	破刀	面对刀法招式并以婵娟一剑反击时，必先闪避敌招后再进行反击	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -6947,17 +6947,17 @@
     translated: "Broken Blade"
   - split: 2
     text: "面对刀法招式并以婵娟一剑反击时，必先闪避敌招后再进行反击"
-    translated: "When facing the sword technique and countering with a graceful strike, it is essential to first evade the enemy's move before launching a counterattack"
+    translated: "When facing the sword technique and countering with a delicate cut of one blade, it is essential to first evade the enemy's attack before launching a counterattack"
 - lineNum: 695
   raw: "buffSkillTree144_004_2	剑法修为	剑法+4	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship cultivation"
+    translated: "Sword Arts Cultivation"
   - split: 2
     text: "剑法+4"
-    translated: "Swordsmanship +4"
+    translated: "Enhanced Swordsmanship +4"
 - lineNum: 696
   raw: "buffSkillTree144_005	破枪	面对枪棍招式并以婵娟一剑反击时，必先闪避敌招后再进行反击	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -6974,10 +6974,10 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Training in swordsmanship"
+    translated: "Blade arts cultivation"
   - split: 2
     text: "剑法+4"
-    translated: "Enhanced Swordsmanship +4"
+    translated: "Sword Arts +4"
 - lineNum: 698
   raw: "buffSkillTree144_006	破箭	面对暗器招式并以婵娟一剑反击时，必先闪避敌招后再进行反击	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -6994,10 +6994,10 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship cultivation"
+    translated: "Blade Arts Proficiency"
   - split: 2
     text: "剑法+4"
-    translated: "Master Swordsmanship +4"
+    translated: "Enhance Sword Techniques +4"
 - lineNum: 700
   raw: "buffSkillTree144_007	破鞭	面对短兵招式并以婵娟一剑反击时，必先闪避敌招后再进行反击	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -7014,10 +7014,10 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Swordsmanship Cultivation"
+    translated: "Sword arts cultivation"
   - split: 2
     text: "剑法+4"
-    translated: "Swordsmanship +4"
+    translated: "Enhanced Sword Arts +4"
 - lineNum: 702
   raw: "buffSkillTree145_002	千堆雪	自身轻功越高，千堆雪的威力越强	0		0	FALSE	0	FALSE	0	0		buffSkillTree145_002"
   translated: ""
@@ -7467,7 +7467,7 @@
     translated: "Grand Mystery Divine Skill"
   - split: 2
     text: "运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加12点"
-    translated: "Running the Tai Xuan Scripture increases each of the following by 12 points: fighting, swordsmanship, blade skills, spear and staff, hidden weapons, short weapons, and qinggong"
+    translated: "When operating the Tai Xuan Jing, each of Jiuchijian (Hand Combat), Jianfa (Sword Arts), Dao Fa (Blade Arts), Qianggun (Spear and Club), Anqi (Hidden Weapons), Duanchen (Short Weapons), and Qinggong (Light Steps) increases by 12 points"
 - lineNum: 747
   raw: "buffSkillTree154_000_2	太玄神功	运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加24点	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon"
   translated: ""
@@ -7477,7 +7477,7 @@
     translated: "Supreme Mystery Divine Skill"
   - split: 2
     text: "运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加24点"
-    translated: "During the use of the Tai Xuan Jing, each combat skill—hand-to-hand fighting, swordsmanship, blade skills, spear and staff techniques, hidden weapons, short weapons, and qinggong—is increased by 24 points"
+    translated: "When running the Tai Xuan Jing, each of wrestling, swordsmanship, blade arts, spear and staff, hidden weapons, short weapons, and qinggong increases by 24 points"
 - lineNum: 748
   raw: "buffSkillTree154_003	白首太玄经	运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加24点	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		0"
   translated: ""
@@ -7487,7 +7487,7 @@
     translated: "White-Haired Patriarch's Extreme Mystery Classic"
   - split: 2
     text: "运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加24点"
-    translated: "When running the Tai Xuan Jing, each of combat skills such as fighting, swordsmanship, blade skills, spear and staff, hidden weapons, short weapons, and light steps increases by 24 points"
+    translated: "When running the Taixuan Scripture, each of fist fighting, swordsmanship, blade arts, spear and staff techniques, hidden weapons, short weapons, and qinggong increases by 24 points"
 - lineNum: 749
   raw: "buffSkillTree155_000	血饮魔功	对敌人造成的伤害，部分转为自身气血	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		buffSkillTree155_000"
   translated: ""
@@ -9744,7 +9744,7 @@
   splits:
   - split: 1
     text: "十大善人圣堂之战虾米复活BUFF"
-    translated: "Shi da shan ren sheng tang zhi zhan xia mi fu huo BU F。"
+    translated: "Shi da shan ren sheng tang zhi zhan xia mi fu huo bu fu"
   - split: 2
     text: "隐藏BUFF，血量全满叫队友"
     translated: "Activate hidden buffs, full health, call teammates"
@@ -9754,7 +9754,7 @@
   splits:
   - split: 1
     text: "十大恶人圣堂之战虾米复活BUFF"
-    translated: "Shi Da e Ren Sheng Tang Zhi Zhan Xia Mi Fu Huo Bu Fu"
+    translated: "Great Battle of the Sanctum of Ten Evildoers: Shrimp Revival Buff"
   - split: 2
     text: "隐藏BUFF，血量全满叫队友"
     translated: "Activate hidden BUFF, blood full, call team member"
@@ -10664,7 +10664,7 @@
   splits:
   - split: 1
     text: "马帮千金"
-    translated: "Thousand Golds of the Ma Gang"
+    translated: "Thousand Gold Daughters of the Horse Gang"
   - split: 2
     text: "每次受击所累积的爆击率增加10%，暴击伤害提升50%"
     translated: "Each time hit, the accumulated critical hit rate increases by 10%, and critical hit damage is increased by 50%"
@@ -10674,7 +10674,7 @@
   splits:
   - split: 1
     text: "马帮首领"
-    translated: "Leader of the Ma Gang"
+    translated: "Horse Gang Leader"
   - split: 2
     text: "每次受击所累积的爆击率增加20%，暴击伤害提升80%"
     translated: "Every time hit, the critical hit rate increases by 20%, and the critical hit damage is increased by 80%"
@@ -11017,7 +11017,7 @@
     translated: "Bladesman"
   - split: 2
     text: "所有刀法威力+70%"
-    translated: "All swordsmanship power +70%"
+    translated: "All blade arts power +70%"
 - lineNum: 1102
   raw: "nick030	刀狂	所有刀法威力+40%	0	nickname	0	TRUE	0	FALSE	0	0		nick030"
   translated: ""
@@ -11027,7 +11027,7 @@
     translated: "Blade Madman"
   - split: 2
     text: "所有刀法威力+40%"
-    translated: "All blade skills power +40%"
+    translated: "All sword arts power +40%"
 - lineNum: 1103
   raw: "nick031	惊波狂澜	惊波刀法与狂澜绝刀势刀法威力+30%	0	nickname	0	TRUE	0	FALSE	0	0		nick031"
   translated: ""
@@ -11037,7 +11037,7 @@
     translated: "Surging waves of turmoil"
   - split: 2
     text: "惊波刀法与狂澜绝刀势刀法威力+30%"
-    translated: "Jingbo Sword Style and Kuanlan Ultimate Blade Form increase sword power by 30%"
+    translated: "Shockwave Blade Technique and Rampage Ultimate Blade Technique power increased by 30%"
 - lineNum: 1104
   raw: "nick032	五虎断门刀	五虎断门刀刀法威力+30%	0	nickname	0	TRUE	0	FALSE	0	0		nick032"
   translated: ""
@@ -11047,7 +11047,7 @@
     translated: "Five Tiger Severance Sword"
   - split: 2
     text: "五虎断门刀刀法威力+30%"
-    translated: "Five Tiger Disembowelment Blade Swordsmanship Damage +30%"
+    translated: "Five Tiger Gate Severance Blade Sword Technique Power +30%"
 - lineNum: 1105
   raw: "nick033	四象刀	四象刀刀法威力+30%	0	nickname	0	TRUE	0	FALSE	0	0		nick033"
   translated: ""
@@ -11057,7 +11057,7 @@
     translated: "Si Xiang Dao"
   - split: 2
     text: "四象刀刀法威力+30%"
-    translated: "Four Symbols Swordsmanship Power +30%"
+    translated: "Si Xiang Dao (Four Symbols Swordsmanship) attack power +30%"
 - lineNum: 1106
   raw: "nick034	三才刀	三才刀刀法威力+30%	0	nickname	0	TRUE	0	FALSE	0	0		nick034"
   translated: ""
@@ -11067,7 +11067,7 @@
     translated: "San Cai Dao"
   - split: 2
     text: "三才刀刀法威力+30%"
-    translated: "Three Talents Sword Technique Power +30%"
+    translated: "Three Talents Sword Art's Power Increased by 30%"
 - lineNum: 1107
   raw: "nick035	村民	花拳绣腿威力+50%	0	nickname	0	TRUE	0	FALSE	0	0		nick035"
   translated: ""
@@ -11174,7 +11174,7 @@
   splits:
   - split: 1
     text: "河洛大侠"
-    translated: "Helaodaxia"
+    translated: "Heluo Great Heros"
   - split: 2
     text: "你的攻防能力将随着你的江湖声望提升。"
     translated: "Your defense and attack capabilities will improve as your reputation in the wulin rises"
@@ -11277,7 +11277,7 @@
     translated: "Ancient Noble Family"
   - split: 2
     text: "董迦罗周围5单位距离敌军，每回合开始时降低爆击率15%"
-    translated: "Don Jialuo is within a 5-unit distance of enemy forces, reducing critical hit rate by 15% at the start of each round"
+    translated: "Within a 5-unit radius of Deng Jialuo, enemy forces have their critical hit rate reduced by 15% at the start of each turn"
 - lineNum: 1128
   raw: "nick106	「土司继任者」	每回合开始时恢复周围2单位距离内友军15%气血值，连击率提升15%	0	nickname	0	TRUE	0	FALSE	0	0		nick106"
   translated: ""
@@ -11394,7 +11394,7 @@
   splits:
   - split: 1
     text: "「北丑」"
-    translated: "Beichou"
+    translated: "Bei Chou"
   - split: 2
     text: "触发连击时攻击力增加100%，持续一回合"
     translated: "When triggering a combo, attack power increases by 100% for one turn"
@@ -11404,7 +11404,7 @@
   splits:
   - split: 1
     text: "「北丑」"
-    translated: "Ugly Northern One"
+    translated: "Bei Chou"
   - split: 2
     text: "攻击力增加100%，持续一回合"
     translated: "Attack power increased by 100%, lasting for one round"
@@ -11917,7 +11917,7 @@
     translated: "Snow Wolf Flying Fox"
   - split: 2
     text: "雪山奇侠，刀法无双，刀法威力上升30%，所有伤害技能都会带着外伤效果。"
-    translated: "Snowy Mountain Wuxia, unmatched blade skills; blade skill damage increased by 30%, and all damaging techniques will have a bleeding effect"
+    translated: "Snow Mountain Wuxia Hero, unmatched blade technique; blade power increases by 30%, all damage skills carry an external injury effect"
 - lineNum: 1192
   raw: "nick602buff	「老毒物」	武学泰斗，毒中之王，所有技能威力上升30%，而且你的每一击都带着剧毒。	0	nickname	0	TRUE	0	FALSE	0	0		nick602"
   translated: ""
@@ -11957,7 +11957,7 @@
     translated: "Western Madman"
   - split: 2
     text: "狂值越高，武功威力越强，剑法威力上升30％。"
-    translated: "As the kungfu value increases, martial arts power becomes stronger, and swordsmanship power increases by 30%"
+    translated: "The higher the Kungzhi value, the stronger the martial arts power, and the sword techniques' power increases by 30%"
 - lineNum: 1196
   raw: "nick606buff	「弹指神通」	暗器威力上升40%，战斗中有30%的机会闪避伤害。	0	nickname	0	TRUE	0	FALSE	0	0		nick606"
   translated: ""

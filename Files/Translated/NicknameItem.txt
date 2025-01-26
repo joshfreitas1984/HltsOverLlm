@@ -228,7 +228,7 @@
   splits:
   - split: 1
     text: "马帮千金"
-    translated: "Thousand Golds of the Ma Gang"
+    translated: "Thousand Gold Daughters of the Horse Gang"
   - split: 2
     text: "每次受击所累积的爆击率增加10%，暴击伤害提升50%"
     translated: "Every time you are hit, the critical strike rate accumulates an additional 10%, and the critical hit damage increases by 50%"
@@ -238,7 +238,7 @@
   splits:
   - split: 1
     text: "马帮首领"
-    translated: "Leader of the Ma Gang"
+    translated: "Horse Gang Leader"
   - split: 2
     text: "每次受击所累积的爆击率增加20%，暴击伤害提升80%"
     translated: "Every time you are hit, the critical strike rate increases by 20%, and the critical hit damage is increased by 80%"
@@ -561,7 +561,7 @@
     translated: "Bladesman"
   - split: 2
     text: "所有刀法威力+70%"
-    translated: "All blade skills power +70%"
+    translated: "All blade arts power +70%"
 - lineNum: 57
   raw: "nick030	刀狂	所有刀法威力+40%		Player	nick030"
   translated: ""
@@ -571,7 +571,7 @@
     translated: "Blade Madman"
   - split: 2
     text: "所有刀法威力+40%"
-    translated: "All blade skills power +40%"
+    translated: "All blade arts power +40%"
 - lineNum: 58
   raw: "nick031	惊波狂澜	惊波刀法与狂澜绝刀势刀法威力+30%		Player	nick031"
   translated: ""
@@ -581,7 +581,7 @@
     translated: "Surging waves of turmoil"
   - split: 2
     text: "惊波刀法与狂澜绝刀势刀法威力+30%"
-    translated: "Shockwave Blade Technique and Torrential Fury Supreme Swordsmanship Damage Increase +30%"
+    translated: "Jingbo Sword Style and Kuanglan Ultimate Blade Artistry increase power by 30%"
 - lineNum: 59
   raw: "nick032	五虎断门刀	五虎断门刀刀法威力+30%		Player	nick032"
   translated: ""
@@ -591,7 +591,7 @@
     translated: "Five Tiger Severance Sword"
   - split: 2
     text: "五虎断门刀刀法威力+30%"
-    translated: "Five Tiger's Split Gate Blade Technique Power +30%"
+    translated: "Five Tiger Severing Gate Sword Arts power +30%"
 - lineNum: 60
   raw: "nick033	四象刀	四象刀刀法威力+30%		Player	nick033"
   translated: ""
@@ -601,7 +601,7 @@
     translated: "Si Xiang Dao"
   - split: 2
     text: "四象刀刀法威力+30%"
-    translated: "Four Symbols Swordsmanship Power +30%"
+    translated: "Si Xiang Dao daofa weili +30%"
 - lineNum: 61
   raw: "nick034	三才刀	三才刀刀法威力+30%		Player	nick034"
   translated: ""
@@ -728,7 +728,7 @@
   splits:
   - split: 1
     text: "河洛大侠"
-    translated: "Helaodaxia"
+    translated: "Heluo Great Heros"
   - split: 2
     text: "你的攻防能力将随着你的江湖声望提升。"
     translated: "Your offensive and defensive skills will improve as your reputation in the Jianghu increases"
@@ -881,7 +881,7 @@
     translated: "Ancient and Noble Family"
   - split: 2
     text: "董迦罗周围5单位内距离敌军，每回合开始时降低爆击率15%"
-    translated: "Within a range of 5 units from Dong Jialuo, reduce the critical hit rate of enemy forces by 15% at the start of each round"
+    translated: "Within a 5-unit radius around Dong Jialuo, reduce the critical hit rate of enemy forces by 15% at the start of each round"
 - lineNum: 89
   raw: "nick106	土司继任者	每回合开始时回复周围2单位距离内友军15%气血值，连击率提升15%		n50048	nick106"
   translated: ""
@@ -958,7 +958,7 @@
   splits:
   - split: 1
     text: "南闲"
-    translated: "South Leisure"
+    translated: "Nan Xian"
   - split: 2
     text: "每回合开始时，额外随机回复自身精力2到8点"
     translated: "At the beginning of each round, randomly recover between 2 and 8 points of Qi"
@@ -968,7 +968,7 @@
   splits:
   - split: 1
     text: "西庖"
-    translated: "Western Kitchen"
+    translated: "Xi Pao"
   - split: 2
     text: "攻击时50%伤害转换为自身气血"
     translated: "During an attack, convert 50% of the damage dealt into self Qi"
@@ -978,7 +978,7 @@
   splits:
   - split: 1
     text: "北丑"
-    translated: "Beiqu"
+    translated: "Bei Chou"
   - split: 2
     text: "触发连击时攻击力增加100%，持续一回合"
     translated: "When triggering a combo, attack power increases by 100% for one round"
@@ -1881,7 +1881,7 @@
     translated: "Snow Wolf Flying Fox"
   - split: 2
     text: "雪山奇侠，刀法无双，刀法威力上升30%，所有伤害技能都会带着外伤效果。"
-    translated: "Snowy Mountain Wuxia, unmatched in blade skills; blade skill damage increased by 30%, and all damage abilities carry an external injury effect"
+    translated: "Snow Mountain Wuxia, unmatched swordsmanship; swordsmanship power increased by 30%, all damage skills will have external injury effects"
 - lineNum: 189
   raw: "nick602	「老毒物」	武学泰斗，毒中之王，所有技能威力上升30%，而且你的每一击都带着剧毒。		n80419,Player	nick602"
   translated: ""
@@ -1901,7 +1901,7 @@
     translated: "Swordsmen Who Are Laughing at the World"
   - split: 2
     text: "你的剑法威力额外随剑术上升再提升，并且战斗中有20%的机会闪避伤害。"
-    translated: "Your swordsmanship power increases further with your advancement in sword techniques, and during combat, there is a 20% chance to avoid damage"
+    translated: "Your swordsmanship power increases additionally with the rise of your martial arts level, and there is a 20% chance to dodge damage in battle"
 - lineNum: 191
   raw: "nick604	「神行百变」	天资聪颖的你能在战斗中得到更多经验值，且你在战斗中有25%的机率回避伤害。	(Intelligence,10)	n80421,Player	nick604"
   translated: ""
@@ -1921,7 +1921,7 @@
     translated: "Western Madman"
   - split: 2
     text: "狂值越高，武功威力越强，剑法威力上升30％。"
-    translated: "As the value increases, martial arts power becomes stronger, and swordsmanship power increases by 30%"
+    translated: "As the craziness value increases, martial arts power becomes stronger, and the effectiveness of swordsmanship increases by 30%"
 - lineNum: 193
   raw: "nick606	「弹指神通」	暗器威力上升40%，战斗中有30%的机会闪避伤害。		n80423,Player	nick606"
   translated: ""

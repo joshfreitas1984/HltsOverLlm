@@ -60,14 +60,14 @@
   splits:
   - split: 1
     text: "禾鬱青(青天刀法)"
-    translated: "He Yuqing (Qingtian Swordsmanship)"
+    translated: "He Yuqing (Qing Tian Dao Fa)"
 - lineNum: 9
   raw: "st0004b	禾泓淵(青天刀法)	it30306	0	0	SkillTree023_000,SkillTree023_001,SkillTree023_002,SkillTree023_003,SkillTree023_004,SkillTree023_005,SkillTree023_006,SkillTree023_007,SkillTree023_008,SkillTree023_009,SkillTree023_010,SkillTree023_011"
   translated: ""
   splits:
   - split: 1
     text: "禾泓淵(青天刀法)"
-    translated: "He Hongyuan (Qingtian Swordsmanship)"
+    translated: "He Hongyuan (Qingtian Blade Arts)"
 - lineNum: 10
   raw: "st0005	狩獵弓術	it30501	0	0	SkillTree118_000,SkillTree118_001"
   translated: ""
@@ -130,21 +130,21 @@
   splits:
   - split: 1
     text: "黃沙刀法(剛)"
-    translated: "Yellow Sand Sword Technique (Straight)"
+    translated: "Yellow Sand Swordsmanship (Hard)"
 - lineNum: 19
   raw: "st0008b	黃沙刀法(拙)	it30303	0	0	SkillTree001_000,SkillTree001_005,SkillTree046_000"
   translated: ""
   splits:
   - split: 1
     text: "黃沙刀法(拙)"
-    translated: "Huangsha Blade Technique (Clumsy)"
+    translated: "Yellow Sand Blade Art (Clumsy)"
 - lineNum: 20
   raw: "st0008c	黃沙刀法(高)	it30303	0	0	SkillTree001_000,SkillTree001_001,SkillTree001_001,SkillTree001_002,SkillTree001_003,SkillTree001_004,SkillTree001_005"
   translated: ""
   splits:
   - split: 1
     text: "黃沙刀法(高)"
-    translated: "Advanced Huangsha Swordsmanship"
+    translated: "Yellow Sand Swordsmanship (Advanced)"
 - lineNum: 21
   raw: "st0010	岳家槍法(剛)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_005"
   translated: ""
@@ -585,7 +585,7 @@
   splits:
   - split: 1
     text: "孔金"
-    translated: "Wang Zhi"
+    translated: "Kong Jin"
 - lineNum: 84
   raw: "st0047	戰鬥測試員	it30303	0	0	SkillTree001_000"
   translated: ""
@@ -781,14 +781,14 @@
   splits:
   - split: 1
     text: "三連環刀法"
-    translated: "Three-Linked Blade Techniques"
+    translated: "Triple Ring Blade Technique"
 - lineNum: 112
   raw: "st0066b	三連環刀法(高)	it30320	0	0	SkillTree107_000,SkillTree107_001"
   translated: ""
   splits:
   - split: 1
     text: "三連環刀法(高)"
-    translated: "High-level Triple-Loop Swordsmanship"
+    translated: "Triple-Loop Sword Technique (Advanced)"
 - lineNum: 113
   raw: "st0067a	三朵神槍(木府士兵)(低)	it30404	0	0	SkillTree021_000,SkillTree021_001,SkillTree021_003"
   translated: ""
@@ -1348,14 +1348,14 @@
   splits:
   - split: 1
     text: "碧蛇刀法(巧)(何白芍)"
-    translated: "Green Snake Sword Technique (Skilled) by He Baishe"
+    translated: "Bai She Dao Fa (Slick) by He Baishe"
 - lineNum: 193
   raw: "st0097b	碧蛇刀法(巧)(何紫菀)	it30310	0	0	SkillTree089_000,SkillTree089_004,SkillTree089_006,SkillTree089_008"
   translated: ""
   splits:
   - split: 1
     text: "碧蛇刀法(巧)(何紫菀)"
-    translated: "Purple Lotus Style (Skilled in Green Snake Swordplay)"
+    translated: "Beizi Swordsmanship (Tactful) (He Ziwang)"
 - lineNum: 194
   raw: "st0098	毒龍游身棍(巧動)(鄂斯伯)	it30401	0	0	SkillTree129_000,SkillTree129_001,SkillTree129_002,SkillTree129_003,SkillTree129_004,SkillTree129_005,SkillTree129_006,SkillTree129_007,SkillTree129_008,SkillTree129_009,SkillTree129_010,SkillTree129_011"
   translated: ""
@@ -1719,28 +1719,28 @@
   splits:
   - split: 1
     text: "天鵬刀法(百里憚赫)(巧動剛)"
-    translated: "Tianpeng Daofa (Baili Duan He) (Qiaodong Gang)"
+    translated: "Heavenly Peng Blade Technique (Baili Dule Huo - Qiao Dong Gang)"
 - lineNum: 246
   raw: "st0118b	天鵬刀法(明教教眾)(低)	it30307	0	0	SkillTree018_000,SkillTree018_002,SkillTree018_003,SkillTree018_008"
   translated: ""
   splits:
   - split: 1
     text: "天鵬刀法(明教教眾)(低)"
-    translated: "Heavenly Phoenix Swordsmanship (Ming Cult Disciple, Low)"
+    translated: "Tianpeng Daofa (Mingjiao Jiaozhong) (Di)"
 - lineNum: 247
   raw: "st0118c	天鵬刀法(明教教眾)(動巧)	it30307	0	0	SkillTree018_000,SkillTree018_002,SkillTree018_003,SkillTree018_008,SkillTree018_004,SkillTree018_009"
   translated: ""
   splits:
   - split: 1
     text: "天鵬刀法(明教教眾)(動巧)"
-    translated: "Tianpeng Swordsmanship (Ming Cult Disciples) (Agility)"
+    translated: "Heavenly Peng Swordsmanship (Ming Cult Followers) (Agility)"
 - lineNum: 248
   raw: "st0118d	天鵬刀法(明教教眾)(動剛)	it30307	0	0	SkillTree018_000,SkillTree018_002,SkillTree018_003,SkillTree018_008,SkillTree018_001,SkillTree018_010"
   translated: ""
   splits:
   - split: 1
     text: "天鵬刀法(明教教眾)(動剛)"
-    translated: "Tianpeng Swordsmanship (Disciple of the Ming Cult, Dynamic Hard)"
+    translated: "Tianpeng Swordsmanship (Ming Cult Disciples, Dynamic Offensive)"
 - lineNum: 249
   raw: "st0119	四象步法(百里憚赫)	it30805	0	0	SkillTree141_000"
   translated: ""
@@ -1992,7 +1992,7 @@
   splits:
   - split: 1
     text: "霹靂刀法"
-    translated: "Piledi Blade Skills"
+    translated: "Thunderbolt Blade Technique"
 - lineNum: 285
   raw: "st0140	麒麟棍法	it30411	0	0	SkillTree043_000,SkillTree043_002,SkillTree043_003"
   translated: ""

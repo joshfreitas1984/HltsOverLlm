@@ -146,7 +146,7 @@ public static class TranslationService
             { "锻造费用：", "Forging cost:" },
             { "说出你的渴望：", "Express your desires:" },
             { "限定装备：", "Mysterious Artifact:" },
-            { "呃？这里有张信，信上以娟秀的笔迹写着：", "Hmm? Here is a letter, written in Juean Xiu's elegant handwriting:" },
+            { "呃？这里有张信，信上以娟秀的笔迹写着：", "Huh? There's a letter here, written in elegant script by Yi Juan" },
             { "需求数量：", "Quanity Required:" },
             { "所持金额：", "Owned:" },
             { "将软筋散解药交给周益", "Give the 'Ruan Jin San Jie' medicine to Zhou Yi." },
@@ -156,7 +156,7 @@ public static class TranslationService
             { "咦？怎会有人把东西留在这种地方？里面有块图片背后写着：", "Huh? How did someone leave something in such a place? There's a picture inside with writing on the back" },
             { "嗯...没留意到...怎么了？", "Hmm... I didn't notice that... What's wrong?" },
             { "不，这不是传说。", "No, this isn't a legend." },
-            { "「为了赶快修缮房屋；我熬夜甚至冒雨在岛上收集木材，但现在想想这真是太不智了…我好像生病了…。」", "「In order to quickly repair the house, I stayed up late and even collected wood on\r\nthe island in the rain; but now looking back, it was really unwise... I think I'm getting sick...」" },
+            { "「为了赶快修缮房屋；我熬夜甚至冒雨在岛上收集木材，但现在想想这真是太不智了…我好像生病了…。」", "「In order to quickly repair the house, I stayed up late and even collected wood on the island in the rain; but now looking back, it was really unwise... I think I'm getting sick...」" },
             { "苏清瑞的过去", "Suo Qingshui's past" },
             { "唔…不不不！你们别误会，我只是恰好有事要找他罢了！", "Um... no, no, no! Don't misunderstand, I just happened to need to see him!" },
             { "给厨师的书信", "A Letter to the Chef" },
@@ -167,9 +167,15 @@ public static class TranslationService
             { "我是妹控，给我妹子", "I'm a big fan of younger women, and I will bring happiness to your sister!" },
             { "请给我所有珍馐会事件的开启旗标。", "Please give me all opening sigils for all events at Zhennxu Pavilion." },
             { "我想要赋闲书院的介绍信。", "I would like an introduction letter from the Leisurely Scholars Academy." },
-            { "嗯...原来是这么个名字...你和那土豪在圣堂经历过的事儿，这酒鬼都已经告诉我了。", "Hmm... so that's your name... the drunkard has already told me about what you and that nobleman experienced in the\r\nsanctuary." },
-            { "上次……谢谢你带我去大研镇，这是我第一次去这么大的城市。如果没有你，或许我一辈子都不会踏进这样的大城市。我以后想要去更远的地方，回去娘出生的地方，了解自己祖宗生活的地方…………", "The last time... thank you for taking me to Dayan Town, it was my first time visiting such a large city. Without\r\nyou, perhaps I would never set foot in such a big city. In the future, I want to go even farther, to where my\r\nmother was born and learn about where my ancestors lived.…" },
+            { "嗯...原来是这么个名字...你和那土豪在圣堂经历过的事儿，这酒鬼都已经告诉我了。", "Hmm... so that's your name... the drunkard has already told me about what you and that nobleman experienced in the sanctuary." },
+            { "上次……谢谢你带我去大研镇，这是我第一次去这么大的城市。如果没有你，或许我一辈子都不会踏进这样的大城市。我以后想要去更远的地方，回去娘出生的地方，了解自己祖宗生活的地方…………", "The last time... thank you for taking me to Dayan Town, it was my first time visiting such a large city. Without you, perhaps I would never set foot in such a big city. In the future, I want to go even farther, to where my mother was born and learn about where my ancestors lived.…" },
             { "唔...你以为...我们会这么容易告诉你吗？发信号！", "Ugh... you think... we'd just tell you so easily? Send a signal!" },
+            { "唔……看起来和我来的圣堂还挺像的……难道这里也是圣堂？不会还要我再找一次十四天书吧？", "Hmm... It looks quite similar to the Holy Sanctuary I came from...Could this place also be a Holy Sanctuary? I hope I don't have to search for the Fourteen-Day Book again..." },
+            { "这……这不是槟榔嘛！骆兄到底是从哪里找到的！", "This... this is not betel nut! Where did Brother Lou find it from anyway!" },
+            { "嗯？等等，这不是槟榔吗？怎么会在这种地方？", "Huh? Wait, isn't this a betel nut? How is it here in a place like this?" },
+
+            { "还有南闲…嗯……村里的人会知道这个名号吗？他叫什么名字来着…？", "There is also the Southern Sage... hmm... Would the villagers know this title? What was his name again?" },
+            { "六片...洛书碎片...南闲，你这情报来自何处？怎么前些日子都没和我提起？", "Six pieces... fragments of the Luoshu... Nan Xian, where did you get this intelligence from? Why didn't you mention to me these past few days?" },
         };
     }
 

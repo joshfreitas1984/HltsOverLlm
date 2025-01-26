@@ -15,9 +15,9 @@ QuestEventType004	Task Update
 #后面有留空格键是要做排版	
 Method0	Obtained
 Method1	Decrease
-HintTypeMoney	{0} some {1} money
-HintTypeExp	Experience {0}{1}
-HintTypeInventory	{0} {1} individual
+HintTypeMoney	{0} {1} money
+HintTypeExp	{0} {1} Experience
+HintTypeInventory	{0} {1}x
 HintTypeStealTodayDontSteal	Today, I can no longer take action against this person
 HintTypeStealInventoryNull	His body was empty-handed
 HintTypeStealProbabilityZero	They are on high alert
@@ -56,11 +56,11 @@ Interactive03	Take
 Interactive04	Excavate
 Interactive05	Harvesting
 Interactive06	Capture
-Interactive07	<color=#ff2222>Steal secretly</color>
+Interactive07	<color=#ff2222>Steal Secretly</color>
 Interactive08	<color=#ff2222>Attack</color>
-Interactive09	Investigation
+Interactive09	Search
 Interactive10	Hunting
-Interactive11	<color=#ff2222>Covert Arrest</color>
+Interactive11	<color=#ff2222>Stealth Attack</color>
 Interactive12	Extermination
 TalkStealNotice	You're sneaking around doing what?
 TalkAmbushPlayer1	I suddenly feel like beating you up
@@ -86,9 +86,9 @@ InventoryLevel2	Outstanding
 InventoryLevel3	Extraordinary
 InventoryLevel5	Special
 Hurt0	Damage Reduction
-Hurt1	Combat Damage
-Hurt2	Swordsmanship Damage
-Hurt3	Blade Skills Damage
+Hurt1	Hand Combat Damage
+Hurt2	Blade Arts Damage
+Hurt3	Blade Arts Damage
 Hurt4	Qianggun Shanghai
 Hurt5	Hidden Weapon Damage
 Hurt6	Close-Quarter Damage
@@ -126,9 +126,9 @@ CharacterProperty197	Release pressure
 CharacterProperty198	Combo Attack
 CharacterProperty199	Counterattack
 CharacterProperty200	Feigned move
-CharacterProperty301	Fighting
-CharacterProperty302	Swordsmanship
-CharacterProperty303	Blade Skills
+CharacterProperty301	Hand Combat
+CharacterProperty302	Sword Arts
+CharacterProperty303	Blade Arts
 CharacterProperty304	Spear
 CharacterProperty305	Hidden Weapon
 CharacterProperty306	Short Weapons
@@ -160,7 +160,7 @@ YinAndYang4	Chi Yang
 #感悟	
 TalentType0	Move
 TalentType1	Quiet
-TalentType2	Just now
+TalentType2	Strong
 TalentType3	Soft
 TalentType4	Skilled
 TalentType5	Clumsy
@@ -238,7 +238,7 @@ RumorNothing4	Well, it's been smooth sailing so far on this journey, and enjoyin
 RumorNothing5	The journey has been smooth so far, with beautiful scenery along the way—nothing bad about that!
 #锻造	
 HurtRang	{0}~{1}%
-BluePrintType1	Combat Weapons
+BluePrintType1	Hand Combat Weapons
 BluePrintType2	Blade
 BluePrintType3	Blade
 BluePrintType4	Spear
@@ -264,8 +264,8 @@ EquipPartType15	Throw into the furnace
 BaseProperty	Basic Attributes
 ForgeProperty	Special Effects
 InventoryType301	Quanpu
-InventoryType302	Swordsmanship
-InventoryType303	Blade Skills
+InventoryType302	Sword Arts
+InventoryType303	Blade Arts
 InventoryType304	Gunmanship
 InventoryType305	Hidden Weapon
 InventoryType306	Short Weapons
@@ -394,8 +394,8 @@ KeyDesc_RightAnalogPress	Reset the camera
 KeyDesc_AddSpeed	Chop sprint
 KeyDesc_Jump	Leap
 KeyDesc_AutoRun	Automatic running
-KeyDesc_Steal	Covertly take
-KeyDesc_Ambush	Sparring
+KeyDesc_Steal	Stealth
+KeyDesc_Ambush	Ambush
 KeyDesc_SkillShortcut1	Shortcut Key for Skill 1
 KeyDesc_SkillShortcut2	Shortcut Key for Skill 2
 KeyDesc_SkillShortcut3	Skill Shortcut Key 3
@@ -442,7 +442,7 @@ QuestDescTitle	Task Description
 Save	Storage
 Load	Read
 Saving	Storing
-Loading	Reading from Chinese
+Loading	Loading
 LoadWhenModDifferent	The module used for saving {0} is different from the current module {1}!
 Deleting	On the way to the main menu
 NoFile	No stored progress has been saved
@@ -483,7 +483,7 @@ UIInventoryType105	Hidden Weapon Bow and Arrow
 UIInventoryType106	Short Weapons
 UIInventoryType201	Armor
 UIInventoryType202	Jewelry
-UIInventoryType203	Outer garment
+UIInventoryType203	Costume
 UIInventoryType301	Elixir
 UIInventoryType302	Medicinal Herbs
 UIInventoryType303	Food
@@ -492,9 +492,9 @@ UIInventoryType401	Poison
 UIInventoryType402	Forging Material
 UIInventoryType403	Tempering materials
 UIInventoryType404	Fur
-UIInventoryType501	Fighting
-UIInventoryType502	Swordsmanship
-UIInventoryType503	Blade Skills
+UIInventoryType501	Hand Combat
+UIInventoryType502	Sword Arts
+UIInventoryType503	Blade Arts
 UIInventoryType504	Pole Technique
 UIInventoryType505	Hidden Weapon Bow and Arrow
 UIInventoryType506	Short Weapons
@@ -552,13 +552,13 @@ HelpCatalogType804	Poison
 HelpCatalogType805	Forging/Tempering Materials
 HelpCatalogType806	Other items
 #接口名称	
-UICompass	Directional Strip
+UICompass	Compass
 UIMinimap	Mini Map
 UITrackedQuest	Task Tracking
 #创角界面	
 UICreateEnterText	Before entering the world of Hetu Luoshu, there are some questions that need your answer!<br>Are you ready?
 UICreateClickToContinue	Click to continue
-UICreateQuestNo	What is the problem?
+UICreateQuestNo	Question
 UICreateInvestigateTitle	Please disregard reality and choose what you most deeply long for in your heart
 UICreateNext	Next Page
 UICreateError1	There are still fields that have not been answered
@@ -593,9 +593,9 @@ UITeamEquipColumn3	Jewelry
 UITeamEquipColumn4	Outer garment
 UITeamPersonality1	Personality
 UITeamPersonality2	Evil
-UITeamPersonality3	Correct
-UITeamPersonality4	Stoic
-UITeamPersonality5	Mad
+UITeamPersonality3	Good
+UITeamPersonality4	Calm
+UITeamPersonality5	Wild
 UITeamPersonality6	Yin
 UITeamPersonality7	Yang
 UITeamSkillProperty	Wuxia
@@ -662,7 +662,7 @@ UITitleModText	The current module:He Luo Quan Xiao Zhuan
 UIModTitle	Module
 #环境设定接口	
 UISettingTitle	Setting
-SettingGroup0	Video conferencing
+SettingGroup0	Video Settings
 SettingGroup1	Sounds
 SettingGroup2	Operate
 SettingGroup3	Game
@@ -705,14 +705,14 @@ UIGraphicsSettingLevelFastest	Quickest
 UIGraphicsSettingLevelFast	Quickly
 UIGraphicsSettingLevelSimple	Basic
 UIGraphicsSettingLevelGood	Good
-UIGraphicsSettingLevelBeautiful	Quality First
-UIGraphicsSettingLevelFantastic	Open fully
+UIGraphicsSettingLevelBeautiful	High Quality
+UIGraphicsSettingLevelFantastic	Max Quality
 UIGraphicsSettingLevelCustom	Customized
 UIGraphicsSettingVolumtericResolutionFull	High
-UIGraphicsSettingVolumtericResolutionHalf	It's in the middle
+UIGraphicsSettingVolumtericResolutionHalf	Medium
 UIGraphicsSettingVolumtericResolutionQuarter	Low
 UIGraphicsSettingVegetationPackageHigh	High
-UIGraphicsSettingVegetationPackageMid	Chinese
+UIGraphicsSettingVegetationPackageMid	Medium
 UIGraphicsSettingVegetationPackageLow	Low
 UIGraphicsSettingBinaryQualityLow	Low
 UIGraphicsSettingBinaryQualityHigh	High
@@ -741,10 +741,10 @@ UICameraSettingFollowCursor	Camera auto-follows the mouse cursor
 UIDelayLoading	Map and character loading delay
 #热键设定接口	
 UIHotkeyTitle	Key configuration
-UIHotkeyDefault	Reply preset
+UIHotkeyDefault	Apply Defaults
 UIHotkeySave	Apply
-UIHotkeyInputMode1	Keyboard configuration
-UIHotkeyInputMode2	Hand-operated setting
+UIHotkeyInputMode1	Keyboard
+UIHotkeyInputMode2	Controller
 UIHotkeyNormalGroup	Move Key/Operation Key
 UIHotkeyFunctionGroup	Function key
 UIHotkeyUIGroup	Interface shortcuts
@@ -802,7 +802,7 @@ UINicknameTitle2	Titles Description
 UINicknameTitle3	Equipment Effects
 UINicknameNotEffect	No effect
 UINicknameConfirm	Equipment Title
-UINicknameEquipping	Equipment Section
+UINicknameEquipping	Equip Selected
 #锻造界面	
 UIBlacksmithTabForge	Forging
 UIBlacksmithTabQuench	Tempering
@@ -883,7 +883,7 @@ SkillTipMultiRange	{0}-{1}
 SkillTipSelectorRange	Effective Range
 SkillTipBuffer	Effectiveness
 SkillTipBuffer2	Effectiveness
-SkillTipNeedInventoryValue	{0} {1} ge
+SkillTipNeedInventoryValue	{0} {1}x
 SkillTipNeedTypeTalentValue	{0} comprehend a point of {1}
 #成就界面	
 UIAchievementRewardMsg	Are you sure you want to claim the reward?
@@ -916,7 +916,7 @@ ModUploading	Module {0} is uploading
 ModUploadFinish	Upload completed
 ModUploadFailure	Upload failed
 ModUpdating	Updating
-ModApply	Apply in Chinese
+ModApply	Apply in progress
 ModApplyCheck	Should the {0} module be applied?
 IsRemoteMod	Remote
 #战斗	
@@ -1021,7 +1021,7 @@ Final01_09	Looking at the friends who have fought alongside you on this journey,
 Final01_10	Smiling, he waved goodbye
 Final01_11	Though it is said that Jincheng is pleasant, there's no place like home
 Final01_12	With a mix of excitement and apprehension in his heart,
-Final01_13	You stepped once again into the gates of that cathedral, both familiar and unfamiliar
+Final01_13	You once again stepped through the doors of the Holy Sanctuary, which felt both familiar and strange
 Final01_14	This time, what awaits you in front is,
 Final01_15	It will be a warm home
 Final01_16	Or perhaps it will be another new adventure?
@@ -1140,9 +1140,9 @@ Final09_01	The case at the Leisurely Scholars Academy occurred, and all the book
 Final09_02	Countless precious martial arts manuals were lost as a result
 Final09_03	But with the lack of covert provocations from the Imperial Guards,
 Final09_04	The blood and wind of the Jianghu has finally lessened by a bit
-Final09_05	Several months later, a mysterious female swordswoman with extraordinary sword skills appeared out of nowhere
+Final09_05	Several months later, a mysterious female swordsman with exquisite sword skills suddenly appeared
 Final09_06	This female swordswoman wandered alone, heading northward
-Final09_07	Unparalleled swordsmanship, unmatched by anyone in the world
+Final09_07	A sword technique so exquisite at the tip that none in the world can rival it
 Final09_08	Every time someone asked her about the purpose of her journey,
 Final09_09	She only smiled and did not speak
 Final09_10	But just as her fame reached its peak,
@@ -1152,16 +1152,16 @@ Final09_13	The story of the female swordsman who vanished like a shooting star
 Final09_14	Looking out over the vast grassland where my mother was born,
 Final09_15	Yan Yushu finally fulfilled a wish from his heart
 Final09_16	Next, she wanted to see what this world was like
-Final09_17	Perhaps in some place, there is another gate to the holy sanctuary
+Final09_17	Maybe there is another gate to the Holy Sanctuary somewhere
 Final09_18	It can lead to the place where he is
 #结局 10	
 Final10_00	Moon sets, stars disappear
 Final10_01	The upheaval over the Heavenly Scriptures came to an end,
 Final10_02	Yan Yushu and Dongfang Chi quietly left the Leisurely Scholars Academy
 Final10_03	Although Emperor Zhu Yuanzhang had dispatched people to search, they always ended up with nothing
-Final10_04	Several months later, a mysterious female swordsman with exquisite sword skills appeared out of nowhere
+Final10_04	Several months later, a mysterious and exceptionally skilled female swordsman appeared
 Final10_05	This woman swordsman walked alone on her way north
-Final10_06	A masterful sword technique that is unparalleled in the world; no one can match it
+Final10_06	A sword technique so exquisite at its peak that no one in the world can rival it
 Final10_07	Whenever she was asked about the purpose of her journey,
 Final10_08	She only smiled and said nothing
 Final10_09	But just as her reputation reached its peak
@@ -1178,10 +1178,10 @@ Final11_01	For He Hongyuan's death, He Yuqing felt extremely guilty
 Final11_02	Therefore, she put aside her previous stubborn and capricious nature
 Final11_03	Leading the He Family Horse Gang,
 Final11_04	Time and time again, they faced off against the assaults of impoverished mountains and treacherous waters, as well as bandits
-Final11_05	Although the Huo Family Horse Gang is no longer unrivaled,
-Final11_06	But He Yuqing, with her mastery of swordsmanship and resilient character,
+Final11_05	Although the He Family Horse Gang is no longer unrivaled,
+Final11_06	But He Yuqing, relying on his exquisite blade techniques and resilient character,
 Final11_07	Still became one of the most respected figures in the martial arts world of Tian Nan
-Final11_08	He Yuqing always considered protecting the He Family Horse Gang to be his responsibility
+Final11_08	He Yuqing has always considered protecting the He Family Horse Gang as her own responsibility
 Final11_09	However, the old generation of members of the gang often said this:
 Final11_10	Ayu is no longer the Ayu she used to be
 Final11_11	Young gang members have always not known what this means
@@ -1193,7 +1193,7 @@ Final11_15	Or perhaps, deep within her heart, there are other desires hidden?
 Final12_00	Chasing the Sun's Shadow
 Final12_01	Huang Shang exerted all his effort
 Final12_02	Still unable to stop that mastermind who had been running amok, the outsider from beyond the skies
-Final12_03	He could only watch helplessly as he entered the sanctuary
+Final12_03	He could only watch helplessly as he entered the Holy Sanctuary
 Final12_04	Vanished into the void
 Final12_05	Reform oneself and atone for sins through good deeds?
 Final12_06	When that self-righteous and righteous outsider spat out those hypocritical words,
@@ -1202,7 +1202,7 @@ Final12_08	'He also became one of Huang Shang's enemies.'
 Final12_09	Day after day, year after year,
 Final12_10	No matter how much the Heluo Clan tried to persuade him, he showed no sign of softening
 Final12_11	He exterminated the remnants of those who were not pardoned from that year's Tower
-Final12_12	Embark on the pursuit to find the church that has already shifted its manifested location
+Final12_12	Embark on the pursuit to find the newly revealed location of the Holy Sanctuary
 Final12_13	Regardless of where that outsider from beyond the heavens flees to,
 Final12_14	For the suffering of his deceased wife and children,
 Final12_15	Also because his vengeful fire could not be quelled,
@@ -1302,7 +1302,7 @@ Final18_07	Just in time to see your old friend one last time
 Final18_08	Now he is also nearly a hundred years old, and although his refined internal cultivation has reached an extraordinary level,
 Final18_09	But in recent years, he has gradually felt a sense of being unable to keep up
 Final18_10	That night, Zhang Sanfeng sat alone in his room when he suddenly felt something stir within his heart
-Final18_11	Gazing afar at the sacred temple where he once left as a traveler from beyond the heavens
+Final18_11	Look towards the holy sanctuary where the heavenly guest departed long ago
 Final18_12	“You, if you don’t come soon, old friends won't be waiting for you.”
 #结局 19	
 Final19_00	Dark Ghosts of the Underworld
@@ -1323,7 +1323,7 @@ Final19_14	The wind whispers around my ears are becoming clearer and clearer; it
 Final19_15	I will come find you
 #结局 20	
 Final20_00	Magpies' Bridge Starlight
-Final20_01	That day she leaped fearlessly into the sanctuary
+Final20_01	That day, she leaped recklessly into the Holy Sanctuary
 Final20_02	He who changed your life forever
 Final20_03	It's finally your turn as well
 Final20_04	The taste of having a simple life disrupted by an outsider from the heavens is like everything being thrown into chaos
