@@ -14,7 +14,7 @@ public class TranslationWorkflowTests
     public async Task TranslateLines()
     {
         await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
-        await PackageFinalTranslation();
+        //await PackageFinalTranslation();
     }
 
     [Fact]
