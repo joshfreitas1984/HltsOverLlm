@@ -271,7 +271,7 @@
     translated: "Team Member Limit"
   - split: 4
     text: "扣除主角不计，简单与普通模式的队友人数上限为三个，困难模式下会多增加第四位可同行队友的字段，而炼狱模式下最多可以与五位队友共同冒险。"
-    translated: "Excluding the main character, the maximum number of companions in Simple and Normal modes is three. In Difficult mode, an additional fourth companion slot is available, and in Lianyu mode, up to five companions can be adventured with together"
+    translated: ""
 - lineNum: 28
   raw: "h10601	106		交易	部分村庄中的NPC可以与玩家交易，贩卖物品给玩家，或是向玩家收购特定物品，行走江湖需要盘缠时，不妨可以拿不需要的物品去换成银两。"
   translated: ""
@@ -458,10 +458,10 @@
   splits:
   - split: 3
     text: "<color=#FF0000>炼狱</color>"
-    translated: "<color=#FF0000>Realm of Trials</color>"
+    translated: ""
   - split: 4
     text: "炼狱模式适合喜欢挑战的玩家，玩家在战斗中的的能力会被大幅度减弱，许多战斗的规则也可能改变，且战斗中我方单位死亡会导致战斗失败。"
-    translated: "Realm of Trials mode is suitable for players who enjoy challenges; in combat, the player's abilities will be significantly weakened, many battle rules may change, and if our side units die during combat, it will lead to a failure"
+    translated: ""
 - lineNum: 47
   raw: "h10906	109		队友上限	扣除主角不计，简单与普通模式的队友人数上限为三个，困难模式下会多增加第四位可同行队友的字段，而炼狱模式下最多可以与五位队友共同冒险。"
   translated: ""
@@ -471,7 +471,7 @@
     translated: "Team Member Limit"
   - split: 4
     text: "扣除主角不计，简单与普通模式的队友人数上限为三个，困难模式下会多增加第四位可同行队友的字段，而炼狱模式下最多可以与五位队友共同冒险。"
-    translated: "Excluding the protagonist, the maximum number of party members in simple and normal modes is three. In hard mode, a fourth additional companion slot becomes available, and up to five companions can be adventured with in purgatory mode"
+    translated: ""
 - lineNum: 48
   raw: "h10907	109		战斗限制	炼狱难度模式下的战斗会新增一条战斗限制，任一我方可控制战斗单位死亡就会判定玩家战斗失败。"
   translated: ""
@@ -481,7 +481,7 @@
     translated: "Combat Restrictions"
   - split: 4
     text: "炼狱难度模式下的战斗会新增一条战斗限制，任一我方可控制战斗单位死亡就会判定玩家战斗失败。"
-    translated: "In the Realm of Trials difficulty mode, an additional battle restriction will be added: if any controllable combat unit on your side dies during the battle, it will result in a failure for the player"
+    translated: ""
 - lineNum: 49
   raw: "h10908	109		战斗玩法	炼狱难度模式下的部分战斗玩法可能会改变，例如需要保护特定队友不能死亡的友军保卫战，或是改变某些战斗的胜利条件等等。"
   translated: ""
@@ -491,7 +491,7 @@
     translated: "Combat Gameplay"
   - split: 4
     text: "炼狱难度模式下的部分战斗玩法可能会改变，例如需要保护特定队友不能死亡的友军保卫战，或是改变某些战斗的胜利条件等等。"
-    translated: "In the Realm of Trials difficulty mode, some battle mechanics may change. For example, there might be a need to protect specific teammates from death in friendly defense battles, or altering certain victory conditions for battles"
+    translated: ""
 - lineNum: 50
   raw: "h10909	109		江湖传言	随着不同的游戏难易度，江湖传言事件的类型与发生条件也不尽相同，或许还能遇到特定难度下才有的特殊江湖事件。"
   translated: ""
@@ -511,7 +511,7 @@
     translated: "NPC Practice"
   - split: 4
     text: "困难与炼狱难度模式下的部分NPC，玩家可以对其提出切磋要求（预设为G键），玩家会与NPC进行一对一切磋，切磋胜利时有一定的机率可以获得该NPC身上的物品，但一天只能对同一个NPC提出一次切磋要求。"
-    translated: "In difficult and hellish difficulty modes, some NPCs allow players to request a sparring session (pre-set as the G key). Players will engage in one-on-one sparring with the NPC. Upon winning the sparring match, there is a chance to obtain items from that NPC, but you can only request a sparring session with the same NPC once per day"
+    translated: ""
 - lineNum: 52
   raw: "h11001	110		江湖传言	河洛世界会随机发生不同的传言事件，玩家可藉由与NPC打听来获得传言相关讯息，去进行相对应的行动或任务，当然玩家也可以选择不予理会。"
   translated: ""
@@ -2098,7 +2098,7 @@
   splits:
   - split: 3
     text: "外衣"
-    translated: "Outer garment"
+    translated: "Costume"
   - split: 4
     text: "能改变主角外观的特殊服饰，有些对应阵营的服饰能触发特殊的事件或效果。"
     translated: "Special costumes that can change the protagonist's appearance have some that correspond to factions and can trigger special events or effects"

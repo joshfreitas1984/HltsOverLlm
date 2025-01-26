@@ -248,7 +248,7 @@ public class LineValidation
                 result = result.Replace("`", "'");
 
             //Strip .'s
-            if (outputFile != "NpcTalkItem.txt" && result.EndsWith('.') && raw != "." && !result.EndsWith(".."))
+            if (!outputFile.EndsWith("NpcTalkItem.txt") && result.EndsWith('.') && raw != "." && !result.EndsWith(".."))
                 result = result[..^1];
 
             result = LineValidation.RemoveDiacritics(result);

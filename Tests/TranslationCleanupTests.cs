@@ -18,8 +18,8 @@ public class TranslationCleanupTests
         var manual = TranslationService.GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
-            //"南贤",
-            //"南闲",
+            "龙珠",
+            "炼狱",
             //"东豪",
             //"北丑",
             //"西庖",
@@ -72,7 +72,7 @@ public class TranslationCleanupTests
                     }
 
                     //Add . back in
-                    if (outputFile == "NpcTalkItem.txt" && char.IsLetter(outputFile[^1]))
+                    if (outputFile.EndsWith("NpcTalkItem.txt") && char.IsLetter(split.Translated[^1]))
                     {
                         Console.WriteLine($"Needed full stop:{textFileToTranslate.Path} \n{split.Translated}");
                         split.Translated += '.';

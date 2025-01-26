@@ -33933,7 +33933,7 @@
   splits:
   - split: 1
     text: "火龙珠小贩"
-    translated: "Fire Dragon Ball Peddler"
+    translated: ""
 - lineNum: 4848
   raw: "n60525	休息小二	ml_standA00	c_m69	-181.7748, 129.2966, -225.2964	233.2289	20-23, 0-3	TRUE	FALSE	n6052501000	v00123	sc60525001			1	12	0	n60149	n60525				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f65003打贏太華門戰鬥\", 0, 0}  ], 0} 	0"
   translated: ""
