@@ -29,7 +29,7 @@
   - split: 1
     text: "禾鬱青(破山刀)"
     translated: "He Yuqing (Po Shan Dao)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 4
   raw: "st0003b	破山刀(馬幫幫眾)(拙)	it30305	0	0	SkillTree022_000,SkillTree022_001,SkillTree022_003"
   translated: ""
@@ -69,7 +69,7 @@
   - split: 1
     text: "禾鬱青(青天刀法)"
     translated: "He Yuqing (Qing Tian Dao Fa)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 9
   raw: "st0004b	禾泓淵(青天刀法)	it30306	0	0	SkillTree023_000,SkillTree023_001,SkillTree023_002,SkillTree023_003,SkillTree023_004,SkillTree023_005,SkillTree023_006,SkillTree023_007,SkillTree023_008,SkillTree023_009,SkillTree023_010,SkillTree023_011"
   translated: ""
@@ -77,7 +77,7 @@
   - split: 1
     text: "禾泓淵(青天刀法)"
     translated: "He Hongyuan (Qingtian Blade Arts)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 10
   raw: "st0005	狩獵弓術	it30501	0	0	SkillTree118_000,SkillTree118_001"
   translated: ""
@@ -1540,8 +1540,8 @@
   splits:
   - split: 1
     text: "碧蛇刀法(巧)(何白芍)"
-    translated: "Bai She Dao Fa (Slick) by He Baishe"
-    flaggedForRetranslation: true
+    translated: "Green Snake Swordsmanship (Qiao)  (He Bai Shao)"
+    flaggedForRetranslation: false
 - lineNum: 193
   raw: "st0097b	碧蛇刀法(巧)(何紫菀)	it30310	0	0	SkillTree089_000,SkillTree089_004,SkillTree089_006,SkillTree089_008"
   translated: ""

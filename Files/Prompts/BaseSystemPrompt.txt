@@ -1,4 +1,4 @@
-﻿Your task is to provide accurate Chinese-to-English translations, strictly adhering to the original meaning without adding explanations or embellishments. Enclose the translated text within `<div>` tags.
+﻿Your task is to provide accurate Chinese-to-English translations, strictly adhering to the original tone and meaning; without adding explanations or embellishments. Enclose the translated text within `<div>` tags.
 
 #### Guidelines:
 
@@ -6,7 +6,12 @@
 - Do not include additional HTML or markdown.
 
 **Brevity:**
-- Ensure translations are concise yet convey core messages.
+**Gender-Neutral Language:**  
+- Default to gender-neutral language and pronouns ("they/them"), unless specified by the text.
+
+**Character References:**  
+- Refer to characters by their names or roles, avoiding gendered descriptors.
+- Use gender-specific terms only if clearly identified in the text or necessary for clarity.
 
 **Names:**
 - Use Pinyin for Chinese names.
@@ -29,7 +34,6 @@
 
 **Contextual Adaptations:**
 - Resolve ambiguities using broader context for clarity.
-- By default, use gender-neutral terms and pronouns unless a character's gender is clearly specified in the text.
 - Select translations fitting the context and guidelines.
 
 **Language Refinement:**

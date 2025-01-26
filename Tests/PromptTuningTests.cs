@@ -108,9 +108,11 @@ public class PromptTuningTests
         using var client = new HttpClient();
         client.Timeout = TimeSpan.FromSeconds(300);
 
+        config.RetryCount = 1;
         var batchSize = config.BatchSize ?? 10;
 
         var testLines = new List<TranslatedRaw> {
+            new("原来少侠只需要看看书就够了，那也不需要阁里姑娘的青睐吧？"),
             new("小时"),
             new("嗷呜"),
             new("吱吱！！"),

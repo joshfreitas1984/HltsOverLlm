@@ -1461,7 +1461,7 @@
   - split: 1
     text: "禾家马帮"
     translated: "He Family Horse Gang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 186
   raw: "Area19	叶家马帮"
   translated: ""
@@ -7944,8 +7944,8 @@
   splits:
   - split: 1
     text: "露出微笑，挥手道别。"
-    translated: "Smiling, he waved goodbye"
-    flaggedForRetranslation: true
+    translated: "Smiling, you waved goodbye"
+    flaggedForRetranslation: false
 - lineNum: 1021
   raw: "Final01_11	锦城虽云乐，不如早还家。"
   translated: ""
@@ -8028,8 +8028,8 @@
   splits:
   - split: 1
     text: "他所追求的虚幻美好无法将他从悲惨的现实中解脱，"
-    translated: "The illusory beauty he pursued could not free him from his bleak reality"
-    flaggedForRetranslation: true
+    translated: "His pursuit of illusory happiness could not free him from the grim reality"
+    flaggedForRetranslation: false
 - lineNum: 1032
   raw: "Final02_04	那是你拒绝屈从的未来，"
   translated: ""
@@ -8252,8 +8252,8 @@
   splits:
   - split: 1
     text: "有道是：九言劝醒迷途仕，一语惊醒梦中人。"
-    translated: "As the saying goes,：With nine words, he awakened the lost official; with one word, he startled a person in their dream"
-    flaggedForRetranslation: true
+    translated: "There's an old saying that...：With nine words, one wakes the wanderer; with a single phrase, they awaken those lost in dreams"
+    flaggedForRetranslation: false
 - lineNum: 1061
   raw: "Final04_02	那个倒在血泊中的「你」确实说对了一件事，"
   translated: ""
@@ -8368,8 +8368,8 @@
   splits:
   - split: 1
     text: "杨天义仓皇出逃，不知所终。"
-    translated: "Yang Tianyi fled in panic, not knowing where he ended up"
-    flaggedForRetranslation: true
+    translated: "Yang Tianyi fled in a panic, and no one knows where he went"
+    flaggedForRetranslation: false
 - lineNum: 1076
   raw: "Final05_04	而后段思平登基为帝，创立大理国，"
   translated: ""
@@ -8417,7 +8417,7 @@
   - split: 1
     text: "听闻何白芍死去的噩耗，"
     translated: "Hearing the ill news of He Baishe's death,"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1082
   raw: "Final05_10	何玉蝶体认到过去所犯下的错误，"
   translated: ""
@@ -8425,7 +8425,7 @@
   - split: 1
     text: "何玉蝶体认到过去所犯下的错误，"
     translated: "He Yu die realized her past mistakes"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1083
   raw: "Final05_11	决定将领导箐寨的权力和重任下放给多名箐寨族人。"
   translated: ""
@@ -8441,7 +8441,7 @@
   - split: 1
     text: "何紫菀在作为继任族长之余，"
     translated: "He Ziwang, in addition to being the successor tribal chief,"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1085
   raw: "Final05_13	终于也有了追求自由的权力。"
   translated: ""
@@ -8488,8 +8488,8 @@
   splits:
   - split: 1
     text: "猜想着他如今会在何处？"
-    translated: "Wondering where he might be now?"
-    flaggedForRetranslation: true
+    translated: "Speculating on where he might be now?"
+    flaggedForRetranslation: false
 - lineNum: 1091
   raw: "Final05_19	今后又是否会有一同班荆道旧，剪烛西窗的一天？"
   translated: ""
@@ -8656,8 +8656,8 @@
   splits:
   - split: 1
     text: "以一手精湛箭术，剿灭贼窟，平定祸乱。"
-    translated: "With masterful archery skills, he wiped out the bandit lair and restored peace"
-    flaggedForRetranslation: true
+    translated: "With masterful archery skills, they eliminated the bandit hideout and restored peace"
+    flaggedForRetranslation: false
 - lineNum: 1113
   raw: "Final07_10	「雪山神鹰」之名，很快地传遍了整个武林。"
   translated: ""
@@ -8689,7 +8689,7 @@
   - split: 1
     text: "他将驯鹰的技艺传授予镇民与卫兵，"
     translated: "He passed his falconry skills on to the town residents and guards"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1117
   raw: "Final07_14	使大研镇成为了儒学与鹰猎传统交融的美丽城镇。"
   translated: ""
@@ -8920,8 +8920,8 @@
   splits:
   - split: 1
     text: "她只是笑而不语。"
-    translated: "She only smiled and did not speak"
-    flaggedForRetranslation: true
+    translated: "She only laughed without speaking"
+    flaggedForRetranslation: false
 - lineNum: 1147
   raw: "Final09_10	但就在她声名达到巅峰之际，"
   translated: ""
@@ -8936,8 +8936,8 @@
   splits:
   - split: 1
     text: "她却消失在长城之外，从此不现踪迹。"
-    translated: "She disappeared beyond the Great Wall, never to be seen again"
-    flaggedForRetranslation: true
+    translated: "She disappeared beyond the Great Wall and never showed herself again"
+    flaggedForRetranslation: false
 - lineNum: 1149
   raw: "Final09_12	数十年后，江湖仍流传着那名如流星般出世，"
   translated: ""
@@ -8976,8 +8976,8 @@
   splits:
   - split: 1
     text: "接下来，她想要看看这个世界，"
-    translated: "Next, she wanted to see what this world was like"
-    flaggedForRetranslation: true
+    translated: "Next, she wanted to see the world"
+    flaggedForRetranslation: false
 - lineNum: 1154
   raw: "Final09_17	也许在某个地方，会有另一扇圣堂之门，"
   translated: ""
@@ -8992,8 +8992,8 @@
   splits:
   - split: 1
     text: "能够通往他所在的那个地方。"
-    translated: "It can lead to the place where he is"
-    flaggedForRetranslation: true
+    translated: "You can reach the place where he is"
+    flaggedForRetranslation: false
 - lineNum: 1156
   raw: "#结局 10	"
   translated: ""
@@ -9061,15 +9061,15 @@
   - split: 1
     text: "每当被人问起她旅途的目的，"
     translated: "Whenever she was asked about the purpose of her journey,"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1165
   raw: "Final10_08	她只是笑而不语。"
   translated: ""
   splits:
   - split: 1
     text: "她只是笑而不语。"
-    translated: "She only smiled and said nothing"
-    flaggedForRetranslation: true
+    translated: "She only laughed without speaking"
+    flaggedForRetranslation: false
 - lineNum: 1166
   raw: "Final10_09	但就在她声名达到巅峰之际，"
   translated: ""
@@ -9084,8 +9084,8 @@
   splits:
   - split: 1
     text: "她却消失在长城之外，从此不现踪迹。"
-    translated: "She disappeared beyond the Great Wall and never resurfaced"
-    flaggedForRetranslation: true
+    translated: "She disappeared beyond the Great Wall and never appeared again"
+    flaggedForRetranslation: false
 - lineNum: 1168
   raw: "Final10_11	数十年后，江湖仍流传着那名如流星般出世，"
   translated: ""
@@ -9153,15 +9153,15 @@
   - split: 1
     text: "对于禾泓渊的死，禾郁青极为自责，"
     translated: "Regarding He Yuqing's death, He Yuqing felt extremely guilty"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1177
   raw: "Final11_02	也因此她收起了以往的蛮横任性，"
   translated: ""
   splits:
   - split: 1
     text: "也因此她收起了以往的蛮横任性，"
-    translated: "Therefore, she put aside her previous stubborn and capricious nature"
-    flaggedForRetranslation: true
+    translated: "So she gave up her previous willfulness and impulsiveness"
+    flaggedForRetranslation: false
 - lineNum: 1178
   raw: "Final11_03	带领着禾家马帮，"
   translated: ""
@@ -9169,7 +9169,7 @@
   - split: 1
     text: "带领着禾家马帮，"
     translated: "Leading the He Family Horse Gang,"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1179
   raw: "Final11_04	一次又一次地对抗穷山恶水与山贼的侵袭。"
   translated: ""
@@ -9185,7 +9185,7 @@
   - split: 1
     text: "虽然禾家马帮不再一枝独秀，"
     translated: "Although the He Family Horse Gang is no longer unrivaled,"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1181
   raw: "Final11_06	但禾郁青凭借着精湛的刀法与坚韧的性格，"
   translated: ""
@@ -9193,7 +9193,7 @@
   - split: 1
     text: "但禾郁青凭借着精湛的刀法与坚韧的性格，"
     translated: "But He Yuqing, with her mastery of blade arts and resilient character,"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1182
   raw: "Final11_07	仍然成为天南武林中最令人崇敬的马锅头。"
   translated: ""
@@ -9209,7 +9209,7 @@
   - split: 1
     text: "禾郁青始终将守护禾家马帮视为自身的责任，"
     translated: "He Yuqing has always regarded protecting the He Family Horse Gang as her own responsibility"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1184
   raw: "Final11_09	然而老一辈的帮众时常这样说着，"
   translated: ""
@@ -9224,8 +9224,8 @@
   splits:
   - split: 1
     text: "「阿郁不再是以前的阿郁了。」"
-    translated: "Ayu is no longer the Ayu she used to be"
-    flaggedForRetranslation: true
+    translated: "A Yu is no longer the A Yu she used to be"
+    flaggedForRetranslation: false
 - lineNum: 1186
   raw: "Final11_11	年轻的帮众始终不知道这是甚么意思，"
   translated: ""
@@ -9241,7 +9241,7 @@
   - split: 1
     text: "或许连禾郁青自己也不知道。"
     translated: "Perhaps He Yuqing herself doesn't know"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1188
   raw: "Final11_13	她深遂眼眸中闪烁着落寞，"
   translated: ""
@@ -9301,7 +9301,7 @@
   - split: 1
     text: "他只能眼睁睁的看着他进入圣堂之门，"
     translated: "He could only watch helplessly as he entered the Holy Sanctuary"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1196
   raw: "Final12_04	消失于虚空之中。"
   translated: ""
@@ -9332,8 +9332,8 @@
   splits:
   - split: 1
     text: "践踏他逝去妻儿尊严的同时，"
-    translated: "As he trampled upon the dignity of his deceased wife and children at the same time,"
-    flaggedForRetranslation: true
+    translated: "As he trampled on the dignity of his deceased wife and child,"
+    flaggedForRetranslation: false
 - lineNum: 1200
   raw: "Final12_08	便也成了他黄裳的仇人之一。"
   translated: ""
@@ -9341,7 +9341,7 @@
   - split: 1
     text: "便也成了他黄裳的仇人之一。"
     translated: "He also became one of Huang Shang's enemies"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1201
   raw: "Final12_09	日复一日，年复一年，"
   translated: ""
@@ -9356,8 +9356,8 @@
   splits:
   - split: 1
     text: "不论河洛一族如何苦心开导，他也不曾有丝毫软化，"
-    translated: "No matter how much the Heluo Clan tried to persuade him, he showed no sign of softening"
-    flaggedForRetranslation: true
+    translated: "Regardless of how the Heluo clan tried to counsel him, he showed no sign of softening"
+    flaggedForRetranslation: false
 - lineNum: 1203
   raw: "Final12_11	他杀光了当年不赦楼的余孽，"
   translated: ""
@@ -9365,7 +9365,7 @@
   - split: 1
     text: "他杀光了当年不赦楼的余孽，"
     translated: "He wiped out all the remnants of the Merciless Hall from that year"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1204
   raw: "Final12_12	启程追寻早已转移显现地点的圣堂。"
   translated: ""
@@ -9404,8 +9404,8 @@
   splits:
   - split: 1
     text: "只要他还存着一口气，"
-    translated: "As long as he is still breathing,"
-    flaggedForRetranslation: true
+    translated: "As long as he still has a breath of life,"
+    flaggedForRetranslation: false
 - lineNum: 1209
   raw: "Final12_17	必将如影随形，杀之后快。"
   translated: ""
@@ -9480,8 +9480,8 @@
   splits:
   - split: 1
     text: "绯绯聪明好学，跟着陈之济学习医毒之术，"
-    translated: "Feifei is clever and eager to learn; she studies medical and toxicology techniques under Chen Zhiji"
-    flaggedForRetranslation: true
+    translated: "Fei Fei is intelligent and eager to learn, studying medical and toxicology techniques under Chen Zhiji"
+    flaggedForRetranslation: false
 - lineNum: 1219
   raw: "Final13_08	领悟较其母更胜十分，"
   translated: ""
@@ -9548,8 +9548,8 @@
   splits:
   - split: 1
     text: "杜晋鹏悲恨难平，却又不敢作声，"
-    translated: "Lu Junpeng was heartbroken and could not be consoled, yet he dared not speak up"
-    flaggedForRetranslation: true
+    translated: "Du Jinpeng was overwhelmed with grief and resentment, yet he dared not speak"
+    flaggedForRetranslation: false
 - lineNum: 1228
   raw: "Final14_03	将怒火一股脑儿发泄在藏花草棚。"
   translated: ""
@@ -9648,8 +9648,8 @@
   splits:
   - split: 1
     text: "被赶出宫后，又因阉人之身受尽轻视。"
-    translated: "After being exiled from the palace, he was also looked down upon due to his eunuch status"
-    flaggedForRetranslation: true
+    translated: "After being expelled from the palace, they were further subjected to contempt due to their eunuch status"
+    flaggedForRetranslation: false
 - lineNum: 1241
   raw: "Final15_04	刻苦修习毒功，终日心念报仇，愤恨无一日安宁。"
   translated: ""
@@ -9704,8 +9704,8 @@
   splits:
   - split: 1
     text: "并在寿终之日立下酒庄传贤不传族的规矩，"
-    translated: "And on the day of his passing, he established the rule for the winery to pass merit, not lineage"
-    flaggedForRetranslation: true
+    translated: "And on the day of his passing, he established the rule that the winery would be passed down based on merit, not by lineage"
+    flaggedForRetranslation: false
 - lineNum: 1248
   raw: "Final15_11	打破一世富贵由陈家子弟把持的陋规，"
   translated: ""
@@ -9728,8 +9728,8 @@
   splits:
   - split: 1
     text: "容秀成年后，几经寻访，"
-    translated: "After Rong Xiucheng grew up, he searched for several years,"
-    flaggedForRetranslation: true
+    translated: "After Rong Xiu grew up, she searched for them several times"
+    flaggedForRetranslation: false
 - lineNum: 1251
   raw: "Final15_14	终于找到隐居的司徒荆，"
   translated: ""
@@ -9836,8 +9836,8 @@
   splits:
   - split: 1
     text: "习得邪派功法后，终日心念报仇，"
-    translated: "After acquiring the skills of a nefarious sect, he spent his days daydreaming about revenge"
-    flaggedForRetranslation: true
+    translated: "After mastering the techniques of a nefarious sect, he was consumed day and night with thoughts of revenge"
+    flaggedForRetranslation: false
 - lineNum: 1265
   raw: "Final16_10	愤恨无一日安宁，"
   translated: ""
@@ -9860,16 +9860,16 @@
   splits:
   - split: 1
     text: "而巧取旁门左道方法强练尸蛇毒血功，"
-    translated: "But he cunningly used unconventional and illicit methods to forcefully cultivate the Corpse Python Poison Blood Technique"
-    flaggedForRetranslation: true
+    translated: "But Qiao was learning the poisonous blood skills of the python through shortcuts and unorthodox methods"
+    flaggedForRetranslation: false
 - lineNum: 1268
   raw: "Final16_13	最终遭到功法反噬，死时内脏溃烂，"
   translated: ""
   splits:
   - split: 1
     text: "最终遭到功法反噬，死时内脏溃烂，"
-    translated: "Ultimately suffering from the backlash of his martial arts, he died with his internal organs rotting away"
-    flaggedForRetranslation: true
+    translated: "Ultimately, he suffered from the backlash of his cultivation technique and died with his internal organs rotted away"
+    flaggedForRetranslation: false
 - lineNum: 1269
   raw: "Final16_14	呻吟七七四十九天后，"
   translated: ""
@@ -9929,7 +9929,7 @@
   - split: 1
     text: "哀痛之余，他下定决心继承义兄遗志，"
     translated: "In his grief, he resolved to carry on his elder brother's legacy"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1277
   raw: "Final17_05	一生抵御外患、保家卫国。"
   translated: ""
@@ -10009,15 +10009,15 @@
   - split: 1
     text: "仍悟得「太清罡气」最深一层绝学，"
     translated: "He finally mastered the deepest secret technique of Ta Qing Gang Qi"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1287
   raw: "Final17_15	数年后创立全真教派，开创绝世武学，"
   translated: ""
   splits:
   - split: 1
     text: "数年后创立全真教派，开创绝世武学，"
-    translated: "Several years later, he established the Quanzhen Sect and pioneered unparalleled martial arts"
-    flaggedForRetranslation: true
+    translated: "Several years later, he founded the Quanzhen Sect and established an unsurpassed martial art"
+    flaggedForRetranslation: false
 - lineNum: 1288
   raw: "Final17_16	被世人尊为「重阳真人」。"
   translated: ""
@@ -10032,8 +10032,8 @@
   splits:
   - split: 1
     text: "然而每次听闻外敌进犯，"
-    translated: "However, every time he heard about external enemies invading,"
-    flaggedForRetranslation: true
+    translated: "However, every time news of an external invasion came to his ears,"
+    flaggedForRetranslation: false
 - lineNum: 1290
   raw: "Final17_18	王喆总会想起义兄死前的一番话，"
   translated: ""
@@ -10124,24 +10124,24 @@
   splits:
   - split: 1
     text: "如今他也已年近百岁，虽说一身精纯内功已臻化境，"
-    translated: "Now he is also nearly a hundred years old, and although his refined internal cultivation has reached an extraordinary level,"
-    flaggedForRetranslation: true
+    translated: "Now he is also in his nineties, and although his pure internal cultivation has reached the realm of transformation,"
+    flaggedForRetranslation: false
 - lineNum: 1302
   raw: "Final18_09	但是近年来也渐渐有了力不从心之感。"
   translated: ""
   splits:
   - split: 1
     text: "但是近年来也渐渐有了力不从心之感。"
-    translated: "But in recent years, he has gradually felt a sense of being unable to keep up"
-    flaggedForRetranslation: true
+    translated: "However, in recent years, there has been a growing sense of not being able to keep up"
+    flaggedForRetranslation: false
 - lineNum: 1303
   raw: "Final18_10	这一夜，张三丰独自坐在房中，忽然心有所感，"
   translated: ""
   splits:
   - split: 1
     text: "这一夜，张三丰独自坐在房中，忽然心有所感，"
-    translated: "That night, Zhang Sanfeng sat alone in his room when he suddenly felt something stir within his heart"
-    flaggedForRetranslation: true
+    translated: "This night, Zhang Sanfeng sat alone in his room when he suddenly had a revelation"
+    flaggedForRetranslation: false
 - lineNum: 1304
   raw: "Final18_11	向着天外来客当年离开的圣堂远眺"
   translated: ""
@@ -10176,8 +10176,8 @@
   splits:
   - split: 1
     text: "自从那日将那人打落那无名深谷中后，"
-    translated: "Since that day when he threw the man into the nameless deep ravine,"
-    flaggedForRetranslation: true
+    translated: "Since that day he knocked the man into the nameless deep ravine,"
+    flaggedForRetranslation: false
 - lineNum: 1309
   raw: "Final19_02	百损道姑的心里就有根刺｜"
   translated: ""
@@ -10192,16 +10192,16 @@
   splits:
   - split: 1
     text: "她没听见那人落地的声音。"
-    translated: "She did not hear the sound of that person landing"
-    flaggedForRetranslation: true
+    translated: "She didn't hear the sound of the person landing"
+    flaggedForRetranslation: false
 - lineNum: 1311
   raw: "Final19_04	好几次夜里，她彷佛又回到了那万丈深谷边，"
   translated: ""
   splits:
   - split: 1
     text: "好几次夜里，她彷佛又回到了那万丈深谷边，"
-    translated: "Several times at night, she seemed to have returned to the edge of that thousand-foot deep gorge"
-    flaggedForRetranslation: true
+    translated: "Many times at night, she felt as if she had returned to the edge of that abyss a thousand zhang deep"
+    flaggedForRetranslation: false
 - lineNum: 1312
   raw: "Final19_05	看着那张爽朗的令人讨厌的脸消失在视线范围。"
   translated: ""
@@ -10216,16 +10216,16 @@
   splits:
   - split: 1
     text: "但不论她多么地专注，多么地仔细，"
-    translated: "But no matter how focused or careful she was,"
-    flaggedForRetranslation: true
+    translated: "But no matter how focused she is, or how careful she is,"
+    flaggedForRetranslation: false
 - lineNum: 1314
   raw: "Final19_07	她还是没能听见那梦寐以求的，美妙的坠地声。"
   translated: ""
   splits:
   - split: 1
     text: "她还是没能听见那梦寐以求的，美妙的坠地声。"
-    translated: "She still could not hear the beautiful sound of that long-desired landing"
-    flaggedForRetranslation: true
+    translated: "She still couldn't hear the long-sought, beautiful sound of landing"
+    flaggedForRetranslation: false
 - lineNum: 1315
   raw: "Final19_08	唯有枯谷中呼啸的风声，哑哑地嘲笑着她。"
   translated: ""
@@ -10240,8 +10240,8 @@
   splits:
   - split: 1
     text: "为了拔掉心里的那根刺，数年来她拼命修练武功，"
-    translated: "For years, she trained hard in martial arts to remove the thorn from her heart"
-    flaggedForRetranslation: true
+    translated: "To remove the thorn from her heart, she had been diligently practicing martial arts for years"
+    flaggedForRetranslation: false
 - lineNum: 1317
   raw: "Final19_10	将师门的武学提高到了前人无法想象的境界。"
   translated: ""
@@ -10264,16 +10264,16 @@
   splits:
   - split: 1
     text: "但她自己知道，那人是真正的武学天才，"
-    translated: "But she herself knew that the person was a true genius in martial arts"
-    flaggedForRetranslation: true
+    translated: "But she herself knew, that person was a true genius of martial arts"
+    flaggedForRetranslation: false
 - lineNum: 1320
   raw: "Final19_13	她不会有胜过他的一天。"
   translated: ""
   splits:
   - split: 1
     text: "她不会有胜过他的一天。"
-    translated: "She will never have a day where she surpasses him"
-    flaggedForRetranslation: true
+    translated: "She will never have a day of victory over him"
+    flaggedForRetranslation: false
 - lineNum: 1321
   raw: "Final19_14	最近耳边的风声越来越清晰了，那分明是他的声音。"
   translated: ""
@@ -10308,8 +10308,8 @@
   splits:
   - split: 1
     text: "那日她在圣堂奋不顾身的一跃，"
-    translated: "That day, she leaped recklessly into the Holy Sanctuary"
-    flaggedForRetranslation: true
+    translated: "That day, she leapt without hesitation in the Holy Sanctuary"
+    flaggedForRetranslation: false
 - lineNum: 1326
   raw: "Final20_02	永远的改变了你的人生。"
   translated: ""
@@ -10317,7 +10317,7 @@
   - split: 1
     text: "永远的改变了你的人生。"
     translated: "He who changed your life forever"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1327
   raw: "Final20_03	终于也轮到了你，"
   translated: ""
@@ -10356,8 +10356,8 @@
   splits:
   - split: 1
     text: "尽管如此，她也是你那段异世界历险的唯一证明，"
-    translated: "Despite this, she is also the only proof of your adventure in another world"
-    flaggedForRetranslation: true
+    translated: "Despite all that, she is also the sole proof of your adventures in another world"
+    flaggedForRetranslation: false
 - lineNum: 1332
   raw: "Final20_08	经过那些仗剑江湖的奇异日子，"
   translated: ""
@@ -10396,8 +10396,8 @@
   splits:
   - split: 1
     text: "以为电话与计算机是某种妖法邪术的她，"
-    translated: "She thought that the phone and computer were some sort of sorcery or dark magic"
-    flaggedForRetranslation: true
+    translated: "She thought that the telephone and computer were some kind of sorcery or dark art"
+    flaggedForRetranslation: false
 - lineNum: 1337
   raw: "Final20_13	成了你可以任意倾诉的唯一对象。"
   translated: ""
@@ -10489,7 +10489,7 @@
   - split: 1
     text: "善于和人打交道的他，"
     translated: "He was skilled at dealing with people"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1349
   raw: "Final21_07	很快的聚集了一群看似无用的乞丐，"
   translated: ""
@@ -10533,15 +10533,15 @@
   - split: 1
     text: "他也逐渐成长、强大。"
     translated: "He also gradually grew and became stronger"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1355
   raw: "Final22_03	可随你征战天下多年，原本以为功成名就的他，"
   translated: ""
   splits:
   - split: 1
     text: "可随你征战天下多年，原本以为功成名就的他，"
-    translated: "Having followed you to campaign across the world for many years, he originally thought that upon achieving success and fame"
-    flaggedForRetranslation: true
+    translated: "Although he had campaigned across the world for many years, originally believing he would achieve great success and fame,"
+    flaggedForRetranslation: false
 - lineNum: 1356
   raw: "Final22_04	最后竟遭到不愿分权的你，翻脸无情的追杀。"
   translated: ""
@@ -10564,8 +10564,8 @@
   splits:
   - split: 1
     text: "善于和人打交道的他，很快的东山再起，"
-    translated: "He was adept at dealing with people, and he quickly made a comeback"
-    flaggedForRetranslation: true
+    translated: "He was adept at dealing with people and quickly made a comeback"
+    flaggedForRetranslation: false
 - lineNum: 1359
   raw: "Final22_07	聚集了一群看似无用的乞丐，"
   translated: ""

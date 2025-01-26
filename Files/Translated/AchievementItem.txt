@@ -1561,7 +1561,7 @@
   - split: 2
     text: "你把土地公公的玉币还给了祂，祂开心的给了你许多好处。"
     translated: "You gave the jade coins back to Lord Tudi Gong, and He was happy to grant you many blessings"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 12
     text: "经验值10000点，金钱5000钱，江湖声望，感悟点数1点"
     translated: "Experience Points: 10,000, Money: 5,000 Coins, Jianghu Reputation: 1 Insight Point"
@@ -1929,7 +1929,7 @@
   - split: 2
     text: "与禾郁青成为队友"
     translated: "With He Yuqing as a teammate"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience Points +500, Jianghu Reputation, Thousand-Year Lingzhi Mushroom"
@@ -1945,7 +1945,7 @@
   - split: 2
     text: "与何紫菀成为队友"
     translated: "With He Ziwang as a teammate"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience points 500, Jianghu reputation, thousand-year immortal mushroom"
@@ -2201,7 +2201,7 @@
   - split: 2
     text: "完成禾郁青的好友任务"
     translated: "Complete He Yuqing's friend quest"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 12
     text: "经验值5000点，冰蚕丝"
     translated: "Experience points 5,000, Ice Silkworm Silk"
@@ -2217,7 +2217,7 @@
   - split: 2
     text: "完成何紫菀的好友任务"
     translated: "Complete He Ziwang's friend quest"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 12
     text: "经验值5000点，冰蚕丝"
     translated: "Experience points 5,000, silk of ice worm"
@@ -4153,7 +4153,7 @@
   - split: 2
     text: "完成段思平与何紫菀的结局"
     translated: "As Duan Siping and He Ziwang faced their final moments together, the air was thick with unspoken words and lingering emotions. The bond they shared had been forged in the crucible of countless battles, a connection deeper than mere camaraderie. Now, as they stood on the precipice of eternity, it was time to confront the truths that lay buried beneath years of silence"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -4249,7 +4249,7 @@
   - split: 2
     text: "完成禾郁青的结局"
     translated: "Complete He Yuqing's ending"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -4296,8 +4296,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "完成程雁华的第二个结局"
-    translated: "As Cheng Yanhua completed her second ending, she stood on the balcony of Charming Dream Hall, gazing at the sunset over Dayan Town. The wind carried whispers of her past triumphs and tribulations. She smiled softly, knowing that her journey was far from over. With renewed determination, she turned towards the horizon, ready to embrace whatever challenges lay ahead in the world of Wulin"
-    flaggedForRetranslation: true
+    translated: "Complete Chen Yanhua's second ending"
+    flaggedForRetranslation: false
   - split: 12
     text: "无奖励"
     translated: "Without reward"

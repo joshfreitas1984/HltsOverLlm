@@ -2100,8 +2100,8 @@
     flaggedForRetranslation: false
   - split: 4
     text: "村庄中的铁匠可以协助玩家打造武器与装备，打造出来的武器与装备会比商人贩卖，或是野外战斗获得的道具质量更佳，有些锻造的蓝图与配方可能需要经过任务取得，或是需与铁匠培养友好度，铁匠才会愿意帮玩家打造。"
-    translated: "Within the village, the blacksmith can assist players in forging weapons and equipment. The crafted items are of higher quality compared to those sold by merchants or found during wilderness battles. Some forging blueprints and recipes may need to be obtained through quests or require cultivating a good relationship with the blacksmith before he is willing to help you forge items"
-    flaggedForRetranslation: true
+    translated: "The blacksmith in the village can assist players in forging weapons and equipment. The forged weapons and equipment are of higher quality than those sold by merchants or obtained from wild battles. Some forging blueprints and recipes may need to be acquired through tasks, or a friendly relationship with the blacksmith must be cultivated before they will agree to help forge items for the player"
+    flaggedForRetranslation: false
 - lineNum: 176
   raw: "h70102	701	TeamInventory/Btn_bag_06.png	锻造素材	锻造不同的武器或防具，需要的材料与数量不尽相同，使用稀有度越佳的材料，打造出来的武器和防具数值越佳，部份材料取得不易，锻造前必须多做考虑。"
   translated: ""

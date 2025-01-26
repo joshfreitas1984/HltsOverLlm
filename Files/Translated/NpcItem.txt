@@ -3861,7 +3861,7 @@
   - split: 1
     text: "何紫菀"
     translated: "He Ziwang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 483
   raw: "n07024	阿得阿克	m_map_ec	n50060	159.972, 105.7365, -54.347	357.4574		TRUE	TRUE	n0702401000	v00227				1	4	1	n20023	n50060				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n50060\", False} , { \"QuestCondition\" : \"Q07004\", 0, True} , { \"QuestCondition\" : \"Q52005_12\", 1, True} , { 100 : 110, 0, 0, \"player\"} , { 100 : 109, 2, -15, \"player\"}  ], 0} 	0"
   translated: ""
@@ -3933,7 +3933,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 492
   raw: "n07032	石鸿图	m_sitLoop004	n60402	140.0801, 105.7316, -35.46899	292.6931		FALSE	TRUE	n0703201000	v00156				1	0	1	n60402	n60402				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60402\", False} , { \"QuestCondition\" : \"Q07004\", 0, True} , { 100 : 110, 2, -10, \"player\"} , { \"QuestCondition\" : \"Q60040\", 1, True} , { \"CheckFlagAction\" : \"f64013-2救先生\", 1, 0}  ], 0} 	0"
   translated: ""
@@ -3972,7 +3972,7 @@
   splits:
   - split: 1
     text: "凌中岳"
-    translated: "Lei Zhong Yue"
+    translated: "Ling Zhongyue"
     flaggedForRetranslation: false
 - lineNum: 497
   raw: "n07037	心良道人	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n70045					0	0"
@@ -5525,7 +5525,7 @@
   - split: 1
     text: "郝初心"
     translated: "He Chu Xin"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 691
   raw: "n10081c	青城弟子	old_specialStand001	c_m13	-893.8219, 158.4015, 220.7895	192.7578	6-17	FALSE	FALSE	n1008100058	v00058				1	9	0	n70027	n10081a	n10081a,n10081b			{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"n1008100065\", 1, 0} , { \"CheckTimeBlackboardAction\" : \"n1008100071\", True}  ], 1} , { \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10017_01\", 2, True} , { \"CheckFlagAction\" : \"n1008100023\", 1, 1}  ], 1} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10017_01\", 1, False} , { \"CheckTimeBlackboardAction\" : \"n1008100029\", False}  ], 0}  ], 1}  ], 0} 	0"
   translated: ""
@@ -7301,7 +7301,7 @@
   - split: 1
     text: "禾泓渊"
     translated: "He Hongyuan"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 913
   raw: "n20000b	禾泓渊	ml_standA00	n20000	-649.892, 66.994, -1023.572	85.75655		FALSE	TRUE		v00079				1	18	0	n20000	n20000				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_08\", 0, True} , { \"QuestCondition\" : \"Q20011_10\", 0, True}  ], 1} 	0"
   translated: ""
@@ -7309,7 +7309,7 @@
   - split: 1
     text: "禾泓渊"
     translated: "He Hongquan"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 914
   raw: "n20000c	禾泓渊	ml_standA00	n20000	-642.1506, 66.63362, -1087.505	91.23729		TRUE	TRUE	n20000c01000	v00079				1	18	0	n20000	n20000				{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_11\", 0, True} , { \"QuestCondition\" : \"Q20011_11\", 1, True}  ], 1} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"CheckTimeBlackboardAction\" : \"f2滅禾家b\", True}  ], 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
@@ -7325,7 +7325,7 @@
   - split: 1
     text: "禾泓渊"
     translated: "He Hongquan"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 916
   raw: "n20000e	禾泓渊	m_sleep_dead001_ec	n20000	0, 0, 0	0		FALSE	TRUE	n20000c01037					1	18	3	n20000	n20000				{ \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f2滅禾家b\", True}  ], 0} 	0"
   translated: ""
@@ -7333,7 +7333,7 @@
   - split: 1
     text: "禾泓渊"
     translated: "He Hongyuan"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 917
   raw: "n20001	禾家马帮帮众	ml_idle101	c_m04	0, 0, 0	0		FALSE	FALSE		v00077				1	18	0	n20040	n20001				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"CheckTimeBlackboardAction\" : \"f2滅禾家b\", True}  ], 1} 	0"
   translated: ""
@@ -7341,7 +7341,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He Family Horse Gang Members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 918
   raw: "n20001b	禾家马帮帮众	ml_idle101	c_m01	0, 0, 0	0		FALSE	FALSE		v00077				1	18	0	n20040b	n20001b				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"CheckTimeBlackboardAction\" : \"f2滅禾家b\", True}  ], 1} 	0"
   translated: ""
@@ -7357,7 +7357,7 @@
   - split: 1
     text: "禾嘉仁"
     translated: "He JiaRen"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 920
   raw: "n20001d	禾家马帮帮众	ml_idle105	c_m06	0, 0, 0	0		FALSE	FALSE		v00078				1	18	0	n20040c	n20001d				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"CheckTimeBlackboardAction\" : \"f2滅禾家b\", True}  ], 1} 	0"
   translated: ""
@@ -7373,7 +7373,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 922
   raw: "n20002	木府士兵	m_standB00		-669.2063, 66.18829, -1083.839	267.9097		TRUE	FALSE	n2000201000	v00071b				1	3	0	n20050					{ \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f2滅禾家b\", False}  ], 0} 	0"
   translated: ""
@@ -8381,7 +8381,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1048
   raw: "n20040b	禾家马帮帮众	m_sleep_dead001_ec		-630.627, 66.218, -1091.511	106.1541		FALSE	FALSE		v00077				1	18	3	n20040					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 0, True}  ], 0} 	0"
   translated: ""
@@ -8389,7 +8389,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1049
   raw: "n20041	禾家马帮帮众	m_talk001		-629.892, 66.18829, -1076.077	0		FALSE	TRUE	n2004001001	v00078				1	18	0	n20040b		0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2聽過禾家馬幫後院聊天\", 3, 1} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
@@ -8397,7 +8397,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1050
   raw: "n20041b	禾家马帮帮众	m_sleep_dead002_ec		-633.12, 66.218, -1096.01	167.6566		FALSE	FALSE		v00078				1	18	3	n20040b					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 0, True}  ], 0} 	0"
   translated: ""
@@ -8405,7 +8405,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1051
   raw: "n20042	禾嘉仁	m_labor001		-660.353, 66.409, -1098.376	220.8432		FALSE	FALSE	n2004201002	v00077				1	18	1	n20042		n20042,n20042b,n20042c,n20042d			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_07\", 0, False}  ], 0} 	0"
   translated: ""
@@ -8413,7 +8413,7 @@
   - split: 1
     text: "禾嘉仁"
     translated: "He JiaRen"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1052
   raw: "n20042b	禾嘉仁	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00077				1	18	0	n20042d					0	0"
   translated: ""
@@ -8421,7 +8421,7 @@
   - split: 1
     text: "禾嘉仁"
     translated: "He JiaRen"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1053
   raw: "n20042c	禾嘉仁	m_sleep_dead001_ec		-650.956, 66.717, -1079.521	29.17108		FALSE	FALSE	n20042c01000	v00077				1	18	1	n20042d					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 0, True}  ], 0} 	0"
   translated: ""
@@ -8429,7 +8429,7 @@
   - split: 1
     text: "禾嘉仁"
     translated: "He JiaRen"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1054
   raw: "n20043	禾家马帮帮众	ml_standA00		-636.72, 66.73486, -1086.76	95.202		FALSE	FALSE	n2004301002	v00077				1	18	0	n20040d					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_11\", 0, False} , { \"QuestCondition\" : \"Q20011_11\", 1, False} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1}  ], 0} 	0"
   translated: ""
@@ -8437,7 +8437,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1055
   raw: "n20043b	禾家马帮帮众	ml_standA00		-651.172, 66.62881, -1086.372	274.0771		FALSE	FALSE	n2004301002	v00077				1	18	0	n20040e					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_11\", 0, False} , { \"QuestCondition\" : \"Q20011_11\", 1, False} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1}  ], 0} 	0"
   translated: ""
@@ -8445,7 +8445,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1056
   raw: "n20044	禾家马帮帮众	m_talk001		-669.19, 66.18829, -1082.87	270.7446		FALSE	TRUE	n2004501000	v00078				1	18	0	n20044		n20044,n20044b,n20044c,n20044d,,n20044e,n20044_2,n20044c_2,n20044e_2			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
@@ -8453,7 +8453,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1057
   raw: "n20045	禾家马帮帮众	m_standI00		-666.9825, 66.18829, -1087.496	263.2556		FALSE	FALSE	n2004501000	v00077				1	18	0	n20045	n20045	n20045,n20045b,n20045c,n20045d,n20045e,n20045_2,n20045c_2,n20045e_2			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
@@ -8461,7 +8461,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1058
   raw: "n20046	禾家马帮帮众	ml_standA00		-626.739, 66.18829, -1086.856	254.7792		FALSE	FALSE	n2004601006	v00078	sc20046			1	18	0	n20046	n20046	n20046,n20046b			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20021_07\", 0, False}  ], 0} 	0"
   translated: ""
@@ -8469,7 +8469,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1059
   raw: "n20046b	禾家马帮帮众	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00078				1	18	0	n20046b	n20046				0	0"
   translated: ""
@@ -8477,7 +8477,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1060
   raw: "n20047	禾家马帮帮众	ml_standA01		-665.3436, 69.66531, -1098.237	267.9104		FALSE	TRUE	n2004701000	v00077				1	18	0	n20040e		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011\", 1, True} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1}  ], 0} 	0"
   translated: ""
@@ -8485,7 +8485,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1061
   raw: "n20048	禾家马帮帮众	ml_standA00		-668.82, 66.218, -1085.622	242.1121		FALSE	TRUE	n2004801000	v00078				1	18	0	n20040		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 0, True}  ], 0} 	0"
   translated: ""
@@ -8493,7 +8493,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1062
   raw: "n20048b	禾家马帮帮众	ml_standA00		-666.873, 66.18829, -1088.229	297.1221		FALSE	TRUE	n2004801000	v00078				1	18	0	n20040b		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 0, True}  ], 0} 	0"
   translated: ""
@@ -8501,7 +8501,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1063
   raw: "n20048c	禾家马帮帮众	ml_standA00		-667.351, 66.18829, -1085.072	253.4482		FALSE	TRUE	n2004801000	v00078				1	18	0	n20040c		0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 0, True}  ], 0} 	0"
   translated: ""
@@ -8509,7 +8509,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1064
   raw: "n20049	禾郁青	wl_standA00	n20049	0, 0, 0	0		FALSE	TRUE		v00217				2	18	0	n20041	n20049	0			0	0"
   translated: ""
@@ -8517,7 +8517,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1065
   raw: "n20049b	禾郁青	w_talk011	n20049	-852.7704, 66.277, -1025.989	27.00057		FALSE	TRUE	v2001401009	v00217				2	18	0	n20041	n20049	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_02\", 0, True} , { \"QuestCondition\" : \"Q20011_09\", 0, True}  ], 1} 	0"
   translated: ""
@@ -8525,7 +8525,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1066
   raw: "n20049c	禾郁青	w_talk011	n20049	-679.0092, 66.18829, -1089.32	70.6658		FALSE	TRUE	n20049c01000	v00217				2	18	0	n20041	n20049	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_01\", 0, True}  ], 0} 	0"
   translated: ""
@@ -8533,7 +8533,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1067
   raw: "n20049d	禾郁青	w_talk011		0, 0, 0	0		FALSE	TRUE		v00217				2	18	0	n20041	n20049	0			0	0"
   translated: ""
@@ -8541,7 +8541,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1068
   raw: "n20049e	禾郁青	w_talk011	n20049	-1457.877, 236.251, -381.554	325.932		FALSE	TRUE	n20049e01000	v00217				2	18	0	n20041	n20049	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_07\", 0, True}  ], 0} 	0"
   translated: ""
@@ -8549,7 +8549,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1069
   raw: "n20049f	禾郁青	w_talk011	n20049	-650.056, 66.994, -1022.384	153.9073		FALSE	TRUE		v00217				2	18	0	n20041	n20049				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_08\", 0, True} , { \"QuestCondition\" : \"Q20011_10\", 0, True}  ], 1} 	{ \"LogicalNode\" : [ { \"PlayerEnterNode\" : { \"MultiAction\" : [ { \"RunMovieAction\" : \"v20086\"}  ]} , 0.00000}  ], 0} "
   translated: ""
@@ -8557,7 +8557,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1070
   raw: "n20049g	禾郁青	w_talk011	n20049	0, 0, 0	0		FALSE	TRUE		v00217				2	18	0	n20041	n20049				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"CheckTimeBlackboardAction\" : \"f2滅禾家b\", True}  ], 1} 	0"
   translated: ""
@@ -8565,7 +8565,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1071
   raw: "n20049h	禾郁青	w_talk011	n20049	-655.6952, 66.18829, -1080.257	188.4316		TRUE	TRUE	n20049h01000	v00217				2	18	0	n20041	n20049				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n20049\", False} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_11\", 0, True} , { \"QuestCondition\" : \"Q20011_11\", 1, True}  ], 1} , { \"CheckFlagAction\" : \"f2滅禾家\", 3, 1} , { \"QuestCondition\" : \"Q20018_02\", 1, False}  ], 0} 	0"
   translated: ""
@@ -8573,7 +8573,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1072
   raw: "n20049i	禾郁青	w_talk011	n20049	0, 0, 0	133.8776		FALSE	TRUE		v00217				2	18	0	n20041	n20049				0	0"
   translated: ""
@@ -8581,7 +8581,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1073
   raw: "n20049j	禾郁青	w_talk011	n20049	-655.585, 69.76037, -1076.851	174.0598		FALSE	TRUE	n20049j01000	v00217				2	18	0	n20041	n20049				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2不插手禾家父女\", 1, 1} , { \"TeammateCondition\" : \"n20049\", False} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
@@ -8589,7 +8589,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1074
   raw: "n20049k	禾郁青	wl_standA00	n20049	0, 0, 0	0		FALSE	TRUE		v00217b				2	18	0	n20041	n20049				0	0"
   translated: ""
@@ -8597,7 +8597,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1075
   raw: "n20049m	禾郁青	w_talk011	n20049	-655.3344, 66.218, -1080.194	184.573		TRUE	TRUE	n20049m01000	v00217c				2	18	0	n20041	n20049				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 1, True} , { \"TeammateCondition\" : \"n20049\", False}  ], 0} 	0"
   translated: ""
@@ -8605,7 +8605,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1076
   raw: "n20049p	禾郁青	w_talk011	n20049	-655.7183, 66.32902, -1080.431	187.7589		TRUE	TRUE	n20049p01001	v00217				2	18	0	n20041	n20049				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20018_02\", 1, True} , { \"TeammateCondition\" : \"n20049\", False} , { \"CheckFlagAction\" : \"f2不插手禾家父女\", 3, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
@@ -8613,7 +8613,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1077
   raw: "n20049q	禾郁青	m_squat002_Loop	n20049	-1318.824, 144.3973, -680.3015	228.0423		FALSE	TRUE	n20049q01000	v00217				2	18	1	n20041	n20049				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_12\", 0, True} , { \"QuestCondition\" : \"Q20011_13\", 0, True}  ], 1} 	0"
   translated: ""
@@ -8621,7 +8621,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1078
   raw: "n20050	士兵	m_standB01		-664.39, 66.18829, -967.5	20.76014		FALSE	TRUE	n2005001000	v00071b	sc20050			1	3	0	n20050	n20050	0			0	0"
   translated: ""
@@ -8797,7 +8797,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1100
   raw: "n20069	算命民众	m_wipeSweat		-691.182, 79.301, -1153.615	193.8598	6-19	FALSE	FALSE	n2006901000	v00054	sc20069			1	3	0	n20070		n20069b,n20069c,n20069d,n20069e,n20069f			{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2排隊算命\", 3, 1} , { \"TimeCondition\" : 6, 20}  ], 0} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2排隊算命\", 1, 1} , { \"TimeCondition\" : 6, 18}  ], 0}  ], 1} 	0"
   translated: ""
@@ -9629,7 +9629,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1204
   raw: "n20151b	禾家马帮帮众	ml_standA00	c_m15	-1255.17, 185.812, -780.0192	336.3893		TRUE	FALSE	n20151b01000	v00077				1	18	0	n20040e		0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2山道搶匪\", 0, 0} , { \"QuestCondition\" : \"Q20011_07\", 1, False}  ], 0} 	0"
   translated: ""
@@ -9637,7 +9637,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1205
   raw: "n20152	禾家马帮帮众	ml_idle105	c_m06	-1289.11, 106.94, -603.37	218.2783		FALSE	FALSE		v00078				1	18	1	n20040c	n20152	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_03\", 0, True} , { \"QuestCondition\" : \"Q20011_04\", 0, True} , { \"QuestCondition\" : \"Q20011_05\", 0, True} , { \"QuestCondition\" : \"Q20011_12\", 0, True} , { \"QuestCondition\" : \"Q20011_13\", 0, True}  ], 1} 	0"
   translated: ""
@@ -9645,7 +9645,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1206
   raw: "n20152b	禾家马帮帮众	ml_standA00	c_m06	-658.677, 69.82286, -1079.868	183.2158		TRUE	FALSE	n20152b01000	v00078				1	18	0	n20040c					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2不插手禾家父女\", 1, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
@@ -9653,7 +9653,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1207
   raw: "n20152c	禾家马帮帮众	m_sleep_dead003_ec		-632.52, 66.218, -1075.82	29.17108		FALSE	FALSE		v00078				1	18	3	n20040c					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 0, True}  ], 0} 	0"
   translated: ""
@@ -9661,7 +9661,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1208
   raw: "n20153	禾家马帮帮众	ml_idle105	c_m08	-1288.36, 106.9, -602.54	79.59102		FALSE	FALSE		v00077				1	18	1	n20040d	n20153	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_03\", 0, True} , { \"QuestCondition\" : \"Q20011_04\", 0, True} , { \"QuestCondition\" : \"Q20011_05\", 0, True} , { \"QuestCondition\" : \"Q20011_12\", 0, True} , { \"QuestCondition\" : \"Q20011_13\", 0, True}  ], 1} 	0"
   translated: ""
@@ -9669,7 +9669,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1209
   raw: "n20153b	禾家马帮帮众	ml_standA00	c_m08	-663.393, 69.76037, -1075.268	272.041	7-21	FALSE	FALSE	n20152b01000	v00077				1	18	0	n20040d					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2不插手禾家父女\", 1, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
@@ -9677,7 +9677,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1210
   raw: "n20153c	禾家马帮帮众	m_doze_ec	c_m08	-663.393, 69.76037, -1075.268	272.041	22-23, 0-6	FALSE	FALSE	n20153b01000	v00077	sc20153b			1	18	2	n20040d					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2不插手禾家父女\", 1, 1} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	0"
   translated: ""
@@ -9685,7 +9685,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1211
   raw: "n20153d	禾家马帮帮众	m_sleep_dead004_ec		-630.12, 66.218, -1084.09	276.9948		FALSE	FALSE		v00077				1	18	3	n20040d					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 0, True}  ], 0} 	0"
   translated: ""
@@ -9693,7 +9693,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1212
   raw: "n20154	劫匪	ml_idle102	n20154	-1293.36, 107.62, -599.98	133.2647		FALSE	FALSE		v00008				1	0	1	n20154	n20154	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_03\", 0, True} , { \"QuestCondition\" : \"Q20011_04\", 0, True} , { \"QuestCondition\" : \"Q20011_05\", 0, True} , { \"QuestCondition\" : \"Q20011_12\", 0, True} , { \"QuestCondition\" : \"Q20011_13\", 0, True}  ], 1} 	0"
   translated: ""
@@ -9781,7 +9781,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1223
   raw: "n20167	叶家马帮帮众	m_labor002		-789.871, 66.18829, -1015.669	186.2216	6-19	FALSE	FALSE	n2016701001	v00075				1	19	1	n20167	n20167	0			0	0"
   translated: ""
@@ -10709,7 +10709,7 @@
   - split: 1
     text: "禾尹仁"
     translated: "He Yinren"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1339
   raw: "n20285b	禾尹仁	m_sleep003_ec	c_m20	0, 0, 0	0		FALSE	FALSE	n20285b01000					1	18	1	n20285					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 1, False}  ], 0} 	0"
   translated: ""
@@ -10717,7 +10717,7 @@
   - split: 1
     text: "禾尹仁"
     translated: "He Yinren"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1340
   raw: "n20285c	禾尹仁	ml_standA00	c_m20	0, 0, 0	318.696		FALSE	FALSE						1	18	0	n20285					0	0"
   translated: ""
@@ -10725,7 +10725,7 @@
   - split: 1
     text: "禾尹仁"
     translated: "He Yinren"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1341
   raw: "n20285d	禾尹仁	m_sitLoop006	c_m20	-645.057, 67.1138, -1085.388	269.3725		FALSE	FALSE	n20285d01000					1		1	n20285					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 1, True} , { \"QuestCondition\" : \"Q40008\", 0, False}  ], 0} 	0"
   translated: ""
@@ -10733,7 +10733,7 @@
   - split: 1
     text: "禾尹仁"
     translated: "He Yinren"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1342
   raw: "n20285e	禾尹仁	m_sitLoop006	c_m20	-645.057, 67.1138, -1085.388	269.3725		FALSE	FALSE	n4000802017					1		0	n20285					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40008\", 0, True}  ], 0} 	0"
   translated: ""
@@ -10741,7 +10741,7 @@
   - split: 1
     text: "禾尹仁"
     translated: "He Yinren"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1343
   raw: "n20286	山魈鬼王	old_m_standK00	n20286	-633.373, 66.218, -1086.637	359.0527		FALSE	TRUE		v00068b				1		0	n20160	n20286				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 0, True}  ], 0} 	0"
   translated: ""
@@ -13717,7 +13717,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1715
   raw: "n20573	李叹	m_standB00	n60005	0, 0, 0	0		FALSE	TRUE						1	14	0	n60075	n60005				0	0"
   translated: ""
@@ -13749,7 +13749,7 @@
   - split: 1
     text: "何紫菀"
     translated: "He Ziwang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1719
   raw: "n20577	王喆	m_standG00	n20033	0, 0, 0	0		FALSE	TRUE						1	5	0	n20033	n20033				0	0"
   translated: ""
@@ -14413,7 +14413,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1802
   raw: "n20647	禾家马帮帮众	m_sleep_dead002_ec		-1081.048, 164.9394, -1237.514	343.3957		FALSE	FALSE	n2064601000					1		3	n20040b					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 1, False}  ], 0} 	0"
   translated: ""
@@ -14421,7 +14421,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1803
   raw: "n20648	禾家马帮帮众	m_sleep_dead003_ec		-1076.873, 165.2643, -1242.045	67.68496		FALSE	FALSE	n2064601000					1		3	n20040c					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 1, False}  ], 0} 	0"
   translated: ""
@@ -14429,7 +14429,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1804
   raw: "n20649	禾家马帮帮众	m_sleep_dead004_ec		-1079.233, 164.9602, -1239.786	53.52349		FALSE	FALSE	n2064601000					1		3	n20040d					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20021_07\", 1, False}  ], 0} 	0"
   translated: ""
@@ -14437,7 +14437,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1805
   raw: "n20650	慈荫师太	wl_standA00	n20650	184.656, 103.8252, -305.4155	220.236		FALSE	TRUE						2		0	n20650	n20650				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2慈蔭文淬之相約破廟\", 1, 1} , { \"CheckFlagAction\" : \"f2路上殺了文解\", 3, 1}  ], 0} 	0"
   translated: ""
@@ -16021,7 +16021,7 @@
   - split: 1
     text: "淘石帮 晁大河"
     translated: "Shi Family Salt Gang Leader He Dahe"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 2003
   raw: "n30009	淘石帮 宋元德	m_standB00	c_m03	-401.05, 67.1, -1123.67	170.0167		TRUE	FALSE	n3000901000	v00009				1	2	0	n30009	n30009	n30009-1,n30009-2		(Stone_Forge,2)(Money,1)	{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60009\", 1, False}  ], 0} 	0"
   translated: ""
@@ -16781,7 +16781,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 2098
   raw: "n40013	禾家马帮帮众	m_sleep_dead001_ec		-1398.643, 110.275, -53.427	98.66068		FALSE	FALSE						1		3	n20040c					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40008_02\", 0, True} , { \"QuestCondition\" : \"Q40008_03\", 0, True}  ], 1} 	0"
   translated: ""
@@ -16789,7 +16789,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 2099
   raw: "n40014	禾家马帮帮众	m_sleep_dead001_ec		-1406.77, 118.978, -71.809	21.111		FALSE	FALSE						1	18	3	n20040c					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40008_02\", 0, True} , { \"QuestCondition\" : \"Q40008_03\", 0, True}  ], 1} 	0"
   translated: ""
@@ -16797,7 +16797,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 2100
   raw: "n40015	禾嘉仁	m_kneel003	c_m14	-1408.582, 131.221, -96.448	194.331		FALSE	FALSE						1		1	n20042d					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40008_02\", 0, True} , { \"QuestCondition\" : \"Q40008_03\", 0, True}  ], 1} 	0"
   translated: ""
@@ -16805,7 +16805,7 @@
   - split: 1
     text: "禾嘉仁"
     translated: "He JiaRen"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 2101
   raw: "n40016	山魈恶鬼	ml_idle004	n20264	-1400.18, 133.11, -104.89	-41.276		FALSE	FALSE						1	0	1	n20161	n40011				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40008_02\", 0, True} , { \"QuestCondition\" : \"Q40008_03\", 0, True}  ], 1} 	0"
   translated: ""
@@ -21829,7 +21829,7 @@
   - split: 1
     text: "何白芍"
     translated: "He Baisuo"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 2729
   raw: "n51009b	何白芍	w_standG00	n51009	0, 0, 0	137.8487		FALSE	FALSE	n5100901000					2	17	0	n41042	n51009				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q51004_02\", 1, False}  ], 0} 	{ \"LogicalNode\" : [ { \"StealFailNode\" : { \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5100901003\"}  ]} }  ], 0} "
   translated: ""
@@ -21837,7 +21837,7 @@
   - split: 1
     text: "何白芍"
     translated: "He Baisuo"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 2730
   raw: "n51010	受伤的男子	m_kneel 002_ec	c_m10	-183.947, 108.243, -1103.646	111.345		FALSE	FALSE	v2006301006					1	0	1	n51010	n51010				{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2蛇窟男子消失\", 3, 1} , { \"CheckTimeBlackboardAction\" : \"f2蛇窟男子消失b\", True}  ], 1} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2蛇窟前男子\", 1, 0} , { \"CheckTimeBlackboardAction\" : \"f2蛇窟前男子b\", True}  ], 1}  ], 0} 	0"
   translated: ""
@@ -22669,7 +22669,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 2834
   raw: "n52017d-2	阿从阿延	ml_standA00	c_m21	0, 0, 0	0		FALSE	FALSE		v00070d				1		0	n20050g	n52017d-2				0	0"
   translated: ""
@@ -23013,7 +23013,7 @@
   - split: 1
     text: "禾家马帮帮众"
     translated: "He family horse gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 2877
   raw: "n52023	黑衣女子	ml_standA00	n52009	-651.734, 113.135, -497.125	31.16478		FALSE	TRUE		v00099				2		0	n52009	n52009				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q52006_08\", 0, True}  ], 0} 	0"
   translated: ""
@@ -38060,8 +38060,8 @@
   splits:
   - split: 1
     text: "畲婶子"
-    translated: "She zi"
-    flaggedForRetranslation: true
+    translated: "She's Aunt"
+    flaggedForRetranslation: false
 - lineNum: 4758
   raw: "n60422	老方叔	ml_standA00		0, 0, 0	0	5-17	FALSE	FALSE	n6042201000	v00050				1	0	0	n30036		n60422-1,n60422-2,n60422-3,n60422-4			0	0"
   translated: ""
@@ -39828,7 +39828,7 @@
   splits:
   - split: 1
     text: "凌中岳"
-    translated: "Lei Zhong Yue"
+    translated: "Ling Zhongyue"
     flaggedForRetranslation: false
 - lineNum: 4979
   raw: "n70044m	凌中岳	ml_standA00	n70044	0, 0, 0	0		FALSE	TRUE		v00184				1		0	n70044	n70044				0	0"
@@ -39836,7 +39836,7 @@
   splits:
   - split: 1
     text: "凌中岳"
-    translated: "Lei Zhong Yue"
+    translated: "Ling Zhongyue"
     flaggedForRetranslation: false
 - lineNum: 4980
   raw: "n70056	郝信	m_map_ec	c_m21	348.002, 66.40874, 901.984	235.9988		FALSE	FALSE	n7005901006					1	23	0	n70056	n70056				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm80094\", 3, 1} , { \"CheckFlagAction\" : \"tm80096\", 3, 1}  ], 0} 	0"
@@ -39845,7 +39845,7 @@
   - split: 1
     text: "郝信"
     translated: "He Xinxin"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 4981
   raw: "n70056a	郝信	m_map_ec	c_m21	0, 0, 0	0		FALSE	FALSE	n7007002027					1	23	0	n70056	n70056				0	0"
   translated: ""
@@ -39853,7 +39853,7 @@
   - split: 1
     text: "郝信"
     translated: "He Xin"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 4982
   raw: "n70056b	郝信	ml_standA00	c_m21	329.39, 66.50876, 913.32	356.3742		TRUE	FALSE	n7007002027					1	23	0	n70056	n70056				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm80096\", 1, 1}  ], 0} 	0"
   translated: ""
@@ -39861,7 +39861,7 @@
   - split: 1
     text: "郝信"
     translated: "He Xinxin"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 4983
   raw: "n70057	令狐云	ml_sitLoop001	c_m20	349.461, 68.78, 907.439	324.0597		FALSE	FALSE	n7005901011					1	23	1	n70057	n70057				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm80094\", 3, 1} , { \"CheckFlagAction\" : \"tm80096\", 3, 1}  ], 0} 	0"
   translated: ""
@@ -46197,7 +46197,7 @@
   - split: 1
     text: "何白芍"
     translated: "He Baisuo"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 5775
   raw: "n90404d	何白芍	w_sleep_dead002_ec	n51009	0, 0, 0	0		TRUE	TRUE		v00031				2	0	0	n41042					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 3, True} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 0, True} , { \"TeammateCondition\" : \"n51001\", True} , { \"TeammateCondition\" : \"n90405\", True}  ], 0}  ], 1} 	0"
   translated: ""
@@ -46205,7 +46205,7 @@
   - split: 1
     text: "何白芍"
     translated: "He Baisuo"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 5776
   raw: "n90405	何紫菀	w_standG00	n90405	-1082.642, 115.8045, -1067.201	151.9319		TRUE	TRUE		v00032				2	0	0	n20208	n90405				{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_04\", 0, True} , { \"QuestCondition\" : \"Q20017_05\", 0, True}  ], 1} , { \"TeammateCondition\" : \"n51001\", True}  ], 0} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 0, True} , { \"QuestCondition\" : \"Q20017_06\", 1, True}  ], 1}  ], 1} 	0"
   translated: ""
@@ -46213,7 +46213,7 @@
   - split: 1
     text: "何紫菀"
     translated: "He Ziwang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 5777
   raw: "n90405b	何紫菀	w_standG00	n90405	0, 0, 0	0		FALSE	TRUE						2		0	n20208	n90405				0	0"
   translated: ""
@@ -46221,7 +46221,7 @@
   - split: 1
     text: "何紫菀"
     translated: "He Ziwang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 5778
   raw: "n90405c	何紫菀	w_standG00	n90405	-1044.583, 112.3614, -1144.577	190.1078		TRUE	TRUE	n90405c01000	v00032				2		0	n20208	n90405				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_07\", 0, True} , { \"TeammateCondition\" : \"n90405\", False}  ], 0} 	0"
   translated: ""
@@ -46229,7 +46229,7 @@
   - split: 1
     text: "何紫菀"
     translated: "He Ziwang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 5779
   raw: "n90405t	何紫菀	w_standG00	n90405	0, 0, 0	44.31146		TRUE	TRUE	n9040108036	v00032				2	0	0	n20208	n90405				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n90405\", False}  ], 0} 	0"
   translated: ""
@@ -46237,7 +46237,7 @@
   - split: 1
     text: "何紫菀"
     translated: "He Ziwang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 5780
   raw: "n90406	董府护卫	ml_idle001	c_m25	0, 0, 0	0		TRUE	FALSE		v00030				1	16	0	n00024c	n90406				0	0"
   translated: ""
@@ -47213,7 +47213,7 @@
   - split: 1
     text: "禾郁青"
     translated: "He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 5902
   raw: "n90613	青城派门人	ml_idle101	c_m09	0, 0, 0	0		TRUE	FALSE		v00185				1	0	0	n90613	n90613	0			0	0"
   translated: ""

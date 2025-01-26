@@ -121,7 +121,7 @@
   - split: 2
     text: "若待在何紫菀周围2单位距离内，每回合中毒8点"
     translated: "If you are within a distance of 2 units from He Ziwang, you will be poisoned for 8 points each turn"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 11
   raw: "nick008P	比翼鸩羽	若待在何紫菀周围4单位距离内，每回合中毒8点、队友降低5点		n90405	nick008Plus"
   translated: ""
@@ -133,7 +133,7 @@
   - split: 2
     text: "若待在何紫菀周围4单位距离内，每回合中毒8点、队友降低5点"
     translated: "If you remain within a 4-unit distance of He Ziwang, you will be poisoned for 8 points and your allies' abilities will decrease by 5 points each round"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 12
   raw: "nick009	雪山神鹰	战斗时，雪翼雕加入战局；自身弓箭伤害增加25%，且所有友方获得状态「飞鹰猎手」		n50060	nick009"
   translated: ""
@@ -1033,7 +1033,7 @@
   - split: 2
     text: "何白芍周围2单位距离内敌军，每回合累积中毒值12点、迷惑值6点"
     translated: "Within a 2 unit radius of He Baishe, enemy troops accumulate 12 points of poison and 6 points of confusion each round"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 87
   raw: "nick104	南诏小将	段思良周围10单位距离内每位友军，每回合开始时段思良额外提升爆击率5%		n90402	nick104"
   translated: ""

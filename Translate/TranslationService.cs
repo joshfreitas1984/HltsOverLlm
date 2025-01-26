@@ -180,6 +180,8 @@ public static class TranslationService
             { "六片...洛书碎片...南闲，你这情报来自何处？怎么前些日子都没和我提起？", "Six pieces... fragments of the Luoshu... Southern Leisure, where did you get this intelligence from? Why didn't you mention to me these past few days?" },
             { "呃…我不是淘石帮里的人。兄弟，你怎地看起来如此害怕，一个人躲在这里。", "Um... I'm not from Taoshi Sect. Brother, why do you look so scared and hiding here all by yourself?" },
             { "呃…我身上一时没带这么多钱，回头等我凑到五千文钱立刻回来买下这只锦缎观月瓶。", "Um... I don't have that much money on me right now. I'll come back and buy this embroidered moon flask for five thousand wen once I have the cash." },
+            { "【唉…仔细想想，我也确实没经历过黄裳那桩灭门惨事，如此强要他放下仇恨，他又怎么听得进去呢…】", "Oh... Upon careful thought, I truly haven't experienced the tragedy that befell Huang Shang's family. How can one insist so strongly for him to let go of his hatred and expect him to accept it?" },
+            { "Hmm... So, she will betray Xiao Meng Ge and join forces with those bandits from Merciless Hall in this Shu region to stir up trouble. The reasons and intentions are quite obvious.", "" },
         };
     }
 
@@ -233,7 +235,7 @@ public static class TranslationService
             {
                 foreach (var split in line.Splits)
                 {
-                    if (string.IsNullOrEmpty(split.Translated))
+                    if (string.IsNullOrEmpty(split.Translated) || split.FlaggedForRetranslation)
                         continue;
 
                     if (split.Text.Length <= charsToCache && !cache.ContainsKey(split.Text))
@@ -324,6 +326,7 @@ public static class TranslationService
                             else
                                 split.Translated = await TranslateSplitAsync(config, split.Text, client, outputFile);
 
+                            split.FlaggedForRetranslation = false;
                             recordsProcessed++;
                             totalRecordsProcessed++;
                             bufferedRecords++;

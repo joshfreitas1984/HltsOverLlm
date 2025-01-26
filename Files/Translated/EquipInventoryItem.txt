@@ -116,8 +116,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "绝世护手，所向披靡。"
-    translated: "Unmatched in defensive skills, prevailing wherever he goes"
-    flaggedForRetranslation: true
+    translated: "Invincible guard, unstoppable in all directions"
+    flaggedForRetranslation: false
 - lineNum: 10
   raw: "eq10111	野球拳	eq10111	皇甫登云多年使用野球拳，竟将一双肉掌生生练成了神兵。真·野球拳的无上内劲已与他千锤百炼的肉体合而为一，无坚不摧。	101	0	0	TRUE	3	99		0	100	100	(Fight,500)	5		0	(it70109,2)"
   translated: ""
@@ -165,7 +165,7 @@
   - split: 3
     text: "佳人初至草棚，欲为病人略尽心意，无惧纤纤玉指屡遭药草棘刺所伤，不屈不挠。陈之济无奈之下为其特制一双蚕丝手套，贴合轻软却坚韧无比，使其能专心理药，不致受伤。"
     translated: "The lady first arrived at the Flower and Herb Stall, intending to help the sick with all her heart, despite suffering from scratches by thorns of herbs that her delicate jade-like fingers had touched repeatedly. Unyielding and determined, she persevered. In his vexation, Chen Zhiji specially made for her a pair of silkworm silk gloves, soft yet remarkably durable, allowing her to focus on preparing the medicine without getting injured"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 14
   raw: "eq10115	虿鬼	eq10115	传说虿鬼或蝎或蛛，乃毒虫所化之恶鬼，此护手以蚕丝制成，加入石鸿图苦心搜集的毒虫炼制而成，挥舞之时嗡嗡作声，如万千毒虫迎风飞舞，诡异之至。	101	7000	3500	TRUE	5	70		9	65	65	(Fight,80)	5		poisoned03	(it70508,1)"
   translated: ""
@@ -297,7 +297,7 @@
   - split: 3
     text: "柳叶剑庄庄主夫人解长宁之佩剑，为庄主文淬之早年为表情意，上门向解家求亲，以天铁铸成。此剑剑形与柳叶剑庄善造的柳叶短剑回异，近似中原剑式，剑身长窄且较为轻盈，适合女子运使。"
     translated: "The headmistress of Liuye Sword Villa, Jie Changning, unsheathed the sword given by her husband, the villa owner. This was a gesture to express his feelings from their early days when he visited the Jie family seeking marriage. The sword is made from divine iron. Its form differs from the liuye short swords crafted at Liuye Sword Villa; it resembles more closely those of Central Plain style, being long and narrow with a lightweight design suitable for women to wield"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 25
   raw: "eq10312	龙脊剑	temp	来历不明的奇剑，状如脊骨，难以御使。有博学者认为，此剑由上古神兽的脊骨淬炼而成。	103	100	3	TRUE	2	50		7	100	100	(Sword,20)	5		0	"
   translated: ""
@@ -332,7 +332,7 @@
     flaggedForRetranslation: false
   - split: 3
     text: "凌中岳早年偶得的名剑，甚少动用。霜刃无尖，虽为利器而不显丝毫锋芒，恰如君子之德。以竹为鞘，竹有节，影射义士有节。"
-    translated: "Lin Zhongyue's famed sword from his youth, rarely used. Its frost-like blade is sharp but not visibly menacing, much like the demeanor of a gentleman. It was sheathed in bamboo, with joints symbolizing the virtuous nature and integrity of a righteous man"
+    translated: "Ling Zhongyue seldom used the famous sword he acquired in his early years. Its blade, though sharp, had no point and did not show any hint of a sharp edge, much like the virtue of a gentleman. The scabbard was made of bamboo, which has joints that symbolize the integrity of an honorable person"
     flaggedForRetranslation: false
 - lineNum: 28
   raw: "eq10315	墨玉飞雪	eq10315	以墨玉、寒铁混合多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉芙蓉同出一天下名匠之手。	103	6000	3000	TRUE	3	60	ac3a0005	26	90	90	(Sword,160)(TwoSword,160)(BladeSword,160)	3		weapon0315	(it70110,1)(it70103,1)(it70320,1)"
@@ -392,7 +392,7 @@
     flaggedForRetranslation: false
   - split: 3
     text: "凌中岳的随身配剑，是柄流传千年的汉朝古剑，亦是神兵谱上有数的名剑。剑身八面分别有孝、悌、忠、信、礼、义、廉、耻的篆字。"
-    translated: "Lin Zhongyue's personal sword is a thousand-year-old Han Dynasty ancient sword, also listed as one of the renowned divine weapons in the Divine Weapon Catalog. The blade is inscribed with the characters for filial piety, fraternal duty, loyalty, trustworthiness, propriety, righteousness, integrity, and shame on its eight sides"
+    translated: "Lin Zhongyue's sword, a Han Dynasty blade passed down for a thousand years, is also one of the famous swords listed in the Divine Weapons Catalog. The eight-character inscriptions of filial piety, fraternal submission, loyalty, trustworthiness, propriety, righteousness, integrity, and shame are engraved on each side of the blade"
     flaggedForRetranslation: false
 - lineNum: 33
   raw: "eq10320	青釭剑	eq10320	与倚天齐名之宝剑，赵云持此剑杀入敌营时，手起处衣甲平过、血如涌泉，可见其锐利。	103	20000	10000	TRUE	3	99	ac3a0084	49	100	100	(Sword,245)(TwoSword,245)(BladeSword,245)	3		wounded08	(it70110,1)(it70109,1)"
@@ -521,7 +521,7 @@
   - split: 1
     text: "金蛇剑"
     translated: "Jin She Jian"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 3
     text: "纯金打造的神秘兵刃，威力天下无双。"
     translated: "A mysterious weapon forged entirely from pure gold, unmatched in power throughout the world"
@@ -752,8 +752,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "传说中的宝刀。据古籍记载，三国时期张飞初拜新亭侯，命著名铁匠炼赤朱山铁为一刀，铭曰「新亭侯」。而后张飞遭刺，此刀从此下落不明。"
-    translated: "The legendary sword. According to ancient texts, during the Three Kingdoms period when Zhang Fei was appointed as Marquis of Xinting, he commissioned a famous blacksmith to forge a sword from Red Zhu Mountain iron, inscribed with Marquis of Xinting. After Zhang Fei was assassinated, this sword subsequently disappeared without a trace"
-    flaggedForRetranslation: true
+    translated: "The legendary sword. According to ancient texts, during the Three Kingdoms period, Zhang Fei was made the Marquis of Xinting, and he commissioned a famous blacksmith to forge a sword from the red iron ore of Red Cliff Mountain, inscribed with Marquis of Xinting. Afterward, Zhang Fei was assassinated, and this sword disappeared without a trace"
+    flaggedForRetranslation: false
 - lineNum: 63
   raw: "eq10416	黑风刀	eq10416	专为攻人要害所特制的杀手佩刀，只一轻削，随即开肉剔骨，锋利异常。	104	2000	1000	TRUE	1	20	ac3a0082	10	50	50	(Blade,60)(TwoBlade,60)(BladeSword,60)	10		0	(it70101,2)(it70102,1)"
   translated: ""
@@ -777,7 +777,7 @@
   - split: 3
     text: "何紫菀所配苗刀，尾端以银月、鸩羽为饰，深红细长的刀刃上喂有毒药，一旦被划伤，小小伤口也将流血不止，药石难愈，鲜血沾染到剑刃后更会与毒液作用结合，出血毒性将益发猛烈。"
     translated: "He Ziwang's sword, decorated with a silver crescent and hemlock feather at the tip, has a deep red, slender blade infused with poison. If someone is cut by it, even a small wound will bleed uncontrollably, difficult to heal by conventional means. The blood that stains the blade reacts with the venom, making the bleeding more toxic"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 65
   raw: "eq10418	凄花	eq10417	何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。	104	7000	3500	TRUE	5	70	ac3a0054	11	64	64	(Blade,69)(TwoBlade,69)(BladeSword,69)	5		poisoned04,wounded04	(it70112,1)(it70104,1)(it70312,1)"
   translated: ""
@@ -789,7 +789,7 @@
   - split: 3
     text: "何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。"
     translated: "He Baishe's sword is a Miao dao that is extremely light and elegant. It has a copper flower guard, with a thin vine wrapped from the hilt to the blade itself, resembling a woman's tender emotions swirling endlessly. At first glance, it appears gentle and charming, yet it conceals deadly intent. The poison juice hidden within the copper flower guard drips along the blade intermittently. When wielded, it seems like dewdrops flying off flowers. If struck by this sword, the skin would melt away, and the victim's limbs would weaken"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 66
   raw: "eq10419	白驹	eq10419	李叹佩刀，为其师西门玉堂于李叹艺成之日赠予之稀世宝刀。刀刃利薄，刀背流畅，施展之时快、稳、灵、准犹如白驹飞奔，畅而无阻，因此得名。	104	7000	3500	TRUE	5	70	ac3a0044	15	76	76	(Blade,77)(TwoBlade,77)(BladeSword,77)	5		weapon0419	(it70110,1)(it70104,1)"
   translated: ""
@@ -1256,8 +1256,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "骆元玉不知从哪儿得到的奇棍，棍身以致密坚实的紫檀及铁刀木制成，挥舞起来威力惊人。"
-    translated: "Luo Yuanyu didn't know where he got the strange cudgel, which was made from dense and sturdy purple sandalwood and iron-bladed wood. When swung, it had astonishing power"
-    flaggedForRetranslation: true
+    translated: "Luo Yuanyu obtained a peculiar staff from an unknown source. The staff's shaft was made of dense and solid purple sandalwood combined with iron blade wood, and when wielded, it possessed tremendous power"
+    flaggedForRetranslation: false
 - lineNum: 105
   raw: "eq10701	飞蝗石	eq10701	武林中人常用的暗器，取材随处可见的卵石。虽然并不锐利，但质地坚硬，赋予内劲后也能成为杀伤力强大的暗器。	107	200	100	TRUE	0	2	eq10701	2	20	20	(Arrow,15)	15		0	(it70102,1)"
   translated: ""
@@ -1664,8 +1664,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "传闻为古代神射手养由基之弓。养由基距离杨柳百步外放箭，每箭都能射中柳叶中心，自此，百步穿杨之名不胫而走。"
-    translated: "It is rumored to be the bow of Gu Da Yinshou, Yang Youji. From a distance of 100 paces away from willows, he shot arrows that each pierced through the center of a leaf. Henceforth, the name hitting a willow at 100 paces became widely known"
-    flaggedForRetranslation: true
+    translated: "It is rumored to be the legendary bow of ancient master archer Yuyong. From a hundred paces away, Yuyong would shoot an arrow and hit the center of every willow leaf. Hence, the saying a hundred steps through the willows became famous"
+    flaggedForRetranslation: false
 - lineNum: 139
   raw: "eq10811	铁胎弓	eq10811	与木制弓不同，在弓背镶入金属，不论射程和威力都能大幅提升，也被称为「铁脊弓」。然而，没有足够力量的人，别说拉开弓弦了，只怕连拿着弓都嫌沉重。	108	3000	1500	TRUE	1	30	ac3b0056	40	70	70	(Bow,80)	10		0	(it70102,1)(it70604,1)"
   translated: ""
@@ -2156,8 +2156,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "据传为铸剑师欧冶子为越王所制，后越王允常进献给吴国，公子光命专诸将此剑藏于鱼腹中，用以刺杀吴王僚。公子光即位后是为吴王阖闾，将此剑函封，永不再用。你手上这把看起来是赝品，但也算是制作极为精良的宝剑了。不过重量感有点奇怪，或许内有蹊跷？"
-    translated: "It is said that this sword was forged by the legendary swordsmith Ou Yezi for King Goujian of Yue. Afterward, King Goujian offered it to the state of Wu, and Prince Guang commanded Xun Zhi to hide the sword in a fish's belly to assassinate King Liao of Wu. Upon ascending the throne as King Helu of Wu, he sealed the sword and vowed never to use it again. The sword you have appears to be a fake but is quite finely crafted. However, its weight feels odd; perhaps there's something suspicious inside?"
-    flaggedForRetranslation: true
+    translated: "It is said to have been forged by the swordsmith Ouyi Zi for King Goujian of Yue, who later offered it as a gift to the Wu state. Prince Guang ordered Xunchu to conceal this sword inside a fish and use it to assassinate King Louie of Wu. After ascending the throne, he became King Helu of Wu, sealing the sword away forever and never using it again. The one in your hand appears to be a replica, but it is nevertheless an extremely well-made precious sword. However, its weight feels odd, suggesting there might be something amiss inside?"
+    flaggedForRetranslation: false
 - lineNum: 180
   raw: "eq11202	八棱锏	eq11202	打击型的短兵器，通常由金属铸造而成，虽无锋刃，但挥舞起来破坏力十分惊人。	112	3000	1500	TRUE	1	30	ac6c0095	10	50	50	(Short,90)	10		0	(it70102,2)"
   translated: ""
@@ -3069,7 +3069,7 @@
   - split: 3
     text: "会挽雕弓如满月，西北望，射天狼。"
     translated: "He can draw the carved bow like a full moon, look towards the northwest and shoot at the celestial wolf"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 256
   raw: "eq20173	江湖浪人	eq20173	痛饮狂歌空度日，飞扬跋扈为谁雄？	203	800	400	TRUE	0	50	player040	1	0	0		0		0	"
   translated: ""
@@ -3080,8 +3080,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "痛饮狂歌空度日，飞扬跋扈为谁雄？"
-    translated: "Wine and song in vain, who is he who struts proudly?"
-    flaggedForRetranslation: true
+    translated: "Delighting in heavy drinking and reckless singing to while away the days, soaring with arrogance—whose strength am I showing off?"
+    flaggedForRetranslation: false
 - lineNum: 257
   raw: "eq20174	小白龙	eq20174	兴风雨，掀巨浪，游戏江湖，不过如此。	203	800	400	TRUE	0	50	player041	1	0	0		0		0	"
   translated: ""
@@ -3392,8 +3392,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "异常丑陋的小佛像，丑到佛祖看到自己被刻成这样都会愤怒，戴着会倒霉也不奇怪。对喜欢自虐的人来说也许能产生磨练效果。"
-    translated: "The grotesquely ugly little Buddha statue, so hideous that if it were seen by the Buddha himself, he would be enraged. It's not surprising for someone who wears this to encounter bad luck. For those who enjoy self-torment, it might produce a refining effect"
-    flaggedForRetranslation: true
+    translated: "The grotesquely ugly little Buddha statue is so unattractive that even the Buddha would be angry to see himself carved like this, so it’s no wonder wearing it brings bad luck. However, for people who enjoy self-inflicted pain, it might have a refining effect"
+    flaggedForRetranslation: false
 - lineNum: 283
   raw: "eq20226	银项链	eq20226	价格高昂、成色极佳的项链，传说具有辟邪的效果。	202	2000	1000	TRUE	1	35		1	1	1		0	(MaxHP,500)	0	"
   translated: ""
@@ -3452,8 +3452,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "雪翼雕掉落的羽毛，别在身上后，感觉自己健步如飞。"
-    translated: "After putting the fallen feathers of Snow Wing on his body, he felt as if he was flying"
-    flaggedForRetranslation: true
+    translated: "After the Snowwing bird dropped its feathers and he put them on his body, he felt as if he could walk effortlessly"
+    flaggedForRetranslation: false
 - lineNum: 288
   raw: "eq20231	金丝镯儿	eq20231	一只少女样式的金丝手镯，也不知道张君宝带在身上要干什么。	202	2000	1000	TRUE	2	70		1	1	1		0		jewelry31	"
   translated: ""
@@ -3476,8 +3476,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "刻有骆元玉名字，祈求新生儿健康平安的金锁片。骆大娘作为长姐，辛苦拉拔骆元玉长大，并不富裕的骆大娘曾多次将之典当以过年关，但总是会在流当前把它赎回。"
-    translated: "A gold plaque engraved with Luo Yuanyu's name, wishing for the newborn to be healthy and safe. As the eldest sister, Auntie Luo raised Luo Yuanyu diligently despite not being wealthy. She pawned it multiple times during New Year, but always redeemed it after selling it"
-    flaggedForRetranslation: true
+    translated: "Gold lock charm inscribed with Luo Yuanyu's name, a blessing for the newborn’s health and safety. As the eldest sister, Grandma Luo raised Luo Yuanyu through hardships without wealth. She had pawned it multiple times to get by during the New Year but always redeemed it once past the current year"
+    flaggedForRetranslation: false
 - lineNum: 290
   raw: "eq20233	男人的宝贝	eq20233	司徒荆贴身收藏，极为宝爱的一罐东西，内容物似乎不该深究。	202	2	1	TRUE	2	99		1	1	1		0		jewelry25	"
   translated: ""

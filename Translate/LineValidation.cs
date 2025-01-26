@@ -254,6 +254,8 @@ public class LineValidation
             result = LineValidation.RemoveDiacritics(result);
 
             result = LineValidation.EncaseColorsForWholeLines(raw, result);
+            result = LineValidation.EncaseSquareBracketsForWholeLines(raw, result);
+
 
             if (string.IsNullOrEmpty(result))
             {
@@ -405,6 +407,19 @@ public class LineValidation
             string start = matches[0].Groups[1].Value;
             string end = matches[0].Groups[2].Value;
             translated = $"{start}{translated}{end}";
+        }
+
+        return translated;
+    }
+
+    public static string EncaseSquareBracketsForWholeLines(string raw, string translated)
+    {
+        if (raw.StartsWith("【") 
+            && raw.EndsWith("】")
+            && !translated.Contains("【")
+            && !translated.Contains("】"))
+        {
+            translated = $"【{translated}】";
         }
 
         return translated;

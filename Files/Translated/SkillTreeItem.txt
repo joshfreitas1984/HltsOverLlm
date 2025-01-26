@@ -32,8 +32,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "双手状似轻柔缓慢，实则运转浑厚内劲，布下天罗地网，对手愈是进逼，招式愈是使动不开，最终就有如误入蛛网的蝴蝶一般，浑身遭到内劲包裹，任人宰割。"
-    translated: "Though his hands appeared gentle and slow, they actually wielded a dense internal force, setting up an invisible net of heaven and earth. The more the opponent advanced, the less able he was to move freely with his techniques. Ultimately, it was as if he were like a butterfly caught in a spider's web, with his entire body enveloped by the internal force, leaving him at the mercy of his adversary"
-    flaggedForRetranslation: true
+    translated: "His hands appeared to move with gentle, slow motions, but in reality, he channeled dense internal energy, setting up an invisible net. The more his opponent pressed forward and tried to strike, the less they could maneuver their techniques. Eventually, like a butterfly ensnared in a spider's web, the opponent found themselves enveloped by this internal force and left at the mercy of his will"
+    flaggedForRetranslation: false
 - lineNum: 3
   raw: "it30103	长江三迭浪	it30103	在巨鲨帮老帮主的遗骨旁发现的内功秘籍，乃是其生前成名绝技，蓄势于内，凝于一点。迸发瞬息间宛若泛滥决堤的长江大浪，层层相迭、淹没一切。	307	5000	2500	TRUE	1	70	999999	SkillTree117	Fight	0	0	0.5	"
   translated: ""
@@ -116,8 +116,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "拳招说不上有何奥妙之处，但张君宝在武学中别开蹊径，以弱胜强，不在以己劲伤敌，而是将敌人发来的劲力反激回去。"
-    translated: "Even though the fist techniques are not particularly mysterious, Zhang Junbao in martial arts is innovative and wins with weakness rather than injuring the opponent with his own strength. Instead, he reflects back the force sent by the enemy"
-    flaggedForRetranslation: true
+    translated: "The punch technique itself is not particularly intricate, but Zhang Junbao innovates in martial arts by overcoming strength with weakness. Instead of using his own power to injure the enemy, he deflects and redirects the force back onto the attacker"
+    flaggedForRetranslation: false
 - lineNum: 10
   raw: "it30111	九宫八卦掌	it30111	拳谚有云，八卦掌形如游龙，视若猿守，坐如虎踞，转似鹰盘，其特殊之处在于特有的灵活步法与身法。施展八卦掌时足下踏着四正四隅八个方位，一掌可以变化出六十四掌，招数精奇，奇正相生。	301	5000	2500	TRUE	1	70	999999	SkillTree121	Fight	0	0	0	"
   translated: ""
@@ -356,8 +356,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "春江诀乃取春之善变，江之诡谲，是一门极灵动之双剑武学。春江诀为漆笑儿家传武学，虽漆笑儿拜入点苍派门下，然其为武林名门漆家之独女，因此得以继承漆家家传武学。"
-    translated: "Chunjian Jue is a double-sword martial art that embodies the good changes of spring and the elusive nature of rivers, characterized by its extreme agility. Chunjian Jue is a family martial art passed down in the Qi household. Although Qi Xiaoer took vows in the Dinggang Sect, as the only daughter of the renowned martial Qi family, she was able to inherit her family's traditional martial arts"
-    flaggedForRetranslation: true
+    translated: "The Spring River Technique derives its principles from the capricious nature of spring and the enigmatic qualities of a river. It is an extremely dynamic twin-sword martial art. Although Qi Xiaoer became a disciple of the Dingxiang Sect, she is the sole daughter of the renowned Qi family within the martial world, allowing her to inherit the Qi family's secret martial arts"
+    flaggedForRetranslation: false
 - lineNum: 30
   raw: "it30206	龙隐剑谱	sword	青城四合绝学之一，非领略青城剑法精义者不得修习。此套剑法虽名为龙隐，真正的要旨却在于动如飞龙在天，但能修练到此境界者却微乎其微。	302	5000	2500	TRUE	1	70	999999	SkillTree098	Sword	0	0	0	"
   translated: ""
@@ -404,8 +404,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "相传为谪仙人李太白所传授之剑法。根据记载，李白施展此剑法时「掷剑入云，高数十丈，若电光下射，漫引手执鞘承之，剑透空而入，观者千百人，无不凉惊栗。」"
-    translated: "It is said that this sword technique was taught by the exiled immortal Li Bai. According to records, when Li Bai performed this sword technique, he would throw his sword into the clouds high several tens of feet, as if shooting lightning, casually extend his hand and grasp the scabbard to receive it, and the sword would enter through the air; hundreds or thousands of spectators were all chilled with awe"
-    flaggedForRetranslation: true
+    translated: "It is said that this sword style was passed down by the exiled immortal Li Bai. According to records, when Li Bai performed this sword technique, he would throw his sword into the clouds, several tens of feet high, as if shooting like a bolt of lightning; he would casually stretch out his hand and grasp the sheath to catch it, with the sword passing through space into it. The hundreds or thousands of spectators were all filled with chill and astonishment"
+    flaggedForRetranslation: false
 - lineNum: 34
   raw: "it30213	柔云剑法	it30213	柔云剑法绵密严谨，一经施展开来，便有如柔丝不断，连绵不绝。可惜此剑法虽长于守御，却是凌厉不足，但高手使开来，将使对手难以近身，藉此取得反制之机。	302	5000	2500	TRUE	1	70	999999	SkillTree103	Sword	0	0	-0.5	"
   translated: ""
@@ -464,8 +464,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "王喆夜观北斗七星所悟出的剑法，将人体周身大穴比作天枢、天璇、天玑、天权、玉衡、开阳、瑶光七星，自身站居北极星之位，以静制动，只待对手出手之际，破绽毕露，自可出剑破之。"
-    translated: "Wang Zhe's sword technique, which he derived from contemplating the Big Dipper, likens the body's major acupoints to the stars of Tian Shu, Tian Xuan, Tian Ji, Tian Quan, Yu Hang, Kai Yang, and Yao Guang. By positioning himself as the North Star, he remains still and waits for his opponent to reveal their vulnerability when they attack, at which point he can strike decisively"
-    flaggedForRetranslation: true
+    translated: "Wang Zhe deduced a sword technique from observing the Big Dipper, comparing the body's major acupoints to the seven stars—Tai Xu, Tian Xuan, Tian Ji, Tian Quan, Yu Hang, Kai Yang, and Yao Guang. He positioned himself as the North Star, using stillness to control motion. By waiting for his opponent to make a move and expose their vulnerability, he could then strike decisively with his sword"
+    flaggedForRetranslation: false
 - lineNum: 39
   raw: "it30220	心意六合剑	it30220	孔金所赠与的剑法秘籍。六合剑讲究「内外三合」，「内三合」指意与气和，心与意合，气与劲合；｢外三合」指手与足合、肘与膝合，肩与胯合。六合剑虽在江湖上并不罕见，但甚少人能修练到身剑合一，意动剑到的境界。	302	2500	1250	TRUE	0	70	999999	SkillTree041	Sword	0	0	0	"
   translated: ""
@@ -488,8 +488,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "青城派的基本剑法，招式灵动，为道家正宗武学。青城派前掌门－－心良道人有感于昔年瘟疫和战乱，广授于民，让其习练以强身健体，因此蜀中人士大多会使上几招。"
-    translated: "The basic swordsmanship of the Qingcheng Sect is agile and represents orthodox Daoist martial arts. The former Sect Leader, Xin Liang Dao Ren (Master Xin Liang), was moved by past epidemics and wars, so he widely taught it to the people, allowing them to practice it for health and fitness. Consequently, many people in Sichuan are familiar with a few of these techniques"
-    flaggedForRetranslation: true
+    translated: "The Qingcheng Sect's basic swordsmanship features nimble techniques and is a true Taoist martial art. The former abbot of the sect, Xinling Daoren, was moved by past plagues and wars, so he widely taught the common people to practice it for strength and health. As a result, many people in Shu are familiar with several techniques"
+    flaggedForRetranslation: false
 - lineNum: 41
   raw: "it30222	醉八仙剑	it30222	南闲徐暇客独门绝技，闻名于江湖之上的醉八仙本为拳法，南闲奇思妙想之下将之化为剑法，以剑柄、剑刃、剑锋模拟诸般古怪拳势，更加使其难以预料，威力更上一层楼。	302	5000	2500	TRUE	1	70	999999	SkillTree126	Sword	0	0	-0.5	"
   translated: ""
@@ -500,8 +500,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "南闲徐暇客独门绝技，闻名于江湖之上的醉八仙本为拳法，南闲奇思妙想之下将之化为剑法，以剑柄、剑刃、剑锋模拟诸般古怪拳势，更加使其难以预料，威力更上一层楼。"
-    translated: "Southern Leisure Xu Xiake's secret and ultimate technique, known throughout the Jianghu as Drunken Eight Immortals, originally a boxing style. Under Southern Leisure's ingenious ideas, he transformed it into swordplay, using the sword hilt, blade, and tip to mimic various strange boxing stances. This made it even more unpredictable and powerful"
-    flaggedForRetranslation: true
+    translated: "Southern Leisure's Xu Xiake is renowned in the martial world for his unique and secret technique, Drunk Eight Immortals, originally a fist style. Southern Leisure ingeniously transformed it into a sword form. By simulating various bizarre fist techniques with the sword handle, blade, and tip, he made it even more unpredictable, enhancing its power"
+    flaggedForRetranslation: false
 - lineNum: 42
   raw: "it30223	空无剑诀	sword	心意六合剑进阶武学。	302	5000	2500	TRUE	0	70	999999	SkillTree061	Sword	0	0	0	"
   translated: ""
@@ -657,7 +657,7 @@
   - split: 3
     text: "禾泓渊藉以成名的刀法，朴实古拙，刚猛无俦，端的是威震滇蜀。"
     translated: "He Hongyuan's swordsmanship, simple and ancient yet fierce beyond compare, truly commands awe in Sichuan and Yunnan"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 55
   raw: "it30307	天鹏刀法	it30307	百里惮赫祖传的刀法，其要旨端在招数精奇，不在以力碰力，虽然招式看上去跟一般刀法没有什么大差别，但是后着巧妙，虚实互用，忽虚忽实，令人莫测高深。	303	10000	5000	TRUE	2	70	999999	SkillTree018	Blade	0	0	0.5	"
   translated: ""
@@ -700,8 +700,8 @@
   splits:
   - split: 1
     text: "碧蛇刀法"
-    translated: "Bi She Dao Fa (Viper Blade Technique)"
-    flaggedForRetranslation: true
+    translated: "Emerald Serpent Swordsmanship"
+    flaggedForRetranslation: false
   - split: 3
     text: "云南五毒教的秘传刀法，以狠、诡、奇、快为要诀，配合刁钻多变的身法，招招令人匪夷所思，鬼魅难测。"
     translated: "Yunnan Wudu Sect's secret blade art emphasizes ferocity, cunning, strangeness, and speed. Combined with tricky and versatile footwork, each move is unimaginable and difficult to fathom"
@@ -713,7 +713,7 @@
   - split: 1
     text: "四象六合刀"
     translated: "Si Xiang Liu He Dao"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 3
     text: "观想青龙、白虎、朱雀、玄武四象神貌，结合六合剑心法，修练内三合、外三合，使意随刀行，人刀合一。"
     translated: "Visualize the appearance of the four mythological creatures—Azure Dragon, White Tiger, Vermilion Bird, and Black Tortoise—and combine it with the Six Harmonies Sword Method. Practice internal and external harmonizing techniques to ensure that your intention follows the sword, achieving unity between person and blade"
@@ -872,8 +872,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "此枪法迅猛刚烈，无双无对，传说常山赵子龙于长坂坡七进七出，依凭的便是这套枪法。"
-    translated: "This spear technique is swift, fierce, and unmatched. It is said that Zhao Zilong of Qiangshan used this technique when he made seven advances and seven withdrawals at Changban Slope"
-    flaggedForRetranslation: true
+    translated: "This spear technique is swift, fierce, and unrivaled. It is said that Zhao Zilong of Changban Slope relied on this very spear art for his seven advances and seven withdrawals"
+    flaggedForRetranslation: false
 - lineNum: 73
   raw: "it30404	三朵神枪	it30404	木府战士所使用的枪法，相传由古代的战神所创，而此战神便以三朵之名流传于世。	304	10000	5000	TRUE	2	70	999999	SkillTree021	Spear	0	0	0.5	"
   translated: ""
@@ -897,7 +897,7 @@
   - split: 3
     text: "高仇恨值武学。五郎八卦棍相传由杨家将之一的杨五郎始创。杨五郎随父征契丹，兵败后到五台山为僧，以枪化棍，棍法由太极生两仪，两仪生四象，四象生八卦，演变为六十四点棍法，符合内外八卦八八六十四之数，故名五郎八卦。"
     translated: "High Hatred Value Martial Arts. Wu Lin Five-Elder Eight Trigrams Staff is said to have been created by Yang Wulang, one of the Yang Family Generals. After military defeat against the Khitans, Yang Wulang followed his father and later became a monk in Wutaishan. He transformed spear techniques into staff techniques; the staff art originates from Taiji giving rise to two polarities, which then form four symbols, eventually evolving into sixty-four points of staff technique. This aligns with the numbers of the internal and external eight trigrams (eight multiplied by eight equals sixty-four), hence the name Five-Elder Eight Trigrams"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 75
   raw: "it30406	中平枪法	it30406	中平枪，枪中王，高低远近都不防，高不拦，低不拿，当中一点难遮架。中四平枪，乃顶平、肩平、脚平、枪平，以最短路径平直刺出，枪去如箭，敌手万难招架，防不胜防。	304	2500	1250	TRUE	0	70	999999	SkillTree108	Spear	0	0	0	"
   translated: ""
@@ -932,8 +932,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "骆元玉早年为一名不起眼的乞丐所救，并从其手中习得的棍法，腾身在空，凌棍下击，直如夜叉探海之势。"
-    translated: "Luoyuanyu, once a seemingly insignificant beggar, learned the staff technique from him who had saved her in her early years. With this skill, she could leap into the air and strike downward with the staff as if exploring the sea like a ghost"
-    flaggedForRetranslation: true
+    translated: "Lu Yuanyu was once saved by an inconspicuous beggar in his youth and learned the staff techniques from him. In combat, he would leap into the air, striking with the staff below as if like a demon probing the seas"
+    flaggedForRetranslation: false
 - lineNum: 78
   raw: "it30409	疯魔杖法	it30409	少林七十二绝技之一。非入忘我之境存舍身伏魔之志者，无法展现其精髓。	304	5000	2500	TRUE	1	70	999999	SkillTree157	Spear	0	0	0.5	"
   translated: ""
@@ -1004,8 +1004,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "豹王冯观戏成名绝技，脱胎自开国名将冯百战的冯家枪，本正大光明，威猛无匹，却因冯观戏流落江湖，颠沛流离，为在弱肉强食的江湖底层杀出一条血路，使枪愈发刁钻险恶，最终演变为这一十八路迅猛多变，阴招迭出的枪法。"
-    translated: "Baowang Feng Guanxi's signature technique, the Feng Family Spear, was originally derived from the famous spear of the founding general Feng Baijian. It is traditionally straightforward and unmatched in its ferocity. However, due to Feng Guanxi's fall into the Jianghu (martial world) and his struggles for survival among the weak and strong, he adapted his technique to become increasingly cunning and dangerous, ultimately evolving it into this eighteen-step swift and varied spear form with successive stealthy maneuvers"
-    flaggedForRetranslation: true
+    translated: "Feng Guanxi's Biao Wang Feng technique, a renowned and unique skill, originates from the famous Feng family spear of the founding general Feng Baijia. Initially straightforward and unmatched in power, it became devious and treacherous as Feng Guanxi fell to the wayside and suffered hardships in the ruthless world of Jianghu. To carve out a path among the weak and strong, he developed the spear into this eighteen-step agile, ever-changing technique with multiple hidden traps"
+    flaggedForRetranslation: false
 - lineNum: 84
   raw: "it30415	八方风雨势	spear	此枪法初窥堂奥者，枪势可动如八方风雨。大成时，却是一枪出八方风雨皆寂。若非军伍出身之人，难以体会枪法中蕴含的肃杀之气。	304	10000	5000	TRUE	2	70	999999	SkillTree063	Spear	0	0	0	"
   translated: ""
@@ -1100,8 +1100,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "小乞丐无聊时，就喜欢拿石头丢麻雀，虽然手劲一般般，但准头还是不错的。此掷石手法虽然简单，却仍有精进与变化的潜力。"
-    translated: "When the little beggar is bored, he likes to throw stones at sparrows; although his strength is average, his aim is still decent. This stone-throwing technique is simple but still has potential for refinement and variation"
-    flaggedForRetranslation: true
+    translated: "When the little beggar was bored, he liked to throw stones at sparrows. Although his strength was average, his aim was still quite good. This stone-throwing technique was simple, yet it had potential for refinement and variation"
+    flaggedForRetranslation: false
 - lineNum: 92
   raw: "it30507	神箭七连珠	it30507	木府祖传箭艺，精深者可在霎时间连射七箭，箭箭都能命中目标要害，然而修练过程极为严苛，习练者不但需要闪电般的反应能力，更得要有过人的眼力和臂力，确保每一箭都能命中要害。	305	10000	5000	TRUE	2	70	999999	SkillTree077	Arrow	0	0	0.5	"
   translated: ""
@@ -1316,8 +1316,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "孔金所赠与的短柄秘笈。传闻为战国时荆轲刺秦王所用之武学，但因年代久远，此武诀是真的从先秦流传至今，还是后人揣摩而出？真相恐怕无人知晓。"
-    translated: "Kong Jin's gift, the short-handle secret manual. It is rumored to be the martial art that Jing Ke used when he attempted to assassinate King Qin during the Warring States period, but due to its antiquity, it is uncertain whether this martial technique has truly been transmitted from the pre-Qin era to the present or if it was later speculated upon. The truth is likely unknown to anyone"
-    flaggedForRetranslation: true
+    translated: "Kong Jin's short-handled manual is said to be the martial art used by Jing Ke in his assassination attempt on King Qin during the Warring States period. However, due to its ancient origins, it remains uncertain whether these martial techniques have genuinely been passed down from the pre-Qin era to the present day or if they were later conjectured by subsequent generations. The true answer may be unknowable"
+    flaggedForRetranslation: false
 - lineNum: 110
   raw: "it30607	阎王帖	it30607	不赦楼杀手的秘传杀招之一。多以匕首使之，专刺敌人要害，旨在一击毙命。此招歹毒阴狠，多为武林正派人士所不齿。	306	10000	5000	TRUE	2	70	999999	SkillTree048	Short	0	0	-0.5	"
   translated: ""
@@ -1352,8 +1352,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "天长地久有时尽，此恨绵绵无绝期。蓝拂衣所使用的这套刺法源出俏梦阁擒拿手法，本是婀娜多姿，千娇百媚，却在她离开俏梦阁后染上了一股嗜杀狠戾之气，经过不赦楼主的提点，最终创造出了这套歹毒武学。"
-    translated: "Though heaven and earth endure forever, there will come an end to this lingering resentment. Lan Fuyi's set of stabbing techniques originated from the delicate and alluring capturing methods of Qiao Meng Ge. However, after she left Qiao Meng Ge, it took on a taste for killing and viciousness. With guidance from the master of Bu She Lou, she ultimately created this malevolent martial art"
-    flaggedForRetranslation: true
+    translated: "The saying goes, 'Eternal skies and earth will someday cease; this resentment is endless without end.' The set of piercing techniques used by Lan Fuyi originates from the capturing skills taught at Charming Dream Hall. Originally graceful, enchanting with a thousand charms and a hundred beauties, yet after she left Charming Dream Hall, it took on a cruel, murderous spirit. With guidance from the head of Merciless Hall, this deadly martial art was finally created"
+    flaggedForRetranslation: false
 - lineNum: 113
   raw: "it30610	花开四季	short	花开四季	306	5000	2500	TRUE	1	70	999999	SkillTree065	Short	0	0	0	"
   translated: ""
@@ -1445,7 +1445,7 @@
   - split: 1
     text: "离合参商"
     translated: "Li He Canshang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 3
     text: "一套极为奇妙的功法，将借力打力之巧妙应用转嫁到了运转内息之上，习练之人首先需得有深厚内功基础，并且精通于借劲御力之术，令全身都能包裹在一层能够偏移、导引攻势的气衣之中，就好似罩上了一件滑溜衣裳，无论面对何种攻势都能以这层气衣将之迁移挪引。"
     translated: "A set of extremely marvelous techniques applies the clever use of leveraging force to the circulation of internal energy. Practitioners must have a solid foundation in internal cultivation and be proficient in the art of using external forces. Their entire body is enveloped in an ethereal layer that can deflect and guide attacks, as if wearing a slippery garment that can shift or redirect any form of assault"
@@ -1460,8 +1460,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "张君宝仍为少林寺俗家弟子时，其恩师曾传授一套无上内功心法。虽然张君宝所学不全，但张君宝天资颖悟，将此无上内功与其后习得的玄门正宗心法互相印证、融会贯通后另成这套纯阳无极功。"
-    translated: "Zhang Junbao, while still a lay disciple of Shaolin Temple, was taught a supreme internal cultivation method by his master. Although Zhang Junbao did not learn it all, due to his innate intelligence and keen insight, he cross-referenced this supreme internal cultivation with the orthodox sect methods he learned later, integrating them into a new Pure Yang Wujiqong"
-    flaggedForRetranslation: true
+    translated: "When Zhang Junbao was still a lay disciple of Shaolin Temple, his teacher had once imparted to him an extraordinary internal cultivation method. Although Zhang Junbao did not master it completely, his natural talent and intuition allowed him to cross-reference this supreme internal cultivation with the orthodox heart methods he later acquired, integrating them into this Pure Yang Wuxing Method"
+    flaggedForRetranslation: false
 - lineNum: 122
   raw: "it30706	先天功	it30706	王喆从天书之上所领悟的内功绝学，透过养生吐纳吸收天地精华，自然灵气，进而返后天为先天，聚元气、元神、元精于一身，激发人体潜能，产生无穷无尽之真气为己用。	307	20000	10000	TRUE	3	70	999999	SkillTree175	Less	0	0	0.5	"
   translated: ""
@@ -1472,8 +1472,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "王喆从天书之上所领悟的内功绝学，透过养生吐纳吸收天地精华，自然灵气，进而返后天为先天，聚元气、元神、元精于一身，激发人体潜能，产生无穷无尽之真气为己用。"
-    translated: "Wang Zhe, through his understanding of the internal martial arts from the Heavenly Scriptures, cultivated life energy and breath to absorb the essences of heaven and earth and natural spiritual energy. By reversing post-natal essence into pre-natal essence, he gathered Yuan Qi, Yuan Shen, and Yuan Jing within his body. This awakened human potential and generated an inexhaustible supply of true energy for his use"
-    flaggedForRetranslation: true
+    translated: "Wang Zhe, through his comprehension of the inner alchemical masterpiece from the Heavenly Scriptures, absorbed the quintessence of heaven and earth, as well as natural vital energy. By practicing nourishing life and exhalation, he reverted post-natal nature to primordial nature, consolidating essence, spirit, and vitality within his body. This process unlocked human potential, generating an endless supply of true qi for personal use"
+    flaggedForRetranslation: false
 - lineNum: 123
   raw: "it30707	太阴寒冰诀	it30707	天地四时，生生不息，月有圆缺，流转不止，人生其间若能融于此生息流转，内力自当源源不绝，圆转一周则增强一分。然人生在世难避纷扰，纷扰既生，干预则多，是以修练此内力心法者强调少情少欲，心台清明。否则轻则神功不成，重则走火入魔，不可不慎。	307	10000	5000	TRUE	2	70	999999	SkillTree087	Less	0	0	-0.5	"
   translated: ""
@@ -1664,8 +1664,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "黄裳遭逢大祸后，受凌中岳所救，此后数年一面于青城山洞中养伤，一面回忆仇家武功，苦思克制办法，至今的成果便是这部连名字也没有的秘籍。其中纪载了名为「九阴白骨爪」、「大伏魔拳法」、「飞絮劲」等神妙武学，惟其中尚有许多缺漏不足之处尚须完善。"
-    translated: "Huang Shang encountered a great calamity and was rescued by Ling Zhong Yue. In the following years, he recuperated in a cave on Qingcheng Mountain while reflecting on his enemies' martial arts to devise methods of counteracting them. The results are evident in this manual that even lacks a name. It records marvelous martial arts such as Jiuyin Bai Guzhao, Da Fumo Quanfa, and Feixu Jin. However, there are still many deficiencies and shortcomings that need improvement"
-    flaggedForRetranslation: true
+    translated: "Huang Shang encountered a great misfortune and was rescued by Ling Zhongyue. Over the following years, he recuperated in a cave on Qingcheng Mountain while reflecting on his enemy's martial arts to devise methods of overcoming them. The result is this manual, which has no name itself. It records marvelous martial arts such as Jiuyin Bai Guyao and Da Fumo Quanfa, along with the technique known as Feixu Jin. However, it still contains many flaws and gaps that need to be perfected"
+    flaggedForRetranslation: false
 - lineNum: 139
   raw: "it30723	太玄经	it30723	在地牢的一隅所发现，根据李白诗句侠客行所绘的二十四张图谱，为何会出现在地牢之中，如今已是难解之谜。其上每张图谱都对应了诗中的一句，或为内功、或为掌法、或为剑法、或为刀法，二十四句诗中包罗万象，真正精要仅仅在于图谱之中，常人若是拘泥于诗句之意，修练进境反而将窒碍难行。	307	20000	10000	TRUE	3	70	999999	SkillTree154	Less	0	0	0	"
   translated: ""
@@ -2048,8 +2048,8 @@
     flaggedForRetranslation: false
   - split: 3
     text: "石鸿图几近走火入魔之研毒心得，一说此书意谓其上穷碧落下黄泉的搜览各式毒虫毒术，对其完整性十分自豪；另说是中此书内之毒者，上穷碧落下黄泉也无人能解。"
-    translated: "Shi Hongtu is nearly mad with his research on poisons, and he claims that this book encompasses all kinds of poisonous creatures and techniques from the highest heavens to the darkest depths. He takes great pride in its completeness; another version states that anyone poisoned by this book would have no one capable of rescuing them from either heaven or hell"
-    flaggedForRetranslation: true
+    translated: "Shi Hongtu's research findings on poisons are almost as if he were possessed by the study of toxins. One interpretation suggests that this book compiles knowledge of various poisonous creatures and techniques, and Shi Hongtu is very proud of its comprehensiveness. Another interpretation claims that anyone poisoned by reading this book would suffer effects from which no one could save them, even in heaven or hell"
+    flaggedForRetranslation: false
 - lineNum: 171
   raw: "it31004	千蛛万毒功	poison	一种毒功，练功时须以毒蛛吸食己血，并将蛛毒带入自己血液中，待毒液尽入练功者体内，蛛即死去，要再换新蛛。练过一百只花蛛，仅是小成，若要功夫深，便须练过成千上万只。	310	5000	2500	TRUE	1	70	999999	SkillTree178	Fight	0	0	-0.5	"
   translated: ""

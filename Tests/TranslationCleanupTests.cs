@@ -23,11 +23,23 @@ public class TranslationCleanupTests
             "She",
         };
 
-        if (input.StartsWith("he ", StringComparison.OrdinalIgnoreCase) ||
-            input.StartsWith("she ", StringComparison.OrdinalIgnoreCase) ||
-            input.Contains(" he ", StringComparison.OrdinalIgnoreCase) ||
-            input.Contains(" she ", StringComparison.OrdinalIgnoreCase))
+        // Deliberately only want 'he' and not 'He' (because common name)
+        if (input.Contains(" he "))
+        {
+            if (input.Contains("brother", StringComparison.OrdinalIgnoreCase) || input.Contains("lord", StringComparison.OrdinalIgnoreCase))
+                return false;
+
             return true;
+        }
+
+        if (input.StartsWith("she ", StringComparison.OrdinalIgnoreCase) |
+            input.Contains(" she ", StringComparison.OrdinalIgnoreCase))
+        {
+            if (input.Contains("miss", StringComparison.OrdinalIgnoreCase) || input.Contains("lady", StringComparison.OrdinalIgnoreCase))
+                return false;
+
+            return true;
+        }
 
         return false;
     }
@@ -42,27 +54,7 @@ public class TranslationCleanupTests
         var manual = TranslationService.GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
-            //"白孙",
-            //"迦罗",
-            //"皇甫登云",
-            //"王喆",
-            //"李叹",
-            //"段思平",
-            //"段思良",
-            //"阿得阿克",
-            //"禾郁青",
-            //"何紫菀",
-            //"司徒荆",
-            //"石鸿图",
-            //"骆元玉",
-            //"漆笑儿",
-            //"樊香蝶",
-            //"黄裳",
-            //"程雁华",
-            //"百损",
-            //"颛孙凝",
-            //"董迦罗",
-            //"刁不易",
+            //"凌中岳",            
         };
 
   
@@ -97,12 +89,12 @@ public class TranslationCleanupTests
                     }
 
                     // Mark for Gender whack
-                    if (!split.FlaggedForRetranslation && ContainsGender(split.Translated))
-                    {
-                        Console.WriteLine($"Contains gender {textFileToTranslate.Path} \n{split.Translated}");
-                        recordsModded++;
-                        split.FlaggedForRetranslation = true;
-                    }
+                    //if (!split.FlaggedForRetranslation && ContainsGender(split.Translated))
+                    //{
+                    //    Console.WriteLine($"Contains gender {textFileToTranslate.Path} \n{split.Translated}");
+                    //    recordsModded++;
+                    //    split.FlaggedForRetranslation = true;
+                    //}
 
                     // If it is already translated or just special characters return it
                     if (!Regex.IsMatch(split.Text, pattern) && split.Translated != split.Text)

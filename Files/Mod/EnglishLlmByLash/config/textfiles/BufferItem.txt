@@ -257,7 +257,7 @@ buffSkillTree000_010	Store Power	Wildball Boxing Technique Power Increase	0		0	F
 buffSkillTree000_011	Stone	Heavy Hand Attack, inflicts an additional 5 points of internal injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree000_012	Scissors	Direct Attack	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree000_013	Cloth	Sectoral attack	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree000_014	Expel Qi	With the mastery of baseball fist, he will be invincible in the world	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree000_014	Expel Qi	Master the art of Baseball Fist, and become invincible across the land	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree001_004	Wind sweeps the grass flat	Desert Solitude Mist Power Enhancement	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree001_005	The endless yellow sands	Desert Mirage Attack Range Increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree002_005	As light as the wind	Wind Whisper Sword adds 8 points of dizziness	0		0	FALSE	0	FALSE	0	0		0
@@ -483,7 +483,7 @@ buffSkillTree077_006	Like a tiger pouncing	Hawk Hunting the Snow Mountains' Powe
 buffSkillTree077_007	White foxes fly in the forest	Use Falcon's Snowy Mountain to increase your combo rate by 6 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_007
 buffSkillTree077_008	Grey Eagle Flaps Wings Swiftly	If using the Divine Arrow Seven Links technique, followed by Hawk's Snow Mountain Strike to kill an enemy, restore 3 points of personal energy	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree078_004	Leaning on a white steed	Pause Cup, Ask Moon Where Is It Now, with Added Effect of Stalling the Sequence	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree078_005	Again laughed at the azure sky	Put down the cup and ask the moon where it is now, a madman laughs as he has a bright pearl. Enhance damage	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree078_005	Again laughed at the azure sky	Pause your cup to ask the moon where it is today; a madman secretly smiles with his bright pearl, enhancing damage	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree078_006	I laugh at all living beings	Stop drinking and ask the moon where it is today, the madman laughs with a bright pearl in his possession; add muscle-building effects	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree079_000	Nanjing's Influence	After unleashing the Tiansan Technique, resist 6 points of tendon-severing and joint-manipulation for 5 rounds	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_000
 buffSkillTree079_004	Brave and Bold	When using Tiannan power, increase the accumulated critical hit rate of oneself by an additional 5 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_004
@@ -527,7 +527,7 @@ buffSkillTree088_004	Fei Xue	Flying Snow Divine Arrow adds an extra 5 points to 
 buffSkillTree088_005	Divine Arrow	The power of the Flying Snow Divine Arrow has been enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree088_006	Flurry of Snow	Fei Xue Shen Jian additional external damage +5 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree089_001	Coiled serpents	If both Qinghua and Zhenling are equipped simultaneously, the damage caused by the Dual Snake Coiling technique increases	0		0	FALSE	0	FALSE	0	0		buffSkillTree089_001
-buffSkillTree089_005	Thousand and one turns	If equipped with Pei Hua, the damage caused by wielding Shen She Dao increases	0		0	FALSE	0	FALSE	0	0		buffSkillTree089_005
+buffSkillTree089_005	Thousand and one turns	If equipped with Qing Hua, the damage inflicted by the Ling She Dao increases	0		0	FALSE	0	FALSE	0	0		buffSkillTree089_005
 buffSkillTree089_006	Silver Moon Poisoned Feather	If equipped with the Jingling, the damage caused by using the Bisheshada increases	0		0	FALSE	0	FALSE	0	0		buffSkillTree089_006
 buffSkillTree089_009	Python dances across the body	Spirit Snake Sword adds a dizziness value of 8 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree089_010	Thousand Snake Shadows	Poisonous Snake Sword adds a confusion value of 8 points	0		0	FALSE	0	FALSE	0	0		0
@@ -583,7 +583,7 @@ buffSkillTree102_005	Piercing thrust technique	The energy cost for using the Fiv
 buffSkillTree103_008	Cherry Blossoms in Spring Rain	When using Jade Maiden's Shuttle, damage increases by 25% when counterattacking with Roving Finger Softsword	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree103_009	Three rings encircle the moon	Jade Maiden Shuttle and Soft Circle Fingers Sword add a dizziness effect	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree103_010	Spring clouds are thick	When deploying Jade Maiden's Piercing Needle and Circulating Finger Soft Sword techniques, the rate of force reduction increases	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree104_007	Tracking fleeting shadows	After moving, he unleashed Swordsmanship: Cloud-Dispelling Blade, with even greater power	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree104_007	Tracking fleeting shadows	After moving, the wielder cast a single strike with Lingchen Swordplay, which was even more powerful	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree104_008	Fei Ling Xu	Attacks on an enemy's back deal additional damage	0		0	FALSE	0	FALSE	0	0		buffSkillTree104_008
 buffSkillTree108_004	Dragon emerges from the depths	Four Barbarians' attack range expanded	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree108_005	The White Snake Spits the Oath	If the strategy of Subduing Barbarians is used as a counter-attack technique, it increases the activation rate of The Sparrow Flies in the Rear by 5%	0		0	FALSE	0	FALSE	0	0		0
@@ -806,7 +806,7 @@ buffSkillTree173_000	Li He Canshang	When engaging the disengagement counterattac
 buffSkillTree173_000_2	Li He Canshang	When executing Runyu Displacement, counterattack damage is enhanced. When countering, 1 point of the opponent's vitality is deducted	0	buffSkillTree173_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree173_000_3	Li He Canshang	When running Heliang Can Shang, damage from counterattacks is enhanced; when activating a counterattack, deduct 1 point of the opponent's energy. When activating Jieli Da Li, return all received damage to the opponent	0	buffSkillTree173_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree173_006	Convergence and divergence	If you operate the run, disengage, and harmonize in coordination, when launching a counterattack, deduct 1 point of energy from your opponent	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree173_007	Don't see Chen Xiang	If one operates the principles of li he can shang and activates the technique of borrowing force to strike, all damage received by oneself will be returned to the opponent	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree173_007	Don't see Chen Xiang	If you run the disengagement, coordination, and mutual assistance during a power transfer and use force against force, any damage taken will be fully returned to the opponent	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree174_000	Concentrate the mind	There is a chance to control an enemy for 4 rounds. The higher the difference in internal power, the higher the success rate. At most, you can control 2 people at the same time	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree174_001	Seize the Soul	There is a chance to control an enemy for 5 turns; the higher the internal power difference, the greater the success rate. At most, control 2 people at the same time	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree174_002	Seize Shadow	There is a chance to control enemies for 5 turns, and the higher the internal power gap, the greater the success rate. At most, you can control 3 people at the same time	0		0	FALSE	0	FALSE	0	0		0
@@ -825,7 +825,7 @@ buffSkillTree176_011	Whirlwind Force	Using a twisting maneuver to pull the enemy
 buffSkillTree177_002	One leaf knows autumn	Ye sui feng zhuan fujia si dian feng xue zhi	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree177_003	Leaves return to their roots	Ye Suifeng added four points to internal injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree177_007	Spring chill is piercing	Smile and pluck the spring blossoms, adding six points to seal technique	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree177_008	Spring is as deep as the sea	With a laugh, he plucked the spring blossoms and added 6 points of internal injury	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree177_008	Spring is as deep as the sea	Laughter plucks the spring blooms, adding 6 points of internal injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree178_005	Spider Venom Touch	The higher one's proficiency in poison techniques, the greater the toxicity and dizziness inflicted on enemies; the more evil a character is, the stronger their power	0		0	FALSE	0	FALSE	0	0		buffSkillTree178_005
 buffSkillTree178_005_2	Thousand Spider, Myriad Poison Hands	The higher one's mastery of poison arts, the greater the toxicity and dizziness inflicted on opponents; the more evil the character, the stronger their power	0		0	FALSE	0	FALSE	0	0		buffSkillTree178_005_2
 buffSkillTree178_006	Black Blood Divine Needle	Can be refined into Black Blood Spider Venom, can forge Divine Needles of Black Blood	0		0	FALSE	0	FALSE	0	0		0
@@ -895,19 +895,19 @@ BattleSchedule001c	Pinewood Wind Sword Formation	When a Qingcheng Sect disciple 
 BattleSchedule002	Intent to kill grew stronger	Temporarily restore one's own lifeforce and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002
 BattleSchedule002b	Anger as high as the sky	Enmity surging, significantly boosting one's combat ability!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002b
 BattleSchedule002c	Internal injury recurrence	The surge of qi heightens internal injury, with each round adding to the cumulative internal injury value	0	battle_debuff	0	TRUE	0	FALSE	0	0	(Injured,25)	beginUnitProp
-BattleSchedule002d	Intent to kill grew stronger	Confronted with Ling Zhongyue's attempt to seize the Heavenly Scriptures, he briefly restored his own lifeforce and increased the power of his techniques	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002d
+BattleSchedule002d	Intent to kill grew stronger	Confronting Ling Zhongyue's attempt to seize the Heavenly Scriptures, he briefly regained his lifeforce and subsequently enhanced the power of his techniques	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002d
 BattleSchedule002e	Severe internal injury	When one is flustered, the internal injury worsens, causing a significant reduction in the effectiveness of their techniques	0	battle_debuff	0	TRUE	0	FALSE	0	0	(SkillDamageFactor,-75)	beforeAttackProp
 BattleSchedule003	Intensely vengeful	After the Ming Cult followers were killed, they restored their own lifeforce and enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule003
 BattleSchedule004	Enemy at hand	After the Ming Sect followers were killed, they enhanced their combat capabilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule004
 BattleSchedule005	Adversary at hand	After the Ming Sect followers were killed, they enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule005
 BattleSchedule006	Anger as high as the sky	Quickly recover one's life force and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule006
 BattleSchedule007	Control breath and concentrate	Short-term recovery of one's lifeforce and enhancement of combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule007
-BattleSchedule008	The Wrath of the Ghost King	Due to Bai Li Dan he being in a critical situation, he unleashes his hidden combat potential, increasing the damage of his skills and cumulatively enhancing his combo rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008
-BattleSchedule008b	The Wrath of the Wind King	Due to the Mountain Goblin King being in a critical situation, he unleashes his hidden combat potential, increasing skill damage and stacking the critical hit rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008b
+BattleSchedule008	The Wrath of the Ghost King	Due to Bai Li Danhe finding himself in dire peril, he unleashes his hidden combat potential, enhancing his skill damage and increasing his combo rate every turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008
+BattleSchedule008b	The Wrath of the Wind King	Because the Mountain Demon King was in a dire situation, he unleashed his latent combat potential. His skills' damage increased and added an escalating critical hit rate every turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008b
 BattleSchedule008c	Wrath of the King of Ghosts	Due to the presence of the enemy Huang Shang, burst out latent combat potential, increase skill damage and add a cumulative critical rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008c
 BattleSchedule008d	The Wrath of the Wind King	Due to the presence of the enemy Huang Shang, a personal grudge is triggered, unleashing hidden combat potential. Skills increase damage and stacking critical hit rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008d
 BattleSchedule009	The Bloodthirsty Alliance	Pursue victory and enhance one's combat capabilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule009
-BattleSchedule010	With one heart and one mind	Due to Huang Shang being in a crisis, he taps into his latent abilities and additionally increases his combo rate and counterattack rate each turn	0	battle	0	TRUE	0	FALSE	0	0	(Combo,20)(CounterAttack,20)	beginUnitProp
+BattleSchedule010	With one heart and one mind	Due to Huang Shang being in a crisis, he taps into his hidden potential, gaining an additional cumulative increase to both his combo rate and counterattack rate each round	0	battle	0	TRUE	0	FALSE	0	0	(Combo,20)(CounterAttack,20)	beginUnitProp
 BattleSchedule011	Feihong Sword Formation	By activating the formation, the combat ability increases with the number of participants	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule011
 BattleSchedule012	Feihong Jianzhen	By increasing the number of people who activate the formation, combat ability is enhanced	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule012
 BattleSchedule013	Phoenix Spear Formation	Deploys an array to enhance combat ability according to the number of people	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule013
@@ -955,7 +955,7 @@ BattleSchedule054	Weizhentian Nan	Attack Power Increased by 30%	0	battle	0	TRUE	
 BattleSchedule055	White Dew Frost Attack Buff		0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule055
 BattleSchedule056	Gold Toad Spits Pearl	Every two rounds, damage increases by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule056
 BattleSchedule057	Marvelous Hand Reviving Life	Regain 20% of your own lifeforce every three turns	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule057
-BattleSchedule058	She Xia Mei Ren	Slowly poisoned, accumulating 10 points of poison each round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule058
+BattleSchedule058	Snake and Scorpion Beauty	Slowly poisoned, accumulating 10 points of poison each round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule058
 BattleSchedule059	Lost Step	Each round, energy recovery is reduced by 3 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule059
 BattleSchedule060	Yin Yang Wu Ji	Suffer from Yin-Yang imbalance, accumulating 10 points of internal injury each turn	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule060
 BattleSchedule061	Power of the Dried Corpse	Resurrection by Possessing Corpses, increasing damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule061
@@ -1021,11 +1021,11 @@ BattleSchedule510	Unyielding defiance	Snow Wing Eagle is fierce and stubborn in 
 BattleSchedule511	Exhausted	Snowwing's physique is weakened, revealing fatigue... Attack damage decreases, and confusion value accumulates by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule511
 BattleSchedule512	Weak	Snow Wing has lost too much blood and is becoming increasingly weak... Energy regeneration reduced, and accumulates dizziness by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule512
 BattleSchedule513	Fighting with blood and sweat	Tu Le fought valiantly to fulfill his mission, shedding blood in battle	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule513
-BattleSchedule514	Unyielding with the lance	For the sake of not betraying his mission, he swore to resist to the death	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule514
+BattleSchedule514	Unyielding with the lance	Tu Le vowed to not fail in thier mission and swore to resist to the death	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule514
 BattleSchedule515	Arise with the rage of a hero	Tu Lu fought with determination, bathing in blood, vowing to exterminate all the bandits	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule515
 BattleSchedule516	Deadly poison spreads	Tu Lei suffered from the poisoned attack of the cloaked figures, and his body was severely poisoned!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule516
-BattleSchedule517	Aspiration for Power	Mo Kui's battle capabilities have significantly improved, and he continues to recover his lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule517
-BattleSchedule518	War and weapons	Mo Kui is in a perilous situation, fighting alone with great strength! His combat ability has significantly increased and he continues to recover his lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518
+BattleSchedule517	Aspiration for Power	Mu Qiu's combat abilities have greatly improved, and he continuously restores his own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule517
+BattleSchedule518	War and weapons	Mu Kui is in a perilous situation, fighting alone with determination! His combat abilities have greatly increased, and he continuously restores his lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518
 BattleSchedule519	United we stand	Follow the Second Young Master's footsteps! The technique greatly increases damage and continuously restores your own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule519
 BattleSchedule520	Lonely Defender	Chu Le is fiercely loyal and battles with bloodshed... Each round greatly increases the external injury value and causes a significant loss of lifeforce	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule520
 BattleSchedule521	Defect at the Last Moment	San Deng defected at the front and helped capture the rebel of Mu Mansion, Mu Kui!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule521
@@ -1083,7 +1083,7 @@ nick018b	Sea of Hatred, Lonely Soul	Each turn, self-attack power increases by 10
 nick018bP	Peerless Master	Each round, self-attack power increases by 10%, accumulating up to a maximum of 80%; when triggering a critical hit, the critical damage is additionally increased by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick018bP
 nick019	Mountain Goblin Demon King	When counterattacking, power increases by 30%, and during the attack, 15% of damage is converted into self-life force	0	nickname	0	TRUE	0	FALSE	0	0		nick019
 nick020	Confucian Heart, Sword Arm	Every round, self's counterattack value increases by 25. All allies receive the status Confusion of Confucian Sword	0	nickname	0	TRUE	0	FALSE	0	0		nick020
-nick020buff	Confucian Sword Formation	Due to Ling Zhongyue being present, the counterattack value of oneself is increased by 15 each round	0	battle	0	TRUE	0	FALSE	0	0		nick020buff
+nick020buff	Confucian Sword Formation	Due to Ling Zhongyue being present, self-defense value +15 each round	0	battle	0	TRUE	0	FALSE	0	0		nick020buff
 nick021	Wise Nun Bai Sun	If a martial arts technique with an ice seal effect is used, the technique's power becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021
 nick021P	Guang Han Gongzhu	If you use a martial art technique with an ice seal effect, the power of the move becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021P
 nick022	Scarce Wind King	When unleashing a critical attack, increase energy by 3	0	nickname	0	TRUE	0	FALSE	0	0		nick022
@@ -1111,7 +1111,7 @@ nick037	Cannot control one's own hands	The probability of being caught stealing 
 nick038	It's a habit to borrow	Chance of being caught stealing is reduced by 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick038
 nick039	Thief King	The theft will not be discovered	0	nickname	0	TRUE	0	FALSE	0	0		nick039
 nick040buff	Sentimental	Attributes increase by 10 points; however, the amount of increase in negative status values each time is enhanced by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick040
-nick041buff	Throwing apples to a young man	During combat, the participating female teammate's damage is increased by 30%; however, she is more likely to be targeted by enemies	0	nickname	0	TRUE	0	FALSE	0	0		foricon
+nick041buff	Throwing apples to a young man	During battle, allied female teammates' damage is increased by 30%; however, the user becomes easier for enemies to lock onto	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick042buff	Reborn Mad Swordsman	Each time an attack is made from the target's front, there is a 25% chance to accumulate 10 points of joint manipulation on the target; each time an attack is made from the target's side or back, there is a 25% chance for the attacker to accumulate 10 points of confusion	0	nickname	0	TRUE	0	FALSE	0	0		nick042
 nick043buff	After the fact	Body constitution increases by 10 points; and each time the negative status value of oneself increases, the increase is reduced by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick043
 nick044buff	Wulin insiders	Your martial arts power increases as your level grows	0	nickname	0	TRUE	0	FALSE	0	0		nick044

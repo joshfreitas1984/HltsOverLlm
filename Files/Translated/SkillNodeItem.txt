@@ -7305,7 +7305,7 @@
   - split: 2
     text: "出招前的移动距离越长，玉娥奔天终不悔的威力越强"
     translated: "Longer the distance moved before executing a technique, the more powerful Yu'e's Benzhe Yu He becomes"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 609
   raw: "SkillTree085_002	月随人形徒消瘦	内伤+6	7000	SkillTree085_002	[]	Active		0	skill_wp1a048	5	200	Enemy	rect : { 0, 0, 0 }, 0, 2, 0, 0.2		Target	0	injured06	TRUE	250	Sword	-0.5	SkillTree085_002	"
   translated: ""
@@ -7660,8 +7660,8 @@
   splits:
   - split: 1
     text: "碧蛇刀"
-    translated: "Bai She Dao"
-    flaggedForRetranslation: true
+    translated: "Green Snake Sword"
+    flaggedForRetranslation: false
   - split: 2
     text: ""
     translated: ""
@@ -7724,8 +7724,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "若装备凄花，施展灵蛇刀所造成的伤害增加"
-    translated: "If equipped with the Qixi, the damage inflicted by the Ling She Dao increases"
-    flaggedForRetranslation: true
+    translated: "If equipped with Qi Hua, the damage caused by the creation of Ling She Dao (Spirit Serpent Blade) is increased"
+    flaggedForRetranslation: false
 - lineNum: 644
   raw: "SkillTree089_006	银月鸩羽	若装备鸩翎，施展碧蛇刀所造成的伤害增加	2000	SkillTree089	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree089_006	FALSE	0	None	0	0	SkillTree089_000"
   translated: ""
@@ -7736,8 +7736,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "若装备鸩翎，施展碧蛇刀所造成的伤害增加"
-    translated: "If equipped with the Zhen Ling, the damage inflicted by using the Bi She Dao increases"
-    flaggedForRetranslation: true
+    translated: "If equipped with the Zhen Ling, the damage caused by the use of Bi She Dao increases"
+    flaggedForRetranslation: false
 - lineNum: 645
   raw: "SkillTree089_007	刀法修为		2000	skillIcon005_5	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -9296,8 +9296,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "以玉女投梭、绕指柔剑反击时，伤害增加25%"
-    translated: "When Jade Maiden Weaving Shuttle, counterattack with Soft Sword as she weaves, damage increases by 25%"
-    flaggedForRetranslation: true
+    translated: "Using Jade Maiden Throwing Shuttle followed by countering with Gentle Sword Flicker of the Finger, damage increases by 25%"
+    flaggedForRetranslation: false
 - lineNum: 775
   raw: "SkillTree103_009	三环套月	玉女投梭、绕指柔剑附加晕眩效果	6000	SkillTree103_2	[]	Passive		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0	buffSkillTree103_009	FALSE	0	None	0	0	SkillTree103_000,SkillTree103_002"
   translated: ""
@@ -9416,8 +9416,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "移动后施展一剑凌尘，威力更强"
-    translated: "After moving, he unleashed Sword Slash to Dust, with increased power"
-    flaggedForRetranslation: true
+    translated: "After moving, he performed the Jiandeng Lengchen technique, with even greater power"
+    flaggedForRetranslation: false
 - lineNum: 785
   raw: "SkillTree104_008	飘凌虚	袭击敌人背面时，造成的伤害额外增加	3500	SkillTree104	[{\"Type\":2,\"Value1\":\"0\",\"Value2\":\"4_TalentNode000\"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree104_008	FALSE	0	None	0	0	SkillTree104_000"
   translated: ""
@@ -15569,7 +15569,7 @@
   - split: 1
     text: "离合参商"
     translated: "Li He Canshang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 2
     text: "运行离合参商时，反击伤害增强"
     translated: "When running the coupling of disengagement, counterattack damage is enhanced"

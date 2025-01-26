@@ -4,15 +4,15 @@ Url: "http://localhost:11434/api/chat"
 Model: "vanilj/phi-4-unsloth"
 ModelParams:
   temperature: 0.2
-  max_tokens: 1500
+  max_tokens: 4096
   top_p: 0.9
   top_k: 40
   min_p: 0.5
-  frequency_penalty: 0.2
-  presence_penalty: 0.1
-RetryCount: 30
-BatchSize: 50
+  frequency_penalty: 0
+  presence_penalty: 0
+RetryCount: 10
+BatchSize: 60000
 OptimizationMode: false
 SkipLineValidation: false
 CorrectionPromptsEnabled: false
-TranslateFlagged: false
+TranslateFlagged: true

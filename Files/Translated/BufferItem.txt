@@ -3116,8 +3116,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "野球拳大成，将无敌于天下"
-    translated: "With the mastery of baseball fist, he will be invincible in the world"
-    flaggedForRetranslation: true
+    translated: "Master the art of Baseball Fist, and become invincible across the land"
+    flaggedForRetranslation: false
 - lineNum: 260
   raw: "buffSkillTree001_004	风行草偃	大漠孤烟威力提升	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -5828,8 +5828,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "停杯问月今何在、狂夫窃笑有明珠，增强伤害"
-    translated: "Put down the cup and ask the moon where it is now, a madman laughs as he has a bright pearl. Enhance damage"
-    flaggedForRetranslation: true
+    translated: "Pause your cup to ask the moon where it is today; a madman secretly smiles with his bright pearl, enhancing damage"
+    flaggedForRetranslation: false
 - lineNum: 486
   raw: "buffSkillTree078_006	我笑众生	停杯问月今何在、狂夫窃笑有明珠，附加分筋效果	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -6356,8 +6356,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "若装备凄花，施展灵蛇刀所造成的伤害增加"
-    translated: "If equipped with Pei Hua, the damage caused by wielding Shen She Dao increases"
-    flaggedForRetranslation: true
+    translated: "If equipped with Qing Hua, the damage inflicted by the Ling She Dao increases"
+    flaggedForRetranslation: false
 - lineNum: 530
   raw: "buffSkillTree089_006	银月鸩羽	若装备鸩翎，施展碧蛇刀所造成的伤害增加	0		0	FALSE	0	FALSE	0	0		buffSkillTree089_006"
   translated: ""
@@ -7028,8 +7028,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "移动后施展一剑凌尘，威力更强"
-    translated: "After moving, he unleashed Swordsmanship: Cloud-Dispelling Blade, with even greater power"
-    flaggedForRetranslation: true
+    translated: "After moving, the wielder cast a single strike with Lingchen Swordplay, which was even more powerful"
+    flaggedForRetranslation: false
 - lineNum: 586
   raw: "buffSkillTree104_008	飘凌虚	袭击敌人背面时，造成的伤害额外增加	0		0	FALSE	0	FALSE	0	0		buffSkillTree104_008"
   translated: ""
@@ -9653,7 +9653,7 @@
   - split: 1
     text: "离合参商"
     translated: "Li He Canshang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 2
     text: "运行离合参商时，反击伤害增强"
     translated: "When engaging the disengagement counterattack technique, damage increase"
@@ -9665,7 +9665,7 @@
   - split: 1
     text: "离合参商"
     translated: "Li He Canshang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 2
     text: "运行离合参商时，反击伤害增强、发动反击时扣除敌人1点精力"
     translated: "When executing Runyu Displacement, counterattack damage is enhanced. When countering, 1 point of the opponent's vitality is deducted"
@@ -9677,7 +9677,7 @@
   - split: 1
     text: "离合参商"
     translated: "Li He Canshang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 2
     text: "运行离合参商时，反击伤害增强、发动反击时扣除敌人1点精力、发动借力打力时将自身所受的伤害悉数返还对方"
     translated: "When running Heliang Can Shang, damage from counterattacks is enhanced; when activating a counterattack, deduct 1 point of the opponent's energy. When activating Jieli Da Li, return all received damage to the opponent"
@@ -9704,8 +9704,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "若运行离合参商，发动借力打力时，将自身所受的伤害悉数返还对方"
-    translated: "If one operates the principles of li he can shang and activates the technique of borrowing force to strike, all damage received by oneself will be returned to the opponent"
-    flaggedForRetranslation: true
+    translated: "If you run the disengagement, coordination, and mutual assistance during a power transfer and use force against force, any damage taken will be fully returned to the opponent"
+    flaggedForRetranslation: false
 - lineNum: 809
   raw: "buffSkillTree174_000	摄心	有机率能控制敌人4个回合，内功差距越大，成功率越高。同一时间至多控制2人	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -9932,8 +9932,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "笑拈春华附加6点内伤值"
-    translated: "With a laugh, he plucked the spring blossoms and added 6 points of internal injury"
-    flaggedForRetranslation: true
+    translated: "Laughter plucks the spring blooms, adding 6 points of internal injury"
+    flaggedForRetranslation: false
 - lineNum: 828
   raw: "buffSkillTree178_005	蛛毒手	自身的毒术愈高，对敌人造成的中毒与晕眩值越高；角色越邪恶，威力越强。	0		0	FALSE	0	FALSE	0	0		buffSkillTree178_005"
   translated: ""
@@ -10772,8 +10772,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "面对凌中岳欲抢天书，短暂回复自身气血，并累进招式威力。"
-    translated: "Confronted with Ling Zhongyue's attempt to seize the Heavenly Scriptures, he briefly restored his own lifeforce and increased the power of his techniques"
-    flaggedForRetranslation: true
+    translated: "Confronting Ling Zhongyue's attempt to seize the Heavenly Scriptures, he briefly regained his lifeforce and subsequently enhanced the power of his techniques"
+    flaggedForRetranslation: false
 - lineNum: 898
   raw: "BattleSchedule002e	内伤沉重	气急攻心，内伤发作，招式伤害大幅降低。	0	battle_debuff	0	TRUE	0	FALSE	0	0	(SkillDamageFactor,-75)	beforeAttackProp"
   translated: ""
@@ -10856,8 +10856,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "因百里惮赫身陷危急，爆发自身战斗潜能，技能伤害提升并每回合累加连击率。"
-    translated: "Due to Bai Li Dan he being in a critical situation, he unleashes his hidden combat potential, increasing the damage of his skills and cumulatively enhancing his combo rate each turn"
-    flaggedForRetranslation: true
+    translated: "Due to Bai Li Danhe finding himself in dire peril, he unleashes his hidden combat potential, enhancing his skill damage and increasing his combo rate every turn"
+    flaggedForRetranslation: false
 - lineNum: 905
   raw: "BattleSchedule008b	风王之怒	因山魈鬼王身陷危急，爆发自身战斗潜能，技能伤害提升并每回合累加爆击率。	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008b"
   translated: ""
@@ -10868,8 +10868,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "因山魈鬼王身陷危急，爆发自身战斗潜能，技能伤害提升并每回合累加爆击率。"
-    translated: "Due to the Mountain Goblin King being in a critical situation, he unleashes his hidden combat potential, increasing skill damage and stacking the critical hit rate each turn"
-    flaggedForRetranslation: true
+    translated: "Because the Mountain Demon King was in a dire situation, he unleashed his latent combat potential. His skills' damage increased and added an escalating critical hit rate every turn"
+    flaggedForRetranslation: false
 - lineNum: 906
   raw: "BattleSchedule008c	鬼王之怒	因仇敌黄裳当前，爆发自身战斗潜能，技能伤害提升并每回合累加连击率。	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008c"
   translated: ""
@@ -10916,8 +10916,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "因黄裳身陷危机，激发自身潜能，每回合额外累加自身连击率与反击率。"
-    translated: "Due to Huang Shang being in a crisis, he taps into his latent abilities and additionally increases his combo rate and counterattack rate each turn"
-    flaggedForRetranslation: true
+    translated: "Due to Huang Shang being in a crisis, he taps into his hidden potential, gaining an additional cumulative increase to both his combo rate and counterattack rate each round"
+    flaggedForRetranslation: false
 - lineNum: 910
   raw: "BattleSchedule011	飞虹剑阵	依发动阵法人数提升战斗能力。	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule011"
   translated: ""
@@ -11333,11 +11333,11 @@
   - split: 1
     text: "杨天义血量判断何白芍爆走隐藏BUFF"
     translated: "Yang Tianyi's blood volume judgment reveals He Boshuo's hidden buff"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 2
     text: "判断血量后对何白芍附加buff"
     translated: "Assess blood volume before applying buff to He Baisuo"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 945
   raw: "BattleSchedule046	强身蛊	以蛊术逼迫体内潜能，回复自身气血值50%，伤害增加30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule046"
   translated: ""
@@ -11417,7 +11417,7 @@
   - split: 1
     text: "禾郁青血量判断BUFF"
     translated: "He Yuqing assesses the blood quantity for the BUFF"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 2
     text: "隐藏buff，50%血血量判断、出对话"
     translated: "Hidden buff, judge half blood volume and trigger dialogue"
@@ -11429,7 +11429,7 @@
   - split: 1
     text: "禾泓渊血量判断BUFF"
     translated: "He Hongyuan's blood quantity judgment BUFF"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 2
     text: "隐藏buff，50%血血量判断、出对话"
     translated: "Hidden buff, triggers dialogue when health drops to 50%"
@@ -11488,8 +11488,8 @@
   splits:
   - split: 1
     text: "蛇蝎美人"
-    translated: "She Xia Mei Ren"
-    flaggedForRetranslation: true
+    translated: "Snake and Scorpion Beauty"
+    flaggedForRetranslation: false
   - split: 2
     text: "缓慢中毒，每回合累积中毒值10点"
     translated: "Slowly poisoned, accumulating 10 points of poison each round"
@@ -11717,7 +11717,7 @@
   - split: 1
     text: "何白芍血量判断隐藏BUFF"
     translated: "He Baishe's blood quantity judgment hidden BUFF"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
   - split: 2
     text: "隐藏BUFF"
     translated: "Hidden Buff"
@@ -12284,8 +12284,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "图勒为不负使命，誓死抵抗"
-    translated: "For the sake of not betraying his mission, he swore to resist to the death"
-    flaggedForRetranslation: true
+    translated: "Tu Le vowed to not fail in thier mission and swore to resist to the death"
+    flaggedForRetranslation: false
 - lineNum: 1024
   raw: "BattleSchedule515	奋英雄怒	图勒浴血顽抗，誓要屠尽贼人！	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule515"
   translated: ""
@@ -12320,8 +12320,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "木奎的战斗能力大幅提升，并持续恢复自身气血！"
-    translated: "Mo Kui's battle capabilities have significantly improved, and he continues to recover his lifeforce!"
-    flaggedForRetranslation: true
+    translated: "Mu Qiu's combat abilities have greatly improved, and he continuously restores his own lifeforce!"
+    flaggedForRetranslation: false
 - lineNum: 1027
   raw: "BattleSchedule518	「干戈」	木奎身陷危境，孤枪奋战！战斗能力大幅提升，并持续恢复自身气血！	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518"
   translated: ""
@@ -12332,8 +12332,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "木奎身陷危境，孤枪奋战！战斗能力大幅提升，并持续恢复自身气血！"
-    translated: "Mo Kui is in a perilous situation, fighting alone with great strength! His combat ability has significantly increased and he continues to recover his lifeforce!"
-    flaggedForRetranslation: true
+    translated: "Mu Kui is in a perilous situation, fighting alone with determination! His combat abilities have greatly increased, and he continuously restores his lifeforce!"
+    flaggedForRetranslation: false
 - lineNum: 1028
   raw: "BattleSchedule519	众志成城	跟上二爷的脚步！招式伤害大幅提升，并持续恢复自身气血！	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule519"
   translated: ""
@@ -12621,7 +12621,7 @@
   - split: 2
     text: "若待在何紫菀周围2单位距离内，每回合中毒8点"
     translated: "If you are within a 2-unit distance from He Ziwang, you will be poisoned for 8 points each turn"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1052
   raw: "nick008buffPlus	比翼鸩羽	若待在何紫菀周围4单位距离内，敌人每回合中毒8点、队友解毒5点	0	nickname	0	TRUE	0	FALSE	0	0		nick008buffPlus"
   translated: ""
@@ -12633,7 +12633,7 @@
   - split: 2
     text: "若待在何紫菀周围4单位距离内，敌人每回合中毒8点、队友解毒5点"
     translated: "If you stay within 4 units of distance from He Ziwang, enemies will be poisoned for 8 points per turn, and allies will detoxify by 5 points"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1053
   raw: "nick009	雪山神鹰	自身弓箭伤害增加25%，且所有友方获得状态「飞鹰猎手」	0	nickname	0	TRUE	0	FALSE	0	0		nick009"
   translated: ""
@@ -13028,7 +13028,7 @@
     flaggedForRetranslation: false
   - split: 2
     text: "因凌中岳在场，每回合自身反击值+15"
-    translated: "Due to Ling Zhongyue being present, the counterattack value of oneself is increased by 15 each round"
+    translated: "Due to Ling Zhongyue being present, self-defense value +15 each round"
     flaggedForRetranslation: false
 - lineNum: 1086
   raw: "nick021	百损道姑	若施展带有冰封效果的武功，招式威力更强	0	nickname	0	TRUE	0	FALSE	0	0		nick021"
@@ -13364,8 +13364,8 @@
     flaggedForRetranslation: false
   - split: 2
     text: "战斗时参战的女性队友伤害提升30%；但自身在战斗时容易遭到敌方锁定。"
-    translated: "During combat, the participating female teammate's damage is increased by 30%; however, she is more likely to be targeted by enemies"
-    flaggedForRetranslation: true
+    translated: "During battle, allied female teammates' damage is increased by 30%; however, the user becomes easier for enemies to lock onto"
+    flaggedForRetranslation: false
 - lineNum: 1114
   raw: "nick042buff	再世狂侠	每次从目标正面进行攻击时，有25%机率使目标累积10点错骨；每次从目标侧面、背面进行攻击时，自身有25%机率累积迷惑10点	0	nickname	0	TRUE	0	FALSE	0	0		nick042"
   translated: ""
@@ -13497,7 +13497,7 @@
   - split: 2
     text: "何白芍周围2单位距离内敌军，每回合累积中毒值12点、迷惑值6点"
     translated: "Enemies within a 2-unit distance of He Baisha each round accumulate 12 points of poison and 6 points of confusion"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
 - lineNum: 1125
   raw: "nick103	「铁豹银枪」	战斗时，黑豹加入战局；每回合提升自身招式伤害5%，至多50%	0	nickname	0	TRUE	0	FALSE	0	0		nick103"
   translated: ""
