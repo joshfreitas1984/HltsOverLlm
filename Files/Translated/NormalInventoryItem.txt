@@ -7,7 +7,7 @@
     translated: "Minor Elixir of Immortality"
   - split: 3
     text: "以赤勺为主药，具活血生肌之效，有助于回复气血，但同时也具备些微毒性，不适合大量服用。"
-    translated: "Using cinnabar as the main ingredient, it has a hemostatic and tissue-regenerating effect that helps restore qi and blood. However, it also possesses slight toxicity and is not suitable for large doses"
+    translated: "Using red vinegar as the main ingredient, it has effects of invigorating blood and promoting tissue regeneration, helping to restore vital energy and blood, but also possesses slight toxicity and is not suitable for excessive consumption"
 - lineNum: 1
   raw: "it40102	承气饮	it40102	以蔘类为主药，养生温补的药汤。对恢复真气内力有良效。	401	250	125	TRUE	0	3	0	0	0		3		(MP,500)(HP,500)	{ \"MultiAction\" : [ { \"MultiLogicaAction\" : [ { \"CheckSkillLearnedAction\" : \"\", \"SkillTree142_008\", True} , { \"SetNpcPropertyAction\" : 52, 200, 0, \"\"}  ]} , { \"MultiLogicaAction\" : [ { \"CheckSkillLearnedAction\" : \"\", \"SkillTree142_008\", True} , { \"SetNpcPropertyAction\" : 50, 150, 0, \"\"}  ]}  ]}"
   translated: ""
@@ -77,7 +77,7 @@
     translated: "Jiuzhuan Tongyun Dan"
   - split: 3
     text: "药材每经一次提炼，称为「转」，九转指其工序繁复。又因丹丸有红丝如云，得名彤云丹。主要取用赤芍、鹿茸，对补养气血有奇效，但具毒性，服用时需特别谨慎。"
-    translated: "Herbal medicine, after each refinement process, is termed a transmutation, and nine transmutations indicate a complex procedure. It's also called Tungyun Pill because it has red filaments like clouds. The main ingredients are Chinese peony root and deer antler, which have remarkable effects in nourishing Qi and blood, but it contains toxicity, so caution must be exercised when consuming it"
+    translated: "The refining process of medicinal herbs is called a turn, and nine turns indicate a complex procedure. It's named Red Cloud Pill because the pills have red threads like clouds. The main ingredients are Red Peony and Deer Antler, which are remarkably effective in nourishing qi and blood but are toxic. Therefore, caution must be exercised when consuming them"
 - lineNum: 8
   raw: "it40109	玉龙养气丸	it40109	以雪蔘、蛇胆炼制。雪蔘又称玉蔘，蛇即小龙，故雅称玉龙养气丸。此乃补气良药，对恢复真气内力有奇效。也是富户常用的养生药。	401	1200	600	TRUE	1	26	0	0	0		3		(MP,2000)(HP,1000)	{ \"MultiAction\" : [ { \"MultiLogicaAction\" : [ { \"CheckSkillLearnedAction\" : \"\", \"SkillTree142_008\", True} , { \"SetNpcPropertyAction\" : 52, 400, 0, \"\"}  ]} , { \"MultiLogicaAction\" : [ { \"CheckSkillLearnedAction\" : \"\", \"SkillTree142_008\", True} , { \"SetNpcPropertyAction\" : 50, 300, 0, \"\"}  ]}  ]}"
   translated: ""
@@ -197,7 +197,7 @@
     translated: "Red Peony Root"
   - split: 3
     text: "芍药的一种，始载于《本经》中品。性微寒；味苦；归肝经。药效主回气血，具备些微毒性，不适合大量服用。"
-    translated: "A type of peony first recorded in the Materia Medica. It has a slightly cold property, bitter taste, and belongs to the liver meridian. Its effects include promoting circulation of qi and blood but it contains slight toxicity and is not suitable for consumption in large quantities"
+    translated: "Peony, a type of peony first recorded in the Ben Jing chapter. It has a slightly cold nature and bitter taste; it enters the liver meridian. Its effects mainly invigorate the blood and have slight toxicity, so it is not suitable for consumption in large quantities"
 - lineNum: 20
   raw: "it40204	玉蔘	it40204	人参的一种，又名雪蔘，多产于高山石坡、林下。性甘温；味甜、微苦；归脾、肾经。药效主补气，温养内力。燥热者忌用。	402	50	25	TRUE	0	1	0	0	0		3		(MP,300)	{ \"MultiAction\" : [ { \"MultiLogicaAction\" : [ { \"CheckSkillLearnedAction\" : \"\", \"SkillTree142_008\"} , { \"SetNpcPropertyAction\" : 52, 50, 0, \"\"}  ]}  ]}"
   translated: ""
@@ -277,7 +277,7 @@
     translated: "Thousand-Year Lingzhi"
   - split: 3
     text: "性平；味苦涩；归心、肝、脾、肺、肾五经。灵芝长成后会因木质化渐失药效。千年灵芝可谓凤毛麟角，服食可增益气血。"
-    translated: "Balanced; bitter and astringent taste; beneficial for the heart, liver, spleen, lungs, and kidneys. As Lingzhi matures and becomes woody, its medicinal properties decrease. Thousand-year Lingzhi is exceedingly rare, and consuming it can enhance Qi and blood"
+    translated: "Non-toxic; bitter and astringent taste; beneficial for the heart, liver, spleen, lungs, and kidneys. As Lingzhi matures and becomes woody, its medicinal efficacy decreases. A thousand-year-old Lingzhi is exceedingly rare, and consuming it can enhance qi and blood"
 - lineNum: 28
   raw: "it40212	深山老蔘	temp	性甘温；味甜、微苦；归脾、肾经。成型的老蔘药力浑厚，可增进内力。	402	10000	5000	TRUE	3	100	0	0	0		0			0"
   translated: ""
@@ -317,7 +317,7 @@
     translated: "Thousand-year Fu Ling"
   - split: 3
     text: "茯苓乃是指寄生于松树根部的菌类，成薯状。要找到千年茯苓，必先寻得千年老松。食之可增气血。"
-    translated: "Truffles refer to a type of fungus that grows in clumps on the roots of pine trees. To find millennium truffles, one must first locate a thousand-year-old pine tree. Consuming them is said to boost qi and blood"
+    translated: "Fuling refers to a type of mushroom that parasitizes the roots of pine trees and grows in tuberous shapes. To find thousand-yearfuling, one must first locate a thousand-year-old pine tree. Consuming it can increase qi and blood"
 - lineNum: 32
   raw: "it40216	寒玉冰蟾	it40216	蟾科多有毒，而玉蟾虽具毒性，但亦有药效。生长在天寒地冻处的玉蟾，其毒性尽退，大益于内力修为。	402	10000	5000	TRUE	3	99	0	0	0		1		(MaxMP,150)	0"
   translated: ""
@@ -407,7 +407,7 @@
     translated: "Tiger bone"
   - split: 3
     text: "性温；味甘、辛，归肝、肾经。可制成丹药或禁酒，药效主补养气血。"
-    translated: "Temperature is warm; taste is sweet and pungent, belonging to the liver and kidney meridians. It can be used to make elixirs or as a liquor substitute, primarily for nourishing qi and blood"
+    translated: "Characteristics: Warm; tastes sweet and pungent, entering the liver and kidney meridians. Can be made into pills or used to abstain from alcohol; primarily nourishes qi and blood"
 - lineNum: 41
   raw: "it40229	狼膏	it40229	以狼脂肪提炼而成的油膏状物，其味腥膻，闻之可解毒。	402	350	175	TRUE	1	10	0	0	0		1		(Confused,-12)(Dazed,-12)	{ \"MultiAction\" : [ { \"MultiLogicaAction\" : [ { \"CheckSkillLearnedAction\" : \"\", \"SkillTree142_008\", True} , { \"SetNpcPropertyAction\" : 404, 6, 0, \"\"}  ]} , { \"MultiLogicaAction\" : [ { \"CheckSkillLearnedAction\" : \"\", \"SkillTree142_008\", True} , { \"SetNpcPropertyAction\" : 405, 6, 0, \"\"}  ]}  ]}"
   translated: ""
@@ -477,7 +477,7 @@
     translated: "Uzhi Immortal Dew"
   - split: 3
     text: "由产于苗疆丛林中的一种奇树所流出来的树脂，加入各种珍奇药草，经过九蒸九晒，九九八十一天炮制而成，服食后可大幅增加气血。"
-    translated: "A resin produced by a rare tree in the Miaojiang jungle, combined with various exotic herbs and processed through nine rounds of steaming, drying, over a period of eighty-one days, significantly enhances qi and blood when consumed"
+    translated: "Tree resin from a rare tree in the Miaojiang jungle, combined with various exotic medicinal herbs and processed through nine steams and nine sun-dryings over eighty-one days, significantly increases lifeforce when consumed"
 - lineNum: 48
   raw: "it40237	槟榔王	it40234	这颗槟榔看上去和一般的槟榔无异，但直觉告诉你，它似乎有什么地方很不一样。若轻易尝试，可能带来极其严重的后果……	402	2	1	TRUE	1	70	0	0	0		1			{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1000002003\"} ]}"
   translated: ""

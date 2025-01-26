@@ -401,7 +401,7 @@
     translated: "Mountain Goblin Demon King"
   - split: 2
     text: "背袭时威力增强30%，攻击时15%伤害转换为自身气血"
-    translated: "When used offensively, power increases by 30%, and 15% of the damage dealt is converted into your own Qi"
+    translated: "When backing, the power increases by 30%, and when attacking, 15% of the damage is converted into the user's lifeforce"
 - lineNum: 41
   raw: "nick020	儒心剑胆	自身每回合反击值+25，所有友方获得状态「儒剑之阵」		n70044	nick020"
   translated: ""
@@ -891,7 +891,7 @@
     translated: "Successor to the Headman"
   - split: 2
     text: "每回合开始时回复周围2单位距离内友军15%气血值，连击率提升15%"
-    translated: "At the start of each turn, restore 15% of Life to allies within a 2-unit range; increase critical hit rate by 15%"
+    translated: "At the start of each turn, restore 15% Lifeforce to allies within a 2-unit radius and increase hit combo rate by 15%"
 - lineNum: 90
   raw: "nick107	木府军阀	发动爆击时，自身爆击率提升20%，并对自身与范围2格内友方附加「战意高昂」		n50065,n50065b	nick107"
   translated: ""
@@ -971,7 +971,7 @@
     translated: "Western Kitchen"
   - split: 2
     text: "攻击时50%伤害转换为自身气血"
-    translated: "During an attack, convert 50% of the damage dealt into self Qi"
+    translated: "During attack, 50% of the damage is converted into self-life force"
 - lineNum: 98
   raw: "nick118	北丑	触发连击时攻击力增加100%，持续一回合		n07007	nick118"
   translated: ""
@@ -1111,7 +1111,7 @@
     translated: "Extremely hungry"
   - split: 2
     text: "攻击后，25%机率消耗1个背包里的肉包，并对自身附加「饱食」，每回合额外恢复气血15%、精力值1点"
-    translated: "After the attack, there is a 25% chance to consume one meat bun from the inventory and apply Full Stomach to oneself, restoring an additional 15% of life force and 1 energy point per turn"
+    translated: "After attacking, there is a 25% chance to consume 1 meat bun from the backpack, and apply Satiated to self, restoring an additional 15% of Lifeforce and 1 point of Energy each turn"
 - lineNum: 112
   raw: "nick131	输光屁股	每次攻击有50%机率对目标造成250%伤害，50%机率造成25%伤害		n20191	nick131"
   translated: ""
@@ -1141,7 +1141,7 @@
     translated: "Large Cauldron"
   - split: 2
     text: "自身气血愈少，爆击时伤害愈高(每少10%气血，爆击时额外伤害增加10%)"
-    translated: "As one's own Qi and blood diminish, the damage dealt during an explosion increases (for every 10% decrease in Qi and blood, the additional damage from an explosion increases by 10%)"
+    translated: "The less your lifeforce, the higher the damage dealt during a critical strike (for every 10% reduction in lifeforce, critical strike damage increases by an additional 10%)"
 - lineNum: 115
   raw: "nick134	叶家少主	若攻击目标为男性，造成的伤害增加50%，若攻击目标为女性，造成的伤害减少50%		n20137	nick134"
   translated: ""
@@ -1181,7 +1181,7 @@
     translated: "Chongwei Yilie"
   - split: 2
     text: "每回合自身周围距离2单位内友方，回复气血10%、提升反击率10%"
-    translated: "At the start of each round, heal self and allies within 2 units radius by 10% HP, and increase counter-attack rate by 10%"
+    translated: "Each round, restore 10% of health and increase counterattack rate by 10% for allies within a distance of 2 units"
 - lineNum: 119
   raw: "nick138	铁面劲装	发动爆击时，额外回复自身精力3点		n20037	nick138"
   translated: ""
@@ -1331,7 +1331,7 @@
     translated: "Wugenguo Shishi"
   - split: 2
     text: "每击杀一名敌方，回复自身气血30%，回复自身精力3点"
-    translated: "For each enemy killed, restore 30% of your own Qi and recover 3 points of your energy"
+    translated: "For every enemy defeated, restore 30% of your own lifeforce and recover 3 points of energy"
 - lineNum: 134
   raw: "nick153	大燕皇室	若发动反击、守株待兔、黄雀在后，额外减少目标2点精力		n20513	nick153"
   translated: ""
@@ -1351,7 +1351,7 @@
     translated: "Nine-Pouch Elder"
   - split: 2
     text: "当自身气血少于60%，攻击力增加50%；当自气血少于30%，攻击力增加100%"
-    translated: "When one's own Qi and blood are less than 60%, attack power increases by 50%; when one's own Qi and blood are less than 30%, attack power increases by 100%"
+    translated: "When one's lifeforce is less than 60%, attack power increases by 50%; when one's lifeforce is less than 30%, attack power increases by 100%"
 - lineNum: 136
   raw: "nick155	淘石副帮主	发动卸劲后，增加自身招式伤害5%，最高30%		n60001	nick155"
   translated: ""
@@ -1411,7 +1411,7 @@
     translated: "Jing Da Shan Ren"
   - split: 2
     text: "当自身气血在50%以下时，每回合提升自身卸劲率与反击率15%"
-    translated: "When one's own vitality and blood are below 50%, increase the off-stance rate and counterattack rate by 15% each turn"
+    translated: "When the player's lifeforce is below 50%, increase self-dodge and counterattack rates by 15% each round"
 - lineNum: 142
   raw: "nick500	敲个没完	铁匠铺的商品与服务八折优待！		Player	"
   translated: ""
@@ -1771,7 +1771,7 @@
     translated: "Lord of the Marsh"
   - split: 2
     text: "嗜血巨鳄红斑会将造成的伤害30%转为自己的气血。"
-    translated: "Voracious Blood Crocodile Crimson Stain Guild converts 30% of the inflicted damage into its own Qi"
+    translated: "Bloodthirsty Crocodile Red Spots Guild converts 30% of the damage it causes into its own lifeforce"
 - lineNum: 178
   raw: "nick536	「劈山击」	黑熊王铁斧会在战斗中吸引敌人的注意，并有机会将敌人打晕。		n59004,n59004_a01,n59004_a02,n59004_a03,n59004_a04,n59004_a05	nick536"
   translated: ""
@@ -1801,7 +1801,7 @@
     translated: "Lin Zhi Wang"
   - split: 2
     text: "虎王黑骨会对敌人造成严重的外伤并将造成的伤害30%转为自己的气血。"
-    translated: "Hu Wang Black Bone Sect inflicts severe external injuries on enemies and converts 30% of the inflicted damage into its own Qi"
+    translated: "Venture King Bone Club inflicts serious external injuries on the enemy and converts 30% of the inflicted damage into their own lifeforce"
 - lineNum: 181
   raw: "nick539	「山之主」	虎王南霸天会对敌人造成严重的外伤并将造成的伤害30%转为自己的气血。		n59005,n59005_a01,n59005_a02,n59005_a03,n59005_a04,n59005_a05	nick539"
   translated: ""
@@ -1811,7 +1811,7 @@
     translated: "Lord of the Mountain"
   - split: 2
     text: "虎王南霸天会对敌人造成严重的外伤并将造成的伤害30%转为自己的气血。"
-    translated: "Huwang Nanbaotian's move inflicts serious external injuries on the opponent and converts 30% of the inflicted damage into its own Qi"
+    translated: "Hu Wang Nan Batei Style can inflict severe external injuries on enemies and convert 30% of the inflicted damage into its own lifeforce"
 - lineNum: 182
   raw: "nick540	「喧嚣不已」	啼不住的每三次攻击必定发动虚招，且有一定的机率闪躲过敌人的攻击。		n59006,n59006_a01,n59006_a02,n59006_a03,n59006_a04,n59006_a05	nick540"
   translated: ""
@@ -1841,7 +1841,7 @@
     translated: "Chexi"
   - split: 2
     text: "雪影能对敌人制造带着外伤效果的高伤害，并将一定的伤害转化成自己的气血。"
-    translated: "Snow Shadow can inflict high damage with an external injury effect on enemies, and convert a certain amount of that damage into its own Qi"
+    translated: "Snow Shadow can inflict high damage with an external injury effect on enemies and convert a portion of that damage into its own lifeforce"
 - lineNum: 185
   raw: "nick543	「毒之王」	巨木的每次攻击都带着剧毒，同时牠也能在战斗中闪避敌人的攻击。		n59008,n59008_001,n59008_002,n59008_003,n59008_004,n59008_005	nick543"
   translated: ""

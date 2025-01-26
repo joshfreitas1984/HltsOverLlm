@@ -611,7 +611,7 @@
     translated: "Physique"
   - split: 4
     text: "隐藏数值，影响角色每次升级时提升的气血数值。"
-    translated: "Hidden value affecting the increase in Qi and health points each time a character levels up"
+    translated: "The hidden value affects the increase in lifeforce each time a character levels up"
 - lineNum: 62
   raw: "h20106	201		正邪值	决定玩家在这个世界立场与能否触发某些特殊条件事件的重要数值，玩家在这个世界进行各种行为都有可能会影响其发展。"
   translated: ""
@@ -761,7 +761,7 @@
     translated: "External injury"
   - split: 4
     text: "每回合损失气血，数值越高效果也越显著。"
-    translated: "Each turn loses Qi, the higher the value, the more significant the effect"
+    translated: "Each round loses lifeforce, and the higher the value, the more significant the effect"
 - lineNum: 77
   raw: "h20302	203	Battle2/Img_buffer_Injured.png	内伤	每次施展招式时都会损失气血，数值越高效果也越显著。"
   translated: ""
@@ -771,7 +771,7 @@
     translated: "Internal Injury"
   - split: 4
     text: "每次施展招式时都会损失气血，数值越高效果也越显著。"
-    translated: "Each time a technique is used, Qi and blood are lost, with higher values resulting in more pronounced effects"
+    translated: "Each time a technique is used, it results in the loss of lifeforce; the higher the value, the more pronounced the effect"
 - lineNum: 78
   raw: "h20303	203	Battle2/Img_buffer_Poisoned.png	中毒	每回合损失内力，同时会降低角色的攻击力与减伤效果，超过50点时会降低每回合能回复的精力。"
   translated: ""
@@ -1571,7 +1571,7 @@
     translated: "Internal Injury"
   - split: 4
     text: "每次施展招式时都会损失气血，数值越高效果也越显著。"
-    translated: "Each time a technique is used, Qi and blood are lost, and the higher the values, the more pronounced the effect"
+    translated: "Every time a technique is used, it consumes lifeforce. The higher the value, the more pronounced the effect"
 - lineNum: 158
   raw: "h60303	603	Battle2/Img_buffer_Wounded.png	外伤	每回合损失气血，数值越高效果也越显著。"
   translated: ""
@@ -1581,7 +1581,7 @@
     translated: "External injury"
   - split: 4
     text: "每回合损失气血，数值越高效果也越显著。"
-    translated: "Each round loses qi, and the higher the value, the more pronounced the effect"
+    translated: "Each round loses lifeforce, with higher values having more significant effects"
 - lineNum: 159
   raw: "h60304	603	Battle2/Img_buffer_Poisoned.png	中毒	每回合损失内力，同时会降低角色的攻击力与减伤效果，超过50点时会降低每回合能回复的精力。"
   translated: ""

@@ -1637,7 +1637,7 @@
     translated: "Cuiluan Gong"
   - split: 2
     text: "运行翠峦功时，每回合回复3%气血"
-    translated: "When running the Ruiluan Gong, recover 3% of health each turn"
+    translated: "When performing the Cuiluan Gong Technique, recover 3% life force each round"
 - lineNum: 164
   raw: "SkillTree019_001	内功修为		6000	skillIcon022_5	null	PropertyAdd	(Neigong,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -1677,7 +1677,7 @@
     translated: "Layer upon layer of hills and mountains"
   - split: 2
     text: "运行翠峦功时，每回合回复6%气血"
-    translated: "When running the Runyu Ciluan Skill, restore 6% of your Qi per turn"
+    translated: "When practicing CuiLuan Gong, recover 6% lifeforce each round"
 - lineNum: 168
   raw: "SkillTree019_005	内功修为		6000	skillIcon022_5	null	PropertyAdd	(Neigong,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -1717,7 +1717,7 @@
     translated: "Qing Xia Jue"
   - split: 2
     text: "运行翠峦功时，每回合回复12%气血、12%内力"
-    translated: "When activating Runyu CuiLuan skill, restore 12% of health and 12% of inner strength per turn"
+    translated: "When executing the CuiLuan Gong Technique, you restore 12% of your Lifeforce and 12% of your Internal Power each round"
 - lineNum: 172
   raw: "SkillTree020_000	金骊接仙		1	skillIcon006_3	null	Operative		0		0	0	Ally			Target	0		FALSE	0	Other	0	0	"
   translated: ""
@@ -2867,7 +2867,7 @@
     translated: "Qilian Shan Jue"
   - split: 2
     text: "运行祁连山诀时，战斗中的气血最大值提升1000点"
-    translated: "When executing the Qi Lian Mountain Technique, the maximum Qi and blood values in battle increase by 1,000 points"
+    translated: "When running the Qilian Mountain Skill during battle, maximum Lifeforce is increased by 1000 points"
 - lineNum: 287
   raw: "SkillTree039_001	纯阳内功	内功+3	6000	skillIcon007_5	[]	PropertyAdd	(Neigong,3)(YinAndYang,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -2917,7 +2917,7 @@
     translated: "Standing a thousand feet high"
   - split: 2
     text: "运行祁连山诀时，战斗中的气血最大值提升2000点"
-    translated: "When running the Qilian Mountain Skill during battle, maximum Qi and blood value is increased by 2,000 points"
+    translated: "When using the Qilian Mountain Skill, it increases the maximum Qi and Lifeforce by 2000 points during battle"
 - lineNum: 292
   raw: "SkillTree040_000	武松打虎拳		150	SkillTree040_000	[{\"Type\":1,\"Value1\":\"301\",\"Value2\":\"15\"}]	Active		0	skill_wp0a018	3	60	Enemy	single : { 0, 0, 0 }, 0, 1.5		Enemys	500		TRUE	180	Fight	0	0	"
   translated: ""
@@ -11367,7 +11367,7 @@
     translated: "Priceless"
   - split: 2
     text: "帮一名队友恢复200点气血；自身医术愈高，恢复量愈高"
-    translated: "Help a teammate restore 200 points of vitality; the higher one's medical skill, the greater the recovery amount"
+    translated: "Heal an ally for 200 points of lifeforce; the higher your medical skills, the greater the recovery amount"
 - lineNum: 1137
   raw: "SkillTree150_005	医术修为	医术修为	4000	skillIcon001_1	[]	PropertyAdd	(Doctor,4)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -11467,7 +11467,7 @@
     translated: "Return Qi to Open Meridians"
   - split: 2
     text: "帮周遭队友恢复350点气血；自身医术愈高，恢复量愈高"
-    translated: "Heal allies within range for 350 HP; the higher your medical skills, the more you heal"
+    translated: "Aid teammates within the vicinity to recover 350 points of lifeforce; the higher one's medical skills, the greater the recovery amount"
 - lineNum: 1147
   raw: "SkillTree151_005	医术修为	医术+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -11787,7 +11787,7 @@
     translated: "Red Blood Demon Qi Technique"
   - split: 2
     text: "伤害值的15%转为自身气血"
-    translated: "15% of the damage dealt is converted into the character's own Qi"
+    translated: "Convert 15% of the damage value into your Lifeforce"
 - lineNum: 1179
   raw: "SkillTree155_001	玄阴内功		10000	skillIcon001_1	[]	PropertyAdd	(Neigong,5)(YinAndYang,-10)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -12187,7 +12187,7 @@
     translated: "Taiqing Rong Qi"
   - split: 2
     text: "每回合回复气血4%，回复内伤8%"
-    translated: "Each round recover 4% health and 8% internal injury"
+    translated: "Each round restores lifeforce by 4%, and heals internal injuries by 8%"
 - lineNum: 1219
   raw: "SkillTree160_001	纯阳内功		10000	skillIcon001_1	[]	PropertyAdd	(Neigong,5)(YinAndYang,5)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -12207,7 +12207,7 @@
     translated: "Heavenly Gongan Qi"
   - split: 2
     text: "每回合回复气血8%，回复内伤16%"
-    translated: "Each round restores 8% of HP and heals internal injuries by 16%"
+    translated: "Every round recover 8% of lifeforce, and recover internal injury by 16%"
 - lineNum: 1221
   raw: "SkillTree160_003	纯阳内功		10000	skillIcon001_1	[]	PropertyAdd	(Neigong,5)(YinAndYang,5)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -12247,7 +12247,7 @@
     translated: "Big Dipper and Northern Pole"
   - split: 2
     text: "每回合回复气血12%，回复内伤24%"
-    translated: "Each round recover 12% health and repair internal injuries by 24%"
+    translated: "Every round, restore lifeforce by 12%, and recover internal injuries by 24%"
 - lineNum: 1225
   raw: "SkillTree161_000	天地生息	帮一名队友恢复800点气血；自身医术愈高，恢复量愈高	5000	SkillTree161_000	[{\"Type\":1,\"Value1\":\"307\",\"Value2\":\"70\",\"Operator\":0}]	Active		0	skill_wp0a031	6	400	Ally	single : { 0, 0, 0 }, 0, 2.5	fm_heal	Enemys	7500	buffSkillTree161_000	FALSE	800	Other	0	0	"
   translated: ""
@@ -12257,7 +12257,7 @@
     translated: "The cycle of life and death"
   - split: 2
     text: "帮一名队友恢复800点气血；自身医术愈高，恢复量愈高"
-    translated: "Restore 800 points of Qi and blood for an ally; the higher your medical skill, the greater the recovery amount"
+    translated: "Heal an ally for 800 points of lifeforce; the higher your medical skill, the greater the recovery amount"
 - lineNum: 1226
   raw: "SkillTree161_001	医术修为		3000	skillIcon001_1	null	PropertyAdd	(Doctor,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -12367,7 +12367,7 @@
     translated: "Ganquan Di Mai"
   - split: 2
     text: "帮区域队友恢复700点气血，同时解除15点负面状态；自身医术愈高，气血恢复量愈高"
-    translated: "Restores 700 HP to allies in the designated area and removes 15 negative status effects; the higher your medical skills, the more HP restored"
+    translated: "The area healing effect restores 700 points of lifeforce to teammates and removes 15 negative status effects; the higher one's medical skills, the greater the lifeforce recovery"
 - lineNum: 1237
   raw: "SkillTree161_012	生生造化丹	学会生生造化丹的配方	12000	SkillTree150_000	null	Passive		0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -13117,7 +13117,7 @@
     translated: "Primordial Skill"
   - split: 2
     text: "每回合回复气血12%，回复内伤24%；可于战斗中复活一次，复活同时回复气血40%"
-    translated: "Each turn restores 12% of your health and heals internal injuries by 24%; you can be revived once during battle, restoring 40% of your health upon revival"
+    translated: "Each round restores 12% lifeforce, heals internal injuries by 24%; can be revived once during battle, with revival restoring 40% lifeforce"
 - lineNum: 1312
   raw: "SkillTree175_001	纯阳内功		14000	skillIcon001_1	[]	PropertyAdd	(Neigong,7)(YinAndYang,7)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -13147,7 +13147,7 @@
     translated: "Primordial Qi"
   - split: 2
     text: "每回合回复气血12%，回复内伤24%；可于战斗中复活一次，复活同时回复气血80%"
-    translated: "Each round restores 12% of health and heals internal injuries by 24%; can be revived once during combat, with revival restoring 80% of health"
+    translated: "Each turn restores 12% of your lifeforce, and heals internal injuries by 24%; you can revive once during battle, restoring 80% of your lifeforce upon revival"
 - lineNum: 1315
   raw: "SkillTree175_004	纯阳内功		14000	skillIcon001_1	[]	PropertyAdd	(Neigong,7)(YinAndYang,7)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""

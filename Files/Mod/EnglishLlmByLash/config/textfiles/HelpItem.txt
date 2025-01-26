@@ -59,7 +59,7 @@ h20101	201	TeamInventory/Img_bag_list06.png	Qi and Blood	The main value affectin
 h20102	201	TeamInventory/Img_bag_list07.png	Internal Power	The character's skills and techniques require a certain amount of energy to be executed. If their internal power is insufficient, they will not be able to unleash the full force of their skills
 h20103	201	Team/Img_bag_ApIcon.png	Energy	Influence the character's movement, behavior, and skill casting in combat. The higher a character's vitality, the more actions they can perform in battle
 h20104	201	TeamInventory/Img_bag_list01.png	Aptitude	Hidden values affect the amount of experience points a player can gain in each battle
-h20105	201	TeamInventory/Img_bag_list07.png	Physique	Hidden value affecting the increase in Qi and health points each time a character levels up
+h20105	201	TeamInventory/Img_bag_list07.png	Physique	The hidden value affects the increase in lifeforce each time a character levels up
 h20106	201		Balance between good and evil	Decisions and actions made by the player in this world can significantly influence their status and may trigger certain special conditions or events
 h20107	201		Reckless and Chivalrous	The decision on the player's standing in this world and their ability to trigger certain special events is determined by an important value. All actions taken by the player in this world can potentially influence its development
 h20108	201		Yin-yang value	The player's internal power attribute is an important value that affects the damage multiplier of techniques. Players can change their Yin and Yang values through training with internal power manuals. If the internal power is a Yang attribute, using Yang attributes in attacks will result in a damage multiplier effect; conversely, if using Yin attribute techniques, the damage effect will decrease
@@ -74,8 +74,8 @@ h20207	202	Team/Btn_team_add.png	Medical Skills	Medical Skills will affect the e
 h20208	202	Alchemy/Img_Poison_Tab.png	Poisonous Arts	Alchemy will affect the effects and bonuses when characters practice alchemy martial arts, as well as influence some in-game events and their outcomes
 h20209	202	SkillTree/Img_skill_Neigong.png	Neigong	Neigong is the foundation of a martial art's power and damage reduction capabilities; characters with higher neigong have a greater advantage in combat
 h20210	202	SkillTree/Img_skill_Qinggong.png	Qinggong	Qinggong affects the order of actions in combat, movement range, and enhances martial arts insights. It also makes navigation on the map faster and more interesting for players. At a certain level, qinggong can even be used to float over water
-h20301	203	Battle2/Img_buffer_Wounded.png	External injury	Each turn loses Qi, the higher the value, the more significant the effect
-h20302	203	Battle2/Img_buffer_Injured.png	Internal Injury	Each time a technique is used, Qi and blood are lost, with higher values resulting in more pronounced effects
+h20301	203	Battle2/Img_buffer_Wounded.png	External injury	Each round loses lifeforce, and the higher the value, the more significant the effect
+h20302	203	Battle2/Img_buffer_Injured.png	Internal Injury	Each time a technique is used, it results in the loss of lifeforce; the higher the value, the more pronounced the effect
 h20303	203	Battle2/Img_buffer_Poisoned.png	Poisoned	Each round results in a loss of internal power, simultaneously reducing the character's attack strength and damage reduction effect. Exceeding 50 points will reduce the amount of energy recovered each round
 h20401	204	Team/Btn_team_01.png	Main Hand/Off-hand Weapon	Players must wear weapons that correspond to the type of martial art they have studied in order to perform various powerful techniques while traversing the wulin
 h20402	204	Team/Btn_team_02.png	Armor	The character's battle equipment can reduce damage and provide special effects
@@ -155,8 +155,8 @@ h60204	602	Battle2/Img_unitcontrol_CA.png	Counterattack	Counterattack is activat
 h60205	602	Battle2/Img_unitcontrol_release.png	Release pressure	Unloading force is activated according to a probability when the unit takes damage, reducing the amount of damage received
 h60206	602	Battle2/Img_unitconrol_trick.png	Feigned move	When the feint is activated, it will randomly inflict a negative status on the targeted unit
 h60301	603		Debuff	Debuff status refers to negative effects applied during battle by an opponent or as a side effect of using certain items. Accumulating too high a debuff can reduce the player's abilities and may prevent movement, among other issues. The effects can be removed or mitigated by consuming the appropriate medicines or foods
-h60302	603	Battle2/Img_buffer_Injured.png	Internal Injury	Each time a technique is used, Qi and blood are lost, and the higher the values, the more pronounced the effect
-h60303	603	Battle2/Img_buffer_Wounded.png	External injury	Each round loses qi, and the higher the value, the more pronounced the effect
+h60302	603	Battle2/Img_buffer_Injured.png	Internal Injury	Every time a technique is used, it consumes lifeforce. The higher the value, the more pronounced the effect
+h60303	603	Battle2/Img_buffer_Wounded.png	External injury	Each round loses lifeforce, with higher values having more significant effects
 h60304	603	Battle2/Img_buffer_Poisoned.png	Poisoned	Each round loses Qi, and it will lower the character's attack power and damage reduction effect. When exceeding 50 points, it will also reduce the amount of energy that can be recovered each round
 h60305	603	Battle2/Img_buffer_Sealed.png	Seal the Acupoints	Lower the amount of energy recovered per turn, with higher values resulting in more significant effects
 h60306	603	Battle2/Img_buffer_Confused.png	Confused	Lowering the damage reduction ability below 50 points will make it impossible to perform discharging force

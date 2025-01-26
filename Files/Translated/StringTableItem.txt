@@ -317,7 +317,7 @@
   splits:
   - split: 1
     text: "你由高处摔落减少了{0}气血"
-    translated: "You lost {0} Qi and blood from falling from a high place"
+    translated: "You lost {0} lifeforce from the fall"
 - lineNum: 47
   raw: "HintTypeFallAndDie	你摔死了"
   translated: ""
@@ -772,7 +772,7 @@
   splits:
   - split: 1
     text: "气血上限"
-    translated: "Qi and Blood Capacity Limit"
+    translated: "Maximum Lifeforce"
 - lineNum: 112
   raw: "CharacterProperty52	内力"
   translated: ""
@@ -6459,7 +6459,7 @@
   splits:
   - split: 1
     text: "每回合失去气血<color=#00ffff>{0}</color>点"
-    translated: "Every turn lose {0} points of Qi"
+    translated: "Each round loses lifeforce {0} points"
 - lineNum: 945
   raw: "TipTurnLossMp	每回合失去内力<color=#00ffff>{0}</color>点"
   translated: ""
@@ -6494,7 +6494,7 @@
   splits:
   - split: 1
     text: "攻击时会造成自身<color=#00ffff>{0}</color>点气血损失"
-    translated: "Attacking will cause the user to lose {0} points of Qi"
+    translated: "Attacking will cause self to lose {0} points of lifeforce"
 - lineNum: 950
   raw: "TipBan	{0}无法发动、累计数值"
   translated: ""

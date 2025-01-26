@@ -44,7 +44,7 @@ HintTypeMoralUp	Your spirit and moral integrity have become even more resolute
 HintTypeMoralDown	You have become more sinister and imposing
 HintTypeYinAndYangUp	You have become more masculine
 HintTypeYinAndYangDown	You have become more gentle and soft
-HintTypeFallAndHurt	You lost {0} Qi and blood from falling from a high place
+HintTypeFallAndHurt	You lost {0} lifeforce from the fall
 HintTypeFallAndDie	You fell dead
 HintTypeFoodBufferDisappeared	{0}'s effect from {1} disappeared
 InventoryDialogTitle	Use items
@@ -109,7 +109,7 @@ InventoryTip2	Only usable during combat
 InventoryTip98	This secret manual cannot be practiced because it has limited targets!
 InventoryTip99	Mysterious Artifact:
 CharacterProperty50	Qi and Blood
-CharacterProperty51	Qi and Blood Capacity Limit
+CharacterProperty51	Maximum Lifeforce
 CharacterProperty52	Internal Power
 CharacterProperty53	Maximum internal power
 CharacterProperty54	Energy
@@ -942,12 +942,12 @@ CounterAttackEffect	When counterattacking, use {0} to strike back at the enemy
 TrickEffect	When a feint is executed, it randomly inflicts a negative status effect {0} points on the one hit
 APRecovery	Recover energy
 #异常状态TIP	
-TipTurnLossHp	Every turn lose {0} points of Qi
+TipTurnLossHp	Each round loses lifeforce {0} points
 TipTurnLossMp	Each round, lose {0} points of Qi
 TipTurnLossAp	Energy recovery reduced by {0} points each round
 TipAttackFall	Damage reduced by {0}% during attacks
 TipIncreasedDamage	When attacked, damage increases by {0}%
-TipAttackLossHp	Attacking will cause the user to lose {0} points of Qi
+TipAttackLossHp	Attacking will cause self to lose {0} points of lifeforce
 TipBan	{0} unable to activate, accumulated value
 TipZero	{0}'s value is 0
 TipCramped	Every distance moved by the exertion of energy is reduced to {0}%

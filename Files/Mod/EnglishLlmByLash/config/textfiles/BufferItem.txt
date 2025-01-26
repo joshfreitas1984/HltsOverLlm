@@ -71,14 +71,14 @@ forge013	Chicken blood	Reduce all skills of the enemy who has been hit by 2 poin
 forge014	Skeletons	After attack, there is a 30% chance to reduce the enemy's 1 point of energy	0		0	FALSE	0	FALSE	0	0		forge014
 forge015	Charcoal	Damage increased by 3%	0		0	FALSE	0	FALSE	0	0		forge015
 forge001	Lan Yu	Harm value's 10% converted into own internal energy (Absorb Qi)	0		0	FALSE	0	FALSE	0	0		forge001
-forge002	Red Jade	10% of the damage dealt is converted into the user's own blood (siphon)	0		0	FALSE	0	FALSE	0	0		forge002
+forge002	Red Jade	Convert 10% of damage dealt into self-life force (siphoning)	0		0	FALSE	0	FALSE	0	0		forge002
 forge003	Yunmu	Each attack additionally accumulates an extra 3 Qi release points	0		0	FALSE	0	FALSE	0	0		forge003
 forge004	Jasper	Each attack accumulates an additional 3 combo points	0		0	FALSE	0	FALSE	0	0		forge004
 forge005	Hu Po	Each attack additionally accumulates 3 points of critical value	0		0	FALSE	0	FALSE	0	0		forge005
 forge006	Pigeon's Nest Stone	Each attack additionally accumulates an extra 3 points in feigning	0		0	FALSE	0	FALSE	0	0		forge006
 forge007	Agate	Each attack accumulates an additional 3 points of counterattack value	0		0	FALSE	0	FALSE	0	0		forge007
 forge008	Ultimate Dragon Bone	When attacking, push back the enemy by 5 spaces	0		0	FALSE	0	FALSE	0	0		forge008
-forge009	Child-Ox Nightlight Stone	Deal damage equal to 25% of the value as health for oneself	0		0	FALSE	0	FALSE	0	0		forge010
+forge009	Child-Ox Nightlight Stone	Damage dealt is converted into 25% of the user's lifeforce	0		0	FALSE	0	FALSE	0	0		forge010
 forge010	Yu Xing Yue Guang Shi	Convert 25% of the damage value into self's internal power	0		0	FALSE	0	FALSE	0	0		forge009
 forge011	Mosu	There is a 30% chance to restore 1 point of energy to oneself after an attack	0		0	FALSE	0	FALSE	0	0		forge011
 forge012	Diamond	Damage increases by 10%	0		0	FALSE	0	FALSE	0	0		forge012
@@ -315,10 +315,10 @@ buffSkillTree018_001	Iron Claw Eagle Hook	Raging Flight Adds an Additional 5 Poi
 buffSkillTree018_004	Soar high and unfurl wings	Enrage, allowing the target to be confused for 5 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree018_009	Wind Swoops Up Tattered Clouds	Raging Gales Adds 10 Points of Confusion	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree018_010	Lightning and thunder	Intense Gales Spread Wings, adding an extra 10 points of external injury	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree019_000	Cuiluan Gong	When performing Ruiluan Gong, recover 3% of Qi during each round	0	buffSkillTree019_000	0	TRUE	0	FALSE	0	1	(HP,3)	beginUnitProp
+buffSkillTree019_000	Cuiluan Gong	While practicing Qiluan Gong, restore 3% lifeforce each turn	0	buffSkillTree019_000	0	TRUE	0	FALSE	0	1	(HP,3)	beginUnitProp
 buffSkillTree019_002	Remedy for Exorcising Illness	When executing Run Rui Luan Skill, the level of poisoning is reduced by 10% each round	0	buffSkillTree019_000	0	TRUE	0	FALSE	0	1	(Poisoned,-10)	beginUnitProp
-buffSkillTree019_004	Layer upon layer of hills and mountains	When performing Ruiluan Gong, restore 6% of your health each turn	0	buffSkillTree019_000	0	TRUE	0	FALSE	0	1	(HP,6)	beginUnitProp
-buffSkillTree019_008	Qing Xia Jue	When executing Runyu Cui Luan Skill, recover 12% health and 12% energy each round	0	buffSkillTree019_000	0	TRUE	0	FALSE	0	1	(HP,12)(MP,12)	beginUnitProp
+buffSkillTree019_004	Layer upon layer of hills and mountains	When practicing Runyu Cui Luan, recover 6% of lifeforce each round	0	buffSkillTree019_000	0	TRUE	0	FALSE	0	1	(HP,6)	beginUnitProp
+buffSkillTree019_008	Qing Xia Jue	When executing the Lush Green Ridge Technique, each turn restores 12% of your lifeforce and 12% of your internal strength	0	buffSkillTree019_000	0	TRUE	0	FALSE	0	1	(HP,12)(MP,12)	beginUnitProp
 buffSkillTree020_002	Paragon of equal strength	After activation, rush straight for two spaces	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree020_004	Chapter of Receiving Immortality	Gallop in tandem's straight-line charge distance is further increased by 2 squares	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree021_002	Three Rivers Rushing	Yubijinchuan adds eight points to external injury	0		0	FALSE	0	FALSE	0	0		0
@@ -357,9 +357,9 @@ buffSkillTree037_007	Five Rooster Light Smoke	When practicing the Duan Family Qi
 buffSkillTree038_007	Earth Dancer	Yecha's ability to explore the seas has increased in strength, and the power of the drought demon has intensified	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree038_008	Night Demon	Reduced energy consumption in the face of destructive sea demons and droughts	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree038_009	Emptiness	Nightmare Sea Trawler, Drought Demon adds additional joint manipulation points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree039_000	Qilian Shan Jue	When using the Qi Li Shan Jue technique in battle, maximum qi and blood values are increased by 1,000 points	0	buffSkillTree039_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree039_005	Standing a thousand feet high	When using the QiLian Shan Jue, maximum health and energy in battle increase by 2000 points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree039_005_2	Standing a thousand feet high	When executing the Qi Lian Mountain Technique, maximum health and energy during battle increases by 2000 points	0	buffSkillTree039_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree039_000	Qilian Shan Jue	When executing the QiLian Mountain Skill, the maximum vitality during battle is increased by 1000 points	0	buffSkillTree039_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree039_005	Standing a thousand feet high	While performing the Qilian Mountain Secret Technique, the maximum Qi and Lifeforce value during battle increases by 2,000 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree039_005_2	Standing a thousand feet high	When running the Qi Ling Mountain Technique during battle, the maximum Lifeforce value is increased by 2000 points	0	buffSkillTree039_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree040_004	Charge at full gallop	'Water Margin Heroic Palm's energy consumption is reduced by 1 point.'	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree040_005	Shoulder a thousand valleys	Increased power of the Water Margin Hero's Palm	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree040_006	Toast to relieve worries	Shuihu Yingxiong Zhang's attack range increased	0		0	FALSE	0	FALSE	0	0		0
@@ -730,10 +730,10 @@ buffSkillTree149_003	As if by shadow	Appendix Bone's Seal Point Value Increases 
 buffSkillTree149_007	Divided paths and lost sheep	Incense of Incised Heart, power increased by 30 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree149_008	Disaster begins from within the family	Heart-wrenching expenditure reduces energy consumption by 1 point	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree150_000	Minor Elixir of Immortality	Learn the formula for Minor Elixir	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree150_004	Priceless	Assist a teammate in recovering 275 points of Qi and Blood; the higher one's medical skills, the greater the recovery amount	0		0	FALSE	0	FALSE	0	0		buffSkillTree150_004
+buffSkillTree150_004	Priceless	Restore a team member's 275 Qi; the higher your medical skills, the greater the restoration amount	0		0	FALSE	0	FALSE	0	0		buffSkillTree150_004
 buffSkillTree150_007	Jiuzhuan Tongyun Dan	Learn the formula for Jiuzhuan Tongyun Dan	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree151_000	Replenishing Qi Decoction	Learn the prescription formula for the Ren Qing Yin (Sheng Qi Drink)	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree151_004	Return Qi to Open Meridians	Assist teammates in restoring 350 points of Qi and blood; the higher your medical skills, the greater the recovery amount	0		0	FALSE	0	FALSE	0	0		buffSkillTree151_004
+buffSkillTree151_004	Return Qi to Open Meridians	Help teammates restore 350 points of lifeforce; the higher your healing skills, the greater the recovery amount	0		0	FALSE	0	FALSE	0	0		buffSkillTree151_004
 buffSkillTree151_008	Yulong Nourishing Qi Pill	Learn the recipe for Yulong Nourishing Qi Pill	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree152_000	Tongmai San	Learn the prescription formula for Tong Mai San	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree152_001	Golden healing medicine	Learn the formula for Jinchuangyao	0		0	FALSE	0	FALSE	0	0		0
@@ -747,7 +747,7 @@ buffSkillTree153_002	There is a fight in the north	If Dou Zhuan Xing Yi is used 
 buffSkillTree154_000	Grand Mystery Divine Skill	When operating the Tai Xuan Jing, each of Jiuchijian (Hand Combat), Jianfa (Sword Arts), Dao Fa (Blade Arts), Qianggun (Spear and Club), Anqi (Hidden Weapons), Duanchen (Short Weapons), and Qinggong (Light Steps) increases by 12 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree154_000_2	Supreme Mystery Divine Skill	When running the Tai Xuan Jing, each of wrestling, swordsmanship, blade arts, spear and staff, hidden weapons, short weapons, and qinggong increases by 24 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree154_003	White-Haired Patriarch's Extreme Mystery Classic	When running the Taixuan Scripture, each of fist fighting, swordsmanship, blade arts, spear and staff techniques, hidden weapons, short weapons, and qinggong increases by 24 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		0
-buffSkillTree155_000	Red Blood Demon Qi Technique	To inflict damage on the enemy, convert part of it into one's own Qi and blood	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		buffSkillTree155_000
+buffSkillTree155_000	Red Blood Demon Qi Technique	Convert a portion of the damage inflicted on the enemy into one's own lifeforce	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		buffSkillTree155_000
 buffSkillTree155_003	Blood flowing like a river	The higher the evil value, the more pronounced the blood-drinking effect of the Blood Drinking Demon Technique	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0
 buffSkillTree155_004	Bloody rain and stinking wind	The higher the craziness value, the more pronounced the blood-drinking effects of the Blood Sipper Technique	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0
 buffSkillTree157_002	Heart to Kill	As the value increases, the power of Shamen Tian Gu Xi's skill grows stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree157_002
@@ -761,12 +761,12 @@ buffSkillTree158_009	Indestructible as a diamond	Resist 20 points of internal in
 buffSkillTree159_003	Push Cloud Palm	During the counterattack, an additional 12 points of internal injury are inflicted on the enemy	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree159_004	Thrusting Mountain Power	A whip additionally inflicts 6 points of internal injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree159_007	Swan Wing Formation	When counterattacking, inflict an additional 16 points of internal injury on the enemy	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree160_000	Taiqing Rong Qi	Every turn, recover 4% health and heal 10% internal injury	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,4)(Injured,-8)	beginUnitProp
-buffSkillTree160_002	Heavenly Gongan Qi	Recover 8% HP and heal internal injuries by 16% each turn	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,8)(Injured,-16)	beginUnitProp
-buffSkillTree160_006	Big Dipper and Northern Pole	Every round recover 12% health and heal internal injuries by 24%	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
-buffSkillTree161_000	The cycle of life and death	Restore a teammate's 800 HP; the higher your medical skill, the more you restore	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_000
+buffSkillTree160_000	Taiqing Rong Qi	Each round, restore Lifeforce by 4%, and heal Internal Injury by 10%	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,4)(Injured,-8)	beginUnitProp
+buffSkillTree160_002	Heavenly Gongan Qi	Each turn restores 8% lifeforce and heals internal injuries by 16%	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,8)(Injured,-16)	beginUnitProp
+buffSkillTree160_006	Big Dipper and Northern Pole	Each round recover 12% of lifeforce, recover internal injury by 24%	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
+buffSkillTree161_000	The cycle of life and death	Revive an ally to restore 800 points of lifeforce; the higher your medical skills, the greater the recovery amount	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_000
 buffSkillTree161_006	Bee Silk Poison	Can forge Bican Gudu. If there is bican gudu in the travel bag, then when this technique is used, it will inflict 75 points of poison on the enemy	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_006
-buffSkillTree161_011	Springwell	Healing area teammates for 700 qi and blood points; the higher your medical skill, the greater the healing amount	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_011
+buffSkillTree161_011	Springwell	The recovery zone restores a team member's lifeforce by 700 points; the higher your healing skills, the greater the recovery amount	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_011
 buffSkillTree161_011_2	Clearing the Meridian	Help teammates remove 15 points of negative status effects in the test area	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_011_2
 buffSkillTree162_003	Supremely Fierce Stroke	The enhanced power of the naturally formed solid gold	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree162_004	Rock stands immovably	Hunan's attack range increased	0		0	FALSE	0	FALSE	0	0		0
@@ -812,8 +812,8 @@ buffSkillTree174_001	Seize the Soul	There is a chance to control an enemy for 5 
 buffSkillTree174_002	Seize Shadow	There is a chance to control enemies for 5 turns, and the higher the internal power gap, the greater the success rate. At most, you can control 3 people at the same time	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree174_003	Transcendent Soul Technique	You have a chance to control an enemy for 3 rounds, with the success rate increasing as the internal energy gap widens. At any one time, you can control at most 1 person	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree174_004	Seeking the Divine	There is a chance to control an enemy for 4 turns. The higher the difference in Neigong, the greater the success rate. At most, only one person can be controlled at the same time	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree175_000	Primordial Skill	Each round restores 12% HP and recovers 24% internal injuries; can be revived once during battle, reviving also restoring 40% HP	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
-buffSkillTree175_003	Primordial Qi	Each round recovers 12% of health and 24% of internal injuries; can revive once during battle, restoring 80% health upon revival	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
+buffSkillTree175_000	Primordial Skill	Every round restores 12% of life force, heals internal injuries by 24%; can be revived once during combat, with revival restoring 40% of life force	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
+buffSkillTree175_003	Primordial Qi	Restore 12% health each round and recover 24% from internal injuries; can revive once during battle, restoring 80% of health upon revival	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
 buffSkillTree176_000_1	Adhesive Force	'Execute entangling force to encase the enemy, making the enemy more inclined to shift their target towards themselves.'	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree176_000_2	Locust Leg Technique	Executing the turning force maneuver increases the rate of initiating attacks on an opponent who is disoriented and striking unpredictably	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree176_000_3	Wrapping Tendon Strength	Deploying a binding force to entangle the enemy, making them more inclined to shift their target onto themselves	0		0	FALSE	0	FALSE	0	0		0
@@ -869,10 +869,10 @@ buffSkillTree191_008	Touch grass to scare snake	The toxicity of the Snake Pit-Se
 buffSkillTree191_009	Snake Venom Arm Shot	Can refine snake venom, can forge poisonous snake arm arrows	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree192_000	No Limit Heart Technique	Reduce damage taken by self by 8%	0	battle	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree192_000_2	Immeasurable Heart Method	Reduces the damage taken by 8%, and restores 8% of internal force each round	0	battle	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree192_000_3	The Infinite Heart Technique	Reduce damage taken by 8%, recover 8% of your Qi per turn	0	battle	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree192_000_4	No Limitation Heart Method	Reduce the damage taken by 8%, recover Qi 8% each round, and recover internal energy 8% each round	0	battle	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree192_000_3	The Infinite Heart Technique	Reduce damage taken by 8%, recover lifeforce by 8% each turn	0	battle	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree192_000_4	No Limitation Heart Method	Reduce the damage taken by 8%, recover 8% of Lifeforce each turn, and restore 8% of Internal Power each turn	0	battle	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree192_005	Boundless Compassion	Restore 8% Qi each round	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree192_006	Heart broken without measure	Restore 8% health each turn	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree192_006	Heart broken without measure	Restore 8% of life force each turn	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree193_000	Reconstruction Ointment	Learn to formulate the recipe for the rejuvenating salve again	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree193_004	Breakbone glue	Learn the recipe for Tiger Bone Grafting Ointment	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree194_000	Concentrate Tea	Learn the formula for the Concentration Soup	0		0	FALSE	0	FALSE	0	0		0
@@ -889,19 +889,19 @@ mindlose2	Loss of sanity	Temporarily lose mental faculties, lasting for 4 rounds
 timeback	Retreat sequence	Repel the enemy for three sequences	0		0	FALSE	0	FALSE	0	0		timeback
 timeback02	Timing to Repel	Defeat the enemy in five sequences	0		0	FALSE	0	FALSE	0	0		timeback02
 aroundback	Round the back	Move behind the enemy to attack	0		0	FALSE	0	FALSE	0	0		0
-BattleSchedule001	Qingcheng Alliance	When the Qingcheng Sect leader's qi and blood are low, they enhance their combat abilities	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule001
+BattleSchedule001	Qingcheng Alliance	When the Qingcheng Sect master's lifeforce is low, enhance their combat ability	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule001
 BattleSchedule001b	Master of the Sect's Character	Assume the responsibility of leading the orthodox faction in Western Shu, gaining additional spirit each turn and increasing counterattack rate	0	battle	0	TRUE	0	FALSE	0	0	(AP,7)(CounterAttack,20)	beginUnitProp
 BattleSchedule001c	Pinewood Wind Sword Formation	When a Qingcheng Sect disciple is within three tiles of themselves, they increase their combo rate and enhance skill damage	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule001c
-BattleSchedule002	Intent to kill grew stronger	Temporarily recover one's own vital energy and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002
+BattleSchedule002	Intent to kill grew stronger	Temporarily restore one's own lifeforce and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002
 BattleSchedule002b	Anger as high as the sky	Enmity surging, significantly boosting one's combat ability!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002b
 BattleSchedule002c	Internal injury recurrence	The surge of qi heightens internal injury, with each round adding to the cumulative internal injury value	0	battle_debuff	0	TRUE	0	FALSE	0	0	(Injured,25)	beginUnitProp
-BattleSchedule002d	Intent to kill grew stronger	Confronted with Ling Zhong Yue attempting to seize the Heavenly Scriptures, a brief response replenishes his own Qi and blood, further enhancing the power of his techniques	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002d
+BattleSchedule002d	Intent to kill grew stronger	Confronted with Ling Zhongyue's attempt to seize the Heavenly Scriptures, he briefly restored his own lifeforce and increased the power of his techniques	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002d
 BattleSchedule002e	Severe internal injury	When one is flustered, the internal injury worsens, causing a significant reduction in the effectiveness of their techniques	0	battle_debuff	0	TRUE	0	FALSE	0	0	(SkillDamageFactor,-75)	beforeAttackProp
-BattleSchedule003	Intensely vengeful	After the Ming Cult followers were killed, they restored their own Qi and blood, and enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule003
+BattleSchedule003	Intensely vengeful	After the Ming Cult followers were killed, they restored their own lifeforce and enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule003
 BattleSchedule004	Enemy at hand	After the Ming Sect followers were killed, they enhanced their combat capabilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule004
 BattleSchedule005	Adversary at hand	After the Ming Sect followers were killed, they enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule005
-BattleSchedule006	Anger as high as the sky	Temporarily recover one's own vitality and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule006
-BattleSchedule007	Control breath and concentrate	Quickly restore Qi and blood, and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule007
+BattleSchedule006	Anger as high as the sky	Quickly recover one's life force and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule006
+BattleSchedule007	Control breath and concentrate	Short-term recovery of one's lifeforce and enhancement of combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule007
 BattleSchedule008	The Wrath of the Ghost King	Due to Bai Li Dan he being in a critical situation, he unleashes his hidden combat potential, increasing the damage of his skills and cumulatively enhancing his combo rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008
 BattleSchedule008b	The Wrath of the Wind King	Due to the Mountain Goblin King being in a critical situation, he unleashes his hidden combat potential, increasing skill damage and stacking the critical hit rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008b
 BattleSchedule008c	Wrath of the King of Ghosts	When the enemy Huang Shang appears, unleash one's hidden combat potential; skill damage is increased and each turn adds an additional chance for a combo attack	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008c
@@ -943,10 +943,10 @@ BattleSchedule042	Unforgiving Power	Hidden buff, when health reaches 70%, trigge
 BattleSchedule043	Yang Tianyi gauges hidden buffs through blood quantity	Assess blood level	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule043
 BattleSchedule044	Drunken Butterfly Scale	Unique Poison, accumulates 3 points of poisoning each time it moves	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule044
 BattleSchedule045	Yang Tianyi's blood volume judgment reveals He Boshuo's hidden buff	Assess blood volume before applying buff to He Baisuo	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule045
-BattleSchedule046	Strength-enhancing potion	Use the Art of Gathering to forcibly tap into your inner potential, restore 50% of your own Qi and blood, and increase damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule046
+BattleSchedule046	Strength-enhancing potion	Use cultivation techniques to unlock latent potential within, restoring 50% of one's lifeforce and increasing damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule046
 BattleSchedule047	Degradation of morals hidden buff	Morality decreases by two points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule047
 BattleSchedule048	Second Blood Measurement Hidden Judgment Buff	Use blood quantity to judge the conversation	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule048
-BattleSchedule049	Fiery Flame Kunlun Ridge	During operation, significantly enhances combat power in offense and defense. After five rounds, it will deplete Qi and blood	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule049
+BattleSchedule049	Fiery Flame Kunlun Ridge	'Increase combat ability significantly during runtime, but after five rounds, it will exhaust your lifeforce.'	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule049
 BattleSchedule050	Deep-seated blood feud	With the enemy at hand, fighting spirit heightened: Damage increased by 50%, recover an additional 4 energy points per turn, confusion value accumulates 20 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule050
 BattleSchedule051	Joint Effort to Save the World	Using Heavenly Scriptures secret techniques, increase damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule051
 BattleSchedule052	He Yuqing's blood quantity judgment BUFF	Hidden buff, judge half blood volume and trigger dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule052
@@ -954,7 +954,7 @@ BattleSchedule053	He Hongyuan's blood quantity judgment BUFF	Hidden buff, trigge
 BattleSchedule054	Weizhentian Nan	Attack Power Increased by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule054
 BattleSchedule055	White Dew Frost Attack Buff		0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule055
 BattleSchedule056	Gold Toad Spits Pearl	Every two rounds, damage increases by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule056
-BattleSchedule057	Marvelous Hand Reviving Life	After every three rounds, restore 20% of their own Qi and blood	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule057
+BattleSchedule057	Marvelous Hand Reviving Life	Regain 20% of your own lifeforce every three turns	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule057
 BattleSchedule058	She Xia Mei Ren	Slowly poisoned, accumulating 10 points of poison each round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule058
 BattleSchedule059	Lost Step	Each round, energy recovery is reduced by 3 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule059
 BattleSchedule060	Yin Yang Wu Ji	Suffer from Yin-Yang imbalance, accumulating 10 points of internal injury each turn	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule060
@@ -1016,7 +1016,7 @@ BattleSchedule505	Uh oh	Snow Wing's body is paralyzed and poisoned, leading to w
 BattleSchedule506	Avenging the eagle hunters!	Eagle Hunter's thirst for revenge is fierce, increasing their attack damage	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule506
 BattleSchedule507	Big brother is right!	Follow the older brother's footsteps! Greatly enhance your own combat abilities!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule507
 BattleSchedule508	Give me back my hunting eagle's life!	Aji is filled with a fierce desire for revenge, and her combat abilities have significantly improved!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule508
-BattleSchedule509	Training hunting eagles	With more prey hunted, the falcon recovers more Qi and energy each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule509
+BattleSchedule509	Training hunting eagles	For each additional hunter falcon captured, it recovers more lifeforce and energy each round	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule509
 BattleSchedule510	Unyielding defiance	Snow Wing Eagle is fierce and stubborn in nature, and even if it means death, it will never run away!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule510
 BattleSchedule511	Exhausted	Snowwing's physique is weakened, revealing fatigue... Attack damage decreases, and confusion value accumulates by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule511
 BattleSchedule512	Weak	Snow Wing has lost too much blood and is becoming increasingly weak... Energy regeneration reduced, and accumulates dizziness by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule512
@@ -1024,10 +1024,10 @@ BattleSchedule513	Fighting with blood and sweat	Tu Le fought valiantly to fulfil
 BattleSchedule514	Unyielding with the lance	For the sake of not betraying his mission, he swore to resist to the death	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule514
 BattleSchedule515	Arise with the rage of a hero	Tu Lu fought with determination, bathing in blood, vowing to exterminate all the bandits	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule515
 BattleSchedule516	Deadly poison spreads	Tu Lei suffered from the poisoned attack of the cloaked figures, and his body was severely poisoned!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule516
-BattleSchedule517	Aspiration for Power	Mo Kui's combat ability has significantly improved, and he continuously restores his own Qi and blood!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule517
-BattleSchedule518	War and weapons	Mo Kui is in a perilous situation, fighting bravely alone! His combat ability has significantly increased and he continuously regains his qi and blood!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518
-BattleSchedule519	United we stand	Follow Second Elder's steps! Martial arts damage significantly increased, and it continuously restores your own Qi and blood!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule519
-BattleSchedule520	Lonely Defender	Tuluhu fiercely defends the leader, fighting bloodily... Each round significantly increases external injury value and loses a large amount of Qi	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule520
+BattleSchedule517	Aspiration for Power	Mo Kui's battle capabilities have significantly improved, and he continues to recover his lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule517
+BattleSchedule518	War and weapons	Mo Kui is in a perilous situation, fighting alone with great strength! His combat ability has significantly increased and he continues to recover his lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518
+BattleSchedule519	United we stand	Follow the Second Young Master's footsteps! The technique greatly increases damage and continuously restores your own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule519
+BattleSchedule520	Lonely Defender	Chu Le is fiercely loyal and battles with bloodshed... Each round greatly increases the external injury value and causes a significant loss of lifeforce	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule520
 BattleSchedule521	Defect at the Last Moment	San Deng defected at the front and helped capture the rebel of Mu Mansion, Mu Kui!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule521
 charge	Charge	Charge attack, causing damage to enemies along the path	0		0	FALSE	0	FALSE	0	0		0
 charge02	Charge	'Chongfeng attack, dealing damage to enemies along the path.'	0		0	FALSE	0	FALSE	0	0		0
@@ -1081,7 +1081,7 @@ nick017P	Flower-planting Master	When using the healing skill, healing effectiven
 nick018	Sea of Hatred, Lonely Soul	Each round, increase own attack power by 10%, cumulative maximum 50%; each round, increase own internal injury value by 10	0	nickname	0	TRUE	0	FALSE	0	0		nick018
 nick018b	Sea of Hatred, Lonely Soul	Each turn, self-attack power increases by 10%, up to a maximum of 50%; when triggering a critical hit, the critical hit damage is additionally increased by 25%	0	nickname	0	TRUE	0	FALSE	0	0		nick018b
 nick018bP	Peerless Master	Each round, self-attack power increases by 10%, accumulating up to a maximum of 80%; when triggering a critical hit, the critical damage is additionally increased by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick018bP
-nick019	Mountain Goblin Demon King	Counterattack increases damage by 30%, and during attacks, 15% of the damage is converted into own Qi	0	nickname	0	TRUE	0	FALSE	0	0		nick019
+nick019	Mountain Goblin Demon King	When counterattacking, power increases by 30%, and during the attack, 15% of damage is converted into self-life force	0	nickname	0	TRUE	0	FALSE	0	0		nick019
 nick020	Confucian Heart, Sword Arm	Every round, self's counterattack value increases by 25. All allies receive the status Confusion of Confucian Sword	0	nickname	0	TRUE	0	FALSE	0	0		nick020
 nick020buff	Confucian Sword Formation	Due to Ling Zhongyue being present, the counterattack value of oneself is increased by 15 each round	0	battle	0	TRUE	0	FALSE	0	0		nick020buff
 nick021	Centuries-Loss Taoist Nun	If a martial arts technique with an ice seal effect is used, the technique's power becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021
@@ -1126,17 +1126,17 @@ nick102buff	Maids of the Jing Fort	Enemies within a 2-unit distance of He Baisha
 nick103	Iron Tiger Silver Spear	During combat, Black Panther enters the fray; each turn increases its own move damage by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick103
 nick104	Southwest Indian Cadet	Within a 10-unit radius around Duan Silang, each allied unit at the start of the turn grants Duan Silang an additional 5% critical rate boost	0	nickname	0	TRUE	0	FALSE	0	0		nick104
 nick105	Ancient Noble Family	Within a 5-unit radius of Deng Jialuo, enemy forces have their critical hit rate reduced by 15% at the start of each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick105
-nick106	Successor of the Tusi	At the start of each round, restore 15% HP to allied units within a 2-unit radius; increase combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick106
+nick106	Successor of the Tusi	At the start of each round, restore 15% lifeforce to allies within a 2-unit distance and increase hit combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick106
 nick107	Army Commanders of the Mu Clan	When unleashing a critical strike, increase own critical rate by 20% and add Bolstered Will to oneself and allies within 2 tiles	0	nickname	0	TRUE	0	FALSE	0	0		nick107
-nick107a	High morale and eager to fight	Each round restores 10% health and cumulatively increases critical hit rate by 10%, lasting for three rounds	0	battle	0	TRUE	0	FALSE	0	0		nick107a
+nick107a	High morale and eager to fight	Each round restores 10% lifeforce and adds a cumulative critical hit rate of 10%, lasting for three rounds	0	battle	0	TRUE	0	FALSE	0	0		nick107a
 nick108	Three Flower Generals	When there is one enemy within a 2-unit radius of oneself, upon critical hit, the self additionally recovers 1 point of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick108
 nick110	Master	Each round restores 30% of internal power; when initiating a critical hit, remove all negative conditions by 25 points	0	nickname	0	TRUE	0	FALSE	0	0		nick110
-nick111	Unequaled in the world	For every 1% of Qi and blood lost, damage increases by 1%; each turn, removes all negative status effects for 20 points	0	nickname	0	TRUE	0	FALSE	0	0		nick111
+nick111	Unequaled in the world	For every 1% loss of Qi, damage increases by 1%; removes all negative statuses for 20 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick111
 nick112	Follow your heart's desires	Self's counterattack and force reduction rate increased by 25% each round	0	nickname	0	TRUE	0	FALSE	0	0		nick112
 nick114	Butcher's Poisonous Hand	When attacking, the target accumulates 1 point of poison per attack, increasing damage by 1%	0	nickname	0	TRUE	0	FALSE	0	0		nick114
 nick115	Eastern Noble	When using the Thunderbolt Fire Bomb, there is a 25% chance that it will cause the target to take an external injury of 30 points	0	nickname	0	TRUE	0	FALSE	0	0		nick115
 nick116	Southern Leisure	At the start of each round, randomly recover 2 to 8 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick116
-nick117	Western Kitchen	When attacking, 50% of the damage is converted to your own Qi	0	nickname	0	TRUE	0	FALSE	0	0		nick117
+nick117	Western Kitchen	During attack, 50% of the damage is converted into self-life force	0	nickname	0	TRUE	0	FALSE	0	0		nick117
 nick118	North Ugly	When triggering a combo, attack power increases by 100% for one turn	0	nickname	0	TRUE	0	FALSE	0	0		nick118
 nick118a	Northern Ugly	Attack power increased by 100%, lasting for one round	0	nickname	0	TRUE	0	FALSE	0	0		nick118a
 nick119buff	Martial Arts Barrier：Clumsy	Your understanding and effects are astonishing	0	nickname	0	TRUE	0	FALSE	0	0		foricon
@@ -1152,15 +1152,15 @@ nick127	Pushing Hands of the Primordial Chaos	When discharging qi, enemies withi
 nick128	Fierce-faced Yanwang	When activating feigned moves, there is a 25% chance to apply Yanwang Suoming on the target, reducing their Neigong by 3 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick128
 nick128a	Yanwang sooming	Reduce Neigong by 3 points per round	0	battle	0	TRUE	0	FALSE	0	0		nick128a
 nick129	Chase the Soul, Seize Life	There is a 10% chance to dodge an attack; when performing a feint, recover an additional 3 points of energy for oneself	0	nickname	0	TRUE	0	FALSE	0	0		nick129
-nick130	Stomach growling with hunger	After attacking, there is a 25% chance to consume one meat bun from the backpack and apply Full Satiety to oneself. Each turn, it additionally restores 15% of one's own Qi and Energy by 1 point	0	nickname	0	TRUE	0	FALSE	0	0		nick130
-nick130a	Well-fed	Each round, additionally recover 15% of own Qi and 1 point of energy	0	battle	0	TRUE	0	FALSE	0	0		nick130a
+nick130	Stomach growling with hunger	After attacking, there is a 25% chance to consume one meat bun from the inventory and apply Well-Fed status to self, which restores an additional 15% of self's Lifeforce and 1 point of energy each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick130
+nick130a	Well-fed	Every round, additionally recover 15% of own Lifeforce and 1 point of Energy	0	battle	0	TRUE	0	FALSE	0	0		nick130a
 nick131	Defecating all over	Each attack has a 50% chance of dealing 250% damage to the target, and a 50% chance of dealing 25% damage	0	nickname	0	TRUE	0	FALSE	0	0		nick131
 nick132	To blossom again	When executing a combo attack, deal two hits to the target	0	nickname	0	TRUE	0	FALSE	0	0		nick132
-nick133	Big Pot Head	'As one's own qi and blood decrease, the damage dealt during a burst attack increases.'	0	nickname	0	TRUE	0	FALSE	0	0		nick133
+nick133	Big Pot Head	The less internal vitality (Qi) one has, the higher the damage during an explosive attack	0	nickname	0	TRUE	0	FALSE	0	0		nick133
 nick134	Ye Family Young Master	If the target is male, damage increases by 50%; if the target is female, damage decreases by 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick134
 nick135	Ye Family Guildmaster	Each move increases the skill damage by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick135
 nick136	White Haired Cold Blade	When an enemy attacks a friendly target within their own counterattack range, there is a 25% chance to counterattack that enemy	0	nickname	0	TRUE	0	FALSE	0	0		nick136
-nick137	Chongwei Yile	Each round, all friendly targets within a distance of 2 units will recover 10% of their health and have their counterattack rate increased by 10%	0	nickname	0	TRUE	0	FALSE	0	0		nick137
+nick137	Chongwei Yile	Each turn, restore 10% Qi to friendly units within a distance of 2 units and increase counterattack rate by 10%	0	nickname	0	TRUE	0	FALSE	0	0		nick137
 nick138	Iron Face Battle Armor	When activating a critical hit, additionally restore 3 points to your own energy	0	nickname	0	TRUE	0	FALSE	0	0		nick138
 nick139	Vampire Butcher	Each time you defeat an enemy, you regain an additional 3 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick139
 nick140	Great Black Heaven's Protection	Every move increases the combo rate and critical hit rate by 8%	0	nickname	0	TRUE	0	FALSE	0	0		nick140
@@ -1176,15 +1176,15 @@ nick149	Jinyiwei Chief Commander	Each round, reduce all skill values of enemies 
 nick150	Pointed Dragon Swordsman	After launching a counterattack, increase own attack power by 5%, with a maximum accumulation of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick150
 nick151	Border General	All allied units on the field receive a 15% damage reduction	0	nickname	0	TRUE	0	FALSE	0	0		nick151
 nick151buff	Border General	Take 15% less damage	0	battle	0	TRUE	0	FALSE	0	0		nick151buff
-nick152	Wolves' Barbarian Master	For every enemy defeated, restore 30% of your own Qi and replenish 3 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick152
+nick152	Wolves' Barbarian Master	For every enemy killed, restore your own lifeforce by 30% and regain 3 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick152
 nick153	Great Yan Imperial Family	If launching a counterattack, waiting for rabbits at the stake, or being like sparrows behind (trapped), reduce the target's 2 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick153
-nick154	Nine-Bag Elder	When one's Qi and blood are below 60%, attack power increases by 50%; when one's Qi and blood are below 30%, attack power increases by 100%	0	nickname	0	TRUE	0	FALSE	0	0		nick154
+nick154	Nine-Bag Elder	When your own lifeforce is less than 60%, attack power increases by 50%; when your own lifeforce is less than 30%, attack power increases by 100%	0	nickname	0	TRUE	0	FALSE	0	0		nick154
 nick155	Deputy Chief of the Taoshi Guild	Activate unburdening strength, increasing the damage of own techniques by 5%, up to a maximum of 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick155
 nick156	Leader of the Taoshi Gang	Activate Burst Attack, increasing the damage of own techniques by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick156
 nick157	Snake Beggar	Launch a feint and increase personal combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick157
 nick158	Unrivaled Farmer	Using the move Farmhand Style increases damage by 200%	0	nickname	0	TRUE	0	FALSE	0	0		nick158
 nick159	Old Fox Immortal	Backstabbing additionally causes the target to be dazed for 15 points	0	nickname	0	TRUE	0	FALSE	0	0		nick159
-nick160	Lifetime Prosperity	When your own qi and blood are below 50%, increase your evasive rate and counterattack rate by 15% each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick160
+nick160	Lifetime Prosperity	When the character's lifeforce is below 50%, increase their relaxation rate and counterattack rate by 15% each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick160
 nick515	Giants' Friend	King of the Great Apes 'Monkey Three' is now at your disposal!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick516	Widow Maker	Wild Boar King 'Widow Maker' is now at your disposal!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick518	White Pattern	Albino Crocodile King Baiwen is now at your command!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
@@ -1230,9 +1230,9 @@ likeBird04	As the Swallow's Secret	Within four rounds, increase dodge rate by 5%
 skysouth	Nanjing's Influence	In five rounds, resist six points of tendon and joint manipulation values	0	skysouth	0	TRUE	0	FALSE	0	0		skysouth
 skysouth02	Nanjing's Influence	Within five rounds, resist 6 points of dislocation, joint manipulation, confusion, and dizziness	0	skysouth	0	TRUE	0	FALSE	0	0		skysouth02
 sneaker	Lightly and quietly	Within 5 rounds, reduce self-defense by 25%, but increase energy recovery by 2 points per round	0	buffSkillTree058_000	0	TRUE	0	FALSE	0	0		sneaker
-healing_over_time01	Continued Recovery	Recover 10% health per turn for three turns	0	Buffer_01	0	TRUE	0	FALSE	0	1	(HP,10)	beginUnitProp
+healing_over_time01	Continued Recovery	Within 3 rounds, recover 10% of lifeforce each round	0	Buffer_01	0	TRUE	0	FALSE	0	1	(HP,10)	beginUnitProp
 jewelry01	Amulet	3% chance to dodge enemy attacks; mitigates poison, internal injury, and external injury by 1 point	0		0	FALSE	0	FALSE	0	0		jewelry01
-jewelry02	Gold necklace	Increase maximum Qi and blood by 250 points; restore 3% of Qi per round	0		0	FALSE	0	FALSE	0	0		jewelry02
+jewelry02	Gold necklace	Increase maximum Lifeforce by 250 points; restore 3% of Lifeforce each round	0		0	FALSE	0	FALSE	0	0		jewelry02
 jewelry03	Ancient Buddha Statue	Resist dizziness and confusion for 5 points	0		0	FALSE	0	FALSE	0	0		jewelry03
 jewelry04	Hotan Jade Bracelet	Increase maximum Qi by 150 points; recover 2% of Qi each turn	0		0	FALSE	0	FALSE	0	0		jewelry04
 jewelry05	Prayer wheel	Upon being struck, increase your own counterattack by 3 points	0		0	FALSE	0	FALSE	0	0		jewelry05
@@ -1252,21 +1252,21 @@ jewelry20	Snowwing's Ornithopter Feather	6% chance to dodge enemy attacks; gain 
 jewelry21	Bandit's Bracer	Each turn, increase all of your skill values by 2 points; for every unit of distance moved, additionally increase your combo rate by 2 points; the effect is better with higher qinggong	0		0	FALSE	0	FALSE	0	0		jewelry21
 jewelry22	Mani Stone Talisman	At the start of a round, increase your own unburdening by 3 points; resist joint manipulation and bone twisting for 6 points	0		0	FALSE	0	FALSE	0	0		jewelry22
 jewelry23	Nightlight Mani Stone	At the start of a turn, increase your own off-qi by 3 points; resist joint manipulation and dislocation by 6 points; recover 9% of internal power	0		0	FALSE	0	FALSE	0	0		jewelry23
-jewelry24	Gold Lock Fragment	Each round, recover 6% health	0		0	FALSE	0	FALSE	0	0		jewelry24
+jewelry24	Gold Lock Fragment	Recover 6% of Lifeforce per round	0		0	FALSE	0	FALSE	0	0		jewelry24
 jewelry25	A man's treasure	Every round, recover 6% of Qi; if worn by Situ Jing, additionally restore 6% more Qi	0		0	FALSE	0	FALSE	0	0		jewelry25
-jewelry26	Dragon's Claw Pearl Loop	At the start of battle, increase maximum Qi by 10%, and increase skill damage by 5%	0		0	FALSE	0	FALSE	0	0		jewelry26
-jewelry27	Frostblood Silver Hairpin	When attacking, add 5 points of poison and 3 points of frost to the target; reduce own Qi by 5% and Neigong by 3% each turn	0		0	FALSE	0	FALSE	0	0		jewelry27
-jewelry28	White Silver Flying Swallow Hairpin	For each unit of distance moved, restore 2% of your own Qi and blood	0		0	FALSE	0	FALSE	0	0		jewelry28
-jewelry29	Conjoined Lotus Heart Earring	At the start of the battle, increase maximum health by 12% and maximum internal power by 6%	0		0	FALSE	0	FALSE	0	0		jewelry29
+jewelry26	Dragon's Claw Pearl Loop	At the start of the battle, increase maximum lifeforce by 10% and increase technique damage by 5%	0		0	FALSE	0	FALSE	0	0		jewelry26
+jewelry27	Frostblood Silver Hairpin	When attacking, deal additional 5 points of poisoning and 3 points of frostbite to the target; reduce own lifeforce by 5% and neigong by 3% each round	0		0	FALSE	0	FALSE	0	0		jewelry27
+jewelry28	White Silver Flying Swallow Hairpin	For each unit of distance moved, restore 2% of your own lifeforce	0		0	FALSE	0	FALSE	0	0		jewelry28
+jewelry29	Conjoined Lotus Heart Earring	At the start of battle, increase maximum Lifeforce by 12% and maximum Neigong by 6%	0		0	FALSE	0	FALSE	0	0		jewelry29
 jewelry30	Jade Pendant with Jade Heart	Resist Freeze by 3 points, and recover 3% of your own inner strength each turn	0		0	FALSE	0	FALSE	0	0		jewelry30
-jewelry31	Golden Chain Bracelet	At the start of your turn, if your HP is below 15%, recover 15% HP; if worn by Zhang Junbao, additionally recover 15% HP	0		0	FALSE	0	FALSE	0	0		jewelry31
-jewelry32	The Fish Amulet of Desires	After taking a hit, increase offloading pressure by 3 points; when activating offloading pressure, recover 6% of own qi	0		0	FALSE	0	FALSE	0	0		jewelry32
+jewelry31	Golden Chain Bracelet	At the start of your own turn, if your lifeforce is at or below 15%, restore 15% lifeforce; if worn by Zhang Junbao, additionally restore another 15% lifeforce	0		0	FALSE	0	FALSE	0	0		jewelry31
+jewelry32	The Fish Amulet of Desires	Upon being hit, increase deflection force by 3 points; when activating the deflection force, restore 6% of one's lifeforce	0		0	FALSE	0	FALSE	0	0		jewelry32
 weapon0108	Golden Silk Gloves	Increasing technique damage by 2%. The higher the internal power, the better the effect	0		0	FALSE	0	FALSE	0	0		weapon0108
 weapon0108_2	Golden Silk Gloves	Increase technique damage by 4%. The higher your internal power, the better the effect	0		0	FALSE	0	FALSE	0	0		weapon0108_2
 weapon0108_3	Golden Thread Gloves	Enhance technique damage by 6%; the higher the internal power, the better the effect	0		0	FALSE	0	FALSE	0	0		weapon0108_3
-weapon0113	Skull-Smashing Devil Claw	During an attack, inflict 5 points of external injury but reduce the attacker's own qi and blood by 3%	0		0	FALSE	0	FALSE	0	0		weapon0113
-weapon0113_2	Scarred Heaven's Claw	During an attack, inflict 10 points of external injury but reduce your own qi and blood by 3%	0		0	FALSE	0	FALSE	0	0		weapon0113_2
-weapon0113_3	Cruel Ghost's Claw	When attacking, it carries an external injury of 15 points but reduces the attacker's own Qi and blood by 3%	0		0	FALSE	0	FALSE	0	0		weapon0113_3
+weapon0113	Skull-Smashing Devil Claw	When attacking, inflict an external injury of 5 points but reduce your own lifeforce by 3%	0		0	FALSE	0	FALSE	0	0		weapon0113
+weapon0113_2	Scarred Heaven's Claw	During an attack, inflict external damage of 10 points but reduce own lifeforce by 3%	0		0	FALSE	0	FALSE	0	0		weapon0113_2
+weapon0113_3	Cruel Ghost's Claw	During an attack, it inflicts 15 points of external injury but reduces the attacker's own lifeforce by 3%	0		0	FALSE	0	FALSE	0	0		weapon0113_3
 weapon0114	Shennong	When using medical skills, the recovery effect is increased by 16%	0		0	FALSE	0	FALSE	0	0		weapon0114
 weapon0114_2	Shennong	Using medical skills increases recovery effects by 16%	0		0	FALSE	0	FALSE	0	0		weapon0114_2
 weapon0114_3	Shennong	When using medical skills, recovery effect is increased by 24%	0		0	FALSE	0	FALSE	0	0		weapon0114_3

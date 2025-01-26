@@ -18,8 +18,7 @@ public class TranslationCleanupTests
         var manual = TranslationService.GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
-            "龙珠",
-            "炼狱",
+            "气血",           
             //"东豪",
             //"北丑",
             //"西庖",

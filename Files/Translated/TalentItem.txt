@@ -827,7 +827,7 @@
     translated: "Arise with the rage of a hero"
   - split: 2
     text: "自身气血每减少10%，暴击伤害增加10%，另外，自身气血少于30%时，招式威力大幅提升"
-    translated: "For every 10% decrease in personal Qi and blood, critical hit damage increases by 10%. Additionally, when personal Qi and blood are less than 30%, the power of techniques significantly increases"
+    translated: "For every 10% decrease in own Lifeforce, critical hit damage increases by 10%. Additionally, when own Lifeforce is below 30%, the power of techniques significantly increases"
 - lineNum: 83
   raw: "2_TalentNode009	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1437,7 +1437,7 @@
     translated: "Unceasingly"
   - split: 2
     text: "被医术治疗时，回复气血的效果更佳；自身正面状态的时效延长"
-    translated: "When treated with medical skills, the recovery of Qi and blood is more effective; the duration of positive self-states is extended"
+    translated: "When treated with medical skills, the effect of restoring life force is enhanced; the duration of positive states is extended"
 - lineNum: 144
   raw: "3_TalentNode033	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -2187,4 +2187,4 @@
     translated: "Emphasize simplicity over complexity"
   - split: 2
     text: "升级时，气血成长值额外增加３点。"
-    translated: "When upgrading, the blood growth value increases by an additional 3 points"
+    translated: "When leveling up, the growth value of lifeforce increases by an additional 3 points"

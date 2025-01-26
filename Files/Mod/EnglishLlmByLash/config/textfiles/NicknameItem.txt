@@ -38,7 +38,7 @@ nick017P	Flower-planting Master	When using the healing skill, the healing effect
 nick018	Sea of Hatred, Lonely Soul	Each round, self-attack power increases by 10%, with a maximum cumulative increase of 50%; each round, self-internal injury value increases by 10		n53001	nick018
 nick018b	Sea of Hatred, Lonely Soul	Each round, self-attack power increases by 10%, up to a maximum cumulative increase of 50%; when triggering a critical hit, the critical hit damage is additionally increased by 25%		n53001	nick018b
 nick018bP	Peerless Master	Each round, self-attack power increases by 10%, cumulative up to a maximum of 80%; when critical hit is triggered, critical hit damage increases by an additional 30%		n53001	nick018bP
-nick019	Mountain Goblin Demon King	When used offensively, power increases by 30%, and 15% of the damage dealt is converted into your own Qi		n20286	nick019
+nick019	Mountain Goblin Demon King	When backing, the power increases by 30%, and when attacking, 15% of the damage is converted into the user's lifeforce		n20286	nick019
 nick020	Confucian Heart, Sword Arm	Each turn, increase the counterattack value by 25. All allies gain the status Confusion of the Scholar's Sword		n70044	nick020
 nick021	Immortal Lady of Broad Cold	If one practices martial arts techniques that have an ice seal effect, the power of the moves becomes stronger		n09996	nick021
 nick021P	Guang Han Gongzhu	If one practices martial arts with an ice-sealing effect, the techniques become more powerful		n09996	nick021P
@@ -87,7 +87,7 @@ nick101	There is strength in unity	Each turn, increase dodge rate by 2%, with a 
 nick102	Green Village Miao Women	Within a 2 unit radius of He Baishe, enemy troops accumulate 12 points of poison and 6 points of confusion each round		n51009,n51009b	nick102
 nick104	Nanzhao Soldier	Duan Silang increases his critical hit rate by an additional 5% at the start of each round for every allied unit within a 10-unit radius		n90402	nick104
 nick105	Ancient and Noble Family	Within a 5-unit radius around Dong Jialuo, reduce the critical hit rate of enemy forces by 15% at the start of each round		n90403	nick105
-nick106	Successor to the Headman	At the start of each turn, restore 15% of Life to allies within a 2-unit range; increase critical hit rate by 15%		n50048	nick106
+nick106	Successor to the Headman	At the start of each turn, restore 15% Lifeforce to allies within a 2-unit radius and increase hit combo rate by 15%		n50048	nick106
 nick107	Forest Clan Warlord	When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares		n50065,n50065b	nick107
 nick108	Three Heroic Generals	Within a 2-unit distance around oneself, for each enemy present, an additional 1 point of energy is restored when the self executes a critical hit		n50073a,n50073a2	nick108
 nick111	Unrivaled in the world	The second trait has a special title. When the health decreases by 10%, damage increases by 10%. At the start of each turn, negative status is reduced by 20 points		n09998,n09998a	nick111
@@ -95,7 +95,7 @@ nick112	Follow one's heart	The Xinliang Daoist has its own title, with a 25% inc
 nick114	Executioner	When attacking, each accumulated point of poison on the target increases damage by 1%		n00102	nick114
 nick115	Eastern Noble	When using the Thunderbolt Fireball Grenade, there is a 25% chance to attack twice		n90201	nick115
 nick116	South Leisure	At the beginning of each round, randomly recover between 2 and 8 points of Qi		n20230	nick116
-nick117	Western Kitchen	During an attack, convert 50% of the damage dealt into self Qi		n07006	nick117
+nick117	Western Kitchen	During attack, 50% of the damage is converted into self-life force		n07006	nick117
 nick118	Western Kitchen	When triggering a combo, attack power increases by 100% for one round		n07007	nick118
 nick119	Wuxia Shortcomings	Wuxia Shortcomings			nick119
 nick120	Wuxia barrier (stillness)	Wuxia barrier (stillness)			nick120
@@ -109,14 +109,14 @@ nick126b	Unforgiving to the Sect Leader	For enemies within 3 units of range, red
 nick127	Primal Push Hands	When activating Move Four Liang to Generate a Thousand Jin, the target accumulates an internal injury value of 10 points. If the target is male, they additionally accumulate an extra 10 points of internal injury		n90215	nick127
 nick128	The Cold-Faced Yanwang	When launching a feint, there is a 25% chance to apply Yanwang Somo to the target, reducing their Neigong by 3 points each turn		n07004	nick128
 nick129	Life-and-death pursuit	There is a 10% chance to dodge the attack; when performing an evasive maneuver, the practitioner's energy increases by an additional 3 points		n52009,n52009b	nick129
-nick130	Extremely hungry	After the attack, there is a 25% chance to consume one meat bun from the inventory and apply Full Stomach to oneself, restoring an additional 15% of life force and 1 energy point per turn		n50071,n50071b	nick130
+nick130	Extremely hungry	After attacking, there is a 25% chance to consume 1 meat bun from the backpack, and apply Satiated to self, restoring an additional 15% of Lifeforce and 1 point of Energy each turn		n50071,n50071b	nick130
 nick131	Expose one's backside	Each attack has a 50% chance to deal 250% damage to the target, and a 50% chance to inflict 25% damage		n20191	nick131
 nick132	Mei kai er du	During the combo, deal an additional hit to the target		n60231	nick132
-nick133	Large Cauldron	As one's own Qi and blood diminish, the damage dealt during an explosion increases (for every 10% decrease in Qi and blood, the additional damage from an explosion increases by 10%)		n20000	nick133
+nick133	Large Cauldron	The less your lifeforce, the higher the damage dealt during a critical strike (for every 10% reduction in lifeforce, critical strike damage increases by an additional 10%)		n20000	nick133
 nick134	Ye Family Heir	If the target is male, damage increases by 50%; if the target is female, damage decreases by 50%		n20137	nick134
 nick135	Ye Family Guildmaster	Each time a move is made, the technique's damage increases by 5%, up to a maximum of 50%		n20146	nick135
 nick136	Hail and Frost Demon Blade	When an enemy attacks a friendly target within their own counterattack range, there is a 25% chance to retaliate against that enemy		n90602,n90602c	nick136
-nick137	Chongwei Yilie	At the start of each round, heal self and allies within 2 units radius by 10% HP, and increase counter-attack rate by 10%		n90603	nick137
+nick137	Chongwei Yilie	Each round, restore 10% of health and increase counterattack rate by 10% for allies within a distance of 2 units		n90603	nick137
 nick138	Iron Face Battle Armor	When activating a critical strike, additionally restore 3 points of one's own energy		n20037	nick138
 nick139	Butcher of Bloodthirsty People	For each enemy killed, restore an additional 3 points of stamina		n19976,n19976a	nick139
 nick140	Great Black Heaven Protect	Each time you move, increase the combo rate and critical hit rate by 8%		n00013,n00013b	nick140
@@ -131,15 +131,15 @@ nick148	Winery Elder	Each round increases dodge rate by 3%, maximum 15%; when ac
 nick149	Imperial Guard Commander	Each round, for enemies within a distance of 2 units from oneself, reduce all skill values by 10 points		n60340	nick149
 nick150	Mount Diancang Swordsman	After launching a counterattack, the character's attack power increases by 5%, up to a maximum cumulative increase of 50%		n60007	nick150
 nick151	Border General	All allied forces on the field receive a 15% damage reduction		n20495,n20495b	nick151
-nick152	Wugenguo Shishi	For each enemy killed, restore 30% of your own Qi and recover 3 points of your energy		n20510	nick152
+nick152	Wugenguo Shishi	For every enemy defeated, restore 30% of your own lifeforce and recover 3 points of energy		n20510	nick152
 nick153	Great Yan Imperial Family	Should a counterattack, waiting by the stump for rabbits, or cuckoos after swallows occur, additionally reduce the target's 2 points of energy		n20513	nick153
-nick154	Nine-Pouch Elder	When one's own Qi and blood are less than 60%, attack power increases by 50%; when one's own Qi and blood are less than 30%, attack power increases by 100%		n20583	nick154
+nick154	Nine-Pouch Elder	When one's lifeforce is less than 60%, attack power increases by 50%; when one's lifeforce is less than 30%, attack power increases by 100%		n20583	nick154
 nick155	Deputy Guildmaster of Taoshi	After releasing Qi, increase damage of own techniques by 5%, up to a maximum of 30%		n60001	nick155
 nick156	Master of the Taoshi Guild	After activating a critical hit, increase the damage of your techniques by 5%, up to a maximum of 50%		n60002	nick156
 nick157	Snake Beggar	After executing a feint, increase the self combo rate by 15%		n60055	nick157
 nick158	Farmer without peer	When using the technique Farmhand's Grip, damage increases by 200%		n00017	nick158
 nick159	Huxian Yeye	Backsweep deals an additional 15 points of dizziness to the target		n60004,n60004a,n60004b,n60004c	nick159
-nick160	Jing Da Shan Ren	When one's own vitality and blood are below 50%, increase the off-stance rate and counterattack rate by 15% each turn		n60068	nick160
+nick160	Jing Da Shan Ren	When the player's lifeforce is below 50%, increase self-dodge and counterattack rates by 15% each round		n60068	nick160
 nick500	Knock without end	Blacksmith Shop's Products and Services at an 80% Discount!		Player	
 nick501	Without a home to return to	Travel inn's goods and services at an eight-tenth discount!		Player	
 nick502	Money is a bit tight	Antique shop products and services are discounted by 20%!		Player	
@@ -175,14 +175,14 @@ nick531	Master of the River	For every three strikes received, Bai Wen will inevi
 nick532	Golden Mane	The legendary beast king Golden Mane is now at your disposal!		Player	nick532
 nick533	One tooth for one tooth	Black Wolf King's sharp teeth can cause severe external injuries and infectious poison damage to enemies		n59002,n59002_a01,n59002_a02,n59002_a03,n59002_a04,n59002_a05	nick533
 nick534	White Fang Flash	White Wolf King has the opportunity to deal two instances of damage to an enemy and inflict additional bleeding wounds		n21125,n21125_a01,n21125_a02,n21125_a03,n21125_a04,n21125_a05	nick534
-nick535	Lord of the Marsh	Voracious Blood Crocodile Crimson Stain Guild converts 30% of the inflicted damage into its own Qi		n59001,n59001_01,n59001_02,n59001_03,n59001_04,n59001_05	nick535
+nick535	Lord of the Marsh	Bloodthirsty Crocodile Red Spots Guild converts 30% of the damage it causes into its own lifeforce		n59001,n59001_01,n59001_02,n59001_03,n59001_04,n59001_05	nick535
 nick536	Crashing Mountain Strike	Black Bear King Iron Axe can attract the attention of enemies in battle and has the opportunity to knock them out		n59004,n59004_a01,n59004_a02,n59004_a03,n59004_a04,n59004_a05	nick536
 nick537	Break Ice Hammer	White Bear King Silver Palm can attract the enemy's attention in battle and has an opportunity to knock out the enemy		n59004f,n59004f_a01,n59004f_a02,n59004f_a03,n59004f_a04,n59004f_a05	nick537
-nick538	Lin Zhi Wang	Hu Wang Black Bone Sect inflicts severe external injuries on enemies and converts 30% of the inflicted damage into its own Qi		n59005f,n59005f_a01,n59005f_a02,n59005f_a03,n59005f_a04,n59005f_a05	nick538
-nick539	Lord of the Mountain	Huwang Nanbaotian's move inflicts serious external injuries on the opponent and converts 30% of the inflicted damage into its own Qi		n59005,n59005_a01,n59005_a02,n59005_a03,n59005_a04,n59005_a05	nick539
+nick538	Lin Zhi Wang	Venture King Bone Club inflicts serious external injuries on the enemy and converts 30% of the inflicted damage into their own lifeforce		n59005f,n59005f_a01,n59005f_a02,n59005f_a03,n59005f_a04,n59005f_a05	nick538
+nick539	Lord of the Mountain	Hu Wang Nan Batei Style can inflict severe external injuries on enemies and convert 30% of the inflicted damage into its own lifeforce		n59005,n59005_a01,n59005_a02,n59005_a03,n59005_a04,n59005_a05	nick539
 nick540	Constantly noisy or clamorous	Every third attack will definitely be a feint, and there is a chance to dodge the enemy's attack		n59006,n59006_a01,n59006_a02,n59006_a03,n59006_a04,n59006_a05	nick540
 nick541	Shadow Swift	The shadow can inflict high damage with an external injury effect on enemies, and has a chance to dodge enemy attacks		n59007_B01,n59007_B01a,n59007_B01b,n59007_B01c,n59007_B01d,n59007_B01e	nick541
-nick542	Chexi	Snow Shadow can inflict high damage with an external injury effect on enemies, and convert a certain amount of that damage into its own Qi		n59007_W01,n59007_W01a,n59007_W01b,n59007_W01c,n59007_W01d,n59007_W01e	nick542
+nick542	Chexi	Snow Shadow can inflict high damage with an external injury effect on enemies and convert a portion of that damage into its own lifeforce		n59007_W01,n59007_W01a,n59007_W01b,n59007_W01c,n59007_W01d,n59007_W01e	nick542
 nick543	King of Venom	Each time Gigantum attacks, it does so with deadly poison while also being able to evade enemy attacks during combat		n59008,n59008_001,n59008_002,n59008_003,n59008_004,n59008_005	nick543
 nick544	Legendary Beast King	The Beast King Jinzong, unmatched in the world; no one can rival him		n59009,n59009_a01,n59009_a02,n59009_a03,n59009_a04,n59009_a05	nick544
 nick600	Beikexia	The name of the Northern Wuxia is formidable across the Central Plains. The power of fist and sword, as well as bow and arrow, increases by 25%, and there is a 50% chance to inflict damage on an enemy twice		n80416,Player	nick600

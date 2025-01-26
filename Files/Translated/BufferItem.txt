@@ -737,7 +737,7 @@
     translated: "Red Jade"
   - split: 2
     text: "伤害值的10%转为自身气血（吸血）"
-    translated: "10% of the damage dealt is converted into the user's own blood (siphon)"
+    translated: "Convert 10% of damage dealt into self-life force (siphoning)"
 - lineNum: 74
   raw: "forge003	云母	每次攻击额外累积3点卸劲值	0		0	FALSE	0	FALSE	0	0		forge003"
   translated: ""
@@ -807,7 +807,7 @@
     translated: "Child-Ox Nightlight Stone"
   - split: 2
     text: "伤害值的25％转为自身气血"
-    translated: "Deal damage equal to 25% of the value as health for oneself"
+    translated: "Damage dealt is converted into 25% of the user's lifeforce"
 - lineNum: 81
   raw: "forge010	幽息月光石	伤害值的25％转为自身内力	0		0	FALSE	0	FALSE	0	0		forge009"
   translated: ""
@@ -3177,7 +3177,7 @@
     translated: "Cuiluan Gong"
   - split: 2
     text: "运行翠峦功时，每回合回复3%气血"
-    translated: "When performing Ruiluan Gong, recover 3% of Qi during each round"
+    translated: "While practicing Qiluan Gong, restore 3% lifeforce each turn"
 - lineNum: 318
   raw: "buffSkillTree019_002	祛病诀	运行翠峦功时，每回合中毒程度减少10%	0	buffSkillTree019_000	0	TRUE	0	FALSE	0	1	(Poisoned,-10)	beginUnitProp"
   translated: ""
@@ -3197,7 +3197,7 @@
     translated: "Layer upon layer of hills and mountains"
   - split: 2
     text: "运行翠峦功时，每回合回复6%气血"
-    translated: "When performing Ruiluan Gong, restore 6% of your health each turn"
+    translated: "When practicing Runyu Cui Luan, recover 6% of lifeforce each round"
 - lineNum: 320
   raw: "buffSkillTree019_008	青霞诀	运行翠峦功时，每回合回复12%气血、12%内力	0	buffSkillTree019_000	0	TRUE	0	FALSE	0	1	(HP,12)(MP,12)	beginUnitProp"
   translated: ""
@@ -3207,7 +3207,7 @@
     translated: "Qing Xia Jue"
   - split: 2
     text: "运行翠峦功时，每回合回复12%气血、12%内力"
-    translated: "When executing Runyu Cui Luan Skill, recover 12% health and 12% energy each round"
+    translated: "When executing the Lush Green Ridge Technique, each turn restores 12% of your lifeforce and 12% of your internal strength"
 - lineNum: 321
   raw: "buffSkillTree020_002	骊驹并驾	施展后，直线冲刺2格。	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -3597,7 +3597,7 @@
     translated: "Qilian Shan Jue"
   - split: 2
     text: "运行祁连山诀时，战斗中的气血最大值提升1000点"
-    translated: "When using the Qi Li Shan Jue technique in battle, maximum qi and blood values are increased by 1,000 points"
+    translated: "When executing the QiLian Mountain Skill, the maximum vitality during battle is increased by 1000 points"
 - lineNum: 360
   raw: "buffSkillTree039_005	壁立千仞	运行祁连山诀时，战斗中的气血最大值提升2000点	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -3607,7 +3607,7 @@
     translated: "Standing a thousand feet high"
   - split: 2
     text: "运行祁连山诀时，战斗中的气血最大值提升2000点"
-    translated: "When using the QiLian Shan Jue, maximum health and energy in battle increase by 2000 points"
+    translated: "While performing the Qilian Mountain Secret Technique, the maximum Qi and Lifeforce value during battle increases by 2,000 points"
 - lineNum: 361
   raw: "buffSkillTree039_005_2	壁立千仞	运行祁连山诀时，战斗中的气血最大值提升2000点	0	buffSkillTree039_000	0	TRUE	0	FALSE	0	0		forIcon"
   translated: ""
@@ -3617,7 +3617,7 @@
     translated: "Standing a thousand feet high"
   - split: 2
     text: "运行祁连山诀时，战斗中的气血最大值提升2000点"
-    translated: "When executing the Qi Lian Mountain Technique, maximum health and energy during battle increases by 2000 points"
+    translated: "When running the Qi Ling Mountain Technique during battle, the maximum Lifeforce value is increased by 2000 points"
 - lineNum: 362
   raw: "buffSkillTree040_004	策马奔腾	水浒英雄掌的消耗精力减少1点	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -7327,7 +7327,7 @@
     translated: "Priceless"
   - split: 2
     text: "帮一名队友恢复275点气血；自身医术愈高，恢复量愈高"
-    translated: "Assist a teammate in recovering 275 points of Qi and Blood; the higher one's medical skills, the greater the recovery amount"
+    translated: "Restore a team member's 275 Qi; the higher your medical skills, the greater the restoration amount"
 - lineNum: 733
   raw: "buffSkillTree150_007	九转彤云丹	学会九转彤云丹的配方	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -7357,7 +7357,7 @@
     translated: "Return Qi to Open Meridians"
   - split: 2
     text: "帮周遭队友恢复350点气血；自身医术愈高，恢复量愈高"
-    translated: "Assist teammates in restoring 350 points of Qi and blood; the higher your medical skills, the greater the recovery amount"
+    translated: "Help teammates restore 350 points of lifeforce; the higher your healing skills, the greater the recovery amount"
 - lineNum: 736
   raw: "buffSkillTree151_008	玉龙养气丸	学会玉龙养气丸的配方	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -7497,7 +7497,7 @@
     translated: "Red Blood Demon Qi Technique"
   - split: 2
     text: "对敌人造成的伤害，部分转为自身气血"
-    translated: "To inflict damage on the enemy, convert part of it into one's own Qi and blood"
+    translated: "Convert a portion of the damage inflicted on the enemy into one's own lifeforce"
 - lineNum: 750
   raw: "buffSkillTree155_003	血流成河	邪值越高，血饮魔功的吸血效果越显著	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0"
   translated: ""
@@ -7637,7 +7637,7 @@
     translated: "Taiqing Rong Qi"
   - split: 2
     text: "每回合回复气血4%，回复内伤10%"
-    translated: "Every turn, recover 4% health and heal 10% internal injury"
+    translated: "Each round, restore Lifeforce by 4%, and heal Internal Injury by 10%"
 - lineNum: 764
   raw: "buffSkillTree160_002	乾坤罡气	每回合回复气血8%，回复内伤16%	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,8)(Injured,-16)	beginUnitProp"
   translated: ""
@@ -7647,7 +7647,7 @@
     translated: "Heavenly Gongan Qi"
   - split: 2
     text: "每回合回复气血8%，回复内伤16%"
-    translated: "Recover 8% HP and heal internal injuries by 16% each turn"
+    translated: "Each turn restores 8% lifeforce and heals internal injuries by 16%"
 - lineNum: 765
   raw: "buffSkillTree160_006	北斗天罡	每回合回复气血12%，回复内伤24%	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp"
   translated: ""
@@ -7657,7 +7657,7 @@
     translated: "Big Dipper and Northern Pole"
   - split: 2
     text: "每回合回复气血12%，回复内伤24%"
-    translated: "Every round recover 12% health and heal internal injuries by 24%"
+    translated: "Each round recover 12% of lifeforce, recover internal injury by 24%"
 - lineNum: 766
   raw: "buffSkillTree161_000	天地生息	帮一名队友恢复800点气血；自身医术愈高，恢复量愈高	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_000"
   translated: ""
@@ -7667,7 +7667,7 @@
     translated: "The cycle of life and death"
   - split: 2
     text: "帮一名队友恢复800点气血；自身医术愈高，恢复量愈高"
-    translated: "Restore a teammate's 800 HP; the higher your medical skill, the more you restore"
+    translated: "Revive an ally to restore 800 points of lifeforce; the higher your medical skills, the greater the recovery amount"
 - lineNum: 767
   raw: "buffSkillTree161_006	碧蚕蛊毒	可炼制碧蚕蛊毒。若行囊中有碧蚕蛊毒，则施展此招式时对敌方造成75点中毒	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_006"
   translated: ""
@@ -7687,7 +7687,7 @@
     translated: "Springwell"
   - split: 2
     text: "帮区域队友恢复700点气血；自身医术愈高，恢复量愈高"
-    translated: "Healing area teammates for 700 qi and blood points; the higher your medical skill, the greater the healing amount"
+    translated: "The recovery zone restores a team member's lifeforce by 700 points; the higher your healing skills, the greater the recovery amount"
 - lineNum: 769
   raw: "buffSkillTree161_011_2	涤脉	帮区域队友解除15点负面状态	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_011_2"
   translated: ""
@@ -8147,7 +8147,7 @@
     translated: "Primordial Skill"
   - split: 2
     text: "每回合回复气血12%，回复内伤24%；可于战斗中复活一次，复活同时回复气血40%"
-    translated: "Each round restores 12% HP and recovers 24% internal injuries; can be revived once during battle, reviving also restoring 40% HP"
+    translated: "Every round restores 12% of life force, heals internal injuries by 24%; can be revived once during combat, with revival restoring 40% of life force"
 - lineNum: 815
   raw: "buffSkillTree175_003	先天一炁	每回合回复气血12%，回复内伤24%；可于战斗中复活一次，复活同时回复气血80%	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp"
   translated: ""
@@ -8157,7 +8157,7 @@
     translated: "Primordial Qi"
   - split: 2
     text: "每回合回复气血12%，回复内伤24%；可于战斗中复活一次，复活同时回复气血80%"
-    translated: "Each round recovers 12% of health and 24% of internal injuries; can revive once during battle, restoring 80% health upon revival"
+    translated: "Restore 12% health each round and recover 24% from internal injuries; can revive once during battle, restoring 80% of health upon revival"
 - lineNum: 816
   raw: "buffSkillTree176_000_1	沾黏劲	施展缠劲裹住敌人，使敌人更倾向于将目标转为自己	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -8717,7 +8717,7 @@
     translated: "The Infinite Heart Technique"
   - split: 2
     text: "减免自身所受伤害8%，每回合回复气血8%"
-    translated: "Reduce damage taken by 8%, recover 8% of your Qi per turn"
+    translated: "Reduce damage taken by 8%, recover lifeforce by 8% each turn"
 - lineNum: 872
   raw: "buffSkillTree192_000_4	无量心法	减免自身所受伤害8%，每回合回复气血8%，每回合回复内力8%	0	battle	0	TRUE	0	FALSE	0	0		forIcon"
   translated: ""
@@ -8727,7 +8727,7 @@
     translated: "No Limitation Heart Method"
   - split: 2
     text: "减免自身所受伤害8%，每回合回复气血8%，每回合回复内力8%"
-    translated: "Reduce the damage taken by 8%, recover Qi 8% each round, and recover internal energy 8% each round"
+    translated: "Reduce the damage taken by 8%, recover 8% of Lifeforce each turn, and restore 8% of Internal Power each turn"
 - lineNum: 873
   raw: "buffSkillTree192_005	慈无量心	每回合回复内力8%	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -8747,7 +8747,7 @@
     translated: "Heart broken without measure"
   - split: 2
     text: "每回合回复气血8%"
-    translated: "Restore 8% health each turn"
+    translated: "Restore 8% of life force each turn"
 - lineNum: 875
   raw: "buffSkillTree193_000	再造膏	学会再造膏的配方	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -8917,7 +8917,7 @@
     translated: "Qingcheng Alliance"
   - split: 2
     text: "当青城掌门人气血低落时，提升自身战斗能力。"
-    translated: "When the Qingcheng Sect leader's qi and blood are low, they enhance their combat abilities"
+    translated: "When the Qingcheng Sect master's lifeforce is low, enhance their combat ability"
 - lineNum: 892
   raw: "BattleSchedule001b	掌门风骨	负起西蜀正派领袖之责，每回合额外增加自身精力，并提升反击率。	0	battle	0	TRUE	0	FALSE	0	0	(AP,7)(CounterAttack,20)	beginUnitProp"
   translated: ""
@@ -8947,7 +8947,7 @@
     translated: "Intent to kill grew stronger"
   - split: 2
     text: "短暂恢复自身气血，并提升战斗能力。"
-    translated: "Temporarily recover one's own vital energy and enhance combat ability"
+    translated: "Temporarily restore one's own lifeforce and enhance combat ability"
 - lineNum: 895
   raw: "BattleSchedule002b	恨意冲天	恨意高涨，大幅提升自身战斗能力！	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002b"
   translated: ""
@@ -8977,7 +8977,7 @@
     translated: "Intent to kill grew stronger"
   - split: 2
     text: "面对凌中岳欲抢天书，短暂回复自身气血，并累进招式威力。"
-    translated: "Confronted with Ling Zhong Yue attempting to seize the Heavenly Scriptures, a brief response replenishes his own Qi and blood, further enhancing the power of his techniques"
+    translated: "Confronted with Ling Zhongyue's attempt to seize the Heavenly Scriptures, he briefly restored his own lifeforce and increased the power of his techniques"
 - lineNum: 898
   raw: "BattleSchedule002e	内伤沉重	气急攻心，内伤发作，招式伤害大幅降低。	0	battle_debuff	0	TRUE	0	FALSE	0	0	(SkillDamageFactor,-75)	beforeAttackProp"
   translated: ""
@@ -8997,7 +8997,7 @@
     translated: "Intensely vengeful"
   - split: 2
     text: "明教教众被击杀后，恢复自身气血，并提升战斗能力。"
-    translated: "After the Ming Cult followers were killed, they restored their own Qi and blood, and enhanced their combat abilities"
+    translated: "After the Ming Cult followers were killed, they restored their own lifeforce and enhanced their combat abilities"
 - lineNum: 900
   raw: "BattleSchedule004	仇敌当前	明教教众被击杀后，提升自身战斗能力。	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule004"
   translated: ""
@@ -9027,7 +9027,7 @@
     translated: "Anger as high as the sky"
   - split: 2
     text: "短暂回复自身气血，并提升战斗能力。"
-    translated: "Temporarily recover one's own vitality and enhance combat ability"
+    translated: "Quickly recover one's life force and enhance combat ability"
 - lineNum: 903
   raw: "BattleSchedule007	屏气凝神	短暂回复自身气血，并提升战斗能力。	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule007"
   translated: ""
@@ -9037,7 +9037,7 @@
     translated: "Control breath and concentrate"
   - split: 2
     text: "短暂回复自身气血，并提升战斗能力。"
-    translated: "Quickly restore Qi and blood, and enhance combat ability"
+    translated: "Short-term recovery of one's lifeforce and enhancement of combat ability"
 - lineNum: 904
   raw: "BattleSchedule008	鬼王之怒	因百里惮赫身陷危急，爆发自身战斗潜能，技能伤害提升并每回合累加连击率。	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008"
   translated: ""
@@ -9457,7 +9457,7 @@
     translated: "Strength-enhancing potion"
   - split: 2
     text: "以蛊术逼迫体内潜能，回复自身气血值50%，伤害增加30%"
-    translated: "Use the Art of Gathering to forcibly tap into your inner potential, restore 50% of your own Qi and blood, and increase damage by 30%"
+    translated: "Use cultivation techniques to unlock latent potential within, restoring 50% of one's lifeforce and increasing damage by 30%"
 - lineNum: 946
   raw: "BattleSchedule047	道德沦丧隐藏buff	道德值降低两点	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule047"
   translated: ""
@@ -9487,7 +9487,7 @@
     translated: "Fiery Flame Kunlun Ridge"
   - split: 2
     text: "运行时大量提升攻防战斗能力，五回合后将耗尽气血"
-    translated: "During operation, significantly enhances combat power in offense and defense. After five rounds, it will deplete Qi and blood"
+    translated: "'Increase combat ability significantly during runtime, but after five rounds, it will exhaust your lifeforce.'"
 - lineNum: 949
   raw: "BattleSchedule050	血海深仇	大敌当前斗志高昂，伤害增加50%、每回合回复精力值额外增加4点、迷惑值累积20点	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule050"
   translated: ""
@@ -9567,7 +9567,7 @@
     translated: "Marvelous Hand Reviving Life"
   - split: 2
     text: "每经过三回合回复自身气血20%"
-    translated: "After every three rounds, restore 20% of their own Qi and blood"
+    translated: "Regain 20% of your own lifeforce every three turns"
 - lineNum: 957
   raw: "BattleSchedule058	蛇蝎美人	缓慢中毒，每回合累积中毒值10点	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule058"
   translated: ""
@@ -10187,7 +10187,7 @@
     translated: "Training hunting eagles"
   - split: 2
     text: "捕食愈多猎鹰，每回合额外恢复气血与精力愈多"
-    translated: "With more prey hunted, the falcon recovers more Qi and energy each turn"
+    translated: "For each additional hunter falcon captured, it recovers more lifeforce and energy each round"
 - lineNum: 1019
   raw: "BattleSchedule510	顽抗不屈	雪翼雕性情凶猛固执，就算一死也绝不逃走！	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule510"
   translated: ""
@@ -10267,7 +10267,7 @@
     translated: "Aspiration for Power"
   - split: 2
     text: "木奎的战斗能力大幅提升，并持续恢复自身气血！"
-    translated: "Mo Kui's combat ability has significantly improved, and he continuously restores his own Qi and blood!"
+    translated: "Mo Kui's battle capabilities have significantly improved, and he continues to recover his lifeforce!"
 - lineNum: 1027
   raw: "BattleSchedule518	「干戈」	木奎身陷危境，孤枪奋战！战斗能力大幅提升，并持续恢复自身气血！	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518"
   translated: ""
@@ -10277,7 +10277,7 @@
     translated: "War and weapons"
   - split: 2
     text: "木奎身陷危境，孤枪奋战！战斗能力大幅提升，并持续恢复自身气血！"
-    translated: "Mo Kui is in a perilous situation, fighting bravely alone! His combat ability has significantly increased and he continuously regains his qi and blood!"
+    translated: "Mo Kui is in a perilous situation, fighting alone with great strength! His combat ability has significantly increased and he continues to recover his lifeforce!"
 - lineNum: 1028
   raw: "BattleSchedule519	众志成城	跟上二爷的脚步！招式伤害大幅提升，并持续恢复自身气血！	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule519"
   translated: ""
@@ -10287,7 +10287,7 @@
     translated: "United we stand"
   - split: 2
     text: "跟上二爷的脚步！招式伤害大幅提升，并持续恢复自身气血！"
-    translated: "Follow Second Elder's steps! Martial arts damage significantly increased, and it continuously restores your own Qi and blood!"
+    translated: "Follow the Second Young Master's footsteps! The technique greatly increases damage and continuously restores your own lifeforce!"
 - lineNum: 1029
   raw: "BattleSchedule520	孤胆护主	图勒护主心切，浴血奋战…每回合大幅累加外伤值，并损失大量气血	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule520"
   translated: ""
@@ -10297,7 +10297,7 @@
     translated: "Lonely Defender"
   - split: 2
     text: "图勒护主心切，浴血奋战…每回合大幅累加外伤值，并损失大量气血"
-    translated: "Tuluhu fiercely defends the leader, fighting bloodily... Each round significantly increases external injury value and loses a large amount of Qi"
+    translated: "Chu Le is fiercely loyal and battles with bloodshed... Each round greatly increases the external injury value and causes a significant loss of lifeforce"
 - lineNum: 1030
   raw: "BattleSchedule521	临阵反叛	桑登阵前叛变，协助捉拿木府叛乱者木奎！	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule521"
   translated: ""
@@ -10837,7 +10837,7 @@
     translated: "Mountain Goblin Demon King"
   - split: 2
     text: "背袭时威力增强30%，攻击时15%伤害转换为自身气血"
-    translated: "Counterattack increases damage by 30%, and during attacks, 15% of the damage is converted into own Qi"
+    translated: "When counterattacking, power increases by 30%, and during the attack, 15% of damage is converted into self-life force"
 - lineNum: 1084
   raw: "nick020	儒心剑胆	自身每回合反击值+25，所有友方获得状态「儒剑之阵」	0	nickname	0	TRUE	0	FALSE	0	0		nick020"
   translated: ""
@@ -11287,7 +11287,7 @@
     translated: "Successor of the Tusi"
   - split: 2
     text: "每回合开始时恢复周围2单位距离内友军15%气血值，连击率提升15%"
-    translated: "At the start of each round, restore 15% HP to allied units within a 2-unit radius; increase combo rate by 15%"
+    translated: "At the start of each round, restore 15% lifeforce to allies within a 2-unit distance and increase hit combo rate by 15%"
 - lineNum: 1129
   raw: "nick107	「木府军阀」	发动爆击时，自身爆击率提升20%，并对自身与范围2格内友方附加「战意高昂」	0	nickname	0	TRUE	0	FALSE	0	0		nick107"
   translated: ""
@@ -11307,7 +11307,7 @@
     translated: "High morale and eager to fight"
   - split: 2
     text: "每回合回复气血10%并累加爆击率10%，持续三回合"
-    translated: "Each round restores 10% health and cumulatively increases critical hit rate by 10%, lasting for three rounds"
+    translated: "Each round restores 10% lifeforce and adds a cumulative critical hit rate of 10%, lasting for three rounds"
 - lineNum: 1131
   raw: "nick108	「三朵战将」	自身周围2单位距离内每存在一名敌军，自身爆击时额外回复精力1点	0	nickname	0	TRUE	0	FALSE	0	0		nick108"
   translated: ""
@@ -11337,7 +11337,7 @@
     translated: "Unequaled in the world"
   - split: 2
     text: "自身每损失1%气血，伤害增加1%；每回合解除所有负面状态20点"
-    translated: "For every 1% of Qi and blood lost, damage increases by 1%; each turn, removes all negative status effects for 20 points"
+    translated: "For every 1% loss of Qi, damage increases by 1%; removes all negative statuses for 20 points each turn"
 - lineNum: 1134
   raw: "nick112	「从心所欲」	自身每回合反击率、卸劲率提升25%	0	nickname	0	TRUE	0	FALSE	0	0		nick112"
   translated: ""
@@ -11387,7 +11387,7 @@
     translated: "Western Kitchen"
   - split: 2
     text: "攻击时50%伤害转换为自身气血"
-    translated: "When attacking, 50% of the damage is converted to your own Qi"
+    translated: "During attack, 50% of the damage is converted into self-life force"
 - lineNum: 1139
   raw: "nick118	「北丑」	触发连击时攻击力增加100%，持续一回合	0	nickname	0	TRUE	0	FALSE	0	0		nick118"
   translated: ""
@@ -11547,7 +11547,7 @@
     translated: "Stomach growling with hunger"
   - split: 2
     text: "攻击后，25%机率消耗1个背包里的肉包，并对自身附加「饱食」，每回合额外回复自身气血15%、精力值1点"
-    translated: "After attacking, there is a 25% chance to consume one meat bun from the backpack and apply Full Satiety to oneself. Each turn, it additionally restores 15% of one's own Qi and Energy by 1 point"
+    translated: "After attacking, there is a 25% chance to consume one meat bun from the inventory and apply Well-Fed status to self, which restores an additional 15% of self's Lifeforce and 1 point of energy each turn"
 - lineNum: 1155
   raw: "nick130a	「饱食」	每回合额外回复自身气血15%、精力值1点	0	battle	0	TRUE	0	FALSE	0	0		nick130a"
   translated: ""
@@ -11557,7 +11557,7 @@
     translated: "Well-fed"
   - split: 2
     text: "每回合额外回复自身气血15%、精力值1点"
-    translated: "Each round, additionally recover 15% of own Qi and 1 point of energy"
+    translated: "Every round, additionally recover 15% of own Lifeforce and 1 point of Energy"
 - lineNum: 1156
   raw: "nick131	「输光屁股」	每次攻击有50%机率对目标造成250%伤害，50%机率造成25%伤害	0	nickname	0	TRUE	0	FALSE	0	0		nick131"
   translated: ""
@@ -11587,7 +11587,7 @@
     translated: "Big Pot Head"
   - split: 2
     text: "自身气血愈少，爆击时伤害愈高"
-    translated: "'As one's own qi and blood decrease, the damage dealt during a burst attack increases.'"
+    translated: "The less internal vitality (Qi) one has, the higher the damage during an explosive attack"
 - lineNum: 1159
   raw: "nick134	「叶家少主」	若攻击目标为男性，造成的伤害增加50%，若攻击目标为女性，造成的伤害减少50%	0	nickname	0	TRUE	0	FALSE	0	0		nick134"
   translated: ""
@@ -11627,7 +11627,7 @@
     translated: "Chongwei Yile"
   - split: 2
     text: "每回合自身周围距离2单位内友方，回复气血10%、提升反击率10%"
-    translated: "Each round, all friendly targets within a distance of 2 units will recover 10% of their health and have their counterattack rate increased by 10%"
+    translated: "Each turn, restore 10% Qi to friendly units within a distance of 2 units and increase counterattack rate by 10%"
 - lineNum: 1163
   raw: "nick138	「铁面劲装」	发动爆击时，额外回复自身精力3点	0	nickname	0	TRUE	0	FALSE	0	0		nick138"
   translated: ""
@@ -11787,7 +11787,7 @@
     translated: "Wolves' Barbarian Master"
   - split: 2
     text: "每击杀一名敌方，回复自身气血30%，回复自身精力3点"
-    translated: "For every enemy defeated, restore 30% of your own Qi and replenish 3 points of energy"
+    translated: "For every enemy killed, restore your own lifeforce by 30% and regain 3 points of energy"
 - lineNum: 1179
   raw: "nick153	「大燕皇室」	若发动反击、守株待兔、黄雀在后，额外减少目标2点精力	0	nickname	0	TRUE	0	FALSE	0	0		nick153"
   translated: ""
@@ -11807,7 +11807,7 @@
     translated: "Nine-Bag Elder"
   - split: 2
     text: "当自身气血少于60%，攻击力增加50%；当自气血少于30%，攻击力增加100%"
-    translated: "When one's Qi and blood are below 60%, attack power increases by 50%; when one's Qi and blood are below 30%, attack power increases by 100%"
+    translated: "When your own lifeforce is less than 60%, attack power increases by 50%; when your own lifeforce is less than 30%, attack power increases by 100%"
 - lineNum: 1181
   raw: "nick155	「淘石副帮主」	发动卸劲后，增加自身招式伤害5%，最高30%	0	nickname	0	TRUE	0	FALSE	0	0		nick155"
   translated: ""
@@ -11867,7 +11867,7 @@
     translated: "Lifetime Prosperity"
   - split: 2
     text: "当自身气血在50%以下时，每回合提升自身卸劲率与反击率15%"
-    translated: "When your own qi and blood are below 50%, increase your evasive rate and counterattack rate by 15% each turn"
+    translated: "When the character's lifeforce is below 50%, increase their relaxation rate and counterattack rate by 15% each turn"
 - lineNum: 1187
   raw: "nick515	「巨猿之友」	巨猿之王「猴三」现在任你差遣！	0	nickname	0	TRUE	0	FALSE	0	0		forIcon"
   translated: ""
@@ -12327,7 +12327,7 @@
     translated: "Continued Recovery"
   - split: 2
     text: "3回合内，每回合恢复10%气血"
-    translated: "Recover 10% health per turn for three turns"
+    translated: "Within 3 rounds, recover 10% of lifeforce each round"
 - lineNum: 1233
   raw: "jewelry01	护身符	3%机率闪避敌人攻击；抵御中毒、内伤、外伤1点	0		0	FALSE	0	FALSE	0	0		jewelry01"
   translated: ""
@@ -12347,7 +12347,7 @@
     translated: "Gold necklace"
   - split: 2
     text: "增加气血最大值250点；每回合恢复气血3%"
-    translated: "Increase maximum Qi and blood by 250 points; restore 3% of Qi per round"
+    translated: "Increase maximum Lifeforce by 250 points; restore 3% of Lifeforce each round"
 - lineNum: 1235
   raw: "jewelry03	古佛像	抵御晕眩、迷惑5点	0		0	FALSE	0	FALSE	0	0		jewelry03"
   translated: ""
@@ -12547,7 +12547,7 @@
     translated: "Gold Lock Fragment"
   - split: 2
     text: "每回合回复气血6%。"
-    translated: "Each round, recover 6% health"
+    translated: "Recover 6% of Lifeforce per round"
 - lineNum: 1255
   raw: "jewelry25	男人的宝贝	每回合回复内力6%；若佩戴者为司徒荆，则额外恢复内力6%。	0		0	FALSE	0	FALSE	0	0		jewelry25"
   translated: ""
@@ -12567,7 +12567,7 @@
     translated: "Dragon's Claw Pearl Loop"
   - split: 2
     text: "战斗开始时，提升气血最大值10%，提升招式伤害5%"
-    translated: "At the start of battle, increase maximum Qi by 10%, and increase skill damage by 5%"
+    translated: "At the start of the battle, increase maximum lifeforce by 10% and increase technique damage by 5%"
 - lineNum: 1257
   raw: "jewelry27	寒血银簪	攻击时，对目标附加中毒5点、冰封3点；每回合减少自身气血5%、内力3%	0		0	FALSE	0	FALSE	0	0		jewelry27"
   translated: ""
@@ -12577,7 +12577,7 @@
     translated: "Frostblood Silver Hairpin"
   - split: 2
     text: "攻击时，对目标附加中毒5点、冰封3点；每回合减少自身气血5%、内力3%"
-    translated: "When attacking, add 5 points of poison and 3 points of frost to the target; reduce own Qi by 5% and Neigong by 3% each turn"
+    translated: "When attacking, deal additional 5 points of poisoning and 3 points of frostbite to the target; reduce own lifeforce by 5% and neigong by 3% each round"
 - lineNum: 1258
   raw: "jewelry28	白银飞燕发钗	每移动一单位距离，恢复自身气血2%	0		0	FALSE	0	FALSE	0	0		jewelry28"
   translated: ""
@@ -12587,7 +12587,7 @@
     translated: "White Silver Flying Swallow Hairpin"
   - split: 2
     text: "每移动一单位距离，恢复自身气血2%"
-    translated: "For each unit of distance moved, restore 2% of your own Qi and blood"
+    translated: "For each unit of distance moved, restore 2% of your own lifeforce"
 - lineNum: 1259
   raw: "jewelry29	并蒂莲心耳饰	战斗开始时，增加自身气血最大值12%、内力最大值6%	0		0	FALSE	0	FALSE	0	0		jewelry29"
   translated: ""
@@ -12597,7 +12597,7 @@
     translated: "Conjoined Lotus Heart Earring"
   - split: 2
     text: "战斗开始时，增加自身气血最大值12%、内力最大值6%"
-    translated: "At the start of the battle, increase maximum health by 12% and maximum internal power by 6%"
+    translated: "At the start of battle, increase maximum Lifeforce by 12% and maximum Neigong by 6%"
 - lineNum: 1260
   raw: "jewelry30	翡翠冰心玉镯	抵御冰封3点，且每回合恢复自身内力3%	0		0	FALSE	0	FALSE	0	0		jewelry30"
   translated: ""
@@ -12617,7 +12617,7 @@
     translated: "Golden Chain Bracelet"
   - split: 2
     text: "自己的回合开始时，若自身气血在15%以下，则恢复气血15%；若佩戴者为张君宝，则额外恢复气血15%"
-    translated: "At the start of your turn, if your HP is below 15%, recover 15% HP; if worn by Zhang Junbao, additionally recover 15% HP"
+    translated: "At the start of your own turn, if your lifeforce is at or below 15%, restore 15% lifeforce; if worn by Zhang Junbao, additionally restore another 15% lifeforce"
 - lineNum: 1262
   raw: "jewelry32	如意双鱼佩	受击后增加卸劲3点；发动卸劲时，恢复自身气血6%	0		0	FALSE	0	FALSE	0	0		jewelry32"
   translated: ""
@@ -12627,7 +12627,7 @@
     translated: "The Fish Amulet of Desires"
   - split: 2
     text: "受击后增加卸劲3点；发动卸劲时，恢复自身气血6%"
-    translated: "After taking a hit, increase offloading pressure by 3 points; when activating offloading pressure, recover 6% of own qi"
+    translated: "Upon being hit, increase deflection force by 3 points; when activating the deflection force, restore 6% of one's lifeforce"
 - lineNum: 1263
   raw: "weapon0108	金丝手套	增加招式伤害2%，内功愈高，效果愈好	0		0	FALSE	0	FALSE	0	0		weapon0108"
   translated: ""
@@ -12667,7 +12667,7 @@
     translated: "Skull-Smashing Devil Claw"
   - split: 2
     text: "攻击时带外伤5点但自身气血减少3%"
-    translated: "During an attack, inflict 5 points of external injury but reduce the attacker's own qi and blood by 3%"
+    translated: "When attacking, inflict an external injury of 5 points but reduce your own lifeforce by 3%"
 - lineNum: 1267
   raw: "weapon0113_2	天残鬼爪	攻击时带外伤10点但自身气血减少3%	0		0	FALSE	0	FALSE	0	0		weapon0113_2"
   translated: ""
@@ -12677,7 +12677,7 @@
     translated: "Scarred Heaven's Claw"
   - split: 2
     text: "攻击时带外伤10点但自身气血减少3%"
-    translated: "During an attack, inflict 10 points of external injury but reduce your own qi and blood by 3%"
+    translated: "During an attack, inflict external damage of 10 points but reduce own lifeforce by 3%"
 - lineNum: 1268
   raw: "weapon0113_3	天残鬼爪	攻击时带外伤15点但自身气血减少3%	0		0	FALSE	0	FALSE	0	0		weapon0113_3"
   translated: ""
@@ -12687,7 +12687,7 @@
     translated: "Cruel Ghost's Claw"
   - split: 2
     text: "攻击时带外伤15点但自身气血减少3%"
-    translated: "When attacking, it carries an external injury of 15 points but reduces the attacker's own Qi and blood by 3%"
+    translated: "During an attack, it inflicts 15 points of external injury but reduces the attacker's own lifeforce by 3%"
 - lineNum: 1269
   raw: "weapon0114	神农	使用医术时，恢复效果提高16%	0		0	FALSE	0	FALSE	0	0		weapon0114"
   translated: ""
