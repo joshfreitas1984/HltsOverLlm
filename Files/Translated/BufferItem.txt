@@ -9067,7 +9067,7 @@
     translated: "Wrath of the King of Ghosts"
   - split: 2
     text: "因仇敌黄裳当前，爆发自身战斗潜能，技能伤害提升并每回合累加连击率。"
-    translated: "When the enemy Huang Shang appears, unleash one's hidden combat potential; skill damage is increased and each turn adds an additional chance for a combo attack"
+    translated: "Due to the presence of the enemy Huang Shang, burst out latent combat potential, increase skill damage and add a cumulative critical rate each turn"
 - lineNum: 907
   raw: "BattleSchedule008d	风王之怒	因仇敌黄裳当前，爆发自身战斗潜能，技能伤害提升并每回合累加爆击率。	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008d"
   translated: ""
@@ -9077,7 +9077,7 @@
     translated: "The Wrath of the Wind King"
   - split: 2
     text: "因仇敌黄裳当前，爆发自身战斗潜能，技能伤害提升并每回合累加爆击率。"
-    translated: "Due to the presence of enemy Huang Shang, unleash latent combat potential, enhance skill damage and cumulatively increase critical hit rate each turn"
+    translated: "Due to the presence of the enemy Huang Shang, a personal grudge is triggered, unleashing hidden combat potential. Skills increase damage and stacking critical hit rate each turn"
 - lineNum: 908
   raw: "BattleSchedule009	嗜血同盟	趁胜追击，提升自身战斗能力。	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule009"
   translated: ""
@@ -9097,7 +9097,7 @@
     translated: "With one heart and one mind"
   - split: 2
     text: "因黄裳身陷危机，激发自身潜能，每回合额外累加自身连击率与反击率。"
-    translated: "Due to Huang Shang's crisis, he unleashes his latent potential, additionally increasing his combo rate and counterattack rate each turn"
+    translated: "Due to Huang Shang being in a crisis, he taps into his latent abilities and additionally increases his combo rate and counterattack rate each turn"
 - lineNum: 910
   raw: "BattleSchedule011	飞虹剑阵	依发动阵法人数提升战斗能力。	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule011"
   translated: ""
@@ -9314,7 +9314,7 @@
   splits:
   - split: 1
     text: "皇甫登云回满血隐藏BUFF"
-    translated: "Huang Fu Deng Yun Hui Man Xue Yincai BUFF"
+    translated: "Huangfu Dengyun restored to full health and activated hidden buffs"
   - split: 2
     text: "回满血。"
     translated: "Return to full health"
@@ -9337,7 +9337,7 @@
     translated: "Zealous to catch the thief"
   - split: 2
     text: "为捉拿李叹，增加自身轻功值30点。"
-    translated: "For the capture of Li Tan, increase your own qinggong by 30 points"
+    translated: "For capturing Li Tan, increase own qinggong value by 30 points"
 - lineNum: 934
   raw: "BattleSchedule035	偷袭重伤	累积外伤值30点。	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule035"
   translated: ""
@@ -9514,7 +9514,7 @@
   splits:
   - split: 1
     text: "禾郁青血量判断BUFF"
-    translated: "He Yuqing's blood quantity judgment BUFF"
+    translated: "He Yuqing assesses the blood quantity for the BUFF"
   - split: 2
     text: "隐藏buff，50%血血量判断、出对话"
     translated: "Hidden buff, judge half blood volume and trigger dialogue"
@@ -9794,7 +9794,7 @@
   splits:
   - split: 1
     text: "王喆降轻功隐藏BUFF"
-    translated: "Wang Zhe descends with hidden buff from Qinggong"
+    translated: "Wang Zhe activates Qinggong to conceal the BUFF"
   - split: 2
     text: "隐藏BUFF，轻功减30点"
     translated: "Hidden Buff, Reduce Agility by 30 points"
@@ -9857,7 +9857,7 @@
     translated: "On the battlefield support!"
   - split: 2
     text: "在家人的鼓舞下，骆元玉的功力大增！"
-    translated: "With the encouragement of their family, Luo Yuanyu's power greatly increased!"
+    translated: "Encouraged by their family, Luo Yuanyu's skill greatly improved!"
 - lineNum: 986
   raw: "BattleSchedule087	你这个叛徒！	青城派弟子怒火中烧，要狠狠修理张君宝一顿	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule087"
   translated: ""
@@ -9887,7 +9887,7 @@
     translated: "Apprehend the pervert"
   - split: 2
     text: "遇上李叹，怒火中烧"
-    translated: "Encountered Li Tan, burning with anger"
+    translated: "Encounter Li Tan, burning with anger"
 - lineNum: 989
   raw: "BattleSchedule090	点苍剑阵	依阵法人数提升技能伤害、反击、回血	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule090"
   translated: ""
@@ -9947,7 +9947,7 @@
     translated: "Desperate as if in flames"
   - split: 2
     text: "漆笑儿受伤，李叹出手迅如雷电"
-    translated: "< div > Qi Xiaor was injured, and Li Tan struck with the speed of lightning. < /div ><|end|>"
+    translated: "Qi Xiaoer was injured, and Li Tan acted swiftly like a thunderbolt"
 - lineNum: 995
   raw: "BattleSchedule096	岁寒剑阵	依阵法人数提升技能伤害、防御、回血	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule096"
   translated: ""
@@ -10517,7 +10517,7 @@
     translated: "Thicket of Poisonous Feathers"
   - split: 2
     text: "若待在何紫菀周围2单位距离内，每回合中毒8点"
-    translated: "If you stay within 2 units of distance from He Ziwang, you will be poisoned for 8 points each round"
+    translated: "If you are within a 2-unit distance from He Ziwang, you will be poisoned for 8 points each turn"
 - lineNum: 1052
   raw: "nick008buffPlus	比翼鸩羽	若待在何紫菀周围4单位距离内，敌人每回合中毒8点、队友解毒5点	0	nickname	0	TRUE	0	FALSE	0	0		nick008buffPlus"
   translated: ""
@@ -10527,7 +10527,7 @@
     translated: "Swans that die together"
   - split: 2
     text: "若待在何紫菀周围4单位距离内，敌人每回合中毒8点、队友解毒5点"
-    translated: "If within 4 units of distance from He Ziwang, enemies are poisoned for 8 points per turn, and allies are detoxified by 5 points per turn"
+    translated: "If you stay within 4 units of distance from He Ziwang, enemies will be poisoned for 8 points per turn, and allies will detoxify by 5 points"
 - lineNum: 1053
   raw: "nick009	雪山神鹰	自身弓箭伤害增加25%，且所有友方获得状态「飞鹰猎手」	0	nickname	0	TRUE	0	FALSE	0	0		nick009"
   translated: ""
@@ -10547,7 +10547,7 @@
     translated: "Master Eagle Hunter"
   - split: 2
     text: "因阿得阿克在场，自身弓箭伤害增加15%"
-    translated: "Due to the presence of Ade Ake, self-damage from bows and arrows increases by 15%"
+    translated: "Due to Ade Ake's presence, the damage from bows and arrows increases by 15%"
 - lineNum: 1055
   raw: "nick009buff2	飞鹰猎手	因阿得阿克在场，自身弓箭伤害增加40%	0	battle	0	TRUE	0	FALSE	0	0		nick009P"
   translated: ""
@@ -10557,7 +10557,7 @@
     translated: "Eagle Hunter"
   - split: 2
     text: "因阿得阿克在场，自身弓箭伤害增加40%"
-    translated: "Due to Ade Ake's presence, the damage from bows and arrows increases by 40%"
+    translated: "Because Ade Ake is present, the self-inflicted damage from archery increases by 40%"
 - lineNum: 1056
   raw: "nick009b	振翅千里	有20%机率闪避敌人攻击	0	nickname	0	TRUE	0	FALSE	0	0		nick009b"
   translated: ""
@@ -10864,7 +10864,7 @@
   splits:
   - split: 1
     text: "百损道姑"
-    translated: "Centuries-Loss Taoist Nun"
+    translated: "Wise Nun Bai Sun"
   - split: 2
     text: "若施展带有冰封效果的武功，招式威力更强"
     translated: "If a martial arts technique with an ice seal effect is used, the technique's power becomes stronger"
@@ -11207,7 +11207,7 @@
     translated: "Yu Long Fei Ying"
   - split: 2
     text: "弓箭伤害增加25%；当阿得阿克在队伍中时，你与阿得阿克的弓箭伤害额外增加15%"
-    translated: "Bow damage increased by 25%; when Ade Ake is in the team, your and Ade Ake's bow damage increases an additional 10%"
+    translated: "Bow and arrow damage increased by 25%; when Ade Ake is in the team, your bow and arrow damage with Ade Ake further increases by an additional 15%"
 - lineNum: 1121
   raw: "nick091	「毒手」	此单位的每一击都带着剧毒！	0	nickname	0	TRUE	0	FALSE	0	0		nick091"
   translated: ""
@@ -11267,7 +11267,7 @@
     translated: "Southwest Indian Cadet"
   - split: 2
     text: "段思良周围10单位距离内每位友军，每回合开始时段思良额外提升爆击率5%"
-    translated: "Within a 10-unit radius around Duan Silang, each allied unit at the start of the turn grants Duan Silang an additional 5% critical rate boost"
+    translated: "Within a 10-unit radius around Duan Silang, each ally grants him an additional 5% critical hit rate at the start of their turns"
 - lineNum: 1127
   raw: "nick105	「名门世族」	董迦罗周围5单位距离敌军，每回合开始时降低爆击率15%	0	nickname	0	TRUE	0	FALSE	0	0		nick105"
   translated: ""
@@ -11277,7 +11277,7 @@
     translated: "Ancient Noble Family"
   - split: 2
     text: "董迦罗周围5单位距离敌军，每回合开始时降低爆击率15%"
-    translated: "Within a 5-unit radius of Deng Jialuo, enemy forces have their critical hit rate reduced by 15% at the start of each turn"
+    translated: "Within a 5-unit radius of Dong Jialuo, enemy forces have their critical strike rate reduced by 15% at the start of each round"
 - lineNum: 1128
   raw: "nick106	「土司继任者」	每回合开始时恢复周围2单位距离内友军15%气血值，连击率提升15%	0	nickname	0	TRUE	0	FALSE	0	0		nick106"
   translated: ""
@@ -11494,7 +11494,7 @@
   splits:
   - split: 1
     text: "「不赦楼主」"
-    translated: "Unforgiving Tower Master"
+    translated: "Merciless Hall Master"
   - split: 2
     text: "使用野球拳时，招式威力增加100%"
     translated: "Using baseball fist increases technique power by 100%"
@@ -12557,7 +12557,7 @@
     translated: "A man's treasure"
   - split: 2
     text: "每回合回复内力6%；若佩戴者为司徒荆，则额外恢复内力6%。"
-    translated: "Every round, recover 6% of Qi; if worn by Situ Jing, additionally restore 6% more Qi"
+    translated: "Recover 6% of your internal power per round; if the wearer is Situ Jing, recover an additional 6%"
 - lineNum: 1256
   raw: "jewelry26	重明玉带钩	战斗开始时，提升气血最大值10%，提升招式伤害5%	0		0	FALSE	0	FALSE	0	0		jewelry26"
   translated: ""

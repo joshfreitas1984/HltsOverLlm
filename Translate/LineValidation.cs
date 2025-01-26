@@ -12,7 +12,7 @@ namespace Translate;
 
 public class LineValidation
 {
-    public const string ChineseCharPattern = @"\p{IsCJKUnifiedIdeographs}";
+    public const string ChineseCharPattern = @".*\p{IsCJKUnifiedIdeographs}.*";
 
     public static string PrepareRaw(string raw)
     {

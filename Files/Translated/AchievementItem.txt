@@ -1541,7 +1541,7 @@
     translated: "Tian Nan Wang Dao"
   - split: 2
     text: "与段思平成为队友"
-    translated: "Partner with Duan Siping"
+    translated: "With Duan Siping as a teammate"
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience points 500, Jianghu reputation, Thousand-year Lingzhi"
@@ -1551,7 +1551,7 @@
   splits:
   - split: 1
     text: "翻天鲲"
-    translated: "Overturning the Leviathan"
+    translated: "Overturning the heavens"
   - split: 2
     text: "与骆元玉成为队友"
     translated: "Partner with Luo Yuanyu"
@@ -1567,7 +1567,7 @@
     translated: "Thousand Gold Daughters of the Horse Gang"
   - split: 2
     text: "与禾郁青成为队友"
-    translated: "Partner with He Yuqing"
+    translated: "With He Yuqing as a teammate"
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience Points +500, Jianghu Reputation, Thousand-Year Lingzhi Mushroom"
@@ -1593,7 +1593,7 @@
     translated: "Snowy Mountain Divine Eagle"
   - split: 2
     text: "与阿得阿克成为队友"
-    translated: "Form an alliance with Ade Ake"
+    translated: "With Ade Ake as a teammate"
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience points 500, Jianghu reputation, thousand-year lingzhi"
@@ -1606,7 +1606,7 @@
     translated: "Spring breeze in October"
   - split: 2
     text: "与李叹成为队友"
-    translated: "Partner with Li Tan"
+    translated: "With Li Tan as a teammate"
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience Points 500, Reputation in the Jianghu, Thousand-Year Lingzhi"
@@ -1616,10 +1616,10 @@
   splits:
   - split: 1
     text: "点苍仙子"
-    translated: "Dian Cang Xianzi"
+    translated: "Diancang Immortal Maiden"
   - split: 2
     text: "与漆笑儿成为队友"
-    translated: "With Qi Xiaor as a teammate"
+    translated: "With Qi Xiao'er as a teammate"
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience Points 500, Jianghu Reputation, Thousand-Year Lingzhi"
@@ -1632,7 +1632,7 @@
     translated: "Heaven's Pillar Fort"
   - split: 2
     text: "与王喆成为队友"
-    translated: "Team up with Wang Zhe"
+    translated: "With Wang Zhe as a teammate"
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience Points: 500, Reputation in Jianghu, Thousand-Year Lingzhi Mushroom"
@@ -1681,10 +1681,10 @@
   splits:
   - split: 1
     text: "恨海孤魂"
-    translated: "Sea of Hatred, Lonely Soul"
+    translated: "The Lonely Soul in the Sea of Hatred"
   - split: 2
     text: "与黄裳成为队友"
-    translated: "With Huang Shang as a teammate"
+    translated: "Partner with Huang Shang"
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience Points: 500, Jianghu Reputation, Thousand-Year Lingzhi"
@@ -1694,10 +1694,10 @@
   splits:
   - split: 1
     text: "玉骨芝兰"
-    translated: "Yu Gu Zhi Lan"
+    translated: "Jade Bones Orchid Lily"
   - split: 2
     text: "与程雁华成为队友"
-    translated: "With Cheng Yanhua as a teammate"
+    translated: "Partner with Cheng Yanhua"
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience points: 500, Jianghu reputation, Thousand-year Lingzhi"
@@ -1736,7 +1736,7 @@
     translated: "Silver Hook Lustrous Colors"
   - split: 2
     text: "与颛孙凝成为队友"
-    translated: "With Zhuan Sunning as a teammate"
+    translated: "Partner with Zhuan Sunning"
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience points: 500, Jianghu reputation, thousand-year lingzhi"
@@ -1749,7 +1749,7 @@
     translated: "Malevolent and insane"
   - split: 2
     text: "与石鸿图成为队友"
-    translated: "Partner with Shi Hongtu"
+    translated: "Form a team with Shi Hongtu"
   - split: 12
     text: "经验值500点，江湖声望，千年灵芝"
     translated: "Experience Points: 500, Jianghu Reputation, Thousand-Year Lingzhi"
@@ -1775,7 +1775,7 @@
     translated: "Plum Blossom Ground"
   - split: 2
     text: "完成骆元玉的好友任务"
-    translated: "Complete Luo Yuanyu's friend task"
+    translated: "Complete Luo Yuanyu's friend quest"
   - split: 12
     text: "经验值5000点，冰蚕丝"
     translated: "Experience Points: 5,000; Ice Silkworm Silk"
@@ -1788,7 +1788,7 @@
     translated: "Horse Gang Leader"
   - split: 2
     text: "完成禾郁青的好友任务"
-    translated: "Complete the friend task for Hu Yiqing"
+    translated: "Complete He Yuqing's friend quest"
   - split: 12
     text: "经验值5000点，冰蚕丝"
     translated: "Experience points 5,000, Ice Silkworm Silk"
@@ -1801,7 +1801,7 @@
     translated: "Swans that die together"
   - split: 2
     text: "完成何紫菀的好友任务"
-    translated: "Complete He Ziwang's friend task"
+    translated: "Complete He Ziwang's friend quest"
   - split: 12
     text: "经验值5000点，冰蚕丝"
     translated: "Experience points 5,000, silk of ice worm"
@@ -1814,7 +1814,7 @@
     translated: "Phoenix Eagle Rises Again"
   - split: 2
     text: "完成阿得阿克的好友任务"
-    translated: "Complete Ade Ake's friend task"
+    translated: "Complete Ade Ake's friend mission"
   - split: 12
     text: "经验值5000点，冰蚕丝"
     translated: "Experience Points: 5,000; Ice Silkworm Silk"
@@ -1827,7 +1827,7 @@
     translated: "Great Elder Brother"
   - split: 2
     text: "完成李叹的好友任务"
-    translated: "Complete Li Tan's friend task"
+    translated: "Complete Li Tan's friendship quest"
   - split: 12
     text: "经验值5000点，乌金"
     translated: "Experience points 5,000; black gold"
@@ -1840,7 +1840,7 @@
     translated: "White Horse Fairy"
   - split: 2
     text: "完成漆笑儿的好友任务"
-    translated: "Complete Qi Xiaor's friend task"
+    translated: "Complete Qi Xiao'er's friend task"
   - split: 12
     text: "经验值5000点，乌金"
     translated: "Experience Points 5000, dark gold"
@@ -1853,7 +1853,7 @@
     translated: "What is greatest in a hero"
   - split: 2
     text: "完成王喆的好友任务"
-    translated: "Complete Wang Zhe's friend mission"
+    translated: "Complete Wang Zhe's friend quest"
   - split: 12
     text: "经验值5000点，乌金"
     translated: "Experience Points: 5,000, Ujin"
@@ -1866,7 +1866,7 @@
     translated: "Madame of Charming Dream Hall"
   - split: 2
     text: "完成樊香蝶的好友任务"
-    translated: "Complete the friend task for Fan Xiangdie"
+    translated: "Complete Fan Xiangdie's friend quest"
   - split: 12
     text: "经验值5000点，乌金"
     translated: "Experience Points: 5,000; Wuxing Gold"
@@ -1905,7 +1905,7 @@
     translated: "Peerless Master"
   - split: 2
     text: "完成黄裳的好友任务"
-    translated: "Complete Huang Shang's friend quest"
+    translated: "Complete Huang Shang's friend task"
   - split: 12
     text: "经验值5000点，龙晶"
     translated: "Experience Points 5,000, Dragon Crystal"
@@ -1918,7 +1918,7 @@
     translated: "Flower-planting Master"
   - split: 2
     text: "完成程雁华的好友任务"
-    translated: "Complete Cheng Yanhua's friend task"
+    translated: "Complete Cheng Yanhua's friend quest"
   - split: 12
     text: "经验值5000点，龙晶"
     translated: "Experience points 5000, Long Crystal"
@@ -1931,7 +1931,7 @@
     translated: "Wipe out completely"
   - split: 2
     text: "完成司徒荆的好友任务"
-    translated: "Complete Situ Jing's friend quest"
+    translated: "Complete the good friend task for Situ Jing"
   - split: 12
     text: "经验值5000点，紫金"
     translated: "Experience points 5000, Zijin"
@@ -1944,7 +1944,7 @@
     translated: "Guang Han Gongzhu"
   - split: 2
     text: "完成百损的好友任务"
-    translated: "Complete Bai Sun's friend task"
+    translated: "Complete Bai Sun's friend quest"
   - split: 12
     text: "经验值5000点，紫金"
     translated: "Experience points 5,000, purple gold"
@@ -1957,7 +1957,7 @@
     translated: "Illusory reflections"
   - split: 2
     text: "完成颛孙凝的好友任务"
-    translated: "Complete Zhuan Sunning's friend task"
+    translated: "Complete Zhuan Sunning's friend quest"
   - split: 12
     text: "经验值5000点，紫金"
     translated: "Experience Points 5,000, Purple Gold"
@@ -1970,7 +1970,7 @@
     translated: "Destroy the World Poison King"
   - split: 2
     text: "完成石鸿图的好友任务"
-    translated: "Complete Shi Hongtu's friend mission"
+    translated: "Complete the quest for Shi Hongtu's friend"
   - split: 12
     text: "经验值5000点，紫金"
     translated: "Experience points: 5,000, Purple Gold"
@@ -2919,7 +2919,7 @@
     translated: "Delicacies and gourmet dishes"
   - split: 2
     text: "珍馐会专属的菜肴你已经都精通了！"
-    translated: "Masterpieces! You have mastered all the exclusive dishes of the Rare Delicacies Society!"
+    translated: "You have mastered all the dishes exclusive to the Delicacies Society!"
   - split: 12
     text: "经验值25000点，江湖声望，千年灵芝，天山雪莲"
     translated: "Experience Points: 25,000; Jianghu Reputation; Thousand-Year Divine Mushroom; Heavenly Mountain Snow Lotus"
@@ -3374,7 +3374,7 @@
     translated: "Foot of the Blue Mountain"
   - split: 2
     text: "完成段思平与何紫菀的结局"
-    translated: "Complete the ending for Duan Siping and He Ziwang"
+    translated: "As Duan Siping and He Ziwang faced their final moments together, the air was thick with unspoken words and lingering emotions. The bond they shared had been forged in the crucible of countless battles, a connection deeper than mere camaraderie. Now, as they stood on the precipice of eternity, it was time to confront the truths that lay buried beneath years of silence"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3387,7 +3387,7 @@
     translated: "White Horse Leisurely Mood"
   - split: 2
     text: "完成李叹与漆笑儿的结局"
-    translated: "Complete the ending for Li Tan and Qi Xiaor"
+    translated: "Li Tan and Qi Xiao'er reached a bittersweet resolution. They parted ways with mutual respect, acknowledging the unspoken feelings they harbored for each other. Li Tan found solace in his friendships, while Qi Xiao'er embarked on new adventures, cherishing memories of their time together"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3400,7 +3400,7 @@
     translated: "Snowy Mountain Divine Eagle"
   - split: 2
     text: "完成阿得阿克的结局"
-    translated: "Complete Ade Ake's conclusion"
+    translated: "Complete Ade Ake's ending"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3413,7 +3413,7 @@
     translated: "The tune ends gracefully"
   - split: 2
     text: "完成樊香蝶的结局"
-    translated: "Complete Fan Xiangdie's conclusion"
+    translated: "Complete Fan Xiangdie's ending"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3452,7 +3452,7 @@
     translated: "Lean on the saddle, think of the horse"
   - split: 2
     text: "完成禾郁青的结局"
-    translated: "To complete the conclusion of He Yuqing"
+    translated: "Complete He Yuqing's ending"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3465,7 +3465,7 @@
     translated: "Ghost Seeking Death"
   - split: 2
     text: "完成黄裳的结局"
-    translated: "Complete Huang Shang's ending"
+    translated: "Complete the ending of Huang Shang"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3491,7 +3491,7 @@
     translated: "Brutal and Poisonous"
   - split: 2
     text: "完成程雁华的第二个结局"
-    translated: "Complete Cheng Yanhua's second ending"
+    translated: "As Cheng Yanhua completed her second ending, she stood on the balcony of Charming Dream Hall, gazing at the sunset over Dayan Town. The wind carried whispers of her past triumphs and tribulations. She smiled softly, knowing that her journey was far from over. With renewed determination, she turned towards the horizon, ready to embrace whatever challenges lay ahead in the world of Wulin"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3543,7 +3543,7 @@
     translated: "Dark Ghosts of the Underworld"
   - split: 2
     text: "完成百损的结局"
-    translated: "Complete the conclusion of Bai Sun's demise"
+    translated: "Complete the conclusion for Bai Sun"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3556,7 +3556,7 @@
     translated: "Never recover or return"
   - split: 2
     text: "完成司徒荆的第二个结局"
-    translated: "Complete Situ Jing's second ending"
+    translated: "Conclude Situ Jing's second ending"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3569,7 +3569,7 @@
     translated: "Nature has given me talents"
   - split: 2
     text: "完成骆元玉的第一个结局"
-    translated: "Complete Lou Yuanyu's first ending"
+    translated: "Complete Luo Yuanyu's first ending"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3582,7 +3582,7 @@
     translated: "When the rabbit dies, the dog gets cooked"
   - split: 2
     text: "完成骆元玉的第二个结局"
-    translated: "Complete Lou Yuanyu's second ending"
+    translated: "Complete Luo Yuanyu's second ending"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3595,7 +3595,7 @@
     translated: "Tempered gaze"
   - split: 2
     text: "完成颛孙凝的结局"
-    translated: "Conclude Zhuansun Ning's ending"
+    translated: "Complete the conclusion for Zhuan Sunning"
   - split: 12
     text: "无奖励"
     translated: "Without reward"
@@ -3959,7 +3959,7 @@
     translated: "Delicacies and gourmet dishes"
   - split: 2
     text: "珍馐会专属的菜肴你已经都精通了！"
-    translated: "You have mastered all the exclusive dishes at the Zhenxu Banquet!"
+    translated: "You have mastered all the dishes exclusive to the Delicacies Society!"
   - split: 12
     text: "无奖励"
     translated: "Without reward"

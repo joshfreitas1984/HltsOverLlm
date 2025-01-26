@@ -18,26 +18,29 @@ public static class TranslationService
 {
     public static TextFileToSplit[] GetTextFilesToSplit()
         => [
-            new() { Path = "AreaItem.txt", SplitIndexes = [1] },
-            new() { Path = "TeleporterItem.txt", SplitIndexes = [1] },
-            new() { Path = "StringTableItem.txt", SplitIndexes = [1] },
             new() { Path = "AchievementItem.txt", SplitIndexes = [1, 2, 12] },
-            new() { Path = "ReforgeItem.txt", SplitIndexes = [3] },
+            new() { Path = "AreaItem.txt", SplitIndexes = [1] },
             new() { Path = "BufferItem.txt", SplitIndexes = [1,2] },
             new() { Path = "CharacterPropertyItem.txt", SplitIndexes = [5] },
             new() { Path = "CreatePlayerQuestionItem.txt", SplitIndexes = [1] },
-            new() { Path = "NicknameItem.txt", SplitIndexes = [1,2] },
-            new() { Path = "NormalBufferItem.txt", SplitIndexes = [1] },
-            new() { Path = "NormalInventoryItem.txt", SplitIndexes = [1,3] },
             new() { Path = "DefaultSkillItem.txt", SplitIndexes = [1] },
             new() { Path = "DefaultTalentItem.txt", SplitIndexes = [1] },
             new() { Path = "EquipInventoryItem.txt", SplitIndexes = [1,3] },
             new() { Path = "EventCubeItem.txt", SplitIndexes = [1] },
             new() { Path = "HelpItem.txt", SplitIndexes = [3,4] },
+            new() { Path = "NicknameItem.txt", SplitIndexes = [1,2] },
+            new() { Path = "NormalBufferItem.txt", SplitIndexes = [1] },
+            new() { Path = "NormalInventoryItem.txt", SplitIndexes = [1,3] },
+            new() { Path = "NpcItem.txt", SplitIndexes = [1] },
+            //new() { Path = "NpcTalkItem.txt", SplitIndexes = [6] },
+            //new() { Path = "QuestItem.txt", SplitIndexes = [1,3] },
+            new() { Path = "ReforgeItem.txt", SplitIndexes = [3] },
             new() { Path = "SkillNodeItem.txt", SplitIndexes = [1,2] },
             new() { Path = "SkillTreeItem.txt", SplitIndexes = [1,3] },
+            new() { Path = "StringTableItem.txt", SplitIndexes = [1] },
+            new() { Path = "TeleporterItem.txt", SplitIndexes = [1] },
             new() { Path = "TalentItem.txt", SplitIndexes = [1,2] },
-            new() { Path = "NpcItem.txt", SplitIndexes = [1] },
+            
             new() { Path = "QuestItem.txt", SplitIndexes = [1,3] },
             new() { Path = "NpcTalkItem.txt", SplitIndexes = [6] },
         ];
@@ -53,7 +56,7 @@ public static class TranslationService
             {  "进度：", "Progress:" },
             {  "刚勇", "Brave and Bold" },
             {  "迁识", "Transfer of Consciousness" },
-            {  "气血", "lifeforce" },
+            {  "气血", "Lifeforce" },
             {  "狂狷", "Wild and Good" },
             {  "阴阳", "Yin and Yang" },
             {  "姑娘", "Young lady" },
@@ -126,7 +129,7 @@ public static class TranslationService
             { "嗯？怎么了？这几位也是要帮咱们找那书生的人吗？", "What? What's going on? Are these people also here to help us find the scholar?" },
             { "哼哼，他当然知道。只可惜对头太强。没种去救。", "Hmm, he certainly knows. It's just too bad that the adversary is too strong. He doesn't have the guts to save." },
             { "哼…他手上已有数片天书碎片，肯定是利用了天书的力量。", "Hum... He already has several pieces of the Heavenly Scriptures, so he must be using the power of the Heavenly Scriptures." },
-            { "哼哼哼...不长...不长...有了河图和洛书，征服这神州大陆，不过是眨眼之间的事。", "Hmm... not long... not long... With the Hetu and Luoshu, conquering this Divine Land would be as easy as blinking." },
+            { "哼哼哼...不长...不长...有了河图和洛书，征服这神州大陆，不过是眨眼之间的事。", "Hmm... not long... not long... With the Hetu and Luoshu, conquering this Divine Land would be as easy as blinking an eye." },
             { "俏梦阁的艳雪姑娘希望明煦公子能找到一对终生不嫌不弃、白首不离的夫妇，并在这对夫妇前立誓终身不负。<br>将这讯息回复给明煦公子吧。", "Charming Dream Hall's beautiful Snow Maiden hopes that Young Master Ming Xu can find a couple who will not tire of each other for life and never part ways in old age, and she wants them to take an oath before her never to betray their lifelong commitment<br>Forward this information to Lord Ming Xu." },
             { "我和阿兄看了这里，觉得虽然穷，可大家都很和善，若是努力干活儿，也愿意给咱们一口饭吃，就打算留下来了。", "I and my elder brother looked around here, and we felt that although it's poor, everyone is very kind. If we work hard, they are willing to give us something to eat. So, we decided to stay" },
             { "…兄长说的是，{name_1}兄，思良无礼了。", "My elder brother said, Duan Silang was rude" },
@@ -150,7 +153,7 @@ public static class TranslationService
             { "需求数量：", "Quanity Required:" },
             { "所持金额：", "Owned:" },
             { "将软筋散解药交给周益", "Give the 'Ruan Jin San Jie' medicine to Zhou Yi." },
-            { "目前选择的游戏难易度为炼狱等级，部分游戏内容会有些不同：", "The current selected game difficulty is 'Inferno' and some parts of the game content will be different." },
+            { "目前选择的游戏难易度为炼狱等级，部分游戏内容会有些不同：", "The current selected game difficulty is 'Purgatory' and some parts of the game content will be different." },
             { "别别别！我见识短浅所以不知道珍馐会的大名，还希望大哥您高抬贵手。", "No no no! Due to my limited experience, I'm unaware of the renowned Jianxu Hall, and I hope you, elder brother, would graciously overlook it." },
             { "呃，你这是在干什么?", "Huh, what are you doing?" },
             { "咦？怎会有人把东西留在这种地方？里面有块图片背后写着：", "Huh? How did someone leave something in such a place? There's a picture inside with writing on the back" },
@@ -165,7 +168,7 @@ public static class TranslationService
             { "来段关于刑法的笑话吧。", "C'mon, share with me a tale of law and laughter from the courts of martial arts!" },
             { "数年后，大研镇便有了这样的传闻：", "Several years later, the rumors about Dayan Town spread like this:" },
             { "我是妹控，给我妹子", "I'm a big fan of younger women, and I will bring happiness to your sister!" },
-            { "请给我所有珍馐会事件的开启旗标。", "Please give me all opening sigils for all events at Zhennxu Pavilion." },
+            { "请给我所有珍馐会事件的开启旗标。", "Please give me all opening sigils for all events at Delicacies Society." },
             { "我想要赋闲书院的介绍信。", "I would like an introduction letter from the Leisurely Scholars Academy." },
             { "嗯...原来是这么个名字...你和那土豪在圣堂经历过的事儿，这酒鬼都已经告诉我了。", "Hmm... so that's your name... the drunkard has already told me about what you and that nobleman experienced in the sanctuary." },
             { "上次……谢谢你带我去大研镇，这是我第一次去这么大的城市。如果没有你，或许我一辈子都不会踏进这样的大城市。我以后想要去更远的地方，回去娘出生的地方，了解自己祖宗生活的地方…………", "The last time... thank you for taking me to Dayan Town, it was my first time visiting such a large city. Without you, perhaps I would never set foot in such a big city. In the future, I want to go even farther, to where my mother was born and learn about where my ancestors lived.…" },
@@ -175,7 +178,7 @@ public static class TranslationService
             { "嗯？等等，这不是槟榔吗？怎么会在这种地方？", "Huh? Wait, isn't this a betel nut? How is it here in a place like this?" },
 
             { "还有南闲…嗯……村里的人会知道这个名号吗？他叫什么名字来着…？", "There is also the Southern Sage... hmm... Would the villagers know this title? What was his name again?" },
-            { "六片...洛书碎片...南闲，你这情报来自何处？怎么前些日子都没和我提起？", "Six pieces... fragments of the Luoshu... Nan Xian, where did you get this intelligence from? Why didn't you mention to me these past few days?" },
+            { "六片...洛书碎片...南闲，你这情报来自何处？怎么前些日子都没和我提起？", "Six pieces... fragments of the Luoshu... Southern Leisure, where did you get this intelligence from? Why didn't you mention to me these past few days?" },
         };
     }
 
@@ -266,6 +269,9 @@ public static class TranslationService
         if (config.ApiKeyRequired)
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", config.ApiKey);
 
+        int incorrectLineCount = 0;
+        int totalRecordsProcessed = 0;
+
         foreach (var textFileToTranslate in GetTextFilesToSplit())
         {
             var inputFile = $"{inputPath}/{textFileToTranslate.Path}";
@@ -290,7 +296,7 @@ public static class TranslationService
             var batchSize = config.BatchSize ?? 20;
             var totalLines = fileLines.Count;
             var stopWatch = Stopwatch.StartNew();
-            int recordsProcessed = 0;
+            int recordsProcessed = 0;            
             int bufferedRecords = 0;
 
             for (int i = 0; i < totalLines; i += batchSize)
@@ -318,16 +324,19 @@ public static class TranslationService
                                 split.Translated = await TranslateSplitAsync(config, split.Text, client, outputFile);
 
                             recordsProcessed++;
+                            totalRecordsProcessed++;
                             bufferedRecords++;
                         }
 
+                        if (string.IsNullOrEmpty(split.Translated))
+                            incorrectLineCount++;
                         //Two translations could be doing this at the same time
-                        if (!cacheHit && useTranslationCache && split.Text.Length <= charsToCache && !string.IsNullOrEmpty(split.Translated))
+                        else if (!cacheHit && useTranslationCache && split.Text.Length <= charsToCache)
                             translationCache.TryAdd(split.Text, split.Translated);
                     }
                 }));
 
-                Console.WriteLine($"Line: {i + batchRange} of {totalLines}");
+                Console.WriteLine($"Line: {i + batchRange} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
 
                 if (bufferedRecords > 250)
                 {
@@ -336,7 +345,7 @@ public static class TranslationService
                     bufferedRecords = 0;
                 }
             }
-
+            
             var elapsed = stopWatch.ElapsedMilliseconds;
             var speed = recordsProcessed == 0 ? 0 : elapsed / recordsProcessed;
             Console.WriteLine($"Done: {totalLines} ({elapsed} ms ~ {speed}/line)");
@@ -461,6 +470,57 @@ public static class TranslationService
         return (false, string.Empty);
     }
 
+    public static async Task<(bool split, string result)> SplitBracketsIfNeeded(LlmConfig config, string raw, HttpClient client, string outputFile)
+    {
+        if (raw.Contains('('))
+        {
+            string output = string.Empty;
+            string pattern = @"([^\(]*|(?:.*?))\(([^\)]*)\)|([^\(\)]*)$"; // Matches text outside and inside brackets
+
+            MatchCollection matches = Regex.Matches(raw, pattern);
+            foreach (Match match in matches)
+            {
+                var outsideStart = match.Groups[1].Value.Trim();
+                var outsideEnd = match.Groups[3].Value.Trim();
+                var inside = match.Groups[2].Value.Trim();                
+
+                if (!string.IsNullOrEmpty(outsideStart))
+                {
+                    var trans = await TranslateSplitAsync(config, outsideStart, client, outputFile);
+                    output += trans;
+
+                    // If one fails we have to kill the lot
+                    if (string.IsNullOrEmpty(trans))
+                        return (true, string.Empty);
+                }
+
+                if (!string.IsNullOrEmpty(inside))
+                {
+                    var trans = await TranslateSplitAsync(config, inside, client, outputFile);
+                    output += $" ({trans}) ";
+
+                    // If one fails we have to kill the lot
+                    if (string.IsNullOrEmpty(trans))
+                        return (true, string.Empty);
+                }
+
+                if (!string.IsNullOrEmpty(outsideEnd))
+                {
+                    var trans = await TranslateSplitAsync(config, outsideEnd, client, outputFile);
+                    output += trans;
+
+                    // If one fails we have to kill the lot
+                    if (string.IsNullOrEmpty(trans))
+                        return (true, string.Empty);
+                }
+            }
+
+            return (true, output.Trim());
+        }
+
+        return (false, string.Empty);
+    }
+
     public static async Task<string> TranslateSplitAsync(LlmConfig config, string? raw, HttpClient client, string outputFile)
     {
         if (string.IsNullOrEmpty(raw))
@@ -483,6 +543,11 @@ public static class TranslationService
             if (split)
                 return result;
         }
+
+        //Brackets
+        var (split2, result2) = await SplitBracketsIfNeeded(config, raw, client, outputFile);
+        if (split2)
+            return result2;
 
         // Prepare the raw by stripping out anything the LLM can't support
         var preparedRaw = LineValidation.PrepareRaw(raw);
@@ -531,7 +596,7 @@ public static class TranslationService
                     translationValid = validationResult.Valid;
 
                     // Append history of failures
-                    if (!translationValid)
+                    if (!translationValid && config.CorrectionPromptsEnabled) 
                     {
                         var correctionPrompt = LineValidation.CalulateCorrectionPrompt(config, validationResult, preparedRaw, llmResult);
 
@@ -565,13 +630,14 @@ public static class TranslationService
     {
         //Dynamically build prompt using whats in the raws
         var basePrompt = new StringBuilder(config.Prompts["BaseSystemPrompt"]);
-        basePrompt.AppendLine(config.Prompts["BaseGlossaryPrompt"]);
-
+        
         if (raw.Contains('{'))
             basePrompt.AppendLine(config.Prompts["DynamicPlaceholderPrompt"]);
 
         //if (raw.Contains("<"))
         //    basePrompt.AppendLine(config.Prompts["DynamicMarkupPrompt"]);
+
+        basePrompt.AppendLine(config.Prompts["BaseGlossaryPrompt"]);
 
         return
         [

@@ -107,7 +107,7 @@
     translated: "Baseball Fist"
   - split: 3
     text: "皇甫登云多年使用野球拳，竟将一双肉掌生生练成了神兵。真·野球拳的无上内劲已与他千锤百炼的肉体合而为一，无坚不摧。"
-    translated: "Huangfu Dengyun had practiced Baseball Fist for many years, and his two fists of flesh had been honed into divine weapons. The supreme internal strength of the true Baseball Fist had merged with his thousand-fold forged physique, rendering him unstoppable"
+    translated: "Huangfu Dengyun, through years of practicing baseball fist, has honed his fleshly fists into divine weapons. The supreme internal strength of true baseball fist has merged with his body tempered by countless blows, becoming unstoppable"
 - lineNum: 11
   raw: "eq10112	夜雪	eq10112	百损以冰蚕丝细密编织而成的手套。薄如蝉翼、轻似鸿羽，戴在手上仿若无物，敌人唯有在双掌加身时才能感受到其上索命的寒气。	101	7000	3500	TRUE	5	70		2	50	50	(Fight,70)	5		frozen03	(it70508,1)"
   translated: ""
@@ -117,7 +117,7 @@
     translated: "Yexue"
   - split: 3
     text: "百损以冰蚕丝细密编织而成的手套。薄如蝉翼、轻似鸿羽，戴在手上仿若无物，敌人唯有在双掌加身时才能感受到其上索命的寒气。"
-    translated: "Hand gloves made from finely woven spider silk. As thin as a cicada's wings and light as swan feathers, they feel like nothing on the hands. The enemy can only sense their deadly chill when making physical contact"
+    translated: "The hand gloves made by Bai Sun are crafted from finely woven ice silkworm silk. They are as thin as a cicada's wings and as light as a swan feather, giving the sensation of wearing nothing when worn on the hands. An enemy can only feel their deadly cold when grasping them with both palms"
 - lineNum: 12
   raw: "eq10113	天残鬼爪	eq10113	青冥幽幽，天残地缺，阴司地曹，恶鬼狰狞。此为司徒荆所持有之专属装备，畸形扭曲的护手如恶鬼青筋，指端针尖锐利无比，稍加挥动都能让人皮开肉绽。	101	7000	3500	TRUE	5	70		6	35	35	(Fight,93)	5		wounded05,weapon0113	(it70504,1)"
   translated: ""
@@ -127,7 +127,7 @@
     translated: "Scarred Heaven's Claw"
   - split: 3
     text: "青冥幽幽，天残地缺，阴司地曹，恶鬼狰狞。此为司徒荆所持有之专属装备，畸形扭曲的护手如恶鬼青筋，指端针尖锐利无比，稍加挥动都能让人皮开肉绽。"
-    translated: "Darkness looms ominously, heaven shattered and earth fractured. In the netherworld's hellish realm where malevolent demons lurk with frightful visages. This is a specialized equipment owned by Situ Jing: the deformed, contorted gauntlets resemble the blue sinews of evil spirits, and the needle-like tips at their ends are razor-sharp beyond compare, capable of tearing flesh apart with even a slight swing"
+    translated: "Darkness envelops the skies, and both heaven and earth are marred with gaps; a realm of malevolent spirits and monstrous demons. This is the unique equipment held by Situ Jing, whose deformed gauntlets resemble the blue veins of evil ghosts, and their pointed tips are incredibly sharp—merely swinging them could tear flesh apart"
 - lineNum: 13
   raw: "eq10114	神农	eq10114	佳人初至草棚，欲为病人略尽心意，无惧纤纤玉指屡遭药草棘刺所伤，不屈不挠。陈之济无奈之下为其特制一双蚕丝手套，贴合轻软却坚韧无比，使其能专心理药，不致受伤。	101	7000	3500	TRUE	5	70		2	50	50	(Fight,45)	5		weapon0114	(it70505,1)"
   translated: ""
@@ -147,7 +147,7 @@
     translated: "Viper Ghost"
   - split: 3
     text: "传说虿鬼或蝎或蛛，乃毒虫所化之恶鬼，此护手以蚕丝制成，加入石鸿图苦心搜集的毒虫炼制而成，挥舞之时嗡嗡作声，如万千毒虫迎风飞舞，诡异之至。"
-    translated: "Legend has it that the scorpion demon or spider demon is a malevolent ghost transformed from poisonous insects. This protective hand guard was made of silkworm silk and crafted with great effort using poisonous insects collected by Shi Hongtu, resulting in its creation. When wielded, it emits a buzzing sound as if thousands of venomous insects are dancing in the wind, truly eerie to behold"
+    translated: "It is said that the poison devil, whether scorpion or spider, is a demon transformed from poisonous insects. The protective sleeve was made of silkworm silk and crafted with poisonous insects collected by Shi Hongtu through great effort. When wielded, it buzzes like countless poisonous insects dancing in the wind, truly eerie"
 - lineNum: 15
   raw: "eq10301	白铁清泉剑	eq10301	一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。	103	2200	1100	TRUE	1	20	ac3a0048	13	45	45	(Sword,65)(TwoSword,65)(BladeSword,65)	10		0	(it70103,1)(it70102,1)"
   translated: ""
@@ -237,7 +237,7 @@
     translated: "Yu Gui Jin Xiang"
   - split: 3
     text: "太华门长老为颛孙凝所打造之专属配剑，轻盈锋利，金黄的剑柄衬着莹白剑身，挥动之时有淡淡华光流泻，如月光映照，美不可言。"
-    translated: "The specialized sword crafted by Zuan Sunning, the Elder of Taihua Gate, is light and sharp. The golden yellow hilt complements the milky white blade. When wielded, it emanates a faint ethereal glow akin to moonlight reflecting on water, its beauty indescribable"
+    translated: "The sword specially forged for Zhuan Sunning by the Grand Elder of Taihua Gate is light and sharp. The gold-yellow hilt contrasts with the milky-white blade, emitting a faint ethereal glow when swung, reminiscent of moonlight reflected on its surface; it is beyond description in beauty"
 - lineNum: 24
   raw: "eq10311	长宁剑	temp	柳叶剑庄庄主夫人解长宁之佩剑，为庄主文淬之早年为表情意，上门向解家求亲，以天铁铸成。此剑剑形与柳叶剑庄善造的柳叶短剑回异，近似中原剑式，剑身长窄且较为轻盈，适合女子运使。	103	100	50	TRUE	2	50		7	100	100	(Sword,20)	5		0	"
   translated: ""
@@ -417,7 +417,7 @@
     translated: "Seven Star Sword"
   - split: 3
     text: "王喆配剑，剑面七处嵌入钢钉，铸成北斗七星之图样，使剑身不易断裂。"
-    translated: "Wang Zhe's sword has seven steel nails embedded on the blade, forming a pattern of the Big Dipper, making it less likely for the blade to break"
+    translated: "Wang Zhe crafted the sword, embedding seven steel nails into its surface to form a pattern resembling the Big Dipper. This design made the blade less prone to breaking"
 - lineNum: 42
   raw: "eq10329	鎏金清泉剑	eq10301	一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。	103	2000	1000	TRUE	1	20	ac3a0048	9	50	50	(Sword,60)(TwoSword,60)(BladeSword,60)	10		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -457,7 +457,7 @@
     translated: "Spiked Wheel Sword"
   - split: 3
     text: "西川兵马指挥使皇甫登云的配剑。此剑乃是当今皇帝御赐的宝剑，价值连城。"
-    translated: "Western River Military Commander Huangfu Dengyun's paired sword. This sword was bestowed by the current emperor and is extremely valuable"
+    translated: "Wuxianguan Shizhijun Huangfu Dengyun's sword. This is a precious sword bestowed by the current emperor, priceless in value"
 - lineNum: 46
   raw: "eq10333	油纸伞	eq10333	剑术到了一定的境界，草木竹石均可为剑，油纸伞有何不可。	103	7000	3500	TRUE	5	99	ac3a0089	10	90	90	(Sword,70)(TwoSword,70)(BladeSword,70)	5		injured06	"
   translated: ""
@@ -647,7 +647,7 @@
     translated: "Deadly Feather"
   - split: 3
     text: "何紫菀所配苗刀，尾端以银月、鸩羽为饰，深红细长的刀刃上喂有毒药，一旦被划伤，小小伤口也将流血不止，药石难愈，鲜血沾染到剑刃后更会与毒液作用结合，出血毒性将益发猛烈。"
-    translated: "He Ziwang's custom-made sword has a tail decorated with a silver crescent and poison feathers. The deep red, slender blade is coated with poison; even the slightest scratch will bleed profusely and be difficult to heal with medicine. If blood stains the blade, it will react with the poison, making the bleeding more toxic"
+    translated: "He Ziwang's sword, decorated with a silver crescent and hemlock feather at the tip, has a deep red, slender blade infused with poison. If someone is cut by it, even a small wound will bleed uncontrollably, difficult to heal by conventional means. The blood that stains the blade reacts with the venom, making the bleeding more toxic"
 - lineNum: 65
   raw: "eq10418	凄花	eq10417	何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。	104	7000	3500	TRUE	5	70	ac3a0054	11	64	64	(Blade,69)(TwoBlade,69)(BladeSword,69)	5		poisoned04,wounded04	(it70112,1)(it70104,1)(it70312,1)"
   translated: ""
@@ -667,7 +667,7 @@
     translated: "White Steed"
   - split: 3
     text: "李叹佩刀，为其师西门玉堂于李叹艺成之日赠予之稀世宝刀。刀刃利薄，刀背流畅，施展之时快、稳、灵、准犹如白驹飞奔，畅而无阻，因此得名。"
-    translated: "Li Tan wears a precious sword given to him by his master Xi Men Yutang on the day of his graduation. The blade is thin and sharp, while the back flows smoothly; when wielded, it is fast, steady, agile, and accurate, like a white horse running freely without hindrance, thus earning its name"
+    translated: "Li Tan wore a sword, which was given to him by his master Ximen Yutang on the day of his success. This rare treasure sword had a sharp and thin blade with a smooth back. When used, it was fast, stable, agile, and accurate like a racing horse running freely without obstruction, hence its name"
 - lineNum: 67
   raw: "eq10420	大刀	eq10420	宽刃厚背，刀体沉重，善于劈砍，多用于古时杀头处刑，亦是盗匪手中常见的兵器。	104	4500	2250	TRUE	1	50	ac3a0063	28	85	85	(Blade,90)(TwoBlade,90)(BladeSword,90)	10		0	(it70102,2)(it70101,1)"
   translated: ""
@@ -1047,7 +1047,7 @@
     translated: "Xiangyi Wuji"
   - split: 3
     text: "骆元玉不知从哪儿得到的奇棍，棍身以致密坚实的紫檀及铁刀木制成，挥舞起来威力惊人。"
-    translated: "Luo Yuanyu did not know where he got the strange staff from, which was made of dense and solid purple sandalwood combined with iron blade wood. When wielded, it had an astonishingly powerful effect"
+    translated: "Luo Yuanyu didn't know where he got the strange cudgel, which was made from dense and sturdy purple sandalwood and iron-bladed wood. When swung, it had astonishing power"
 - lineNum: 105
   raw: "eq10701	飞蝗石	eq10701	武林中人常用的暗器，取材随处可见的卵石。虽然并不锐利，但质地坚硬，赋予内劲后也能成为杀伤力强大的暗器。	107	200	100	TRUE	0	2	eq10701	2	20	20	(Arrow,15)	15		0	(it70102,1)"
   translated: ""
@@ -1367,7 +1367,7 @@
     translated: "Snowy Mountain Divine Eagle"
   - split: 3
     text: "阿得阿克的佩弓，以雪山所产之寒铁打造而成。纳西族人崇敬阿得阿克射术无双，便在弓上雕鹰首为饰，以「雪山神鹰」称之。"
-    translated: "Ade Ake's composite bow was crafted from the cold iron produced in Snow Mountain. Since the Naxi people revered Ade Ake’s unparalleled archery skills, they carved an eagle head as decoration on the bow and called it Snow Mountain Divine Eagle"
+    translated: "Ade Ake's bow is crafted from the cold steel produced in the snow mountains. The Naxi people revere Ade Ake's unmatched archery skills, so they carved an eagle head onto the bow as a decoration and call it Snow Mountain Divine Eagle"
 - lineNum: 137
   raw: "eq10809	定天山	eq10809	传说为名将薛仁贵所用之弓。昔年唐军与回纥九姓十余万人交战于天山，薛仁贵连发三箭，三名骁将应声落马，震慑敌军，从此军中歌曰：将军三箭定天山，壮士长歌入汉关。	108	12000	6000	TRUE	3	80	ac3b0088	55	76	76	(Bow,225)	3		weapon0809	(it70605,1)(it70106,1)(it70113,1)"
   translated: ""
@@ -2897,7 +2897,7 @@
     translated: "Gold Lock Fragment"
   - split: 3
     text: "刻有骆元玉名字，祈求新生儿健康平安的金锁片。骆大娘作为长姐，辛苦拉拔骆元玉长大，并不富裕的骆大娘曾多次将之典当以过年关，但总是会在流当前把它赎回。"
-    translated: "A golden lock etching with the name Luo Yuanyu, wishing health and safety for newborns. As the eldest sister, Lao Dame worked hard to raise Luo Yuanyu but was not wealthy; she had pawned it several times during the New Year period but always redeemed it when current"
+    translated: "A gold plaque engraved with Luo Yuanyu's name, wishing for the newborn to be healthy and safe. As the eldest sister, Auntie Luo raised Luo Yuanyu diligently despite not being wealthy. She pawned it multiple times during New Year, but always redeemed it after selling it"
 - lineNum: 290
   raw: "eq20233	男人的宝贝	eq20233	司徒荆贴身收藏，极为宝爱的一罐东西，内容物似乎不该深究。	202	2	1	TRUE	2	99		1	1	1		0		jewelry25	"
   translated: ""
@@ -2907,7 +2907,7 @@
     translated: "A man's treasure"
   - split: 3
     text: "司徒荆贴身收藏，极为宝爱的一罐东西，内容物似乎不该深究。"
-    translated: "Situ Jing's bodyguard collection, an item he treasured greatly, contained something whose contents were best not investigated too deeply"
+    translated: "Situ Jing's personal collection included an extremely cherished can of something, the contents of which seemed best left unexamined"
 - lineNum: 291
   raw: "eq20234	寒血银簪	eq20234	沾染黑色毒血的银制发簪。白露霜用以刺死一名修炼寒阴邪功的对头，由于沾染其毒血，寒气逼人，佩戴在身具有退敌奇效，然而自己也难免受其影响。	202	2000	1000	TRUE	2	40		1	1	1		0		jewelry27	"
   translated: ""

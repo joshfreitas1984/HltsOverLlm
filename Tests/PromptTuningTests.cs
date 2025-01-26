@@ -62,6 +62,44 @@ public class PromptTuningTests
     }
 
     [Fact]
+    public async Task MinimiseThePrompt()
+    {
+        var config = Configuration.GetConfiguration(workingDirectory);
+
+        // Create an HttpClient instance
+        using var client = new HttpClient();
+        client.Timeout = TimeSpan.FromSeconds(300);
+
+        // Prime the Request
+
+        var basePrompt = config.Prompts["0PromptToOptimise"];
+        var optimisePrompt = config.Prompts["0OptimisePrompt"];
+
+        List<object> messages =
+            [
+                LlmHelpers.GenerateSystemPrompt(optimisePrompt),
+                LlmHelpers.GenerateUserPrompt(basePrompt.ToString())
+            ]; 
+        
+        // Generate based on what would have been created
+        var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
+
+        // Send correction & Get result
+        HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
+        HttpResponseMessage response = await client.PostAsync(config.Url, content);
+        response.EnsureSuccessStatusCode();
+        string responseBody = await response.Content.ReadAsStringAsync();
+        using var jsonDoc = JsonDocument.Parse(responseBody);
+        var result = jsonDoc.RootElement
+            .GetProperty("message")!
+            .GetProperty("content")!
+            .GetString()
+            ?.Trim() ?? string.Empty;
+
+        File.WriteAllText($"{workingDirectory}/TestResults/OptimisePrompt.txt", result);
+    }
+
+    [Fact]
     public async Task TestPrompt()
     {
         var config = Configuration.GetConfiguration(workingDirectory);

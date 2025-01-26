@@ -53,7 +53,7 @@
   splits:
   - split: 1
     text: "百损结局"
-    translated: "Worst-case scenario"
+    translated: "End of Bai Sun"
 - lineNum: 8
   raw: "n00000i	狗粮结局	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f69014-1藍拂衣給圖\", 0, 0} , { \"QuestCondition\" : \"Q60037_04\", 1, True} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60016\", 1, True} , { \"QuestCondition\" : \"Q60017\", 1, True}  ], 1} , { \"CheckFlagAction\" : \"f0ending\", 2, 2}  ], 0} 	0"
   translated: ""
@@ -81,21 +81,21 @@
   splits:
   - split: 1
     text: "司徒荆坏结局"
-    translated: "Situ Jing's disastrous ending"
+    translated: "Si Tu Jing has a bad ending"
 - lineNum: 12
   raw: "n00000m	骆元玉好结局	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ \"LogicalNode\" : [ { \"CheckNpcLevelAction\" : \"n60273\", 0, 39} , { \"CheckFlagAction\" : \"f0ending\", 2, 2}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "骆元玉好结局"
-    translated: "Luo Yuanyu has a happy ending"
+    translated: "Lu Yuanyu has a good ending"
 - lineNum: 13
   raw: "n00000n	骆元玉坏结局	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ \"LogicalNode\" : [ { \"CheckNpcLevelAction\" : \"n60273\", 0, 39} , { \"CheckFlagAction\" : \"f0ending\", 0, 1}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "骆元玉坏结局"
-    translated: "Luo Yuanyu bad ending"
+    translated: "Lu Yuanyu's Bad Ending"
 - lineNum: 14
   raw: "n00000o	凝儿结局	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60039\", 1, True} , { \"CheckFlagAction\" : \"f0ending\", 2, 2}  ], 0} 	0"
   translated: ""
@@ -494,7 +494,7 @@
   splits:
   - split: 1
     text: "伪段思平"
-    translated: "Impersonating Duan Siping"
+    translated: "Impostor Duan Siping"
 - lineNum: 71
   raw: "n00026	值守院生	ml_standA00		79.54, 138.946, 973.67	223.4536	8-21	TRUE	FALSE	n0002601000	v00172				1	24	0	n00026	n00000a				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00008\", 2, 2}  ], 0} 	0"
   translated: ""
@@ -1474,112 +1474,112 @@
   splits:
   - split: 1
     text: "不赦楼杀手"
-    translated: "Unforgiving Tower Assassin"
+    translated: "Merciless Hall Assassin"
 - lineNum: 211
   raw: "n00075b	不赦楼杀手	ml_idle108	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n00075b				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼杀手"
-    translated: "Unforgiving Tower Assassin"
+    translated: "Merciless Hall Assassin"
 - lineNum: 212
   raw: "n00075c	不赦楼杀手	ml_idle108	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n00075c				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼杀手"
-    translated: "Unforgiven Tower Assassin"
+    translated: "Merciless Hall Assassin"
 - lineNum: 213
   raw: "n00075d	不赦楼杀手	ml_idle108	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n00075d				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼杀手"
-    translated: "Unforgivable Tower Assassin"
+    translated: "Merciless Hall Assassin"
 - lineNum: 214
   raw: "n00075e	不赦楼杀手	ml_idle108	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n00075e				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼杀手"
-    translated: "No Mercy Assassins"
+    translated: "Merciless Hall Assassin"
 - lineNum: 215
   raw: "n00075f	不赦楼杀手	ml_idle108	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n00075f				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼杀手"
-    translated: "Unforgivable Roof Assassin"
+    translated: "Merciless Hall Assassin"
 - lineNum: 216
   raw: "n00076a	不赦楼狱卒	m_sleep_dead001_ec	n20154	-1525.024, 73.722, 595.563	190.0107		FALSE	FALSE		v00026				1	0	3	n20154					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼狱卒"
-    translated: "Unforgiving Tower Jailor"
+    translated: "Merciless Hall Guard"
 - lineNum: 217
   raw: "n00076b	不赦楼狱卒	m_sleep_dead002_ec	n20154	-1526.198, 73.678, 594.188	152.4543		FALSE	FALSE		v00026				1	0	3	n20154					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼狱卒"
-    translated: "Unforgiving Tower Guards"
+    translated: "Merciless Hall Guard"
 - lineNum: 218
   raw: "n00076c	不赦楼狱卒	m_sleep_dead003_ec	n20154	-1524.018, 73.647, 591.723	22.93497		FALSE	FALSE		v00026				1	0	3	n20154					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼狱卒"
-    translated: "Unforgiving Tower Jailor"
+    translated: "Merciless Hall Guard"
 - lineNum: 219
   raw: "n00076d	不赦楼狱卒	m_sleep_dead004_ec	n20154	-1527.029, 72.943, 590.483	53.64485		FALSE	FALSE		v00026				1	0	3	n20154					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼狱卒"
-    translated: "Unforgiving tower jailer"
+    translated: "Merciless Hall Guard"
 - lineNum: 220
   raw: "n00077a	不赦楼狱卒	ml_idle108	n20154	-1510.09, 61.68612, 582.49	343.6069		FALSE	FALSE		v00026				1	0	3	n20154	n00077a				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼狱卒"
-    translated: "Unforgiving prison guards"
+    translated: "Merciless Hall Guard"
 - lineNum: 221
   raw: "n00077b	不赦楼狱卒	ml_idle108	n20154	-1508.17, 61.70091, 584.13	278.9975		FALSE	FALSE		v00026				1	0	3	n20154	n00077b				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼狱卒"
-    translated: "Unforgiving Tower Jailor"
+    translated: "Merciless Hall Guard"
 - lineNum: 222
   raw: "n00077c	不赦楼狱卒	ml_idle004	n20154	-1508.625, 61.66643, 586.6758	229.1164		FALSE	FALSE		v00026				1	0	3	n20154	n00077c				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼狱卒"
-    translated: "No Mercy to the Prison Guard"
+    translated: "Merciless Hall Guard"
 - lineNum: 223
   raw: "n00077d	不赦楼狱卒	ml_idle108	n20154	-1510.83, 61.70355, 586.98	170.7571		FALSE	FALSE		v00026				1	0	3	n20154	n00077d				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼狱卒"
-    translated: "Unforgiving prison guard"
+    translated: "Merciless Hall Guard"
 - lineNum: 224
   raw: "n00077e	不赦楼狱卒	ml_idle108	n20154	-1512.7, 61.63526, 585.74	115.3871		FALSE	FALSE		v00026				1	0	3	n20154	n00077e				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼狱卒"
-    translated: "Unforgiving Tower Jailor"
+    translated: "Merciless Hall Guard"
 - lineNum: 225
   raw: "n00077f	不赦楼狱卒	ml_idle004	n20154	-1512.587, 61.64902, 583.3788	58.65606		FALSE	FALSE		v00026				1	0	3	n20154	n00077f				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼狱卒"
-    translated: "Unforgiving Tower Jailor"
+    translated: "Merciless Hall Guard"
 - lineNum: 226
   raw: "n00078a	官兵	ml_stand101	c_m63	106.6493, 89.985, -206.6404	244.7898		FALSE	FALSE		v00088				1	8	0	n00078a	n00078a				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00024\", 1, 1}  ], 0} 	0"
   translated: ""
@@ -3294,7 +3294,7 @@
   splits:
   - split: 1
     text: "刁不易"
-    translated: "Diao Bu Yi"
+    translated: "Diao Buyi"
 - lineNum: 471
   raw: "n07015b	刁不易	ml_standA00	n07015	106.1921, 89.98508, -237.0278	310.3641		FALSE	TRUE		v00221				1	26	1	n90509	n80030				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07003_04\", 0, True}  ], 0} 	0"
   translated: ""
@@ -3308,7 +3308,7 @@
   splits:
   - split: 1
     text: "刁不易"
-    translated: "Dao Buyi"
+    translated: "Diao Buyi"
 - lineNum: 473
   raw: "n07016a	金满腹	ml_standA00	n07016	0, 0, 0	0		TRUE	TRUE	n0701601000	v00222				1	26	0	n90511					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00024\", 1, 1} , { \"CheckTimeBlackboardAction\" : \"t00009\", True}  ], 1} 	0"
   translated: ""
@@ -3322,21 +3322,21 @@
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 475
   raw: "n07017b	黄裳	m_standI00	n53001	129.13, 105.8289, -36.48	82.71073		TRUE	TRUE	n0701701000	v00107				1	0	0	n53001	n53001				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n53001\", False} , { \"QuestCondition\" : \"Q07004\", 0, True} , { 100 : 110, 2, 0, \"player\"} , { 100 : 109, 0, 30, \"player\"} , { \"QuestCondition\" : \"Q53001_05a2\", 1, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 476
   raw: "n07017c	黄裳	ml_standA00	n53001	0, 0, 0	0		FALSE	TRUE		v00107				1	0	0	n53001	n53001				0	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 477
   raw: "n07018	段思平	ml_sitLoop001	n51001	142.328, 105.7365, -61.531	61.76915		FALSE	TRUE	n0701801000	v00027				1	16	1	n51001	n51001				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n51001\", False} , { \"QuestCondition\" : \"Q07004\", 0, True} , { 100 : 110, 0, 60, \"player\"} , { 100 : 109, 2, -30, \"player\"}  ], 0} 	0"
   translated: ""
@@ -3350,7 +3350,7 @@
   splits:
   - split: 1
     text: "漆笑儿"
-    translated: "Chui Xiaoru"
+    translated: "Qi Xiaoer"
 - lineNum: 479
   raw: "n07020	李叹	m_standA00	n60005	175.3382, 105.7365, -57.25215	112.4128		TRUE	TRUE	n0702001000	v00034				1	14	0	n60075	n60005				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60005\", False} , { \"QuestCondition\" : \"Q07004\", 0, True} , { 100 : 109, 0, 15, \"player\"} , { \"QuestCondition\" : \"Q60016\", 2, False} , { \"CheckFlagAction\" : \"f69014-2藍拂衣不給圖\", 1, 0}  ], 0} 	0"
   translated: ""
@@ -3378,7 +3378,7 @@
   splits:
   - split: 1
     text: "何紫菀"
-    translated: "He Ziwu"
+    translated: "He Ziwang"
 - lineNum: 483
   raw: "n07024	阿得阿克	m_map_ec	n50060	159.972, 105.7365, -54.347	357.4574		TRUE	TRUE	n0702401000	v00227				1	4	1	n20023	n50060				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n50060\", False} , { \"QuestCondition\" : \"Q07004\", 0, True} , { \"QuestCondition\" : \"Q52005_12\", 1, True} , { 100 : 110, 0, 0, \"player\"} , { 100 : 109, 2, -15, \"player\"}  ], 0} 	0"
   translated: ""
@@ -3420,7 +3420,7 @@
   splits:
   - split: 1
     text: "颛孙凝"
-    translated: "Shun Ning"
+    translated: "Zhuan Sunning"
 - lineNum: 489
   raw: "n07029	王喆	ml_sitLoop001	n20033	144.843, 105.7365, -61.703	286.2223		FALSE	TRUE	n0702901000	v00199d				1	5	1	n20033	n20033				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n20033\", False} , { \"QuestCondition\" : \"Q07004\", 0, True} , { 100 : 110, 0, 45, \"player\"}  ], 0} 	0"
   translated: ""
@@ -3469,7 +3469,7 @@
   splits:
   - split: 1
     text: "樊香蝶"
-    translated: "Phœnix Swallowtail"
+    translated: "Feather Xiangdie"
 - lineNum: 496
   raw: "n07036	凌中岳	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00184				1	0	0	n70044					0	0"
   translated: ""
@@ -3511,7 +3511,7 @@
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 502
   raw: "n09996	楚湘莲	w_standA00	n09996	0, 0, 0	0		FALSE	TRUE		v00192a				2	0	0	n09996	n09996a				0	0"
   translated: ""
@@ -3525,21 +3525,21 @@
   splits:
   - split: 1
     text: "百损"
-    translated: "Great loss"
+    translated: "Bai Sun"
 - lineNum: 504
   raw: "n09996b	百损	w_sitLoop006	n09996	-1120.508, 76.85886, 210.2861	183.6078		FALSE	TRUE	n0999703000	v00192a				2	0	1	n09996	n09996a				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q00022\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "百损"
-    translated: "Hundred harms"
+    translated: "Bai Sun"
 - lineNum: 505
   raw: "n09996c	百损	w_standA00	n09996	-854.5198, 158.4015, 187.4578	11.29157		TRUE	TRUE	n0999603000	v00192a				2	0	1	n09996	n09996a				{ \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"t00011\", False} , { \"CheckFlagAction\" : \"f00043\", 1, 0}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "百损"
-    translated: "Hundred losses"
+    translated: "Bai Sun"
 - lineNum: 506
   raw: "n09996d	楚湘莲	ml_idle009	n09996	-1077.17, 100.3084, 630.3636	145.5967		TRUE	TRUE	n0999604000	v00192a				2	0	1	n09996	n09996a				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q00020_01\", 0, True}  ], 0} 	0"
   translated: ""
@@ -3560,7 +3560,7 @@
   splits:
   - split: 1
     text: "百损"
-    translated: "Hundred losses"
+    translated: "Bai Sun"
 - lineNum: 509
   raw: "n09996g	楚湘莲	w_standA00	n09996	0, 0, 0	0		FALSE	TRUE		v00192a				2	0	0	n09996	n09996a				0	0"
   translated: ""
@@ -11939,7 +11939,7 @@
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 1706
   raw: "n20564	夏札尔	ml_standA00	n20510	0, 0, 0	0		FALSE	TRUE		v00168				1	27	1	n20510	n20510				0	0"
   translated: ""
@@ -12016,7 +12016,7 @@
   splits:
   - split: 1
     text: "漆笑儿"
-    translated: "Chui Xiaoru"
+    translated: "Qi Xiaoer"
 - lineNum: 1717
   raw: "n20575	段思平	ml_standA00	n51001	0, 0, 0	0		FALSE	TRUE						1	16	0	n51001	n51001				0	0"
   translated: ""
@@ -12030,7 +12030,7 @@
   splits:
   - split: 1
     text: "何紫菀"
-    translated: "He Ziwu"
+    translated: "He Ziwang"
 - lineNum: 1719
   raw: "n20577	王喆	m_standG00	n20033	0, 0, 0	0		FALSE	TRUE						1	5	0	n20033	n20033				0	0"
   translated: ""
@@ -12051,7 +12051,7 @@
   splits:
   - split: 1
     text: "樊香蝶"
-    translated: "Phœnix Swallowtail"
+    translated: "Feather Xiangdie"
 - lineNum: 1722
   raw: "n20580	阿得阿克	ml_standA00	n50060	0, 0, 0	0		FALSE	TRUE						1	4	0	n20023	n50060				0	0"
   translated: ""
@@ -12079,7 +12079,7 @@
   splits:
   - split: 1
     text: "颛孙凝"
-    translated: "Shun Ning"
+    translated: "Zhuan Sunning"
 - lineNum: 1726
   raw: "n20582	颜玉书	w_standC00	n79998	0, 0, 0	0		FALSE	TRUE						2	24	0	n09999	n09999a				0	0"
   translated: ""
@@ -20402,35 +20402,35 @@
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 2915
   raw: "n53001_dead	黄裳	ml_die000stop		0, 0, 0	0		FALSE	FALSE						1		3	n53001	n53001				0	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 2916
   raw: "n53001m	黄裳	ml_standA00	n53001	0, 0, 0	0		FALSE	TRUE		v00107				1		0	n53001	n53001				0	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 2917
   raw: "n53001m2	黄裳	ml_idle005	n53001	226.441, 126.8055, 758.338	186.287		FALSE	TRUE		v00107				1		0	n53001	n53001				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_04c\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 2918
   raw: "n53001t	黄裳	ml_standA00	n53001	-891.4316, 131.208, 234.1489	15.06384		TRUE	TRUE	n530010501000	v00107				1		0	n53001	n53001				{ \"LogicalNode\" : [ { \"TeammateConditionByNPCId\" : \"n53001t\", False} , { \"QuestCondition\" : \"Q53001_05a2\", 1, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 2919
   raw: "n53002m	百里惮赫	old_m_specialStand003	n90426	0, 0, 0	0		FALSE	TRUE		v00080				1		0	n07002	n07002				0	0"
   translated: ""
@@ -29922,21 +29922,21 @@
   splits:
   - split: 1
     text: "漆笑儿"
-    translated: "Chui Xiaoru"
+    translated: "Qi Xiaoer"
 - lineNum: 4275
   raw: "n60040b	漆笑儿	w_standA00	n60040	0, 0, 0	0		TRUE	TRUE		v00035				2	14	0	n60040	n60040				0	0"
   translated: ""
   splits:
   - split: 1
     text: "漆笑儿"
-    translated: "Chui Xiaoru"
+    translated: "Qi Xiaoer"
 - lineNum: 4276
   raw: "n60040c	漆笑儿	w_standA00	n60040	0, 0, 0	0		TRUE	TRUE	n6004004000	v00035				2	14	0	n60040	n60040	n60040c-1,n60040c-2,n60040c-3			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f63013拿到古開明王城圖\", 0, 0} , { \"TeammateCondition\" : \"n60040\", False} , { \"CheckFlagAction\" : \"f69014-2藍拂衣不給圖\", 1, 0} , { \"CheckFlagAction\" : \"f61045寶庫線沒幫蘇清瑞\", 1, 0}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "漆笑儿"
-    translated: "Chui Xiaoru"
+    translated: "Qi Xiaoer"
 - lineNum: 4277
   raw: "n60041	柏俊才	ml_standA01	c_m21	0, 0, 0	0	19-23, 0-4	TRUE	FALSE	n6004101000	v00059	sc60041001			1	3	0	n60122	n60041	n60041-1,n60041-2,n60041-3			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f610281號柏俊材消失\", 1, 0} , { \"QuestCondition\" : \"Q60025\", 1, True}  ], 1} 	0"
   translated: ""
@@ -30370,49 +30370,49 @@
   splits:
   - split: 1
     text: "樊香蝶"
-    translated: "Phœnix Swallowtail"
+    translated: "Feather Xiangdie"
 - lineNum: 4339
   raw: "n60100b	樊香蝶	w_standA00	n60100	-730.3166, 66.18829, -1119.936	225.7979		FALSE	TRUE	n6010002000	v00036				2	22	0	n60046	n60100	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60023\", 1, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "樊香蝶"
-    translated: "Phœnix Swallowtail"
+    translated: "Feather Xiangdie"
 - lineNum: 4340
   raw: "n60100c	樊香蝶	ml_idle112	n60100	0, 0, 0	0		TRUE	TRUE		v00036				2	22	0	n60046	n60100				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60016\", 1, True} , { \"QuestCondition\" : \"Q60017\", 1, True} , { \"QuestCondition\" : \"Q60016\", 2, True}  ], 1} 	0"
   translated: ""
   splits:
   - split: 1
     text: "樊香蝶"
-    translated: "Phœnix Swallowtail"
+    translated: "Feather Xiangdie"
 - lineNum: 4341
   raw: "n60100d	樊香蝶	w_sitLoop006	n60100	-742.146, 80.17716, -1114.199	35.44139		TRUE	TRUE	n6010007024	v00036				2	22	0	n60046	n60100	n60100d-1,n60100d-2,n60100d-3,n60100d-4			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f61044俏夢閣打過藍拂衣\", 0, 0} , { \"TeammateCondition\" : \"n60100\", False} , { \"QuestCondition\" : \"Q60016\", 2, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "樊香蝶"
-    translated: "Phœnix Swallowtail"
+    translated: "Feather Xiangdie"
 - lineNum: 4342
   raw: "n60100e	樊香蝶	w_sleep004_ecStop	n60100	-739.7454, 80.17817, -1112.476	174.8889		TRUE	TRUE	n6010007053	v00036				2	22	0	n60046	n60100				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f61044俏夢閣打過藍拂衣\", 0, 0} , { \"QuestCondition\" : \"Q60016\", 2, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "樊香蝶"
-    translated: "Phœnix Swallowtail"
+    translated: "Feather Xiangdie"
 - lineNum: 4343
   raw: "n60100f	樊香蝶	w_standA00	n60100	0, 0, 0	0		TRUE	TRUE	n6010007053	v00036				2	22	0	n60046	n60100				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f61044俏夢閣打過藍拂衣\", 0, 0} , { \"QuestCondition\" : \"Q60016\", 2, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "樊香蝶"
-    translated: "Phœnix Swallowtail"
+    translated: "Feather Xiangdie"
 - lineNum: 4344
   raw: "n60100g	樊香蝶	w_standA00	n60100	0, 0, 0	0		TRUE	TRUE	n6010007053	v00036				2	22	0	n60046	n60100				0	0"
   translated: ""
   splits:
   - split: 1
     text: "樊香蝶"
-    translated: "Phœnix Swallowtail"
+    translated: "Feather Xiangdie"
 - lineNum: 4345
   raw: "n60101	女客 绮香	ml_standA00		-614.531, 66.33826, -1015.363	61.08406	5-20	FALSE	FALSE	n6010101000	v00061	sc60101001			2	3	0	n60108		0			0	0"
   translated: ""
@@ -31574,7 +31574,7 @@
   splits:
   - split: 1
     text: "淘石帮众 桓壮"
-    translated: "Members of the Taoshi Guild, including Huang Zhuang"
+    translated: "Members of the Taoshi Guild,  Huang Zhuang"
 - lineNum: 4511
   raw: "n60198d	淘石帮众 山强	ml_standA00		-401.911, 67.12001, -1115.764	301.3303		FALSE	FALSE	n6019801000	v00259				1	2	0	n30009		n60198d-1,n60198d-2,n60198d-3			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f60086-1拿過周益贈品\", 0, 0}  ], 0} 	0"
   translated: ""
@@ -34185,21 +34185,21 @@
   splits:
   - split: 1
     text: "颛孙凝"
-    translated: "Shun Ning"
+    translated: "Zhuan Sunning"
 - lineNum: 4884
   raw: "n60560b	颛孙凝	w_standA00	n60560	0, 0, 0	0		TRUE	TRUE		v00162				2	0	0	n60509	n60560				0	0"
   translated: ""
   splits:
   - split: 1
     text: "颛孙凝"
-    translated: "Shun Ning"
+    translated: "Zhuan Sunning"
 - lineNum: 4885
   raw: "n60560c	颛孙凝	w_standA00	n60560	0, 0, 0	0		TRUE	TRUE		v00162				2	0	0	n60509	n60560a				0	0"
   translated: ""
   splits:
   - split: 1
     text: "颛孙凝"
-    translated: "Shun Ning"
+    translated: "Zhuan Sunning"
 - lineNum: 4886
   raw: "n60561	泼墨雪	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561	n60561-1,n60561-2,n60561-3,n60561-4,n60561-5,n60561-6			{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60560\", False}  ], 0} 	0"
   translated: ""
@@ -35382,49 +35382,49 @@
   splits:
   - split: 1
     text: "刁不易"
-    translated: "Dao Buyi"
+    translated: "Diao Buyi"
 - lineNum: 5055
   raw: "n80030a	刁不易	ml_idle106	n07015	-267.1768, 89.214, -1110.581	67.87431		TRUE	TRUE	n8003002000					1	26	0	n90509	n80030				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm85007\", 1, 1}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "刁不易"
-    translated: "Dao Buyi"
+    translated: "Diao Buyi"
 - lineNum: 5056
   raw: "n80030b	刁不易	ml_standA00	n07015	-662.1202, 184.5922, -659.7579	187.6802		TRUE	TRUE	n8008701001					1	26	0	n90509	n80030				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm85008\", 1, 1}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "刁不易"
-    translated: "Dao Buyi"
+    translated: "Diao Buyi"
 - lineNum: 5057
   raw: "n80030c	刁不易	ml_idle110	n07015	-239.5686, 78.01883, -520.7771	284.4555		FALSE	TRUE	n8003004000					1	26	0	n90509	n80030				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm85009\", 1, 1}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "刁不易"
-    translated: "Dao Buyi"
+    translated: "Diao Buyi"
 - lineNum: 5058
   raw: "n80030d	刁不易	ml_standA00	n07015	454.2217, 63.67752, 68.43555	241.4244		TRUE	TRUE	n8003005000					1	26	0	n90509	n80030				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm85010\", 1, 1}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "刁不易"
-    translated: "Dao Buyi"
+    translated: "Diao Buyi"
 - lineNum: 5059
   raw: "n80030e	刁不易	m_standI00	n07015	133.0635, 89.6927, -193.8535	268.0052		TRUE	TRUE	n8003005000					1	26	0	n90509	n80030a				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm85011\", 1, 1} , { \"QuestCondition\" : \"Q80024_05\", 0, True}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "刁不易"
-    translated: "Dao Buyi"
+    translated: "Diao Buyi"
 - lineNum: 5060
   raw: "n80030f	刁不易	ml_standA00	n07015	0, 0, 0	0		FALSE	TRUE	n8003004001					1	26,0	0	n90509	n80030a				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm85021\", 1, 1}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "刁不易"
-    translated: "Dao Buyi"
+    translated: "Diao Buyi"
 - lineNum: 5061
   raw: "n80031	神秘老叟	m_worship_ec		61.126, 152.181, -1172.92	175.9794		FALSE	FALSE	n8003101000	v00050_c01.wav				1	0	0	n20098					0	0"
   translated: ""
@@ -40387,7 +40387,7 @@
   splits:
   - split: 1
     text: "段思良"
-    translated: "Duan Silang"
+    translated: "Duan siliang"
 - lineNum: 5770
   raw: "n90402c	段思良	ml_idle003	n90402	-679.611, 65.70987, -14.97882	0.609		FALSE	FALSE		v00028				1		0	n41105	n90402b				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40002_03\", 0, True}  ], 0} 	0"
   translated: ""
@@ -40408,14 +40408,14 @@
   splits:
   - split: 1
     text: "董迦罗"
-    translated: "Don Jialuo"
+    translated: "Đong Gia Lap"
 - lineNum: 5773
   raw: "n90403a	董迦罗	ml_standA00	n90403	-787.7858, 71.57761, -1043.004	62.67852		TRUE	TRUE	n4000203026	v00029				1		0	n90402	n90403				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40001\", 0, True} , { \"QuestCondition\" : \"Q40012\", 0, False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "董迦罗"
-    translated: "Don Jia Luo"
+    translated: "Đong Gia Lap"
 - lineNum: 5774
   raw: "n90404	何白芍	w_standG00	n51009	0, 0, 0	0		TRUE	TRUE		v00031				2	0	0	n41042	n51009b				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 0, False} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 0, True} , { \"TeammateCondition\" : \"n51001\", True} , { \"TeammateCondition\" : \"n90405\", True}  ], 0}  ], 1} 	0"
   translated: ""
@@ -40436,28 +40436,28 @@
   splits:
   - split: 1
     text: "何紫菀"
-    translated: "He Ziwu"
+    translated: "He Ziwang"
 - lineNum: 5777
   raw: "n90405b	何紫菀	w_standG00	n90405	0, 0, 0	0		FALSE	TRUE						2		0	n20208	n90405				0	0"
   translated: ""
   splits:
   - split: 1
     text: "何紫菀"
-    translated: "He Ziwu"
+    translated: "He Ziwang"
 - lineNum: 5778
   raw: "n90405c	何紫菀	w_standG00	n90405	-1044.583, 112.3614, -1144.577	190.1078		TRUE	TRUE	n90405c01000	v00032				2		0	n20208	n90405				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_07\", 0, True} , { \"TeammateCondition\" : \"n90405\", False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "何紫菀"
-    translated: "He Ziwu"
+    translated: "He Ziwang"
 - lineNum: 5779
   raw: "n90405t	何紫菀	w_standG00	n90405	0, 0, 0	44.31146		TRUE	TRUE	n9040108036	v00032				2	0	0	n20208	n90405				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n90405\", False}  ], 0} 	0"
   translated: ""
   splits:
   - split: 1
     text: "何紫菀"
-    translated: "He Ziwu"
+    translated: "He Ziwang"
 - lineNum: 5780
   raw: "n90406	董府护卫	ml_idle001	c_m25	0, 0, 0	0		TRUE	FALSE		v00030				1	16	0	n00024c	n90406				0	0"
   translated: ""
@@ -40702,28 +40702,28 @@
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5815
   raw: "n90432d	不赦楼门人	m_sleep_dead002_ec	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	3	n20154					0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5816
   raw: "n90433	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90433				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5817
   raw: "n90433d	不赦楼门人	m_sleep_dead004_ec	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	3	n20154					0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5818
   raw: "n90434	南诏士兵	ml_idle101	c_m09	0, 0, 0	0		FALSE	TRUE		v00170				1	0	0	n00015a	n90434				0	0"
   translated: ""
@@ -40793,14 +40793,14 @@
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5828
   raw: "n90440	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90433				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5829
   raw: "n90441	僧侣果一	ml_standA00		0, 0, 0	0		FALSE	FALSE	n0000501000					1	25	0	n00012					0	0"
   translated: ""
@@ -40821,56 +40821,56 @@
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5832
   raw: "n90444	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90444				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5833
   raw: "n90445	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90445				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5834
   raw: "n90446	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90446				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5835
   raw: "n90482	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90482				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5836
   raw: "n90483	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90483				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5837
   raw: "n90484	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90484				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5838
   raw: "n90485	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90485				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5839
   raw: "n90496	董府地鼠2	ml_standA00		0, 0, 0	0		TRUE	TRUE	n9040103036					1	16	0	n90402					0	0"
   translated: ""
@@ -41283,7 +41283,7 @@
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5898
   raw: "n90610	戚如潇	w_standG00	n52009	0, 0, 0	0		TRUE	TRUE		v00099				2	0	0	n52009	n52009	0			0	0"
   translated: ""
@@ -41297,7 +41297,7 @@
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5900
   raw: "n90611	战胤飞	m_standI00	n20037	-1506.61, 237.6946, -364.18	48.52914		TRUE	TRUE		v00096				1	0	0	n20024	n20037	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q90008_08\", 1, True}  ], 0} 	0"
   translated: ""
@@ -41395,21 +41395,21 @@
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5914
   raw: "n90624	不赦楼门人	ml_idle102	n20154	0, 0, 0	0		TRUE	FALSE		v00026				1	0	0	n20154	n90624	0			0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5915
   raw: "n90625	不赦楼门人	ml_idle107	n20154	0, 0, 0	0		TRUE	FALSE		v00026				1	0	0	n20154	n90625	0			0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5916
   raw: "n90626	百里惮赫	ml_stand101	n90426	436.9695, 60.2808, -194.797	47.64246		FALSE	TRUE		v00080				1	0	0	n07002	n07002	0			0	0"
   translated: ""
@@ -41500,14 +41500,14 @@
   splits:
   - split: 1
     text: "不赦楼主"
-    translated: "Unforgiving to the Sect Leader"
+    translated: "Master of the Merciless Hall"
 - lineNum: 5929
   raw: "n90637b	不赦楼主	ml_idle103	n07001	0, 0, 0	0		TRUE	TRUE						1	0	0	n07001	n90637b	0			0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼主"
-    translated: "Unforgiving to the Sect Leader"
+    translated: "Master of the Merciless Hall"
 - lineNum: 5930
   raw: "n90637c	蒙面男子	ml_idle103	n07001	0, 0, 0	0		TRUE	TRUE						1	0	0	n07001	n90637b	0			0	0"
   translated: ""
@@ -41521,14 +41521,14 @@
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5932
   raw: "n90639	不赦楼门人	ml_idle107	n20154	0, 0, 0	0		TRUE	FALSE		v00026				1	0	0	n20154	n90639	0			0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5933
   raw: "n90640	花豹	al20010@Fight Idle	animal10	0, 0, 0	0		FALSE	TRUE		v10005				0	13	0	animal10	n90640	0			0	0"
   translated: ""
@@ -41836,28 +41836,28 @@
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5977
   raw: "n90683	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n90683				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5978
   raw: "n90684	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n90684				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5979
   raw: "n90685	不赦楼门人	ml_idle002	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n90685				0	0"
   translated: ""
   splits:
   - split: 1
     text: "不赦楼门人"
-    translated: "Unforgiving Tower's Disciples"
+    translated: "Merciless Hall Disciple"
 - lineNum: 5980
   raw: "n90686	花豹	al20010@Fight Idle	animal10	0, 0, 0	0		FALSE	FALSE		v10005				0	13	0	animal10	n90686	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q90009_02\", 1, False} , { \"CheckFlagAction\" : \"f2救出王喆\", 1, 1}  ], 0} 	0"
   translated: ""

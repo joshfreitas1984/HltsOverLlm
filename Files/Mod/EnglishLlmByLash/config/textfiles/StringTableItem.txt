@@ -191,7 +191,7 @@ Area22	Charming Dream Hall
 Area23	Enchanted Spirit Water Fortress
 Area24	Leisurely Scholars Academy
 Area25	Tianlong Temple
-Area26	Delicacies Gathering
+Area26	Delicacies Society
 Area27	Wolf Barbarian Tribe
 Area28	Jinshigou
 Area29	Ginseng King Mountain
@@ -303,7 +303,7 @@ GameDifficulty1	Normal
 GameDifficulty2	Hard
 GameDifficulty3	Purgatory
 DifficultyDetails	Provide detailed explanation
-DifficultyWarning0	The current selected game difficulty is 'Inferno' and some parts of the game content will be different.
+DifficultyWarning0	The current selected game difficulty is 'Purgatory' and some parts of the game content will be different
 DifficultyWarning1	
 DifficultyWarning2	Combat value adjustment：The war power of your units will be weakened, while the war power of enemy units will be strengthened
 DifficultyWarning3	Battle System Mechanism Updated：Any death of a unit on the player's side (green) will result in battle failure
@@ -1071,18 +1071,18 @@ Final04_10	That ideal realm hidden within your heart,
 Final04_11	It is already within reach, just a spit away!
 #结局 05	
 Final05_00	Foot of the Blue Mountain
-Final05_01	Segment Siping and the allied forces composed of various tribes from Nanzhao
+Final05_01	Duan Siping and the various tribes of Nanzhao formed a militia
 Final05_02	With unstoppable momentum, they broke through to the capital of Nanzhao, Ercheng
 Final05_03	Yang Tianyi fled in panic, not knowing where he ended up
-Final05_04	Then Duan Siping ascended the throne and founded the Dali Kingdom
+Final05_04	Then Duan Siping ascended to the throne and established the Dai Kingdom
 Final05_05	Committed to improving the living conditions of the various tribes of Nanzhao
 Final05_06	Founded a strong and prosperous nation in the following centuries in Yunnan
 Final05_07	Out of gratitude for the grace of Zen Master Jin Ding's transmission of skill
-Final05_08	Luo Siping built Tianlong Temple in the city and ordered his descendants to offer sacrifices there for generations
+Final05_08	Duan Siping built Tianlong Temple in the city and decreed that the Duan family descendants would worship there for generations
 Final05_09	Hearing the ill news of He Baishe's death,
 Final05_10	He Yu die realized her past mistakes
 Final05_11	Decide to delegate the authority and responsibility of leading the mountain stronghold to multiple people from the mountain stronghold clan
-Final05_12	He Ziwang, while also serving as the next-in-line village chief,
+Final05_12	He Ziwang, in addition to being the successor tribal chief,
 Final05_13	Finally, I also have the power to pursue freedom
 Final05_14	During her leadership, Qingzhai served as the cornerstone supporting the Dali Kingdom
 Final05_15	Continual prosperity and flourishing, moving toward a glorious future alongside the Dali Kingdom
@@ -1094,9 +1094,9 @@ Final05_19	Will there ever be a day when we can reminisce over old times, sharin
 Final06_00	White Horse Leisurely Mood
 Final06_01	The chaotic world remains so, yet the people of White Horse Residence seem oblivious
 Final06_02	Working hard with laughter, from sunrise to sunset
-Final06_03	Qi Xiaor suddenly left her mentor's tutelage and was initially bewildered and disoriented
+Final06_03	Qi Xiao'er suddenly left her sect and was also at a loss
 Final06_04	Daytime appears stubborn, but at night silently feels heartbroken
-Final06_05	Fortunately, Li Tan took good care of her and traveled the world with Qi Xiaor
+Final06_05	Fortunately, Li Tan took good care of her and traveled the world with Qi Xiao'er
 Final06_06	They had also sneaked back some letters left by the Pointed Sword Sect
 Final06_07	Knelt and asked the master not to remember nor be concerned
 Final06_08	Finally return to the White Horse Residence to settle down and marry, spending a lifetime together
@@ -1106,17 +1106,17 @@ Final07_01	Mu Household, though it has experienced a political upheaval and coun
 Final07_02	However, it has made them more united and there are no longer factional disputes
 Final07_03	Led by Mu Chu's wood residence,
 Final07_04	It brought a period of stability and peace to Dayan Town
-Final07_05	Ade Ake then did not forget his ideals, and after settling the settlement well,
+Final07_05	Ade Ake, however, did not forget his ideals. After settling the settlement,
 Final07_06	Then they got on board the ship and crossed over to the other side of the lake, heading eastward on their journey
 Final07_07	Several years later, the rumors about Dayan Town spread like this:
 Final07_08	In the distant East, a traveler from afar appears in the martial world, accompanied by an eagle
 Final07_09	With masterful archery skills, he wiped out the bandit lair and restored peace
 Final07_10	The name Snowy Mountain Divine Eagle quickly spread throughout the entire Wulin
-Final07_11	Several times of the seasons, after enduring wind and frost, Ade Ake finally returned from his journey
+Final07_11	Several seasons of cold and heat, after enduring the winds and frosts, Ade Ake finally returned from his journey
 Final07_12	Received the enthusiastic support from all the town's residents
 Final07_13	He passed his falconry skills on to the town residents and guards
 Final07_14	Dayan Town has become a beautiful town where Confucianism and eagle hunting traditions have blended
-Final07_15	From then on, every time Ade Ake went to the tomb of Mu Kui, he could not help but think longingly
+Final07_15	Every time they visited Mu Kui's tomb, Ade Ake could not help but think back
 Final07_16	The name of the former comrade who fought alongside them, once a stranger from beyond the heavens
 Final07_17	Where are we now?
 Final07_18	Perhaps there will be no more days to meet in the future, but the journey we have experienced together,
@@ -1124,7 +1124,7 @@ Final07_19	Ade Ake, however, had not forgotten
 #结局 08	
 Final08_00	The tune ends gracefully
 Final08_01	The rise and fall of the Jianghu, yet Charming Dream Hall always manages to skillfully navigate among various factions
-Final08_02	Phantom Swallow led her sisters through one challenge after another and faced coveting from all sides
+Final08_02	Feather Xiangdie led her sisters through one challenge after another, facing those who coveted them
 Final08_03	And with the financial support of Su Qingrui,
 Final08_04	Further expand the scope of intelligence to cover all of Western River
 Final08_05	Su Qingrui, after the Jingtairen incident,
@@ -1174,34 +1174,34 @@ Final10_15	Now, her mind was filled with only one thought
 Final10_16	Will there be a day when we can meet again in the next life?
 #结局 11	
 Final11_00	Lean on the saddle, think of the horse
-Final11_01	For He Hongyuan's death, He Yuqing felt extremely guilty
+Final11_01	Regarding He Yuqing's death, He Yuqing felt extremely guilty
 Final11_02	Therefore, she put aside her previous stubborn and capricious nature
 Final11_03	Leading the He Family Horse Gang,
 Final11_04	Time and time again, they faced off against the assaults of impoverished mountains and treacherous waters, as well as bandits
 Final11_05	Although the He Family Horse Gang is no longer unrivaled,
-Final11_06	But He Yuqing, relying on his exquisite blade techniques and resilient character,
+Final11_06	But He Yuqing, with her mastery of blade arts and resilient character,
 Final11_07	Still became one of the most respected figures in the martial arts world of Tian Nan
-Final11_08	He Yuqing has always considered protecting the He Family Horse Gang as her own responsibility
+Final11_08	He Yuqing has always regarded protecting the He Family Horse Gang as her own responsibility
 Final11_09	However, the old generation of members of the gang often said this:
 Final11_10	Ayu is no longer the Ayu she used to be
 Final11_11	Young gang members have always not known what this means
-Final11_12	Perhaps He Yuqing himself did not know
+Final11_12	Perhaps He Yuqing herself doesn't know
 Final11_13	Her eyes twinkled with a sense of desolation
 Final11_14	Is it because the responsibility on your shoulders is too heavy? Do you feel guilty about your father's death?
 Final11_15	Or perhaps, deep within her heart, there are other desires hidden?
 #结局 12	
 Final12_00	Chasing the Sun's Shadow
-Final12_01	Huang Shang exerted all his effort
+Final12_01	Yellow Shang exerted all his might
 Final12_02	Still unable to stop that mastermind who had been running amok, the outsider from beyond the skies
 Final12_03	He could only watch helplessly as he entered the Holy Sanctuary
 Final12_04	Vanished into the void
 Final12_05	Reform oneself and atone for sins through good deeds?
 Final12_06	When that self-righteous and righteous outsider spat out those hypocritical words,
 Final12_07	As he trampled upon the dignity of his deceased wife and children at the same time,
-Final12_08	'He also became one of Huang Shang's enemies.'
+Final12_08	He also became one of Huang Shang's enemies
 Final12_09	Day after day, year after year,
 Final12_10	No matter how much the Heluo Clan tried to persuade him, he showed no sign of softening
-Final12_11	He exterminated the remnants of those who were not pardoned from that year's Tower
+Final12_11	He wiped out all the remnants of the Merciless Hall from that year
 Final12_12	Embark on the pursuit to find the newly revealed location of the Holy Sanctuary
 Final12_13	Regardless of where that outsider from beyond the heavens flees to,
 Final12_14	For the suffering of his deceased wife and children,
@@ -1210,24 +1210,24 @@ Final12_16	As long as he is still breathing,
 Final12_17	It will be like a shadow, following closely and killing swiftly
 #结局 13	
 Final13_00	Savior Medicine King
-Final13_01	Cheng Yanhua and Du Jiping severed their bonds of gratitude and friendship
+Final13_01	Ceng Yanhua and Du Jinping broke their bond of gratitude and severed their ties
 Final13_02	Retired to the Flower and Herb Stall with his daughter
 Final13_03	Assist Chen Zhiji in treating the impoverished common people
-Final13_04	But Cheng Yanhua's heart was as still as a pond, unwilling to stir up any more waves
+Final13_04	However, Cheng Yanhua was as still and deep as a lake, not wanting to create more waves
 Final13_05	Therefore, all external matters were taken on by Chen Zhiji
 Final13_06	As time passed, Cheng Niangzi's name gradually faded from the public eye
 Final13_07	Feifei is clever and eager to learn; she studies medical and toxicology techniques under Chen Zhiji
 Final13_08	Understanding is more advanced by ten times compared to its mother
 Final13_09	And after Chen Zhiji passed away, succeed his mantle,
 Final13_10	On the path to becoming the heir of the new generation of the King of Medicine
-Final13_11	Shi Hongtu, having experienced this battle, will temporarily lay low in the Jianghu
+Final13_11	Shi Hongtu passed through this encounter, temporarily hiding his whereabouts in the Jianghu
 Final13_12	Wait for the right moment, and strike again
 #结局 14	
 Final14_00	Brutal and Poisonous
-Final14_01	Under Feng Qiu Xiang's secret machinations, Cheng Yanhua ultimately met a violent death at the Du Mansion
+Final14_01	Under Feng Qiu Xiang's covert operations, Cheng Yanhua ultimately died violently in the Du Mansion
 Final14_02	Lu Junpeng was heartbroken and could not be consoled, yet he dared not speak up
 Final14_03	Channel all the anger into the Flower and Herb Stall
-Final14_04	Shi Hongtu has always been unable to find the Immortal's Divine Scripture for the King of Herbs
+Final14_04	Shi Hongtu had always been unable to find the Elixir King's Divine Chapter
 Final14_05	His temperament became increasingly tyrannical, and the title Poison King spread far and wide without him having to leave his home
 Final14_06	After her mother's death, Du Yufei inherited the Immortal Classic of Medicine
 Final14_07	Endured humiliation for two years, ultimately using a scheme to poison the entire Du family
@@ -1236,31 +1236,31 @@ Final14_09	The area where the flower and herb stall used to be has unexpectedly 
 Final14_10	The name of the Medicine King rises again
 #结局 15	
 Final15_00	Rebuild a heavenly family
-Final15_01	Reflecting on the past, Situ Jing had a life full of hardships
+Final15_01	Looking back on the past, Situ Jing had a life full of hardships
 Final15_02	As a child entering the palace, (he/she) suffered much oppression
 Final15_03	After being exiled from the palace, he was also looked down upon due to his eunuch status
 Final15_04	Devotedly practicing poison skills, constantly harboring thoughts of revenge day and night, never having a moment's peace due to anger
 Final15_05	After experiencing the head-on scolding at the winery,
 Final15_06	Reflecting deeply on their pain, they left the winery after saying goodbye to Xiao Rongxiu
 Final15_07	One Lifetime Prosperity's Elder Chen saw Rong Xiu as intelligent and kind
-Final15_08	Upon realizing that Bai Sun's grandson, Chen Zhiqi, intended to travel the world and had no intention of inheriting the winery,
+Final15_08	Upon understanding that Third Uncle Chen Zhiqi wished to travel the world and had no intention of inheriting the winery,
 Final15_09	Pass all brewing techniques to Rong Xiu
 Final15_10	And on the day of his passing, he established the rule for the winery to pass merit, not lineage
 Final15_11	Break the outdated rule controlled by the descendants of the Chen family at Lifetime Prosperity
 Final15_12	Pass the winery to Yan Rongxiu for inheritance
 Final15_13	After Rong Xiucheng grew up, he searched for several years,
-Final15_14	Finally found the recluse Situ Jing
+Final15_14	Finally found the reclusive Situ Jing
 Final15_15	Settle near the winery
 Final15_16	Every day, respectfully bow before you; serve by your side with filial piety, and nourish a long life
 #结局 16	
 Final16_00	Never recover or return
-Final16_01	Situ Jing took Yaorong Xiu and wandered the world
+Final16_01	Situ Jing, accompanied by Yan Rongxiao, drifted aimlessly through the world
 Final16_02	And transmitted to Rong Xiu all the nefarious sect martial arts I possess
 Final16_03	Long ago, the assassins who participated in the killing of Yan Baochuan were all identified
 Final16_04	And with the Venomous Serpent Blood Technique, they subjected him to torture by death through slow slicing
 Final16_05	Yan Rongxiu, having been immersed in such an environment from a young age, became a master of the dark path after reaching adulthood
 Final16_06	Slaughter, burn, plunder—upon hearing these words, anyone in the wulin turns pale
-Final16_07	Looking back, Situ Jing's life has been full of hardships
+Final16_07	Looking back, Situ Jing had a life full of hardships
 Final16_08	As a young child entering the palace, suffered endless oppression, and after being expelled from the palace, was further subjected to humiliation due to being castrated
 Final16_09	After acquiring the skills of a nefarious sect, he spent his days daydreaming about revenge
 Final16_10	Indignant and without a moment's peace each day
@@ -1272,23 +1272,23 @@ Final16_15	Collapsed from the Qi in a secluded alley house in Xichuan
 #结局 17	
 Final17_00	Great Way and Sincere Heart
 Final17_01	In the turmoil caused by Zhan Yinfei's uprising,
-Final17_02	Wang Zhe saw his sworn brother Li Yanxian and his sworn sister Bai Lushuang
-Final17_03	For the sake of obstructing Ruoshu Hall, they sacrificed themselves together without mercy
+Final17_02	Wang Zhe saw his sworn brother Li Yanshan and his sworn sister Bai Lushuang
+Final17_03	They both sacrificed themselves to thwart the Merciless Hall
 Final17_04	In his grief, he resolved to carry on his elder brother's legacy
 Final17_05	Defend the country and protect the family from external threats for a lifetime
-Final17_06	After reclaiming the Heaven's Pillar Fort, Wang Zhe succeeded to the position of the fort leader
+Final17_06	After once again ascending to the Heaven's Pillar Fort, Wang Zhe took over as the chief of the fort
 Final17_07	Lead the forces of Heaven's Pillar Fort to resist the wolf savages
 Final17_08	Leading an expedition during the journey,
-Final17_09	Wang Zhe encountered the Daoist Pure Yang again several times in Dragon's Rest Village, where he had met him before
+Final17_09	Wang Zhe once again encountered the Daoist Pure Yang from Dragon's Rest Village
 Final17_10	Every time they met, Zunyangzi would always give guidance from the side
-Final17_11	Guide Wang Zhe to comprehend the Daoist significance of Taiqing Rong Qi
-Final17_12	Wang Zhe is highly talented in both martial arts and Daoism
+Final17_11	Guide Wang Zhe to understand the profound Daoist meanings in Taiqing Gang Qi
+Final17_12	Wang Zhe is of high aptitude in both martial arts and Daoist studies
 Final17_13	Despite being concerned with national affairs and devoting oneself to military service, at the time nearing one's destined path in life,
 Final17_14	He finally mastered the deepest secret technique of Ta Qing Gang Qi
 Final17_15	Several years later, he established the Quanzhen Sect and pioneered unparalleled martial arts
 Final17_16	Revered by the world as Zhongyuan Zhenren
 Final17_17	However, every time he heard about external enemies invading,
-Final17_18	Wang Zhe would always remember his sworn brother's words before he died
+Final17_18	Wang Zhe would always think of his sworn brother's last words
 Final17_19	Remembering how our sworn brother defended the country with a heart that places personal life and death as secondary, possessing such breadth of spirit and demeanor
 #结局 18	
 Final18_00	Stop Clouds, Fall Moon
@@ -1307,7 +1307,7 @@ Final18_12	“You, if you don’t come soon, old friends won't be waiting for yo
 #结局 19	
 Final19_00	Dark Ghosts of the Underworld
 Final19_01	Since that day when he threw the man into the nameless deep ravine,
-Final19_02	The Hundred Sufferings Daoist Nun's heart had an thorn
+Final19_02	Master Bai Sun the Daoist nun always had a thorn in her heart
 Final19_03	She did not hear the sound of that person landing
 Final19_04	Several times at night, she seemed to have returned to the edge of that thousand-foot deep gorge
 Final19_05	Looking at that cheerful yet annoying face, it disappeared from sight
@@ -1344,7 +1344,7 @@ Final21_00	Nature has given me talents
 Final21_01	You took him out of Arched Stone Village
 Final21_02	Through the adventures, it revealed that the jianghu is full of camaraderie and righteousness
 Final21_03	Watching your energetic smile,
-Final21_04	Luo Yuanyu secretly resolved to
+Final21_04	Lu Yuanyu secretly resolved to make up his mind
 Final21_05	To become a person like you
 Final21_06	He was skilled at dealing with people
 Final21_07	Soon a group of seemingly useless beggars gathered

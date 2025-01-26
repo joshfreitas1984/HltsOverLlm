@@ -904,10 +904,10 @@ BattleSchedule006	Anger as high as the sky	Quickly recover one's life force and 
 BattleSchedule007	Control breath and concentrate	Short-term recovery of one's lifeforce and enhancement of combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule007
 BattleSchedule008	The Wrath of the Ghost King	Due to Bai Li Dan he being in a critical situation, he unleashes his hidden combat potential, increasing the damage of his skills and cumulatively enhancing his combo rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008
 BattleSchedule008b	The Wrath of the Wind King	Due to the Mountain Goblin King being in a critical situation, he unleashes his hidden combat potential, increasing skill damage and stacking the critical hit rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008b
-BattleSchedule008c	Wrath of the King of Ghosts	When the enemy Huang Shang appears, unleash one's hidden combat potential; skill damage is increased and each turn adds an additional chance for a combo attack	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008c
-BattleSchedule008d	The Wrath of the Wind King	Due to the presence of enemy Huang Shang, unleash latent combat potential, enhance skill damage and cumulatively increase critical hit rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008d
+BattleSchedule008c	Wrath of the King of Ghosts	Due to the presence of the enemy Huang Shang, burst out latent combat potential, increase skill damage and add a cumulative critical rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008c
+BattleSchedule008d	The Wrath of the Wind King	Due to the presence of the enemy Huang Shang, a personal grudge is triggered, unleashing hidden combat potential. Skills increase damage and stacking critical hit rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008d
 BattleSchedule009	The Bloodthirsty Alliance	Pursue victory and enhance one's combat capabilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule009
-BattleSchedule010	With one heart and one mind	Due to Huang Shang's crisis, he unleashes his latent potential, additionally increasing his combo rate and counterattack rate each turn	0	battle	0	TRUE	0	FALSE	0	0	(Combo,20)(CounterAttack,20)	beginUnitProp
+BattleSchedule010	With one heart and one mind	Due to Huang Shang being in a crisis, he taps into his latent abilities and additionally increases his combo rate and counterattack rate each turn	0	battle	0	TRUE	0	FALSE	0	0	(Combo,20)(CounterAttack,20)	beginUnitProp
 BattleSchedule011	Feihong Sword Formation	By activating the formation, the combat ability increases with the number of participants	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule011
 BattleSchedule012	Feihong Jianzhen	By increasing the number of people who activate the formation, combat ability is enhanced	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule012
 BattleSchedule013	Phoenix Spear Formation	Deploys an array to enhance combat ability according to the number of people	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule013
@@ -929,9 +929,9 @@ BattleSchedule028	Disaster of Gold and Silver	Struck in the vital points by silv
 BattleSchedule029	Dragon Poison	Poisoned, slightly reduced movement ability and unable to use elixirs	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule029
 BattleSchedule030	Dragon Venom	Poisoned, reducing mobility and unable to use elixirs	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule030
 BattleSchedule031	Dragon's Poison Saliva	Poisoned, significantly reduced mobility and unable to use elixirs	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule031
-BattleSchedule032	Huang Fu Deng Yun Hui Man Xue Yincai BUFF	Return to full health	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule032
+BattleSchedule032	Huangfu Dengyun restored to full health and activated hidden buffs	Return to full health	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule032
 BattleSchedule033	Fire Consumes the Prairie	Practicing the exclusive internal alchemy of the Ming Sect to enhance one's combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
-BattleSchedule034	Zealous to catch the thief	For the capture of Li Tan, increase your own qinggong by 30 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule034
+BattleSchedule034	Zealous to catch the thief	For capturing Li Tan, increase own qinggong value by 30 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule034
 BattleSchedule035	Assault with serious injuries	Accumulate external injury value of 30 points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule035
 BattleSchedule036	Adversity reveals true natures	With no regard for personal safety, exert all effort to increase attack power by 100%, and accumulate 5 internal injury points per attack	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule036
 BattleSchedule037	Heart filled with indignation	Heart filled with sorrow and anger, self-attack power increased by 20%, cumulative confusion value 30 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule037
@@ -949,7 +949,7 @@ BattleSchedule048	Second Blood Measurement Hidden Judgment Buff	Use blood quanti
 BattleSchedule049	Fiery Flame Kunlun Ridge	'Increase combat ability significantly during runtime, but after five rounds, it will exhaust your lifeforce.'	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule049
 BattleSchedule050	Deep-seated blood feud	With the enemy at hand, fighting spirit heightened: Damage increased by 50%, recover an additional 4 energy points per turn, confusion value accumulates 20 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule050
 BattleSchedule051	Joint Effort to Save the World	Using Heavenly Scriptures secret techniques, increase damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule051
-BattleSchedule052	He Yuqing's blood quantity judgment BUFF	Hidden buff, judge half blood volume and trigger dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule052
+BattleSchedule052	He Yuqing assesses the blood quantity for the BUFF	Hidden buff, judge half blood volume and trigger dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule052
 BattleSchedule053	He Hongyuan's blood quantity judgment BUFF	Hidden buff, triggers dialogue when health drops to 50%	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule053
 BattleSchedule054	Weizhentian Nan	Attack Power Increased by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule054
 BattleSchedule055	White Dew Frost Attack Buff		0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule055
@@ -977,22 +977,22 @@ BattleSchedule076	Great Battle of the Sanctum of Ten Evildoers: Shrimp Revival B
 BattleSchedule077	He Baishe's blood quantity judgment hidden BUFF	Hidden Buff	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule077
 BattleSchedule078	Great Anger	Damage increased by 25%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule078
 BattleSchedule079	Enchanting Fragrance	Intoxicated, inner energy exhausted; dizziness accumulated 50 points, confusion value 50 points; reduce internal power by 30 points, qinggong by 30 points; unable to use items	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule079
-BattleSchedule080	Wang Zhe descends with hidden buff from Qinggong	Hidden Buff, Reduce Agility by 30 points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule080
+BattleSchedule080	Wang Zhe activates Qinggong to conceal the BUFF	Hidden Buff, Reduce Agility by 30 points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule080
 BattleSchedule081	Theft also has its principles	When facing a formidable enemy, significantly increase combat capabilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule081
 BattleSchedule082	Encircled by enemies	Before and after, all are enemies; each round's counterattack rate, disengagement rate, critical hit rate, combo rate, and feint rate decrease by 20%	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule082
 BattleSchedule083	Diarrhea	Each round, accumulate confusion value of 10 points for headaches and dizziness	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule083
 BattleSchedule084	Debate as if with swords	Damage reduction by 50%; counterattack rate, unburdening rate, critical hit rate, combo rate, and feint rate reduced by 100% per turn	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule084
 BattleSchedule085	Just sparring	Damage reduced by 50%, counterattack rate, unburdening rate, critical hit rate, combo rate, feint rate decreased by 100% each turn	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule085
-BattleSchedule086	On the battlefield support!	With the encouragement of their family, Luo Yuanyu's power greatly increased!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule086
+BattleSchedule086	On the battlefield support!	Encouraged by their family, Luo Yuanyu's skill greatly improved!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule086
 BattleSchedule087	You traitor!	Qingcheng Sect disciples were burning with rage and wanted to give Zhang Junbao a good beating	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule087
 BattleSchedule088	Thigh Belt Knife	Ren Yinghui's Dazhong acupoint was struck by a poison dart, causing panic and confusion with clouded consciousness	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule088
-BattleSchedule089	Apprehend the pervert	Encountered Li Tan, burning with anger	0	battle	0	FALSE	0	FALSE	0	0		BattleSchedule089
+BattleSchedule089	Apprehend the pervert	Encounter Li Tan, burning with anger	0	battle	0	FALSE	0	FALSE	0	0		BattleSchedule089
 BattleSchedule090	Diancang Jianzhen	Enhance skills such as damage, counterattack, and healing based on the number of formations	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule090
 BattleSchedule091	Dian Cang Jian Zhen	According to the formation law, increase skill damage, counterattack, and healing	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule091
 BattleSchedule092	Dian Cang Jian Zhen	According to the formation law, improve skills in damage, counterattack, and healing	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule092
 BattleSchedule093	Dian cang jian zhen	According to formation rules, increase skill damage, counterattack, and healing based on the number of people	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule093
 BattleSchedule094	A disciple must not disobey their master's order	Not knowing what to do on either side, I don't know how to handle this	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule094
-BattleSchedule095	Desperate as if in flames	< div > Qi Xiaor was injured, and Li Tan struck with the speed of lightning. < /div ><|end|>	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule095
+BattleSchedule095	Desperate as if in flames	Qi Xiaoer was injured, and Li Tan acted swiftly like a thunderbolt	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule095
 BattleSchedule096	Severe Cold Sword Formation	According to formation skills, increase the number of people to enhance damage, defense, and healing	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule096
 BattleSchedule097	Enduring Cold Blade Formation	According to formation law, increase the number of skills for damage, defense, and healing	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule097
 BattleSchedule098	Extreme Cold Blade Array	Based on the formation, increase skill damage, defense, and healing	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule098
@@ -1049,11 +1049,11 @@ miasma02	Moderate toxic miasma	Each round reduce life points by 10%	0		0	FALSE	0
 nick006buff	Chosen One	Base damage from Baseball Fist is increased by 20%, and the damage bonus will increase with level	0	nickname	0	TRUE	0	FALSE	0	0		nick006
 nick007buff	Tian Nan Wang Dao	Within a two-tile range of allies, reduce any negative status effect by 5 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick007buff
 nick007buffPlus	Revive the Kingly Way	Within a 4-tile range around allies, each turn reduces negative status by 5 points and increases positive status by 3 points	0	nickname	0	TRUE	0	FALSE	0	0		nick007buffPlus
-nick008buff	Thicket of Poisonous Feathers	If you stay within 2 units of distance from He Ziwang, you will be poisoned for 8 points each round	0	nickname	0	TRUE	0	FALSE	0	0		nick008buff
-nick008buffPlus	Swans that die together	If within 4 units of distance from He Ziwang, enemies are poisoned for 8 points per turn, and allies are detoxified by 5 points per turn	0	nickname	0	TRUE	0	FALSE	0	0		nick008buffPlus
+nick008buff	Thicket of Poisonous Feathers	If you are within a 2-unit distance from He Ziwang, you will be poisoned for 8 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick008buff
+nick008buffPlus	Swans that die together	If you stay within 4 units of distance from He Ziwang, enemies will be poisoned for 8 points per turn, and allies will detoxify by 5 points	0	nickname	0	TRUE	0	FALSE	0	0		nick008buffPlus
 nick009	Snowy Mountain Divine Eagle	Self Bow Damage increased by 25%, and all allies gain the status Falcon Hunter	0	nickname	0	TRUE	0	FALSE	0	0		nick009
-nick009buff	Master Eagle Hunter	Due to the presence of Ade Ake, self-damage from bows and arrows increases by 15%	0	battle	0	TRUE	0	FALSE	0	0		nick009
-nick009buff2	Eagle Hunter	Due to Ade Ake's presence, the damage from bows and arrows increases by 40%	0	battle	0	TRUE	0	FALSE	0	0		nick009P
+nick009buff	Master Eagle Hunter	Due to Ade Ake's presence, the damage from bows and arrows increases by 15%	0	battle	0	TRUE	0	FALSE	0	0		nick009
+nick009buff2	Eagle Hunter	Because Ade Ake is present, the self-inflicted damage from archery increases by 40%	0	battle	0	TRUE	0	FALSE	0	0		nick009P
 nick009b	Soar for a thousand miles	There is a 20% chance to dodge the enemy's attack	0	nickname	0	TRUE	0	FALSE	0	0		nick009b
 nick009c	Soar a thousand miles	There is a 10% chance to evade the enemy's attack	0	nickname	0	TRUE	0	FALSE	0	0		nick009c
 nick009d	Confoundingly poisonous	Each turn increase self's poison value, dizziness value by 10 points	0	nickname	0	TRUE	0	FALSE	0	0		nick009d
@@ -1084,7 +1084,7 @@ nick018bP	Peerless Master	Each round, self-attack power increases by 10%, accumu
 nick019	Mountain Goblin Demon King	When counterattacking, power increases by 30%, and during the attack, 15% of damage is converted into self-life force	0	nickname	0	TRUE	0	FALSE	0	0		nick019
 nick020	Confucian Heart, Sword Arm	Every round, self's counterattack value increases by 25. All allies receive the status Confusion of Confucian Sword	0	nickname	0	TRUE	0	FALSE	0	0		nick020
 nick020buff	Confucian Sword Formation	Due to Ling Zhongyue being present, the counterattack value of oneself is increased by 15 each round	0	battle	0	TRUE	0	FALSE	0	0		nick020buff
-nick021	Centuries-Loss Taoist Nun	If a martial arts technique with an ice seal effect is used, the technique's power becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021
+nick021	Wise Nun Bai Sun	If a martial arts technique with an ice seal effect is used, the technique's power becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021
 nick021P	Guang Han Gongzhu	If you use a martial art technique with an ice seal effect, the power of the move becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021P
 nick022	Scarce Wind King	When unleashing a critical attack, increase energy by 3	0	nickname	0	TRUE	0	FALSE	0	0		nick022
 nick022buff	Feng Wang Zhen	Because Bai Lide in the vicinity, each attack after increasing critical hit rate by 5%, when triggering a critical hit, restore energy by 1 point	0	battle	0	TRUE	0	FALSE	0	0		nick022buff
@@ -1118,14 +1118,14 @@ nick044buff	Wulin insiders	Your martial arts power increases as your level grows
 nick046buff	Heluo Great Heros	Your defense and attack capabilities will improve as your reputation in the wulin rises	0	nickname	0	TRUE	0	FALSE	0	0		bnick046
 nick084buff	To hit a target with an arrow from one hundred paces away	Arrows increase damage by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick084
 nick085buff	North Peak Grey Eagle	Bow and arrow damage increased by 20%	0	nickname	0	TRUE	0	FALSE	0	0		nick085
-nick086buff	Yu Long Fei Ying	Bow damage increased by 25%; when Ade Ake is in the team, your and Ade Ake's bow damage increases an additional 10%	0	nickname	0	TRUE	0	FALSE	0	0		nick086
+nick086buff	Yu Long Fei Ying	Bow and arrow damage increased by 25%; when Ade Ake is in the team, your bow and arrow damage with Ade Ake further increases by an additional 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick086
 nick091	Deadly Hand	This unit's every strike carries deadly poison!	0	nickname	0	TRUE	0	FALSE	0	0		nick091
 nick092	God of Fist	Swordsmanship Supreme, Unmatched Fist God!	0	nickname	0	TRUE	0	FALSE	0	0		nick092
 nick101	The meaning is that a hundred-legged insect cannot be pinned down; implying that when everyone works together, it's difficult to stop them	Each round increases the evasion rate by 2%, with a maximum increase of 20%	0	nickname	0	TRUE	0	FALSE	0	0		nick101
 nick102buff	Maids of the Jing Fort	Enemies within a 2-unit distance of He Baisha each round accumulate 12 points of poison and 6 points of confusion	0	nickname	0	TRUE	0	FALSE	0	0		nick102buff
 nick103	Iron Tiger Silver Spear	During combat, Black Panther enters the fray; each turn increases its own move damage by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick103
-nick104	Southwest Indian Cadet	Within a 10-unit radius around Duan Silang, each allied unit at the start of the turn grants Duan Silang an additional 5% critical rate boost	0	nickname	0	TRUE	0	FALSE	0	0		nick104
-nick105	Ancient Noble Family	Within a 5-unit radius of Deng Jialuo, enemy forces have their critical hit rate reduced by 15% at the start of each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick105
+nick104	Southwest Indian Cadet	Within a 10-unit radius around Duan Silang, each ally grants him an additional 5% critical hit rate at the start of their turns	0	nickname	0	TRUE	0	FALSE	0	0		nick104
+nick105	Ancient Noble Family	Within a 5-unit radius of Dong Jialuo, enemy forces have their critical strike rate reduced by 15% at the start of each round	0	nickname	0	TRUE	0	FALSE	0	0		nick105
 nick106	Successor of the Tusi	At the start of each round, restore 15% lifeforce to allies within a 2-unit distance and increase hit combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick106
 nick107	Army Commanders of the Mu Clan	When unleashing a critical strike, increase own critical rate by 20% and add Bolstered Will to oneself and allies within 2 tiles	0	nickname	0	TRUE	0	FALSE	0	0		nick107
 nick107a	High morale and eager to fight	Each round restores 10% lifeforce and adds a cumulative critical hit rate of 10%, lasting for three rounds	0	battle	0	TRUE	0	FALSE	0	0		nick107a
@@ -1147,7 +1147,7 @@ nick123buff	Martial Arts Obstacle：Move	Range of the counterattack is astonishi
 nick124buff	Wuxia Barrier：Just now	Enhance the effect of the hero's fury	0	nickname	0	TRUE	0	FALSE	0	0		nick122buff
 nick125	Scarlet Elixir Puppet	During an attack, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of muscle separation value	0	nickname	0	TRUE	0	FALSE	0	0		nick125
 nick126	Western River Military Commander	Reduces all skill values of enemies within a 3-unit radius from the caster by 25 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick126
-nick126b	Unforgiving Tower Master	Using baseball fist increases technique power by 100%	0	nickname	0	TRUE	0	FALSE	0	0		nick126b
+nick126b	Merciless Hall Master	Using baseball fist increases technique power by 100%	0	nickname	0	TRUE	0	FALSE	0	0		nick126b
 nick127	Pushing Hands of the Primordial Chaos	When discharging qi, enemies within a 2-unit radius of the user will accumulate an additional 10 points of internal injury; if the target is male, they will gain an extra 10 points of internal injury	0	nickname	0	TRUE	0	FALSE	0	0		nick127
 nick128	Fierce-faced Yanwang	When activating feigned moves, there is a 25% chance to apply Yanwang Suoming on the target, reducing their Neigong by 3 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick128
 nick128a	Yanwang sooming	Reduce Neigong by 3 points per round	0	battle	0	TRUE	0	FALSE	0	0		nick128a
@@ -1253,7 +1253,7 @@ jewelry21	Bandit's Bracer	Each turn, increase all of your skill values by 2 poin
 jewelry22	Mani Stone Talisman	At the start of a round, increase your own unburdening by 3 points; resist joint manipulation and bone twisting for 6 points	0		0	FALSE	0	FALSE	0	0		jewelry22
 jewelry23	Nightlight Mani Stone	At the start of a turn, increase your own off-qi by 3 points; resist joint manipulation and dislocation by 6 points; recover 9% of internal power	0		0	FALSE	0	FALSE	0	0		jewelry23
 jewelry24	Gold Lock Fragment	Recover 6% of Lifeforce per round	0		0	FALSE	0	FALSE	0	0		jewelry24
-jewelry25	A man's treasure	Every round, recover 6% of Qi; if worn by Situ Jing, additionally restore 6% more Qi	0		0	FALSE	0	FALSE	0	0		jewelry25
+jewelry25	A man's treasure	Recover 6% of your internal power per round; if the wearer is Situ Jing, recover an additional 6%	0		0	FALSE	0	FALSE	0	0		jewelry25
 jewelry26	Dragon's Claw Pearl Loop	At the start of the battle, increase maximum lifeforce by 10% and increase technique damage by 5%	0		0	FALSE	0	FALSE	0	0		jewelry26
 jewelry27	Frostblood Silver Hairpin	When attacking, deal additional 5 points of poisoning and 3 points of frostbite to the target; reduce own lifeforce by 5% and neigong by 3% each round	0		0	FALSE	0	FALSE	0	0		jewelry27
 jewelry28	White Silver Flying Swallow Hairpin	For each unit of distance moved, restore 2% of your own lifeforce	0		0	FALSE	0	FALSE	0	0		jewelry28

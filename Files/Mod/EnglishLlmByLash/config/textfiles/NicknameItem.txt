@@ -8,8 +8,8 @@ nick005	Heir to a wealthy family	Gain a 10% increase in money		Player	nick005
 nick006	Chosen One	Base damage of baseball fist increases by 20%, and the damage bonus will also increase as the level goes up		Player	nick006
 nick007	Tian Nan Wang Dao	Within a two-grid radius, allies reduce their own negative status by 5 points each round		n51001	nick007
 nick007P	Revive the Kingly Way	Within a 4-tile radius of allies, reduce negative status by 5 points and increase positive status by 3 points each turn		n51001	nick007Plus
-nick008	Thicket of Poisonous Feathers	If you are within 2 units of distance from He Ziwang each round, you will be poisoned for 8 points		n90405	nick008
-nick008P	Swans that die together	If you remain within a 4-unit distance of He Ziwang each round, you will be poisoned for 8 points and your allies' combat effectiveness reduced by 5 points		n90405	nick008Plus
+nick008	Thicket of Poisonous Feathers	If you are within a distance of 2 units from He Ziwang, you will be poisoned for 8 points each turn		n90405	nick008
+nick008P	Swans that die together	If you remain within a 4-unit distance of He Ziwang, you will be poisoned for 8 points and your allies' abilities will decrease by 5 points each round		n90405	nick008Plus
 nick009	Snowy Mountain Divine Eagle	Snowy Wing Sparrow joins the battle; personal archery damage increases by 25%, and all allies receive the status Falconer		n50060	nick009
 nick009b	Soar for a thousand miles	There is a 20% chance to dodge the attack		n50070	nick009b
 nick009c	Snowy Mountain Divine Eagle	Upon entering the field, the Eagle Hunter joins the battle; personal bow and arrow damage increases by 25%, and all allies receive the status Eagle Hunter		n50060	nick009c
@@ -78,15 +78,15 @@ nick082	Thief King Supreme	When equipped with the Jade Dragon Divine Spear, spea
 nick083	The Naxi Legend	When equipping the Jade Dragon Divine Gun, spear and staff techniques damage increases by 25%		Player	
 nick084	One Hundred Paces, One Shoot	Archery damage increased by 15%		Player	nick084
 nick085	Beishan Blue Eagle	Arrow damage increased by 20%		Player	nick085
-nick086	Yulong Feiying	Bow damage increases by 25%; when Ade Ake is in the team, bow damage dealt to and from you and Ade Ake increases by an additional 15%		Player	nick086
+nick086	Yulong Feiying	Archery damage increased by 25%; when Ade Ake is in the team, your and Ade Ake's archery damage additionally increases by 15%		Player	nick086
 nick091	Deadly Hand	This unit's every strike carries deadly poison!			nick091
 nick092	God of Fist	Swordsman Supreme, Invincible Fist God!			nick092
 nick103	Iron Panther Silver Spear	During battle, Black Panther joins the fray; each turn it increases its move damage by 5%, up to a maximum of 50%		n07003	nick103
 nick110	Master	Upon unleashing a critical strike, eliminate all negative states from oneself by 25 points		n50004	nick110
 nick101	There is strength in unity	Each turn, increase dodge rate by 2%, with a maximum of 20%		n90425,n90425b	nick101
 nick102	Green Village Miao Women	Within a 2 unit radius of He Baishe, enemy troops accumulate 12 points of poison and 6 points of confusion each round		n51009,n51009b	nick102
-nick104	Nanzhao Soldier	Duan Silang increases his critical hit rate by an additional 5% at the start of each round for every allied unit within a 10-unit radius		n90402	nick104
-nick105	Ancient and Noble Family	Within a 5-unit radius around Dong Jialuo, reduce the critical hit rate of enemy forces by 15% at the start of each round		n90403	nick105
+nick104	Nanzhao Soldier	Within a 10-unit radius around Duan Silang, each allied unit at the start of their turn grants Duan Silang an additional 5% critical hit rate		n90402	nick104
+nick105	Ancient and Noble Family	Within a 5-unit range of Dong Jialuo, reduce the enemy's crit rate by 15% at the start of each round		n90403	nick105
 nick106	Successor to the Headman	At the start of each turn, restore 15% Lifeforce to allies within a 2-unit radius and increase hit combo rate by 15%		n50048	nick106
 nick107	Forest Clan Warlord	When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares		n50065,n50065b	nick107
 nick108	Three Heroic Generals	Within a 2-unit distance around oneself, for each enemy present, an additional 1 point of energy is restored when the self executes a critical hit		n50073a,n50073a2	nick108
@@ -105,7 +105,7 @@ nick123	Wuxia Barrier	Wuxia Barrier			nick123
 nick124	Wuxia Obstacle (Strength)	Wuxia Obstacle (Strength)			nick124
 nick125	Scarlet Alchemist Puppet	During an attack, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of tendon damage value		n00095a,n00095b,n00095c,n00095d,n00095e,n00095f	nick125
 nick126	Western River Military Commander	For enemies within a 3-unit radius, reduce all special attribute values by 25 points each turn		n07001,n07001a	nick126
-nick126b	Unforgiving to the Sect Leader	For enemies within 3 units of range, reduce all skill values by 25 points each turn; when using Baseball Fist, increase the power of the technique by 75%		n07001,n07001a	nick126b
+nick126b	Master of the Merciless Hall	For enemies within 3 units of range, reduce all skill values by 25 points each turn; when using Baseball Fist, increase the power of the technique by 75%		n07001,n07001a	nick126b
 nick127	Primal Push Hands	When activating Move Four Liang to Generate a Thousand Jin, the target accumulates an internal injury value of 10 points. If the target is male, they additionally accumulate an extra 10 points of internal injury		n90215	nick127
 nick128	The Cold-Faced Yanwang	When launching a feint, there is a 25% chance to apply Yanwang Somo to the target, reducing their Neigong by 3 points each turn		n07004	nick128
 nick129	Life-and-death pursuit	There is a 10% chance to dodge the attack; when performing an evasive maneuver, the practitioner's energy increases by an additional 3 points		n52009,n52009b	nick129

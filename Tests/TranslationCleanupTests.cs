@@ -1,7 +1,11 @@
-﻿using System.Diagnostics;
+﻿using Microsoft.VisualStudio.CodeCoverage;
+using System.Diagnostics;
+using System.Runtime.InteropServices;
+using System.Security.Cryptography;
 using System.Text.RegularExpressions;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Translate.Tests;
 
@@ -18,7 +22,27 @@ public class TranslationCleanupTests
         var manual = TranslationService.GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
-            "不赦楼",               
+            //"白孙",
+            //"迦罗",
+            //"皇甫登云",
+            //"王喆",
+            //"李叹",
+            //"段思平",
+            //"段思良",
+            //"阿得阿克",
+            //"禾郁青",
+            //"何紫菀",
+            //"司徒荆",
+            //"石鸿图",
+            //"骆元玉",
+            //"漆笑儿",
+            //"樊香蝶",
+            //"黄裳",
+            //"程雁华",
+            //"百损",
+            //"颛孙凝",
+            //"董迦罗",
+            //"刁不易",
         };
 
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
@@ -30,7 +54,7 @@ public class TranslationCleanupTests
                 foreach (var split in line.Splits)
                 {
                     // Add Manual Translations in that are missing
-                    var preparedRaw = LineValidation.PrepareRaw(split.Text);               
+                    var preparedRaw = LineValidation.PrepareRaw(split.Text);
 
                     // If it is manually corrected
                     if (manual.TryGetValue(preparedRaw, out string? value))
@@ -82,7 +106,7 @@ public class TranslationCleanupTests
                             split.Translated = string.Empty;
                             recordsModded++;
                             continue;
-                        }                   
+                        }
 
                     // Clean up Diacritics
                     var cleanedUp = LineValidation.CleanupLineBeforeSaving(split.Translated, split.Text, outputFile);
@@ -178,8 +202,8 @@ public class TranslationCleanupTests
                         failures.Add($"Invalid {textFileToTranslate.Path}:\n{split.Text}");
 
                         //if (split.Text.Length < 6)
-                            if (!forTheGlossary.Contains(split.Text))
-                                forTheGlossary.Add(LineValidation.PrepareRaw(split.Text));
+                        if (!forTheGlossary.Contains(split.Text))
+                            forTheGlossary.Add(LineValidation.PrepareRaw(split.Text));
                     }
                 }
             }
@@ -303,5 +327,53 @@ public class TranslationCleanupTests
         }
 
         File.WriteAllLines($"{workingDirectory}/TestResults/ForTheGlossaryTrans.txt", results);
+    }
+
+    [Fact]
+    public void TestBracketSplit()
+    {
+        var inputs = new List<string> 
+        {
+            "(whatifIstart) This is a sample text with (brackets) and (some more) text. I like (brackets) to translate. (Ok) sdsaf",
+            "This is a sample text with (brackets) and (some more) text. I like (brackets) to translate. (Ok) sdsaf",
+            "This is a sample text with (brackets) and (some more) text. I like (brackets) to translate. (Ok)",
+            "Text (brackets)"
+        };
+
+        foreach (var input in inputs)
+        {
+            string output = SplitBracket(input);
+            Console.WriteLine(output);
+            Assert.Equal(input, output);
+        }
+    }
+
+    private static string SplitBracket(string input)
+    {
+        string output = string.Empty;
+        string pattern = @"([^\(]*|(?:.*?))\(([^\)]*)\)|([^\(\)]*)$";
+
+        MatchCollection matches = Regex.Matches(input, pattern);
+        foreach (Match match in matches)
+        {
+            var outsideStart = match.Groups[1].Value.Trim();
+            var outsideEnd = match.Groups[3].Value.Trim();
+            var inside = match.Groups[2].Value.Trim();
+
+            Console.WriteLine("OutsideStart: " + outsideStart);
+            Console.WriteLine("Inside: " + inside);
+            Console.WriteLine("outsideEnd: " + outsideEnd);
+
+            if (!string.IsNullOrEmpty(outsideStart))
+                output += outsideStart;
+
+            if (!string.IsNullOrEmpty(inside))
+                output += $" ({inside}) ";
+
+            if (!string.IsNullOrEmpty(outsideEnd))
+                output += outsideEnd;
+        }
+
+        return output.Trim();
     }
 }

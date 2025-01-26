@@ -101,7 +101,7 @@
     translated: "Thicket of Poisonous Feathers"
   - split: 2
     text: "若待在何紫菀周围2单位距离内，每回合中毒8点"
-    translated: "If you are within 2 units of distance from He Ziwang each round, you will be poisoned for 8 points"
+    translated: "If you are within a distance of 2 units from He Ziwang, you will be poisoned for 8 points each turn"
 - lineNum: 11
   raw: "nick008P	比翼鸩羽	若待在何紫菀周围4单位距离内，每回合中毒8点、队友降低5点		n90405	nick008Plus"
   translated: ""
@@ -111,7 +111,7 @@
     translated: "Swans that die together"
   - split: 2
     text: "若待在何紫菀周围4单位距离内，每回合中毒8点、队友降低5点"
-    translated: "If you remain within a 4-unit distance of He Ziwang each round, you will be poisoned for 8 points and your allies' combat effectiveness reduced by 5 points"
+    translated: "If you remain within a 4-unit distance of He Ziwang, you will be poisoned for 8 points and your allies' abilities will decrease by 5 points each round"
 - lineNum: 12
   raw: "nick009	雪山神鹰	战斗时，雪翼雕加入战局；自身弓箭伤害增加25%，且所有友方获得状态「飞鹰猎手」		n50060	nick009"
   translated: ""
@@ -801,7 +801,7 @@
     translated: "Yulong Feiying"
   - split: 2
     text: "弓箭伤害增加25%；当阿得阿克在队伍中时，你与阿得阿克的弓箭伤害额外增加15%"
-    translated: "Bow damage increases by 25%; when Ade Ake is in the team, bow damage dealt to and from you and Ade Ake increases by an additional 15%"
+    translated: "Archery damage increased by 25%; when Ade Ake is in the team, your and Ade Ake's archery damage additionally increases by 15%"
 - lineNum: 81
   raw: "nick091	「毒手」	此单位的每一击都带着剧毒！			nick091"
   translated: ""
@@ -871,7 +871,7 @@
     translated: "Nanzhao Soldier"
   - split: 2
     text: "段思良周围10单位距离内每位友军，每回合开始时段思良额外提升爆击率5%"
-    translated: "Duan Silang increases his critical hit rate by an additional 5% at the start of each round for every allied unit within a 10-unit radius"
+    translated: "Within a 10-unit radius around Duan Silang, each allied unit at the start of their turn grants Duan Silang an additional 5% critical hit rate"
 - lineNum: 88
   raw: "nick105	名门世族	董迦罗周围5单位内距离敌军，每回合开始时降低爆击率15%		n90403	nick105"
   translated: ""
@@ -881,7 +881,7 @@
     translated: "Ancient and Noble Family"
   - split: 2
     text: "董迦罗周围5单位内距离敌军，每回合开始时降低爆击率15%"
-    translated: "Within a 5-unit radius around Dong Jialuo, reduce the critical hit rate of enemy forces by 15% at the start of each round"
+    translated: "Within a 5-unit range of Dong Jialuo, reduce the enemy's crit rate by 15% at the start of each round"
 - lineNum: 89
   raw: "nick106	土司继任者	每回合开始时回复周围2单位距离内友军15%气血值，连击率提升15%		n50048	nick106"
   translated: ""
@@ -1068,7 +1068,7 @@
   splits:
   - split: 1
     text: "不赦楼主"
-    translated: "Unforgiving to the Sect Leader"
+    translated: "Master of the Merciless Hall"
   - split: 2
     text: "对自身周围距离3个单位内敌方，每回合降低所有特技值25点；使用野球拳时，招式威力增加75%"
     translated: "For enemies within 3 units of range, reduce all skill values by 25 points each turn; when using Baseball Fist, increase the power of the technique by 75%"

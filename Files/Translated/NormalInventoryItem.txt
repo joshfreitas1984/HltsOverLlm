@@ -384,7 +384,7 @@
   splits:
   - split: 1
     text: "熊胆"
-    translated: "Bezoar"
+    translated: "Bear bile"
   - split: 3
     text: "味苦，性寒；归肝、胆、心经。熊胆入药，可疏通瘀血、畅通内息，治疗内伤效果颇佳。"
     translated: "Bitter in taste and cold in nature; enters the liver, gallbladder, and heart meridians. Bear bile used medicinally can disperse stagnant blood, promote circulation of internal qi, and is effective for treating internal injuries"
@@ -3457,7 +3457,7 @@
     translated: "Fragmented Splendor"
   - split: 3
     text: "天书碎片之一，一片破碎的龟甲，上头刻有绽放的花朵，是你从黄裳手中所取得。当你凝视花朵的纹样时，几句谶语自你的脑海中浮现，「…天巧剪瑶花，六出缤纷落…」"
-    translated: "One fragment of the Heavenly Scriptures, a broken piece of tortoise shell with blossoming flowers carved on it that you obtained from Huang Shang. As you gaze at the pattern of the flowers, a few lines of prophecy emerge in your mind: ...Heaven's skillful scissors cutting jade flowers, scattered sixfold in colorful splendor"
+    translated: "A fragment of the Heavenly Scriptures, a broken piece of tortoise shell with blooming flowers carved on it, was obtained from Huang Shang. As you gaze at the floral patterns, some cryptic words emerge in your mind: ...Tianqiao cuts yao flowers, sixfold vibrant petals fall..."
 - lineNum: 346
   raw: "it801035	穷山的碎片	it801035	天书碎片之一，一片破碎的龟甲，上头刻有险峻的山岭，是你从何白芍手中所取得。当你凝视山岭的纹样时，几句谶语自你的脑海中浮现，「…养拙甘沉默，忘怀绝险艰…」	801	0	0	FALSE	5	100	0	0	0		0			0"
   translated: ""
@@ -3547,7 +3547,7 @@
     translated: "Six Meridian Classic"
   - split: 3
     text: "由金鼎禅师交给段思平的天龙寺失传绝学，其上所记载的剑法与经脉运行之法天马行空，艰涩难习，却似乎与段氏所修习的武学暗合，若与段氏家传武学一同修习或可收到奇效。"
-    translated: "By Master Jin Ding, the lost technique of Tianlong Temple passed to Duan Siping was recorded in his scriptures. The sword techniques and meridian circulation methods were ingenious and difficult to learn but seemed to align with the martial arts practiced by the Duan family. If studied together with the Duan family's inherited martial arts, they might yield extraordinary effects"
+    translated: "Transmitted by Master Jin Ding to Duan Siping, the lost art of Tianlong Temple contains sword techniques and meridian flow methods that are boundless in imagination, difficult to practice, but seem to align with the martial arts Duan has been practicing. If practiced alongside his family's martial arts teachings, it may have extraordinary effects"
 - lineNum: 355
   raw: "it801046	巧匠令	it801046	一个神秘的竹简。	801	0	0	FALSE	0	50	0	0	0		1			{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n8013001000\"} ]}"
   translated: ""
@@ -3837,7 +3837,7 @@
     translated: "Heaven's Pillar Fort Tiger Token (Right)"
   - split: 3
     text: "擎天寨重要信物，同时也是二寨主凭证，平时由王喆贴身保管。"
-    translated: "Qingtian Fort's important relic, which also serves as the Second Chief's credentials, is normally guarded by Wang Zhe when not in use"
+    translated: "Quengtian Zhai's important token, which also serves as the proof of identity for the Second Chief, is normally kept under personal guard by Wang Zhe"
 - lineNum: 384
   raw: "it801076	画着记号的符纸	it801076	在破庙中捡到的破旧符纸，上头画着奇怪的记号，似字非字，令人一头雾水。	801	0	0	FALSE	0	50	0	0	0		0			0"
   translated: ""
@@ -4237,7 +4237,7 @@
     translated: "Chidang Gong Mixin"
   - split: 3
     text: "从百损道姑身上搜出的密信，内里有她与赤丹宫主同出一门的证据。"
-    translated: "The secret letter found on Hundred Injuries Daoist Nun contained evidence that she and the Scarlet Lotus Guildmaster were from the same family"
+    translated: "The secret letter found on Bai Sun Daozu contained evidence that she and the Red Cinnabar Patriarch were from the same family"
 - lineNum: 424
   raw: "it801116	罗嬷嬷一炷香上菜	it801116	此书记载杜府罗嬷嬷的拿手好菜。盖杜府灶房里总是固定备着汤水好料，无论老爷夫人想吃什么，罗嬷嬷都能快速上菜，不知道这样子的大户人家都吃些什么好料？	801	0	0	TRUE	0	50	0	0	0		1			{ \"MultiAction\" : [ { \"LearnCookFormulaAction\" : \"ck0024\"}  ]}"
   translated: ""

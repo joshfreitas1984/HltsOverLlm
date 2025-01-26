@@ -5268,7 +5268,7 @@
   splits:
   - split: 1
     text: "禾郁青与鹰猎人守卫的对话"
-    translated: "He Yuqing spoke with the Eagle Hunter guards"
+    translated: "He Yuqing said to the Eagle Hunter guards, What are you doing here?"
 - lineNum: 753
   raw: "m20042	锁住的牢门	MouseEventBox	Resources_Art/Art3D/3rdPackage/Underworld/Prefabs/door_test.prefab	None	-1540.458, 239.1487, -363.727	0.4214754, 6.829072, 4.568655	0.3366228, 0.3366228, 0.3366228	0, 0, 0	True	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2已放走韓猊拔\", 3, 1}  ], 0} 	0	0"
   translated: ""
@@ -5415,7 +5415,7 @@
   splits:
   - split: 1
     text: "漱玉矶初遇漆笑儿"
-    translated: "Gleaming Jade Beach initially encountered Qi Xiaor"
+    translated: "First encounter with Qi Xiao'er at Shu Yu Beach"
 - lineNum: 774
   raw: "m20059	大研镇遇文解	EventBox		None	-733.54, 66.91, -996.66	1, 1, 1	12.58907, 2.63831, 8.152322	0, 339.1686, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 6, 18}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20070\"}  ]} 	0"
   translated: ""
@@ -5555,14 +5555,14 @@
   splits:
   - split: 1
     text: "禾家马帮看守禾郁青"
-    translated: "He family horse gang guards He Yuqing"
+    translated: "Wu Family Horse Gang is watching He Yuqing"
 - lineNum: 794
   raw: "m20077	禾家马帮看守禾郁青	EventBox		None	-662.257, 70.655, -1075.221	1, 1, 1	1, 2.293609, 2.187416	0, 0.7099593, 0	True	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2不插手禾家父女\", 1, 1} , { \"TimeCondition\" : 7, 22} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20098\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾家马帮看守禾郁青"
-    translated: "Wheat Family Horse Gang guards Hu Yuqing"
+    translated: "Wu Family Horse Gang guards He Yuqing"
 - lineNum: 795
   raw: "m20078	木箱	MouseEventBox	Resources_Art/Art3D/Ore/woodbox.prefab	Pick	-665.4101, 66.335, -1076.946	0.72, 0.72, 0.75	1, 1, 1	0, 0, 0	False	0		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it801049\", 1}  ]} 	0"
   translated: ""
@@ -5576,7 +5576,7 @@
   splits:
   - split: 1
     text: "禾郁青房内"
-    translated: "Within the He Yuqing Mansion"
+    translated: "He Yuqing's Room"
 - lineNum: 797
   raw: "m20080	山魈鬼窟	EventBox		None	-1089.927, 171.592, -1198.177	1, 1, 1	1, 6.08172, 5.015968	0, 329.5812, 0	False	0		0	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20101\"}  ]} 	0"
   translated: ""
@@ -5688,14 +5688,14 @@
   splits:
   - split: 1
     text: "禾郁青不愿见阿爹"
-    translated: "Huo Yuchen did not want to see his father"
+    translated: "Hu Yuqing did not want to see his father"
 - lineNum: 813
   raw: "m20097	禾郁青不愿见阿爹	EventBox		None	-637.187, 67.063, -1086.775	1, 1, 1	1.445326, 1, 2.247534	0, 2.188618, 0	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_11\", 1, True} , { \"TeammateCondition\" : \"n20049\", True} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20121\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "禾郁青不愿见阿爹"
-    translated: "He Yuqing did not want to see A Die"
+    translated: "He Yuqing didn't want to see his father"
 - lineNum: 814
   raw: "m20098	木盒	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_046.prefab	Survey	-1065.738, 167.42, -1240.15	1, 1, 1	1.2, 1.2, 1.2	270, 331.4236, 0	False	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m2009801000\"}  ]} 	0"
   translated: ""
@@ -5723,7 +5723,7 @@
   splits:
   - split: 1
     text: "张君宝救百损"
-    translated: "Zhang Junbao rescues Bai Sun"
+    translated: "Chang Junbao rescues Bai Sun"
 - lineNum: 818
   raw: "m20102	张君宝望陇村	EventBox		None	-923.81, 65.00639, 1097.84	1, 1, 1	34.47952, 2.715596, 30.38319	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20027_03\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20135\"}  ]} 	0"
   translated: ""
@@ -6164,14 +6164,14 @@
   splits:
   - split: 1
     text: "遇见何紫菀"
-    translated: "Encountered He Ziwang"
+    translated: "Encounter with He Ziwang"
 - lineNum: 881
   raw: "m20165	追何紫菀进山洞	EventBox		None	-1050.7, 114.374, -1144.51	1, 1, 1	6.696761, 3.401372, 1.691911	0, 332.6998, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20176\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "追何紫菀进山洞"
-    translated: "Pursue He Ziwang into the mountain cave"
+    translated: "Chase He Ziwang into the mountain cave"
 - lineNum: 882
   raw: "m20166	腐心草	MouseEventBox	Resources_Art/Art3D/Nature/Yughues Bushes&Weeds v.3/Prefabs AFS/Flowers AFS/Flower01 AFS.prefab	Collect	408.286, 65.836, -1441.594	1, 1, 1	1.5, 1.5, 1.5	0, 0, 0	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_07\", 1, False}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m2016601000\"}  ]} 	0"
   translated: ""
@@ -6584,7 +6584,7 @@
   splits:
   - split: 1
     text: "段思平友情三阶_与采花七人众开打"
-    translated: "Duan Siping friendship rank three-level begins battle with the Seven Flower Gathering"
+    translated: "Duan Siping engages in a friendly three-stage fight with the Seven Women of Caihua"
 - lineNum: 941
   raw: "m40003	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	0.02, 127.2, -1024.38	1, 1, 1	1, 1, 1	0, 28.39018, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
   translated: ""
@@ -6619,7 +6619,7 @@
   splits:
   - split: 1
     text: "骆元玉友情三阶movie"
-    translated: "Lo Yueyu friendship three-level movie"
+    translated: "Luoyuanyu Friendship Three-Level Movie"
 - lineNum: 946
   raw: "m40007	蝎子	MouseEventBox	Resources_Art/Art3D/Ore/scorpion.prefab	Catch	32.03, 128.99, -1001.47	1, 1, 1	0.5, 0.5, 0.5	300.4276, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50305\", 1}  ]} 	0"
   translated: ""
@@ -6843,7 +6843,7 @@
   splits:
   - split: 1
     text: "何紫菀任务1触发洞口剧情"
-    translated: "He Ziwang's first task triggers the cave entrance plot"
+    translated: "He Ziwang's Task 1 triggers the cave entrance plot"
 - lineNum: 978
   raw: "m40012	毒蛇	MouseEventBox	Resources_Art/Art3D/Ore/Snake_2.prefab	Catch	-90.84, 153.35, -1096.74	1, 1, 1	1, 1, 1	0, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50304\", 1}  ]} 	0"
   translated: ""
@@ -6857,7 +6857,7 @@
   splits:
   - split: 1
     text: "何紫菀任务2触发1"
-    translated: "Task 2 triggered by He Ziwang"
+    translated: "He Ziwang Task 2 Trigger 1"
 - lineNum: 980
   raw: "m4001202	蛛儿	MouseEventBox	Resources_Art/Art3D/Ore/Spider.prefab	Survey	-790.034, 71.543, -1045.663	1, 1, 1	10, 10, 10	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40012_02\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4001202012\"}  ]} 	0"
   translated: ""
@@ -6899,7 +6899,7 @@
   splits:
   - split: 1
     text: "何紫菀任务2下药触发"
-    translated: "He Ziwang Task 2 Down Medicine Trigger"
+    translated: "He Ziwang's task to administer medicine triggers"
 - lineNum: 986
   raw: "m40013	毒蛇	MouseEventBox	Resources_Art/Art3D/Ore/Snake_2.prefab	Catch	-30.22, 170.93, -1060.1	1, 1, 1	1, 1, 1	0, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50304\", 1}  ]} 	0"
   translated: ""
@@ -7109,7 +7109,7 @@
   splits:
   - split: 1
     text: "颛孙凝任务阶段2"
-    translated: "Shi Hongtu's Task Stage 2"
+    translated: "Zhuan Sunning Stage 2"
 - lineNum: 1016
   raw: "m40019	蝎子	MouseEventBox	Resources_Art/Art3D/Ore/scorpion.prefab	Catch	-499.17, 64.17, -1149.52	1, 1, 1	0.5, 0.5, 0.5	300.4276, 0, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50305\", 1}  ]} 	0"
   translated: ""
@@ -8852,7 +8852,7 @@
   splits:
   - split: 1
     text: "阿得阿克回到议事厅后"
-    translated: "Ade Ake returned to the council hall"
+    translated: "Ade Ake returned to the council chamber after"
 - lineNum: 1265
   raw: "m50186c	茶庄内空无一人	EventBox		None	-651.678, 67.87, -1019.796	1, 1, 1	2.448426, 1, 1	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q52005_03\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m520050301\"}  ]} 	0"
   translated: ""
@@ -9097,7 +9097,7 @@
   splits:
   - split: 1
     text: "段思平独自面对蛇王"
-    translated: "Duan Silang faces off against the Snake King alone"
+    translated: "Shi Siping faced the Serpent King alone"
 - lineNum: 1300
   raw: "m51011	跟踪何来到蛇窟	EventBox		None	-166.04, 110.57, -1113.82	1, 1, 1	8.417269, 6.099372, 1.543368	0, 321.002, 0	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f51001郎中事件：是否出手相助？\", 1, 2} , { \"CheckFlagAction\" : \"f51001郎中事件：跟蹤何白芍事件階段\", 1, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f51001郎中事件：是否答應段思平邀約？\", 1, 3} , { \"CheckFlagAction\" : \"f51001郎中事件：段與何對峙是否結束？\", 1, 0}  ], 0}  ], 1} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20058\"}  ]} 	0"
   translated: ""
@@ -9265,147 +9265,147 @@
   splits:
   - split: 1
     text: "黄裳线：自己找到青城山洞窟"
-    translated: "Yellow Bough：Found the cave in Qingcheng Mountain by themselves"
+    translated: "Huang Shang's storyline：He found the cave in Qingcheng Mountain by himself"
 - lineNum: 1324
   raw: "m53001b	黄裳线：依约前来山洞	EventBox		None	-893.977, 132.141, 238.881	1, 1, 1	2.932782, 1.551824, 0.9055774	0, 325.3415, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_02b\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300102b01\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：依约前来山洞"
-    translated: "Yellow Shang Line：As agreed, I came to the mountain cave"
+    translated: "Huang Shang's thread：As agreed, I came to the cave"
 - lineNum: 1325
   raw: "m53002	黄裳线：依照凌中岳指示来到青城山洞窟	EventBox		None	-889.06, 133.54, 248.1	1, 1, 1	4.802004, 4.127074, 2.612622	0, 350.3553, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_02b\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300102b00\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：依照凌中岳指示来到青城山洞窟"
-    translated: "Yellow Shang Line：Following Lin Zhong Yue's instructions, I arrived at the cave on Qingcheng Mountain"
+    translated: "Wang Shang Line：Following Ling Zhongye's instructions, they arrived at the cave in Qingcheng Mountain"
 - lineNum: 1326
   raw: "m53003	黄裳线：自己误进洞内	EventBox		None	-893.977, 132.141, 238.881	1, 1, 1	2.932782, 1.551824, 0.9055774	0, 325.3415, 0	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_01\", 0, True} , { \"QuestCondition\" : \"Q53001_02b\", 0, False} , { \"QuestCondition\" : \"Q53001_02b\", 1, False}  ], 0} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_02a\", 0, True} , { \"QuestCondition\" : \"Q53001_02b\", 0, False} , { \"QuestCondition\" : \"Q53001_02b\", 1, False}  ], 0} , { \"CheckFlagAction\" : \"TestTest\", 1, 99}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300102a02\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：自己误进洞内"
-    translated: "Yellow Shang's Line：Entered the cave by mistake"
+    translated: "Yellow Robe Line：Walked into the cave by mistake"
 - lineNum: 1327
   raw: "m53003b	黄裳线：被青城弟子挡在洞口	EventBox		None	-889.09, 133.87, 247.47	1, 1, 1	3.557361, 4.383592, 1	0, 343.2516, 0	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_02b\", 0, False} , { \"QuestCondition\" : \"Q53001_02b\", 1, False}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300901\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：被青城弟子挡在洞口"
-    translated: "Yellow Brocade Belt：Blocked by disciples of the Qingcheng Sect at the cave entrance"
+    translated: "Huang Shang's storyline：Blocked by disciples of the Qingcheng Sect at the cave entrance"
 - lineNum: 1328
   raw: "m53004	黄裳之墓	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_072_D.prefab	Survey	-889.325, 131.1644, 233.732	1, 1, 1	1, 1, 1	270, 308.4562, 0	True	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f53010\", 0, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300102a02030\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳之墓"
-    translated: "Huang Shang's Tomb"
+    translated: "Grave of Huang Shang"
 - lineNum: 1329
   raw: "m53005	黄裳	MouseEventBox		Survey	-889.18, 131.493, 237.142	1, 1, 1	1.032594, 0.6432317, 1.674274	0, 32.93321, 0	True	0		{ \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f53010t\", True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300102a02044\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳"
-    translated: "Yellow Shang"
+    translated: "Huang Shang"
 - lineNum: 1330
   raw: "m53006	黄裳线：初入明教北坛入口	EventBox		None	154.02, 113.04, 784.65	1, 1, 1	11.0808, 9.027452, 1	0, 327.5275, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_03c\", 0, True} , { \"CheckFlagAction\" : \"f53012\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300103c01133\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：初入明教北坛入口"
-    translated: "Yellow Song Line：Entering the Northern Altar entrance of the Ming Cult for the first time"
+    translated: "Huang Shang's plot：Entering the Northern Altar entrance of the Ming Cult for the first time"
 - lineNum: 1331
   raw: "m53006b	黄裳线：初入明教北坛入口b	EventBox		None	306.46, 114.9515, 799.04	1, 1, 1	1, 10.67821, 16.10408	0, 313.3221, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_03c\", 0, True} , { \"CheckFlagAction\" : \"f53012\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300103c01133\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：初入明教北坛入口b"
-    translated: "Yellow Shang line：Entering the Northern Altar of the Ming Sect for the first time"
+    translated: "Yellow Robe Line：Upon entering the northern gate of the Clear and Radiant Sect"
 - lineNum: 1332
   raw: "m53007	黄裳线：初遇明教残党四人众	EventBox		None	192.81, 108.74, 773.78	1, 1, 1	1, 4.369542, 18.74248	0, 307.5834, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_03c\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300103c01\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：初遇明教残党四人众"
-    translated: "Yellow Shang Line：First encounter with the four disciples of the remaining sectarians of the Ming Cult"
+    translated: "Huang Shang storyline：First encounter with the remnant four of the Ming Cult"
 - lineNum: 1333
   raw: "m53007b	黄裳线：初遇明教残党四人众b	EventBox		None	228.69, 119.09, 794.25	1, 1, 1	1, 9.939482, 10.00886	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_03c\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300103c01b\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：初遇明教残党四人众b"
-    translated: "Huang Shang's Technique：First encounter with the four remaining followers of the Ming Cult"
+    translated: "Huang Shang：First Encounter with the Remnants of the Ming Cult's Four Groups"
 - lineNum: 1334
   raw: "m53007c	黄裳线：明教四人众自尽后门挡	EventBox		None	200.12, 118.32, 801.79	1, 1, 1	25.75029, 12.02767, 1	0, 324.2018, 0	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_04a\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300103c02b\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：明教四人众自尽后门挡"
-    translated: "Yellow Embroidery Thread：The Four Disciples of the Ming Cult committed suicide after blocking the door"
+    translated: "Huang Shang's Line：After the Four Disciples of the Ming Sect committed suicide, they blocked the door"
 - lineNum: 1335
   raw: "m53008	黄裳线：风王放走主角后北坛门挡	EventBox		None	166.92, 112.738, 771.69	1, 1, 1	1, 11.15867, 16.44418	0, 23.98979, 0	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_04b\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300104b00\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：风王放走主角后北坛门挡"
-    translated: "Yellow Shang Thread：After the Wind King let go of the protagonist, he blocked the Northern Altar Gate"
+    translated: "Yellow Robe Thread：After the Wind King let the protagonist go, Northern Pavilion's gate blocked"
 - lineNum: 1336
   raw: "m53009	黄裳线：带黄裳来到北坛	EventBox		None	154.02, 113.11, 784.65	1, 1, 1	11.0808, 9.113173, 1	0, 327.5275, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_05a\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300102b01155\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：带黄裳来到北坛"
-    translated: "Huang Shang xian：Leading Huang Shang to the Northern Altar"
+    translated: "Yellow Robe Faction：Yang Shang arrived at the northern altar"
 - lineNum: 1337
   raw: "m53009b	黄裳线：带黄裳来到北坛b	EventBox		None	306.46, 114.9515, 799.04	1, 1, 1	1, 10.67821, 16.10408	0, 313.3221, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_05a\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300102b01155\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：带黄裳来到北坛b"
-    translated: "Yellow Shang Thread：Bring Huang Shang to the northern altar"
+    translated: "Yellow Robe：Huang Shang arrived at the northern altar"
 - lineNum: 1338
   raw: "m53009c	黄裳线：黄裳看见死掉的明教四人众	EventBox		None	201.97, 112.8323, 799.09	1, 1, 1	11.23933, 3.30704, 7.640126	0, 333.4467, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_05a1\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300102b01168\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：黄裳看见死掉的明教四人众"
-    translated: "Yellow Robe Line：Yellow Shang saw the four deceased members of the Ming Cult"
+    translated: "Huang Shang：Yellow Shang saw the four dead members of the Ming Cult"
 - lineNum: 1339
   raw: "m53010	黄裳线：与黄裳来到北坛深处	EventBox		None	227.28, 129.86, 764.46	1, 1, 1	20.39108, 3.341641, 25.85195	0, 315.0931, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_05a1\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300105a02c\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：与黄裳来到北坛深处"
-    translated: "Yellow Cloth Thread：With Huang Shang arriving at the depths of Beitan"
+    translated: "Yellow Robe Line：With Huang Shang, they arrived in the deep part of the northern altar"
 - lineNum: 1340
   raw: "m53010a	黄裳线：打明教教众a	EventBox		None	215.8, 109.1285, 832.1	1, 1, 1	1, 15.72006, 16.16485	0, 351.2625, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_05a1\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300102b01173\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：打明教教众a"
-    translated: "Yellow Shang Line：Attack the Ming Sect members"
+    translated: "Yellow Robe Line：Attack the Ming Cult followers"
 - lineNum: 1341
   raw: "m53010b	黄裳线：打明教教众b	EventBox		None	254.51, 131.93, 816.28	1, 1, 1	24.20889, 9.468976, 1	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_05a1\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300102b01176\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：打明教教众b"
-    translated: "Huang Shang's String：Attack the members of the Ming Cult"
+    translated: "Wang Shang's storyline：Attack the Disciples of the Ming Sect"
 - lineNum: 1342
   raw: "m53010c	黄裳线：打明教教众c	EventBox		None	255.5, 136.57, 792.73	1, 1, 1	22.17247, 10.86867, 1	0, 31.4958, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_05a1\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300102b01179\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：打明教教众c"
-    translated: "Wang Shang Line：Attack the members of the Ming Cult"
+    translated: "Yellow Robes Line：Attack the Ming Cult Sect members"
 - lineNum: 1343
   raw: "m53011	黄裳线：受狼群袭击的武人	EventBox		None	66.49, 78.36, 738.2	1, 1, 1	36.42154, 7.625522, 25.03648	0, 325.966, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53002\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300201\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：受狼群袭击的武人"
-    translated: "Huang Shang's Thread：Wuxia practitioner attacked by a pack of wolves"
+    translated: "Huang Shang's storyline：Wuxia practitioner attacked by a wolf pack"
 - lineNum: 1344
   raw: "m53011b	武人的死尸	MouseEventBox		Survey	66.429, 77.653, 738.397	1, 1, 1	4.029611, 1.524356, 3.411383	0, 307.2544, 0	True	0		{ \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f5300201t\", True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300201019\"}  ]} 	0"
   translated: ""
@@ -9419,28 +9419,28 @@
   splits:
   - split: 1
     text: "黄裳线：黄裳自己来找北坛，主角自言自语"
-    translated: "Yellow Banner Army：Yellow Shang came to find the Northern Altar himself, and the protagonist spoke to themselves"
+    translated: "Yellow Robe Line：Yellow Shang went to find the Northern Altar himself, and the protagonist muttered to themselves"
 - lineNum: 1346
   raw: "m53012a	黄裳线：看见遭黄裳杀害的教众	EventBox		None	215.8, 109.1285, 832.1	1, 1, 1	1, 15.72006, 16.16485	0, 351.2625, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_04c\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300104b02068\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：看见遭黄裳杀害的教众"
-    translated: "Huang Shang xian：Witnessed the massacre of disciples by Huang Shang"
+    translated: "Huang Shang line：Witnessed the disciples being killed by Huang Shang"
 - lineNum: 1347
   raw: "m53012b	黄裳线：来到北坛找到黄裳	EventBox		None	242.16, 144.6, 775.54	1, 1, 1	23.16739, 34.38911, 1	0, 44.96454, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_04c\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300104b03\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：来到北坛找到黄裳"
-    translated: "Yellow Shang Line：Arrived at Beitan and found Huang Shang"
+    translated: "Huang Shang's Path：Arrived at Northern Altar to find Huang Shang"
 - lineNum: 1348
   raw: "m53012c	黄裳线：不杀明教并重回北坛后门挡	EventBox		None	200.12, 118.7, 801.79	1, 1, 1	25.75029, 12.02767, 1	0, 324.2018, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_04c2\", 1, True} , { \"QuestCondition\" : \"Q53001_04c1\", 1, True}  ], 1} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5300104b04a1\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：不杀明教并重回北坛后门挡"
-    translated: "Yellow Robes Sect：Do not kill the Disciples of the Divine Dao and return to block the back door of the Northern Altar"
+    translated: "Wang Shang：Do not kill the Ming Cult and return to guard the north gate of their temple"
 - lineNum: 1349
   raw: "m53013	佛像	MouseEventBox		Survey	197.651, 114.786, 804.54	1, 1, 1	2.615736, 3.933405, 2.201562	0, 335.6737, 0	True	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300902000\"}  ]} 	0"
   translated: ""
@@ -9461,21 +9461,21 @@
   splits:
   - split: 1
     text: "黄裳线：硬闯七武人"
-    translated: "Huang Shang line：Forcefully confront the Seven Heroes"
+    translated: "Yellow Robe Sect：Forcefully rush into the Seven Martial Artists"
 - lineNum: 1352
   raw: "m53015	黄裳线：还没开始找就找到	EventBox		None	154.02, 113.04, 784.65	1, 1, 1	11.0808, 9.027452, 1	0, 327.5275, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_03c\", 0, False} , { \"QuestCondition\" : \"Q53001_03c\", 1, False} , { \"CheckFlagAction\" : \"f53020\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300902027\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：还没开始找就找到"
-    translated: "Yellow Shang's Line：Not even started looking and already found it"
+    translated: "Yellow Shang's Line：It hasn't even started looking and it's already found"
 - lineNum: 1353
   raw: "m53015b	黄裳线：还没开始找就找到b	EventBox		None	306.46, 114.9515, 799.04	1, 1, 1	1, 10.67821, 16.10408	0, 313.3221, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q53001_03c\", 0, False} , { \"QuestCondition\" : \"Q53001_03c\", 1, False} , { \"CheckFlagAction\" : \"f53020\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5300902027\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "黄裳线：还没开始找就找到b"
-    translated: "Line Huang Shang：Not even started looking and already found b"
+    translated: "Huang Shang's Line：He found it before he even started looking"
 - lineNum: 1354
   raw: "m53101	书册	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_019_B.prefab	Pick	231.3967, 127.884, 738.1155	1, 1, 1	1, 1, 1	61.44985, 5.005096, 84.53741	False	0		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it30307\", 1}  ]} 	0"
   translated: ""
@@ -10462,14 +10462,14 @@
   splits:
   - split: 1
     text: "漱玉矶初遇李叹"
-    translated: "First encounter at Gleaming Jade Beach with Li Tan"
+    translated: "Shu Yu Ji initially met Li Tan"
 - lineNum: 1495
   raw: "m60067	漱玉矶月夜李叹	EventBox		None	-356.57, 70.81, -1029.88	1, 1, 1	20.69939, 1.691427, 13.40823	344.7919, 314.2837, 2.234643	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f69001漱玉磯對李嘆感興趣\", 0, 0} , { \"CheckFlagAction\" : \"f69004漱玉磯得知李嘆位置\", 0, 0} , { \"CheckFlagAction\" : \"f69006大研鎮漆笑兒告知蘇清瑞事\", 1, 0}  ], 0} , { \"LogicalNode\" : [ { \"TimeCondition\" : 18, 24} , { \"TimeCondition\" : 0, 5}  ], 1}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6000502\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "漱玉矶月夜李叹"
-    translated: "Shu Yu Beach Moonlit Night Li Tan"
+    translated: "Jade Beach Moonlit Night Li Tan"
 - lineNum: 1496
   raw: "m60074	凌乱的桌面	MouseEventBox		Survey	-702.763, 72.86015, -1010.897	1, 1, 1	1, 1, 1	0, 0, 0	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60017\", 0, True} , { \"QuestCondition\" : \"Q60017\", 1, False} , { \"QuestCondition\" : \"Q60016\", 0, True} , { \"QuestCondition\" : \"Q60016\", 1, True} , { \"QuestCondition\" : \"Q60016\", 2, True}  ], 1} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6007401000\"}  ]} 	0"
   translated: ""
@@ -10539,14 +10539,14 @@
   splits:
   - split: 1
     text: "善人宅门口遇李叹"
-    translated: "At the entrance to Goodwill Mansion, Li Tan is encountered"
+    translated: "At the entrance of the Goodwill Mansion, Li Tan was encountered"
 - lineNum: 1506
   raw: "m60082-1	善人宅门口遇李叹	EventBox		None	-677.46, 67.48, -1043.38	1, 1, 1	5.952925, 1, 5.160052	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f69006大研鎮漆笑兒告知蘇清瑞事\", 0, 0}  ], 0} , { \"LogicalNode\" : [ { \"TimeCondition\" : 20, 24} , { \"TimeCondition\" : 0, 5}  ], 1} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f69003-1選比賽\", 1, 0} , { \"CheckFlagAction\" : \"f69003-2選調查事件\", 1, 0}  ], 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n6000504033\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "善人宅门口遇李叹"
-    translated: "At the gate of Goodwill Mansion, he encounters Li Tan"
+    translated: "At the entrance of Goodwill Mansion, I encountered Li Tan"
 - lineNum: 1507
   raw: "m60083	枕流醒心瓶	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_013_F.prefab	None	0, 0, 0	0.664126, 0.663922, 1.360219	1, 1, 1	270, 0, 0	True	0		0	0	0"
   translated: ""
@@ -11442,7 +11442,7 @@
   splits:
   - split: 1
     text: "樊香蝶深夜洗澡(蓝拂衣事件前)"
-    translated: "Female butterfly Fan Xiangdie washing her hair at night (before the Lan Fuyi incident)"
+    translated: "Fan Xiangdie washes in the middle of the night (Before the Lan Fuyi Incident)"
 - lineNum: 1635
   raw: "m60162-1	俏梦阁蓝拂衣（正线）	EventBox		None	-741.12, 66.8, -1085.31	1, 1, 1	10.94665, 1.405131, 11.3794	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60017\", 1, True} , { \"QuestCondition\" : \"Q60016\", 1, True}  ], 1} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f61044俏夢閣打過藍拂衣\", 1, 0}  ], 0}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6010002\"}  ]} 	0"
   translated: ""
@@ -11911,7 +11911,7 @@
   splits:
   - split: 1
     text: "提醒可以去问哈万来漆笑儿的下落"
-    translated: "Remind someone to ask for the whereabouts of He Yuqing's brother"
+    translated: "Remind him to ask Ha Wan about the whereabouts of Qi Xiao'er"
 - lineNum: 1702
   raw: "m60174-1	玉坊整理NPC-1	EventBox		None	-368.87, 68.37, -1089	1, 1, 1	10.47198, 2.858441, 1.954285	0, 322.5501, 0	True	1		0	{ \"MultiAction\" : [ { 213 }  ]} 	0"
   translated: ""
@@ -12989,14 +12989,14 @@
   splits:
   - split: 1
     text: "骆元玉的床位"
-    translated: "Luo Yuanyu's bed"
+    translated: "Luoyuanyu's bed"
 - lineNum: 1856
   raw: "m60257-1	骆元玉在队铁老拐火堆	EventBox		None	64.2449, 117.01, -951.34	1, 1, 1	6.729321, 3.337974, 8.921363	0, 322.5164, 0	False	0		{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60273\", True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6025701000\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "骆元玉在队铁老拐火堆"
-    translated: "Luo Yuanyu stood with the Iron Elder and their group around a bonfire"
+    translated: "Lu Yuanyu is with Steel Elder Guai at the campfire"
 - lineNum: 1857
   raw: "m60257-2	？？？	MouseEventBox		Survey	0, 0, 0	1, 1, 1	1, 1, 1	0, 0, 0	False	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6025701006\"}  ]} 	0"
   translated: ""
@@ -13038,21 +13038,21 @@
   splits:
   - split: 1
     text: "骆元玉小阿未"
-    translated: "Luo Yuanyu Xiao A Wei"
+    translated: "Lu Yuanyu and Little Awei"
 - lineNum: 1863
   raw: "m60260-2	骆元玉吴叫化事件	EventBox		None	-414.63, 65.52, -1051.26	1, 1, 1	16.38412, 10.36877, 13.99875	0, 336.761, 0	False	0		{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60273\", True} , { \"TimeCondition\" : 5, 18}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6027202\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "骆元玉吴叫化事件"
-    translated: "Luo Yuanyu and Wu Jihuaye incident"
+    translated: "Lu Yuanyu and Wu Jiuhua Incident"
 - lineNum: 1864
   raw: "m60260-3	骆元玉守项尚事件	EventBox		None	-638.46, 66.57, -994.8	1, 1, 1	8.298697, 4.835692, 11.80655	0, 339.8513, 0	False	0		{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60273\", True} , { \"TimeCondition\" : 4, 22}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6027203\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "骆元玉守项尚事件"
-    translated: "Luo Yuanyu's Incident Involving Guarding Huang Shang"
+    translated: "Lu Yuanyu safeguards the Xiang Shang event"
 - lineNum: 1865
   raw: "m60261-1	乞丐寮-条件到	EventBox		None	-476.14, 64.65077, 1296.18	1, 1, 1	14.03103, 4.632744, 28.0931	0, 313.2047, 0	False	0		{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60273\", True} , { \"CheckFlagAction\" : \"f69031駱元玉事件\", 0, 5}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6027303\"}  ]} 	0"
   translated: ""
@@ -14123,7 +14123,7 @@
   splits:
   - split: 1
     text: "触发程雁华药膳排骨事件"
-    translated: "Triggering Cheng Yanhua's Braised Pork Incident"
+    translated: "The triggering of Cheng Yanhua's medicinal braised pork dish incident"
 - lineNum: 2018
   raw: "m60408-1	整理盒子	EventBox		None	311.98, 93.44, 31.22	1, 1, 1	14.70701, 5.24829, 17.15298	0, 336.9856, 0	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60040\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { 211 }  ]} 	0"
   translated: ""
@@ -14725,14 +14725,14 @@
   splits:
   - split: 1
     text: "到快意村(颛孙凝不在队)"
-    translated: "Arrive at Joyful Village (Zhuan Sunning is not in the team)"
+    translated: "Go to Joyful Village (Zhuan Sunning is not in the team)"
 - lineNum: 2104
   raw: "m60510-2	到快意村(颛孙凝在队)	EventBox		None	935.76, 83.95863, 1332.44	1, 1, 1	27.89447, 1.522369, 21.46738	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60560\", True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6056003\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "到快意村(颛孙凝在队)"
-    translated: "Arrive at Joyful Village (with Zhuan Sunning leading the team)"
+    translated: "Go to Joyful Village (Zhuan Sunning in the team)"
 - lineNum: 2105
   raw: "m60511-01	骨骸	MouseEventBox	Resources_Art/Art3D/C&P/Planning_wish/Skeleton/Prefab/SM_Skeleton_Base002.prefab	Survey	935.586, 83.831, 1346.338	1, 1, 1	1, 1, 1	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f65015-3讀過信\", 0, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6051101003\"} , { \"InventoryAction\" : 0, \"it801126\", 1}  ]} 	0"
   translated: ""
@@ -15012,14 +15012,14 @@
   splits:
   - split: 1
     text: "进入颛孙凝最终movie"
-    translated: "Enter the final movie of Zhuan Sunning"
+    translated: "Enter Zhuan Sunning's final movie"
 - lineNum: 2145
   raw: "m60518-2	骆元玉有话要说	EventBox		None	919.375, 63.62, 1190.21	1, 1, 1	4.977389, 3.018595, 3.623344	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60046\", 1, True} , { \"CheckFlagAction\" : \"f65026看過顓孫凝最後一個動畫\", 0, 0} , { \"TeammateCondition\" : \"n60273\", True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n6056006015\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "骆元玉有话要说"
-    translated: "Luo Yuan Yu you hua yao shuo"
+    translated: "Lu Yuanyu has something to say"
 - lineNum: 2146
   raw: "m60519	新鲜食材	MouseEventBox		Survey	951.142, 84.55175, 1345.63	1, 1, 1	1, 1, 1	0, 348.4337, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60039_03\", 1, False}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6051901000\"}  ]} 	0"
   translated: ""
@@ -15033,7 +15033,7 @@
   splits:
   - split: 1
     text: "骆元玉捡到戏曲残篇"
-    translated: "Luo Yuanyu picked up a fragment of an opera script"
+    translated: "Lu Yuanyu found a fragment of an opera"
 - lineNum: 2148
   raw: "m60520-2	？？？	MouseEventBox		Survey	936.763, 84.704, 1332.287	1, 1, 1	0.3283778, 0.3508437, 0.3395331	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60560\", True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6052001003\"}  ]} 	0"
   translated: ""
@@ -18512,7 +18512,7 @@
   splits:
   - split: 1
     text: "珍馐会线起点"
-    translated: "Delicacies Pavilion Line Origin"
+    translated: "Delicacies Society plot begins"
 - lineNum: 2645
   raw: "m80217	流寇扰民事件	EventBox		None	-443.99, 138.13, -1282.13	1, 1, 1	11.23367, 1, 7.873146	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm80011\", 1, 1}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n8021701001\"}  ]} 	0"
   translated: ""
@@ -22481,7 +22481,7 @@
   splits:
   - split: 1
     text: "阿得阿克阶段三任务触发点"
-    translated: "Stage Three Trigger for Ade Ake"
+    translated: "Task Trigger Points for Ade Ake Stage Three"
 - lineNum: 3212
   raw: "Q4002102	血迹	MouseEventBox	Resources_Art/Art3D/C&P/April_wish/blood/Prefab/blood.prefab	Survey	-1253.14, 192.602, -758.224	1, 1, 1	1, 1, 1	272.0635, 73.83914, 286.1708	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40021_02\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4002101016\"}  ]} 	0"
   translated: ""
@@ -22586,7 +22586,7 @@
   splits:
   - split: 1
     text: "阿得阿克阶段三遇到翼雕王"
-    translated: "Ade Ake encountered the Winged Stork King in Stage Three"
+    translated: "During the third stage, Ade Ake encounters Winged Hawk King"
 - lineNum: 3227
   raw: "Q4002117	血迹	MouseEventBox	Resources_Art/Art3D/C&P/April_wish/blood/Prefab/blood.prefab	None	-1325.44, 146.12, -686.75	1, 1, 1	1, 1, 1	285.8789, 30.00057, 76.229	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40021_02\", 0, True}  ], 0} 	0	0"
   translated: ""
@@ -22635,7 +22635,7 @@
   splits:
   - split: 1
     text: "漆笑儿孝敬敏婆婆"
-    translated: "Qi Xiaor showed respect to Aunt Mipo"
+    translated: "Qi Xiaoer shows filial piety to his grandmother"
 - lineNum: 3234
   raw: "Q4002901	夜半贼人	EventBox		None	-737.0449, 73.7538, -1114.053	1, 1, 1	3.674204, 1.540298, 8.697031	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40029_02\", 0, True} , { \"LogicalNode\" : [ { \"TimeCondition\" : 23, 24} , { \"TimeCondition\" : 0, 3}  ], 1}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m4002901\"}  ]} 	0"
   translated: ""
@@ -22698,7 +22698,7 @@
   splits:
   - split: 1
     text: "和王喆喝茶"
-    translated: "And Wang Zhe drinking tea"
+    translated: "Drink tea with Wang Zhe"
 - lineNum: 3243
   raw: "Q4003202	擎天寨防卫战1	EventBox		None	-1481.613, 237.764, -355.41	1, 1, 1	8.331856, 1.299362, 10.16365	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40032_02\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003201008\"}  ]} 	0"
   translated: ""
@@ -23174,21 +23174,21 @@
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua Third Tier Guide"
+    translated: "Cheng Yanhua Three-Level Guidance"
 - lineNum: 3311
   raw: "Q4003902	程雁华三阶引导	EventBox		None	-414.43, 65.186, 1210.61	1, 1, 1	52.58528, 4.890754, 1	0, 31.05647, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua's Three-Stage Guidance"
+    translated: "Cheng Yanhua's Third Stage Guiding"
 - lineNum: 3312
   raw: "Q4003903	程雁华三阶引导	EventBox		None	-406.15, 65.186, 1224.37	1, 1, 1	52.58528, 4.890754, 1	0, 31.05647, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua Three-tier Guidance"
+    translated: "Cheng Yanhua's Three Stages of Guidance"
 - lineNum: 3313
   raw: "Q4003904	程雁华三阶引导	EventBox		None	-407.54, 65.186, 1222.05	1, 1, 1	52.58528, 4.890754, 1	0, 31.05647, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
@@ -23202,7 +23202,7 @@
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua Three-level Guidance"
+    translated: "Cheng Yanhua Third Stage Guidance"
 - lineNum: 3315
   raw: "Q4003906	程雁华三阶引导	EventBox		None	-415.6, 65.186, 1208.67	1, 1, 1	52.58528, 4.890754, 1	0, 31.05647, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
@@ -23216,63 +23216,63 @@
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua's Three-Stage Guidance"
+    translated: "Cheng Yanhua's Third-Level Guiding"
 - lineNum: 3317
   raw: "Q4003908	程雁华三阶引导	EventBox		None	-409.72, 65.186, 1218.44	1, 1, 1	52.58528, 4.890754, 1	0, 31.05647, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua Three-Stage Guidance"
+    translated: "Cheng Yanhua Third Stage Guidance"
 - lineNum: 3318
   raw: "Q4003909	程雁华三阶引导	EventBox		None	-411.77, 65.186, 1215.03	1, 1, 1	52.58528, 4.890754, 1	0, 31.05647, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua's Three-Stage Guidance"
+    translated: "Cai Yanhua Sanjie Yindao"
 - lineNum: 3319
   raw: "Q4003910	程雁华三阶引导	EventBox		None	-408.78, 65.186, 1220.01	1, 1, 1	52.58528, 4.890754, 1	0, 31.05647, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua's Three-Step Guidance"
+    translated: "Cheng Yanhua's Third-Level Guidance"
 - lineNum: 3320
   raw: "Q4003911	程雁华三阶引导	EventBox		None	-414.021, 65.186, 1210.933	1, 1, 1	24.26963, 4.890754, 1	0, 120, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua Three-Level Guiding"
+    translated: "Cai Yanhua Sanjie Yindao"
 - lineNum: 3321
   raw: "Q4003912	程雁华三阶引导	EventBox		None	-417.55, 65.186, 1212.97	1, 1, 1	24.26963, 4.890754, 1	0, 120, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua, Third Stage Guiding"
+    translated: "Cai Yanhua Sanjie Yindao"
 - lineNum: 3322
   raw: "Q4003913	程雁华三阶引导	EventBox		None	-421.42, 65.186, 1215.2	1, 1, 1	24.26963, 4.890754, 1	0, 120, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua Third Stage Guidance"
+    translated: "Cai Yanhua Sanjie Yindao"
 - lineNum: 3323
   raw: "Q4003914	程雁华三阶引导	EventBox		None	-425.45, 65.186, 1217.53	1, 1, 1	24.26963, 4.890754, 1	0, 120, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua Three-Tier Guiding"
+    translated: "Cai Yanhua Sanjie Yindao"
 - lineNum: 3324
   raw: "Q4003915	程雁华三阶引导	EventBox		None	-410.2, 65.186, 1208.72	1, 1, 1	24.26963, 4.890754, 1	0, 120, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039_01\", 0, True} , { \"CheckFlagAction\" : \"fQ40039 引導\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003901006\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "程雁华三阶引导"
-    translated: "Cheng Yanhua's Third Stage Guiding"
+    translated: "Cai Yanhua Sanjie Yindao"
 - lineNum: 3325
   raw: "Q4003916	陈之济被毒殭包围	EventBox		None	-398.009, 66.42, 1236.509	1, 1, 1	23.87241, 7.28, 18.92718	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40039\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetBlackboardAction\" : \"fQ40039 引導\", 1, 0} , { 211 } , { \"RunMovieAction\" : \"m4003901\"}  ]} 	0"
   translated: ""
@@ -25610,7 +25610,7 @@
   splits:
   - split: 1
     text: "樊香蝶的陈尸床"
-    translated: "Van Xiangdie's Coffin"
+    translated: "Shan Xiangdie's Corpse Bed"
 - lineNum: 3659
   raw: "s60061-1	于家晚上的床	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Bed/bed_003_A.prefab	None	-396.9008, 67.25829, -1085.179	1, 1, 1	1, 1, 1	0, 142.8441, 0	False	0		{ \"LogicalNode\" : [ { \"TimeCondition\" : 0, 4}  ], 0} 	0	0"
   translated: ""
@@ -26261,21 +26261,21 @@
   splits:
   - split: 1
     text: "漆笑儿脚下不稳"
-    translated: "Chui Xiaor's legs were unsteady"
+    translated: "Qi Xiaoer's feet were unsteady"
 - lineNum: 3752
   raw: "s60301-4	李叹担心漆笑儿	EventBox		None	-296.07, 88.75, 669.11	1, 1, 1	1.445187, 2.389658, 17.64438	0, 4.485538, 0	False	0		{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60005\", True} , { \"CheckFlagAction\" : \"f63006-1旁系弟子幫忙搭橋\", 0, 0} , { \"QuestCondition\" : \"Q60037_04\", 0, True} , { \"TeammateCondition\" : \"n60040\", False} , { \"CheckFlagAction\" : \"f69018觸發過隊友在酒莊屋頂上的對話\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n6031101031\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "李叹担心漆笑儿"
-    translated: "Li Tan is worried about Qi Xiaor"
+    translated: "Li Tan is worried about Qi Xiao'er"
 - lineNum: 3753
   raw: "s60301-5	樊香蝶担心李叹漆笑儿	EventBox		None	-296.07, 88.75, 669.11	1, 1, 1	1.445187, 2.389658, 17.64438	0, 4.485538, 0	False	0		{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60100\", True} , { \"CheckFlagAction\" : \"f63006-1旁系弟子幫忙搭橋\", 0, 0} , { \"QuestCondition\" : \"Q60037_04\", 0, True} , { \"TeammateCondition\" : \"n60005\", False} , { \"TeammateCondition\" : \"n60040\", False} , { \"CheckFlagAction\" : \"f69018觸發過隊友在酒莊屋頂上的對話\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n6031101036\"}  ]} 	0"
   translated: ""
   splits:
   - split: 1
     text: "樊香蝶担心李叹漆笑儿"
-    translated: "Fun Xiangdie is worried about Li Tan's son, Qingxier"
+    translated: "Fan Xiangdie is worried about Li Tan and Qi Xiaoer"
 - lineNum: 3754
   raw: "s60301-6	找王城图一	EventBox		None	-294.99, 90.07, 669.35	1, 1, 1	2.674053, 2.77013, 1.345332	0, 274.6216, 0	False	0		{ \"LogicalNode\" : [ { \"CheckInventoryCountAction\" : \"it801068\", 0, 0} , { \"QuestCondition\" : \"Q60037_04\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6031102\"}  ]} 	0"
   translated: ""
