@@ -263,6 +263,10 @@ public class TranslationCleanupTests
                     //Add . back in
                     if (outputFile.EndsWith("NpcTalkItem.txt") && char.IsLetter(split.Translated[^1]))
                     {
+                        //It was already like that
+                        if (split.Text == split.Translated)
+                            return;
+
                         Console.WriteLine($"Needed full stop:{textFileToTranslate.Path} \n{split.Translated}");
                         split.Translated += '.';
                         recordsModded++;
