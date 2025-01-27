@@ -5989,7 +5989,7 @@ n90693	Flower Leopard	al20010@Fight Idle	animal10	0, 0, 0	0		FALSE	FALSE		v10005
 n90694	Flower Leopard	al20010@Fight Idle	animal10	0, 0, 0	0		FALSE	FALSE		v10005				0	13	0	animal10	n90694	0			{ "LogicalNode" : [ { "QuestCondition" : "Q90009_02", 1, False} , { "CheckFlagAction" : "f2救出王喆", 1, 1}  ], 0} 	0
 n90695	Flower Leopard	al20010@Fight Idle	animal10	0, 0, 0	0		FALSE	FALSE		v10005				0	13	0	animal10	n90695	0			{ "LogicalNode" : [ { "QuestCondition" : "Q90009_02", 1, False} , { "CheckFlagAction" : "f2救出王喆", 1, 1}  ], 0} 	0
 n90696	Black Panther	al20010@Fight Idle	animal28	0, 0, 0	0		FALSE	FALSE		v10005				0	13	0	animal28	n90695	0			{ "LogicalNode" : [ { "QuestCondition" : "Q90009_02", 1, False} , { "CheckFlagAction" : "f2救出王喆", 1, 1}  ], 0} 	0
-n90697	Qingtian Dishu	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9069901025					1		0	n90601					0	0
+n90697	The Rat of the Heaven's Pillar Sect	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9069901025					1		0	n90601					0	0
 n90698	Cloudy Land Moles	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9069901009					1		0	n90601					0	0
 n90699	Dragon's Rest Mole	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9069901000					1		0	n90601					0	0
 n90701	Wang Zhao Cai	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9070101000	v00055				1	8	0	n90319	n90701	n90701a,n90701n			0	0

@@ -241,9 +241,10 @@ public class TranslationCleanupTests
                             split.FlaggedGlossaryIn = item.Value;
                             recordsModded++;
                         }
-                        //else if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
+                        //else
+                        //if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
                         //{
-                        //    Console.WriteLine($"Glossary in Non trans:{textFileToTranslate.Path} \n{split.Translated}");
+                        //    Console.WriteLine($"Hallucinated Glossary in Non trans:{textFileToTranslate.Path}\n{item.Value}\n{split.Translated}");
                         //    split.FlaggedForRetranslation = true;
                         //    split.FlaggedGlossaryOut = item.Value;
                         //    recordsModded++;
