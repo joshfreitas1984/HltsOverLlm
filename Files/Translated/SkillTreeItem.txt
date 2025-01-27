@@ -603,9 +603,9 @@
   - split: 3
     text: "叶家马帮家传剑法，剑如白虹，长驱直入，以其善于切进对手防御死角的迅捷身法著称。"
     translated: "Ye family Horse Gang's inherited sword art is renowned for its swift and direct style, likened to a white rainbow. It excels in swiftly penetrating into the opponent's blind spots with agile movements"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 38
   raw: "it30218	七星剑法	it30218	王喆夜观北斗七星所悟出的剑法，将人体周身大穴比作天枢、天璇、天玑、天权、玉衡、开阳、瑶光七星，自身站居北极星之位，以静制动，只待对手出手之际，破绽毕露，自可出剑破之。	302	5000	2500	TRUE	1	70	999999	SkillTree071	Sword	0	0	0	"
   translated: ""

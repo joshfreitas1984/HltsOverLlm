@@ -7905,9 +7905,9 @@
   - split: 1
     text: "叶家马帮受伤帮众"
     translated: "Ye family horse gang injured gang members"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 791
   raw: "m20074	蛇窟前事件	EventBox		None	-182.26, 111.12, -1102.57	9.367321, 4.756658, 10.02369	1.91161, 1.746218, 1	0, 325.2488, 0	False	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m2007401000\"}  ]} 	0"
   translated: ""
@@ -33335,8 +33335,8 @@
   - split: 1
     text: "叶家马帮遗落货物"
     translated: "Ye jia Ma bang yi luo huo wu"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Horse Gang
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 3334
   raw: "Q4004503	货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Container/container_010_B Variant.prefab	None	-1360.862, 95.44678, 405.4841	0.5629372, 0.5774143, 0.5961068	1, 1, 1	270, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40045_02\", 0, True} , { \"QuestCondition\" : \"Q40045_03\", 0, True}  ], 1} 	0	0"
@@ -35375,8 +35375,8 @@
   - split: 1
     text: "叶家马帮假人"
     translated: "Ye Jia Mabang jia ren"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Horse Gang
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 3538
   raw: "s20101	叶家马帮假人	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_048_A.prefab	None	-770.66, 66.22153, -1002.93	0.3580332, 0.3072974, 1.908633	1, 1, 1	270, 90.4938, 0	False	0		0	0	0"
@@ -35385,8 +35385,8 @@
   - split: 1
     text: "叶家马帮假人"
     translated: "Ye Jia Mabang jia ren"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Horse Gang
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 3539
   raw: "s20102	叶家马帮假人	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_048_A.prefab	None	-770.65, 66.22153, -1000.57	0.3580332, 0.3072974, 1.908633	1, 1, 1	270, 90.4938, 0	False	0		0	0	0"
@@ -35395,8 +35395,8 @@
   - split: 1
     text: "叶家马帮假人"
     translated: "Ye Jia Mabang jia ren"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Horse Gang
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 3540
   raw: "s20103	大研镇饼铺桌	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Table/table_002_B.prefab	None	-655.46, 66.18829, -994.22	1.296042, 1.228868, 0.7977715	1, 1, 1	270, 20.95417, 0	False	0		0	0	0"

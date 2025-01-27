@@ -1449,9 +1449,9 @@
   - split: 3
     text: "武学机制"
     translated: "Wuxia mechanisms"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Wuxia
+    flaggedGlossaryOut: ''
   - split: 4
     text: "这个世界拥有相当多的武学秘籍等待玩家来修练，每本武学所需的经验值都不尽相同，威力或效果越强的武学所需的经验值与感悟限制也越多，每个角色一次只能修练一本秘籍。"
     translated: "This world possesses a considerable number of martial arts manuals awaiting players to study. The experience points required for each martial art are not the same, with stronger or more effective martial arts demanding more experience points and greater comprehension limits. Each character can only study one manual at a time"

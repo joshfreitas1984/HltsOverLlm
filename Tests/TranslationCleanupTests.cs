@@ -164,7 +164,7 @@ public class TranslationCleanupTests
         var pattern = LineValidation.ChineseCharPattern;
         var totalRecordsModded = 0;
         bool resetFlag = false;
-        //resetFlag = true;
+        resetFlag = true;
 
         var manual = GetManualCorrections();
         var newGlossaryStrings = new List<string>
@@ -236,25 +236,25 @@ public class TranslationCleanupTests
 
 
                     // Glossary Clean up
-                    //if (config.GameData.SafeGlossary.ContainsKey(split.Text))
-                    foreach (var item in safeGlossary)
-                    {
-                        if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
-                        {
-                            Console.WriteLine($"Mistranslated:{textFileToTranslate.Path}\n{item.Value}\n{split.Translated}");
-                            split.FlaggedForRetranslation = true;
-                            split.FlaggedGlossaryIn = item.Value;
-                            recordsModded++;
-                        }
-                        else
-                        if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
-                        {
-                            Console.WriteLine($"Hallucinated Glossary in Non trans:{textFileToTranslate.Path}\n{item.Value}\n{split.Translated}");
-                            split.FlaggedForRetranslation = true;
-                            split.FlaggedGlossaryOut = item.Value;
-                            recordsModded++;
-                        }
-                    }
+                    ////if (config.GameData.SafeGlossary.ContainsKey(split.Text))
+                    //foreach (var item in safeGlossary)
+                    //{
+                    //    if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
+                    //    {
+                    //        Console.WriteLine($"Mistranslated:{textFileToTranslate.Path}\n{item.Value}\n{split.Translated}");
+                    //        split.FlaggedForRetranslation = true;
+                    //        split.FlaggedGlossaryIn = item.Value;
+                    //        recordsModded++;
+                    //    }
+                    //    else
+                    //    if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
+                    //    {
+                    //        Console.WriteLine($"Hallucinated Glossary in Non trans:{textFileToTranslate.Path}\n{item.Value}\n{split.Translated}");
+                    //        split.FlaggedForRetranslation = true;
+                    //        split.FlaggedGlossaryOut = item.Value;
+                    //        recordsModded++;
+                    //    }
+                    //}
 
 
                     //Trim

@@ -1829,9 +1829,9 @@
   - split: 1
     text: "叶家马帮"
     translated: "The Ye Family Horse Gang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 187
   raw: "Area20	噶玛寺"
   translated: ""

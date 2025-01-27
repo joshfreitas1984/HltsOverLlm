@@ -1899,9 +1899,9 @@
   - split: 3
     text: "梅村长将家传钥匙交给了你，前往后山上头的石堆玛尼堆，寻找梅家家传的宝物吧。"
     translated: "Village Chief Mei has entrusted you with the family key. Go to the pile of stones at the top of the mountain behind the village and search for the Meis' family treasure"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: He Family
+    flaggedGlossaryOut: ''
 - lineNum: 119
   raw: "Q10004_01	家传宝物	1	梅村长将家传钥匙交给了你，前往后山的石堆寻找梅家家传的宝物吧。	0	FALSE	0	-24.965, 171.404, -1028.958	TRUE		600	(Reputation,3)	1"
   translated: ""
@@ -1915,9 +1915,9 @@
   - split: 3
     text: "梅村长将家传钥匙交给了你，前往后山的石堆寻找梅家家传的宝物吧。"
     translated: "Village Chief Mei has entrusted you with the family key. Go to the stone pile in the back hills and find the Meihua family heirloom"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: He Family
+    flaggedGlossaryOut: ''
 - lineNum: 120
   raw: "Q10005	石信的猫食	0	石家庄的石信给了你一笔钱，请你帮忙买喂猫用的河鱼。河鱼也许能向庄外东南方河岸附近的钓鱼客购买。	0	FALSE	Q10005_01,Q10005_02,Q10005_03	0	TRUE		0		1"
   translated: ""
@@ -4053,15 +4053,15 @@
   - split: 1
     text: "叶家马帮"
     translated: "The Ye Family Horse Gang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
   - split: 3
     text: "在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？"
     translated: "On the mountain path leading to Eagle Hunter Village, a group from He Family's Horse Gang was ambushed. During the fight, a man in black had his right upper arm slashed by He Yuqing. Later, at Qingmu Tea House, He Yuqing discovered a member of Ye Family's Horse Gang whose right upper arm was bandaged, matching exactly with where the man in black had been cut. He Yuqing became suspicious—was this mere coincidence or did it conceal some hidden truth?"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 254
   raw: "Q20018_01	找出受伤的叶家马帮帮众	1	在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？<br>听闻叶家帮众总是在傍晚时分流连于大研镇摊位，去碰碰运气吧。	0	FALSE	0	0	TRUE		1200	(Reputation,6)	201"
   translated: ""
@@ -4075,9 +4075,9 @@
   - split: 3
     text: "在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？<br>听闻叶家帮众总是在傍晚时分流连于大研镇摊位，去碰碰运气吧。"
     translated: "On the mountain path leading to Eagle Hunter Village, a group from He Family's Horse Gang was attacked. During the fight, a man in black had his right upper arm slashed by He Yuqing. Later at Greenwood Tea House, He Yuqing spotted a member of Ye Family's Horse Gang with a bandage on their right upper arm, matching precisely where the man in black had been cut. He Yuqing grew suspicious—was this mere coincidence, or did it conceal some hidden truth?<br>It's said that the Ye Family Sect always lingers among the stalls in Dayan Town at dusk, why not try your luck?"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 255
   raw: "Q20018_02	想办法引出受伤的叶家马帮帮众	1	在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？如今你们找到了这名受伤的马帮帮众，想办法把他引到人少的地方问话吧。	0	FALSE	0	0	TRUE		4800	(Reputation,24)	201"
   translated: ""
@@ -4085,15 +4085,15 @@
   - split: 1
     text: "想办法引出受伤的叶家马帮帮众"
     translated: "Devise a way to bring out the wounded members of the Ye Family's Horse Gang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
   - split: 3
     text: "在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？如今你们找到了这名受伤的马帮帮众，想办法把他引到人少的地方问话吧。"
     translated: "On the mountain path leading to Eagle Hunter Village, a team from the He Family's Horse Gang was ambushed. During the fight, Yuqing He slashed the right upper arm of a man in black. Later at Qingmu Teahouse, Yuqing found a member of the Ye Family's Horse Gang with bandages on his right upper arm, exactly matching the injury of the man in black. Yuqing became suspicious—was this mere coincidence or did it conceal some truth? Now that you've found the injured gang member, find a way to lead him to a secluded spot for questioning"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: He Yuqing
-    flaggedGlossaryOut: Ye Family
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 256
   raw: "Q20019	蛇窟中的男子	0	你在拱石村附近的蛇窟洞口，发现一名被蛇围攻的男子。帮助他把蛇赶跑之后，这名男子表示他有一位朋友还困在蛇窟里面，你要进去帮他救人吗？	0	FALSE	Q20019_01,Q20019_02,Q20019_03	0	FALSE		0		1"
   translated: ""

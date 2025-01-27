@@ -4715,9 +4715,9 @@
   - split: 5
     text: "叶家马帮扫地帮众"
     translated: "Ye Family Horse Gang Groundskeeping Assistants"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 472
   raw: "n20086	25	fm00000	a00001		叶家马帮高手(长虹剑法)	ta0056	st0091b		0	ai00000	(MajorWeapon,eq10405)	1	(HP,3602)(MaxHP,3602)(MP,1882)(MaxMP,1882)(Physique,57)(Intelligence,50)(Neigong,48)(Qinggong,55)(Fight,35)(Sword,60)(Blade,35)(Spear,35)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-50)	(it80306,1)(it40102,2)	0,0	0"
   translated: ""
@@ -4725,9 +4725,9 @@
   - split: 5
     text: "叶家马帮高手(长虹剑法)"
     translated: "A master of the Ye family Horse Gang (Changhong Sword Art)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 473
   raw: "n20086c	25	fm00000	a00001		叶家马帮高手(长虹剑法)	ta0056	st0091b		0	ai00000	(MajorWeapon,eq10303)	0	(HP,3602)(MaxHP,3602)(MP,1882)(MaxMP,1882)(Physique,57)(Intelligence,50)(Neigong,48)(Qinggong,55)(Fight,35)(Sword,60)(Blade,35)(Spear,35)(Arrow,35)(Short,35)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-50)	(it80306,1)(it40102,2)	0,0	0"
   translated: ""
@@ -4735,9 +4735,9 @@
   - split: 5
     text: "叶家马帮高手(长虹剑法)"
     translated: "Master of the Ye Family Horse Gang (Changhong Jianfa)"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Sword Art
-    flaggedGlossaryOut: Ye Family
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 474
   raw: "n20087	24	fm00000	a00001		叶家马帮高手(长虹剑法)	ta0064	st0091b		0	ai00000	(MajorWeapon,eq10405)	1	(HP,3504)(MaxHP,3504)(MP,1798)(MaxMP,1798)(Physique,58)(Intelligence,50)(Neigong,46)(Qinggong,53)(Fight,34)(Sword,58)(Blade,34)(Spear,34)(Arrow,34)(Short,34)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-50)	(it80306,1)(it40101,2)	0,0	0"
   translated: ""
@@ -4745,9 +4745,9 @@
   - split: 5
     text: "叶家马帮高手(长虹剑法)"
     translated: "Expert of Ye Family's Horse Gang (Changhong Sword Art)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 475
   raw: "n20087c	24	fm00000	a00001		叶家马帮高手(长虹剑法)	ta0064	st0091b		0	ai00000	(MajorWeapon,eq10303)	0	(HP,3504)(MaxHP,3504)(MP,1798)(MaxMP,1798)(Physique,58)(Intelligence,50)(Neigong,46)(Qinggong,53)(Fight,34)(Sword,58)(Blade,34)(Spear,34)(Arrow,34)(Short,34)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-50)	(it80306,1)(it40101,2)	0,0	0"
   translated: ""
@@ -4755,9 +4755,9 @@
   - split: 5
     text: "叶家马帮高手(长虹剑法)"
     translated: "Expert of the Ye Family Horse Gang (Chang Hong Sword Art)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 476
   raw: "n20088	18	fm00000	a00002		叶家马帮帮众(破山刀)	ta0051	st0003c		0	ai00000		0	(HP,2390)(MaxHP,2390)(MP,1320)(MaxMP,1320)(Physique,51)(Intelligence,50)(Neigong,36)(Qinggong,27)(Fight,28)(Sword,28)(Blade,46)(Spear,28)(Arrow,28)(Short,28)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)(it40102,2)	0,0	0"
   translated: ""
@@ -4775,8 +4775,8 @@
   - split: 5
     text: "叶家马帮帮众(破山刀)"
     translated: "Ye jia Ma bang bang zhong (Break Mountain Blade)"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Horse Gang
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 478
   raw: "n20090	17	fm00000	a00003		叶家马帮帮众(破山刀)	ta0051	st0003c		0	ai00000	(MajorWeapon,eq10405)	1	(HP,2320)(MaxHP,2320)(MP,1242)(MaxMP,1242)(Physique,53)(Intelligence,50)(Neigong,34)(Qinggong,26)(Fight,27)(Sword,27)(Blade,44)(Spear,27)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)(it40102,2)	0,0	0"
@@ -5055,9 +5055,9 @@
   - split: 5
     text: "叶家马帮高手(千金方、药石野集、破山刀)"
     translated: "Expert of the Ye Family's Horse Gang (Thousand Gold Prescriptions, Herbal and Stone Collections from the Wilds, Mountain-Shattering Blade)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 506
   raw: "n20151	16	fm00000	a00001		禾家马帮帮众(破山刀)	ta0051	st0003c		0	ai00000	(MajorWeapon,eq10405)	1	(HP,2464)(MaxHP,2464)(MP,1165)(MaxMP,1165)(Physique,62)(Intelligence,50)(Neigong,32)(Qinggong,24)(Fight,26)(Sword,26)(Blade,42)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)	(it40101,2)(it40102,2)	0,0	0"
   translated: ""
@@ -34945,8 +34945,8 @@
   - split: 5
     text: "叶家马帮帮众(破山刀)"
     translated: "Ye Jia Mabang Bangzhong (Po Shan Dao)"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Horse Gang
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 3495
   raw: "n80157	17	fm00000	a00001		黑衣人(追魂七破)	ta0055	st0115b,st0113b		204	ai00000	(MajorWeapon,eq10703)(MinorWeapon,eq10905)	0	(HP,1938)(MaxHP,1938)(MP,1234)(MaxMP,1234)(Physique,40)(Intelligence,50)(Neigong,31)(Qinggong,32)(Fight,27)(Sword,27)(Blade,27)(Spear,27)(Arrow,49)(Short,27)(Doctor,0)(Poison,0)(Money,1000)(Madness,30)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-25)		0,0	0"
@@ -37995,9 +37995,9 @@
   - split: 5
     text: "叶家马帮外开赌盘的商人"
     translated: "A merchant who runs gambling tables outside of Ye Family's Horse Gang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Ye Family
+    flaggedGlossaryOut: ''
 - lineNum: 3800
   raw: "n90402	17	fm00000	n90402	nick104	段思良(段家剑、段家指)	ta0059	st0039b,st0039a,st0999		0	ai00000	(MajorWeapon,eq10303)	0	(HP,2550)(MaxHP,2550)(MP,1264)(MaxMP,1264)(Physique,60)(Intelligence,50)(Neigong,43)(Qinggong,34)(Fight,54)(Sword,54)(Blade,37)(Spear,37)(Arrow,37)(Short,37)(Doctor,0)(Poison,0)(Money,3000)(Madness,-20)(Moral,30)(Reputation,0)(ZOC,60)(YinAndYang,35)	(it40101,3)(it40102,2)	0,0	0"
   translated: ""
