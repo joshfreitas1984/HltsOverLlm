@@ -19,16 +19,10 @@
   result: Lan Fuyi
 - raw: 颜玉书
   result: Yan Yushu
-- raw: 张君宝
-  result: Zhang Junbao
 - raw: 徐暇客
   result: Xu Xiake
-- raw: 皇甫登云
-  result: Huangfu Dengyun
 - raw: 王喆
   result: Wang Zhe
-- raw: 李叹
-  result: Li Tan
 - raw: 段思平
   result: Duan Siping
 - raw: 段思良
@@ -43,8 +37,7 @@
   result: Situ Jing
 - raw: 石鸿图
   result: Shi Hongtu
-- raw: 骆元玉
-  result: Luo Yuanyu
+
 - raw: 漆笑儿
   result: Qi Xiao'er
 - raw: 樊香蝶
@@ -69,3 +62,20 @@
   result: Village Chief Mei
 - raw: 梅红绮
   result: Mei Hongqi
+
+- raw: 张君宝
+  result: Zhang Junbao
+- raw: 張君寶
+  result: Zhang Junbao
+- raw: 李叹
+  result: Li Tan
+- raw: 李嘆
+  result: Li Tan
+- raw: 皇甫登云
+  result: Huangfu Dengyun
+- raw: 皇甫登雲
+  result: Huangfu Dengyun
+- raw: 骆元玉
+  result: Luo Yuanyu
+- raw: 駱元玉
+  result: Luo Yuanyu

@@ -181,6 +181,15 @@ public class TranslationCleanupTests
         Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Locations.Entries);
         Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.SpecialTermsSafe.Entries);
 
+        //var dupeNames = new Dictionary<string, (string key1, string key2)>();
+        var dupeNames = safeGlossary
+            .GroupBy(pair => pair.Value)
+            .Where(group => group.Count() > 1)
+            .ToDictionary(
+                group => group.Key,
+                group => group.Select(pair => pair.Key).ToList()
+            );
+
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             int recordsModded = 0;
@@ -249,6 +258,26 @@ public class TranslationCleanupTests
                             else
                             if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
                             {
+                                // If its in the translated
+                                if (item.Value == "He Family" && split.Translated.Contains("the family", StringComparison.OrdinalIgnoreCase))
+                                    continue;
+
+
+                                // If one of the dupes are in the raw
+                                if (dupeNames.ContainsKey(item.Value))
+                                {
+                                    bool found = false;
+                                    foreach (var dupe in dupeNames[item.Value])
+                                        if (split.Text.Contains(dupe))
+                                        {
+                                            found = true;
+                                            break;
+                                        }
+
+                                    if (found)
+                                        continue;
+                                }
+
                                 Console.WriteLine($"Hallucinated Glossary in Non trans:{textFileToTranslate.Path}\n{item.Value}\n{split.Translated}");
                                 split.FlaggedForRetranslation = true;
                                 split.FlaggedGlossaryOut = item.Value;
@@ -337,7 +366,7 @@ public class TranslationCleanupTests
             var exportFile = $"{exportPath}/{textFileToTranslate.Path}";
 
             if (!File.Exists(outputFile))
-                continue;            
+                continue;
 
             var exportLines = deserializer.Deserialize<List<TranslationLine>>(File.ReadAllText(exportFile));
             var transLines = deserializer.Deserialize<List<TranslationLine>>(File.ReadAllText(outputFile));
@@ -676,11 +705,11 @@ public class TranslationCleanupTests
             || input.Contains("woof", StringComparison.OrdinalIgnoreCase)
             || input.Contains("moo", StringComparison.OrdinalIgnoreCase)
             || input.Contains("chirp", StringComparison.OrdinalIgnoreCase)
-            || input.Contains("hiss", StringComparison.OrdinalIgnoreCase))     
+            || input.Contains("hiss", StringComparison.OrdinalIgnoreCase))
         {
             if (!input.Contains("moon", StringComparison.OrdinalIgnoreCase)
                 && !input.Contains("mood", StringComparison.OrdinalIgnoreCase)
-                && !input.Contains("smooth", StringComparison.OrdinalIgnoreCase))             
+                && !input.Contains("smooth", StringComparison.OrdinalIgnoreCase))
                 return true;
         }
 

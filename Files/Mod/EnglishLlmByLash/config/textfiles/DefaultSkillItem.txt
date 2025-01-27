@@ -13,7 +13,7 @@ st0006	Yecha Gung (Gang)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree
 st0006b	Night Demon Staff (Action)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree038_002,SkillTree038_003,SkillTree038_008
 st0006c	Yecha Gun (Qu)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree038_002,SkillTree038_003,SkillTree038_009
 st0006d	Devil's Club (High)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree038_002,SkillTree038_003,SkillTree038_004,SkillTree038_005,SkillTree038_006,SkillTree038_007,SkillTree038_008,SkillTree038_009
-st0006e	Yecha Gun (Luoyuanyu)	it30408	0	0	SkillTree038_000
+st0006e	A Night Hunter's Stick (Luo Yuanyu)	it30408	0	0	SkillTree038_000
 st0007	Heaven Nine (Low)	it30504	0	0	SkillTree055_008
 st0007b	Tian Zi Jiu Da (Shu Guangbi)	it30504	0	0	SkillTree055_000,SkillTree055_001,SkillTree055_002,SkillTree055_003,SkillTree055_004,SkillTree055_005,SkillTree055_006,SkillTree055_007,SkillTree055_008
 st0008	Yellow Sands Blade Arts (Just now)	it30303	0	0	SkillTree001_000,SkillTree001_004,SkillTree046_000
@@ -52,7 +52,7 @@ st0020	Three Secret Techniques	it31812	0	0	SkillTree180_000,SkillTree180_001
 st0020b	Lower Three Kicks (High)	it31812	0	0	SkillTree180_000,SkillTree180_001,SkillTree180_002,SkillTree180_003
 st0021	Rouyun Swordsmanship (Low)	it30213	0	0	SkillTree103_000
 st0021b	Soft Cloud Swordsmanship (Advanced)	it30213	0	0	SkillTree103_000,SkillTree103_001,SkillTree103_002
-st0021c	Rouyun Jinfa (Master Zhang Jiu Bao)	it30213	0	0	SkillTree103_000,SkillTree103_004,SkillTree103_001,SkillTree103_003,SkillTree103_002
+st0021c	Rou Yun Swordplay (Zhang Junbao)	it30213	0	0	SkillTree103_000,SkillTree103_004,SkillTree103_001,SkillTree103_003,SkillTree103_002
 st0022	Trail of Blood (Low)	it30514	0	0	SkillTree090_001
 st0022b	Sea of Blood Mystery (Gao)	it30514	0	0	SkillTree090_001,SkillTree090_002
 st0023	Basic Eight-Thread Technique	it30102	0	0	SkillTree176_000,SkillTree176_002,SkillTree176_003,SkillTree176_004,SkillTree176_005,SkillTree176_006
@@ -142,9 +142,9 @@ st0075b	Yue Family Swordsmanship (Wang Zhe)	it30402	0	0	SkillTree003_000
 st0075c	Great Clarity Kun Qi (Wang Zhe)	it30724	0	0	SkillTree160_000
 st0075d	Gold Goose Technique (Wang Zhe)	it30811	0	0	SkillTree073_000
 st0076a	The Ten-Section Long Fist (Zhang Junbao)	it30110	0	0	SkillTree159_000,SkillTree159_001,SkillTree159_002,SkillTree159_003,SkillTree159_004
-st0076b	Qiankun Jianfa (Master Zhang Jinfu)	it30224	0	0	SkillTree093_000,SkillTree093_002,SkillTree093_003,SkillTree093_004,SkillTree093_005
-st0076c	Ti Yun Cong (Lord Zha Junbao)	it30810	0	0	SkillTree075_000
-st0076d	Chun Yang Wu Ji Gong (Master Zhang Jiu Bao)	it30705	0	0	SkillTree076_000,SkillTree076_001,SkillTree076_002,SkillTree076_003
+st0076b	Qiankun Jinfa (Zhang Junbao)	it30224	0	0	SkillTree093_000,SkillTree093_002,SkillTree093_003,SkillTree093_004,SkillTree093_005
+st0076c	The Climb Through the Mist (Zhang Junbao)	it30810	0	0	SkillTree075_000
+st0076d	Pure Yang Supreme Ultimate Skill (Zhang Junbao)	it30705	0	0	SkillTree076_000,SkillTree076_001,SkillTree076_002,SkillTree076_003
 st0077a	Divine Arrow Seven Balls (Ade Ake)	it30507	0	0	SkillTree077_000,SkillTree077_002,SkillTree077_003
 st0078a	West River Moonblade (Li Tan)	it30317	0	0	SkillTree078_000,SkillTree078_001,SkillTree078_002,SkillTree078_003,SkillTree078_004,SkillTree078_009
 st0078b	Western River Moonblade (Ximen Yutang)	it30809	0	0	SkillTree145_000,SkillTree145_001,SkillTree145_002,SkillTree145_003,SkillTree145_004,SkillTree145_005,SkillTree145_006,SkillTree145_007,SkillTree145_008,SkillTree145_009
