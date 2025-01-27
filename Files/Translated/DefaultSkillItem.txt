@@ -1435,9 +1435,9 @@
   - split: 1
     text: "長拳十段錦(張君寶)"
     translated: "The Ten-Section Long Fist (Zhang Junbao)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Zhang Junbao
+    flaggedGlossaryOut: ''
 - lineNum: 144
   raw: "st0076b	乾坤劍法(張君寶)	it30224	0	0	SkillTree093_000,SkillTree093_002,SkillTree093_003,SkillTree093_004,SkillTree093_005"
   translated: ""
@@ -1485,9 +1485,9 @@
   - split: 1
     text: "西川明月刀(李嘆)"
     translated: "West River Moonblade (Li Tan)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Li Tan
+    flaggedGlossaryOut: ''
 - lineNum: 149
   raw: "st0078b	西川明月刀(西門玉堂)	it30809	0	0	SkillTree145_000,SkillTree145_001,SkillTree145_002,SkillTree145_003,SkillTree145_004,SkillTree145_005,SkillTree145_006,SkillTree145_007,SkillTree145_008,SkillTree145_009"
   translated: ""
@@ -1535,9 +1535,9 @@
   - split: 1
     text: "凌波飛雪(李嘆)"
     translated: "Levitating in the Snowflakes (Li Tan)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Li Tan
+    flaggedGlossaryOut: ''
 - lineNum: 154
   raw: "st0080b	凌波飛雪(西門玉堂)	it30809	0	0	SkillTree145_000,SkillTree145_001,SkillTree145_002,SkillTree145_003,SkillTree145_004,SkillTree145_005,SkillTree145_006,SkillTree145_008"
   translated: ""
@@ -2665,9 +2665,9 @@
   - split: 1
     text: "野球拳（皇甫登雲）"
     translated: "Wildball Fist (Huangfu Dengyun)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: Huangfu Dengyun
+    flaggedGlossaryOut: ''
 - lineNum: 267
   raw: "st0128	嬋娟一劍(顏玉書)	it30207	0	0	SkillTree144_000"
   translated: ""

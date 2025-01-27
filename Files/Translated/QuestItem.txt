@@ -1899,9 +1899,9 @@
   - split: 3
     text: "梅村长将家传钥匙交给了你，前往后山上头的石堆玛尼堆，寻找梅家家传的宝物吧。"
     translated: "Village Chief Mei has entrusted you with the family key to go to the stone pile on the top of the mountain behind our village and search for the Mei family heirloom"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: He Family
+    flaggedGlossaryOut: ''
 - lineNum: 119
   raw: "Q10004_01	家传宝物	1	梅村长将家传钥匙交给了你，前往后山的石堆寻找梅家家传的宝物吧。	0	FALSE	0	-24.965, 171.404, -1028.958	TRUE		600	(Reputation,3)	1"
   translated: ""
@@ -1915,9 +1915,9 @@
   - split: 3
     text: "梅村长将家传钥匙交给了你，前往后山的石堆寻找梅家家传的宝物吧。"
     translated: "Village Chief Mei has entrusted you with the family key. Go to the stone pile in the hills behind the village and find Meihao's ancestral treasure"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: He Family
+    flaggedGlossaryOut: ''
 - lineNum: 120
   raw: "Q10005	石信的猫食	0	石家庄的石信给了你一笔钱，请你帮忙买喂猫用的河鱼。河鱼也许能向庄外东南方河岸附近的钓鱼客购买。	0	FALSE	Q10005_01,Q10005_02,Q10005_03	0	TRUE		0		1"
   translated: ""
