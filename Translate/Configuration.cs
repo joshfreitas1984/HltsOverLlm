@@ -1,5 +1,6 @@
 ﻿using System.Text;
 using YamlDotNet.Serialization;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Translate;
 
@@ -19,18 +20,28 @@ public class LlmConfig
 
     // Not serialised in Yaml
     public Dictionary<string, string> Prompts { get; set; } = [];
+    public GameData GameData { get; set; } = new GameData();
     public string? WorkingDirectory { get; set; }
+}
+
+public class GameData
+{
+    public DataFormat Names { get; set; } = new DataFormat();
+    public DataFormat Factions { get; set; } = new DataFormat();
+    public DataFormat Locations { get; set; } = new DataFormat();
+    public DataFormat SpecialTerms { get; set; } = new DataFormat();
 }
 
 public static class Configuration
 {
     public static LlmConfig GetConfiguration(string workingDirectory)
-    {
-        var yamlDeserializer = new DeserializerBuilder().Build();
-        var response = yamlDeserializer.Deserialize<LlmConfig>(File.ReadAllText($"{workingDirectory}/Config.yaml", Encoding.UTF8));
+    {       
+        var deserializer = Yaml.CreateDeserializer();
+        var response = deserializer.Deserialize<LlmConfig>(File.ReadAllText($"{workingDirectory}/Config.yaml", Encoding.UTF8));
 
         response.WorkingDirectory = workingDirectory;
         response.Prompts = CachePrompts(workingDirectory);
+        response.GameData = LoadGameData(workingDirectory);
 
         return response;
     }
@@ -44,5 +55,24 @@ public static class Configuration
             prompts.Add(Path.GetFileNameWithoutExtension(file), File.ReadAllText(file));
 
         return prompts;
+    }
+
+    public static GameData LoadGameData(string workingDirectory)
+    {       
+        var yaml = Yaml.CreateDeserializer();
+        var result = new GameData()
+        {
+            Names = GetGameData($"{workingDirectory}/Game/Names.yaml", yaml),
+            Factions = GetGameData($"{workingDirectory}/Game/Factions.yaml", yaml),
+            Locations = GetGameData($"{workingDirectory}/Game/Locations.yaml", yaml),
+            SpecialTerms = GetGameData($"{workingDirectory}/Game/SpecialTerms.yaml", yaml),
+        };
+
+        return result;
+    }
+
+    private static DataFormat GetGameData(string file, IDeserializer yaml)
+    {
+        return yaml.Deserialize<DataFormat>(File.ReadAllText(file, Encoding.UTF8));
     }
 }

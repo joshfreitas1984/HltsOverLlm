@@ -49,6 +49,7 @@ public static class TranslationService
     {
         string inputPath = $"{workingDirectory}/TextAsset";
         string outputPath = $"{workingDirectory}/Export";
+        var serializer = Yaml.CreateSerializer();       
 
         if (!Directory.Exists(outputPath))
             Directory.CreateDirectory(outputPath);
@@ -73,21 +74,19 @@ public static class TranslationService
 
                 exportContent.Add(translationLine);
                 lineNum++;
-            }
-
-            var serializer = new SerializerBuilder()
-                .WithNamingConvention(CamelCaseNamingConvention.Instance)
-                .Build();
+            }         
 
             File.WriteAllText($"{outputPath}\\{textFileToTranslate.Path}", serializer.Serialize(exportContent));
         }
     }
 
-    public static async Task FillTranslationCache(string workingDirectory, int charsToCache, Dictionary<string, string> cache)
+    public static async Task FillTranslationCache(string workingDirectory, int charsToCache, Dictionary<string, string> cache, LlmConfig config)
     {
         // Add Manual adjustments 
         //foreach (var k in GetManualCorrections())
         //    cache.Add(k.Key, k.Value);
+
+        Glossary.AddGlossaryToCache(config, cache);
 
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
@@ -112,18 +111,17 @@ public static class TranslationService
         string inputPath = $"{workingDirectory}/Export";
         string outputPath = $"{workingDirectory}/Translated";
 
-        // Translation Cache - for smaller translations that tend to hallucinate
-        var translationCache = new Dictionary<string, string>();
-        var charsToCache = 7;
-
-        if (useTranslationCache)
-            await FillTranslationCache(workingDirectory, charsToCache, translationCache);
-
         // Create output folder
         if (!Directory.Exists(outputPath))
             Directory.CreateDirectory(outputPath);
 
         var config = Configuration.GetConfiguration(workingDirectory);
+
+        // Translation Cache - for smaller translations that tend to hallucinate
+        var translationCache = new Dictionary<string, string>();
+        var charsToCache = 10;
+        if (useTranslationCache)
+            await FillTranslationCache(workingDirectory, charsToCache, translationCache, config);
 
         // Create an HttpClient instance
         using var client = new HttpClient();
@@ -147,14 +145,9 @@ public static class TranslationService
 
             Console.WriteLine($"Processing File: {outputFile}");
 
-            var deserializer = new DeserializerBuilder()
-                .WithNamingConvention(CamelCaseNamingConvention.Instance)
-                .Build();
-
+            var serializer = Yaml.CreateSerializer();
+            var deserializer = Yaml.CreateDeserializer();
             var fileLines = deserializer.Deserialize<List<TranslationLine>>(content);
-            var serializer = new SerializerBuilder()
-               .WithNamingConvention(CamelCaseNamingConvention.Instance)
-               .Build();
 
             var batchSize = config.BatchSize ?? 20;
             var totalLines = fileLines.Count;
@@ -285,6 +278,7 @@ public static class TranslationService
 
     public static async Task IterateThroughTranslatedFilesAsync(string workingDirectory, Func<string, TextFileToSplit, List<TranslationLine>, Task> performActionAsync)
     {
+        var deserializer = Yaml.CreateDeserializer();
         string outputPath = $"{workingDirectory}/Translated";
 
         foreach (var textFileToTranslate in GetTextFilesToSplit())
@@ -294,11 +288,7 @@ public static class TranslationService
             if (!File.Exists(outputFile))
                 continue;
 
-            var content = File.ReadAllText(outputFile);
-
-            var deserializer = new DeserializerBuilder()
-                .WithNamingConvention(CamelCaseNamingConvention.Instance)
-                .Build();
+            var content = File.ReadAllText(outputFile);           
 
             var fileLines = deserializer.Deserialize<List<TranslationLine>>(content);
 
@@ -501,7 +491,7 @@ public static class TranslationService
         //if (raw.Contains("<"))
         //    basePrompt.AppendLine(config.Prompts["DynamicMarkupPrompt"]);
 
-        basePrompt.AppendLine(config.Prompts["BaseGlossaryPrompt"]);
+        basePrompt.AppendLine(Glossary.ConstructGlossaryPrompt(raw, config));
 
         return
         [

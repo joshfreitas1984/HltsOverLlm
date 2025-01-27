@@ -9,6 +9,29 @@ public class TranslatedRaw(string raw)
     public string Trans { get; set; } = string.Empty;
 }
 
+public class DataFormat
+{
+    public List<DataLine> Entries { get; set; } = [];
+}
+
+public class DataLine
+{
+    public string Raw { get; set; }
+    public string Result { get; set; }
+
+    public DataLine()
+    {
+        Raw = string.Empty; 
+        Result = string.Empty;
+    }
+
+    public DataLine(string raw, string result)
+    {
+        Raw = raw;
+        Result= result;
+    }
+}
+
 public class TextFileToSplit
 {
     [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]

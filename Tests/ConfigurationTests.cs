@@ -12,9 +12,7 @@ public class ConfigurationTests
     {
         var prompts = Configuration.CachePrompts(workingDirectory);
 
-        var serializer = new SerializerBuilder()
-                 .WithNamingConvention(CamelCaseNamingConvention.Instance)
-                 .Build();
+        var serializer = Yaml.CreateSerializer();       
 
         await File.WriteAllTextAsync($"{workingDirectory}/TestResults/AllPrompts.yaml", serializer.Serialize(prompts));
     }

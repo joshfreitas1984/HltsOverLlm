@@ -229,7 +229,7 @@ public class LineValidation
             CorrectionPrompt = correctionPrompts.ToString(),
         };
     }
-
+    
     public static string CleanupLineBeforeSaving(string input, string raw, string outputFile)
     {
         var result = input.Trim();

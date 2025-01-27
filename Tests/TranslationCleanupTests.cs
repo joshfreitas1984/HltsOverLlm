@@ -30,6 +30,7 @@ public class TranslationCleanupTests
             {  "唔呃…", "Not cheating..." },
             {  "戾气？", "Malevolent Qi?" },
             {  "-请便", "Excuse me" },
+            {  "{0}{1} 经验", "{0} {1} Experience" },
 
             // Auto
             { "以简驭繁", "With simplicity, govern complexity" },
@@ -267,9 +268,7 @@ public class TranslationCleanupTests
                 }
             }
 
-            var serializer = new SerializerBuilder()
-                .WithNamingConvention(CamelCaseNamingConvention.Instance)
-                .Build();
+            var serializer = Yaml.CreateSerializer();
 
             if (recordsModded > 0)
             {
@@ -284,6 +283,8 @@ public class TranslationCleanupTests
     {
         string outputPath = $"{workingDirectory}/Translated";
         string exportPath = $"{workingDirectory}/Export";
+        var serializer = Yaml.CreateSerializer();
+        var deserializer = Yaml.CreateDeserializer();
 
         foreach (var textFileToTranslate in TranslationService.GetTextFilesToSplit())
         {
@@ -291,15 +292,7 @@ public class TranslationCleanupTests
             var exportFile = $"{exportPath}/{textFileToTranslate.Path}";
 
             if (!File.Exists(outputFile))
-                continue;
-
-            var deserializer = new DeserializerBuilder()
-                .WithNamingConvention(CamelCaseNamingConvention.Instance)
-                .Build();
-
-            var serializer = new SerializerBuilder()
-                .WithNamingConvention(CamelCaseNamingConvention.Instance)
-                .Build();
+                continue;            
 
             var exportLines = deserializer.Deserialize<List<TranslationLine>>(File.ReadAllText(exportFile));
             var transLines = deserializer.Deserialize<List<TranslationLine>>(File.ReadAllText(outputFile));
@@ -357,6 +350,7 @@ public class TranslationCleanupTests
     public async Task IsItEnglishPrompt()
     {
         var config = Configuration.GetConfiguration(workingDirectory);
+        var serializer = Yaml.CreateSerializer();        
 
         // Create an HttpClient instance
         using var client = new HttpClient();
@@ -424,10 +418,6 @@ public class TranslationCleanupTests
                     split.FlaggedForRetranslation = true;
                     recordsModded++;
                 });
-
-                var serializer = new SerializerBuilder()
-                .WithNamingConvention(CamelCaseNamingConvention.Instance)
-                .Build();
 
                 if (recordsModded > 0)
                 {
