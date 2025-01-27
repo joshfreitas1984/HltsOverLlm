@@ -10,7 +10,8 @@ public class Glossary
 
         var names = AppendPromptsFor(raw, config.GameData.Names.Entries);
         var locations = AppendPromptsFor(raw, config.GameData.Locations.Entries);
-        var specialTerms = AppendPromptsFor(raw, config.GameData.SpecialTerms.Entries);
+        var specialTermsSafe = AppendPromptsFor(raw, config.GameData.SpecialTermsSafe.Entries);
+        var specialTermsUnsafe = AppendPromptsFor(raw, config.GameData.SpecialTermsUnsafe.Entries);
         var factions = AppendPromptsFor(raw, config.GameData.Factions.Entries);
 
         if (names.Length > 0)
@@ -25,12 +26,15 @@ public class Glossary
             prompt.Append(locations);
         }
 
-        if (specialTerms.Length > 0 || factions.Length > 0)
+        if (specialTermsSafe.Length > 0 || specialTermsUnsafe.Length > 0 || factions.Length > 0)
         {
             prompt.AppendLine("#### Special Terms");
 
-            if (specialTerms.Length > 0)
-                prompt.Append(specialTerms);
+            if (specialTermsSafe.Length > 0)
+                prompt.Append(specialTermsSafe);
+
+            if (specialTermsUnsafe.Length > 0)
+                prompt.Append(specialTermsUnsafe);
 
             if (factions.Length > 0)
                 prompt.Append(factions);
@@ -49,7 +53,8 @@ public class Glossary
     {
         AddGlossaryLinesToCache(cache, config.GameData.Names.Entries);
         AddGlossaryLinesToCache(cache, config.GameData.Locations.Entries);
-        AddGlossaryLinesToCache(cache, config.GameData.SpecialTerms.Entries);
+        AddGlossaryLinesToCache(cache, config.GameData.SpecialTermsSafe.Entries);
+        AddGlossaryLinesToCache(cache, config.GameData.SpecialTermsUnsafe.Entries);
         AddGlossaryLinesToCache(cache, config.GameData.Factions.Entries);
     }
 

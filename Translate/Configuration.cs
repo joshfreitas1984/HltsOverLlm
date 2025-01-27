@@ -29,7 +29,8 @@ public class GameData
     public DataFormat Names { get; set; } = new DataFormat();
     public DataFormat Factions { get; set; } = new DataFormat();
     public DataFormat Locations { get; set; } = new DataFormat();
-    public DataFormat SpecialTerms { get; set; } = new DataFormat();
+    public DataFormat SpecialTermsSafe { get; set; } = new DataFormat();
+    public DataFormat SpecialTermsUnsafe { get; set; } = new DataFormat();
 }
 
 public static class Configuration
@@ -58,17 +59,24 @@ public static class Configuration
     }
 
     public static GameData LoadGameData(string workingDirectory)
-    {       
+    {
         var yaml = Yaml.CreateDeserializer();
         var result = new GameData()
         {
             Names = GetGameData($"{workingDirectory}/Game/Names.yaml", yaml),
             Factions = GetGameData($"{workingDirectory}/Game/Factions.yaml", yaml),
             Locations = GetGameData($"{workingDirectory}/Game/Locations.yaml", yaml),
-            SpecialTerms = GetGameData($"{workingDirectory}/Game/SpecialTerms.yaml", yaml),
+            SpecialTermsSafe = GetGameData($"{workingDirectory}/Game/SpecialTermsSafe.yaml", yaml),
+            SpecialTermsUnsafe = GetGameData($"{workingDirectory}/Game/SpecialTermsUnsafe.yaml", yaml),
         };
 
         return result;
+    }
+
+    public static void AddToDictionaryGlossary(Dictionary<string, string> globalGlossary, List<DataLine> entries)
+    {
+        foreach (var line in entries)
+            globalGlossary.Add(line.Raw, line.Result);
     }
 
     private static DataFormat GetGameData(string file, IDeserializer yaml)

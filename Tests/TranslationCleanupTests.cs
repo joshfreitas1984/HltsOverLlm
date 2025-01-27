@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Text.RegularExpressions;
@@ -156,16 +157,21 @@ public class TranslationCleanupTests
     {
         var config = Configuration.GetConfiguration(workingDirectory);
         var pattern = LineValidation.ChineseCharPattern;
-        bool resetFlag = false;
+        bool resetFlag = true;
 
         var manual = GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
             //"梅星河",
             //"梅村长",
-            "梅红绮"
+            //"梅红绮"
         };
 
+        var safeGlossary = new Dictionary<string, string>();
+        Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Names.Entries);
+        Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Factions.Entries);
+        Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Locations.Entries);
+        Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.SpecialTermsSafe.Entries);
 
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
@@ -195,6 +201,8 @@ public class TranslationCleanupTests
                     {
                         recordsModded++;
                         split.FlaggedForRetranslation = false;
+                        split.FlaggedGlossaryIn = string.Empty;
+                        split.FlaggedGlossaryOut = string.Empty;
                     }
 
                     //// Try and flag crazy shit
@@ -219,6 +227,29 @@ public class TranslationCleanupTests
                     // Clean up Translations that are already in
                     if (string.IsNullOrEmpty(split.Translated))
                         continue;
+
+
+
+                    // Glossary Clean up
+                    //if (config.GameData.SafeGlossary.ContainsKey(split.Text))
+                    //foreach (var item in safeGlossary)
+                    //{
+                    //    if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.CurrentCultureIgnoreCase))
+                    //    {
+                    //        Console.WriteLine($"Mistranslated:{textFileToTranslate.Path} \n{split.Translated}");
+                    //        split.FlaggedForRetranslation = true;
+                    //        split.FlaggedGlossaryIn = item.Value;
+                    //        recordsModded++;
+                    //    }
+                    //    //else if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.CurrentCultureIgnoreCase))
+                    //    //{
+                    //    //    Console.WriteLine($"Glossary in Non trans:{textFileToTranslate.Path} \n{split.Translated}");
+                    //    //    split.FlaggedForRetranslation = true;
+                    //    //    split.FlaggedGlossaryOut = item.Value;
+                    //    //    recordsModded++;
+                    //    //}
+                    //}
+
 
                     //Trim
                     if (split.Translated.Trim().Length != split.Translated.Length)

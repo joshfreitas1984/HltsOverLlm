@@ -6,10 +6,14 @@
     text: "粗布拳套"
     translated: "Rough Cotton Fist Wraps"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "麻布制的拳套，在进行粗重工作时能够保护手掌。"
     translated: "Cloth-made boxing gloves can protect the palms during heavy-duty work"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 1
   raw: "eq10102	拳套	eq10102	以皮革所缝制之手套，套住手掌与指关节，可露出半截手指，活动自如。	101	400	200	TRUE	0	10		2	30	30	(Fight,35)	15		0	(it70409,1)"
   translated: ""
@@ -18,10 +22,14 @@
     text: "拳套"
     translated: "Knuckle Pads"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以皮革所缝制之手套，套住手掌与指关节，可露出半截手指，活动自如。"
     translated: "A pair of gloves made of leather that cover the palms and knuckles, leaving half of the fingers exposed, allowing for free movement"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 2
   raw: "eq10103	猛虎护手	eq10103	外型雕饰猛虎的护手，沉重但防护力有限。	101	3600	1800	TRUE	1	40		3	60	60	(Fight,90)	10		0	(it70409,1)(it70103,1)"
   translated: ""
@@ -30,10 +38,14 @@
     text: "猛虎护手"
     translated: "Meng hu hu shou"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "外型雕饰猛虎的护手，沉重但防护力有限。"
     translated: "The gauntlets carved with fierce tiger motifs are heavy but offer limited protection"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 3
   raw: "eq10104	爪	eq10104	可套在手指上的利爪，以金属制成。	101	2400	1200	TRUE	1	30		5	65	65	(Fight,70)	10		0	(it70102,2)"
   translated: ""
@@ -42,10 +54,14 @@
     text: "爪"
     translated: "Claw"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "可套在手指上的利爪，以金属制成。"
     translated: "Claws that can be worn on the fingers, made of metal"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 4
   raw: "eq10105	乌鬼爪	eq10105	来自异域的神秘兵器。	101	5000	2500	TRUE	2	60		5	75	75	(Fight,150)	6		0	(it70103,1)(it70113,1)"
   translated: ""
@@ -54,10 +70,14 @@
     text: "乌鬼爪"
     translated: "Ghost Bat Claw"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "来自异域的神秘兵器。"
     translated: "Exotic and mysterious weapons from foreign lands"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 5
   raw: "eq10106	天罡拳套	eq10106	以犀牛、鳄鱼等数种野兽的皮革特制而成的拳套，坚韧无比。	101	100	50	TRUE	1	50		0	100	100	(Fight,20)	8		0	"
   translated: ""
@@ -66,10 +86,14 @@
     text: "天罡拳套"
     translated: "Tiangang Quan Tao"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以犀牛、鳄鱼等数种野兽的皮革特制而成的拳套，坚韧无比。"
     translated: "Made from the leather of rhinoceroses, crocodiles, and several other wild beasts, these gauntlets are incredibly durable"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 6
   raw: "eq10107	离魂金线缠	eq10107	武林人士专用的特制拳套，虽然名为金线，实则是多种金属交错编织而成，防护性极高。	101	100	50	TRUE	2	50		0	100	100	(Fight,20)	5		0	"
   translated: ""
@@ -78,10 +102,14 @@
     text: "离魂金线缠"
     translated: "Life-leeching golden thread"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "武林人士专用的特制拳套，虽然名为金线，实则是多种金属交错编织而成，防护性极高。"
     translated: "Wulin practitioners' specially made glove, although named Jinxian (Golden Thread), is actually woven from multiple metals intertwined together and has extremely high protective qualities"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 7
   raw: "eq10108	金丝手套	eq10108	以金蚕丝织成的手套，薄如蝉翼，宝刀利剑不能破，防护性极佳。	101	7000	3500	TRUE	5	99		2	60	60	(Fight,110)	5		weapon0108	(it70504,1)"
   translated: ""
@@ -90,10 +118,14 @@
     text: "金丝手套"
     translated: "Golden Silk Gloves"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以金蚕丝织成的手套，薄如蝉翼，宝刀利剑不能破，防护性极佳。"
     translated: "Gloves woven from golden silk, as thin as a cicada's wing, cannot be pierced by precious swords or sharp blades; they offer excellent protection"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 8
   raw: "eq10109	乌蚕丝手套	eq10109	以乌蚕丝混合特殊合金编制而成，柔韧而坚实，寻常刀剑皆伤它不得。	101	14000	7000	TRUE	3	90		2	80	80	(Fight,199)	5		0	(it70505,1)(it70415,1)"
   translated: ""
@@ -102,10 +134,14 @@
     text: "乌蚕丝手套"
     translated: "Ucangsi gloves"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以乌蚕丝混合特殊合金编制而成，柔韧而坚实，寻常刀剑皆伤它不得。"
     translated: "Composed of a mixture of black silkworm silk and special alloy, it is both flexible and solid; ordinary swords cannot damage it"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 9
   raw: "eq10110	百烈护手	eq10103	绝世护手，所向披靡。	101	20000	10000	TRUE	5	99		25	120	120	(Fight,355)	3		0	(it70109,2)"
   translated: ""
@@ -114,10 +150,14 @@
     text: "百烈护手"
     translated: "Brilliant Hundred Fiery Guard"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "绝世护手，所向披靡。"
     translated: "Invincible guard, unstoppable in all directions"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 10
   raw: "eq10111	野球拳	eq10111	皇甫登云多年使用野球拳，竟将一双肉掌生生练成了神兵。真·野球拳的无上内劲已与他千锤百炼的肉体合而为一，无坚不摧。	101	0	0	TRUE	3	99		0	100	100	(Fight,500)	5		0	(it70109,2)"
   translated: ""
@@ -126,10 +166,14 @@
     text: "野球拳"
     translated: "Baseball Fist"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "皇甫登云多年使用野球拳，竟将一双肉掌生生练成了神兵。真·野球拳的无上内劲已与他千锤百炼的肉体合而为一，无坚不摧。"
     translated: "Huangfu Dengyun, through years of practicing baseball fist, has honed his fleshly fists into divine weapons. The supreme internal strength of true baseball fist has merged with his body tempered by countless blows, becoming unstoppable"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 11
   raw: "eq10112	夜雪	eq10112	百损以冰蚕丝细密编织而成的手套。薄如蝉翼、轻似鸿羽，戴在手上仿若无物，敌人唯有在双掌加身时才能感受到其上索命的寒气。	101	7000	3500	TRUE	5	70		2	50	50	(Fight,70)	5		frozen03	(it70508,1)"
   translated: ""
@@ -138,10 +182,14 @@
     text: "夜雪"
     translated: "Yexue"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "百损以冰蚕丝细密编织而成的手套。薄如蝉翼、轻似鸿羽，戴在手上仿若无物，敌人唯有在双掌加身时才能感受到其上索命的寒气。"
     translated: "The hand gloves made by Bai Sun are crafted from finely woven ice silkworm silk. They are as thin as a cicada's wings and as light as a swan feather, giving the sensation of wearing nothing when worn on the hands. An enemy can only feel their deadly cold when grasping them with both palms"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 12
   raw: "eq10113	天残鬼爪	eq10113	青冥幽幽，天残地缺，阴司地曹，恶鬼狰狞。此为司徒荆所持有之专属装备，畸形扭曲的护手如恶鬼青筋，指端针尖锐利无比，稍加挥动都能让人皮开肉绽。	101	7000	3500	TRUE	5	70		6	35	35	(Fight,93)	5		wounded05,weapon0113	(it70504,1)"
   translated: ""
@@ -150,10 +198,14 @@
     text: "天残鬼爪"
     translated: "Scarred Heaven's Claw"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "青冥幽幽，天残地缺，阴司地曹，恶鬼狰狞。此为司徒荆所持有之专属装备，畸形扭曲的护手如恶鬼青筋，指端针尖锐利无比，稍加挥动都能让人皮开肉绽。"
     translated: "Darkness envelops the skies, and both heaven and earth are marred with gaps; a realm of malevolent spirits and monstrous demons. This is the unique equipment held by Situ Jing, whose deformed gauntlets resemble the blue veins of evil ghosts, and their pointed tips are incredibly sharp—merely swinging them could tear flesh apart"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 13
   raw: "eq10114	神农	eq10114	佳人初至草棚，欲为病人略尽心意，无惧纤纤玉指屡遭药草棘刺所伤，不屈不挠。陈之济无奈之下为其特制一双蚕丝手套，贴合轻软却坚韧无比，使其能专心理药，不致受伤。	101	7000	3500	TRUE	5	70		2	50	50	(Fight,45)	5		weapon0114	(it70505,1)"
   translated: ""
@@ -162,10 +214,14 @@
     text: "神农"
     translated: "Shennong"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "佳人初至草棚，欲为病人略尽心意，无惧纤纤玉指屡遭药草棘刺所伤，不屈不挠。陈之济无奈之下为其特制一双蚕丝手套，贴合轻软却坚韧无比，使其能专心理药，不致受伤。"
     translated: "The lady first arrived at the Flower and Herb Stall, intending to help the sick with all her heart, despite suffering from scratches by thorns of herbs that her delicate jade-like fingers had touched repeatedly. Unyielding and determined, she persevered. In his vexation, Chen Zhiji specially made for her a pair of silkworm silk gloves, soft yet remarkably durable, allowing her to focus on preparing the medicine without getting injured"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 14
   raw: "eq10115	虿鬼	eq10115	传说虿鬼或蝎或蛛，乃毒虫所化之恶鬼，此护手以蚕丝制成，加入石鸿图苦心搜集的毒虫炼制而成，挥舞之时嗡嗡作声，如万千毒虫迎风飞舞，诡异之至。	101	7000	3500	TRUE	5	70		9	65	65	(Fight,80)	5		poisoned03	(it70508,1)"
   translated: ""
@@ -174,10 +230,14 @@
     text: "虿鬼"
     translated: "Viper Ghost"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传说虿鬼或蝎或蛛，乃毒虫所化之恶鬼，此护手以蚕丝制成，加入石鸿图苦心搜集的毒虫炼制而成，挥舞之时嗡嗡作声，如万千毒虫迎风飞舞，诡异之至。"
     translated: "It is said that the poison devil, whether scorpion or spider, is a demon transformed from poisonous insects. The protective sleeve was made of silkworm silk and crafted with poisonous insects collected by Shi Hongtu through great effort. When wielded, it buzzes like countless poisonous insects dancing in the wind, truly eerie"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 15
   raw: "eq10301	白铁清泉剑	eq10301	一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。	103	2200	1100	TRUE	1	20	ac3a0048	13	45	45	(Sword,65)(TwoSword,65)(BladeSword,65)	10		0	(it70103,1)(it70102,1)"
   translated: ""
@@ -186,10 +246,14 @@
     text: "白铁清泉剑"
     translated: "White Steel Clear Spring Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。"
     translated: "One Lifetime Prosperity Winery family disciple's exclusive paired sword has a small wine bottle carved on the hilt as the winery's emblem"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 16
   raw: "eq10302	生锈铁剑	eq10302	遭人弃置的寻常铁剑。从绣迹上看来，铸造所用也非精铁，只能作为一时应急之选。	103	200	100	TRUE	0	2	ac3a0051	13	20	20	(Sword,9)(TwoSword,9)(BladeSword,9)	15		0	(it70102,1)"
   translated: ""
@@ -198,10 +262,14 @@
     text: "生锈铁剑"
     translated: "Rusting Iron Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "遭人弃置的寻常铁剑。从绣迹上看来，铸造所用也非精铁，只能作为一时应急之选。"
     translated: "Discarded and ordinary iron sword. From the embroidery traces, it appears that non-steel was used in forging, only suitable as a temporary emergency option"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 17
   raw: "eq10303	长剑	eq10303	中原流行的长剑，上手容易，因此成为武林中人常用的兵器。	103	600	300	TRUE	0	6	ac3a0022	11	30	30	(Sword,32)(TwoSword,32)(BladeSword,32)	15		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -210,10 +278,14 @@
     text: "长剑"
     translated: "Long Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "中原流行的长剑，上手容易，因此成为武林中人常用的兵器。"
     translated: "The long sword popular in Zhongyuan is easy to handle, making it a commonly used weapon among martial artists"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 18
   raw: "eq10304	青锋剑	eq10304	锐利的宝剑，剑身寒光闪烁，锋芒毕露。	103	1600	800	TRUE	1	16	ac3a0024	12	40	40	(Sword,60)(TwoSword,60)(BladeSword,60)	10		0	(it70101,1)(it70104,1)"
   translated: ""
@@ -222,10 +294,14 @@
     text: "青锋剑"
     translated: "The Green Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "锐利的宝剑，剑身寒光闪烁，锋芒毕露。"
     translated: "A razor-sharp precious sword, its blade glints with a cold gleam and reveals its sharpness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 19
   raw: "eq10305	重剑	eq10305	剑身厚实宽大的重剑，虽然破坏力极强，但常人难以挥动。	103	4500	2250	TRUE	1	40	ac3a0064	35	100	100	(Sword,100)(TwoSword,100)(BladeSword,100)	10		heavysword01	(it70102,3)"
   translated: ""
@@ -234,10 +310,14 @@
     text: "重剑"
     translated: "Heavy Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "剑身厚实宽大的重剑，虽然破坏力极强，但常人难以挥动。"
     translated: "A heavy, wide-bladed sword with a solid hilt has tremendous destructive power but is difficult for ordinary people to wield"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 20
   raw: "eq10307	白虹剑	eq10310	剑身修长，刃若寒霜，通体成雪白色，不单曼妙华美，亦是吹毛断发的名剑。	103	100	50	TRUE	1	50	ac3a0040	0	100	100	(Sword,40)(TwoSword,40)(BladeSword,40)	8		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -246,10 +326,14 @@
     text: "白虹剑"
     translated: "White Rainbow Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "剑身修长，刃若寒霜，通体成雪白色，不单曼妙华美，亦是吹毛断发的名剑。"
     translated: "The blade is long and elegant, as white as frost and snow, not only beautiful and graceful but also a legendary sword capable of slicing hair with the slightest touch"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 21
   raw: "eq10308	明水剑	eq10308	古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雌剑剑刃稍短，上铸「明水」二字。	103	15000	7500	TRUE	3	99	ac3a0034	49	90	90	(Sword,220)(TwoSword,220)(BladeSword,220)	5		0	(it801121,1)(it70111,1)(it70104,1)"
   translated: ""
@@ -258,10 +342,14 @@
     text: "明水剑"
     translated: "Ming Shui Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雌剑剑刃稍短，上铸「明水」二字。"
     translated: "One of the heirlooms of Gu Kai Ming Bi Leng Di, a pair of male and female blades forged from refined iron. The female sword has a slightly shorter blade, inscribed with Ming Shui on its surface"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 22
   raw: "eq10309	息壤刀	temp	古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。	103	100	50	TRUE	2	50	ac3a0038	0	100	100	(Blade,20)	5		0	(it30321,1)(it70108,1)(it70105,1)"
   translated: ""
@@ -270,10 +358,14 @@
     text: "息壤刀"
     translated: "Essence-Earth Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。"
     translated: "A relic of the ancient Kaiming dynasty, one of the Lingdi lineage treasures, consisting of a pair of finely crafted steel blades. The male blade is slightly longer and bears the inscription Sire Land"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 23
   raw: "eq10310	玉桂金香	eq10310	太华门长老为颛孙凝所打造之专属配剑，轻盈锋利，金黄的剑柄衬着莹白剑身，挥动之时有淡淡华光流泻，如月光映照，美不可言。	103	7000	3500	TRUE	5	99	ac3a0040	11	65	65	(Sword,60)(TwoSword,60)(BladeSword,60)	5		0	(it70110,1)(it70104,1)"
   translated: ""
@@ -282,10 +374,14 @@
     text: "玉桂金香"
     translated: "Yu Gui Jin Xiang"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "太华门长老为颛孙凝所打造之专属配剑，轻盈锋利，金黄的剑柄衬着莹白剑身，挥动之时有淡淡华光流泻，如月光映照，美不可言。"
     translated: "The sword specially forged for Zhuan Sunning by the Grand Elder of Taihua Gate is light and sharp. The gold-yellow hilt contrasts with the milky-white blade, emitting a faint ethereal glow when swung, reminiscent of moonlight reflected on its surface; it is beyond description in beauty"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 24
   raw: "eq10311	长宁剑	temp	柳叶剑庄庄主夫人解长宁之佩剑，为庄主文淬之早年为表情意，上门向解家求亲，以天铁铸成。此剑剑形与柳叶剑庄善造的柳叶短剑回异，近似中原剑式，剑身长窄且较为轻盈，适合女子运使。	103	100	50	TRUE	2	50		7	100	100	(Sword,20)	5		0	"
   translated: ""
@@ -294,10 +390,14 @@
     text: "长宁剑"
     translated: "Changning Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "柳叶剑庄庄主夫人解长宁之佩剑，为庄主文淬之早年为表情意，上门向解家求亲，以天铁铸成。此剑剑形与柳叶剑庄善造的柳叶短剑回异，近似中原剑式，剑身长窄且较为轻盈，适合女子运使。"
     translated: "The headmistress of Liuye Sword Villa, Jie Changning, unsheathed the sword given by her husband, the villa owner. This was a gesture to express his feelings from their early days when he visited the Jie family seeking marriage. The sword is made from divine iron. Its form differs from the liuye short swords crafted at Liuye Sword Villa; it resembles more closely those of Central Plain style, being long and narrow with a lightweight design suitable for women to wield"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 25
   raw: "eq10312	龙脊剑	temp	来历不明的奇剑，状如脊骨，难以御使。有博学者认为，此剑由上古神兽的脊骨淬炼而成。	103	100	3	TRUE	2	50		7	100	100	(Sword,20)	5		0	"
   translated: ""
@@ -306,10 +406,14 @@
     text: "龙脊剑"
     translated: "Longji Jian"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "来历不明的奇剑，状如脊骨，难以御使。有博学者认为，此剑由上古神兽的脊骨淬炼而成。"
     translated: "Mysterious sword of unknown origin, resembling a backbone and difficult to wield. Some scholars believe this sword is forged from the backbone of an ancient mythical creature"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 26
   raw: "eq10313	青霜宝剑	eq10313	用雪山之巅所产寒铁所打造的长剑，剑刃上传来如霜似雪的极寒之气。	103	100	50	TRUE	2	50		7	100	100	(Sword,20)	5		0	"
   translated: ""
@@ -318,10 +422,14 @@
     text: "青霜宝剑"
     translated: "Qingsong Baojian"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "用雪山之巅所产寒铁所打造的长剑，剑刃上传来如霜似雪的极寒之气。"
     translated: "Forged from Cold Iron produced at the peak of Snowy Mountains, this longsword has a blade that radiates with the icy coldness akin to frost and snow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 27
   raw: "eq10314	君子剑	temp	凌中岳早年偶得的名剑，甚少动用。霜刃无尖，虽为利器而不显丝毫锋芒，恰如君子之德。以竹为鞘，竹有节，影射义士有节。	103	100	50	TRUE	2	50		7	100	100	(Sword,20)	5		0	"
   translated: ""
@@ -330,10 +438,14 @@
     text: "君子剑"
     translated: "Knights' Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "凌中岳早年偶得的名剑，甚少动用。霜刃无尖，虽为利器而不显丝毫锋芒，恰如君子之德。以竹为鞘，竹有节，影射义士有节。"
     translated: "Ling Zhongyue seldom used the famous sword he acquired in his early years. Its blade, though sharp, had no point and did not show any hint of a sharp edge, much like the virtue of a gentleman. The scabbard was made of bamboo, which has joints that symbolize the integrity of an honorable person"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 28
   raw: "eq10315	墨玉飞雪	eq10315	以墨玉、寒铁混合多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉芙蓉同出一天下名匠之手。	103	6000	3000	TRUE	3	60	ac3a0005	26	90	90	(Sword,160)(TwoSword,160)(BladeSword,160)	3		weapon0315	(it70110,1)(it70103,1)(it70320,1)"
   translated: ""
@@ -342,10 +454,14 @@
     text: "墨玉飞雪"
     translated: "Black Jade Flying Snow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以墨玉、寒铁混合多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉芙蓉同出一天下名匠之手。"
     translated: "The sword is forged from a mixture of obsidian and cold iron, along with various other unique metals. It can cut through gold and slice jade as if it were mud. It was crafted by the same renowned artisan who created the Obsidian Peony"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 29
   raw: "eq10316	墨玉芙蓉	eq10316	以墨玉、珊瑚金混和多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉飞雪同出一天下名匠之手。	103	6000	3000	TRUE	3	60	ac3a0015	24	75	75	(Sword,155)(TwoSword,155)(BladeSword,155)	3		weapon0316	(it70107,1)(it70103,1)(it70320,1)"
   translated: ""
@@ -354,10 +470,14 @@
     text: "墨玉芙蓉"
     translated: "Dark Jade Lotus"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以墨玉、珊瑚金混和多种特异金属冶炼而成的宝剑，砍金断玉、削铁如泥。与墨玉飞雪同出一天下名匠之手。"
     translated: "An exquisite sword forged by melting together jadeite, coral gold, and various unique metals. Capable of cutting through gold as if it were dust and slicing iron like clay. Crafted by the same renowned artisan who made the Misty Jade Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 30
   raw: "eq10317	古剑螭纹	eq10317	徐暇客游历天下，于机缘巧合下获得的古剑。相传此剑问世已上千年，徐暇客爱惜古物，从不曾用此剑与人交手。	103	7500	3750	TRUE	3	70	ac3a0013	32	90	90	(Sword,190)(TwoSword,190)(BladeSword,190)	3		0	(it70111,1)(it70104,1)"
   translated: ""
@@ -366,10 +486,14 @@
     text: "古剑螭纹"
     translated: "Dragon Patterned Ancient Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "徐暇客游历天下，于机缘巧合下获得的古剑。相传此剑问世已上千年，徐暇客爱惜古物，从不曾用此剑与人交手。"
     translated: "Xi Xiake traveled the world and obtained an ancient sword through a stroke of fate. It is said that this sword has been around for over a thousand years, and Xi Xiake cherished antiquities and never used this sword to fight anyone"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 31
   raw: "eq10318	真武剑	eq10318	张君宝的配剑，古意盎然，刃如秋水。张君宝倚之行走江湖，扫荡群邪。	103	7000	3500	TRUE	5	70	ac3a0058	13	70	70	(Sword,72)(TwoSword,72)(BladeSword,72)	5		weapon0318	(it70110,1)(it70113,1)"
   translated: ""
@@ -378,10 +502,14 @@
     text: "真武剑"
     translated: "Zhenwu Jian"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "张君宝的配剑，古意盎然，刃如秋水。张君宝倚之行走江湖，扫荡群邪。"
     translated: "Zhang Junbao's sword, full of ancient charm, its blade like autumn water. Zhang Junbao relies on it to roam the Jianghu and sweep away evil forces"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 32
   raw: "eq10319	八德剑	eq10319	凌中岳的随身配剑，是柄流传千年的汉朝古剑，亦是神兵谱上有数的名剑。剑身八面分别有孝、悌、忠、信、礼、义、廉、耻的篆字。	103	15000	7500	TRUE	3	80	ac3a0059	45	90	90	(Sword,230)(TwoSword,230)(BladeSword,230)	3		0	(it70111,2)"
   translated: ""
@@ -390,10 +518,14 @@
     text: "八德剑"
     translated: "Eight Virtues Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "凌中岳的随身配剑，是柄流传千年的汉朝古剑，亦是神兵谱上有数的名剑。剑身八面分别有孝、悌、忠、信、礼、义、廉、耻的篆字。"
     translated: "Lin Zhongyue's sword, a Han Dynasty blade passed down for a thousand years, is also one of the famous swords listed in the Divine Weapons Catalog. The eight-character inscriptions of filial piety, fraternal submission, loyalty, trustworthiness, propriety, righteousness, integrity, and shame are engraved on each side of the blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 33
   raw: "eq10320	青釭剑	eq10320	与倚天齐名之宝剑，赵云持此剑杀入敌营时，手起处衣甲平过、血如涌泉，可见其锐利。	103	20000	10000	TRUE	3	99	ac3a0084	49	100	100	(Sword,245)(TwoSword,245)(BladeSword,245)	3		wounded08	(it70110,1)(it70109,1)"
   translated: ""
@@ -402,10 +534,14 @@
     text: "青釭剑"
     translated: "Green-glowing sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "与倚天齐名之宝剑，赵云持此剑杀入敌营时，手起处衣甲平过、血如涌泉，可见其锐利。"
     translated: "With a sword comparable to the Heaven-Splitting Sword in fame, Zhao Yun wielded this blade to charge into the enemy camp. Wherever his hand went, armor and clothing were sliced cleanly through, blood gushing like springs, showcasing its sharpness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 34
   raw: "eq10321	青城剑	eq10317	青城弟子的配剑，朴实无华，锋芒内敛。	103	4500	2250	TRUE	1	40	ac3a0033	11	60	60	(Sword,85)(TwoSword,85)(BladeSword,85)	10		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -414,10 +550,14 @@
     text: "青城剑"
     translated: "Qingcheng Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "青城弟子的配剑，朴实无华，锋芒内敛。"
     translated: "The disciple of Qingcheng's paired sword is plain and unadorned, with a subtle edge"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 35
   raw: "eq10322	周公剑	eq10317	形式古朴，传闻为昔日一字慧剑门高手所持，不知缘何流落江湖。	103	6000	3000	TRUE	2	60	ac3a0020	28	99	99	(Sword,155)(TwoSword,155)(BladeSword,155)	5		0	(it70110,1)(it70103,1)"
   translated: ""
@@ -426,10 +566,14 @@
     text: "周公剑"
     translated: "King Wen's Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "形式古朴，传闻为昔日一字慧剑门高手所持，不知缘何流落江湖。"
     translated: "The form is ancient and simple, rumored to have once been held by a master of the Yi Zi Hui Jian Men (One-Word Wisdom Sword Sect). It is unknown how it ended up wandering in the Jianghu"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 36
   raw: "eq10323	苍山之麓	eq10323	段家祖传的宝剑，气韵凝重，形式端严，隐约透露出一股王者气象。	103	7000	3500	TRUE	5	70	ac3a0045	14	70	70	(Sword,65)(TwoSword,65)(BladeSword,65)	5		weapon0323	(it70110,1)(it70104,1)"
   translated: ""
@@ -438,10 +582,14 @@
     text: "苍山之麓"
     translated: "Foot of the Blue Mountain"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "段家祖传的宝剑，气韵凝重，形式端严，隐约透露出一股王者气象。"
     translated: "Segment Family's ancestral sword, its aura is weighty and serious, with a dignified form that subtly exudes an imperial presence"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 37
   raw: "eq10324	紫炁剑	eq10324	一世富贵老太爷陈昊天之配剑，剑身古朴，靠近剑柄处由古金包饰，入手略沉。可能是由酒庄前人所造，代代流传，本代由陈昊天继承。	103	10000	5000	TRUE	3	80	ac3a0046	44	90	90	(Sword,205)(TwoSword,205)(BladeSword,205)	3		0	(it70110,1)(it70113,1)"
   translated: ""
@@ -450,10 +598,14 @@
     text: "紫炁剑"
     translated: "Purple Qi Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一世富贵老太爷陈昊天之配剑，剑身古朴，靠近剑柄处由古金包饰，入手略沉。可能是由酒庄前人所造，代代流传，本代由陈昊天继承。"
     translated: "One Lifetime of Prosperity Elder Chen Hao Tian's paired sword has an antique appearance. The part near the hilt is encrusted with ancient gold, and it feels somewhat heavy to hold. It might have been crafted by ancestors of the winery, passed down through generations, and inherited by Chen Hao Tian this time"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 38
   raw: "eq10325	万虹剑	eq10325	一世富贵庄主陈长卫之配剑，剑身雕纹精致华美，相以绿色宝石，贵不可言，然其不只能象征庄主身份，也是柄极有用处的宝剑，剑身锋利，刻纹亦能于刺杀敌人之际引血外流，加强伤害。	103	10000	5000	TRUE	3	80	ac3a0047	44	90	90	(Sword,205)(TwoSword,205)(BladeSword,205)	3		0	(it70111,2)"
   translated: ""
@@ -462,10 +614,14 @@
     text: "万虹剑"
     translated: "Thousand-Hued Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一世富贵庄主陈长卫之配剑，剑身雕纹精致华美，相以绿色宝石，贵不可言，然其不只能象征庄主身份，也是柄极有用处的宝剑，剑身锋利，刻纹亦能于刺杀敌人之际引血外流，加强伤害。"
     translated: "The jade of the weapon owned by Chen Changwei, the master of Yishi Fu gui Mansion, is a delicate and beautiful carving with green gemstone inlays, invaluable indeed. It not only symbolizes the master's status but also serves as an extremely useful sword; its sharp blade can make incised patterns draw out blood to enhance injury during enemy attacks"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 39
   raw: "eq10327	细剑	eq10327	剑面极窄，剑刃几无杀伤能力，仅能用于格挡，而剑尖却极为锋锐，因而进招多以刺击为主。	103	500	250	TRUE	0	5	ac3a0070	8	25	25	(Sword,25)(TwoSword,25)(BladeSword,25)	15		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -474,10 +630,14 @@
     text: "细剑"
     translated: "Finely crafted sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "剑面极窄，剑刃几无杀伤能力，仅能用于格挡，而剑尖却极为锋锐，因而进招多以刺击为主。"
     translated: "The blade is extremely narrow, with the edge having almost no lethal capability and being used primarily for blocking. However, the tip is exceptionally sharp, making thrusting attacks the main offensive strategy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 40
   raw: "eq10326	蛇形剑	eq10326	在遥远的西方被称为焰型剑，其波状剑刃较一般长剑更容易进行切割，且能造成更严重的伤口。	103	3500	1750	TRUE	1	30	ac3a0065	10	55	55	(Sword,60)(TwoSword,60)(BladeSword,60)	10		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -486,10 +646,14 @@
     text: "蛇形剑"
     translated: "Snake-Form Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "在遥远的西方被称为焰型剑，其波状剑刃较一般长剑更容易进行切割，且能造成更严重的伤口。"
     translated: "In the distant West, it is known as the Flame Pattern Sword. Its wavy blade is more easily used for cutting than a typical long sword and can cause more severe wounds"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 41
   raw: "eq10328	七星剑	eq10328	王喆配剑，剑面七处嵌入钢钉，铸成北斗七星之图样，使剑身不易断裂。	103	7000	3500	TRUE	5	70	ac3a0057	11	80	80	(Sword,71)(TwoSword,71)(BladeSword,71)	5		weapon0328	(it70110,1)(it70104,1)"
   translated: ""
@@ -498,10 +662,14 @@
     text: "七星剑"
     translated: "Seven Star Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "王喆配剑，剑面七处嵌入钢钉，铸成北斗七星之图样，使剑身不易断裂。"
     translated: "Wang Zhe crafted the sword, embedding seven steel nails into its surface to form a pattern resembling the Big Dipper. This design made the blade less prone to breaking"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 42
   raw: "eq10329	鎏金清泉剑	eq10301	一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。	103	2000	1000	TRUE	1	20	ac3a0048	9	50	50	(Sword,60)(TwoSword,60)(BladeSword,60)	10		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -510,10 +678,14 @@
     text: "鎏金清泉剑"
     translated: "Gold-Plated Pure Spring Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一世富贵酒庄世家弟子专属的配剑，剑柄上刻着一只小小的酒葫芦作为酒庄标志。"
     translated: "One Lifetime Prosperity Winery family disciple exclusive matching sword, with a small wine bottle engraved on the hilt as the winery's emblem"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 43
   raw: "eq10330	金蛇剑	eq10326	纯金打造的神秘兵刃，威力天下无双。	103	22000	11000	TRUE	5	99	ac3a0065	35	120	120	(Sword,280)(TwoSword,280)(BladeSword,280)	3		0	(it70105,4)"
   translated: ""
@@ -522,10 +694,14 @@
     text: "金蛇剑"
     translated: "Jin She Jian"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "纯金打造的神秘兵刃，威力天下无双。"
     translated: "A mysterious weapon forged entirely from pure gold, unmatched in power throughout the world"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 44
   raw: "eq10331	玄铁剑	eq10305	纯玄铁打造而成的强大武器。	103	25000	12500	TRUE	5	99	ac3a0064	64	150	150	(Sword,400)(TwoSword,400)(BladeSword,400)	3		heavysword01	(it70109,4)"
   translated: ""
@@ -534,10 +710,14 @@
     text: "玄铁剑"
     translated: "Dark Steel Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "纯玄铁打造而成的强大武器。"
     translated: "A powerful weapon forged from pure dark steel"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 45
   raw: "eq10332	辘轳剑	eq10320	西川兵马指挥使皇甫登云的配剑。此剑乃是当今皇帝御赐的宝剑，价值连城。	103	20000	10000	TRUE	3	99	ac3a0084	6	120	120	(Sword,250)(TwoSword,250)(BladeSword,250)	3		0	(it70107,1)(it70103,1)(it70320,1)"
   translated: ""
@@ -546,10 +726,14 @@
     text: "辘轳剑"
     translated: "Spiked Wheel Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "西川兵马指挥使皇甫登云的配剑。此剑乃是当今皇帝御赐的宝剑，价值连城。"
     translated: "Wuxianguan Shizhijun Huangfu Dengyun's sword. This is a precious sword bestowed by the current emperor, priceless in value"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 46
   raw: "eq10333	油纸伞	eq10333	剑术到了一定的境界，草木竹石均可为剑，油纸伞有何不可。	103	7000	3500	TRUE	5	99	ac3a0089	10	90	90	(Sword,70)(TwoSword,70)(BladeSword,70)	5		injured06	"
   translated: ""
@@ -558,10 +742,14 @@
     text: "油纸伞"
     translated: "Oil-paper umbrella"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "剑术到了一定的境界，草木竹石均可为剑，油纸伞有何不可。"
     translated: "Once swordsmanship reaches a certain level, everything—plants, trees, stones, and even an umbrella—can be used as a sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 47
   raw: "eq10334	冲灵剑	eq10320	此剑用来纪念一桩只可追忆的姻缘……	103	7000	3500	TRUE	5	99	ac3a0084	11	100	100	(Sword,80)(TwoSword,80)(BladeSword,80)	5		confused06	(it70110,1)"
   translated: ""
@@ -570,10 +758,14 @@
     text: "冲灵剑"
     translated: "Chongling Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "此剑用来纪念一桩只可追忆的姻缘……"
     translated: "This sword is used to commemorate a love that can only be remembered…"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 48
   raw: "eq10335	墨玉丹凤	eq10308	柳叶剑庄前任庄主文若的配剑，后赠送予慈荫。	103	15000	7500	TRUE	3	99	ac3a0034	40	85	85	(Sword,208)(TwoSword,208)(BladeSword,208)	5		0	(it70110,1)(it70103,1)(it70320,1)"
   translated: ""
@@ -582,10 +774,14 @@
     text: "墨玉丹凤"
     translated: "Dark Jade Phoenix"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "柳叶剑庄前任庄主文若的配剑，后赠送予慈荫。"
     translated: "Former head of the Willow Leaf Sword Estate, Wen Ru's paired sword, was later given to Ciyin"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 49
   raw: "eq10401	破损朴刀	eq10401	刀刃已经缺口的刀。无法单靠打磨恢复锋锐，除非回炉重铸。	104	200	100	TRUE	0	2	ac3a0052	15	30	30	(Blade,13)(TwoBlade,13)(BladeSword,13)	15		0	(it70102,1)"
   translated: ""
@@ -594,10 +790,14 @@
     text: "破损朴刀"
     translated: "Broken Wooden Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "刀刃已经缺口的刀。无法单靠打磨恢复锋锐，除非回炉重铸。"
     translated: "The blade of the knife is already chipped and cannot be sharpened back to its original sharpness through grinding alone, unless it is re-forged in the furnace"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 50
   raw: "eq10402	环柄刀	eq10402	铁制的单刃刀，厚脊薄刃、直脊直刃，柄首成环形。由于易于大量生产、劈砍力强，为前朝骑兵的主要佩刀。	104	800	400	TRUE	0	8	ac3a0025	19	45	45	(Blade,45)(TwoBlade,45)(BladeSword,45)	15		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -606,10 +806,14 @@
     text: "环柄刀"
     translated: "Loop-hilted sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "铁制的单刃刀，厚脊薄刃、直脊直刃，柄首成环形。由于易于大量生产、劈砍力强，为前朝骑兵的主要佩刀。"
     translated: "A single-edged iron sword with a thick spine and thin blade, straight spine and straight blade, and handle head shaped like a loop. Due to its ease of mass production and strong chopping force, it was the main cavalry saber of the previous dynasty"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 51
   raw: "eq10403	朴刀	eq10403	常见的民间兵器，将长柄大刀的刀刃拆卸下来作为短兵器使用，又名著裤刀，由于简单耐用，老百姓几乎人人都会带上一把防身。	104	600	300	TRUE	0	6	ac3a0026	15	43	43	(Blade,35)(TwoBlade,35)(BladeSword,35)	15		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -618,10 +822,14 @@
     text: "朴刀"
     translated: "Plain Blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "常见的民间兵器，将长柄大刀的刀刃拆卸下来作为短兵器使用，又名著裤刀，由于简单耐用，老百姓几乎人人都会带上一把防身。"
     translated: "Common civilian weapons often involved disassembling the blade of a long-handled great sword to use as a short weapon, also known as a pants sheath knife. Due to its simplicity and durability, almost everyone among the common people would carry one for self-defense"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 52
   raw: "eq10404	戒刀	eq10404	僧人所携带的佩刀，按戒律仅能用于裁衣剃发，不得杀生。	104	100	50	TRUE	0	50		4	100	100	(Blade,20)	10		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -630,10 +838,14 @@
     text: "戒刀"
     translated: "Forbidden Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "僧人所携带的佩刀，按戒律仅能用于裁衣剃发，不得杀生。"
     translated: "The monk's carried sword, according to the precepts, may only be used for cutting clothes and shaving hair; it must not take life"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 53
   raw: "eq10405	开山刀	eq10405	进入丛林时必备的长刀，做工大多不甚精致，但坚韧耐用，能披荆斩棘，开山辟路。	104	2000	1000	TRUE	1	20	ac3a0037	15	65	65	(Blade,65)(TwoBlade,65)(BladeSword,65)	10		0	(it70102,2)"
   translated: ""
@@ -642,10 +854,14 @@
     text: "开山刀"
     translated: "Kaishan Dao"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "进入丛林时必备的长刀，做工大多不甚精致，但坚韧耐用，能披荆斩棘，开山辟路。"
     translated: "Enter the jungle with a long sword, usually not very ornate in craftsmanship but durable and sturdy, capable of cutting through thorns and clearing paths"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 54
   raw: "eq10406	柳叶刀	eq10406	刀形似柳叶，故得名柳叶刀，刃薄而轻盈。	104	500	250	TRUE	0	5	ac3a0027	9	39	39	(Blade,29)(TwoBlade,29)(BladeSword,29)	15		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -654,10 +870,14 @@
     text: "柳叶刀"
     translated: "Willow Leaf Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "刀形似柳叶，故得名柳叶刀，刃薄而轻盈。"
     translated: "The sword is shaped like a willow leaf, hence it is called the willow leaf blade, with its thin and light edge"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 55
   raw: "eq10407	雁翎刀	temp	因形似雁翎而得名，轻薄柔韧。	104	100	50	TRUE	1	50		4	100	100	(Blade,20)	8		0	(it70102,2)"
   translated: ""
@@ -666,10 +886,14 @@
     text: "雁翎刀"
     translated: "Swan Feather Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "因形似雁翎而得名，轻薄柔韧。"
     translated: "Named for its resemblance to a swan's feather, it is lightweight and supple"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 56
   raw: "eq10408	九环刀	eq10408	精钢所铸的沉重大刀，非力大者无法使动。刀背上每隔三寸五分便穿一铁环，挥动之时，九环不仅可使大刀重心集中，强化挥砍时的力道，环环相击锒铛大作，亦可使对手闻声丧胆。	104	3500	1750	TRUE	1	30	ac3a0062	20	80	80	(Blade,87)(TwoBlade,87)(BladeSword,87)	10		0	(it70102,2)"
   translated: ""
@@ -678,10 +902,14 @@
     text: "九环刀"
     translated: "Jiu Huan Dao"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "精钢所铸的沉重大刀，非力大者无法使动。刀背上每隔三寸五分便穿一铁环，挥动之时，九环不仅可使大刀重心集中，强化挥砍时的力道，环环相击锒铛大作，亦可使对手闻声丧胆。"
     translated: "The heavy great sword forged from refined steel could not be wielded by anyone lacking immense strength. A series of iron rings were embedded along the blade's spine, spaced three and a half inches apart. When swung, these nine rings would concentrate the weapon’s center of gravity and enhance its force during strikes. Additionally, the clashing sound of the interlocking rings was so terrifying that it could unnerve opponents just by the noise"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 57
   raw: "eq10409	百炼钢刀	eq10409	由百炼钢所铸成的单刀，质量极为优良。	104	5300	2650	TRUE	2	50	ac3a0083	32	90	90	(Blade,130)(TwoBlade,130)(BladeSword,130)	5		0	(it70111,1)"
   translated: ""
@@ -690,10 +918,14 @@
     text: "百炼钢刀"
     translated: "Precious steel sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "由百炼钢所铸成的单刀，质量极为优良。"
     translated: "The single sword, forged from steel refined a hundred times, is of excellent quality"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 58
   raw: "eq10411	紫金八卦刀	eq10411	紫光闪闪，冷气森森，厚背薄刃，端的是稀世宝刀。	104	6500	3250	TRUE	2	70	ac3a0066	38	90	90	(Blade,161)(TwoBlade,161)(BladeSword,161)	5		0	(it70112,1)(it70104,1)"
   translated: ""
@@ -702,10 +934,14 @@
     text: "紫金八卦刀"
     translated: "Zijin Bagua Dao"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "紫光闪闪，冷气森森，厚背薄刃，端的是稀世宝刀。"
     translated: "Emits purple light, exudes cold mist; thick back and thin blade, truly a rare precious sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 59
   raw: "eq10412	狴犴啸天	eq10412	淘石帮主陶大石的成名兵器，由前代帮主留下，刀身乃精钢所铸，重达七七四十九斤，威猛异常。	104	8000	4000	TRUE	3	80	ac3a0003	50	95	95	(Blade,195)(TwoBlade,195)(BladeSword,195)	3		0	(it70111,2)(it70104,1)(it70102,1)"
   translated: ""
@@ -714,10 +950,14 @@
     text: "狴犴啸天"
     translated: "Prison Howls to the Heavens"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "淘石帮主陶大石的成名兵器，由前代帮主留下，刀身乃精钢所铸，重达七七四十九斤，威猛异常。"
     translated: "Deep Rock Guildmaster Tao Dashi's legendary weapon, bequeathed by a previous guildmaster, is forged from high-quality steel and weighs seventy-nine jin. Its power is extraordinarily fierce"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 60
   raw: "eq10413	鲨齿鬼头刀	temp	原迷魂凼水寨统领－－江白波的爱刀，江白波死后，被新一任的水贼首脑霸占。顾名思义，刀刃呈不规则锯齿状，所造成创口极难愈合。	104	100	50	TRUE	2	50		9	100	100	(Blade,20)	5		0	"
   translated: ""
@@ -726,10 +966,14 @@
     text: "鲨齿鬼头刀"
     translated: "Shark-Tooth Ghost Head Blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "原迷魂凼水寨统领－－江白波的爱刀，江白波死后，被新一任的水贼首脑霸占。顾名思义，刀刃呈不规则锯齿状，所造成创口极难愈合。"
     translated: "The former leader of the Enchanted Spirit Water Fortress, Jiang Baimo, had a beloved blade that was taken over by the new pirate chief after his death. As its name suggests, the blade's edge is irregularly serrated, making wounds caused by it extremely difficult to heal"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 61
   raw: "eq10414	雪花镔铁刀	eq10414	传说为行者武松所持的戒刀，由西域出产的镔铁打造，锋锐无匹。	104	5800	2900	TRUE	2	60	ac3a0081	41	100	100	(Blade,150)(TwoBlade,150)(BladeSword,150)	5		0	(it70111,2)"
   translated: ""
@@ -738,10 +982,14 @@
     text: "雪花镔铁刀"
     translated: "Snowflake Forged Iron Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传说为行者武松所持的戒刀，由西域出产的镔铁打造，锋锐无匹。"
     translated: "The legendary war fan carried by Monk Xuanzang's disciple Wu Song was forged from steel produced in the Western Regions and is unmatched in sharpness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 62
   raw: "eq10415	新亭侯	temp	传说中的宝刀。据古籍记载，三国时期张飞初拜新亭侯，命著名铁匠炼赤朱山铁为一刀，铭曰「新亭侯」。而后张飞遭刺，此刀从此下落不明。	104	100	50	TRUE	3	50		7	100	100	(Blade,20)	3		0	"
   translated: ""
@@ -750,10 +998,14 @@
     text: "新亭侯"
     translated: "Lord New Pavilion"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传说中的宝刀。据古籍记载，三国时期张飞初拜新亭侯，命著名铁匠炼赤朱山铁为一刀，铭曰「新亭侯」。而后张飞遭刺，此刀从此下落不明。"
     translated: "The legendary sword. According to ancient texts, during the Three Kingdoms period, Zhang Fei was made the Marquis of Xinting, and he commissioned a famous blacksmith to forge a sword from the red iron ore of Red Cliff Mountain, inscribed with Marquis of Xinting. Afterward, Zhang Fei was assassinated, and this sword disappeared without a trace"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 63
   raw: "eq10416	黑风刀	eq10416	专为攻人要害所特制的杀手佩刀，只一轻削，随即开肉剔骨，锋利异常。	104	2000	1000	TRUE	1	20	ac3a0082	10	50	50	(Blade,60)(TwoBlade,60)(BladeSword,60)	10		0	(it70101,2)(it70102,1)"
   translated: ""
@@ -762,10 +1014,14 @@
     text: "黑风刀"
     translated: "Dark Wind Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "专为攻人要害所特制的杀手佩刀，只一轻削，随即开肉剔骨，锋利异常。"
     translated: "Special assassin's dagger designed to target vital spots; with a light slash, it cuts through flesh and separates bones, exceptionally sharp"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 64
   raw: "eq10417	鸩翎	eq10418	何紫菀所配苗刀，尾端以银月、鸩羽为饰，深红细长的刀刃上喂有毒药，一旦被划伤，小小伤口也将流血不止，药石难愈，鲜血沾染到剑刃后更会与毒液作用结合，出血毒性将益发猛烈。	104	7000	3500	TRUE	5	70	ac3a0055	11	64	64	(Blade,69)(TwoBlade,69)(BladeSword,69)	5		poisoned02,wounded02	(it70112,1)(it70104,1)(it70311,1)"
   translated: ""
@@ -774,10 +1030,14 @@
     text: "鸩翎"
     translated: "Deadly Feather"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "何紫菀所配苗刀，尾端以银月、鸩羽为饰，深红细长的刀刃上喂有毒药，一旦被划伤，小小伤口也将流血不止，药石难愈，鲜血沾染到剑刃后更会与毒液作用结合，出血毒性将益发猛烈。"
     translated: "He Ziwang's sword, decorated with a silver crescent and hemlock feather at the tip, has a deep red, slender blade infused with poison. If someone is cut by it, even a small wound will bleed uncontrollably, difficult to heal by conventional means. The blood that stains the blade reacts with the venom, making the bleeding more toxic"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 65
   raw: "eq10418	凄花	eq10417	何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。	104	7000	3500	TRUE	5	70	ac3a0054	11	64	64	(Blade,69)(TwoBlade,69)(BladeSword,69)	5		poisoned04,wounded04	(it70112,1)(it70104,1)(it70312,1)"
   translated: ""
@@ -786,10 +1046,14 @@
     text: "凄花"
     translated: "Qi hua"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。"
     translated: "He Baishe's sword is a Miao dao that is extremely light and elegant. It has a copper flower guard, with a thin vine wrapped from the hilt to the blade itself, resembling a woman's tender emotions swirling endlessly. At first glance, it appears gentle and charming, yet it conceals deadly intent. The poison juice hidden within the copper flower guard drips along the blade intermittently. When wielded, it seems like dewdrops flying off flowers. If struck by this sword, the skin would melt away, and the victim's limbs would weaken"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 66
   raw: "eq10419	白驹	eq10419	李叹佩刀，为其师西门玉堂于李叹艺成之日赠予之稀世宝刀。刀刃利薄，刀背流畅，施展之时快、稳、灵、准犹如白驹飞奔，畅而无阻，因此得名。	104	7000	3500	TRUE	5	70	ac3a0044	15	76	76	(Blade,77)(TwoBlade,77)(BladeSword,77)	5		weapon0419	(it70110,1)(it70104,1)"
   translated: ""
@@ -798,10 +1062,14 @@
     text: "白驹"
     translated: "White Steed"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "李叹佩刀，为其师西门玉堂于李叹艺成之日赠予之稀世宝刀。刀刃利薄，刀背流畅，施展之时快、稳、灵、准犹如白驹飞奔，畅而无阻，因此得名。"
     translated: "Li Tan wore a sword, which was given to him by his master Ximen Yutang on the day of his success. This rare treasure sword had a sharp and thin blade with a smooth back. When used, it was fast, stable, agile, and accurate like a racing horse running freely without obstruction, hence its name"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 67
   raw: "eq10420	大刀	eq10420	宽刃厚背，刀体沉重，善于劈砍，多用于古时杀头处刑，亦是盗匪手中常见的兵器。	104	4500	2250	TRUE	1	50	ac3a0063	28	85	85	(Blade,90)(TwoBlade,90)(BladeSword,90)	10		0	(it70102,2)(it70101,1)"
   translated: ""
@@ -810,10 +1078,14 @@
     text: "大刀"
     translated: "Great Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "宽刃厚背，刀体沉重，善于劈砍，多用于古时杀头处刑，亦是盗匪手中常见的兵器。"
     translated: "Wide blade, thick back, heavy body, good for chopping and slashing. Often used in ancient times for execution by beheading; also a common weapon among bandits"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 68
   raw: "eq10421	弯刀	eq10421	刀身长而微弯，轻巧易使，多为骑兵冲杀时所使用之兵器。	104	2000	1000	TRUE	1	20	ac3a0067	15	41	41	(Blade,65)(TwoBlade,65)(BladeSword,65)	10		0	(it70101,1)(it70102,1)"
   translated: ""
@@ -822,10 +1094,14 @@
     text: "弯刀"
     translated: "Bent Blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "刀身长而微弯，轻巧易使，多为骑兵冲杀时所使用之兵器。"
     translated: "The blade is long and slightly curved, lightweight and easy to wield, often used by cavalry in charges"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 69
   raw: "eq10422	蛮刀	eq10422	多为狼蛮士兵所用之武器，宽刃厚背，极为沉重，一般人难以挥动，但破坏力惊人。	104	3000	1500	TRUE	1	30	ac3a0072	29	68	68	(Blade,89)(TwoBlade,89)(BladeSword,89)	10		0	(it70102,3)"
   translated: ""
@@ -834,10 +1110,14 @@
     text: "蛮刀"
     translated: "Barbarian Blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "多为狼蛮士兵所用之武器，宽刃厚背，极为沉重，一般人难以挥动，但破坏力惊人。"
     translated: "Mostly used by the wolfish and barbaric soldiers, these weapons have wide blades and thick backs, are extremely heavy, difficult for ordinary people to wield, but have tremendous destructive power"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 70
   raw: "eq10423	息壤刀	eq10423	古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。	104	15000	7500	TRUE	3	99	ac3a0038	54	100	100	(Blade,230)(TwoBlade,230)(BladeSword,230)	5		0	(it801122,1)(it70110,2)(it70104,1)"
   translated: ""
@@ -846,10 +1126,14 @@
     text: "息壤刀"
     translated: "Essence-Earth Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "古开明鳖灵帝传承之一，以精铁铸成的雌雄对刃，雄刀刀刃稍长，上铸「息壤」二字。"
     translated: "One of the legacies of Gu Kai Ming, the Lizard Spirit Emperor, is a pair of male and female blades forged from fine iron. The blade of the male sword is slightly longer, with Xirang engraved on it"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 71
   raw: "eq10424	金乌刀	eq10414	由乌金打造而成的宝刀，配合使用者的强大内力，所向披靡。	104	22000	11000	TRUE	5	99	ac3a0081	20	140	140	(Blade,267)(TwoBlade,267)(BladeSword,267)	3		0	(it70113,4)"
   translated: ""
@@ -858,10 +1142,14 @@
     text: "金乌刀"
     translated: "Golden Vulture Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "由乌金打造而成的宝刀，配合使用者的强大内力，所向披靡。"
     translated: "By crafting with black gold, this precious sword is unstoppable when combined with the wielder's strong inner force"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 72
   raw: "eq10425	血刀	eq10425	月光之下，刃锋呈暗红之色，血光隐隐，极是可怖。其锋利之处，不亚于世上任何神兵利器。	104	20000	10000	TRUE	3	99	ac3a0086	50	90	90	(Blade,245)(TwoBlade,245)(BladeSword,245)	3		0	(it70110,2)(it70113,1)"
   translated: ""
@@ -870,10 +1158,14 @@
     text: "血刀"
     translated: "Red Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "月光之下，刃锋呈暗红之色，血光隐隐，极是可怖。其锋利之处，不亚于世上任何神兵利器。"
     translated: "Under the moonlight, the blade's edge glowed a dark red, with an eerie blood-red glow that was terrifying. Its sharpness was not inferior to any divine weapon in the world"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 73
   raw: "eq10426	冷月宝刀	eq10425	胡飞雪祖传宝刀，威力天下无双。	104	7000	3500	TRUE	5	70	ac3a0086	20	100	100	(Blade,87)(TwoBlade,87)(BladeSword,87)	5		wounded12	(it70110,4)"
   translated: ""
@@ -882,10 +1174,14 @@
     text: "冷月宝刀"
     translated: "Chill Moon Treasure Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "胡飞雪祖传宝刀，威力天下无双。"
     translated: "Hu Feixue's ancestral treasure sword has unmatched power throughout the world"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 74
   raw: "eq10501	长棍	eq10501	随处可见的棍棒，材质可能是木头或金属。	106	600	300	TRUE	0	6	ac3c0030	17	45	45	(Spear,35)	15		0	(it70201,2)"
   translated: ""
@@ -894,10 +1190,14 @@
     text: "长棍"
     translated: "Long Pole"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "随处可见的棍棒，材质可能是木头或金属。"
     translated: "Sticks and clubs were ubiquitous, possibly made of wood or metal"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 75
   raw: "eq10502	长枪	eq10502	以稠木为枪身，前端接上铁尖头制成的长枪，由于简单易造，所需训练周期短，被广泛配发给朝廷兵士使用。	105	1000	500	TRUE	0	10	ac3c0028	22	50	50	(Spear,45)	15		0	(it70102,2)(it70101,1)"
   translated: ""
@@ -906,10 +1206,14 @@
     text: "长枪"
     translated: "Long Spear"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以稠木为枪身，前端接上铁尖头制成的长枪，由于简单易造，所需训练周期短，被广泛配发给朝廷兵士使用。"
     translated: "This spear, with a shaft made of dense wood and an iron tip at the front end, is simple to manufacture. Due to its ease of production and short training period required, it was widely issued to imperial soldiers"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 76
   raw: "eq10503	红缨枪	eq10503	枪身和枪尖全由纯铁所打造的铁枪，重三十余斤，穿透力惊人，非臂力强健者无法使动；枪头缀有红缨，避免鲜血喷溅至使枪者面部。	105	3000	1500	TRUE	1	30	ac3c0039	26	90	90	(Spear,75)	10		0	(it70102,2)(it70104,1)"
   translated: ""
@@ -918,10 +1222,14 @@
     text: "红缨枪"
     translated: "Red Plume Spear"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "枪身和枪尖全由纯铁所打造的铁枪，重三十余斤，穿透力惊人，非臂力强健者无法使动；枪头缀有红缨，避免鲜血喷溅至使枪者面部。"
     translated: "The iron spear, forged entirely from pure iron for both the shaft and tip, weighs over thirty jin. It has remarkable penetration power and cannot be wielded by those lacking strong arm strength; a red tassel adorns the spearhead to prevent blood splatter onto the user's face"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 77
   raw: "eq10504	太宁笔枪	eq10504	枪头下方缀有枪萼，边缘锐利，因形状如笔，固得此名。	105	8000	4000	TRUE	3	80	ac3c0076	50	100	100	(Spear,190)	3		0	(it70110,1)(it70104,1)"
   translated: ""
@@ -930,10 +1238,14 @@
     text: "太宁笔枪"
     translated: "Da Ning's Pen Lance"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "枪头下方缀有枪萼，边缘锐利，因形状如笔，固得此名。"
     translated: "Below the spearhead, there is a spear guard that is sharp along its edges; due to its shape resembling a brush, it has earned this name"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 78
   raw: "eq10505	浑铁点钢枪	eq10505	由镔铁混和乌钢打就，浑身漆黑。枪名点钢，意即百炼钢也能一点即透。	105	5000	2500	TRUE	2	50	ac3c0069	29	61	61	(Spear,110)	5		0	(it70111,1)(it70103,1)(it70102,1)"
   translated: ""
@@ -942,10 +1254,14 @@
     text: "浑铁点钢枪"
     translated: "Dark Steel Pointed Steel Spear"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "由镔铁混和乌钢打就，浑身漆黑。枪名点钢，意即百炼钢也能一点即透。"
     translated: "Forged from a mixture of spiegeleisen and black steel, the entire body is coated in black. The spear is named Dinggang Spear, meaning that even the toughest steel could be pierced by just one point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 79
   raw: "eq10506	涯角枪	eq10506	枪身上以汉隶刻就海角天涯无对六字，相传赵云手持此枪于长坂坡中七进七出，一骑当千。	105	20000	10000	TRUE	3	99	ac3c0080	57	110	110	(Spear,255)	3		0	(it70201,2)(it70111,1)(it70103,1)"
   translated: ""
@@ -954,10 +1270,14 @@
     text: "涯角枪"
     translated: "Pointed tip spear"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "枪身上以汉隶刻就海角天涯无对六字，相传赵云手持此枪于长坂坡中七进七出，一骑当千。"
     translated: "The shaft of the spear was engraved with six characters in Han clerical script: Sea's Edge, Sky's End, No Match. Legend has it that Zhao Yun wielded this spear at Changban Slope, charging forward and retreating seven times, single-handedly matching a thousand cavalry"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 80
   raw: "eq10507	齐眉棍	eq10507	多以白蜡杆制成，棍立于地，与眉齐平，固得此名。	106	1800	900	TRUE	1	18	ac3c0030	20	60	60	(Spear,65)	10		0	(it70201,2)"
   translated: ""
@@ -966,10 +1286,14 @@
     text: "齐眉棍"
     translated: "Zhimei gun"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "多以白蜡杆制成，棍立于地，与眉齐平，固得此名。"
     translated: "It is primarily made from white wax canes. The staff stands upright on the ground, reaching eye level, thus earning this name"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 81
   raw: "eq10508	烧火棍	temp	农村常见，用来向灶坑里添柴火的工具。	106	100	50	TRUE	0	50		6	100	100	(Spear,20)	10		0	"
   translated: ""
@@ -978,10 +1302,14 @@
     text: "烧火棍"
     translated: "Spear"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "农村常见，用来向灶坑里添柴火的工具。"
     translated: "A common rural tool used to add firewood into the stove"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 82
   raw: "eq10509	铁棍	temp	铁打造的长棍，虽然坚固，但也相当沉重，需要有相当臂力才能够灵活使用。	106	100	50	TRUE	0	50		9	100	100	(Spear,20)	10		0	"
   translated: ""
@@ -990,10 +1318,14 @@
     text: "铁棍"
     translated: "Iron Rod"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "铁打造的长棍，虽然坚固，但也相当沉重，需要有相当臂力才能够灵活使用。"
     translated: "A long pole made of iron, though sturdy, is also quite heavy and requires considerable arm strength to use effectively"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 83
   raw: "eq10510	龙头拐杖	eq10510	此杖顶端呈龙头形，使用起来有如真龙护体，威风凛凛。	106	5200	2600	TRUE	2	50	ac3c0078	35	80	80	(Spear,135)	5		0	(it70110,1)(it70104,1)"
   translated: ""
@@ -1002,10 +1334,14 @@
     text: "龙头拐杖"
     translated: "Dragon-headed Cane"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "此杖顶端呈龙头形，使用起来有如真龙护体，威风凛凛。"
     translated: "This spearhead is shaped like a dragon's head, and when used, it feels as if the real dragon guards you, awe-inspiring and majestic"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 84
   raw: "eq10511	铁刀木棍	temp	以铁刀木制成的棍棒，坚硬逾铁。	106	100	50	TRUE	1	50	ac3c0036	8	100	100	(Spear,20)	8		0	"
   translated: ""
@@ -1014,10 +1350,14 @@
     text: "铁刀木棍"
     translated: "Iron Sword Wood Stick"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以铁刀木制成的棍棒，坚硬逾铁。"
     translated: "A wooden staff made with an iron blade, harder than iron"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 85
   raw: "eq10512	花梨木棍	temp	以花梨木制成的木棍，极为坚韧。	106	100	50	TRUE	1	50	ac3c0036	6	100	100	(Spear,20)	8		0	"
   translated: ""
@@ -1026,10 +1366,14 @@
     text: "花梨木棍"
     translated: "Flame Rosewood Club"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以花梨木制成的木棍，极为坚韧。"
     translated: "The wooden stick made of rosewood is extremely durable"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 86
   raw: "eq10513	水磨禅杖	temp	以浑铁水磨打造而成的禅杖，重六十二斤。传闻中花和尚鲁智深便是以这柄禅杖纵横天下。	106	100	50	TRUE	2	50		15	100	100	(Spear,20)	5		0	"
   translated: ""
@@ -1038,10 +1382,14 @@
     text: "水磨禅杖"
     translated: "Water-Mill Zen Staff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以浑铁水磨打造而成的禅杖，重六十二斤。传闻中花和尚鲁智深便是以这柄禅杖纵横天下。"
     translated: "Chanting staff forged from cast iron and water-polished, weighing sixty-two catties. It is rumored that the monk Huaheshang Lu Zhishen roamed the world with this chanting staff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 87
   raw: "eq10514	百炼孤金沉杖	eq10514	鄂斯伯的成名兵器，由海外珊瑚金冶炼而成，外表毫不起眼，却是砸铁如泥的兵中至宝。	106	11000	5500	TRUE	3	80	ac3c0060	49	100	100	(Spear,210)	3		0	(it70107,2)"
   translated: ""
@@ -1050,10 +1398,14 @@
     text: "百炼孤金沉杖"
     translated: "Thousand-forged lonely gold sinking staff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "鄂斯伯的成名兵器，由海外珊瑚金冶炼而成，外表毫不起眼，却是砸铁如泥的兵中至宝。"
     translated: "Esibao's renowned weapon, forged from coral gold from overseas, appears unremarkable on the outside but is a treasure in battle that can smash iron like clay"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 88
   raw: "eq10515	狼牙棒	eq10515	以坚木为棒身，锤头植钉如狼牙，劈砸挑抡，穿甲坏创。	106	3000	1500	TRUE	1	30	ac3c0079	25	65	65	(Spear,91)	10		0	(it70102,2)(it70101,1)"
   translated: ""
@@ -1062,10 +1414,14 @@
     text: "狼牙棒"
     translated: "Wolf's Fang Club"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以坚木为棒身，锤头植钉如狼牙，劈砸挑抡，穿甲坏创。"
     translated: "Using a solid wood shaft as the body, with a hammerhead studded with spikes like wolf's teeth; it can chop, smash, pierce armor, and inflict severe injuries"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 89
   raw: "eq10516	月牙铲	temp	又称方便铲，原本并非兵器，而是佛门苦行僧、头陀修行必备的工具。	106	100	50	TRUE	0	50		7	100	100	(Spear,20)	10		0	"
   translated: ""
@@ -1074,10 +1430,14 @@
     text: "月牙铲"
     translated: "Crescent Moon Spade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "又称方便铲，原本并非兵器，而是佛门苦行僧、头陀修行必备的工具。"
     translated: "Also known as the convenience shovel, it was not originally a weapon but an essential tool for Buddhist ascetic monks and practitioners of Tathagata discipline"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 90
   raw: "eq10518	锄头	eq10518	常见于乡间农家，由一根木制长柄及一块金属组成。	106	100	50	TRUE	0	1	ac3c0073	11	20	20	(Spear,9)	15		0	(it70102,1)(it70201,1)"
   translated: ""
@@ -1086,10 +1446,14 @@
     text: "锄头"
     translated: "Shovel"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "常见于乡间农家，由一根木制长柄及一块金属组成。"
     translated: "Common in rural farmhouses, consisting of a wooden handle and a metal blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 91
   raw: "eq10519	竹扫把	eq10519	随处可见的家庭用具，偶尔拿来打架也无不可。	106	100	50	TRUE	0	1	wpt10015	3	20	20	(Spear,5)	15		0	"
   translated: ""
@@ -1098,10 +1462,14 @@
     text: "竹扫把"
     translated: "Bamboo Broom"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "随处可见的家庭用具，偶尔拿来打架也无不可。"
     translated: "Common household items are frequently seen, and occasionally used for fighting without any issue"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 92
   raw: "eq10520	关刀	eq10520	长柄刀一种，因其重量较重，所以斩、劈的威力非同小可，但也因此不适用于战场杀敌。	106	4500	2250	TRUE	1	50	ac3c0029	45	101	101	(Blade,100)(Spear,100)	10		0	(it70102,2)(it70101,1)"
   translated: ""
@@ -1110,10 +1478,14 @@
     text: "关刀"
     translated: "Blade Techniques"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "长柄刀一种，因其重量较重，所以斩、劈的威力非同小可，但也因此不适用于战场杀敌。"
     translated: "A type of long-handle sword, due to its heavy weight, has a cutting and chopping force that is formidable. However, this also makes it unsuitable for battlefield combat"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 93
   raw: "eq10521	钓竿	eq10521	钓鱼用的器具，重量轻，质料坚韧。	106	200	100	TRUE	0	2	ac3c0019	6	36	36	(Spear,5)	15		0	(it70201,1)"
   translated: ""
@@ -1122,10 +1494,14 @@
     text: "钓竿"
     translated: "Reel"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "钓鱼用的器具，重量轻，质料坚韧。"
     translated: "Fishing gear, lightweight and durable in material"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 94
   raw: "eq10522	三朵神枪	eq10522	木府第一高手图勒的配枪，以三朵神为名，象征其守护木府的决心。	106	19000	9500	TRUE	3	99	ac3c0035	57	95	95	(Spear,245)	3		wounded08,weapon0522	(it70110,1)(it70104,1)(it70102,2)"
   translated: ""
@@ -1134,10 +1510,14 @@
     text: "三朵神枪"
     translated: "Three Divine Cannonballs"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "木府第一高手图勒的配枪，以三朵神为名，象征其守护木府的决心。"
     translated: "Tugule's spear, called the Three Divine Flowers, symbolizes his commitment to protecting Mu Mansion as its top martial artist"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 95
   raw: "eq10523	斑驳木棍	eq10523	被弃置不用的木棍，本身也非良材，已经斑驳腐蚀，感觉似乎很容易便会折断。	106	200	100	TRUE	0	2	ac3c0030	15	30	30	(Spear,15)	15		0	(it70201,1)"
   translated: ""
@@ -1146,10 +1526,14 @@
     text: "斑驳木棍"
     translated: "Scarred Wooden Staff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "被弃置不用的木棍，本身也非良材，已经斑驳腐蚀，感觉似乎很容易便会折断。"
     translated: "The discarded wooden stick was of poor quality itself, already showing signs of wear and decay, feeling as though it might easily break"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 96
   raw: "eq10524	玉龙神枪	eq10524	原为木府高手金昆的配枪，后传给木奎使用。其以雪山玉龙为名，象征其守护纳西族人的决心。	106	19000	9500	TRUE	3	99	ac3c0068	52	95	95	(Spear,240)	3		wounded08,weapon0524	(it70110,1)(it70104,1)(it70102,2)"
   translated: ""
@@ -1158,10 +1542,14 @@
     text: "玉龙神枪"
     translated: "Jade Dragon Divine Gun"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "原为木府高手金昆的配枪，后传给木奎使用。其以雪山玉龙为名，象征其守护纳西族人的决心。"
     translated: "The originally a high-ranking weapon master of the Mu family, Jun Kun's paired spear, later passed on to Mu Kui for use. Named after the Snowy Mountain Jade Dragon, it symbolizes its resolve in protecting the Naxi people"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 97
   raw: "eq10525	丈八槊	eq10525	丈八长的槊，沉重无比，力大者方能刺收自如。	106	17000	8500	TRUE	3	99	ac3c0071	45	95	95	(Spear,235)	5		0	(it70113,1)(it70103,1)(it70101,1)"
   translated: ""
@@ -1170,10 +1558,14 @@
     text: "丈八槊"
     translated: "Eight-foot Spear"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "丈八长的槊，沉重无比，力大者方能刺收自如。"
     translated: "A spear eight chi long, extremely heavy; only the strong can wield it effortlessly"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 98
   raw: "eq10526	如意金箍棒	eq10526	传说中齐天大圣孙悟空的神兵，原为东海的定海神针，重达一万三千五百斤，可随心变幻大小.....才怪，这根不明铁棒是北丑不知哪里弄来的道具，但重量颇沉、操作不易，若是真被打到也是会很痛的。	106	10000	5000	TRUE	3	70	ac3c0077	40	99	99	(Spear,260)	60		0	(it70107,1)(it70103,2)"
   translated: ""
@@ -1182,10 +1574,14 @@
     text: "如意金箍棒"
     translated: "Ruyi Jingu Bang"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传说中齐天大圣孙悟空的神兵，原为东海的定海神针，重达一万三千五百斤，可随心变幻大小.....才怪，这根不明铁棒是北丑不知哪里弄来的道具，但重量颇沉、操作不易，若是真被打到也是会很痛的。"
     translated: "The legendary weapon of the Great Sage Equal to Heaven, Sun Wukong, was originally the Celestial Iron Bar from the Eastern Sea, weighing 13,500 jin and could change size at will. It's strange that this unidentified iron pole is a prop from Northern Ugly, whose source is unknown. However, it is quite heavy, difficult to handle, and if struck by it, would be very painful"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 99
   raw: "eq10527	冷艳锯	eq10520	三国时代武圣关羽所使用的配刀，伴他一生斩敌无数。	106	24000	12000	TRUE	5	99	ac3c0029	82	150	150	(Blade,335)(Spear,335)	3		0	(it70111,4)"
   translated: ""
@@ -1194,10 +1590,14 @@
     text: "冷艳锯"
     translated: "Chill Sharp Saw"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "三国时代武圣关羽所使用的配刀，伴他一生斩敌无数。"
     translated: "During the Three Kingdoms era, the martial hero Guan Yu used his paired swords throughout his life to slay countless enemies"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 100
   raw: "eq10528	子午竿	eq10521	神秘的钓竿，配合枪棍高手使用威力惊人。	106	21000	10500	TRUE	5	99	ac3c0019	9	100	100	(Spear,270)	3		PointAddCombo_1	(it70208,3)(it70209,1)"
   translated: ""
@@ -1206,10 +1606,14 @@
     text: "子午竿"
     translated: "North-South Pole"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "神秘的钓竿，配合枪棍高手使用威力惊人。"
     translated: "The mysterious fishing rod, when used in combination with a spear and staff expert, has tremendous power"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 101
   raw: "eq10529	关刀王	eq10520	为了模仿偶像，某位仁兄不惜巨资打造出这把武器。可惜过于沉重，最后仅沦为观赏用的艺品。	106	15000	7500	TRUE	2	50	ac3c0029	69	90	90	(Blade,210)(Spear,210)	5		0	(it70103,4)(it70104,1)"
   translated: ""
@@ -1218,10 +1622,14 @@
     text: "关刀王"
     translated: "King of the Blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "为了模仿偶像，某位仁兄不惜巨资打造出这把武器。可惜过于沉重，最后仅沦为观赏用的艺品。"
     translated: "For the sake of imitating his idol, a certain gentleman spent a fortune crafting this weapon. Unfortunately, it was too heavy and ultimately became an art piece for display only"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 102
   raw: "eq10530	竹扫把	eq10519	随处可见的家庭用具，偶尔拿来打架也无不可。	106	100	50	TRUE	0	1	ac3c0087	3	20	20	(Spear,5)	15		0	"
   translated: ""
@@ -1230,10 +1638,14 @@
     text: "竹扫把"
     translated: "Bamboo Broom"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "随处可见的家庭用具，偶尔拿来打架也无不可。"
     translated: "Common household utensils, occasionally used in a fight without any issue"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 103
   raw: "eq10530b	竹扫把	eq10519	随处可见的家庭用具，偶尔拿来打架也无不可。	106	100	50	TRUE	0	1	wpt10112	3	20	20	(Spear,5)	15		0	"
   translated: ""
@@ -1242,10 +1654,14 @@
     text: "竹扫把"
     translated: "Bamboo Broom"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "随处可见的家庭用具，偶尔拿来打架也无不可。"
     translated: "Everyday household items are commonly seen and can occasionally be used for fighting without a problem"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 104
   raw: "eq10531	形意无极	eq10531	骆元玉不知从哪儿得到的奇棍，棍身以致密坚实的紫檀及铁刀木制成，挥舞起来威力惊人。	106	7000	3500	TRUE	5	70	ac3c0030	15	65	65	(Spear,55)	5		injured06	(it70208,1)(it70209,1)"
   translated: ""
@@ -1254,10 +1670,14 @@
     text: "形意无极"
     translated: "Xiangyi Wuji"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "骆元玉不知从哪儿得到的奇棍，棍身以致密坚实的紫檀及铁刀木制成，挥舞起来威力惊人。"
     translated: "Luo Yuanyu obtained a peculiar staff from an unknown source. The staff's shaft was made of dense and solid purple sandalwood combined with iron blade wood, and when wielded, it possessed tremendous power"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 105
   raw: "eq10701	飞蝗石	eq10701	武林中人常用的暗器，取材随处可见的卵石。虽然并不锐利，但质地坚硬，赋予内劲后也能成为杀伤力强大的暗器。	107	200	100	TRUE	0	2	eq10701	2	20	20	(Arrow,15)	15		0	(it70102,1)"
   translated: ""
@@ -1266,10 +1686,14 @@
     text: "飞蝗石"
     translated: "Locust Stone"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "武林中人常用的暗器，取材随处可见的卵石。虽然并不锐利，但质地坚硬，赋予内劲后也能成为杀伤力强大的暗器。"
     translated: "In the wulin, hidden weapons commonly made from pebbles are used. Although not sharp, their hard texture allows them to become potent weapons when infused with internal strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 106
   raw: "eq10702	飞镖	eq10702	又名脱手镖，前端锋利。	107	600	300	TRUE	0	6		2	29	29	(Arrow,30)	15		0	(it70102,1)"
   translated: ""
@@ -1278,10 +1702,14 @@
     text: "飞镖"
     translated: "Dart"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "又名脱手镖，前端锋利。"
     translated: "Also known as thrown dart, with a sharp tip at the front"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 107
   raw: "eq10703	甩手箭	eq10703	由细竹制成，箭杆浑圆，前端削尖，后不加羽，犹如一根削尖的竹筷。	107	600	300	TRUE	0	6		2	24	24	(Arrow,35)	15		0	(it70101,1)"
   translated: ""
@@ -1290,10 +1718,14 @@
     text: "甩手箭"
     translated: "Slingshot arrow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "由细竹制成，箭杆浑圆，前端削尖，后不加羽，犹如一根削尖的竹筷。"
     translated: "Composed of fine bamboo, the shaft is perfectly round. The front end is sharpened, and no feathers are added to the back, resembling a tapered bamboo chopstick"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 108
   raw: "eq10704	铁莲子	eq10704	铁制暗器，因形如莲子而得名。	107	100	50	TRUE	2	50		3	40	40	(Arrow,50)	5		0	(it70102,1)"
   translated: ""
@@ -1302,10 +1734,14 @@
     text: "铁莲子"
     translated: "Iron Chrysanthemum"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "铁制暗器，因形如莲子而得名。"
     translated: "Iron secret weapon, named after its shape resembling a lotus seed"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 109
   raw: "eq10705	飞针	eq10705	民家常见的绣花银针，轻巧且难以察觉，锐利细小的针尖适合用以射击人体特定穴道。	107	600	300	TRUE	0	6		1	23	23	(Arrow,27)	15		0	(it70101,1)"
   translated: ""
@@ -1314,10 +1750,14 @@
     text: "飞针"
     translated: "Needle Strike"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "民家常见的绣花银针，轻巧且难以察觉，锐利细小的针尖适合用以射击人体特定穴道。"
     translated: "Household embroidery silver needles are light and hard to detect, with sharp, tiny tips suitable for shooting at specific acupuncture points on the body"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 110
   raw: "eq10706	飞刀	eq10706	刀身锋锐，轻薄如纸，用于投掷伤人。	107	600	300	TRUE	0	6		2	31	31	(Arrow,32)	15		0	(it70102,1)"
   translated: ""
@@ -1326,10 +1766,14 @@
     text: "飞刀"
     translated: "Throwing Dagger"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "刀身锋锐，轻薄如纸，用于投掷伤人。"
     translated: "The blade is sharp and lightweight, like paper, used for throwing to injure people"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 111
   raw: "eq10707	如意珠	eq10707	以指拨弄，虽名为珠，实为微小铁丸，每珠重三四分，发射时近乎无声，速度极快。	107	2000	1000	TRUE	1	20		2	45	45	(Arrow,70)	10		0	(it70104,1)"
   translated: ""
@@ -1338,10 +1782,14 @@
     text: "如意珠"
     translated: "Wish-fulfilling Jewel"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以指拨弄，虽名为珠，实为微小铁丸，每珠重三四分，发射时近乎无声，速度极快。"
     translated: "Using a finger to flick, although named as beads, these are actually tiny iron pellets, each weighing three or four fen. When fired, they are almost silent and extremely fast"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 112
   raw: "eq10708	子母追魂钉	eq10708	能工巧匠打造的特殊暗器。乍看与寻常透骨钉无异，却能在途中飞散四射，出奇制胜。	107	2500	1250	TRUE	1	20		3	40	40	(Arrow,90)	10		0	(it70103,1)"
   translated: ""
@@ -1350,10 +1798,14 @@
     text: "子母追魂钉"
     translated: "Daughter-and-Mother Pursue-ghost Nail"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "能工巧匠打造的特殊暗器。乍看与寻常透骨钉无异，却能在途中飞散四射，出奇制胜。"
     translated: "Exquisitely crafted by skilled artisans, this special shuriken appears at first glance to be an ordinary bone-piercing spike. However, it has the ability to scatter in all directions while in flight, enabling unexpected victories"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 113
   raw: "eq10709	乾坤圈	temp	乾坤圈是铁制圆圈，内外沿全部开刃，抛出后以旋飞击敌。艺精者可一手抛出两圈，但练成不易。	107	100	50	TRUE	1	50		3	20	20	(Arrow,20)	8		0	"
   translated: ""
@@ -1362,10 +1814,14 @@
     text: "乾坤圈"
     translated: "Heaven and Earth Ring"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "乾坤圈是铁制圆圈，内外沿全部开刃，抛出后以旋飞击敌。艺精者可一手抛出两圈，但练成不易。"
     translated: "Qiankunquan is an iron circular weapon with blades along the entire inner and outer edges. When thrown, it spins to strike enemies. A skilled practitioner can throw two at once with one hand, but mastering this technique is difficult"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 114
   raw: "eq10710	梅花袖箭	eq10710	暗藏于衣袖之中的机关暗器，以铜铁制成圆筒，内装机括弹簧，能连发六箭伤人。	107	100	50	TRUE	1	50		4	20	20	(Arrow,25)	8		0	"
   translated: ""
@@ -1374,10 +1830,14 @@
     text: "梅花袖箭"
     translated: "Plum Blossom Sleeve Arrow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "暗藏于衣袖之中的机关暗器，以铜铁制成圆筒，内装机括弹簧，能连发六箭伤人。"
     translated: "Hidden within the sleeve is a concealed weapon: a cylindrical device made of copper and iron, with internal mechanisms and springs, capable of firing six arrows in succession to injure someone"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 115
   raw: "eq10711	铁蒺藜	temp	以尖锐的三角形铁片联缀成串，形若草本植物蒺藜，刺上有细小倒钩，创口难愈。	107	100	50	TRUE	1	50		3	20	20	(Arrow,25)	8		0	"
   translated: ""
@@ -1386,10 +1846,14 @@
     text: "铁蒺藜"
     translated: "Thistle"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以尖锐的三角形铁片联缀成串，形若草本植物蒺藜，刺上有细小倒钩，创口难愈。"
     translated: "Using sharp triangular iron pieces linked together to form a shape like the thorny plant gorse, with small barbs on the spikes that make wounds difficult to heal"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 116
   raw: "eq10712	繁星怒放	eq10712	一枚银色的机括匣子，一经拨动，会瞬间疾射出无数银针。号称出必见血、防不胜防。	107	13000	6500	TRUE	3	70		18	60	60	(Arrow,160)	3		0	(it70106,1)"
   translated: ""
@@ -1398,10 +1862,14 @@
     text: "繁星怒放"
     translated: "Stars burst forth in fury"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一枚银色的机括匣子，一经拨动，会瞬间疾射出无数银针。号称出必见血、防不胜防。"
     translated: "A silver mechanism box that, once triggered, would instantaneously release countless silver needles. It was reputed to be lethal upon contact and impossible to defend against"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 117
   raw: "eq10713	离火玄冰镖	temp	兵器谱中失传已久的暗器，由上古玄冰、离火熔岩两种截然不同的材质锻造而成，中者或如烈焰焚身、或如寒冰封脉，威力可布。	107	100	50	TRUE	2	50		3	20	20	(Arrow,60)	5		0	"
   translated: ""
@@ -1410,10 +1878,14 @@
     text: "离火玄冰镖"
     translated: "Lifuhuexianbing Biao"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "兵器谱中失传已久的暗器，由上古玄冰、离火熔岩两种截然不同的材质锻造而成，中者或如烈焰焚身、或如寒冰封脉，威力可布。"
     translated: "The secret weapon listed in the martial weapons catalog, long lost to history and forged from two vastly different ancient materials—mysterious ice and molten lava—is such that if struck by it, one might feel as though engulfed in flames or their meridians frozen by cold. Its power is formidable"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 118
   raw: "eq10714	霹雳弹	eq10714	黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。	107	15000	7500	TRUE	3	40		10	70	70	(Arrow,180)	3		wounded15	(it70113,1)"
   translated: ""
@@ -1422,10 +1894,14 @@
     text: "霹雳弹"
     translated: "Thunderclap Bomb"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。"
     translated: "The black and dull bullet, unassuming in appearance, contains powerful gunpowder inside with incredible force"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 119
   raw: "eq10714b	霹雳弹	eq10714	黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。	107	13500	6750	TRUE	3	70		10	70	70	(Arrow,150)	3		0	(it70113,1)"
   translated: ""
@@ -1434,10 +1910,14 @@
     text: "霹雳弹"
     translated: "Thunderclap Explosive"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "黑黝黝的弹丸，外表毫不起眼，但内含强力火药，威力惊人。"
     translated: "Dark and unremarkable in appearance, this bullet contains powerful gunpowder that delivers astonishing force"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 120
   raw: "eq10715	毒粉末	temp	有毒的粉末。	107	250	125	TRUE	0	50		1	25	25	(Arrow,20)	10		0	(it50201,1)"
   translated: ""
@@ -1446,10 +1926,14 @@
     text: "毒粉末"
     translated: "Poisonous Powder"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "有毒的粉末。"
     translated: "Poisonous powder"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 121
   raw: "eq10716	无当飞刀	eq10716	传闻为古代精锐部队无当飞军所配备的飞刀，锐利无匹。	107	4000	2000	TRUE	2	50		2	40	40	(Arrow,100)	5		0	(it70108,1)"
   translated: ""
@@ -1458,10 +1942,14 @@
     text: "无当飞刀"
     translated: "Irresistible Flying Daggers"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传闻为古代精锐部队无当飞军所配备的飞刀，锐利无匹。"
     translated: "It is rumored that the flying knives equipped by the Flying Army, an elite ancient force, are unparalleled in sharpness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 122
   raw: "eq10717	雷神槌	it801020	无坚不摧的雷神槌。	107	35000	17500	TRUE	5	99		3	200	200	(Arrow,370)	3		0	(it70107,2)(it70103,2)"
   translated: ""
@@ -1470,10 +1958,14 @@
     text: "雷神槌"
     translated: "Thunder God's Hammer"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "无坚不摧的雷神槌。"
     translated: "Unbreakable Thunder God's Hammer"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 123
   raw: "eq10718	青城神剑令	eq10718	一枚短剑造型的令牌，是青城弟子的身分证明，同时也可以做为暗器使用。	107	2500	1250	TRUE	1	30		5	54	54	(Arrow,90)	10		0	(it70103,1)"
   translated: ""
@@ -1482,10 +1974,14 @@
     text: "青城神剑令"
     translated: "Qingcheng Shenjian Ling"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一枚短剑造型的令牌，是青城弟子的身分证明，同时也可以做为暗器使用。"
     translated: "A token shaped like a short sword, serving as proof of identity for disciples of the Qingcheng Sect and can also be used as an internal weapon"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 124
   raw: "eq10719	寻欢刀	eq10706	某位神秘刀客的飞刀，散发着冷冷的寒光。	107	30000	15000	TRUE	5	99		15	150	150	(Arrow,300)	3		0	(it70110,2)"
   translated: ""
@@ -1494,10 +1990,14 @@
     text: "寻欢刀"
     translated: "Seeking Joy Blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "某位神秘刀客的飞刀，散发着冷冷的寒光。"
     translated: "The flying dagger of a certain mysterious swordsman emitted an icy glint"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 125
   raw: "eq10720	黑血神针	eq10720	淬以黑血蛛毒的暗器，无声无息，见血封喉。	107	5000	2500	TRUE	2	50		5	53	53	(Arrow,115)	8		spiderpoison02	(it70103,1)"
   translated: ""
@@ -1506,10 +2006,14 @@
     text: "黑血神针"
     translated: "Black Blood Divine Needle"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "淬以黑血蛛毒的暗器，无声无息，见血封喉。"
     translated: "Coated with the venom of black blood spiders, these hidden weapons strike silently and unseen, causing instant suffocation upon contact"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 126
   raw: "eq10721	断魂蜈蚣标	temp	断魂蜈蚣标	107	1500	750	TRUE	1	50		5	45	45	(Arrow,30)	8		centipedepoison02	(it70103,1)"
   translated: ""
@@ -1518,10 +2022,14 @@
     text: "断魂蜈蚣标"
     translated: "Death-Striking Tarantula"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "断魂蜈蚣标"
     translated: "Death-Striking Tarantula"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 127
   raw: "eq10722	毒蛇袖箭	eq10710	淬以蛇毒的袖箭，阴狠毒辣。	107	5000	2500	TRUE	2	50		5	41	41	(Arrow,125)	8		snakepoison02	(it70104,1)"
   translated: ""
@@ -1530,10 +2038,14 @@
     text: "毒蛇袖箭"
     translated: "Snake Venom Arm Shot"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "淬以蛇毒的袖箭，阴狠毒辣。"
     translated: "Dipped in snake venom, the sleeve arrow is sinister and vicious"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 128
   raw: "eq10723	蝎尾针	temp	蝎尾针	107	1500	750	TRUE	1	50		5	45	45	(Arrow,30)	8		scorpionpoison02	(it70104,1)"
   translated: ""
@@ -1542,10 +2054,14 @@
     text: "蝎尾针"
     translated: "Scorpion Tail Needle"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "蝎尾针"
     translated: "Scorpion Tail Needle"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 129
   raw: "eq10801	长弓	eq10801	比起短弓，射程距离较长，精准度较高，适合步战或是长距离狙击之用。	108	600	300	TRUE	0	6	ac3b0031	20	43	43	(Bow,35)	15		0	(it70201,1)(it70604,1)"
   translated: ""
@@ -1554,10 +2070,14 @@
     text: "长弓"
     translated: "Long Bow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "比起短弓，射程距离较长，精准度较高，适合步战或是长距离狙击之用。"
     translated: "Compared to a short bow, it has a longer range and higher accuracy, suitable for infantry warfare or long-distance sniping"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 130
   raw: "eq10802	破损的武侯弩	temp	诸葛孔明所发明的强弩，可以连环射出多只箭矢。可惜已经损坏。	108	5000	4000	TRUE	0	50		3	50	50	(Bow,20)	10		0	"
   translated: ""
@@ -1566,10 +2086,14 @@
     text: "破损的武侯弩"
     translated: "Broken Zhuge Liang Crossbow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "诸葛孔明所发明的强弩，可以连环射出多只箭矢。可惜已经损坏。"
     translated: "The powerful crossbow invented by Zhuge Kongming could shoot multiple arrows in succession. Unfortunately, it is now damaged"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 131
   raw: "eq10803	武侯弩	temp	诸葛孔明所发明的强弩，可以连环射出多只箭矢。	108	6000	4800	TRUE	1	50		5	50	50	(Bow,20)	8		0	"
   translated: ""
@@ -1578,10 +2102,14 @@
     text: "武侯弩"
     translated: "Wu Huo Crossbow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "诸葛孔明所发明的强弩，可以连环射出多只箭矢。"
     translated: "Zhuge Kongming invented a powerful crossbow that can fire multiple arrows in succession"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 132
   raw: "eq10804	黄桦弓	temp	常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。	108	1000	500	TRUE	0	50	ac3b0031	18	37	37	(Bow,35)	10		0	(it70201,2)(it70604,1)"
   translated: ""
@@ -1590,10 +2118,14 @@
     text: "黄桦弓"
     translated: "Yellow Birch Bow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。"
     translated: "Common bows are distinguished by their bow decorations, which include black lacquer, yellow birch, and hemp back. Bows decorated with black lacquer are called black lacquer bows, those with yellow birch are called yellow birch bows, and those with a hemp back are called hemp-back bows"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 133
   raw: "eq10805	黑漆弓	temp	常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。	108	100	50	TRUE	0	50		4	50	50	(Bow,20)	10		0	"
   translated: ""
@@ -1602,10 +2134,14 @@
     text: "黑漆弓"
     translated: "Black Lacquer Bow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。"
     translated: "Common bows are differentiated by their decorations into black lacquer, yellow birch, and hemp-back types. Bows decorated with black lacquer are called black lacquer bows; those with yellow birch are called yellow birch bows; and those with hemp backs are called hemp-back bows"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 134
   raw: "eq10806	麻背弓	temp	常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。	108	100	50	TRUE	0	50		4	50	50	(Bow,20)	10		0	"
   translated: ""
@@ -1614,10 +2150,14 @@
     text: "麻背弓"
     translated: "Arc with a humped back"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "常见的弓，其弓饰有黑漆、黄桦、麻背之别，饰黑漆的为黑漆弓，饰黄桦的为黄桦弓，饰麻背的为麻背弓。"
     translated: "The common bows are distinguished by their decorations of black lacquer, yellow elm, and hemp back. Bows decorated with black lacquer are called black lacquer bows, those decorated with yellow elm are called yellow elm bows, and those decorated with a hemp back are called hemp-backed bows"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 135
   raw: "eq10807	黑檀弓	temp	以黑檀木制成的弓，轻盈坚韧。	108	100	50	TRUE	1	50		4	50	50	(Bow,20)	8		0	"
   translated: ""
@@ -1626,10 +2166,14 @@
     text: "黑檀弓"
     translated: "Black Ebony Bow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以黑檀木制成的弓，轻盈坚韧。"
     translated: "A bow made from ebony wood, light and sturdy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 136
   raw: "eq10808	雪山神鹰	eq10808	阿得阿克的佩弓，以雪山所产之寒铁打造而成。纳西族人崇敬阿得阿克射术无双，便在弓上雕鹰首为饰，以「雪山神鹰」称之。	108	7000	3500	TRUE	5	70	ac3b0032	22	70	70	(Bow,90)	5		wounded03,weapon0808	(it70110,1)(it70208,1)(it70604,1)"
   translated: ""
@@ -1638,10 +2182,14 @@
     text: "雪山神鹰"
     translated: "Snowy Mountain Divine Eagle"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "阿得阿克的佩弓，以雪山所产之寒铁打造而成。纳西族人崇敬阿得阿克射术无双，便在弓上雕鹰首为饰，以「雪山神鹰」称之。"
     translated: "Ade Ake's bow is crafted from the cold steel produced in the snow mountains. The Naxi people revere Ade Ake's unmatched archery skills, so they carved an eagle head onto the bow as a decoration and call it Snow Mountain Divine Eagle"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 137
   raw: "eq10809	定天山	eq10809	传说为名将薛仁贵所用之弓。昔年唐军与回纥九姓十余万人交战于天山，薛仁贵连发三箭，三名骁将应声落马，震慑敌军，从此军中歌曰：将军三箭定天山，壮士长歌入汉关。	108	12000	6000	TRUE	3	80	ac3b0088	55	76	76	(Bow,225)	3		weapon0809	(it70605,1)(it70106,1)(it70113,1)"
   translated: ""
@@ -1650,10 +2198,14 @@
     text: "定天山"
     translated: "Mount Dingtian"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传说为名将薛仁贵所用之弓。昔年唐军与回纥九姓十余万人交战于天山，薛仁贵连发三箭，三名骁将应声落马，震慑敌军，从此军中歌曰：将军三箭定天山，壮士长歌入汉关。"
     translated: "Legend has it that this bow was used by the great general Xue Rengui. In ancient times, when the Tang army clashed with the nine tribes of the Xi Xia totaling more than 100,000 people on Mount Heavenly, Xue Rengui fired three arrows in succession, and three valiant generals fell off their horses immediately, stunning the enemy forces. From then on, a song was sung among the troops:：General with three arrows fixed the Heavenly Mountains, brave warrior sang a long song entering Han Pass"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 138
   raw: "eq10810	百步穿杨	temp	传闻为古代神射手养由基之弓。养由基距离杨柳百步外放箭，每箭都能射中柳叶中心，自此，百步穿杨之名不胫而走。	108	5000	2500	TRUE	3	50		24	76	76	(Bow,105)	3		0	(it70209,1)(it70604,1)"
   translated: ""
@@ -1662,10 +2214,14 @@
     text: "百步穿杨"
     translated: "One Hundred Paces, One Shoot"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传闻为古代神射手养由基之弓。养由基距离杨柳百步外放箭，每箭都能射中柳叶中心，自此，百步穿杨之名不胫而走。"
     translated: "It is rumored to be the legendary bow of ancient master archer Yuyong. From a hundred paces away, Yuyong would shoot an arrow and hit the center of every willow leaf. Hence, the saying a hundred steps through the willows became famous"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 139
   raw: "eq10811	铁胎弓	eq10811	与木制弓不同，在弓背镶入金属，不论射程和威力都能大幅提升，也被称为「铁脊弓」。然而，没有足够力量的人，别说拉开弓弦了，只怕连拿着弓都嫌沉重。	108	3000	1500	TRUE	1	30	ac3b0056	40	70	70	(Bow,80)	10		0	(it70102,1)(it70604,1)"
   translated: ""
@@ -1674,10 +2230,14 @@
     text: "铁胎弓"
     translated: "Iron-bell bow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "与木制弓不同，在弓背镶入金属，不论射程和威力都能大幅提升，也被称为「铁脊弓」。然而，没有足够力量的人，别说拉开弓弦了，只怕连拿着弓都嫌沉重。"
     translated: "Unlike wooden bows, these have metal inlaid on the bow's back, significantly enhancing range and power, and are known as iron spine bows. However, without sufficient strength, not only is it difficult to draw the string, but even holding the bow feels too heavy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 140
   raw: "eq10812	短弓	eq10811	比起长弓，射程距离较短，精准度较低，但在短程距离内的杀伤力较强，适合骑射、狩猎之用。	108	500	250	TRUE	0	5	ac3b0091	16	40	40	(Bow,30)	15		0	(it70201,1)(it70604,1)"
   translated: ""
@@ -1686,10 +2246,14 @@
     text: "短弓"
     translated: "Short Bow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "比起长弓，射程距离较短，精准度较低，但在短程距离内的杀伤力较强，适合骑射、狩猎之用。"
     translated: "Compared to the longbow, it has a shorter range and lower accuracy, but its killing power is strong at short distances, making it suitable for mounted archery and hunting"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 141
   raw: "eq10813	后羿弓	eq10801	传说中连太阳都能射下来的神弓。	108	18000	9000	TRUE	5	99	ac3b0031	70	150	150	(Bow,350)	3		0	(it70209,3)(it70606,1)"
   translated: ""
@@ -1698,10 +2262,14 @@
     text: "后羿弓"
     translated: "Yi's Bow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传说中连太阳都能射下来的神弓。"
     translated: "Legendary bow said to be able to shoot down the sun"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 142
   raw: "eq10901	陈旧匕首	eq10901	使用多年又未妥善维护的匕首，锋刃已钝，杀伤力有限。	109	200	100	TRUE	0	2	ac6c0083	4	26	26	(Short,9)(Sword,9)(TwoSword,9)(BladeSword,9)	15		0	(it70102,1)"
   translated: ""
@@ -1710,10 +2278,14 @@
     text: "陈旧匕首"
     translated: "Antique Dagger"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "使用多年又未妥善维护的匕首，锋刃已钝，杀伤力有限。"
     translated: "Using a knife that has been in use for many years and not properly maintained, the blade is dull, with limited lethality"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 143
   raw: "eq10902	短剑	eq10902	轻短的短剑虽然欠缺长度，但隐蔽性佳，贴身搏斗时让人防不胜防。	109	500	250	TRUE	0	5	ac6c0055	3	40	40	(Short,25)(Sword,25)(TwoSword,25)(BladeSword,25)	15		0	(it70102,1)"
   translated: ""
@@ -1722,10 +2294,14 @@
     text: "短剑"
     translated: "Short sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "轻短的短剑虽然欠缺长度，但隐蔽性佳，贴身搏斗时让人防不胜防。"
     translated: "A short sword may lack length, but its concealability is excellent. In close combat, it makes people hard to guard against"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 144
   raw: "eq10903	苗族尖刀	temp	轻盈的曲刃短刀，刀锋锐利，刀柄多以木、牛角、兽骨制成，多在苗人庆典时作为刀舞用刀。	109	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
   translated: ""
@@ -1734,10 +2310,14 @@
     text: "苗族尖刀"
     translated: "Shan people's spearhead knife"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "轻盈的曲刃短刀，刀锋锐利，刀柄多以木、牛角、兽骨制成，多在苗人庆典时作为刀舞用刀。"
     translated: "A nimble crescent-shaped short sword, with a sharp blade and a handle often made of wood, ox horn, or animal bone, is typically used as a dance sword during Miao festivities"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 145
   raw: "eq10904	折勒干布刀	eq10904	吐蕃牧民随身携带的刀具，为纪念传说中的吐蕃英雄－－折勒干布，简称为「折刀」。	109	700	350	TRUE	0	7	ac6c0102	3	45	45	(Short,40)(Sword,40)(TwoSword,40)(BladeSword,40)	15		0	(it70102,1)(it70106,1)"
   translated: ""
@@ -1746,10 +2326,14 @@
     text: "折勒干布刀"
     translated: "Zhelu Ganbu Dao"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "吐蕃牧民随身携带的刀具，为纪念传说中的吐蕃英雄－－折勒干布，简称为「折刀」。"
     translated: "The knife carried by Tibetan nomads is in honor of the legendary Tibetan hero Zhela Ganbu, also known as Zheda"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 146
   raw: "eq10905	精锋短剑	eq10905	巧匠所造的锋利短剑，坚固耐用。	109	1500	750	TRUE	1	15	ac6c0053	3	50	50	(Short,55)(Sword,55)(TwoSword,55)(BladeSword,55)	10		0	(it70102,1)"
   translated: ""
@@ -1758,10 +2342,14 @@
     text: "精锋短剑"
     translated: "Finely crafted short sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "巧匠所造的锋利短剑，坚固耐用。"
     translated: "The finely crafted sharp short sword is solid and durable"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 147
   raw: "eq10906	八斩刀	temp	南方常见的短兵器，通常成对使用。刀刃约等于前臂长度，刃宽厚利于格挡和反手刀，护手除了防护作用，还可用以勾取对方兵器。	109	100	50	TRUE	1	50		4	80	80	(Short,20)	8		0	(it70102,1)"
   translated: ""
@@ -1770,10 +2358,14 @@
     text: "八斩刀"
     translated: "Eight-Slice Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "南方常见的短兵器，通常成对使用。刀刃约等于前臂长度，刃宽厚利于格挡和反手刀，护手除了防护作用，还可用以勾取对方兵器。"
     translated: "Swords commonly used in the south, typically wielded in pairs. The blade is about the length of the forearm and wide and thick for blocking and counter-thrusts. The guard not only protects but can also be used to hook an opponent's weapon"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 148
   raw: "eq10907	精钢簪	temp	看似平凡的女子饰物，实则由精钢铸成，尖端锋锐异常，可在目标沉溺温柔乡之际轻易夺走其性命。	109	1800	900	TRUE	1	50		2	80	80	(Short,40)	8		0	(it70103,2)"
   translated: ""
@@ -1782,10 +2374,14 @@
     text: "精钢簪"
     translated: "Steel Hairpin"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "看似平凡的女子饰物，实则由精钢铸成，尖端锋锐异常，可在目标沉溺温柔乡之际轻易夺走其性命。"
     translated: "It seems like an ordinary ornament for women, but it is actually forged from high-quality steel, with an exceptionally sharp tip. At the moment when its target falls into a state of being lost in a land of tenderness, it can easily take their life"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 149
   raw: "eq10908	分光刺	eq10908	轻巧锐利的短刃，贴身近战时杀伤力十足。	109	1800	900	TRUE	1	20	ac6c0013	4	38	38	(Short,70)	10		0	(it70102,1)"
   translated: ""
@@ -1794,10 +2390,14 @@
     text: "分光刺"
     translated: "Dissecting Ray"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "轻巧锐利的短刃，贴身近战时杀伤力十足。"
     translated: "An agile and sharp short blade, highly effective in close combat"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 150
   raw: "eq10909	丛林弯刀	eq10909	刀刃向内弯曲，与一般弯刀相反，专为应付丛林的险恶环境所设计。	109	1000	500	TRUE	1	10	ac6c0033	8	48	48	(Short,45)(Blade,45)(TwoBlade,45)(BladeSword,45)	10		0	(it70103,1)"
   translated: ""
@@ -1806,10 +2406,14 @@
     text: "丛林弯刀"
     translated: "Jungle Curve Blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "刀刃向内弯曲，与一般弯刀相反，专为应付丛林的险恶环境所设计。"
     translated: "The blade curves inward, unlike a typical curved sword, and is specifically designed to handle the treacherous environment of the jungle"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 151
   raw: "eq10910	蝉翼	eq10910	剑刃薄如蝉翼，轻盈宛若无物，却又无比锋利。此剑经名匠日夜雕琢而成，实乃巧夺天工之作。	109	7000	3500	TRUE	5	70	ac6c0067	4	60	60	(Short,57)(Blade,57)(TwoBlade,57)(BladeSword,57)	5		PointAddTrick_2	(it70110,1)"
   translated: ""
@@ -1818,10 +2422,14 @@
     text: "蝉翼"
     translated: "Grasshopper Wings"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "剑刃薄如蝉翼，轻盈宛若无物，却又无比锋利。此剑经名匠日夜雕琢而成，实乃巧夺天工之作。"
     translated: "The blade is as thin as a cicada's wing, light as if it were nothing, yet incredibly sharp. This sword was meticulously crafted by a renowned artisan over day and night to become an exquisite masterpiece"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 152
   raw: "eq10918	晴日虹光	eq10918	一把明亮锋利的匕首，锋刃薄利并有虹光流映，因此得名。	109	5000	2500	TRUE	2	50	ac6c0093	14	60	60	(Short,110)(Blade,110)(TwoBlade,110)(BladeSword,110)	5		0	(it70104,1)"
   translated: ""
@@ -1830,10 +2438,14 @@
     text: "晴日虹光"
     translated: "Sunny rainbow light"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一把明亮锋利的匕首，锋刃薄利并有虹光流映，因此得名。"
     translated: "A bright and sharp dagger, its blade is thin and keen with rainbow light flowing over it, hence the name"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 153
   raw: "eq10911	玉龙宝剑	eq10911	木府代代相传的宝剑，也是统治者尊贵的象征。	109	5000	2500	TRUE	2	50	ac6c0057	15	65	65	(Short,120)(Sword,120)(TwoSword,120)(BladeSword,120)	5		0	(it70113,1)"
   translated: ""
@@ -1842,10 +2454,14 @@
     text: "玉龙宝剑"
     translated: "Jade Dragon Treasure Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "木府代代相传的宝剑，也是统治者尊贵的象征。"
     translated: "The sword passed down through generations of the Mu Family, also a symbol of the ruler's nobility"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 154
   raw: "eq10912	骐骥	eq10912	禾泓渊的成名兵器，川蜀一带的绿林盗匪一见此刀，无不胆寒。	109	7000	3500	TRUE	5	70	ac6c0015	8	60	60	(Short,71)(Blade,71)(TwoBlade,71)(BladeSword,71)	5		wounded04,weapon0912	(it70111,1)(it70104,1)"
   translated: ""
@@ -1854,10 +2470,14 @@
     text: "骐骥"
     translated: "Qiji"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "禾泓渊的成名兵器，川蜀一带的绿林盗匪一见此刀，无不胆寒。"
     translated: "Huo Hongyuan's famous weapon, a sword from the Sichuan-Shu region, made all bandits in the area shudder at its sight"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 155
   raw: "eq10913	菜刀	eq10913	每个家庭都需要的东西，切菜的时候很好用，打架的时候就不一定了。	109	200	100	TRUE	0	2	ac6c0084	4	28	28	(Short,10)(Blade,10)(TwoBlade,10)(BladeSword,10)	15		0	(it70102,1)"
   translated: ""
@@ -1866,10 +2486,14 @@
     text: "菜刀"
     translated: "Chef's knife"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "每个家庭都需要的东西，切菜的时候很好用，打架的时候就不一定了。"
     translated: "Every family needs a thing, it's very useful when cutting vegetables; not necessarily when fighting"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 156
   raw: "eq10914	猎刀	eq10914	坚韧而锐利的短刀，主要用于野外狩猎时与野兽搏斗、分割兽肉、切剥兽皮等用途。	109	600	300	TRUE	0	6	ac6c0101	4	40	40	(Short,28)(Blade,28)(TwoBlade,28)(BladeSword,28)	15		blade01	(it70102,2)"
   translated: ""
@@ -1878,10 +2502,14 @@
     text: "猎刀"
     translated: "Hunting Blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "坚韧而锐利的短刀，主要用于野外狩猎时与野兽搏斗、分割兽肉、切剥兽皮等用途。"
     translated: "A tough and sharp short dagger, mainly used for fighting wild animals in the wilderness, cutting animal meat, and peeling off animal hides"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 157
   raw: "eq10915	菡萏戏蝶金剑	eq10915	由赤钢制成的成对短剑，外型精致华美，金剑剑身镶以金丝花纹，剑柄饰以龙血晶石。双剑使来轻巧凌厉，华光绚丽，眩人眼目。	109	7000	3500	TRUE	5	70	ac6c0091	4	45	45	(Short,40)(Sword,40)(TwoSword,40)(BladeSword,40)	5		PointAddCombo_1	(it70105,1)"
   translated: ""
@@ -1890,10 +2518,14 @@
     text: "菡萏戏蝶金剑"
     translated: "Lotus Plays with Butterflies Golden Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "由赤钢制成的成对短剑，外型精致华美，金剑剑身镶以金丝花纹，剑柄饰以龙血晶石。双剑使来轻巧凌厉，华光绚丽，眩人眼目。"
     translated: "Pair of short swords made from red steel, exquisitely ornate and beautiful in appearance. The golden sword's blade is intricately patterned with gold wire, and the hilt is adorned with dragon's blood crystal. These twin swords are agile and fierce, dazzlingly brilliant, blinding the eyes"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 158
   raw: "eq10916	菡萏戏蝶银剑	eq10916	由赤钢制成的成对短剑，外型精致华美，银剑剑身镶以银丝花纹，剑柄镶嵌龙眼珍珠。双剑使来轻巧凌厉，华光绚丽，眩人眼目。	109	7000	3500	TRUE	5	70	ac6c0090	4	45	45	(Short,40)(Sword,40)(TwoSword,40)(BladeSword,40)	5		PointAddTrick_1	(it70105,1)"
   translated: ""
@@ -1902,10 +2534,14 @@
     text: "菡萏戏蝶银剑"
     translated: "Wisteria Butterflies Dance on Silver Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "由赤钢制成的成对短剑，外型精致华美，银剑剑身镶以银丝花纹，剑柄镶嵌龙眼珍珠。双剑使来轻巧凌厉，华光绚丽，眩人眼目。"
     translated: "Paired short swords made of red steel, exquisitely beautiful in appearance. The silver sword's blade is inlaid with silver thread patterns and its hilt is embedded with dragon's eye pearls. When wielded together, the swords are nimble and fierce, dazzlingly radiant, blinding to the eyes"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 159
   raw: "eq10917	短刀	eq10917	江湖中人常用的短兵刃，有言道：「一寸短，一寸险」，运使此兵刃之要诀便在于快速切进目标死角，一击毙敌。	109	500	250	TRUE	0	5	ac6c0092	3	35	35	(Short,25)(Blade,25)(TwoBlade,25)(BladeSword,25)	15		0	(it70102,1)"
   translated: ""
@@ -1914,10 +2550,14 @@
     text: "短刀"
     translated: "Short Dagger"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "江湖中人常用的短兵刃，有言道：「一寸短，一寸险」，运使此兵刃之要诀便在于快速切进目标死角，一击毙敌。"
     translated: "In the Jianghu, short weapons are commonly used as it is often said...：An inch short, an inch dangerous, the key to wielding this weapon lies in quickly cutting into the target's blind spot and defeating them with one strike"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 160
   raw: "eq10919	蛹蛉刀	eq10919	承担「灶娘」称号者代代相传的神器，其名号由上古一路流传至今只留存原音，实际文字已不可考。传说若将此刀用于料理以外的用途会使其失却锋芒，所以灶娘总是在战斗后将敌人的鲜血收集起来，做成猪血糕。	109	7000	3500	TRUE	3	70	ac6c0098	20	80	80	(Short,165)(Blade,165)(TwoBlade,165)(BladeSword,165)	3		0	(it70110,1)(it70103,1)"
   translated: ""
@@ -1926,10 +2566,14 @@
     text: "蛹蛉刀"
     translated: "Wormfly Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "承担「灶娘」称号者代代相传的神器，其名号由上古一路流传至今只留存原音，实际文字已不可考。传说若将此刀用于料理以外的用途会使其失却锋芒，所以灶娘总是在战斗后将敌人的鲜血收集起来，做成猪血糕。"
     translated: "The title Zao Niang is passed down through generations, and the name of its divine artifact has been preserved only in sound from ancient times to the present, with no traceable original text. Legend says that if this sword is used for purposes other than cooking, it will lose its sharpness. Therefore, Zao Niang always collects her enemies' fresh blood after a battle and makes it into pig's blood cakes"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 161
   raw: "eq10920	盘古菜刀	eq10913	传说中能劈开天地的菜刀，拿来做菜也一样好用。	109	12800	6400	TRUE	5	99	ac6c0084	25	150	150	(Short,280)(Blade,280)(TwoBlade,280)(BladeSword,280)	3		0	(it70109,1)"
   translated: ""
@@ -1938,10 +2582,14 @@
     text: "盘古菜刀"
     translated: "Pangu's Knife"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传说中能劈开天地的菜刀，拿来做菜也一样好用。"
     translated: "The legendary knife that could cleave heaven and earth is just as good for cooking"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 162
   raw: "eq10921	蛇形匕首	eq10921	以蛇的外型铸造而成，锋锐异常。	109	2500	1250	TRUE	2	30	ac6c0105	10	60	60	(Short,90)(Sword,90)(TwoSword,90)(BladeSword,90)	5		0	(it70111,1)"
   translated: ""
@@ -1950,10 +2598,14 @@
     text: "蛇形匕首"
     translated: "Serpentine Dagger"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以蛇的外型铸造而成，锋锐异常。"
     translated: "Forged in the shape of a snake, extremely sharp"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 163
   raw: "eq10922	玄铁匕首	eq10908	韦白龙随身携带的短刃，贴身近战时杀伤力十足。	109	3600	1800	TRUE	5	70	ac6c0013	7	75	75	(Short,65)(Sword,65)(TwoSword,65)(BladeSword,65)	5		wounded06,PointAddTrick_2	(it70109,1)"
   translated: ""
@@ -1962,10 +2614,14 @@
     text: "玄铁匕首"
     translated: "Dark Steel Dagger"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "韦白龙随身携带的短刃，贴身近战时杀伤力十足。"
     translated: "Wei Bai Long carried a short blade with his body, which was deadly in close-quarters combat"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 164
   raw: "eq10923	寒月流光	eq10913	大研镇打铁匠柯比以寒铁所铸的得意之作。虽以李白诗词为名，但本质仍是一把菜刀，具备砍人、切菜、片肉等多重用途。	109	6000	3000	TRUE	2	70	ac6c0084	15	70	70	(Short,150)(Blade,150)(TwoBlade,150)(BladeSword,150)	5		0	(it70102,1)(it70110,1)"
   translated: ""
@@ -1974,10 +2630,14 @@
     text: "寒月流光"
     translated: "Chill moonlight"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "大研镇打铁匠柯比以寒铁所铸的得意之作。虽以李白诗词为名，但本质仍是一把菜刀，具备砍人、切菜、片肉等多重用途。"
     translated: "Blacksmith Kebi of Dayan Town is proud of his masterpiece forged with cold iron. Although named after Li Bai's poetry, it remains a versatile kitchen knife suitable for chopping people, slicing vegetables, and cutting meat"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 165
   raw: "eq11001	清风扇	eq11001	文人常携带的折扇，扇骨以竹片或木片制成，十分轻巧，但也很容易断折。	110	200	100	TRUE	0	2	ac6c0097	2	20	20	(Short,20)	15		0	(it70208,1)"
   translated: ""
@@ -1986,10 +2646,14 @@
     text: "清风扇"
     translated: "Clear Wind Fan"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "文人常携带的折扇，扇骨以竹片或木片制成，十分轻巧，但也很容易断折。"
     translated: "Scholars often carried folding fans, with fan ribs made of bamboo or wood slices; they were very light but also easily broken"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 166
   raw: "eq11002	铁骨折扇	eq11002	扇骨以精铁铸成的折扇，虽然破坏力惊人，重量上却也提升了许多。	110	100	50	TRUE	1	50		5	80	80	(Short,20)	8		0	"
   translated: ""
@@ -1998,10 +2662,14 @@
     text: "铁骨折扇"
     translated: "Iron Bone Fanning Blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "扇骨以精铁铸成的折扇，虽然破坏力惊人，重量上却也提升了许多。"
     translated: "The fan made of refined steel, while having incredible destructive power, also has a significantly increased weight"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 167
   raw: "eq11003	古墓通幽	eq11003	内部安装了暗器机括的铁骨折扇，扇面绘有幽冥鬼火，阴气森森。	110	7000	3500	TRUE	2	70	ac6c0103	3	60	60	(Short,160)	5		0	(it70208,1)"
   translated: ""
@@ -2010,10 +2678,14 @@
     text: "古墓通幽"
     translated: "Ghostly Tomb Passageway"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "内部安装了暗器机括的铁骨折扇，扇面绘有幽冥鬼火，阴气森森。"
     translated: "It features an iron fan with internal hidden weapon mechanisms, and the fan surface is painted with dark ghost flames that exude a chilling aura"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 168
   raw: "eq11004	红颜	eq11004	颜玉书随身携带的爱扇。其扇骨由海外寒铁铸成，刺骨如冰，散发出的迫人寒气使得扇上的梅花终年不凋。	110	7000	3500	TRUE	5	70	ac6c0089	5	49	49	(Sword,51)(Short,51)	5		frozen05	(it70110,1)(it70321,1)"
   translated: ""
@@ -2022,10 +2694,14 @@
     text: "红颜"
     translated: "Red Face"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "颜玉书随身携带的爱扇。其扇骨由海外寒铁铸成，刺骨如冰，散发出的迫人寒气使得扇上的梅花终年不凋。"
     translated: "Yan Yushu carries a cherished fan with him. The fan's shaft is made from overseas cold steel, sharp as ice, and the chilling aura it emits keeps the plum blossoms on the fan perpetually unfading"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 169
   raw: "eq11005	踏月留香	eq11005	扇骨以坚硬香木制成，轻盈异常，固如钢铁，挥动时散发阵阵香气，扇面绘有满月。	110	3600	1800	TRUE	1	40	ac6c0100	3	60	60	(Short,80)	10		0	(it70208,1)"
   translated: ""
@@ -2034,10 +2710,14 @@
     text: "踏月留香"
     translated: "Trace Moonlight, Leave Fragrance"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: 
+    flaggedGlossaryOut: 
   - split: 3
     text: "扇骨以坚硬香木制成，轻盈异常，固如钢铁，挥动时散发阵阵香气，扇面绘有满月。"
     translated: "Featherbone is made from hard, fragrant wood, exceptionally lightweight yet as firm as steel. When waved, it emits a fragrance and the fan face depicts a full moon"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 170
   raw: "eq11006	鼓风扇	eq11006	赤丹宫妖道炼丹时控制炉火用的蒲扇，扇上经年累月累积的毒素使其成了一种致命的奇门兵器。	110	2100	1050	TRUE	1	20	ac3a0061	4	10	10	(Short,70)	10		poisoned06	(it70208,1)"
   translated: ""
@@ -2046,10 +2726,14 @@
     text: "鼓风扇"
     translated: "Blower fan"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "赤丹宫妖道炼丹时控制炉火用的蒲扇，扇上经年累月累积的毒素使其成了一种致命的奇门兵器。"
     translated: "The demon sorcerer from the Red Cinnabar Palace used a fan to control the furnace fire while refining elixirs. The toxins accumulated over years on the fan made it a deadly type of martial weapon"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 171
   raw: "eq11101	湘笔	temp	楚地名笔，文人墨客多半都会携带，每当来到风景名胜，便可随时提笔作篇。	111	100	50	TRUE	0	50		1	80	80	(Short,20)	10		0	"
   translated: ""
@@ -2058,10 +2742,14 @@
     text: "湘笔"
     translated: "Chiangbi"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "楚地名笔，文人墨客多半都会携带，每当来到风景名胜，便可随时提笔作篇。"
     translated: "The Chu-style ink brush, often carried by literati and scholars alike. Whenever they visit scenic spots, they can immediately take out the brush to compose a piece"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 172
   raw: "eq11102	判官笔	eq11102	适合贴身肉搏，专打人穴道。	111	500	250	TRUE	0	5	ac6c0054	3	38	38	(Short,35)	15		0	(it70102,1)"
   translated: ""
@@ -2070,10 +2758,14 @@
     text: "判官笔"
     translated: "Divine Sword"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "适合贴身肉搏，专打人穴道。"
     translated: "Suitable for close combat, specializes in striking pressure points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 173
   raw: "eq11103	点穴橛	temp	状如枣核，携带方便，主要用于点穴闭气，分筋错骨，用法有推、挟、穿、点、刺等多种。	111	100	50	TRUE	0	50		2	80	80	(Short,20)	10		0	"
   translated: ""
@@ -2082,10 +2774,14 @@
     text: "点穴橛"
     translated: "Acupuncture Needle"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "状如枣核，携带方便，主要用于点穴闭气，分筋错骨，用法有推、挟、穿、点、刺等多种。"
     translated: "Shaped like a seed, it is convenient to carry and is primarily used for acupoint blocking, separating tendons, and joint manipulation. The methods of application include pushing, pinching, piercing, stabbing, etc"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 174
   raw: "eq11104	太史公	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
   translated: ""
@@ -2094,10 +2790,14 @@
     text: "太史公"
     translated: "Master Historian"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "???"
     translated: "???"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 175
   raw: "eq11105	梅心	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
   translated: ""
@@ -2106,10 +2806,14 @@
     text: "梅心"
     translated: "Plum Heart"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "???"
     translated: "???"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 176
   raw: "eq11106	批生注死	temp	???	111	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
   translated: ""
@@ -2118,10 +2822,14 @@
     text: "批生注死"
     translated: "Life and death are intertwined"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "???"
     translated: "???"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 177
   raw: "eq11107	旱烟斗	eq11107	民间常见的吸烟用具，以黄铜制成，因其细长而坚硬的特性，也能成为防身器具，擅使者，更能点其穴道。	111	100	50	TRUE	0	1	ac6c0096	3	50	50	(Short,5)	15		weapon1107	(it70101,1)"
   translated: ""
@@ -2130,10 +2838,14 @@
     text: "旱烟斗"
     translated: "Humid pipe"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "民间常见的吸烟用具，以黄铜制成，因其细长而坚硬的特性，也能成为防身器具，擅使者，更能点其穴道。"
     translated: "Common folk smoking implements made of brass, known for their slender and hard characteristics, can also serve as self-defense tools. Those skilled in their use can even target acupressure points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 178
   raw: "eq11108	明月流翠	eq11108	贵重脆弱，玩赏性质居高的玉器	111	2000	1000	TRUE	1	60	ac6c0094	2	25	25	(Short,10)(Sword,10)(TwoSword,10)(BladeSword,10)	10		0	(it70311,1)"
   translated: ""
@@ -2142,10 +2854,14 @@
     text: "明月流翠"
     translated: "Clear Moon Drifting Jade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "贵重脆弱，玩赏性质居高的玉器"
     translated: "Valuable and fragile, the jade artifacts of superior viewing quality"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 179
   raw: "eq11201	鱼肠剑	eq11201	据传为铸剑师欧冶子为越王所制，后越王允常进献给吴国，公子光命专诸将此剑藏于鱼腹中，用以刺杀吴王僚。公子光即位后是为吴王阖闾，将此剑函封，永不再用。你手上这把看起来是赝品，但也算是制作极为精良的宝剑了。不过重量感有点奇怪，或许内有蹊跷？	112	4000	2000	TRUE	2	40	ac6c0099	15	65	65	(Short,110)(Sword,110)(TwoSword,110)(BladeSword,110)	5		0	(it70111,1)(it801083,1)"
   translated: ""
@@ -2154,10 +2870,14 @@
     text: "鱼肠剑"
     translated: "Yuchang jian"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "据传为铸剑师欧冶子为越王所制，后越王允常进献给吴国，公子光命专诸将此剑藏于鱼腹中，用以刺杀吴王僚。公子光即位后是为吴王阖闾，将此剑函封，永不再用。你手上这把看起来是赝品，但也算是制作极为精良的宝剑了。不过重量感有点奇怪，或许内有蹊跷？"
     translated: "It is said to have been forged by the swordsmith Ouyi Zi for King Goujian of Yue, who later offered it as a gift to the Wu state. Prince Guang ordered Xunchu to conceal this sword inside a fish and use it to assassinate King Louie of Wu. After ascending the throne, he became King Helu of Wu, sealing the sword away forever and never using it again. The one in your hand appears to be a replica, but it is nevertheless an extremely well-made precious sword. However, its weight feels odd, suggesting there might be something amiss inside?"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 180
   raw: "eq11202	八棱锏	eq11202	打击型的短兵器，通常由金属铸造而成，虽无锋刃，但挥舞起来破坏力十分惊人。	112	3000	1500	TRUE	1	30	ac6c0095	10	50	50	(Short,90)	10		0	(it70102,2)"
   translated: ""
@@ -2166,10 +2886,14 @@
     text: "八棱锏"
     translated: "Eight-angled Club"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "打击型的短兵器，通常由金属铸造而成，虽无锋刃，但挥舞起来破坏力十分惊人。"
     translated: "Bludgeoning short weapons, typically made from metal casting and lacking sharp edges, have surprisingly devastating impact when swung"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 181
   raw: "eq11203	镔铁八棱锏	eq11203	由镔铁制成的八棱锏，沉重异常，共有一对，是战胤飞的拿手兵器。	112	8000	4000	TRUE	3	70	ac6c0106	20	75	75	(Short,180)	3		0	(it70103,2)"
   translated: ""
@@ -2178,10 +2902,14 @@
     text: "镔铁八棱锏"
     translated: "Dark Steel Eight-angled Gou"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "由镔铁制成的八棱锏，沉重异常，共有一对，是战胤飞的拿手兵器。"
     translated: "Eight-edged clubs made of wootz steel, exceptionally heavy, one pair in total, are Wuzhong Fei's specialty weapons"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 182
   raw: "eq11204	独脚铜人	temp	奇门兵器，将铜棒铸成了一手指天一手指地的铜人，不仅可用于劈砸，铜人利指亦可用于点穴。	112	100	50	TRUE	1	50		4	80	80	(Short,20)	8		0	"
   translated: ""
@@ -2190,10 +2918,14 @@
     text: "独脚铜人"
     translated: "One-legged Bronze Man"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "奇门兵器，将铜棒铸成了一手指天一手指地的铜人，不仅可用于劈砸，铜人利指亦可用于点穴。"
     translated: "Strange martial weapon, the copper rod was cast into a copper figure with one hand pointing to heaven and the other pointing to earth. Not only could it be used for smashing, but the pointed fingers of the copper figure could also be used for acupressure"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 183
   raw: "eq11205	金瓜骨朵	eq11205	精钢制成的打击兵器，形如短棍，顶端呈瓜形。	112	3000	1500	TRUE	1	25	ac3a0085	22	70	70	(Short,95)	10		injured08	(it70103,2)"
   translated: ""
@@ -2202,10 +2934,14 @@
     text: "金瓜骨朵"
     translated: "Golden Gourd Bone"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "精钢制成的打击兵器，形如短棍，顶端呈瓜形。"
     translated: "High-quality steel weapon designed for striking, shaped like a short club with a gourd-like end"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 184
   raw: "eq11206	铁锤	eq11206	铁匠用来铸炼兵器的铁锤。	112	600	300	TRUE	0	6	ac6c0085	13	55	55	(Short,15)	15		0	(it70102,1)"
   translated: ""
@@ -2214,10 +2950,14 @@
     text: "铁锤"
     translated: "Iron Hammer"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "铁匠用来铸炼兵器的铁锤。"
     translated: "The blacksmith's hammer used for forging weapons"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 185
   raw: "eq11207	短斧	eq11207	农家必备，用于劈柴，也可用于近战劈砍。	112	600	300	TRUE	0	6	ac6c0086	16	52	52	(Short,25)	15		0	(it70102,1)"
   translated: ""
@@ -2226,10 +2966,14 @@
     text: "短斧"
     translated: "Short Axe"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "农家必备，用于劈柴，也可用于近战劈砍。"
     translated: "Agricultural essential, used for splitting firewood, and can also be used for chopping in close combat"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 186
   raw: "eq11208	长斧	eq11208	樵夫砍柴用的工具，也可用于近战劈砍。	112	700	350	TRUE	0	7	ac3a0053	21	58	58	(Short,30)	15		0	(it70102,2)"
   translated: ""
@@ -2238,10 +2982,14 @@
     text: "长斧"
     translated: "Long Axe"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "樵夫砍柴用的工具，也可用于近战劈砍。"
     translated: "Woodcutter's tool for chopping wood, also usable for close combat chopping and slashing"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 187
   raw: "eq11209	鹤嘴锄	eq11209	常见的农家工具。	112	700	350	TRUE	0	7	ac3a0074	16	58	58	(Short,30)	15		0	(it70102,2)"
   translated: ""
@@ -2250,10 +2998,14 @@
     text: "鹤嘴锄"
     translated: "Goose-beak hoe"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "常见的农家工具。"
     translated: "Common farming tools"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 188
   raw: "eq11210	轩辕锄	eq11209	这把神兵据说不管是用来开矿还是挖草都无往不利，更不用谈破阵杀敌了。	112	17000	8500	TRUE	3	99	ac3a0074	18	160	160	(Short,220)	3		0	(it70109,2)(it70209,1)"
   translated: ""
@@ -2262,10 +3014,14 @@
     text: "轩辕锄"
     translated: "Plow of Xuanyuan"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "这把神兵据说不管是用来开矿还是挖草都无往不利，更不用谈破阵杀敌了。"
     translated: "This divine weapon is said to be advantageous for mining and harvesting herbs, let alone breaking through enemy formations and killing enemies"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 189
   raw: "eq11301	木箫	temp	木制的箫管，音色比之竹箫相对逊色。	113	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
   translated: ""
@@ -2274,10 +3030,14 @@
     text: "木箫"
     translated: "Wooden Flute"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "木制的箫管，音色比之竹箫相对逊色。"
     translated: "Wooden xiao pipes have a sound quality that is inferior to bamboo xiaos"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 190
   raw: "eq11302	竹箫	temp	竹制的箫管，竹是最为常见的箫管制材，吹奏出来的音色最为动听。	113	100	50	TRUE	0	50		3	80	80	(Short,20)	10		0	"
   translated: ""
@@ -2286,10 +3046,14 @@
     text: "竹箫"
     translated: "Bamboo flute"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "竹制的箫管，竹是最为常见的箫管制材，吹奏出来的音色最为动听。"
     translated: "Bamboo-made sheng pipes, bamboo is the most common material for making sheng pipes, and the sound produced is very melodious"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 191
   raw: "eq11303	玉箫	temp	玉石制成的箫管，标志了持有者的身分地位，同时具有吹奏和赏玩性质，但是音色效果并不佳。	113	100	50	TRUE	1	50		3	80	80	(Short,20)	8		0	"
   translated: ""
@@ -2298,10 +3062,14 @@
     text: "玉箫"
     translated: "Yuxiao"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "玉石制成的箫管，标志了持有者的身分地位，同时具有吹奏和赏玩性质，但是音色效果并不佳。"
     translated: "A jade-made reed, signifying the status and rank of its holder, has both playing and display functions but does not produce good sound quality"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 192
   raw: "eq20102	皮革护甲	eq20102	兽皮经多番鞣皮后制作而成的护甲，质地坚硬，对寻常兵器有不错的防护力。	201	800	400	TRUE	0	10	eq20102	8	35	35	(Less,10)	10		cloth0102	(it70409,2)"
   translated: ""
@@ -2310,10 +3078,14 @@
     text: "皮革护甲"
     translated: "Leather Armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "兽皮经多番鞣皮后制作而成的护甲，质地坚硬，对寻常兵器有不错的防护力。"
     translated: "Armor made from animal hide that has been tanned multiple times, resulting in a hard texture with decent protection against ordinary weapons"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 193
   raw: "eq20103	护心镜	eq20103	一种镶嵌在胸部的金属盔甲，有缓冲攻击之用。因位于胸口正中，形似圆镜，故而得名。	201	800	400	TRUE	0	10	eq20103	9	40	40	(Less,12)	10		cloth0103	(it70405,1)(it70102,1)"
   translated: ""
@@ -2322,10 +3094,14 @@
     text: "护心镜"
     translated: "Heart-Shield Mirror"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一种镶嵌在胸部的金属盔甲，有缓冲攻击之用。因位于胸口正中，形似圆镜，故而得名。"
     translated: "A type of metal breastplate embedded with armor designed to absorb attacks. Due to its position at the center of the chest and its round mirror-like shape, it is named as such"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 194
   raw: "eq20104	重犀皮甲	eq20104	以上等犀牛皮特制而成，防护力不俗，但也较寻常皮甲沉重许多。	201	1600	800	TRUE	1	20	eq20104	18	60	60	(Less,17)	8		0	(it70409,2)"
   translated: ""
@@ -2334,10 +3110,14 @@
     text: "重犀皮甲"
     translated: "Rhino Hide Armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以上等犀牛皮特制而成，防护力不俗，但也较寻常皮甲沉重许多。"
     translated: "The above rhinoceros hide armor is specially made, with decent protection but significantly heavier than ordinary leather armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 195
   raw: "eq20105	虎鲨劲装	eq20105	全套使用鲨鱼皮制成，柔韧异常，滑溜无比。	201	2000	1000	TRUE	1	25	eq20105	12	55	55	(Less,18)	8		cloth0105	(it70409,2)"
   translated: ""
@@ -2346,10 +3126,14 @@
     text: "虎鲨劲装"
     translated: "Tiger Shark Power Armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "全套使用鲨鱼皮制成，柔韧异常，滑溜无比。"
     translated: "Entire set made of shark skin, exceptionally supple and extremely smooth"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 196
   raw: "eq20106	幼鳄软甲	eq20106	在暗流宝窟发现一只卡在石缝中哀鸣的小鳄鱼，你选择将牠强拖出来制成此件软甲。精选优质上等头层皮，在提供防护力的同时，避免让你娇嫩的肌肤因摩擦而产生多余的硬茧或老废角质。	201	1600	800	TRUE	1	20	eq20106	11	52	60	(Less,19)	8		0	(it70401,2)"
   translated: ""
@@ -2358,10 +3142,14 @@
     text: "幼鳄软甲"
     translated: "Young Softshell Turtle"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "在暗流宝窟发现一只卡在石缝中哀鸣的小鳄鱼，你选择将牠强拖出来制成此件软甲。精选优质上等头层皮，在提供防护力的同时，避免让你娇嫩的肌肤因摩擦而产生多余的硬茧或老废角质。"
     translated: "At the Dark Cave, you discover a small crocodile trapped in a crevice and crying out. You decide to forcefully pull it out to craft this piece of soft armor. Selecting high-quality top-layer skin ensures protection while avoiding excessive calluses or dead skin on your delicate skin from friction"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 197
   raw: "eq20107	锁子甲	eq20107	将钢片一片片以铁链锁住，相较于皮甲，其防护性更强，而且比板甲要灵活。	201	3000	1500	TRUE	1	30	eq20107	20	50	50	(Less,15)	8		cloth0107	(it70102,1)(it70101,1)"
   translated: ""
@@ -2370,10 +3158,14 @@
     text: "锁子甲"
     translated: "Iron Breastplate"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "将钢片一片片以铁链锁住，相较于皮甲，其防护性更强，而且比板甲要灵活。"
     translated: "Using iron chains to lock steel plates together, it is more protective compared to leather armor and more flexible than breastplate armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 198
   raw: "eq20108	金丝背心	eq20108	以金丝混和多种金属制成，价格不斐。	201	15000	7500	TRUE	2	99	eq20108	9	65	65	(Less,29)	5		0	(it70504,1)"
   translated: ""
@@ -2382,10 +3174,14 @@
     text: "金丝背心"
     translated: "Silk-Backed Vest"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以金丝混和多种金属制成，价格不斐。"
     translated: "Composed by mixing gold thread with various metals, the price is astounding"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 199
   raw: "eq20109	天蚕宝衣	temp	以苗疆天蚕丝编织而成的宝衣，堪称天下奇珍，防身至宝。	201	7000	3500	TRUE	2	50		6	70	70	(Less,20)	5		0	"
   translated: ""
@@ -2394,10 +3190,14 @@
     text: "天蚕宝衣"
     translated: "Divine Silkworm Silk"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以苗疆天蚕丝编织而成的宝衣，堪称天下奇珍，防身至宝。"
     translated: "Woven from Miao frontier silkworm silk, this precious garment is considered a unique treasure in the world and an essential protective talisman"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 200
   raw: "eq20110	乌蚕衣	eq20110	以大雪山乌蚕丝编织而成的背心，质地轻软坚韧，可抵御内劲冲击。	201	15000	7500	TRUE	2	99	eq20110	10	70	70	(Less,30)	5		cloth0110	(it70505,1)"
   translated: ""
@@ -2406,10 +3206,14 @@
     text: "乌蚕衣"
     translated: "Black Silkworm Silk"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以大雪山乌蚕丝编织而成的背心，质地轻软坚韧，可抵御内劲冲击。"
     translated: "A vest woven from the caterpillar silk of Mount Da Xue, with a soft yet durable texture that can withstand the impact of internal force"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 201
   raw: "eq20111	黑天	temp	黑黝黝一件背心，入手沉甸甸的，非金非革，却是刀枪不入，水火不侵。	201	10000	5000	TRUE	2	50		9	75	75	(Less,20)	5		0	"
   translated: ""
@@ -2418,10 +3222,14 @@
     text: "黑天"
     translated: "Black Sky"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "黑黝黝一件背心，入手沉甸甸的，非金非革，却是刀枪不入，水火不侵。"
     translated: "A pitch-black vest, weighty to the touch and neither made of gold nor leather, yet impervious to blades and resistant to fire and water"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 202
   raw: "eq20112	苍龙鳞甲	temp	传说中使用神兽苍龙身上的鳞甲编制而成，乃天下神物。	201	12000	6000	TRUE	3	50		18	80	80	(Less,25)	3		0	"
   translated: ""
@@ -2430,10 +3238,14 @@
     text: "苍龙鳞甲"
     translated: "Sky Dragon Scale Armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传说中使用神兽苍龙身上的鳞甲编制而成，乃天下神物。"
     translated: "Legend has it that the armor made from the scales of the divine creature, the Azure Dragon, is a celestial treasure in all under heaven"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 203
   raw: "eq20113	虎威将军软甲	eq20113	赵云临阵所穿软甲，寻常弩箭难穿。有了它七进七出不是梦。	201	20000	10000	TRUE	3	99	eq20113	25	80	80	(Less,39)	3		cloth0112	(it70111,3)"
   translated: ""
@@ -2442,10 +3254,14 @@
     text: "虎威将军软甲"
     translated: "Huwei Jiangjun Ruanjia"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "赵云临阵所穿软甲，寻常弩箭难穿。有了它七进七出不是梦。"
     translated: "Zhao Yun's soft armor, worn in battle, is difficult for ordinary crossbows to penetrate. With it, seven steps forward and seven steps back are not a dream"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 204
   raw: "eq20114	正气甲	temp	传闻为大将岳飞死前所穿战甲，隐隐有股浩然正气凝聚其上。	201	100	50	TRUE	2	50		10	150	150	(Less,15)	5		0	"
   translated: ""
@@ -2454,10 +3270,14 @@
     text: "正气甲"
     translated: "Zheng Qi Jia"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "传闻为大将岳飞死前所穿战甲，隐隐有股浩然正气凝聚其上。"
     translated: "The rumors say it is the battle armor worn by General Yue Fei before his death, faintly imbued with an aura of righteous vigor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 205
   raw: "eq20115	皮衣	eq20115	孔金给你的皮衣，穿在身上有股熟悉感。	201	500	250	TRUE	1	20	eq20115	3	40	40	(Less,10)	8		0	(it70409,1)"
   translated: ""
@@ -2466,10 +3286,14 @@
     text: "皮衣"
     translated: "Fur coat"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "孔金给你的皮衣，穿在身上有股熟悉感。"
     translated: "Kong Jin gave you the fur coat, and when worn it feels familiar"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 206
   raw: "eq20116	金鳞衣	eq20116	古时蜀地开国君王鳖灵的贴身护甲，伴随其征战沙场，挡下无数明枪暗箭，同时亦为其陪葬之物。此衣以赤金、乌金、白金等三金之丝绞织而成，又因其纹繁密若鱼鳞，因而得名。	201	5000	2500	TRUE	2	99	eq20116	30	80	80	(Less,32)	5		0	(it70113,1)"
   translated: ""
@@ -2478,10 +3302,14 @@
     text: "金鳞衣"
     translated: "Golden-Scaled Robe"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "古时蜀地开国君王鳖灵的贴身护甲，伴随其征战沙场，挡下无数明枪暗箭，同时亦为其陪葬之物。此衣以赤金、乌金、白金等三金之丝绞织而成，又因其纹繁密若鱼鳞，因而得名。"
     translated: "Long ago, the body armor of King Bai Ling of Shu, who founded the state, accompanied him in battles and repelled countless arrows and spears. It was also buried with him as a funeral object. This garment was made by twisting threads of red gold, black gold, and white gold into a fabric so intricate and dense that it resembled fish scales, which is how it got its name"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 207
   raw: "eq20117	软甲	eq20115	贴身且延展性高的护甲，对于避免外伤有明显的效果。	201	800	400	TRUE	0	50	eq20117	3	50	50	(Less,10)	10		0	(it70409,1)"
   translated: ""
@@ -2490,10 +3318,14 @@
     text: "软甲"
     translated: "Soft Armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "贴身且延展性高的护甲，对于避免外伤有明显的效果。"
     translated: "The close-fitting and highly flexible armor has a noticeable effect in preventing external injuries"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 208
   raw: "eq20118	宝衣	eq20110	以皮革或布帛编织而成的背心，质地轻软坚韧，可抵御内劲冲击。	201	800	400	TRUE	0	50	eq20110	8	50	50	(Less,12)	10		0	(it70409,1)"
   translated: ""
@@ -2502,10 +3334,14 @@
     text: "宝衣"
     translated: "Treasure clothing"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以皮革或布帛编织而成的背心，质地轻软坚韧，可抵御内劲冲击。"
     translated: "A vest made of leather or cloth weaving, soft and durable in texture, capable of withstanding internal force impacts"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 209
   raw: "eq20119	甲衣	eq20107	相较于软甲，其防护性更强，而且比重甲要灵活。	201	1200	600	TRUE	0	50	eq20107	15	50	50	(Less,15)	10		0	(it70101,1)"
   translated: ""
@@ -2514,10 +3350,14 @@
     text: "甲衣"
     translated: "Armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "相较于软甲，其防护性更强，而且比重甲要灵活。"
     translated: "Compared to soft armor, its protective capability is stronger, and it is more flexible than hard armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 210
   raw: "eq20120	擎天寨服装	eq20120	红色粗布拼接老旧皮革，你拿着它的同时，脑中冒出一声激动的吶喊「妈，我当上擎天寨众啦！」	203	400	200	TRUE	0	50	player023	1	0	0		0		0	"
   translated: ""
@@ -2526,10 +3366,14 @@
     text: "擎天寨服装"
     translated: "Heaven's Pillar Fort Clothing"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "红色粗布拼接老旧皮革，你拿着它的同时，脑中冒出一声激动的吶喊「妈，我当上擎天寨众啦！」"
     translated: "Rough red canvas stitched together with worn leather; as you hold it, a shout of excitement erupts in your mind: Mom, I've become one of the stalwarts of Heaven's Pillar Fort!"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 211
   raw: "eq20121	虾米服装	eq20121	你最熟悉的伙伴，是一套利于活动的轻便皮甲，这套皮甲曾与你一同闯过无数危难关头，可说是身经百战，此刻也依然在履行它的职责，忠实地保护着你。	203	2	1	TRUE	0	50	ma99998b	1	0	0		0		0	"
   translated: ""
@@ -2538,10 +3382,14 @@
     text: "虾米服装"
     translated: "Hami fuzhuang"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "你最熟悉的伙伴，是一套利于活动的轻便皮甲，这套皮甲曾与你一同闯过无数危难关头，可说是身经百战，此刻也依然在履行它的职责，忠实地保护着你。"
     translated: "My most familiar companion is a set of lightweight leather armor designed for mobility. This armor has been with me through countless perils, having seen battle many times over. At this moment, it continues to fulfill its duty faithfully, protecting me"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 212
   raw: "eq20122	木府卫兵服装	eq20122	穿上它，你也是个英挺的木府卫兵阿虾阿米。	203	800	400	TRUE	0	50	player017	1	0	0		0		0	"
   translated: ""
@@ -2550,10 +3398,14 @@
     text: "木府卫兵服装"
     translated: "Mu Mansion's Guard Uniform"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "穿上它，你也是个英挺的木府卫兵阿虾阿米。"
     translated: "Put it on, and you're an impressive Mu Clan guard too, Ah Shrimp Ah Rice"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 213
   raw: "eq20125	纳西皮裘	eq20125	上等棉麻布料搭上传统的毛料镶饰，通常是较具身分地位的民众所选择的服饰。	203	1000	500	TRUE	0	50	player012	1	0	0		0		0	"
   translated: ""
@@ -2562,10 +3414,14 @@
     text: "纳西皮裘"
     translated: "Na'asi Pijiu"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "上等棉麻布料搭上传统的毛料镶饰，通常是较具身分地位的民众所选择的服饰。"
     translated: "High-quality cotton and hemp fabrics combined with traditional fur trim are typically chosen by people of higher social status for their attire"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 214
   raw: "eq20127	噶玛寺僧袍	eq20127	庄严的红色，飘逸的袖袍，穿上它让你立马彷佛...有头发的噶玛寺僧。	203	800	400	TRUE	0	50	player015	1	0	0		0		0	"
   translated: ""
@@ -2574,10 +3430,14 @@
     text: "噶玛寺僧袍"
     translated: "Gama Si sengpao"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "庄严的红色，飘逸的袖袍，穿上它让你立马彷佛...有头发的噶玛寺僧。"
     translated: "The solemn red, flowing sleeve robes; wearing them makes you instantly seem like a Gamo Si monk with hair"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 215
   raw: "eq20128	夜行衣	eq20175	一身黑衣，适合穿来偷鸡摸狗。	203	400	200	TRUE	0	50	player018	1	0	0		0		0	"
   translated: ""
@@ -2586,10 +3446,14 @@
     text: "夜行衣"
     translated: "Clothing for night travel"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一身黑衣，适合穿来偷鸡摸狗。"
     translated: "Wearing all black is suitable for sneaking around and stealing chickens"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 216
   raw: "eq20129	赭色袄服	eq20129	条纹绒搭上保暖的赭色袄衣，是平民间常见的服饰。	203	400	200	TRUE	0	50	player010	1	0	0		0		0	"
   translated: ""
@@ -2598,10 +3462,14 @@
     text: "赭色袄服"
     translated: "Reddish-brown robe"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "条纹绒搭上保暖的赭色袄衣，是平民间常见的服饰。"
     translated: "Striped woolen tops paired with warm cinnamon-colored robes were a common attire among the common folk"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 217
   raw: "eq20130	纳西常服	eq20130	棉麻混纺的布料搭上一件小背心，是平民间常见的服饰。	203	400	200	TRUE	0	50	player009	1	0	0		0		0	"
   translated: ""
@@ -2610,10 +3478,14 @@
     text: "纳西常服"
     translated: "Common Tibetan attire"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "棉麻混纺的布料搭上一件小背心，是平民间常见的服饰。"
     translated: "Woven fabric made of cotton and hemp, paired with a small vest, is a common attire among civilians"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 218
   raw: "eq20131	绿豆色常服	eq20131	棉麻混纺的布料，袖口采缩口设计，便于劳作活动。	203	400	200	TRUE	0	50	player005	1	0	0		0		0	"
   translated: ""
@@ -2622,10 +3494,14 @@
     text: "绿豆色常服"
     translated: "Green bean color plain clothes"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "棉麻混纺的布料，袖口采缩口设计，便于劳作活动。"
     translated: "Cotton and hemp blended fabric, with ribbed cuffs for ease of work activities"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 219
   raw: "eq20132	赋闲书院制服	eq20132	一件令赋闲书院院生充满谜之自信的书生服，穿上它，瞌睡作弊开小差无一不是信手拈来，毫无违和。	203	800	400	TRUE	0	50	player036	1	0	0		0		0	"
   translated: ""
@@ -2634,10 +3510,14 @@
     text: "赋闲书院制服"
     translated: "Leisurely Scholars Academy Uniform"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一件令赋闲书院院生充满谜之自信的书生服，穿上它，瞌睡作弊开小差无一不是信手拈来，毫无违和。"
     translated: "A set of scholar robes that instills a mysterious confidence in the students of Leisurely Scholars Academy. Wearing them, dozing off during exams, or skipping class becomes effortlessly natural and seamless"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 220
   raw: "eq20133	辰朝士兵服装	eq20133	辰朝士兵的制式服装，为与擅于大漠马战的狼蛮一族对抗，有着轻便防风的设计，只是……似乎少了一顶拉风的范阳笠。	203	400	200	TRUE	0	50	player030	1	0	0		0		0	"
   translated: ""
@@ -2646,10 +3526,14 @@
     text: "辰朝士兵服装"
     translated: "Chen Chao soldier clothing"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "辰朝士兵的制式服装，为与擅于大漠马战的狼蛮一族对抗，有着轻便防风的设计，只是……似乎少了一顶拉风的范阳笠。"
     translated: "The standard uniform for the Chenzhao soldiers, designed to be lightweight and windproof for combat against the Wolf Barbarians of the Great Desert, seems to be missing just one thing: a stylish Yanwang hat"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 221
   raw: "eq20134	太华门袍服	eq20134	在太华门由一位看不过去你身上丑陋衣服的女子所赠，秉持太华门流行的审美观，明确的黑白色系让你看起来「时尚」许多。	203	800	400	TRUE	0	50	player022	1	0	0		0		0	"
   translated: ""
@@ -2658,10 +3542,14 @@
     text: "太华门袍服"
     translated: "Great Wall Cloak"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "在太华门由一位看不过去你身上丑陋衣服的女子所赠，秉持太华门流行的审美观，明确的黑白色系让你看起来「时尚」许多。"
     translated: "At the Taoshi Guildmaster's Manor, a woman who couldn't stand your ugly clothes gave you something. According to the popular aesthetic at the Taoshi Guildmaster's Manor, the clear black and white color scheme made you look fashionable much more"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 222
   raw: "eq20135	强盗装	eq20135	坚硬的护甲搭上锋利的金属尖刺，黑色的独眼罩增添强横的男人味，如果你不是重金属爱好者，那就肯定是流寇无疑。	203	800	400	TRUE	0	50	player001	1	0	0		0		0	"
   translated: ""
@@ -2670,10 +3558,14 @@
     text: "强盗装"
     translated: "Robber Costume"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "坚硬的护甲搭上锋利的金属尖刺，黑色的独眼罩增添强横的男人味，如果你不是重金属爱好者，那就肯定是流寇无疑。"
     translated: "Hard armor paired with sharp metallic spikes and a black one-eyed mask adds an imposing masculine aura. If you're not into heavy metal, then you must be a bandit without a doubt"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 223
   raw: "eq20136	禾家马帮服	eq20136	禾家马帮帮众服，拆除右袖的设计让帮众驭马更加灵活。	203	400	200	TRUE	0	50	player002	1	0	0		0		0	"
   translated: ""
@@ -2682,10 +3574,14 @@
     text: "禾家马帮服"
     translated: "Huo Family Horse Gang Uniform"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "禾家马帮帮众服，拆除右袖的设计让帮众驭马更加灵活。"
     translated: "Huo Family Horse Gang members followed the command to remove the design from their right sleeves, allowing them to handle horses more flexibly"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 224
   raw: "eq20137	叶家马帮服	eq20137	叶家马帮帮众服，由叶玉龙调整造型设计，无袖小立领设计除了驭马方便，亦可充分展现两臂肌肉线条，实用中增添三分性感。	203	400	200	TRUE	0	50	player003	1	0	0		0		0	"
   translated: ""
@@ -2694,10 +3590,14 @@
     text: "叶家马帮服"
     translated: "Ye Family Horse Gang Uniform"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "叶家马帮帮众服，由叶玉龙调整造型设计，无袖小立领设计除了驭马方便，亦可充分展现两臂肌肉线条，实用中增添三分性感。"
     translated: "Ye Jia Horse Gang members' clothing, designed and adjusted by Ye Yulong, features a sleeveless small stand-up collar design. Besides making riding easier, it fully displays the lines of the upper arms, adding an element of sensuality to practical wear"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 225
   raw: "eq20138	庄稼汉服装	eq20138	以粗布制成，裁缝简单的平民服饰，通常是工人做工时的穿著。	203	400	200	TRUE	0	50	player004	1	0	0		0		0	"
   translated: ""
@@ -2706,10 +3606,14 @@
     text: "庄稼汉服装"
     translated: "Peasant's Clothing"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以粗布制成，裁缝简单的平民服饰，通常是工人做工时的穿著。"
     translated: "Coarsely woven, the attire was a simple peasant garment, typically worn by laborers at work"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 226
   raw: "eq20140	褐色常服	eq20140	以粗布制成的平民服饰，改良过的袖口便于劳作。	203	400	200	TRUE	0	50	player006	1	0	0		0		0	"
   translated: ""
@@ -2718,10 +3622,14 @@
     text: "褐色常服"
     translated: "Brown plain robe"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以粗布制成的平民服饰，改良过的袖口便于劳作。"
     translated: "Plain cotton clothing for commoners, with modified cuffs to facilitate work"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 227
   raw: "eq20141	武师服	eq20141	一般武师常见的服饰，袖口缩至小臂，便于施展武艺。你的梦想是成为江湖打手吗？如果是，就穿上他吧，保证让你心满意足。	203	400	200	TRUE	0	50	player007	1	0	0		0		0	"
   translated: ""
@@ -2730,10 +3638,14 @@
     text: "武师服"
     translated: "Wuxi's Robe"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一般武师常见的服饰，袖口缩至小臂，便于施展武艺。你的梦想是成为江湖打手吗？如果是，就穿上他吧，保证让你心满意足。"
     translated: "Generally, a martial artist's clothing is designed with sleeves that are rolled up to the forearm for ease of performing martial skills. Is your dream to become a hired hand in the martial world? If so, put it on and it will surely satisfy you"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 228
   raw: "eq20142	蓑衣	eq20142	穿着一身接地气的蓑衣，让你更加融入江湖，虽然身怀内力的你淋了雨也不致受寒，但，这就是所谓的浪漫吧。	203	400	200	TRUE	0	50	player008	1	0	0		0		0	"
   translated: ""
@@ -2742,10 +3654,14 @@
     text: "蓑衣"
     translated: "Raincoat"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "穿着一身接地气的蓑衣，让你更加融入江湖，虽然身怀内力的你淋了雨也不致受寒，但，这就是所谓的浪漫吧。"
     translated: "Wearing a down-to-earth raincoat made you feel more integrated into the wulin, and even though your inner qi kept you warm in the rain, that's what romance is all about"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 229
   raw: "eq20145	纳西常服	eq20145	明亮欢快的绿色，难道这就是你的内心吗？	203	400	200	TRUE	0	50	player011	1	0	0		0		0	"
   translated: ""
@@ -2754,10 +3670,14 @@
     text: "纳西常服"
     translated: "Common Tibetan attire"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "明亮欢快的绿色，难道这就是你的内心吗？"
     translated: "Is this bright and cheerful green the reflection of your inner self?"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 230
   raw: "eq20147	青城弟子服	eq20147	几坛残酒，一地黄书，在这样的地方捡到了一件青城派弟子服，你似乎明白了什么。	203	800	400	TRUE	0	50	player013	1	0	0		0		0	"
   translated: ""
@@ -2766,10 +3686,14 @@
     text: "青城弟子服"
     translated: "Qingcheng Disciple Attire"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "几坛残酒，一地黄书，在这样的地方捡到了一件青城派弟子服，你似乎明白了什么。"
     translated: "Several half-empty wine jars, a pile of yellow scrolls; picking up a Qingcheng Sect disciple's garment in such a place made you seem to understand something"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 231
   raw: "eq20148	淘石帮众服	eq20148	淘石帮的帮众服饰，腰间小包挂满淘石器具，大领口设计便于做工，绝对不是为了吸引女性眼珠，真的。	203	400	200	TRUE	0	50	player014	1	0	0		0		0	"
   translated: ""
@@ -2778,10 +3702,14 @@
     text: "淘石帮众服"
     translated: "Daoshi Guild Members' Garb"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "淘石帮的帮众服饰，腰间小包挂满淘石器具，大领口设计便于做工，绝对不是为了吸引女性眼珠，真的。"
     translated: "The Taoshi Guild members' attire features a small sash at the waist, hanging with various Taoshi instruments. The large neckline is designed for practicality in crafting, and it's absolutely not meant to attract female attention, really"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 232
   raw: "eq20149	鹰猎人皮裘	eq20149	厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。	203	800	400	TRUE	0	50	player016	1	0	0		0		0	"
   translated: ""
@@ -2790,10 +3718,14 @@
     text: "鹰猎人皮裘"
     translated: "Eagle Hunter's Furs"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。"
     translated: "Thick fur garments are sufficient to ward off the cold, and cotton gloves allow the eagle to perch on the hand without injuring the hunter"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 233
   raw: "eq20150	山魈恶鬼装扮	eq20150	山野萧萧，恶鬼嗷嗷，此山魈恶鬼帮众之服，穿之恍若魑魅魍魉，十足诡魅。	203	800	400	TRUE	0	50	player019	1	0	0		0		0	"
   translated: ""
@@ -2802,10 +3734,14 @@
     text: "山魈恶鬼装扮"
     translated: "Mountain Goblin Wicked Ghost Disguise"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "山野萧萧，恶鬼嗷嗷，此山魈恶鬼帮众之服，穿之恍若魑魅魍魉，十足诡魅。"
     translated: "Among the wilderness, where winds howl and evil spirits cry, this attire is worn by the minions of mountain demons. Donning it makes one resemble ghouls and apparitions with a truly eerie presence"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 234
   raw: "eq20151	一世富贵酒庄服	eq20151	深浅不一的红色蜀锦裁就合身劲装，帅气的搭配连白富美都难以抗拒。	203	800	400	TRUE	0	50	player020	1	0	0		0		0	"
   translated: ""
@@ -2814,10 +3750,14 @@
     text: "一世富贵酒庄服"
     translated: "One Lifetime Prosperity Winery Uniform"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "深浅不一的红色蜀锦裁就合身劲装，帅气的搭配连白富美都难以抗拒。"
     translated: "Richly varied shades of red Shu brocade are expertly tailored to create fitting and stylish armor, making a captivating ensemble that even the most beautiful and wealthy women would find irresistible"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 235
   raw: "eq20152	乞儿装	eq20152	穿上它并会不让你会变成犀利哥，醒醒吧，人家靠的不是衣服，是...。	203	100	50	TRUE	0	50	player021	1	0	0		0		0	"
   translated: ""
@@ -2826,10 +3766,14 @@
     text: "乞儿装"
     translated: "Dressed as a beggar"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "穿上它并会不让你会变成犀利哥，醒醒吧，人家靠的不是衣服，是...。"
     translated: "Wear it and you won't become Xili Ge, come to your senses. It's not clothes that make someone; it's"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 236
   raw: "eq20153	鹰猎人皮裘	eq20153	厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。	203	800	400	TRUE	0	50	player024	1	0	0		0		0	"
   translated: ""
@@ -2838,10 +3782,14 @@
     text: "鹰猎人皮裘"
     translated: "Condor Hunter Fur Coat"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "厚实的皮裘足以御寒，棉制手套能让猎鹰停驻在手而不致抓伤猎人。"
     translated: "Thick fur coats are warm enough to ward off the cold, and cotton gloves allow falcons to perch on hands without injuring the hunter"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 237
   raw: "eq20154	鹰猎人皮裘	eq20154	比一般皮草更精致，栩栩如生的狐狸头让你看起来比一般鹰猎人高了十个档次不只。	203	800	400	TRUE	0	50	player025	1	0	0		0		0	"
   translated: ""
@@ -2850,10 +3798,14 @@
     text: "鹰猎人皮裘"
     translated: "Eagle Hunter Fur Clothing"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "比一般皮草更精致，栩栩如生的狐狸头让你看起来比一般鹰猎人高了十个档次不只。"
     translated: "More exquisite and lifelike than ordinary fur, the fox head makes you look ten levels higher than an average eagle hunter"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 238
   raw: "eq20155	锦衣卫服	eq20155	红底金饰，京里来的爷们果真考究！	203	800	400	TRUE	0	50	player026	1	0	0		0		0	"
   translated: ""
@@ -2862,10 +3814,14 @@
     text: "锦衣卫服"
     translated: "Jin Yi Wei Fu"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "红底金饰，京里来的爷们果真考究！"
     translated: "Red silk embroidered with golden decorations, gentlemen from the capital truly have exquisite taste!"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 239
   raw: "eq20156	店小二服	eq20156	没有店小二，也敢称江湖？	203	200	100	TRUE	0	50	player027	1	0	0		0		0	"
   translated: ""
@@ -2874,10 +3830,14 @@
     text: "店小二服"
     translated: "Serving boy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "没有店小二，也敢称江湖？"
     translated: "No shop boy, but still dare to claim the jianghu?"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 240
   raw: "eq20157	段家军装	eq20157	穿上它，你忍不住也想跳上屋顶，放声吶喊「誓死效忠段将军」。	203	800	400	TRUE	0	50	player031	1	0	0		0		0	"
   translated: ""
@@ -2886,10 +3846,14 @@
     text: "段家军装"
     translated: "Segmented Troops Uniform"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "穿上它，你忍不住也想跳上屋顶，放声吶喊「誓死效忠段将军」。"
     translated: "Once you put it on, you can't help but want to jump onto the roof and shout Swear eternal allegiance to General Duan!"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 241
   raw: "eq20158	狼蛮军装	eq20158	一般狼蛮军人所穿着之服饰，穿上它不会让你比较凶恶。	203	800	400	TRUE	0	50	player032	1	0	0		0		0	"
   translated: ""
@@ -2898,10 +3862,14 @@
     text: "狼蛮军装"
     translated: "Wolf Savage Military Costume"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一般狼蛮军人所穿着之服饰，穿上它不会让你比较凶恶。"
     translated: "Generally, the attire worn by the Luan Man army does not make you appear more fierce"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 242
   raw: "eq20159	狼蛮军装	eq20159	朱色棉布与毛皮相接之狼蛮军服，穿上它，心理上觉得自己好像变帅气了。当然，这不是事实。	203	800	400	TRUE	0	50	player033	1	0	0		0		0	"
   translated: ""
@@ -2910,10 +3878,14 @@
     text: "狼蛮军装"
     translated: "Wolf Savage Military Costume"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "朱色棉布与毛皮相接之狼蛮军服，穿上它，心理上觉得自己好像变帅气了。当然，这不是事实。"
     translated: "Woolen uniforms of the Wolf Barbarians, with red cotton and fur at the join, make you feel more handsome when worn. Of course, this is not a fact"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 243
   raw: "eq20160	明教教众服	eq20160	使用特制易燃衣料制成的衣服，穿上它自焚时产生的熊熊圣火能保证你半点残躯都不留。	203	800	400	TRUE	0	50	player034	1	0	0		0		0	"
   translated: ""
@@ -2922,10 +3894,14 @@
     text: "明教教众服"
     translated: "Followers of the Ming Cult"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "使用特制易燃衣料制成的衣服，穿上它自焚时产生的熊熊圣火能保证你半点残躯都不留。"
     translated: "Using clothing made from specially designed flammable fabric, when you set it on fire, the resulting roaring flames will ensure that not a single remnant of your body is left"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 244
   raw: "eq20161	弦剑山庄服	eq20161	好知名的剑庄，好普通的装扮，你在心里默默叹息。	203	800	400	TRUE	0	50	player035	1	0	0		0		0	"
   translated: ""
@@ -2934,10 +3910,14 @@
     text: "弦剑山庄服"
     translated: "Xianjian Mountain Villa Robe"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "好知名的剑庄，好普通的装扮，你在心里默默叹息。"
     translated: "Renowned blade mansion, ordinary attire; you sigh silently in your heart"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 245
   raw: "eq20162	粗制皮甲	eq20102	一件只用几块皮革拼凑出的简陋防具。受限于工艺，无法拥有与材料相衬的质量。但由于制作容易，仍被许多百姓使用，提供最基本的保护。	201	200	100	TRUE	0	2	eq20102	8	10	10	(Less,1)	10		0	(it70409,1)"
   translated: ""
@@ -2946,10 +3926,14 @@
     text: "粗制皮甲"
     translated: "Coarse Leather Armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一件只用几块皮革拼凑出的简陋防具。受限于工艺，无法拥有与材料相衬的质量。但由于制作容易，仍被许多百姓使用，提供最基本的保护。"
     translated: "A piece of rudimentary armor pieced together with just a few leather pieces. Limited by craftsmanship, it could not match the quality of the materials. However, due to its ease of production, it was still used by many commoners for basic protection"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 246
   raw: "eq20163	软甲	eq20117	虽然防御有限，但胜在轻便，且柔韧特性能让穿戴者更容易化解内家发劲。	201	1000	500	TRUE	0	40	eq20117	10	30	30	(Less,3)	10		0	(it70409,1)"
   translated: ""
@@ -2958,10 +3942,14 @@
     text: "软甲"
     translated: "Soft Armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "虽然防御有限，但胜在轻便，且柔韧特性能让穿戴者更容易化解内家发劲。"
     translated: "Although defensive capabilities are limited, its advantage is being lightweight and its flexibility allows the wearer to more easily neutralize internal energy techniques"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 247
   raw: "eq20164	锁子甲	eq20107	流血不如流汗！一件沉重护甲虽然考验穿戴者体魄，却能避免利刃开膛之祸。	201	1500	750	TRUE	0	40	eq20107	35	80	80	(Less,12)	10		0	(it70103,1)"
   translated: ""
@@ -2970,10 +3958,14 @@
     text: "锁子甲"
     translated: "Iron Breastplate"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "流血不如流汗！一件沉重护甲虽然考验穿戴者体魄，却能避免利刃开膛之祸。"
     translated: "Sweat is better than blood! While wearing heavy armor tests the strength of the wearer, it can prevent the disaster of being slashed open by a blade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 248
   raw: "eq20165	猬甲	eq20165	制作工艺繁琐，却能为穿戴者带来特殊防护，面对强敌时能收到意想不到的效果。	201	1200	600	TRUE	0	40	eq20165	23	55	55	(Less,7)	10		0	(it70103,1)"
   translated: ""
@@ -2982,10 +3974,14 @@
     text: "猬甲"
     translated: "Armored in scales"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "制作工艺繁琐，却能为穿戴者带来特殊防护，面对强敌时能收到意想不到的效果。"
     translated: "Although the manufacturing process is intricate, it provides special protection for the wearer and can yield unexpected results when facing formidable enemies"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 249
   raw: "eq20166	玄玑皮衣	eq20166	正道侠士所赠之皮衣，由多块兽皮以特殊针法缝合制作，其上绘有道家纹路，韧度极佳，有不错的防御功能。	201	3000	1500	TRUE	2	70	eq20166	18	65	65	(Less,25)	5		0	(it70604,1)"
   translated: ""
@@ -2994,10 +3990,14 @@
     text: "玄玑皮衣"
     translated: "Dark Jade Leather Armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "正道侠士所赠之皮衣，由多块兽皮以特殊针法缝合制作，其上绘有道家纹路，韧度极佳，有不错的防御功能。"
     translated: "The leather armor gifted by the righteous martial artist is made from multiple pieces of animal hide sewn together using a special stitching technique, featuring Daoist patterns. It has excellent durability and offers good defensive capabilities"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 250
   raw: "eq20167	鬼玉轻甲	eq20167	黑道好汉所赠之轻甲，将极坚硬的薄玉以韧丝串就，同时兼具防护与灵活的实用护甲。	201	3000	1500	TRUE	2	70	eq20167	18	65	65	(Less,25)	5		0	(it70605,1)"
   translated: ""
@@ -3006,10 +4006,14 @@
     text: "鬼玉轻甲"
     translated: "Ghost Jade Lightweight Armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "黑道好汉所赠之轻甲，将极坚硬的薄玉以韧丝串就，同时兼具防护与灵活的实用护甲。"
     translated: "The outlaw hero's gift of light armor consists of extremely hard thin jade strung together with resilient silk, offering both protective and flexible practical body armor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 251
   raw: "eq20168	软缚红绫衣	eq20168	从杜府暗房找到，以红绫制成的宝衣，造型特殊，似乎能够很好的保护重要部位。	201	3000	1500	TRUE	2	70	eq20168	12	55	55	(Less,19)	5		0	(it70606,1)"
   translated: ""
@@ -3018,10 +4022,14 @@
     text: "软缚红绫衣"
     translated: "Softly bind with red brocade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "从杜府暗房找到，以红绫制成的宝衣，造型特殊，似乎能够很好的保护重要部位。"
     translated: "Found in the secret chamber of Du Mansion, this precious garment made of red brocade has a unique design that seems to provide excellent protection for vital areas"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 252
   raw: "eq20169	行者装扮	eq20170	直裰冷披黑雾，戒箍光射秋霜。额前剪发拂眉长，脑后护头齐项。顶骨数珠灿白，杂绒条结微黄。钢刀两口迸寒光，行者武松形像。	203	800	400	TRUE	0	50	player037	1	0	0		0		0	"
   translated: ""
@@ -3030,10 +4038,14 @@
     text: "行者装扮"
     translated: "Monkey's attire"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "直裰冷披黑雾，戒箍光射秋霜。额前剪发拂眉长，脑后护头齐项。顶骨数珠灿白，杂绒条结微黄。钢刀两口迸寒光，行者武松形像。"
     translated: "The long overcoat hangs coldly amidst the black mist, while the headband shines like autumn frost. Hair shaved above the brows stretches across the forehead, with a protective cap covering from behind to the shoulders. On the top of the skull, white beads glisten; the mixed woolen threads are slightly yellow. Twin steel swords emit a chilling light, resembling the image of the martial hero Wu Song"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 253
   raw: "eq20170	浪人剑客	eq20169	对酒不觉暝，落花盈我衣。醉起步溪月，鸟还人亦稀。	203	800	400	TRUE	0	50	player038	1	0	0		0		0	"
   translated: ""
@@ -3042,10 +4054,14 @@
     text: "浪人剑客"
     translated: "Wandering Swordsman"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "对酒不觉暝，落花盈我衣。醉起步溪月，鸟还人亦稀。"
     translated: "Drinking wine, the night falls without notice; fallen flowers fill my clothes. Rising inebriated by the creek moonlight, birds return, and people too are scarce"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 254
   raw: "eq20171	关外刀客	eq20171	义士之后，侠客之心，胡氏过峰迅如狐，宵小凄惶汗湿襟。	203	800	400	TRUE	0	50	player039	1	0	0		0		0	"
   translated: ""
@@ -3054,10 +4070,14 @@
     text: "关外刀客"
     translated: "Outland Blade Master"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "义士之后，侠客之心，胡氏过峰迅如狐，宵小凄惶汗湿襟。"
     translated: "The spirit of a righteous man and the heart of an adventurer; Hu Shi passed over the peak swiftly like a fox, while the petty villains were terrified and drenched with sweat"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 255
   raw: "eq20172	射鵰装束	eq20172	会挽雕弓如满月，西北望，射天狼。	203	800	400	TRUE	0	50	player042	1	0	0		0		0	"
   translated: ""
@@ -3066,10 +4086,14 @@
     text: "射鵰装束"
     translated: "Sword Dance Attire"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "会挽雕弓如满月，西北望，射天狼。"
     translated: "He can draw the carved bow like a full moon, look towards the northwest and shoot at the celestial wolf"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 256
   raw: "eq20173	江湖浪人	eq20173	痛饮狂歌空度日，飞扬跋扈为谁雄？	203	800	400	TRUE	0	50	player040	1	0	0		0		0	"
   translated: ""
@@ -3078,10 +4102,14 @@
     text: "江湖浪人"
     translated: "Jianghu wanderer"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "痛饮狂歌空度日，飞扬跋扈为谁雄？"
     translated: "Delighting in heavy drinking and reckless singing to while away the days, soaring with arrogance—whose strength am I showing off?"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 257
   raw: "eq20174	小白龙	eq20174	兴风雨，掀巨浪，游戏江湖，不过如此。	203	800	400	TRUE	0	50	player041	1	0	0		0		0	"
   translated: ""
@@ -3090,10 +4118,14 @@
     text: "小白龙"
     translated: "Little White Dragon"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "兴风雨，掀巨浪，游戏江湖，不过如此。"
     translated: "Stir up the wind and rain, create huge waves, play in the world of martial arts, nothing more than that"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 258
   raw: "eq20175	黑衣刺客	eq20175	黑衣刺客	203	800	400	TRUE	0	50	player041	1	0	0		0		0	"
   translated: ""
@@ -3102,10 +4134,14 @@
     text: "黑衣刺客"
     translated: "Black-Clothed Assassin"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "黑衣刺客"
     translated: "Black-Clothed Assassin"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 259
   raw: "eq20201	护身符	eq20201	一般民间相信，从庙宇中求得获神明加持的护身符，具有趋吉避凶的效果。	202	1000	500	TRUE	0	20		1	1	1		0		jewelry01	"
   translated: ""
@@ -3114,10 +4150,14 @@
     text: "护身符"
     translated: "Amulet"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一般民间相信，从庙宇中求得获神明加持的护身符，具有趋吉避凶的效果。"
     translated: "Generally, the common belief is that amulets obtained from temples with divine blessings have the effect of attracting good fortune and avoiding misfortune"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 260
   raw: "eq20203	金项链	eq20203	价格高昂、成色极佳的项链，传说具有辟邪的效果。	202	2000	1000	TRUE	1	40		1	1	1		0	(MaxHP,250)	jewelry02	"
   translated: ""
@@ -3126,10 +4166,14 @@
     text: "金项链"
     translated: "Gold necklace"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "价格高昂、成色极佳的项链，传说具有辟邪的效果。"
     translated: "High-priced necklace of exceptional quality, said to have the effect of repelling evil"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 261
   raw: "eq20204	大有来头的古佛像	eq20204	王春在田里挖到小佛像，认不出这是值钱的文物，只当护身符带着。老是叫嚷讨老婆没好处的王春，就此错过满足内心深处愿望的机会。	202	3000	1500	TRUE	1	40		1	1	1		0		jewelry03	"
   translated: ""
@@ -3138,10 +4182,14 @@
     text: "大有来头的古佛像"
     translated: "A significantly important ancient Buddha statue"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "王春在田里挖到小佛像，认不出这是值钱的文物，只当护身符带着。老是叫嚷讨老婆没好处的王春，就此错过满足内心深处愿望的机会。"
     translated: "Wang Chun found a small Buddha statue while digging in the field and did not recognize it as a valuable artifact, thinking of it only as an amulet to keep with him. Wang Chun, who always complained that asking for a wife was futile, thus missed the opportunity to fulfill a deep-seated desire"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 262
   raw: "eq20205	和阗玉镯	eq20205	和阗玉制的手镯。	202	3000	1500	TRUE	1	50		1	1	1		0	(MaxMP,150)	jewelry04	"
   translated: ""
@@ -3150,10 +4198,14 @@
     text: "和阗玉镯"
     translated: "Hotan Jade Bracelet"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "和阗玉制的手镯。"
     translated: "Handmade jade bracelet from Hetian"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 263
   raw: "eq20206	玛尼石	eq20206	密宗法器，是将藏传佛教六字真言绘刻至石头上制成的玛尼石，带有神秘的灵性。	202	500	250	TRUE	0	10		2	1	1		0		TurnAddRelease_1	"
   translated: ""
@@ -3162,10 +4214,14 @@
     text: "玛尼石"
     translated: "Ma Ni Stone"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "密宗法器，是将藏传佛教六字真言绘刻至石头上制成的玛尼石，带有神秘的灵性。"
     translated: "Esoteric ritual object, it is a Mani stone created by engraving the Six-Syllable Mantra of Tibetan Buddhism onto a rock, possessing mysterious spirituality"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 264
   raw: "eq20207	玛尼石护符	eq20207	密宗法器，是将藏传佛教六字真言绘刻至漂亮的石头上制成的护符，带有更强的神秘灵性。	202	1400	700	TRUE	1	20		2	1	1		0		jewelry22	"
   translated: ""
@@ -3174,10 +4230,14 @@
     text: "玛尼石护符"
     translated: "Mani Stone Talisman"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "密宗法器，是将藏传佛教六字真言绘刻至漂亮的石头上制成的护符，带有更强的神秘灵性。"
     translated: "Esoteric Ritual Artifact, it is a talisman made by engraving the six-syllable mantra of Tibetan Buddhism onto beautifully carved stones, imbued with stronger mystical spirituality"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 265
   raw: "eq20208	夜光玛尼石	eq20208	密宗法器，是将藏传佛教六字真言绘刻至子丑夜光石上制成的护符，带有超自然的神秘灵性。	202	5500	2750	TRUE	2	55		2	1	1		0		jewelry23	"
   translated: ""
@@ -3186,10 +4246,14 @@
     text: "夜光玛尼石"
     translated: "Nightlight Mani Stone"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "密宗法器，是将藏传佛教六字真言绘刻至子丑夜光石上制成的护符，带有超自然的神秘灵性。"
     translated: "Dharmic talisman, a protective charm made by engraving the six-syllable mantra of Tibetan Buddhism onto nightlight stones"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 266
   raw: "eq20209	转经筒	eq20209	密宗法器，每转动一次经轮，就等同于念诵了一次大藏经经文。	202	1200	600	TRUE	0	12		1	1	1		0		jewelry05	"
   translated: ""
@@ -3198,10 +4262,14 @@
     text: "转经筒"
     translated: "Prayer wheel"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "密宗法器，每转动一次经轮，就等同于念诵了一次大藏经经文。"
     translated: "Vajrayana ritual object, each turn of the wheel is equivalent to reciting a passage from the Mahayana Canon"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 267
   raw: "eq20210	风马旗	eq20210	密宗法器，绘有「红、黄、蓝、绿、白」五种颜色的经幡与驮着三宝「佛、法、僧」的白马。	202	3200	1600	TRUE	1	32		3	1	1		0		jewelry06	"
   translated: ""
@@ -3210,10 +4278,14 @@
     text: "风马旗"
     translated: "Windhorse Banner"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "密宗法器，绘有「红、黄、蓝、绿、白」五种颜色的经幡与驮着三宝「佛、法、僧」的白马。"
     translated: "Dharmic ritual artifact, depicting 'red, yellow, blue, green, white' five-color prayer flags and a white horse carrying the Three Treasures 'Buddha, Dharma, Sangha.'"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 268
   raw: "eq20211	人骨念珠	eq20211	原是密宗法器，但不肖邪僧杀人取骨，再刻上亵渎咒文，传说可扰乱心志。	202	5000	2500	TRUE	2	50		2	1	1		0		jewelry07	"
   translated: ""
@@ -3222,10 +4294,14 @@
     text: "人骨念珠"
     translated: "Human Bone Prayer Beads"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "原是密宗法器，但不肖邪僧杀人取骨，再刻上亵渎咒文，传说可扰乱心志。"
     translated: "It was originally a Dharma instrument of the Esoteric School, but an unscrupulous evil monk killed people to harvest their bones and then carved sacrilegious incantations onto them. It is said that these can disturb one's mind"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 269
   raw: "eq20212	灵骨念珠	eq20212	密宗法器，是以涅盘的喇嘛之骨制成的密宗法器，具有驱魔伏邪的神秘力量。	202	5000	2500	TRUE	2	50		2	1	1		0		jewelry08	"
   translated: ""
@@ -3234,10 +4310,14 @@
     text: "灵骨念珠"
     translated: "Reincarnation Prayer Beads"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "密宗法器，是以涅盘的喇嘛之骨制成的密宗法器，具有驱魔伏邪的神秘力量。"
     translated: "Micong faqi, made from the bones of a lama who attained nirvana, is a micong artifact possessing mysterious powers to exorcise demons and subdue evil"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 270
   raw: "eq20213	珍珠颈炼	eq20213	珍珠为「西方七宝」之一，以大而圆为珍贵，可用来制作念珠与项链。	202	3000	1500	TRUE	0	50		1	1	1		0		0	"
   translated: ""
@@ -3246,10 +4326,14 @@
     text: "珍珠颈炼"
     translated: "Necklace of Pearls"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "珍珠为「西方七宝」之一，以大而圆为珍贵，可用来制作念珠与项链。"
     translated: "Pearls are one of the Seven Jewels of the West, and larger, rounder ones are more valuable, suitable for making rosaries and necklaces"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 271
   raw: "eq20214	琥珀念珠	eq20214	琥珀为「西方七宝」之一，亦是一种名贵的药材，具有宁心定神之效。	202	3000	1500	TRUE	0	50		1	1	1		0		0	"
   translated: ""
@@ -3258,10 +4342,14 @@
     text: "琥珀念珠"
     translated: "Houpo nianzhu"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "琥珀为「西方七宝」之一，亦是一种名贵的药材，具有宁心定神之效。"
     translated: "Amber is one of the Seven Treasures from the West, and it is also a precious medicinal material known for its calming and tranquilizing effects"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 272
   raw: "eq20215	金箔佛像	temp	藏传佛教的佛像，外表以贴金法贴上一层金箔。黄金亦为「西方七宝」之一。	202	3000	1500	TRUE	0	50		2	1	1		0		0	"
   translated: ""
@@ -3270,10 +4358,14 @@
     text: "金箔佛像"
     translated: "Gold Leaf Buddha Statue"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "藏传佛教的佛像，外表以贴金法贴上一层金箔。黄金亦为「西方七宝」之一。"
     translated: "Buddhist statues of Tibetan Buddhism have a layer of gold leaf applied using the gilding method. Gold is also one of the Seven Jewels of the West"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 273
   raw: "eq20216	玉佛坠饰	temp	以玉石雕刻而成的坠饰。是大研镇药铺老板的所有物，但这似乎是女性的饰品。	202	3000	1500	TRUE	0	50		2	1	1		0		0	"
   translated: ""
@@ -3282,10 +4374,14 @@
     text: "玉佛坠饰"
     translated: "Jade Buddha Drop Earrings"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以玉石雕刻而成的坠饰。是大研镇药铺老板的所有物，但这似乎是女性的饰品。"
     translated: "An amulet made of jade carving. It belongs to the owner of a pharmacy in Dayan Town, but it seems like a woman's accessory"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 274
   raw: "eq20217	绳结坠饰	eq20217	以一般玉石及红色绳线编制的饰品，是漱玉矶一带百姓常见的配饰。	202	1000	500	TRUE	0	10		1	1	1		0	(MaxMP,300)	0	"
   translated: ""
@@ -3294,10 +4390,14 @@
     text: "绳结坠饰"
     translated: "Rope knot pendant"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以一般玉石及红色绳线编制的饰品，是漱玉矶一带百姓常见的配饰。"
     translated: "Generally crafted jewelry made of jade and red string is a common accessory among the people around Gleaming Jade Beach"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 275
   raw: "eq20218	香包	eq20218	药香四溢的香包，具有却病驱虫的功效。	202	1000	500	TRUE	0	50		1	1	1		0		jewelry10	"
   translated: ""
@@ -3306,10 +4406,14 @@
     text: "香包"
     translated: "Scent pouch"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "药香四溢的香包，具有却病驱虫的功效。"
     translated: "The aromatic pouches are fragrant and have the effect of curing illness and repelling insects"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 276
   raw: "eq20219	鱼形佩	eq20219	以矿物雕刻而成的鱼形饰品。	202	1000	500	TRUE	1	50		1	1	1		0		jewelry11	"
   translated: ""
@@ -3318,10 +4422,14 @@
     text: "鱼形佩"
     translated: "Amulet in the shape of a fish"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以矿物雕刻而成的鱼形饰品。"
     translated: "A fish-shaped ornament carved from minerals"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 277
   raw: "eq20221	龙形佩	eq20221	以矿物雕刻而成的龙形饰品。	202	1000	500	TRUE	1	50		1	1	1		0		jewelry12	"
   translated: ""
@@ -3330,10 +4438,14 @@
     text: "龙形佩"
     translated: "Dragon-shaped pendant"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以矿物雕刻而成的龙形饰品。"
     translated: "Dragon-shaped ornament carved from minerals"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 278
   raw: "eq20220	虎形佩	eq20220	以矿物雕刻而成的虎形饰品。	202	1000	500	TRUE	1	50		1	1	1		0		jewelry13	"
   translated: ""
@@ -3342,10 +4454,14 @@
     text: "虎形佩"
     translated: "Tiger-shaped Pendant"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以矿物雕刻而成的虎形饰品。"
     translated: "Carved from mineral into the shape of a tiger ornament"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 279
   raw: "eq20222	兽牙坠饰	eq20222	以野兽牙雕刻而成的饰品。	202	700	350	TRUE	2	50		1	1	1		0		jewelry14	"
   translated: ""
@@ -3354,10 +4470,14 @@
     text: "兽牙坠饰"
     translated: "Beast's Tooth Pendant"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以野兽牙雕刻而成的饰品。"
     translated: "A decorative item carved from the teeth of wild beasts"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 280
   raw: "eq20223	凤羽	eq20223	大红花掉落的羽毛，配戴者会感觉自己身轻如燕。	202	1000	500	TRUE	2	50		0	1	1		0		jewelry15	"
   translated: ""
@@ -3366,10 +4486,14 @@
     text: "凤羽"
     translated: "Phoenix Feather"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "大红花掉落的羽毛，配戴者会感觉自己身轻如燕。"
     translated: "The feathers that fall from the Red Flower will make those who wear them feel as light as a swallow"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 281
   raw: "eq20224	畅销的开运商品	eq20224	即便随处可见的坠饰，经大研镇算命仙加持后价格也能翻上几番。只要心诚，佩戴它就能带来心灵慰藉。	202	1500	750	TRUE	0	30		1	1	1		0		jewelry16	"
   translated: ""
@@ -3378,10 +4502,14 @@
     text: "畅销的开运商品"
     translated: "Bestselling Lucky Charm Products"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "即便随处可见的坠饰，经大研镇算命仙加持后价格也能翻上几番。只要心诚，佩戴它就能带来心灵慰藉。"
     translated: "Even though such pendants are commonly seen, their price can increase several times after being blessed by a fortune-telling expert in Dayan Town. As long as one is sincere, wearing it will bring solace to the soul"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 282
   raw: "eq20225	诡异的坠饰	eq20225	异常丑陋的小佛像，丑到佛祖看到自己被刻成这样都会愤怒，戴着会倒霉也不奇怪。对喜欢自虐的人来说也许能产生磨练效果。	202	1500	750	TRUE	0	10		1	1	1		0	(Intelligence,10)	jewelry17	"
   translated: ""
@@ -3390,10 +4518,14 @@
     text: "诡异的坠饰"
     translated: "Mysterious Pendant"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "异常丑陋的小佛像，丑到佛祖看到自己被刻成这样都会愤怒，戴着会倒霉也不奇怪。对喜欢自虐的人来说也许能产生磨练效果。"
     translated: "The grotesquely ugly little Buddha statue is so unattractive that even the Buddha would be angry to see himself carved like this, so it’s no wonder wearing it brings bad luck. However, for people who enjoy self-inflicted pain, it might have a refining effect"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 283
   raw: "eq20226	银项链	eq20226	价格高昂、成色极佳的项链，传说具有辟邪的效果。	202	2000	1000	TRUE	1	35		1	1	1		0	(MaxHP,500)	0	"
   translated: ""
@@ -3402,10 +4534,14 @@
     text: "银项链"
     translated: "Silver necklace"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "价格高昂、成色极佳的项链，传说具有辟邪的效果。"
     translated: "Highly expensive and excellent quality necklace, rumored to have the effect of repelling evil"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 284
   raw: "eq20227	金手指	eq20227	此物并非武林名宿嘉藤英赖以纵横武坛的那个金手指，而是上天授予手段突破天地法则限制者的证明。	202	50000	25000	TRUE	3	99		1	1	1		0		jewelry19	"
   translated: ""
@@ -3414,10 +4550,14 @@
     text: "金手指"
     translated: "Golden Hand Technique"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "此物并非武林名宿嘉藤英赖以纵横武坛的那个金手指，而是上天授予手段突破天地法则限制者的证明。"
     translated: "This item is not the Golden Finger with which Jia Teng Yinglai dominated the martial world, but rather a testament granted by Heaven to those who have surpassed the limitations of heavenly and earthly laws"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 285
   raw: "eq20228	寒玉镯	eq20228	寒玉以玉为名，实为百丈坚冰下经万年自然生成的一点冰精。其中蕴含的寒气几近无穷无尽，即使带离极地依然不化。配戴者举手投足间都能以森森寒风伤敌。	202	5000	2500	TRUE	2	80		1	1	1		0		frozen03	(it70321,1)"
   translated: ""
@@ -3426,10 +4566,14 @@
     text: "寒玉镯"
     translated: "Frost Jade Bracelet"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "寒玉以玉为名，实为百丈坚冰下经万年自然生成的一点冰精。其中蕴含的寒气几近无穷无尽，即使带离极地依然不化。配戴者举手投足间都能以森森寒风伤敌。"
     translated: "Xianyu, named after jade, is actually a point of ice essence naturally formed over thousands of years under a hundred fathoms of solid ice. The frost within it is nearly boundless and never melts even if taken away from the poles. Its wearer can harm enemies with a chill breeze simply by moving their hands"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 286
   raw: "eq20229	地贼护腕	eq20229	来历不明的护腕，能激发穿戴者潜能。穿戴者轻功越高，效果愈发卓著。	202	10000	5000	TRUE	3	99		1	1	1		0		jewelry21	"
   translated: ""
@@ -3438,10 +4582,14 @@
     text: "地贼护腕"
     translated: "Bandit's Bracer"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "来历不明的护腕，能激发穿戴者潜能。穿戴者轻功越高，效果愈发卓著。"
     translated: "The origin of the armguard is unknown, and it can unleash the potential of its wearer. The more proficient the wearer's qinggong is, the more remarkable the effects"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 287
   raw: "eq20230	雪翼雕之羽	eq20230	雪翼雕掉落的羽毛，别在身上后，感觉自己健步如飞。	202	3000	1500	TRUE	3	60		1	1	1		0		jewelry20	"
   translated: ""
@@ -3450,10 +4598,14 @@
     text: "雪翼雕之羽"
     translated: "Snowwing's Ornithopter Feather"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "雪翼雕掉落的羽毛，别在身上后，感觉自己健步如飞。"
     translated: "After the Snowwing bird dropped its feathers and he put them on his body, he felt as if he could walk effortlessly"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 288
   raw: "eq20231	金丝镯儿	eq20231	一只少女样式的金丝手镯，也不知道张君宝带在身上要干什么。	202	2000	1000	TRUE	2	70		1	1	1		0		jewelry31	"
   translated: ""
@@ -3462,10 +4614,14 @@
     text: "金丝镯儿"
     translated: "Golden Chain Bracelet"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "一只少女样式的金丝手镯，也不知道张君宝带在身上要干什么。"
     translated: "A girl-style gold chain bracelet, it's unclear what Zhang Junbao is planning to do by wearing it"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 289
   raw: "eq20232	金锁片	eq20232	刻有骆元玉名字，祈求新生儿健康平安的金锁片。骆大娘作为长姐，辛苦拉拔骆元玉长大，并不富裕的骆大娘曾多次将之典当以过年关，但总是会在流当前把它赎回。	202	1500	750	TRUE	2	70		1	1	1		0		jewelry24	"
   translated: ""
@@ -3474,10 +4630,14 @@
     text: "金锁片"
     translated: "Gold Lock Fragment"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "刻有骆元玉名字，祈求新生儿健康平安的金锁片。骆大娘作为长姐，辛苦拉拔骆元玉长大，并不富裕的骆大娘曾多次将之典当以过年关，但总是会在流当前把它赎回。"
     translated: "Gold lock charm inscribed with Luo Yuanyu's name, a blessing for the newborn’s health and safety. As the eldest sister, Grandma Luo raised Luo Yuanyu through hardships without wealth. She had pawned it multiple times to get by during the New Year but always redeemed it once past the current year"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 290
   raw: "eq20233	男人的宝贝	eq20233	司徒荆贴身收藏，极为宝爱的一罐东西，内容物似乎不该深究。	202	2	1	TRUE	2	99		1	1	1		0		jewelry25	"
   translated: ""
@@ -3486,10 +4646,14 @@
     text: "男人的宝贝"
     translated: "A man's treasure"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "司徒荆贴身收藏，极为宝爱的一罐东西，内容物似乎不该深究。"
     translated: "Situ Jing's personal collection included an extremely cherished can of something, the contents of which seemed best left unexamined"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 291
   raw: "eq20234	寒血银簪	eq20234	沾染黑色毒血的银制发簪。白露霜用以刺死一名修炼寒阴邪功的对头，由于沾染其毒血，寒气逼人，佩戴在身具有退敌奇效，然而自己也难免受其影响。	202	2000	1000	TRUE	2	40		1	1	1		0		jewelry27	"
   translated: ""
@@ -3498,10 +4662,14 @@
     text: "寒血银簪"
     translated: "Frostblood Silver Hairpin"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "沾染黑色毒血的银制发簪。白露霜用以刺死一名修炼寒阴邪功的对头，由于沾染其毒血，寒气逼人，佩戴在身具有退敌奇效，然而自己也难免受其影响。"
     translated: "Sliver hairpin tainted with black venomous blood. Bai Lushuang used it to kill a rival who practiced cold shadow nefarious kung fu. Due to the tainted venom, the cold aura is overpowering; wearing it on oneself has an extraordinary effect in repelling enemies but also inevitably affects the wearer"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 292
   raw: "eq20235	重明玉带钩	eq20235	系在腰带上的玉制配饰，以昂首振翅的重明鸟为造型，佩戴在身有提振士气之效。	202	3000	1500	TRUE	2	99		1	1	1		0		jewelry26	"
   translated: ""
@@ -3510,10 +4678,14 @@
     text: "重明玉带钩"
     translated: "Dragon's Claw Pearl Loop"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "系在腰带上的玉制配饰，以昂首振翅的重明鸟为造型，佩戴在身有提振士气之效。"
     translated: "The jade ornament attached to the belt, shaped like a majestic rising bird, is said to boost morale when worn"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 293
   raw: "eq20236	白银飞燕发钗	eq20236	秘银打造成双飞燕形象的发钗，象征夫妇双飞，和乐美满。	202	6000	3000	TRUE	1	60		1	1	1		0		jewelry28	"
   translated: ""
@@ -3522,10 +4694,14 @@
     text: "白银飞燕发钗"
     translated: "White Silver Flying Swallow Hairpin"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "秘银打造成双飞燕形象的发钗，象征夫妇双飞，和乐美满。"
     translated: "Secret silver crafted into a hairpin in the shape of two flying swallows, symbolizing a happily married couple soaring together"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 294
   raw: "eq20237	并蒂莲心耳饰	eq20237	以金丝打造成并蒂莲心形象的黄金耳饰，精致小巧，象征夫妻永结同心。	202	6000	3000	TRUE	1	60		1	1	1		0		jewelry29	"
   translated: ""
@@ -3534,10 +4710,14 @@
     text: "并蒂莲心耳饰"
     translated: "Conjoined Lotus Heart Earring"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "以金丝打造成并蒂莲心形象的黄金耳饰，精致小巧，象征夫妻永结同心。"
     translated: "Handcrafted gold earrings shaped like a conjoined lotus heart using fine golden thread, delicate and small, symbolizing eternal togetherness of spouses"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 295
   raw: "eq20238	翡翠冰心玉镯	eq20238	冰心翡翠玲珑剔透，便如女子一片冰心爱护夫婿，至死不渝。	202	6000	3000	TRUE	1	60		1	1	1		0		jewelry30	"
   translated: ""
@@ -3546,10 +4726,14 @@
     text: "翡翠冰心玉镯"
     translated: "Jade Pendant with Jade Heart"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "冰心翡翠玲珑剔透，便如女子一片冰心爱护夫婿，至死不渝。"
     translated: "Beryl-like jades, translucent and clear, are like a woman's love for her husband—cold-hearted yet unwavering until death"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 296
   raw: "eq20239	如意双鱼佩	eq20219	翠玉如波，双鱼圆转，乃是一件极精致的吉祥玉佩。	202	1000	500	TRUE	1	30		1	1	1		0		jewelry32	"
   translated: ""
@@ -3558,7 +4742,11 @@
     text: "如意双鱼佩"
     translated: "The Fish Amulet of Desires"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "翠玉如波，双鱼圆转，乃是一件极精致的吉祥玉佩。"
     translated: "Cumulus jade undulating like waves, with double fish turning in circles, is an exquisite and auspicious jade pendant"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''

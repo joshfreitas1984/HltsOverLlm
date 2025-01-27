@@ -6,10 +6,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Each round, the cumulative combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 1
   raw: "0_TalentNode001	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -18,10 +22,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time taking damage, the combo rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 2
   raw: "0_TalentNode002	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -30,10 +38,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Each round, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 3
   raw: "0_TalentNode003	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -42,10 +54,14 @@
     text: "动功"
     translated: "Practice Neigong"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time a hit is received, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 4
   raw: "0_TalentNode004	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -54,10 +70,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Each round's combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 5
   raw: "0_TalentNode005	由动入刚	可累积暴击率并发动特技「暴击」：当次招式威力提升30%（每回合与每次受击时，累积暴击率2% ）	2_TalentIcon00	(Combo,0)(Critical,2)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,2)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent00009	2_TalentNode020"
   translated: ""
@@ -66,10 +86,14 @@
     text: "由动入刚"
     translated: "From movement to strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积暴击率并发动特技「暴击」：当次招式威力提升30%（每回合与每次受击时，累积暴击率2% ）"
     translated: "Can accumulate critical hit rate and activate special skill Critical Hit：This attack's power is increased by 30%. (Each round and upon each hit, it accumulates a critical rate of 2%)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 6
   raw: "0_TalentNode006	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -78,10 +102,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Each round, the consecutive hit rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 7
   raw: "0_TalentNode007	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -90,10 +118,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time hit, cumulative combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 8
   raw: "0_TalentNode008	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -102,10 +134,14 @@
     text: "动功"
     translated: "Practice Neigong"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Every turn, the consecutive hit rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 9
   raw: "0_TalentNode009	由动入巧	可累积虚招值并发动特技「虚招」：对攻击目标随机附加晕眩、迷惑、分筋、错骨，其中任一种负面状态20点（每回合与每次受击时，累积虚招发动率2%）。	4_TalentIcon00	(Trick,2)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,2)	[]		talent00010	4_TalentNode013"
   translated: ""
@@ -114,10 +150,14 @@
     text: "由动入巧"
     translated: "From dynamic to clever"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积虚招值并发动特技「虚招」：对攻击目标随机附加晕眩、迷惑、分筋、错骨，其中任一种负面状态20点（每回合与每次受击时，累积虚招发动率2%）。"
     translated: "Can accumulate fake move points and activate the technique Fake Move：Randomly apply the status effects of dizziness, confusion, muscle splitting, and joint manipulation to attack targets; each negative status effect lasts for 20 points (cumulative chance of triggering feign attacks at 2% per turn and per hit)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 10
   raw: "0_TalentNode010	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -126,10 +166,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Each round, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 11
   raw: "0_TalentNode011	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -138,10 +182,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time you take a hit, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 12
   raw: "0_TalentNode012	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -150,10 +198,14 @@
     text: "动功"
     translated: "Practice Neigong"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time you are hit, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 13
   raw: "0_TalentNode013	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -162,10 +214,14 @@
     text: "动功"
     translated: "Practice internal energy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time hit, cumulative combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 14
   raw: "0_TalentNode014	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -174,10 +230,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Each round, cumulative combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 15
   raw: "0_TalentNode015	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -186,10 +246,14 @@
     text: "动功"
     translated: "Practice internal skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time hit, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 16
   raw: "0_TalentNode016	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -198,10 +262,14 @@
     text: "动功"
     translated: "Practice internal martial arts"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Each round, the cumulative combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 17
   raw: "0_TalentNode017	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -210,10 +278,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time a hit is taken, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 18
   raw: "0_TalentNode018	夺命连环	当回合内每使出一招，连击率额外累积5点，攻击力加成30%，可累计。回合结束时，攻击加成累计效果消失。	0_TalentIcon09	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent00008	"
   translated: ""
@@ -222,10 +294,14 @@
     text: "夺命连环"
     translated: "Deadly Linked Assassinations"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "当回合内每使出一招，连击率额外累积5点，攻击力加成30%，可累计。回合结束时，攻击加成累计效果消失。"
     translated: "On each attack within the round, the combo rate accumulates an additional 5 points. Attack power receives a 30% boost, which can accumulate. The accumulated attack bonus effect disappears at the end of the turn"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 19
   raw: "0_TalentNode019	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -234,10 +310,14 @@
     text: "动功"
     translated: "Practice Neigong"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Each round, the accumulated combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 20
   raw: "0_TalentNode020	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -246,10 +326,14 @@
     text: "动功"
     translated: "Practicing internal skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time you are hit, the consecutive attack rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 21
   raw: "0_TalentNode021	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -258,10 +342,14 @@
     text: "动功"
     translated: "Practice Neigong"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Each round, the accumulated combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 22
   raw: "0_TalentNode022	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -270,10 +358,14 @@
     text: "动功"
     translated: "Engage in Neigong"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time taking damage, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 23
   raw: "0_TalentNode023	强化动如脱兔	每回合与每次受击时，累积连击发动率额外增加１％。	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -282,10 +374,14 @@
     text: "强化动如脱兔"
     translated: "Enhance vitality to the point of escaping like a startled hare"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合与每次受击时，累积连击发动率额外增加１％。"
     translated: "Every round and each time you are hit, the combo trigger rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 24
   raw: "0_TalentNode024	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -294,10 +390,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Each time taking a hit, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 25
   raw: "0_TalentNode025	动功	每次受击时累积连击率额外增加1%	TalenIcon_7001	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,1)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -306,10 +406,14 @@
     text: "动功"
     translated: "Practice internal cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积连击率额外增加1%"
     translated: "Every time you are hit, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 26
   raw: "0_TalentNode026	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -318,10 +422,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Every round, cumulative critical hit rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 27
   raw: "0_TalentNode027	动如脱兔	可累积连击率并发动特技「连击」：恢复自身精力2点。（每回合与每次受击时，累积连击率2%）	0_TalentIcon01	(Combo,2)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,2)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,2)(CounterAttackDamage,0)(TrickDamage,0)	[{\"Type\":2,\"Value1\":\"0\",\"Value2\":\"0_TalentNode000\"}]		talent00000	"
   translated: ""
@@ -330,10 +438,14 @@
     text: "动如脱兔"
     translated: "Swift as a startled hare"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积连击率并发动特技「连击」：恢复自身精力2点。（每回合与每次受击时，累积连击率2%）"
     translated: "Can accumulate a combo rate and activate the special technique Combo：Restore 2 points of personal energy. (Accumulate a critical hit rate of 2% each round and each time you are struck.)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 28
   raw: "0_TalentNode028	先发制人	第一回合额外增加2点精力	0_TalentIcon08	(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(CounterAttackValue,0)(TrickValue,0)(ComboValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent00003	"
   translated: ""
@@ -342,10 +454,14 @@
     text: "先发制人"
     translated: "Take the initiative"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "第一回合额外增加2点精力"
     translated: "First round gains an additional 2 points of vigor"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 29
   raw: "0_TalentNode029	雷厉风行	轻功愈高，招式威力愈强（每10点轻功，招式威力增加4%）	0_TalentIcon02		[]		talent00001	"
   translated: ""
@@ -354,10 +470,14 @@
     text: "雷厉风行"
     translated: "Act with swift decisiveness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "轻功愈高，招式威力愈强（每10点轻功，招式威力增加4%）"
     translated: "The higher the Qinggong, the stronger the power of the techniques (the power of techniques increases by 4% for every 10 points of Qinggong)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 30
   raw: "0_TalentNode030	神出鬼没	轻功越高，招式所附带的负面状态越好	0_TalentIcon03		[]		talent00002	"
   translated: ""
@@ -366,10 +486,14 @@
     text: "神出鬼没"
     translated: "Phantom-like, elusive"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "轻功越高，招式所附带的负面状态越好"
     translated: "The higher the qinggong, the better the negative states associated with techniques"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 31
   raw: "0_TalentNode031	身手矫健	使用道具所需精力减少1点	0_TalentIcon06	(Combo,0)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent00005	"
   translated: ""
@@ -378,10 +502,14 @@
     text: "身手矫健"
     translated: "Agile and nimble"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "使用道具所需精力减少1点"
     translated: "Using the item reduces required stamina by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 32
   raw: "0_TalentNode032	动如雷震	第一回合额外增加1点精力，发动连击时额外增加1点精力	0_TalentIcon05	(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(CounterAttackValue,0)(TrickValue,0)(ComboValue,1)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent00004	"
   translated: ""
@@ -390,10 +518,14 @@
     text: "动如雷震"
     translated: "Swift as a thunderclap"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "第一回合额外增加1点精力，发动连击时额外增加1点精力"
     translated: "First round gains an additional 1 point of energy, and when activating a combo attack, gains an extra 1 point of energy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 33
   raw: "0_TalentNode033	莫一思停	有机率闪避敌人的攻击，轻功越高，机率越高	0_TalentIcon04	(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(CounterAttackValue,0)(TrickValue,0)(ComboValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent00007	"
   translated: ""
@@ -402,10 +534,14 @@
     text: "莫一思停"
     translated: "Do not stop thinking"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "有机率闪避敌人的攻击，轻功越高，机率越高"
     translated: "There is a chance to evade the enemy's attack, and the higher your qinggong, the higher the chance"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 34
   raw: "0_TalentNode034	宁一思进	移动后连击率、招式威力额外增加，回合结束时，攻击加成累计效果消失。	0_TalentIcon07	(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(CounterAttackValue,0)(TrickValue,0)(ComboValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent00006	"
   translated: ""
@@ -414,10 +550,14 @@
     text: "宁一思进"
     translated: "Nei Yisi enters"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "移动后连击率、招式威力额外增加，回合结束时，攻击加成累计效果消失。"
     translated: "After moving, the combo rate and technique power increase additionally. The attack bonus cumulative effect disappears at the end of the turn"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 35
   raw: "0_TalentNode035	动功	每回合累积连击率额外增加1%	TalenIcon_7001	(Combo,1)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -426,10 +566,14 @@
     text: "动功"
     translated: "Practice martial skills"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积连击率额外增加1%"
     translated: "Each round, the combo rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 36
   raw: "0_TalentNode036			0_TalentIcon00		null			"
   translated: ""
@@ -438,10 +582,14 @@
     text: ""
     translated: ""
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: ""
     translated: ""
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 37
   raw: "1_TalentNode000	静以待变	可累积反击率并发动特技「反击」：受击后，以装备中的反击技攻击敌方。（每回合与每次受击时，累积反击率2％ ）。	1_TalentIcon01	(CounterAttack,2)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,2)(TrickDamage,0)	[{\"Type\":2,\"Value1\":\"0\",\"Value2\":\"1_TalentNode009\"}]		talent00000	"
   translated: ""
@@ -450,10 +598,14 @@
     text: "静以待变"
     translated: "Be calm and wait for change"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积反击率并发动特技「反击」：受击后，以装备中的反击技攻击敌方。（每回合与每次受击时，累积反击率2％ ）。"
     translated: "Can accumulate counterattack rate and activate the technique Counterattack：Upon being hit, counterattack the enemy using the counter-attack technique in your equipment. (Cumulative counter-attack rate increases by 2% each round and every time you are hit)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 38
   raw: "1_TalentNode001	后发制人	执行等待不消耗精力，另外，每次受击时累积反击率额外增加5%	1_TalentIcon08	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,5)(TrickDamage,0)	[]		talent10007	"
   translated: ""
@@ -462,10 +614,14 @@
     text: "后发制人"
     translated: "Strike back after a delay"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "执行等待不消耗精力，另外，每次受击时累积反击率额外增加5%"
     translated: "Execution in wait does not consume energy, and each time you are hit, the counterattack rate additionally increases by 5%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 39
   raw: "1_TalentNode002	料敌机先	发动反击的同时减免伤害15%	1_TalentIcon05	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent10002	"
   translated: ""
@@ -474,10 +630,14 @@
     text: "料敌机先"
     translated: "Anticipate the enemy's moves"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "发动反击的同时减免伤害15%"
     translated: "Launch a counterattack while reducing damage taken by 15%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 40
   raw: "1_TalentNode003	古井无波	发动反击的同时降低自身全部负面状态5点	1_TalentIcon04	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent10003	"
   translated: ""
@@ -486,10 +646,14 @@
     text: "古井无波"
     translated: "Still Waters"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "发动反击的同时降低自身全部负面状态5点"
     translated: "Initiate a counterattack while reducing all negative status effects by 5 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 41
   raw: "1_TalentNode004	守株待兔	当敌人进入自身反击范围时，有40%机率以反击技攻击该敌人	1_TalentIcon07	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(TrickValue,0)(CounterAttackValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent10006	"
   translated: ""
@@ -498,10 +662,14 @@
     text: "守株待兔"
     translated: "Waiting by a stump for rabbits"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "当敌人进入自身反击范围时，有40%机率以反击技攻击该敌人"
     translated: "When an enemy enters the attacker's counterattack range, there is a 40% chance to attack that enemy with a countering technique"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 42
   raw: "1_TalentNode005	静如止水	若当回合没有移动，则结束回合时反击率增加20%	1_TalentIcon02	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent10001	"
   translated: ""
@@ -510,10 +678,14 @@
     text: "静如止水"
     translated: "Still as motionless water"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "若当回合没有移动，则结束回合时反击率增加20%"
     translated: "If no movement occurs during the turn, the counterattack rate increases by 20% at the end of the turn"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 43
   raw: "1_TalentNode006	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -522,10 +694,14 @@
     text: "静功"
     translated: "Quietude Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time you are struck, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 44
   raw: "1_TalentNode007	蓄而后发	发动反击、黄雀在后或是守株待兔时，扣除敌人1点精力	1_TalentIcon03	(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CounterAttack,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent10004	"
   translated: ""
@@ -534,10 +710,14 @@
     text: "蓄而后发"
     translated: "Hold and then release"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "发动反击、黄雀在后或是守株待兔时，扣除敌人1点精力"
     translated: "When launching a counterattack, playing waiting for the sparrow behind, or relying on hiding in the bamboo and waiting for rabbits, deduct 1 point from the enemy's energy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 45
   raw: "1_TalentNode008	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -546,10 +726,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 46
   raw: "1_TalentNode009	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -558,10 +742,14 @@
     text: "静功"
     translated: "Internal Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 47
   raw: "1_TalentNode010	强化静以待变	每回合与每次受击时，累积反击发动率额外增加１％。	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -570,10 +758,14 @@
     text: "强化静以待变"
     translated: "Strengthen calm and wait for changes"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合与每次受击时，累积反击发动率额外增加１％。"
     translated: "Each turn and each time they are hit, the counterattack activation rate additionally increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 48
   raw: "1_TalentNode011	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -582,10 +774,14 @@
     text: "静功"
     translated: "Neigong (Internal Skill)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time you are hit, your counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 49
   raw: "1_TalentNode012	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -594,10 +790,14 @@
     text: "静功"
     translated: "Neigong"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, accumulate an additional 1% counterattack rate"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 50
   raw: "1_TalentNode013	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -606,10 +806,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time it is hit, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 51
   raw: "1_TalentNode014	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -618,10 +822,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, the counterattack rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 52
   raw: "1_TalentNode015	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -630,10 +838,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time you are hit, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 53
   raw: "1_TalentNode016	由静入柔	可累积卸劲值并发动特技「卸劲」：发动卸劲时，当次伤害减免20%（每回合与每次受击时，累积卸劲率2%）	3_TalentIcon00	(Release,2)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,2)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent10009	3_TalentNode021"
   translated: ""
@@ -642,10 +854,14 @@
     text: "由静入柔"
     translated: "From stillness comes softness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积卸劲值并发动特技「卸劲」：发动卸劲时，当次伤害减免20%（每回合与每次受击时，累积卸劲率2%）"
     translated: "Can accumulate discharge power points and activate the technique Discharge Power：When activating the reduction of force, the damage is reduced by 20% for that instance (cumulative disengagement rate increases by 2% each round and with each hit)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 54
   raw: "1_TalentNode017	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -654,10 +870,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 55
   raw: "1_TalentNode018	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -666,10 +886,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time it is struck, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 56
   raw: "1_TalentNode019	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -678,10 +902,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 57
   raw: "1_TalentNode020	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -690,10 +918,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time when hit, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 58
   raw: "1_TalentNode021	由静入拙	体质增加8点，内功增加4点	5_TalentIcon00		[]	(Physique,8)(Neigong,4)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	5_TalentNode009"
   translated: ""
@@ -702,10 +934,14 @@
     text: "由静入拙"
     translated: "From stillness to simplicity"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加8点，内功增加4点"
     translated: "Constitution increased by 8 points, Internal Power increased by 4 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 59
   raw: "1_TalentNode022	黄雀在后	当敌人在自身的反击范围内攻击队友，有20%机率以反击技攻击该敌人	1_TalentIcon06	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent10005	"
   translated: ""
@@ -714,10 +950,14 @@
     text: "黄雀在后"
     translated: "Wise after the event"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "当敌人在自身的反击范围内攻击队友，有20%机率以反击技攻击该敌人"
     translated: "When an enemy attacks a teammate within their counterattack range, there is a 20% chance to use the counterattack skill to attack that enemy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 60
   raw: "1_TalentNode023	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -726,10 +966,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 61
   raw: "1_TalentNode024	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -738,10 +982,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time taking a hit, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 62
   raw: "1_TalentNode025	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -750,10 +998,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 63
   raw: "1_TalentNode026	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -762,10 +1014,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time you are hit, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 64
   raw: "1_TalentNode027	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -774,10 +1030,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round's cumulative counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 65
   raw: "1_TalentNode028	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -786,10 +1046,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 66
   raw: "1_TalentNode029	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -798,10 +1062,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, the counterattack rate is additionally increased by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 67
   raw: "1_TalentNode030	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -810,10 +1078,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time you are hit, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 68
   raw: "1_TalentNode031	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -822,10 +1094,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Every time a hit is taken, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 69
   raw: "1_TalentNode032	静功	每回合累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,1)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -834,10 +1110,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积反击率额外增加1%"
     translated: "Each round, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 70
   raw: "1_TalentNode033	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -846,10 +1126,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time a hit is received, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 71
   raw: "1_TalentNode034	借力打力	发动反击时，将自身所受伤害，额外增加至对敌人所造成的反击伤害	1_TalentIcon09	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent10008	"
   translated: ""
@@ -858,10 +1142,14 @@
     text: "借力打力"
     translated: "One hand clapping"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "发动反击时，将自身所受伤害，额外增加至对敌人所造成的反击伤害"
     translated: "When launching a counterattack, the damage inflicted on the enemy will be increased by the amount of damage received by oneself"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 72
   raw: "1_TalentNode035	静功	每次受击时累积反击率额外增加1%	TalenIcon_7001	(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,1)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -870,10 +1158,14 @@
     text: "静功"
     translated: "Quiet Cultivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积反击率额外增加1%"
     translated: "Each time when hit, the counterattack rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 73
   raw: "1_TalentNode036			0_TalentIcon00		null			"
   translated: ""
@@ -882,10 +1174,14 @@
     text: ""
     translated: ""
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: ""
     translated: ""
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 74
   raw: "2_TalentNode000	以刚制柔	可累积暴击率并发动特技「暴击」：当次招式威力提升30%（每回合与每次受击时，累积暴击率2% ）	2_TalentIcon01	(Critical,2)(CriticalValue,30)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,2)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[{\"Type\":2,\"Value1\":\"0\",\"Value2\":\"2_TalentNode009\"}]		talent00000	"
   translated: ""
@@ -894,10 +1190,14 @@
     text: "以刚制柔"
     translated: "From Hardness Comes Softness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积暴击率并发动特技「暴击」：当次招式威力提升30%（每回合与每次受击时，累积暴击率2% ）"
     translated: "Can accumulate critical hit rate and activate the skill Critical Hit：This attack's power is increased by 30%. Each turn and each time it is hit, the critical rate accumulates by 2%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 75
   raw: "2_TalentNode001	以力服人	招式威力提升15%	2_TalentIcon02	(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(Critical,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent20001	"
   translated: ""
@@ -906,10 +1206,14 @@
     text: "以力服人"
     translated: "Conquer by force"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "招式威力提升15%"
     translated: "Technique power increased by 15%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 76
   raw: "2_TalentNode002	劲风扫叶	击倒敌人回复自身精力，敌人等级越高，回复精力越多	2_TalentIcon03		[]		talent20002	"
   translated: ""
@@ -918,10 +1222,14 @@
     text: "劲风扫叶"
     translated: "Strong wind sweeps the leaves"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "击倒敌人回复自身精力，敌人等级越高，回复精力越多"
     translated: "Knock down an enemy to recover your own energy; the higher the enemy's level, the more energy you will recover"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 77
   raw: "2_TalentNode003	气吞山河	友军越少，自身暴击率累积越快	2_TalentIcon04		[]		talent20003	"
   translated: ""
@@ -930,10 +1238,14 @@
     text: "气吞山河"
     translated: "Conquer all under heaven"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "友军越少，自身暴击率累积越快"
     translated: "As there are fewer allies, the self-critical hit rate accumulates faster"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 78
   raw: "2_TalentNode004	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -942,10 +1254,14 @@
     text: "刚劲"
     translated: "Stiff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time hit, critical strike rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 79
   raw: "2_TalentNode005	破金断玉	暴击后给予敌人大量外伤	2_TalentIcon07	(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(Critical,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent20004	"
   translated: ""
@@ -954,10 +1270,14 @@
     text: "破金断玉"
     translated: "Break Gold, Shatter Jade"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "暴击后给予敌人大量外伤"
     translated: "Inflict a massive external wound on the enemy after a critical hit"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 80
   raw: "2_TalentNode006	狮子搏兔	若出招所耗费的精力超过5点，招式威力提升；耗费精力越多，威力越强。	2_TalentIcon05	(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(Critical,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent20006	"
   translated: ""
@@ -966,10 +1286,14 @@
     text: "狮子搏兔"
     translated: "Leopard Pounces on Hare"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "若出招所耗费的精力超过5点，招式威力提升；耗费精力越多，威力越强。"
     translated: "If the energy expenditure for a move exceeds 5 points, the power of the technique is enhanced; the more energy expended, the greater the power"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 81
   raw: "2_TalentNode007	万夫莫敌	自身2单位距离内，每多一名敌人，暴击伤害增加25%	2_TalentIcon08		[]		talent20007	"
   translated: ""
@@ -978,10 +1302,14 @@
     text: "万夫莫敌"
     translated: "Invincible to all"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "自身2单位距离内，每多一名敌人，暴击伤害增加25%"
     translated: "Within a 2-unit radius of the self, for each additional enemy, critical hit damage increases by 25%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 82
   raw: "2_TalentNode008	奋英雄怒	自身气血每减少10%，暴击伤害增加10%，另外，自身气血少于30%时，招式威力大幅提升	2_TalentIcon09		[]		talent20008	"
   translated: ""
@@ -990,10 +1318,14 @@
     text: "奋英雄怒"
     translated: "Arise with the rage of a hero"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "自身气血每减少10%，暴击伤害增加10%，另外，自身气血少于30%时，招式威力大幅提升"
     translated: "For every 10% decrease in own Lifeforce, critical hit damage increases by 10%. Additionally, when own Lifeforce is below 30%, the power of techniques significantly increases"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 83
   raw: "2_TalentNode009	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1002,10 +1334,14 @@
     text: "刚劲"
     translated: "Stiff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Each round, additional critical hit rate accumulates by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 84
   raw: "2_TalentNode010	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1014,10 +1350,14 @@
     text: "刚劲"
     translated: "Stiffness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time hit, critical strike rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 85
   raw: "2_TalentNode011	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1026,10 +1366,14 @@
     text: "刚劲"
     translated: "Stiff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Each round, an additional critical hit rate of 1% is accumulated"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 86
   raw: "2_TalentNode012	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1038,10 +1382,14 @@
     text: "刚劲"
     translated: "Stiff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time you are hit, the critical strike rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 87
   raw: "2_TalentNode013	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1050,10 +1398,14 @@
     text: "刚劲"
     translated: "Steadfast"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Each round additionally accumulates a critical hit rate increase of 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 88
   raw: "2_TalentNode014	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1062,10 +1414,14 @@
     text: "刚劲"
     translated: "Resolute"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time you are struck, the critical hit rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 89
   raw: "2_TalentNode015	由刚入拙	体质增加8点，内功增加4点	5_TalentIcon00		[]	(Physique,8)(Neigong,4)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	5_TalentNode010"
   translated: ""
@@ -1074,10 +1430,14 @@
     text: "由刚入拙"
     translated: "Just entering clumsily"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加8点，内功增加4点"
     translated: "Constitution increased by 8 points, internal power increased by 4 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 90
   raw: "2_TalentNode016	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1086,10 +1446,14 @@
     text: "刚劲"
     translated: "Stiff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Each round accumulates an additional critical hit rate of 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 91
   raw: "2_TalentNode017	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1098,10 +1462,14 @@
     text: "刚劲"
     translated: "Stiff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time you take damage, the critical hit rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 92
   raw: "2_TalentNode018	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1110,10 +1478,14 @@
     text: "刚劲"
     translated: "Robust"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Each round, an additional critical hit rate is accumulated by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 93
   raw: "2_TalentNode019	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1122,10 +1494,14 @@
     text: "刚劲"
     translated: "Steadfast"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time hit, the critical strike rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 94
   raw: "2_TalentNode020	由刚入动	可累积连击率并发动特技「连击」：恢复自身精力2点。（每回合与每次受击时，累积连击率2%）	0_TalentIcon00	(Combo,2)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,2)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent20009	0_TalentNode005"
   translated: ""
@@ -1134,10 +1510,14 @@
     text: "由刚入动"
     translated: "Just recently got started"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积连击率并发动特技「连击」：恢复自身精力2点。（每回合与每次受击时，累积连击率2%）"
     translated: "Can accumulate hit rate and activate the special skill Combo：Recover 2 points of vitality. (Cumulative combo rate increases by 2% each round and upon being hit.)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 95
   raw: "2_TalentNode021	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1146,10 +1526,14 @@
     text: "刚劲"
     translated: "Stiff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Each round, accumulate an additional critical hit rate of 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 96
   raw: "2_TalentNode022	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1158,10 +1542,14 @@
     text: "刚劲"
     translated: "Sturdy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time hit, critical strike rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 97
   raw: "2_TalentNode023	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1170,10 +1558,14 @@
     text: "刚劲"
     translated: "Stiff"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Each round gains an additional critical strike rate of 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 98
   raw: "2_TalentNode024	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1182,10 +1574,14 @@
     text: "刚劲"
     translated: "Stiff, firm"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time hit, critical hit rate increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 99
   raw: "2_TalentNode025	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1194,10 +1590,14 @@
     text: "刚劲"
     translated: "Sturdy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Every round, an additional critical hit rate of 1% is accumulated"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 100
   raw: "2_TalentNode026	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1206,10 +1606,14 @@
     text: "刚劲"
     translated: "Stiffness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time you are hit, the critical strike rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 101
   raw: "2_TalentNode027	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1218,10 +1622,14 @@
     text: "刚劲"
     translated: "Stiffness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Each round accumulates an additional critical hit rate of 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 102
   raw: "2_TalentNode028	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1230,10 +1638,14 @@
     text: "刚劲"
     translated: "Stiffness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time hit, the critical rate accumulates an additional increase of 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 103
   raw: "2_TalentNode029	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1242,10 +1654,14 @@
     text: "刚劲"
     translated: "Stiffness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Each round, additional critical hit rate accumulates by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 104
   raw: "2_TalentNode030	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1254,10 +1670,14 @@
     text: "刚劲"
     translated: "Stiffness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Each time hit, critical hit rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 105
   raw: "2_TalentNode031	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1266,10 +1686,14 @@
     text: "刚劲"
     translated: "Stiffness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Every round, accumulate an additional critical hit rate of 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 106
   raw: "2_TalentNode032	强化以刚制柔	每回合与每次受击时，额外累积爆击发动率１％。	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1278,10 +1702,14 @@
     text: "强化以刚制柔"
     translated: "Enhance the soft with hardness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合与每次受击时，额外累积爆击发动率１％。"
     translated: "Each time per round and each time hit, an additional 1% of the critical strike activation rate is accumulated"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 107
   raw: "2_TalentNode033	刚劲	每次受击时累积暴击率额外增加1%	TalenIcon_7001	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,1)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1290,10 +1718,14 @@
     text: "刚劲"
     translated: "Stiffness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时累积暴击率额外增加1%"
     translated: "Every time you are struck, your critical hit rate accumulates an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 108
   raw: "2_TalentNode034	刚劲	每回合额外累积爆击率1%	TalenIcon_7001	(Critical,1)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1302,10 +1734,14 @@
     text: "刚劲"
     translated: "Stiffness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合额外累积爆击率1%"
     translated: "Each round, an additional critical hit rate accumulates by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 109
   raw: "2_TalentNode035	铜皮铁骨	减免自身会遭受的外伤值10点	2_TalentIcon06	(CriticalValue,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent20005	"
   translated: ""
@@ -1314,10 +1750,14 @@
     text: "铜皮铁骨"
     translated: "Iron-Boned and Copper-Skinned"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "减免自身会遭受的外伤值10点"
     translated: "Reduce the external damage taken by oneself by 10 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 110
   raw: "2_TalentNode036			0_TalentIcon00		null		0	"
   translated: ""
@@ -1326,10 +1766,14 @@
     text: ""
     translated: ""
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: ""
     translated: ""
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 111
   raw: "3_TalentNode000	以柔克刚	可累积卸劲值并发动特技「卸劲」：发动卸劲时，当次伤害减免20%（每回合与每次受击时，累积卸劲率2%）	3_TalentIcon01	(Release,2)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,20)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,2)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[{\"Type\":2,\"Value1\":\"0\",\"Value2\":\"3_TalentNode010\"}]		talent00000	"
   translated: ""
@@ -1338,10 +1782,14 @@
     text: "以柔克刚"
     translated: "Softness overcomes hardness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积卸劲值并发动特技「卸劲」：发动卸劲时，当次伤害减免20%（每回合与每次受击时，累积卸劲率2%）"
     translated: "Can accumulate discharge power values and activate the skill Discharge Power：Activate discharging strength when the damage is inflicted; this time, the damage reduction is 20% (accumulate a discharge rate of 2% each round and each hit)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 112
   raw: "3_TalentNode001	空而明之	每次受击时，以自身内力承受35%伤害	3_TalentIcon08	(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)(Release,0)	[]		talent30007	"
   translated: ""
@@ -1350,10 +1798,14 @@
     text: "空而明之"
     translated: "Clear emptiness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击时，以自身内力承受35%伤害"
     translated: "Each time when struck, absorb 35% of the damage with one's own internal power"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 113
   raw: "3_TalentNode002	柔远怀迩	远程攻击所造成的伤害降低	3_TalentIcon04	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent30002	"
   translated: ""
@@ -1362,10 +1814,14 @@
     text: "柔远怀迩"
     translated: "Far and near, near and far"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "远程攻击所造成的伤害降低"
     translated: "Damage reduction from ranged attacks"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 114
   raw: "3_TalentNode003	若有似无	施展招式所消耗的内力减少20%	3_TalentIcon07	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent30004	"
   translated: ""
@@ -1374,10 +1830,14 @@
     text: "若有似无"
     translated: "As if there and yet not there"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "施展招式所消耗的内力减少20%"
     translated: "When the technique is deployed, the internal energy consumed decreases by 20%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 115
   raw: "3_TalentNode004	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1386,10 +1846,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each round, accumulate an additional 1% off-gas rate. When off-gassing, increase damage reduction by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 116
   raw: "3_TalentNode005	棉里藏针	攻击时额外增加敌人内伤值10点	3_TalentIcon06	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent30005	"
   translated: ""
@@ -1398,10 +1862,14 @@
     text: "棉里藏针"
     translated: "Needle in the haystack"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "攻击时额外增加敌人内伤值10点"
     translated: "During an attack, additionally increase the enemy's internal injury value by 10 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 117
   raw: "3_TalentNode006	气随意转	回合结束时，减少自身内伤值10点	3_TalentIcon03	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent30006	"
   translated: ""
@@ -1410,10 +1878,14 @@
     text: "气随意转"
     translated: "Qi flows as you wish"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "回合结束时，减少自身内伤值10点"
     translated: "At the end of your turn, reduce your own internal injury value by 10 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 118
   raw: "3_TalentNode007	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1422,10 +1894,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Every turn, the cumulative discharging rate increases by an additional 1%, and damage reduction upon discharging increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 119
   raw: "3_TalentNode008	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1434,10 +1910,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each round, the accumulated off-gassing rate increases by an additional 1%, and damage reduction upon off-gassing increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 120
   raw: "3_TalentNode009	强化以柔克刚	每回合与每次受击时，累积卸劲发动率额外增加１％。	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1446,10 +1926,14 @@
     text: "强化以柔克刚"
     translated: "Emphasize overcoming hardness with softness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合与每次受击时，累积卸劲发动率额外增加１％。"
     translated: "Each round and upon each hit, the probability of triggering unburdening increases by an additional 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 121
   raw: "3_TalentNode010	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1458,10 +1942,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Every round, the accumulated power release rate increases by an additional 1%, and the damage reduction during power release increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 122
   raw: "3_TalentNode011	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1470,10 +1958,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time you are hit, the force reduction rate increases by an additional 1%, and the damage reduction during force release increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 123
   raw: "3_TalentNode012	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1482,10 +1974,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Every round, the accumulated unloading rate increases by an additional 1%, and the reduction in damage during unloading increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 124
   raw: "3_TalentNode013	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1494,10 +1990,14 @@
     text: "柔劲"
     translated: "Ruojin"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time a hit is taken, the unloading rate bonus increases by 1%, and damage reduction during unloading increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 125
   raw: "3_TalentNode014	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1506,10 +2006,14 @@
     text: "柔劲"
     translated: "Supple Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Every round, the off-gear rate accumulates an additional 1%. Each time gear is disengaged, damage reduction increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 126
   raw: "3_TalentNode015	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1518,10 +2022,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time a hit is taken, the force dispersion rate increases by an additional 1%, and damage reduction during force dispersion increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 127
   raw: "3_TalentNode016	由柔入巧	可累积虚招值并发动特技「虚招」：对攻击目标随机附加晕眩、迷惑、分筋、错骨，封穴，其中任一种负面状态20点（每回合与每次受击时，累积虚招发动率2%）。	4_TalentIcon00	(Trick,2)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,2)	[]		talent30009	4_TalentNode018"
   translated: ""
@@ -1530,10 +2038,14 @@
     text: "由柔入巧"
     translated: "From softness to skill"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积虚招值并发动特技「虚招」：对攻击目标随机附加晕眩、迷惑、分筋、错骨，封穴，其中任一种负面状态20点（每回合与每次受击时，累积虚招发动率2%）。"
     translated: "Can accumulate fake move points and activate the technique Fake Move：Randomly applies one of the following negative status effects to the target upon attack: dizziness, confusion, dislocation, bone misalignment, or nerve blockage, each reducing the target's action points by 20 (with a cumulative chance of triggering a feint every round and each time hit at a rate of 2%)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 128
   raw: "3_TalentNode017	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1542,10 +2054,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Every round, the additional unburdening rate increases by 1%, and the damage reduction when unburdening increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 129
   raw: "3_TalentNode018	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1554,10 +2070,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time taking a hit, the energy dissipation rate increases by an additional 1%, and damage reduction during energy dissipation increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 130
   raw: "3_TalentNode019	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1566,10 +2086,14 @@
     text: "柔劲"
     translated: "Rou jin"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each round, the accumulated unloading power rate increases by an additional 1%, and when unloading, damage reduction increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 131
   raw: "3_TalentNode020	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1578,10 +2102,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Every time you are hit, the recoil reduction rate increases by an additional 1%, and the damage reduction during recoil increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 132
   raw: "3_TalentNode021	由柔入静	可累积反击率并发动特技「反击」：受击后，以装备中的反击技攻击敌方。（每回合与每次受击时，累积反击率2％ ）。	1_TalentIcon00	(CounterAttack,2)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,2)(TrickDamage,0)	[]		talent00000	1_TalentNode016"
   translated: ""
@@ -1590,10 +2118,14 @@
     text: "由柔入静"
     translated: "From softness to stillness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积反击率并发动特技「反击」：受击后，以装备中的反击技攻击敌方。（每回合与每次受击时，累积反击率2％ ）。"
     translated: "Can accumulate counterattack rate and activate the skill Counterattack：After being hit, attack the enemy with the counterattack skill in your equipment. (Each round and every time you are hit, accumulate a counterattack rate of 2%)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 133
   raw: "3_TalentNode022	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1602,10 +2134,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Every round, the accumulated unloading rate is additionally increased by 1%, and damage reduction upon unloading increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 134
   raw: "3_TalentNode023	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1614,10 +2150,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time the target is hit, the knockback rate increases by an additional 1%, and the damage reduction upon being knocked back increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 135
   raw: "3_TalentNode024	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1626,10 +2166,14 @@
     text: "柔劲"
     translated: "Soft Power"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each round, cumulative reduction rate increases by an additional 1%, and damage mitigation during reduction increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 136
   raw: "3_TalentNode025	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1638,10 +2182,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Every round, the disperse Qi rate increases by an additional 1%. The reduction in damage when dispersing Qi increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 137
   raw: "3_TalentNode026	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1650,10 +2198,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time you take a hit, the cumulative unloading rate increases by an additional 1%, and when unloading to reduce damage, the reduction increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 138
   raw: "3_TalentNode027	柔劲	每回合累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,1)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1662,10 +2214,14 @@
     text: "柔劲"
     translated: "Supple Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each round, the rate of releasing force is additionally increased by 1%, and damage reduction increases by 1% when releasing force"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 139
   raw: "3_TalentNode028	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1674,10 +2230,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time when taking a hit, cumulative energy dissipation rate increases by an additional 1%, and damage reduction during energy dissipation increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 140
   raw: "3_TalentNode029	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1686,10 +2246,14 @@
     text: "柔劲"
     translated: "Soft Power"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time you receive a hit, the off-charge rate increases by an additional 1%. The reduction of damage during the off-charge increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 141
   raw: "3_TalentNode030	沾连黏随	受到攻击的敌人，会更倾向于将目标转移到自己身上	3_TalentIcon02	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)(ReleaseValue,0)	[]		talent30001	"
   translated: ""
@@ -1698,10 +2262,14 @@
     text: "沾连黏随"
     translated: "Adhere and stick together"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "受到攻击的敌人，会更倾向于将目标转移到自己身上"
     translated: "When under attack, enemies are more likely to shift their target onto themselves"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 142
   raw: "3_TalentNode031	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1710,10 +2278,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time hit, the rate of unloading power increases by an additional 1%, and damage reduction increases by 1% when unloading"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 143
   raw: "3_TalentNode032	生生不息	被医术治疗时，回复气血的效果更佳；自身正面状态的时效延长	3_TalentIcon05	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)(ReleaseValue,0)	[]		talent30003	"
   translated: ""
@@ -1722,10 +2294,14 @@
     text: "生生不息"
     translated: "Unceasingly"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "被医术治疗时，回复气血的效果更佳；自身正面状态的时效延长"
     translated: "When treated with medical skills, the effect of restoring life force is enhanced; the duration of positive states is extended"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 144
   raw: "3_TalentNode033	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1734,10 +2310,14 @@
     text: "柔劲"
     translated: "Soft Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time when hit, accumulate additional deactivation rate of 1%, with healing damage increase by 1% upon deactivation"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 145
   raw: "3_TalentNode034	四两拨千斤	发动卸劲时，将因卸劲而减免的伤害转移给自身2格内的所有敌方	3_TalentIcon09	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent30008	"
   translated: ""
@@ -1746,10 +2326,14 @@
     text: "四两拨千斤"
     translated: "Move a thousand pounds with just four ounces"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "发动卸劲时，将因卸劲而减免的伤害转移给自身2格内的所有敌方"
     translated: "When activating the Jettison Strength, transfer the damage reduced by Jettison Strength to all enemy targets within 2 squares of yourself"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 146
   raw: "3_TalentNode035	柔劲	每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%	TalenIcon_7001	(Release,0)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,1)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,1)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -1758,10 +2342,14 @@
     text: "柔劲"
     translated: "Ruo Jin"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积卸劲率额外增加1%，卸劲时减伤增加1%"
     translated: "Each time when struck, the cumulative reduction rate increases by an additional 1%, and damage reduction upon unloading increases by 1%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 147
   raw: "4_TalentNode000	以巧破拙	可累积虚招值并发动特技「虚招」：对攻击目标随机附加晕眩、迷惑、分筋、错骨，封穴，其中任一种负面状态20点（每回合与每次受击时，累积虚招发动率2%）。	4_TalentIcon01	(Trick,2)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,20)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,2)	[{\"Type\":2,\"Value1\":\"0\",\"Value2\":\"4_TalentNode022\"}]		talent00000	"
   translated: ""
@@ -1770,10 +2358,14 @@
     text: "以巧破拙"
     translated: "Outwit the simple-minded"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积虚招值并发动特技「虚招」：对攻击目标随机附加晕眩、迷惑、分筋、错骨，封穴，其中任一种负面状态20点（每回合与每次受击时，累积虚招发动率2%）。"
     translated: "Can accumulate false move points and activate the technique False Move：Randomly applies the negative effects of dizziness, confusion, dislocation, joint manipulation, and nerve block to the attack target. Each effect inflicts 20 points of damage (with a cumulative chance to trigger feint maneuvers at 2% per turn and each hit)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 148
   raw: "4_TalentNode001	指东打西	从敌人的正面攻击时，50%机率将敌人转向至侧面或背面后再进行攻击	4_TalentIcon02	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent40001	"
   translated: ""
@@ -1782,10 +2374,14 @@
     text: "指东打西"
     translated: "Hit left and right"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "从敌人的正面攻击时，50%机率将敌人转向至侧面或背面后再进行攻击"
     translated: "When attacking from the front, there is a 50% chance to turn the enemy to the side or back before attacking"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 149
   raw: "4_TalentNode002	百花齐放	同一场战斗中，使用超过3种不同的招式攻击，招式威力额外提升，给予敌人的负面状态值额外增加	4_TalentIcon08	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent40007	"
   translated: ""
@@ -1794,10 +2390,14 @@
     text: "百花齐放"
     translated: "One Hundred Flowers in Bloom"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "同一场战斗中，使用超过3种不同的招式攻击，招式威力额外提升，给予敌人的负面状态值额外增加"
     translated: "In the same battle, using more than three different techniques to attack increases the power of the techniques and adds additional negative status values inflicted on the enemy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 150
   raw: "4_TalentNode003	暗劲伤人	50%机率造成敌人5点封穴	4_TalentIcon06	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent40005	"
   translated: ""
@@ -1806,10 +2406,14 @@
     text: "暗劲伤人"
     translated: "Hidden force injures people"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "50%机率造成敌人5点封穴"
     translated: "50% chance to cause the enemy 5 points of seal point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 151
   raw: "4_TalentNode004	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1818,10 +2422,14 @@
     text: "巧劲"
     translated: "Skilled strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Every time when hit, add an additional 1% to the evasion rate and increase aptitude by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 152
   raw: "4_TalentNode005	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1830,10 +2438,14 @@
     text: "巧劲"
     translated: "Skillful strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Every time you are hit, the cumulative rate of feigned moves increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 153
   raw: "4_TalentNode006	以虚御实	发动虚招时，回复1点精力	4_TalentIcon07	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent40006	"
   translated: ""
@@ -1842,10 +2454,14 @@
     text: "以虚御实"
     translated: "Use emptiness to meet fullness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: 
+    flaggedGlossaryOut: 
   - split: 2
     text: "发动虚招时，回复1点精力"
     translated: "Regain 1 Qi when performing a feint"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 154
   raw: "4_TalentNode007	旁敲侧击	由敌人的背面或侧面攻击时，自身的虚招率提升	4_TalentIcon03	(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(Trick,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent40002	"
   translated: ""
@@ -1854,10 +2470,14 @@
     text: "旁敲侧击"
     translated: "Indirect approach"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "由敌人的背面或侧面攻击时，自身的虚招率提升"
     translated: "When attacking from the enemy's back or side, your feint rate is increased"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 155
   raw: "4_TalentNode008	巧夺天工	攻击时，若目标敌人身上的负面状态超过2个以上，所受到的伤害越重	4_TalentIcon09	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent40008	"
   translated: ""
@@ -1866,10 +2486,14 @@
     text: "巧夺天工"
     translated: "Deviously skillful"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "攻击时，若目标敌人身上的负面状态超过2个以上，所受到的伤害越重"
     translated: "When attacking, if the target enemy has more than two negative statuses on them, the damage received will be heavier"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 156
   raw: "4_TalentNode009	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1878,10 +2502,14 @@
     text: "巧劲"
     translated: "Skilled strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Each turn, the accumulation of feigned moves increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 157
   raw: "4_TalentNode010	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1890,10 +2518,14 @@
     text: "巧劲"
     translated: "Wits"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Each time taking damage, the likelihood of a missed strike increases by an additional 1%, and the aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 158
   raw: "4_TalentNode011	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1902,10 +2534,14 @@
     text: "巧劲"
     translated: "Expert skill"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Every round, the accumulation of feigned moves increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 159
   raw: "4_TalentNode012	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1914,10 +2550,14 @@
     text: "巧劲"
     translated: "Reflex"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Each time hit, additional increase of evasive rate by 1%, plus an increase of 1 aptitude point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 160
   raw: "4_TalentNode013	由巧入动	可累积连击率并发动特技「连击」：恢复自身精力2点。（每回合与每次受击时，累积连击率2%）	0_TalentIcon00	(Combo,2)(Critical,0)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,2)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent40010	0_TalentNode009"
   translated: ""
@@ -1926,10 +2566,14 @@
     text: "由巧入动"
     translated: "From cleverness to action"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积连击率并发动特技「连击」：恢复自身精力2点。（每回合与每次受击时，累积连击率2%）"
     translated: "Can accumulate a combo rate and activate the technique Combo：Restore 2 points of personal energy. (Accumulate a critical strike rate of 2% each round and with each hit.)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 161
   raw: "4_TalentNode014	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1938,10 +2582,14 @@
     text: "巧劲"
     translated: "Agile Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Each round cumulatively increases the bluff rate by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 162
   raw: "4_TalentNode015	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1950,10 +2598,14 @@
     text: "巧劲"
     translated: "Skilled Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Each time hit, cumulative fake rate increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 163
   raw: "4_TalentNode016	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1962,10 +2614,14 @@
     text: "巧劲"
     translated: "Skilled strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Each round, an additional 1% to the empty move rate and an increase of 1 point in aptitude"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 164
   raw: "4_TalentNode017	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1974,10 +2630,14 @@
     text: "巧劲"
     translated: "Skilled strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Each time struck, cumulative miss rate increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 165
   raw: "4_TalentNode018	由巧入柔	可累积卸劲值并发动特技「卸劲」：发动卸劲时，当次伤害减免20%（每回合与每次受击时，累积卸劲率2%）	3_TalentIcon00	(Release,2)(Critical,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,2)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent40009	3_TalentNode016"
   translated: ""
@@ -1986,10 +2646,14 @@
     text: "由巧入柔"
     translated: "From cleverness to softness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积卸劲值并发动特技「卸劲」：发动卸劲时，当次伤害减免20%（每回合与每次受击时，累积卸劲率2%）"
     translated: "Can accumulate discharge energy points and activate the skill Discharge Energy：When activating the release technique, reduce damage by 20% for that hit (cumulatively gain a release rate of 2% each turn and per hit)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 166
   raw: "4_TalentNode019	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -1998,10 +2662,14 @@
     text: "巧劲"
     translated: "Agility"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Each time struck, cumulative feint rate increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 167
   raw: "4_TalentNode020	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2010,10 +2678,14 @@
     text: "巧劲"
     translated: "Agility"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Each round, the cumulative bluff rate increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 168
   raw: "4_TalentNode021	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2022,10 +2694,14 @@
     text: "巧劲"
     translated: "Agility"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Each round, accumulate an additional 1% of feigning rate, and increase aptitude by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 169
   raw: "4_TalentNode022	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2034,10 +2710,14 @@
     text: "巧劲"
     translated: "Skilled strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Each round, the cumulative bluff rate increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 170
   raw: "4_TalentNode023	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2046,10 +2726,14 @@
     text: "巧劲"
     translated: "Delicacy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Each round cumulative increase in false move rate by an additional 1%, aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 171
   raw: "4_TalentNode024	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2058,10 +2742,14 @@
     text: "巧劲"
     translated: "Awkwardness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Each round, the cumulative bluff rate increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 172
   raw: "4_TalentNode025	眩人耳目	15%机率发动，发动后给予中招者迷惑值15点或是晕眩值15点	4_TalentIcon04	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent40003	"
   translated: ""
@@ -2070,10 +2758,14 @@
     text: "眩人耳目"
     translated: "Blindingly dazzling"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "15%机率发动，发动后给予中招者迷惑值15点或是晕眩值15点"
     translated: "15% chance to activate, upon activation it grants the target 15 points of confusion or 15 points of dizziness"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 173
   raw: "4_TalentNode026	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2082,10 +2774,14 @@
     text: "巧劲"
     translated: "Skilled strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Each time hit, accumulative missing rate increases by an additional 1%, aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 174
   raw: "4_TalentNode027	擒拿锁扣	15%机率发动，发动后给予中招者分筋值15点或是错骨值15点	4_TalentIcon05	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent40004	"
   translated: ""
@@ -2094,10 +2790,14 @@
     text: "擒拿锁扣"
     translated: "Grapple Locks"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "15%机率发动，发动后给予中招者分筋值15点或是错骨值15点"
     translated: "There is a 15% chance to activate, upon activation it inflicts either 15 points of Muscle Damage or 15 points of Joint Manipulation to the target"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 175
   raw: "4_TalentNode028	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2106,10 +2806,14 @@
     text: "巧劲"
     translated: "Skilled Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Each time a hit is taken, the extra chance to be knocked out increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 176
   raw: "4_TalentNode029	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2118,10 +2822,14 @@
     text: "巧劲"
     translated: "Graceful Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Every round, accumulate an additional 1% in evasive moves and increase aptitude by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 177
   raw: "4_TalentNode030	强化虚实难测	若招式可以给予中招者分筋或错骨，则给予的值增加３点。	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		0	"
   translated: ""
@@ -2130,10 +2838,14 @@
     text: "强化虚实难测"
     translated: "Enhance the indistinguishable reality"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "若招式可以给予中招者分筋或错骨，则给予的值增加３点。"
     translated: "If the technique can cause dislocation or joint manipulation to the opponent, then an additional 3 points are awarded"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 178
   raw: "4_TalentNode031	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2142,10 +2854,14 @@
     text: "巧劲"
     translated: "Skilled Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Each time hit, cumulative miss rate increases by an additional 1%, aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 179
   raw: "4_TalentNode032	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2154,10 +2870,14 @@
     text: "巧劲"
     translated: "Agility"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Each turn, the cumulative feigning rate increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 180
   raw: "4_TalentNode033	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2166,10 +2886,14 @@
     text: "巧劲"
     translated: "Technical Skill"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Every time a hit is received, the probability of a missed attack increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 181
   raw: "4_TalentNode034	巧劲	每回合累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,1)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2178,10 +2902,14 @@
     text: "巧劲"
     translated: "Agility"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每回合累积虚招率额外增加1%，资质增加1点"
     translated: "Every round, cumulative feint rate increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 182
   raw: "4_TalentNode035	巧劲	每次受击累积虚招率额外增加1%，资质增加1点	TalenIcon_7001	(Trick,0)(Critical,0)(Release,0)(Combo,0)(CounterAttack,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,1)	[]	(Intelligence,1)	0	"
   translated: ""
@@ -2190,10 +2918,14 @@
     text: "巧劲"
     translated: "Grace"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "每次受击累积虚招率额外增加1%，资质增加1点"
     translated: "Every time you are hit, the cumulative miss rate increases by an additional 1%, and aptitude increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 183
   raw: "5_TalentNode000	以拙胜巧	体质增加20点，内功增加4点	5_TalentIcon01		[{\"Type\":2,\"Value1\":\"0\",\"Value2\":\"5_TalentNode011\"}]	(Physique,20)(Neigong,4)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	talent00000	"
   translated: ""
@@ -2202,10 +2934,14 @@
     text: "以拙胜巧"
     translated: "Simple surpasses the cunning"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加20点，内功增加4点"
     translated: "Constitution increased by 20 points, internal energy increased by 4 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 184
   raw: "5_TalentNode001	聚精会神	战斗中，精力增加1点	5_TalentIcon08		[]		talent50003	"
   translated: ""
@@ -2214,10 +2950,14 @@
     text: "聚精会神"
     translated: "Concentrate intensely"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "战斗中，精力增加1点"
     translated: "During the battle, energy increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 185
   raw: "5_TalentNode002	面面俱到	减少侧击与背袭所受到的伤害加成	5_TalentIcon03		[]		talent50002	"
   translated: ""
@@ -2226,10 +2966,14 @@
     text: "面面俱到"
     translated: "Comprehensive and thorough"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "减少侧击与背袭所受到的伤害加成"
     translated: "Reduce the damage bonus from side attacks and backstabs"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 186
   raw: "5_TalentNode003	稳扎稳打	强化武学数值对于招式伤害的影响	5_TalentIcon07		[]		talent50004	"
   translated: ""
@@ -2238,10 +2982,14 @@
     text: "稳扎稳打"
     translated: "Steady and sure"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "强化武学数值对于招式伤害的影响"
     translated: "Enhancing martial arts stats affects the damage output of techniques"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 187
   raw: "5_TalentNode004	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2250,10 +2998,14 @@
     text: "拙劲"
     translated: "Unskilled"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Neigong increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 188
   raw: "5_TalentNode005	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2262,10 +3014,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Internal power increased by one point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 189
   raw: "5_TalentNode006	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2274,10 +3030,14 @@
     text: "拙劲"
     translated: "Unskilled"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 190
   raw: "5_TalentNode007	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2286,10 +3046,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 191
   raw: "5_TalentNode008	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2298,10 +3062,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 192
   raw: "5_TalentNode009	由拙入静	可累积反击率并发动特技「反击」：受击后，以装备中的反击技攻击敌方。（每回合与每次受击时，累积反击率2％ ）。	1_TalentIcon00	(CounterAttack,2)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,2)(TrickDamage,0)	[]		talent00000	1_TalentNode021"
   translated: ""
@@ -2310,10 +3078,14 @@
     text: "由拙入静"
     translated: "From mediocrity to tranquility"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积反击率并发动特技「反击」：受击后，以装备中的反击技攻击敌方。（每回合与每次受击时，累积反击率2％ ）。"
     translated: "Can accumulate counter-attack rate and activate the skill Counterattack：After being hit, counterattack the enemy using a counterstrike technique from your equipment. (Each round and each time you are hit, accumulate a 2% counterattack rate.)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 193
   raw: "5_TalentNode010	由拙入刚	可累积暴击率并发动特技「暴击」：当次招式威力提升30%（每回合与每次受击时，累积暴击率2% ）	2_TalentIcon00	(Combo,0)(Critical,2)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,2)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)	[]		talent50009	2_TalentNode015"
   translated: ""
@@ -2322,10 +3094,14 @@
     text: "由拙入刚"
     translated: "From the humble to the strong"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "可累积暴击率并发动特技「暴击」：当次招式威力提升30%（每回合与每次受击时，累积暴击率2% ）"
     translated: "Can accumulate critical hit rate and activate the special technique Critical Hit：This technique's power increases by 30%. Each turn and upon each hit, the critical strike rate accumulates an additional 2%"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 194
   raw: "5_TalentNode011	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2334,10 +3110,14 @@
     text: "拙劲"
     translated: "Clumsy Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 195
   raw: "5_TalentNode012	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2346,10 +3126,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Neigong increased by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 196
   raw: "5_TalentNode013	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2358,10 +3142,14 @@
     text: "拙劲"
     translated: "Feeble"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 197
   raw: "5_TalentNode014	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2370,10 +3158,14 @@
     text: "拙劲"
     translated: "Inept"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Neigong increased by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 198
   raw: "5_TalentNode015	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2382,10 +3174,14 @@
     text: "拙劲"
     translated: "Clumsy Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution +3"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 199
   raw: "5_TalentNode016	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2394,10 +3190,14 @@
     text: "拙劲"
     translated: "Clumsy Strength"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Neigong increases by 1 point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 200
   raw: "5_TalentNode017	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2406,10 +3206,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 201
   raw: "5_TalentNode018	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2418,10 +3222,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Internal power increased by one point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 202
   raw: "5_TalentNode019	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2430,10 +3238,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 203
   raw: "5_TalentNode020	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2442,10 +3254,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Internal power increased by one point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 204
   raw: "5_TalentNode021	不露锋芒	扣除中招敌人的一半特技值，若特技值不足10点则全部扣除	5_TalentIcon04		[]		talent50006	"
   translated: ""
@@ -2454,10 +3270,14 @@
     text: "不露锋芒"
     translated: "Not showing one's strengths"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "扣除中招敌人的一半特技值，若特技值不足10点则全部扣除"
     translated: "Subtract half of the affected enemy's skill points, but if the skill points are less than 10, subtract all"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 205
   raw: "5_TalentNode022	反璞归真	不会被虚招、连击、反击、暴击	5_TalentIcon05		[]		talent50007	"
   translated: ""
@@ -2466,10 +3286,14 @@
     text: "反璞归真"
     translated: "Return to one's original state"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "不会被虚招、连击、反击、暴击"
     translated: "Won't be affected by feints, combos, counterattacks, or critical hits"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 206
   raw: "5_TalentNode023	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2478,10 +3302,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 207
   raw: "5_TalentNode024	苍松劲竹	受击时，受到的所有负面状态值减少6点	5_TalentIcon02		[]		talent50001	"
   translated: ""
@@ -2490,10 +3318,14 @@
     text: "苍松劲竹"
     translated: "Blue Pines and Green Bamboo"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "受击时，受到的所有负面状态值减少6点"
     translated: "Upon impact, all negative status values are reduced by 6 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 208
   raw: "5_TalentNode025	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2502,10 +3334,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 209
   raw: "5_TalentNode026	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2514,10 +3350,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 210
   raw: "5_TalentNode027	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2526,10 +3366,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Internal power increased by one point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 211
   raw: "5_TalentNode028	以简驭繁	同一场战斗中，若连续使用同一项招式出招三次以上，每次招式威力提升(最多累积100%伤害加成)	5_TalentIcon06		[]		talent50005	"
   translated: ""
@@ -2538,10 +3382,14 @@
     text: "以简驭繁"
     translated: "With simplicity, govern complexity"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: 
+    flaggedGlossaryOut: 
   - split: 2
     text: "同一场战斗中，若连续使用同一项招式出招三次以上，每次招式威力提升(最多累积100%伤害加成)"
     translated: "In the same battle, if you use the same technique three times or more consecutively, each time its power increases (maximum cumulative damage bonus of 100%)"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 212
   raw: "5_TalentNode029	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2550,10 +3398,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Internal power increased by one point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 213
   raw: "5_TalentNode030	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2562,10 +3414,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Internal power increased by one point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 214
   raw: "5_TalentNode031	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2574,10 +3430,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Internal power increased by one point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 215
   raw: "5_TalentNode032	拙劲	内功增加1点	TalenIcon_7001		[]	(Neigong,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2586,10 +3446,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
     translated: "Internal power increased by one point"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 216
   raw: "5_TalentNode033	大巧不工	所有招式的攻击范围增加	5_TalentIcon09		[]		talent50008	"
   translated: ""
@@ -2598,10 +3462,14 @@
     text: "大巧不工"
     translated: "Overly elaborate"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "所有招式的攻击范围增加"
     translated: "All attack ranges for all techniques are increased"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 217
   raw: "5_TalentNode034	拙劲	体质增加3点	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2610,10 +3478,14 @@
     text: "拙劲"
     translated: "Clumsy"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加3点"
     translated: "Constitution increases by 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 218
   raw: "5_TalentNode035	强化以拙胜巧	升级时，气血成长值额外增加３点。	TalenIcon_7001		[]	(Physique,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0	"
   translated: ""
@@ -2622,7 +3494,11 @@
     text: "强化以拙胜巧"
     translated: "Emphasize simplicity over complexity"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "升级时，气血成长值额外增加３点。"
     translated: "When leveling up, the growth value of lifeforce increases by an additional 3 points"
     flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''

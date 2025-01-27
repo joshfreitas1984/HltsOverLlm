@@ -52,6 +52,9 @@ public class TranslationSplit
 
     public bool FlaggedForRetranslation { get; set; }
 
+    public string FlaggedGlossaryIn { get; set; }
+    public string FlaggedGlossaryOut { get; set; }
+
     public TranslationSplit() { }
 
     public TranslationSplit(int split, string text)
