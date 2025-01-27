@@ -51,7 +51,6 @@ public class TranslationSplit
     public string? Translated { get; set; }
 
     public bool FlaggedForRetranslation { get; set; }
-
     public string FlaggedGlossaryIn { get; set; }
     public string FlaggedGlossaryOut { get; set; }
 
@@ -61,6 +60,13 @@ public class TranslationSplit
     {
         Split = split;
         Text = text;
+    }
+
+    public void ResetFlags()
+    {
+        FlaggedForRetranslation = false;
+        FlaggedGlossaryIn = string.Empty;
+        FlaggedGlossaryOut = string.Empty;
     }
 }
 

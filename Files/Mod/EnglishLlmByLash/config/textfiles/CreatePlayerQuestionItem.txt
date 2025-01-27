@@ -10,7 +10,7 @@ Question02_1	For the country, for the people, it is the greatest among heroes	0	
 Question02_2	Command the world, and none dare disobey	0		(cf003,1)	(Moral,-30)	0
 Question02_3	Living a life free and unrestrained, haughty and untamed	0		(cf005,1)(cf007,1)(cf006,1)	(Madness,30)	0
 Question02_4	Upright and respectful, a distinguished gentleman	0		(cf002,1)	(Madness,-30)	0
-Question03	When you wander the wulin without a penny to your name, what do you want to live on?	0	Question03_1,Question03_2,Question03_3,Question03_4			3
+Question03	When you walk through the jianghu with not a penny to your name, how do you plan to make a living?	0	Question03_1,Question03_2,Question03_3,Question03_4			3
 Question03_1	Consume grass, following the spirit of Shen Nong tasting a hundred herbs	0		(cf002,1)(nf001,1)		0
 Question03_2	Mineral extraction, who knows, you might mine Bitcoin	0		(cf007,1)(nf003,1)		0
 Question03_3	I'm so invisible, it's perfect to borrow things from others	0		(cf003,1)(nf004,1)		0
@@ -20,9 +20,9 @@ Question04_1	Unarmed and bare-knuckled, fighting in close quarters	0		(cf001,2)(
 Question04_2	Blade like a soaring phoenix, ruler among blades	0		(cf005,1)(cf007,1)	(Sword,11)	0
 Question04_3	Blade like a fierce tiger, strikes fear into the hearts of a hundred soldiers	0		(cf002,1)	(Blade,11)	0
 Question04_4	Long spear and club, one inch long, one inch strong	0			(Spear,11)	0
-Question04_5	Close combat, inch by inch short and precarious	0		(cf006,1)	(Short,11)	0
+Question04_5	As the short weapons clash, a moment's advantage can mean the difference between safety and peril	0		(cf006,1)	(Short,11)	0
 Question04_6	Hidden weapons fired at long range, the Thousand-Armed One	0			(Arrow,11)	0
-Question04_7	Those who tread the martial world must master poison; a man without knowledge of poisons is incomplete	0			(Poison,16)	0
+Question04_7	To navigate the Wulin without poison is not befitting of a true man	0			(Poison,16)	0
 Question05	In the wuxia world, which do you think is the ultimate principle of martial arts?	0	Question05_1,Question05_2,Question05_3,Question05_4,Question05_5,Question05_6			3
 Question05_1	Brave and fierce, unmatched by any; those who face him feel daunted	0		(cf007,1)(tf001,1)		0
 Question05_2	Weakness overcomes strength, and softness overcomes hardness	0		(tf002,1)		0
@@ -59,9 +59,9 @@ Question14_1	With bare hands and empty fists, in close combat	1		(cf011,1)(cf010
 Question14_2	Sword like a flying phoenix, master of a hundred soldiers	1		(cf005,1)(cf009,1)(cf007,1)	(Sword,21)	0
 Question14_3	Blades are like fierce tigers, instilling fear in a hundred armies	1		(cf002,1)	(Blade,21)	0
 Question14_4	Long spear, club; one inch long, one inch strong	1		(cf010,1)	(Spear,21)	0
-Question14_5	In close combat, every inch is short and dangerous	1		(cf006,1)	(Short,21)	0
-Question14_6	Dark projectiles fired from a distance, a thousand-armed Bodhisattva	1		(cf008,1)	(Arrow,21)	0
-Question14_7	Those who venture into the martial world must be fearless in the face of poison	1		(cf004,1)	(Poison,26)	0
+Question14_5	In close combat, every inch counts and can be treacherous	1		(cf006,1)	(Short,21)	0
+Question14_6	Hidden weapons fired at long range, the Thousand-Armed One	1		(cf008,1)	(Arrow,21)	0
+Question14_7	In Wulin, the poison step; no venom, no true man	1		(cf004,1)	(Poison,26)	0
 Question15	In the Wuxia world, what do you think is the ultimate principle of martial arts?	1	Question15_1,Question15_2,Question15_3,Question15_4,Question15_5,Question15_6			3
 Question15_1	Brave and unmatched, striking awe into the hearts of those who face them	1		(cf010,1)(cf007,1)(tf001,1)		0
 Question15_2	With weakness conquering strength, with soft overcoming hard	1		(cf009,1)(tf002,1)		0

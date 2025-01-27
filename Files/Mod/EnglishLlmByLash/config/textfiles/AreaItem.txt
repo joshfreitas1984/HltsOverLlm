@@ -3,7 +3,7 @@ ar00001	Arched Stone Village	-13.2, 132.8, -1022.1	0, 5.490396, 0	130, 30, 100	J
 ar00001_01	Village Chief's House	30.41, 135.17, -1037.44	0, 2.166291, 0	28.10692, 12.6793, 21.4223	J2001.wav	t01	True	True	Village
 ar00002	Gleaming Jade Beach	-373.1, 72.1, -1077.2	0, 126.9846, 0	268.0258, 45.31264, 150	J2007.wav	t02	False	False	Village
 ar00002_01	Shao Family Jade Courtyard	-362.71, 69.2, -1082.87	0, 144.4143, 0	27.56577, 4.66053, 42.44002	J2007.wav	t02	True	True	Village
-ar00002_02	Test Area	-412.1, 72.1, -1110.8	0, 142.5632, 0	30.01009, 17.74322, 31.14775	J2007.wav	t02	True	True	Village
+ar00002_02	Taoshi Guildmaster's Manor	-412.1, 72.1, -1110.8	0, 142.5632, 0	30.01009, 17.74322, 31.14775	J2007.wav	t02	True	True	Village
 ar00003	Eagle Hunter Village	-1237.1, 189.1, -786.2	0, 0, 0	140, 25, 115	J2007.wav	t03	False	False	Village
 ar00004	Heaven's Pillar Fort	-1457.5, 234.8, -361.3	0, 0, 0	160, 35, 105	J2017.wav	t04	False	False	Bastille
 ar00005	Bat King Encampment	-305.1, 189.4, -1326.8	0, 0, 0	100, 20, 60	J2017.wav		False	False	Bastille
@@ -14,7 +14,7 @@ ar00007c	Spirit Mountain Demon Den	-1074.21, 168.2, -1223.95	0, 332.6906, 0	35.4
 ar00008	Dayan Town	-697, 77.6, -1067.8	0, 0, 0	260, 25, 250	J2002.wav	t05	False	False	Town
 ar00008_01	Charming Dream Hall	-738.7, 72.28, -1104.73	0, 0, 0	53.73303, 23.33754, 60.51846	J2006.wav		True	True	Town
 ar00008_02	Goodwill Mansion	-706.1, 72.28, -1036	0, 0, 0	49.53935, 23.33754, 60.31968	J2002.wav		True	True	Town
-ar00009	Mountain Clan Headquarters	-886.9, 78.8, -896.9	0, 331.4432, 0	120, 30, 120	J2008.wav		False	False	Town
+ar00009	Mu Clan Headquarters	-886.9, 78.8, -896.9	0, 331.4432, 0	120, 30, 120	J2008.wav		False	False	Town
 ar00010	The Hidden Treasure Cavern	-221.17, 57.88, -937.09	0, 0, 0	45.4348, 26.75608, 54.14376	J2013.wav		True	True	Cave
 ar00011	Flower and Herb Stall	-424.4, 60.4, 1220.2	0, 49.51375, 0	100, 30, 75	J2007.wav	t19	False	False	Village
 ar00012	Elder's Village	-594.9, 63.8, 50.5	0, 325.2778, 0	85, 30, 70	J2001.wav	t11	False	False	Village
@@ -25,9 +25,9 @@ ar00015	Tianlong Temple	761.9, 97.2, -828.5	0, 0, 0	120, 30, 120	J2012.wav	t13	F
 ar00016	Lifetime Prosperity	-330.2, 95, 663.7	0, 4.507861, 0	157.8009, 98.48057, 157.8685	J2016.wav	t14	False	False	Town
 ar00017	Karma Monastery	-644.8, 124.3, -473.9	0, 41.09216, 0	90, 30, 130	J2012.wav	t10	False	False	Town
 ar00018	Enchanted Spirit Water Fortress	338, 66.5, 917.1	0, 353.9751, 0	93, 20, 80	J2014.wav	t30	False	False	Bastille
-ar00019	Shi Jia Yan Bang	338.8, 78.3, -532.7	0, 51.12562, 0	100, 25, 140	J2015.wav	t12	False	False	Bastille
+ar00019	Shi Family Salt Gang	338.8, 78.3, -532.7	0, 51.12562, 0	100, 25, 140	J2015.wav	t12	False	False	Bastille
 ar00020	Big Cloud Monastery	684.2, 100.4, 1524.7	0, 9.026343, 0	65, 20, 85	J2013.wav	t17	False	False	Village
-ar00021	Qianfo Cliff Broken Temple	-1080.45, 100.46, 617.6	0, 319.9287, 0	29.1568, 20, 21.94764	J2014.wav	t16	False	False	Village
+ar00021	Thousand Buddhas Cliff Temple Ruins	-1080.45, 100.46, 617.6	0, 319.9287, 0	29.1568, 20, 21.94764	J2014.wav	t16	False	False	Village
 ar00022	Serpent's Den	-150.2, 104.6, -1129	34.11689, 331.8229, 5.046077	64.98884, 43.44489, 49.42982	J2014.wav		True	False	Cave
 ar00023	Holy Sanctuary	21.31, 135.38, -1316.95	0, 355.495, 0	80.35287, 27.27358, 37.8044	J2013.wav		True	True	Cave
 ar00025	Gleaming Jade Beach Mine Pit	-529.5, 117.2, -1347.8	0, 349.5139, 0	113.0877, 14.31411, 109.8727	J2013.wav	t22	False	False	Cave

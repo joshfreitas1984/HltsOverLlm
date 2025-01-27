@@ -5,7 +5,7 @@ nick001	Again, God of Agriculture	When collecting herbs, there is a 20% chance o
 nick003	Gold Prospector	During mining, there is a 20% chance to collect double the amount of ore		Player	nick003
 nick004	Invisible Person	When using the Mysterious Hand Trick, it is comparatively difficult to be discovered (the chance of being discovered decreases by 50%)		Player	nick004
 nick005	Heir to a wealthy family	Gain a 10% increase in money		Player	nick005
-nick006	Chosen One	Base damage of baseball fist increases by 20%, and the damage bonus will also increase as the level goes up		Player	nick006
+nick006	Chosen One	Wildball Fist's base damage increases by 20%, and as the level rises, the damage bonus will also increase		Player	nick006
 nick007	Tian Nan Wang Dao	Within a two-grid radius, allies reduce their own negative status by 5 points each round		n51001	nick007
 nick007P	Revive the Kingly Way	Within a 4-tile radius of allies, reduce negative status by 5 points and increase positive status by 3 points each turn		n51001	nick007Plus
 nick008	Thicket of Poisonous Feathers	If you are within a distance of 2 units from He Ziwang, you will be poisoned for 8 points each turn		n90405	nick008
@@ -24,9 +24,9 @@ nick010bP	Mint Words and Orchid Feelings	When Yan Yushu is on the field, all tea
 nick011	Thousand Gold Daughters of the Horse Gang	Every time you are hit, the critical strike rate accumulates an additional 10%, and the critical hit damage increases by 50%		n20049	nick011
 nick011P	Horse Gang Leader	Every time you are hit, the critical strike rate increases by 20%, and the critical hit damage is increased by 80%		n20049	nick011P
 nick012	Spring breeze in October	There is a chance to dodge an enemy's attack; the higher your qinggong, the higher your dodging rate		n60005	nick012
-nick012P	Great Elder Brother	Higher one's qi-enhanced agility, the higher their evasive ability; when executing a back attack, an additional 15 points of disorientation is inflicted on the target		n60005	nick012P
-nick013	Dian Cang Xianzi	Double-sword or double-short-weapon techniques increase damage by 30%		n60040	nick013
-nick013P	White Horse Fairy	Double-sword or double-short-weapon techniques increase power by 50%, and agility is increased by 10 points during combat		n60040	nick013P
+nick012P	Great Elder Brother	The higher one's qinggong, the higher their evasion rate; when executing a backstab, it additionally causes the target to be stunned for 15 points		n60005	nick012P
+nick013	Dian Cang Xianzi	Techniques using twin swords or short weapons have their power increased by 30%		n60040	nick013
+nick013P	White Horse Fairy	Combat techniques with twin swords or twin short weapons increase in power by 50%. During combat, qinggong is enhanced by 10 points		n60040	nick013P
 nick014	Dark Blood Mantra	When attacking a male target, there is a 25% chance to inflict the opponent with 15 points of dizziness and 15 points of confusion		n60100	nick014
 nick014P	Madame of Charming Dream Hall	When the target is male, the skill damage increases, with a 25% chance to inflict 15 points of dizziness and 15 points of confusion on the opponent		n60100	nick014P
 nick015	Heaven's Pillar Fort	When activating the release of energy, one can absorb 60% of their own inflicted damage; each time they attack, it makes enemies more likely to redirect their target towards themselves		n20033	nick015
@@ -56,10 +56,10 @@ nick027P	Illusory reflections	During combat, when Po Mo Xue joins the fray, his 
 nick028	Heavenly Meteor, Solitary Star	If there are no allies, damage and defense increase by 50%, remove negative status effects for 12 points per round, recover 1 energy point with each attack, and restore 15% of life and internal power every 3 attacks		Player	nick028
 nick029	Bladesman	All blade arts power +70%		Player	nick029
 nick030	Blade Madman	All blade arts power +40%		Player	nick030
-nick031	Surging waves of turmoil	Jingbo Sword Style and Kuanglan Ultimate Blade Artistry increase power by 30%		Player	nick031
-nick032	Five Tiger Severance Sword	Five Tiger Severing Gate Sword Arts power +30%		Player	nick032
-nick033	Si Xiang Dao	Si Xiang Dao daofa weili +30%		Player	nick033
-nick034	San Cai Dao	Three Talents Swordsmanship Power +30%		Player	nick034
+nick031	Surging waves of turmoil	Jingbo Blade Arts and Kuanglan Ultimate Blade Force Blade Arts have a power increase of 30%		Player	nick031
+nick032	Five Tiger Severance Sword	The Five Tigers Severance Blade Technique has a +30% increase in power		Player	nick032
+nick033	Si Xiang Dao	Four Symbols Sword Art increases power by 30%		Player	nick033
+nick034	San Cai Dao	Sanzai Sword Techniques +30% power		Player	nick034
 nick035	Villager	Flower Fist and Embroidered Leg techniques increase power by 50%		Player	nick035
 nick036	Elite Villagers	Flower Fists and Embroidered Kicks power increased by 100%		Player	nick036
 nick037	Cannot control one's own hands	The chance of being caught stealing is reduced by 30%		Player	nick037
@@ -80,7 +80,7 @@ nick084	One Hundred Paces, One Shoot	Archery damage increased by 15%		Player	nic
 nick085	Beishan Blue Eagle	Arrow damage increased by 20%		Player	nick085
 nick086	Yulong Feiying	Archery damage increased by 25%; when Ade Ake is in the team, your and Ade Ake's archery damage additionally increases by 15%		Player	nick086
 nick091	Deadly Hand	This unit's every strike carries deadly poison!			nick091
-nick092	God of Fist	Swordsman Supreme, Invincible Fist God!			nick092
+nick092	God of Fist	Wulin Supreme, Invincible Fist God!			nick092
 nick103	Iron Panther Silver Spear	During battle, Black Panther joins the fray; each turn it increases its move damage by 5%, up to a maximum of 50%		n07003	nick103
 nick110	Master	Upon unleashing a critical strike, eliminate all negative states from oneself by 25 points		n50004	nick110
 nick101	There is strength in unity	Each turn, increase dodge rate by 2%, with a maximum of 20%		n90425,n90425b	nick101
@@ -94,9 +94,9 @@ nick111	Unrivaled in the world	The second trait has a special title. When the he
 nick112	Follow one's heart	The Xinliang Daoist has its own title, with a 25% increase in counterattack rate and force reduction rate per turn		n70045	nick112
 nick114	Executioner	When attacking, each accumulated point of poison on the target increases damage by 1%		n00102	nick114
 nick115	Eastern Noble	When using the Thunderbolt Fireball Grenade, there is a 25% chance to attack twice		n90201	nick115
-nick116	South Leisure	At the beginning of each round, randomly recover between 2 and 8 points of Qi		n20230	nick116
-nick117	Western Kitchen	During attack, 50% of the damage is converted into self-life force		n07006	nick117
-nick118	Western Kitchen	When triggering a combo, attack power increases by 100% for one round		n07007	nick118
+nick116	Southern Leisure	At the beginning of each round, randomly recover between 2 and 8 points of Qi		n20230	nick116
+nick117	Western Kitchen	During attack, 50% of the damage is converted into self-lifeforce		n07006	nick117
+nick118	Northern Ugly	When triggering a combo, attack power increases by 100% for one round		n07007	nick118
 nick119	Wuxia Shortcomings	Wuxia Shortcomings			nick119
 nick120	Wuxia barrier (stillness)	Wuxia barrier (stillness)			nick120
 nick121	Wuxia Barrier (Soft)	Wuxia Barrier (Soft)			nick121
@@ -105,7 +105,7 @@ nick123	Wuxia Barrier	Wuxia Barrier			nick123
 nick124	Wuxia Obstacle (Strength)	Wuxia Obstacle (Strength)			nick124
 nick125	Scarlet Alchemist Puppet	During an attack, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of tendon damage value		n00095a,n00095b,n00095c,n00095d,n00095e,n00095f	nick125
 nick126	Western River Military Commander	For enemies within a 3-unit radius, reduce all special attribute values by 25 points each turn		n07001,n07001a	nick126
-nick126b	Master of the Merciless Hall	For enemies within 3 units of range, reduce all skill values by 25 points each turn; when using Baseball Fist, increase the power of the technique by 75%		n07001,n07001a	nick126b
+nick126b	Master of the Merciless Hall	For all enemies within a 3-unit radius around oneself, reduce all skill values by 25 points each turn; when using Wildball Fist, the technique's power is increased by 75%		n07001,n07001a	nick126b
 nick127	Primal Push Hands	When activating Move Four Liang to Generate a Thousand Jin, the target accumulates an internal injury value of 10 points. If the target is male, they additionally accumulate an extra 10 points of internal injury		n90215	nick127
 nick128	The Cold-Faced Yanwang	When launching a feint, there is a 25% chance to apply Yanwang Somo to the target, reducing their Neigong by 3 points each turn		n07004	nick128
 nick129	Life-and-death pursuit	There is a 10% chance to dodge the attack; when performing an evasive maneuver, the practitioner's energy increases by an additional 3 points		n52009,n52009b	nick129
@@ -116,7 +116,7 @@ nick133	Large Cauldron	The less your lifeforce, the higher the damage dealt duri
 nick134	Ye Family Heir	If the target is male, damage increases by 50%; if the target is female, damage decreases by 50%		n20137	nick134
 nick135	Ye Family Guildmaster	Each time a move is made, the technique's damage increases by 5%, up to a maximum of 50%		n20146	nick135
 nick136	Hail and Frost Demon Blade	When an enemy attacks a friendly target within their own counterattack range, there is a 25% chance to retaliate against that enemy		n90602,n90602c	nick136
-nick137	Chongwei Yilie	Each round, restore 10% of health and increase counterattack rate by 10% for allies within a distance of 2 units		n90603	nick137
+nick137	Chongwei Yilie	Each round, restore 10% Lifeforce and increase counterattack rate by 10% for allies within a distance of 2 units from yourself		n90603	nick137
 nick138	Iron Face Battle Armor	When activating a critical strike, additionally restore 3 points of one's own energy		n20037	nick138
 nick139	Butcher of Bloodthirsty People	For each enemy killed, restore an additional 3 points of stamina		n19976,n19976a	nick139
 nick140	Great Black Heaven Protect	Each time you move, increase the combo rate and critical hit rate by 8%		n00013,n00013b	nick140
@@ -186,12 +186,12 @@ nick542	Chexi	Snow Shadow can inflict high damage with an external injury effect
 nick543	King of Venom	Each time Gigantum attacks, it does so with deadly poison while also being able to evade enemy attacks during combat		n59008,n59008_001,n59008_002,n59008_003,n59008_004,n59008_005	nick543
 nick544	Legendary Beast King	The Beast King Jinzong, unmatched in the world; no one can rival him		n59009,n59009_a01,n59009_a02,n59009_a03,n59009_a04,n59009_a05	nick544
 nick600	Beikexia	The name of the Northern Wuxia is formidable across the Central Plains. The power of fist and sword, as well as bow and arrow, increases by 25%, and there is a 50% chance to inflict damage on an enemy twice		n80416,Player	nick600
-nick601	Snow Wolf Flying Fox	Snow Mountain Wuxia, unmatched swordsmanship; swordsmanship power increased by 30%, all damage skills will have external injury effects		n80417,Player	nick601
+nick601	Snow Wolf Flying Fox	Snowy Mountain Enigma, unparalleled in blade arts; blade arts' power increases by 30%. All damage skills inflict bleeding		n80417,Player	nick601
 nick602	Old Poisoner	Swordsmanship Sage, King of Poison, all skills increase in power by 30%, and every blow carries deadly poison		n80419,Player	nick602
-nick603	Swordsmen Who Are Laughing at the World	Your swordsmanship power increases additionally with the rise of your martial arts level, and there is a 20% chance to dodge damage in battle		n80420,Player	nick603
+nick603	The Smiling, Proud Wanderer of the Jianghu	Your sword arts gain additional power and increase further with higher martial skill levels, and there is a 20% chance to evade damage during combat		n80420,Player	nick603
 nick604	Transcendently Versatile	Your innate talent and intelligence allow you to gain more experience points in battle, and there is a 25% chance for you to dodge damage during combat	(Intelligence,10)	n80421,Player	nick604
-nick605	Western Madman	As the craziness value increases, martial arts power becomes stronger, and the effectiveness of swordsmanship increases by 30%		n80422,Player	nick605
-nick606	Teleportation with a Snap of Fingers	Stealth weapons damage increased by 40%, with a 30% chance to dodge attacks during combat		n80423,Player	nick606
+nick605	Western Madman	The higher the frenzy value, the stronger the martial arts power, and sword arts power increases by 30%		n80422,Player	nick605
+nick606	Teleportation with a Snap of Fingers	Hidden weapon power increases by 40%, with a 30% chance to avoid damage in combat		n80423,Player	nick606
 nick607	Compassion in one's heart	All skills' power increases by 40%, and the higher the morality, the stronger the skill's power		n80424,Player	nick607
 nick608	Descending Dragon Divine Palm	Power of fists and palms increased by 40%, all damage skills have internal injury effects		n80425,Player	nick608
 nick609	Reincarnation Transcendence	All skills' power increases by 30%, and there is a 25% chance to inflict damage on the enemy twice		n80426,Player	nick609

@@ -87,11 +87,11 @@ InventoryLevel3	Extraordinary
 InventoryLevel5	Special
 Hurt0	Damage Reduction
 Hurt1	Hand Combat Damage
-Hurt2	Blade Arts Damage
+Hurt2	Sword arts damage
 Hurt3	Blade Arts Damage
-Hurt4	Qianggun Shanghai
+Hurt4	Spiked spear damage
 Hurt5	Hidden Weapon Damage
-Hurt6	Close-Quarter Damage
+Hurt6	Damage from short weapons
 Hurt7	Other injuries
 Hurt8	Double-Blade Damage
 Hurt9	Double Blade Damage
@@ -181,7 +181,7 @@ Area12	Gate of Taihua
 Area13	Bat King Encampment
 Area14	White Horse Residence
 Area15	Flower and Herb Stall
-Area16	Segments of the Southern Zhaos
+Area16	The Duan family of Nanzhao
 Area17	Thicket Fort
 Area18	He Family Horse Gang
 Area19	Ye Family Horse Gang
@@ -556,7 +556,7 @@ UICompass	Compass
 UIMinimap	Mini Map
 UITrackedQuest	Task Tracking
 #创角界面	
-UICreateEnterText	Before entering the world of Hetu Luoshu, there are some questions that need your answer!<br>Are you ready?
+UICreateEnterText	Before entering the world of Heluo Guild of Heroes, there are some questions I need you to answer!<br>Are you ready?
 UICreateClickToContinue	Click to continue
 UICreateQuestNo	Question
 UICreateInvestigateTitle	Please disregard reality and choose what you most deeply long for in your heart
@@ -656,9 +656,9 @@ UISystemReturn	Return to Main Menu
 UISystemExit	Leave the game
 UISystemHelp	Game Encyclopedia
 UITitleNewGame	Embarking on the wulin journey
-UITitleLoad	Once again, battle the world
+UITitleLoad	Again, to battle in the jianghu
 UITitleMod	Module Selection
-UITitleModText	The current module:He Luo Quan Xiao Zhuan
+UITitleModText	Currently, the module is...:Chronicles of Heroes from Heluo
 UIModTitle	Module
 #环境设定接口	
 UISettingTitle	Setting
@@ -778,7 +778,7 @@ UISkillConfirmButton	Apply skill configuration
 UISkillUseNeigongButton	Conduct Neigong
 UISkillLearnedSkill	Has trained martial arts
 UISkillCounterSkill	Equippable Counterattack Techniques
-UISkillNeigongSkill	Operable internal skill
+UISkillNeigongSkill	Practicable neigong
 UISkillInventoryFilterButton	Screening
 UISkillInventoryFilter	Mysterious Manual Displays Classification
 UISKillInventoryAllChoose	Select All
@@ -833,13 +833,13 @@ UIRepair1	Currently possessing money
 UIRepair2	Money
 UIRepair3	Repair
 UIRepair4	Repair all
-UIRepairDialog1	Repairing all the equipment will cost {0} wen. Do you want to repair?
+UIRepairDialog1	Do you want to repair all the equipment for a cost of {0} wen?
 UIRepairDialog2	Repairing all the equipment will cost {0} wen. You do not have enough money
 UIRepairDialog3	No equipment needs repair
 #拆解界面	
 UIDecompose0	Total Disassembly Amount
 UIDecompose3	Disassemble
-UIDecomposeDialog1	Disassemble all the equipment for a cost of {0} wen. Do you want to disassemble?
+UIDecomposeDialog1	Disassembling all of the equipment will cost {0} wen in money. Do you want to disassemble?
 UIDecomposeDialog2	Disassembling all the equipment will cost {0} wen. You do not have enough money
 UIDecomposeDialog3	There are no equipment to be disassembled
 UIDecomposeResult	Obtain disassembly tool
@@ -1043,7 +1043,7 @@ Final02_13	Who said life won't offer a second chance?
 Final02_14	There's still a stream flowing in front of the door, why sing about gray hair and yellow chicken?
 #结局 03	
 Final03_00	See Nature, Understand Heart
-Final03_01	Sacred Scriptures unite in harmony, advancing irresistibly
+Final03_01	With unified efforts and Heavenly Scriptures, they prevail in all endeavors
 Final03_02	However, in an instant, all the top martial artists of Shu were defeated by you two
 Final03_03	You coldly scanned the friends on the ground who had once stood with you in the same line-up
 Final03_04	Limbs scattered here and there, the bodies were in pieces
@@ -1055,7 +1055,7 @@ Final03_09	Looking back at the stranger yet familiar you, they exchanged smiles 
 Final03_10	From now on, you two will walk together
 Final03_11	Create an ideal future that belongs only to you
 Final03_12	In that moment, you felt even more certain that you had chosen the right path
-Final03_13	Exactly：When the tide came up the Zhejiang River, I finally knew who I was today!
+Final03_13	Exactly：Tidal signals from Zhenjiang River arrive, and only today do I truly know myself!
 #结局 04	
 Final04_00	Wolf's Fierce Ambition
 Final04_01	There's an old saying that...：With nine words, one wakes the wanderer; with a single phrase, they awaken those lost in dreams
@@ -1094,9 +1094,9 @@ Final05_19	Will there ever be a day when we can reminisce over old times, sharin
 Final06_00	White Horse Leisurely Mood
 Final06_01	The chaotic world remains so, yet the people of White Horse Residence seem oblivious
 Final06_02	Working hard with laughter, from sunrise to sunset
-Final06_03	Qi Xiao'er suddenly left her sect and was also at a loss
+Final06_03	Qi Xiaoer was initially flustered and at a loss when he suddenly parted ways with his master
 Final06_04	Daytime appears stubborn, but at night silently feels heartbroken
-Final06_05	Fortunately, Li Tan took good care of her and traveled the world with Qi Xiao'er
+Final06_05	Fortunately, Li Tan took good care of her and traveled with Qi Xiaoer across the seas
 Final06_06	They had also sneaked back some letters left by the Pointed Sword Sect
 Final06_07	Knelt and asked the master not to remember nor be concerned
 Final06_08	Finally return to the White Horse Residence to settle down and marry, spending a lifetime together
@@ -1109,7 +1109,7 @@ Final07_04	It brought a period of stability and peace to Dayan Town
 Final07_05	Ade Ake, however, did not forget his ideals. After settling the settlement,
 Final07_06	Then they got on board the ship and crossed over to the other side of the lake, heading eastward on their journey
 Final07_07	Several years later, the rumors about Dayan Town spread like this:
-Final07_08	In the distant East, a traveler from afar appears in the martial world, accompanied by an eagle
+Final07_08	In a distant Eastern Wulin, a traveler from afar appeared, accompanied by an eagle
 Final07_09	With masterful archery skills, they eliminated the bandit hideout and restored peace
 Final07_10	The name Snowy Mountain Divine Eagle quickly spread throughout the entire Wulin
 Final07_11	Several seasons of cold and heat, after enduring the winds and frosts, Ade Ake finally returned from his journey
@@ -1124,7 +1124,7 @@ Final07_19	Ade Ake, however, had not forgotten
 #结局 08	
 Final08_00	The tune ends gracefully
 Final08_01	The rise and fall of the Jianghu, yet Charming Dream Hall always manages to skillfully navigate among various factions
-Final08_02	Feather Xiangdie led her sisters through one challenge after another, facing those who coveted them
+Final08_02	Fan Xiangdie guided her sisters through one trial after another, facing the envy of many
 Final08_03	And with the financial support of Su Qingrui,
 Final08_04	Further expand the scope of intelligence to cover all of Western River
 Final08_05	Su Qingrui, after the Jingtairen incident,
@@ -1140,9 +1140,9 @@ Final09_01	The case at the Leisurely Scholars Academy occurred, and all the book
 Final09_02	Countless precious martial arts manuals were lost as a result
 Final09_03	But with the lack of covert provocations from the Imperial Guards,
 Final09_04	The blood and wind of the Jianghu has finally lessened by a bit
-Final09_05	Several months later, a mysterious female swordsman with exquisite sword skills suddenly appeared
+Final09_05	Several months later, a mysterious female swordsman with astonishing sword arts emerged
 Final09_06	This female swordswoman wandered alone, heading northward
-Final09_07	A sword technique so exquisite at the tip that none in the world can rival it
+Final09_07	His sword arts are sublime to the utmost degree, unmatched by anyone under heaven
 Final09_08	Every time someone asked her about the purpose of her journey,
 Final09_09	She only laughed without speaking
 Final09_10	But just as her fame reached its peak,
@@ -1159,9 +1159,9 @@ Final10_00	Moon sets, stars disappear
 Final10_01	The upheaval over the Heavenly Scriptures came to an end,
 Final10_02	Yan Yushu and Dongfang Chi quietly left the Leisurely Scholars Academy
 Final10_03	Although Emperor Zhu Yuanzhang had dispatched people to search, they always ended up with nothing
-Final10_04	Several months later, a mysterious and exceptionally skilled female swordsman appeared
+Final10_04	Several months later, a mysterious female swordsman with extraordinary sword arts emerged
 Final10_05	This woman swordsman walked alone on her way north
-Final10_06	A sword technique so exquisite at its peak that no one in the world can rival it
+Final10_06	His sword arts are so sublime and delicate that no one in the world can rival him
 Final10_07	Whenever she was asked about the purpose of her journey,
 Final10_08	She only laughed without speaking
 Final10_09	But just as her reputation reached its peak
@@ -1180,7 +1180,7 @@ Final11_03	Leading the He Family Horse Gang,
 Final11_04	Time and time again, they faced off against the assaults of impoverished mountains and treacherous waters, as well as bandits
 Final11_05	Although the He Family Horse Gang is no longer unrivaled,
 Final11_06	But He Yuqing, with her mastery of blade arts and resilient character,
-Final11_07	Still became one of the most respected figures in the martial arts world of Tian Nan
+Final11_07	He remained the most revered Master Horsepot in Tian Nan's martial arts world
 Final11_08	He Yuqing has always regarded protecting the He Family Horse Gang as her own responsibility
 Final11_09	However, the old generation of members of the gang often said this:
 Final11_10	A Yu is no longer the A Yu she used to be
@@ -1191,7 +1191,7 @@ Final11_14	Is it because the responsibility on your shoulders is too heavy? Do y
 Final11_15	Or perhaps, deep within her heart, there are other desires hidden?
 #结局 12	
 Final12_00	Chasing the Sun's Shadow
-Final12_01	Yellow Shang exerted all his might
+Final12_01	Huang Shang exerted every bit of his strength
 Final12_02	Still unable to stop that mastermind who had been running amok, the outsider from beyond the skies
 Final12_03	He could only watch helplessly as he entered the Holy Sanctuary
 Final12_04	Vanished into the void
@@ -1210,7 +1210,7 @@ Final12_16	As long as he still has a breath of life,
 Final12_17	It will be like a shadow, following closely and killing swiftly
 #结局 13	
 Final13_00	Savior Medicine King
-Final13_01	Ceng Yanhua and Du Jinping broke their bond of gratitude and severed their ties
+Final13_01	Cheng Yanhua and Du Jinpeng renounced their friendship
 Final13_02	Retired to the Flower and Herb Stall with his daughter
 Final13_03	Assist Chen Zhiji in treating the impoverished common people
 Final13_04	However, Cheng Yanhua was as still and deep as a lake, not wanting to create more waves
@@ -1259,7 +1259,7 @@ Final16_02	And transmitted to Rong Xiu all the nefarious sect martial arts I pos
 Final16_03	Long ago, the assassins who participated in the killing of Yan Baochuan were all identified
 Final16_04	And with the Venomous Serpent Blood Technique, they subjected him to torture by death through slow slicing
 Final16_05	Yan Rongxiu, having been immersed in such an environment from a young age, became a master of the dark path after reaching adulthood
-Final16_06	Slaughter, burn, plunder—upon hearing these words, anyone in the wulin turns pale
+Final16_06	Fire, slaughter, capture, and plunder—upon hearing these words, all people in the jianghu turned pale
 Final16_07	Looking back, Situ Jing had a life full of hardships
 Final16_08	As a young child entering the palace, suffered endless oppression, and after being expelled from the palace, was further subjected to humiliation due to being castrated
 Final16_09	After mastering the techniques of a nefarious sect, he was consumed day and night with thoughts of revenge
@@ -1293,13 +1293,13 @@ Final17_19	Remembering how our sworn brother defended the country with a heart t
 #结局 18	
 Final18_00	Stop Clouds, Fall Moon
 Final18_01	In the vast and tumultuous adventures of Shu, after their conclusion,
-Final18_02	Li Junbao said goodbye to two friends one after another
+Final18_02	Zhang Junbao bid farewell to two friends in succession
 Final18_03	Embarking once again on the journey to roam the skies and wander the world
 Final18_04	Years ago, the three people who swore with their lives that they would meet again parted ways and went to different corners of the world
 Final18_05	Thirty years ago, a great plague struck Shu
 Final18_06	Zhang Sanfeng traveled all the way from Central Plains to Western River
 Final18_07	Just in time to see your old friend one last time
-Final18_08	Now he is also in his nineties, and although his pure internal cultivation has reached the realm of transformation,
+Final18_08	Now, he is approaching a hundred years old, and although his pure Neigong has reached the stage of enlightenment,
 Final18_09	However, in recent years, there has been a growing sense of not being able to keep up
 Final18_10	This night, Zhang Sanfeng sat alone in his room when he suddenly had a revelation
 Final18_11	Look towards the holy sanctuary where the heavenly guest departed long ago
@@ -1344,7 +1344,7 @@ Final21_00	Nature has given me talents
 Final21_01	You took him out of Arched Stone Village
 Final21_02	Through the adventures, it revealed that the jianghu is full of camaraderie and righteousness
 Final21_03	Watching your energetic smile,
-Final21_04	Lu Yuanyu secretly resolved to make up his mind
+Final21_04	Luo Yuanyu silently made up his mind
 Final21_05	To become a person like you
 Final21_06	He was skilled at dealing with people
 Final21_07	Soon a group of seemingly useless beggars gathered

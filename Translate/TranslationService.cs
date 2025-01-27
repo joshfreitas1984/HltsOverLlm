@@ -179,7 +179,7 @@ public static class TranslationService
                             else
                                 split.Translated = await TranslateSplitAsync(config, split.Text, client, outputFile);
 
-                            split.FlaggedForRetranslation = false;
+                            split.ResetFlags();
                             recordsProcessed++;
                             totalRecordsProcessed++;
                             bufferedRecords++;

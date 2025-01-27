@@ -1178,7 +1178,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "伤害值的10%转为自身气血（吸血）"
-    translated: "Convert 10% of damage dealt into self-life force (siphoning)"
+    translated: "10% of damage is converted to lifeforce (life drain)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1892,7 +1892,7 @@
   splits:
   - split: 1
     text: "加强刀法伤害一阶"
-    translated: "Enhance sword art damage by one level"
+    translated: "Enhance the blade arts damage by one stage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1908,13 +1908,13 @@
   splits:
   - split: 1
     text: "加强刀法伤害二阶"
-    translated: "Enhance blade art damage to the second level"
+    translated: "Enhance Blade Arts damage by level two"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强刀法伤害5%"
-    translated: "Enhance Sword Art Damage by 5%"
+    translated: "Enhance blade arts damage by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1924,7 +1924,7 @@
   splits:
   - split: 1
     text: "加强刀法伤害三阶"
-    translated: "Enhance the damage of swordsmanship by three ranks"
+    translated: "Enhance Blade Arts damage by three tiers"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1940,7 +1940,7 @@
   splits:
   - split: 1
     text: "加强刀法伤害四阶"
-    translated: "Enhance the blade art's damage to fourth level"
+    translated: "Enhance Blade Arts damage by four levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1956,13 +1956,13 @@
   splits:
   - split: 1
     text: "加强刀法伤害五阶"
-    translated: "Enhance swordsmanship damage by five levels"
+    translated: "Enhance blade arts damage by five levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强刀法伤害25%"
-    translated: "Enhance sword damage by 25%"
+    translated: "Boosts Blade Arts damage by 25%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1972,13 +1972,13 @@
   splits:
   - split: 1
     text: "加大刀法攻击范围"
-    translated: "Expand the range of swordsmanship attacks"
+    translated: "Extend the range of blade arts attacks"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加大刀法攻击范围"
-    translated: "Enlarge the swordsmanship attack range"
+    translated: "Extend the range of blade arts attacks"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2084,7 +2084,7 @@
   splits:
   - split: 1
     text: "加强搏击伤害一阶"
-    translated: "Enhance fistfighting damage by one tier"
+    translated: "Enhance hand combat damage by one level"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2100,13 +2100,13 @@
   splits:
   - split: 1
     text: "加强搏击伤害二阶"
-    translated: "Enhance the punch damage by two levels"
+    translated: "Enhance second-tier damage of hand combat"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强搏击伤害5%"
-    translated: "Boost physical combat damage by 5%"
+    translated: "Enhance hand combat damage by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2122,7 +2122,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强搏击伤害8%"
-    translated: "Enhance melee damage by 8%"
+    translated: "Enhance hand combat damage by 8%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2132,7 +2132,7 @@
   splits:
   - split: 1
     text: "加强搏击伤害四阶"
-    translated: "Enhance striking damage to the fourth tier"
+    translated: "Enhance hand combat damage by four levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2148,7 +2148,7 @@
   splits:
   - split: 1
     text: "加强搏击伤害五阶"
-    translated: "Enhance combat damage by five levels"
+    translated: "Enhance hand combat damage to the fifth stage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2164,7 +2164,7 @@
   splits:
   - split: 1
     text: "加强搏击攻击范围"
-    translated: "Enhance the striking attack range"
+    translated: "Enhance the range of hand combat attacks"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2228,13 +2228,13 @@
   splits:
   - split: 1
     text: "加强暗器伤害四阶"
-    translated: "Enhance shadow weapon damage to fourth tier"
+    translated: "Enhance the damage of hidden weapons by four levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强暗器伤害10%"
-    translated: "Enhance dark weapon damage by 10%"
+    translated: "Increase hidden weapon damage by 10%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2250,7 +2250,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强暗器伤害25%"
-    translated: "Enhance trap weapon damage by 25%"
+    translated: "Enhance hidden weapon damage by 25%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2260,7 +2260,7 @@
   splits:
   - split: 1
     text: "加大暗器攻击范围"
-    translated: "Expand the range of stealth weapon attacks"
+    translated: "Expand the range of hidden weapon attacks"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2788,13 +2788,13 @@
   splits:
   - split: 1
     text: "加强短兵伤害一阶"
-    translated: "Enhance short-range damage by one stage"
+    translated: "Enhance first-tier damage of short weapons"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强短兵伤害3%"
-    translated: "Enhance close-combat damage by 3%"
+    translated: "Enhance short weapons damage by 3%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2810,7 +2810,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强短兵伤害5%"
-    translated: "Boost short weapon damage by 5%"
+    translated: "Increase short weapons damage by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2842,7 +2842,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强短兵伤害10%"
-    translated: "Enhance short weapon damage by 10%"
+    translated: "Enhance short weapons damage by 10%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2852,13 +2852,13 @@
   splits:
   - split: 1
     text: "加强短兵伤害五阶"
-    translated: "Enhance short weapon damage to fifth tier"
+    translated: "Enhance short weapons damage by five tiers"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强短兵伤害25%"
-    translated: "Enhance close-quarters combat damage by 25%"
+    translated: "Increase short weapons damage by 25%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2874,7 +2874,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "加大短兵攻击范围"
-    translated: "Expand the range of close combat attacks"
+    translated: "Expand the range of short weapons attacks"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2980,13 +2980,13 @@
   splits:
   - split: 1
     text: "加强剑法伤害一阶"
-    translated: "Enhance the sword technique's damage by one level"
+    translated: "Enhance sword arts damage by one grade"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强剑法伤害3%"
-    translated: "Enhance Sword Art Damage by 3%"
+    translated: "Enhance sword arts damage by 3%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2996,13 +2996,13 @@
   splits:
   - split: 1
     text: "加强剑法伤害二阶"
-    translated: "Enhance Sword Techniques to Second Tier Damage"
+    translated: "Enhance sword arts damage by two levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强剑法伤害5%"
-    translated: "Enhance sword damage by 5%"
+    translated: "Enhance sword arts damage by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3012,13 +3012,13 @@
   splits:
   - split: 1
     text: "加强剑法伤害三阶"
-    translated: "Enhance sword technique damage to the third tier"
+    translated: "Enhance sword arts damage by three levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强剑法伤害8%"
-    translated: "Enhance swordsmanship damage by 8%"
+    translated: "Enhance sword arts damage by 8%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3028,13 +3028,13 @@
   splits:
   - split: 1
     text: "加强剑法伤害四阶"
-    translated: "Enhance the damage of sword techniques to four levels"
+    translated: "Enhance sword arts damage to level four"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强剑法伤害10%"
-    translated: "Enhance sword skills damage by 10%"
+    translated: "Enhance sword arts damage by 10%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3044,13 +3044,13 @@
   splits:
   - split: 1
     text: "加强剑法伤害五阶"
-    translated: "Enhance sword technique damage by five levels"
+    translated: "Enhance sword arts damage by five levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加强剑法伤害25%"
-    translated: "Enhance sword technique damage by 25%"
+    translated: "Enhance sword arts damage by 25%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3060,13 +3060,13 @@
   splits:
   - split: 1
     text: "加大剑法攻击范围"
-    translated: "Enhance the sword technique attack range"
+    translated: "Increase the sword arts attack range"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "加大剑法攻击范围"
-    translated: "Expand the sword technique's attack range"
+    translated: "Increase the sword arts attack range"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4068,7 +4068,7 @@
   splits:
   - split: 1
     text: "野球拳奥义"
-    translated: "Secrets of the Baseball Fist"
+    translated: "Secrets of the Wildball Fist"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4090,7 +4090,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "野球拳的招式威力提升"
-    translated: "Wildball Boxing Technique Power Increase"
+    translated: "Wildball Fist techniques have become more powerful"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4154,7 +4154,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "野球拳大成，将无敌于天下"
-    translated: "Master the art of Baseball Fist, and become invincible across the land"
+    translated: "Having mastered Wildball Fist, and become invincible throughout the world"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4346,7 +4346,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "需求武学「搏击45」，需求感悟「巧：？？？？」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。"
-    translated: "'Requires martial art Poji 45 and the realization of Cleverness.'：Once this technique is executed, the user will invariably move around to the target enemy's right side before initiating another attack"
+    translated: "Require martial arts Hand Combat 45, require insight into Clever：'What?！' As soon as this technique is deployed, the user will always end up on the right side of their target enemy before making another move"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4442,7 +4442,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "需求武学「剑法」。持续技，范围内的敌方，每经过一个时序都会受到些微伤害。持续三回合。"
-    translated: "Need the martial art skill Sword Technique. Continuous effect; within range, enemy units will take minor damage each turn. Lasts for three rounds"
+    translated: "Requires the martial art of Sword Arts. A sustained skill that deals minor damage to all enemies within range at the end of each turn. Lasts for three turns"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4794,7 +4794,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "剑法越高明，招式威力越强；学会越多剑法招式，万紫千红造成的晕眩值、迷惑值越高"
-    translated: "The more skilled the swordsmanship, the stronger the power of its techniques; mastering more swordsmanship techniques results in higher levels of dizziness and confusion from Ten Shades of Purple"
+    translated: "As the sword arts become more advanced, their techniques grow stronger; learning a greater variety of sword techniques increases the dizziness and confusion caused by countless colors"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -5690,7 +5690,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行段家心法时，增强段家剑法与段家指法的招式威力"
-    translated: "When practicing the Duan Family Qi Cultivation, enhance the power of Duan Family sword techniques and finger techniques"
+    translated: "When practicing the Duan family martial art technique, it enhances the power of Duan family sword arts and Duan family finger techniques"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -5754,7 +5754,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行祁连山诀时，战斗中的气血最大值提升1000点"
-    translated: "When executing the QiLian Mountain Skill, the maximum vitality during battle is increased by 1000 points"
+    translated: "When activating the Qilian Mountain Skill, your maximum lifeforce during battle increases by 1,000 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7418,7 +7418,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升3%"
-    translated: "Swordsmanship +4, before moving each turn perform Yao Guang Po Jun to increase its effectiveness by 3%"
+    translated: "Sword Arts +4, before moving each turn, perform Yao Guang Po Jun, increasing its power by 3%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7434,7 +7434,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升6%"
-    translated: "Each round, before moving, enhance the Yuangongpojun technique by 6%, after increasing sword skill by 4"
+    translated: "Sword Arts +4. Before moving each turn, cast Yuanguang Pojun to increase its power by 6%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7450,7 +7450,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升9%"
-    translated: "Swordsmanship +4, can perform Yao Guang Po Jun before moving in each round, increasing its power by 9%"
+    translated: "Sword Arts +4, increase the power of Yuanguang Pujun by 9% if you use it before moving during this turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7466,7 +7466,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升12%"
-    translated: "Enhance Swordsmanship by 4, and if you cast Yaoguang Pojun before moving in the turn, its power is increased by 12%"
+    translated: "Sword Arts +4, before moving each turn, cast Yuangong Pojun to increase power by 12%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7802,7 +7802,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "施展天南势后，5回合内抵御6点分筋、错骨值"
-    translated: "After unleashing the Tiansan Technique, resist 6 points of tendon-severing and joint-manipulation for 5 rounds"
+    translated: "After using Tian Nan Si, resist 6 points of division and joint manipulation damage for the next 5 turns"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -9162,7 +9162,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "白马非马附带的分筋值、错骨值，提升为12点"
-    translated: "Non-Horse White Horse includes an additional dislocate skill value, raising it to 12 points"
+    translated: "Non-horse white horse includes an increase in bone division value, joint manipulation value to 12 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11034,7 +11034,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "以婵娟一剑反击，招式伤害增加。婵娟一剑威力不受内功影响"
-    translated: "With a graceful sword strike, the technique's damage increases. The power of Chan Jue's blade is not affected by internal cultivation"
+    translated: "With a swift counterattack, Chan Juan's move increases its damage. The power of Chan Juan's strike is not affected by Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11050,7 +11050,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "面对搏击招式并以婵娟一剑反击时，必先闪避敌招后再进行反击"
-    translated: "When facing grappling moves, respond with a graceful counterstrike after first dodging the opponent's attack"
+    translated: "When facing a hand combat technique, it is essential to first evade the opponent's attack before counterattacking with a graceful and swift slash"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11082,7 +11082,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "面对剑法招式并以婵娟一剑反击时，必先闪避敌招后再进行反击"
-    translated: "When facing an opponent's swordplay technique and countering with a graceful counterattack, it is essential to first evade the enemy's attack before executing the counterstrike"
+    translated: "When facing an opponent's sword arts technique and countering with a single Jade-like Blade, it is essential to first dodge the enemy's attack before launching the counterattack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11092,13 +11092,13 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Proficiency in Swordsmanship"
+    translated: "Sword arts cultivation"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "剑法+4"
-    translated: "Improved Swordsmanship by 4"
+    translated: "Enhanced Sword Arts +4"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11114,7 +11114,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "面对刀法招式并以婵娟一剑反击时，必先闪避敌招后再进行反击"
-    translated: "When facing the sword technique and countering with a delicate cut of one blade, it is essential to first evade the enemy's attack before launching a counterattack"
+    translated: "When faced with swordplay techniques and countering with a swift stroke, one must first evade the enemy's attack before launching the counterattack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11130,7 +11130,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "剑法+4"
-    translated: "Enhanced Swordsmanship +4"
+    translated: "Enhanced Sword Arts +4"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11156,7 +11156,7 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Blade arts cultivation"
+    translated: "Sword arts cultivation"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11178,7 +11178,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "面对暗器招式并以婵娟一剑反击时，必先闪避敌招后再进行反击"
-    translated: "When facing a shuriken technique and counterattacking with the Chanyuan Sword, it is essential to first dodge the opponent's move before launching the counterattack"
+    translated: "When facing the hidden weapon technique and countering with a single sword strike, one must first evade the enemy's attack before launching the counterattack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11188,13 +11188,13 @@
   splits:
   - split: 1
     text: "剑法修为"
-    translated: "Blade Arts Proficiency"
+    translated: "Sword arts cultivation"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "剑法+4"
-    translated: "Enhance Sword Techniques +4"
+    translated: "Enhanced Sword Arts +4"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11242,7 +11242,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "自身轻功越高，千堆雪的威力越强"
-    translated: "The higher one's agility, the stronger the power of Thousand Piles of Snow"
+    translated: "The higher one's qinggong, the more powerful a thousand snows becomes"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11354,7 +11354,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加10点，内功增加5点"
-    translated: "Physical Constitution increases by 10 points, Internal Power increases by 5 points"
+    translated: "Body constitution increased by 10 points, neigong increased by 5 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11514,7 +11514,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行热茶神功时，内功至多增加24点"
-    translated: "When performing the Hot Tea Divine Skill, internal power can increase by a maximum of 24 points"
+    translated: "When activating Recha Shengong, your Neigong can increase by a maximum of 24 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11722,7 +11722,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "帮一名队友恢复275点气血；自身医术愈高，恢复量愈高"
-    translated: "Restore a team member's 275 Qi; the higher your medical skills, the greater the restoration amount"
+    translated: "Help a team member recover 275 points of lifeforce; the higher your medical skills, the greater the recovery amount"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11962,7 +11962,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加24点"
-    translated: "When running the Tai Xuan Jing, each of wrestling, swordsmanship, blade arts, spear and staff, hidden weapons, short weapons, and qinggong increases by 24 points"
+    translated: "When performing the Yuan Xuan Jing, each of the following skills increases by 24 points: Hand Combat, Sword Arts, Blade Arts, Spear and Club, Hidden Weapon, Short Weapons, Qinggong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11978,7 +11978,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加24点"
-    translated: "When running the Taixuan Scripture, each of fist fighting, swordsmanship, blade arts, spear and staff techniques, hidden weapons, short weapons, and qinggong increases by 24 points"
+    translated: "During the activation of the Yuan Xian Jing, Hand Combat, Sword Arts, Blade Arts, Spear and Club, Hidden Weapon, Short Weapons, and Qinggong each increase by 24 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -12378,7 +12378,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加2点，内功增加2点"
-    translated: "Constitution increased by 2 points, Internal Power increased by 2 points"
+    translated: "Body constitution increased by 2 points, Neigong increased by 2 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -12394,7 +12394,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加4点，内功增加4点"
-    translated: "Constitution increases by 4 points, Internal power increases by 4 points"
+    translated: "Constitution increases by 4 points, Neigong increases by 4 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -12410,7 +12410,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加6点，内功增加6点"
-    translated: "Constitution increased by 6 points, Internal Power increased by 6 points"
+    translated: "Constitution +6, Neigong +6"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -12426,7 +12426,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加8点，内功增加8点"
-    translated: "Constitution increases by 8 points, Internal Power increases by 8 points"
+    translated: "Constitution increased by 8 points, Neigong increased by 8 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -12436,7 +12436,7 @@
   splits:
   - split: 1
     text: "精纯内功"
-    translated: "Refined Internal Strength"
+    translated: "Pure Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -12468,7 +12468,7 @@
   splits:
   - split: 1
     text: "普通内功"
-    translated: "Common Internal Skill"
+    translated: "Common Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -12954,7 +12954,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "有机率能控制敌人4个回合，内功差距越大，成功率越高。同一时间至多控制2人"
-    translated: "There is a chance to control an enemy for 4 rounds. The higher the difference in internal power, the higher the success rate. At most, you can control 2 people at the same time"
+    translated: "There is a chance to control an enemy for 4 rounds. The higher the difference in Neigong, the greater the success rate. At most, you can control two people at the same time"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -12970,7 +12970,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "有机率能控制敌人5个回合，内功差距越大，成功率越高。同一时间至多控制2人"
-    translated: "There is a chance to control an enemy for 5 turns; the higher the internal power difference, the greater the success rate. At most, control 2 people at the same time"
+    translated: "There is a chance to control an enemy for 5 rounds. The greater the difference in Neigong, the higher the success rate. At most, 2 people can be controlled at the same time"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -12986,7 +12986,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "有机率能控制敌人5个回合，内功差距越大，成功率越高。同一时间至多控制3人"
-    translated: "There is a chance to control enemies for 5 turns, and the higher the internal power gap, the greater the success rate. At most, you can control 3 people at the same time"
+    translated: "There is a chance to control the enemy for 5 turns. The higher the difference in Neigong, the greater the success rate. At most, control up to 3 people at the same time"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -13002,7 +13002,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "有机率能控制敌人3个回合，内功差距越大，成功率越高，同一时间至多控制1人"
-    translated: "You have a chance to control an enemy for 3 rounds, with the success rate increasing as the internal energy gap widens. At any one time, you can control at most 1 person"
+    translated: "You have a chance to control an enemy for 3 rounds. The higher the disparity in Neigong, the greater the success rate. You can only control one person at a time"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -13034,7 +13034,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "每回合回复气血12%，回复内伤24%；可于战斗中复活一次，复活同时回复气血40%"
-    translated: "Every round restores 12% of life force, heals internal injuries by 24%; can be revived once during combat, with revival restoring 40% of life force"
+    translated: "Each turn restores 12% of lifeforce and heals internal injuries by 24%. Can revive once during battle, restoring an additional 40% of lifeforce upon revival"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -13050,7 +13050,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "每回合回复气血12%，回复内伤24%；可于战斗中复活一次，复活同时回复气血80%"
-    translated: "Restore 12% health each round and recover 24% from internal injuries; can revive once during battle, restoring 80% of health upon revival"
+    translated: "Each round recovers 12% lifeforce and heals internal injuries by 24%. Can be revived once during combat, with revival restoring 80% lifeforce"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -13994,7 +13994,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "每回合回复气血8%"
-    translated: "Restore 8% of life force each turn"
+    translated: "Regain 8% lifeforce per turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -14442,7 +14442,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "短暂回复自身气血，并提升战斗能力。"
-    translated: "Quickly recover one's life force and enhance combat ability"
+    translated: "Quickly recover one's lifeforce and enhance combat ability"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -14922,7 +14922,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行明教独门内功，激发自身战斗能力。"
-    translated: "Practicing the exclusive internal alchemy of the Ming Sect to enhance one's combat abilities"
+    translated: "Practice the Quanzhen Sect's unique internal skill, enhancing one's combat abilities"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -15530,7 +15530,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "内功减少30点"
-    translated: "Internal power reduced by 30 points"
+    translated: "Neigong reduced by 30 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -15588,7 +15588,7 @@
   splits:
   - split: 1
     text: "十大善人圣堂之战虾米复活BUFF"
-    translated: "Shi da shan ren sheng tang zhi zhan xia mi fu huo bu fu"
+    translated: "Revival Buff for The Ten Virtuous Saints' Holy Sanctuary Battle in Xiao Mai"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -15604,7 +15604,7 @@
   splits:
   - split: 1
     text: "十大恶人圣堂之战虾米复活BUFF"
-    translated: "Great Battle of the Sanctum of Ten Evildoers: Shrimp Revival Buff"
+    translated: "Rebirth Buff for Shrimp Mi in the Battle of the Ten Evil Men's Holy Sanctuary"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -15658,7 +15658,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "中毒耗尽内力值、累积晕眩值50点、迷惑值50点；减少内功30点、轻功30点；无法使用道具"
-    translated: "Intoxicated, inner energy exhausted; dizziness accumulated 50 points, confusion value 50 points; reduce internal power by 30 points, qinggong by 30 points; unable to use items"
+    translated: "Be poisoned, deplete Neigong by 100 points, accumulate dizziness and confusion each by 50 points; reduce Neigong and Qinggong each by 30 points; unable to use items"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -15674,7 +15674,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "隐藏BUFF，轻功减30点"
-    translated: "Hidden Buff, Reduce Agility by 30 points"
+    translated: "Hidden Buff, reduce qinggong by 30 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -16778,7 +16778,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "野球拳的基础伤害+20%，且随着等级提升，伤害加成也将跟着提升。"
-    translated: "Base damage from Baseball Fist is increased by 20%, and the damage bonus will increase with level"
+    translated: "Wildball Fist's base damage is increased by 20%, and as the level increases, the damage bonus will also rise accordingly"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17338,7 +17338,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "背袭时威力增强30%，攻击时15%伤害转换为自身气血"
-    translated: "When counterattacking, power increases by 30%, and during the attack, 15% of damage is converted into self-life force"
+    translated: "During backstabbing, power increases by 30%, and during an attack, 15% of the damage is converted into the attacker's lifeforce"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17642,7 +17642,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "所有刀法威力+40%"
-    translated: "All sword arts power +40%"
+    translated: "All blade arts power +40%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17658,7 +17658,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "惊波刀法与狂澜绝刀势刀法威力+30%"
-    translated: "Shockwave Blade Technique and Rampage Ultimate Blade Technique power increased by 30%"
+    translated: "Shockwave Blade Arts and Torrential Fury Ultimate Blade Techniques increase blade power by 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17674,7 +17674,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "五虎断门刀刀法威力+30%"
-    translated: "Five Tiger Gate Severance Blade Sword Technique Power +30%"
+    translated: "The Five Tiger Gateblade Blade Arts increase power by 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17690,7 +17690,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "四象刀刀法威力+30%"
-    translated: "Si Xiang Dao (Four Symbols Swordsmanship) attack power +30%"
+    translated: "Four Symbols Sword Art increases power by 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17706,7 +17706,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "三才刀刀法威力+30%"
-    translated: "Three Talents Sword Art's Power Increased by 30%"
+    translated: "Three Talents Sword Blade Arts power +30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17882,7 +17882,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "你的攻防能力将随着你的江湖声望提升。"
-    translated: "Your defense and attack capabilities will improve as your reputation in the wulin rises"
+    translated: "Your offensive and defensive skills will improve as your reputation in the jianghu increases"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17962,7 +17962,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "武林至尊，拳神无敌！"
-    translated: "Swordsmanship Supreme, Unmatched Fist God!"
+    translated: "The undefeated master of martial arts, the supreme God of Wulin!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -18020,7 +18020,7 @@
   splits:
   - split: 1
     text: "「南诏小将」"
-    translated: "Southwest Indian Cadet"
+    translated: "A young soldier from Nanzhao"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -18138,7 +18138,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "自身每损失1%气血，伤害增加1%；每回合解除所有负面状态20点"
-    translated: "For every 1% loss of Qi, damage increases by 1%; removes all negative statuses for 20 points each turn"
+    translated: "For every 1% of lifeforce lost, damage increases by 1%; remove all negative conditions for 20 points at the end of each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -18218,7 +18218,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "攻击时50%伤害转换为自身气血"
-    translated: "During attack, 50% of the damage is converted into self-life force"
+    translated: "During the attack, 50% of the damage is converted into the attacker's own lifeforce"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -18228,7 +18228,7 @@
   splits:
   - split: 1
     text: "「北丑」"
-    translated: "North Ugly"
+    translated: "Northern Ugly"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -18394,7 +18394,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "使用野球拳时，招式威力增加100%"
-    translated: "Using baseball fist increases technique power by 100%"
+    translated: "When using Wildball Fist, the technique's power increases by 100%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -18538,7 +18538,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "自身气血愈少，爆击时伤害愈高"
-    translated: "The less internal vitality (Qi) one has, the higher the damage during an explosive attack"
+    translated: "As one's lifeforce diminishes, the damage dealt during a powerful strike increases"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -18602,7 +18602,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "每回合自身周围距离2单位内友方，回复气血10%、提升反击率10%"
-    translated: "Each turn, restore 10% Qi to friendly units within a distance of 2 units and increase counterattack rate by 10%"
+    translated: "Each round, the self and friendly units within a 2-unit radius recover 10% lifeforce and increase their counterattack rate by 10%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -19066,7 +19066,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "雪山奇侠，刀法无双，刀法威力上升30%，所有伤害技能都会带着外伤效果。"
-    translated: "Snow Mountain Wuxia Hero, unmatched blade technique; blade power increases by 30%, all damage skills carry an external injury effect"
+    translated: "Snow Mountain Extraordinary Hero, unparalleled in Blade Arts; blade arts' power increases by 30%, and all damage skills have external injury effects"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -19092,13 +19092,13 @@
   splits:
   - split: 1
     text: "「笑傲江湖」"
-    translated: "Swordsmen Who Are Laughing at the World"
+    translated: "The Smiling, Proud Wanderer of the Jianghu"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "你的剑法威力上升50%，战斗中有20%的机会闪避伤害。。"
-    translated: "Your swordsmanship power increases by 50%, and you have a 20% chance to dodge damage in battle"
+    translated: "Your sword arts have increased in power by 50%, and you have a 20% chance to evade damage during combat"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -19130,7 +19130,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "狂值越高，武功威力越强，剑法威力上升30％。"
-    translated: "The higher the Kungzhi value, the stronger the martial arts power, and the sword techniques' power increases by 30%"
+    translated: "The higher the berserk value, the stronger the martial arts power, with sword art power increasing by 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -20218,7 +20218,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "增加招式伤害2%，内功愈高，效果愈好"
-    translated: "Increasing technique damage by 2%. The higher the internal power, the better the effect"
+    translated: "Enhance skill damage by 2%. The higher your neigong, the better the effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -20234,7 +20234,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "增加招式伤害4%，内功愈高，效果愈好"
-    translated: "Increase technique damage by 4%. The higher your internal power, the better the effect"
+    translated: "Increase damage of techniques by 4%. The higher your neigong, the better the effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -20250,7 +20250,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "增加招式伤害6%，内功愈高，效果愈好"
-    translated: "Enhance technique damage by 6%; the higher the internal power, the better the effect"
+    translated: "Add 6% damage to techniques; the higher your neigong, the better the effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''

@@ -938,7 +938,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加8点，内功增加4点"
-    translated: "Constitution increased by 8 points, Internal Power increased by 4 points"
+    translated: "Physique increases by 8 points, Neigong increases by 4 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1434,7 +1434,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加8点，内功增加4点"
-    translated: "Constitution increased by 8 points, internal power increased by 4 points"
+    translated: "Constitution increases by 8 points, Neigong increases by 4 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2042,7 +2042,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "可累积虚招值并发动特技「虚招」：对攻击目标随机附加晕眩、迷惑、分筋、错骨，封穴，其中任一种负面状态20点（每回合与每次受击时，累积虚招发动率2%）。"
-    translated: "Can accumulate fake move points and activate the technique Fake Move：Randomly applies one of the following negative status effects to the target upon attack: dizziness, confusion, dislocation, bone misalignment, or nerve blockage, each reducing the target's action points by 20 (with a cumulative chance of triggering a feint every round and each time hit at a rate of 2%)"
+    translated: "Can accumulate counteroffer value and activate the special technique Counteroffer：Randomly applies one of the following debuffs to the target upon attack: dizziness, confusion, muscle atrophy, joint manipulation, and sealing of an acupuncture point. Each status effect has a 20-point duration (cumulative chance of triggering feigns 2% per round and hit)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2298,7 +2298,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "被医术治疗时，回复气血的效果更佳；自身正面状态的时效延长"
-    translated: "When treated with medical skills, the effect of restoring life force is enhanced; the duration of positive states is extended"
+    translated: "When treated with medical skills, recovery of lifeforce is more effective; the duration of positive self-state is extended"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2938,7 +2938,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "体质增加20点，内功增加4点"
-    translated: "Constitution increased by 20 points, internal energy increased by 4 points"
+    translated: "Constitution increased by 20 points, Neigong increased by 4 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3018,7 +3018,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
-    translated: "Internal power increased by one point"
+    translated: "Neigong increases by 1 point"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3226,7 +3226,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
-    translated: "Internal power increased by one point"
+    translated: "Neigong increases by 1 point"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3258,7 +3258,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
-    translated: "Internal power increased by one point"
+    translated: "Neigong increases by 1 point"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3370,7 +3370,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
-    translated: "Internal power increased by one point"
+    translated: "Neigong increases by 1 point"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3402,7 +3402,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
-    translated: "Internal power increased by one point"
+    translated: "Neigong increases by 1 point"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3418,7 +3418,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
-    translated: "Internal power increased by one point"
+    translated: "Neigong increases by 1 point"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3434,7 +3434,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
-    translated: "Internal power increased by one point"
+    translated: "Neigong increases by 1 point"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3450,7 +3450,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "内功增加1点"
-    translated: "Internal power increased by one point"
+    translated: "Neigong increases by 1 point"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''

@@ -110,7 +110,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "野球拳的基础伤害+20%，且随着等级提升，伤害加成也将跟着提升。"
-    translated: "Base damage of baseball fist increases by 20%, and the damage bonus will also increase as the level goes up"
+    translated: "Wildball Fist's base damage increases by 20%, and as the level rises, the damage bonus will also increase"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -414,7 +414,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "自身轻功越高，闪避率越高；背袭时额外造成目标15点晕眩"
-    translated: "Higher one's qi-enhanced agility, the higher their evasive ability; when executing a back attack, an additional 15 points of disorientation is inflicted on the target"
+    translated: "The higher one's qinggong, the higher their evasion rate; when executing a backstab, it additionally causes the target to be stunned for 15 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -430,7 +430,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "双剑或双短兵的招式威力增强30%"
-    translated: "Double-sword or double-short-weapon techniques increase damage by 30%"
+    translated: "Techniques using twin swords or short weapons have their power increased by 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -446,7 +446,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "双剑或双短兵的招式威力增强50%，战斗时轻功提升10点"
-    translated: "Double-sword or double-short-weapon techniques increase power by 50%, and agility is increased by 10 points during combat"
+    translated: "Combat techniques with twin swords or twin short weapons increase in power by 50%. During combat, qinggong is enhanced by 10 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -926,7 +926,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "惊波刀法与狂澜绝刀势刀法威力+30%"
-    translated: "Jingbo Sword Style and Kuanglan Ultimate Blade Artistry increase power by 30%"
+    translated: "Jingbo Blade Arts and Kuanglan Ultimate Blade Force Blade Arts have a power increase of 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -942,7 +942,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "五虎断门刀刀法威力+30%"
-    translated: "Five Tiger Severing Gate Sword Arts power +30%"
+    translated: "The Five Tigers Severance Blade Technique has a +30% increase in power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -958,7 +958,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "四象刀刀法威力+30%"
-    translated: "Si Xiang Dao daofa weili +30%"
+    translated: "Four Symbols Sword Art increases power by 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -974,7 +974,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "三才刀刀法威力+30%"
-    translated: "Three Talents Swordsmanship Power +30%"
+    translated: "Sanzai Sword Techniques +30% power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1310,7 +1310,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "武林至尊，拳神无敌！"
-    translated: "Swordsman Supreme, Invincible Fist God!"
+    translated: "Wulin Supreme, Invincible Fist God!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1528,7 +1528,7 @@
   splits:
   - split: 1
     text: "南闲"
-    translated: "South Leisure"
+    translated: "Southern Leisure"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1550,7 +1550,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "攻击时50%伤害转换为自身气血"
-    translated: "During attack, 50% of the damage is converted into self-life force"
+    translated: "During attack, 50% of the damage is converted into self-lifeforce"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1560,7 +1560,7 @@
   splits:
   - split: 1
     text: "北丑"
-    translated: "Western Kitchen"
+    translated: "Northern Ugly"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1710,7 +1710,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "对自身周围距离3个单位内敌方，每回合降低所有特技值25点；使用野球拳时，招式威力增加75%"
-    translated: "For enemies within 3 units of range, reduce all skill values by 25 points each turn; when using Baseball Fist, increase the power of the technique by 75%"
+    translated: "For all enemies within a 3-unit radius around oneself, reduce all skill values by 25 points each turn; when using Wildball Fist, the technique's power is increased by 75%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1886,7 +1886,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "每回合自身周围距离2单位内友方，回复气血10%、提升反击率10%"
-    translated: "Each round, restore 10% of health and increase counterattack rate by 10% for allies within a distance of 2 units"
+    translated: "Each round, restore 10% Lifeforce and increase counterattack rate by 10% for allies within a distance of 2 units from yourself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3006,7 +3006,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "雪山奇侠，刀法无双，刀法威力上升30%，所有伤害技能都会带着外伤效果。"
-    translated: "Snow Mountain Wuxia, unmatched swordsmanship; swordsmanship power increased by 30%, all damage skills will have external injury effects"
+    translated: "Snowy Mountain Enigma, unparalleled in blade arts; blade arts' power increases by 30%. All damage skills inflict bleeding"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3032,13 +3032,13 @@
   splits:
   - split: 1
     text: "「笑傲江湖」"
-    translated: "Swordsmen Who Are Laughing at the World"
+    translated: "The Smiling, Proud Wanderer of the Jianghu"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "你的剑法威力额外随剑术上升再提升，并且战斗中有20%的机会闪避伤害。"
-    translated: "Your swordsmanship power increases additionally with the rise of your martial arts level, and there is a 20% chance to dodge damage in battle"
+    translated: "Your sword arts gain additional power and increase further with higher martial skill levels, and there is a 20% chance to evade damage during combat"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3070,7 +3070,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "狂值越高，武功威力越强，剑法威力上升30％。"
-    translated: "As the craziness value increases, martial arts power becomes stronger, and the effectiveness of swordsmanship increases by 30%"
+    translated: "The higher the frenzy value, the stronger the martial arts power, and sword arts power increases by 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3086,7 +3086,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "暗器威力上升40%，战斗中有30%的机会闪避伤害。"
-    translated: "Stealth weapons damage increased by 40%, with a 30% chance to dodge attacks during combat"
+    translated: "Hidden weapon power increases by 40%, with a 30% chance to avoid damage in combat"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''

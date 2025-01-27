@@ -71,7 +71,7 @@ forge013	Chicken blood	Reduce all skills of the enemy who has been hit by 2 poin
 forge014	Skeletons	After attack, there is a 30% chance to reduce the enemy's 1 point of energy	0		0	FALSE	0	FALSE	0	0		forge014
 forge015	Charcoal	Damage increased by 3%	0		0	FALSE	0	FALSE	0	0		forge015
 forge001	Lan Yu	Harm value's 10% converted into own internal energy (Absorb Qi)	0		0	FALSE	0	FALSE	0	0		forge001
-forge002	Red Jade	Convert 10% of damage dealt into self-life force (siphoning)	0		0	FALSE	0	FALSE	0	0		forge002
+forge002	Red Jade	10% of damage is converted to lifeforce (life drain)	0		0	FALSE	0	FALSE	0	0		forge002
 forge003	Yunmu	Each attack additionally accumulates an extra 3 Qi release points	0		0	FALSE	0	FALSE	0	0		forge003
 forge004	Jasper	Each attack accumulates an additional 3 combo points	0		0	FALSE	0	FALSE	0	0		forge004
 forge005	Hu Po	Each attack additionally accumulates 3 points of critical value	0		0	FALSE	0	FALSE	0	0		forge005
@@ -116,30 +116,30 @@ wounded20	External injury	Accumulate external injury points of 20	0		0	FALSE	0	F
 01000000CallDeMi3	Call to reduce all negative statuses by 3	Call to reduce all negative statuses by three	0		0	FALSE	0	FALSE	0	0	(Injured,-3)(Wounded,-3)(Poisoned,-3)(Sealed,-3)(Confused,-3)(Dazed,-3)(Cramped,-3)(Sprained,-3)(Exhausted,-3)(Frozen,-3)(Drunk,-3)	afterAttackProp
 01000000DebuffMinus3	All negative statuses reduced by three points	All negative statuses reduced by 3 points	0		0	FALSE	0	FALSE	0	0		0
 allDebuffDecrease_1	Reduction in all negative states	Call to reduce all negative statuses by 3	0		0	FALSE	0	FALSE	0	0	(Injured,-3)(Wounded,-3)(Poisoned,-3)(Sealed,-3)(Confused,-3)(Dazed,-3)(Cramped,-3)(Sprained,-3)(Exhausted,-3)(Frozen,-3)(Drunk,-3)	afterAttackProp
-blade01	Enhance sword art damage by one level	Enhance Blade Arts damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
-blade02	Enhance blade art damage to the second level	Enhance Sword Art Damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
-blade03	Enhance the damage of swordsmanship by three ranks	Enhance blade arts damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
-blade04	Enhance the blade art's damage to fourth level	Enhance blade arts damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
-blade05	Enhance swordsmanship damage by five levels	Enhance sword damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
-bladerange01	Expand the range of swordsmanship attacks	Enlarge the swordsmanship attack range	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
+blade01	Enhance the blade arts damage by one stage	Enhance Blade Arts damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
+blade02	Enhance Blade Arts damage by level two	Enhance blade arts damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
+blade03	Enhance Blade Arts damage by three tiers	Enhance blade arts damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
+blade04	Enhance Blade Arts damage by four levels	Enhance blade arts damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
+blade05	Enhance blade arts damage by five levels	Boosts Blade Arts damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
+bladerange01	Extend the range of blade arts attacks	Extend the range of blade arts attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
 bow01	Enhance the bow and arrow damage by one tier	Enhance bow and arrow damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
 bow02	Enhance bow and arrow damage by two levels	Enhance bow and arrow damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
 bow03	Strengthen the bow and arrow damage by three levels	Enhance bow and arrow damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
 bow04	Enhance bow and arrow damage to level four	Enhance bow and arrow damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
 bow05	Strengthen bow and arrow damage to five stages	Enhance bow and arrow damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
 bowrange01	Enhance the range of bow and arrow attacks	Extend the range of bow and arrow attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
-combat01	Enhance fistfighting damage by one tier	Enhance hand combat damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
-combat02	Enhance the punch damage by two levels	Boost physical combat damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
-combat03	Enhance the hand combat damage by three levels	Enhance melee damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
-combat04	Enhance striking damage to the fourth tier	Enhance hand-to-hand combat damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
-combat05	Enhance combat damage by five levels	Enhance hand combat damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
-combatrange01	Enhance the striking attack range	Enhance the range of hand combat attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
+combat01	Enhance hand combat damage by one level	Enhance hand combat damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
+combat02	Enhance second-tier damage of hand combat	Enhance hand combat damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
+combat03	Enhance the hand combat damage by three levels	Enhance hand combat damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
+combat04	Enhance hand combat damage by four levels	Enhance hand-to-hand combat damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
+combat05	Enhance hand combat damage to the fifth stage	Enhance hand combat damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
+combatrange01	Enhance the range of hand combat attacks	Enhance the range of hand combat attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
 darts01	Enhance hidden weapon damage by one stage	Enhance hidden weapon damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
 darts02	Enhance hidden weapon damage to second order	Enhance hidden weapon damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
 darts03	Enhance hidden weapon damage by three stages	Enhance hidden weapon damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
-darts04	Enhance shadow weapon damage to fourth tier	Enhance dark weapon damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
-darts05	Enhance the hidden weapon damage by five levels	Enhance trap weapon damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
-dartsrange01	Expand the range of stealth weapon attacks	Expand the range of hidden weapon attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
+darts04	Enhance the damage of hidden weapons by four levels	Increase hidden weapon damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
+darts05	Enhance the hidden weapon damage by five levels	Enhance hidden weapon damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
+dartsrange01	Expand the range of hidden weapon attacks	Expand the range of hidden weapon attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
 heavysword01	Sharp sword without edge	Heavier the weight, higher the damage	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
 PointAddCombo_1	Attack after combo increases by one level	After attacking, increase own combo rate by 3 points	0		0	FALSE	0	FALSE	0	0	(Combo,3)	afterAttackProp
 PointAddCombo_2	After an attack, increase the level of combo by two	After attacking, increase the attacker's combo rate by 6 points	0		0	FALSE	0	FALSE	0	0	(Combo,6)	afterAttackProp
@@ -172,24 +172,24 @@ TurnAddRelease_3	Each turn, release energy to enhance by three levels	Each turn 
 TurnAddTrick_1	Each round, the feint increases by one level	Each round, increase self-feign rate by 6 points	0		0	FALSE	0	FALSE	0	0	(Trick,6)	beginTurnProp
 TurnAddTrick_2	Each round, perform a feint to enhance by two levels	Each round increases your feigning rate by 12 points	0		0	FALSE	0	FALSE	0	0	(Trick,12)	beginTurnProp
 TurnAddTrick_3	Each round, the feigned move increases by three levels	Each round, increase your own feint rate by 18 points	0		0	FALSE	0	FALSE	0	0	(Trick,18)	beginTurnProp
-short01	Enhance short-range damage by one stage	Enhance close-combat damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
-short02	Enhance the second stage damage for short weapons	Boost short weapon damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
+short01	Enhance first-tier damage of short weapons	Enhance short weapons damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
+short02	Enhance the second stage damage for short weapons	Increase short weapons damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
 short03	Enhance short weapons damage by three stages	Enhance short weapons damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
-short04	Enhance short weapons damage to fourth stage	Enhance short weapon damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
-short05	Enhance short weapon damage to fifth tier	Enhance close-quarters combat damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
-shortrange01	Expand the range of short weapons attacks	Expand the range of close combat attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
+short04	Enhance short weapons damage to fourth stage	Enhance short weapons damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
+short05	Enhance short weapons damage by five tiers	Increase short weapons damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
+shortrange01	Expand the range of short weapons attacks	Expand the range of short weapons attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
 spear01	Enhance spear damage by one level	Enhance spear and staff damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
 spear02	Enhance spear and club damage by level two	Increase spear and staff damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
 spear03	Enhance spear and club damage by three levels	Enhance spear and club damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
 spear04	Enhance spear or staff damage by four levels	Enhance spear and club damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
 spear05	Enhance spear staff damage by five levels	Increase spear and staff damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
 spearrange01	Expand spear and staff attack range	Expand the range of spear and staff attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
-sword01	Enhance the sword technique's damage by one level	Enhance Sword Art Damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
-sword02	Enhance Sword Techniques to Second Tier Damage	Enhance sword damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
-sword03	Enhance sword technique damage to the third tier	Enhance swordsmanship damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
-sword04	Enhance the damage of sword techniques to four levels	Enhance sword skills damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
-sword05	Enhance sword technique damage by five levels	Enhance sword technique damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
-swordrange01	Enhance the sword technique attack range	Expand the sword technique's attack range	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
+sword01	Enhance sword arts damage by one grade	Enhance sword arts damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
+sword02	Enhance sword arts damage by two levels	Enhance sword arts damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
+sword03	Enhance sword arts damage by three levels	Enhance sword arts damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
+sword04	Enhance sword arts damage to level four	Enhance sword arts damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
+sword05	Enhance sword arts damage by five levels	Enhance sword arts damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
+swordrange01	Increase the sword arts attack range	Increase the sword arts attack range	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
 talent00000_2	Entrance and Exit Shared Point	Enter x to the shared point	0		0	FALSE	0	FALSE	0	0		talent00000_2
 talent00000	Swift as a startled hare	Swift as a startled hare	0		0	FALSE	0	FALSE	0	0		talent00000
 talent00001	Act with swift decisiveness	Act with swift decisiveness	0		0	FALSE	0	FALSE	0	0		talent00001
@@ -252,12 +252,12 @@ talent50006	Composed and focused	Composed and focused	0		0	FALSE	0	FALSE	0	0		ta
 talent50007	Return to one's original state	Not bound by things	0		0	FALSE	0	FALSE	0	0		talent50007
 talent50008	Overly elaborate	Overly elaborate	0		0	FALSE	0	FALSE	0	0		talent50008
 talent50009	From the humble to the strong	From the humble to the strong	0		0	FALSE	0	FALSE	0	0		talent50009
-buffSkillTree000_009	Secrets of the Baseball Fist	Within a circular range of 3 squares, targets take the effect and have their Disperse Qi value increased by 20	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree000_010	Store Power	Wildball Boxing Technique Power Increase	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree000_009	Secrets of the Wildball Fist	Within a circular range of 3 squares, targets take the effect and have their Disperse Qi value increased by 20	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree000_010	Store Power	Wildball Fist techniques have become more powerful	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree000_011	Stone	Heavy Hand Attack, inflicts an additional 5 points of internal injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree000_012	Scissors	Direct Attack	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree000_013	Cloth	Sectoral attack	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree000_014	Expel Qi	Master the art of Baseball Fist, and become invincible across the land	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree000_014	Expel Qi	Having mastered Wildball Fist, and become invincible throughout the world	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree001_004	Wind sweeps the grass flat	Desert Solitude Mist Power Enhancement	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree001_005	The endless yellow sands	Desert Mirage Attack Range Increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree002_005	As light as the wind	Wind Whisper Sword adds 8 points of dizziness	0		0	FALSE	0	FALSE	0	0		0
@@ -269,13 +269,13 @@ buffSkillTree004_005	A hookless fishing rod	Grandfather's fishing attack range i
 buffSkillTree004_006	Jade rough waiting to be sold	If Let the Willing Go for It is used as a counterattack technique, the activation rate of Staying By the Stump Waiting for Rabbits increases by 10%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree004_009	Riverbank Angler	Using the Dangling Rod on Wei River technique as a counterattack, gain an additional 10% counterattack rate per turn	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree005_000	Bagua Palm	Need martial arts Hand Combat 45, need perception Feel：Attack quickly, move slowly. The damage increases by 3% for each square of movement before attacking	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree005_001	Jiugong Bagua Zhang	'Requires martial art Poji 45 and the realization of Cleverness.'：Once this technique is executed, the user will invariably move around to the target enemy's right side before initiating another attack	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree005_001	Jiugong Bagua Zhang	Require martial arts Hand Combat 45, require insight into Clever：'What?！' As soon as this technique is deployed, the user will always end up on the right side of their target enemy before making another move	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree005_004	Eight Trigrams Serpent	Needs to master the martial art Hand Combat 45, needs to grasp the insight Movement：Fast strikes against slow ones. The further the movement before a strike, the higher the damage (increasing 3% per grid)	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree005_005	Eight Trigrams Body	Requires martial art Hand Combat 45, requires perception of Cunning：Point East and Strike West. Once this technique is deployed, the attacker will inevitably maneuver around to the right side of their target before launching an attack	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree006_000	Divine Sword Order	If equipped with the Qingcheng Divine Sword Command, the power of the flying sword returning to the mountain is enhanced	0		0	FALSE	0	FALSE	0	0		buffSkillTree006_000
 buffSkillTree006_002	Seek the Hidden	Flight Range of the Flying Sword Returning to Mountain Attack Increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree006_004	Heard it said	When flying back to the mountain for a counterattack, power increases by 25%	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree007_000	Thousands of threads	Need the martial art skill Sword Technique. Continuous effect; within range, enemy units will take minor damage each turn. Lasts for three rounds	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree007_000	Thousands of threads	Requires the martial art of Sword Arts. A sustained skill that deals minor damage to all enemies within range at the end of each turn. Lasts for three turns	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree007_002	Grapple Technique	The need to understand softness：Within the range, friendly allies receive a 15% reduction in damage taken	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree007_003	Continuous Stitch Technique	Needs to comprehend the essence of 'softness.'：'The damage reduction for the user of this technique increases by 15%.'	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree007_006	To sew the seeds of discord	Every sequence increases the damage dealt to enemies by 10%	0		0	FALSE	0	FALSE	0	0		0
@@ -297,7 +297,7 @@ buffSkillTree012_002	Swallow and emit force	If you initiate a counterattack whil
 buffSkillTree012_004	Summoning Vitality	Internal injury value from No Holes Unpenetrated incurs an additional +7	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree013_003	Break bricks and split stones	The strength of Bash and Sink has been amplified	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree013_004	Break Gold, Shatter Jade	Break Spear, Sand Burial increases energy consumption by 1 point, enhances the power of the technique, and inflicts an additional 8 points of external injury	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree014_000	Blushful confusion	The more skilled the swordsmanship, the stronger the power of its techniques; mastering more swordsmanship techniques results in higher levels of dizziness and confusion from Ten Shades of Purple	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree014_000	Blushful confusion	As the sword arts become more advanced, their techniques grow stronger; learning a greater variety of sword techniques increases the dizziness and confusion caused by countless colors	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree014_002	Plentiful as the peach and plum trees across the river	Consumption of strength increases by 1 point, and consumption of internal power increases by 15 points. The effect of Hundred Flowers in Disarray is enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree014_003	Flourishing in abundance	Consume an additional 1 point of energy and 20 points of internal power. The effect of A Thousand Hues in Bloom is enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree014_004	Willow catkins fluttering	Wanziqianhong's energy consumption increases by 1 point, internal power consumption increases by 25 points. Baihuailiaolu's effect is enhanced	0		0	FALSE	0	FALSE	0	0		0
@@ -353,11 +353,11 @@ buffSkillTree036_005	Wang Dao Sword	Its range of attacks increased, being able t
 buffSkillTree036_006	Buddhist, Daoist, and Sword	'With its benefits, it can cut through gold; in the face of adversity, when counterattacking, the technique's power is increased by 20%.'	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree037_000	Duan Family Martial Art	Reduce all negative status values by 10% each round	0	buffSkillTree037_000	0	TRUE	0	FALSE	0	1	(Injured,-10)(Wounded,-10)(Poisoned,-10)(Sealed,-10)(Confused,-10)(Dazed,-10)(Cramped,-10)(Sprained,-10)(Exhausted,-10)(Frozen,-10)(Drunk,-10)	beginUnitProp02
 buffSkillTree037_002	Prosper and decline	Reduce all negative status effects by 20% each round	0	buffSkillTree037_000	0	TRUE	0	FALSE	0	1	(Injured,-20)(Wounded,-20)(Poisoned,-20)(Sealed,-20)(Confused,-20)(Dazed,-20)(Cramped,-20)(Sprained,-20)(Exhausted,-20)(Frozen,-20)(Drunk,-20)	beginUnitProp02
-buffSkillTree037_007	Five Rooster Light Smoke	When practicing the Duan Family Qi Cultivation, enhance the power of Duan Family sword techniques and finger techniques	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree037_007	Five Rooster Light Smoke	When practicing the Duan family martial art technique, it enhances the power of Duan family sword arts and Duan family finger techniques	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree038_007	Earth Dancer	Yecha's ability to explore the seas has increased in strength, and the power of the drought demon has intensified	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree038_008	Night Demon	Reduced energy consumption in the face of destructive sea demons and droughts	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree038_009	Emptiness	Nightmare Sea Trawler, Drought Demon adds additional joint manipulation points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree039_000	Qilian Shan Jue	When executing the QiLian Mountain Skill, the maximum vitality during battle is increased by 1000 points	0	buffSkillTree039_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree039_000	Qilian Shan Jue	When activating the Qilian Mountain Skill, your maximum lifeforce during battle increases by 1,000 points	0	buffSkillTree039_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree039_005	Standing a thousand feet high	While performing the Qilian Mountain Secret Technique, the maximum Qi and Lifeforce value during battle increases by 2,000 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree039_005_2	Standing a thousand feet high	When running the Qi Ling Mountain Technique during battle, the maximum Lifeforce value is increased by 2000 points	0	buffSkillTree039_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree040_004	Charge at full gallop	'Water Margin Heroic Palm's energy consumption is reduced by 1 point.'	0		0	FALSE	0	FALSE	0	0		0
@@ -461,10 +461,10 @@ buffSkillTree069_003	Eagle Claw	Flying Eagle Arrow Technique's attack range incr
 buffSkillTree069_004	Eagle Beak	The power of the Flying Eagle Arrow Technique has increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree070_006	Powerful Dragon	The power of the Silver Dragon's distant roar is enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree070_007	Scrolling Dragon	Yin Long Yuan Ming's attack range has increased	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree071_002	Opening Yang Martial Form	Swordsmanship +4, before moving each turn perform Yao Guang Po Jun to increase its effectiveness by 3%	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree071_003	Yuheng Lianzhen	Each round, before moving, enhance the Yuangongpojun technique by 6%, after increasing sword skill by 4	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree071_004	Heavenly Mandate and Literati	Swordsmanship +4, can perform Yao Guang Po Jun before moving in each round, increasing its power by 9%	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree071_005	Tian Jiru Cun	Enhance Swordsmanship by 4, and if you cast Yaoguang Pojun before moving in the turn, its power is increased by 12%	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree071_002	Opening Yang Martial Form	Sword Arts +4, before moving each turn, perform Yao Guang Po Jun, increasing its power by 3%	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree071_003	Yuheng Lianzhen	Sword Arts +4. Before moving each turn, cast Yuanguang Pojun to increase its power by 6%	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree071_004	Heavenly Mandate and Literati	Sword Arts +4, increase the power of Yuanguang Pujun by 9% if you use it before moving during this turn	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree071_005	Tian Jiru Cun	Sword Arts +4, before moving each turn, cast Yuangong Pojun to increase power by 12%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree071_006	Heavenly Pivot Great Gate	Sword Arts +4, execute Yao Guang Po Jun before moving each round to increase power by 15%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree072_008	Eight thousand miles of clouds and moon	Consuming Hun meat for hunger and drinking Xiongnu blood to quench thirst increases physical exhaustion by 1 point, depletes inner energy more, enhances power, and expands range	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree074_007	Wearing mourning clothes and performing the rites of filial mourning	Chaotic Cloak additionally inflicts an extra 8 points of internal injury effects	0		0	FALSE	0	FALSE	0	0		0
@@ -485,7 +485,7 @@ buffSkillTree077_008	Grey Eagle Flaps Wings Swiftly	If using the Divine Arrow Se
 buffSkillTree078_004	Leaning on a white steed	Pause Cup, Ask Moon Where Is It Now, with Added Effect of Stalling the Sequence	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree078_005	Again laughed at the azure sky	Pause your cup to ask the moon where it is today; a madman secretly smiles with his bright pearl, enhancing damage	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree078_006	I laugh at all living beings	Stop drinking and ask the moon where it is today, the madman laughs with a bright pearl in his possession; add muscle-building effects	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree079_000	Nanjing's Influence	After unleashing the Tiansan Technique, resist 6 points of tendon-severing and joint-manipulation for 5 rounds	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_000
+buffSkillTree079_000	Nanjing's Influence	After using Tian Nan Si, resist 6 points of division and joint manipulation damage for the next 5 turns	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_000
 buffSkillTree079_004	Brave and Bold	When using Tiannan power, increase the accumulated critical hit rate of oneself by an additional 5 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_004
 buffSkillTree079_005	Steady	After using Tian Nan Power, resist 6 points of confusion and dizziness for the next 5 rounds	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree079_005_2	Steadfast	After manifesting the Tian Nan Power, resist 6 points of Dislocation, Joint Manipulation, Confusion, and Dizziness for 5 rounds	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_005_2
@@ -570,7 +570,7 @@ buffSkillTree099_007	Without desire, one is strong	When applying The Benevolent 
 buffSkillTree099_008	Indifferent to the law	Raileng's wind power amplifies its strength and increases the range at which it repels	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree099_009	Follow the times and respect heaven	When executing the Five Virtues Endlessly, self-strike rate increases by 16 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree099_009
 buffSkillTree099_010	Strong wood, then together	Upgrading the internal injury value of Highest Good is Like Water to 20 points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree099_011	Nothing is beyond guidance	Non-Horse White Horse includes an additional dislocate skill value, raising it to 12 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree099_011	Nothing is beyond guidance	Non-horse white horse includes an increase in bone division value, joint manipulation value to 12 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree099_012	Neither joy nor fate	If universal love and non-aggression is used as a counterattack technique, the activation rate of hit-and-run tactic and waiting by the stake for rabbits increases by 10%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree100_004	Endless and vast	Power increase of 30 points when Chaos is undivided	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree100_008	Break the Primordial Pots	Enhance the power of Opening the Boundless by 50 points	0		0	FALSE	0	FALSE	0	0		0
@@ -687,27 +687,27 @@ buffSkillTree139_006	Reach the heights of success	Kui Xing Kick adds a stagger e
 buffSkillTree142_000	Detox Pill	Learn the recipe for the antidote pill	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree142_005	Bingxin Jiedu Wan	Learn the recipe for Bixin Jiedu Pills	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree142_008	Try a hundred herbs	When taking medicinal herbs and elixirs, the recovery effect is better	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_000	Chanjuan's single sword strike	With a graceful sword strike, the technique's damage increases. The power of Chan Jue's blade is not affected by internal cultivation	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_002	Breaking Fist	When facing grappling moves, respond with a graceful counterstrike after first dodging the opponent's attack	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_000	Chanjuan's single sword strike	With a swift counterattack, Chan Juan's move increases its damage. The power of Chan Juan's strike is not affected by Neigong	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_002	Breaking Fist	When facing a hand combat technique, it is essential to first evade the opponent's attack before counterattacking with a graceful and swift slash	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_002_2	Sword arts cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_003	Broken Sword	When facing an opponent's swordplay technique and countering with a graceful counterattack, it is essential to first evade the enemy's attack before executing the counterstrike	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_003_2	Proficiency in Swordsmanship	Improved Swordsmanship by 4	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_004	Broken Blade	When facing the sword technique and countering with a delicate cut of one blade, it is essential to first evade the enemy's attack before launching a counterattack	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_004_2	Sword Arts Cultivation	Enhanced Swordsmanship +4	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_003	Broken Sword	When facing an opponent's sword arts technique and countering with a single Jade-like Blade, it is essential to first dodge the enemy's attack before launching the counterattack	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_003_2	Sword arts cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_004	Broken Blade	When faced with swordplay techniques and countering with a swift stroke, one must first evade the enemy's attack before launching the counterattack	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_004_2	Sword Arts Cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_005	Broken Spear	When faced with spear techniques, one must first dodge the enemy's move and then counterattack with a graceful sword strike	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_005_2	Blade arts cultivation	Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_006	Broken Arrow	When facing a shuriken technique and counterattacking with the Chanyuan Sword, it is essential to first dodge the opponent's move before launching the counterattack	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_006_2	Blade Arts Proficiency	Enhance Sword Techniques +4	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_005_2	Sword arts cultivation	Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_006	Broken Arrow	When facing the hidden weapon technique and countering with a single sword strike, one must first evade the enemy's attack before launching the counterattack	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_006_2	Sword arts cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_007	Break the Whip	When facing short weapons techniques, one must first dodge the enemy's attack before countering with a single elegant sword stroke	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_007_2	Sword arts cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree145_002	Thousand Piles of Snow	The higher one's agility, the stronger the power of Thousand Piles of Snow	0		0	FALSE	0	FALSE	0	0		buffSkillTree145_002
+buffSkillTree145_002	Thousand Piles of Snow	The higher one's qinggong, the more powerful a thousand snows becomes	0		0	FALSE	0	FALSE	0	0		buffSkillTree145_002
 buffSkillTree145_002_2	Thousand Piles of Snow	The higher one's qinggong (lightness) skill, and the longer the distance moved before striking, the more powerful Qiantai Xue becomes	0		0	FALSE	0	FALSE	0	0		buffSkillTree145_002
 buffSkillTree145_005	Leaning Step Dance	Within five rounds, increase your own qinggong by 25 points	0	addQinggong03	0	TRUE	0	FALSE	0	0		buffSkillTree145_005
 buffSkillTree145_005_2	Leaning on the Waves	Within 5 rounds, increase your own Qinggong by 25 points; when moving, increase combo rate	0	addQinggong03	0	TRUE	0	FALSE	0	0		buffSkillTree145_005
 buffSkillTree145_008	Leaning on the Waves	Leaping Flow's extra effect increases hit rate while moving	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree145_008_2	Fiexue	Before executing the move, the longer the distance moved, the more powerful Qiantai Xue becomes	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree146_000	Jiu Yin Shen Gong	Running the Nine Yin Shen Gong increases the power of the Nine Yin White Bone Claw and Da Fu Mo Quan Fa	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree146_002	Iron Sinews and Steel Bones	Physical Constitution increases by 10 points, Internal Power increases by 5 points	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree146_002	Iron Sinews and Steel Bones	Body constitution increased by 10 points, neigong increased by 5 points	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree146_004	Crush the Strong Technique	When operating the Nine Yin Divine Skill, self-attack power is increased	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree146_005	Snake-like, agile	When running the Nine Yin Divine Skill, there is a chance to evade enemy attacks	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree146_006	Beidou Great Method	When activating the Nine Yin Divine Skill, counterattack and deduct 1 point of the enemy's energy	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
@@ -717,7 +717,7 @@ buffSkillTree147_000	Red Tea Divine Skill	At the end of each turn, remove 4 poin
 buffSkillTree147_000_2	Hot Tea Spirit Power	Each round removes ice seal by 4 points and increases own Neigong by 4 points; maximum increase in Neigong is 24 points	0	buffSkillTree147_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree147_005	Warm the wine	When running Hot Tea Spirit Skill, increase self Neigong by 4 points each round	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree147_005_2	Hot Tea Divine Skill	Each turn, remove Ice Seal by 4 points and increase self's Neigong by 4 points; Neigong can be increased by at most 12 points	0	buffSkillTree147_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree147_006	Boil eggs	When performing the Hot Tea Divine Skill, internal power can increase by a maximum of 24 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree147_006	Boil eggs	When activating Recha Shengong, your Neigong can increase by a maximum of 24 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree147_006_2	Hot Tea Divine Skill	Every round, remove 4 points of ice seal and increase self Neigong by 2 points; maximum Neigong increase is 24 points	0	buffSkillTree147_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree148_000	Luoshu Six Methods	When performing the Luoshu Six Methods, the power of the Great Seal Hand increases by 20%	0	buffSkillTree148_000	0	TRUE	0	FALSE	0	0		buffSkillTree148_000
 buffSkillTree148_001	Transfer of Consciousness	When running the Luoshu Six Techniques, increase your critical hit rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Critical,6)	beginUnitProp
@@ -730,7 +730,7 @@ buffSkillTree149_003	As if by shadow	Appendix Bone's Seal Point Value Increases 
 buffSkillTree149_007	Divided paths and lost sheep	Incense of Incised Heart, power increased by 30 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree149_008	Disaster begins from within the family	Heart-wrenching expenditure reduces energy consumption by 1 point	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree150_000	Minor Elixir of Immortality	Learn the formula for Minor Elixir	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree150_004	Priceless	Restore a team member's 275 Qi; the higher your medical skills, the greater the restoration amount	0		0	FALSE	0	FALSE	0	0		buffSkillTree150_004
+buffSkillTree150_004	Priceless	Help a team member recover 275 points of lifeforce; the higher your medical skills, the greater the recovery amount	0		0	FALSE	0	FALSE	0	0		buffSkillTree150_004
 buffSkillTree150_007	Jiuzhuan Tongyun Dan	Learn the formula for Jiuzhuan Tongyun Dan	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree151_000	Replenishing Qi Decoction	Learn the prescription formula for the Ren Qing Yin (Sheng Qi Drink)	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree151_004	Return Qi to Open Meridians	Help teammates restore 350 points of lifeforce; the higher your healing skills, the greater the recovery amount	0		0	FALSE	0	FALSE	0	0		buffSkillTree151_004
@@ -745,8 +745,8 @@ buffSkillTree153_000	Draconis mutatio	Use their method against them	0		0	FALSE	0
 buffSkillTree153_001	Wen Nan has a winnowing basket	Should Douzhunxingyi be used as a counterattack technique, an additional 25 points of counterattack value will accumulate each round	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree153_002	There is a fight in the north	If Dou Zhuan Xing Yi is used as a counterattack technique, an additional 25 points of counterattack value are accumulated with each hit received	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree154_000	Grand Mystery Divine Skill	When operating the Tai Xuan Jing, each of Jiuchijian (Hand Combat), Jianfa (Sword Arts), Dao Fa (Blade Arts), Qianggun (Spear and Club), Anqi (Hidden Weapons), Duanchen (Short Weapons), and Qinggong (Light Steps) increases by 12 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree154_000_2	Supreme Mystery Divine Skill	When running the Tai Xuan Jing, each of wrestling, swordsmanship, blade arts, spear and staff, hidden weapons, short weapons, and qinggong increases by 24 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree154_003	White-Haired Patriarch's Extreme Mystery Classic	When running the Taixuan Scripture, each of fist fighting, swordsmanship, blade arts, spear and staff techniques, hidden weapons, short weapons, and qinggong increases by 24 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		0
+buffSkillTree154_000_2	Supreme Mystery Divine Skill	When performing the Yuan Xuan Jing, each of the following skills increases by 24 points: Hand Combat, Sword Arts, Blade Arts, Spear and Club, Hidden Weapon, Short Weapons, Qinggong	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree154_003	White-Haired Patriarch's Extreme Mystery Classic	During the activation of the Yuan Xian Jing, Hand Combat, Sword Arts, Blade Arts, Spear and Club, Hidden Weapon, Short Weapons, and Qinggong each increase by 24 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		0
 buffSkillTree155_000	Red Blood Demon Qi Technique	Convert a portion of the damage inflicted on the enemy into one's own lifeforce	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		buffSkillTree155_000
 buffSkillTree155_003	Blood flowing like a river	The higher the evil value, the more pronounced the blood-drinking effect of the Blood Drinking Demon Technique	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0
 buffSkillTree155_004	Bloody rain and stinking wind	The higher the craziness value, the more pronounced the blood-drinking effects of the Blood Sipper Technique	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0
@@ -771,13 +771,13 @@ buffSkillTree161_011_2	Clearing the Meridian	Help teammates remove 15 points of 
 buffSkillTree162_003	Supremely Fierce Stroke	The enhanced power of the naturally formed solid gold	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree162_004	Rock stands immovably	Hunan's attack range increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree162_008	Emphatic Jade Gesture	Hunjin zicheng, xiaoshi liujin fujia waishang xiaoguo	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree163_000	Living Bones	Constitution increased by 2 points, Internal Power increased by 2 points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree163_001	Reconnect the meridians	Constitution increases by 4 points, Internal power increases by 4 points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree163_002	Refining muscles	Constitution increased by 6 points, Internal Power increased by 6 points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree163_003	Refine one's bones	Constitution increases by 8 points, Internal Power increases by 8 points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree164_000	Refined Internal Strength	Restore 30% energy per turn and reduce own negative status by 20%	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,30)(Injured,-20)(Wounded,-20)(Poisoned,-20)(Sealed,-20)(Confused,-20)(Dazed,-20)(Cramped,-20)(Sprained,-20)(Exhausted,-20)(Frozen,-20)(Drunk,-20)	beginUnitProp02
+buffSkillTree163_000	Living Bones	Body constitution increased by 2 points, Neigong increased by 2 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree163_001	Reconnect the meridians	Constitution increases by 4 points, Neigong increases by 4 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree163_002	Refining muscles	Constitution +6, Neigong +6	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree163_003	Refine one's bones	Constitution increased by 8 points, Neigong increased by 8 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree164_000	Pure Neigong	Restore 30% energy per turn and reduce own negative status by 20%	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,30)(Injured,-20)(Wounded,-20)(Poisoned,-20)(Sealed,-20)(Confused,-20)(Dazed,-20)(Cramped,-20)(Sprained,-20)(Exhausted,-20)(Frozen,-20)(Drunk,-20)	beginUnitProp02
 buffSkillTree165_000	Profound internal strength	Each turn restore 15% Qi, reduce own negative status by 12%	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,15)(Injured,-12)(Wounded,-12)(Poisoned,-12)(Sealed,-12)(Confused,-12)(Dazed,-12)(Cramped,-12)(Sprained,-12)(Exhausted,-12)(Frozen,-12)(Drunk,-12)	beginUnitProp02
-buffSkillTree166_000	Common Internal Skill	Regenerate 8% vitality each round and reduce personal negative status by 6%	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,8)(Injured,-6)(Wounded,-6)(Poisoned,-6)(Sealed,-6)(Confused,-6)(Dazed,-6)(Cramped,-6)(Sprained,-6)(Exhausted,-6)(Frozen,-6)(Drunk,-6)	beginUnitProp02
+buffSkillTree166_000	Common Neigong	Regenerate 8% vitality each round and reduce personal negative status by 6%	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,8)(Injured,-6)(Wounded,-6)(Poisoned,-6)(Sealed,-6)(Confused,-6)(Dazed,-6)(Cramped,-6)(Sprained,-6)(Exhausted,-6)(Frozen,-6)(Drunk,-6)	beginUnitProp02
 buffSkillTree167_000	Tale of lament and pleading	Reduce damage taken by self by 10%	0	buffSkillTree167_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree167_006	Lotus Falls	When running the Song of Sorrow and Begging for Mercy, reduce the damage taken by 20%	0	buffSkillTree167_000	0	TRUE	0	FALSE	0	0		0
 buffSkillTree168_000	Six Meridians with the Same Qi	Reduce all the opponent's skills by 40 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree168_000
@@ -807,13 +807,13 @@ buffSkillTree173_000_2	Li He Canshang	When executing Runyu Displacement, counter
 buffSkillTree173_000_3	Li He Canshang	When running Heliang Can Shang, damage from counterattacks is enhanced; when activating a counterattack, deduct 1 point of the opponent's energy. When activating Jieli Da Li, return all received damage to the opponent	0	buffSkillTree173_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree173_006	Convergence and divergence	If you operate the run, disengage, and harmonize in coordination, when launching a counterattack, deduct 1 point of energy from your opponent	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree173_007	Don't see Chen Xiang	If you run the disengagement, coordination, and mutual assistance during a power transfer and use force against force, any damage taken will be fully returned to the opponent	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree174_000	Concentrate the mind	There is a chance to control an enemy for 4 rounds. The higher the difference in internal power, the higher the success rate. At most, you can control 2 people at the same time	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree174_001	Seize the Soul	There is a chance to control an enemy for 5 turns; the higher the internal power difference, the greater the success rate. At most, control 2 people at the same time	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree174_002	Seize Shadow	There is a chance to control enemies for 5 turns, and the higher the internal power gap, the greater the success rate. At most, you can control 3 people at the same time	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree174_003	Transcendent Soul Technique	You have a chance to control an enemy for 3 rounds, with the success rate increasing as the internal energy gap widens. At any one time, you can control at most 1 person	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree174_000	Concentrate the mind	There is a chance to control an enemy for 4 rounds. The higher the difference in Neigong, the greater the success rate. At most, you can control two people at the same time	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree174_001	Seize the Soul	There is a chance to control an enemy for 5 rounds. The greater the difference in Neigong, the higher the success rate. At most, 2 people can be controlled at the same time	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree174_002	Seize Shadow	There is a chance to control the enemy for 5 turns. The higher the difference in Neigong, the greater the success rate. At most, control up to 3 people at the same time	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree174_003	Transcendent Soul Technique	You have a chance to control an enemy for 3 rounds. The higher the disparity in Neigong, the greater the success rate. You can only control one person at a time	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree174_004	Seeking the Divine	There is a chance to control an enemy for 4 turns. The higher the difference in Neigong, the greater the success rate. At most, only one person can be controlled at the same time	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree175_000	Primordial Skill	Every round restores 12% of life force, heals internal injuries by 24%; can be revived once during combat, with revival restoring 40% of life force	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
-buffSkillTree175_003	Primordial Qi	Restore 12% health each round and recover 24% from internal injuries; can revive once during battle, restoring 80% of health upon revival	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
+buffSkillTree175_000	Primordial Skill	Each turn restores 12% of lifeforce and heals internal injuries by 24%. Can revive once during battle, restoring an additional 40% of lifeforce upon revival	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
+buffSkillTree175_003	Primordial Qi	Each round recovers 12% lifeforce and heals internal injuries by 24%. Can be revived once during combat, with revival restoring 80% lifeforce	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
 buffSkillTree176_000_1	Adhesive Force	'Execute entangling force to encase the enemy, making the enemy more inclined to shift their target towards themselves.'	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree176_000_2	Locust Leg Technique	Executing the turning force maneuver increases the rate of initiating attacks on an opponent who is disoriented and striking unpredictably	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree176_000_3	Wrapping Tendon Strength	Deploying a binding force to entangle the enemy, making them more inclined to shift their target onto themselves	0		0	FALSE	0	FALSE	0	0		0
@@ -872,7 +872,7 @@ buffSkillTree192_000_2	Immeasurable Heart Method	Reduces the damage taken by 8%,
 buffSkillTree192_000_3	The Infinite Heart Technique	Reduce damage taken by 8%, recover lifeforce by 8% each turn	0	battle	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree192_000_4	No Limitation Heart Method	Reduce the damage taken by 8%, recover 8% of Lifeforce each turn, and restore 8% of Internal Power each turn	0	battle	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree192_005	Boundless Compassion	Restore 8% Qi each round	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree192_006	Heart broken without measure	Restore 8% of life force each turn	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree192_006	Heart broken without measure	Regain 8% lifeforce per turn	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree193_000	Reconstruction Ointment	Learn to formulate the recipe for the rejuvenating salve again	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree193_004	Breakbone glue	Learn the recipe for Tiger Bone Grafting Ointment	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree194_000	Concentrate Tea	Learn the formula for the Concentration Soup	0		0	FALSE	0	FALSE	0	0		0
@@ -900,7 +900,7 @@ BattleSchedule002e	Severe internal injury	When one is flustered, the internal in
 BattleSchedule003	Intensely vengeful	After the Ming Cult followers were killed, they restored their own lifeforce and enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule003
 BattleSchedule004	Enemy at hand	After the Ming Sect followers were killed, they enhanced their combat capabilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule004
 BattleSchedule005	Adversary at hand	After the Ming Sect followers were killed, they enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule005
-BattleSchedule006	Anger as high as the sky	Quickly recover one's life force and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule006
+BattleSchedule006	Anger as high as the sky	Quickly recover one's lifeforce and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule006
 BattleSchedule007	Control breath and concentrate	Short-term recovery of one's lifeforce and enhancement of combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule007
 BattleSchedule008	The Wrath of the Ghost King	Due to Bai Li Danhe finding himself in dire peril, he unleashes his hidden combat potential, enhancing his skill damage and increasing his combo rate every turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008
 BattleSchedule008b	The Wrath of the Wind King	Because the Mountain Demon King was in a dire situation, he unleashed his latent combat potential. His skills' damage increased and added an escalating critical hit rate every turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008b
@@ -930,7 +930,7 @@ BattleSchedule029	Dragon Poison	Poisoned, slightly reduced movement ability and 
 BattleSchedule030	Dragon Venom	Poisoned, reducing mobility and unable to use elixirs	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule030
 BattleSchedule031	Dragon's Poison Saliva	Poisoned, significantly reduced mobility and unable to use elixirs	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule031
 BattleSchedule032	Huangfu Dengyun restored to full health and activated hidden buffs	Return to full health	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule032
-BattleSchedule033	Fire Consumes the Prairie	Practicing the exclusive internal alchemy of the Ming Sect to enhance one's combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
+BattleSchedule033	Fire Consumes the Prairie	Practice the Quanzhen Sect's unique internal skill, enhancing one's combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
 BattleSchedule034	Zealous to catch the thief	For capturing Li Tan, increase own qinggong value by 30 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule034
 BattleSchedule035	Assault with serious injuries	Accumulate external injury value of 30 points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule035
 BattleSchedule036	Adversity reveals true natures	With no regard for personal safety, exert all effort to increase attack power by 100%, and accumulate 5 internal injury points per attack	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule036
@@ -968,16 +968,16 @@ BattleSchedule067	Eastern Late Half-Blood Judgment Buff	Hidden Buff, Battle Vict
 BattleSchedule068	Develop a hatred for Yan Yushu	Hidden Buff, generates massive hate each round	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule068
 BattleSchedule069	Oil exhausted, the lamp dims	Neigong decreases by 50 points, accumulating internal injury of 100 points per round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule069
 BattleSchedule070	Not strong enough to do it	Neigong decreased by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule070
-BattleSchedule071	Strike at the root	Internal power reduced by 30 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule071
+BattleSchedule071	Strike at the root	Neigong reduced by 30 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule071
 BattleSchedule072	Heaven and Earth in Unity	Using Heavenly Scriptures Secret Technique, increase damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule051
 BattleSchedule073	Joint Effort to Save the World	Using Heavenly Scriptures secret technique, increase damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule051
 BattleSchedule074	Goat into the mouth of a tiger	Generate hatred towards sheep	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule074
-BattleSchedule075	Shi da shan ren sheng tang zhi zhan xia mi fu huo bu fu	Activate hidden buffs, full health, call teammates	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule075
-BattleSchedule076	Great Battle of the Sanctum of Ten Evildoers: Shrimp Revival Buff	Activate hidden BUFF, blood full, call team member	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule076
+BattleSchedule075	Revival Buff for The Ten Virtuous Saints' Holy Sanctuary Battle in Xiao Mai	Activate hidden buffs, full health, call teammates	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule075
+BattleSchedule076	Rebirth Buff for Shrimp Mi in the Battle of the Ten Evil Men's Holy Sanctuary	Activate hidden BUFF, blood full, call team member	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule076
 BattleSchedule077	He Baishe's blood quantity judgment hidden BUFF	Hidden Buff	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule077
 BattleSchedule078	Great Anger	Damage increased by 25%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule078
-BattleSchedule079	Enchanting Fragrance	Intoxicated, inner energy exhausted; dizziness accumulated 50 points, confusion value 50 points; reduce internal power by 30 points, qinggong by 30 points; unable to use items	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule079
-BattleSchedule080	Wang Zhe activates Qinggong to conceal the BUFF	Hidden Buff, Reduce Agility by 30 points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule080
+BattleSchedule079	Enchanting Fragrance	Be poisoned, deplete Neigong by 100 points, accumulate dizziness and confusion each by 50 points; reduce Neigong and Qinggong each by 30 points; unable to use items	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule079
+BattleSchedule080	Wang Zhe activates Qinggong to conceal the BUFF	Hidden Buff, reduce qinggong by 30 points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule080
 BattleSchedule081	Theft also has its principles	When facing a formidable enemy, significantly increase combat capabilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule081
 BattleSchedule082	Encircled by enemies	Before and after, all are enemies; each round's counterattack rate, disengagement rate, critical hit rate, combo rate, and feint rate decrease by 20%	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule082
 BattleSchedule083	Diarrhea	Each round, accumulate confusion value of 10 points for headaches and dizziness	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule083
@@ -1046,7 +1046,7 @@ polaris06	Ursa Major constellation	Each turn, before moving, use Tianshu Tianlan
 flash	Flash	Instantly move behind the enemy to attack	0		0	FALSE	0	FALSE	0	0		0
 miasma01	Mild toxic miasma	Every round reduce life by 5%	0		0	FALSE	0	FALSE	0	1	(HP,-5)	beginTurnProp
 miasma02	Moderate toxic miasma	Each round reduce life points by 10%	0		0	FALSE	0	FALSE	0	1	(HP,-10)	beginTurnProp
-nick006buff	Chosen One	Base damage from Baseball Fist is increased by 20%, and the damage bonus will increase with level	0	nickname	0	TRUE	0	FALSE	0	0		nick006
+nick006buff	Chosen One	Wildball Fist's base damage is increased by 20%, and as the level increases, the damage bonus will also rise accordingly	0	nickname	0	TRUE	0	FALSE	0	0		nick006
 nick007buff	Tian Nan Wang Dao	Within a two-tile range of allies, reduce any negative status effect by 5 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick007buff
 nick007buffPlus	Revive the Kingly Way	Within a 4-tile range around allies, each turn reduces negative status by 5 points and increases positive status by 3 points	0	nickname	0	TRUE	0	FALSE	0	0		nick007buffPlus
 nick008buff	Thicket of Poisonous Feathers	If you are within a 2-unit distance from He Ziwang, you will be poisoned for 8 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick008buff
@@ -1081,7 +1081,7 @@ nick017P	Flower-planting Master	When using the healing skill, healing effectiven
 nick018	Sea of Hatred, Lonely Soul	Each round, increase own attack power by 10%, cumulative maximum 50%; each round, increase own internal injury value by 10	0	nickname	0	TRUE	0	FALSE	0	0		nick018
 nick018b	Sea of Hatred, Lonely Soul	Each turn, self-attack power increases by 10%, up to a maximum of 50%; when triggering a critical hit, the critical hit damage is additionally increased by 25%	0	nickname	0	TRUE	0	FALSE	0	0		nick018b
 nick018bP	Peerless Master	Each round, self-attack power increases by 10%, accumulating up to a maximum of 80%; when triggering a critical hit, the critical damage is additionally increased by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick018bP
-nick019	Mountain Goblin Demon King	When counterattacking, power increases by 30%, and during the attack, 15% of damage is converted into self-life force	0	nickname	0	TRUE	0	FALSE	0	0		nick019
+nick019	Mountain Goblin Demon King	During backstabbing, power increases by 30%, and during an attack, 15% of the damage is converted into the attacker's lifeforce	0	nickname	0	TRUE	0	FALSE	0	0		nick019
 nick020	Confucian Heart, Sword Arm	Every round, self's counterattack value increases by 25. All allies receive the status Confusion of Confucian Sword	0	nickname	0	TRUE	0	FALSE	0	0		nick020
 nick020buff	Confucian Sword Formation	Due to Ling Zhongyue being present, self-defense value +15 each round	0	battle	0	TRUE	0	FALSE	0	0		nick020buff
 nick021	Wise Nun Bai Sun	If a martial arts technique with an ice seal effect is used, the technique's power becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021
@@ -1100,11 +1100,11 @@ nick027buff	Silver Hook Lustrous Colors	During the battle, Po Mo Xue joined the 
 nick027buffP	Illusory reflections	Po Mo Xue joins the fight, increasing her feigned moves by 10% each round	0	nickname	0	TRUE	0	FALSE	0	0		nick027buffP
 nick028buff	Heavenly Meteor, Solitary Star	If there are no allies, damage and damage reduction increase by 50%. Each round dispels negative status effects for 12 points. Each attack recovers 1 point of energy. Every three attacks restore 15% of the user's own life and Qi	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick029	Bladesman	All blade arts power +70%	0	nickname	0	TRUE	0	FALSE	0	0		nick029
-nick030	Blade Madman	All sword arts power +40%	0	nickname	0	TRUE	0	FALSE	0	0		nick030
-nick031	Surging waves of turmoil	Shockwave Blade Technique and Rampage Ultimate Blade Technique power increased by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick031
-nick032	Five Tiger Severance Sword	Five Tiger Gate Severance Blade Sword Technique Power +30%	0	nickname	0	TRUE	0	FALSE	0	0		nick032
-nick033	Si Xiang Dao	Si Xiang Dao (Four Symbols Swordsmanship) attack power +30%	0	nickname	0	TRUE	0	FALSE	0	0		nick033
-nick034	San Cai Dao	Three Talents Sword Art's Power Increased by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick034
+nick030	Blade Madman	All blade arts power +40%	0	nickname	0	TRUE	0	FALSE	0	0		nick030
+nick031	Surging waves of turmoil	Shockwave Blade Arts and Torrential Fury Ultimate Blade Techniques increase blade power by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick031
+nick032	Five Tiger Severance Sword	The Five Tiger Gateblade Blade Arts increase power by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick032
+nick033	Si Xiang Dao	Four Symbols Sword Art increases power by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick033
+nick034	San Cai Dao	Three Talents Sword Blade Arts power +30%	0	nickname	0	TRUE	0	FALSE	0	0		nick034
 nick035	Villager	Flower Fists and Embroidered Kicks Power +50%	0	nickname	0	TRUE	0	FALSE	0	0		nick035
 nick036	Elite Villagers	Flower Fists and Embroidered Kicks Power +100%	0	nickname	0	TRUE	0	FALSE	0	0		nick036
 nick037	Cannot control one's own hands	The probability of being caught stealing is reduced by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick037
@@ -1115,29 +1115,29 @@ nick041buff	Throwing apples to a young man	During battle, allied female teammate
 nick042buff	Reborn Mad Swordsman	Each time an attack is made from the target's front, there is a 25% chance to accumulate 10 points of joint manipulation on the target; each time an attack is made from the target's side or back, there is a 25% chance for the attacker to accumulate 10 points of confusion	0	nickname	0	TRUE	0	FALSE	0	0		nick042
 nick043buff	After the fact	Body constitution increases by 10 points; and each time the negative status value of oneself increases, the increase is reduced by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick043
 nick044buff	Wulin insiders	Your martial arts power increases as your level grows	0	nickname	0	TRUE	0	FALSE	0	0		nick044
-nick046buff	Heluo Great Heros	Your defense and attack capabilities will improve as your reputation in the wulin rises	0	nickname	0	TRUE	0	FALSE	0	0		bnick046
+nick046buff	Heluo Great Heros	Your offensive and defensive skills will improve as your reputation in the jianghu increases	0	nickname	0	TRUE	0	FALSE	0	0		bnick046
 nick084buff	To hit a target with an arrow from one hundred paces away	Arrows increase damage by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick084
 nick085buff	North Peak Grey Eagle	Bow and arrow damage increased by 20%	0	nickname	0	TRUE	0	FALSE	0	0		nick085
 nick086buff	Yu Long Fei Ying	Bow and arrow damage increased by 25%; when Ade Ake is in the team, your bow and arrow damage with Ade Ake further increases by an additional 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick086
 nick091	Deadly Hand	This unit's every strike carries deadly poison!	0	nickname	0	TRUE	0	FALSE	0	0		nick091
-nick092	God of Fist	Swordsmanship Supreme, Unmatched Fist God!	0	nickname	0	TRUE	0	FALSE	0	0		nick092
+nick092	God of Fist	The undefeated master of martial arts, the supreme God of Wulin!	0	nickname	0	TRUE	0	FALSE	0	0		nick092
 nick101	The meaning is that a hundred-legged insect cannot be pinned down; implying that when everyone works together, it's difficult to stop them	Each round increases the evasion rate by 2%, with a maximum increase of 20%	0	nickname	0	TRUE	0	FALSE	0	0		nick101
 nick102buff	Maids of the Jing Fort	Enemies within a 2-unit distance of He Baisha each round accumulate 12 points of poison and 6 points of confusion	0	nickname	0	TRUE	0	FALSE	0	0		nick102buff
 nick103	Iron Tiger Silver Spear	During combat, Black Panther enters the fray; each turn increases its own move damage by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick103
-nick104	Southwest Indian Cadet	Within a 10-unit radius around Duan Silang, each ally grants him an additional 5% critical hit rate at the start of their turns	0	nickname	0	TRUE	0	FALSE	0	0		nick104
+nick104	A young soldier from Nanzhao	Within a 10-unit radius around Duan Silang, each ally grants him an additional 5% critical hit rate at the start of their turns	0	nickname	0	TRUE	0	FALSE	0	0		nick104
 nick105	Ancient Noble Family	Within a 5-unit radius of Dong Jialuo, enemy forces have their critical strike rate reduced by 15% at the start of each round	0	nickname	0	TRUE	0	FALSE	0	0		nick105
 nick106	Successor of the Tusi	At the start of each round, restore 15% lifeforce to allies within a 2-unit distance and increase hit combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick106
 nick107	Army Commanders of the Mu Clan	When unleashing a critical strike, increase own critical rate by 20% and add Bolstered Will to oneself and allies within 2 tiles	0	nickname	0	TRUE	0	FALSE	0	0		nick107
 nick107a	High morale and eager to fight	Each round restores 10% lifeforce and adds a cumulative critical hit rate of 10%, lasting for three rounds	0	battle	0	TRUE	0	FALSE	0	0		nick107a
 nick108	Three Flower Generals	When there is one enemy within a 2-unit radius of oneself, upon critical hit, the self additionally recovers 1 point of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick108
 nick110	Master	Each round restores 30% of internal power; when initiating a critical hit, remove all negative conditions by 25 points	0	nickname	0	TRUE	0	FALSE	0	0		nick110
-nick111	Unequaled in the world	For every 1% loss of Qi, damage increases by 1%; removes all negative statuses for 20 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick111
+nick111	Unequaled in the world	For every 1% of lifeforce lost, damage increases by 1%; remove all negative conditions for 20 points at the end of each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick111
 nick112	Follow your heart's desires	Self's counterattack and force reduction rate increased by 25% each round	0	nickname	0	TRUE	0	FALSE	0	0		nick112
 nick114	Butcher's Poisonous Hand	When attacking, the target accumulates 1 point of poison per attack, increasing damage by 1%	0	nickname	0	TRUE	0	FALSE	0	0		nick114
 nick115	Eastern Noble	When using the Thunderbolt Fire Bomb, there is a 25% chance that it will cause the target to take an external injury of 30 points	0	nickname	0	TRUE	0	FALSE	0	0		nick115
 nick116	Southern Leisure	At the start of each round, randomly recover 2 to 8 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick116
-nick117	Western Kitchen	During attack, 50% of the damage is converted into self-life force	0	nickname	0	TRUE	0	FALSE	0	0		nick117
-nick118	North Ugly	When triggering a combo, attack power increases by 100% for one turn	0	nickname	0	TRUE	0	FALSE	0	0		nick118
+nick117	Western Kitchen	During the attack, 50% of the damage is converted into the attacker's own lifeforce	0	nickname	0	TRUE	0	FALSE	0	0		nick117
+nick118	Northern Ugly	When triggering a combo, attack power increases by 100% for one turn	0	nickname	0	TRUE	0	FALSE	0	0		nick118
 nick118a	Northern Ugly	Attack power increased by 100%, lasting for one round	0	nickname	0	TRUE	0	FALSE	0	0		nick118a
 nick119buff	Martial Arts Barrier：Clumsy	Your understanding and effects are astonishing	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick120buff	Martial Arts Barrier：Quiet	Repay them with their own methods	0	nickname	0	TRUE	0	FALSE	0	0		foricon
@@ -1147,7 +1147,7 @@ nick123buff	Martial Arts Obstacle：Move	Range of the counterattack is astonishi
 nick124buff	Wuxia Barrier：Just now	Enhance the effect of the hero's fury	0	nickname	0	TRUE	0	FALSE	0	0		nick122buff
 nick125	Scarlet Elixir Puppet	During an attack, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of muscle separation value	0	nickname	0	TRUE	0	FALSE	0	0		nick125
 nick126	Western River Military Commander	Reduces all skill values of enemies within a 3-unit radius from the caster by 25 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick126
-nick126b	Merciless Hall Master	Using baseball fist increases technique power by 100%	0	nickname	0	TRUE	0	FALSE	0	0		nick126b
+nick126b	Merciless Hall Master	When using Wildball Fist, the technique's power increases by 100%	0	nickname	0	TRUE	0	FALSE	0	0		nick126b
 nick127	Pushing Hands of the Primordial Chaos	When discharging qi, enemies within a 2-unit radius of the user will accumulate an additional 10 points of internal injury; if the target is male, they will gain an extra 10 points of internal injury	0	nickname	0	TRUE	0	FALSE	0	0		nick127
 nick128	Fierce-faced Yanwang	When activating feigned moves, there is a 25% chance to apply Yanwang Suoming on the target, reducing their Neigong by 3 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick128
 nick128a	Yanwang sooming	Reduce Neigong by 3 points per round	0	battle	0	TRUE	0	FALSE	0	0		nick128a
@@ -1156,11 +1156,11 @@ nick130	Stomach growling with hunger	After attacking, there is a 25% chance to c
 nick130a	Well-fed	Every round, additionally recover 15% of own Lifeforce and 1 point of Energy	0	battle	0	TRUE	0	FALSE	0	0		nick130a
 nick131	Defecating all over	Each attack has a 50% chance of dealing 250% damage to the target, and a 50% chance of dealing 25% damage	0	nickname	0	TRUE	0	FALSE	0	0		nick131
 nick132	To blossom again	When executing a combo attack, deal two hits to the target	0	nickname	0	TRUE	0	FALSE	0	0		nick132
-nick133	Big Pot Head	The less internal vitality (Qi) one has, the higher the damage during an explosive attack	0	nickname	0	TRUE	0	FALSE	0	0		nick133
+nick133	Big Pot Head	As one's lifeforce diminishes, the damage dealt during a powerful strike increases	0	nickname	0	TRUE	0	FALSE	0	0		nick133
 nick134	Ye Family Young Master	If the target is male, damage increases by 50%; if the target is female, damage decreases by 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick134
 nick135	Ye Family Guildmaster	Each move increases the skill damage by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick135
 nick136	White Haired Cold Blade	When an enemy attacks a friendly target within their own counterattack range, there is a 25% chance to counterattack that enemy	0	nickname	0	TRUE	0	FALSE	0	0		nick136
-nick137	Chongwei Yile	Each turn, restore 10% Qi to friendly units within a distance of 2 units and increase counterattack rate by 10%	0	nickname	0	TRUE	0	FALSE	0	0		nick137
+nick137	Chongwei Yile	Each round, the self and friendly units within a 2-unit radius recover 10% lifeforce and increase their counterattack rate by 10%	0	nickname	0	TRUE	0	FALSE	0	0		nick137
 nick138	Iron Face Battle Armor	When activating a critical hit, additionally restore 3 points to your own energy	0	nickname	0	TRUE	0	FALSE	0	0		nick138
 nick139	Vampire Butcher	Each time you defeat an enemy, you regain an additional 3 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick139
 nick140	Great Black Heaven's Protection	Every move increases the combo rate and critical hit rate by 8%	0	nickname	0	TRUE	0	FALSE	0	0		nick140
@@ -1189,11 +1189,11 @@ nick515	Giants' Friend	King of the Great Apes 'Monkey Three' is now at your disp
 nick516	Widow Maker	Wild Boar King 'Widow Maker' is now at your disposal!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick518	White Pattern	Albino Crocodile King Baiwen is now at your command!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick600buff	Beikexia	The title of Northern Wuxia commands great respect in the central plains. The power of fist and staff, as well as archery, increases by 25%, and there is a 50% chance to deal damage twice to an enemy	0	nickname	0	TRUE	0	FALSE	0	0		nick600
-nick601buff	Snow Wolf Flying Fox	Snow Mountain Wuxia Hero, unmatched blade technique; blade power increases by 30%, all damage skills carry an external injury effect	0	nickname	0	TRUE	0	FALSE	0	0		nick601
+nick601buff	Snow Wolf Flying Fox	Snow Mountain Extraordinary Hero, unparalleled in Blade Arts; blade arts' power increases by 30%, and all damage skills have external injury effects	0	nickname	0	TRUE	0	FALSE	0	0		nick601
 nick602buff	Old Poisoner	Martial arts grandmaster, king of poison. All skills' potency increases by 30%, and each strike inflicts deadly poison	0	nickname	0	TRUE	0	FALSE	0	0		nick602
-nick603buff	Swordsmen Who Are Laughing at the World	Your swordsmanship power increases by 50%, and you have a 20% chance to dodge damage in battle	0	nickname	0	TRUE	0	FALSE	0	0		nick603
+nick603buff	The Smiling, Proud Wanderer of the Jianghu	Your sword arts have increased in power by 50%, and you have a 20% chance to evade damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick603
 nick604buff	Transcendently Versatile	Your natural talent and intelligence allow you to gain more experience points in battles, and you have a 25% chance of evading damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick604
-nick605buff	Western Madman	The higher the Kungzhi value, the stronger the martial arts power, and the sword techniques' power increases by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick605
+nick605buff	Western Madman	The higher the berserk value, the stronger the martial arts power, with sword art power increasing by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick605
 nick606buff	Teleportation with a Snap of Fingers	Hidden weapon power increased by 40%, with a 30% chance to dodge damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick606
 nick607buff	Compassion in one's heart	All skills' power increases by 40%, and the higher your morality, the stronger your skill power	0	nickname	0	TRUE	0	FALSE	0	0		nick607
 nick608buff	Descending Dragon Divine Palm	Hand-to-hand combat power increased by 40%, and all damage skills have an internal injury effect	0	nickname	0	TRUE	0	FALSE	0	0		nick608
@@ -1261,9 +1261,9 @@ jewelry29	Conjoined Lotus Heart Earring	At the start of battle, increase maximum
 jewelry30	Jade Pendant with Jade Heart	Resist Freeze by 3 points, and recover 3% of your own inner strength each turn	0		0	FALSE	0	FALSE	0	0		jewelry30
 jewelry31	Golden Chain Bracelet	At the start of your own turn, if your lifeforce is at or below 15%, restore 15% lifeforce; if worn by Zhang Junbao, additionally restore another 15% lifeforce	0		0	FALSE	0	FALSE	0	0		jewelry31
 jewelry32	The Fish Amulet of Desires	Upon being hit, increase deflection force by 3 points; when activating the deflection force, restore 6% of one's lifeforce	0		0	FALSE	0	FALSE	0	0		jewelry32
-weapon0108	Golden Silk Gloves	Increasing technique damage by 2%. The higher the internal power, the better the effect	0		0	FALSE	0	FALSE	0	0		weapon0108
-weapon0108_2	Golden Silk Gloves	Increase technique damage by 4%. The higher your internal power, the better the effect	0		0	FALSE	0	FALSE	0	0		weapon0108_2
-weapon0108_3	Golden Thread Gloves	Enhance technique damage by 6%; the higher the internal power, the better the effect	0		0	FALSE	0	FALSE	0	0		weapon0108_3
+weapon0108	Golden Silk Gloves	Enhance skill damage by 2%. The higher your neigong, the better the effect	0		0	FALSE	0	FALSE	0	0		weapon0108
+weapon0108_2	Golden Silk Gloves	Increase damage of techniques by 4%. The higher your neigong, the better the effect	0		0	FALSE	0	FALSE	0	0		weapon0108_2
+weapon0108_3	Golden Thread Gloves	Add 6% damage to techniques; the higher your neigong, the better the effect	0		0	FALSE	0	FALSE	0	0		weapon0108_3
 weapon0113	Skull-Smashing Devil Claw	When attacking, inflict an external injury of 5 points but reduce your own lifeforce by 3%	0		0	FALSE	0	FALSE	0	0		weapon0113
 weapon0113_2	Scarred Heaven's Claw	During an attack, inflict external damage of 10 points but reduce own lifeforce by 3%	0		0	FALSE	0	FALSE	0	0		weapon0113_2
 weapon0113_3	Cruel Ghost's Claw	During an attack, it inflicts 15 points of external injury but reduces the attacker's own lifeforce by 3%	0		0	FALSE	0	FALSE	0	0		weapon0113_3

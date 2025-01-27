@@ -200,9 +200,7 @@ public class TranslationCleanupTests
                     if (resetFlag)
                     {
                         recordsModded++;
-                        split.FlaggedForRetranslation = false;
-                        split.FlaggedGlossaryIn = string.Empty;
-                        split.FlaggedGlossaryOut = string.Empty;
+                        split.ResetFlags();
                     }
 
                     //// Try and flag crazy shit
@@ -232,23 +230,23 @@ public class TranslationCleanupTests
 
                     // Glossary Clean up
                     //if (config.GameData.SafeGlossary.ContainsKey(split.Text))
-                    //foreach (var item in safeGlossary)
-                    //{
-                    //    if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.CurrentCultureIgnoreCase))
-                    //    {
-                    //        Console.WriteLine($"Mistranslated:{textFileToTranslate.Path} \n{split.Translated}");
-                    //        split.FlaggedForRetranslation = true;
-                    //        split.FlaggedGlossaryIn = item.Value;
-                    //        recordsModded++;
-                    //    }
-                    //    //else if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.CurrentCultureIgnoreCase))
-                    //    //{
-                    //    //    Console.WriteLine($"Glossary in Non trans:{textFileToTranslate.Path} \n{split.Translated}");
-                    //    //    split.FlaggedForRetranslation = true;
-                    //    //    split.FlaggedGlossaryOut = item.Value;
-                    //    //    recordsModded++;
-                    //    //}
-                    //}
+                    foreach (var item in safeGlossary)
+                    {
+                        if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.CurrentCultureIgnoreCase))
+                        {
+                            Console.WriteLine($"Mistranslated:{textFileToTranslate.Path} \n{split.Translated}");
+                            split.FlaggedForRetranslation = true;
+                            split.FlaggedGlossaryIn = item.Value;
+                            recordsModded++;
+                        }
+                        //else if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.CurrentCultureIgnoreCase))
+                        //{
+                        //    Console.WriteLine($"Glossary in Non trans:{textFileToTranslate.Path} \n{split.Translated}");
+                        //    split.FlaggedForRetranslation = true;
+                        //    split.FlaggedGlossaryOut = item.Value;
+                        //    recordsModded++;
+                        //}
+                    }
 
 
                     //Trim
@@ -377,94 +375,94 @@ public class TranslationCleanupTests
         File.WriteAllLines($"{workingDirectory}/TestResults/ForManualTrans.txt", forTheGlossary);
     }
 
-    [Fact]
-    public async Task IsItEnglishPrompt()
-    {
-        var config = Configuration.GetConfiguration(workingDirectory);
-        var serializer = Yaml.CreateSerializer();        
+    //[Fact]
+    //public async Task IsItEnglishPrompt()
+    //{
+    //    var config = Configuration.GetConfiguration(workingDirectory);
+    //    var serializer = Yaml.CreateSerializer();        
 
-        // Create an HttpClient instance
-        using var client = new HttpClient();
-        client.Timeout = TimeSpan.FromSeconds(300);
+    //    // Create an HttpClient instance
+    //    using var client = new HttpClient();
+    //    client.Timeout = TimeSpan.FromSeconds(300);
 
-        // Prime the Request
+    //    // Prime the Request
 
-        var basePrompt = config.Prompts["QueryEnglish"];
-        var lines = new List<string>();
+    //    var basePrompt = config.Prompts["QueryEnglish"];
+    //    var lines = new List<string>();
 
-        var parallelOptions = new ParallelOptions
-        {
-            MaxDegreeOfParallelism = config.BatchSize ?? 10
-        };
+    //    var parallelOptions = new ParallelOptions
+    //    {
+    //        MaxDegreeOfParallelism = config.BatchSize ?? 10
+    //    };
 
-        await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
-        {
-            foreach (var line in fileLines)
-            {
-                int recordsModded = 0;
+    //    await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+    //    {
+    //        foreach (var line in fileLines)
+    //        {
+    //            int recordsModded = 0;
 
-                await Parallel.ForEachAsync(line.Splits, parallelOptions, async (split, cancellationToken) =>
-                {
-                    var stopWatch = new Stopwatch();
-                    stopWatch.Start();
+    //            await Parallel.ForEachAsync(line.Splits, parallelOptions, async (split, cancellationToken) =>
+    //            {
+    //                var stopWatch = new Stopwatch();
+    //                stopWatch.Start();
 
-                    if (string.IsNullOrEmpty(split.Text))
-                        return;
+    //                if (string.IsNullOrEmpty(split.Text))
+    //                    return;
 
-                    if (split.FlaggedForRetranslation)
-                        return;
+    //                if (split.FlaggedForRetranslation)
+    //                    return;
 
-                    var prompt = $"{basePrompt}\n{split.Translated}";
+    //                var prompt = $"{basePrompt}\n{split.Translated}";
 
-                    List<object> messages =
-                       [
-                           LlmHelpers.GenerateUserPrompt(prompt)
-                       ];
+    //                List<object> messages =
+    //                   [
+    //                       LlmHelpers.GenerateUserPrompt(prompt)
+    //                   ];
 
-                    // Generate based on what would have been created
-                    var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
+    //                // Generate based on what would have been created
+    //                var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
 
-                    // Send correction & Get result
-                    HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
-                    HttpResponseMessage response = await client.PostAsync(config.Url, content, cancellationToken);
-                    response.EnsureSuccessStatusCode();
-                    string responseBody = await response.Content.ReadAsStringAsync(cancellationToken);
-                    using var jsonDoc = JsonDocument.Parse(responseBody);
-                    var result = jsonDoc.RootElement
-                        .GetProperty("message")!
-                        .GetProperty("content")!
-                        .GetString()
-                        ?.Trim() ?? string.Empty;
+    //                // Send correction & Get result
+    //                HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
+    //                HttpResponseMessage response = await client.PostAsync(config.Url, content, cancellationToken);
+    //                response.EnsureSuccessStatusCode();
+    //                string responseBody = await response.Content.ReadAsStringAsync(cancellationToken);
+    //                using var jsonDoc = JsonDocument.Parse(responseBody);
+    //                var result = jsonDoc.RootElement
+    //                    .GetProperty("message")!
+    //                    .GetProperty("content")!
+    //                    .GetString()
+    //                    ?.Trim() ?? string.Empty;
 
-                    if (result.StartsWith("No"))
-                    {
-                        var output = $"File: {outputFile}\nLine: {line.LineNum}-{split.Split} Text: {split.Translated}";
-                        Console.WriteLine(output);
-                        Console.WriteLine(result);
-                        lines.Add(output);
-                    }
+    //                if (result.StartsWith("No"))
+    //                {
+    //                    var output = $"File: {outputFile}\nLine: {line.LineNum}-{split.Split} Text: {split.Translated}";
+    //                    Console.WriteLine(output);
+    //                    Console.WriteLine(result);
+    //                    lines.Add(output);
+    //                }
 
-                    Console.WriteLine($"Elapsed: {stopWatch.Elapsed}");
+    //                Console.WriteLine($"Elapsed: {stopWatch.Elapsed}");
 
-                    split.FlaggedForRetranslation = true;
-                    recordsModded++;
-                });
+    //                split.FlaggedForRetranslation = true;
+    //                recordsModded++;
+    //            });
 
-                if (recordsModded > 0)
-                {
-                    Console.WriteLine($"Writing {recordsModded} records to {outputFile}");
-                    await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
-                }
-            }
+    //            if (recordsModded > 0)
+    //            {
+    //                Console.WriteLine($"Writing {recordsModded} records to {outputFile}");
+    //                await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
+    //            }
+    //        }
 
-            await Task.CompletedTask;
-            File.WriteAllLines($"{workingDirectory}/TestResults/NotEnglishLines.txt", lines);
-        });
+    //        await Task.CompletedTask;
+    //        File.WriteAllLines($"{workingDirectory}/TestResults/NotEnglishLines.txt", lines);
+    //    });
 
 
 
-        File.WriteAllLines($"{workingDirectory}/TestResults/NotEnglishLines.txt", lines);
-    }
+    //    File.WriteAllLines($"{workingDirectory}/TestResults/NotEnglishLines.txt", lines);
+    //}
 
     [Fact]
     public void CheckTransalationSuccessfulTest()

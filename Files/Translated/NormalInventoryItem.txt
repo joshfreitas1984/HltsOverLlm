@@ -10,7 +10,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "以赤勺为主药，具活血生肌之效，有助于回复气血，但同时也具备些微毒性，不适合大量服用。"
-    translated: "Using red vinegar as the main ingredient, it has effects of invigorating blood and promoting tissue regeneration, helping to restore vital energy and blood, but also possesses slight toxicity and is not suitable for excessive consumption"
+    translated: "With red chalices as the main ingredient, it has the effect of activating blood and generating flesh, which helps in restoring lifeforce. However, it also possesses slight toxicity and is not suitable for consumption in large quantities"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -90,7 +90,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "将续断和诸般兽骨、兽角、甲壳一同熬煮成膏状，主治筋骨相关伤势的膏药。可医治程度较轻微的分筋、错骨。"
-    translated: "Continue to decoct alligator bone, various animal bones, horns, and shells into a paste to create an ointment for treating injuries related to muscles and joints. It can treat mild cases of muscle tearing and joint dislocation"
+    translated: "Combine willow bark and various animal bones, horns, and shells to make a balm for treating injuries related to muscles and joints. It can treat mild cases of muscle spasms and joint manipulation"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -202,7 +202,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "将续断和虎骨两味药材熬煮成胶状，专治断筋错骨，只消将其涂抹于伤处，不日即可明显见效。"
-    translated: "Take ruodu and hugu herbs, simmer them into a gelatinous form to treat joint dislocations. Simply apply it to the affected area and it will show noticeable effects in no time"
+    translated: "Continued with the joint manipulation and tiger bone herbs cooked into a gel, specifically for treating broken bones and dislocations. Simply apply it to the injured area, and effects will be noticeable in just a few days"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -250,7 +250,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "可回血、解外伤，外表呈现黑色膏状的外伤灵药，其味芬芳清凉，其膏对续骨有奇效。为江湖上人人趋之若鹜，却往往一罐难求之奇药。"
-    translated: "It can replenish blood and heal external injuries. The externally presented dark black ointment wound medicinal herb has a fragrant and cool taste, and the ointment is particularly effective for bone healing. It is highly sought after in the martial world, but it is often hard to find even just one pot of this rare medicine"
+    translated: "A wound-healing, pain-relieving elixir with a fragrant and refreshing taste; its ointment is extremely effective for bone repair. It appears as a black-colored balm on the outside. This miraculous medicine is highly sought after in Jianghu, yet it is often difficult to obtain even one jar"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -314,7 +314,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "芍药的一种，始载于《本经》中品。性微寒；味苦；归肝经。药效主回气血，具备些微毒性，不适合大量服用。"
-    translated: "Peony, a type of peony first recorded in the Ben Jing chapter. It has a slightly cold nature and bitter taste; it enters the liver meridian. Its effects mainly invigorate the blood and have slight toxicity, so it is not suitable for consumption in large quantities"
+    translated: "Chuayao is a type of peony mentioned in the Ben Jing. It has a slightly cold nature; its taste is bitter, and it belongs to the liver meridian. Its medicinal effects are primarily to restore lifeforce, but it possesses mild toxicity and should not be consumed in large quantities"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -436,13 +436,13 @@
   splits:
   - split: 1
     text: "千年灵芝"
-    translated: "Thousand-Year Lingzhi"
+    translated: "Thousand-year old Lingzhi"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "性平；味苦涩；归心、肝、脾、肺、肾五经。灵芝长成后会因木质化渐失药效。千年灵芝可谓凤毛麟角，服食可增益气血。"
-    translated: "Non-toxic; bitter and astringent taste; beneficial for the heart, liver, spleen, lungs, and kidneys. As Lingzhi matures and becomes woody, its medicinal efficacy decreases. A thousand-year-old Lingzhi is exceedingly rare, and consuming it can enhance lifeforce"
+    translated: "Gender-neutral; bitter and acrid in taste. It enters the heart, liver, spleen, lung, and kidney meridians. After the Lingzhi matures, it gradually loses its efficacy due to lignification. The thousand-year old Lingzhi is a rare treasure, and consuming it can enhance lifeforce"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -650,7 +650,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "性温；味甘、辛，归肝、肾经。可制成丹药或禁酒，药效主补养气血。"
-    translated: "Characteristics: Warm; tastes sweet and pungent, entering the liver and kidney meridians. Can be made into pills or used to abstain from alcohol; primarily nourishes qi and blood"
+    translated: "Temperate in nature; tastes sweet and spicy, entering the liver and kidney meridians. Can be used to make elixirs or as a substitute for wine. The effects mainly nourish lifeforce"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -730,7 +730,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "槟榔树的果实，吃了或许有好处。"
-    translated: "Areca palm fruit, consuming it may have benefits"
+    translated: "The fruit of the betel nut tree, if eaten, might have some benefits"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2026,7 +2026,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "一世富贵前代好手所酿，窖藏数十年至百年的好酒。曾有一士子云，家中藏老窖，珍稀可传家。"
-    translated: "One Life of Wealth and Honor, crafted by the expert hands of past generations. It is aged in cellars for decades to a century, resulting in exquisite wine. A scholar once remarked, In our home, there are old cellars filled with rare treasures that can be passed down through generations"
+    translated: "Before attaining lifetime prosperity, there must be skilled ancestors behind it. This wine has been aged in cellars for decades or even a century by previous generations of skilled individuals. Once, a scholar said, In my family, we have an old cellar with rare treasures that can be passed down through generations"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2538,7 +2538,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "颜色深黑，隐隐透出红光，极为沉重，无坚不摧，寻常刀剑中加入半两数钱，凡铁立成神兵。玄铁乃天下至宝，极为罕有，传闻为天外陨铁。"
-    translated: "Color deep black, faintly emitting red light, extremely heavy and unbreakable; with the addition of a few coins' worth of common iron to it, ordinary swords would become divine weapons. Dark steel is considered the most precious treasure in the world, very rare, and rumored to be meteoric iron from beyond the sky"
+    translated: "The color is deep black, faintly emitting a red glow. It is extremely heavy and indestructible; by adding just half an ounce of this into ordinary blades, they can become divine weapons. Dark Steel is regarded as the rarest treasure in the world, with legends claiming it to be meteoric iron from beyond the skies"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4138,7 +4138,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "噶玛寺的厨师写给女儿的一封书信，信中表达了厨师未能尽人父职责的愧歉。"
-    translated: "Dear Daughter,"
+    translated: "A letter from the chef of Karma Monastery to his daughter, expressing regret for not fulfilling his duties as a father"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4426,7 +4426,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "小孩子的玩具项链，亮晶晶但不怎么值钱。"
-    translated: "Children's toy necklace, shiny but not very valuable"
+    translated: "The child's toy necklace, shiny but not worth much money"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4788,7 +4788,7 @@
   splits:
   - split: 1
     text: "善人府宝库钥匙"
-    translated: "Guanhu Fang's Treasure Vault Key"
+    translated: "The key to the treasure chest in Goodwill Mansion's vault"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -5188,13 +5188,13 @@
   splits:
   - split: 1
     text: "值钱的书画"
-    translated: "Valuable paintings and calligraphy"
+    translated: "Valuable calligraphy and paintings"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "一批能卖到不少钱的珍贵书画。"
-    translated: "A collection of valuable paintings and calligraphy that can be sold for a good price"
+    translated: "A collection of valuable calligraphy and paintings that can be sold for a good price"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -5290,7 +5290,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "白马居农人给予的胡萝卜种子，想要胡萝卜，只能自己动手种了。"
-    translated: "The carrot seeds given by the peasant from Bai Ma Ju can only be grown by planting them yourself if you want to grow carrots"
+    translated: "The farmer from White Horse Residence gave out carrot seeds, so if you want carrots, you'll have to plant them yourself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -5338,7 +5338,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "天龙寺知客僧果玉以本地产的野山花与四时蔬果所制成的供品。"
-    translated: "Temple of the Dragon Cloud's gatekeeper monk Gua Yu offered offerings made from local wild mountain flowers and seasonal fruits"
+    translated: "The Host Monk of Tianlong Temple, Guoyu, offered supplies made from local wild mountain flowers and seasonal vegetables and fruits"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -5674,7 +5674,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "由金鼎禅师交给段思平的天龙寺失传绝学，其上所记载的剑法与经脉运行之法天马行空，艰涩难习，却似乎与段氏所修习的武学暗合，若与段氏家传武学一同修习或可收到奇效。"
-    translated: "Transmitted by Master Jin Ding to Duan Siping, the lost art of Tianlong Temple contains sword techniques and meridian flow methods that are boundless in imagination, difficult to practice, but seem to align with the martial arts Duan has been practicing. If practiced alongside his family's martial arts teachings, it may have extraordinary effects"
+    translated: "The lost ultimate art of Tianlong Temple, passed down to Duan Siping by the Chan Master Jin Ding, contains recorded sword arts and methods of meridian circulation that are lofty and challenging to master. However, they seem to align with the martial arts that the Duans practice. If practiced together with the Duan family's traditional martial arts, it could produce remarkable effects"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -5946,7 +5946,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "一世富贵的嫡系葫芦，外表明亮圆润，上面刻有「一世富贵」及「嫡系」等字眼。"
-    translated: "The authentic gourd of Yishifugui is shiny and round, with the words Yishifugui and Direct Lineage inscribed on it"
+    translated: "The heirloom gourd of Lifetime Prosperity is bright and round, with the words Lifetime Prosperity and Heirloom carved on its surface"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -6122,7 +6122,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "擎天寨重要信物，同时也是寨主凭证，平时由李彦仙贴身保管。"
-    translated: "Qingtian Fort's important talisman, which also serves as proof of the fort chief's authority, is normally kept by Li Yanshen"
+    translated: "Heaven's Pillar Fort's important talisman, which also serves as the proof of leadership, is normally guarded by Li Yanshen when not in use"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -6138,7 +6138,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "擎天寨重要信物，同时也是二寨主凭证，平时由王喆贴身保管。"
-    translated: "Quengtian Zhai's important token, which also serves as the proof of identity for the Second Chief, is normally kept under personal guard by Wang Zhe"
+    translated: "Heaven's Pillar Fort's important talisman, which also serves as the credentials of the Second Fort Leader, is usually kept under close guard by Wang Zhe"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -6394,7 +6394,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "擎天寨众洪义临死前交托给你的书信，具洪义所言，此书信内容事关重大。"
-    translated: "The letter entrusted to you by Hong Yi from Qengtian Fort before his death, according to what Hong Yi said, concerns a matter of great importance"
+    translated: "The letter entrusted to you by the people of Heaven's Pillar Fort on behalf of Uncle Hong before his death contains matters of great importance, as stated by Uncle Hong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -6522,7 +6522,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "为了证明诚意，陈大智撕给你的半部梵文洗髓经。对不懂梵文的人来说，跟画满蝌蚪的天书没两样。"
-    translated: "To prove sincerity, Chen Dazhi ripped out half of the Sanskrit Xishu Jing for you. To those who do not understand Sanskrit, it is no different from a sky book full of tadpoles"
+    translated: "To prove his sincerity, Chen Dazhi tore up the half-part of the Sanskrit Brain Washing Scripture given to you. For those who don't understand Sanskrit, it's no different from a book full of tadpole scribbles—like Heavenly Scriptures"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -6714,7 +6714,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "此薄册记载着青城派镇派绝学──青霞诀的总纲，乃唯有青城掌门可以修习的不传之秘。能将只能琼森健体、益气养身的翠峦功修练成极为高深的内功，尤其在治疗内伤上据说有几近于起死回生的功效。"
-    translated: "This slim tome records the core principles of Qingcheng Sect's secret and unparalleled art, Qingxie Jue. It is a secret technique that only the sect leader can study and cultivate. The Cui Luan Gong can be cultivated into an extremely profound internal skill by those who are exceptionally robust in body and qi, especially with almost miraculous effects in treating internal injuries"
+    translated: "This slim volume records the summary of Qingcheng Sect's sect-stabilizing ultimate technique, the Qingxia Quan. It is a secret that only the Qingcheng Sect leader can practice. It allows the cultivation of Cuiyuan Gong, which enhances body health and nourishes Qi, into an exceptionally profound Neigong, especially in treating internal injuries. It is said to have effects almost akin to reviving the dead"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -6874,7 +6874,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "破旧古老的竹简，上面似乎记载着一路剑法精义。"
-    translated: "Aged and worn bamboo slips that seem to record the essence of a martial arts sword technique"
+    translated: "The old and worn bamboo slips seemed to record the essence of a route in sword arts"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -6890,7 +6890,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "破旧古老的竹简，上面似乎记载着一路刀法精义。"
-    translated: "Old and worn bamboo slips, which appear to record the essence of a blade technique"
+    translated: "A tattered and ancient bamboo slip appears to record the essence of a sword technique"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7050,7 +7050,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "江湖中人或富商大贾，常常会将足两纯金打薄成叶子状或游鱼状，以方便藏匿携带。可在各地钱庄当铺兑换成银两。"
-    translated: "In the world of Wulin or among wealthy merchants, it is common for people to take two pure gold pieces and flatten them into leaf or fish shapes for easy concealment and transport. These can be exchanged for silver at money houses or pawnshops in various locations"
+    translated: "In the Jianghu, whether one is a commoner or a wealthy merchant, it's often customary to flatten two pure gold pieces into leaf-like or fish-shaped forms for easy concealment and transport. These can be exchanged for silver at money shops throughout various regions"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7066,7 +7066,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "一尊精致的小玉佛，也许可以在当铺卖得一个好价钱？"
-    translated: "A finely crafted jade Buddha statuette might fetch a good price at the pawnshop?"
+    translated: "A finely crafted jade Buddha; perhaps it could fetch a good price at the pawnshop?"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7268,7 +7268,7 @@
   splits:
   - split: 1
     text: "压岁钱袋"
-    translated: "Red envelope"
+    translated: "New Year's money bag"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7322,7 +7322,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "幽绿的翠玉雕以祥龙逐日的形象，一看即知乃是贵重之物，意义难以价钱计算。"
-    translated: "The jade carving in lush green depicts a dragon chasing the sun, and it is immediately evident that it is a precious item whose significance cannot be measured by price"
+    translated: "The jade carving of a dragon chasing the sun, in shades of deep green, is immediately recognizable as a valuable item. Its significance cannot be measured by money"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
