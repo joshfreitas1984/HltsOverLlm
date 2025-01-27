@@ -157,7 +157,9 @@ public class TranslationCleanupTests
     {
         var config = Configuration.GetConfiguration(workingDirectory);
         var pattern = LineValidation.ChineseCharPattern;
-        bool resetFlag = true;
+        var totalRecordsModded = 0;
+        bool resetFlag = false;
+        //resetFlag = true;
 
         var manual = GetManualCorrections();
         var newGlossaryStrings = new List<string>
@@ -232,14 +234,14 @@ public class TranslationCleanupTests
                     //if (config.GameData.SafeGlossary.ContainsKey(split.Text))
                     foreach (var item in safeGlossary)
                     {
-                        if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.CurrentCultureIgnoreCase))
+                        if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
                         {
-                            Console.WriteLine($"Mistranslated:{textFileToTranslate.Path} \n{split.Translated}");
+                            Console.WriteLine($"Mistranslated:{textFileToTranslate.Path}\n{item.Value}\n{split.Translated}");
                             split.FlaggedForRetranslation = true;
                             split.FlaggedGlossaryIn = item.Value;
                             recordsModded++;
                         }
-                        //else if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.CurrentCultureIgnoreCase))
+                        //else if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
                         //{
                         //    Console.WriteLine($"Glossary in Non trans:{textFileToTranslate.Path} \n{split.Translated}");
                         //    split.FlaggedForRetranslation = true;
@@ -297,14 +299,16 @@ public class TranslationCleanupTests
                 }
             }
 
-            var serializer = Yaml.CreateSerializer();
-
+            totalRecordsModded += recordsModded;
+            var serializer = Yaml.CreateSerializer();            
             if (recordsModded > 0)
             {
                 Console.WriteLine($"Writing {recordsModded} records to {outputFile}");
                 await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
             }
         });
+
+        Console.WriteLine($"Total Lines: {totalRecordsModded} records");
     }
 
     [Fact]

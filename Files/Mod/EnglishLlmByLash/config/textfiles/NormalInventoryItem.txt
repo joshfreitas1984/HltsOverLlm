@@ -156,7 +156,7 @@ it70105	Gold	it70105	Valuable metal, when used to forge weapons, may have great 
 it70106	Mountain Bronze	it70106	Extremely rare metal, often buried in remote and inaccessible mountains. It has the properties of copper but is more resilient	701	2500	1250	TRUE	2	60	5	21	14		0			0
 it70107	Coral gold	it70107	Several types of rare metals mixed with coral have transformed over millions of years in the deep sea. It slices iron as easily as cutting tofu and breaks stones like crushing cotton wool; ordinary weapons shatter upon contact	701	2500	1250	TRUE	2	60	3	11	26		0			0
 it70108	Dragon Crystal	it70108	It is rumored that the crystal, dark as ink, was formed from solidified volcanic magma. The dragon crystal's texture isn't hard, but its fragments are extremely sharp, unmatched in all the world	701	2500	1250	TRUE	2	60	1	6	22		0			0
-it70109	Dark Steel	it70109	The color is deep black, faintly emitting a red glow. It is extremely heavy and indestructible; by adding just half an ounce of this into ordinary blades, they can become divine weapons. Dark Steel is regarded as the rarest treasure in the world, with legends claiming it to be meteoric iron from beyond the skies	701	6250	3125	TRUE	3	90	15	25	35		0			0
+it70109	Dark Steel	it70109	The color is deep black, faintly glowing with red light. It is extremely heavy and unstoppable, capable of breaking through anything. Even common blades worth just half a jin of money can become legendary weapons when made from this steel. Dark Steel is considered the greatest treasure in the world, exceedingly rare, said to be iron that fell from beyond the heavens	701	6250	3125	TRUE	3	90	15	25	35		0			0
 it70110	Dark Iron	it70110	Only produced in the extreme north or snowy mountains, it is harder than ordinary steel	701	2500	1250	TRUE	2	60	8	13	20		0			0
 it70111	Bingtie	it70111	Extremely rare metal, rumored to be found only in the Western Regions. It is extremely tough and far surpasses ordinary steel	701	2500	1250	TRUE	2	60	12	15	24		0			0
 it70112	Purple gold	it70112	A particularly valuable and rare metal, more durable than ordinary gold	701	2500	1250	TRUE	2	60	9	30	16		0			0
@@ -312,7 +312,7 @@ it80198	Yulong Xuelianhua	it40210	Snow lotus from Yulong Snow Mountain. Very rar
 it80199	Heart-Kind Daoist's Handwritten Letter	it80199	Monk Xinliang's Miscellaneous Notes from the Scroll	801	0	0	FALSE	0	50	0	0	0		0			0
 it801001	Wood Clan Command Token	it801001	Token given by Mu Chu. With this token, the guards of the Mu Mansion won't dare to touch you	801	0	0	FALSE	1	50	0	0	0		0			0
 it801002	The old guild master's will	it801002	Venerable Guild Leader's Last Will	801	0	0	FALSE	0	50	0	0	0		0			0
-it801003	Mechanism Iron Box	it801003	A black, heavy box; Yu Yi sealed the late leader of the Taoshi Guild's letter in this box	801	0	0	FALSE	0	50	0	0	0		0			0
+it801003	Mechanism Iron Box	it801003	Yi zhi hei chenchen de hezi, Zhou Yi jiang Taoshi Gang yi shi laobangzhu de yishu feng yu ci he zi zhong	801	0	0	FALSE	0	50	0	0	0		0			0
 it801004	Enigmatic Token	it801004	From the black-cloaked person, a grayish-white token was recovered, appearing to be neither iron nor copper in texture, with an engraving of a wolf's head totem	801	0	0	FALSE	0	50	0	0	0		0			0
 it801005	Iron Sand Palm Fragments	it801005	Iron Sand Palm Fragment	801	0	0	FALSE	0	50	0	0	0		0			0
 it801006	Mei Fugui's Treasure Bag	it801006	Mei Fugui's bag seems to contain some good things inside. How about we take a look?	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "n6900201041"} ]}
@@ -322,7 +322,7 @@ it801009	Mei family ancestral secret box	it801009	The lockbox taken from the Man
 it801010	Handmade Rice Dumplings	it801010	Take the heart-shaped dumplings made by Ling Sanguan and deliver them to Zhang Junbao as quickly as possible	801	0	0	FALSE	0	50	0	0	0		0			0
 it801011	A set of keys	it801011	It seems that the keys taken from Zhao's father and son of the Jade Courtyard can be used to open some place inside the Jade Courtyard	801	0	0	FALSE	0	50	0	0	0		0			0
 it801012	Black and white interlaced jade	it801012	The quality of the jade stone is poor and inconsistent, but it fortuitously separates into black and white colors	801	0	0	FALSE	0	50	0	0	0		0			0
-it801013	Valuable calligraphy and paintings	it801013	A collection of valuable calligraphy and paintings that can be sold for a good price	801	0	0	FALSE	1	10	0	0	0		0			0
+it801013	Valuable paintings and calligraphy	it801013	A batch of valuable paintings and calligraphy that can sell for a decent sum	801	0	0	FALSE	1	10	0	0	0		0			0
 it801014	Confusion Smoke	it801014	Use the dried petals of the lotus flower, ground into a fine powder to create it. Those who take it will fall into a coma for a day before awakening	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it80101401000"} ]}
 it801015	Heitan Buddha Beads	it801015	Valuable prayer beads made of black sandalwood, upon close inspection, show traces left by years of use	801	0	0	FALSE	0	50	0	0	0		0			0
 it801016	Carrot	it801016	Carrots, typically the arch-nemesis of children	801	0	0	FALSE	0	50	0	0	0		0			0
@@ -428,7 +428,7 @@ it801118	Letter of Introduction	it801057	A highly respected Wulin master's lette
 it801119	Blood-Soaked Chess Diagram	it801119	This chess manual records a famous game between the legendary Go master Liu Zhongfu and the fairy of Li Mountain	801	0	0	FALSE	2	50	0	0	0		0			0
 it801120	Antirheumatic Herb	it801120	A peculiar plant that grows in swampy areas emits a foul, decaying odor when it blooms	801	0	0	FALSE	0	50	0	0	0		0			0
 it801121	Wan Min Shengsheng Jian Canpian	it801121	The old and worn bamboo slips seemed to record the essence of a route in sword arts	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it80112101000"} ]}
-it801122	Wang Xing Tianxia Dao Canpian	it801122	A tattered and ancient bamboo slip appears to record the essence of a sword technique	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it80112201000"} ]}
+it801122	Wang Xing Tianxia Dao Canpian	it801122	On the weathered ancient bamboo slips, it seems that a series of blade arts essentials are recorded	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it80112201000"} ]}
 it801123	Yao Hen's Letter	it801017	The letter dropped into Yao Hen's hands	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "m6017801000"} ]}
 it801124	The Fish Amulet of Desires	eq20219	Wish-Granting Twin Fish Pendant	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "m6017801004"} ]}
 it801125	Yao Hen's letter	it801017	The letter that fell into Yao Hen's hands contained some information revealed through reading it	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "m6017801006"} ]}
@@ -439,7 +439,7 @@ it801129	Yue Family Spear Techniques Secrets	qinggong	Recorded in the Wu Mu Manu
 it801130	Novel Insight Fruit	it40235	Fresh wisdom fruit, just fallen from the branch. After consumption, it can have a stimulating and brain-boosting effect, enhancing the consumer's understanding of martial arts and martial skills	801	0	0	FALSE	0	99	0	0	0		3			0
 it80301	Priceless antique	temp	Priceless antique	803	3000	1500	FALSE	2	30	0	0	0		0			0
 it80302	Golden Leaf	it80302	In the Jianghu, whether one is a commoner or a wealthy merchant, it's often customary to flatten two pure gold pieces into leaf-like or fish-shaped forms for easy concealment and transport. These can be exchanged for silver at money shops throughout various regions	813	2000	1000	FALSE	1	30	0	0	0		0			0
-it80303	Small Jade Buddha	it801044	A finely crafted jade Buddha; perhaps it could fetch a good price at the pawnshop?	803	3000	1500	FALSE	2	50	0	0	0		0			0
+it80303	Small Jade Buddha	it801044	A finely crafted jade Buddha might fetch a good price at the pawnshop	803	3000	1500	FALSE	2	50	0	0	0		0			0
 it80304	Jade Vase	it80304	A finely crafted jade bottle might fetch a good price at the pawnshop?	803	3000	1500	FALSE	2	50	0	0	0		0			0
 it80305	Yida Fa's golden leaves	it80305	Despite appearing humble, Jidaifa is far wealthier than most people think. His savings could even be exchanged for several gold leaves. Some complaints about him selling substandard wine and food might not be entirely unfounded	803	3000	1500	FALSE	1	30	0	0	0		0			0
 it80306	Little Cloth Bag	it80306	People carry a small bag with them, and only by opening it will they know what's inside	809	150	75	FALSE	0	2	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "n1999800000"} ]}

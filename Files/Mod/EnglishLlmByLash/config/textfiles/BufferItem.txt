@@ -692,7 +692,7 @@ buffSkillTree144_002	Breaking Fist	When facing a hand combat technique, it is es
 buffSkillTree144_002_2	Sword arts cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_003	Broken Sword	When facing an opponent's sword arts technique and countering with a single Jade-like Blade, it is essential to first dodge the enemy's attack before launching the counterattack	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_003_2	Sword arts cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_004	Broken Blade	When faced with swordplay techniques and countering with a swift stroke, one must first evade the enemy's attack before launching the counterattack	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_004	Broken Blade	When facing a blade technique, they must first evade the enemy's move before countering with a swift counterstrike	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_004_2	Sword Arts Cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_005	Broken Spear	When faced with spear techniques, one must first dodge the enemy's move and then counterattack with a graceful sword strike	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_005_2	Sword arts cultivation	Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
@@ -776,7 +776,7 @@ buffSkillTree163_001	Reconnect the meridians	Constitution increases by 4 points,
 buffSkillTree163_002	Refining muscles	Constitution +6, Neigong +6	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree163_003	Refine one's bones	Constitution increased by 8 points, Neigong increased by 8 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree164_000	Pure Neigong	Restore 30% energy per turn and reduce own negative status by 20%	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,30)(Injured,-20)(Wounded,-20)(Poisoned,-20)(Sealed,-20)(Confused,-20)(Dazed,-20)(Cramped,-20)(Sprained,-20)(Exhausted,-20)(Frozen,-20)(Drunk,-20)	beginUnitProp02
-buffSkillTree165_000	Profound internal strength	Each turn restore 15% Qi, reduce own negative status by 12%	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,15)(Injured,-12)(Wounded,-12)(Poisoned,-12)(Sealed,-12)(Confused,-12)(Dazed,-12)(Cramped,-12)(Sprained,-12)(Exhausted,-12)(Frozen,-12)(Drunk,-12)	beginUnitProp02
+buffSkillTree165_000	Profound internal power	Each turn restore 15% Qi, reduce own negative status by 12%	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,15)(Injured,-12)(Wounded,-12)(Poisoned,-12)(Sealed,-12)(Confused,-12)(Dazed,-12)(Cramped,-12)(Sprained,-12)(Exhausted,-12)(Frozen,-12)(Drunk,-12)	beginUnitProp02
 buffSkillTree166_000	Common Neigong	Regenerate 8% vitality each round and reduce personal negative status by 6%	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,8)(Injured,-6)(Wounded,-6)(Poisoned,-6)(Sealed,-6)(Confused,-6)(Dazed,-6)(Cramped,-6)(Sprained,-6)(Exhausted,-6)(Frozen,-6)(Drunk,-6)	beginUnitProp02
 buffSkillTree167_000	Tale of lament and pleading	Reduce damage taken by self by 10%	0	buffSkillTree167_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree167_006	Lotus Falls	When running the Song of Sorrow and Begging for Mercy, reduce the damage taken by 20%	0	buffSkillTree167_000	0	TRUE	0	FALSE	0	0		0
@@ -930,7 +930,7 @@ BattleSchedule029	Dragon Poison	Poisoned, slightly reduced movement ability and 
 BattleSchedule030	Dragon Venom	Poisoned, reducing mobility and unable to use elixirs	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule030
 BattleSchedule031	Dragon's Poison Saliva	Poisoned, significantly reduced mobility and unable to use elixirs	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule031
 BattleSchedule032	Huangfu Dengyun restored to full health and activated hidden buffs	Return to full health	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule032
-BattleSchedule033	Fire Consumes the Prairie	Practice the Quanzhen Sect's unique internal skill, enhancing one's combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
+BattleSchedule033	Fire Consumes the Prairie	Practice Ming Cult's unique Neigong to unleash one's combat potential	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
 BattleSchedule034	Zealous to catch the thief	For capturing Li Tan, increase own qinggong value by 30 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule034
 BattleSchedule035	Assault with serious injuries	Accumulate external injury value of 30 points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule035
 BattleSchedule036	Adversity reveals true natures	With no regard for personal safety, exert all effort to increase attack power by 100%, and accumulate 5 internal injury points per attack	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule036
@@ -1103,7 +1103,7 @@ nick029	Bladesman	All blade arts power +70%	0	nickname	0	TRUE	0	FALSE	0	0		nick0
 nick030	Blade Madman	All blade arts power +40%	0	nickname	0	TRUE	0	FALSE	0	0		nick030
 nick031	Surging waves of turmoil	Shockwave Blade Arts and Torrential Fury Ultimate Blade Techniques increase blade power by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick031
 nick032	Five Tiger Severance Sword	The Five Tiger Gateblade Blade Arts increase power by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick032
-nick033	Si Xiang Dao	Four Symbols Sword Art increases power by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick033
+nick033	Si Xiang Dao	Four Symbols Sword Technique increases blade arts damage by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick033
 nick034	San Cai Dao	Three Talents Sword Blade Arts power +30%	0	nickname	0	TRUE	0	FALSE	0	0		nick034
 nick035	Villager	Flower Fists and Embroidered Kicks Power +50%	0	nickname	0	TRUE	0	FALSE	0	0		nick035
 nick036	Elite Villagers	Flower Fists and Embroidered Kicks Power +100%	0	nickname	0	TRUE	0	FALSE	0	0		nick036
@@ -1193,7 +1193,7 @@ nick601buff	Snow Wolf Flying Fox	Snow Mountain Extraordinary Hero, unparalleled 
 nick602buff	Old Poisoner	Martial arts grandmaster, king of poison. All skills' potency increases by 30%, and each strike inflicts deadly poison	0	nickname	0	TRUE	0	FALSE	0	0		nick602
 nick603buff	The Smiling, Proud Wanderer of the Jianghu	Your sword arts have increased in power by 50%, and you have a 20% chance to evade damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick603
 nick604buff	Transcendently Versatile	Your natural talent and intelligence allow you to gain more experience points in battles, and you have a 25% chance of evading damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick604
-nick605buff	Western Madman	The higher the berserk value, the stronger the martial arts power, with sword art power increasing by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick605
+nick605buff	Western Madman	As the madness value increases, martial arts power grows stronger, and sword arts power rises by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick605
 nick606buff	Teleportation with a Snap of Fingers	Hidden weapon power increased by 40%, with a 30% chance to dodge damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick606
 nick607buff	Compassion in one's heart	All skills' power increases by 40%, and the higher your morality, the stronger your skill power	0	nickname	0	TRUE	0	FALSE	0	0		nick607
 nick608buff	Descending Dragon Divine Palm	Hand-to-hand combat power increased by 40%, and all damage skills have an internal injury effect	0	nickname	0	TRUE	0	FALSE	0	0		nick608
