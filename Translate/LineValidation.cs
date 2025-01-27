@@ -55,7 +55,7 @@ public class LineValidation
             response = false;
 
         // 99% chance its gone crazy with hallucinations
-        if (result.Length > 50 && raw.Length < 6)
+        if (result.Length > 50 && raw.Length < 4)
             response = false;
 
         ////Alternativves

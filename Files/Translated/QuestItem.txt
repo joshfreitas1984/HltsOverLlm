@@ -1382,8 +1382,8 @@
     text: "回美馔楼"
     translated: "Return to the Delicacies Pavilion"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "你来到珍馐会结识了西庖和河洛一族的成员，并与西川兵马指挥使皇甫登云见上了一面。西庖决定召回其余在外的珍馐会成员，共同商讨搜寻天书和下落不明的其余二位散人。回美馔楼问清任务的详情，并借机吃一顿传说中的「灶娘」亲手烧的菜吧。"
     translated: "You met members of the Western Kitchen and Heluo Clan at the Delicacies Society, and had a meeting with the West Sichuan Military Commander Huangfu Dengyun. The Western Kitchen decided to call back the other members of the Delicacies Society who are outside, to discuss together the search for the Heavenly Scripture and the whereabouts of the other two missing hermits. Return to the Delicious Banquet Hall to clarify the details of the task, and take the opportunity to enjoy a meal of dishes supposedly cooked by “Mother of the Hearth” herself"
@@ -5142,8 +5142,8 @@
     text: "落花奈何"
     translated: "What can be done about falling flowers?"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "落花有意，流水无情，回去和邵如珏谈谈吧。如果还没和周行恒说明状况，也要记得向他回复邵如珏的对他的想法呀。"
     translated: "The falling flowers have intent, the flowing water has no feelings; go back and talk to Shao Rujue about it. Also remember to respond to Zou Xingheng about Shao Rujue's thoughts towards him if you haven't explained the situation to him yet"
@@ -5558,8 +5558,8 @@
     text: "仇山恨鬼"
     translated: "Grudge against the mountain, hatred for ghosts"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "禾郁青挂念哥哥与马帮的近况，如果有时间回大研镇一趟吧。"
     translated: "He Yuqing was concerned about her brother's situation with the Horse Gang and suggested that if there was time, they should visit Dayan Town"
@@ -6294,8 +6294,8 @@
     text: "婆媳问题"
     translated: "Mother-in-law and daughter-in-law issues"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "在白马居住段时间的漆笑儿，受到敏婆婆不少照顾。身为未来的媳妇怎么可以一直受婆婆照顾，至少也要回报回报。"
     translated: "Qi Xiao'er, who had been staying at the White Horse Residence for some time, received a lot of care from Aunt Min. As someone destined to become her daughter-in-law, she couldn't always be cared for by her mother-in-law; she should have reciprocated at least a little"
@@ -11338,10 +11338,10 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "俏梦阁的艳雪姑娘希望明煦公子能找到一对终生不嫌不弃、白首不离的夫妇，并在这对夫妇前立誓终身不负。<br>将这讯息回复给明煦公子吧。"
-    translated: "Charming Dream Hall's beautiful Snow Maiden hopes that Young Master Ming Xu can find a couple who will not tire of each other for life and never part ways in old age, and she wants them to take an oath before her never to betray their lifelong commitment<br>Forward this information to Lord Ming Xu."
+    translated: "Charming Dream Hall's beautiful Snow Maiden hopes that Young Master Ming Xu can find a couple who will not tire of each other for life and never part ways in old age, and she wants them to take an oath before her never to betray their lifelong commitment<br>Forward this information to Lord Ming Xu"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 709
   raw: "Q60007_04	杂货铺夫妇	1	俏梦阁的艳雪姑娘希望明煦公子能找到一对终生不嫌不弃、白首不离的夫妇，并在这对夫妇前立誓终身不负。<br>明煦公子表示大研镇的南北杂货铺及米店老板周老夫妇正符合「不嫌不弃，白首不离」，委托你去询问这对夫妇是否愿意作媒。	0	FALSE	0	-617.84,66.36,-1052.52	TRUE		300	(Reputation,1)	1"
   translated: ""
@@ -11556,10 +11556,10 @@
   splits:
   - split: 1
     text: "将软筋散解药交给周益"
-    translated: "Give the 'Ruan Jin San Jie' medicine to Zhou Yi."
+    translated: "Give the 'Ruan Jin San Jie' medicine to Zhou Yi"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "在漱玉矶遇到淘石帮总管天哥打伤了隶属于玉坊的赵掌柜父子，让你目睹了淘石帮在漱玉矶为所欲为的情状，并应玉坊老板邵谦之请，调查淘石帮副帮主周益的下落。<br>不过虽是找到了周益，他却给人下了软筋散四肢无力，并且无法提起内劲。得到解药后，将解药交给周益吧。"
     translated: "At Gleaming Jade Beach, you encountered the Chief of the Taoshi Gang, Tian Ge, who injured Zhang Gui, a father and son affiliated with Jade Hall. This allowed you to witness how the Taoshi Gang was behaving recklessly at Gleaming Jade Beach. On behalf of the Jade Hall boss, Shao Qian, you were asked to investigate the whereabouts of the Taoshi Gang's Deputy Chief, Zhou Yi<br>However, although we found Zhou Yi, someone administered Du Zhongjin San to him, causing his limbs to lose strength and preventing him from exerting internal energy. Once you obtain the antidote, give it to Zhou Yi"
@@ -12102,8 +12102,8 @@
     text: "苏清瑞的过去"
     translated: "Suo Qingshui's past"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "昔日的「小孟尝」苏清瑞如今装疯卖傻，藏匿在仇敌「赛孟尝」景泰然的身边，到底他的过去有着什么样的冤屈？"
     translated: "Once known as Little Mengchang, Su Qingrui now pretends to be mad, hiding at the side of his enemy Superior Mengchang Jing Taoran. What sort of injustices from the past does he have?"
@@ -13756,8 +13756,8 @@
     text: "狐仙有赏"
     translated: "There is a reward for the fox immortal"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 860
   raw: "Q60043_01	上乘锻造材料	1	收集上乘锻造材料，包括玄铁、紫金、绝龙骨、紫檀木，如果搜集全了，就前往乞丐寮去找西门玉堂吧。	0	FALSE	0	0	TRUE		600	(Reputation,3)	1"
   translated: ""
@@ -15542,8 +15542,8 @@
     text: "送交书画"
     translated: "Submit paintings and calligraphy"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 3
     text: "将书画拿给盗墓兄弟"
     translated: "Take the paintings to the treasure-hunting brothers"

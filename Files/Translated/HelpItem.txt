@@ -906,8 +906,8 @@
     text: "气血"
     translated: "Lifeforce"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 4
     text: "影响角色在战斗中生存力的主要数值，归零的话则角色便会退场。"
     translated: "The main value affecting a character's survivability in battle is their health points. If this value reaches zero, the character will be knocked out of the fight"

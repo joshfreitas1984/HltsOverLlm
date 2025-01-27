@@ -168,8 +168,8 @@
     text: "{0}{1} 经验"
     translated: "{0} {1} Experience"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 19
   raw: "HintTypeInventory	{0} {1} 个"
   translated: ""
@@ -1078,8 +1078,8 @@
     text: "限定装备："
     translated: "Mysterious Artifact:"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 110
   raw: "CharacterProperty50	气血"
   translated: ""
@@ -1088,8 +1088,8 @@
     text: "气血"
     translated: "Lifeforce"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 111
   raw: "CharacterProperty51	气血上限"
   translated: ""
@@ -1178,8 +1178,8 @@
     text: "狂狷"
     translated: "Wild and Good"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 120
   raw: "CharacterProperty110	道德"
   translated: ""
@@ -1208,8 +1208,8 @@
     text: "阴阳"
     translated: "Yin and Yang"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 123
   raw: "CharacterProperty196	暴击"
   translated: ""
@@ -1870,8 +1870,8 @@
     text: "迷魂水寨"
     translated: "Enchanted Spirit Water Fortress"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 191
   raw: "Area24	赋闲书院"
   translated: ""
@@ -2984,8 +2984,8 @@
     text: "目前选择的游戏难易度为<color=#ff2222>炼狱</color>等级，部分游戏内容会有些不同："
     translated: "The current selected game difficulty is 'Purgatory' and some parts of the game content will be different"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 306
   raw: "DifficultyWarning1	"
   translated: ""
@@ -4510,8 +4510,8 @@
     text: "信步山河"
     translated: "Wandering through mountains and rivers"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 461
   raw: "LoadingCreateNpc	眺彼红尘"
   translated: ""
@@ -7430,8 +7430,8 @@
     text: "所持金额："
     translated: "Owned:"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 762
   raw: "UIStoreTransaction	确认交易"
   translated: ""
@@ -7920,8 +7920,8 @@
     text: "锻造费用："
     translated: "Forging cost:"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 814
   raw: "UIBlacksmithDialog1	锻造所需费用为 {0} 文钱，您的金钱不足。"
   translated: ""
@@ -8044,8 +8044,8 @@
     text: "淬炼费用："
     translated: "Tempering cost:"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 827
   raw: "UIQuenchDialog1	淬炼所需费用为 {0} 文钱，您的金钱不足。"
   translated: ""
@@ -8276,8 +8276,8 @@
     text: "需求数量："
     translated: "Quanity Required:"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 852
   raw: "UIReforgeNotEnough	(数量不足)"
   translated: ""
@@ -8632,8 +8632,8 @@
     text: "奖励："
     translated: "Reward:"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 890
   raw: "UIAchievementCanReward	(可领取奖励)"
   translated: ""
@@ -8662,8 +8662,8 @@
     text: "进度："
     translated: "Progress:"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 893
   raw: "#战斗界面	"
   translated: ""
@@ -9776,8 +9776,8 @@
     text: "似箭归心"
     translated: "Like an arrow returning to its heart"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 1011
   raw: "Final01_01	一如每个美好故事的结尾，善有善果，恶有恶报，"
   translated: ""
@@ -10740,8 +10740,8 @@
     text: "数年后，大研镇便有了这样的传闻："
     translated: "Several years later, the rumors about Dayan Town spread like this:"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 1111
   raw: "Final07_08	在遥远的东方武林，出现一名与鹰为伴的外地旅者，"
   translated: ""
@@ -11366,8 +11366,8 @@
     text: "倚鞍思骏"
     translated: "Lean on the saddle, think of the horse"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 1176
   raw: "Final11_01	对于禾泓渊的死，禾郁青极为自责，"
   translated: ""
@@ -13070,8 +13070,8 @@
     text: "兔死狗烹"
     translated: "When the rabbit dies, the dog gets cooked"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 1353
   raw: "Final22_01	你带着他走出拱石村，藉由一路的冒险，"
   translated: ""

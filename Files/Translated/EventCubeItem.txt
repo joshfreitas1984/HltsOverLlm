@@ -18986,8 +18986,8 @@
     text: "鼠啃灵芝"
     translated: "Mouse nibbles at lingzhi"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 1899
   raw: "m60309-07	铁刀木	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_024_L.prefab	Pick	-371.616, 90.21725, 690.1559	1, 1, 1	2.038738, 2.038739, 2.038739	333.8931, 310.895, 32.49007	False	0		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it70208\", 1}  ]} 	0"
   translated: ""
@@ -26706,8 +26706,8 @@
     text: "生死有命"
     translated: "Life and death are determined by fate"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 2671
   raw: "m80243		MouseEventBox		Survey	19.924, 156.099, -1165.428	1, 1, 1	1, 1.29584, 1.2515	0, 0, 0	True	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n8024301000\"}  ]} 	0"
   translated: ""
@@ -33426,8 +33426,8 @@
     text: "遭遇山贼"
     translated: "Encountered Mountain Bandits"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 3343
   raw: "Q4004512	货物	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Vehicle/vehicle_002_A.prefab	None	-1430, 77.9, 417.2	1, 1, 1	1, 1, 1	311.3, 142.11, 8.100002	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40045_02\", 0, True} , { \"QuestCondition\" : \"Q40045_03\", 0, True}  ], 1} 	0	0"
   translated: ""
@@ -33876,8 +33876,8 @@
     text: "小枫鬼叫"
     translated: "Little Maple Screams Like a Ghost"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 3388
   raw: "rc20001_01	番僧围殴事件	EventBox		None	-821.31, 68.55, 988.85	1, 1, 1	25, 2, 20	0, 333.0325, 0	True	0		{ \"LogicalNode\" : [ { \"ProbabilityAction\" : 50.00000}  ], 0} 	{ \"MultiAction\" : [ { \"RumorAction\" : \"\", \"rg20001\"}  ]} 	0"
   translated: ""
@@ -37106,8 +37106,8 @@
     text: "玉坊劈柴"
     translated: "Jade Courtyard chopping wood"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 3711
   raw: "s60069-3	玉坊木柴堆	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Outside/outside_007_A.prefab	None	-369.051, 67.092, -1068.912	1.245008, 0.9099061, 0.609988	1, 1, 1	270, 146.4765, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60009_08\", 1, True}  ], 0} 	0	0"
   translated: ""

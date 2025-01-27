@@ -44406,8 +44406,8 @@
     text: "食蜜硕鼠"
     translated: "Seek sweetness and find a fat mouse"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 4441
   raw: "n60166	米店老板娘	w_standD00	c_w02	-618.077, 66.33876, -1058.172	271.1491		FALSE	FALSE	n6016601000	v00053				2	3,113	0	n60105	n60166	n60166,n60166b,n60166c		(Food,1)(Money,1)	0	0"
   translated: ""
@@ -47996,8 +47996,8 @@
     text: "桔糖"
     translated: "Tangerine Candy"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 4800
   raw: "n60437c	桔糖	al20007@Idle	animal07	0, 0, 0	0		FALSE	FALSE	n6043701007					0	21	0	animal63	n60437c				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f64009-5小老虎消失\", 1, 0}  ], 0} 	0"
   translated: ""
@@ -48006,8 +48006,8 @@
     text: "桔糖"
     translated: "Tangerine Candy"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
 - lineNum: 4801
   raw: "n60437d	虎爸	al20007@Idle	animal07	0, 0, 0	0		FALSE	FALSE		v10002				0	21	0	animal07	n60437d				0	0"
   translated: ""

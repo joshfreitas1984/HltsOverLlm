@@ -2454,8 +2454,8 @@
     text: "以虚御实"
     translated: "Use emptiness to meet fullness"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "发动虚招时，回复1点精力"
     translated: "Regain 1 Qi when performing a feint"
@@ -3382,8 +3382,8 @@
     text: "以简驭繁"
     translated: "With simplicity, govern complexity"
     flaggedForRetranslation: false
-    flaggedGlossaryIn: 
-    flaggedGlossaryOut: 
+    flaggedGlossaryIn: ''
+    flaggedGlossaryOut: ''
   - split: 2
     text: "同一场战斗中，若连续使用同一项招式出招三次以上，每次招式威力提升(最多累积100%伤害加成)"
     translated: "In the same battle, if you use the same technique three times or more consecutively, each time its power increases (maximum cumulative damage bonus of 100%)"
