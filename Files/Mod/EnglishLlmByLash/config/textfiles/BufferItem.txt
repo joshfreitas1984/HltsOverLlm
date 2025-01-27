@@ -692,7 +692,7 @@ buffSkillTree144_002	Breaking Fist	When facing a hand combat technique, it is es
 buffSkillTree144_002_2	Sword arts cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_003	Broken Sword	When facing an opponent's sword arts technique and countering with a single Jade-like Blade, it is essential to first dodge the enemy's attack before launching the counterattack	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_003_2	Sword arts cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_004	Broken Blade	When facing a blade technique, they must first evade the enemy's move before countering with a swift counterstrike	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_004	Broken Blade	When facing an opponent's blade art techniques and countering with a Slender Beauty strike, one must first evade the enemy's attack before launching their own counterattack	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_004_2	Sword Arts Cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_005	Broken Spear	When faced with spear techniques, one must first dodge the enemy's move and then counterattack with a graceful sword strike	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_005_2	Sword arts cultivation	Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
@@ -992,7 +992,7 @@ BattleSchedule091	Dian Cang Jian Zhen	According to the formation law, increase s
 BattleSchedule092	Dian Cang Jian Zhen	According to the formation law, improve skills in damage, counterattack, and healing	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule092
 BattleSchedule093	Dian cang jian zhen	According to formation rules, increase skill damage, counterattack, and healing based on the number of people	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule093
 BattleSchedule094	A disciple must not disobey their master's order	Not knowing what to do on either side, I don't know how to handle this	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule094
-BattleSchedule095	Desperate as if in flames	Qi Xiaoer was injured, and Li Tan acted swiftly like a thunderbolt	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule095
+BattleSchedule095	Desperate as if in flames	As soon as Qi Xiao'er was injured, Li Tan reacted swiftly like a lightning bolt	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule095
 BattleSchedule096	Severe Cold Sword Formation	According to formation skills, increase the number of people to enhance damage, defense, and healing	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule096
 BattleSchedule097	Enduring Cold Blade Formation	According to formation law, increase the number of skills for damage, defense, and healing	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule097
 BattleSchedule098	Extreme Cold Blade Array	Based on the formation, increase skill damage, defense, and healing	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule098
