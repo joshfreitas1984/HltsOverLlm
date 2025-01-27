@@ -10,7 +10,7 @@ modelParams:
   min_p: 0.5
   frequency_penalty: 0
   presence_penalty: 0
-retryCount: 50
+retryCount: 5
 batchSize: 1
 optimizationMode: false
 skipLineValidation: false

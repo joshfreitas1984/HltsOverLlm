@@ -414,10 +414,10 @@ public class LineValidation
 
     public static string EncaseSquareBracketsForWholeLines(string raw, string translated)
     {
-        if (raw.StartsWith("【") 
-            && raw.EndsWith("】")
-            && !translated.Contains("【")
-            && !translated.Contains("】"))
+        if (raw.StartsWith('【') 
+            && raw.EndsWith('】')
+            && !translated.Contains('【')
+            && !translated.Contains('】'))
         {
             translated = $"【{translated}】";
         }

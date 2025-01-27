@@ -32,6 +32,9 @@ public class TranslationCleanupTests
             {  "戾气？", "Malevolent Qi?" },
             {  "-请便", "Excuse me" },
             {  "{0}{1} 经验", "{0} {1} Experience" },
+            { "杂项事件对话", "Miscellaneous Events Dialogue" }, 
+            { "哼，这点轻功也敢来俏梦阁？", "Ha, you dare come to the Charming Dream Pavilion with such basic Qinggong skills?" },
+            { "这就是禾家马帮大锅头？", "So, you're the big boss of the He Family Horse Gang?" }, 
 
             // Auto
             //{ "以简驭繁", "With simplicity, govern complexity" },
@@ -162,14 +165,7 @@ public class TranslationCleanupTests
     public static async Task<int> UpdateCurrentTranslationLines()
     {
         var config = Configuration.GetConfiguration(workingDirectory);
-        var pattern = LineValidation.ChineseCharPattern;
-        var totalRecordsModded = 0;
-        bool justReset = false; 
-        bool cleanWithGlossary = true;
-        bool resetFlag = false;       
-        resetFlag = true;
-        justReset = true; //Override and just do nothing but reset
-
+        var totalRecordsModded = 0;        
         var manual = GetManualCorrections();
         var newGlossaryStrings = new List<string>
         {
@@ -198,153 +194,9 @@ public class TranslationCleanupTests
             int recordsModded = 0;
 
             foreach (var line in fileLines)
-            {
                 foreach (var split in line.Splits)
-                {
-                    // Reset all the retrans flags
-                    if (resetFlag)
-                    {
+                    if (CheckSplit(newGlossaryStrings, manual, split, outputFile, safeGlossary,  dupeNames, config))
                         recordsModded++;
-                        split.ResetFlags();
-
-                        if (justReset)
-                            continue;
-                    }
-
-                    // Add Manual Translations in that are missing
-                    var preparedRaw = LineValidation.PrepareRaw(split.Text);
-
-                    // If it is manually corrected
-                    if (manual.TryGetValue(preparedRaw, out string? value))
-                    {
-                        if (split.Translated != value)
-                        {
-                            Console.WriteLine($"Manually Translated {textFileToTranslate.Path} \n{split.Text}\n{split.Translated}");
-                            split.Translated = LineValidation.CleanupLineBeforeSaving(LineValidation.PrepareResult(value), split.Text, outputFile);
-                            recordsModded++;
-                        }
-                        continue;
-                    }
-
-                    //// Try and flag crazy shit
-                    //if (!split.FlaggedForRetranslation
-                    //    //&& ContainsGender(split.Translated))
-                    //    && ContainsAnimalSounds(split.Translated))
-                    //{
-                    //    Console.WriteLine($"Contains whack {textFileToTranslate.Path} \n{split.Translated}");
-                    //    recordsModded++;
-                    //    split.FlaggedForRetranslation = true;
-                    //}
-
-                    // If it is already translated or just special characters return it
-                    if (!Regex.IsMatch(split.Text, pattern) && split.Translated != split.Text)
-                    {
-                        Console.WriteLine($"Already Translated {textFileToTranslate.Path} \n{split.Translated}");
-                        split.Translated = split.Text;
-                        recordsModded++;
-                        continue;
-                    }
-
-                    // Clean up Translations that are already in
-                    if (string.IsNullOrEmpty(split.Translated))
-                        continue;
-
-                    // Glossary Clean up
-                    if (cleanWithGlossary)
-                    {
-                        foreach (var item in safeGlossary)
-                        {
-                            if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
-                            {
-                                Console.WriteLine($"Mistranslated:{textFileToTranslate.Path}\n{item.Value}\n{split.Translated}");
-                                split.FlaggedForRetranslation = true;
-                                split.FlaggedGlossaryIn = item.Value;
-                                recordsModded++;
-                            }
-                            else
-                            if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
-                            {
-                                // If its in the translated
-                                if (item.Value == "He Family" && split.Translated.Contains("the family", StringComparison.OrdinalIgnoreCase))
-                                    continue;
-
-
-                                // If one of the dupes are in the raw
-                                if (dupeNames.ContainsKey(item.Value))
-                                {
-                                    bool found = false;
-                                    foreach (var dupe in dupeNames[item.Value])
-                                        if (split.Text.Contains(dupe))
-                                        {
-                                            found = true;
-                                            break;
-                                        }
-
-                                    if (found)
-                                        continue;
-                                }
-
-                                Console.WriteLine($"Hallucinated Glossary in Non trans:{textFileToTranslate.Path}\n{item.Value}\n{split.Translated}");
-                                split.FlaggedForRetranslation = true;
-                                split.FlaggedGlossaryOut = item.Value;
-                                recordsModded++;
-                            }
-                        }
-                    }
-
-                    if (split.FlaggedForRetranslation) continue;
-
-                    //Trim
-                    if (split.Translated.Trim().Length != split.Translated.Length)
-                    {
-                        Console.WriteLine($"Needed Trimming:{textFileToTranslate.Path} \n{split.Translated}");
-                        split.Translated = split.Translated.Trim();
-                        recordsModded++;
-                        //Don't continue we still want other stuff to happen
-                    }
-
-                    //Add . back in
-                    if (outputFile.EndsWith("NpcTalkItem.txt") && char.IsLetter(split.Translated[^1]))
-                    {
-                        //It was already like that
-                        if (split.Text == split.Translated)
-                            return;
-
-                        Console.WriteLine($"Needed full stop:{textFileToTranslate.Path} \n{split.Translated}");
-                        split.Translated += '.';
-                        recordsModded++;
-                        //Don't continue we still want other stuff to happen
-                    }
-
-                    foreach (var glossary in newGlossaryStrings)
-                        if (split.Text.Contains(glossary))
-                        {
-                            Console.WriteLine($"New Glossary {textFileToTranslate.Path} Replaces: \n{split.Translated}");
-                            split.FlaggedForRetranslation = true;
-                            recordsModded++;
-                            continue;
-                        }
-
-                    // Clean up Diacritics
-                    var cleanedUp = LineValidation.CleanupLineBeforeSaving(split.Translated, split.Text, outputFile);
-                    if (cleanedUp != split.Translated)
-                    {
-                        Console.WriteLine($"Cleaned up {textFileToTranslate.Path} \n{split.Translated}\n{cleanedUp}");
-                        split.Translated = cleanedUp;
-                        recordsModded++;
-                        continue;
-                    }
-
-                    // Remove Invalid ones
-                    var result = LineValidation.CheckTransalationSuccessful(config, split.Text, split.Translated ?? string.Empty);
-                    if (!result.Valid)
-                    {
-                        Console.WriteLine($"Invalid {textFileToTranslate.Path} Failures:{result.CorrectionPrompt}\n{split.Translated}");
-                        split.Translated = string.Empty;
-                        recordsModded++;
-                    }
-                }
-            }
 
             totalRecordsModded += recordsModded;
             var serializer = Yaml.CreateSerializer();
@@ -358,6 +210,169 @@ public class TranslationCleanupTests
         Console.WriteLine($"Total Lines: {totalRecordsModded} records");
 
         return totalRecordsModded;
+    }
+
+
+    public static bool CheckSplit(List<string> newGlossaryStrings, Dictionary<string, string> manual, TranslationSplit split, string outputFile,
+        Dictionary<string, string> safeGlossary, Dictionary<string, List<string>> dupeNames, LlmConfig config)
+    {
+        var pattern = LineValidation.ChineseCharPattern;
+        bool modified = false;
+
+        // Flags
+        bool justReset = false;
+        bool cleanWithGlossary = true;
+        bool resetFlag = false;
+        //resetFlag = true;
+        //justReset = true; //Override and just do nothing but reset
+
+        // Reset all the retrans flags
+        if (resetFlag)
+        {
+            split.ResetFlags();
+            modified = true;
+
+            if (justReset)
+                return true;
+        }
+
+        //////// Quick Validation here
+    
+        // If it is already translated or just special characters return it
+        if (!Regex.IsMatch(split.Text, pattern) && split.Translated != split.Text)
+        {
+            Console.WriteLine($"Already Translated {outputFile} \n{split.Translated}");
+            split.Translated = split.Text;
+            split.ResetFlags();
+            return true;
+        }
+
+        foreach (var glossary in newGlossaryStrings)
+        {
+            if (split.Text.Contains(glossary))
+            {
+                Console.WriteLine($"New Glossary {outputFile} Replaces: \n{split.Translated}");
+                split.FlaggedForRetranslation = true;
+                return true;
+            }
+        }
+
+        // Add Manual Translations in that are missing
+        var preparedRaw = LineValidation.PrepareRaw(split.Text);
+
+        // If it is manually corrected
+        if (manual.TryGetValue(preparedRaw, out string? value))
+        {
+            if (split.Translated != value)
+            {
+                Console.WriteLine($"Manually Translated {outputFile} \n{split.Text}\n{split.Translated}");
+                split.Translated = LineValidation.CleanupLineBeforeSaving(LineValidation.PrepareResult(value), split.Text, outputFile);
+                split.ResetFlags();
+                return true;
+            }
+
+            return false;
+        }
+
+        // Clean up Translations that are already in
+        if (string.IsNullOrEmpty(split.Translated))
+            return false;
+
+
+        //////// Manipulate split from here
+
+        // Glossary Clean up - this won't check our manual jobs
+        if (cleanWithGlossary)
+        {
+            foreach (var item in safeGlossary)
+            {
+                if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
+                {
+                    Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
+                    split.FlaggedForRetranslation = true;
+                    split.FlaggedGlossaryIn = item.Value;
+                    modified = true;
+                    break; // Stop checking glossary
+                }
+                else
+                if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
+                {
+                    // If its in the translated
+                    if (item.Value == "He Family" && split.Translated.Contains("the family", StringComparison.OrdinalIgnoreCase))
+                        continue;
+
+                    // If one of the dupes are in the raw
+                    if (dupeNames.TryGetValue(item.Value, out List<string>? dupes))
+                    {
+                        bool found = false;
+                        foreach (var dupe in dupes)
+                        {
+                            if (split.Text.Contains(dupe))
+                            {
+                                found = true;
+                                break; // No more dupe names
+                            }
+                        }
+
+                        if (found)
+                            continue; // Keep going through glossary checks
+                    }
+
+                    Console.WriteLine($"Hallucinated Glossary in:{outputFile}\n{item.Value}\n{split.Translated}");
+                    split.FlaggedForRetranslation = true;
+                    split.FlaggedGlossaryOut = item.Value;
+                    modified = true;
+                    break; // No need to go through clossary no more
+                }
+            }
+        }
+
+        //// Try and flag crazy shit
+        //if (!split.FlaggedForRetranslation
+        //    //&& ContainsGender(split.Translated))
+        //    && ContainsAnimalSounds(split.Translated))
+        //{
+        //    Console.WriteLine($"Contains whack {outputFile} \n{split.Translated}");
+        //    recordsModded++;
+        //    split.FlaggedForRetranslation = true;
+        //}        
+
+        // Trim line
+        if (split.Translated.Trim().Length != split.Translated.Length)
+        {
+            Console.WriteLine($"Needed Trimming:{outputFile} \n{split.Translated}");
+            split.Translated = split.Translated.Trim();
+            modified = true;
+            //Don't continue we still want other stuff to happen
+        }
+
+        // Add . into Dialogue
+        if (outputFile.EndsWith("NpcTalkItem.txt") && char.IsLetter(split.Translated[^1]) && split.Text != split.Translated)
+        {
+            Console.WriteLine($"Needed full stop:{outputFile} \n{split.Translated}");
+            split.Translated += '.';
+            modified = true;
+        }
+
+        // Clean up Diacritics
+        var cleanedUp = LineValidation.CleanupLineBeforeSaving(split.Translated, split.Text, outputFile);
+        if (cleanedUp != split.Translated)
+        {
+            Console.WriteLine($"Cleaned up {outputFile} \n{split.Translated}\n{cleanedUp}");
+            split.Translated = cleanedUp;
+            modified = true;
+        }
+
+        // Remove Invalid ones
+        var result = LineValidation.CheckTransalationSuccessful(config, split.Text, split.Translated ?? string.Empty);
+        if (!result.Valid)
+        {
+            Console.WriteLine($"Invalid {outputFile} Failures:{result.CorrectionPrompt}\n{split.Translated}");
+            split.Translated = string.Empty;
+            modified = true;
+        }
+
+        return modified;
     }
 
     [Fact]
@@ -426,6 +441,8 @@ public class TranslationCleanupTests
 
         File.WriteAllLines($"{workingDirectory}/TestResults/FailingTranslations.txt", failures);
         File.WriteAllLines($"{workingDirectory}/TestResults/ForManualTrans.txt", forTheGlossary);
+
+        await TranslateForManualTranslation();
     }
 
     //[Fact]
