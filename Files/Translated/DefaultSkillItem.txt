@@ -214,7 +214,7 @@
   splits:
   - split: 1
     text: "岳家槍法(剛)"
-    translated: "The Ye Family Swordplay (Just now)"
+    translated: "Yue Family Swordplay (Just now)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -224,7 +224,7 @@
   splits:
   - split: 1
     text: "岳家槍法(動)"
-    translated: "Ye Family Spear Technique (Move)"
+    translated: "Yue Family Swordsmanship (Move)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -234,7 +234,7 @@
   splits:
   - split: 1
     text: "岳家槍法(高)"
-    translated: "The art of wielding a spear from the Ye Family (High)"
+    translated: "Yue Family Swordsmanship (High)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -244,7 +244,7 @@
   splits:
   - split: 1
     text: "岳家槍法(王喆)"
-    translated: "Ye Family Swordplay (Wang Zhe)"
+    translated: "Yue Family Swordsmanship (Wang Zhe)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -254,7 +254,7 @@
   splits:
   - split: 1
     text: "岳家散手(低)"
-    translated: "Ye Family Hand Art (Low)"
+    translated: "Yue Family Hand Art (Low)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -264,7 +264,7 @@
   splits:
   - split: 1
     text: "岳家散手(高)"
-    translated: "Ye Family Hand Art (High)"
+    translated: "Yue Family Hand Art (High)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -274,7 +274,7 @@
   splits:
   - split: 1
     text: "岳家散手(王喆)"
-    translated: "Ye Family Hand Art (Wang Zhe)"
+    translated: "Yue Family Hand Art (Wang Zhe)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1404,7 +1404,7 @@
   splits:
   - split: 1
     text: "岳家槍法(王喆)"
-    translated: "Ye Family Swordplay (Wang Zhe)"
+    translated: "Yue Family Swordsmanship (Wang Zhe)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1434,17 +1434,17 @@
   splits:
   - split: 1
     text: "長拳十段錦(張君寶)"
-    translated: "Long Fist, Ten Segments of Brocade (Master Zhang Junbao)"
-    flaggedForRetranslation: false
+    translated: "The Ten-Section Long Fist (Zhang Junbao)"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Zhang Junbao
 - lineNum: 144
   raw: "st0076b	乾坤劍法(張君寶)	it30224	0	0	SkillTree093_000,SkillTree093_002,SkillTree093_003,SkillTree093_004,SkillTree093_005"
   translated: ""
   splits:
   - split: 1
     text: "乾坤劍法(張君寶)"
-    translated: "Qiankun Sword Method (Zhang Junbao)"
+    translated: "Qiankun Jianfa (Master Zhang Jinfu)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1484,10 +1484,10 @@
   splits:
   - split: 1
     text: "西川明月刀(李嘆)"
-    translated: "Shuixi Creek Moonblade (Li Tan)"
-    flaggedForRetranslation: false
+    translated: "West River Moonblade (Li Tan)"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Li Tan
 - lineNum: 149
   raw: "st0078b	西川明月刀(西門玉堂)	it30809	0	0	SkillTree145_000,SkillTree145_001,SkillTree145_002,SkillTree145_003,SkillTree145_004,SkillTree145_005,SkillTree145_006,SkillTree145_007,SkillTree145_008,SkillTree145_009"
   translated: ""
@@ -1534,10 +1534,10 @@
   splits:
   - split: 1
     text: "凌波飛雪(李嘆)"
-    translated: "Lei Feng, as swift as snow flying upon waves (Li Tan)"
-    flaggedForRetranslation: false
+    translated: "Levitating in the Snowflakes (Li Tan)"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Li Tan
 - lineNum: 154
   raw: "st0080b	凌波飛雪(西門玉堂)	it30809	0	0	SkillTree145_000,SkillTree145_001,SkillTree145_002,SkillTree145_003,SkillTree145_004,SkillTree145_005,SkillTree145_006,SkillTree145_008"
   translated: ""
@@ -2665,9 +2665,9 @@
   - split: 1
     text: "野球拳（皇甫登雲）"
     translated: "Wildball Fist (Huangfu Dengyun)"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Huangfu Dengyun
 - lineNum: 267
   raw: "st0128	嬋娟一劍(顏玉書)	it30207	0	0	SkillTree144_000"
   translated: ""

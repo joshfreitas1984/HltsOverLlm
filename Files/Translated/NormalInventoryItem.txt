@@ -6980,13 +6980,13 @@
   splits:
   - split: 1
     text: "岳家散手奥义"
-    translated: "The secrets of Ye Family hand art"
+    translated: "The secret techniques of the Yue Family Hand Art"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "武穆遗书中所记载，岳家散手的奥义。"
-    translated: "In the Wumu Yishu, it is recorded that the secrets of the Ye Family Hand Art are documented"
+    translated: "The martial secrets of the Yue Family Hand Art as recorded in The Wumu's Testament"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -6996,13 +6996,13 @@
   splits:
   - split: 1
     text: "岳家枪法奥义"
-    translated: "Ye Family Swordplay Secret Techniques"
+    translated: "The secret techniques of the Yue family's gunplay"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "武穆遗书中所记载，岳家枪法的奥义。"
-    translated: "The secret techniques of the Ye Family Spear were recorded in Wu Mu's Last Testament"
+    translated: "The martial secrets of the Yue Family's spear techniques as recorded in the Venerable Wu's Testament"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7178,10 +7178,10 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "身为家族第一把交椅旁边的账房的干儿子的管家的助手的韩公子在自我介绍时经常咬到舌头，故此必须随身携带顶尖止血药物。"
-    translated: "As the assistant to the housekeeper, who is the adopted son of the head of accounts beside the family's most esteemed chair, Prince Han often stutters during self-introduction. Hence, he must always carry top-notch hemostatic medicine"
-    flaggedForRetranslation: false
+    translated: "As the assistant to the steward, who is the adopted son of the chief accountant at the side of the family's head seat, Han Gongzi often stumbles over his words while introducing himself. Therefore, he must always carry a top-notch hemostatic ointment"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: He Family
 - lineNum: 449
   raw: "it80311	肚兜	it80311	正常情况下，肚兜不是被贴身穿着就是被妥善收纳着。但基于种种不明原因和用途，有时也会成为男性持有物。或许有特定人士愿意收购这种物品。	809	750	375	FALSE	0	10	0	0	0		0			0"
   translated: ""

@@ -165,19 +165,19 @@
   - split: 1
     text: "駱元玉"
     translated: "Luo Yuanyu"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Luo Yuanyu
 - lineNum: 17
   raw: "ta0017	李嘆(動)(30)	3	0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode002,0_TalentNode003,0_TalentNode029,0_TalentNode006,0_TalentNode007,0_TalentNode010,0_TalentNode011,0_TalentNode031,0_TalentNode026,0_TalentNode013,0_TalentNode032,0_TalentNode014,0_TalentNode015,0_TalentNode033,0_TalentNode019,0_TalentNode020,0_TalentNode034,0_TalentNode021,0_TalentNode022,0_TalentNode016,0_TalentNode017,0_TalentNode018,0_TalentNode030"
   translated: ""
   splits:
   - split: 1
     text: "李嘆(動)(30)"
-    translated: "Li Tan (Move)  (30)"
-    flaggedForRetranslation: false
+    translated: "Li Tantan (Go)  (30)"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Li Tan
 - lineNum: 18
   raw: "ta0018	何紫菀(巧)(16)	4	4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027,4_TalentNode029,4_TalentNode028"
   translated: ""

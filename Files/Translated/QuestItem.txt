@@ -1898,10 +1898,10 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "梅村长将家传钥匙交给了你，前往后山上头的石堆玛尼堆，寻找梅家家传的宝物吧。"
-    translated: "Village Chief Mei has entrusted you with the family key. Go to the pile of stones at the top of the mountain behind the village and search for the Meis' family treasure"
-    flaggedForRetranslation: false
+    translated: "Village Chief Mei has entrusted you with the family key to go to the stone pile on the top of the mountain behind our village and search for the Mei family heirloom"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: He Family
 - lineNum: 119
   raw: "Q10004_01	家传宝物	1	梅村长将家传钥匙交给了你，前往后山的石堆寻找梅家家传的宝物吧。	0	FALSE	0	-24.965, 171.404, -1028.958	TRUE		600	(Reputation,3)	1"
   translated: ""
@@ -1914,10 +1914,10 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "梅村长将家传钥匙交给了你，前往后山的石堆寻找梅家家传的宝物吧。"
-    translated: "Village Chief Mei has entrusted you with the family key. Go to the stone pile in the back hills and find the Meihua family heirloom"
-    flaggedForRetranslation: false
+    translated: "Village Chief Mei has entrusted you with the family key. Go to the stone pile in the hills behind the village and find Meihao's ancestral treasure"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: He Family
 - lineNum: 120
   raw: "Q10005	石信的猫食	0	石家庄的石信给了你一笔钱，请你帮忙买喂猫用的河鱼。河鱼也许能向庄外东南方河岸附近的钓鱼客购买。	0	FALSE	Q10005_01,Q10005_02,Q10005_03	0	TRUE		0		1"
   translated: ""
@@ -4052,13 +4052,13 @@
   splits:
   - split: 1
     text: "叶家马帮"
-    translated: "The Ye Family Horse Gang"
+    translated: "Ye Family Horse Gang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？"
-    translated: "On the mountain path leading to Eagle Hunter Village, a group from He Family's Horse Gang was ambushed. During the fight, a man in black had his right upper arm slashed by He Yuqing. Later, at Qingmu Tea House, He Yuqing discovered a member of Ye Family's Horse Gang whose right upper arm was bandaged, matching exactly with where the man in black had been cut. He Yuqing became suspicious—was this mere coincidence or did it conceal some hidden truth?"
+    translated: "On the mountain path leading to Eagle Hunter Village, a group from He Family's Horse Gang was ambushed. During the fight, a man in black had his right upper arm cut by He Yuqing. Later at Qingmu Tea House, He Yuqing discovered a Ye Family Horse Gang member with a bandage on the same spot—his right upper arm. He Yuqing grew suspicious: Was this a coincidence, or was there some hidden truth?"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4068,13 +4068,13 @@
   splits:
   - split: 1
     text: "找出受伤的叶家马帮帮众"
-    translated: "Identify injured members of Ye Jia's Horse Gang"
+    translated: "Identify the injured members of the Ye Family's Horse Gang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？<br>听闻叶家帮众总是在傍晚时分流连于大研镇摊位，去碰碰运气吧。"
-    translated: "On the mountain path leading to Eagle Hunter Village, a group from He Family's Horse Gang was attacked. During the fight, a man in black had his right upper arm slashed by He Yuqing. Later at Greenwood Tea House, He Yuqing spotted a member of Ye Family's Horse Gang with a bandage on their right upper arm, matching precisely where the man in black had been cut. He Yuqing grew suspicious—was this mere coincidence, or did it conceal some hidden truth?<br>It's said that the Ye Family Sect always lingers among the stalls in Dayan Town at dusk, why not try your luck?"
+    translated: "On the mountain path leading to Eagle Hunter Village, a group from the He Family Horse Gang was attacked. During the fight, one of the men in black had his right upper arm slashed by He Yuqing. Later at Qingmu Teahouse, He Yuqing noticed a Ye Family Horse Gang member with a bandage on his right upper arm that matched the wound inflicted on the man in black. He Yuqing grew suspicious—was this merely coincidental, or did it conceal some hidden truth?<br>I've heard that the Ye Family's followers often linger around the stalls in Dayan Town in the evenings, trying their luck"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4084,13 +4084,13 @@
   splits:
   - split: 1
     text: "想办法引出受伤的叶家马帮帮众"
-    translated: "Devise a way to bring out the wounded members of the Ye Family's Horse Gang"
+    translated: "Find a way to draw out the injured members of the Ye Family's Horse Gang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？如今你们找到了这名受伤的马帮帮众，想办法把他引到人少的地方问话吧。"
-    translated: "On the mountain path leading to Eagle Hunter Village, a team from the He Family's Horse Gang was ambushed. During the fight, Yuqing He slashed the right upper arm of a man in black. Later at Qingmu Teahouse, Yuqing found a member of the Ye Family's Horse Gang with bandages on his right upper arm, exactly matching the injury of the man in black. Yuqing became suspicious—was this mere coincidence or did it conceal some truth? Now that you've found the injured gang member, find a way to lead him to a secluded spot for questioning"
+    translated: "On the mountain path to Eagle Hunter Village, a group from the He Family Horse Gang was ambushed. During the fight, one of the attackers wearing black had his right upper arm slashed by He Yuqing. Later at Qingmu Teahouse, He Yuqing discovered a member of the Ye Family Horse Gang with a bandage on his right upper arm, matching exactly the injury of the man in black. He Yuqing grew suspicious—was this just a coincidence, or was there some hidden truth? Now that you've found this injured gang member, try to lead him to a secluded place and question him"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7050,7 +7050,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "司徒荆不知发什么神经，突然对山贼起了兴趣，虽然不知道他在打什么主意，不过也不是坏事，就陪他走一趟吧。被抢的马队是叶家马帮的人，咱们就去调查调查吧。"
-    translated: "Situ Jing suddenly took an interest in the bandits, not knowing what possessed him. He wasn't sure of their intentions, but it wasn't necessarily a bad thing either, so he decided to go along with them. The stolen horses belonged to Ye Jia Horse Gang, so they might as well investigate"
+    translated: "Situ Jing didn't know why he suddenly took an interest in bandits, though he had no idea what they were up to. It wasn't necessarily a bad thing, so he decided to accompany them on the trip. The stolen horse team belonged to the Ye Family's Horse Gang, so let's go and investigate"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7066,7 +7066,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "司徒荆不知发什么神经，突然对山贼起了兴趣，虽然不知道他在打什么主意，不过也不是坏事，就陪他走一趟吧。被抢的马队是叶家马帮的人，咱们趁着白天人还在去调查调查吧。"
-    translated: "Situ Jing suddenly took an interest in the bandits, not knowing what was going on in his head. Although he didn't know what plans he had, it wasn't a bad thing to go along with him for a ride. The stolen horse team belonged to Ye Jia's Horse Gang, so let's investigate while there are still people around during the day"
+    translated: "It's strange to see Situ Jing suddenly take an interest in bandits. Though I don't know what he has in mind, it's not necessarily a bad thing, so let's go along with him. The horse team that was ambushed belongs to the Ye Family Horse Gang, so why don't we investigate during the day when people are still around?"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7082,7 +7082,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "司徒荆不知发什么神经，突然对山贼起了兴趣，虽然不知道他在打什么主意，不过也不是坏事。在叶家马帮打听完后，得知是名为疤面鬼煞的山贼首领正在为非作歹。司徒荆似乎对这人很感兴趣，你就当作行侠仗义，带他一起去对付山贼吧。先前往叶家马帮被抢的地方，调查调查吧。"
-    translated: "Situ Jing suddenly took an interest in bandits, though he didn't know what was going through his head or what he had planned. But it wasn't a bad thing either. After investigating with the Yue Family Horse Gang, they found out that the notorious bandit leader known as Scar-Faced Ghost Marauder was causing trouble. It seemed Situ Jing was quite interested in this person. So, act chivalrously and take him along to confront the bandits. Start by looking into the location where the Yue Family Horse Gang was ambushed"
+    translated: "Situ Jing suddenly took an interest in bandits for no apparent reason, though he didn't know what was on his mind. However, it wasn't necessarily a bad thing. After investigating with the Ye Family Horse Gang, they learned that a bandit leader known as Scarred Demon Fiend was causing trouble. It seemed that Situ Jing was quite interested in this person. You can pretend to act chivalrously and take him along to deal with the bandits. First, investigate the location where the Ye Family Horse Gang was robbed"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7098,7 +7098,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "司徒荆不知发什么神经，突然对山贼起了兴趣，虽然不知道他在打什么主意，不过也不是坏事。在叶家马帮打听完后，得知是名为疤面鬼煞的山贼首领正在为非作歹。来到山中，终于与山贼首领对峙，原来他是当年背叛晏葆川的叛徒，司徒荆花费数年才终于逮到了他，为恩人报仇雪恨。"
-    translated: "Situ Jing suddenly took an interest in bandits for no apparent reason, though he didn't know what they were planning. However, it wasn't necessarily a bad thing. After investigating with the Yue Family Horse Gang, he learned that the bandit leader causing trouble was known as the Scarred Ghost Slayer. In the mountains, he finally confronted the bandit leader and discovered that he was the traitor who had betrayed Yan Baochuan years ago. Situ Jing spent several years tracking him down to avenge his benefactor"
+    translated: "Situ Jing suddenly took an interest in bandits for no apparent reason, though he didn't know what they were up to. Nonetheless, it wasn't a bad thing. After gathering information from the Ye Family Horse Gang, he learned that the leader of the bandits was known as Scarred Ghostly Avenger, who was causing trouble. Upon arriving in the mountains, Situ Jing finally confronted the bandit leader and discovered he was the traitor who had betrayed Yan Baochuan years ago. After spending several years tracking him down, Situ Jing could finally avenge his benefactor"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
