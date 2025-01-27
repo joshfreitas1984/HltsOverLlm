@@ -1150,7 +1150,7 @@
     flaggedGlossaryOut: ''
   - split: 4
     text: "医术将会角色施展医术武学时的效果与加成，也会影响到一些游戏内事件的发生与走向。"
-    translated: "Medical Skills will affect the effects and bonuses when characters use Medical Techniques in Wuxia, as well as influence certain events and outcomes within the game"
+    translated: "A practitioner's medical skills will influence the effectiveness and bonuses when using healing techniques and martial arts. It also affects certain events within the game and their outcomes"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1448,7 +1448,7 @@
   splits:
   - split: 3
     text: "武学机制"
-    translated: "Wuxia Mechanism"
+    translated: "Wuxia mechanism"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -2760,7 +2760,7 @@
   splits:
   - split: 3
     text: "武学技能"
-    translated: "Wuxia skills"
+    translated: "Martial arts skills"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''

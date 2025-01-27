@@ -2754,7 +2754,7 @@
   splits:
   - split: 1
     text: "擎天高义"
-    translated: "Heaven's Pillar Fort"
+    translated: "Heaven's Pillar stands tall and upright"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3150,7 +3150,7 @@
   splits:
   - split: 1
     text: "俏梦阁主"
-    translated: "Madame of Charming Dream Hall"
+    translated: "Master of the Charming Dream Pavilion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4712,19 +4712,19 @@
   splits:
   - split: 1
     text: "玉坊之友"
-    translated: "Jade Courtyard Friend"
+    translated: "Friend of the Jade Hall"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "与「玉坊」达到100友好度"
-    translated: "Reach 100 friendship points with 'Jade Courtyard'"
+    translated: "Reach 100 friendship points with Jade Hall"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 12
     text: "玉坊的商品与服务九折优待！"
-    translated: "Shao Family Jade Courtyard's goods and services are offered at a 10% discount!"
+    translated: "Jade Hall's products and services are offered at a 90% discount!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4740,13 +4740,13 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "与「玉坊」达到500友好度"
-    translated: "Reach 500 friendly points with Shao Family Jade Courtyard"
+    translated: "Reach 500 friendship points with Jade Hall"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 12
     text: "称号与玉坊的商品与服务八折优待！"
-    translated: "Titles and Jade Courtyard's products and services are 20% off!"
+    translated: "Special discounts for holders of titles at the Jade Hall! Eighty percent off on products and services!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''

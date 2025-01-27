@@ -187,7 +187,7 @@ Area18	He Family Horse Gang
 Area19	Ye Family Horse Gang
 Area20	Karma Monastery
 Area21	Wild Beast
-Area22	Charming Dream Hall
+Area22	Charming Dream Pavilion
 Area23	Enchanted Spirit Water Fortress
 Area24	Leisurely Scholars Academy
 Area25	Tianlong Temple
@@ -212,7 +212,7 @@ Area111	Lumberjack Alliance
 Area112	Winery
 Area113	Food Shop
 Area114	Restaurant
-Area115	Jade Courtyard
+Area115	Jade Hall
 ArrivalEndOfWorld	Forward area not open, please turn back
 #传言	
 HearsayNoneArea	Jianghu
@@ -243,7 +243,7 @@ BluePrintType2	Blade
 BluePrintType3	Blade
 BluePrintType4	Spear
 BluePrintType5	Short Weapons
-BluePrintType6	Hidden Weapons
+BluePrintType6	Archer's Equipment
 BluePrintType7	Armor
 EquipPartType0	Body
 EquipPartType1	Grid
@@ -293,7 +293,7 @@ AchievementMode1	Overall cumulative production
 AchievementType0	Generally
 AchievementType1	Combat
 AchievementType2	Plot
-AchievementType3	Wuxia
+AchievementType3	Martial arts
 AchievementType4	Ability
 AchievementType5	Reputation
 AchievementType6	Collect
@@ -516,12 +516,12 @@ HelpCatalogType109	Game difficulty
 HelpCatalogType110	Jianghu rumors
 HelpCatalogType2	Character
 HelpCatalogType201	General Attributes
-HelpCatalogType202	Wuxia attributes
+HelpCatalogType202	Martial Arts Attributes
 HelpCatalogType203	Negative Attributes
 HelpCatalogType204	Equipment
 HelpCatalogType205	Titles
-HelpCatalogType3	Wuxia
-HelpCatalogType301	Wuxia Explanation
+HelpCatalogType3	Martial arts
+HelpCatalogType301	Explanation of Wuxia
 HelpCatalogType302	Ancient Scroll
 HelpCatalogType303	Skills Type
 HelpCatalogType304	Skills Information
@@ -575,7 +575,7 @@ UICreateMessage02	Would you like to enter the Heluo world and embark on an adven
 UICreateMessage03	This name has already been used by other players!
 #Main界面	
 UIMainTabInventory	Item
-UIMainTabSkill	Wuxia
+UIMainTabSkill	Martial arts
 UIMainTabTalent	Insight
 UIMainTabQuestMap	Task
 UIMainTabAlchemy	Recipe
@@ -598,7 +598,7 @@ UITeamPersonality4	Calm
 UITeamPersonality5	Wild
 UITeamPersonality6	Yin
 UITeamPersonality7	Yang
-UITeamSkillProperty	Wuxia
+UITeamSkillProperty	Martial arts
 UITeamTalentName	Insight
 UITeamResidual	Remaining {0} hours
 UITeamDuration	Held for {0} hours
@@ -868,7 +868,7 @@ SkillTipAffectedSkill	Impact on Techniques
 SkillTipSkillAction	Additional effect
 SkillTipNeedWeapon	Equipment needed
 SkillTipNeedExp	Experience
-SkillTipNeedSkill	Wuxia
+SkillTipNeedSkill	Martial arts
 SkillTipNeedTalent	Insight
 SkillTipNotTalent	Resistance
 SkillTipNeedInventory	Item
@@ -1123,14 +1123,14 @@ Final07_18	Perhaps there will be no more days to meet in the future, but the jou
 Final07_19	Ade Ake, however, had not forgotten
 #结局 08	
 Final08_00	The tune ends gracefully
-Final08_01	The rise and fall of the Jianghu, yet Charming Dream Hall always manages to skillfully navigate among various factions
+Final08_01	The rise and fall of the Jianghu, yet the Charming Dream Pavilion always manages to skillfully navigate among various factions
 Final08_02	Fan Xiangdie guided her sisters through one trial after another, facing the envy of many
 Final08_03	And with the financial support of Su Qingrui,
 Final08_04	Further expand the scope of intelligence to cover all of Western River
 Final08_05	Su Qingrui, after the Jingtairen incident,
 Final08_06	'Painfully aware, the Su Clan mustered its strength and revived itself. '
 Final08_07	And broadly accept virtuous and talented individuals, carefully manage the force
-Final08_08	Reliant on the Charming Dream Hall's intelligence network,
+Final08_08	Relying on the intelligence network of the Charming Dream Pavilion,
 Final08_09	Deploy forces to support all righteous factions in Western River
 Final08_10	Finally becoming someone in the Jianghu who, upon being mentioned,
 Final08_11	So everyone raised their thumbs and shouted in approval for Little Mengchang, the great hero Su
@@ -1265,7 +1265,7 @@ Final16_08	As a young child entering the palace, suffered endless oppression, an
 Final16_09	After mastering the techniques of a nefarious sect, he was consumed day and night with thoughts of revenge
 Final16_10	Indignant and without a moment's peace each day
 Final16_11	Because when I was young, I rushed to train
-Final16_12	But Qiao was learning the poisonous blood skills of the python through shortcuts and unorthodox methods
+Final16_12	And by using cleverly acquired obscure methods, he forcefully trained in the Corpse Serpent Poison Blood Technique
 Final16_13	Ultimately, he suffered from the backlash of his cultivation technique and died with his internal organs rotted away
 Final16_14	After moaning for seventy-seven forty-nine days,
 Final16_15	Collapsed from the Qi in a secluded alley house in Xichuan
@@ -1276,7 +1276,7 @@ Final17_02	Wang Zhe saw his sworn brother Li Yanshan and his sworn sister Bai Lu
 Final17_03	They both sacrificed themselves to thwart the Merciless Hall
 Final17_04	In his grief, he resolved to carry on his elder brother's legacy
 Final17_05	Defend the country and protect the family from external threats for a lifetime
-Final17_06	After once again ascending to the Heaven's Pillar Fort, Wang Zhe took over as the chief of the fort
+Final17_06	After ascending the Heaven's Pillar once more, Wang Zhe took over as the leader of the fortress
 Final17_07	Lead the forces of Heaven's Pillar Fort to resist the wolf savages
 Final17_08	Leading an expedition during the journey,
 Final17_09	Wang Zhe once again encountered the Daoist Pure Yang from Dragon's Rest Village

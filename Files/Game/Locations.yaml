@@ -10,7 +10,7 @@
 - raw: 拱石村
   result: Arched Stone Village
 - raw: 邵氏玉坊
-  result: Shao Family Jade Courtyard
+  result: Shao Family Jade Hall
 - raw: 鹰猎人聚落
   result: Eagle Hunter Village
 - raw: 擎天寨
@@ -18,7 +18,11 @@
 - raw: 大研镇
   result: Dayan Town
 - raw: 俏梦阁
-  result: Charming Dream Hall
+  result: Charming Dream Pavilion
+- raw: 美馔楼
+  result: Delicious Banquet Hall
+- raw: 浣花溪亭
+  result: Huanhau Stream Gazebo
 - raw: 善人府
   result: Goodwill Mansion
 - raw: 丈人村
@@ -27,8 +31,6 @@
   result: Qingcheng Sect
 - raw: 赋闲书院
   result: Leisurely Scholars Academy
-- raw: 浣花溪亭
-  result: Wan Hua Creek Pavilion
 - raw: 天龙寺
   result: Tianlong Temple
 - raw: 一世富贵酒庄
@@ -71,7 +73,5 @@
   result: Brocade River Crossing
 - raw: 白马居
   result: White Horse Residence
-- raw: 美馔楼
-  result: Delicacies Pavilion
 - raw: 圣堂
   result: Holy Sanctuary

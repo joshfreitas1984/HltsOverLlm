@@ -10356,7 +10356,7 @@
   splits:
   - split: 1
     text: "灵蛇游身"
-    translated: "Python dances across the body"
+    translated: "Like a spirit snake gliding over the body"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11444,7 +11444,7 @@
   splits:
   - split: 1
     text: "灵蟒逗惊蟾"
-    translated: "Dragon Python Befuddles Toad"
+    translated: "A celestial dragon startles a toad"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11476,7 +11476,7 @@
   splits:
   - split: 1
     text: "尸蛇毒血"
-    translated: "Python Venom Blood"
+    translated: "Deadly Snake Venom"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11492,7 +11492,7 @@
   splits:
   - split: 1
     text: "尸蛇毒血"
-    translated: "Python Venom Blood"
+    translated: "Deadly Snake Venom"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11508,7 +11508,7 @@
   splits:
   - split: 1
     text: "尸蛇毒血"
-    translated: "Python Venom Blood"
+    translated: "Deadly Snake Venom"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11524,7 +11524,7 @@
   splits:
   - split: 1
     text: "尸蛇毒血"
-    translated: "Python Venom Blood"
+    translated: "Deadly Snake Venom"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11540,13 +11540,13 @@
   splits:
   - split: 1
     text: "尸蛇毒血"
-    translated: "Python Venom Blood"
+    translated: "Deadly Snake Venom"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "Ghost Python adds an extra 2 points of poison, plus 2 to hand combat and poisons, plus 5 to the evil value"
+    translated: "The spiritual cobra can additionally add 2 poison points to the scare tactic, plus +2 in hand combat and poison skills, plus +5 in dark arts"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11556,7 +11556,7 @@
   splits:
   - split: 1
     text: "尸蛇毒血"
-    translated: "Python Venom Blood"
+    translated: "Deadly Snake Venom"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11588,13 +11588,13 @@
   splits:
   - split: 1
     text: "菩斯曲蛇"
-    translated: "Python"
+    translated: "Like a crouching snake ready to strike"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "可捕捉菩斯曲蛇并炼制菩斯曲蛇毒"
-    translated: "It is possible to capture a python and extract python venom"
+    translated: "Can capture the Boshiqu Snake and refine its poison"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17748,13 +17748,13 @@
   splits:
   - split: 1
     text: "那洛六法"
-    translated: "Luoshu Six Methods"
+    translated: "The Lo Six Teachings"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行那洛六法时，罗汉伏虎与金刚伏魔的伤害力增加30%，并对中招者附加内伤值6点"
-    translated: "When performing the Luoshu Six Methods, the damage of Rohan Fuhu and Jinggang Fumo increases by 30%, and it adds an internal injury value of 6 points to those hit"
+    translated: "When executing the Luo Luo Six Rules, the strength of Ruo Han Fu Hu and Jin Gang Fu Mo increases by 30%, and they inflict an internal injury value of 6 points on those hit"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17786,7 +17786,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行那洛六法时，每回合增加自身连击发动率6点"
-    translated: "When running the Luoshu Six Techniques, increase your own combo activation rate by 6 points each turn"
+    translated: "When activating Nuo Law, increase the chain attack activation rate by 6 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17802,7 +17802,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行那洛六法时，每回合增加自身卸劲发动率6点"
-    translated: "When activating Hetu Six Form each turn, increase the probability of discharging your own qi by 6 points"
+    translated: "When activating that Laoluo Six Principles, increase self-strength activation rate by 6 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17818,7 +17818,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行那洛六法时，每回合增加自身反击发动率6点"
-    translated: "When activating Hetu Six Techniques each turn, increase your counterattack activation rate by 6 points"
+    translated: "When activating the Luo Law Six, increase your counterattack activation rate by 6 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17834,7 +17834,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行那洛六法时，每回合增加自身虚招发动率6点"
-    translated: "When executing the Luoshu Six Methods, increase your own bluff activation rate by 6 points each turn"
+    translated: "When using Na Lu Six Form, increase your feigning activation rate by 6 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -17850,7 +17850,7 @@
     flaggedGlossaryOut: ''
   - split: 2
     text: "运行那洛六法时，每回合减少自身负面状态值4点"
-    translated: "When executing the Luoshu Six Principles, reduce your negative status values by 4 points each turn"
+    translated: "When activating Luo Law VI, reduce the value of your negative statuses by 4 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''

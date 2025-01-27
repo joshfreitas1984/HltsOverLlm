@@ -419,7 +419,7 @@ buffSkillTree050_001	Lord Kong Ba	Kong Jin's exclusive technique	0		0	FALSE	0	FA
 buffSkillTree051_000	Graceful and delicate steps	After performing Levitating Steps, increase dodge rate by 6% for the next 5 turns	0	microstep	0	TRUE	0	FALSE	0	0		buffSkillTree051_000
 buffSkillTree051_007	As elusive as a god	After executing the Light Step Dance, evade rate increases by 12% for the next five rounds; recover 2% of internal energy per unit distance moved	0	microstep	0	TRUE	0	FALSE	0	0		buffSkillTree051_000
 buffSkillTree052_001	Proclamation Method	Teng Yuan Gong provides an additional resistance of 6 points against dizziness and 6 points against confusion	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree052_002	Wuji Neigong	Withstand 5 points of tendon separation, 5 points of joint manipulation, 5 points of confusion, 5 points of dizziness, and 5 points of nerve pinching	0	buffSkillTree052_002	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree052_002	Teng Yuan Gong	Withstand 5 points of tendon separation, 5 points of joint manipulation, 5 points of confusion, 5 points of dizziness, and 5 points of nerve pinching	0	buffSkillTree052_002	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree052_002_2	Teng Yuan Gong	Resist 10 points of tensile strength, 10 points of joint manipulation, 5 points of confusion, 5 points of dizziness, and 5 points of nerve sealing	0	buffSkillTree052_002	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree052_002_3	Wuji Technique	Resist 5 points of Tendon Rupture, 5 points of Joint Manipulation, 10 points of Confusion, 10 points of Dizziness, and 5 points of Nerve Blockade	0	buffSkillTree052_002	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree052_002_4	Ascending to the Primordial Qi	Resist 5 points of tendon manipulation, 5 points of joint manipulation, 5 points of confusion, 5 points of dizziness, and 15 points of sealing	0	buffSkillTree052_002	0	TRUE	0	FALSE	0	0		forIcon
@@ -529,7 +529,7 @@ buffSkillTree088_006	Flurry of Snow	Fei Xue Shen Jian additional external damage
 buffSkillTree089_001	Coiled serpents	If both Qinghua and Zhenling are equipped simultaneously, the damage caused by the Dual Snake Coiling technique increases	0		0	FALSE	0	FALSE	0	0		buffSkillTree089_001
 buffSkillTree089_005	Thousand and one turns	If equipped with Qing Hua, the damage inflicted by the Ling She Dao increases	0		0	FALSE	0	FALSE	0	0		buffSkillTree089_005
 buffSkillTree089_006	Silver Moon Poisoned Feather	If equipped with the Jingling, the damage caused by using the Bisheshada increases	0		0	FALSE	0	FALSE	0	0		buffSkillTree089_006
-buffSkillTree089_009	Python dances across the body	Spirit Snake Sword adds a dizziness value of 8 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree089_009	Like a spirit snake gliding over the body	Spirit Snake Sword adds a dizziness value of 8 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree089_010	Thousand Snake Shadows	Poisonous Snake Sword adds a confusion value of 8 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree091_004	Plague	Harsh winter adds an additional 4 points to the poison value	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree091_006	Seclusion	Yan Dong's severe internal injuries increase by an additional 4 points	0		0	FALSE	0	FALSE	0	0		0
@@ -557,12 +557,12 @@ buffSkillTree096_006_2	Leopard leaves the den	Repel the enemy	0		0	FALSE	0	FALSE
 buffSkillTree096_009	U-turn	Uxie's attack range is expanded, and it reduces the target's skill value when struck	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree096_009_2	U-turn	Reduce the enemy's special skills	0		0	FALSE	0	FALSE	0	0		buffSkillTree096_009_2
 buffSkillTree097_000	The cunning snake steals the cloud pearl	As the evil value increases, the power becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree097_000
-buffSkillTree097_001	Dragon Python Befuddles Toad	The higher the value, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree097_001
+buffSkillTree097_001	A celestial dragon startles a toad	The higher the value, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree097_001
 buffSkillTree097_002	Kuanglong Chuanshen Zha	The higher the evil value, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree097_002
-buffSkillTree097_003	Python Venom Blood	Shrewd Snake steals Cloud Jewel, adding 2 extra points of poisoning. Hand Combat +2, Poison Mastery +2, Evil Value +5	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree097_006	Python venom blood	Phantom Python adds 2 extra points of poisoning, hand combat +2, poison magic +2, and dark value +5	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree097_003	Deadly Snake Venom	Shrewd Snake steals Cloud Jewel, adding 2 extra points of poisoning. Hand Combat +2, Poison Mastery +2, Evil Value +5	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree097_006	Deadly Snake Venom	The Ghost Serpent's ability, Shocking Tortoise, adds an additional 2 points of poison. It also grants a +2 bonus to hand combat and poison skills, as well as a +5 increase in demonic power	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree097_009	Snake venom concoction	Can refine snake venom	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree097_010	Python	Can catch Python and refine Python venom	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree097_010	Like a crouching snake ready to strike	Can catch the Baishe Qu snake and refine the Baishe Qu snake venom	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree099_001	Love All, Attack None	If Compassion and Non-Attack is used as a counterattack technique, the activation rate of Follow the Sparrow, Wait for the Hare to Come Out of Its Hole increases by 5%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree099_005	Wu de zhong shi	When activating the Five Virtues Endure technique, the user's combo rate increases by 8 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree099_005
 buffSkillTree099_006	The benevolent have no equal	Reduce all the skill values of all enemies you have been hit by by 10 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree099_006
@@ -719,12 +719,12 @@ buffSkillTree147_005	Warm the wine	When running Hot Tea Spirit Skill, increase s
 buffSkillTree147_005_2	Hot Tea Divine Skill	Each turn, remove Ice Seal by 4 points and increase self's Neigong by 4 points; Neigong can be increased by at most 12 points	0	buffSkillTree147_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree147_006	Boil eggs	When activating Recha Shengong, your Neigong can increase by a maximum of 24 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree147_006_2	Hot Tea Divine Skill	Every round, remove 4 points of ice seal and increase self Neigong by 2 points; maximum Neigong increase is 24 points	0	buffSkillTree147_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree148_000	Luoshu Six Methods	When performing the Luoshu Six Methods, the power of the Great Seal Hand increases by 20%	0	buffSkillTree148_000	0	TRUE	0	FALSE	0	0		buffSkillTree148_000
-buffSkillTree148_001	Transfer of Consciousness	When running the Luoshu Six Techniques, increase your critical hit rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Critical,6)	beginUnitProp
-buffSkillTree148_002	Illusionary Body	When executing Luoshu's Six Methods, increase your critical hit rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Combo,6)	beginUnitProp
-buffSkillTree148_003	Half-Life	When executing Luoshu Six Form, increase your own exhaust rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Release,6)	beginUnitProp
-buffSkillTree148_004	Light	When running the Luoshu Six Form, increase your counterattack rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(CounterAttack,6)	beginUnitProp
-buffSkillTree148_005	Viewing Dreams	When running the Luoshu Six Methods, increase your own feint rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Trick,6)	beginUnitProp
+buffSkillTree148_000	The Lo Six Teachings	When executing the Laolu Six Principles, the power of Dasha Yin increases by 20%	0	buffSkillTree148_000	0	TRUE	0	FALSE	0	0		buffSkillTree148_000
+buffSkillTree148_001	Transfer of Consciousness	When activating Nala Six Laws, increase your critical hit rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Critical,6)	beginUnitProp
+buffSkillTree148_002	Illusionary Body	When using Nala's Six Laws, increase your critical hit rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Combo,6)	beginUnitProp
+buffSkillTree148_003	Half-Life	When activating Na Luo Six Form, increase self-dissipation rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Release,6)	beginUnitProp
+buffSkillTree148_004	Light	When activating Na Luo's Six Law, increase the counterattack rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(CounterAttack,6)	beginUnitProp
+buffSkillTree148_005	Viewing Dreams	When using Nala's Six Laws, increase your own feigned moves rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Trick,6)	beginUnitProp
 buffSkillTree148_006	Clumsy Fire	When activating Lo Shu Six Form, reduce your own negative status by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Injured,-6)(Wounded,-6)(Poisoned,-6)(Sealed,-6)(Confused,-6)(Dazed,-6)(Cramped,-6)(Sprained,-6)(Exhausted,-6)(Frozen,-6)(Drunk,-6)	beginUnitProp02
 buffSkillTree149_003	As if by shadow	Appendix Bone's Seal Point Value Increases an Additional 4 Points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree149_007	Divided paths and lost sheep	Incense of Incised Heart, power increased by 30 points	0		0	FALSE	0	FALSE	0	0		0
@@ -889,9 +889,9 @@ mindlose2	Loss of sanity	Temporarily lose mental faculties, lasting for 4 rounds
 timeback	Retreat sequence	Repel the enemy for three sequences	0		0	FALSE	0	FALSE	0	0		timeback
 timeback02	Timing to Repel	Defeat the enemy in five sequences	0		0	FALSE	0	FALSE	0	0		timeback02
 aroundback	Round the back	Move behind the enemy to attack	0		0	FALSE	0	FALSE	0	0		0
-BattleSchedule001	Qingcheng Alliance	When the Qingcheng Sect master's lifeforce is low, enhance their combat ability	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule001
+BattleSchedule001	Qingcheng Alliance	When the Green Mountain Sect Leader's lifeforce is depleted, they enhance their combat ability	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule001
 BattleSchedule001b	Master of the Sect's Character	Assume the responsibility of leading the orthodox faction in Western Shu, gaining additional spirit each turn and increasing counterattack rate	0	battle	0	TRUE	0	FALSE	0	0	(AP,7)(CounterAttack,20)	beginUnitProp
-BattleSchedule001c	Pinewood Wind Sword Formation	When a Qingcheng Sect disciple is within three tiles of themselves, they increase their combo rate and enhance skill damage	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule001c
+BattleSchedule001c	Pinewood Wind Sword Formation	When a disciple of Qingcheng is within their own three squares, it increases the combo rate and boosts skill damage	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule001c
 BattleSchedule002	Intent to kill grew stronger	Temporarily restore one's own lifeforce and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002
 BattleSchedule002b	Anger as high as the sky	Enmity surging, significantly boosting one's combat ability!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002b
 BattleSchedule002c	Internal injury recurrence	The surge of qi heightens internal injury, with each round adding to the cumulative internal injury value	0	battle_debuff	0	TRUE	0	FALSE	0	0	(Injured,25)	beginUnitProp
@@ -1071,8 +1071,8 @@ nick012P	Great Elder Brother	As personal Qinggong improves, the evasive rate inc
 nick013a	Dian Cang Xianzi	Techniques for dual swords or short weapons increase in power by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick013
 nick013P	White Horse Fairy	When using dual swords or short weapons, the technique's power is increased by 50%, and during combat, qinggong (lightness skill) is enhanced by 10 points	0	nickname	0	TRUE	0	FALSE	0	0		nick013P
 nick014	Dark Blood Mantra	When the target is male, there is a 25% chance to inflict 15 points of dizziness and 15 points of confusion on them	0	nickname	0	TRUE	0	FALSE	0	0		nick014
-nick014P	Madame of Charming Dream Hall	When the target is male, the skill damage increases, and there's a 25% chance to inflict 15 points of dizziness and 15 points of confusion on the opponent	0	nickname	0	TRUE	0	FALSE	0	0		nick014P
-nick015buff	Heaven's Pillar Fort	When initiating a release of strength, it can absorb 60% of the damage taken by oneself; each time an attack is made, it will make the enemy more inclined to shift their target towards oneself	0	nickname	0	TRUE	0	FALSE	0	0		nick015buff
+nick014P	Master of the Charming Dream Pavilion	When the target is male, the skill damage increases, and there's a 25% chance to inflict 15 points of dizziness and 15 points of confusion on the opponent	0	nickname	0	TRUE	0	FALSE	0	0		nick014P
+nick015buff	Heaven's Pillar stands tall and upright	When initiating a release of strength, it can absorb 60% of the damage taken by oneself; each time an attack is made, it will make the enemy more inclined to shift their target towards oneself	0	nickname	0	TRUE	0	FALSE	0	0		nick015buff
 nick015buffP	What is greatest in a hero	When activating the technique to expel pressure, it can negate 80% of the damage taken by oneself; each time one takes action, it makes the enemy more inclined to redirect their target towards oneself	0	nickname	0	TRUE	0	FALSE	0	0		nick015buffP
 nick016	Clear sky, solitary moon	When utilizing the principle of leveraging a two-jin force to move a thousand jin and borrowing strength to strike, the damage inflicted on the enemy is greater	0	nickname	0	TRUE	0	FALSE	0	0		nick016
 nick016P	Clear sky and bright moon	Activate the Four Liang Moves a Thousand Jin, and when using borrowed force against an enemy, it causes more damage; reduces damage taken by 10%	0	nickname	0	TRUE	0	FALSE	0	0		nick016P
@@ -1087,7 +1087,7 @@ nick020buff	Confucian Sword Formation	Due to Ling Zhongyue being present, self-d
 nick021	Wise Nun Bai Sun	If a martial arts technique with an ice seal effect is used, the technique's power becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021
 nick021P	Guang Han Gongzhu	If you use a martial art technique with an ice seal effect, the power of the move becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021P
 nick022	Scarce Wind King	When unleashing a critical attack, increase energy by 3	0	nickname	0	TRUE	0	FALSE	0	0		nick022
-nick022buff	Feng Wang Zhen	Because Bai Lide in the vicinity, each attack after increasing critical hit rate by 5%, when triggering a critical hit, restore energy by 1 point	0	battle	0	TRUE	0	FALSE	0	0		nick022buff
+nick022buff	Wind King Formation	Because Bai Lide in the vicinity, each attack after increasing critical hit rate by 5%, when triggering a critical hit, restore energy by 1 point	0	battle	0	TRUE	0	FALSE	0	0		nick022buff
 nick023buff	Fat Lamb	Fatty and delicious Aibai, everyone wants to eat him	0	nickname	0	TRUE	0	FALSE	0	0		nick023buff
 nick024buff	Malevolent and insane	The higher the enemy's dizziness and confusion values, the greater the chance of them falling into chaos. Each attack has a chance to plunge the enemy into chaos, resulting in three rounds where friend and foe cannot be distinguished	0	nickname	0	TRUE	0	FALSE	0	0		nick024buff
 nick024buffP	Destroy the World Poison King	The higher the enemy's dizziness, confusion, and poisoning values are, the greater the chance of them becoming chaotic. Each attack has a chance to make the enemy become chaotic, resulting in indistinguishable friend and foe for four rounds	0	nickname	0	TRUE	0	FALSE	0	0		nick024buffP
@@ -1142,9 +1142,9 @@ nick118a	Northern Ugly	Attack power increased by 100%, lasting for one round	0	n
 nick119buff	Martial Arts Barrier：Clumsy	Your understanding and effects are astonishing	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick120buff	Martial Arts Barrier：Quiet	Repay them with their own methods	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick121buff	Obstacles in martial arts：Soft	Using two catties to move a thousand catties, causing more damage to surrounding enemies	0	nickname	0	TRUE	0	FALSE	0	0		foricon
-nick122buff	Wuxia Barrier：skillful; clever	Transference Technique is guaranteed to hit	0	nickname	0	TRUE	0	FALSE	0	0		foricon
+nick122buff	A martial arts barrier：Artful	Transference Technique is guaranteed to hit	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick123buff	Martial Arts Obstacle：Move	Range of the counterattack is astonishing	0	nickname	0	TRUE	0	FALSE	0	0		foricon
-nick124buff	Wuxia Barrier：Just now	Enhance the effect of the hero's fury	0	nickname	0	TRUE	0	FALSE	0	0		nick122buff
+nick124buff	Martial arts blockade：Just now	Enhance the effect of the hero's fury	0	nickname	0	TRUE	0	FALSE	0	0		nick122buff
 nick125	Scarlet Elixir Puppet	During an attack, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of muscle separation value	0	nickname	0	TRUE	0	FALSE	0	0		nick125
 nick126	Western River Military Commander	Reduces all skill values of enemies within a 3-unit radius from the caster by 25 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick126
 nick126b	Merciless Hall Master	When using Wildball Fist, the technique's power increases by 100%	0	nickname	0	TRUE	0	FALSE	0	0		nick126b
@@ -1184,11 +1184,11 @@ nick156	Leader of the Taoshi Gang	Activate Burst Attack, increasing the damage o
 nick157	Snake Beggar	Launch a feint and increase personal combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick157
 nick158	Unrivaled Farmer	Using the move Farmhand Style increases damage by 200%	0	nickname	0	TRUE	0	FALSE	0	0		nick158
 nick159	Old Fox Immortal	Backstabbing additionally causes the target to be dazed for 15 points	0	nickname	0	TRUE	0	FALSE	0	0		nick159
-nick160	Lifetime Prosperity	When the character's lifeforce is below 50%, increase their relaxation rate and counterattack rate by 15% each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick160
+nick160	Jing Dashanren	When the character's lifeforce is below 50%, increase their relaxation rate and counterattack rate by 15% each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick160
 nick515	Giants' Friend	King of the Great Apes 'Monkey Three' is now at your disposal!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick516	Widow Maker	Wild Boar King 'Widow Maker' is now at your disposal!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick518	White Pattern	Albino Crocodile King Baiwen is now at your command!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
-nick600buff	Beikexia	The title of Northern Wuxia commands great respect in the central plains. The power of fist and staff, as well as archery, increases by 25%, and there is a 50% chance to deal damage twice to an enemy	0	nickname	0	TRUE	0	FALSE	0	0		nick600
+nick600buff	Beikexia	The title of the Northern Hero magnifies one's reputation, and their fists, palms, bows, and arrows gain a 25% increase in power. Additionally, there is a 50% chance to inflict damage on enemies twice	0	nickname	0	TRUE	0	FALSE	0	0		nick600
 nick601buff	Snow Wolf Flying Fox	Snow Mountain Extraordinary Hero, unparalleled in Blade Arts; blade arts' power increases by 30%, and all damage skills have external injury effects	0	nickname	0	TRUE	0	FALSE	0	0		nick601
 nick602buff	Old Poisoner	Martial arts grandmaster, king of poison. All skills' potency increases by 30%, and each strike inflicts deadly poison	0	nickname	0	TRUE	0	FALSE	0	0		nick602
 nick603buff	The Smiling, Proud Wanderer of the Jianghu	Your sword arts have increased in power by 50%, and you have a 20% chance to evade damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick603
@@ -1196,7 +1196,7 @@ nick604buff	Transcendently Versatile	Your natural talent and intelligence allow 
 nick605buff	Western Madman	As the madness value increases, martial arts power grows stronger, and sword arts power rises by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick605
 nick606buff	Teleportation with a Snap of Fingers	Hidden weapon power increased by 40%, with a 30% chance to dodge damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick606
 nick607buff	Compassion in one's heart	All skills' power increases by 40%, and the higher your morality, the stronger your skill power	0	nickname	0	TRUE	0	FALSE	0	0		nick607
-nick608buff	Descending Dragon Divine Palm	Hand-to-hand combat power increased by 40%, and all damage skills have an internal injury effect	0	nickname	0	TRUE	0	FALSE	0	0		nick608
+nick608buff	Descending Dragon Divine Palm	Power of fists and palms increased by 40%, and all damage skills inflict internal injury effects	0	nickname	0	TRUE	0	FALSE	0	0		nick608
 nick609buff	Reincarnation Transcendence	All skills power increases by 30%, and there is a 25% chance to inflict damage on the enemy twice	0	nickname	0	TRUE	0	FALSE	0	0		nick609
 nick610buff	Legendary Person	All skills' power increases by 50%, and there is a 50% chance to inflict double damage on enemies	0	nickname	0	TRUE	0	FALSE	0	0		nick610
 hitback	Repel	Engage and repel the enemy that ambushes you	0		0	FALSE	0	FALSE	0	0		0
@@ -1213,7 +1213,7 @@ scorpionpoison	Venom of Scorpions	Accumulated poison damage of 3 points, dizzine
 spiderpoison03	Hues Snow Spider Venom	Accumulated Poisoning at 9 points, Joint Manipulation at 6 points	0		0	FALSE	0	FALSE	0	0	(Sprained,6)(Poisoned,9)	attackBuffer
 centipedepoison03	Seven-colored Centipede Venom	Accumulated poisoning damage: 9 points, bone separation damage: 6 points	0		0	FALSE	0	FALSE	0	0	(Cramped,6)(Poisoned,9)	attackBuffer
 frogpoison03	Tianshui Toad Poison	Accumulated poisoning 9 points, confused 6 points	0		0	FALSE	0	FALSE	0	0	(Confused,6)(Poisoned,9)	attackBuffer
-snakepoison03	Python venom	Accumulated Poisoning 15 Points	0		0	FALSE	0	FALSE	0	0	(Poisoned,15)	attackBuffer
+snakepoison03	Death by Poison Snake	Accumulated Poisoning 15 Points	0		0	FALSE	0	FALSE	0	0	(Poisoned,15)	attackBuffer
 scorpionpoison03	Blood Red Scorpion Poison	Accumulated poisoning at level 9, dizziness at level 6	0		0	FALSE	0	FALSE	0	0	(Dazed,6)(Poisoned,9)	attackBuffer
 addQinggong	Swan in formation, thousand miles	Within four rounds, increase qinggong by 10 points	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		addQinggong
 addQinggong02	Leave no trace even after a thousand miles	Within four rounds, increase qinggong by 20 points	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		addQinggong02
@@ -1255,9 +1255,9 @@ jewelry23	Nightlight Mani Stone	At the start of a turn, increase your own off-qi
 jewelry24	Gold Lock Fragment	Recover 6% of Lifeforce per round	0		0	FALSE	0	FALSE	0	0		jewelry24
 jewelry25	A man's treasure	Recover 6% of your internal power per round; if the wearer is Situ Jing, recover an additional 6%	0		0	FALSE	0	FALSE	0	0		jewelry25
 jewelry26	Dragon's Claw Pearl Loop	At the start of the battle, increase maximum lifeforce by 10% and increase technique damage by 5%	0		0	FALSE	0	FALSE	0	0		jewelry26
-jewelry27	Frostblood Silver Hairpin	When attacking, deal additional 5 points of poisoning and 3 points of frostbite to the target; reduce own lifeforce by 5% and neigong by 3% each round	0		0	FALSE	0	FALSE	0	0		jewelry27
+jewelry27	Frostblood Silver Hairpin	When attacking, apply 5 points of poison and 3 points of ice seal to the target; reduce self's lifeforce by 5% and inner strength by 3% each turn	0		0	FALSE	0	FALSE	0	0		jewelry27
 jewelry28	White Silver Flying Swallow Hairpin	For each unit of distance moved, restore 2% of your own lifeforce	0		0	FALSE	0	FALSE	0	0		jewelry28
-jewelry29	Conjoined Lotus Heart Earring	At the start of battle, increase maximum Lifeforce by 12% and maximum Neigong by 6%	0		0	FALSE	0	FALSE	0	0		jewelry29
+jewelry29	Conjoined Lotus Heart Earring	At the start of battle, increase maximum lifeforce by 12% and maximum qi by 6%	0		0	FALSE	0	FALSE	0	0		jewelry29
 jewelry30	Jade Pendant with Jade Heart	Resist Freeze by 3 points, and recover 3% of your own inner strength each turn	0		0	FALSE	0	FALSE	0	0		jewelry30
 jewelry31	Golden Chain Bracelet	At the start of your own turn, if your lifeforce is at or below 15%, restore 15% lifeforce; if worn by Zhang Junbao, additionally restore another 15% lifeforce	0		0	FALSE	0	FALSE	0	0		jewelry31
 jewelry32	The Fish Amulet of Desires	Upon being hit, increase deflection force by 3 points; when activating the deflection force, restore 6% of one's lifeforce	0		0	FALSE	0	FALSE	0	0		jewelry32

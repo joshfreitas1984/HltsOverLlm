@@ -28,8 +28,8 @@ nick012P	Great Elder Brother	The higher one's qinggong, the higher their evasion
 nick013	Dian Cang Xianzi	Techniques using twin swords or short weapons have their power increased by 30%		n60040	nick013
 nick013P	White Horse Fairy	Combat techniques with twin swords or twin short weapons increase in power by 50%. During combat, qinggong is enhanced by 10 points		n60040	nick013P
 nick014	Dark Blood Mantra	When attacking a male target, there is a 25% chance to inflict the opponent with 15 points of dizziness and 15 points of confusion		n60100	nick014
-nick014P	Madame of Charming Dream Hall	When the target is male, the skill damage increases, with a 25% chance to inflict 15 points of dizziness and 15 points of confusion on the opponent		n60100	nick014P
-nick015	Heaven's Pillar Fort	When activating the release of energy, one can absorb 60% of their own inflicted damage; each time they attack, it makes enemies more likely to redirect their target towards themselves		n20033	nick015
+nick014P	Master of the Charming Dream Pavilion	When the target is male, the skill damage increases, with a 25% chance to inflict 15 points of dizziness and 15 points of confusion on the opponent		n60100	nick014P
+nick015	Heaven's Pillar stands tall and upright	When activating the release of energy, one can absorb 60% of their own inflicted damage; each time they attack, it makes enemies more likely to redirect their target towards themselves		n20033	nick015
 nick015P	What is greatest in a hero	When unleashing power, one can reduce their own received damage by 80%; each time they strike, it makes the enemy more inclined to switch targets to them		n20033	nick015P
 nick016	Clear sky, solitary moon	When employing Four ounces to move a thousand gold and Using leverage to apply force, the damage inflicted on the enemy is greater		n09997	nick016
 nick016P	Clear sky and bright moon	Activate Move Two Liang to Win a Qian Jin, leveraging external force against the enemy; increases damage dealt and reduces damage taken by 10%		n09997	nick016P
@@ -97,12 +97,12 @@ nick115	Eastern Noble	When using the Thunderbolt Fireball Grenade, there is a 25
 nick116	Southern Leisure	At the beginning of each round, randomly recover between 2 and 8 points of Qi		n20230	nick116
 nick117	Western Kitchen	During attack, 50% of the damage is converted into self-lifeforce		n07006	nick117
 nick118	Northern Ugly	When triggering a combo, attack power increases by 100% for one round		n07007	nick118
-nick119	Wuxia Shortcomings	Wuxia Shortcomings			nick119
-nick120	Wuxia barrier (stillness)	Wuxia barrier (stillness)			nick120
-nick121	Wuxia Barrier (Soft)	Wuxia Barrier (Soft)			nick121
-nick122	Wuxia Obstacle (Skill)	Wuxia Obstacle (Skill)			nick122
-nick123	Wuxia Barrier	Wuxia Barrier			nick123
-nick124	Wuxia Obstacle (Strength)	Wuxia Obstacle (Strength)			nick124
+nick119	Wu Xue Zhang (My humble)	Wu Xue Zhang (My humble)			nick119
+nick120	The Martial Arts Block (Still)	The Martial Arts Block (Still)			nick120
+nick121	The obstacle of martial arts (Soft, gentle)	The obstacle of martial arts (Soft, gentle)			nick121
+nick122	Wuxue zhang (Skilled)	Wuxue zhang (Skilled)			nick122
+nick123	The Martial Arts Barrier (Move)	The Martial Arts Barrier (Move)			nick123
+nick124	Wuxue zhang (Just now)	Wuxue zhang (Just now)			nick124
 nick125	Scarlet Alchemist Puppet	During an attack, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of tendon damage value		n00095a,n00095b,n00095c,n00095d,n00095e,n00095f	nick125
 nick126	Western River Military Commander	For enemies within a 3-unit radius, reduce all special attribute values by 25 points each turn		n07001,n07001a	nick126
 nick126b	Master of the Merciless Hall	For all enemies within a 3-unit radius around oneself, reduce all skill values by 25 points each turn; when using Wildball Fist, the technique's power is increased by 75%		n07001,n07001a	nick126b
@@ -154,7 +154,7 @@ nick510	Ku Teng Lao Shu	Woodcutters' goods and services are offered at an eight 
 nick511	Got to be decked out in gold	The winery's products and services are offered at an eight percent discount!		Player	
 nick512	People regard food as their utmost priority	The canteen's goods and services are offered at an eight-digits discount!		Player	
 nick513	Sated with drink and meal	Hotel's goods and services are offered at an 80% discount!		Player	
-nick514	House full of gold and jade	Shao Family Jade Courtyard's goods and services are offered at an 80% discount!		Player	
+nick514	House full of gold and jade	Jade Hall's products and services are offered at an 80% discount!		Player	
 nick515	Giants' Friend	King of the Great Apes Monkey Three is now at your disposal!		Player	nick515
 nick516	Widow Maker	Wild Boar King 'Widow Maker' at your command!		Player	nick516
 nick517	Red Spot	Dragon King Red Spotted is now at your command!		Player	nick517
@@ -185,7 +185,7 @@ nick541	Shadow Swift	The shadow can inflict high damage with an external injury 
 nick542	Chexi	Snow Shadow can inflict high damage with an external injury effect on enemies and convert a portion of that damage into its own lifeforce		n59007_W01,n59007_W01a,n59007_W01b,n59007_W01c,n59007_W01d,n59007_W01e	nick542
 nick543	King of Venom	Each time Gigantum attacks, it does so with deadly poison while also being able to evade enemy attacks during combat		n59008,n59008_001,n59008_002,n59008_003,n59008_004,n59008_005	nick543
 nick544	Legendary Beast King	The Beast King Jinzong, unmatched in the world; no one can rival him		n59009,n59009_a01,n59009_a02,n59009_a03,n59009_a04,n59009_a05	nick544
-nick600	Beikexia	The name of the Northern Wuxia is formidable across the Central Plains. The power of fist and sword, as well as bow and arrow, increases by 25%, and there is a 50% chance to inflict damage on an enemy twice		n80416,Player	nick600
+nick600	Beikexia	The name of the Northern Swordsman reverberates across Central Plains, increasing the power of fists, palms, bows, and arrows by 25%, and with a 50% chance to inflict double damage on enemies		n80416,Player	nick600
 nick601	Snow Wolf Flying Fox	Snowy Mountain Enigma, unparalleled in blade arts; blade arts' power increases by 30%. All damage skills inflict bleeding		n80417,Player	nick601
 nick602	Old Poisoner	Swordsmanship Sage, King of Poison, all skills increase in power by 30%, and every blow carries deadly poison		n80419,Player	nick602
 nick603	The Smiling, Proud Wanderer of the Jianghu	Your sword arts gain additional power and increase further with higher martial skill levels, and there is a 20% chance to evade damage during combat		n80420,Player	nick603
