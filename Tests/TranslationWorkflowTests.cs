@@ -13,7 +13,29 @@ public class TranslationWorkflowTests
     [Fact]
     public async Task TranslateLines()
     {
-        await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
+        // Brute force it (aka I'm watching something)
+        bool keepCleaning = true;
+
+        if (keepCleaning)
+        {
+            int remaining = 9999999;
+            int lastRemaining = remaining;
+            int iterations = 0;
+            while  (remaining > 0 && iterations < 5)
+            {
+                await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
+                remaining = await TranslationCleanupTests.UpdateCurrentTranslationLines();
+                iterations++;
+
+                // We've hit our brute force limit
+                if (lastRemaining == remaining)
+                    break;
+            }
+        }
+        else
+            await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
+
+
         await PackageFinalTranslation();
     }
 

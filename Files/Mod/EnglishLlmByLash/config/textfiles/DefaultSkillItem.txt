@@ -19,13 +19,13 @@ st0007b	Tian Zi Jiu Da (Shu Guangbi)	it30504	0	0	SkillTree055_000,SkillTree055_0
 st0008	Yellow Sands Blade Arts (Just now)	it30303	0	0	SkillTree001_000,SkillTree001_004,SkillTree046_000
 st0008b	Huang Sha Blade Arts (Clumsy)	it30303	0	0	SkillTree001_000,SkillTree001_005,SkillTree046_000
 st0008c	Yellow Sand Blade Arts (High)	it30303	0	0	SkillTree001_000,SkillTree001_001,SkillTree001_001,SkillTree001_002,SkillTree001_003,SkillTree001_004,SkillTree001_005
-st0010	Yue Family Spear Skills (Forceful)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_005
-st0010b	Yue Family Spear Technique (in motion)	it30402	0	0	SkillTree003_000,SkillTree003_007,SkillTree003_004
-st0010c	Yue jia qiang fa (gao)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_002,SkillTree003_003,SkillTree003_004,SkillTree003_005,SkillTree003_006,SkillTree003_007,SkillTree003_008,SkillTree003_009
-st0010d	Yue Family Spear Technique (Wang Zhe)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_007,SkillTree003_004
-st0011	Yue Family Kung Fu (Low)	it30108	0	0	SkillTree072_000
-st0011b	Yue family open-handed skills (high)	it30108	0	0	SkillTree072_000,SkillTree072_002
-st0011c	Yue Family Sanda (Wang Zhe)	it30108	0	0	SkillTree072_000,SkillTree072_001,SkillTree072_002,SkillTree072_003,SkillTree072_004,SkillTree072_005
+st0010	The Ye Family Swordplay (Just now)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_005
+st0010b	Ye Family Spear Technique (Move)	it30402	0	0	SkillTree003_000,SkillTree003_007,SkillTree003_004
+st0010c	The art of wielding a spear from the Ye Family (High)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_002,SkillTree003_003,SkillTree003_004,SkillTree003_005,SkillTree003_006,SkillTree003_007,SkillTree003_008,SkillTree003_009
+st0010d	Ye Family Swordplay (Wang Zhe)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_007,SkillTree003_004
+st0011	Ye Family Hand Art (Low)	it30108	0	0	SkillTree072_000
+st0011b	Ye Family Hand Art (High)	it30108	0	0	SkillTree072_000,SkillTree072_002
+st0011c	Ye Family Hand Art (Wang Zhe)	it30108	0	0	SkillTree072_000,SkillTree072_001,SkillTree072_002,SkillTree072_003,SkillTree072_004,SkillTree072_005
 st0012	The Buddha's Lion Roar	it30410	0	0	SkillTree086_000,SkillTree086_001,SkillTree086_002,SkillTree086_003,SkillTree086_005,SkillTree086_006
 st0012b	Monastic Lion's Roar (High)	it30410	0	0	SkillTree086_000,SkillTree086_001,SkillTree086_002,SkillTree086_003,SkillTree086_004,SkillTree086_005,SkillTree086_006
 st0013	Summer Sun's Archery (Low)	it30505	0	0	SkillTree025_000,SkillTree025_001
@@ -85,7 +85,7 @@ st0041	Kong Jin	it30511	0	0	SkillTree050_000,SkillTree131_000
 st0047	Combat Test Operator	it30303	0	0	SkillTree001_000
 st0048	You gu zhi fa (Cheng Yan Hua)	it30107	0	0	SkillTree177_000
 st0048b	Yougu Zhifa (Chen zhiji)	it30107	0	0	SkillTree177_000,SkillTree177_001
-st0049	Subtle fragrance lingers in the cold (Mei Hongqi)	it30808	0	0	SkillTree057_000,SkillTree057_001,SkillTree057_002,SkillTree057_003,SkillTree057_004,SkillTree057_005,SkillTree057_006,SkillTree057_007,SkillTree057_008,SkillTree057_009
+st0049	Hidden fragrance lingers in the chill (Mai Hongqi)	it30808	0	0	SkillTree057_000,SkillTree057_001,SkillTree057_002,SkillTree057_003,SkillTree057_004,SkillTree057_005,SkillTree057_006,SkillTree057_007,SkillTree057_008,SkillTree057_009
 st0050	Chilly Fragrance Drifting (Mei Xinghe)	it30808	0	0	SkillTree057_000,SkillTree057_001,SkillTree057_005
 st0051	Shan Yishibada Die (Low)	it30113	0	0	SkillTree011_000
 st0051b	Shan Yi Shiba Die (Part Two)	it30113	0	0	SkillTree011_000,SkillTree011_001,SkillTree011_002,SkillTree011_003,SkillTree011_004,SkillTree011_005
@@ -138,20 +138,20 @@ st0073b	Five Thunder Puncturing Heart Sword (Movement)	it30226	0	0	SkillTree102_
 st0073c	Wulei Chuanxin Jian (Gao)	it30226	0	0	SkillTree102_000,SkillTree102_001,SkillTree102_002,SkillTree102_003,SkillTree102_004,SkillTree102_005,SkillTree102_006,SkillTree102_007,SkillTree102_008
 st0074	Flower Blossoms in Chaos Sword (Wen Cuizhi, Jie Changning)	it30216	0	0	SkillTree014_000,SkillTree014_001,SkillTree014_002,SkillTree014_003,SkillTree014_004,SkillTree014_005,SkillTree014_006,SkillTree014_007
 st0075a	Seven Stars Swordsmanship (Wang Zhe)	it30218	0	0	SkillTree071_000,SkillTree071_002,SkillTree071_003,SkillTree071_004
-st0075b	Yuejia qiangfa (Wang Zhe)	it30402	0	0	SkillTree003_000
+st0075b	Ye Family Swordplay (Wang Zhe)	it30402	0	0	SkillTree003_000
 st0075c	Great Clarity Kun Qi (Wang Zhe)	it30724	0	0	SkillTree160_000
 st0075d	Gold Goose Technique (Wang Zhe)	it30811	0	0	SkillTree073_000
-st0076a	Changquan Shiduan Jin (Zhang Junbao)	it30110	0	0	SkillTree159_000,SkillTree159_001,SkillTree159_002,SkillTree159_003,SkillTree159_004
-st0076b	Qiankun Jianfa (Zhang Junbao)	it30224	0	0	SkillTree093_000,SkillTree093_002,SkillTree093_003,SkillTree093_004,SkillTree093_005
-st0076c	Leaping Cloud Ranks (Zhang Junbao)	it30810	0	0	SkillTree075_000
+st0076a	Long Fist, Ten Segments of Brocade (Master Zhang Junbao)	it30110	0	0	SkillTree159_000,SkillTree159_001,SkillTree159_002,SkillTree159_003,SkillTree159_004
+st0076b	Qiankun Sword Method (Zhang Junbao)	it30224	0	0	SkillTree093_000,SkillTree093_002,SkillTree093_003,SkillTree093_004,SkillTree093_005
+st0076c	Ti Yun Cong (Lord Zha Junbao)	it30810	0	0	SkillTree075_000
 st0076d	Chun Yang Wu Ji Gong (Master Zhang Jiu Bao)	it30705	0	0	SkillTree076_000,SkillTree076_001,SkillTree076_002,SkillTree076_003
 st0077a	Divine Arrow Seven Balls (Ade Ake)	it30507	0	0	SkillTree077_000,SkillTree077_002,SkillTree077_003
-st0078a	West River Moonblade (Li Tan)	it30317	0	0	SkillTree078_000,SkillTree078_001,SkillTree078_002,SkillTree078_003,SkillTree078_004,SkillTree078_009
+st0078a	Shuixi Creek Moonblade (Li Tan)	it30317	0	0	SkillTree078_000,SkillTree078_001,SkillTree078_002,SkillTree078_003,SkillTree078_004,SkillTree078_009
 st0078b	Western River Moonblade (Ximen Yutang)	it30809	0	0	SkillTree145_000,SkillTree145_001,SkillTree145_002,SkillTree145_003,SkillTree145_004,SkillTree145_005,SkillTree145_006,SkillTree145_007,SkillTree145_008,SkillTree145_009
 st0078c	Western River Bright Moon Sword (Ming Lu Dao - Min Popo)	it30317	0	0	SkillTree078_000,SkillTree078_001,SkillTree078_002,SkillTree078_003,SkillTree078_004,SkillTree078_005,SkillTree078_006,SkillTree078_007,SkillTree078_008,SkillTree078_009
 st0079a	Five Poisons Classic (He Ziwang)	it31001	0	0	SkillTree056_007,SkillTree056_005,SkillTree056_000,SkillTree056_004,SkillTree056_003,SkillTree056_001,SkillTree056_002,SkillTree056_006,SkillTree056_008,SkillTree056_009
 st0079b	Five Poison Manual (Poison Palm, Poison Powder)	it31001	0	0	SkillTree056_008,SkillTree056_009
-st0080	Gliding over ripples like flying snow (Li Tan)	it30809	0	0	SkillTree145_000,SkillTree145_003,SkillTree145_004,SkillTree145_002
+st0080	Lei Feng, as swift as snow flying upon waves (Li Tan)	it30809	0	0	SkillTree145_000,SkillTree145_003,SkillTree145_004,SkillTree145_002
 st0080b	Leaping Waves and Snow (Ximen Yutang)	it30809	0	0	SkillTree145_000,SkillTree145_001,SkillTree145_002,SkillTree145_003,SkillTree145_004,SkillTree145_005,SkillTree145_006,SkillTree145_008
 st0080c	Lei Feng Fei Xue (Chun Bao and Xi Bao)	it30809	0	0	SkillTree145_000,SkillTree145_001,SkillTree145_002
 st0081a	The Red Sleeve Song (Fan Xiangdie)	it30603	0	0	SkillTree083_000,SkillTree083_001,SkillTree083_002,SkillTree083_003,SkillTree083_004,SkillTree083_005,SkillTree083_007
@@ -265,7 +265,7 @@ st0125	Li Hua Spear (Low)	it30407	0	0	SkillTree110_000,SkillTree110_001,SkillTre
 st0125b	High Apple Blossom Spear	it30407	0	0	SkillTree110_000,SkillTree110_001,SkillTree110_002,SkillTree110_003,SkillTree110_004,SkillTree110_005
 st0126	The Poison Lord's Secret Manual (Stone's Diagram)	it31003	0	0	SkillTree084_000,SkillTree084_002,SkillTree084_005,SkillTree084_006,SkillTree084_009
 st0127	Wildball Fist (Huangfu Dengyun)	it30100	0	0	SkillTree000_000,SkillTree000_001,SkillTree000_002,SkillTree000_003,SkillTree000_004,SkillTree000_005,SkillTree000_006,SkillTree000_007,SkillTree000_008,SkillTree000_010,SkillTree000_011,SkillTree000_012,SkillTree000_013
-st0128	Chen Jue's sword cut (Yan Yushu)	it30207	0	0	SkillTree144_000
+st0128	Shan Juan struck a single sword blow (Yan Yushi)	it30207	0	0	SkillTree144_000
 st0129	Guanghan Swordsmanship (Dongqiao)	it30203	0	0	SkillTree085_000,SkillTree085_001,SkillTree085_009,SkillTree085_011
 st0129b	Kuang Han Swordsmanship (Graceful)	it30203	0	0	SkillTree085_000,SkillTree085_002,SkillTree085_009,SkillTree085_010
 st0129c	Guang Han Swordsmanship (Dong Qiao Ru; High)	it30203	0	0	SkillTree085_000,SkillTree085_001,SkillTree085_002,SkillTree085_003,SkillTree085_004,SkillTree085_005,SkillTree085_006,SkillTree085_007,SkillTree085_008,SkillTree085_009,SkillTree085_010,SkillTree085_011

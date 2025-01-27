@@ -1828,10 +1828,10 @@
   splits:
   - split: 1
     text: "叶家马帮"
-    translated: "Ye Family Horse Gang"
-    flaggedForRetranslation: false
+    translated: "The Ye Family Horse Gang"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Ye Family
 - lineNum: 187
   raw: "Area20	噶玛寺"
   translated: ""
@@ -5126,7 +5126,7 @@
   splits:
   - split: 1
     text: "武学说明"
-    translated: "Explanation of Wuxia"
+    translated: "Explanation of Martial Arts"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -12348,7 +12348,7 @@
   splits:
   - split: 1
     text: "一生抵御外患、保家卫国。"
-    translated: "Defend the country and protect the family from external threats for a lifetime"
+    translated: "Devote their life to repelling foreign threats and protecting the nation"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''

@@ -1738,7 +1738,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。<br>询问客店老板后得知南闲似乎因为拖欠了酒钱，被押到村长那里了。因此你得前往村长家，了解详细情况。"
-    translated: "Thanks to Kong Jin risking his life to rescue him, they managed to escape the Holy Sanctuary in a harrowing way. However, now he finds himself alone and vulnerable, with enemies lurking around every corner. The only option is to follow Kong Jin's previous plan and head to Arched Stone Village to find Southern Leisure, another member of the Heluo clan<br>After inquiring with the innkeeper, it was learned that Southern Leisure had been taken to the village chief's place for owing money on drinks. Therefore, you must go to the village chief's house to understand the details"
+    translated: "In the face of great peril, they were saved by Kong Jin and managed to escape from the Holy Sanctuary. However, now isolated and outmatched, with enemies lurking unseen, their only option was to follow Kong Jin's previous plan: seek Southern Leisure in Arched Stone Village, a fellow member of the Heluo clan<br>After asking the innkeeper, you find out that Southern Leisure seems to have been taken to the village head for owing some wine money. Therefore, you must go to the village head's house to get more details"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1898,10 +1898,10 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "梅村长将家传钥匙交给了你，前往后山上头的石堆玛尼堆，寻找梅家家传的宝物吧。"
-    translated: "Village Chief Mei has entrusted you with the family key to search for the Mei family's heirloom among the Mani stacks of stones at the summit in the mountains behind"
-    flaggedForRetranslation: false
+    translated: "Village Chief Mei has entrusted you with the family key. Go to the pile of stones at the top of the mountain behind the village and search for the Meis' family treasure"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: He Family
 - lineNum: 119
   raw: "Q10004_01	家传宝物	1	梅村长将家传钥匙交给了你，前往后山的石堆寻找梅家家传的宝物吧。	0	FALSE	0	-24.965, 171.404, -1028.958	TRUE		600	(Reputation,3)	1"
   translated: ""
@@ -1914,10 +1914,10 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "梅村长将家传钥匙交给了你，前往后山的石堆寻找梅家家传的宝物吧。"
-    translated: "Village Chief Mei has entrusted you with the family key. Go to the stone pile in the back mountain to find the Mei family heirloom"
-    flaggedForRetranslation: false
+    translated: "Village Chief Mei has entrusted you with the family key. Go to the stone pile in the back hills and find the Meihua family heirloom"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: He Family
 - lineNum: 120
   raw: "Q10005	石信的猫食	0	石家庄的石信给了你一笔钱，请你帮忙买喂猫用的河鱼。河鱼也许能向庄外东南方河岸附近的钓鱼客购买。	0	FALSE	Q10005_01,Q10005_02,Q10005_03	0	TRUE		0		1"
   translated: ""
@@ -3348,7 +3348,7 @@
   splits:
   - split: 1
     text: "循迹找到禾家马帮的队伍"
-    translated: "Follow the trail to find the team of the Huo Family Horse Gang"
+    translated: "Followed the trail and found He Family's Horse Gang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3364,13 +3364,13 @@
   splits:
   - split: 1
     text: "找出禾家马帮的队伍"
-    translated: "Find out about the team of Huo Family's Horse Gang"
+    translated: "Locate the team of the He Family's Horse Gang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "禾泓渊似乎知道黄裳的下落，但他人不在禾家马帮中。正当你烦恼之际，你遇见了禾泓渊的女儿禾郁青，她似乎知道父亲的下落，与禾郁青结伴的路途中，你们发现山路上出现了马帮队伍遭受袭击的痕迹，要找到禾泓渊，先帮禾郁青找出受袭的马帮队伍吧。"
-    translated: "Huo Hongyuan seems to know the whereabouts of Huang Shang, but he isn't part of the Hu Family Horse Gang. While you're pondering this, you meet Huo Hongyuan's daughter, He Yuqing, who appears to know her father's location. Along your journey with He Yuqing, you discover signs that a horse gang on the mountain path has been attacked. To find Huo Hongyuan, first help He Yuqing locate the attacked horse gang"
+    translated: "It seems that He Hongyuan knows Huang Shang's whereabouts, but he is not part of the He Family Horse Gang. Just when you were troubled, you encountered He Yuqing, daughter of He Hongyuan. She seemed to know her father's whereabouts. On your journey with He Yuqing, you found traces of an attack on a Horse Gang team along the mountain path. To find He Hongyuan, first help He Yuqing identify which Horse Gang was attacked"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3402,7 +3402,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "禾泓渊似乎知道黄裳的下落，但他人不在禾家马帮中。正当你烦恼之际，你遇见了禾泓渊的女儿禾郁青，她似乎知道父亲的下落。然而据禾家马帮帮众所言，禾郁青孤身跑去擎天寨探听消息了，禾家马帮的帮众苦苦哀求你去找回禾郁青，无论如何，先上擎天寨吧找出禾郁青吧。"
-    translated: "Huo Hongyuan seems to know Huang Shang's whereabouts, but he is not in Hu Family Horse Gang. While you are worried, you encounter Huo Hongyuan's daughter He Yuqing, who appears to know her father's location. However, according to the members of the Hu Family Horse Gang, He Yuqing has gone off on her own to Heaven's Pillar Fort to gather information. The gang members desperately urge you to go and bring back He Yuqing. First, head to Heaven's Pillar Fort to find out about He Yuqing"
+    translated: "It seems He Hongyuan knows Huang Shang's whereabouts, but he isn't in the He Family Horse Gang. Just as you're troubled, you meet He Yuqing, his daughter, who appears to know her father's location. However, according to the members of the He Family Horse Gang, He Yuqing left alone to go to Heaven's Pillar Fort for news. The members of the He Family Horse Gang earnestly beg you to find He Yuqing. No matter what, go to Heaven's Pillar Fort first and look for her"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3460,7 +3460,7 @@
   splits:
   - split: 1
     text: "回禾家马帮拜访禾泓渊"
-    translated: "Hei's Family Horse Gang visits He Hongyuan"
+    translated: "Visit the Horse Gang of the He Family at Heng Yuan's place"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4052,48 +4052,48 @@
   splits:
   - split: 1
     text: "叶家马帮"
-    translated: "Ye Family Horse Gang"
-    flaggedForRetranslation: false
+    translated: "The Ye Family Horse Gang"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Ye Family
   - split: 3
     text: "在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？"
-    translated: "On the mountain path to Eagle Hunter Village, a group from the He Family Horse Gang was ambushed. During the fight, He Yuqing slashed an injury on the right upper arm of a man in black clothing. Later at Qingmu Tea House, He Yuqing discovered a member of the Ye Family Horse Gang with his right upper arm bandaged, matching exactly the spot where the man in black had been cut. He Yuqing became suspicious: was this mere coincidence or did it conceal some truth?"
-    flaggedForRetranslation: false
+    translated: "On the mountain path leading to Eagle Hunter Village, a group from He Family's Horse Gang was ambushed. During the fight, a man in black had his right upper arm slashed by He Yuqing. Later, at Qingmu Tea House, He Yuqing discovered a member of Ye Family's Horse Gang whose right upper arm was bandaged, matching exactly with where the man in black had been cut. He Yuqing became suspicious—was this mere coincidence or did it conceal some hidden truth?"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Ye Family
 - lineNum: 254
   raw: "Q20018_01	找出受伤的叶家马帮帮众	1	在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？<br>听闻叶家帮众总是在傍晚时分流连于大研镇摊位，去碰碰运气吧。	0	FALSE	0	0	TRUE		1200	(Reputation,6)	201"
   translated: ""
   splits:
   - split: 1
     text: "找出受伤的叶家马帮帮众"
-    translated: "Identify the injured members of the Ye Family Horse Gang"
+    translated: "Identify injured members of Ye Jia's Horse Gang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？<br>听闻叶家帮众总是在傍晚时分流连于大研镇摊位，去碰碰运气吧。"
-    translated: "On the mountain path leading to Eagle Hunter Village, a group from Hu Family's Horse Gang was ambushed. In the fight, a dark-clothed man's right upper arm was slashed by He Yuqing. Later, at Qingmu Tea House, He Yuqing found a member of Ye Family's Horse Gang with his right upper arm bandaged in exactly the same place as the dark-clothed man's injury. He Yuqing grew suspicious: Was this a coincidence or did it conceal some truth?<br>It is said that the Ye Family Gang always linger around the stalls in Dayan Town at dusk, so why not try your luck there?"
-    flaggedForRetranslation: false
+    translated: "On the mountain path leading to Eagle Hunter Village, a group from He Family's Horse Gang was attacked. During the fight, a man in black had his right upper arm slashed by He Yuqing. Later at Greenwood Tea House, He Yuqing spotted a member of Ye Family's Horse Gang with a bandage on their right upper arm, matching precisely where the man in black had been cut. He Yuqing grew suspicious—was this mere coincidence, or did it conceal some hidden truth?<br>It's said that the Ye Family Sect always lingers among the stalls in Dayan Town at dusk, why not try your luck?"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Ye Family
 - lineNum: 255
   raw: "Q20018_02	想办法引出受伤的叶家马帮帮众	1	在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？如今你们找到了这名受伤的马帮帮众，想办法把他引到人少的地方问话吧。	0	FALSE	0	0	TRUE		4800	(Reputation,24)	201"
   translated: ""
   splits:
   - split: 1
     text: "想办法引出受伤的叶家马帮帮众"
-    translated: "Find a way to lure out the injured member of Ye Family's Horse Gang"
-    flaggedForRetranslation: false
+    translated: "Devise a way to bring out the wounded members of the Ye Family's Horse Gang"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Ye Family
   - split: 3
     text: "在通往鹰猎人聚落的山道上，禾家马帮的队伍曾遭到袭击，在打斗中，一名黑衣人的右上臂被禾郁青砍伤了。而后在青木茶庄中，禾郁青发现了一名叶家马帮的帮众，其右手上臂有一处包扎，跟黑衣人被砍伤的位置一模一样。禾郁青心生疑心，这究竟是巧合，还是隐藏了甚么真相？如今你们找到了这名受伤的马帮帮众，想办法把他引到人少的地方问话吧。"
-    translated: "On the mountain road leading to Eagle Hunter Village, the He family's horse gang was ambushed. During the fight, a hooded man’s right upper arm was slashed by He Yuqing. Later, at Qingmu Tea House, He Yuqing discovered a member of Ye family's horse gang with bandages on his right upper arm, identical to where the hooded man had been cut. He Yuqing became suspicious—was this mere coincidence or did it conceal some truth? Now that you've found this injured member of the horse gang, try to lead him to a secluded spot and question him"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    translated: "On the mountain path leading to Eagle Hunter Village, a team from the He Family's Horse Gang was ambushed. During the fight, Yuqing He slashed the right upper arm of a man in black. Later at Qingmu Teahouse, Yuqing found a member of the Ye Family's Horse Gang with bandages on his right upper arm, exactly matching the injury of the man in black. Yuqing became suspicious—was this mere coincidence or did it conceal some truth? Now that you've found the injured gang member, find a way to lead him to a secluded spot for questioning"
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: He Yuqing
+    flaggedGlossaryOut: Ye Family
 - lineNum: 256
   raw: "Q20019	蛇窟中的男子	0	你在拱石村附近的蛇窟洞口，发现一名被蛇围攻的男子。帮助他把蛇赶跑之后，这名男子表示他有一位朋友还困在蛇窟里面，你要进去帮他救人吗？	0	FALSE	Q20019_01,Q20019_02,Q20019_03	0	FALSE		0		1"
   translated: ""
@@ -4250,7 +4250,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "由于禾尹仁的失踪，禾家父女之间的矛盾越来越深，根据叶金虹所言，禾尹仁原来是被禾泓渊的对头山魈恶鬼抓走了。山魈恶鬼是江湖中一个极为恐怖的传言，有人认为山魈恶鬼是食人妖怪；有人认为这是一个极为隐密的杀手组织，无论如何，只要有山的地方，就有机会出现山魈恶鬼，据说西南方的山区曾出现过诡异的事件，快去调查看看跟山魈恶鬼是否有关连吧。"
-    translated: "Due to Huo Yiren's disappearance, the conflict between Huo family father and daughter has deepened. According to Ye Jinhong, Huo Yiren was actually abducted by Huo Hongyuan's rival, Shanyao Egui. Shanyao Egui is a terrifying rumor in Jianghu; some believe it is a cannibalistic monster, while others think it is an extremely secretive assassination organization. Regardless, whenever there are mountains around, there might be the appearance of Shanyao Egui. It has been said that mysterious incidents occurred in the mountainous regions of the southwest, so hurry and investigate to see if they are related to Shanyao Egui"
+    translated: "Due to the disappearance of He Yinxin, the conflict between He Family father and daughter deepened. According to Ye Jinhong, it turns out that He Yinxin was kidnapped by Huohengyuan's rival, Shanyeo Gui—a name that is a very terrifying rumor in Jianghu. Some believe Shanyeo Gui is a cannibalistic demon; others think it's an extremely secretive killer organization. In any case, wherever there are mountains, there's a chance of encountering Shanyeo Gui. There have been mysterious events reported in the mountainous areas of the southwest. Investigate quickly to see if they're connected to Shanyeo Gui"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4266,7 +4266,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "由于禾尹仁的失踪，禾家父女之间的矛盾越来越深，根据叶金虹所言，禾尹仁原来是被禾泓渊的对头山魈恶鬼抓走了。山魈恶鬼是江湖中一个极为恐怖的传言，有人认为山魈恶鬼是食人妖怪；有人认为这是一个极为隐密的杀手组织，无论如何，只要有山的地方，就有机会出现山魈恶鬼，而近来西南方的山区时常出现野兽的尸体，野兽的上都有诡异的爪痕，既不像是狼爪，也不像是大虫，会不会跟山魈恶鬼有所关联呢，找出一个有爪痕的野兽的尸体，或许能够查出甚么线索。"
-    translated: "Due to Wei Yingren's disappearance, the conflict between the Wei family father and daughter has deepened. According to Ye Jinhuang, Wei Yingren was abducted by Huo Hengyuan’s rival, Shan Sui'e Gui, a terrifying rumor in Jianghu. Some believe that Shan Sui'e Gui is a cannibalistic monster; others think it's an extremely secretive assassin organization. Regardless, wherever there are mountains, there might be an appearance of Shan Sui'e Gui. Recently, the mountain areas in the southwest have often seen wild animal corpses with mysterious claw marks, which don't resemble wolf paws or large beast claws. Could this be related to Shan Sui’e Gui? Finding a corpse of a wild animal with claw marks may reveal some clues"
+    translated: "Due to He Yinren's disappearance, the conflict between the He family father and daughter has deepened. According to Ye Jinhong, it turns out that He Yinren was abducted by Heng Yuan's rival Shanxie Egui. Shanxie Egui is a very terrifying legend in Jianghu; some believe it is a cannibalistic demon, while others think it is an extremely secretive assassin organization. Regardless, wherever there are mountains, there is a chance for the appearance of Shanxie Egui. Recently, wild animal carcasses have often been found in the southwestern mountainous regions, with strange claw marks on them that do not resemble wolf claws or those of large creatures. Could this be related to Shanxie Egui? Finding a wild animal carcass with these claw marks might provide some clues"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -4308,13 +4308,13 @@
   splits:
   - split: 1
     text: "赶回禾家马帮"
-    translated: "Return to the Hua Family Horse Gang"
+    translated: "Return to the He Family's Horse Gang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "由于禾尹仁的失踪，禾家父女之间的矛盾越来越深，根据叶金虹所言，禾尹仁原来是被禾泓渊的对头山魈恶鬼抓走了。如今，你们终于从山魈恶鬼的手中救出了禾尹仁，但禾尹仁表示山魈鬼王极为厉害，而且盛怒之下的山魈鬼王很有可能直接找上禾泓渊，尽速赶回禾家马帮通报这件事吧。"
-    translated: "Due to Wei Yunren's disappearance, the conflict between the mother and daughter of the Wei family has deepened. According to Ye Jinhuang, Wei Yunren was originally captured by Wei Hongyuan's rival, Shan Xiao Egui. Now that you have rescued Wei Yunren from the hands of Shan Xiao Egui, Wei Yunren stated that the Elder Demon King is very powerful and, in his rage, is likely to directly seek out Wei Hongyuan. Hurry back to Wei Family Horse Gang to report this matter"
+    translated: "Due to He Yinren's disappearance, the conflict between He family father and daughter has deepened. According to Ye Jinhong, He Yinren was originally captured by Shan Suai'egui, an enemy of He Hongyuan. Now that you have rescued He Yinren from Shan Suai'egui's hands, He Yinren stated that the Mountain Demon King is extremely powerful. Moreover, when angered, the Mountain Demon King might directly confront He Hongyuan. Hurry back to report this matter to the He family Horse Gang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7050,7 +7050,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "司徒荆不知发什么神经，突然对山贼起了兴趣，虽然不知道他在打什么主意，不过也不是坏事，就陪他走一趟吧。被抢的马队是叶家马帮的人，咱们就去调查调查吧。"
-    translated: "Situ Jing didn't know what came over him, suddenly taking an interest in the bandits of Mount Bai. Even though he wasn't sure what his plan was, it wasn't a bad thing, so they would accompany him for the trip. The stolen horse team belonged to people from Ye Family's Horse Gang, so they decided to investigate"
+    translated: "Situ Jing suddenly took an interest in the bandits, not knowing what possessed him. He wasn't sure of their intentions, but it wasn't necessarily a bad thing either, so he decided to go along with them. The stolen horses belonged to Ye Jia Horse Gang, so they might as well investigate"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7066,7 +7066,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "司徒荆不知发什么神经，突然对山贼起了兴趣，虽然不知道他在打什么主意，不过也不是坏事，就陪他走一趟吧。被抢的马队是叶家马帮的人，咱们趁着白天人还在去调查调查吧。"
-    translated: "Situ Jing had no idea what came over him, suddenly taking an interest in the mountain bandits. He wasn't sure of his intentions, but it wasn't a bad thing either; he decided to accompany them on this venture. The stolen horses belonged to the Ye Family Horse Gang. They planned to investigate while it was still daylight and people were around"
+    translated: "Situ Jing suddenly took an interest in the bandits, not knowing what was going on in his head. Although he didn't know what plans he had, it wasn't a bad thing to go along with him for a ride. The stolen horse team belonged to Ye Jia's Horse Gang, so let's investigate while there are still people around during the day"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7082,7 +7082,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "司徒荆不知发什么神经，突然对山贼起了兴趣，虽然不知道他在打什么主意，不过也不是坏事。在叶家马帮打听完后，得知是名为疤面鬼煞的山贼首领正在为非作歹。司徒荆似乎对这人很感兴趣，你就当作行侠仗义，带他一起去对付山贼吧。先前往叶家马帮被抢的地方，调查调查吧。"
-    translated: "Situ Jing suddenly took an interest in bandits for no apparent reason, though it wasn't necessarily bad. After inquiring at the Ye Family Horse Gang, he learned that a bandit leader known as Scar-Faced Ghost Blade was causing trouble. Situ Jing seemed quite interested in this man, so you should act heroically and go with him to confront the bandits. First, investigate the location where the Ye Family Horse Gang was ambushed"
+    translated: "Situ Jing suddenly took an interest in bandits, though he didn't know what was going through his head or what he had planned. But it wasn't a bad thing either. After investigating with the Yue Family Horse Gang, they found out that the notorious bandit leader known as Scar-Faced Ghost Marauder was causing trouble. It seemed Situ Jing was quite interested in this person. So, act chivalrously and take him along to confront the bandits. Start by looking into the location where the Yue Family Horse Gang was ambushed"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -7098,7 +7098,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "司徒荆不知发什么神经，突然对山贼起了兴趣，虽然不知道他在打什么主意，不过也不是坏事。在叶家马帮打听完后，得知是名为疤面鬼煞的山贼首领正在为非作歹。来到山中，终于与山贼首领对峙，原来他是当年背叛晏葆川的叛徒，司徒荆花费数年才终于逮到了他，为恩人报仇雪恨。"
-    translated: "Situ Jing had no idea why he suddenly took an interest in the bandits, though he didn't know what he was planning. However, it wasn't necessarily a bad thing. After inquiring with the Ye family Horse Gang, he learned that the leader of the bandits, known as Scarred Fiend, was causing trouble. Upon arriving in the mountains, he finally confronted the bandit leader and discovered he was the traitor who had betrayed Yan Baochuan years ago. It took Situ Jing several years to catch him, allowing him to avenge his benefactor"
+    translated: "Situ Jing suddenly took an interest in bandits for no apparent reason, though he didn't know what they were planning. However, it wasn't necessarily a bad thing. After investigating with the Yue Family Horse Gang, he learned that the bandit leader causing trouble was known as the Scarred Ghost Slayer. In the mountains, he finally confronted the bandit leader and discovered that he was the traitor who had betrayed Yan Baochuan years ago. Situ Jing spent several years tracking him down to avenge his benefactor"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -9786,7 +9786,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "你在茶铺遇见怪老者，他只跟你说，「木府将出乱子」，便随即消失而去。<br>你在客栈借宿了一晚，没想到真的出了大事——现任木氏土司木得，竟被刺杀了！<br>身为木府权力核心的木初与木奎在议事厅共商后事，但两人却是各怀想法，无法达成共识，而远居雪山之上的阿得阿克，似乎正是其中的关键所在……但你的行踪却被侍卫长图勒发现，一战过后，木初出面调停，并邀你进入议事厅共商此事……"
-    translated: "You encounter the strange old man at the teahouse. He only tells you, The family of Mufu will cause trouble, and then promptly disappears<br>You stayed at the inn for one night, not expecting a major incident to occur—the current Mu Clan Head of the Mu Clan Headquarters, Mu De, was assassinated!<br>As the core of the Mu Clan's power, Mu Chu and Mu Kui were unable to reach a consensus after discussing matters in the council chamber, each harboring their own ideas. It seemed that Ade Ake, residing far up in the snowy mountains, was key to this situation. However, your whereabouts were discovered by the Chief Guard Tule after a battle, and Mu Chu stepped in to mediate, inviting you to enter the council chamber to discuss this matter"
+    translated: "You met an eccentric old man at the teahouse, who only told you, The Mu Family is about to cause trouble, and then disappeared immediately<br>You stayed at the inn for one night, not expecting that a major incident would occur—the current head of the Mu Clan Headquarters, Mu De, was actually assassinated!<br>As the power core of the Wu family, Wu Chu and Wu Kui discussed matters in the council chamber after a meeting. However, each harbored their own ideas and could not reach a consensus. It seemed that Ade Ake, who resided far above the snowy mountains, was the key to this matter... But your whereabouts were discovered by the Chief Guard Tule. After a battle, Wu Chu stepped in to mediate and invited you into the council chamber to discuss this matter..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11786,7 +11786,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "于家兄弟不睦，其父留下一幅带有夹层的画作，画中夹层藏有薄绢，似乎暗示铺子里边藏了什么东西…"
-    translated: "Within the family, the brothers are not amicable. Their father left behind a painting with a hidden compartment that contained thin silk. It seems to suggest that something is concealed inside the shop"
+    translated: "The brothers of the Yu family were not on good terms, and their father left behind a scroll with an interleaf. Inside the interleaf was a thin silk that seemed to hint there might be something hidden in the shop"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11818,7 +11818,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "依照词面推测，似乎是在于家铺子的地板下头藏着什么东西，不妨前往翻看，兴许能有进一步的线索。"
-    translated: "According to the literal interpretation, it seems that something is hidden under the floor of the family shop. Let's go and check; perhaps we can find further clues"
+    translated: "According to the wording, it seems that something is hidden beneath the floor of our storehouse. Why not go take a look? Perhaps we can find further clues"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -11994,7 +11994,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "和李叹约好比赛寻宝，谁先找到善人府内的一批关外宝藏就归谁。在苏清瑞的告知下，你知道了其实善人府内还有一座宝库，苏清瑞将苏家家主历代相传的宝库钥匙和告知解开宝库机关的提示做为交换，要你杀了景泰然。首先，先去善人府二楼试试这把钥匙吧。"
-    translated: "And you have agreed with Li Tan to race in a treasure hunt, whoever finds the batch of treasures from beyond the Great Wall within Goodwill Mansion first will claim it. Based on Su Qingrui's tip-off, you learned that there is actually another treasury inside the Goodwill Mansion. In exchange for Su Qingrue giving you the family heirloom key to the treasury and a clue to unlock its mechanism, you are required to kill Jingtai Ran. First, try this key in the second floor of the Goodwill Mansion"
+    translated: "You and Li Tan agreed to compete in a treasure hunt; whoever finds the batch of Outer Region treasures inside Goodwill Mansion first gets them. After being informed by Su Qingrui, you learn that there is actually a treasure vault inside Goodwill Mansion. In exchange for the key to the Su family's ancestral treasure vault and instructions on how to unlock its mechanism, Su Qingrui wants you to kill Jing Tairen. First, try this key at the second floor of Goodwill Mansion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -13892,7 +13892,7 @@
   splits:
   - split: 1
     text: "将家传玉佩还给苏清瑞"
-    translated: "Return the family heirloom jade pendant to Su Qingrui"
+    translated: "Return the ancestral jade pendant to Su Qingrui"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''

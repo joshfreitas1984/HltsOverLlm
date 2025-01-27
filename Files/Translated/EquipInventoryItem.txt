@@ -3572,13 +3572,13 @@
   splits:
   - split: 1
     text: "禾家马帮服"
-    translated: "Huo Family Horse Gang Uniform"
+    translated: "He Family's Horse Gang Obeys"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "禾家马帮帮众服，拆除右袖的设计让帮众驭马更加灵活。"
-    translated: "Huo Family Horse Gang members followed the command to remove the design from their right sleeves, allowing them to handle horses more flexibly"
+    translated: "The members of the Horse Gang under the He Family obeyed and removed the design on their right sleeves, making it easier for them to handle horses more skillfully"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -3588,10 +3588,10 @@
   splits:
   - split: 1
     text: "叶家马帮服"
-    translated: "Ye Family Horse Gang Uniform"
-    flaggedForRetranslation: false
+    translated: "Wearing the Ye Family's Horse Gang attire"
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ''
-    flaggedGlossaryOut: ''
+    flaggedGlossaryOut: Ye Family
   - split: 3
     text: "叶家马帮帮众服，由叶玉龙调整造型设计，无袖小立领设计除了驭马方便，亦可充分展现两臂肌肉线条，实用中增添三分性感。"
     translated: "Ye Jia Horse Gang members' clothing, designed and adjusted by Ye Yulong, features a sleeveless small stand-up collar design. Besides making riding easier, it fully displays the lines of the upper arms, adding an element of sensuality to practical wear"

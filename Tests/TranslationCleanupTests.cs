@@ -155,6 +155,11 @@ public class TranslationCleanupTests
     [Fact]
     public async Task UpdateCurrentTranslatedLines()
     {
+        await UpdateCurrentTranslationLines();
+    }
+
+    public static async Task<int> UpdateCurrentTranslationLines()
+    {
         var config = Configuration.GetConfiguration(workingDirectory);
         var pattern = LineValidation.ChineseCharPattern;
         var totalRecordsModded = 0;
@@ -305,7 +310,7 @@ public class TranslationCleanupTests
             }
 
             totalRecordsModded += recordsModded;
-            var serializer = Yaml.CreateSerializer();            
+            var serializer = Yaml.CreateSerializer();
             if (recordsModded > 0)
             {
                 Console.WriteLine($"Writing {recordsModded} records to {outputFile}");
@@ -314,6 +319,8 @@ public class TranslationCleanupTests
         });
 
         Console.WriteLine($"Total Lines: {totalRecordsModded} records");
+
+        return totalRecordsModded;
     }
 
     [Fact]
