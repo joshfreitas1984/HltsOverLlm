@@ -160,8 +160,7 @@ public class TranslationCleanupTests
     {
         await UpdateCurrentTranslationLines();
     }
-
-
+    
     public static async Task<int> UpdateCurrentTranslationLines()
     {
         var config = Configuration.GetConfiguration(workingDirectory);
@@ -223,7 +222,7 @@ public class TranslationCleanupTests
         bool justReset = false;
         bool cleanWithGlossary = true;
         bool resetFlag = false;
-        //resetFlag = true;
+        resetFlag = true;
         //justReset = true; //Override and just do nothing but reset
 
         // Reset all the retrans flags
@@ -299,6 +298,10 @@ public class TranslationCleanupTests
                 {
                     // If its in the translated
                     if (item.Value == "He Family" && split.Translated.Contains("the family", StringComparison.OrdinalIgnoreCase))
+                        continue;
+
+                    // Handle Quanpai (entire sect)
+                    if (item.Value == "Qingcheng Sect" && split.Text.Contains("青城全派"))
                         continue;
 
                     // If one of the dupes are in the raw
