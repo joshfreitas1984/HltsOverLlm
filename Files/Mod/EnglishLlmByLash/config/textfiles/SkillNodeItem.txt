@@ -1251,7 +1251,7 @@ SkillTree163_002	Refining muscles		19200	SkillTree163_000	[]	Passive	(Physique,6
 SkillTree163_003	Refine one's bones		25600	SkillTree163_000	[]	Passive	(Physique,8)(Neigong,8)	0		0	0	Enemy			Target	0	buffSkillTree163_003	FALSE	0	None	0	0	
 SkillTree164_000	Pure Neigong		6000	skillIcon001_1	[]	Operative		0		0	0	Enemy			Target	0	buffSkillTree164_000	FALSE	0	None	0	0	
 SkillTree164_001	Neigong cultivation		1000	skillIcon001_1	[]	PropertyAdd	(Neigong,1)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree165_000	Profound internal power		9000	skillIcon001_1	[]	Operative		0		0	0	Enemy			Target	0	buffSkillTree165_000	FALSE	0	None	0	0	
+SkillTree165_000	Profound Neigong		9000	skillIcon001_1	[]	Operative		0		0	0	Enemy			Target	0	buffSkillTree165_000	FALSE	0	None	0	0	
 SkillTree165_001	Neigong cultivation		1000	skillIcon001_1	[]	PropertyAdd	(Neigong,1)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree166_000	Common Neigong		3000	skillIcon001_1	[]	Operative		0		0	0	Enemy			Target	0	buffSkillTree166_000	FALSE	0	None	0	0	
 SkillTree166_001	Neigong cultivation		1000	skillIcon001_1	[]	PropertyAdd	(Neigong,1)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	

@@ -2111,15 +2111,15 @@ n40024	Mountain Demon Evil Ghost	ml_idle004	n20264	-1399.38, 130.3, -99.17	-79.7
 n40025	Mountain Demon Evil Ghost	ml_idle004	n20264	-1397.32, 132.01, -102.75	-70.63		FALSE	FALSE						1	0	1	n20161	n40020				{ "LogicalNode" : [ { "QuestCondition" : "Q40008_02", 0, True} , { "QuestCondition" : "Q40008_03", 0, True}  ], 1} 	0
 n40026	Black Tiger	al20007@idle	animal52	913.749, 76.93228, 1298.658	209.475		FALSE	TRUE		v10002		n40026		0	21	0	animal52	n40021				{ "LogicalNode" : [ { "TimeCondition" : 0, 3} , { "QuestCondition" : "Q40017_02", 0, True}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n40026", 0.00000, 0} , { "SetTalkIdAction" : "n4001703066"}  ]} , 10.00000}  ], 0} 
 n40026b	Black Tiger	al20007@idle	animal52	926.2402, 83.6162, 1330.197	72.584		FALSE	FALSE	n4001704031	v10002				0	0	0	animal52	n40021				{ "LogicalNode" : [ { "QuestCondition" : "Q40017", 1, True}  ], 0} 	0
-n40027	Head of bandits on Heart’s Desire Island	ml_idle109	c_m04	0, 0, 0	0		FALSE	FALSE						1		1	n00046	n40022				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40028	Heart’s Desire Island Bandits	m_woodman_stand01	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n19999f	n40023				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40029	Heart’s Desire Island Bandits	ml_idle110	c_m07	0, 0, 0	0		FALSE	FALSE						1		1	n29006	n40024				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40030	Heart’s Desire Island Bandits	ml_idle106	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n29007	n40025				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40031	Heart’s Desire Island Bandits	ml_idle113	c_m16	0, 0, 0	0		FALSE	FALSE						1		1	n29008	n40026				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40032	Heart’s Desire Island Bandits	ml_idle005	c_m18	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40027				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40033	Heart’s Desire Island Bandits	ml_idle005	c_m06	0, 0, 0	0		FALSE	FALSE						1		0	n29009	n40028				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40034	Heart’s Desire Island Bandits	ml_idle010	c_m15	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40029				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40035	Heart’s Desire Island Bandits	ml_idle010	c_m02	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40030				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40027	Heart's Desire Island Bandit Leader	ml_idle109	c_m04	0, 0, 0	0		FALSE	FALSE						1		1	n00046	n40022				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40028	Bandits of Heart's Desire Island	m_woodman_stand01	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n19999f	n40023				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40029	Bandits of Heart's Desire Island	ml_idle110	c_m07	0, 0, 0	0		FALSE	FALSE						1		1	n29006	n40024				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40030	Bandits of Heart's Desire Island	ml_idle106	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n29007	n40025				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40031	Bandits of Heart's Desire Island	ml_idle113	c_m16	0, 0, 0	0		FALSE	FALSE						1		1	n29008	n40026				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40032	Bandits of Heart's Desire Island	ml_idle005	c_m18	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40027				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40033	Bandits of Heart's Desire Island	ml_idle005	c_m06	0, 0, 0	0		FALSE	FALSE						1		0	n29009	n40028				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40034	Bandits of Heart's Desire Island	ml_idle010	c_m15	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40029				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40035	Bandits of Heart's Desire Island	ml_idle010	c_m02	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40030				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
 n40036	Plundered Scripture Bandit Chief	ml_idle110	n20154	0, 0, 0	0		FALSE	FALSE						1	0	1	n20154	n40032				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, True}  ], 0} 	0
 n40037a	Book-stealing bandit	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE						1	0	0	n20154	n40031a				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, True}  ], 0} 	0
 n40037b	Book Thief Bandits	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE						1	0	0	n20154	n40031b				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, True}  ], 0} 	0

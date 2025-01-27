@@ -159,7 +159,7 @@ public class TranslationCleanupTests
         var pattern = LineValidation.ChineseCharPattern;
         var totalRecordsModded = 0;
         bool resetFlag = false;
-        //resetFlag = true;
+        resetFlag = true;
 
         var manual = GetManualCorrections();
         var newGlossaryStrings = new List<string>
