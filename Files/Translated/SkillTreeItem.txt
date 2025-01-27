@@ -612,9 +612,9 @@
   splits:
   - split: 1
     text: "七星剑法"
-    translated: "Qi Xing Jian Fa"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Sword Art
+    translated: "The Seven Stars Sword Art"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "王喆夜观北斗七星所悟出的剑法，将人体周身大穴比作天枢、天璇、天玑、天权、玉衡、开阳、瑶光七星，自身站居北极星之位，以静制动，只待对手出手之际，破绽毕露，自可出剑破之。"
@@ -1028,9 +1028,9 @@
   splits:
   - split: 1
     text: "庖丁解牛刀法"
-    translated: "Paodong's Butcher's Skill in the Way of the Sword"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Blade Art
+    translated: "Paodeng's Butcher's Swordplay"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
   - split: 3
     text: "西蜀珍馐会镇会绝学，乃珍馐会前辈高人自庄子中庖丁为梁惠王解牛之法所创，刀法要诀即在掌握敌手要害，视人为牛，辨明人体骨肉间隙，下刀即可游刃有余，事半功倍，其境界由浅至深共分「所见无非牛」、「未尝见全牛」、「官止而神行」三层，珍馐会门徒多停留于第一层，惟云种火、刁不易邻近第三层，却始终未能有所突破。"
@@ -2010,9 +2010,9 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "江湖上广为流传的内功心法，练至极高境界者，每招发出皆有开碑裂石之劲。"
-    translated: "The internal cultivation method widely known throughout the jianghu is said that when practiced to an extremely high level, every move possesses a power capable of breaking stone pillars"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Neigong
+    translated: "The internal martial arts techniques widely known in the Jianghu are said to be so powerful that when mastered to a high level, each move can unleash strength capable of breaking stone pillars"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 126
   raw: "it30710	热茶神功	it30710	怪老人陆常稽的独门内功，能使冷水加热而成热水。这套内功看似简单，却需要浑厚的内力方能施展。运行时可使暖意渐升，不畏冰寒，此功大成者，可令自身周遭热气蒸腾，驱散刺骨寒意，甚至能令将死之人起死回生。	307	5000	2500	TRUE	1	70	999999	SkillTree147	Less	0	0	0.5	"
@@ -2074,9 +2074,9 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "江湖上广为流传的内功心法，相传是文天祥所传下的练气法门。"
-    translated: "The qi cultivation method that is widely circulated in the jianghu is said to have been passed down by Wen Tianxiang"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Neigong
+    translated: "Within the Jianghu, there is a widely circulated internal cultivation method said to be passed down by Wen Tianxiang. It is an energy practice technique"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 130
   raw: "it30714	腾元功诀	it30714	中原奇人「蓬门老祖」的毕生绝学。	307	5000	2500	TRUE	1	70	999999	SkillTree052	Less	0	0	0.5	"
