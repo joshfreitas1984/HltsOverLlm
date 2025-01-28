@@ -155,6 +155,9 @@ public static class TranslationService
             int recordsProcessed = 0;            
             int bufferedRecords = 0;
 
+            int logProcessed = 0;
+            int logProcessMin = 1000;
+
             for (int i = 0; i < totalLines; i += batchSize)
             {
                 int batchRange = Math.Min(batchSize, totalLines - i);
@@ -193,7 +196,10 @@ public static class TranslationService
                     }
                 }));
 
-                Console.WriteLine($"Line: {i + batchRange} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
+                logProcessed++;
+
+                if (batchSize != 1 || (logProcessed % logProcessMin == 0))
+                    Console.WriteLine($"Line: {i + batchRange} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
 
                 if (bufferedRecords > 250)
                 {
@@ -480,7 +486,7 @@ public static class TranslationService
         messages.Add(LlmHelpers.GenerateUserPrompt(correctionPrompt));
     }
 
-    public static List<object> GenerateBaseMessages(LlmConfig config, string raw)
+    public static List<object> GenerateBaseMessages(LlmConfig config, string raw, string additionalSystemPrompt = "")
     {
         //Dynamically build prompt using whats in the raws
         var basePrompt = new StringBuilder(config.Prompts["BaseSystemPrompt"]);
@@ -492,6 +498,7 @@ public static class TranslationService
         //    basePrompt.AppendLine(config.Prompts["DynamicMarkupPrompt"]);
 
         basePrompt.AppendLine(Glossary.ConstructGlossaryPrompt(raw, config));
+        basePrompt.AppendLine(additionalSystemPrompt);
 
         return
         [

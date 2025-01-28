@@ -1,10 +1,5 @@
 ﻿using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Text.Json;
 using System.Text.RegularExpressions;
-using YamlDotNet.Serialization;
-using YamlDotNet.Serialization.NamingConventions;
 
 namespace Translate.Tests;
 
@@ -49,6 +44,9 @@ public class TranslationCleanupTests
         var config = Configuration.GetConfiguration(workingDirectory);
         var totalRecordsModded = 0;        
         var manual = GetManualCorrections();
+        bool resetFlag = true;
+
+        //Use this when we've changed a glossary value that doesnt check hallucination
         var newGlossaryStrings = new List<string>
         {
             //"梅星河",
@@ -56,15 +54,24 @@ public class TranslationCleanupTests
             //"梅红绮"
         };
 
-        var safeGlossary = new Dictionary<string, string>();
-        Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Names.Entries);
-        Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Factions.Entries);
-        Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Locations.Entries);
-        Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.SpecialTermsSafe.Entries);
-        Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Titles.Entries);
+        var mistranslationCheckGlossary = new Dictionary<string, string>();
+        Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.Names.Entries);
+        Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.Factions.Entries);
+        Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.Locations.Entries);
+        Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.SpecialTermsSafe.Entries);
+        //Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.SpecialTermsUnsafe.Entries); //Not safe can be translated differently
+        Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.Titles.Entries);
+
+        var hallucinationCheckGlossary = new Dictionary<string, string>();
+        Configuration.AddToDictionaryGlossary(hallucinationCheckGlossary, config.GameData.Names.Entries);
+        Configuration.AddToDictionaryGlossary(hallucinationCheckGlossary, config.GameData.Factions.Entries);
+        Configuration.AddToDictionaryGlossary(hallucinationCheckGlossary, config.GameData.Locations.Entries);
+        Configuration.AddToDictionaryGlossary(hallucinationCheckGlossary, config.GameData.SpecialTermsSafe.Entries);
+        //Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.SpecialTermsUnsafe.Entries); //Not safe can be translated differently
+        //Configuration.AddToDictionaryGlossary(hallucinationCheckGlossary, config.GameData.Titles.Entries); //Not safe because of multiple ways to get titles
 
         //var dupeNames = new Dictionary<string, (string key1, string key2)>();
-        var dupeNames = safeGlossary
+        var dupeNames = mistranslationCheckGlossary
             .GroupBy(pair => pair.Value)
             .Where(group => group.Count() > 1)
             .ToDictionary(
@@ -75,8 +82,7 @@ public class TranslationCleanupTests
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             int recordsModded = 0;
-            bool resetFlag = true;
-
+            
             foreach (var line in fileLines)
                 foreach (var split in line.Splits)
                 {
@@ -84,7 +90,7 @@ public class TranslationCleanupTests
                     if (resetFlag)
                         split.ResetFlags();
 
-                    if (CheckSplit(newGlossaryStrings, manual, split, outputFile, safeGlossary, dupeNames, config))
+                    if (CheckSplit(newGlossaryStrings, manual, split, outputFile, hallucinationCheckGlossary, mistranslationCheckGlossary, dupeNames, config))
                         recordsModded++;
                 }
 
@@ -107,9 +113,8 @@ public class TranslationCleanupTests
     //TODO: Duan Meng?
     //TODO: Lan yu
     //TODO: Fix {name} brother
-
     public static bool CheckSplit(List<string> newGlossaryStrings, Dictionary<string, string> manual, TranslationSplit split, string outputFile,
-        Dictionary<string, string> safeGlossary, Dictionary<string, List<string>> dupeNames, LlmConfig config)
+        Dictionary<string, string> hallucinationCheckGlossary, Dictionary<string, string> mistranslationCheckGlossary,  Dictionary<string, List<string>> dupeNames, LlmConfig config)
     {
         var pattern = LineValidation.ChineseCharPattern;
         bool modified = false;
@@ -161,57 +166,11 @@ public class TranslationCleanupTests
             return false;
 
         //////// Manipulate split from here
-
-        // Glossary Clean up - this won't check our manual jobs
         if (cleanWithGlossary)
-        {            
-            foreach (var item in safeGlossary)
-            {
-                var wordPattern = $"\\b{item.Value}\\b";
-
-                if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
-                {
-                    //Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
-                    split.FlaggedForRetranslation = true;
-                    split.FlaggedGlossaryIn += item.Value + ",";
-                    modified = true;
-                    continue; // Keep going through glossary checks
-                }
-                else
-                if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
-                {
-                    //If we dont word match - ie matched He Family in the family
-                    if (!Regex.IsMatch(split.Translated, wordPattern, RegexOptions.IgnoreCase))
-                        continue;
-
-                    // Handle Quanpai (entire sect)
-                    if (item.Value == "Qingcheng Sect" && split.Text.Contains("青城全派"))
-                        continue;
-
-                    // If one of the dupes are in the raw
-                    if (dupeNames.TryGetValue(item.Value, out List<string>? dupes))
-                    {
-                        bool found = false;
-                        foreach (var dupe in dupes)
-                        {
-                            if (split.Text.Contains(dupe))
-                            {
-                                found = true;
-                                break; // No more dupe names
-                            }
-                        }
-
-                        if (found)
-                            continue; // Keep going through glossary checks
-                    }
-
-                    //Console.WriteLine($"Hallucinated:{outputFile}\n{item.Value}\n{split.Translated}");
-                    split.FlaggedForRetranslation = true;
-                    split.FlaggedGlossaryOut += item.Value + ",";
-                    modified = true;
-                    continue; // Keep testing glossary
-                }
-            }
+        {
+            // Glossary Clean up - this won't check our manual jobs
+            modified = CheckMistranslationGlossary(split, mistranslationCheckGlossary, modified);
+            modified = CheckHallucinationGlossary(split, hallucinationCheckGlossary, dupeNames, modified);
         }
 
         if (checkCommonMistakes)
@@ -271,7 +230,70 @@ public class TranslationCleanupTests
         }
 
         return modified;
-    }    
+    }
+
+    private static bool CheckMistranslationGlossary(TranslationSplit split, Dictionary<string, string> glossary, bool modified)
+    {
+        if (split.Translated == null)
+            return modified;
+
+        foreach (var item in glossary)
+        {
+            if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
+            {
+                //Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
+                split.FlaggedForRetranslation = true;
+                split.FlaggedGlossaryIn += item.Value + ",";
+                modified = true;
+            }
+        }
+
+        return modified; // Will be previous value - even if it didnt find anything
+    }
+
+    private static bool CheckHallucinationGlossary(TranslationSplit split, Dictionary<string, string> glossary, Dictionary<string, List<string>> dupeNames, bool modified)
+    {
+        if (split.Translated == null)
+            return modified;
+
+        foreach (var item in glossary)
+        {
+            var wordPattern = $"\\b{item.Value}\\b";
+
+            if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
+            {
+                //If we dont word match - ie matched He Family in the family
+                if (!Regex.IsMatch(split.Translated, wordPattern, RegexOptions.IgnoreCase))
+                    continue;
+
+                // Handle Quanpai (entire sect)
+                if (item.Value == "Qingcheng Sect" && split.Text.Contains("青城全派"))
+                    continue;
+
+                // If one of the dupes are in the raw
+                bool found = false;
+                if (dupeNames.TryGetValue(item.Value, out List<string>? dupes))
+                {
+                    foreach (var dupe in dupes)
+                    {
+                        found = split.Text.Contains(dupe);
+                        if (found)
+                            break;
+                    }
+                }
+
+                if (!found)
+                {
+                    //Console.WriteLine($"Hallucinated:{outputFile}\n{item.Value}\n{split.Translated}");
+                    split.FlaggedForRetranslation = true;
+                    split.FlaggedGlossaryOut += item.Value + ",";
+                    modified = true;
+                }
+            }
+        }
+
+        return modified; // Will be previous value - even if it didnt find anything
+    }
 
     [Fact]
     public async Task MatchRawLines()

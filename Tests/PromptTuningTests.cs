@@ -96,7 +96,38 @@ public class PromptTuningTests
             .GetString()
             ?.Trim() ?? string.Empty;
 
-        File.WriteAllText($"{workingDirectory}/TestResults/OptimisePrompt.txt", result);
+        File.WriteAllText($"{workingDirectory}/TestResults/1.MinimisePrompt.txt", result);
+    }
+
+    [Fact]
+    public async Task ExplainPrompt()
+    {
+        var config = Configuration.GetConfiguration(workingDirectory);
+
+        // Create an HttpClient instance
+        using var client = new HttpClient();
+        client.Timeout = TimeSpan.FromSeconds(300);
+
+        // Prime the Request
+
+        List<object> messages = TranslationService.GenerateBaseMessages(config, "这是我们的家事，难道少侠当真要插手到底？", "Explain your reasoning in a <think> tag at the end of the response. Also explain how and if the glossary was used. ");
+
+        // Generate based on what would have been created
+        var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
+
+        // Send correction & Get result
+        HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
+        HttpResponseMessage response = await client.PostAsync(config.Url, content);
+        response.EnsureSuccessStatusCode();
+        string responseBody = await response.Content.ReadAsStringAsync();
+        using var jsonDoc = JsonDocument.Parse(responseBody);
+        var result = jsonDoc.RootElement
+            .GetProperty("message")!
+            .GetProperty("content")!
+            .GetString()
+            ?.Trim() ?? string.Empty;
+
+        File.WriteAllText($"{workingDirectory}/TestResults/2.ExplainPrompt.txt", result);
     }
 
     [Fact]
@@ -184,6 +215,6 @@ public class PromptTuningTests
         foreach (var line in testLines)
             results.Add($"From: {line.Raw}\nTo: {line.Trans}\n");
 
-        File.WriteAllLines($"{workingDirectory}/TestResults/AllPromptsTest.txt", results);
+        File.WriteAllLines($"{workingDirectory}/TestResults/0.PromptTest.txt", results);
     }
 }

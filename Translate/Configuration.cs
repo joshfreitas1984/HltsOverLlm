@@ -69,7 +69,7 @@ public static class Configuration
             Locations = GetGameData($"{workingDirectory}/Game/Locations.yaml", yaml),
             SpecialTermsSafe = GetGameData($"{workingDirectory}/Game/SpecialTermsSafe.yaml", yaml),
             SpecialTermsUnsafe = GetGameData($"{workingDirectory}/Game/SpecialTermsUnsafe.yaml", yaml),
-            //Titles = GetGameData($"{workingDirectory}/Game/Titles.yaml", yaml),
+            Titles = GetGameData($"{workingDirectory}/Game/Titles.yaml", yaml),
         };
 
         return result;

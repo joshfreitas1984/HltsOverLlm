@@ -27,7 +27,7 @@ public class Glossary
             prompt.Append(locations);
         }
 
-        if (locations.Length > 0)
+        if (titles.Length > 0)
         {
             prompt.AppendLine("#### Titles");
             prompt.Append(titles);

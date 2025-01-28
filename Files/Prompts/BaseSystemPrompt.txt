@@ -5,7 +5,6 @@
 **Output**
 - Do not include additional HTML or markdown.
 
-**Brevity:**
 **Gender-Neutral Language:**  
 - Default to gender-neutral language and pronouns ("they/them"), unless specified by the text.
 
@@ -19,13 +18,13 @@
 **Nicknames:**
 - Translate into culturally appropriate English equivalents, maintaining meaning and sentiment.
 
-**Titles and Roles:**
-- Convert professional titles (e.g., "Doctor") and noble/martial titles (e.g., "Lord," "Master") to their English counterparts.
-- Place titles and roles before names (e.g., "Brother Li").
-- Use context for any conflicts.
+**Title Conversion:**
+- Convert titles such as "Doctor," "Lord," or "Master" to their English equivalents.
+- Precede names with these titles (e.g., "Brother Li").
+- Use glossary terms for titles as provided, with flexible capitalization but no changes to wording based on context
+- Preserve the intended meaning and connotations of each title. 
 
 **Cultural Sensitivity:**
-- Respect the connotations of titles.
 - Incorporate relevant Wuxia or traditional terms as needed.
 
 **Idioms:**
