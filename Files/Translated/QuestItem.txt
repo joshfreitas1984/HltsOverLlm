@@ -5130,9 +5130,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "周益的心里有没有邵如珏…邵如珏又将如何面对周益的反应？邵如珏表示，她会在每天清晨子时等待周益，直到周益赴约为止。地点就在淘石帮主府外的河岸，记得一探究竟！"
-    translated: "Does Zhou Yi have any thoughts about Shao Rujue? How will Shao Rujue react to Zhou Yi's response? Shao Rujue declares that she will wait for Zhou Yi every morning at midnight outside the Taoshi Gang Guildmaster's Manor by the riverbank, until Zhou Yi arrives as promised. Be sure to check it out!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Taoshi Gang Leader's Manor,"
+    translated: "Is there any thought of Zhao Ruji in Zhou Yi's mind? How will Zhao Ruji face Zhou Yi's reaction? Zhao Ruji declares that she will wait for Zhou Yi every morning at midnight by the riverbank outside the Taoshi Gang Leader's Manor until Zhou Yi arrives. Do not miss this chance to find out!"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 321
   raw: "Q30004_05	落花奈何	1	落花有意，流水无情，回去和邵如珏谈谈吧。如果还没和周行恒说明状况，也要记得向他回复邵如珏的对他的想法呀。	0	FALSE	0	-350.97,67.32,-1090.28	TRUE		300	(Reputation,1)	1"
@@ -11498,9 +11498,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "在漱玉矶遇到淘石帮总管天哥打伤了隶属于玉坊的赵掌柜父子，让你目睹了淘石帮在漱玉矶为所欲为的情状，也由邵谦口中约略得知了淘石帮的来龙去脉。<br>应玉坊老板邵谦之请，调查淘石帮副帮主周益的下落。在毫无头绪的状况下，或许可以先想法子混进淘石帮主府，看看有没有什么线索。"
-    translated: "At Gleaming Jade Beach, you encountered the Taoshi Gang's head, Tian Ge, who had injured the father and son owners of Jade Hall. You witnessed how the Taoshi Gang acted with impunity at Gleaming Jade Beach. You also learned about the background of the Taoshi Gang through Sha Qian<br>Upon the request of the Jade Hall boss Shao Qian, investigate the whereabouts of the Taoshi Gang Vice Guildmaster Zhou Yi. With no leads in sight, it might be wise first to figure out how to infiltrate the Taoshi Gang Guildmaster's Manor and see if there are any clues"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Taoshi Gang Leader's Manor,"
+    translated: "At Gleaming Jade Beach, you encountered the leader of the Taoshi Gang, Tian Ge, who injured the father and son innkeepers affiliated with Jade Hall. This gave you a firsthand look at how the Taoshi Gang acted recklessly in Gleaming Jade Beach. You also learned about the background of the Taoshi Gang from Shao Qian<br>Upon the request of Mr. Shao Qian, the manager of Jade Hall, investigate the whereabouts of Taoshi Gang's Deputy Leader Zhou Yi. In a situation with no leads, it might be wise to first find a way to infiltrate the Taoshi Gang Leader's Manor and see if there are any clues"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 719
   raw: "Q60009_04	找陶文才取得软筋散解药	1	在漱玉矶遇到淘石帮总管天哥打伤了隶属于玉坊的赵掌柜父子，让你目睹了淘石帮在漱玉矶为所欲为的情状，并应玉坊老板邵谦之请，调查淘石帮副帮主周益的下落。<br>不过虽是找到了周益，他却给人下了软筋散四肢无力，并且无法提起内劲。周益表示，解药恐怕得想办法从陶文才身上取得，你得设法取来解药以取信于周益。	0	FALSE	0	-436.474, 67.28941, -1126.501	TRUE		600	(Reputation,3)	141"
@@ -11540,15 +11540,15 @@
   splits:
   - split: 1
     text: "回战淘石帮主府"
-    translated: "Return to the Taoshi Gang Guildmaster's Manor"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Taoshi Gang Leader's Manor,"
+    translated: "Return to the Taoshi Gang Leader's Manor"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "在漱玉矶遇到淘石帮总管天哥打伤了隶属于玉坊的赵掌柜父子，让你目睹了淘石帮在漱玉矶为所欲为的情状，并应玉坊老板邵谦之请，调查淘石帮副帮主周益的下落。不过虽是找到了周益，他却给人下了软筋散四肢无力，并且无法提起内劲。<br>好不容易取得解药取信于周益后，他化开药力需要一点时间带你冲出了矿坑，如今他已先一步进去淘石帮主府了，你也赶紧过去和他会合吧。"
-    translated: "At Gleaming Jade Beach, I encountered Taoshi Gang's Chief Tian Ge who injured the son and father of Zhao Shopkeeper, who were affiliated with Jade Hall. This allowed me to witness the unrestrained behavior of the Taoshi Gang at Gleaming Jade Beach. Subsequently, upon request from Jade Hall's boss Shao Qian, I investigated the whereabouts of Taoshi Gang's Vice Chief Zhou Yi. Although I found Zhou Yi, he had been poisoned and rendered powerless with a drug that weakened his muscles and prevented him from gathering inner strength<br>It was not easy to obtain the antidote and gain the trust of Zhou Yihou. He needs some time to activate the potion's power before we can escape from the mine shaft. By now, he has already gone ahead into Taoshi Gang Guildmaster's Manor. You should hurry over there and meet up with him"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Taoshi Gang Leader's Manor,"
+    translated: "At Gleaming Jade Beach, I encountered Taoshi Gang's Chief Tian Ge who injured the father and son of Zhao, who were affiliated with Jade Hall. This incident revealed how the Taoshi Gang acted recklessly at Gleaming Jade Beach. Following the request of Jade Hall's boss Shao Qian, I was tasked to investigate the whereabouts of Taoshi Gang's Vice Chief Zhou Yi. Although I found Zhou Yi, he had been poisoned with Ruohan San, rendering his limbs powerless and unable to muster internal energy<br>It wasn't easy to obtain the antidote and earn Wei Yihou's trust. He needs some time for the medicine to take effect before we can exit the mine shaft. He has already gotten ahead and entered the Taoshi Gang Leader's Manor. You should hurry over there to join him"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 722
   raw: "Q60009_07	将软筋散解药交给周益	1	在漱玉矶遇到淘石帮总管天哥打伤了隶属于玉坊的赵掌柜父子，让你目睹了淘石帮在漱玉矶为所欲为的情状，并应玉坊老板邵谦之请，调查淘石帮副帮主周益的下落。<br>不过虽是找到了周益，他却给人下了软筋散四肢无力，并且无法提起内劲。得到解药后，将解药交给周益吧。	0	FALSE	0	-541.1844, 119.552, -1294.735	TRUE		600	(Reputation,3)	241"

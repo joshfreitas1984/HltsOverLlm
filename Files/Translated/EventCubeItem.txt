@@ -37284,9 +37284,9 @@
   splits:
   - split: 1
     text: "淘石帮主府的床榻"
-    translated: "The bed at the Taoshi Gang Guildmaster's Manor"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Taoshi Gang Leader's Manor,"
+    translated: "The bed in the Taoshi Gang Leader's Manor"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 3729
   raw: "s60071-08	淘石帮主府的床榻	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Bed/bed_003_B.prefab	None	-398.967, 67.33324, -1112.7	1, 1, 1	1, 1, 1	0, 55.26896, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60009\", 1, True}  ], 0} 	0	0"
@@ -37294,9 +37294,9 @@
   splits:
   - split: 1
     text: "淘石帮主府的床榻"
-    translated: "The bed at the Taoshi Gang Guildmaster's Manor"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Taoshi Gang Leader's Manor,"
+    translated: "The bed in the Taoshi Gang Leader's Manor"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 3730
   raw: "s60071-09	淘石帮任务后烤鱼盘	MouseEventBox	Resources_Art/Art3D/Food/fish_plate.prefab	None	-410.6715, 68.38029, -1106.169	1, 1, 1	0.3, 0.3, 0.3	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60009\", 1, True} , { \"TimeCondition\" : 18, 23}  ], 0} 	0	0"

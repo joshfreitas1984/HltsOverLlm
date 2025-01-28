@@ -54,9 +54,9 @@
   splits:
   - split: 1
     text: "淘石帮主府"
-    translated: "Taoshi Gang Guildmaster's Manor"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Taoshi Gang Leader's Manor,"
+    translated: "Taoshi Gang Leader's Manor"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 6
   raw: "ar00003	鹰猎人聚落	-1237.1, 189.1, -786.2	0, 0, 0	140, 25, 115	J2007.wav	t03	False	False	Village"

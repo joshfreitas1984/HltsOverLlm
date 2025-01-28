@@ -171,7 +171,7 @@ public class TranslationCleanupTests
 
                 if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
                 {
-                    Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
+                    //Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
                     split.FlaggedForRetranslation = true;
                     split.FlaggedGlossaryIn += item.Value + ",";
                     modified = true;
@@ -183,10 +183,6 @@ public class TranslationCleanupTests
                     //If we dont word match - ie matched He Family in the family
                     if (!Regex.IsMatch(split.Translated, wordPattern, RegexOptions.IgnoreCase))
                         continue;
-
-                    // If its in the translated
-                    //if (item.Value == "He Family" && split.Translated.Contains("the family", StringComparison.OrdinalIgnoreCase))
-                    //    continue;
 
                     // Handle Quanpai (entire sect)
                     if (item.Value == "Qingcheng Sect" && split.Text.Contains("青城全派"))
@@ -209,7 +205,7 @@ public class TranslationCleanupTests
                             continue; // Keep going through glossary checks
                     }
 
-                    Console.WriteLine($"Hallucinated:{outputFile}\n{item.Value}\n{split.Translated}");
+                    //Console.WriteLine($"Hallucinated:{outputFile}\n{item.Value}\n{split.Translated}");
                     split.FlaggedForRetranslation = true;
                     split.FlaggedGlossaryOut += item.Value + ",";
                     modified = true;
