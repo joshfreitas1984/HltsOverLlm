@@ -1115,7 +1115,7 @@ nick041buff	Throwing apples to a young man	During battle, allied female teammate
 nick042buff	Reborn Mad Swordsman	Each time an attack is made from the target's front, there is a 25% chance to accumulate 10 points of joint manipulation on the target; each time an attack is made from the target's side or back, there is a 25% chance for the attacker to accumulate 10 points of confusion	0	nickname	0	TRUE	0	FALSE	0	0		nick042
 nick043buff	After the fact	Body constitution increases by 10 points; and each time the negative status value of oneself increases, the increase is reduced by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick043
 nick044buff	Wulin insiders	Your martial arts power increases as your level grows	0	nickname	0	TRUE	0	FALSE	0	0		nick044
-nick046buff	Heluo Great Heros	Your offensive and defensive skills will improve as your reputation in the jianghu increases	0	nickname	0	TRUE	0	FALSE	0	0		bnick046
+nick046buff	Heluo Great Heros	Your attack and defense skills will improve as your Jianghu reputation increases	0	nickname	0	TRUE	0	FALSE	0	0		bnick046
 nick084buff	To hit a target with an arrow from one hundred paces away	Arrows increase damage by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick084
 nick085buff	North Peak Grey Eagle	Bow and arrow damage increased by 20%	0	nickname	0	TRUE	0	FALSE	0	0		nick085
 nick086buff	Yu Long Fei Ying	Bow and arrow damage increased by 25%; when Ade Ake is in the team, your bow and arrow damage with Ade Ake further increases by an additional 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick086

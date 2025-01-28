@@ -18244,9 +18244,9 @@
   splits:
   - split: 1
     text: "进山洞救梅小青"
-    translated: "Enter the cave to save Mei Xiaoqing"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Mei Xiaoqinq
+    translated: "Enter the cave to rescue Mei Xiaoqing"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 1825
   raw: "m60246	？？？	MouseEventBox		Survey	-24.02, 172.198, -1029.226	1, 1, 1	1, 1, 1	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10004\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6024601000\"}  ]} 	0"

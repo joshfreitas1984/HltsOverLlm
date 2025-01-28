@@ -1802,7 +1802,7 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "在孔金舍命相救下，总算是惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。在协助解决了蛇窟的问题后，梅村长派出的乡勇邀请你一同搜索徐暇客的下落。<br>跟着乡勇前往集合处，却想不到乡勇之中竟混入了豹王寨的流寇，根据他们供出的情报，梅小青被他们绑到了后山山洞，村中乡勇不知还藏着多少内应，为免打草惊蛇，此刻当先前往后山山洞营救梅小青。"
-    translated: "In the end, with Kong Jin risking his life to save them, they narrowly escaped from the Holy Sanctuary. However, now isolated and outnumbered, they must follow Kong Jin's previous plan and head to Arched Stone Village to find Southern Leisure, who is also from the Heluo clan. But it seems that because Southern Leisure owed money for wine, he was taken by the village chief but had already escaped on his own. After helping resolve the snake den issue, the Village Chief Mei sent local militia to invite you to join in searching for Xu Xiake's whereabouts<br>Following the militia to the gathering point, they didn't expect that among the militia there were bandits from Panther King Camp mixed in. Based on their confessions, Mei Xiaoqinq was tied up in a cave at the back mountain by them. The village militia might still have many collaborators hiding within. To avoid alarming the enemy prematurely, they decided to proceed first to rescue Mei Xiaoqinq from the cave on the back mountain"
+    translated: "Thanks to Kong Jin risking his life to save me, I managed to narrowly escape from the Holy Sanctuary. Now alone and vulnerable, with enemies everywhere, I can only follow Kong Jin's plan to go to Arched Stone Village and find Southern Leisure, who is also from the Heluo clan. However, it seems that Southern Leisure has already escaped after being captured by the village chief for owing some drinking money. After helping resolve the Snake Cave issue, the militia sent out by Village Chief Mei invites you to help search for Xu Xiake<br>Following the militia, they headed to the gathering place but did not expect that there were bandits from Panther King Camp among them. According to their confession, Mei Xiaoqing was tied up in a cave in the back mountain. There could be many traitors within the village; to avoid alarming any accomplices, they decided to head to the back mountain cave first to rescue Mei Xiaoqing"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -1818,9 +1818,9 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "在孔金舍命相救下惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。在协助解决了蛇窟的问题后，却想不到梅村长派出的乡勇竟混入了豹王寨的流寇。<br>成功救回梅小青，村民大会将在拱石村村长屋子前的空地召开，立马赶回拱石村揭发梅星河吧！"
-    translated: "In a daring rescue by Kong Jin, they narrowly escaped the Holy Sanctuary but now find themselves alone and vulnerable against unknown enemies. They can only follow Kong Jin's previous plan to seek out Southern Leisure from Arched Stone Village, who is also from the Heluo clan. However, it seems that Southern Leisure had run away after being detained at the village chief's place for owing a drinking debt. After helping resolve the snake pit issue, they didn't expect the village militia sent by Chief Mei to have infiltrated among the bandits of Panther King Camp<br>Having successfully rescued Mei Xiaoqing, the village meeting will be held in front of the village chief's house at Arched Stone Village. Hurry back to Arched Stone Village and expose Mei Xinghe!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Village Chief Mei
+    translated: "In a dangerous escape from the Holy Sanctuary thanks to Kong Jin sacrificing himself, Kong is now alone and at a disadvantage, facing enemies in the shadows. He can only follow Kong Jin's previous plan and head to Arched Stone Village to find Southern Leisure, another member of the Heluo clan. However, it seems that Southern Leisure, due to owing money for wine, was taken to the village chief but had already escaped on his own. After helping resolve the Snake Den issue, they were surprised to discover that the village militia sent by Village Chief Mei had infiltrated the bandits at Panther King Camp<br>Having successfully rescued Mei Xiaoqing, the village meeting will be held at the open space in front of the Village Chief's House in Arched Stone Village. Hurry back to Arched Stone Village and expose Mei Xinghe right away!"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 114
   raw: "Q10002_08	前往漱玉矶	1	在孔金舍命相救下惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。在协助解决了蛇窟的问题后，却想不到梅村长派出的乡勇竟混入了豹王寨的流寇。<br>成功救回了梅小青，并且在村民大会中阻止了梅星河的阴谋后，小青表示南闲似乎已经前往漱玉矶，赶紧动身往漱玉矶找出南闲的下落吧！	0	FALSE	0	-406.3332, 70.08, -1069.906	TRUE		300	(Reputation,1)	1"
@@ -1834,9 +1834,9 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "在孔金舍命相救下惊险逃出了圣堂，但如今势单力孤，敌暗我明，只能按照孔金之前的计划，前往拱石村寻找同为河洛一族的南闲。然而南闲似乎因为拖欠了酒钱，被押到村长那里却又早已自行逃脱。在协助解决了蛇窟的问题后，却想不到梅村长派出的乡勇竟混入了豹王寨的流寇。<br>成功救回了梅小青，并且在村民大会中阻止了梅星河的阴谋后，小青表示南闲似乎已经前往漱玉矶，赶紧动身往漱玉矶找出南闲的下落吧！"
-    translated: "In the dangerous escape from the Holy Sanctuary, thanks to Kong Jin risking his life to rescue him, he now finds himself alone and powerless, with enemies everywhere. He can only follow Kong Jin's previous plan and go to Arched Stone Village to find Southern Leisure, who is also from the Heluo clan. However, it seems that because Southern Leisure has been delaying payment of his drinking money, he was taken to the village chief but had already escaped on his own. After resolving the snake den issue, he didn't expect that the villagers sent by Village Chief Mei had infiltrated the bandits at Panther King Camp<br>After successfully rescuing Mei Xiaoqing and thwarting Meixinghe's plot at the village meeting, Xiaoqing says that it seems Nanxian has headed to Gleaming Jade Beach. Hurry over to Gleaming Jade Beach to find out where Nanxian is!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Mei Xinghe
+    translated: "In a daring escape from the Holy Sanctuary with Kong Jin risking his life to save him, he now finds himself alone and vulnerable, with enemies lurking in the shadows. Following Kong Jin's previous plan, he must travel to Arched Stone Village to seek out Southern Leisure, another member of the Heluo tribe. However, it seems that Southern Leisure has fled on his own after being detained by the Village Chief for owing money at a tavern. After resolving the issue with the Snake Den, he could not have anticipated that the village militia dispatched by Village Chief Mei had infiltrated the bandits within Panther King Camp<br>Successfully rescued Mei Xiaoqing, and thwarted Mei Xinghe's plot at the village meeting. Xiaoqing suggested that Southern Leisure seems to have gone to Gleaming Jade Beach, so hurry to Gleaming Jade Beach to find out where Southern Leisure is!"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 115
   raw: "Q10002_09	在漱玉矶中找出南闲的下落	1	???	0	FALSE	0	0	FALSE		300	(Reputation,1)	161"
@@ -14378,9 +14378,9 @@
     flaggedGlossaryOut: ''
   - split: 3
     text: "听梅小青说，她的母亲正在祠堂处与人发生争执。"
-    translated: "Mei Xiaoqing said that her mother was having an argument with someone at the ancestral hall"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: Mei Xiaoqinq
+    translated: "Mei Xiaoqing said that her mother was having a dispute with someone at the family shrine"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
 - lineNum: 899
   raw: "Q80002	抢亲记	0	淘石帮的瘪三敢抢我女人？我定会把他轰至屎渣啊！	0	FALSE	0	0	FALSE		0		1"
