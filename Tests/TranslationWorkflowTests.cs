@@ -14,7 +14,7 @@ public class TranslationWorkflowTests
     public async Task TranslateLines()
     {
         // Brute force it (aka I'm watching something)
-        bool keepCleaning = false;
+        bool keepCleaning = true;
 
         if (keepCleaning)
         {

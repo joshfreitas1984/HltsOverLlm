@@ -942,7 +942,7 @@ BattleSchedule041	Imminent danger	Seeing Li Yanshen's critical situation, awaken
 BattleSchedule042	Unforgiving Power	Hidden buff, when health reaches 70%, triggers a dialogue to restore full health	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule042
 BattleSchedule043	Yang Tianyi gauges hidden buffs through blood quantity	Assess blood level	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule043
 BattleSchedule044	Drunken Butterfly Scale	Unique Poison, accumulates 3 points of poisoning each time it moves	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule044
-BattleSchedule045	Yang Tianyi's blood volume judgment reveals He Boshuo's hidden buff	Assess blood volume before applying buff to He Baisuo	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule045
+BattleSchedule045	Yang Tianyi gauged how much blood He Baishao had left and predicted her hidden buff activation	After assessing blood levels, apply a buff to He Baishao	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule045
 BattleSchedule046	Strength-enhancing potion	Use cultivation techniques to unlock latent potential within, restoring 50% of one's lifeforce and increasing damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule046
 BattleSchedule047	Degradation of morals hidden buff	Morality decreases by two points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule047
 BattleSchedule048	Second Blood Measurement Hidden Judgment Buff	Use blood quantity to judge the conversation	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule048
@@ -974,7 +974,7 @@ BattleSchedule073	Joint Effort to Save the World	Using Heavenly Scriptures secre
 BattleSchedule074	Goat into the mouth of a tiger	Generate hatred towards sheep	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule074
 BattleSchedule075	Revival Buff for The Ten Virtuous Saints' Holy Sanctuary Battle in Xiao Mai	Activate hidden buffs, full health, call teammates	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule075
 BattleSchedule076	Rebirth Buff for Shrimp Mi in the Battle of the Ten Evil Men's Holy Sanctuary	Activate hidden BUFF, blood full, call team member	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule076
-BattleSchedule077	He Baishe's blood quantity judgment hidden BUFF	Hidden Buff	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule077
+BattleSchedule077	He Baishao assesses blood quantity to detect hidden buffs	Hidden Buff	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule077
 BattleSchedule078	Great Anger	Damage increased by 25%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule078
 BattleSchedule079	Enchanting Fragrance	Be poisoned, deplete Neigong by 100 points, accumulate dizziness and confusion each by 50 points; reduce Neigong and Qinggong each by 30 points; unable to use items	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule079
 BattleSchedule080	Wang Zhe activates Qinggong to conceal the BUFF	Hidden Buff, reduce qinggong by 30 points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule080
@@ -1122,7 +1122,7 @@ nick086buff	Yu Long Fei Ying	Bow and arrow damage increased by 25%; when Ade Ake
 nick091	Deadly Hand	This unit's every strike carries deadly poison!	0	nickname	0	TRUE	0	FALSE	0	0		nick091
 nick092	God of Fist	The undefeated master of martial arts, the supreme God of Wulin!	0	nickname	0	TRUE	0	FALSE	0	0		nick092
 nick101	The meaning is that a hundred-legged insect cannot be pinned down; implying that when everyone works together, it's difficult to stop them	Each round increases the evasion rate by 2%, with a maximum increase of 20%	0	nickname	0	TRUE	0	FALSE	0	0		nick101
-nick102buff	Maids of the Jing Fort	Enemies within a 2-unit distance of He Baisha each round accumulate 12 points of poison and 6 points of confusion	0	nickname	0	TRUE	0	FALSE	0	0		nick102buff
+nick102buff	Maids of the Jing Fort	Within a 2-unit distance from He Baishao, enemy units will accumulate 12 poison points and 6 confusion points per turn	0	nickname	0	TRUE	0	FALSE	0	0		nick102buff
 nick103	Iron Tiger Silver Spear	During combat, Black Panther enters the fray; each turn increases its own move damage by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick103
 nick104	A young soldier from Nanzhao	Within a 10-unit radius around Duan Silang, each ally grants him an additional 5% critical hit rate at the start of their turns	0	nickname	0	TRUE	0	FALSE	0	0		nick104
 nick105	Ancient Noble Family	Within a 5-unit radius of Dong Jialuo, enemy forces have their critical strike rate reduced by 15% at the start of each round	0	nickname	0	TRUE	0	FALSE	0	0		nick105

@@ -252,6 +252,7 @@ public class LineValidation
                 result = result[..^1];
 
             result = LineValidation.RemoveDiacritics(result);
+            result = LineValidation.ReplaceIncorrectLowercaseWords(result);
 
             result = LineValidation.EncaseColorsForWholeLines(raw, result);
             result = LineValidation.EncaseSquareBracketsForWholeLines(raw, result);
@@ -443,5 +444,22 @@ public class LineValidation
         }
 
         return stringBuilder.ToString().Normalize(NormalizationForm.FormC);
+    }
+
+    public static string ReplaceIncorrectLowercaseWords(string input)
+    {
+        var words = new Dictionary<string, string>
+        {
+            { "jianghu", "Jianghu" },
+            { "wulin", "Wulin"  }
+        };
+
+        foreach (var word in words)
+        {
+            string pattern = $"\\b{word.Key}\\b"; // \b ensures 'jianghu' is a whole word
+            input = Regex.Replace(input, pattern, word.Value);
+        }
+
+        return input;
     }
 }

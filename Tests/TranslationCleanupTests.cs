@@ -153,7 +153,7 @@ public class TranslationCleanupTests
             //{ "【唉…仔细想想，我也确实没经历过黄裳那桩灭门惨事，如此强要他放下仇恨，他又怎么听得进去呢…】", "Oh... Upon careful thought, I truly haven't experienced the tragedy that befell Huang Shang's family. How can one insist so strongly for him to let go of his hatred and expect him to accept it?" },
             //{ "Hmm... So, she will betray Xiao Meng Ge and join forces with those bandits from Merciless Hall in this Shu region to stir up trouble. The reasons and intentions are quite obvious.", "" },
         };
-    }
+    }    
 
     [Fact]
     public async Task UpdateCurrentTranslatedLines()
@@ -211,6 +211,12 @@ public class TranslationCleanupTests
         return totalRecordsModded;
     }
 
+    //TODOs: Animal sounds
+    //TODO: gongzi / gongzu
+    //TODO: Duan Meng?
+    //TODO: Lan yu
+    //TODO: Fix {name} brother
+    //TODO: Uppercase Wulin and Jianghu
 
     public static bool CheckSplit(List<string> newGlossaryStrings, Dictionary<string, string> manual, TranslationSplit split, string outputFile,
         Dictionary<string, string> safeGlossary, Dictionary<string, List<string>> dupeNames, LlmConfig config)
@@ -222,7 +228,7 @@ public class TranslationCleanupTests
         bool justReset = false;
         bool cleanWithGlossary = true;
         bool resetFlag = false;
-        resetFlag = true;
+        //resetFlag = true;
         //justReset = true; //Override and just do nothing but reset
 
         // Reset all the retrans flags
@@ -276,7 +282,6 @@ public class TranslationCleanupTests
         // Clean up Translations that are already in
         if (string.IsNullOrEmpty(split.Translated))
             return false;
-
 
         //////// Manipulate split from here
 
@@ -376,7 +381,7 @@ public class TranslationCleanupTests
         }
 
         return modified;
-    }
+    }    
 
     [Fact]
     public async Task MatchRawLines()

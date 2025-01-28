@@ -8304,7 +8304,7 @@
   splits:
   - split: 1
     text: "豹王寨梅星河卢小"
-    translated: "Mei Xinghe from Leopard King Camp and Lu Xiaomei"
+    translated: "Panther King Camp, Mei Xinghe Lu Xiao"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -8314,7 +8314,7 @@
   splits:
   - split: 1
     text: "将豹王寨矿坑工人转回原位"
-    translated: "Move the mine workers back to their original positions at Leopard King Camp"
+    translated: "Return the mining pit workers of Panther King Camp to their original positions"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -8334,7 +8334,7 @@
   splits:
   - split: 1
     text: "豹王寨矿坑夺玄铁"
-    translated: "Leopard King Camp Mineshaft Seizes Dark Steel"
+    translated: "The Panther King Camp mines seize the dark steel"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -8344,7 +8344,7 @@
   splits:
   - split: 1
     text: "豹王寨矿坑外遭伏击"
-    translated: "Panther King Fort's mine shaft was ambushed from the outside"
+    translated: "The mine outside Panther King Camp was ambushed"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -18244,9 +18244,9 @@
   splits:
   - split: 1
     text: "进山洞救梅小青"
-    translated: "Enter the cave to rescue Mei Xia Qing"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ''
+    translated: "Enter the cave to save Mei Xiaoqing"
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: Mei Xiaoqinq
     flaggedGlossaryOut: ''
 - lineNum: 1825
   raw: "m60246	？？？	MouseEventBox		Survey	-24.02, 172.198, -1029.226	1, 1, 1	1, 1, 1	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10004\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6024601000\"}  ]} 	0"
@@ -39534,7 +39534,7 @@
   splits:
   - split: 1
     text: "何白芍的血迹"
-    translated: "He Boshuo's bloodstains"
+    translated: "He Baishao's bloodstains"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -39764,7 +39764,7 @@
   splits:
   - split: 1
     text: "豹王寨众的血迹"
-    translated: "The bloodstains from the people of Leopard King Camp"
+    translated: "Traces of blood from the people of Panther King Camp"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
@@ -39774,7 +39774,7 @@
   splits:
   - split: 1
     text: "豹王寨众的血迹"
-    translated: "Traces of blood from the people of Baowang Camp"
+    translated: "Traces of blood from the people of Panther King Camp"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ''
     flaggedGlossaryOut: ''
