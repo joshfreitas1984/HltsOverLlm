@@ -257,7 +257,6 @@ public class LineValidation
             result = LineValidation.EncaseColorsForWholeLines(raw, result);
             result = LineValidation.EncaseSquareBracketsForWholeLines(raw, result);
 
-
             if (string.IsNullOrEmpty(result))
             {
                 Console.WriteLine($"Something Bad happened somewhere: {raw}\n{result}");
