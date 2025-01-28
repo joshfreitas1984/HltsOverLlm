@@ -48,6 +48,12 @@
   context: A term that can refer to literal brothers by birth or metaphorically to close friends or comrades who share a bond similar to familial ties.
   literal: Xiong Di
 
+# Match so wont conflict
+- raw: 小兄弟
+  result: Sworn Brother
+  context: Used to address a younger male peer in a friendly, respectful manner.
+  literal: Xiao Xiong Di
+
 # Honourifics
 - raw: 公子
   result: Young Lord
@@ -64,10 +70,11 @@
   context: Used as a respectful address for married women of noble status or the wife of a high-ranking official.
   literal: Fu Ren
 
-- raw: 姑娘
-  result: Miss
-  context: A respectful yet informal address to young women, often implying youthfulness or elegance.
-  literal: Gu Niang
+# used for girl a lot dont use it
+# - raw: 姑娘
+#   result: Miss
+#   context: A respectful yet informal address to young women, often implying youthfulness or elegance.
+#   literal: Gu Niang
 
 - raw: 师傅
   result: Master

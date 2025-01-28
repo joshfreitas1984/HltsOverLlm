@@ -10,11 +10,19 @@ public class TranslationWorkflowTests
     }
 
     [Fact]
+    public async Task TranslateLinesBruteForce()
+    {
+        await PerformTranslateLines(true);
+    }
+
+    [Fact]
     public async Task TranslateLines()
     {
-        // Brute force it (aka I'm watching something)
-        bool keepCleaning = false;
+        await PerformTranslateLines(false);
+    }
 
+    public async Task PerformTranslateLines(bool keepCleaning)
+    {
         if (keepCleaning)
         {
             int remaining = 9999999;
