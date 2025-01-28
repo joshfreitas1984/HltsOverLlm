@@ -32,6 +32,11 @@ public class GameData
     public DataFormat SpecialTermsSafe { get; set; } = new DataFormat();
     public DataFormat SpecialTermsUnsafe { get; set; } = new DataFormat();
     public DataFormat Titles { get; set; } = new DataFormat();
+
+    // Separate for handling later
+    public DataFormat Placeholder1WithTitles { get; set; } = new DataFormat();
+    public DataFormat Placeholder2WithTitles { get; set; } = new DataFormat();
+    public DataFormat Placeholder1and2WithTitles { get; set; } = new DataFormat();
 }
 
 public static class Configuration
@@ -71,6 +76,28 @@ public static class Configuration
             SpecialTermsUnsafe = GetGameData($"{workingDirectory}/Game/SpecialTermsUnsafe.yaml", yaml),
             Titles = GetGameData($"{workingDirectory}/Game/Titles.yaml", yaml),
         };
+
+        //Add Placeholders with titles
+        foreach (var title in result.Titles.Entries)
+        {
+            result.Placeholder1WithTitles.Entries.Add(new DataLine()
+            {
+                Raw = $"{{name_1}}{title.Raw}",
+                Result = $"{title.Result} {{name_1}}"
+            });
+
+            result.Placeholder2WithTitles.Entries.Add(new DataLine()
+            {
+                Raw = $"{{name_2}}{title.Raw}",
+                Result = $"{title.Result} {{name_2}}"
+            });
+
+            result.Placeholder1and2WithTitles.Entries.Add(new DataLine()
+            {
+                Raw = $"{{name_1}}{{name_2}}{title.Raw}",
+                Result = $"{title.Result} {{name_1}} {{name_2}}"
+            });           
+        }
 
         return result;
     }

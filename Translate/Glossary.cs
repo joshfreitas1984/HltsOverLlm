@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Linq;
+using System.Text;
 
 namespace Translate;
 
@@ -15,10 +16,23 @@ public class Glossary
         var factions = AppendPromptsFor(raw, config.GameData.Factions.Entries);
         var titles = AppendPromptsFor(raw, config.GameData.Titles.Entries);
 
+        var p1titles = AppendPromptsFor(raw, config.GameData.Placeholder1WithTitles.Entries);
+        var p2titles = AppendPromptsFor(raw, config.GameData.Placeholder2WithTitles.Entries);
+        var p1and2titles = AppendPromptsFor(raw, config.GameData.Placeholder1and2WithTitles.Entries);
+
         if (names.Length > 0)
         {
             prompt.AppendLine("#### Character Names");
-            prompt.Append(names);
+            prompt.Append(names);         
+            
+            if (p1titles.Length > 0)
+                prompt.Append(p1titles);
+
+            if (p1and2titles.Length > 0)
+                prompt.Append(p1and2titles);
+            //1 and 2 conflicts
+            else if (p2titles.Length > 0)
+                prompt.Append(p2titles);
         }
 
         if (locations.Length > 0)

@@ -319,7 +319,7 @@ it801006	Mei Fugui's Treasure Bag	it801006	Mei Fugui's bag seems to contain some
 it801007	Unknown Letter	it801007	However, it was just sleeping at the inn and waking up to find an extra letter next to them	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "FieldboardFadeAction" : 1, 1.00000} , { "SetTalkIdAction" : "n6024601003"} ]}
 it801008	Mei family ancestral key	it801008	According to Village Chief Mei, he has given a special key that is said to unlock an ancestral treasure chest	801	0	0	FALSE	3	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "m6024601002"} ]}
 it801009	Mei family ancestral secret box	it801009	The lockbox taken from the Mandala pile can only be opened with the key given by Village Chief Mei. What's inside it is unknown	801	0	0	FALSE	3	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "m6024601005"} ]}
-it801010	Handmade Rice Dumplings	it801010	Have the love-heart dumplings made by Brother Ling delivered to Zhang Junbao as quickly as possible	801	0	0	FALSE	0	50	0	0	0		0			0
+it801010	Handmade Rice Dumplings	it801010	Ling Shuang Jun personally made the heart-shaped dumplings, hurry up and deliver them to Zhang Junbao	801	0	0	FALSE	0	50	0	0	0		0			0
 it801011	A set of keys	it801011	The keys taken from the Zhao family father and son at Jade Hall seem to be able to open some place inside Jade Hall	801	0	0	FALSE	0	50	0	0	0		0			0
 it801012	Black and white interlaced jade	it801012	The quality of the jade stone is poor and inconsistent, but it fortuitously separates into black and white colors	801	0	0	FALSE	0	50	0	0	0		0			0
 it801013	Valuable paintings and calligraphy	it801013	A batch of valuable paintings and calligraphy that can sell for a decent sum	801	0	0	FALSE	1	10	0	0	0		0			0

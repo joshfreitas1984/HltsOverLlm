@@ -61,6 +61,9 @@ public class TranslationCleanupTests
         Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.SpecialTermsSafe.Entries);
         //Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.SpecialTermsUnsafe.Entries); //Not safe can be translated differently
         Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.Titles.Entries);
+        Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.Placeholder1WithTitles.Entries);
+        Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.Placeholder2WithTitles.Entries);
+        Configuration.AddToDictionaryGlossary(mistranslationCheckGlossary, config.GameData.Placeholder1and2WithTitles.Entries);
 
         var hallucinationCheckGlossary = new Dictionary<string, string>();
         Configuration.AddToDictionaryGlossary(hallucinationCheckGlossary, config.GameData.Names.Entries);
@@ -241,6 +244,11 @@ public class TranslationCleanupTests
         {
             if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
             {
+                // Handle placeholders being annoying basically if it caught a {name_2} only when the text has {1} and {2}
+                if (split.Text.Contains("{name_1}{name2_}") && !item.Value.Contains("{name_1}"))
+                    continue;
+
+
                 //Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
                 split.FlaggedForRetranslation = true;
                 split.FlaggedGlossaryIn += item.Value + ",";
