@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Translated\NpcTalkItem.txt~RF125fa4c0.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="TestResults\Failed\" />
     <Folder Include="TestResults\Optimisation\" />
   </ItemGroup>
