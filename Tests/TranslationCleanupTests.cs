@@ -245,7 +245,7 @@ public class TranslationCleanupTests
             if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
             {
                 // Handle placeholders being annoying basically if it caught a {name_2} only when the text has {1} and {2}
-                if (split.Text.Contains("{name_1}{name2_}") && !item.Value.Contains("{name_1}"))
+                if (split.Text.Contains("{name_1}{name_2}") && !item.Value.Contains("{name_1}"))
                     continue;
 
 

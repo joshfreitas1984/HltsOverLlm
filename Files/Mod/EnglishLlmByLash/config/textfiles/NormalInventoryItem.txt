@@ -319,7 +319,7 @@ it801006	Mei Fugui's Treasure Bag	it801006	Mei Fugui's bag seems to contain some
 it801007	Unknown Letter	it801007	However, it was just sleeping at the inn and waking up to find an extra letter next to them	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "FieldboardFadeAction" : 1, 1.00000} , { "SetTalkIdAction" : "n6024601003"} ]}
 it801008	Mei family ancestral key	it801008	According to Village Chief Mei, he has given a special key that is said to unlock an ancestral treasure chest	801	0	0	FALSE	3	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "m6024601002"} ]}
 it801009	Mei family ancestral secret box	it801009	The lockbox taken from the Mandala pile can only be opened with the key given by Village Chief Mei. What's inside it is unknown	801	0	0	FALSE	3	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "m6024601005"} ]}
-it801010	Handmade Rice Dumplings	it801010	Ling Shuang Jun personally made the heart-shaped dumplings, hurry up and deliver them to Zhang Junbao	801	0	0	FALSE	0	50	0	0	0		0			0
+it801010	Handmade Rice Dumplings	it801010	Ling Shuangjun's handmade heart-shaped dumplings, hurry to deliver them to Zhang Junbao	801	0	0	FALSE	0	50	0	0	0		0			0
 it801011	A set of keys	it801011	The keys taken from the Zhao family father and son at Jade Hall seem to be able to open some place inside Jade Hall	801	0	0	FALSE	0	50	0	0	0		0			0
 it801012	Black and white interlaced jade	it801012	The quality of the jade stone is poor and inconsistent, but it fortuitously separates into black and white colors	801	0	0	FALSE	0	50	0	0	0		0			0
 it801013	Valuable paintings and calligraphy	it801013	A batch of valuable paintings and calligraphy that can sell for a decent sum	801	0	0	FALSE	1	10	0	0	0		0			0
@@ -396,7 +396,7 @@ it801086	Golden Elixir	it801085	Red Cinnabar Palace demons combine Daoist intern
 it801087	Unknown remnants	it40240	The six Brothers Tao had some leftover mysterious substance that seemed to resemble a divine medicinal mushroom, but it had an overpowering smell and questionable quality. A normal person wouldn't dare put such a thing in their mouth	811	0	0	FALSE	2	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it801087000"} ]}
 it801088	Fragile old books	it801088	A tattered old book, which A Zheng gave you. Perhaps by carefully studying it, you might find out what kind of book it is	801	100	50	FALSE	1	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "n5001101083"} ]}
 it801089	Boar's tusk	it801089	Boar's tusks look very sharp	801	60	30	FALSE	0	50	0	0	0		0			0
-it801090	Contract of Eternal Enmity	it801090	Ling Shuang Jun wrote the ultimate severance letter in a fit of anger, with every word cutting to the heart	801	0	0	FALSE	0	50	0	0	0		0			0
+it801090	Contract of Eternal Enmity	it801090	Ling Shuangjun wrote the ultimate breakup letter in a fit of anger. Every word was heart-wrenching	801	0	0	FALSE	0	50	0	0	0		0			0
 it801091	Bloody Letter	it801091	The letter entrusted to you by the people of Heaven's Pillar Fort on behalf of Uncle Hong before his death contains matters of great importance, as stated by Uncle Hong	801	0	0	FALSE	0	50	0	0	0		0			0
 it801092	Anti-Poisoning Pill	it801092	Chidang Gong's specially crafted antidote pills require a pill carrier to be effective	801	0	0	FALSE	0	50	0	0	0		0			0
 it801093	Antidote pill recipe	it801093	On a full moon night, the Jade Date Leaves picked are used as the medicinal agent for the detoxifying pills specially made by Chi Dan Palace. They need to be combined with the pill to have an effect	801	0	0	FALSE	0	50	0	0	0		0			0
