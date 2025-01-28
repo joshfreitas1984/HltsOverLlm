@@ -28,7 +28,7 @@ public class TranslationWorkflowTests
             int remaining = 9999999;
             int lastRemaining = remaining;
             int iterations = 0;
-            while  (remaining > 0 && iterations < 10)
+            while  (remaining > 0 && iterations < 30)
             {
                 await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
                 remaining = await TranslationCleanupTests.UpdateCurrentTranslationLines();
