@@ -44,13 +44,13 @@
   literal: Da Jie
 
 - raw: 兄弟
-  result: Sworn Brother
+  result: Brother
   context: A term that can refer to literal brothers by birth or metaphorically to close friends or comrades who share a bond similar to familial ties.
   literal: Xiong Di
 
 # Match so wont conflict
 - raw: 小兄弟
-  result: Sworn Brother
+  result: Little Brother
   context: Used to address a younger male peer in a friendly, respectful manner.
   literal: Xiao Xiong Di
 
@@ -70,12 +70,6 @@
   context: Used as a respectful address for married women of noble status or the wife of a high-ranking official.
   literal: Fu Ren
 
-# used for girl a lot dont use it
-# - raw: 姑娘
-#   result: Miss
-#   context: A respectful yet informal address to young women, often implying youthfulness or elegance.
-#   literal: Gu Niang
-
 - raw: 师傅
   result: Master
   context: Used for an experienced person in a particular skill or trade, similar to master craftsman or teacher.
@@ -85,6 +79,12 @@
   result: Tavern Keeper
   context: The person who manages a tavern or inn, providing food, drink, and lodging for travelers.
   literal: Jiu Bao
+
+# used for girl a lot dont use it
+# - raw: 姑娘
+#   result: Miss
+#   context: A respectful yet informal address to young women, often implying youthfulness or elegance.
+#   literal: Gu Niang
 
 # # Family Titles
 # - raw: 父亲

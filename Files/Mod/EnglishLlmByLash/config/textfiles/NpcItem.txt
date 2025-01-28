@@ -268,11 +268,11 @@ n00081g	Disciple from Qingcheng	m_sleep003_ec		-884.456, 159.5684, 175.345	101.3
 n00081h	Disciple from Qingcheng	m_sleep001_ec		-884.034, 159.5023, 177.156	103.8911		FALSE	FALSE	n0008107000					1	9	2	n70025		n00081h1,n00081h2			0	0
 n00081i	Qingcheng Disciple	m_SplitsFirewood001		-825.989, 157.9538, 183.827	276.5226		FALSE	FALSE	n0008110000					1	9	0			n00081i1,n00081i2			0	0
 n00082	Jie Linren	m_standI00	n70051	-896.02, 158.4015, 179.76	195.0173		TRUE	TRUE	n0008201000	v00187				1	9	0	n00082	n00082	n00082b,n00082c,n00082d			0	0
-n00083	Lei Sangjun	m_standF00	n70050	-821.4991, 159.045, 215.3479	355.7151		FALSE	TRUE	n0008301000	v00188				1	9	1	n00083	n00083	n00083a,n00083b,n00083c			{ "LogicalNode" : [ { "CheckFlagAction" : "f00039", 1, 1} , { "QuestCondition" : "Q40035", 0, False} , { "QuestCondition" : "Q40036", 0, False}  ], 0} 	0
-n00083a	Lei Shuangjun	ml_standA00	n70050	-1107.745, 105.8863, 675.2114	226.7794		TRUE	TRUE		v00188				1	9	0	n00083					{ "LogicalNode" : [ { "QuestCondition" : "Q00020", 1, False}  ], 0} 	0
-n00083b	Lei Shuangjun	ml_standA00	n70050	0, 0, 0	0		TRUE	TRUE		v00188				1	9	0	n00083	n00083				0	0
-n00083c	Lei Sangjun	m_standF00	n70050	-821.4991, 159.045, 215.3479	355.7151		FALSE	TRUE	n0008301000	v00188				1	9	1	n00083	n00083	n00083b,n00083d			0	0
-n00083d	Lin Shuangjun	m_standB00	n70050	-864.5715, 158.3169, 231.6965	51.011		FALSE	TRUE						1	9	1	n00083	n00083				{ "LogicalNode" : [ { "QuestCondition" : "Q40035", 0, True}  ], 0} 	0
+n00083	Ling Shuang Jun	m_standF00	n70050	-821.4991, 159.045, 215.3479	355.7151		FALSE	TRUE	n0008301000	v00188				1	9	1	n00083	n00083	n00083a,n00083b,n00083c			{ "LogicalNode" : [ { "CheckFlagAction" : "f00039", 1, 1} , { "QuestCondition" : "Q40035", 0, False} , { "QuestCondition" : "Q40036", 0, False}  ], 0} 	0
+n00083a	Ling Shuang Jun	ml_standA00	n70050	-1107.745, 105.8863, 675.2114	226.7794		TRUE	TRUE		v00188				1	9	0	n00083					{ "LogicalNode" : [ { "QuestCondition" : "Q00020", 1, False}  ], 0} 	0
+n00083b	Ling Shuang Jun	ml_standA00	n70050	0, 0, 0	0		TRUE	TRUE		v00188				1	9	0	n00083	n00083				0	0
+n00083c	Ling Shuang Jun	m_standF00	n70050	-821.4991, 159.045, 215.3479	355.7151		FALSE	TRUE	n0008301000	v00188				1	9	1	n00083	n00083	n00083b,n00083d			0	0
+n00083d	Ling Shuang Jun	m_standB00	n70050	-864.5715, 158.3169, 231.6965	51.011		FALSE	TRUE						1	9	1	n00083	n00083				{ "LogicalNode" : [ { "QuestCondition" : "Q40035", 0, True}  ], 0} 	0
 n00084	Heart Good Daoist	m_sitLoop007	n70045	-942.162, 163.3628, 207.242	281.8737	6-18	FALSE	TRUE	n0008401000	v00189				1	9	1	n70045	n70045				0	0
 n00085	Old Man	m_standD00		-686.629, 115.8411, 164.914	335.5699	8-18	FALSE	FALSE	n0008501000	v00050				1	0	0	n00085					{ "LogicalNode" : [ { "CheckNpcFlagAction" : "01", 1, 0, "n00085"}  ], 0} 	0
 n00086	Look for Grandma	ml_standA00	c_w02	0, 0, 0	0		FALSE	FALSE	n0008601000	v00198				2	0	0		n00086	n00086a,n00086b,n00086c		(Food,1)(Currency_Stuff,1)(Money,1)	0	0
@@ -2191,7 +2191,7 @@ n40076a	Disciple from Qingcheng	m_kneel003	c_m17	-527.51, 71.33939, 240.8	101.06
 n40076b	Disciple from Qingcheng	m_kneel003	c_m08	-530.296, 71.33939, 239.0753	190.86		FALSE	FALSE						1	9	0	n70027	n40053b				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
 n40076c	Disciple from Qingcheng	m_kneel003	c_m13	-531.8761, 71.33939, 241.5346	266.308		FALSE	FALSE						1	9	0	n70030	n40053c				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
 n40076d	Disciple from Qingcheng	m_kneel003	c_m48	-528.68, 71.33939, 243.36	378.167		FALSE	FALSE						1	9	0	n70023	n40053d				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
-n40077	Lei Sangjun	ml_idle001	n70050	-529.3391, 71.33939, 241.7761	-7.442		FALSE	TRUE						1	9	0	n00083	n00083				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
+n40077	Ling Shuang Jun	ml_idle001	n70050	-529.3391, 71.33939, 241.7761	-7.442		FALSE	TRUE						1	9	0	n00083	n00083				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
 n40078a	Chi Dan Gong Men Ren	ml_idle004	c_m19	-527.4693, 71.553, 246.9458	559.353		FALSE	TRUE						1	10	0	n00100	n40052d				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
 n40078b	Chi Dan Gong Men Ren	ml_idle004	c_m61	-531.86, 71.81527, 245.83	138.897		FALSE	TRUE						1	10	0	n00092a	n40052a				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
 n40078c	Chi Dan Gong Men Ren	ml_idle004	c_m62	-525.19, 71.29234, 243.178	-110.882		FALSE	TRUE						1	10	0	n00092b	n40052b				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0

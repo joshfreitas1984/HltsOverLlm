@@ -103,6 +103,9 @@
   result: Tie Xiaoqing
 - raw: 铁彻天
   result: Tie Chetian
+- raw: 凌霜峻
+  result: Ling Shuang Jun
+
 - raw: 巴大哥
   result: Senior Brother Ba
 - raw: 燕大哥
@@ -111,3 +114,40 @@
   result: Senior Brother Li
 - raw: 阿克大哥
   result: Senior Brother Ake
+
+
+# Place holder stuff
+- raw: "{name_1}前辈"
+  result: "Senior {name_1}"
+- raw: "{name_1}大哥"
+  result: "Senior Brother {name_1}"
+- raw: "{name_1}兄弟"
+  result: "Brother {name_1}"
+- raw: "{name_1}小兄弟"
+  result: Little Brother {name_1}
+- raw: "{name_1}公子"
+  result: "Young Lord {name_1}"
+- raw: "{name_1}大公子"
+  result: "Great Young Lord {name_1}"
+- raw: "{name_1}大侠"
+  result: "Great Hero {name_1}"
+- raw: "{name_1}少侠"
+  result: "Young Hero {name_1}"
+
+- raw: "{name_2}前辈"
+  result: "Senior {name_2}"
+- raw: "{name_2}大哥"
+  result: "Senior Brother {name_2}"
+- raw: "{name_2}兄弟"
+  result: Brother {name_2}
+- raw: "{name_2}小兄弟"
+  result: Little Brother {name_2}
+- raw: "{name_2}公子"
+  result: Young Lord {name_2}
+- raw: "{name_2}大公子"
+  result: "Great Young Lord {name_2}"
+- raw: "{name_2}大侠"
+  result: Great Hero {name_2}
+- raw: "{name_2}少侠"
+  result: Young Hero {name_2}
+
