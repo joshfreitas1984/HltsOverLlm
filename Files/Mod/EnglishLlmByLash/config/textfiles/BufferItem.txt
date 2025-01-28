@@ -916,8 +916,8 @@ BattleSchedule015	Swamp gas pervades	Under the influence of toxic miasma, suffer
 BattleSchedule016	Wounded gravely	Each round increases the severity of external injuries	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule016
 BattleSchedule017	Deep parent-child bond	For the sake of loved ones, fight fiercely with a 30% increase in damage	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule017
 BattleSchedule018	Disaster of Gold and Silver	Inflicted by a money attack, external injuries occurred	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule018
-BattleSchedule019	Don Chunlian supplements blood and judges BUFF	Han Jingtai's blood	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule019
-BattleSchedule020	Regretful Dong Jingxi	Given the urgent situation, Jingtai felt a surge of fighting spirit	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule020
+BattleSchedule019	Don Chunlian supplements blood and judges BUFF	Help Jing Tai Ran recover his blood	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule019
+BattleSchedule020	Regretful Dong Jingxi	Jing Tai Ran's situation was critical, prompting him to unleash his fighting prowess	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule020
 BattleSchedule021	Don Jingxi	Don Chunlian's situation is critical, prompting her to unleash her fighting power	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule021
 BattleSchedule022	Osborne reveals the hidden buff judgment	Explosion results in an additional 40 points of external injury	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule022
 BattleSchedule023	Explosive	Injuries caused by an explosion	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule023
