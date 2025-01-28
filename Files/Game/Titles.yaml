@@ -1,0 +1,253 @@
+﻿
+
+entries:
+# Heroic
+- raw: 大侠
+  result: Great Hero
+  context: context here
+- raw: 少侠
+  result: Young Hero
+- raw: 大英雄
+  result: Legendary Hero
+  context: A title given to a character who embodies exceptional bravery, skill, or virtue, often achieving legendary status within their world.
+  literal: Da Ying Xiong
+
+# Family Titles
+- raw: 父亲
+  result: Father
+  context: A common term for one's father.
+  literal: Fu Qing
+
+- raw: 母亲
+  result: Mother
+  context: A common term for one's mother.
+  literal: Mu Qin
+
+- raw: 儿子
+  result: Son
+  context: Used to refer to a male child in the family.
+  literal: Er Zi
+
+- raw: 女儿
+  result: Daughter
+  context: Used to refer to a female child in the family.
+  literal: Nü Er
+
+- raw: 爷爷
+  result: Grandfather
+  context: Term for one's paternal grandfather.
+  literal: Ye Ye
+
+- raw: 奶奶
+  result: Grandmother
+  context: Refers to one’s paternal grandmother.
+  literal: Nai Nai
+
+- raw: 外公
+  result: Grandfather
+  context: Another term for father's father, used in certain regions.
+  literal: Wai Gong
+
+- raw: 外婆
+  result: Grandmother
+  context: Refers to one’s paternal grandmother, regional variation.
+  literal: Wai Po
+
+- raw: 伯父
+  result: Uncle
+  context: Used for the father's older brother.
+  literal: Bo Fu
+
+- raw: 叔叔
+  result: Uncle
+  context: Used for the father's younger brother.
+  literal: Shu Shu
+
+- raw: 姑姑
+  result: Aunt
+  context: Refers to one’s mother's older sister.
+  literal: Gu Gu
+
+- raw: 外甥
+  result: Nephew
+  context: The term for a male child of one's sibling.
+  literal: Wai Sheng
+
+- raw: 姨妈
+  result: Aunt
+  context: Refers to father’s younger sister; can also mean mother-in-law in some regions.
+  literal: Yi Ma
+
+- raw: 外甥女
+  result: Niece
+  context: The term for a female child of one's sibling.
+  literal: Wai Sheng Nu
+
+- raw: 姐姐
+  result: Older Sister
+  context: Refers to one’s older sister.
+  literal: Jie Jie
+
+- raw: 弟弟
+  result: Younger Brother
+  context: Refers to one’s younger brother.
+  literal: Di Di
+
+- raw: 妹妹
+  result: Younger Sister
+  context: Refers to one’s younger sister.
+  literal: Mei Mei
+
+- raw: 大哥
+  result: Older Brother
+  context: A respectful term used among siblings for the older brother.
+  literal: Da Ge
+
+- raw: 哥哥
+  result: Brother
+  context: Used to refer to or address one's own older brother, often with affection.
+  literal: Ge Ge
+
+- raw: 兄弟
+  result: Brother
+  context: A term that can refer to literal brothers by birth or metaphorically to close friends or comrades who share a bond similar to familial ties.
+  literal: Xiong Di
+
+- raw: 妻子
+  result: Wife
+  context: Used to refer to one's wife in a formal or literary sense.
+  literal: Qi Zi
+
+# Honor tiles
+- raw: 师兄
+  result: Senior
+  context: A term used to address or refer to a senior peer in a martial arts school, who is either older or more experienced than the speaker.
+  literal: Shi Xiong
+
+- raw: 前辈
+  result: Senior / Predecessor / Elder
+  context: A respectful term used to address or refer to someone older, more experienced, or who has achieved certain accomplishments before the speaker.
+  literal: Qian Bei
+
+- raw: 师傅
+  result: Master
+  context: Used for an experienced person in a particular skill or trade, similar to master craftsman or teacher.
+  literal: Shi Fu
+
+- raw: 阁下
+  result: Lord
+  context: A formal and respectful term used when addressing someone of higher status.
+  literal: Ge Xia
+
+- raw: 魔君
+  result: Demon Lord
+  context: A title that can denote a powerful and possibly malevolent ruler with magical or supernatural abilities.
+  literal: Mo Jun
+
+# Society Titles
+- raw: 村长
+  result: Village Chief
+  context: The leader responsible for the governance and welfare of a village.
+  literal: Cun Zhang
+
+- raw: 镇主
+  result: Town Master
+  context: The ruler or most influential person in a town, often overseeing local matters.
+  literal: Zhen Zhu
+
+- raw: 帮主
+  result: Leader
+  context: The head of a martial arts sect or organization within the Wuxia world.
+  literal: Bang Zhu
+
+- raw: 寨主
+  result: Stronghold Master
+  context: The leader in charge of a fortified settlement or base, often providing protection to its inhabitants.
+  literal: Zhai Zhu
+
+- raw: 盟主
+  result: Alliance Leader
+  context: A person who leads a coalition of groups or individuals united for a common purpose.
+  literal: Meng Zhu
+
+- raw: 粮草官
+  result: Quartermaster
+  context: An official responsible for supplying food and provisions to troops or communities.
+  literal: Liang Cao Guan
+
+- raw: 衙役
+  result: Bailiff
+  context: A law enforcement officer in charge of maintaining order, often serving a local magistrate.
+  literal: Ya Yi
+
+- raw: 镖头
+  result: Escort Leader
+  context: The person responsible for leading and protecting an armed escort transporting valuable goods or individuals.
+  literal: Biao Tou
+
+- raw: 织造
+  result: Textile Official
+  context: An official in charge of managing and overseeing the production of textiles, often linked to wealth and trade.
+  literal: Zhi Zao
+
+- raw: 酒保
+  result: Tavern Keeper
+  context: The person who manages a tavern or inn, providing food, drink, and lodging for travelers.
+  literal: Jiu Bao
+
+- raw: 驿丞
+  result: Relay Station Officer
+  context: An official responsible for the operation of relay stations along trade routes or communication lines.
+  literal: Ye Cheng
+
+- raw: 帮众
+  result: Sect Member
+  context: A follower or member belonging to a specific martial arts sect within the Wuxia world.
+  literal: Bang Zhong
+
+- raw: 家丁
+  result: Retainer
+  context: A servant or subordinate who works for a family, often providing protection or other services.
+  literal: Jia Ding
+
+# Titles like young master
+- raw: 少爷
+  result: Young Master
+  context: A respectful term for young males of noble or wealthy families, often seen in historical and fantasy settings.
+  literal: Shao Ye
+
+- raw: 小姐
+  result: Miss
+  context: A formal title used for unmarried women, particularly those from respectable families.
+  literal: Xiao Jie
+
+- raw: 公子
+  result: Young Lord
+  context: Often used to refer to the son of nobility, indicating both status and youth.
+  literal: Gong Zi
+
+- raw: 公主
+  result: Princess
+  context: The daughter of a king or nobleman, indicating royal status and nobility.
+  literal: Gong Zhu
+
+- raw: 少奶奶
+  result: Young Lady
+  context: Used for younger women in the household, often implying respectability and grace.
+  literal: Shao Nai Nai
+
+- raw: 夫人
+  result: Madam
+  context: Used as a respectful address for married women of noble status or the wife of a high-ranking official.
+  literal: Fu Ren
+
+- raw: 幼主
+  result: Young Lord
+  context: Historically used for young princes or heirs apparent, sometimes seen in fantasy settings.
+  literal: You Zhu
+
+- raw: 姑娘子
+  result: Miss
+  context: A respectful yet informal address to young women, often implying youthfulness or elegance.
+  literal: Gu Niang Zi
+

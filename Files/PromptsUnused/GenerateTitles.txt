@@ -1,0 +1,17 @@
+﻿Assuming a Wuxia setting, please give me all variations of Chinese to English translations for: 
+  - titles like young master or young lady
+
+I want you to use the following yaml format to give me your responses:
+```yaml
+entries:
+- raw: 大侠
+  result: Great Hero
+  context: Very short context here
+  literal: Da Xia
+```
+
+- Family titles
+- Honor titles
+- Society titles
+
+- titles like young master or young lady

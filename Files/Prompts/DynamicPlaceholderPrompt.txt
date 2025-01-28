@@ -3,4 +3,3 @@
 - Use `{name_1}` as a surname contextually. 
 - Use `{name_2}` as a first name contextually.
 - Treat `{0}`, `{1}`, `{2}`, `{3}` as objects based on context.
-- Place roles and titles before `{name_1}`, `{name_2}` placeholders (e.g., "Elder Brother {name_1}").

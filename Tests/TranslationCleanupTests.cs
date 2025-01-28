@@ -61,6 +61,7 @@ public class TranslationCleanupTests
         Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Factions.Entries);
         Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Locations.Entries);
         Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.SpecialTermsSafe.Entries);
+        Configuration.AddToDictionaryGlossary(safeGlossary, config.GameData.Titles.Entries);
 
         //var dupeNames = new Dictionary<string, (string key1, string key2)>();
         var dupeNames = safeGlossary
@@ -172,9 +173,9 @@ public class TranslationCleanupTests
                 {
                     Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
                     split.FlaggedForRetranslation = true;
-                    split.FlaggedGlossaryIn = item.Value;
+                    split.FlaggedGlossaryIn += item.Value + ",";
                     modified = true;
-                    break; // Stop checking glossary
+                    continue; // Keep going through glossary checks
                 }
                 else
                 if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
@@ -210,19 +211,19 @@ public class TranslationCleanupTests
 
                     Console.WriteLine($"Hallucinated:{outputFile}\n{item.Value}\n{split.Translated}");
                     split.FlaggedForRetranslation = true;
-                    split.FlaggedGlossaryOut = item.Value;
+                    split.FlaggedGlossaryOut += item.Value + ",";
                     modified = true;
-                    break; // No need to go through clossary no more
+                    continue; // Keep testing glossary
                 }
             }
         }
 
         if (checkCommonMistakes)
         {
-            var mistake = LineValidation.ContainsCommonMistakes(split.Translated, split.Text);
-            if (mistake.found)
+            var (found, word) = LineValidation.ContainsCommonMistakes(split.Translated, split.Text);
+            if (found)
             {
-                Console.WriteLine($"Common Mistake:{outputFile}\n{mistake.word}\n{split.Translated}");
+                Console.WriteLine($"Common Mistake:{outputFile}\n{word}\n{split.Translated}");
                 split.Translated = split.Translated.Trim();
                 modified = true;
             }
@@ -597,48 +598,48 @@ public class TranslationCleanupTests
         return output.Trim();
     }
 
-    private static bool ContainsGender(string input)
-    {
-        // Deliberately only want 'he' and not 'He' (because common name)
-        if (input.Contains(" he "))
-        {
-            if (input.Contains("brother", StringComparison.OrdinalIgnoreCase) || input.Contains("lord", StringComparison.OrdinalIgnoreCase))
-                return false;
+    //private static bool ContainsGender(string input)
+    //{
+    //    // Deliberately only want 'he' and not 'He' (because common name)
+    //    if (input.Contains(" he "))
+    //    {
+    //        if (input.Contains("brother", StringComparison.OrdinalIgnoreCase) || input.Contains("lord", StringComparison.OrdinalIgnoreCase))
+    //            return false;
 
-            return true;
-        }
+    //        return true;
+    //    }
 
-        if (input.StartsWith("she ", StringComparison.OrdinalIgnoreCase) |
-            input.Contains(" she ", StringComparison.OrdinalIgnoreCase))
-        {
-            if (input.Contains("miss", StringComparison.OrdinalIgnoreCase) || input.Contains("lady", StringComparison.OrdinalIgnoreCase))
-                return false;
+    //    if (input.StartsWith("she ", StringComparison.OrdinalIgnoreCase) |
+    //        input.Contains(" she ", StringComparison.OrdinalIgnoreCase))
+    //    {
+    //        if (input.Contains("miss", StringComparison.OrdinalIgnoreCase) || input.Contains("lady", StringComparison.OrdinalIgnoreCase))
+    //            return false;
 
-            return true;
-        }
+    //        return true;
+    //    }
 
-        return false;
-    }
+    //    return false;
+    //}
 
-    private static bool ContainsAnimalSounds(string? input)
-    {
-        if (input == null)
-            return false;
+    //private static bool ContainsAnimalSounds(string? input)
+    //{
+    //    if (input == null)
+    //        return false;
 
-        // Deliberately only want 'he' and not 'He' (because common name)
-        if (input.Contains("meow", StringComparison.OrdinalIgnoreCase)
-            || input.Contains("hss", StringComparison.OrdinalIgnoreCase)
-            || input.Contains("woof", StringComparison.OrdinalIgnoreCase)
-            || input.Contains("moo", StringComparison.OrdinalIgnoreCase)
-            || input.Contains("chirp", StringComparison.OrdinalIgnoreCase)
-            || input.Contains("hiss", StringComparison.OrdinalIgnoreCase))
-        {
-            if (!input.Contains("moon", StringComparison.OrdinalIgnoreCase)
-                && !input.Contains("mood", StringComparison.OrdinalIgnoreCase)
-                && !input.Contains("smooth", StringComparison.OrdinalIgnoreCase))
-                return true;
-        }
+    //    // Deliberately only want 'he' and not 'He' (because common name)
+    //    if (input.Contains("meow", StringComparison.OrdinalIgnoreCase)
+    //        || input.Contains("hss", StringComparison.OrdinalIgnoreCase)
+    //        || input.Contains("woof", StringComparison.OrdinalIgnoreCase)
+    //        || input.Contains("moo", StringComparison.OrdinalIgnoreCase)
+    //        || input.Contains("chirp", StringComparison.OrdinalIgnoreCase)
+    //        || input.Contains("hiss", StringComparison.OrdinalIgnoreCase))
+    //    {
+    //        if (!input.Contains("moon", StringComparison.OrdinalIgnoreCase)
+    //            && !input.Contains("mood", StringComparison.OrdinalIgnoreCase)
+    //            && !input.Contains("smooth", StringComparison.OrdinalIgnoreCase))
+    //            return true;
+    //    }
 
-        return false;
-    }
+    //    return false;
+    //}
 }

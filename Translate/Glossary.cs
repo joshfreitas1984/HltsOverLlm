@@ -13,6 +13,7 @@ public class Glossary
         var specialTermsSafe = AppendPromptsFor(raw, config.GameData.SpecialTermsSafe.Entries);
         var specialTermsUnsafe = AppendPromptsFor(raw, config.GameData.SpecialTermsUnsafe.Entries);
         var factions = AppendPromptsFor(raw, config.GameData.Factions.Entries);
+        var titles = AppendPromptsFor(raw, config.GameData.Titles.Entries);
 
         if (names.Length > 0)
         {
@@ -24,6 +25,12 @@ public class Glossary
         {
             prompt.AppendLine("#### Locations and Places");
             prompt.Append(locations);
+        }
+
+        if (locations.Length > 0)
+        {
+            prompt.AppendLine("#### Titles");
+            prompt.Append(titles);
         }
 
         if (specialTermsSafe.Length > 0 || specialTermsUnsafe.Length > 0 || factions.Length > 0)

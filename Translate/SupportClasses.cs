@@ -16,13 +16,13 @@ public class DataFormat
 
 public class DataLine
 {
-    public string Raw { get; set; }
-    public string Result { get; set; }
+    public string Raw { get; set; } = string.Empty;
+    public string Result { get; set; } = string.Empty;
+    public string Context { get; set; } = string.Empty;
+    public string Literal { get; set; } = string.Empty;
 
     public DataLine()
     {
-        Raw = string.Empty; 
-        Result = string.Empty;
     }
 
     public DataLine(string raw, string result)
@@ -50,9 +50,13 @@ public class TranslationSplit
     [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
     public string? Translated { get; set; }
 
-    public bool FlaggedForRetranslation { get; set; }
-    public string FlaggedGlossaryIn { get; set; }
-    public string FlaggedGlossaryOut { get; set; }
+    public bool FlaggedForRetranslation { get; set; } = false;
+
+    [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
+    public string FlaggedGlossaryIn { get; set; } = string.Empty;
+
+    [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
+    public string FlaggedGlossaryOut { get; set; } = string.Empty;
 
     public TranslationSplit() { }
 

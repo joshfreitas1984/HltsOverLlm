@@ -31,6 +31,7 @@ public class GameData
     public DataFormat Locations { get; set; } = new DataFormat();
     public DataFormat SpecialTermsSafe { get; set; } = new DataFormat();
     public DataFormat SpecialTermsUnsafe { get; set; } = new DataFormat();
+    public DataFormat Titles { get; set; } = new DataFormat();
 }
 
 public static class Configuration
@@ -68,6 +69,7 @@ public static class Configuration
             Locations = GetGameData($"{workingDirectory}/Game/Locations.yaml", yaml),
             SpecialTermsSafe = GetGameData($"{workingDirectory}/Game/SpecialTermsSafe.yaml", yaml),
             SpecialTermsUnsafe = GetGameData($"{workingDirectory}/Game/SpecialTermsUnsafe.yaml", yaml),
+            //Titles = GetGameData($"{workingDirectory}/Game/Titles.yaml", yaml),
         };
 
         return result;
