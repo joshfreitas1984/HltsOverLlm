@@ -34,124 +34,7 @@ public class TranslationCleanupTests
             {  "{0}{1} 经验", "{0} {1} Experience" },
             { "杂项事件对话", "Miscellaneous Events Dialogue" }, 
             { "哼，这点轻功也敢来俏梦阁？", "Ha, you dare come to the Charming Dream Pavilion with such basic Qinggong skills?" },
-            { "这就是禾家马帮大锅头？", "So, you're the big boss of the He Family Horse Gang?" }, 
-
-            // Auto
-            //{ "以简驭繁", "With simplicity, govern complexity" },
-            //{ "枕戈待旦", "To sleep on one's armour and wait at dawn" },
-            //{ "义薄云天", "Righteous as the Heavens" },
-            //{ "信步山河", "Wandering through mountains and rivers" },
-            //{ "似箭归心", "Like an arrow returning to its heart" },
-            //{ "图穷匕现", "When all means fail, the dagger will appear" },
-            //{ "安内攘外", "Stabilize the interior and repel external threats" },
-            //{ "佛口蛇心", "Speak with a Buddha's mouth, think with a snake's heart" },
-            //{ "层峦迭嶂", "Layer upon layer of hills and mountains" },
-            //{ "师命难违", "A disciple must not disobey their master's order" },
-            //{ "披麻带孝", "Wearing mourning clothes and performing the rites of filial mourning" },
-            //{ "百密一疏", "One loophole in a hundred precautions" },
-            //{ "鼠啃灵芝", "Mouse nibbles at lingzhi" },
-            //{ "刀剑归真", "Swords and Blades Return to Truth" },
-            //{ "刀枪不入", "Impermeable to blades and spears" },
-            //{ "玉坊劈柴", "Jade Courtyard chopping wood" },
-            //{ "迷魂水寨", "Enchanted Spirit Water Fortress" },
-            //{ "兔死狗烹", "When the rabbit dies, the dog gets cooked" },
-            //{ "猛龙下山", "Dragon Descends from the Mountain" },
-            //{ "笑拈春华", "Smile as you pluck the spring flowers" },
-            //{ "鸟尽弓藏", "All arrows are drawn, and the birds have flown away" },
-            //{ "雁行千里", "Swan in formation, thousand miles" },
-            //{ "满川桃李", "Plentiful as the peach and plum trees across the river" },
-            //{ "踏月留香", "Trace Moonlight, Leave Fragrance" },
-            //{ "飞剑归山", "Return the flying sword to the mountain" },
-            //{ "大漠孤烟", "Lonely smoke in the vast desert" },
-            //{ "云横秦岭", "Clouds spread across the Qinling Mountains" },
-            //{ "左手画圆", "Draw a circle with the left hand" },
-            //{ "花拳绣腿", "Flower Hands, Embroidered Legs" },
-            //{ "水火不侵", "Water and fire do not harm each other" },
-            //{ "桃谷升仙", "Ascending to immortality in Peach Valley" },
-            //{ "豹死留皮", "The dead tiger leaves only its skin" },
-            //{ "千锤百炼", "Tempered by a thousand hammers, forged in a hundred fires" },
-            //{ "顺时敬天", "Follow the times and respect heaven" },
-            //{ "以虚御实", "Use emptiness to meet fullness" },
-            //{ "引蝶招蜂", "Attract butterflies, summon bees" },
-            //{ "踏雪寻梅", "Traverse the snow to seek plum blossoms" },
-            //{ "遭遇山贼", "Encountered Mountain Bandits" },
-            //{ "生死有命", "Life and death are determined by fate" },
-            //{ "定国安邦", "Stabilize the nation and maintain peace" },
-            //{ "披荆斩棘", "Braving thorns and cutting through brambles" },
-            //{ "梅开孤芳", "Stand out like a single plum blossom in bloom" },
-            //{ "小枫鬼叫", "Little Maple Screams Like a Ghost" },
-            //{ "祸起萧墙", "Disaster begins from within the family" },
-            //{ "河朔立威", "Establish authority in the River North" },
-            //{ "倚鞍思骏", "Lean on the saddle, think of the horse" },
-            //{ "图穷匕见", "When the path ends, danger appears" },
-            //{ "食蜜硕鼠", "Seek sweetness and find a fat mouse" },
-            //{ "落花奈何", "What can be done about falling flowers?" },
-            //{ "婆媳问题", "Mother-in-law and daughter-in-law issues" },
-            //{ "仇山恨鬼", "Grudge against the mountain, hatred for ghosts" },
-            //{ "回美馔楼", "Return to the Delicacies Pavilion" },
-            //{ "也不想想", "They don't even want to think about it" },
-            //{ "送交书画", "Submit paintings and calligraphy" },
-            //{ "狐仙有赏", "There is a reward for the fox immortal" },
-            //{ "重宝还京", "Return precious items to the capital" },
-
-            //Manual
-            //{ "{name_1}兄，近来听聚落兄弟们提及江湖风波，对{name_1}兄的言行举止似乎颇有微词。我希望这些只是谣言闲语，但还是在此提醒{name_1}兄，希望{name_1}兄不会误入歧途。", "Brother {name_1}, I've heard whispers about you from our fellow martial artists. They seem concerned with your recent actions. There seems to be some criticism about your conduct. I hope these are just rumors and idle talk, but I must remind you not to stray from the righteous path or be led astray by temptations." },
-            //{ "嗯？怎么了？这几位也是要帮咱们找那书生的人吗？", "What? What's going on? Are these people also here to help us find the scholar?" },
-            //{ "哼哼，他当然知道。只可惜对头太强。没种去救。", "Hmm, he certainly knows. It's just too bad that the adversary is too strong. He doesn't have the guts to save." },
-            //{ "哼…他手上已有数片天书碎片，肯定是利用了天书的力量。", "Hum... He already has several pieces of the Heavenly Scriptures, so he must be using the power of the Heavenly Scriptures." },
-            //{ "哼哼哼...不长...不长...有了河图和洛书，征服这神州大陆，不过是眨眼之间的事。", "Hmm... not long... not long... With the Hetu and Luoshu, conquering this Divine Land would be as easy as blinking an eye." },
-            //{ "俏梦阁的艳雪姑娘希望明煦公子能找到一对终生不嫌不弃、白首不离的夫妇，并在这对夫妇前立誓终身不负。<br>将这讯息回复给明煦公子吧。", "Charming Dream Hall's beautiful Snow Maiden hopes that Young Master Ming Xu can find a couple who will not tire of each other for life and never part ways in old age, and she wants them to take an oath before her never to betray their lifelong commitment<br>Forward this information to Lord Ming Xu." },
-            //{ "我和阿兄看了这里，觉得虽然穷，可大家都很和善，若是努力干活儿，也愿意给咱们一口饭吃，就打算留下来了。", "I and my elder brother looked around here, and we felt that although it's poor, everyone is very kind. If we work hard, they are willing to give us something to eat. So, we decided to stay" },
-            //{ "…兄长说的是，{name_1}兄，思良无礼了。", "My elder brother said, Duan Silang was rude" },
-            //{ "南诏王杨天宁与其弟杨天义得段将军之助，逐退狼蛮，顺利建国，却怎料在登基之后，那杨天宁竟突然变了个人，开始施行苛政，压榨国内少数民族，激起遍地民怨。", "Nanzhao King Yang Tianning and his brother Yang Tianyi, with the help of General Duan, repelled the wolf barbarians and successfully established a country. However, after their enthronement, Yang Tianning unexpectedly changed as a person and began to implement harsh policies, oppressing ethnic minorities within the nation, which incited widespread public discontent." },
-            //{ "呃…你说你在热茶？但这里既没柴，也没火，怎么热茶？", "Uh... you said you were drinking hot tea? But there's neither firewood nor fire here. How can you drink hot tea?" },
-            //{ "哼哼，这问我可就问对了！", "Ha ha, you got that right!" },
-            //{ "我还想问你是谁，为什么躺在墓地里的棺材里装死？", "I also want to ask you who you are and why you are lying in a coffin in the cemetery, pretending to be dead?" },
-            //{ "没错…噶字意为「口」，而举字意为「传」，合起来正是口传之意。", "That's right... The character 噶 means mouth, and 举 means transmit. Together, they signify the meaning of oral transmission" },
-            //{ "摸出来的？还是别让段兄知道比较好。", "Found it by feeling around? It might be better not to let Brother Duan know." },
-            //{ "哼哼，你不用再装了，王大柱已经全部招认了。", "Hmph, you don't need to pretend anymore, Wang Dazhu has already confessed everything." },
-            //{ "哼，还道是谁，原来是青城派的三流弟子众。", "Hmph, who did you think it was? It turns out they're just the lower-tier disciples of the Qingcheng Sect." },
-            //{ "哎呀，奴家可没存甚么坏心眼呢，{name_1}公子，将这乖孩子让给了奴家吧！奴家绝对会好好报答你的。呵呵。", "Oh dear, I didn't have any ill intentions at all, Master {name_1}. Please let this obedient child go with me! I will surely reward you for it. Haha" },
-            //{ "嗯...这不重要...", "Uh, this is not important..." },
-            //{ "第一道题：喇嘛二字各为何意？", "First question：喇嘛 (Lama) is composed of two characters, what is the meaning of each character?" },
-            //{ "第三道题：哪个不是藏传佛教的佛教七宝？", "Third question：Which one is not one of the Seven Jewels of Buddhism in Tibetan Buddhism?" },
-            //{ "淬炼费用：", "Tempering cost:" },
-            //{ "锻造费用：", "Forging cost:" },
-            //{ "说出你的渴望：", "Express your desires:" },
-            //{ "限定装备：", "Mysterious Artifact:" },
-            //{ "呃？这里有张信，信上以娟秀的笔迹写着：", "Huh? There's a letter here, written in elegant script by Yi Juan" },
-            //{ "需求数量：", "Quanity Required:" },
-            //{ "所持金额：", "Owned:" },
-            //{ "将软筋散解药交给周益", "Give the 'Ruan Jin San Jie' medicine to Zhou Yi." },
-            //{ "目前选择的游戏难易度为炼狱等级，部分游戏内容会有些不同：", "The current selected game difficulty is 'Purgatory' and some parts of the game content will be different." },
-            //{ "别别别！我见识短浅所以不知道珍馐会的大名，还希望大哥您高抬贵手。", "No no no! Due to my limited experience, I'm unaware of the renowned Jianxu Hall, and I hope you, elder brother, would graciously overlook it." },
-            //{ "呃，你这是在干什么?", "Huh, what are you doing?" },
-            //{ "咦？怎会有人把东西留在这种地方？里面有块图片背后写着：", "Huh? How did someone leave something in such a place? There's a picture inside with writing on the back" },
-            //{ "嗯...没留意到...怎么了？", "Hmm... I didn't notice that... What's wrong?" },
-            //{ "不，这不是传说。", "No, this isn't a legend." },
-            //{ "「为了赶快修缮房屋；我熬夜甚至冒雨在岛上收集木材，但现在想想这真是太不智了…我好像生病了…。」", "「In order to quickly repair the house, I stayed up late and even collected wood on the island in the rain; but now looking back, it was really unwise... I think I'm getting sick...」" },
-            //{ "苏清瑞的过去", "Suo Qingshui's past" },
-            //{ "唔…不不不！你们别误会，我只是恰好有事要找他罢了！", "Um... no, no, no! Don't misunderstand, I just happened to need to see him!" },
-            //{ "给厨师的书信", "A Letter to the Chef" },
-            //{ "咦？这种地方竟然有骸骨，还留下笔记，上面写着：", "Huh? There are actually bones here, and even a note left behind; it says on the note:" },
-            //{ "迦罗，府里就拜托你了，我随{name_1}兄走一趟，情势若是有变，随时捎信来报。", "Jia Luo, I'm entrusting you with the matters at the office. I'll go along with Brother {name_1} for a while. If the situation changes, send me a message anytime to report." },
-            //{ "来段关于刑法的笑话吧。", "C'mon, share with me a tale of law and laughter from the courts of martial arts!" },
-            //{ "数年后，大研镇便有了这样的传闻：", "Several years later, the rumors about Dayan Town spread like this:" },
-            //{ "我是妹控，给我妹子", "I'm a big fan of younger women, and I will bring happiness to your sister!" },
-            //{ "请给我所有珍馐会事件的开启旗标。", "Please give me all opening sigils for all events at Delicacies Society." },
-            //{ "我想要赋闲书院的介绍信。", "I would like an introduction letter from the Leisurely Scholars Academy." },
-            //{ "嗯...原来是这么个名字...你和那土豪在圣堂经历过的事儿，这酒鬼都已经告诉我了。", "Hmm... so that's your name... the drunkard has already told me about what you and that nobleman experienced in the sanctuary." },
-            //{ "上次……谢谢你带我去大研镇，这是我第一次去这么大的城市。如果没有你，或许我一辈子都不会踏进这样的大城市。我以后想要去更远的地方，回去娘出生的地方，了解自己祖宗生活的地方…………", "The last time... thank you for taking me to Dayan Town, it was my first time visiting such a large city. Without you, perhaps I would never set foot in such a big city. In the future, I want to go even farther, to where my mother was born and learn about where my ancestors lived.…" },
-            //{ "唔...你以为...我们会这么容易告诉你吗？发信号！", "Ugh... you think... we'd just tell you so easily? Send a signal!" },
-            //{ "唔……看起来和我来的圣堂还挺像的……难道这里也是圣堂？不会还要我再找一次十四天书吧？", "Hmm... It looks quite similar to the Holy Sanctuary I came from...Could this place also be a Holy Sanctuary? I hope I don't have to search for the Fourteen-Day Book again..." },
-            //{ "这……这不是槟榔嘛！骆兄到底是从哪里找到的！", "This... this is not betel nut! Where did Brother Lou find it from anyway!" },
-            //{ "嗯？等等，这不是槟榔吗？怎么会在这种地方？", "Huh? Wait, isn't this a betel nut? How is it here in a place like this?" },
-            //{ "还有南闲…嗯……村里的人会知道这个名号吗？他叫什么名字来着…？", "There is also the Southern Sage... hmm... Would the villagers know this title? What was his name again?" },
-            //{ "六片...洛书碎片...南闲，你这情报来自何处？怎么前些日子都没和我提起？", "Six pieces... fragments of the Luoshu... Southern Leisure, where did you get this intelligence from? Why didn't you mention to me these past few days?" },
-            //{ "呃…我不是淘石帮里的人。兄弟，你怎地看起来如此害怕，一个人躲在这里。", "Um... I'm not from Taoshi Sect. Brother, why do you look so scared and hiding here all by yourself?" },
-            //{ "呃…我身上一时没带这么多钱，回头等我凑到五千文钱立刻回来买下这只锦缎观月瓶。", "Um... I don't have that much money on me right now. I'll come back and buy this embroidered moon flask for five thousand wen once I have the cash." },
-            //{ "【唉…仔细想想，我也确实没经历过黄裳那桩灭门惨事，如此强要他放下仇恨，他又怎么听得进去呢…】", "Oh... Upon careful thought, I truly haven't experienced the tragedy that befell Huang Shang's family. How can one insist so strongly for him to let go of his hatred and expect him to accept it?" },
-            //{ "Hmm... So, she will betray Xiao Meng Ge and join forces with those bandits from Merciless Hall in this Shu region to stir up trouble. The reasons and intentions are quite obvious.", "" },
+            { "这就是禾家马帮大锅头？", "So, you're the big boss of the He Family Horse Gang?" },             
         };
     }    
 
@@ -191,15 +74,22 @@ public class TranslationCleanupTests
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             int recordsModded = 0;
+            bool resetFlag = true;
 
             foreach (var line in fileLines)
                 foreach (var split in line.Splits)
-                    if (CheckSplit(newGlossaryStrings, manual, split, outputFile, safeGlossary,  dupeNames, config))
+                {
+                    // Reset all the retrans flags
+                    if (resetFlag)
+                        split.ResetFlags();
+
+                    if (CheckSplit(newGlossaryStrings, manual, split, outputFile, safeGlossary, dupeNames, config))
                         recordsModded++;
+                }
 
             totalRecordsModded += recordsModded;
             var serializer = Yaml.CreateSerializer();
-            if (recordsModded > 0)
+            if (recordsModded > 0 || resetFlag)
             {
                 Console.WriteLine($"Writing {recordsModded} records to {outputFile}");
                 await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
@@ -216,7 +106,6 @@ public class TranslationCleanupTests
     //TODO: Duan Meng?
     //TODO: Lan yu
     //TODO: Fix {name} brother
-    //TODO: Uppercase Wulin and Jianghu
 
     public static bool CheckSplit(List<string> newGlossaryStrings, Dictionary<string, string> manual, TranslationSplit split, string outputFile,
         Dictionary<string, string> safeGlossary, Dictionary<string, List<string>> dupeNames, LlmConfig config)
@@ -224,22 +113,9 @@ public class TranslationCleanupTests
         var pattern = LineValidation.ChineseCharPattern;
         bool modified = false;
 
-        // Flags
-        bool justReset = false;
+        // Flags        
         bool cleanWithGlossary = true;
-        bool resetFlag = false;
-        //resetFlag = true;
-        //justReset = true; //Override and just do nothing but reset
-
-        // Reset all the retrans flags
-        if (resetFlag)
-        {
-            split.ResetFlags();
-            modified = true;
-
-            if (justReset)
-                return true;
-        }
+        bool checkCommonMistakes = false;
 
         //////// Quick Validation here
     
@@ -287,9 +163,11 @@ public class TranslationCleanupTests
 
         // Glossary Clean up - this won't check our manual jobs
         if (cleanWithGlossary)
-        {
+        {            
             foreach (var item in safeGlossary)
             {
+                var wordPattern = $"\\b{item.Value}\\b";
+
                 if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
                 {
                     Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
@@ -301,9 +179,13 @@ public class TranslationCleanupTests
                 else
                 if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
                 {
-                    // If its in the translated
-                    if (item.Value == "He Family" && split.Translated.Contains("the family", StringComparison.OrdinalIgnoreCase))
+                    //If we dont word match - ie matched He Family in the family
+                    if (!Regex.IsMatch(split.Translated, wordPattern, RegexOptions.IgnoreCase))
                         continue;
+
+                    // If its in the translated
+                    //if (item.Value == "He Family" && split.Translated.Contains("the family", StringComparison.OrdinalIgnoreCase))
+                    //    continue;
 
                     // Handle Quanpai (entire sect)
                     if (item.Value == "Qingcheng Sect" && split.Text.Contains("青城全派"))
@@ -326,12 +208,23 @@ public class TranslationCleanupTests
                             continue; // Keep going through glossary checks
                     }
 
-                    Console.WriteLine($"Hallucinated Glossary in:{outputFile}\n{item.Value}\n{split.Translated}");
+                    Console.WriteLine($"Hallucinated:{outputFile}\n{item.Value}\n{split.Translated}");
                     split.FlaggedForRetranslation = true;
                     split.FlaggedGlossaryOut = item.Value;
                     modified = true;
                     break; // No need to go through clossary no more
                 }
+            }
+        }
+
+        if (checkCommonMistakes)
+        {
+            var mistake = LineValidation.ContainsCommonMistakes(split.Translated, split.Text);
+            if (mistake.found)
+            {
+                Console.WriteLine($"Common Mistake:{outputFile}\n{mistake.word}\n{split.Translated}");
+                split.Translated = split.Translated.Trim();
+                modified = true;
             }
         }
 

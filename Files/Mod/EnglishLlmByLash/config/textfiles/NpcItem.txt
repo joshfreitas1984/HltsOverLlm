@@ -583,9 +583,9 @@ n10035	Brine worker	m_cooksalt001		331.9505, 70.344, -541.5974	151.2389	5-18	FAL
 n10036	Brine maker	m_sleep002_ec		349.726, 68.00285, -571.888	245.322	19-23, 0-4	FALSE	FALSE	n1003600000					1	11	2	n42003	n10036				0	0
 n10037	Liang Guanze	m_sleep003_ec		359.903, 68.52037, -566.748	310.459	19-23, 0-4	FALSE	FALSE	n1003700000					1	11	2	n20254-1	n10037				0	0
 n10038	Salt Gang Members	ml_standA00		314.6331, 67.38493, -568.9397	0	19-23, 0-4	TRUE	FALSE	n1003800000			n10038		1	11	0	n10022c	n10038				0	0
-n10039	Yan Gang members Stone Jin and Fan	ml_standA00		296.1524, 80.32305, -537.6543	256.6859	19-23, 0-4	TRUE	FALSE	n1003900000					1	11	0	n10022b	n10039				0	0
+n10039	Members of the Salt Gang, Shi Jin and Fan	ml_standA00		296.1524, 80.32305, -537.6543	256.6859	19-23, 0-4	TRUE	FALSE	n1003900000					1	11	0	n10022b	n10039				0	0
 n10040	Salt Gang Members	ml_standA00		371.55, 72.33961, -507.7544	0	19-23, 0-4	TRUE	FALSE	n1004000000			n10040		1	11	0	n10022b	n10040				0	0
-n10041	Yan Gang gangzhong Shi Wenqing	ml_standA00		386.7884, 90.27306, -458.1638	0	19-23, 0-4	TRUE	FALSE	n1004100000			n10041		1	11	0	n10022a	n10041				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "n1004100010", True} , { "CheckFlagAction" : "n1004100011", 1, 0}  ], 1} 	0
+n10041	Salt Gang member Shi Wenqing	ml_standA00		386.7884, 90.27306, -458.1638	0	19-23, 0-4	TRUE	FALSE	n1004100000			n10041		1	11	0	n10022a	n10041				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "n1004100010", True} , { "CheckFlagAction" : "n1004100011", 1, 0}  ], 1} 	0
 n10042	Shi Qi from the Salt Gang	ml_standA00		382.8608, 90.27306, -459.5653	0	19-23, 0-4	TRUE	FALSE	n1004100013			n10041		1	11	0	n42003	n10042				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "n1004100010", False}  ], 0} 	0
 n10043	Master Healer Yi Shiren	ml_standA00	c_m27	350.1459, 72.649, -528.3094	79.94953	5-18	TRUE	FALSE	n1004300000	v00054				1	107	0	n40001	n10043			(Drug_Medicine,1)(Herbs_Medicine,1)(Currency_Stuff,1)(Money,1)	0	0
 n10044a	Salter	m_sitDrink001		341.371, 72.903, -509.657	272.0234	5-18	FALSE	FALSE	n1004400000					1	11	0	n10030c	n10044a				0	0
