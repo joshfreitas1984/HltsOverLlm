@@ -3,4 +3,3 @@
 - Treat `{0}`, `{1}`, `{2}`, `{3}` as objects based on context.
 - Treat `{name_1}` as a last name placeholder based on context.
 - Treat `{name_2}` as a first name placeholder based on context.
-- Use glossary entries where provided that match with the placeholder
