@@ -74,7 +74,7 @@
   splits:
   - split: 1
     text: "枪棍+{0}"
-    translated: "Spear + {0}"
+    translated: "Spear and Staff + {0}"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -234,7 +234,7 @@
   splits:
   - split: 1
     text: "枪棍+{0}"
-    translated: "Spear + {0}"
+    translated: "Spear and Staff + {0}"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -244,7 +244,7 @@
   splits:
   - split: 1
     text: "枪棍+{0}"
-    translated: "Spear and {0}"
+    translated: "Spear and Staff + {0}"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

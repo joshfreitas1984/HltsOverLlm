@@ -30,24 +30,24 @@ SkillTree002_005	As light as the wind	Song Feng Sword adds an additional 8 point
 SkillTree002_006	Like the vigor of pine	Consumption of energy by the Sword of Pine Wind is reduced by one point	5000	SkillTree002_2	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Teammate			Target	0	buffSkillTree002_006	FALSE	0	None	0	0	SkillTree002_002
 SkillTree002_007	Sword arts cultivation		6000	skillIcon004_5	null	PropertyAdd	(Sword,6)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree003_000	Charging directly forward		4000	SkillTree003_000	null	Active		1	skill_wp3a001	4	180	Enemy	rect : { 0, 0, 0 }, 0, 2.5, 0, 0.3	fm_atk_rect	Target	0		TRUE	208	Spear	0.5	SkillTree003_000	
-SkillTree003_001	Spear and Club Proficiency		2000	SkillNode01	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree003_002	Spear and Club Proficiency		2000	skillIcon001_1	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree003_001	Expertise in Spear and Staff		2000	SkillNode01	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree003_002	Expertise in Spear and Staff		2000	skillIcon001_1	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree003_003	Directly attack Huanglong		10500	SkillTree003_003	null	Active		1	skill_wp3a002	6	360	Enemy	rect : { 0, 0, 0 }, 0, 3, 0, 0.3	fm_atk_rect	Target	0		FALSE	324	Spear	0.5	SkillTree003_003	
-SkillTree003_004	Spear and Club Proficiency		2000	SkillNode01	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree003_004	Expertise in Spear and Staff		2000	SkillNode01	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree003_005	Expertise in Spear and Staff		2000	skillIcon001_1	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree003_006	Unify the Central Plains	Charging directly in and attacking the Yellow Dragon increases fatigue by 1 point, consumes more internal energy, enhances power, and expands range	12500	SkillTree003_2	[{"Type":3,"Value1":"it801129","Value2":"1"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree003_006	FALSE	0	None	0	0	SkillTree003_000,SkillTree003_003
-SkillTree003_007	Spear and Club Proficiency		2000	SkillNode01	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree003_008	Spear and Club Proficiency		2000	SkillNode01	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree003_009	Spear and Club Proficiency		2000	SkillNode01	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree003_007	Expertise in Spear and Staff		2000	SkillNode01	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree003_008	Expertise in Spear and Staff		2000	SkillNode01	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree003_009	Expertise in Spear and Staff		2000	SkillNode01	null	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree004_000	Angling on the Wei River	Using Weishui Chuidiao as a counterattack technique, gain an additional 5% counterattack rate each turn	4000	SkillTree004_000	[{"Type":2,"Value1":"0","Value2":"1_TalentNode000"}]	Active		1	skill_wp1a004	4	160	Enemy	single : { 0, 0, 0 }, 0, 2.5		Target	0	buffSkillTree004_000	TRUE	208	Spear	0	SkillTree004_000	
-SkillTree004_001	Spear and Club Cultivation		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree004_002	Spear and Club Proficiency		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree004_001	Expertise in Spear and Staff		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree004_002	Expertise in Spear and Staff		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree004_003	Old King Fisherman		7000	SkillTree004_003	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Active		0	skill_wp1a005	5	300	Enemy	circle : { 0, 0, 0 }, 0, 2.5	fm_atk_sector	Target	0		TRUE	250	Spear	0	SkillTree004_003	
 SkillTree004_004	Hook, line, and sinker	If Let the Waverers Be Caught by the Hook is used as a counterattack technique, the activation rate of Hiding by the Stump Waiting for Rabbits increases by 5%	11500	SkillTree004_004	[{"Type":2,"Value1":"0","Value2":"1_TalentNode004"}]	Active		1	skill_wp1a006	6	300	Enemy	single : { 0, 0, 0 }, 0, 2.5		Target	0	buffSkillTree004_004	TRUE	396	Spear	0	SkillTree004_004	
 SkillTree004_005	A hookless fishing rod	Taigong's fishing attack range increased	5000	SkillTree004_2	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree004_005	FALSE	0	None	0	0	SkillTree004_003
 SkillTree004_006	Jade rough waiting to be sold	If using Hook Those Who Wish as a counterattack technique, the activation rate of Stalk Hare by Stopping Up Tree Roots increases by 10%	8000	SkillTree004_3	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree004_006	FALSE	0	None	0	0	SkillTree004_004
-SkillTree004_007	Spear and Club Proficiency		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree004_008	Spear and Club Proficiency		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree004_007	Expertise in Spear and Staff		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree004_008	Expertise in Spear and Staff		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree004_009	Riverbank Angler	Additional counter-attack rate increased by 1% for each time sequence	3000	SkillTree004	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree004_009	FALSE	0	None	0	0	SkillTree004_000
 SkillTree005_000	Bagua Palm	Request martial art Hand Combat 45, require insight into the principle of Dong：Quick Strike the Slow. The longer the distance moved before a move, the higher the damage (each grid increases damage by 3%)	1200	skillIcon001_1	null	Active		0	skill_wp0a007	4	160	Enemy	single : { 0, 0, 0 }, 0, 1.25		Target	0	buffSkillTree005_000	FALSE	208	Fight	0	0	
 SkillTree005_001	Bagua Palm	Requirement: martial art Hand Combat 45, Requirement: insight Crafty：Upon executing this technique, the one who performs it will inevitably maneuver around to the right side of their target before attacking again	2400	SkillNode04	null	Active		0	skill_wp0a008	4	160	Enemy	single : { 0, 0, 0 }, 0, 1.25		Target	0	buffSkillTree005_001	FALSE	208	Fight	0	0	
@@ -86,18 +86,18 @@ SkillTree009_004	Grapple	Split Sinew Technique's damage increased, with an addit
 SkillTree009_005	Hand Combat Skills		5000	SkillNode01	null	PropertyAdd	(Fight,5)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree009_006	Clasp	Damage from joint manipulation technique increases, with an additional +4 to the joint value	4000	SkillTree009_2	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree009_006	FALSE	0	None	0	0	
 SkillTree010_000	Unwaveringly Loyal in Heart		11000	SkillTree010_000	[{"Type":1,"Value1":"304","Value2":"120","Operator":0}]	Active		2	skill_wp3c001	6	360	Enemy	rect : { 0, 0, 0 }, 0, 2.5, 0, 0.3	fm_atk_rect	Target	0	wounded08	FALSE	360	Spear	0.5	SkillTree010_000	
-SkillTree010_001	Spear and Club Proficiency		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree010_001	Expertise in Spear and Staff		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree010_002	Brave enough to face a hundred thousand strong	If you dare to face a hundred thousand fierce attacks and kill the enemy, your critical hit rate increases by 35 points	21500	SkillTree010_002	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Active		3	skill_wp3c003	10	800	Enemy	circle : { 0, 0, 0 }, 0, 3.5	fm_very_yang_circle	Target	0	buffSkillTree010_002,hitback	FALSE	600	Spear	1	SkillTree010_002	
 SkillTree010_003	Directly enter the wolf and tiger thicket	If you rush directly into the tiger and wolf group to kill an enemy, your own energy will recover 3 points	21500	SkillTree010_003	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Active		2	skill_wp3c002	8	400	Enemy	charge : { 0, 0, 0 }, 0, 4, 0, 0.5	fm_very_yang_rect	Target	0	buffSkillTree010_003,charge	FALSE	640	Spear	1	SkillTree010_003	
-SkillTree010_004	Spear and Club Proficiency		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree010_005	Spear and Club Proficiency		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree010_004	Expertise in Spear and Staff		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree010_005	Expertise in Spear and Staff		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree010_006	Having a heart full of courage	Increases the knockback distance against a hundred-thousand-strong enemy; increases critical hit rate by 12 points for each enemy killed	10000	SkillTree010_2	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree010_006	FALSE	0	None	0	0	SkillTree010_002
 SkillTree010_007	Chong zhen fu wei zhu	Close the distance to enemy groups; restore 3 energy points for each enemy killed	10000	SkillTree010_3	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree010_007	FALSE	0	None	0	0	SkillTree010_003
 SkillTree010_008	Who dares to contend with me?	With utmost sincerity, an additional seven points of external injury	6000	SkillTree010	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree010_008	FALSE	0	None	0	0	SkillTree010_000
 SkillTree010_009	Seas and skies, ends nowhere	'If equipped with Yaijiao Spear and use Li Li Yi Xin Zhong, Gan Dang Bai Wan Xiong, Zhi Ru Hu Lang Cong, the damage caused will increase.'	10000	SkillTree010	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree010_009	FALSE	0	None	0	0	SkillTree010_000,SkillTree010_002,SkillTree010_003
-SkillTree010_010	Spear and Club Proficiency		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree010_011	Spear and Club Proficiency		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree010_012	Spear and Club Proficiency		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree010_010	Expertise in Spear and Staff		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree010_011	Expertise in Spear and Staff		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree010_012	Expertise in Spear and Staff		4000	SkillNode01	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree011_000	Shan Yi Die	Repel the enemy	7000	SkillTree011_000	null	Active		1	skill_wp0a012	5	200	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	0	hitback	TRUE	300	Fight	-0.5	SkillTree011_000	
 SkillTree011_001	Hand Combat Skills		4000	SkillNode01	null	PropertyAdd	(Fight,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree011_002	Swallows Playing in the Water	Shan Yi Die's knockback distance has increased	4500	SkillTree011	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree011_002	FALSE	0	None	0	0	SkillTree011_000
@@ -114,8 +114,8 @@ SkillTree012_006	Hand Combat Skills		4000	SkillNode01	null	PropertyAdd	(Fight,4)
 SkillTree013_000	Shattered in battle	High-damage palm technique	6500	SkillTree013_000	null	Active		0	skill_wp0a011	5	200	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	0		FALSE	300	Fight	0.5	SkillTree013_000	
 SkillTree013_001	Hand Combat Skills		3000	SkillNode01	[]	PropertyAdd	(Fight,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree013_002	Hand Combat Skills		3000	SkillNode01	[]	PropertyAdd	(Fight,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree013_003	Break bricks and split stones	Enhanced power of the Broken Spear Shattered in Sand	4000	SkillTree013	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree013_003	FALSE	0	None	0	0	SkillTree013_000
-SkillTree013_004	Break Gold, Shatter Jade	Crushing the Spear, Sinking in Sand: Increases energy expenditure by 1 point, enhances technique power, and inflicts an additional 8 points of external injury	8000	SkillTree013	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree013_004	FALSE	0	None	0	0	SkillTree013_000
+SkillTree013_003	Break bricks and split stones	The strength of Bash and Sink has been amplified	4000	SkillTree013	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree013_003	FALSE	0	None	0	0	SkillTree013_000
+SkillTree013_004	Break Gold, Shatter Jade	The cost in energy increases by 1 point, the technique's power is enhanced, and it also deals an additional 8 points of external injury	8000	SkillTree013	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree013_004	FALSE	0	None	0	0	SkillTree013_000
 SkillTree013_005	Hand Combat Skills		3000	SkillNode01	[]	PropertyAdd	(Fight,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree013_006	Hand Combat Skills		3000	SkillNode01	[]	PropertyAdd	(Fight,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree014_000	Myriad colors in bloom		4000	SkillTree014_000	[{"Type":1,"Value1":"302","Value2":"80","Operator":0}]	Active		0	skill_wp1c002	4	160	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 120	fm_atk_sector	Target	0	buffSkillTree014_000	FALSE	208	Sword	-0.5	SkillTree014_000	
@@ -177,16 +177,16 @@ SkillTree020_003	Qinggong +3		3000	skillIcon016_4	null	PropertyAdd	(Qinggong,3)(
 SkillTree020_004	Chapter of Receiving Immortality	Li ju bing jia de zhixian chongsi juli xianji sheng 2 ge	1	skillIcon006_4	null	Active		0		0	0	Ally			Target	0	buffSkillTree020_004	FALSE	0	None	0	0	
 SkillTree020_005	Qinggong + 3		3000	skillIcon016_1	null	PropertyAdd	(Qinggong,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Intelligence,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)(ZOC,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree021_000	Jade Wall Golden River		4500	SkillTree021_000	[{"Type":1,"Value1":"304","Value2":"80","Operator":0}]	Active		1	skill_wp3a003	4	180	Enemy	rect : { 0, 0, 0 }, 0, 2.5, 0, 0.3	fm_atk_rect	Target	0	hitback	TRUE	208	Spear	0.5	SkillTree021_000	
-SkillTree021_001	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree021_001	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree021_002	Three Rivers Rushing	Yubu Jinchuan incurred an additional eight points of external injury	3000	SkillTree021	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree021_002	FALSE	0	None	0	0	SkillTree021_000
-SkillTree021_003	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree021_003	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree021_004	Meng Hu Tiao Xia		12000	SkillTree021_004	[{"Type":1,"Value1":"304","Value2":"80","Operator":0}]	Active		0	skill_wp3b001	6	360	Enemy	circle : { 0, 0, 0 }, 0, 3	fm_atk_circle	Target	0	wounded10,hitback	FALSE	324	Spear	0.5	SkillTree021_004	
-SkillTree021_005	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree021_005	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree021_006	Jade Dragon Soars into the Air		22500	SkillTree021_006	[{"Type":1,"Value1":"304","Value2":"80","Operator":0}]	Active		2	skill_wp3b002	8	640	Enemy	circle : { 0, 0, 0 }, 0, 4	fm_very_yang_circle	Target	0	wounded12,hitback	FALSE	448	Spear	1	SkillTree021_006	
 SkillTree021_007	Silver-white spear force	Enhanced power of Roaring Tiger Leap Canyon and Jade Dragon Soar the Sky	10500	SkillTree021_2	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree021_007	FALSE	0	None	0	0	SkillTree021_004,SkillTree021_006
-SkillTree021_008	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree021_009	Spear and Club Proficiency		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree021_010	Spear and Club Proficiency		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree021_008	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree021_009	Expertise in Spear and Staff		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree021_010	Expertise in Spear and Staff		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree021_012	Ascending clouds, riding mist	Consumption of vital energy for Meng Hu Tiao Xia (Leaping Tiger in the Gorge) and Yu Long Teng Kong (Emerging Dragon Ascending Sky) is reduced by 1 point	10500	SkillTree021_2	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree021_012	FALSE	0	None	0	0	SkillTree021_004,SkillTree021_006
 SkillTree022_000	Braving thorns and cutting through brambles		4000	SkillTree022_000	[]	Active		0	skill_wp1a008	4	80	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 90	fm_atk_sector	Target	0		TRUE	208	Blade	0.5	SkillTree022_000	
 SkillTree022_001	Blade Arts Cultivation		3000	skillIcon005_1	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
@@ -227,7 +227,7 @@ SkillTree026_004	Wild Boar Attack		1	skillIcon001_2	[]	Active		2	al20032@JumpAtt
 SkillTree027_000	Knife slashes		1200	skillIcon001_1	[]	Active		0	skill_wp1a021	4	80	Enemy	single : { 0, 0, 0 }, 0, 1.25		Target	0	wounded03	TRUE	240	Short	0	0	
 SkillTree027_001	Hammer swinging		1800	skillIcon001_1	[]	Active		0	skill_wp1a021	4	80	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	0	injured03	TRUE	240	Short	0	0	
 SkillTree027_002	Axe Strikes		1800	skillIcon001_1	[]	Active		0	skill_wp1a021	5	150	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	0	wounded05	TRUE	350	Short	0	0	
-SkillTree027_003	Bludgeoning		1800	skillIcon001_1	[]	Active		1	skill_wp1a021	5	300	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 90		Target	0	injured05	TRUE	250	Spear	0	0	
+SkillTree027_003	The use of staffs or batons in striking		1800	skillIcon001_1	[]	Active		1	skill_wp1a021	5	300	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 90		Target	0	injured05	TRUE	250	Spear	0	0	
 SkillTree028_000	Skilled in kicking		1800	SkillTree028_000	[]	Active		0	skill_wp0a016	3	60	Enemy	single : { 0, 0, 0 }, 0, 1.75		Target	0		TRUE	150	Fight	0	0	
 SkillTree028_001	Flower Fists		1800	SkillTree028_001	[]	Active		0	skill_wp0a015	3	60	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	0		TRUE	150	Fight	0	0	
 SkillTree028_002	Hand Combat Skills		2000	skillIcon001_1	[]	PropertyAdd	(Fight,2)	0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
@@ -275,12 +275,12 @@ SkillTree037_006	Qunyang Neigong		4000	skillIcon007_5	[]	PropertyAdd	(Neigong,4)
 SkillTree037_007	Five Rooster Light Smoke	When operating the Duan family martial art, enhance the power of its techniques: Li Duan Jin (Cuts Through Metal), Feng Yu Tong Zhou (Winds and Rains Together in a Boat), and Jie Mai Zhi (Severing Veins Finger)	3000	SkillTree037	[]	Passive		0		0	0	Ally			Target	0	buffSkillTree037_007	FALSE	0	None	0.5	0	SkillTree037_000
 SkillTree037_008	Neigong cultivation		3000	skillIcon007_5	null	PropertyAdd	(Neigong,3)	0		0	0	Ally			Target	0	buffSkillTree037_008	FALSE	0	None	0	0	
 SkillTree038_000	Yecha Tanhai		3000	SkillTree038_000	[]	Active		0	skill_wp3c015	4	180	Enemy	circle : { 0, 0, 0 }, 0, 2	fm_atk_circle	Target	0		TRUE	208	Spear	0.5	SkillTree038_000	
-SkillTree038_001	Spear and Club Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree038_002	Spear and Club Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree038_001	Expertise in Spear and Staff		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree038_002	Expertise in Spear and Staff		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree038_003	Plague of drought		5500	SkillTree038_003	[]	Active		0	skill_wp3c016	5	300	Enemy	circle : { 0, 0, 0 }, 0, 2.5	fm_atk_circle	Target	0		FALSE	250	Spear	0.5	SkillTree038_003	
-SkillTree038_004	Spear and Club Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree038_005	Spear and Club Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree038_006	Spear and Club Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree038_004	Expertise in Spear and Staff		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree038_005	Expertise in Spear and Staff		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree038_006	Expertise in Spear and Staff		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree038_007	Earth Dancer	Nightmare Pirate Assault, Intensified Drought Demon's Power	3500	SkillTree038	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree038_007	FALSE	0	None	0	0	SkillTree038_000,SkillTree038_003
 SkillTree038_008	Night Demon	Decrease in energy expenditure for night demon sea exploration and drought calamities	3500	SkillTree038	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree038_008	FALSE	0	None	0	0	SkillTree038_000,SkillTree038_003
 SkillTree038_009	Emptiness	Sea Vampires probe during the night, drought demons ravage further with added joint manipulation	3500	SkillTree038	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree038_009	FALSE	0	None	0	0	SkillTree038_000,SkillTree038_003
@@ -316,13 +316,13 @@ SkillTree042_002	Blade Arts Cultivation		600	skillIcon020_1	[]	PropertyAdd	(Blad
 SkillTree042_003	Blade training with lightning and fire style		1500	SkillTree042_003	[]	Active		0	skill_wp1c007	5	230	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 90	fm_atk_sector	Target	0		TRUE	250	Blade	0	SkillTree042_003	
 SkillTree042_004	Whirl the sword to shave bone	Blade training increases Leihuoshi by 8 points	1500	SkillTree042_2	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree042_004	FALSE	0	None	0	0	SkillTree042_003
 SkillTree042_005	Swift Sword, Tiger Steps	Training with the blade to harness lightning fire reduces energy consumption by one point	1500	SkillTree042_2	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree042_005	FALSE	0	None	0	0	SkillTree042_003
-SkillTree042_006	Use a staff to live upright	When using a sword to train with lightning and fire energy for counterattacks, the damage increases by 25%	1500	SkillTree042_2	[{"Type":2,"Value1":"0","Value2":"1_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree042_006	FALSE	0	None	0	0	SkillTree042_003
+SkillTree042_006	Establish oneself through one's mastery of the blade	When using a sword to train with lightning and fire energy for counterattacks, the damage increases by 25%	1500	SkillTree042_2	[{"Type":2,"Value1":"0","Value2":"1_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree042_006	FALSE	0	None	0	0	SkillTree042_003
 SkillTree042_007	Pass the sword to sweep leaves	Blade training enhances the range of thunder and fire attack	1500	SkillTree042_2	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree042_007	FALSE	0	None	0	0	SkillTree042_003
 SkillTree042_008	Draw the sword and apply force	Training with the blade reduces the consumption of internal energy by half for the lightning fire technique	1500	SkillTree042_2	[{"Type":2,"Value1":"0","Value2":"3_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree042_008	FALSE	0	None	0	0	SkillTree042_003
 SkillTree042_009	Blade cuts through the river	Blade training enhances the power of lightning and fire	1500	SkillTree042_2	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree042_009	FALSE	0	None	0	0	SkillTree042_003
 SkillTree043_000	Qilin enters the cloud traces		150	SkillTree043_000	[{"Type":1,"Value1":"304","Value2":"15"}]	Active		1	skill_wp3c004	3	60	Enemy	sector : { 0, 0, 0 }, 0, 2.5, 0, 60	fm_atk_sector	Target	0		TRUE	150	Spear	0	0	
-SkillTree043_001	Spear and Club Proficiency		600	SkillNode01	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree043_002	Spear and Club Proficiency		600	SkillNode01	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree043_001	Expertise in Spear and Staff		600	SkillNode01	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree043_002	Expertise in Spear and Staff		600	SkillNode01	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree043_003	Winds soar and clouds wander		1500	SkillTree043_003	[]	Active		1	skill_wp3c005	5	250	Enemy	sector : { 0, 0, 0 }, 0, 2.5, 0, 150	fm_atk_sector	Target	0		TRUE	275	Spear	0	SkillTree043_003	
 SkillTree043_004	As the wind sweeps away fallen leaves	Ascend to the Clouds, Unyielding Wind Adds Eight Points of Dizziness	1500	SkillTree043_2	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree043_004	FALSE	0	None	0	0	SkillTree043_003
 SkillTree043_005	Perform the Seven-Star Step	Ascend without returning to quell the wind, reducing energy consumption by 1 point	1500	SkillTree043_2	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree043_005	FALSE	0	None	0	0	SkillTree043_003
@@ -473,8 +473,8 @@ SkillTree061_000	Sword arts techniques		1	skillIcon004_2	[]	Active		0		0	0	Enemy
 SkillTree061_001	Sword arts techniques		1	skillIcon004_2	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
 SkillTree062_000	Blade Arts Techniques		1	skillIcon005_2	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
 SkillTree062_001	Blade Arts techniques		1	skillIcon005_2	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
-SkillTree063_000	Spear and Club Techniques		1	SkillNode04	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
-SkillTree063_001	Spear and Club Techniques		1	SkillNode04	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
+SkillTree063_000	Techniques of spear and staff		1	SkillNode04	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
+SkillTree063_001	Techniques of spear and staff		1	SkillNode04	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
 SkillTree064_000	Hidden Weapon Techniques		1	SkillNode04	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
 SkillTree064_001	Hidden weapon techniques		1	SkillNode04	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
 SkillTree065_000	Short weapons techniques		1	SkillNode04	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
@@ -520,12 +520,12 @@ SkillTree072_009	Hand Combat Skills		2000	skillIcon001_1	[]	PropertyAdd	(Fight,2
 SkillTree073_000	Golden Swan Skill		5000	skillIcon011_2	[]	Active		0		5	50	Ally	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	Other	0	0	
 SkillTree073_001	Qinggong xiuwei		3000	skillIcon001_1	[]	PropertyAdd	(Qinggong,3)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Fight,0)(Sword,0)(Blade,0)(Spear,0)(Arrow,0)(Short,0)(Doctor,0)(Poison,0)(Neigong,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)(ZOC,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)	0		0	0	Enemy			Target	0		FALSE	0	Less	0	0	
 SkillTree074_000	Disheveled Cloak		15000	SkillTree074_000	[{"Type":1,"Value1":"309","Value2":"80","Operator":0}]	Active		0	skill_wp3c019	7	490	Enemy	circle : { 0, 0, 0 }, 0, 3	fm_atk_circle	Target	0		FALSE	441	Spear	-0.5	SkillTree074_000	
-SkillTree074_001	Spear and Club Proficiency		3000	skillIcon003_2	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree074_002	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree074_003	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree074_004	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree074_005	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree074_006	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree074_001	Expertise in Spear and Staff		3000	skillIcon003_2	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree074_002	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree074_003	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree074_004	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree074_005	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree074_006	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree074_007	Wearing mourning clothes and performing the rites of filial mourning	Disorderly Cloak provides an additional effect of 8 points of internal injury	8000	SkillTree074	[{"Type":2,"Value1":"0","Value2":"3_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree074_007	FALSE	0	None	0	0	SkillTree074_000
 SkillTree074_008	Confused and anxious	Unpredictable Cloak additionally adds an extra 8 points of dizziness effect	8000	SkillTree074	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree074_008	FALSE	0	None	0	0	SkillTree074_000
 SkillTree074_009	Stir up trouble	Wearing a disheveled cape reduces energy expenditure by one point	8000	SkillTree074	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree074_009	FALSE	0	None	0	0	SkillTree074_000
@@ -686,12 +686,12 @@ SkillTree093_007	Sword arts cultivation		4000	skillIcon001_1	[]	PropertyAdd	(Swo
 SkillTree094_000	Swift Fangs and Crimson Claws	Charge	16000	SkillTree094_000	[{"Type":1,"Value1":"304","Value2":"70","Operator":0},{"Type":1,"Value1":"310","Value2":"70","Operator":0}]	Active		0	skill_wp3c009	7	350	Enemy	charge : { 0, 0, 0 }, 0, 4.5, 0, 0.5	fm_atk_rect	Target	0	charge,wounded15	FALSE	539	Spear	-0.5	0	
 SkillTree094_001	Spot the Leopard Spots	External injury	8000	SkillTree094_001	[{"Type":1,"Value1":"304","Value2":"50","Operator":0},{"Type":1,"Value1":"310","Value2":"50","Operator":0}]	Active		1	skill_wp3c010	5	250	Enemy	rect : { 0, 0, 0 }, 0, 2.5, 0, 0.3	fm_atk_rect	Target	0	wounded06	TRUE	250	Spear	-0.5	SkillTree094_001	
 SkillTree094_002	The dead tiger leaves only its skin	As the enemy's external injuries become more severe, the damage they receive is greater	16000	SkillTree094_002	[{"Type":1,"Value1":"304","Value2":"70","Operator":0},{"Type":1,"Value1":"310","Value2":"70","Operator":0}]	Active		1	skill_wp3c011	7	420	Enemy	rect : { 0, 0, 0 }, 0, 2.5, 0, 0.3	fm_atk_rect	Target	0	buffSkillTree094_002	FALSE	490	Spear	-0.5	0	
-SkillTree094_003	Spear and Club Proficiency		4000	skillIcon001_1	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree094_004	Spear and Club Proficiency		4000	skillIcon001_1	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree094_003	Expertise in Spear and Staff		4000	skillIcon001_1	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree094_004	Expertise in Spear and Staff		4000	skillIcon001_1	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree094_005	Teeth like blades	Spotted panther's injury value increases by an additional 6 points	5000	SkillTree094	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree094_005	FALSE	0	None	0	0	SkillTree094_001
-SkillTree094_006	Spear and Club Proficiency		4000	skillIcon001_1	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree094_007	Spear and Club Proficiency		4000	skillIcon001_1	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree094_008	Spear and Club Proficiency		4000	skillIcon001_1	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree094_006	Expertise in Spear and Staff		4000	skillIcon001_1	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree094_007	Expertise in Spear and Staff		4000	skillIcon001_1	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree094_008	Expertise in Spear and Staff		4000	skillIcon001_1	null	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree095_000	The nightingale's song, a midnight oath filled with sorrow at three in the morning		7000	SkillTree095_000	[]	Active		0	skill_wp1c018	5	200	Enemy	rect : { 0, 0, 0 }, 0, 1.75, 0, 0.2	fm_atk_rect	Target	0		TRUE	325	Short	-0.5	SkillTree095_000	
 SkillTree095_001	Like tears in pearls, lamenting the impermanence		17500	SkillTree095_001	[]	Active		0	skill_wp1c019	7	350	Enemy	sector : { 0, 0, 0 }, 0, 1.75, 0, 180	fm_atk_sector	Target	0		TRUE	588	Short	-0.5	SkillTree095_001	
 SkillTree095_002	Short Weapons Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Short,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
@@ -753,8 +753,8 @@ SkillTree101_002	Hand Combat Skills		3000	skillIcon001_1	[]	PropertyAdd	(Fight,3
 SkillTree101_003	Hand Combat Skills		3000	skillIcon001_1	[]	PropertyAdd	(Fight,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree101_004	Hand Combat Skills		3000	skillIcon001_1	[]	PropertyAdd	(Fight,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree101_005	Hand Combat Skills		3000	skillIcon001_1	[]	PropertyAdd	(Fight,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree101_006	Chongzhen zhanchang	Enhanced power of the Great Ancestor's Fist and the Great Ancestor's Staff	4000	SkillTree101	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree101_006	FALSE	0	None	0	0	SkillTree101_000,SkillTree111_000
-SkillTree101_007	Establish authority in the River North	If using Taizu Long Fist or Taizu Staff to attack, reduce the enemy's all special skill values by 3 points upon hit	4000	SkillTree101	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree101_007	FALSE	0	None	0	0	SkillTree101_000,SkillTree111_000
+SkillTree101_006	Chongzhen zhanchang	The power of the Taizu Long Fist and Taizu Club has increased	4000	SkillTree101	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree101_006	FALSE	0	None	0	0	SkillTree101_000,SkillTree111_000
+SkillTree101_007	Establish authority in the River North	If using the Taizu Long Fist or the Taizu Staff, reduce all special skill values of enemies hit by 3 points	4000	SkillTree101	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree101_007	FALSE	0	None	0	0	SkillTree101_000,SkillTree111_000
 SkillTree102_000	Five-Storms Pierce Heart Sword		9500	SkillTree102_000	[]	Active		0	skill_wp1c030	6	300	Enemy	rect : { 0, 0, 0 }, 0, 2, 0, 0.2	fm_atk_rect	Target	0		FALSE	360	Sword	0.5	SkillTree102_000	
 SkillTree102_001	Sword arts cultivation		2000	skillIcon004_5	[]	PropertyAdd	(Sword,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree102_002	Sword arts cultivation		2000	skillIcon001_1	[]	PropertyAdd	(Sword,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
@@ -792,37 +792,37 @@ SkillTree106_001	Blade Arts Cultivation		2000	skillIcon005_5	[]	PropertyAdd	(Bla
 SkillTree107_000	One stroke		4000	skillIcon005_2	[]	Active		0	skill_wp1c037	4	160	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 90	fm_atk_sector	Target	0		TRUE	208	Blade	0.5	0	
 SkillTree107_001	Three Blades		6000	skillIcon005_5	[]	Active		0	skill_wp1c038	6	360	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 120	fm_atk_sector	Target	0		FALSE	360	Blade	0.5	0	
 SkillTree108_000	Four barbarians subdued		6000	SkillTree108_000	[]	Active		1	skill_wp3c012	5	250	Enemy	rect : { 0, 0, 0 }, 0, 2.5, 0, 0.3	fm_atk_rect	Target	0		TRUE	275	Spear	0	SkillTree108_000	
-SkillTree108_001	Spear and Club Proficiency		4000	skillIcon001_5	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree108_002	Spear and Club Proficiency		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree108_003	Spear and Club Proficiency		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree108_001	Expertise in Spear and Staff		4000	skillIcon001_5	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree108_002	Expertise in Spear and Staff		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree108_003	Expertise in Spear and Staff		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree108_004	Dragon emerges from the depths	Four Barbarians' attack range has expanded	3500	SkillTree108	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree108_004	FALSE	0	None	0	0	SkillTree108_000
 SkillTree108_005	The White Snake Spits the Oath	If the Four Barbarians Under Control is used as a counterattack technique, the activation rate of Yellow Sparrow in Pursuit increases by 5%	3500	SkillTree108	[{"Type":2,"Value1":"0","Value2":"1_TalentNode022"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree108_005	FALSE	0	None	0	0	SkillTree108_000
-SkillTree109_000	Wu Lang Gun		4000	SkillTree109_000	[]	Active		1	skill_wp3a004	4	160	Enemy	single : { 0, 0, 0 }, 0, 2.5		Target	1000		TRUE	208	Spear	0	SkillTree109_000	
-SkillTree109_001	Spear and Club Proficiency		2000	skillIcon001_5	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree109_002	Spear and Club Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree109_003	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree109_004	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree109_005	Spear stars and halberd techniques, execute Qilin steps	Wulang's staff range has been expanded	2500	SkillTree109	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree109_005	FALSE	0	None	0	0	SkillTree109_000
+SkillTree109_000	Wu Lang's Staff		4000	SkillTree109_000	[]	Active		1	skill_wp3a004	4	160	Enemy	single : { 0, 0, 0 }, 0, 2.5		Target	1000		TRUE	208	Spear	0	SkillTree109_000	
+SkillTree109_001	Expertise in Spear and Staff		2000	skillIcon001_5	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree109_002	Expertise in Spear and Staff		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree109_003	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree109_004	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree109_005	Staff Star Spear in Qilin Step	Wulang's staff range has been expanded	2500	SkillTree109	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree109_005	FALSE	0	None	0	0	SkillTree109_000
 SkillTree109_006	As the tendrils were pulled back, his soul was no longer present	When Five Lang uses a staff to counterattack, damage increases by 25%	2500	SkillTree109	[{"Type":2,"Value1":"0","Value2":"1_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree109_006	FALSE	0	None	0	0	SkillTree109_000
-SkillTree109_007	Eight Trigram Club		10000	SkillTree109_000	[]	Active		0	skill_wp3c013	6	360	Enemy	circle : { 0, 0, 0 }, 0, 2.5	fm_atk_circle	Target	1000	injured06	TRUE	324	Spear	0	SkillTree109_007	
-SkillTree109_008	Spear and Club Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree109_009	Spear and Club Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree109_010	Hold up the bridge with strength like a pillar	Eight Swinging Sticks' Range Expanded	6000	SkillTree109	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree109_010	FALSE	0	None	0	0	SkillTree109_007
+SkillTree109_007	Eight Trigram Staff		10000	SkillTree109_000	[]	Active		0	skill_wp3c013	6	360	Enemy	circle : { 0, 0, 0 }, 0, 2.5	fm_atk_circle	Target	1000	injured06	TRUE	324	Spear	0	SkillTree109_007	
+SkillTree109_008	Expertise in Spear and Staff		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree109_009	Expertise in Spear and Staff		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree109_010	Hold up the bridge with strength like a pillar	The range of the Eight-Pointed Staff has expanded	6000	SkillTree109	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree109_010	FALSE	0	None	0	0	SkillTree109_007
 SkillTree109_011	Stars move stealthily, startling the essence of bravery	When using the Bagua staff to counterattack, damage increases by 25%	6000	SkillTree109	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree109_011	FALSE	0	None	0	0	SkillTree109_007
-SkillTree110_000	Autumn Geese and Plum Blossoms	Spear	6000	SkillTree110_000	[]	Active		1	skill_wp3c008	5	250	Enemy	rect : { 0, 0, 0 }, 0, 2.5, 0, 0.3	fm_atk_rect	Target	0		TRUE	275	Spear	-0.5	SkillTree110_000	
-SkillTree110_001	Spear and Club Proficiency		4000	skillIcon001_5	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree110_002	Spear and Club Proficiency		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree110_003	Spear and Club Proficiency		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree110_000	Autumn Geese and Plum Blossoms	Spear and Staff	6000	SkillTree110_000	[]	Active		1	skill_wp3c008	5	250	Enemy	rect : { 0, 0, 0 }, 0, 2.5, 0, 0.3	fm_atk_rect	Target	0		TRUE	275	Spear	-0.5	SkillTree110_000	
+SkillTree110_001	Expertise in Spear and Staff		4000	skillIcon001_5	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree110_002	Expertise in Spear and Staff		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree110_003	Expertise in Spear and Staff		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree110_004	Cherry blossoms and rain	Laoyan Lihua's consumption of internal energy has decreased	3500	SkillTree110	[{"Type":2,"Value1":"0","Value2":"3_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree110_004	FALSE	0	None	0	0	SkillTree110_000
 SkillTree110_005	Cherry Blossom Drunken Day	Lost Swans Pear Blossoms add an additional 8 points of confusion	3500	SkillTree110	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree110_005	FALSE	0	None	0	0	SkillTree110_000
-SkillTree111_000	Great Ancestor's Spear Skills		6500	SkillTree111_000	[]	Active		1	skill_wp3c014	5	200	Enemy	single : { 0, 0, 0 }, 0, 2.5		Target	0		TRUE	325	Spear	0.5	SkillTree111_000	
-SkillTree111_001	Spear and Club Proficiency		3000	skillIcon001_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree111_002	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree111_003	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree111_004	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree111_005	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree111_006	Coiling Dragon, Sitting Tiger	Power enhancement of Tai Zu's Staff and Tai Zu's Long Fist	4000	SkillTree111	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree111_006	FALSE	0	None	0	0	SkillTree111_000,SkillTree101_000
-SkillTree111_007	Enrobed in a yellow robe	Using the Taizu Staff or Taizu Long Fist reduces negative states on oneself	4000	SkillTree111	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree111_007	FALSE	0	None	0	0	SkillTree111_000,SkillTree101_000
+SkillTree111_000	The Taizu Staff Technique		6500	SkillTree111_000	[]	Active		1	skill_wp3c014	5	200	Enemy	single : { 0, 0, 0 }, 0, 2.5		Target	0		TRUE	325	Spear	0.5	SkillTree111_000	
+SkillTree111_001	Expertise in Spear and Staff		3000	skillIcon001_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree111_002	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree111_003	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree111_004	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree111_005	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree111_006	Coiling Dragon, Sitting Tiger	The power of the Tai Zu Bang and Tai Zu Long Quan has increased	4000	SkillTree111	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree111_006	FALSE	0	None	0	0	SkillTree111_000,SkillTree101_000
+SkillTree111_007	Enrobed in a yellow robe	Using the Tai Zu Bang or the Tai Zu Long Quan reduces negative conditions on oneself	4000	SkillTree111	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree111_007	FALSE	0	None	0	0	SkillTree111_000,SkillTree101_000
 SkillTree112_000	Throat-sealing arrow		3500	SkillTree112_000	[]	Active		0	skill_wp0b020	4	80	Enemy	air : { 0, 0, 0 }, 2, 5	fm_atk_arrow	Target	0	cramped05	TRUE	208	Arrow	0.5	SkillTree112_000	
 SkillTree112_001	Hidden Weapon Cultivation		3000	skillIcon001_5	[]	PropertyAdd	(Arrow,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree112_002	Seeing blood	The energy consumption for consuming the throat arrow has decreased	2200	SkillTree112	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree112_002	FALSE	0	None	0	0	SkillTree112_000
@@ -968,17 +968,17 @@ SkillTree128_010	Rules are strict and rigorous		5000	SkillTree128_3	[]	Passive		
 SkillTree128_011	Return of the One Yang		20000	SkillTree128_011	[]	Active		0	skill_wp0a058	10	600	Enemy	single : { 0, 0, 0 }, 0, 3	fm_very_yang_attack	Target	0	sealed18	FALSE	800	Fight	1	SkillTree128_011	
 SkillTree128_012	Return of the One Yang		8000	SkillTree128_3	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree128_012	FALSE	0	None	0	0	SkillTree128_000,SkillTree128_004,SkillTree128_011
 SkillTree129_000	Speak with a Buddha's mouth, think with a snake's heart		6400	SkillTree129_000	[{"Type":1,"Value1":"304","Value2":"70","Operator":0}]	Active		1	skill_wp3c006	5	250	Enemy	sector : { 0, 0, 0 }, 0, 2.5, 0, 90	fm_atk_sector	Target	0		TRUE	275	Spear	-0.5	SkillTree129_000	
-SkillTree129_001	Spear and Club Proficiency		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree129_001	Expertise in Spear and Staff		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree129_002	Blind mouth	Having a snake's heart but speaking like a Buddha, reducing energy consumption by 1 point	3600	SkillTree129	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree129_002	FALSE	0	None	0	0	SkillTree129_000
 SkillTree129_003	Snake Heart	Snake in the Heart, Tongue of Buddha, granting an additional 5 points of dizziness and 5 points of confusion	3600	SkillTree129	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree129_003	FALSE	0	None	0	0	SkillTree129_000
-SkillTree129_004	Spear and Club Proficiency		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree129_005	Spear and Club Proficiency		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree129_006	Spear and Club Proficiency		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree129_004	Expertise in Spear and Staff		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree129_005	Expertise in Spear and Staff		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree129_006	Expertise in Spear and Staff		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree129_007	Dodging like a broken snake		13000	SkillTree129_007	[{"Type":1,"Value1":"304","Value2":"70","Operator":0}]	Active		1	skill_wp3c007	7	420	Enemy	sector : { 0, 0, 0 }, 0, 2.5, 0, 110	fm_atk_sector	Target	0		FALSE	516	Spear	-0.5	SkillTree129_007	
 SkillTree129_008	Broken in a fight	Cost to use Snake-like Tactic reduced by 1 point	7500	SkillTree129_2	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree129_008	FALSE	0	None	0	0	SkillTree129_007
 SkillTree129_009	Serpentine	Serpentine Motion adds an additional 8 points of dizziness and 8 points of confusion	7500	SkillTree129_2	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree129_009	FALSE	0	None	0	0	SkillTree129_007
-SkillTree129_010	Spear and Club Proficiency		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree129_011	Spear and Club Proficiency		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree129_010	Expertise in Spear and Staff		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree129_011	Expertise in Spear and Staff		3000	skillIcon003_5	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree130_000	Soft Jade Warm Fragrance		6000	SkillTree130_000	[]	Active		0	skill_wp0a039	5	200	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	0		TRUE	300	Fight	-0.5	SkillTree130_000	
 SkillTree130_001	Hand Combat Skills		2000	skillIcon003_5	[]	PropertyAdd	(Fight,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree130_002	Hand Combat Skills		3000	skillIcon001_1	[]	PropertyAdd	(Fight,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
@@ -1168,7 +1168,7 @@ SkillTree153_004	Complete Martial Cultivation		6000	skillIcon001_1	[]	PropertyAd
 SkillTree153_005	Complete Martial Cultivation		6000	skillIcon001_1	[]	PropertyAdd	(Fight,1)(Sword,1)(Blade,1)(Spear,1)(Arrow,1)(Short,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree153_006	All Martial Skills Cultivation		6000	skillIcon001_1	[]	PropertyAdd	(Fight,1)(Sword,1)(Blade,1)(Spear,1)(Arrow,1)(Short,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree153_007	Complete Martial Cultivation		6000	skillIcon001_1	[]	PropertyAdd	(Fight,1)(Sword,1)(Blade,1)(Spear,1)(Arrow,1)(Short,1)(HP,0)(MaxHP,0)(MP,0)(MaxMP,0)(AP,0)(MaxAP,0)(RecoverAP,0)(Speed,0)(Physique,0)(Intelligence,0)(ZOC,0)(Money,0)(Madness,0)(Moral,0)(Reputation,0)(Doctor,0)(Poison,0)(Neigong,0)(Qinggong,0)(HurbKnowledge,0)(MineralKnowledge,0)(StealKnowledge,0)(BusinessKnowledge,0)(Injured,0)(Wounded,0)(Poisoned,0)(Sealed,0)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree154_000	Grand Mystery Divine Skill	When performing the Yuanxuan Jing, Martial Skills such as Hand Combat, Sword Art, Blade Art, Spear and Club, Hidden Weapons, Short Weapons, and Qinggong each increase by 12 points	28500	SkillTree154_000	[{"Type":1,"Value1":"309","Value2":"150","Operator":0}]	Operative		0		0	0	Enemy			Target	0	buffSkillTree154_000	FALSE	0	None	0	SkillTree154_000	
+SkillTree154_000	Grand Mystery Divine Skill	When practicing the Yuanxu Jing, each of the following skills is increased by 12 points: hand combat, sword art, blade art, spear and staff, hidden weapon, short weapons, and qinggong	28500	SkillTree154_000	[{"Type":1,"Value1":"309","Value2":"150","Operator":0}]	Operative		0		0	0	Enemy			Target	0	buffSkillTree154_000	FALSE	0	None	0	SkillTree154_000	
 SkillTree154_001	Neigong cultivation		8000	skillIcon001_1	null	PropertyAdd	(Neigong,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree154_002	Neigong cultivation		8000	skillIcon001_1	null	PropertyAdd	(Neigong,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree154_003	White-Haired Patriarch's Extreme Mystery Classic	When running the Yuanxuan Jing, hand combat, sword arts, blade arts, spear and staff, hidden weapons, short weapons, and qinggong each increase by 24 points	15000	SkillTree154	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree154_003	FALSE	0	None	0	0	SkillTree154_000
@@ -1188,14 +1188,14 @@ SkillTree156_001	Chimpanzee Twin Fists		1	skillIcon001_1	[]	Active		0	al20045@at
 SkillTree156_002	Chimpanzee Twin Fists		1	skillIcon001_1	[]	Active		0	al20045@attack_2	7	80	Enemy	single : { 0, 0, 0 }, 0, 2.0		Enemys	1500		FALSE	700	Other	0	0	
 SkillTree156_003	Chimpanzee Twin Fists		1	skillIcon001_1	[]	Active		0	al20045@attack_2	8	120	Enemy	single : { 0, 0, 0 }, 0, 2.5		Enemys	2000		FALSE	850	Other	0	0	
 SkillTree157_000	Monk Sand-Sun		8000	SkillTree157_000	null	Active		0	skill_wp3c017	5	200	Enemy	single : { 0, 0, 0 }, 0,2.5		Target	0		TRUE	325	Spear	0.5	SkillTree157_000	
-SkillTree157_001	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree157_001	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree157_002	Heart to Kill	As the value becomes crazier, the power of the Shamen Tian Guo Star increases	5000	SkillTree157	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree157_002	FALSE	0	None	0	0	SkillTree157_000
-SkillTree157_003	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree157_004	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree157_003	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree157_004	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree157_005	Dispute at the Zen Monastery	As the value of kang zhi increases, the impact of falling in the chaotic Zen forest becomes more powerful	17000	SkillTree157_005	[]	Active		0	skill_wp3c018	7	490	Enemy	circle : { 0, 0, 0 }, 0, 2.5	fm_very_yang_circle	Target	0	buffSkillTree157_005	FALSE	441	Spear	1	SkillTree157_005	
-SkillTree157_006	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree157_007	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree157_008	Spear and Club Proficiency		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree157_006	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree157_007	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree157_008	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree157_009	Blaspheme against the Buddhas	Monk Sand-Sun Star, Shaven Head Monastery Extra Effect of Retardation During Retaliation	8500	SkillTree157_2	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree157_009	FALSE	0	None	0	0	SkillTree157_000,SkillTree157_005
 SkillTree157_010	Drink Guanyin tea	Shamen Tianguxing, Lofa Naohelin Additional Deterring Effect	8500	SkillTree157_2	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree157_010	FALSE	0	None	0	0	SkillTree157_000,SkillTree157_005
 SkillTree158_000	Golden Bell Cocoon		15000	SkillTree158_000	[{"Type":1,"Value1":"309","Value2":"70","Operator":0}]	Operative		0		0	0	Ally			Target	0	buffSkillTree158_000	FALSE	0	Other	1	SkillTree158_000	

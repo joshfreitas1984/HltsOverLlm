@@ -2884,7 +2884,7 @@
   splits:
   - split: 1
     text: "加强枪棍伤害一阶"
-    translated: "Enhance spear damage by one level"
+    translated: "Enhance spear and staff damage by one level"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2900,7 +2900,7 @@
   splits:
   - split: 1
     text: "加强枪棍伤害二阶"
-    translated: "Enhance spear and club damage by level two"
+    translated: "Enhance spear and staff damage by two levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2916,13 +2916,13 @@
   splits:
   - split: 1
     text: "加强枪棍伤害三阶"
-    translated: "Enhance spear and club damage by three levels"
+    translated: "Enhance spear and staff damage by three levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "加强枪棍伤害8%"
-    translated: "Enhance spear and club damage by 8%"
+    translated: "Enhance spear and staff damage by 8%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2932,13 +2932,13 @@
   splits:
   - split: 1
     text: "加强枪棍伤害四阶"
-    translated: "Enhance spear or staff damage by four levels"
+    translated: "Enhance spear and staff damage by four levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "加强枪棍伤害10%"
-    translated: "Enhance spear and club damage by 10%"
+    translated: "Enhance spear and staff damage by 10%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2948,7 +2948,7 @@
   splits:
   - split: 1
     text: "加强枪棍伤害五阶"
-    translated: "Enhance spear staff damage by five levels"
+    translated: "Enhance spear and staff damage by five levels"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4778,7 +4778,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "折戟沉沙的消耗精力增加1点，招式威力增强，并附加8点外伤"
-    translated: "Break Spear, Sand Burial increases energy consumption by 1 point, enhances the power of the technique, and inflicts an additional 8 points of external injury"
+    translated: "Consuming an additional 1 point of energy, the technique becomes more powerful and inflicts an extra 8 points of external injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6020,7 +6020,7 @@
   splits:
   - split: 1
     text: "拄刀立身"
-    translated: "Use a staff to live upright"
+    translated: "To stand upright by leaning on a blade"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9258,7 +9258,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "太祖长拳、太祖棒的威力增强"
-    translated: "The power of the Great Ancestor's Palm and Staff techniques has been enhanced"
+    translated: "The power of Taizu's Long Fist and Taizu's Pole has been enhanced"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9274,7 +9274,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若使用太祖长拳、太祖棒攻击，降低中招敌人的所有特技值3点"
-    translated: "If you use Tai Zu's Long Fist or Tai Zu's Staff to attack, it will decrease the target's all skill values by 3 points upon being struck"
+    translated: "If using Taizu's Long Fist or Taizu's Pole to attack, reduce the enemy's skill values by 3 points upon being hit"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9434,7 +9434,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "五郎棍的范围扩大"
-    translated: "Five Brothers Club's range expanded"
+    translated: "Wulang's staff range has been expanded"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9450,7 +9450,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "以五郎棍反击时，伤害增加15%"
-    translated: "When using the Five Brothers Spear for counterattacks, damage increases by 15%"
+    translated: "When counterattacking with the Wulang's staff, damage increases by 15%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9466,7 +9466,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "八挂棍的范围扩大"
-    translated: "Eight-pronged Hook's Range Expanded"
+    translated: "The range of the Eight-Pointed Staff has expanded"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9530,7 +9530,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "太祖棒、太祖长拳的威力增强"
-    translated: "Enhanced power of the Tai Zu Staff and Tai Zu Long Fist"
+    translated: "The power of the Tai Zu Pole and Tai Zu Long Fist has been enhanced"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11146,7 +11146,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "面对枪棍招式并以婵娟一剑反击时，必先闪避敌招后再进行反击"
-    translated: "When faced with spear techniques, one must first dodge the enemy's move and then counterattack with a graceful sword strike"
+    translated: "When facing spear and staff techniques and counterattacking with the Chanyan Sword, you must first evade the enemy's attack before launching your counterattack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11946,7 +11946,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加12点"
-    translated: "When operating the Tai Xuan Jing, each of Jiuchijian (Hand Combat), Jianfa (Sword Arts), Dao Fa (Blade Arts), Qianggun (Spear and Club), Anqi (Hidden Weapons), Duanchen (Short Weapons), and Qinggong (Light Steps) increases by 12 points"
+    translated: "When practicing the Yuanxuan Jing, all skills in hand combat, sword art, blade art, spear and staff techniques, hidden weapons, short weapons, and qinggong each increase by 12 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11962,7 +11962,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加24点"
-    translated: "When performing the Yuan Xuan Jing, each of the following skills increases by 24 points: Hand Combat, Sword Arts, Blade Arts, Spear and Club, Hidden Weapon, Short Weapons, Qinggong"
+    translated: "When practicing the Tai Xuan Jing, increase Hand Combat, Sword Art, Blade Art, Spear and Staff techniques, Hidden Weapons, Short Weapons, and Qinggong each by 24 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11978,7 +11978,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行太玄经时，搏击、剑法、刀法、枪棍、暗器、短兵、轻功，各增加24点"
-    translated: "During the activation of the Yuan Xian Jing, Hand Combat, Sword Arts, Blade Arts, Spear and Club, Hidden Weapon, Short Weapons, and Qinggong each increase by 24 points"
+    translated: "When performing the Tai Xuan Jing, combat skills increase by 24 points: Hand Combat, Sword Art, Blade Art, Spear and Staff, Hidden Weapons, Short Weapons, Qinggong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14596,7 +14596,7 @@
   splits:
   - split: 1
     text: "飞虹剑阵"
-    translated: "Phoenix Spear Formation"
+    translated: "Flying Rainbow Sword Formation"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16372,7 +16372,7 @@
   splits:
   - split: 1
     text: "振枪不屈"
-    translated: "Unyielding with the lance"
+    translated: "Raise the Spear with Unyielding Spirit"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16442,7 +16442,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "木奎身陷危境，孤枪奋战！战斗能力大幅提升，并持续恢复自身气血！"
-    translated: "Mu Kui is in a perilous situation, fighting alone with determination! His combat abilities have greatly increased, and he continuously restores his lifeforce!"
+    translated: "Mu Kui finds himself in a perilous situation, fighting bravely with just his spear! His combat abilities have significantly increased, and he continuously restores his own lifeforce!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -18068,7 +18068,7 @@
   splits:
   - split: 1
     text: "「木府军阀」"
-    translated: "Army Commanders of the Mu Clan"
+    translated: "The Mu Mansion Warlords"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -18852,7 +18852,7 @@
   splits:
   - split: 1
     text: "「狼蛮国师」"
-    translated: "Wolves' Barbarian Master"
+    translated: "The Wolf Barbarian Grandmaster"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20644,7 +20644,7 @@
   splits:
   - split: 1
     text: "三朵神枪"
-    translated: "Three Divine Cannons"
+    translated: "Three Divine Spears"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20660,7 +20660,7 @@
   splits:
   - split: 1
     text: "三朵神枪"
-    translated: "Three Divine Gun Techniques"
+    translated: "Three Divine Spears"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20676,7 +20676,7 @@
   splits:
   - split: 1
     text: "三朵神枪"
-    translated: "Three Divine Cannonballs"
+    translated: "Three Divine Spears"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20692,7 +20692,7 @@
   splits:
   - split: 1
     text: "玉龙神枪"
-    translated: "Jade Dragon Divine Gun"
+    translated: "The Jade Dragon Divine Spear"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20708,7 +20708,7 @@
   splits:
   - split: 1
     text: "玉龙神枪"
-    translated: "Jade Dragon Divine Gun"
+    translated: "The Jade Dragon Divine Spear"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20724,7 +20724,7 @@
   splits:
   - split: 1
     text: "玉龙神枪"
-    translated: "Jade Dragon Divine Gun"
+    translated: "The Jade Dragon Divine Spear"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

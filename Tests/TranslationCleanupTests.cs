@@ -228,7 +228,7 @@ public class TranslationCleanupTests
         if (!result.Valid)
         {
             Console.WriteLine($"Invalid {outputFile} Failures:{result.CorrectionPrompt}\n{split.Translated}");
-            split.Translated = string.Empty;
+            split.FlaggedForRetranslation = true;
             modified = true;
         }
 

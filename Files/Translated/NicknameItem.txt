@@ -1198,7 +1198,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "当装备玉龙神枪时，枪棍招式威力+25%"
-    translated: "When equipped with the Jade Dragon Divine Spear, spear technique power increases by 25%"
+    translated: "When equipped with the Jade Dragon Holy Spear, spear and staff techniques gain +25% power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1214,7 +1214,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "当装备玉龙神枪时，枪棍招式威力+25%"
-    translated: "When equipped with the Jade Dragon Divine Spear, spear techniques power increases by 25%"
+    translated: "When equipped with the Jade Dragon Divine Spear, spear and staff techniques have a +25% increase in power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1432,7 +1432,7 @@
   splits:
   - split: 1
     text: "木府军阀"
-    translated: "Forest Clan Warlord"
+    translated: "Mu Mansion Warlord"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2120,7 +2120,7 @@
   splits:
   - split: 1
     text: "狼蛮国师"
-    translated: "Wugenguo Shishi"
+    translated: "Wolf Barbarian Grandmaster"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

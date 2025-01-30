@@ -9,20 +9,20 @@ st0003e	Breaking Mountain Blade (Ma Gang members, low level)	it30305	0	0	SkillTr
 st0004	Green Bamboo (Green Sky Blade Art)	it30306	0	0	SkillTree023_000,SkillTree023_004,SkillTree023_001
 st0004b	He Hongyuan (Qingtian Blade Arts)	it30306	0	0	SkillTree023_000,SkillTree023_001,SkillTree023_002,SkillTree023_003,SkillTree023_004,SkillTree023_005,SkillTree023_006,SkillTree023_007,SkillTree023_008,SkillTree023_009,SkillTree023_010,SkillTree023_011
 st0005	Archery Hunting Skills	it30501	0	0	SkillTree118_000,SkillTree118_001
-st0006	Yecha Gung (Gang)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree038_002,SkillTree038_003,SkillTree038_007
+st0006	Night-demon staff (Just)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree038_002,SkillTree038_003,SkillTree038_007
 st0006b	Night Demon Staff (Action)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree038_002,SkillTree038_003,SkillTree038_008
-st0006c	Yecha Gun (Qu)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree038_002,SkillTree038_003,SkillTree038_009
-st0006d	Devil's Club (High)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree038_002,SkillTree038_003,SkillTree038_004,SkillTree038_005,SkillTree038_006,SkillTree038_007,SkillTree038_008,SkillTree038_009
-st0006e	A Night Hunter's Stick (Luo Yuanyu)	it30408	0	0	SkillTree038_000
+st0006c	Night Serpent Staff (Sly)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree038_002,SkillTree038_003,SkillTree038_009
+st0006d	Yecha Staff (High)	it30408	0	0	SkillTree038_000,SkillTree038_001,SkillTree038_002,SkillTree038_003,SkillTree038_004,SkillTree038_005,SkillTree038_006,SkillTree038_007,SkillTree038_008,SkillTree038_009
+st0006e	Yecha Staff (Luo Yuanyu)	it30408	0	0	SkillTree038_000
 st0007	Heaven Nine (Low)	it30504	0	0	SkillTree055_008
 st0007b	Tian Zi Jiu Da (Shu Guangbi)	it30504	0	0	SkillTree055_000,SkillTree055_001,SkillTree055_002,SkillTree055_003,SkillTree055_004,SkillTree055_005,SkillTree055_006,SkillTree055_007,SkillTree055_008
 st0008	Yellow Sands Blade Arts (Just now)	it30303	0	0	SkillTree001_000,SkillTree001_004,SkillTree046_000
 st0008b	Huang Sha Blade Arts (Clumsy)	it30303	0	0	SkillTree001_000,SkillTree001_005,SkillTree046_000
 st0008c	Yellow Sand Blade Arts (High)	it30303	0	0	SkillTree001_000,SkillTree001_001,SkillTree001_001,SkillTree001_002,SkillTree001_003,SkillTree001_004,SkillTree001_005
-st0010	Yue Family Swordplay (Just now)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_005
-st0010b	Yue Family Swordsmanship (Move)	it30402	0	0	SkillTree003_000,SkillTree003_007,SkillTree003_004
-st0010c	Yue Family Swordsmanship (High)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_002,SkillTree003_003,SkillTree003_004,SkillTree003_005,SkillTree003_006,SkillTree003_007,SkillTree003_008,SkillTree003_009
-st0010d	Yue Family Swordsmanship (Wang Zhe)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_007,SkillTree003_004
+st0010	Yue Family Spear Art (Just)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_005
+st0010b	Yue Family Spear Art (Move)	it30402	0	0	SkillTree003_000,SkillTree003_007,SkillTree003_004
+st0010c	Yue Family Spear Art (High)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_002,SkillTree003_003,SkillTree003_004,SkillTree003_005,SkillTree003_006,SkillTree003_007,SkillTree003_008,SkillTree003_009
+st0010d	Yue family spear art (Wang Zhe)	it30402	0	0	SkillTree003_000,SkillTree003_001,SkillTree003_007,SkillTree003_004
 st0011	Yue Family Hand Art (Low)	it30108	0	0	SkillTree072_000
 st0011b	Yue Family Hand Art (High)	it30108	0	0	SkillTree072_000,SkillTree072_002
 st0011c	Yue Family Hand Art (Wang Zhe)	it30108	0	0	SkillTree072_000,SkillTree072_001,SkillTree072_002,SkillTree072_003,SkillTree072_004,SkillTree072_005
@@ -35,7 +35,7 @@ st0014	Throwing Hand Choke (Low)	it30515	0	0	SkillTree112_000,SkillTree112_001
 st0014b	Slap the wrist and choke	it30515	0	0	SkillTree112_000,SkillTree112_001,SkillTree112_008
 st0014c	Slap hand and strangle neck (Chinese martial arts technique)	it30515	0	0	SkillTree112_000,SkillTree112_001,SkillTree112_002
 st0014d	High-Level Swat-Hand Neck Seal	it30515	0	0	SkillTree112_000,SkillTree112_001,SkillTree112_002,SkillTree112_003,SkillTree112_004,SkillTree112_005,SkillTree112_006,SkillTree112_007,SkillTree112_008,SkillTree112_009
-st0015	Dragon Roar Piercing Cloud Spear (High)	it30403	0	0	SkillTree010_000,SkillTree010_001,SkillTree010_002,SkillTree010_003,SkillTree010_004,SkillTree010_005,SkillTree010_006,SkillTree010_007,SkillTree010_008,SkillTree010_009,SkillTree010_010,SkillTree010_011,SkillTree010_012
+st0015	Dragon's Roar Pierces Cloud Spear (Tall)	it30403	0	0	SkillTree010_000,SkillTree010_001,SkillTree010_002,SkillTree010_003,SkillTree010_004,SkillTree010_005,SkillTree010_006,SkillTree010_007,SkillTree010_008,SkillTree010_009,SkillTree010_010,SkillTree010_011,SkillTree010_012
 st0016	Wolf	it31801	0	0	SkillTree024_000,SkillTree024_001
 st0016b	Wolf	it31801	0	0	SkillTree024_000,SkillTree024_001,SkillTree024_002
 st0016c	Wolf King (Gao)	it31801	0	0	SkillTree024_001,SkillTree024_002,SkillTree024_001,SkillTree024_003
@@ -111,11 +111,11 @@ st0064	Flower fist, embroidered leg	it30120	0	0	SkillTree028_000,SkillTree028_00
 st0065	Snowflake Whirling Blade Technique	it30319	0	0	SkillTree106_000
 st0066	Triple Ring Blade Art	it30320	0	0	SkillTree107_000
 st0066b	Three-Linked Ring Blade Art (High)	it30320	0	0	SkillTree107_000,SkillTree107_001
-st0067a	Three Divine Spears (Mu Family Soldier, Low)	it30404	0	0	SkillTree021_000,SkillTree021_001,SkillTree021_003
-st0067b	Three Divine Spears (Mu Family Soldier) (Middle)	it30404	0	0	SkillTree021_000,SkillTree021_001,SkillTree021_002,SkillTree021_003,SkillTree021_004,SkillTree021_005
+st0067a	Three Divine Spears (Mu Mansion soldier)  (Low)	it30404	0	0	SkillTree021_000,SkillTree021_001,SkillTree021_003
+st0067b	Three Divine Spears (Mu Mansion soldier)  (Chinese)	it30404	0	0	SkillTree021_000,SkillTree021_001,SkillTree021_002,SkillTree021_003,SkillTree021_004,SkillTree021_005
 st0067c	Wooden Club (Three Divine Spears)	it30404	0	0	SkillTree021_000,SkillTree021_001,SkillTree021_002,SkillTree021_003,SkillTree021_004,SkillTree021_005,SkillTree021_006
 st0067d	Three Divine Spears	it30404	0	0	SkillTree021_000,SkillTree021_001,SkillTree021_002,SkillTree021_003,SkillTree021_004,SkillTree021_005,SkillTree021_006,SkillTree021_007,SkillTree021_008,SkillTree021_009,SkillTree021_010,SkillTree021_012
-st0067e	Gold Kun (Three Flowers Divine Spear)	it30404	0	0	SkillTree021_000,SkillTree021_001,SkillTree021_002,SkillTree021_003,SkillTree021_004,SkillTree021_005,SkillTree021_006,SkillTree021_008,SkillTree021_009,SkillTree021_010
+st0067e	Jin Kun (Three Divine Spears)	it30404	0	0	SkillTree021_000,SkillTree021_001,SkillTree021_002,SkillTree021_003,SkillTree021_004,SkillTree021_005,SkillTree021_006,SkillTree021_008,SkillTree021_009,SkillTree021_010
 st0067f	Ade Ake (Three Divine Spearheads)	it30404	0	0	SkillTree021_000,SkillTree021_001,SkillTree021_002,SkillTree021_003
 st0068a	Flying Hawk Arrow Secret (Dance Technique)	it30512	0	0	SkillTree069_000,SkillTree069_001,SkillTree069_002
 st0068b	Masterful Hawk Arrow Technique (Zhue Gang)	it30512	0	0	SkillTree069_000,SkillTree069_003,SkillTree069_004
@@ -138,7 +138,7 @@ st0073b	Five Thunder Puncturing Heart Sword (Movement)	it30226	0	0	SkillTree102_
 st0073c	Wulei Chuanxin Jian (Gao)	it30226	0	0	SkillTree102_000,SkillTree102_001,SkillTree102_002,SkillTree102_003,SkillTree102_004,SkillTree102_005,SkillTree102_006,SkillTree102_007,SkillTree102_008
 st0074	Flower Blossoms in Chaos Sword (Wen Cuizhi, Jie Changning)	it30216	0	0	SkillTree014_000,SkillTree014_001,SkillTree014_002,SkillTree014_003,SkillTree014_004,SkillTree014_005,SkillTree014_006,SkillTree014_007
 st0075a	Seven Stars Swordsmanship (Wang Zhe)	it30218	0	0	SkillTree071_000,SkillTree071_002,SkillTree071_003,SkillTree071_004
-st0075b	Yue Family Swordsmanship (Wang Zhe)	it30402	0	0	SkillTree003_000
+st0075b	Yue family spear art (Wang Zhe)	it30402	0	0	SkillTree003_000
 st0075c	Great Clarity Kun Qi (Wang Zhe)	it30724	0	0	SkillTree160_000
 st0075d	Gold Goose Technique (Wang Zhe)	it30811	0	0	SkillTree073_000
 st0076a	The Ten-Section Long Fist (Zhang Junbao)	it30110	0	0	SkillTree159_000,SkillTree159_001,SkillTree159_002,SkillTree159_003,SkillTree159_004
@@ -158,7 +158,7 @@ st0081a	The Red Sleeve Song (Fan Xiangdie)	it30603	0	0	SkillTree083_000,SkillTre
 st0082a	Farming Master (Villager)  (Short weapons external injury)	it30605	0	0	SkillTree027_000,SkillTree028_000
 st0082b	Farmer's technique (villager) (short weapons internal injury)	it30605	0	0	SkillTree027_001,SkillTree028_001
 st0082c	Farmer's Martial Arts Style (Villager) Short Weapons Major External Injury	it30605	0	0	SkillTree027_002,SkillTree028_000
-st0082d	Farmer's Technique (Villager) (Spear Skills, Internal Injury)	it30605	0	0	SkillTree027_003,SkillTree028_001
+st0082d	Field Overseer (The villager)  (Internal injuries from spear or staff)	it30605	0	0	SkillTree027_003,SkillTree028_001
 st0083	Monkey Fist Palm (Mixed Fishes) Action	it30111	0	0	SkillTree121_000,SkillTree121_002,SkillTree121_003,SkillTree121_004
 st0083b	Nine Palaces Eight Trigrams Palm (Mixed Fish) (Clever)	it30111	0	0	SkillTree121_000,SkillTree121_002,SkillTree121_003,SkillTree121_005
 st0083c	The Jiugong Bagua Palm (High)	it30111	0	0	SkillTree121_000,SkillTree121_002,SkillTree121_003,SkillTree121_004,SkillTree121_001,SkillTree121_005,SkillTree121_006,SkillTree121_007
@@ -176,10 +176,10 @@ st0090	Dark Heaven Martial Scripture (Zhanyin Fei)	it30611	0	0	SkillTree096_000,
 st0091	Changhong Swordsmanship (Ye Yulong)	it30217	0	0	SkillTree124_000,SkillTree124_003,SkillTree124_007,SkillTree124_002,SkillTree124_004,SkillTree124_005
 st0091b	Changhong Swordsmanship (Ye Jinhong)	it30217	0	0	SkillTree124_000,SkillTree124_001,SkillTree124_002,SkillTree124_003,SkillTree124_004,SkillTree124_005,SkillTree124_006,SkillTree124_007,SkillTree124_008,SkillTree124_009,SkillTree124_010
 st0091c	Long Rainbow Swordsmanship (Low)	it30217	0	0	SkillTree124_000,SkillTree124_004,SkillTree124_005
-st0092	The Eighteen Paths of the Leopard's Change Gun (Everyone at Panther King Camp)  (Low)	it30414	0	0	SkillTree094_001
-st0092b	The Eighteen Way Transforming Spear (The many of Panther King Camp)  (Chinese)  (Clever)	it30414	0	0	SkillTree094_001,SkillTree094_002,SkillTree094_003,SkillTree094_004
-st0092c	The 18 Way Chameleon Gun (The people of the Panther King Camp)  (Yes)  (Move)	it30414	0	0	SkillTree094_001,SkillTree094_000,SkillTree094_006,SkillTree094_007
-st0092d	Eighteen Variations on the Leopard Transformation Spear (Feng Guanxi)	it30414	0	0	SkillTree094_000,SkillTree094_001,SkillTree094_002,SkillTree094_003,SkillTree094_004,SkillTree094_005,SkillTree094_006,SkillTree094_007,SkillTree094_008
+st0092	Eighteen Path Chameleon Spear (Everyone at Panther King Camp)  (Low)	it30414	0	0	SkillTree094_001
+st0092b	Eighteen Routes Chameleon Spear (The many of Panther King Camp)  (Understood)  (Crafty)	it30414	0	0	SkillTree094_001,SkillTree094_002,SkillTree094_003,SkillTree094_004
+st0092c	Eighteen Routes of the Transforming Leopard Spear (The people of Panther King Camp)  (Chinese)  (Move)	it30414	0	0	SkillTree094_001,SkillTree094_000,SkillTree094_006,SkillTree094_007
+st0092d	Eighteen Routes of the Leopard Spear (Wang Feng watches a play)	it30414	0	0	SkillTree094_000,SkillTree094_001,SkillTree094_002,SkillTree094_003,SkillTree094_004,SkillTree094_005,SkillTree094_006,SkillTree094_007,SkillTree094_008
 st0093	The Old Fisherman's Way (Old Fisherman)	it30604	0	0	SkillTree004_000,SkillTree004_001,SkillTree004_002,SkillTree004_003,SkillTree004_004,SkillTree004_005,SkillTree004_006,SkillTree004_007,SkillTree004_008,SkillTree004_009
 st0094	Eight Drunken Immortals Sword (Xu Xiake)	it30222	0	0	SkillTree126_000,SkillTree126_001,SkillTree126_002,SkillTree126_003,SkillTree126_004,SkillTree126_005,SkillTree126_006,SkillTree071_000
 st0095	Light Pine Wind Sword Technique	it30221	0	0	SkillTree002_000,SkillTree002_001
@@ -192,7 +192,7 @@ st0096c	Violent Rain and Plum Blossoms (Dynamic)	it30517	0	0	SkillTree114_000,Sk
 st0096d	Downpour of Plum Blossoms (Gao)	it30517	0	0	SkillTree114_000,SkillTree114_001,SkillTree114_002,SkillTree114_003,SkillTree114_004,SkillTree114_005,SkillTree114_006,SkillTree114_007,SkillTree114_008,SkillTree114_009
 st0097	Purple Snake Blade Art (Clever)  (He Baishao)	it30310	0	0	SkillTree089_002,SkillTree089_003,SkillTree089_005,SkillTree089_007
 st0097b	Blade Arts of the Green Snake (Clever)  (He Ziwang)	it30310	0	0	SkillTree089_000,SkillTree089_004,SkillTree089_006,SkillTree089_008
-st0098	Diablo's Wandering Pole Technique (Skillful Movement) (Boshibo)	it30401	0	0	SkillTree129_000,SkillTree129_001,SkillTree129_002,SkillTree129_003,SkillTree129_004,SkillTree129_005,SkillTree129_006,SkillTree129_007,SkillTree129_008,SkillTree129_009,SkillTree129_010,SkillTree129_011
+st0098	Dragon Venom Whirlwind Staff (Quick Movement)  (Esbor)	it30401	0	0	SkillTree129_000,SkillTree129_001,SkillTree129_002,SkillTree129_003,SkillTree129_004,SkillTree129_005,SkillTree129_006,SkillTree129_007,SkillTree129_008,SkillTree129_009,SkillTree129_010,SkillTree129_011
 st0098b	Dragon's Venom Staff (Low Level)	it30401	0	0	SkillTree129_000,SkillTree129_001,SkillTree129_002,SkillTree129_003,SkillTree129_004,SkillTree129_005,SkillTree129_006
 st0099	Shi Tu Jing (Serpent Venom Blood Skill)	it30105	0	0	SkillTree097_000,SkillTree097_001,SkillTree097_003,SkillTree097_004,SkillTree097_005,SkillTree097_006,SkillTree097_007,SkillTree097_008,SkillTree097_009
 st0099b	The Barrier of Martial Arts (Corpse Serpent Poison Blood Skill)	it30105	0	0	SkillTree097_000,SkillTree097_001,SkillTree097_002,SkillTree097_003,SkillTree097_004,SkillTree097_005,SkillTree097_006,SkillTree097_007,SkillTree097_008,SkillTree097_009,SkillTree097_010
@@ -254,15 +254,15 @@ st0122	Mountain Demonic Claw (Action)	it30118	0	0	SkillTree017_000,SkillTree017_
 st0122b	Mountain Demon's (Artful) Claw	it30118	0	0	SkillTree017_000,SkillTree017_001,SkillTree017_002,SkillTree017_003
 st0122c	Mountain Goblin Demon King	it30118	0	0	SkillTree017_000,SkillTree017_001,SkillTree017_002,SkillTree017_003,SkillTree017_004,SkillTree017_005,SkillTree017_006,SkillTree017_007,SkillTree017_009,SkillTree017_011
 st0122d	Mountain Demon Ghost (Provisional)	it30105	0	0	SkillTree097_000
-st0123	Central Pole Staff Technique (Low)	it30406	0	0	SkillTree108_000,SkillTree108_001,SkillTree108_002
-st0123b	High-level Central Steady Spear Technique	it30406	0	0	SkillTree108_000,SkillTree108_001,SkillTree108_002,SkillTree108_003,SkillTree108_004,SkillTree108_005
-st0124	Wu Lang Ba Gua Gun (Jing) (Di)	it30100	0	0	SkillTree109_000,SkillTree109_001,SkillTree109_002,SkillTree109_006
+st0123	Zhongping Spear Art (Low)	it30406	0	0	SkillTree108_000,SkillTree108_001,SkillTree108_002
+st0123b	Chung Ping Spear Art (Gao)	it30406	0	0	SkillTree108_000,SkillTree108_001,SkillTree108_002,SkillTree108_003,SkillTree108_004,SkillTree108_005
+st0124	Wu Lang Eight Trigrams Staff (Quiet)  (Low)	it30100	0	0	SkillTree109_000,SkillTree109_001,SkillTree109_002,SkillTree109_006
 st0124b	Eight Diagram Staff (Inept, Low)	it30100	0	0	SkillTree109_000,SkillTree109_001,SkillTree109_002,SkillTree109_005
-st0124c	Wu Lang Eight Trigram Pole (Stillness, Medium)	it30100	0	0	SkillTree109_000,SkillTree109_001,SkillTree109_002,SkillTree109_006,SkillTree109_003,SkillTree109_004,SkillTree109_011
-st0124d	Wu Lang Ba Gua Gun (Zuo) (Zhong)	it30100	0	0	SkillTree109_000,SkillTree109_001,SkillTree109_002,SkillTree109_006,SkillTree109_003,SkillTree109_004,SkillTree109_010
+st0124c	Wu Lang Eight Trigrams Staff (Quiet)  (It's getting late)	it30100	0	0	SkillTree109_000,SkillTree109_001,SkillTree109_002,SkillTree109_006,SkillTree109_003,SkillTree109_004,SkillTree109_011
+st0124d	The Five Tiger Eight Trigram Staff (Humbly)  (How are you? Let's go to school together!)	it30100	0	0	SkillTree109_000,SkillTree109_001,SkillTree109_002,SkillTree109_006,SkillTree109_003,SkillTree109_004,SkillTree109_010
 st0124e	Five Brother Eight Trigrams Staff (High)	it30100	0	0	SkillTree109_000,SkillTree109_001,SkillTree109_002,SkillTree109_003,SkillTree109_004,SkillTree109_005,SkillTree109_006,SkillTree109_007,SkillTree109_008,SkillTree109_009,SkillTree109_010,SkillTree109_011
-st0125	Li Hua Spear (Low)	it30407	0	0	SkillTree110_000,SkillTree110_001,SkillTree110_002
-st0125b	High Apple Blossom Spear	it30407	0	0	SkillTree110_000,SkillTree110_001,SkillTree110_002,SkillTree110_003,SkillTree110_004,SkillTree110_005
+st0125	Rose Apple Spear (Low)	it30407	0	0	SkillTree110_000,SkillTree110_001,SkillTree110_002
+st0125b	Li Hua Spear (High)	it30407	0	0	SkillTree110_000,SkillTree110_001,SkillTree110_002,SkillTree110_003,SkillTree110_004,SkillTree110_005
 st0126	The Poison Lord's Secret Manual (Stone's Diagram)	it31003	0	0	SkillTree084_000,SkillTree084_002,SkillTree084_005,SkillTree084_006,SkillTree084_009
 st0127	Wildball Fist (Huangfu Dengyun)	it30100	0	0	SkillTree000_000,SkillTree000_001,SkillTree000_002,SkillTree000_003,SkillTree000_004,SkillTree000_005,SkillTree000_006,SkillTree000_007,SkillTree000_008,SkillTree000_010,SkillTree000_011,SkillTree000_012,SkillTree000_013
 st0128	Shan Juan struck a single sword blow (Yan Yushi)	it30207	0	0	SkillTree144_000
@@ -314,13 +314,13 @@ st0153	Hun Jin Jian Jue (Gang)	it30204	0	0	SkillTree162_000,SkillTree162_001,Ski
 st0153b	Hum Jin Jian Jue (Zhuo)	it30204	0	0	SkillTree162_000,SkillTree162_001,SkillTree162_002,SkillTree162_004
 st0153c	Comprehensive Gold Sword Technique (High Level)	it30204	0	0	SkillTree162_000,SkillTree162_001,SkillTree162_002,SkillTree162_003,SkillTree162_004,SkillTree162_005,SkillTree162_006,SkillTree162_007,SkillTree162_008
 st0154	Fei Xue Shen Jian (Wu Xiao Fang)	it30513	0	0	SkillTree088_000,SkillTree088_001,SkillTree088_002,SkillTree088_003,SkillTree088_004,SkillTree088_005,SkillTree088_006
-st0155	Madman Staff Techniques	it30409	0	0	SkillTree157_000,SkillTree157_001,SkillTree157_002,SkillTree157_003,SkillTree157_004
-st0155b	Madness Staff Technique (Advanced)	it30409	0	0	SkillTree157_000,SkillTree157_001,SkillTree157_002,SkillTree157_003,SkillTree157_004,SkillTree157_005,SkillTree157_006,SkillTree157_007,SkillTree157_008,SkillTree157_009,SkillTree157_010
-st0156	Chaotic Scattershield Staff Technique (Lu Changji)	it30416	0	0	SkillTree074_000,SkillTree074_001,SkillTree074_002,SkillTree074_003,SkillTree074_004,SkillTree074_005,SkillTree074_006,SkillTree074_007,SkillTree074_008,SkillTree074_009
+st0155	Frenzy Staff Technique	it30409	0	0	SkillTree157_000,SkillTree157_001,SkillTree157_002,SkillTree157_003,SkillTree157_004
+st0155b	Frenzied Demon Staff Technique (Tall)	it30409	0	0	SkillTree157_000,SkillTree157_001,SkillTree157_002,SkillTree157_003,SkillTree157_004,SkillTree157_005,SkillTree157_006,SkillTree157_007,SkillTree157_008,SkillTree157_009,SkillTree157_010
+st0156	Chaotic Swirling Wind Staff Technique (Lu Changji)	it30416	0	0	SkillTree074_000,SkillTree074_001,SkillTree074_002,SkillTree074_003,SkillTree074_004,SkillTree074_005,SkillTree074_006,SkillTree074_007,SkillTree074_008,SkillTree074_009
 st0157	Grand Ancestor's Long Fist (Clumsy, Low)	it30106	0	0	SkillTree101_000,SkillTree101_001,SkillTree101_002
 st0157b	Tai Zu Chang Quan (Zhuo)(Gao)	it30106	0	0	SkillTree101_000,SkillTree101_001,SkillTree101_002,SkillTree101_003,SkillTree101_004,SkillTree101_005,SkillTree101_006,SkillTree101_007
-st0158	Taizu's Spear Skills (Clumsy, Low)	it30412	0	0	SkillTree111_000,SkillTree111_001,SkillTree111_002
-st0158b	Grand Founder's Spear Technique (Clumsy) (High)	it30412	0	0	SkillTree111_000,SkillTree111_001,SkillTree111_002,SkillTree111_003,SkillTree111_004,SkillTree111_005,SkillTree111_006,SkillTree111_007
+st0158	Tai Zu's staff technique (My humble opinion)  (Low)	it30412	0	0	SkillTree111_000,SkillTree111_001,SkillTree111_002
+st0158b	Tai Zu Staff Techniques (My humble)  (Tall)	it30412	0	0	SkillTree111_000,SkillTree111_001,SkillTree111_002,SkillTree111_003,SkillTree111_004,SkillTree111_005,SkillTree111_006,SkillTree111_007
 st0159	Six Sword Techniques (Martial Arts Barrier)	it30721	0	0	SkillTree168_000,SkillTree168_001,SkillTree168_002,SkillTree168_003,SkillTree168_004,SkillTree168_005,SkillTree168_006
 st0160	Golden Mane Lion King	it31817	0	0	SkillTree179_000,SkillTree179_001
 st0161	Qianzhu Wanda Du Gong (Bofei)	it31004	0	0	SkillTree178_005

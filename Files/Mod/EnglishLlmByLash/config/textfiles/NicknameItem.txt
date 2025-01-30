@@ -73,8 +73,8 @@ nick044	Wulin insiders	Your martial arts power increases as your level grows		Pl
 nick045	Having nothing but one's wits	When collecting medicinal herbs and ores, there is a 40% chance to obtain double the amount, but the money earned will be reduced by 20%		Player	nick045
 nick046	Heluo Great Heros	Your offensive and defensive skills will improve as your Jianghu reputation rises		Player	nick046
 nick080	True Weakling Hero	Well, you are indeed the sissy hero as expected		Player	
-nick081	Yulong Zhanshen	When equipped with the Jade Dragon Divine Spear, spear technique power increases by 25%		Player	
-nick082	Thief King Supreme	When equipped with the Jade Dragon Divine Spear, spear techniques power increases by 25%		Player	
+nick081	Yulong Zhanshen	When equipped with the Jade Dragon Holy Spear, spear and staff techniques gain +25% power		Player	
+nick082	Thief King Supreme	When equipped with the Jade Dragon Divine Spear, spear and staff techniques have a +25% increase in power		Player	
 nick083	The Naxi Legend	When equipping the Jade Dragon Divine Gun, spear and staff techniques damage increases by 25%		Player	
 nick084	One Hundred Paces, One Shoot	Archery damage increased by 15%		Player	nick084
 nick085	Beishan Blue Eagle	Arrow damage increased by 20%		Player	nick085
@@ -88,7 +88,7 @@ nick102	Green Village Miao Women	Enemy units within 2-unit range of He Baishao a
 nick104	Nanzhao Soldier	Within a 10-unit radius around Duan Silang, each allied unit at the start of their turn grants Duan Silang an additional 5% critical hit rate		n90402	nick104
 nick105	Ancient and Noble Family	Within a 5-unit range of Dong Jialuo, reduce the enemy's crit rate by 15% at the start of each round		n90403	nick105
 nick106	Successor to the Headman	At the start of each turn, restore 15% Lifeforce to allies within a 2-unit radius and increase hit combo rate by 15%		n50048	nick106
-nick107	Forest Clan Warlord	When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares		n50065,n50065b	nick107
+nick107	Mu Mansion Warlord	When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares		n50065,n50065b	nick107
 nick108	Three Heroic Generals	Within a 2-unit distance around oneself, for each enemy present, an additional 1 point of energy is restored when the self executes a critical hit		n50073a,n50073a2	nick108
 nick111	Unrivaled in the world	The second trait has a special title. When the health decreases by 10%, damage increases by 10%. At the start of each turn, negative status is reduced by 20 points		n09998,n09998a	nick111
 nick112	Follow one's heart	The Xinliang Daoist has its own title, with a 25% increase in counterattack rate and force reduction rate per turn		n70045	nick112
@@ -131,7 +131,7 @@ nick148	Winery Elder	Each round increases dodge rate by 3%, maximum 15%; when ac
 nick149	Imperial Guard Commander	Each round, for enemies within a distance of 2 units from oneself, reduce all skill values by 10 points		n60340	nick149
 nick150	Mount Diancang Swordsman	After launching a counterattack, the character's attack power increases by 5%, up to a maximum cumulative increase of 50%		n60007	nick150
 nick151	Border General	All allied forces on the field receive a 15% damage reduction		n20495,n20495b	nick151
-nick152	Wugenguo Shishi	For every enemy defeated, restore 30% of your own lifeforce and recover 3 points of energy		n20510	nick152
+nick152	Wolf Barbarian Grandmaster	For every enemy defeated, restore 30% of your own lifeforce and recover 3 points of energy		n20510	nick152
 nick153	Great Yan Imperial Family	Should a counterattack, waiting by the stump for rabbits, or cuckoos after swallows occur, additionally reduce the target's 2 points of energy		n20513	nick153
 nick154	Nine-Pouch Elder	When one's lifeforce is less than 60%, attack power increases by 50%; when one's lifeforce is less than 30%, attack power increases by 100%		n20583	nick154
 nick155	Deputy Guildmaster of Taoshi	After releasing Qi, increase damage of own techniques by 5%, up to a maximum of 30%		n60001	nick155

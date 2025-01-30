@@ -79,7 +79,7 @@ public class LineValidation
         }
 
         // Small source with 'and' is ususually an alternative
-        if (result.Contains(" and") && raw.Length < 3)
+        if (result.Contains(" and") && raw.Length < 3 && !result.Contains("Spear and Staff", StringComparison.OrdinalIgnoreCase))
         {
             response = false;
             correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "and");

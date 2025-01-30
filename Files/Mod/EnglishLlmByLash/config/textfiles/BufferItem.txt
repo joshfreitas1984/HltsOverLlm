@@ -178,11 +178,11 @@ short03	Enhance short weapons damage by three stages	Enhance short weapons damag
 short04	Enhance short weapons damage to fourth stage	Enhance short weapons damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
 short05	Enhance short weapons damage by five tiers	Increase short weapons damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
 shortrange01	Expand the range of short weapons attacks	Expand the range of short weapons attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
-spear01	Enhance spear damage by one level	Enhance spear and staff damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
-spear02	Enhance spear and club damage by level two	Increase spear and staff damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
-spear03	Enhance spear and club damage by three levels	Enhance spear and club damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
-spear04	Enhance spear or staff damage by four levels	Enhance spear and club damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
-spear05	Enhance spear staff damage by five levels	Increase spear and staff damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
+spear01	Enhance spear and staff damage by one level	Enhance spear and staff damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
+spear02	Enhance spear and staff damage by two levels	Increase spear and staff damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
+spear03	Enhance spear and staff damage by three levels	Enhance spear and staff damage by 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
+spear04	Enhance spear and staff damage by four levels	Enhance spear and staff damage by 10%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
+spear05	Enhance spear and staff damage by five levels	Increase spear and staff damage by 25%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
 spearrange01	Expand spear and staff attack range	Expand the range of spear and staff attacks	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
 sword01	Enhance sword arts damage by one grade	Enhance sword arts damage by 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
 sword02	Enhance sword arts damage by two levels	Enhance sword arts damage by 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
@@ -296,7 +296,7 @@ buffSkillTree012_000	Abstain from contention	If you conduct a counterattack whil
 buffSkillTree012_002	Swallow and emit force	If you initiate a counterattack while in a lower stance without contesting, your power increases by 35%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree012_004	Summoning Vitality	Internal injury value from No Holes Unpenetrated incurs an additional +7	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree013_003	Break bricks and split stones	The strength of Bash and Sink has been amplified	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree013_004	Break Gold, Shatter Jade	Break Spear, Sand Burial increases energy consumption by 1 point, enhances the power of the technique, and inflicts an additional 8 points of external injury	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree013_004	Break Gold, Shatter Jade	Consuming an additional 1 point of energy, the technique becomes more powerful and inflicts an extra 8 points of external injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree014_000	Blushful confusion	As the sword arts become more advanced, their techniques grow stronger; learning a greater variety of sword techniques increases the dizziness and confusion caused by countless colors	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree014_002	Plentiful as the peach and plum trees across the river	Consumption of strength increases by 1 point, and consumption of internal power increases by 15 points. The effect of Hundred Flowers in Disarray is enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree014_003	Flourishing in abundance	Consume an additional 1 point of energy and 20 points of internal power. The effect of A Thousand Hues in Bloom is enhanced	0		0	FALSE	0	FALSE	0	0		0
@@ -374,7 +374,7 @@ buffSkillTree041_008	Intention is useless	Increasing the attack range for playin
 buffSkillTree041_009	Draw sword to slay the dragon	Enhanced power of Snake Tail Wagging technique	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree042_004	Whirl the sword to shave bone	Blade Techniques: Adds an additional 8 points to Bone Severing	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree042_005	Swift Sword, Tiger Steps	Training the blade to control the lightning fire technique reduces energy expenditure by one point	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree042_006	Use a staff to live upright	When using the sword to train with Thunder and Fire techniques for counterattacks, damage increases by 25%	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree042_006	To stand upright by leaning on a blade	When using the sword to train with Thunder and Fire techniques for counterattacks, damage increases by 25%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree042_007	Pass the sword to sweep leaves	The range of the Lightning Blade attack increases	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree042_008	Draw the sword and apply force	Practicing the sword technique of Lei Huo Shi halves the consumption of internal energy	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree042_009	Blade cuts through the river	Training enhances the power of the blade in manipulating lightning and fire	0		0	FALSE	0	FALSE	0	0		0
@@ -576,8 +576,8 @@ buffSkillTree100_004	Endless and vast	Power increase of 30 points when Chaos is 
 buffSkillTree100_008	Break the Primordial Pots	Enhance the power of Opening the Boundless by 50 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree100_009	Separate Heaven and Earth	Expand the scope of opening up the primordial chaos	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree100_010	Seal the Blue Sky	Chaos became more expansive as it was still unclear	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree101_006	Chongzhen zhanchang	The power of the Great Ancestor's Palm and Staff techniques has been enhanced	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree101_007	Establish authority in the River North	If you use Tai Zu's Long Fist or Tai Zu's Staff to attack, it will decrease the target's all skill values by 3 points upon being struck	0		0	FALSE	0	FALSE	0	0		buffSkillTree101_007
+buffSkillTree101_006	Chongzhen zhanchang	The power of Taizu's Long Fist and Taizu's Pole has been enhanced	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree101_007	Establish authority in the River North	If using Taizu's Long Fist or Taizu's Pole to attack, reduce the enemy's skill values by 3 points upon being hit	0		0	FALSE	0	FALSE	0	0		buffSkillTree101_007
 buffSkillTree102_004	Thundering style	Five Thunder Piercing Heart Sword adds 10 points of external injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree102_005	Piercing thrust technique	The energy cost for using the Five-Thunder Heart-Piercing Sword is reduced by one point	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree103_008	Cherry Blossoms in Spring Rain	When using Jade Maiden's Shuttle, damage increases by 25% when counterattacking with Roving Finger Softsword	0		0	FALSE	0	FALSE	0	0		0
@@ -587,13 +587,13 @@ buffSkillTree104_007	Tracking fleeting shadows	After moving, the wielder cast a 
 buffSkillTree104_008	Fei Ling Xu	Attacks on an enemy's back deal additional damage	0		0	FALSE	0	FALSE	0	0		buffSkillTree104_008
 buffSkillTree108_004	Dragon emerges from the depths	Four Barbarians' attack range expanded	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree108_005	The White Snake Spits the Oath	If the strategy of Subduing Barbarians is used as a counter-attack technique, it increases the activation rate of The Sparrow Flies in the Rear by 5%	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree109_005	Staff Star Spear in Qilin Step	Five Brothers Club's range expanded	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree109_006	As the twisted branch was pulled, his soul departed	When using the Five Brothers Spear for counterattacks, damage increases by 15%	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree109_010	Support the bridge with your body as if you are a pillar	Eight-pronged Hook's Range Expanded	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree109_005	Staff Star Spear in Qilin Step	Wulang's staff range has been expanded	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree109_006	As the twisted branch was pulled, his soul departed	When counterattacking with the Wulang's staff, damage increases by 15%	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree109_010	Support the bridge with your body as if you are a pillar	The range of the Eight-Pointed Staff has expanded	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree109_011	Star-stealing to sneak into the heart, startling the soul	When countering with the Ba Gua Staff, damage increases by 15%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree110_004	Cherry blossoms and rain	Lesser Swan Plum Blossom reduces internal force consumption	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree110_005	Cherry Blossom Drunken Day	Lotus Goose Pear Blossom adds an additional 8 points to confusion value	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree111_006	Coiling Dragon, Sitting Tiger	Enhanced power of the Tai Zu Staff and Tai Zu Long Fist	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree111_006	Coiling Dragon, Sitting Tiger	The power of the Tai Zu Pole and Tai Zu Long Fist has been enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree111_007	Enrobed in a yellow robe	Using the Taizu Baton and Taizu Long Fist reduces negative states of oneself	0		0	FALSE	0	FALSE	0	0		buffSkillTree111_007
 buffSkillTree112_002	Seeing blood	Consumption of energy is reduced for the throat-sealing arrow	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree112_007	Break the Heart	The energy cost for using Thunderclap Arrow has been reduced	0		0	FALSE	0	FALSE	0	0		0
@@ -694,7 +694,7 @@ buffSkillTree144_003	Broken Sword	When facing an opponent's sword arts technique
 buffSkillTree144_003_2	Sword arts cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_004	Broken Blade	When facing an opponent's blade art techniques and countering with a Slender Beauty strike, one must first evade the enemy's attack before launching their own counterattack	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_004_2	Sword Arts Cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_005	Broken Spear	When faced with spear techniques, one must first dodge the enemy's move and then counterattack with a graceful sword strike	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_005	Broken Spear	When facing spear and staff techniques and counterattacking with the Chanyan Sword, you must first evade the enemy's attack before launching your counterattack	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_005_2	Sword arts cultivation	Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_006	Broken Arrow	When facing the hidden weapon technique and countering with a single sword strike, one must first evade the enemy's attack before launching the counterattack	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_006_2	Sword arts cultivation	Enhanced Sword Arts +4	0		0	FALSE	0	FALSE	0	0		0
@@ -744,9 +744,9 @@ buffSkillTree152_010	White Cloud Bear Galls Pills	Learn the recipe for Baiyun Xi
 buffSkillTree153_000	Draconis mutatio	Use their method against them	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree153_001	Wen Nan has a winnowing basket	Should Douzhunxingyi be used as a counterattack technique, an additional 25 points of counterattack value will accumulate each round	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree153_002	There is a fight in the north	If Dou Zhuan Xing Yi is used as a counterattack technique, an additional 25 points of counterattack value are accumulated with each hit received	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree154_000	Grand Mystery Divine Skill	When operating the Tai Xuan Jing, each of Jiuchijian (Hand Combat), Jianfa (Sword Arts), Dao Fa (Blade Arts), Qianggun (Spear and Club), Anqi (Hidden Weapons), Duanchen (Short Weapons), and Qinggong (Light Steps) increases by 12 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree154_000_2	Supreme Mystery Divine Skill	When performing the Yuan Xuan Jing, each of the following skills increases by 24 points: Hand Combat, Sword Arts, Blade Arts, Spear and Club, Hidden Weapon, Short Weapons, Qinggong	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree154_003	White-Haired Patriarch's Extreme Mystery Classic	During the activation of the Yuan Xian Jing, Hand Combat, Sword Arts, Blade Arts, Spear and Club, Hidden Weapon, Short Weapons, and Qinggong each increase by 24 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		0
+buffSkillTree154_000	Grand Mystery Divine Skill	When practicing the Yuanxuan Jing, all skills in hand combat, sword art, blade art, spear and staff techniques, hidden weapons, short weapons, and qinggong each increase by 12 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree154_000_2	Supreme Mystery Divine Skill	When practicing the Tai Xuan Jing, increase Hand Combat, Sword Art, Blade Art, Spear and Staff techniques, Hidden Weapons, Short Weapons, and Qinggong each by 24 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree154_003	White-Haired Patriarch's Extreme Mystery Classic	When performing the Tai Xuan Jing, combat skills increase by 24 points: Hand Combat, Sword Art, Blade Art, Spear and Staff, Hidden Weapons, Short Weapons, Qinggong	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		0
 buffSkillTree155_000	Red Blood Demon Qi Technique	Convert a portion of the damage inflicted on the enemy into one's own lifeforce	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		buffSkillTree155_000
 buffSkillTree155_003	Blood flowing like a river	The higher the evil value, the more pronounced the blood-drinking effect of the Blood Drinking Demon Technique	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0
 buffSkillTree155_004	Bloody rain and stinking wind	The higher the craziness value, the more pronounced the blood-drinking effects of the Blood Sipper Technique	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0
@@ -910,7 +910,7 @@ BattleSchedule009	The Bloodthirsty Alliance	Pursue victory and enhance one's com
 BattleSchedule010	With one heart and one mind	Due to Huang Shang being in a crisis, he taps into his hidden potential, gaining an additional cumulative increase to both his combo rate and counterattack rate each round	0	battle	0	TRUE	0	FALSE	0	0	(Combo,20)(CounterAttack,20)	beginUnitProp
 BattleSchedule011	Feihong Sword Formation	By activating the formation, the combat ability increases with the number of participants	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule011
 BattleSchedule012	Feihong Jianzhen	By increasing the number of people who activate the formation, combat ability is enhanced	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule012
-BattleSchedule013	Phoenix Spear Formation	Deploys an array to enhance combat ability according to the number of people	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule013
+BattleSchedule013	Flying Rainbow Sword Formation	Deploys an array to enhance combat ability according to the number of people	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule013
 BattleSchedule014	Flying Rainbow Sword Formation	By increasing the number of people in the formation, enhance combat effectiveness	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule014
 BattleSchedule015	Swamp gas pervades	Under the influence of toxic miasma, suffer poison each round	0	battle_debuff	0	TRUE	0	TRUE	0	0	(Poisoned,15)	beginTurnProp
 BattleSchedule016	Wounded gravely	Each round increases the severity of external injuries	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule016
@@ -1021,11 +1021,11 @@ BattleSchedule510	Unyielding defiance	Snow Wing Eagle is fierce and stubborn in 
 BattleSchedule511	Exhausted	Snowwing's physique is weakened, revealing fatigue... Attack damage decreases, and confusion value accumulates by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule511
 BattleSchedule512	Weak	Snow Wing has lost too much blood and is becoming increasingly weak... Energy regeneration reduced, and accumulates dizziness by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule512
 BattleSchedule513	Fighting with blood and sweat	Tu Le fought valiantly to fulfill his mission, shedding blood in battle	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule513
-BattleSchedule514	Unyielding with the lance	Tu Le vowed to not fail in thier mission and swore to resist to the death	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule514
+BattleSchedule514	Raise the Spear with Unyielding Spirit	Tu Le vowed to not fail in thier mission and swore to resist to the death	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule514
 BattleSchedule515	Arise with the rage of a hero	Tu Lu fought with determination, bathing in blood, vowing to exterminate all the bandits	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule515
 BattleSchedule516	Deadly poison spreads	Tu Lei suffered from the poisoned attack of the cloaked figures, and his body was severely poisoned!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule516
 BattleSchedule517	Aspiration for Power	Mu Qiu's combat abilities have greatly improved, and he continuously restores his own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule517
-BattleSchedule518	War and weapons	Mu Kui is in a perilous situation, fighting alone with determination! His combat abilities have greatly increased, and he continuously restores his lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518
+BattleSchedule518	War and weapons	Mu Kui finds himself in a perilous situation, fighting bravely with just his spear! His combat abilities have significantly increased, and he continuously restores his own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518
 BattleSchedule519	United we stand	Follow the Second Young Master's footsteps! The technique greatly increases damage and continuously restores your own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule519
 BattleSchedule520	Lonely Defender	Chu Le is fiercely loyal and battles with bloodshed... Each round greatly increases the external injury value and causes a significant loss of lifeforce	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule520
 BattleSchedule521	Defect at the Last Moment	San Deng defected at the front and helped capture the rebel of Mu Mansion, Mu Kui!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule521
@@ -1127,7 +1127,7 @@ nick103	Iron Tiger Silver Spear	During combat, Black Panther enters the fray; ea
 nick104	A young soldier from Nanzhao	Within a 10-unit radius around Duan Silang, each ally grants him an additional 5% critical hit rate at the start of their turns	0	nickname	0	TRUE	0	FALSE	0	0		nick104
 nick105	Ancient Noble Family	Within a 5-unit radius of Dong Jialuo, enemy forces have their critical strike rate reduced by 15% at the start of each round	0	nickname	0	TRUE	0	FALSE	0	0		nick105
 nick106	Successor of the Tusi	At the start of each round, restore 15% lifeforce to allies within a 2-unit distance and increase hit combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick106
-nick107	Army Commanders of the Mu Clan	When unleashing a critical strike, increase own critical rate by 20% and add Bolstered Will to oneself and allies within 2 tiles	0	nickname	0	TRUE	0	FALSE	0	0		nick107
+nick107	The Mu Mansion Warlords	When unleashing a critical strike, increase own critical rate by 20% and add Bolstered Will to oneself and allies within 2 tiles	0	nickname	0	TRUE	0	FALSE	0	0		nick107
 nick107a	High morale and eager to fight	Each round restores 10% lifeforce and adds a cumulative critical hit rate of 10%, lasting for three rounds	0	battle	0	TRUE	0	FALSE	0	0		nick107a
 nick108	Three Flower Generals	When there is one enemy within a 2-unit radius of oneself, upon critical hit, the self additionally recovers 1 point of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick108
 nick110	Master	Each round restores 30% of internal power; when initiating a critical hit, remove all negative conditions by 25 points	0	nickname	0	TRUE	0	FALSE	0	0		nick110
@@ -1176,7 +1176,7 @@ nick149	Jinyiwei Chief Commander	Each round, reduce all skill values of enemies 
 nick150	Pointed Dragon Swordsman	After launching a counterattack, increase own attack power by 5%, with a maximum accumulation of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick150
 nick151	Border General	All allied units on the field receive a 15% damage reduction	0	nickname	0	TRUE	0	FALSE	0	0		nick151
 nick151buff	Border General	Take 15% less damage	0	battle	0	TRUE	0	FALSE	0	0		nick151buff
-nick152	Wolves' Barbarian Master	For every enemy killed, restore your own lifeforce by 30% and regain 3 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick152
+nick152	The Wolf Barbarian Grandmaster	For every enemy killed, restore your own lifeforce by 30% and regain 3 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick152
 nick153	Great Yan Imperial Family	If launching a counterattack, waiting for rabbits at the stake, or being like sparrows behind (trapped), reduce the target's 2 points of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick153
 nick154	Nine-Bag Elder	When your own lifeforce is less than 60%, attack power increases by 50%; when your own lifeforce is less than 30%, attack power increases by 100%	0	nickname	0	TRUE	0	FALSE	0	0		nick154
 nick155	Deputy Chief of the Taoshi Guild	Activate unburdening strength, increasing the damage of own techniques by 5%, up to a maximum of 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick155
@@ -1288,12 +1288,12 @@ weapon0328_3	Seven-Star Sword	After attacking, increase self counterattack rate 
 weapon0419	Time flies like an arrow	After attacking, there is a 25% chance to recover own energy	0		0	FALSE	0	FALSE	0	0		weapon0419
 weapon0419_2	Time flies like an arrow	Attack with a 35% chance to recover the attacker's own energy	0		0	FALSE	0	FALSE	0	0		weapon0419_2
 weapon0419_3	Time flies like an arrow	After an attack, there is a 50% chance to restore your own energy	0		0	FALSE	0	FALSE	0	0		weapon0419_3
-weapon0522	Three Divine Cannons	After an attack, increase the character's critical hit rate by 6 points	0		0	FALSE	0	FALSE	0	0		weapon0522
-weapon0522_2	Three Divine Gun Techniques	Attack to increase self-crit rate by 12%	0		0	FALSE	0	FALSE	0	0		weapon0522_2
-weapon0522_3	Three Divine Cannonballs	Attack and increase self-crit rate by 24 points	0		0	FALSE	0	FALSE	0	0		weapon0522_3
-weapon0524	Jade Dragon Divine Gun	Attack increases own critical rate by 6 points	0		0	FALSE	0	FALSE	0	0		weapon0524
-weapon0524_2	Jade Dragon Divine Gun	Attack followed by an increase in self's combo rate by 12 points	0		0	FALSE	0	FALSE	0	0		weapon0524_2
-weapon0524_3	Jade Dragon Divine Gun	After an attack, increase your critical hit rate by 24 points	0		0	FALSE	0	FALSE	0	0		weapon0524_3
+weapon0522	Three Divine Spears	After an attack, increase the character's critical hit rate by 6 points	0		0	FALSE	0	FALSE	0	0		weapon0522
+weapon0522_2	Three Divine Spears	Attack to increase self-crit rate by 12%	0		0	FALSE	0	FALSE	0	0		weapon0522_2
+weapon0522_3	Three Divine Spears	Attack and increase self-crit rate by 24 points	0		0	FALSE	0	FALSE	0	0		weapon0522_3
+weapon0524	The Jade Dragon Divine Spear	Attack increases own critical rate by 6 points	0		0	FALSE	0	FALSE	0	0		weapon0524
+weapon0524_2	The Jade Dragon Divine Spear	Attack followed by an increase in self's combo rate by 12 points	0		0	FALSE	0	FALSE	0	0		weapon0524_2
+weapon0524_3	The Jade Dragon Divine Spear	After an attack, increase your critical hit rate by 24 points	0		0	FALSE	0	FALSE	0	0		weapon0524_3
 weapon0808	Supernatural Eagle Rampage	After attack, increase self-crit rate by 10%	0		0	FALSE	0	FALSE	0	0	(Critical,10)	afterAttackProp
 weapon0808_2	Ultimate Divine Hawk Berserk	After attacking, increase own critical hit rate by 17 points	0		0	FALSE	0	FALSE	0	0	(Critical,17)	afterAttackProp
 weapon0808_3	Fiery Divine Hawk Rampage	After attacking, increase self-crit rate by 25 points	0		0	FALSE	0	FALSE	0	0	(Critical,25)	afterAttackProp

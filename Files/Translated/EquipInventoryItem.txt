@@ -1114,7 +1114,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "多为狼蛮士兵所用之武器，宽刃厚背，极为沉重，一般人难以挥动，但破坏力惊人。"
-    translated: "Mostly used by the wolfish and barbaric soldiers, these weapons have wide blades and thick backs, are extremely heavy, difficult for ordinary people to wield, but have tremendous destructive power"
+    translated: "Weapons commonly used by Wolf Barbarian soldiers, with wide blades and thick backs. Extremely heavy, difficult for an average person to wield, but have tremendous destructive power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1188,13 +1188,13 @@
   splits:
   - split: 1
     text: "长棍"
-    translated: "Long Pole"
+    translated: "A long staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "随处可见的棍棒，材质可能是木头或金属。"
-    translated: "Sticks and clubs were ubiquitous, possibly made of wood or metal"
+    translated: "Sticks and staffs can be seen everywhere, which may be made of wood or metal"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1236,7 +1236,7 @@
   splits:
   - split: 1
     text: "太宁笔枪"
-    translated: "Da Ning's Pen Lance"
+    translated: "Great Harmony Spear Technique"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1284,7 +1284,7 @@
   splits:
   - split: 1
     text: "齐眉棍"
-    translated: "Zhimei gun"
+    translated: "Double Eyebrow Staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1300,7 +1300,7 @@
   splits:
   - split: 1
     text: "烧火棍"
-    translated: "Spear"
+    translated: "A fire-starting staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1316,13 +1316,13 @@
   splits:
   - split: 1
     text: "铁棍"
-    translated: "Iron Rod"
+    translated: "Iron staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "铁打造的长棍，虽然坚固，但也相当沉重，需要有相当臂力才能够灵活使用。"
-    translated: "A long pole made of iron, though sturdy, is also quite heavy and requires considerable arm strength to use effectively"
+    translated: "The iron-crafted staff, while sturdy, is also quite heavy and requires considerable strength to wield with agility"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1332,13 +1332,13 @@
   splits:
   - split: 1
     text: "龙头拐杖"
-    translated: "Dragon-headed Cane"
+    translated: "Dragon Head Staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "此杖顶端呈龙头形，使用起来有如真龙护体，威风凛凛。"
-    translated: "This spearhead is shaped like a dragon's head, and when used, it feels as if the real dragon guards you, awe-inspiring and majestic"
+    translated: "This staff has a dragon head at the top and is as protective as a real dragon when used, truly impressive in its presence"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1348,7 +1348,7 @@
   splits:
   - split: 1
     text: "铁刀木棍"
-    translated: "Iron Sword Wood Stick"
+    translated: "Iron blade and wooden staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1364,13 +1364,13 @@
   splits:
   - split: 1
     text: "花梨木棍"
-    translated: "Flame Rosewood Club"
+    translated: "Rosewood staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "以花梨木制成的木棍，极为坚韧。"
-    translated: "The wooden stick made of rosewood is extremely durable"
+    translated: "Staff made of rosewood, extremely sturdy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1380,13 +1380,13 @@
   splits:
   - split: 1
     text: "水磨禅杖"
-    translated: "Water-Mill Zen Staff"
+    translated: "Water-Grinding Zen Staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "以浑铁水磨打造而成的禅杖，重六十二斤。传闻中花和尚鲁智深便是以这柄禅杖纵横天下。"
-    translated: "Chanting staff forged from cast iron and water-polished, weighing sixty-two catties. It is rumored that the monk Huaheshang Lu Zhishen roamed the world with this chanting staff"
+    translated: "The Zen staff, forged from pure iron and honed through water milling, weighs sixty-two catties. Legend has it that the Flower Monk Lu Zhishen roamed the world wielding this very Zen staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1396,7 +1396,7 @@
   splits:
   - split: 1
     text: "百炼孤金沉杖"
-    translated: "Thousand-forged lonely gold sinking staff"
+    translated: "Alone like gold refined a hundred times, the staff sinks in silence"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1508,7 +1508,7 @@
   splits:
   - split: 1
     text: "三朵神枪"
-    translated: "Three Divine Cannonballs"
+    translated: "Three Divine Spears"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1530,7 +1530,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "被弃置不用的木棍，本身也非良材，已经斑驳腐蚀，感觉似乎很容易便会折断。"
-    translated: "The discarded wooden stick was of poor quality itself, already showing signs of wear and decay, feeling as though it might easily break"
+    translated: "The wooden staff, long neglected and unused, was not made of fine wood. It had become splotchy and rotten, feeling as though it might easily break"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1540,13 +1540,13 @@
   splits:
   - split: 1
     text: "玉龙神枪"
-    translated: "Jade Dragon Divine Gun"
+    translated: "The Jade Dragon Divine Spear"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "原为木府高手金昆的配枪，后传给木奎使用。其以雪山玉龙为名，象征其守护纳西族人的决心。"
-    translated: "The originally a high-ranking weapon master of the Mu family, Jun Kun's paired spear, later passed on to Mu Kui for use. Named after the Snowy Mountain Jade Dragon, it symbolizes its resolve in protecting the Naxi people"
+    translated: "Originally the spear companion of Master Jin Kun, a top martial artist from Mu Mansion, it was later passed to Mu Kui for use. It is named Yulong Jade Dragon after Mount Yulong, symbolizing his resolve to protect the Naxi people"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1556,13 +1556,13 @@
   splits:
   - split: 1
     text: "丈八槊"
-    translated: "Eight-foot Spear"
+    translated: "A polearm of eight chi in length"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "丈八长的槊，沉重无比，力大者方能刺收自如。"
-    translated: "A spear eight chi long, extremely heavy; only the strong can wield it effortlessly"
+    translated: "A polearm eight chi in length, incredibly heavy. Only those with great strength can wield it effortlessly"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2458,7 +2458,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "木府代代相传的宝剑，也是统治者尊贵的象征。"
-    translated: "The sword passed down through generations of the Mu Family, also a symbol of the ruler's nobility"
+    translated: "The ancestral sword of the Mu Mansion, passed down through generations, is also a symbol of the ruler's nobility"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2938,7 +2938,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "精钢制成的打击兵器，形如短棍，顶端呈瓜形。"
-    translated: "High-quality steel weapon designed for striking, shaped like a short club with a gourd-like end"
+    translated: "A close combat weapon made of steel, resembling a short staff with a gourd-shaped end"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3226,7 +3226,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "黑黝黝一件背心，入手沉甸甸的，非金非革，却是刀枪不入，水火不侵。"
-    translated: "A pitch-black vest, weighty to the touch and neither made of gold nor leather, yet impervious to blades and resistant to fire and water"
+    translated: "A dark, heavy vest that is neither gold nor leather, yet impervious to blades and spears, resistant to water and fire"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3402,7 +3402,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "穿上它，你也是个英挺的木府卫兵阿虾阿米。"
-    translated: "Put it on, and you're an impressive Mu Clan guard too, Ah Shrimp Ah Rice"
+    translated: "Put it on, and you'll be just as dashing as a Wu Mansion guard, little shrimp"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3860,13 +3860,13 @@
   splits:
   - split: 1
     text: "狼蛮军装"
-    translated: "Wolf Savage Military Costume"
+    translated: "Wolf Barbarian Military Uniform"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "一般狼蛮军人所穿着之服饰，穿上它不会让你比较凶恶。"
-    translated: "Generally, the attire worn by the Luan Man army does not make you appear more fierce"
+    translated: "Typically, the attire worn by a Wolf Barbarian soldier does not make you appear more ferocious"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3876,7 +3876,7 @@
   splits:
   - split: 1
     text: "狼蛮军装"
-    translated: "Wolf Savage Military Costume"
+    translated: "Wolf Barbarian Military Uniform"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

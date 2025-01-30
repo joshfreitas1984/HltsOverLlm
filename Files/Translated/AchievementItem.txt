@@ -466,7 +466,7 @@
   splits:
   - split: 1
     text: "临阵磨枪"
-    translated: "Prepare weapons in battle"
+    translated: "Sharpening the spear on the battlefield"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2342,7 +2342,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "你取得了三朵神枪。"
-    translated: "You have obtained three divine gunpowder pellets"
+    translated: "You have obtained three divine spears"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2364,7 +2364,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "你取得了玉龙神枪。"
-    translated: "You have obtained the Jade Dragon Divine Gun"
+    translated: "You have obtained the Jade Dragon Divine Spear"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4008,13 +4008,13 @@
   splits:
   - split: 1
     text: "枪士"
-    translated: "Lance Soldier"
+    translated: "Spearman"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "枪棍能力达到100"
-    translated: "They have spear abilities reaching 100"
+    translated: "The spear and staff skill has reached level 100"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5438,13 +5438,13 @@
   splits:
   - split: 1
     text: "狼蛮兵煞星"
-    translated: "Wolf Savage Soldier Destroyer"
+    translated: "Wolf Barbarian Warrior Destroyer"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "击杀1000只狼蛮兵"
-    translated: "Defeat 1,000 Barbarian Wolf Soldiers"
+    translated: "Slay 1,000 wolf barbarians"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6390,7 +6390,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "枪棍能力达到150"
-    translated: "Spear and club skills have reached 150"
+    translated: "Spear and Staff skill reaches 150"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

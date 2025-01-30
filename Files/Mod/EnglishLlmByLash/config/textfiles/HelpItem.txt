@@ -67,7 +67,7 @@ h20109	201		Jianghu reputation	The player's fame in this world is also an import
 h20201	202	SkillTree/Img_skill_HurtType1.png	Hand Combat	Character uses martial arts abilities based on fist and palm techniques, with higher values producing greater force bonuses
 h20202	202	SkillTree/Img_skill_HurtType2.png	Sword Arts	The character's ability in sword arts within martial arts, the higher the value, the stronger the power bonus produced
 h20203	202	SkillTree/Img_skill_HurtType3.png	Blade Arts	Characters using the blade arts can produce greater power bonuses with higher values
-h20204	202	SkillTree/Img_skill_HurtType4.png	Spear	The character's ability in Gun-Spear martial arts, the higher the value, the greater the power bonus it produces
+h20204	202	SkillTree/Img_skill_HurtType4.png	Spear and Staff	The character's spear and staff martial arts abilities generate greater force bonuses with higher values
 h20205	202	SkillTree/Img_skill_HurtType5.png	Hidden Weapon	Characters' ability in the use of hidden weapons martial arts increases with higher values, producing stronger force multipliers
 h20206	202	SkillTree/Img_skill_HurtType6.png	Short Weapons	The character's ability in short weapons martial arts generates a stronger force multiplier the higher the value
 h20207	202	Team/Btn_team_add.png	Medical Skills	A practitioner's medical skills will influence the effectiveness and bonuses when using healing techniques and martial arts. It also affects certain events within the game and their outcomes
@@ -201,7 +201,7 @@ h70506	705	Main/Img_Main_Money.png	Cost of re-forging	Reforging does not require
 h80101	801	Blacksmith/Img_Forged_01.png	Knuckle Pads	Boxing gloves are close-combat weapons; equipping boxing gloves can make hand combat martial arts even more powerful
 h80102	801	Blacksmith/Img_Forged_02.png	Blade	Sword is a melee weapon. Equipping a sword allows the use of related martial arts techniques of Sword Arts, and holding two swords at once also enables unique dual-sword skills
 h80103	801	Blacksmith/Img_Forged_03.png	Blade	The blade is a close-combat weapon. Equipping the blade allows you to perform martial arts techniques related to Blade Arts. If wielding two blades, you can also execute unique dual-blade skills
-h80104	801	Blacksmith/Img_Forged_04.png	Spear	Spear/staff is a melee long-handled weapon. Compared to other close-range weapons, spear/staff has a slight advantage in attack distance. Equipping a spear/staff allows you to perform related martial arts techniques
+h80104	801	Blacksmith/Img_Forged_04.png	Spear / Staff	Spear/staff is a melee long-handled weapon. Compared to other close-range weapons, spear/staff has a slight advantage in attack distance. Equipping a spear/staff allows you to perform related martial arts techniques
 h80105	801	Blacksmith/Img_Forged_06.png	Hidden Weapon	Hidden weapons are ranged weapons; equipping hidden weapons allows you to attack enemies at medium to long range, but it's not effective against close-range attackers
 h80106	801	Blacksmith/Img_Forged_06.png	Bow	Bows are ranged weapons; equipping a bow allows the use of Archery martial arts, but it is less effective against enemies in close combat
 h80107	801	Blacksmith/Img_Forged_05.png	Short Weapons	Short weapons are melee weapons, and lightweight short weapons can be just as damaging as other types of weapons

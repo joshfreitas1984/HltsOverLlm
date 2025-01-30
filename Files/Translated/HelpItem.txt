@@ -1096,13 +1096,13 @@
   splits:
   - split: 3
     text: "枪棍"
-    translated: "Spear"
+    translated: "Spear and Staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 4
     text: "角色使用枪棍武学的能力，数值越高能产生越强的威力加成。"
-    translated: "The character's ability in Gun-Spear martial arts, the higher the value, the greater the power bonus it produces"
+    translated: "The character's spear and staff martial arts abilities generate greater force bonuses with higher values"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3240,7 +3240,7 @@
   splits:
   - split: 3
     text: "枪/棍"
-    translated: "Spear"
+    translated: "Spear / Staff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

@@ -19,7 +19,7 @@ Question04	In the wuxia world, what kind of weapon would you most like to use?	0
 Question04_1	Unarmed and bare-knuckled, fighting in close quarters	0		(cf001,2)(cf003,1)	(Fight,11)	0
 Question04_2	Blade like a soaring phoenix, ruler among blades	0		(cf005,1)(cf007,1)	(Sword,11)	0
 Question04_3	Blade like a fierce tiger, strikes fear into the hearts of a hundred soldiers	0		(cf002,1)	(Blade,11)	0
-Question04_4	Long spear and club, one inch long, one inch strong	0			(Spear,11)	0
+Question04_4	With a spear and staff, an inch long, an inch strong	0			(Spear,11)	0
 Question04_5	As the short weapons clash, a moment's advantage can mean the difference between safety and peril	0		(cf006,1)	(Short,11)	0
 Question04_6	Hidden weapons fired at long range, the Thousand-Armed One	0			(Arrow,11)	0
 Question04_7	To navigate the Wulin without poison is not befitting of a true man	0			(Poison,16)	0
@@ -58,7 +58,7 @@ Question14	In the Wuxia world, which weapon would you most like to use?	1	Questi
 Question14_1	With bare hands and empty fists, in close combat	1		(cf011,1)(cf010,1)(cf009,1)(cf001,2)(cf003,1)	(Fight,21)	0
 Question14_2	Sword like a flying phoenix, master of a hundred soldiers	1		(cf005,1)(cf009,1)(cf007,1)	(Sword,21)	0
 Question14_3	Blades are like fierce tigers, instilling fear in a hundred armies	1		(cf002,1)	(Blade,21)	0
-Question14_4	Long spear, club; one inch long, one inch strong	1		(cf010,1)	(Spear,21)	0
+Question14_4	With a spear and staff, an inch long, an inch strong	1		(cf010,1)	(Spear,21)	0
 Question14_5	When short weapons clash, every inch is dangerous	1		(cf006,1)	(Short,21)	0
 Question14_6	Hidden weapons fired at long range, the Thousand-Armed One	1		(cf008,1)	(Arrow,21)	0
 Question14_7	In Wulin, the poison step; no venom, no true man	1		(cf004,1)	(Poison,26)	0

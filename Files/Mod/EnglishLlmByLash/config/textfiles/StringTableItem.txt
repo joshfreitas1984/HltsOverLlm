@@ -89,7 +89,7 @@ Hurt0	Damage Reduction
 Hurt1	Hand Combat Damage
 Hurt2	Sword arts damage
 Hurt3	Blade Arts Damage
-Hurt4	Spiked spear damage
+Hurt4	Spear and Staff damage
 Hurt5	Hidden Weapon Damage
 Hurt6	Damage from short weapons
 Hurt7	Other injuries
@@ -129,7 +129,7 @@ CharacterProperty200	Feigned move
 CharacterProperty301	Hand Combat
 CharacterProperty302	Sword Arts
 CharacterProperty303	Blade Arts
-CharacterProperty304	Spear
+CharacterProperty304	Spear and Staff
 CharacterProperty305	Hidden Weapon
 CharacterProperty306	Short Weapons
 CharacterProperty307	Medical Skills
@@ -241,7 +241,7 @@ HurtRang	{0}~{1}%
 BluePrintType1	Hand Combat Weapons
 BluePrintType2	Blade
 BluePrintType3	Blade
-BluePrintType4	Spear
+BluePrintType4	Spear and Staff
 BluePrintType5	Short Weapons
 BluePrintType6	Archer's Equipment
 BluePrintType7	Armor
@@ -266,7 +266,7 @@ ForgeProperty	Special Effects
 InventoryType301	Quanpu
 InventoryType302	Sword Arts
 InventoryType303	Blade Arts
-InventoryType304	Gunmanship
+InventoryType304	Spear Skills
 InventoryType305	Hidden Weapon
 InventoryType306	Short Weapons
 InventoryType307	Neigong
@@ -478,7 +478,7 @@ InventoryType1004	Equipment
 UIInventoryType101	Knuckle Pads
 UIInventoryType102	Sword Types
 UIInventoryType103	Blade
-UIInventoryType104	Spear
+UIInventoryType104	Spear and Staff
 UIInventoryType105	Hidden Weapon Bow and Arrow
 UIInventoryType106	Short Weapons
 UIInventoryType201	Armor
@@ -495,7 +495,7 @@ UIInventoryType404	Fur
 UIInventoryType501	Hand Combat
 UIInventoryType502	Sword Arts
 UIInventoryType503	Blade Arts
-UIInventoryType504	Pole Technique
+UIInventoryType504	Staff techniques
 UIInventoryType505	Hidden Weapon Bow and Arrow
 UIInventoryType506	Short Weapons
 UIInventoryType507	Heart Method
@@ -1102,9 +1102,9 @@ Final06_07	Knelt and asked the master not to remember nor be concerned
 Final06_08	Finally return to the White Horse Residence to settle down and marry, spending a lifetime together
 #结局 07	
 Final07_00	Snowy Mountain Divine Eagle
-Final07_01	Mu Household, though it has experienced a political upheaval and countless sacrifices,
+Final07_01	Mu Mansion, though it had suffered through a great political upheaval and lost countless lives,
 Final07_02	However, it has made them more united and there are no longer factional disputes
-Final07_03	Led by Mu Chu's wood residence,
+Final07_03	Led by Xu from the Mu Family,
 Final07_04	It brought a period of stability and peace to Dayan Town
 Final07_05	Ade Ake, however, did not forget his ideals. After settling the settlement,
 Final07_06	Then they got on board the ship and crossed over to the other side of the lake, heading eastward on their journey
@@ -1277,7 +1277,7 @@ Final17_03	They both sacrificed themselves to thwart the Merciless Hall
 Final17_04	In his grief, he resolved to carry on his elder brother's legacy
 Final17_05	Devote their life to repelling foreign threats and protecting the nation
 Final17_06	After ascending the Heaven's Pillar once more, Wang Zhe took over as the leader of the fortress
-Final17_07	Lead the forces of Heaven's Pillar Fort to resist the wolf savages
+Final17_07	Lead the people of Heaven's Pillar Fort to resist the Wolf Barbarians
 Final17_08	Leading an expedition during the journey,
 Final17_09	Wang Zhe once again encountered the Daoist Pure Yang from Dragon's Rest Village
 Final17_10	Every time they met, Zunyangzi would always give guidance from the side
