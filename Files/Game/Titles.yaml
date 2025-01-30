@@ -49,9 +49,9 @@
   literal: Xiong Di
 
 # Can also be used as part of words
-# - raw: 兄
-#   result: Brother
-#   context: In literary works, especially classical Chinese literature, "兄" is frequently used to address male friends or peers respectfully
+- raw: 兄
+  result: Brother
+  context: In literary works, especially classical Chinese literature, "兄" is frequently used to address male friends or peers respectfully
 
 # Match so wont conflict
 - raw: 小兄弟

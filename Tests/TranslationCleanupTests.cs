@@ -93,6 +93,8 @@ public class TranslationCleanupTests
                     if (resetFlag)
                         split.ResetFlags();
 
+                    continue;
+
                     if (CheckSplit(newGlossaryStrings, manual, split, outputFile, hallucinationCheckGlossary, mistranslationCheckGlossary, dupeNames, config))
                         recordsModded++;
                 }
