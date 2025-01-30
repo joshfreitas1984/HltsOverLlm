@@ -328,7 +328,7 @@ public class TranslationCleanupTests
                     transLines[i].Raw = exportLines[i].Raw;
             }
 
-            await File.WriteAllTextAsync(outputFile, serializer.Serialize(transLines));
+            File.WriteAllText(outputFile, serializer.Serialize(transLines));
         }
     }
 

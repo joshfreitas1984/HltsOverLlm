@@ -204,7 +204,7 @@ public static class TranslationService
                 if (bufferedRecords > 250)
                 {
                     Console.WriteLine($"Writing Buffer....");
-                    await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
+                    File.WriteAllText(outputFile, serializer.Serialize(fileLines));
                     bufferedRecords = 0;
                 }
             }
@@ -212,7 +212,7 @@ public static class TranslationService
             var elapsed = stopWatch.ElapsedMilliseconds;
             var speed = recordsProcessed == 0 ? 0 : elapsed / recordsProcessed;
             Console.WriteLine($"Done: {totalLines} ({elapsed} ms ~ {speed}/line)");
-            await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
+            File.WriteAllText(outputFile, serializer.Serialize(fileLines));
         }
     }
 
