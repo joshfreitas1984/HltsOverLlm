@@ -5139,7 +5139,7 @@ n80091	Worship the woman	w_worship_ec		-804.1035, 66.00359, -902.4777	0	6-13	FAL
 n80092	Men from the Naxi ethnic group	m_talk002		-803.1826, 66.17769, -922.4539	41.32301	6-15	TRUE	FALSE	n8009201000		sc80092001			1	3	0	n50028	n80092				0	0
 n80093	Men from the Naxi ethnic group	m_talk001		-802.3902, 66.04662, -921.7135	219.4789	6-15	TRUE	FALSE	n8009301000					1	0	0	n50029	n80093				0	0
 n80094	Naxi women	w_worship001_ec		-793.42, 66.18828, -871.55	265.5766	6-18	FALSE	FALSE	n8009401000					2	0	1	n50008	n80094				0	0
-n80095	The Elder Naxi	m_worship_ec		-778.62, 66.17594, -884.99	288.9187	6-20	FALSE	FALSE	n8009501000					1	3	1	n50007	n80095				0	0
+n80095	Naxi Elder	m_worship_ec		-778.62, 66.17594, -884.99	288.9187	6-20	FALSE	FALSE	n8009501000					1	3	1	n50007	n80095				0	0
 n80096	Naxi youth	m_cry001Loop_ec		-806.1015, 66.17595, -888.8301	273.0885	6-20	FALSE	FALSE	n8009601000					1	3	1	n50032	n80096				0	0
 n80097	Bin Chenghai	w_standE00	n07012	362.7261, 63.44217, 931.8813	198.216		TRUE	FALSE	n8009701014					2	0	0	n60081	n80097				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1}  ], 0} 	0
 n80097a	Di Chengxia	w_standE00	n07012	0, 0, 0	0		TRUE	FALSE	n8009701034					2	0	0	n60081	n80097				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80091", 1, 1} , { "CheckFlagAction" : "tm80099", 3, 1} , { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80097", 3, 1}  ], 1} 	0
