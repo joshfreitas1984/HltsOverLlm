@@ -1022,12 +1022,12 @@ BattleSchedule511	Exhausted	Snowwing's physique is weakened, revealing fatigue..
 BattleSchedule512	Weak	Snow Wing has lost too much blood and is becoming increasingly weak... Energy regeneration reduced, and accumulates dizziness by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule512
 BattleSchedule513	Fighting with blood and sweat	Tu Le fought valiantly to fulfill his mission, shedding blood in battle	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule513
 BattleSchedule514	Raise the Spear with Unyielding Spirit	Tu Le vowed to not fail in thier mission and swore to resist to the death	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule514
-BattleSchedule515	Arise with the rage of a hero	Tu Lu fought with determination, bathing in blood, vowing to exterminate all the bandits	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule515
+BattleSchedule515	Arise with the rage of a hero	Tu Le bathed in blood and resisted fiercely, vowing to slaughter every enemy!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule515
 BattleSchedule516	Deadly poison spreads	Tu Lei suffered from the poisoned attack of the cloaked figures, and his body was severely poisoned!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule516
-BattleSchedule517	Aspiration for Power	Mu Qiu's combat abilities have greatly improved, and he continuously restores his own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule517
+BattleSchedule517	Aspiration for Power	Mu Kui's combat abilities have significantly improved, and he continues to recover his lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule517
 BattleSchedule518	War and weapons	Mu Kui finds himself in a perilous situation, fighting bravely with just his spear! His combat abilities have significantly increased, and he continuously restores his own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518
 BattleSchedule519	United we stand	Follow the Second Young Master's footsteps! The technique greatly increases damage and continuously restores your own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule519
-BattleSchedule520	Lonely Defender	Chu Le is fiercely loyal and battles with bloodshed... Each round greatly increases the external injury value and causes a significant loss of lifeforce	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule520
+BattleSchedule520	Lonely Defender	Tu Le is resolute in protecting his master, battling with unwavering determination... Each round significantly increases external injuries and results in a substantial loss of lifeforce	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule520
 BattleSchedule521	Defect at the Last Moment	San Deng defected at the front and helped capture the rebel of Mu Mansion, Mu Kui!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule521
 charge	Charge	Charge attack, causing damage to enemies along the path	0		0	FALSE	0	FALSE	0	0		0
 charge02	Charge	'Chongfeng attack, dealing damage to enemies along the path.'	0		0	FALSE	0	FALSE	0	0		0
