@@ -102,7 +102,7 @@ public class TranslationCleanupTests
             if (recordsModded > 0 || resetFlag)
             {
                 Console.WriteLine($"Writing {recordsModded} records to {outputFile}");
-                await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
+                File.WriteAllText(outputFile, serializer.Serialize(fileLines));
             }
         });
 
