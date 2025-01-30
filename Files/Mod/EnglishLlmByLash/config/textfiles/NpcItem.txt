@@ -2473,7 +2473,7 @@ n50046c	Master He	m_sitLoop006	c_m34	-569.3325, 101.4593, -1252.624	312.2281		FA
 n50046d	Master He	m_sleep_dead001_ec	c_m34	-657.882, 66.25234, -1115.899	289.6689		FALSE	FALSE	n5002705000	v00130				1	3	0	n20073					{ "LogicalNode" : [ { "CheckFlagAction" : "f50027偷聽掌櫃與商人之後", 1, 5}  ], 0} 	0
 n50046e	Master He	m_standD00	c_m34	-663.4531, 66.25234, -1112.21	0	6-20	FALSE	FALSE	n5002702000	v00130				1	3	0	n20073	n20073				{ "LogicalNode" : [ { "CheckFlagAction" : "f50045木初主線階段", 0, 0} , { "CheckFlagAction" : "f50027偷聽掌櫃與商人之後", 1, 0} , { "QuestCondition" : "Q52001", 1, True}  ], 0} 	0
 n50047	Ade Ake	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5006001000					1	4	0	n20023					0	0
-n50048	Na'xi Clan Aristocrats	ml_standA00	n50048	-662.584, 66.25972, -1107.385	-158.868	6-20	FALSE	TRUE	n5004801000		sc50048001			1	3	0	n50048					{ "LogicalNode" : [ { "CheckFlagAction" : "f50045木初主線階段", 1, 0}  ], 0} 	0
+n50048	Naxi noble	ml_standA00	n50048	-662.584, 66.25972, -1107.385	-158.868	6-20	FALSE	TRUE	n5004801000		sc50048001			1	3	0	n50048					{ "LogicalNode" : [ { "CheckFlagAction" : "f50045木初主線階段", 1, 0}  ], 0} 	0
 n50048b	Mu Chu	ml_standA00	n50048	-662.8513, 66.2228, -1108.005	202.1364	6-20	TRUE	TRUE	n5004802000	v00069	sc50048001			1	3	0	n50048					{ "LogicalNode" : [ { "QuestCondition" : "Q52001_03", 0, True}  ], 0} 	0
 n50048m1	Mu Chu	ml_standA00	n50048	0, 0, 0	0		TRUE	TRUE	n50048m101000					1	3	0	n50048	n50048				0	0
 n50049	Li Lian	m_standI00	c_m17	-1387.96, 205.468, -901.23	94.96999		FALSE	FALSE	n5004901000	v00147				1	0	1	n20025	n50049				{ "LogicalNode" : [ { "CheckFlagAction" : "f50054雪山連九死了：李連", 1, 0} , { "CheckFlagAction" : "f50054雪山連九逃走：李連", 1, 0} , { "QuestCondition" : "Q52001_01", 0, True}  ], 0} 	0
@@ -5139,7 +5139,7 @@ n80091	Worship the woman	w_worship_ec		-804.1035, 66.00359, -902.4777	0	6-13	FAL
 n80092	Men from the Naxi ethnic group	m_talk002		-803.1826, 66.17769, -922.4539	41.32301	6-15	TRUE	FALSE	n8009201000		sc80092001			1	3	0	n50028	n80092				0	0
 n80093	Men from the Naxi ethnic group	m_talk001		-802.3902, 66.04662, -921.7135	219.4789	6-15	TRUE	FALSE	n8009301000					1	0	0	n50029	n80093				0	0
 n80094	Naxi women	w_worship001_ec		-793.42, 66.18828, -871.55	265.5766	6-18	FALSE	FALSE	n8009401000					2	0	1	n50008	n80094				0	0
-n80095	Older Man from the Na Clan	m_worship_ec		-778.62, 66.17594, -884.99	288.9187	6-20	FALSE	FALSE	n8009501000					1	3	1	n50007	n80095				0	0
+n80095	The Elder Naxi	m_worship_ec		-778.62, 66.17594, -884.99	288.9187	6-20	FALSE	FALSE	n8009501000					1	3	1	n50007	n80095				0	0
 n80096	Naxi youth	m_cry001Loop_ec		-806.1015, 66.17595, -888.8301	273.0885	6-20	FALSE	FALSE	n8009601000					1	3	1	n50032	n80096				0	0
 n80097	Bin Chenghai	w_standE00	n07012	362.7261, 63.44217, 931.8813	198.216		TRUE	FALSE	n8009701014					2	0	0	n60081	n80097				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1}  ], 0} 	0
 n80097a	Di Chengxia	w_standE00	n07012	0, 0, 0	0		TRUE	FALSE	n8009701034					2	0	0	n60081	n80097				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80091", 1, 1} , { "CheckFlagAction" : "tm80099", 3, 1} , { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80097", 3, 1}  ], 1} 	0

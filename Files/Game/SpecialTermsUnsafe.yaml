@@ -43,6 +43,12 @@
   result: Python
 - raw: 江湖声望
   result: Jianghu Reputation
+- raw: 棍
+  result: Staff
+  context: More like club or cludgel or stick. Also used as part of other words
+- raw: 杖
+  result: Staff
+  context: More like walking stick or formal staff (All Staff variants have to be unsafe)
 
 # We should do this programmatically at some point
 - raw: 巴大哥

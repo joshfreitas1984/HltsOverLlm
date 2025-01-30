@@ -55,12 +55,6 @@
   result: Spear
 - raw: 枪
   result: Spear
-- raw: 棍
-  result: Staff
-  context: More like club or cludgel or stick
-- raw: 杖
-  result: Staff
-  context: More like walking stick or formal staff
 - raw: 枪士
   result: Spearman
 - raw: 士兵枪
@@ -75,3 +69,5 @@
   result: Spear and Staff
 - raw: 狼蛮
   result: Wolf Barbarian
+- raw: 纳西
+  result: Naxi

@@ -251,7 +251,7 @@ public class TranslationCleanupTests
 
                 //Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
                 split.FlaggedForRetranslation = true;
-                split.FlaggedGlossaryIn += item.Value + ",";
+                split.FlaggedGlossaryIn += $"{item.Value},{item.Key},";
                 modified = true;
             }
         }
@@ -294,7 +294,7 @@ public class TranslationCleanupTests
                 {
                     //Console.WriteLine($"Hallucinated:{outputFile}\n{item.Value}\n{split.Translated}");
                     split.FlaggedForRetranslation = true;
-                    split.FlaggedGlossaryOut += item.Value + ",";
+                    split.FlaggedGlossaryOut += $"{item.Value},{item.Key},";
                     modified = true;
                 }
             }
