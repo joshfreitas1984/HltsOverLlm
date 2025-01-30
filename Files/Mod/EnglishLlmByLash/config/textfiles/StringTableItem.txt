@@ -39,10 +39,10 @@ HintTypeNicknameUnlocked	Obtained the title {0}
 HintTypeAchievement	Accomplish achievement goal {0}
 HintTypeAchievementStart	Discovered hidden achievement {0}
 HintTypeMadnessUp	You have become more unrestrained and wild
-HintTypeMadnessDown	You have become more austere and meticulous
+HintTypeMadnessDown	You have become more upright and calm
 HintTypeMoralUp	Your spirit and moral integrity have become even more resolute
 HintTypeMoralDown	You have become more sinister and imposing
-HintTypeYinAndYangUp	You have become more masculine
+HintTypeYinAndYangUp	You have become more hard and firm
 HintTypeYinAndYangDown	You have become more gentle and soft
 HintTypeFallAndHurt	You lost {0} lifeforce from the fall
 HintTypeFallAndDie	You fell dead
@@ -66,7 +66,7 @@ TalkStealNotice	You're sneaking around doing what?
 TalkAmbushPlayer1	I suddenly feel like beating you up
 TalkAmbushPlayer2	I would like to learn a few techniques from you
 TalkAmbushPlayer3	Ha ha, fighting a fistfight will clear your mind and dispel all diseases!
-TalkAmbushPlayer4	I yield. (or) I concede
+TalkAmbushPlayer4	I yield
 TalkAmbushNpc1	Are you talking about fighting? Who's scared of who!
 TalkAmbushNpc2	By all means!
 TalkAmbushNpc3	Why should we act so rough when we are all civilized people?
@@ -195,7 +195,7 @@ Area26	Delicacies Society
 Area27	Wolf Barbarian Tribe
 Area28	Jinshigou
 Area29	Ginseng King Mountain
-Area30	Baishou Zhuang
+Area30	Hundred Beasts Village
 Area31	Prey
 Area32	Pet animals
 Area101	Blacksmith's Workshop
