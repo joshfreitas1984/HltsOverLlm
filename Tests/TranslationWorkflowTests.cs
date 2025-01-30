@@ -19,6 +19,7 @@ public class TranslationWorkflowTests
     public async Task TranslateLines()
     {
         await PerformTranslateLines(false);
+        await PackageFinalTranslation();
     }
 
     public async Task PerformTranslateLines(bool keepCleaning)
