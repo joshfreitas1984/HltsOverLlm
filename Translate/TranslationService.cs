@@ -413,7 +413,7 @@ public static class TranslationService
         var preparedRaw = LineValidation.PrepareRaw(raw);
 
         // Define the request payload
-        List<object> messages = GenerateBaseMessages(config, preparedRaw);
+        List<object> messages = GenerateBaseMessages(config, preparedRaw, outputFile);
 
         try
         {
@@ -461,7 +461,7 @@ public static class TranslationService
                         var correctionPrompt = LineValidation.CalulateCorrectionPrompt(config, validationResult, preparedRaw, llmResult);
 
                         // Regenerate base messages so we dont hit token limit by constantly appending retry history
-                        messages = GenerateBaseMessages(config, preparedRaw);
+                        messages = GenerateBaseMessages(config, preparedRaw, outputFile);
                         AddCorrectionMessages(messages, llmResult, correctionPrompt);
                     }
                 }
@@ -486,7 +486,7 @@ public static class TranslationService
         messages.Add(LlmHelpers.GenerateUserPrompt(correctionPrompt));
     }
 
-    public static List<object> GenerateBaseMessages(LlmConfig config, string raw, string additionalSystemPrompt = "")
+    public static List<object> GenerateBaseMessages(LlmConfig config, string raw, string outputFile, string additionalSystemPrompt = "")
     {
         //Dynamically build prompt using whats in the raws
         var basePrompt = new StringBuilder(config.Prompts["BaseSystemPrompt"]);
@@ -498,6 +498,11 @@ public static class TranslationService
         //    basePrompt.AppendLine(config.Prompts["DynamicMarkupPrompt"]);
 
         basePrompt.AppendLine(Glossary.ConstructGlossaryPrompt(raw, config));
+
+        // File Specific prompt
+        if (outputFile.Contains("NpcItem.txt"))
+            basePrompt.AppendLine(config.Prompts["FileNpcItemPrompt"]);
+
         basePrompt.AppendLine(additionalSystemPrompt);
 
         return

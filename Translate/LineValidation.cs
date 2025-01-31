@@ -461,23 +461,4 @@ public class LineValidation
 
         return input;
     }
-
-    public static (bool found, string word) ContainsCommonMistakes(string input, string raw)
-    {
-        string[] words = ["gongzi", "gonzu", "daxia", "xia", "furen"];
-
-        foreach (var word in words)
-        {
-            string pattern = $"\\b{word}\\b";
-            if (Regex.IsMatch(input, pattern, RegexOptions.IgnoreCase))
-            {
-                if (word.Contains("xia") && !raw.Contains("侠")) 
-                    continue;
-
-                return (true, word);
-            }
-        }
-
-        return (false, string.Empty);
-    }
 }

@@ -104,6 +104,8 @@ public class TranslationCleanupTests
                 Console.WriteLine($"Writing {recordsModded} records to {outputFile}");
                 File.WriteAllText(outputFile, serializer.Serialize(fileLines));
             }
+
+            await Task.CompletedTask;
         });
 
         Console.WriteLine($"Total Lines: {totalRecordsModded} records");
@@ -112,10 +114,8 @@ public class TranslationCleanupTests
     }
 
     //TODOs: Animal sounds
-    //TODO: gongzi / gongzu
     //TODO: Duan Meng?
     //TODO: Lan yu
-    //TODO: Fix {name} brother
     public static bool CheckSplit(List<string> newGlossaryStrings, Dictionary<string, string> manual, TranslationSplit split, string outputFile,
         Dictionary<string, string> hallucinationCheckGlossary, Dictionary<string, string> mistranslationCheckGlossary,  Dictionary<string, List<string>> dupeNames, LlmConfig config)
     {
@@ -124,7 +124,6 @@ public class TranslationCleanupTests
 
         // Flags        
         bool cleanWithGlossary = true;
-        bool checkCommonMistakes = false;
 
         //////// Quick Validation here
     
@@ -174,18 +173,7 @@ public class TranslationCleanupTests
             // Glossary Clean up - this won't check our manual jobs
             modified = CheckMistranslationGlossary(split, mistranslationCheckGlossary, modified);
             modified = CheckHallucinationGlossary(split, hallucinationCheckGlossary, dupeNames, modified);
-        }
-
-        if (checkCommonMistakes)
-        {
-            var (found, word) = LineValidation.ContainsCommonMistakes(split.Translated, split.Text);
-            if (found)
-            {
-                Console.WriteLine($"Common Mistake:{outputFile}\n{word}\n{split.Translated}");
-                split.Translated = split.Translated.Trim();
-                modified = true;
-            }
-        }
+        }  
 
         //// Try and flag crazy shit
         //if (!split.FlaggedForRetranslation
@@ -304,7 +292,7 @@ public class TranslationCleanupTests
     }
 
     [Fact]
-    public async Task MatchRawLines()
+    public void MatchRawLines()
     {
         string outputPath = $"{workingDirectory}/Translated";
         string exportPath = $"{workingDirectory}/Export";

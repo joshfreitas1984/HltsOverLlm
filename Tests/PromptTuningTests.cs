@@ -28,7 +28,7 @@ public class PromptTuningTests
         var raw = "<color=#FF0000>炼狱</color>";
         var origResult = "Hellforge";
         var origValidationResult = LineValidation.CheckTransalationSuccessful(config, raw, origResult);
-        List<object> messages = TranslationService.GenerateBaseMessages(config, raw);
+        List<object> messages = TranslationService.GenerateBaseMessages(config, raw, string.Empty);
 
         // Tweak Correction Prompt here
         var correctionPrompt = LineValidation.CalulateCorrectionPrompt(config, origValidationResult, raw, origResult);

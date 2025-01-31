@@ -22,7 +22,7 @@ public class TranslationWorkflowTests
         await PackageFinalTranslation();
     }
 
-    public async Task PerformTranslateLines(bool keepCleaning)
+    private async Task PerformTranslateLines(bool keepCleaning)
     {
         if (keepCleaning)
         {
