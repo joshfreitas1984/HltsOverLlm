@@ -4208,8 +4208,8 @@ n59996	Mu Mansion Copy Everyman	ml_standA00		0, 0, 0	0		TRUE	FALSE	n5014899000		
 n59997	Snowy Mountains Incident	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5999701000					0	0	0	n20040					0	0
 n59998	Snowwing Carving Incident Site	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5999801000					0	0	0	n20050					0	0
 n59999	Stranger	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5009901000					1	0	0	n50005		0			0	0
-n60001	Taoshi Gang Zhuoyi	m_sitLoop006	n60001	-569.0997, 112.4298, -1325.576	168.7262		TRUE	TRUE	n6000101000	v00086				1	2	0	n60001	n60001	n60001-1,n60001-2,n60001-3,n60001-4,n60001-5,n60001-6,n60001-7,n60001-8,n60001-9		(Stone_Forge,2)(Money,1)	0	0
-n60001b	Taoshi Gang Zhuoyi	ml_standA00	n60001	0, 0, 0	0		TRUE	TRUE	n6000101000	v00086				1	2	0	n60001	n60001	0		(Stone_Forge,2)(Money,1)	0	0
+n60001	Taoshi Gang Zhou Yi	m_sitLoop006	n60001	-569.0997, 112.4298, -1325.576	168.7262		TRUE	TRUE	n6000101000	v00086				1	2	0	n60001	n60001	n60001-1,n60001-2,n60001-3,n60001-4,n60001-5,n60001-6,n60001-7,n60001-8,n60001-9		(Stone_Forge,2)(Money,1)	0	0
+n60001b	Taoshi Gang Zhou Yi	ml_standA00	n60001	0, 0, 0	0		TRUE	TRUE	n6000101000	v00086				1	2	0	n60001	n60001	0		(Stone_Forge,2)(Money,1)	0	0
 n60002	Taoshi Gang Tao Dashi	m_standB00	n60002	-417.9113, 67.72598, -1104.862	139.0828		TRUE	TRUE	n6000201000	v00137				1	2	0	n60002	n60002	n60002-1,n60002-2,n60002-3,n60002-4,n60002-5,n60002-6,n60002-7			0	0
 n60002b	Taoshi Gang Tao Dashi	ml_standA00	n60002	0, 0, 0	0		TRUE	TRUE	n6000202000	v00137				1	2	0	n60002	n60002	0		(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "f68003陶大石b不可以出現", 0, 0}  ], 0} 	0
 n60003	Taoshi Gang Headless Sky	m_standB00	c_m19	-346.71, 67.0892, -1102.97	37.52203		FALSE	FALSE	n6000301000					1	2	0	n60033	n60003	n60003-1,n60003-2,n60003-3,n60003-4,n60003-5,n60003-6		(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "QuestCondition" : "Q60009_05", 1, False}  ], 0} 	0
