@@ -26,12 +26,12 @@ n00005b	Brother Ren Hui, Zen Master	ml_standA00		724.587, 98.88848, -841.366	180
 n00006a	Welcoming Monk Fu Yu	ml_standA00		731.2573, 98.76141, -810.8582	300.1889	5-20	TRUE	FALSE	n0000602030	v00082				1	25	0	n00006					{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2}  ], 0} 	0
 n00006b	Welcoming Monk Fu Yu	ml_standA00		737.3, 93.65632, -708.34	0		TRUE	FALSE	n0000601000	v00082	sc0000601			1	25	0	n00006					{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 2}  ], 0} 	0
 n00007	Monk Guo Quan	m_hoe_Loop		768.537, 99.80569, -794.3434	272.7443	5-20	FALSE	FALSE	n0000701003					1	25	0	n00007	n00007	n00007a1,n00007a2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2}  ], 0} 	0
-n00008	Zhen Master Jin Ding	m_worship001_ec	n00008	739.015, 98.78667, -838.7962	173.459		FALSE	TRUE	n0000801000	v00081b				1	25	1	n00008	n00008	n00008a1,n00008a2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 0}  ], 0} 	0
-n00008a	Zhen Master Jin Ding	m_sleep_dead001_ec	n00008	0, 0, 0	0		FALSE	TRUE		v00081b				1	25	3	n00008	n00008				{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 3}  ], 0} 	0
+n00008	Zen Master Jin Ding	m_worship001_ec	n00008	739.015, 98.78667, -838.7962	173.459		FALSE	TRUE	n0000801000	v00081b				1	25	1	n00008	n00008	n00008a1,n00008a2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 0}  ], 0} 	0
+n00008a	Zen Master Jin Ding	m_sleep_dead001_ec	n00008	0, 0, 0	0		FALSE	TRUE		v00081b				1	25	3	n00008	n00008				{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 3}  ], 0} 	0
 n00010	Mountain folk	ml_standA00		348.787, 62.6381, -587.2728	193.848	6-20	TRUE	FALSE	n0001001039		sc0001001			1	0	0	n00010					0	0
 n00012	Monk Guo Xin	ml_standA00		779.77, 102.3174, -857.54	273.6179		FALSE	FALSE	n0002101013		sc0001201			1	25	0	n00002		n00012a,n00012b			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2} , { "CheckFlagAction" : "f00007", 1, 0}  ], 0} 	0
-n00013	Great Black Heavenly God Messenger	ml_standA00	n00013	524.4888, 77.41737, -659.2488	52.40515	22-23, 0-3	TRUE	TRUE	n0001301000	v00066	sc0001302			1	0	0	n00013	n00013				{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2} , { "CheckFlagAction" : "f00004", 1, 1}  ], 0} 	0
-n00013b	Great Black Heavenly God Messenger	ml_standA00	n00013	0, 0, 0	0		FALSE	TRUE	n0001302000	v00066	sc0001301			1	0	0	n00013	n00013b				{ "LogicalNode" : [ { "CheckFlagAction" : "f00004", 1, 1}  ], 1} 	0
+n00013	Great Dark Celestial Envoy	ml_standA00	n00013	524.4888, 77.41737, -659.2488	52.40515	22-23, 0-3	TRUE	TRUE	n0001301000	v00066	sc0001302			1	0	0	n00013	n00013				{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2} , { "CheckFlagAction" : "f00004", 1, 1}  ], 0} 	0
+n00013b	Great Dark Celestial Envoy	ml_standA00	n00013	0, 0, 0	0		FALSE	TRUE	n0001302000	v00066	sc0001301			1	0	0	n00013	n00013b				{ "LogicalNode" : [ { "CheckFlagAction" : "f00004", 1, 1}  ], 1} 	0
 n00013c	Wang Dazhu	ml_standA00	n00013	0, 0, 0	0		FALSE	TRUE						1	0	0						0	0
 n00014	Ma Yan	m_peep002Loop		739.6594, 94.92192, -740.8025	180		FALSE	FALSE	n0001401019					1	0	0	n00014					{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 4}  ], 0} 	0
 n00014b	Ma Yan	ml_squat_Loop		764.6289, 100.0325, -835.03	272.4114		TRUE	FALSE	n0001402000					1	0	0	n00014		n00014b1,n00014b2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 5}  ], 0} 	0
@@ -312,7 +312,7 @@ n00100b	Fuyao Si Xian	m_sleep002_ec	c_m19	-1076.279, 100.8563, 702.611	55.65204	
 n00100c	Fuyao Si Xian	m_sleep003_ec	c_m19	-1076.795, 100.8563, 703.3908	55.652		FALSE	FALSE	n0010002002					1	10	2	n00100	n00100c				0	0
 n00100d	Fuyao Si Xian	m_sleep004_ec	c_m19	-1077.329, 100.8563, 704.159	55.652		FALSE	FALSE	n0010002003					1	10	2	n00100	n00100d				0	0
 n00101	Red Cinnabar Cauldron Master	ml_stand101	c_m61	-1127.125, 106.8448, 638.0218	166.217		FALSE	FALSE		v00195				1	10	0	n00092a	n00101				{ "LogicalNode" : [ { "QuestCondition" : "Q00020", 1, False}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunMovieAction" : "m0010101"}  ]} , 10.00000}  ], 0} 
-n00102	Master Xie Jingsheng of Red Cinnabar Palace	m_sitLoop004	n00102	-1156.544, 111.4805, 741.163	216.3273		FALSE	TRUE		v00196				1	10	0	n00102	n00102				0	0
+n00102	Red Cinnabar Palace Master Xie Jingsheng	m_sitLoop004	n00102	-1156.544, 111.4805, 741.163	216.3273		FALSE	TRUE		v00196				1	10	0	n00102	n00102				0	0
 n00103	Chief Archer	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00088				1	8	0						0	0
 n00103a	Chief Archer	ml_standA00	c_m63	136.718, 92.826, 94.898	172.2731		FALSE	FALSE		v00088				1	8	0	n00078a	n00103a				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00103b	Chief Archer	ml_standA00	c_m64	137.91, 92.837, 94.91	179.9739		FALSE	FALSE		v00088				1	8	0	n00078b	n00103b				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
@@ -334,9 +334,9 @@ n00104e	Chief Archer	ml_standA00		112.735, 105.1599, 117.072	79.99999		FALSE	FAL
 n00104f	Chief Archer	ml_standA00		112.898, 105.1599, 115.778	87.84051		FALSE	FALSE		v00088				1	8	0	n00078d	n00104				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00104g	Chief Archer	ml_standA00		109.189, 105.1599, 117.69	8.263603		FALSE	FALSE		v00088				1	8	0	n00078d	n00104				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00104h	Chief Archer	ml_standA00		110.729, 105.1599, 117.933	350		FALSE	FALSE		v00088				1	8	0	n00078d	n00104				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
-n00105a	Western River Command Post elite soldiers	ml_stand101	c_m63	147.747, 88.24414, 97.602	176.9888		FALSE	FALSE		v00088				1	8	0	n00078e	n00105a				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
-n00105b	Western River Command Post elite soldiers	ml_stand101	c_m64	148.841, 87.982, 97.718	178.096		FALSE	FALSE		v00088				1	8	0	n00078f	n00105b				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
-n00105c	Western River Command Post elite soldiers	ml_stand101	c_m65	149.902, 88.071, 97.743	185.5117		FALSE	FALSE		v00088				1	8	0	n00078g	n00105c				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
+n00105a	Sichuan Army Elite Troops	ml_stand101	c_m63	147.747, 88.24414, 97.602	176.9888		FALSE	FALSE		v00088				1	8	0	n00078e	n00105a				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
+n00105b	Sichuan Army Elite Troops	ml_stand101	c_m64	148.841, 87.982, 97.718	178.096		FALSE	FALSE		v00088				1	8	0	n00078f	n00105b				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
+n00105c	Sichuan Army Elite Troops	ml_stand101	c_m65	149.902, 88.071, 97.743	185.5117		FALSE	FALSE		v00088				1	8	0	n00078g	n00105c				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00107a	Mountain Demon Corpse	m_sleep_dead001_ec		150.907, 87.84671, 152.29	285.7283		FALSE	FALSE						1		0	n20161					{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00107b	Officer Corpse	m_sleep_dead002_ec		149.9541, 87.84671, 156.132	304.7595		FALSE	FALSE						1		0	n00078a					{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00107c	Officer Corpse	m_sleep_dead003_ec		147.7256, 87.84672, 158.0449	335.0298		FALSE	FALSE						1		0	n00078b					{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
@@ -612,7 +612,7 @@ n10055b	Chasing Soul Sword Chen Style	ml_standA00	c_m16	-779.7511, 94.82822, 134
 n10055c	Li Gui, the Poison Demon	ml_standA00	c_m18	-779.3577, 94.82822, 1339.172	321.9627		FALSE	FALSE		v00008				1		0	n19999b	n10055c				{ "LogicalNode" : [ { "CheckFlagAction" : "n1005600030", 0, 0} , { "QuestCondition" : "Q40011", 0, False}  ], 0} 	0
 n10055d	Pontoon Pole Cao Ying	ml_standA00	c_m01	-778.8722, 94.82822, 1340.54	265.7062		FALSE	FALSE		v00009				1		0	n19999c	n10055d				{ "LogicalNode" : [ { "CheckFlagAction" : "n1005600030", 0, 0} , { "QuestCondition" : "Q40011", 0, False}  ], 0} 	0
 n10055e	Chainsaw Swordsman Xiao Xiao	ml_standA00	c_m17	-781.1519, 94.82822, 1341.552	133.1148		FALSE	FALSE		v00007				1		0	n19999d	n10055e				{ "LogicalNode" : [ { "CheckFlagAction" : "n1005600030", 0, 0} , { "QuestCondition" : "Q40011", 0, False}  ], 0} 	0
-n10055f	Founder of the Mountain, Qian Ba	ml_standA00	c_m16	-781.6396, 94.82822, 1340.18	83.7518		FALSE	FALSE		v00008				1		0	n19999a	n10055f				{ "LogicalNode" : [ { "CheckFlagAction" : "n1005600030", 0, 0} , { "QuestCondition" : "Q40011", 0, False}  ], 0} 	0
+n10055f	Mounting Sword Emperor Qian	ml_standA00	c_m16	-781.6396, 94.82822, 1340.18	83.7518		FALSE	FALSE		v00008				1		0	n19999a	n10055f				{ "LogicalNode" : [ { "CheckFlagAction" : "n1005600030", 0, 0} , { "QuestCondition" : "Q40011", 0, False}  ], 0} 	0
 n10056a	Tao Da	ml_standA00	c_m06	-570.37, 62.37183, 1321.8	49.52311		FALSE	FALSE	n1005600000	v00213	sc10056a			1		0	n10031a	n10056a				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, False}  ], 0} 	0
 n10056b	Tao Da	m_sleep001_ec	c_m06	-801.1838, 79.09793, 1319.3	217.4079		FALSE	FALSE		v00213				1		0	n10031a	n10056a				{ "LogicalNode" : [ { "CheckFlagAction" : "n1005600030", 0, 0} , { "QuestCondition" : "Q40011", 0, False}  ], 0} 	0
 n10057a	Tao Er	ml_standA00	c_m06	-568.754, 62.4076, 1323.325	225.9631		FALSE	FALSE	n1005600000	v00213				1		0	n10031b	n10057a				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, False}  ], 0} 	0
@@ -2027,7 +2027,7 @@ n30030	Lu Da Niang	w_standA00		-19.28583, 147.97, -1101.206	116.3105		TRUE	FALSE
 n30030b	Lu Da Niang	w_standB00		0, 0, 0	0		TRUE	FALSE	n3003001000	v00022				2	1	0	n30031-1					0	0
 n30031	White Island	m_Farmer_Stand		-417.239, 69.95396, -1069.832	154.7898	6-18	TRUE	FALSE	n3003101041	v00059	sc30031001			1	2	0	n20010		0		(Stone_Forge,2)(Money,1)	0	0
 n30031b	White Island	m_sitLoop006		-413.988, 69.90642, -1072.828	236.4436	19-23, 0-5	FALSE	FALSE	n3003102000	v00059				1	2	0	n20010		0		(Stone_Forge,2)(Money,1)	0	0
-n30032	Shu Yuji Yi Yuan	m_sitLoop006		-52.24025, 76.42161, -800.2979	158.5211	5-18	FALSE	FALSE	n3003201000	v00059				1	1	0	n30038		0			0	0
+n30032	Gleaming Jade Beach Yi Yuan	m_sitLoop006		-52.24025, 76.42161, -800.2979	158.5211	5-18	FALSE	FALSE	n3003201000	v00059				1	1	0	n30038		0			0	0
 n30033	Fisherman Elder	m_fisherman_Stand001		-228.688, 71.08, -823.324	0	8-16	FALSE	FALSE	n3003301000	v00037				1	1	0	n60034		0			0	0
 n30035	Farmer Ahui	m_Farmer_Stand		11.80797, 117.0724, -914.8491	275.3777		FALSE	FALSE	n3003501000	v00019	sc30035001			1	1	0	n20010		n30035-1,n30035-2			0	0
 n30037	Peasant Woman Tian Juan	m_standB00		-21.19775, 114.1798, -892.7302	0		TRUE	FALSE	n3003701000	v00022	sc30037001			2	1	0	n30031		n30037-1,n30037-2,n30037-3			0	0
@@ -2085,7 +2085,7 @@ n39001	Water Buffalo	al20006@waterbuffalo_idle		-36.24643, 115.8222, -919.799	50
 n39002	Water Buffalo	al20006@waterbuffalo_idle		149.3721, 98.68092, -929.6971	121.7714	6-18	FALSE	TRUE	n3900101000			n39002		1	21	0	animal06		0			0	0
 n39003	Water Buffalo	al20006@waterbuffalo_eating		115.2573, 114.7107, -981.9634	0	6-18	FALSE	TRUE	n3900101000			n39003		1	21	0	animal06		0			0	0
 n39004	Water Buffalo	al20006@waterbuffalo_eating		-179.2423, 111.3195, -954.6768	0	6-18	FALSE	TRUE	n3900101000			n39004		1	21	0	animal06		0			0	0
-n40001	Picking Flowers Seven Brave Brothers	ml_idle109	c_m04	-681.9407, 65.70987, -10.7335	149.262		FALSE	FALSE						1		1	n00046	n40001				{ "LogicalNode" : [ { "QuestCondition" : "Q40002_03", 0, True}  ], 0} 	0
+n40001	Senior Brother of the Seven Flora Guild	ml_idle109	c_m04	-681.9407, 65.70987, -10.7335	149.262		FALSE	FALSE						1		1	n00046	n40001				{ "LogicalNode" : [ { "QuestCondition" : "Q40002_03", 0, True}  ], 0} 	0
 n40002	Picking Flowers Seven	m_woodman_stand01	c_m12	-678.463, 65.70987, -10.70949	-164.316		FALSE	FALSE						1		1	n19999f	n40002				{ "LogicalNode" : [ { "QuestCondition" : "Q40002_03", 0, True}  ], 0} 	0
 n40003	Picking Flowers Seven	ml_idle110	c_m07	-675.4888, 65.70987, -13.13445	-122.975		FALSE	FALSE						1		1	n29006	n40003				{ "LogicalNode" : [ { "QuestCondition" : "Q40002_03", 0, True}  ], 0} 	0
 n40004	Picking Flowers Seven	ml_idle106	c_m12	-683.21, 65.70987, -13.43	-237.975		FALSE	FALSE						1		1	n29007	n40004				{ "LogicalNode" : [ { "QuestCondition" : "Q40002_03", 0, True}  ], 0} 	0
@@ -2111,15 +2111,15 @@ n40024	Mountain Demon Evil Ghost	ml_idle004	n20264	-1399.38, 130.3, -99.17	-79.7
 n40025	Mountain Demon Evil Ghost	ml_idle004	n20264	-1397.32, 132.01, -102.75	-70.63		FALSE	FALSE						1	0	1	n20161	n40020				{ "LogicalNode" : [ { "QuestCondition" : "Q40008_02", 0, True} , { "QuestCondition" : "Q40008_03", 0, True}  ], 1} 	0
 n40026	Black Tiger	al20007@idle	animal52	913.749, 76.93228, 1298.658	209.475		FALSE	TRUE		v10002		n40026		0	21	0	animal52	n40021				{ "LogicalNode" : [ { "TimeCondition" : 0, 3} , { "QuestCondition" : "Q40017_02", 0, True}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n40026", 0.00000, 0} , { "SetTalkIdAction" : "n4001703066"}  ]} , 10.00000}  ], 0} 
 n40026b	Black Tiger	al20007@idle	animal52	926.2402, 83.6162, 1330.197	72.584		FALSE	FALSE	n4001704031	v10002				0	0	0	animal52	n40021				{ "LogicalNode" : [ { "QuestCondition" : "Q40017", 1, True}  ], 0} 	0
-n40027	Heart's Desire Island Bandit Leader	ml_idle109	c_m04	0, 0, 0	0		FALSE	FALSE						1		1	n00046	n40022				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40028	Thieves of Heart's Desire Island	m_woodman_stand01	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n19999f	n40023				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40029	Thieves of Heart's Desire Island	ml_idle110	c_m07	0, 0, 0	0		FALSE	FALSE						1		1	n29006	n40024				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40030	Thieves of Heart's Desire Island	ml_idle106	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n29007	n40025				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40031	Thieves of Heart's Desire Island	ml_idle113	c_m16	0, 0, 0	0		FALSE	FALSE						1		1	n29008	n40026				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40032	Thieves of Heart's Desire Island	ml_idle005	c_m18	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40027				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40033	Thieves of Heart's Desire Island	ml_idle005	c_m06	0, 0, 0	0		FALSE	FALSE						1		0	n29009	n40028				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40034	Thieves of Heart's Desire Island	ml_idle010	c_m15	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40029				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
-n40035	Thieves of Heart's Desire Island	ml_idle010	c_m02	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40030				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40027	Bandit Chief of Heart's Desire Island	ml_idle109	c_m04	0, 0, 0	0		FALSE	FALSE						1		1	n00046	n40022				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40028	Heart's Desire Island Bandit	m_woodman_stand01	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n19999f	n40023				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40029	Heart's Desire Island Bandit	ml_idle110	c_m07	0, 0, 0	0		FALSE	FALSE						1		1	n29006	n40024				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40030	Heart's Desire Island Bandit	ml_idle106	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n29007	n40025				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40031	Heart's Desire Island Bandit	ml_idle113	c_m16	0, 0, 0	0		FALSE	FALSE						1		1	n29008	n40026				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40032	Heart's Desire Island Bandit	ml_idle005	c_m18	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40027				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40033	Heart's Desire Island Bandit	ml_idle005	c_m06	0, 0, 0	0		FALSE	FALSE						1		0	n29009	n40028				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40034	Heart's Desire Island Bandit	ml_idle010	c_m15	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40029				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40035	Heart's Desire Island Bandit	ml_idle010	c_m02	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40030				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
 n40036	Raid Leader, Bandit Chief	ml_idle110	n20154	0, 0, 0	0		FALSE	FALSE						1	0	1	n20154	n40032				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, True}  ], 0} 	0
 n40037a	Book Thief Bandit	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE						1	0	0	n20154	n40031a				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, True}  ], 0} 	0
 n40037b	Book Thief Bandit	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE						1	0	0	n20154	n40031b				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, True}  ], 0} 	0
@@ -2364,10 +2364,10 @@ n40111b	Wolf Barbarian Soldier	ml_idle401	c_m42	0, 0, 0	0		FALSE	FALSE						1	27
 n40111c	Wolf Barbarian Soldier	ml_idle401	c_m43	0, 0, 0	0		FALSE	FALSE						1	27	0	n20364d	n40083c				0	0
 n40111d	Wolf Barbarian Soldier	ml_idle305	c_m44	0, 0, 0	0		FALSE	FALSE						1	27	0	n20364b	n40083d				0	0
 n40111e	Wolf Barbarian Soldier	ml_idle305	c_m45	0, 0, 0	0		FALSE	FALSE						1	27	0	n20364	n40083e				0	0
-n40112a	Imperial Guard's Four Great Masters	ml_idle106	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40102	n40084a				0	0
-n40112b	Imperial Guard's Four Great Masters	ml_idle306	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40103	n40084b				0	0
-n40112c	Imperial Guard's Four Great Masters	ml_idle103	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40104	n40084c				0	0
-n40112d	Imperial Guard's Four Great Masters	ml_idle112	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40105	n40084d				0	0
+n40112a	The Four Elite of the Imperial Guard	ml_idle106	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40102	n40084a				0	0
+n40112b	The Four Elite of the Imperial Guard	ml_idle306	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40103	n40084b				0	0
+n40112c	The Four Elite of the Imperial Guard	ml_idle103	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40104	n40084c				0	0
+n40112d	The Four Elite of the Imperial Guard	ml_idle112	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40105	n40084d				0	0
 n40113	Way of Light adherents	m_kneel004stop		-568.5723, 94.77195, 942.9862	156.071		FALSE	FALSE						1	0	3	n00113a					{ "LogicalNode" : [ { "QuestCondition" : "Q40051", 0, True}  ], 0} 	0
 n40114	Shenwang Mountain Chief	ml_standA00	c_m01	0, 0, 0	0		FALSE	FALSE						1	29	0	n80296	n40085				{ "LogicalNode" : [ { "QuestCondition" : "Q40052", 0, True}  ], 0} 	0
 n40115a	Shanwang Shan Bangzhong	ml_standA00	c_m07	0, 0, 0	0		FALSE	FALSE						1	29	0	n80181	n40086a				{ "LogicalNode" : [ { "QuestCondition" : "Q40052", 0, True}  ], 0} 	0
@@ -2653,11 +2653,11 @@ n50127	Mu Mansion Elite Guards	ml_stand301	c_m21	-866.289, 66.45, -845.345	188.3
 n50128	Mu Mansion Elite Guards	ml_stand301	c_m21	-858.0563, 66.41874, -872.7181	150.7726		FALSE	FALSE	n5012801000	v00070c	sc50128001			1	3	0	n20050	n50075g				{ "LogicalNode" : [ { "CheckFlagAction" : "f52009潛入路線階段", 2, 2}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "MultiLogicaAction" : [ { "CheckInventoryCountAction" : "it801001", 1, 0} , { "SetTalkIdAction" : "n5007302000"}  ]} , { "MultiLogicaAction" : [ { "QuestCondition" : "Q52004", 0, True} , { "SetTalkIdAction" : "n5007302007"}  ]}  ]} , 20.00000}  ], 0} 
 n50129	Mu Mansion Elite Guards	ml_stand301	c_m21	-852.86, 66.40688, -869.89	155.7738		FALSE	FALSE	n5012901000	v00070				1	3	0	n20050	n50075h				{ "LogicalNode" : [ { "CheckFlagAction" : "f52009潛入路線階段(暫不登場)", 1, 99}  ], 0} 	{ "LogicalNode" : [ { "StealFailNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n5014810000"}  ]} }  ], 0} 
 n50130	Mu Mansion Patrol Guard	ml_standA00	c_m21	-894.2655, 66.1883, -935.1944	240.3481		TRUE	FALSE	n5013001000	v00070b	sc50130001			1	3	0	n20050h	n50074i	n50130a,n50130b			{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 2, 3} , { "QuestCondition" : "Q52005_10", 0, False}  ], 0} 	{ "LogicalNode" : [ { "StealFailNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n5014810000"}  ]} }  ], 0} 
-n50130b	Mu Mansion Patrol Guard (Not appearing currently)	ml_standA00		-894.2655, 66.1883, -935.1944	240.3481		FALSE	FALSE	n5014809000	v00070	sc50130001			1	3	0	n20050h	n50074i				{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 1, 4}  ], 0} 	0
+n50130b	Mu Mansion Patrol Guard (Not currently appearing)	ml_standA00		-894.2655, 66.1883, -935.1944	240.3481		FALSE	FALSE	n5014809000	v00070	sc50130001			1	3	0	n20050h	n50074i				{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 1, 4}  ], 0} 	0
 n50131	Mu Mansion Patrol Guard	ml_standA00	c_m21	-855.9612, 66.1883, -912.1351	257.8118		TRUE	FALSE	n5013101000	v00070b	sc50131001			1	3	0	n20050c	n50074j	n50131a,n50131b			{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 2, 3} , { "QuestCondition" : "Q52005_10", 0, False}  ], 0} 	{ "LogicalNode" : [ { "StealFailNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n5014810000"}  ]} }  ], 0} 
-n50131b	Mu Mansion Patrol Guard (Not appearing now)	ml_standA00		-855.9612, 66.1883, -912.1351	257.8118		FALSE	FALSE	n5014809000	v00070	sc50131001			1	3	0	n20050c	n50074j				{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 1, 4}  ], 0} 	0
+n50131b	Mu Mansion Patrol Guard (Not appearing currently)	ml_standA00		-855.9612, 66.1883, -912.1351	257.8118		FALSE	FALSE	n5014809000	v00070	sc50131001			1	3	0	n20050c	n50074j				{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 1, 4}  ], 0} 	0
 n50132	Mu Mansion Patrol Guard	ml_standA00	c_m21	-926.472, 66.18829, -940.7565	338.4148		TRUE	FALSE	n5013201000	v00070b	sc50132001			1	3	0	n20050I	n50074a	n50132a,n50132b			{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 2, 3} , { "QuestCondition" : "Q52005_10", 0, False}  ], 0} 	{ "LogicalNode" : [ { "StealFailNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n5014810000"}  ]} }  ], 0} 
-n50132b	Mu Mansion Patrol Guard (Not appearing)	ml_standA00	c_m21	-926.472, 66.18829, -940.7565	338.4148		FALSE	FALSE	n5014809000	v00070	sc50132001			1	3	0	n20050I	n50074a				{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 1, 4}  ], 0} 	0
+n50132b	Mu Mansion Patrol Guard (Will appear later)	ml_standA00	c_m21	-926.472, 66.18829, -940.7565	338.4148		FALSE	FALSE	n5014809000	v00070	sc50132001			1	3	0	n20050I	n50074a				{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 1, 4}  ], 0} 	0
 n50133	Mu Mansion Patrol Guard	ml_standA00	c_m21	-898.7275, 66.47159, -923.2071	234.3699		TRUE	FALSE	n5013301000	v00070c	sc50133001			1	3	0	n20050J	n50074b				{ "LogicalNode" : [ { "CheckFlagAction" : "f52009潛入路線階段", 2, 2} , { "QuestCondition" : "Q52005_10", 0, False}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "MultiLogicaAction" : [ { "CheckInventoryCountAction" : "it801001", 1, 0} , { "SetTalkIdAction" : "n5007302000"}  ]} , { "MultiLogicaAction" : [ { "QuestCondition" : "Q52004", 0, True} , { "SetTalkIdAction" : "n5007302007"}  ]}  ]} , 20.00000}  ], 0} 
 n50133b	Mu Mansion Patrol Guard	ml_die000stop	c_m21	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050J					0	0
 n50133bt	Mu Mansion Patrol Guard	ml_standA00	c_m21	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050J	n50074b				0	0
@@ -2691,7 +2691,7 @@ n50149a	Aluo Ahxi	ml_standA00		0, 0, 0	0	8-17	FALSE	FALSE	n5014901000		sc5014900
 n50149b	Aigui and A'jia	ml_standA00		0, 0, 0	0	8-17	FALSE	FALSE	n5014901000					1	3	0	n50005					{ "LogicalNode" : [ { "CheckFlagAction" : "f52024聽過守墓老人的傳聞？", 1, 0} , { "QuestCondition" : "Q52004", 0, False} , { "QuestCondition" : "Q52004", 1, False}  ], 0} 	0
 n50150a	Mu Mansion Elite Guards	ml_stand301	c_m12	-861.9076, 66.40517, -852.0491	244.1563		FALSE	FALSE	n5015001000	v00070	sc50150001			1	3	0	n20050f	n50075d				{ "LogicalNode" : [ { "CheckFlagAction" : "f52009潛入路線階段", 0, 0}  ], 0} 	{ "LogicalNode" : [ { "StealFailNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n5014820000"}  ]} } , { "PlayerEnterNode" : { "MultiAction" : [ { "MultiLogicaAction" : [ { "CheckFlagAction" : "f52027開啟木府衛兵進入視線對話", 1, 1} , { "SetTalkIdAction" : "n5014821000"}  ]}  ]} , 0.00000}  ], 0} 
 n50150b	Mu Mansion Elite Guards	ml_stand301	c_m12	-866.08, 66.41952, -859.49	56.43163		FALSE	FALSE	n5015001000	v00070	sc50150002			1	3	0	n20050d	n50075e				{ "LogicalNode" : [ { "CheckFlagAction" : "f52009潛入路線階段", 0, 0}  ], 0} 	{ "LogicalNode" : [ { "StealFailNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n5014820000"}  ]} } , { "PlayerEnterNode" : { "MultiAction" : [ { "MultiLogicaAction" : [ { "CheckFlagAction" : "f52027開啟木府衛兵進入視線對話", 1, 1} , { "SetTalkIdAction" : "n5014821000"}  ]}  ]} , 0.00000}  ], 0} 
-n50150bt	Guard Captain of the Mu Mansion	ml_standA00	c_m12	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050f	n50075k				0	0
+n50150bt	Mu Mansion Elite Guard Leader	ml_standA00	c_m12	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050f	n50075k				0	0
 n50150m1	Mu Mansion Elite Guards	ml_standA00	c_m12	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050	n50075				{ "LogicalNode" : [ { "CheckFlagAction" : "f52025偷竊或視線被發現後大舉包圍", 0, 0}  ], 0} 	0
 n50151bm	Spectators, Ah Jin	ml_standA00		0, 0, 0	0		FALSE	FALSE						1		0	n20065b					0	0
 n50151cm	Onlooker Crowd A Kun	ml_standA00		0, 0, 0	0		FALSE	FALSE						1		0	n20065b					0	0
@@ -4200,18 +4200,18 @@ n59994	Action Tester One	ml_standA00		0, 0, 0	0		FALSE	FALSE						1		0	n51001	n5
 n59994b	Tester Action Two	ml_standA00		0, 0, 0	0		FALSE	FALSE						2		0	n50030					0	0
 n59994c	Test Subject Three	ml_standA00		0, 0, 0	0		FALSE	FALSE						3		0	n50056s					0	0
 n59994d	Combat Tester Qingcheng	ml_standA00		0, 0, 0	0		TRUE	FALSE	n5999601000	v00059				1		0	n20535					0	0
-n59994e	Warrior Test Subject Heaven's Pillar Fort	ml_standA00		0, 0, 0	0		FALSE	FALSE	n5999601000					1		0	n20095					0	0
-n59994f	Combat Tester Shan Xiu Gu Grotto	ml_standA00		0, 0, 0	0		FALSE	FALSE	n5999601000					1		0	n60011					0	0
+n59994e	Heaven's Pillar Fort Testing Fighter	ml_standA00		0, 0, 0	0		FALSE	FALSE	n5999601000					1		0	n20095					0	0
+n59994f	Combat Tester Shanxiao Gu Gufu	ml_standA00		0, 0, 0	0		FALSE	FALSE	n5999601000					1		0	n60011					0	0
 n59994g	Combat Tester, Wolf Barbarian	ml_standA00		0, 0, 0	193.7377		FALSE	FALSE	n5999601000					1		0	n60027					0	0
 n59995	Yan the Merchant	ml_standA00		0, 0, 0	0		TRUE	FALSE	n5999501000					1	0	0	n20165	n59995			(Money,1)	0	0
 n59996	Mu Mansion Copy Everyman	ml_standA00		0, 0, 0	0		TRUE	FALSE	n5014899000					1	0	0	n50056d					0	0
 n59997	Snowy Mountains Incident	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5999701000					0	0	0	n20040					0	0
-n59998	Snow Wing Carving Incident Site	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5999801000					0	0	0	n20050					0	0
+n59998	Snowwing Carving Incident Site	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5999801000					0	0	0	n20050					0	0
 n59999	Stranger	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5009901000					1	0	0	n50005		0			0	0
 n60001	Taoshi Gang Zhuoyi	m_sitLoop006	n60001	-569.0997, 112.4298, -1325.576	168.7262		TRUE	TRUE	n6000101000	v00086				1	2	0	n60001	n60001	n60001-1,n60001-2,n60001-3,n60001-4,n60001-5,n60001-6,n60001-7,n60001-8,n60001-9		(Stone_Forge,2)(Money,1)	0	0
 n60001b	Taoshi Gang Zhuoyi	ml_standA00	n60001	0, 0, 0	0		TRUE	TRUE	n6000101000	v00086				1	2	0	n60001	n60001	0		(Stone_Forge,2)(Money,1)	0	0
-n60002	Master Tao Dashi of the Taoshi Gang	m_standB00	n60002	-417.9113, 67.72598, -1104.862	139.0828		TRUE	TRUE	n6000201000	v00137				1	2	0	n60002	n60002	n60002-1,n60002-2,n60002-3,n60002-4,n60002-5,n60002-6,n60002-7			0	0
-n60002b	Master Tao Dashi of the Taoshi Gang	ml_standA00	n60002	0, 0, 0	0		TRUE	TRUE	n6000202000	v00137				1	2	0	n60002	n60002	0		(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "f68003陶大石b不可以出現", 0, 0}  ], 0} 	0
+n60002	Taoshi Gang Tao Dashi	m_standB00	n60002	-417.9113, 67.72598, -1104.862	139.0828		TRUE	TRUE	n6000201000	v00137				1	2	0	n60002	n60002	n60002-1,n60002-2,n60002-3,n60002-4,n60002-5,n60002-6,n60002-7			0	0
+n60002b	Taoshi Gang Tao Dashi	ml_standA00	n60002	0, 0, 0	0		TRUE	TRUE	n6000202000	v00137				1	2	0	n60002	n60002	0		(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "f68003陶大石b不可以出現", 0, 0}  ], 0} 	0
 n60003	Taoshi Gang Headless Sky	m_standB00	c_m19	-346.71, 67.0892, -1102.97	37.52203		FALSE	FALSE	n6000301000					1	2	0	n60033	n60003	n60003-1,n60003-2,n60003-3,n60003-4,n60003-5,n60003-6		(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "QuestCondition" : "Q60009_05", 1, False}  ], 0} 	0
 n60003b	Taoshi Gang Headless Sky	m_standB00	c_m19	-518.7541, 119.4814, -1262.157	239.4327		FALSE	FALSE	n6000301000					1	2	0	n60033	n60003			(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "QuestCondition" : "Q60009_06", 0, True} , { "CheckFlagAction" : "f60089-2殺了趙掌櫃", 1, 0}  ], 0} 	0
 n60003c	Taoshi Gang Headless Sky	m_standB00	c_m19	0, 0, 0	0		FALSE	FALSE	n6000301000					1	2	0	n60033	n60003b			(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "QuestCondition" : "Q60009_06", 0, True} , { "CheckFlagAction" : "f60089-2殺了趙掌櫃", 1, 0}  ], 0} 	0
@@ -4320,9 +4320,9 @@ n60074c	Xia Bao	k_cry001Loop_ec	c_k02	-981.7015, 216.42, -1206.737	61.232		TRUE	
 n60074d	Xia Bao	ml_standA00	c_k02	-963.0989, 219.1268, -1224.676	28.937		FALSE	FALSE	n4002401049	v00041	sc60074005			3	14	0	n60045	n60074	n60074-7			{ "LogicalNode" : [ { "QuestCondition" : "Q40024", 0, True}  ], 0} 	0
 n60075	White Horse Residence Farmer	m_hoe_Loop		-1008.7, 212.66, -1204.62	276.6751		FALSE	FALSE	n6007501000	v00037				1	14	0	n20010		n60075-1,n60075-2,n60075-3,n60075-4			0	0
 n60076	White Horse Residence Farmer	m_hoe_Loop		-1020.084, 212.5712, -1191.81	73.29785		FALSE	FALSE	n6007601000	v00020				1	14	0	n20010		n60076-1,n60076-2,n60076-3,n60076-4			0	0
-n60077	Mind Granny (at White Horse Residence)	ml_standA00	c_w02	-953.9496, 219.264, -1236.446	0		FALSE	FALSE	n6007701000	v00052				2	14	0	n60011		n60077-1,n60077-2,n60077-3,n60077-4			0	0
-n60077b	Mind Granny (at White Horse Residence)	ml_standA00	c_w02	0, 0, 0	0		FALSE	FALSE						2	14	0	n60116-1					0	0
-n60077c	Mind Granny (at White Horse Residence)	ml_standA00	c_w02	0, 0, 0	0		FALSE	FALSE						2	14	0	n60116-1	n40068				0	0
+n60077	White Horse Residence Auntie Min	ml_standA00	c_w02	-953.9496, 219.264, -1236.446	0		FALSE	FALSE	n6007701000	v00052				2	14	0	n60011		n60077-1,n60077-2,n60077-3,n60077-4			0	0
+n60077b	White Horse Residence Auntie Min	ml_standA00	c_w02	0, 0, 0	0		FALSE	FALSE						2	14	0	n60116-1					0	0
+n60077c	White Horse Residence Auntie Min	ml_standA00	c_w02	0, 0, 0	0		FALSE	FALSE						2	14	0	n60116-1	n40068				0	0
 n60078	White Horse Residence Lin Zhi Jia	ml_standA00	c_m20	-966.5259, 219.1268, -1210.335	32.29683		FALSE	FALSE	n6007802000	v00058				1	14	0	n60096	n60078	n60078-1,n60078-2,n60078-3		(Weapon,1)(Armor,1)(Medicine,1)(Currency_Stuff,1)(Money,1)	0	0
 n60089a	Crocodile	al20061@Idle	animal05	402.3162, 65.78195, -1429.935	131.5466		FALSE	TRUE		v10010				0	21	0	animal05	n60089a				0	0
 n60089b	Crocodile	al20061@Idle	animal05	416.6167, 65.84127, -1404.182	301.0374		FALSE	TRUE		v10010				0	21	0	animal05	n60089b				0	0
@@ -4335,7 +4335,7 @@ n60091	Su Qingrui	ml_standA00	n60066-3	0, 0, 0	0		TRUE	TRUE	n6009101002	v00264		
 n60091b	Su Qingrui	ml_standA00	n60066-3	0, 0, 0	0		TRUE	TRUE	n6009101002	v00264				1	3	0	n60006-5	n60066				0	0
 n60093	Shopkeeper Ha Wanlai	ml_standA00		-597.1177, 66.55161, -1114.85	183.3416		FALSE	FALSE	n6009301000	v00013				1	3	0	n60015		n60093,n60093b,n60093c			0	0
 n60093b	Shopkeeper Ha Wanlai	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00013				1	3	0	n60015		0			0	0
-n60094	Charming Dream Pavilion Madam Color Auntie	w_standI01Loop		-739.3135, 66.18829, -1102.051	19.02925		FALSE	TRUE	n6009402000	v00053				2	22	0	n60113	n60094	n60094-1,n60094-2,n60094-3			0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunScheduleAction" : "sc60094001", "n60094", -1, ""}  ]} , 0.00000}  ], 0} 
+n60094	Madam Cai, Madam of Charming Dream Pavilion	w_standI01Loop		-739.3135, 66.18829, -1102.051	19.02925		FALSE	TRUE	n6009402000	v00053				2	22	0	n60113	n60094	n60094-1,n60094-2,n60094-3			0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunScheduleAction" : "sc60094001", "n60094", -1, ""}  ]} , 0.00000}  ], 0} 
 n60100	Fan Xiangdie	w_standA00	n60100	-735.7163, 79.70086, -1112.089	108.7955		TRUE	TRUE	n6010001000	v00036				2	22	0	n60046	n60100	n60100-1,n60100-2,n60100-3,n60100-4			{ "LogicalNode" : [ { "QuestCondition" : "Q60023", 1, True} , { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 1, 0}  ], 0} 	0
 n60100b	Fan Xiangdie	w_standA00	n60100	-730.3166, 66.18829, -1119.936	225.7979		FALSE	TRUE	n6010002000	v00036				2	22	0	n60046	n60100	0			{ "LogicalNode" : [ { "QuestCondition" : "Q60023", 1, False}  ], 0} 	0
 n60100c	Fan Xiangdie	ml_idle112	n60100	0, 0, 0	0		TRUE	TRUE		v00036				2	22	0	n60046	n60100				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
@@ -4496,8 +4496,8 @@ n60192b	Members of the Taoshi Gang	ml_standA00	c_m13	-521.8143, 118.3831, -1265.
 n60192c	Members of the Taoshi Gang	ml_standA00	c_m11	-517.7036, 119.2548, -1265.584	-121.513		FALSE	FALSE		v00009				1	2	0	n30006	n60192c				{ "LogicalNode" : [ { "QuestCondition" : "Q60009_06", 0, True}  ], 0} 	0
 n60193a	Simpersun from the Taoshi Gang	ml_standA00	c_m18	-432.8484, 67.0925, -1126.716	267.6127	5-21	FALSE	FALSE	n6019301000	v00008				1	2	0	n60119	n60193a				{ "LogicalNode" : [ { "CheckFlagAction" : "f60033n30009進入戰鬥", 1, 0}  ], 0} 	0
 n60193b	Mule Egg from the Taoshi Gang	ml_standA00	c_m10	-434.662, 67.26812, -1123.533	210.6076	5-21	FALSE	FALSE	n6019301002	v00042				1	2	0	n60120	n60193b				{ "LogicalNode" : [ { "CheckFlagAction" : "f60033n30009進入戰鬥", 1, 0}  ], 0} 	0
-n60194	Madam Bao, Madam-in-Charge of Charming Dream Pavilion	w_standI01Loop		-739.3135, 66.18829, -1102.051	19.02925		FALSE	FALSE	n6019401000	v00052				2	22	0	n60121-1	n60194	n60194-1,n60194-2			{ "LogicalNode" : [ { "QuestCondition" : "Q40002_02", 0, False} , { "QuestCondition" : "Q40002_03", 0, False}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunScheduleAction" : "sc60194002", "n60194", -1, ""}  ]} , 0.00000}  ], 0} 
-n60194a	Madam Bao, Madam-in-Charge of Charming Dream Pavilion	w_standI01Loop		-736.1529, 66.218, -1102.052	-24.303		TRUE	FALSE	n4000303012	v00052				2	22	0	n60121-1	n60194				{ "LogicalNode" : [ { "QuestCondition" : "Q40002_02", 0, True} , { "QuestCondition" : "Q40002_03", 0, True}  ], 1} 	0
+n60194	Madam Bao at Charming Dream Pavilion	w_standI01Loop		-739.3135, 66.18829, -1102.051	19.02925		FALSE	FALSE	n6019401000	v00052				2	22	0	n60121-1	n60194	n60194-1,n60194-2			{ "LogicalNode" : [ { "QuestCondition" : "Q40002_02", 0, False} , { "QuestCondition" : "Q40002_03", 0, False}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunScheduleAction" : "sc60194002", "n60194", -1, ""}  ]} , 0.00000}  ], 0} 
+n60194a	Madam Bao at Charming Dream Pavilion	w_standI01Loop		-736.1529, 66.218, -1102.052	-24.303		TRUE	FALSE	n4000303012	v00052				2	22	0	n60121-1	n60194				{ "LogicalNode" : [ { "QuestCondition" : "Q40002_02", 0, True} , { "QuestCondition" : "Q40002_03", 0, True}  ], 1} 	0
 n60195a	Miner Zhang Bo	ml_squat_Loop		-562.3271, 114.6368, -1307.404	301.1768		FALSE	FALSE	n6019501000	v00104				1	2	0	n60023		n60195a-1,n60195a-2			{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True}  ], 0} 	0
 n60195b	Gou Yuan, the Miner	ml_standA00		-545.216, 111.6963, -1334.007	127.7076		FALSE	FALSE	n6019501001	v00104				1	2	0	n60022		n60195b-1,n60195b-2			{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True}  ], 0} 	0
 n60195c	Mine Worker Qu Daji	m_talk011_ec		-552.5024, 111.0113, -1333.461	237.8356		FALSE	FALSE	n6019501002	v00104				1	2	0	n30035		n60195c-1,n60195c-2			{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True}  ], 0} 	0
@@ -4510,7 +4510,7 @@ n60198a	Pan Shuai of Taoshi Gang	ml_standA00		-411.2919, 67.12001, -1122.819	0		
 n60198b	Member of the Taoshi Gang, Gan Jun	ml_standA00		-411.62, 67.12001, -1121.528	175.4302		FALSE	FALSE	n6019801000	v00259				1	2	0	n30007		n60198b-1,n60198b-2,n60198b-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f60086-1拿過周益贈品", 0, 0}  ], 0} 	0
 n60198c	Heavenly Strong of Taoshi Gang	ml_standA00		-403.1714, 67.12001, -1114.937	122.9315		FALSE	FALSE	n6019801000	v00258				1	2	0	n30008		n60198c-1,n60198c-2,n60198c-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f60086-1拿過周益贈品", 0, 0}  ], 0} 	0
 n60198d	Mount Qiang of the Taoshi Gang	ml_standA00		-401.911, 67.12001, -1115.764	301.3303		FALSE	FALSE	n6019801000	v00259				1	2	0	n30009		n60198d-1,n60198d-2,n60198d-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f60086-1拿過周益贈品", 0, 0}  ], 0} 	0
-n60198e	Member of the Taoshi Gang, Qiu Hong	ml_standA00		-408.4543, 67.12001, -1117.508	0		FALSE	FALSE	n6019801000	v00258				1	2	0	n30012		n60198e-1,n60198e-2,n60198e-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f60086-1拿過周益贈品", 0, 0}  ], 0} 	0
+n60198e	Qiu Hong of Taoshi Gang	ml_standA00		-408.4543, 67.12001, -1117.508	0		FALSE	FALSE	n6019801000	v00258				1	2	0	n30012		n60198e-1,n60198e-2,n60198e-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f60086-1拿過周益贈品", 0, 0}  ], 0} 	0
 n60198f	Grand Aid of the Taoshi Gang	m_standB00		-404.58, 67.05408, -1125.48	118.0973		FALSE	FALSE	n6019801011	v00259				1	2	0	n60119					{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True} , { "CheckFlagAction" : "f60089-2殺了趙掌櫃", 0, 0}  ], 0} 	0
 n60198g	Gua Zi (Taoshi Gang)	m_standB00		-401.05, 67.05408, -1123.67	169.3945		FALSE	FALSE	n6019801012	v00258				1	2	0	n60120					{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True} , { "CheckFlagAction" : "f60089-2殺了趙掌櫃", 0, 0}  ], 0} 	0
 n60199	Jiang Bo	ml_standA00		-399.1403, 67.08, -1125.663	292.707		FALSE	FALSE	n6019901000	v00050				1	2	0	n30049					{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True} , { "TimeCondition" : 5, 18}  ], 0} 	0
@@ -4563,7 +4563,7 @@ n60232b	Brother Xu	m_standJ00		0, 0, 0	0		FALSE	FALSE	n6023201000	v00050				1	1	
 n60233	Uncle Qi	ml_standA00		25.03651, 131.1238, -1030.656	164.7885		FALSE	FALSE	n6023301000	v00004				1	1	0	n60073	n60233	n60233-1,n60233-2,n60233-3			0	0
 n60234	Huang Dasi	ml_standA00		22.01918, 131.1238, -1033.23	106.3518		FALSE	FALSE	n6023401000	v00053				2	1	0	n41007	n60234	n60234-1,n60234-2,n60234-3			0	0
 n60235	Madam Chen	w_standA00		23.48058, 131.1238, -1036.682	79.88		FALSE	FALSE	n6023501000	v00052				2	1	0	n60056-1	n60235	n60235-1,n60235-2,n60235-3			0	0
-n60236	Locals' Bravest: Smelly Head Zhang	m_woodman_stand01	c_m09	0, 0, 0	0		FALSE	FALSE		v00007				1	0	0	n60065	n60236	n60236-3,n60236-4,n60236-5			{ "LogicalNode" : [ { "QuestCondition" : "Q10002_01", 0, True} , { "QuestCondition" : "Q10002_02", 0, True} , { "QuestCondition" : "Q10002_07", 0, True}  ], 1} 	0
+n60236	Local Militia Stinky Zhang	m_woodman_stand01	c_m09	0, 0, 0	0		FALSE	FALSE		v00007				1	0	0	n60065	n60236	n60236-3,n60236-4,n60236-5			{ "LogicalNode" : [ { "QuestCondition" : "Q10002_01", 0, True} , { "QuestCondition" : "Q10002_02", 0, True} , { "QuestCondition" : "Q10002_07", 0, True}  ], 1} 	0
 n60237	Village Militia Wang Laoli	m_standB00		0, 0, 0	0		FALSE	FALSE		v00008				1	0	0	n60066		n60237-3,n60237-4,n60237-5			{ "LogicalNode" : [ { "QuestCondition" : "Q10002_01", 0, True} , { "QuestCondition" : "Q10002_02", 0, True} , { "QuestCondition" : "Q10002_07", 0, True}  ], 1} 	0
 n60238	Local Militia Wang A-Ba	ml_standA00	c_m24	0, 0, 0	0		FALSE	FALSE		v00009				1	0	0	n60067	n60238	n60238-3,n60238-4,n60238-5			{ "LogicalNode" : [ { "QuestCondition" : "Q10002_01", 0, True} , { "QuestCondition" : "Q10002_02", 0, True} , { "QuestCondition" : "Q10002_07", 0, True}  ], 1} 	0
 n60239	Brother Qiu Dachu	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00008				1	0	0	n60037	n60239	n60239-3,n60239-4,n60239-5			{ "LogicalNode" : [ { "QuestCondition" : "Q10002_01", 0, True} , { "QuestCondition" : "Q10002_02", 0, True} , { "QuestCondition" : "Q10002_07", 0, True}  ], 1} 	0
@@ -4668,7 +4668,7 @@ n60322	Fu Er Dai	ml_standA00		-352.67, 83.15347, 669.5406	316.6771		FALSE	FALSE	
 n60323	Arched Stone Village Elder Lin	ml_standA00		-348.0713, 82.96994, 640.7208	69.33997		FALSE	FALSE	n6032301000	v00058				1	1	0	n60123		n60323-1,n60323-2,n60323-3,n60323-4,n60323-5			{ "LogicalNode" : [ { "CheckFlagAction" : "f63015-1酒莊任務完成和送米的對話過", 1, 0}  ], 0} 	0
 n60324	Fang Zhuanggui	ml_standA00		-355.9697, 82.99552, 646.1755	0		FALSE	FALSE	n6032401000	v00059				1	3	0	n20070		n60324-1,n60324-2,n60324-3,n60324-4,n60324-5			0	0
 n60325	Yuanbao	ml_standA00		-354.3554, 82.99552, 646.0383	335.7627		FALSE	FALSE	n6032501000	v00059				1	3	0	n20095		n60325-1,n60325-2,n60325-3,n60325-4,n60325-5,n60325-6			0	0
-n60326	Wang Sixia, Wealthy Family's Daughter	w_standA00		-338.2466, 83.93099, 672.4003	332.963		FALSE	FALSE	n6032601000	v00060				2	0	0	n60106		n60326-1,n60326-2,n60326-3,n60326-4,n60326-5			{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f63004和老太爺一起進牢房", 0, 0} , { "CheckFlagAction" : "f63003老太爺進牢房", 0, 0} , { "CheckFlagAction" : "f63008埋了王思佳", 1, 0}  ], 0} , { "LogicalNode" : [ { "CheckFlagAction" : "f63003老太爺進牢房", 1, 0}  ], 0}  ], 1} 	0
+n60326	Wealthy Young Lady Wang Sijia	w_standA00		-338.2466, 83.93099, 672.4003	332.963		FALSE	FALSE	n6032601000	v00060				2	0	0	n60106		n60326-1,n60326-2,n60326-3,n60326-4,n60326-5			{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f63004和老太爺一起進牢房", 0, 0} , { "CheckFlagAction" : "f63003老太爺進牢房", 0, 0} , { "CheckFlagAction" : "f63008埋了王思佳", 1, 0}  ], 0} , { "LogicalNode" : [ { "CheckFlagAction" : "f63003老太爺進牢房", 1, 0}  ], 0}  ], 1} 	0
 n60327	Maid Chun Xiang	w_standC00		-338.8524, 83.93099, 671.5896	4.359984		FALSE	FALSE	n6032701000	v00061				2	0	0	n60068		n60327-1,n60327-2,n60327-3,n60327-4,n60327-5			{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f63004和老太爺一起進牢房", 0, 0} , { "CheckFlagAction" : "f63003老太爺進牢房", 0, 0} , { "CheckFlagAction" : "f63008埋了王思佳", 1, 0}  ], 0} , { "LogicalNode" : [ { "CheckFlagAction" : "f63003老太爺進牢房", 1, 0}  ], 0}  ], 1} 	0
 n60328	Cui Bei	m_talk011_ec		-334.7226, 83.15347, 658.0917	39.47692		FALSE	FALSE	n6032801000	v00064				1	0	0	n60014		n60328-1,n60328-2,n60328-3,n60328-4,n60328-5			0	0
 n60329	Xu Daguan	ml_standA00		-321.6051, 83.15347, 654.8716	167.5585		FALSE	FALSE	n6032901000	v00058				1	0	0	n60060		n60329-1,n60329-2,n60329-3,n60329-4,n60329-5			0	0
@@ -4682,7 +4682,7 @@ n60336	Servant Madam Jiang	ml_standA00		0, 0, 0	0		FALSE	FALSE	n6033601000	v0003
 n60337	Chen Pu	ml_standA00	c_m11	0, 0, 0	0		FALSE	FALSE	n6033701000	v00058				1	6	0	n60312-1	n60337	n60337-1,n60337-2,n60337-3,n60337-4,n60337-5,n60337-6,n60337-7			{ "LogicalNode" : [ { "CheckFlagAction" : "f61054-2酒窖幫老太爺", 1, 0}  ], 0} 	0
 n60338	Direct Descendant Chen Rui	ml_standA00	c_m12	0, 0, 0	0		FALSE	FALSE	n6033801000	v00059				1	6	0	n60312-1	n60338	n60338-1,n60338-2,n60338-3,n60338-4,n60338-5,n60338-6,n60338-7			{ "LogicalNode" : [ { "CheckFlagAction" : "f61054-2酒窖幫老太爺", 1, 0}  ], 0} 	0
 n60339	Chen Qu - Direct Descendant	ml_standA00	c_m13	0, 0, 0	0		FALSE	FALSE	n6033901000	v00058				1	6	0	n60312-1	n60339	n60339-1,n60339-2,n60339-3,n60339-4,n60339-5,n60339-6,n60339-7			{ "LogicalNode" : [ { "CheckFlagAction" : "f61054-2酒窖幫老太爺", 1, 0}  ], 0} 	0
-n60340	Imperial Guard Commander Zhang Youchen	ml_standA00	n60301	-354.2552, 80.29533, 575.4223	247.7718		FALSE	TRUE	n6034001000	v00083				1	0	0	n60301	n60340	n60340-1,n60340-2			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "QuestCondition" : "Q60037", 1, False}  ], 0} 	0
+n60340	Imperial Guard Commandant Zhang Yuchen	ml_standA00	n60301	-354.2552, 80.29533, 575.4223	247.7718		FALSE	TRUE	n6034001000	v00083				1	0	0	n60301	n60340	n60340-1,n60340-2			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "QuestCondition" : "Q60037", 1, False}  ], 0} 	0
 n60341a	Imperial Guard	ml_standA00	c_m15	-364.2955, 80.23052, 574.9787	69.21376		FALSE	FALSE	n6034101000	v00110				1	0	0	n60302	n60341a	n60341a-1,n60341a-2,n60341a-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "QuestCondition" : "Q60037", 1, False}  ], 0} 	0
 n60341b	Imperial Guard	ml_standA00	c_m16	-367.1736, 80.15489, 572.9799	41.47775		FALSE	FALSE	n6034101001	v00110				1	0	0	n60303	n60341b	n60341b-1,n60341b-2,n60341b-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "QuestCondition" : "Q60037", 1, False}  ], 0} 	0
 n60341c	Imperial Guard	ml_standA00	c_m17	-368.8029, 80.08821, 571.541	48.51696		FALSE	FALSE	n6034101002	v00110				1	0	0	n60304	n60341c	n60341c-1,n60341c-2,n60341c-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "QuestCondition" : "Q60037", 1, False}  ], 0} 	0
@@ -5809,8 +5809,8 @@ n90424	Yang Tian Ning	ml_standA00		0, 0, 0	0		FALSE	TRUE						1	0	0	n90424					0
 n90425	Yang Tianyi	ml_idle001	n90425	0, 0, 0	0		FALSE	TRUE		v00245				1	0	0	n41104	n90425				0	0
 n90425b	Yang Tianyi	m_standI00	n90425	0, 0, 0	0		FALSE	TRUE		v00245				1	0	0	n41104	n90425b				0	0
 n90426	Baili Danhe	ml_standA00	n90426	0, 0, 0	0		FALSE	TRUE						1	0	0	n00015d	n90426				0	0
-n90427	Zhen Master Jin Ding	ml_standA00	n00008	0, 0, 0	0		FALSE	TRUE						1	25	0	n00008	n90427				0	0
-n90427d	Zhen Master Jin Ding	m_sleep_dead001_ec	n00008	0, 0, 0	0		FALSE	TRUE						1	25	3	n00008	n90427				0	0
+n90427	Zen Master Jin Ding	ml_standA00	n00008	0, 0, 0	0		FALSE	TRUE						1	25	0	n00008	n90427				0	0
+n90427d	Zen Master Jin Ding	m_sleep_dead001_ec	n00008	0, 0, 0	0		FALSE	TRUE						1	25	3	n00008	n90427				0	0
 n90428	Feng Guanxi	ml_standA00	n90428	0, 0, 0	0		FALSE	TRUE						1	0	0	n00015d	n90428				0	0
 n90432	Merciless Hall Member	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90432				0	0
 n90432d	Merciless Hall Member	m_sleep_dead002_ec	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	3	n20154					0	0

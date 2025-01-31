@@ -1146,7 +1146,7 @@ nick122buff	A martial arts barrier：Artful	Transference Technique is guaranteed
 nick123buff	Martial Arts Obstacle：Move	Range of the counterattack is astonishing	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick124buff	Martial arts blockade：Just now	Enhance the effect of the hero's fury	0	nickname	0	TRUE	0	FALSE	0	0		nick122buff
 nick125	Scarlet Elixir Puppet	During an attack, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of muscle separation value	0	nickname	0	TRUE	0	FALSE	0	0		nick125
-nick126	Western River Military Commander	Reduces all skill values of enemies within a 3-unit radius from the caster by 25 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick126
+nick126	Commander of Military Affairs for West River	Reduces all skill values of enemies within a 3-unit radius from the caster by 25 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick126
 nick126b	Merciless Hall Master	When using Wildball Fist, the technique's power increases by 100%	0	nickname	0	TRUE	0	FALSE	0	0		nick126b
 nick127	Pushing Hands of the Primordial Chaos	When discharging qi, enemies within a 2-unit radius of the user will accumulate an additional 10 points of internal injury; if the target is male, they will gain an extra 10 points of internal injury	0	nickname	0	TRUE	0	FALSE	0	0		nick127
 nick128	Fierce-faced Yanwang	When activating feigned moves, there is a 25% chance to apply Yanwang Suoming on the target, reducing their Neigong by 3 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick128

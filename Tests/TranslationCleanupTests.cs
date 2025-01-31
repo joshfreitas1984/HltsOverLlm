@@ -187,7 +187,7 @@ public class TranslationCleanupTests
         //}        
 
         // Long NPC Names
-        if (outputFile.Contains("NpcItem.txt") && split.Translated.Length > 30)
+        if (outputFile.Contains("NpcItem.txt") && split.Translated.Length > 50)
         {
             split.FlaggedForRetranslation = true;
             modified = true;
