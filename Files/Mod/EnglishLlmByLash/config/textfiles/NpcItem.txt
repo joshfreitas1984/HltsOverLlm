@@ -391,8 +391,8 @@ n00123e	Imperial Guard Corpse	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE						1	
 n06001	Tea Shop Helper	ml_standA00	c_m22	453.613, 62.81241, -157.384	236.5386		TRUE	FALSE	n0600101000	v00123				1	102	0	n06001	n06001			(Food,1)(Currency_Stuff,1)(Money,1)	0	0
 n06002	Aruo, Apei	w_standA00		-1264.275, 186.106, -778.737	100.855		TRUE	FALSE	n0600201000	v00150	sc0600201			2	102	0	n06002					0	0
 n06003	Innkeeper	ml_standA00	c_m27	24.9095, 64.64294, 486.6982	329.8782		TRUE	FALSE	n0600301000	v00122				1	102	0	n06003	n06003			(Food,1)(Currency_Stuff,1)(Money,1)	0	0
-n06004a	A ferryman	m_standB00		67.80035, 62.9765, 389.2319	351.9946		TRUE	FALSE	n0600401000	v00054				1	0	0	n06004a					0	0
-n06004b	A ferryman	m_standA00		25.15845, 63.91412, 460.7033	164.1234		TRUE	FALSE	n0600402000	v00054				1	0	0	n06004b					0	0
+n06004a	Boatman	m_standB00		67.80035, 62.9765, 389.2319	351.9946		TRUE	FALSE	n0600401000	v00054				1	0	0	n06004a					0	0
+n06004b	Boatman	m_standA00		25.15845, 63.91412, 460.7033	164.1234		TRUE	FALSE	n0600402000	v00054				1	0	0	n06004b					0	0
 n06005	Tea House Owner	m_standB00	c_m33	-739.1752, 68.22411, -19.05617	143.4804		TRUE	FALSE	n0600501000	v00122				1	102	0	n06005	n06005			(Food,1)(Currency_Stuff,1)(Money,1)	0	0
 n07001	Huangfu Dengyun	wuxia_stand07	n07001	149.292, 96.65258, 223.1268	334.4578		FALSE	TRUE						1	0	0	n07001	n07001				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n07001a	Huangfu Dengyun	ml_standA00	n07001b	0, 0, 0	0		TRUE	TRUE						1	8	0	n07001b	n07001a				0	0
@@ -572,7 +572,7 @@ n10024	Sai Wu Song, Wu Dan	m_talk001	c_m19	357.012, 73.038, -497.877	116.4377	5-
 n10025	Xiao Hua Rong, Bu Sun	m_talk001	c_m18	358.157, 72.80331, -499.796	0	5-18	FALSE	FALSE	n1002300028	v00009				1	11	0	n19999b	n10025				{ "LogicalNode" : [ { "QuestCondition" : "Q10007_03", 1, False}  ], 0} 	0
 n10026	Malevolent Beast	al20007@Eating	animal07	0, 0, 0	0		FALSE	FALSE		v10002				0	21	0	animal07	n10026				0	0
 n10027a	Bean Curd Shop Helper	ml_standA00	c_m18	343.841, 72.89537, -506.932	184.4561	5-18	FALSE	FALSE	n1002700000	v00059				1	11	0	n20095	n10027a			(Cuisine_Food,1)(Currency_Stuff,1)(Money,1)	0	0
-n10028	Yanbang Member, Lau Sui Jie	ml_standA00		296.001, 80.32305, -537.905	248.9656	5-18	TRUE	FALSE	n1002800000					1	11	0	n10022b	n10028				0	0
+n10028	Salt Gang member Luosu Ji	ml_standA00		296.001, 80.32305, -537.905	248.9656	5-18	TRUE	FALSE	n1002800000					1	11	0	n10022b	n10028				0	0
 n10029	Salt Boil Worker	m_cooksalt001		328.06, 72.89537, -511.528	153.9783	5-18	FALSE	FALSE	n1002900000					1	11	0	n10029c	n10029				0	0
 n10030	Salt Boil Worker	m_cooksalt001		334.3267, 72.89537, -514.2952	341.7575	5-18	FALSE	FALSE	n1003000000					1	11	0	n10029b	n10030				0	0
 n10031	Salt Boil Worker	m_cooksalt001		338.5953, 72.89537, -529.6648	162.6062	5-18	FALSE	FALSE	n1003100000					1	11	0	n10029c	n10031				0	0
@@ -2027,7 +2027,7 @@ n30030	Lu Da Niang	w_standA00		-19.28583, 147.97, -1101.206	116.3105		TRUE	FALSE
 n30030b	Lu Da Niang	w_standB00		0, 0, 0	0		TRUE	FALSE	n3003001000	v00022				2	1	0	n30031-1					0	0
 n30031	White Island	m_Farmer_Stand		-417.239, 69.95396, -1069.832	154.7898	6-18	TRUE	FALSE	n3003101041	v00059	sc30031001			1	2	0	n20010		0		(Stone_Forge,2)(Money,1)	0	0
 n30031b	White Island	m_sitLoop006		-413.988, 69.90642, -1072.828	236.4436	19-23, 0-5	FALSE	FALSE	n3003102000	v00059				1	2	0	n20010		0		(Stone_Forge,2)(Money,1)	0	0
-n30032	Shu Yuji, the Wisher	m_sitLoop006		-52.24025, 76.42161, -800.2979	158.5211	5-18	FALSE	FALSE	n3003201000	v00059				1	1	0	n30038		0			0	0
+n30032	Gleaming Jade Beach Youthful Aspiration	m_sitLoop006		-52.24025, 76.42161, -800.2979	158.5211	5-18	FALSE	FALSE	n3003201000	v00059				1	1	0	n30038		0			0	0
 n30033	Fisherman Elder	m_fisherman_Stand001		-228.688, 71.08, -823.324	0	8-16	FALSE	FALSE	n3003301000	v00037				1	1	0	n60034		0			0	0
 n30035	Farmer Ahui	m_Farmer_Stand		11.80797, 117.0724, -914.8491	275.3777		FALSE	FALSE	n3003501000	v00019	sc30035001			1	1	0	n20010		n30035-1,n30035-2			0	0
 n30037	Peasant Woman Tian Juan	m_standB00		-21.19775, 114.1798, -892.7302	0		TRUE	FALSE	n3003701000	v00022	sc30037001			2	1	0	n30031		n30037-1,n30037-2,n30037-3			0	0
@@ -4895,7 +4895,7 @@ n60563	Gongye Gang	m_standB00	c_m12	0, 0, 0	0		FALSE	FALSE	n6056301000	v00008			
 n60563b	Gongye Gang	m_standB00	c_m12	0, 0, 0	0		FALSE	FALSE	n6056301000	v00008				1	12	0	n29007	n60563				0	0
 n60564	Gongye Tie	ml_standA00	c_m17	0, 0, 0	0		FALSE	FALSE	n6056401000	v00009				1	12	0	n29008	n60564	n60564-1,n60564-2,n60564-3,n60564-4,n60564-5,n60564-6,n60564-7			{ "LogicalNode" : [ { "CheckFlagAction" : "f65016-1觸發過茫丐事件", 0, 0}  ], 0} 	0
 n60564b	Gongye Tie	ml_standA00	c_m17	0, 0, 0	0		FALSE	FALSE	n6056401000	v00009				1	12	0	n29008	n60564				0	0
-n60565	A ferryman	m_sitLoop004	c_m18	919.636, 62.43019, 1190.699	33.93661		FALSE	FALSE	n6056501000	v00050				1	12	0	n60118-2	n60565				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t65014-7去請船夫24", False} , { "CheckFlagAction" : "f65014-7去請船夫", 0, 0}  ], 0} 	0
+n60565	Boatman	m_sitLoop004	c_m18	919.636, 62.43019, 1190.699	33.93661		FALSE	FALSE	n6056501000	v00050				1	12	0	n60118-2	n60565				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t65014-7去請船夫24", False} , { "CheckFlagAction" : "f65014-7去請船夫", 0, 0}  ], 0} 	0
 n60566	Meng Gai	m_sitLoop006	c_m39	923.375, 83.88183, 1346.393	290.4506		FALSE	FALSE	n6056601000	v00055				1	12	0	n20116b	n60566	n60566-1,n60566-2,n60566-3			0	0
 n60566b	Meng Gai	ml_standA00	c_m39	0, 0, 0	0		FALSE	FALSE	n6056601000	v00055				1	12	0	n20116b	n60566				0	0
 n60567	Rui Lian	ml_standA00		939.4277, 83.61075, 1329.477	345.9029		FALSE	FALSE	n6056701000	v00017				2	12	0	n60011		n60567-1,n60567-2,n60567-3,n60567-4,n60567-5,n60567-6			{ "LogicalNode" : [ { "QuestCondition" : "Q60039", 1, True}  ], 0} 	0
@@ -5548,7 +5548,7 @@ n80371	Wandering Miner	ml_standA00	c_m34	316.7382, 65.68213, 1010.043	98.999	6-2
 n80372	Wandering Miner	ml_standA00	c_m34	-627.2324, 72.34944, 534.0196	249.6605	6-21	TRUE	FALSE	n8004401039	v00054_c01.wav				1	115	0	n80300	n80310			(Stone_Forge,1)(Bonus_Forge,1)(Money,1)	0	0
 n80373	Wandering Miner	ml_standA00	c_m34	-537.3622, 65.33163, 65.11005	26.52782	6-21	TRUE	FALSE	n8004401042	v00054_c01.wav				1	115	0	n80300	n80311			(Stone_Forge,1)(Bonus_Forge,1)(Money,1)	0	0
 n80374	Zhu Yilong	ml_standA00	c_m19	0, 0, 0	0		TRUE	FALSE	n8037401000					1	0	0	n20141	n80312				0	0
-n80375	Zhu Er Hu	ml_standA00	c_m03	0, 0, 0	0		TRUE	FALSE	n8037401003					1	0	0	n29001	n80313				0	0
+n80375	Zhu Erhu	ml_standA00	c_m03	0, 0, 0	0		TRUE	FALSE	n8037401003					1	0	0	n29001	n80313				0	0
 n80376	Zhu Sanmao	ml_standA00	c_m11	0, 0, 0	0		TRUE	FALSE	n8037401006					1	0	0	n29002	n80314				0	0
 n80377	Practice without sentiment	ml_standA00		373.605, 64.01755, 601.3118	326.6189		TRUE	FALSE	n8037701000					1	0	0	n70056	n80377				0	0
 n80378	Gui Mei Xiang	ml_standA00		-171.221, 68.12935, -812.5582	135.1004		TRUE	FALSE	n8037801000					2	30	0	n80378	n80378			(Meat_Food,1)(Leather_Forge,1)(Muscle_Forge,1)	0	0

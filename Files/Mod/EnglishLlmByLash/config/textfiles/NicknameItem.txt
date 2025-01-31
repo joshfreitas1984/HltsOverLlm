@@ -85,7 +85,7 @@ nick103	Iron Panther Silver Spear	During battle, Black Panther joins the fray; e
 nick110	Master	Upon unleashing a critical strike, eliminate all negative states from oneself by 25 points		n50004	nick110
 nick101	There is strength in unity	Each turn, increase dodge rate by 2%, with a maximum of 20%		n90425,n90425b	nick101
 nick102	Green Village Miao Women	Enemy units within 2-unit range of He Baishao accumulate 12 points of poison and 6 points of confusion each turn		n51009,n51009b	nick102
-nick104	Nanzhao Soldier	For every allied unit within a 10-unit radius, Brother Duan gains an additional 5% critical rate at the start of each turn		n90402	nick104
+nick104	Nanzhao Soldier	Within a 10-unit radius, each friendly unit around Duan Siliang gains an additional 5% critical hit rate at the start of their turn		n90402	nick104
 nick105	Ancient and Noble Family	Within a 5-unit range of Dong Jialuo, reduce the enemy's crit rate by 15% at the start of each round		n90403	nick105
 nick106	Successor to the Headman	At the start of each turn, restore 15% Lifeforce to allies within a 2-unit radius and increase hit combo rate by 15%		n50048	nick106
 nick107	Mu Mansion Warlord	When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares		n50065,n50065b	nick107
