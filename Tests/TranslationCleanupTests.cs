@@ -49,8 +49,8 @@ public class TranslationCleanupTests
         //Use this when we've changed a glossary value that doesnt check hallucination
         var newGlossaryStrings = new List<string>
         {
-            //"幽息月光石",
-            //"弟弟",
+            //"水贼",
+            //"豹王寨喽啰",
             //"妹妹"
         };
 

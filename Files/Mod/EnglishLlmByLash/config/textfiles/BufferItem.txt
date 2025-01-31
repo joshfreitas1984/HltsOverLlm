@@ -287,7 +287,7 @@ buffSkillTree009_006	Clasp	Increased damage for joint manipulation techniques, a
 buffSkillTree010_002	Brave enough to face a hundred thousand strong	If you dare to face a hundred thousand strong opponents and defeat them, your critical hit rate increases by 8 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_002
 buffSkillTree010_003	Directly enter the wolf and tiger thicket	If you charge directly into a group of tigers and wolves to kill enemies, your own energy is restored by 2 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_003
 buffSkillTree010_006	Having a heart full of courage	Withstand the retreat of a hundred thousand strong; upon defeating one enemy, increase critical hit rate by 35 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_006
-buffSkillTree010_007	Chong zhen fu wei zhu	Direct charge into the wolf pack extends attack range; regain 3 energy points for each enemy defeated	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_007
+buffSkillTree010_007	Chong zhen fu wei zhu	Approach to the tiger and wolf pack increased by one rank; regain 3 energy points for each enemy defeated	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_007
 buffSkillTree010_008	Who dares to contend with me?	Lin Lin has received an additional 7 points of external injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree010_009	Seas and skies, ends nowhere	If equipped with a spear, the power of Fierce Heart Loyal, Brave Enough for a Million Strong, Charging Straight into Tiger and Wolf Pack is enhanced	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_009
 buffSkillTree011_002	Swallows Playing in the Water	Shan Yi Die's knockback distance has increased	0		0	FALSE	0	FALSE	0	0		0
@@ -330,8 +330,8 @@ buffSkillTree022_004	Clear the path step by step	Clearing away thorns and cuttin
 buffSkillTree023_002	Thousand cliffs echo as stones roll down the mountains	When executing a critical hit, significantly increase damage	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree023_010	Roaring waterfalls and cascading rapids clamor fiercely	The enhanced power can sever human connections with the Qin borders and can be as formidable as the peak of Mount Emei	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree023_011	Even if one ascends a thousand feet high, they are still not out of the clouds	The attack range can be increased to the extent that it spans without contact with people on the Qin border or at the peak of Emei	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree025_004	Swift arrows fiercely assault	Huluo Step Right, No Resistance in Advance with Additional Knockback Timing Effect	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree025_005	Arrow advances fiercely	Husht Step Right, Vanquish All Enemies with Extra Retaliation Effect	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree025_004	Swift arrows fiercely assault	Tiger Step, Guard Right; Onward Without Obstacle - Additional Effect: Retard Sequence	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree025_005	Arrow advances fiercely	Tiger's Step: Swiftly move to the right flank, advancing unimpeded and delivering additional knockback	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree026_000	Wild boar charges	Charge, Retreat	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree026_001	Wild Boar Strikes Powerfully	Repel	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree030_000	Snake bite	Intoxication Level +1	0		0	FALSE	0	FALSE	0	0		0
@@ -341,7 +341,7 @@ buffSkillTree031_001	Claws	External Injury +3	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree031_002	Grizzly Bear Claw	External Injury Value +6	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree031_003	Grizzly bear bite	External Injury Value +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree032_000	Tiger's paw tearing	Charge, external damage +8	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree032_001	Leopard's Pounce	Charge	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree032_001	Tiger Claw Forum	Charge	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree033_000	Panther ferociously bites	External Injury Value +7	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree033_001	Claw Clench	External Injury Points +3	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree034_000	Crocodile viciously bites	External damage value +7	0		0	FALSE	0	FALSE	0	0		0
@@ -545,7 +545,7 @@ buffSkillTree092_012	Words that astonish four tables	For the Immortal in Wine te
 buffSkillTree093_001	Tian Di Qian Kun	The target of the attack will be transferred to the attacker when struck; when countering with Kun De Wu Jiu, damage increases by 20%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree093_004	Everything has its beginning	Using Qian Yuan Xing Jian to attack an enemy, those struck will have their attack target transferred to the user of the technique	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree093_005	Everything originates from Qi	When countering during the Qi Yuan Xing Jian stage, damage increases by 25%	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree094_002	The dead tiger leaves only its skin	Adjust the skill damage significantly based on the enemy's external injuries	0		0	FALSE	0	FALSE	0	0		buffSkillTree094_002
+buffSkillTree094_002	The leopard dies but leaves its skin	Adjust the skill damage significantly based on the enemy's external injuries	0		0	FALSE	0	FALSE	0	0		buffSkillTree094_002
 buffSkillTree094_005	Teeth like blades	Spots on the leopard increase the external injury value by an additional 6 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree095_004	Deeply sighing at midnight	At nightingale calling, oath and resentment at the third watch during attack time to additionally accumulate self's discharge rate by 3%	0		0	FALSE	0	FALSE	0	0		buffSkillTree095_004
 buffSkillTree095_005	Chirping birds never cease	During the Nightingale Oath Revenge at Midnight, an additional 6% boost to one's counterattack rate is accumulated	0		0	FALSE	0	FALSE	0	0		0
@@ -553,7 +553,7 @@ buffSkillTree095_008	As if sobbing, as if pleading	When you counterattack while 
 buffSkillTree095_009	There is constancy in change	When using a technique, it accumulates an additional 6% of its own exhaust rate	0		0	FALSE	0	FALSE	0	0		buffSkillTree095_009
 buffSkillTree096_001	Dark Turtle Divine Might	Repel enemies and reduce the special skill points of enemies who are hit	0		0	FALSE	0	FALSE	0	0		buffSkillTree096_001
 buffSkillTree096_006	The tiger leaves its den	Uhu Sui's Kick Snow has increased power, with an additional knockback effect	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree096_006_2	Leopard leaves the den	Repel the enemy	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree096_006_2	The tiger leaves its den	Repel the enemy	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree096_009	U-turn	Uxie's attack range is expanded, and it reduces the target's skill value when struck	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree096_009_2	U-turn	Reduce the enemy's special skills	0		0	FALSE	0	FALSE	0	0		buffSkillTree096_009_2
 buffSkillTree097_000	The cunning snake steals the cloud pearl	As the evil value increases, the power becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree097_000
@@ -651,7 +651,7 @@ buffSkillTree128_007	Wrapped in snow, Blue Pass	Yang xu shan li, chao yang danfe
 buffSkillTree128_008	Composed and resolute spirit	As the height increases, the power of the segment referred to by the Duan family becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree128_008
 buffSkillTree128_009	Clouds spread across the Qinling Mountains	Sunlit Yang Mountain Rises, Enhancing the Power of the Vermilion Phoenix	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree128_010	Rules are strict and rigorous	The higher the value of Jinzhi, the stronger the power referred to by the Duan family	0		0	FALSE	0	FALSE	0	0		buffSkillTree128_010
-buffSkillTree128_012	Return of the One Yang	When executing the Swordplay Technique of the Duan Clan, reduce the special ability score of an enemy struck by 18 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree128_012	Return of the One Yang	When Shizhan points out a member of the Duan Family, it reduces the target enemy's skill value by 18 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree129_002	Blind mouth	Speaking with a Buddha's mouth and a snake's heart, reduce energy expenditure by 1 point	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree129_003	Snake Heart	Buffing with a Buddha Mouth and Serpent Heart adds 5 points of dizziness and 5 points of confusion	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree129_008	Broken in a fight	Snake-like dodging reduces energy expenditure by 1 point	0		0	FALSE	0	FALSE	0	0		0
@@ -874,7 +874,7 @@ buffSkillTree192_000_4	No Limitation Heart Method	Reduce the damage taken by 8%,
 buffSkillTree192_005	Boundless Compassion	Restore 8% Qi each round	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree192_006	Heart broken without measure	Regain 8% lifeforce per turn	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree193_000	Reconstruction Ointment	Learn to formulate the recipe for the rejuvenating salve again	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree193_004	Breakbone glue	Learn the recipe for Tiger Bone Grafting Ointment	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree193_004	Tiger bone glue	Learn the recipe for Tiger Bone Grafting Ointment	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree194_000	Concentrate Tea	Learn the formula for the Concentration Soup	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree194_004	Calming the Mind and Qi Pill	Learn the formula for the Shenqi Pill	0		0	FALSE	0	FALSE	0	0		0
 mindcontrolEnemy	Transference of the soul	Controlled mind, lasts for 3 rounds	0	battle_debuff	0	TRUE	0	FALSE	0	0		mindcontrolEnemy
@@ -897,9 +897,9 @@ BattleSchedule002b	Anger as high as the sky	Enmity surging, significantly boosti
 BattleSchedule002c	Internal injury recurrence	The surge of qi heightens internal injury, with each round adding to the cumulative internal injury value	0	battle_debuff	0	TRUE	0	FALSE	0	0	(Injured,25)	beginUnitProp
 BattleSchedule002d	Intent to kill grew stronger	Confronting Ling Zhongyue's attempt to seize the Heavenly Scriptures, he briefly regained his lifeforce and subsequently enhanced the power of his techniques	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002d
 BattleSchedule002e	Severe internal injury	When one is flustered, the internal injury worsens, causing a significant reduction in the effectiveness of their techniques	0	battle_debuff	0	TRUE	0	FALSE	0	0	(SkillDamageFactor,-75)	beforeAttackProp
-BattleSchedule003	Intensely vengeful	After the Ming Cult followers were killed, they restored their own lifeforce and enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule003
-BattleSchedule004	Enemy at hand	After the Ming Sect followers were killed, they enhanced their combat capabilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule004
-BattleSchedule005	Adversary at hand	After the Ming Sect followers were killed, they enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule005
+BattleSchedule003	Intensely vengeful	After the followers of the Way of Light were killed, they restored their lifeforce and enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule003
+BattleSchedule004	Enemy at hand	After the followers of the Way of Light were killed, they enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule004
+BattleSchedule005	Adversary at hand	After the followers of the Way of Light were killed, they enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule005
 BattleSchedule006	Anger as high as the sky	Quickly recover one's lifeforce and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule006
 BattleSchedule007	Control breath and concentrate	Short-term recovery of one's lifeforce and enhancement of combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule007
 BattleSchedule008	The Wrath of the Ghost King	Due to Bai Li Danhe finding himself in dire peril, he unleashes his hidden combat potential, enhancing his skill damage and increasing his combo rate every turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008
@@ -930,7 +930,7 @@ BattleSchedule029	Dragon Poison	Poisoned, slightly reduced movement ability and 
 BattleSchedule030	Dragon Venom	Poisoned, reducing mobility and unable to use elixirs	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule030
 BattleSchedule031	Dragon's Poison Saliva	Poisoned, significantly reduced mobility and unable to use elixirs	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule031
 BattleSchedule032	Huangfu Dengyun restored to full health and activated hidden buffs	Return to full health	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule032
-BattleSchedule033	Fire Consumes the Prairie	Practice Ming Cult's unique Neigong to unleash one's combat potential	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
+BattleSchedule033	Fire Consumes the Prairie	Practice the unique Neigong of the Way of Light to enhance one's combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
 BattleSchedule034	Zealous to catch the thief	For capturing Li Tan, increase own qinggong value by 30 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule034
 BattleSchedule035	Assault with serious injuries	Accumulate external injury value of 30 points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule035
 BattleSchedule036	Adversity reveals true natures	With no regard for personal safety, exert all effort to increase attack power by 100%, and accumulate 5 internal injury points per attack	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule036
@@ -1123,8 +1123,8 @@ nick091	Deadly Hand	This unit's every strike carries deadly poison!	0	nickname	0
 nick092	God of Fist	The undefeated master of martial arts, the supreme God of Wulin!	0	nickname	0	TRUE	0	FALSE	0	0		nick092
 nick101	The meaning is that a hundred-legged insect cannot be pinned down; implying that when everyone works together, it's difficult to stop them	Each round increases the evasion rate by 2%, with a maximum increase of 20%	0	nickname	0	TRUE	0	FALSE	0	0		nick101
 nick102buff	Maids of the Jing Fort	Within a 2-unit distance from He Baishao, enemy units will accumulate 12 poison points and 6 confusion points per turn	0	nickname	0	TRUE	0	FALSE	0	0		nick102buff
-nick103	Iron Tiger Silver Spear	During combat, Black Panther enters the fray; each turn increases its own move damage by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick103
-nick104	A young soldier from Nanzhao	Within a 10-unit radius around Duan Silang, each ally grants him an additional 5% critical hit rate at the start of their turns	0	nickname	0	TRUE	0	FALSE	0	0		nick104
+nick103	The Iron Panther's Silver Spear	During combat, Black Panther enters the fray; each turn increases its own move damage by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick103
+nick104	A young soldier from Nanzhao	Duan Siliang increases Critical Hit rate by an additional 5% at the start of each round for every allied unit within a 10-unit radius	0	nickname	0	TRUE	0	FALSE	0	0		nick104
 nick105	Ancient Noble Family	Within a 5-unit radius of Dong Jialuo, enemy forces have their critical strike rate reduced by 15% at the start of each round	0	nickname	0	TRUE	0	FALSE	0	0		nick105
 nick106	Successor of the Tusi	At the start of each round, restore 15% lifeforce to allies within a 2-unit distance and increase hit combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick106
 nick107	The Mu Mansion Warlords	When unleashing a critical strike, increase own critical rate by 20% and add Bolstered Will to oneself and allies within 2 tiles	0	nickname	0	TRUE	0	FALSE	0	0		nick107
@@ -1172,7 +1172,7 @@ nick145	Second Brother from the Winery	Each round increases dodge rate by 1%, up
 nick146	Winery Third Brother	Each round increases dodge rate by 1%, up to a maximum of 10%; additionally, increases combo rate by 5% each round	0	nickname	0	TRUE	0	FALSE	0	0		nick146
 nick147	Winery Owner	Each turn increases dodge rate by 3%, up to a maximum of 15%; when activating combos, additionally increase feint rate by 9%	0	nickname	0	TRUE	0	FALSE	0	0		nick147
 nick148	Winery Elder	Each round, increase dodge rate by 3%, up to a maximum of 15%; when performing combos, additionally increase critical hit rate by 9%	0	nickname	0	TRUE	0	FALSE	0	0		nick148
-nick149	Jinyiwei Chief Commander	Each round, reduce all skill values of enemies within a distance of 2 units from yourself by 10 points	0	nickname	0	TRUE	0	FALSE	0	0		nick149
+nick149	Imperial Guard Commander	Each round, reduce all skill values of enemies within a distance of 2 units from yourself by 10 points	0	nickname	0	TRUE	0	FALSE	0	0		nick149
 nick150	Pointed Dragon Swordsman	After launching a counterattack, increase own attack power by 5%, with a maximum accumulation of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick150
 nick151	Border General	All allied units on the field receive a 15% damage reduction	0	nickname	0	TRUE	0	FALSE	0	0		nick151
 nick151buff	Border General	Take 15% less damage	0	battle	0	TRUE	0	FALSE	0	0		nick151buff
@@ -1311,7 +1311,7 @@ cloth0103	Heart-Shield Mirror	Resist Physical Damage by 4 Points	0		0	FALSE	0	FA
 cloth0105	Tiger Shark Power Armor	Accumulate 5 Qi points each round	0		0	FALSE	0	FALSE	0	0		cloth0105
 cloth0107	Iron Breastplate	Resist External Injury by 8 Points	0		0	FALSE	0	FALSE	0	0		cloth0107
 cloth0110	Black Silkworm Silk	Resist internal injury by 12 points	0		0	FALSE	0	FALSE	0	0		cloth0110
-cloth0112	Huwei Jiangjun Ruanjia	Withstand external injuries by 6 points, internal injuries by 6 points	0		0	FALSE	0	FALSE	0	0		cloth0112
+cloth0112	Tiger Might General's Soft Armor	Withstand external injuries by 6 points, internal injuries by 6 points	0		0	FALSE	0	FALSE	0	0		cloth0112
 armor00	Resist External Injuries	Reduce the damage points suffered by oneself by 1 point	0		0	FALSE	0	FALSE	0	0		armor00
 armor01	Counter external injury	Reduce the damage points received by oneself by 3	0		0	FALSE	0	FALSE	0	0		armor01
 armor02	Resist external injury	Reduce the damage received by oneself by 6 points	0		0	FALSE	0	FALSE	0	0		armor02

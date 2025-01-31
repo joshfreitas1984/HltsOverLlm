@@ -85,7 +85,7 @@ nick103	Iron Panther Silver Spear	During battle, Black Panther joins the fray; e
 nick110	Master	Upon unleashing a critical strike, eliminate all negative states from oneself by 25 points		n50004	nick110
 nick101	There is strength in unity	Each turn, increase dodge rate by 2%, with a maximum of 20%		n90425,n90425b	nick101
 nick102	Green Village Miao Women	Enemy units within 2-unit range of He Baishao accumulate 12 points of poison and 6 points of confusion each turn		n51009,n51009b	nick102
-nick104	Nanzhao Soldier	Within a 10-unit radius around Duan Silang, each allied unit at the start of their turn grants Duan Silang an additional 5% critical hit rate		n90402	nick104
+nick104	Nanzhao Soldier	For every allied unit within a 10-unit radius, Brother Duan gains an additional 5% critical rate at the start of each turn		n90402	nick104
 nick105	Ancient and Noble Family	Within a 5-unit range of Dong Jialuo, reduce the enemy's crit rate by 15% at the start of each round		n90403	nick105
 nick106	Successor to the Headman	At the start of each turn, restore 15% Lifeforce to allies within a 2-unit radius and increase hit combo rate by 15%		n50048	nick106
 nick107	Mu Mansion Warlord	When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares		n50065,n50065b	nick107
@@ -163,7 +163,7 @@ nick519	Brutal Teeth	Wolfs Lord Fang is at your command!		Player	nick519
 nick520	White Fang	White Fang the Snow Wolf King is now at your disposal!		Player	nick520
 nick521	Iron Axe	Black Bear King Iron Axe is now at your disposal!		Player	nick521
 nick522	Silver Palm	White Bear King Silver Palm is now at your disposal!		Player	nick522
-nick523	Black Bone	Hua Lanhutong, the Black Bone Demon King, is now at your command!		Player	nick523
+nick523	Black Bone	Black Blue Tiger King Hei Gu awaits your command!		Player	nick523
 nick524	Nam Batian	White Tiger King Nam Batian is now at your disposal!		Player	nick524
 nick525	Chirping incessantly	The Golden Monkey King Cannot Stop Crying is now at your disposal!		Player	nick525
 nick526	Ye Ying	Black Panther King Night Shadow is now at your disposal!		Player	nick526
@@ -178,8 +178,8 @@ nick534	White Fang Flash	White Wolf King has the opportunity to deal two instanc
 nick535	Lord of the Marsh	Bloodthirsty Crocodile Red Spots Guild converts 30% of the damage it causes into its own lifeforce		n59001,n59001_01,n59001_02,n59001_03,n59001_04,n59001_05	nick535
 nick536	Crashing Mountain Strike	Black Bear King Iron Axe can attract the attention of enemies in battle and has the opportunity to knock them out		n59004,n59004_a01,n59004_a02,n59004_a03,n59004_a04,n59004_a05	nick536
 nick537	Break Ice Hammer	White Bear King Silver Palm can attract the enemy's attention in battle and has an opportunity to knock out the enemy		n59004f,n59004f_a01,n59004f_a02,n59004f_a03,n59004f_a04,n59004f_a05	nick537
-nick538	Lin Zhi Wang	Venture King Bone Club inflicts serious external injuries on the enemy and converts 30% of the inflicted damage into their own lifeforce		n59005f,n59005f_a01,n59005f_a02,n59005f_a03,n59005f_a04,n59005f_a05	nick538
-nick539	Lord of the Mountain	Hu Wang Nan Batei Style can inflict severe external injuries on enemies and convert 30% of the inflicted damage into its own lifeforce		n59005,n59005_a01,n59005_a02,n59005_a03,n59005_a04,n59005_a05	nick539
+nick538	Lin Zhi Wang	The Tiger King Black Bone Technique causes significant external damage to enemies and converts 30% of the inflicted damage into one's own lifeforce		n59005f,n59005f_a01,n59005f_a02,n59005f_a03,n59005f_a04,n59005f_a05	nick538
+nick539	Lord of the Mountain	The Tiger King Southern Baotian can inflict serious external injuries on enemies and convert 30% of the inflicted damage into his own lifeforce		n59005,n59005_a01,n59005_a02,n59005_a03,n59005_a04,n59005_a05	nick539
 nick540	Constantly noisy or clamorous	Every third attack will definitely be a feint, and there is a chance to dodge the enemy's attack		n59006,n59006_a01,n59006_a02,n59006_a03,n59006_a04,n59006_a05	nick540
 nick541	Shadow Swift	The shadow can inflict high damage with an external injury effect on enemies, and has a chance to dodge enemy attacks		n59007_B01,n59007_B01a,n59007_B01b,n59007_B01c,n59007_B01d,n59007_B01e	nick541
 nick542	Chexi	Snow Shadow can inflict high damage with an external injury effect on enemies and convert a portion of that damage into its own lifeforce		n59007_W01,n59007_W01a,n59007_W01b,n59007_W01c,n59007_W01d,n59007_W01e	nick542
