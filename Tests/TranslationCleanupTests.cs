@@ -50,7 +50,7 @@ public class TranslationCleanupTests
         //Use this when we've changed a glossary value that doesnt check hallucination
         var newGlossaryStrings = new List<string>
         {
-            //"水贼",
+            //"蔘王山帮众",
             //"豹王寨喽啰",
             //"妹妹"
         };
@@ -174,7 +174,7 @@ public class TranslationCleanupTests
             // Glossary Clean up - this won't check our manual jobs
             modified = CheckMistranslationGlossary(split, mistranslationCheckGlossary, modified);
             modified = CheckHallucinationGlossary(split, hallucinationCheckGlossary, dupeNames, modified);
-        }  
+        }
 
         //// Try and flag crazy shit
         //if (!split.FlaggedForRetranslation
@@ -187,11 +187,11 @@ public class TranslationCleanupTests
         //}        
 
         // Long NPC Names
-        //if (outputFile.Contains("NpcItem.txt") && split.Translated.Length > 50)
-        //{
-        //    split.FlaggedForRetranslation = true;
-        //    modified = true;
-        //}
+        if (outputFile.Contains("NpcItem.txt") && split.Translated.Length > 50)
+        {
+            split.FlaggedForRetranslation = true;
+            modified = true;
+        }
 
         // Trim line
         if (split.Translated.Trim().Length != split.Translated.Length)
