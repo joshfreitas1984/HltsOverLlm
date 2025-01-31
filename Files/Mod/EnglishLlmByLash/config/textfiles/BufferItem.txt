@@ -70,7 +70,7 @@ poisoned18	Poisoned	Accumulated poisoning value is 18 points	0		0	FALSE	0	FALSE	
 forge013	Chicken blood	Reduce all skills of the enemy who has been hit by 2 points	0		0	FALSE	0	FALSE	0	0		forge013
 forge014	Skeletons	After attack, there is a 30% chance to reduce the enemy's 1 point of energy	0		0	FALSE	0	FALSE	0	0		forge014
 forge015	Charcoal	Damage increased by 3%	0		0	FALSE	0	FALSE	0	0		forge015
-forge001	Lan Yu	Harm value's 10% converted into own internal energy (Absorb Qi)	0		0	FALSE	0	FALSE	0	0		forge001
+forge001	Sapphire	Harm value's 10% converted into own internal energy (Absorb Qi)	0		0	FALSE	0	FALSE	0	0		forge001
 forge002	Red Jade	10% of damage is converted to lifeforce (life drain)	0		0	FALSE	0	FALSE	0	0		forge002
 forge003	Yunmu	Each attack additionally accumulates an extra 3 Qi release points	0		0	FALSE	0	FALSE	0	0		forge003
 forge004	Jasper	Each attack accumulates an additional 3 combo points	0		0	FALSE	0	FALSE	0	0		forge004
@@ -936,7 +936,7 @@ BattleSchedule035	Assault with serious injuries	Accumulate external injury value
 BattleSchedule036	Adversity reveals true natures	With no regard for personal safety, exert all effort to increase attack power by 100%, and accumulate 5 internal injury points per attack	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule036
 BattleSchedule037	Heart filled with indignation	Heart filled with sorrow and anger, self-attack power increased by 20%, cumulative confusion value 30 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule037
 BattleSchedule038	Panic	When it's this unit's turn, there is a 20% chance to initiate dialogue and flee the battle	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule038
-BattleSchedule039	Soft-Tendon Powder	Reduce energy by 5 points, reduce internal power by 20%	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule039
+BattleSchedule039	Tendon-Softening Powder	Reduce energy by 5 points, reduce internal power by 20%	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule039
 BattleSchedule040	Back-to-the-Sea Battle	Desperately fight back in a desperate situation, increasing damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
 BattleSchedule041	Imminent danger	Seeing Li Yanshen's critical situation, awakening latent potential to increase damage by 30% and reduce received damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule041
 BattleSchedule042	Unforgiving Power	Hidden buff, when health reaches 70%, triggers a dialogue to restore full health	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule042

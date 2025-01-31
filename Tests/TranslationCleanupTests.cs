@@ -115,8 +115,6 @@ public class TranslationCleanupTests
     }
 
     //TODOs: Animal sounds
-    //TODO: Duan Meng?
-    //TODO: Lan yu
     public static bool CheckSplit(List<string> newGlossaryStrings, Dictionary<string, string> manual, TranslationSplit split, string outputFile,
         Dictionary<string, string> hallucinationCheckGlossary, Dictionary<string, string> mistranslationCheckGlossary,  Dictionary<string, List<string>> dupeNames, LlmConfig config)
     {
