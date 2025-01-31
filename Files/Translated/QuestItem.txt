@@ -11556,9 +11556,9 @@
   splits:
   - split: 1
     text: "将软筋散解药交给周益"
-    translated: "Deliver the Tendon-Softening Powder antidote to Brother Zhou"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Zhou Yi,周益,"
+    translated: "Give the Tendon-Softening Powder antidote to Zhou Yi"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "在漱玉矶遇到淘石帮总管天哥打伤了隶属于玉坊的赵掌柜父子，让你目睹了淘石帮在漱玉矶为所欲为的情状，并应玉坊老板邵谦之请，调查淘石帮副帮主周益的下落。<br>不过虽是找到了周益，他却给人下了软筋散四肢无力，并且无法提起内劲。得到解药后，将解药交给周益吧。"
