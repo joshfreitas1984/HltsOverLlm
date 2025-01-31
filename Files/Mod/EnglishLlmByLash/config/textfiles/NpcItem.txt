@@ -334,9 +334,9 @@ n00104e	Chief Archer	ml_standA00		112.735, 105.1599, 117.072	79.99999		FALSE	FAL
 n00104f	Chief Archer	ml_standA00		112.898, 105.1599, 115.778	87.84051		FALSE	FALSE		v00088				1	8	0	n00078d	n00104				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00104g	Chief Archer	ml_standA00		109.189, 105.1599, 117.69	8.263603		FALSE	FALSE		v00088				1	8	0	n00078d	n00104				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00104h	Chief Archer	ml_standA00		110.729, 105.1599, 117.933	350		FALSE	FALSE		v00088				1	8	0	n00078d	n00104				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
-n00105a	Sichuan Army Elite Troops	ml_stand101	c_m63	147.747, 88.24414, 97.602	176.9888		FALSE	FALSE		v00088				1	8	0	n00078e	n00105a				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
-n00105b	Sichuan Army Elite Troops	ml_stand101	c_m64	148.841, 87.982, 97.718	178.096		FALSE	FALSE		v00088				1	8	0	n00078f	n00105b				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
-n00105c	Sichuan Army Elite Troops	ml_stand101	c_m65	149.902, 88.071, 97.743	185.5117		FALSE	FALSE		v00088				1	8	0	n00078g	n00105c				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
+n00105a	Xichuan Army Elite Soldiers	ml_stand101	c_m63	147.747, 88.24414, 97.602	176.9888		FALSE	FALSE		v00088				1	8	0	n00078e	n00105a				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
+n00105b	Xichuan Army Elite Soldiers	ml_stand101	c_m64	148.841, 87.982, 97.718	178.096		FALSE	FALSE		v00088				1	8	0	n00078f	n00105b				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
+n00105c	Xichuan Army Elite Soldiers	ml_stand101	c_m65	149.902, 88.071, 97.743	185.5117		FALSE	FALSE		v00088				1	8	0	n00078g	n00105c				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00107a	Mountain Demon Corpse	m_sleep_dead001_ec		150.907, 87.84671, 152.29	285.7283		FALSE	FALSE						1		0	n20161					{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00107b	Officer Corpse	m_sleep_dead002_ec		149.9541, 87.84671, 156.132	304.7595		FALSE	FALSE						1		0	n00078a					{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
 n00107c	Officer Corpse	m_sleep_dead003_ec		147.7256, 87.84672, 158.0449	335.0298		FALSE	FALSE						1		0	n00078b					{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
