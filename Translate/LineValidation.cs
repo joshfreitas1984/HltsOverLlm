@@ -247,6 +247,14 @@ public class LineValidation
             if (result.Contains('`') && !raw.Contains('`'))
                 result = result.Replace("`", "'");
 
+            // Take out wide quotes
+            if (result.Contains('“') && !raw.Contains('“'))
+                result = result.Replace("“", "");
+
+            if (result.Contains('”') && !raw.Contains('”'))
+                result = result.Replace("”", "");
+
+
             //Strip .'s
             if (!outputFile.EndsWith("NpcTalkItem.txt") && result.EndsWith('.') && raw != "." && !result.EndsWith(".."))
                 result = result[..^1];
