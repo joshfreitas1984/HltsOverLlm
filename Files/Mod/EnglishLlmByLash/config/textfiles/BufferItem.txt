@@ -950,7 +950,7 @@ BattleSchedule049	Fiery Flame Kunlun Ridge	'Increase combat ability significantl
 BattleSchedule050	Deep-seated blood feud	With the enemy at hand, fighting spirit heightened: Damage increased by 50%, recover an additional 4 energy points per turn, confusion value accumulates 20 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule050
 BattleSchedule051	Joint Effort to Save the World	Using Heavenly Scriptures secret techniques, increase damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule051
 BattleSchedule052	He Yuqing assesses the blood quantity for the BUFF	Hidden buff, judge half blood volume and trigger dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule052
-BattleSchedule053	He Hongyuan's blood quantity judgment BUFF	Hidden buff, triggers dialogue when health drops to 50%	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule053
+BattleSchedule053	He Hongyuan's health assessment BUFF	Hidden buff, triggers dialogue when health drops to 50%	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule053
 BattleSchedule054	Weizhentian Nan	Attack Power Increased by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule054
 BattleSchedule055	White Dew Frost Attack Buff		0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule055
 BattleSchedule056	Gold Toad Spits Pearl	Every two rounds, damage increases by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule056
@@ -1156,7 +1156,7 @@ nick130	Stomach growling with hunger	After attacking, there is a 25% chance to c
 nick130a	Well-fed	Every round, additionally recover 15% of own Lifeforce and 1 point of Energy	0	battle	0	TRUE	0	FALSE	0	0		nick130a
 nick131	Defecating all over	Each attack has a 50% chance of dealing 250% damage to the target, and a 50% chance of dealing 25% damage	0	nickname	0	TRUE	0	FALSE	0	0		nick131
 nick132	To blossom again	When executing a combo attack, deal two hits to the target	0	nickname	0	TRUE	0	FALSE	0	0		nick132
-nick133	Big Pot Head	As one's lifeforce diminishes, the damage dealt during a powerful strike increases	0	nickname	0	TRUE	0	FALSE	0	0		nick133
+nick133	Great Pot Head	As one's lifeforce diminishes, the damage dealt during a powerful strike increases	0	nickname	0	TRUE	0	FALSE	0	0		nick133
 nick134	The Heir of the Ye Family	If the target is male, damage increases by 50%; if the target is female, damage decreases by 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick134
 nick135	Head of the Ye Family	Each move increases the skill damage by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick135
 nick136	White Haired Cold Blade	When an enemy attacks a friendly target within their own counterattack range, there is a 25% chance to counterattack that enemy	0	nickname	0	TRUE	0	FALSE	0	0		nick136
