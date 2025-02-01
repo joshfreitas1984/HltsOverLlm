@@ -972,7 +972,7 @@ BattleSchedule071	Strike at the root	Neigong reduced by 30 points	0	battle_debuf
 BattleSchedule072	Heaven and Earth in Unity	Using Heavenly Scriptures Secret Technique, increase damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule051
 BattleSchedule073	Joint Effort to Save the World	Using Heavenly Scriptures secret technique, increase damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule051
 BattleSchedule074	Goat into the mouth of a tiger	Generate hatred towards sheep	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule074
-BattleSchedule075	Revival Buff for The Ten Virtuous Saints' Holy Sanctuary Battle in Xiao Mai	Activate hidden buffs, full health, call teammates	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule075
+BattleSchedule075	The battle at the Ten Great Benefactors' Holy Sanctuary is underway, and Xiami has resurrected a buff!	Activate hidden buffs, full health, call teammates	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule075
 BattleSchedule076	Rebirth Buff for Shrimp Mi in the Battle of the Ten Evil Men's Holy Sanctuary	Activate hidden BUFF, blood full, call team member	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule076
 BattleSchedule077	He Baishao assesses blood quantity to detect hidden buffs	Hidden Buff	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule077
 BattleSchedule078	Great Anger	Damage increased by 25%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule078
@@ -1184,7 +1184,7 @@ nick156	Leader of the Taoshi Gang	Activate Burst Attack, increasing the damage o
 nick157	Snake Beggar	Launch a feint and increase personal combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick157
 nick158	Unrivaled Farmer	Using the move Farmhand Style increases damage by 200%	0	nickname	0	TRUE	0	FALSE	0	0		nick158
 nick159	Old Fox Immortal	Backstabbing additionally causes the target to be dazed for 15 points	0	nickname	0	TRUE	0	FALSE	0	0		nick159
-nick160	Jing Dashanren	When the character's lifeforce is below 50%, increase their relaxation rate and counterattack rate by 15% each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick160
+nick160	Great Benefactor Jiang	When the character's lifeforce is below 50%, increase their relaxation rate and counterattack rate by 15% each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick160
 nick515	Giants' Friend	King of the Great Apes 'Monkey Three' is now at your disposal!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick516	Widow Maker	Wild Boar King 'Widow Maker' is now at your disposal!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick518	White Pattern	Albino Crocodile King Baiwen is now at your command!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon

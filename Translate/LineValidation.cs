@@ -22,8 +22,11 @@ public class LineValidation
     public static string PrepareResult(string llmResult)
     {
         llmResult = llmResult
+            .Replace("<p>", "")
+            .Replace("</p>", "")
             .Replace("<Div>", "<div>")
             .Replace("</Div>", "</div>");
+            
 
         if (llmResult.Contains("<div>"))
         {
