@@ -364,9 +364,9 @@ n00113a	Way of Light Flag Bearer	ml_standA00	c_m05	0, 0, 0	0		FALSE	FALSE		v0009
 n00113b	Way of Light Flag Bearer	ml_standA00	c_m07	0, 0, 0	0		FALSE	FALSE		v00090				1	0	0	n00113b	n00113b				0	0
 n00113c	Way of Light Flag Bearer	ml_standA00	c_m10	0, 0, 0	0		FALSE	FALSE		v00090				1	0	0	n00113c	n00113c				0	0
 n00113d	Way of Light Flag Bearer	ml_standA00	c_m11	0, 0, 0	0		FALSE	FALSE		v00090				1	0	0	n00113d	n00113d				0	0
-n00114a	Shan She, Li Gui	ml_standA00	n20264	0, 0, 0	0		FALSE	FALSE		v00166				1	0	0	n20161	n00114a				0	0
-n00114b	Shan She, Li Gui	ml_standA00	n20264	0, 0, 0	0		FALSE	FALSE		v00166				1	0	0	n20161	n00114b				0	0
-n00114c	Shan She, Li Gui	ml_standA00	n20264	0, 0, 0	0		FALSE	FALSE		v00166				1	0	0	n20161	n00114c				0	0
+n00114a	Mountain Demon Fierce Ghost	ml_standA00	n20264	0, 0, 0	0		FALSE	FALSE		v00166				1	0	0	n20161	n00114a				0	0
+n00114b	Mountain Demon Fierce Ghost	ml_standA00	n20264	0, 0, 0	0		FALSE	FALSE		v00166				1	0	0	n20161	n00114b				0	0
+n00114c	Mountain Demon Fierce Ghost	ml_standA00	n20264	0, 0, 0	0		FALSE	FALSE		v00166				1	0	0	n20161	n00114c				0	0
 n00115a	Duan Family Elite Troops	ml_standA00	c_m21	0, 0, 0	0		FALSE	FALSE						1	0	0	n00115a	n00115a				0	0
 n00115b	Duan Family Elite Troops	ml_standA00	c_m22	0, 0, 0	0		FALSE	FALSE						1	0	0	n00115b	n00115b				0	0
 n00116a	Experienced Eagle Hunter	ml_standA00	c_m26	0, 0, 0	0		FALSE	FALSE		v00149				1	0	0	n00116a	n00116a				0	0
@@ -1336,12 +1336,12 @@ n20281	Mountain Demon Evil Ghost	ml_idle004	n20264	-1040.912, 160.1179, -1156.48
 n20282	Mountain Demon Evil Ghost	ml_idle004	n20264	-1065.247, 167.9383, -1221.077	302.6812		FALSE	FALSE		v00166				1		1	n20161	n20282				{ "LogicalNode" : [ { "QuestCondition" : "Q20021_06", 1, False}  ], 0} 	0
 n20283	Mountain Demon Evil Ghost	ml_idle004	n20264	-1073.485, 165.8992, -1192.288	265.0062		FALSE	FALSE		v00166				1		1	n20161	n20283				{ "LogicalNode" : [ { "QuestCondition" : "Q20021_06", 1, False}  ], 0} 	0
 n20284	Mountain Demon Evil Ghost	ml_idle004	n20264	-1088.66, 167.1952, -1193.626	194.6019		FALSE	FALSE		v00166				1		1	n20161	n20284				{ "LogicalNode" : [ { "QuestCondition" : "Q20021_06", 1, False}  ], 0} 	0
-n20285	He Yunren	m_kneel003	c_m20	-972.666, 147.999, -1156.016	275.1941		FALSE	FALSE	n2028501000					1	18	1	n20285					{ "LogicalNode" : [ { "QuestCondition" : "Q20021_06", 1, False}  ], 0} 	0
-n20285b	He Yunren	m_sleep003_ec	c_m20	0, 0, 0	0		FALSE	FALSE	n20285b01000					1	18	1	n20285					{ "LogicalNode" : [ { "QuestCondition" : "Q20021_07", 1, False}  ], 0} 	0
-n20285c	He Yunren	ml_standA00	c_m20	0, 0, 0	318.696		FALSE	FALSE						1	18	0	n20285					0	0
-n20285d	He Yunren	m_sitLoop006	c_m20	-645.057, 67.1138, -1085.388	269.3725		FALSE	FALSE	n20285d01000					1		1	n20285					{ "LogicalNode" : [ { "QuestCondition" : "Q20021_07", 1, True} , { "QuestCondition" : "Q40008", 0, False}  ], 0} 	0
-n20285e	He Yunren	m_sitLoop006	c_m20	-645.057, 67.1138, -1085.388	269.3725		FALSE	FALSE	n4000802017					1		0	n20285					{ "LogicalNode" : [ { "QuestCondition" : "Q40008", 0, True}  ], 0} 	0
-n20286	Mountain Goblin Demon King	old_m_standK00	n20286	-633.373, 66.218, -1086.637	359.0527		FALSE	TRUE		v00068b				1		0	n20160	n20286				{ "LogicalNode" : [ { "QuestCondition" : "Q20021_07", 0, True}  ], 0} 	0
+n20285	He Yinren	m_kneel003	c_m20	-972.666, 147.999, -1156.016	275.1941		FALSE	FALSE	n2028501000					1	18	1	n20285					{ "LogicalNode" : [ { "QuestCondition" : "Q20021_06", 1, False}  ], 0} 	0
+n20285b	He Yinren	m_sleep003_ec	c_m20	0, 0, 0	0		FALSE	FALSE	n20285b01000					1	18	1	n20285					{ "LogicalNode" : [ { "QuestCondition" : "Q20021_07", 1, False}  ], 0} 	0
+n20285c	He Yinren	ml_standA00	c_m20	0, 0, 0	318.696		FALSE	FALSE						1	18	0	n20285					0	0
+n20285d	He Yinren	m_sitLoop006	c_m20	-645.057, 67.1138, -1085.388	269.3725		FALSE	FALSE	n20285d01000					1		1	n20285					{ "LogicalNode" : [ { "QuestCondition" : "Q20021_07", 1, True} , { "QuestCondition" : "Q40008", 0, False}  ], 0} 	0
+n20285e	He Yinren	m_sitLoop006	c_m20	-645.057, 67.1138, -1085.388	269.3725		FALSE	FALSE	n4000802017					1		0	n20285					{ "LogicalNode" : [ { "QuestCondition" : "Q40008", 0, True}  ], 0} 	0
+n20286	Mountain Demon Ghost King	old_m_standK00	n20286	-633.373, 66.218, -1086.637	359.0527		FALSE	TRUE		v00068b				1		0	n20160	n20286				{ "LogicalNode" : [ { "QuestCondition" : "Q20021_07", 0, True}  ], 0} 	0
 n20287	Mountain Demon Evil Ghost	ml_idle004	n20264	-634.95, 66.218, -1089.19	12.46603		FALSE	FALSE		v00166				1		0	n20161	n20287				{ "LogicalNode" : [ { "QuestCondition" : "Q20021_07", 0, True}  ], 0} 	0
 n20288	Mountain Demon Evil Ghost	ml_idle004	n20264	-632.1143, 66.218, -1087.862	342.812		FALSE	FALSE		v00166				1		0	n20161	n20288				{ "LogicalNode" : [ { "QuestCondition" : "Q20021_07", 0, True}  ], 0} 	0
 n20289	Orion	ml_idle401	c_m08	-1079.375, 179.4585, -1249.371	151.5104		FALSE	FALSE						1		1	n20090	n20289				{ "LogicalNode" : [ { "QuestCondition" : "Q20021_03", 0, True} , { "TeammateCondition" : "n20049", True} , { "QuestCondition" : "Q20021_06", 0, False} , { "QuestCondition" : "Q20021_06", 1, False}  ], 0} 	0
@@ -2918,7 +2918,7 @@ n53001m	Huang Shang	ml_standA00	n53001	0, 0, 0	0		FALSE	TRUE		v00107				1		0	n53
 n53001m2	Huang Shang	ml_idle005	n53001	226.441, 126.8055, 758.338	186.287		FALSE	TRUE		v00107				1		0	n53001	n53001				{ "LogicalNode" : [ { "QuestCondition" : "Q53001_04c", 0, True}  ], 0} 	0
 n53001t	Huang Shang	ml_standA00	n53001	-891.4316, 131.208, 234.1489	15.06384		TRUE	TRUE	n530010501000	v00107				1		0	n53001	n53001				{ "LogicalNode" : [ { "TeammateConditionByNPCId" : "n53001t", False} , { "QuestCondition" : "Q53001_05a2", 1, True}  ], 0} 	0
 n53002m	Baili Danhe	old_m_specialStand003	n90426	0, 0, 0	0		FALSE	TRUE		v00080				1		0	n07002	n07002				0	0
-n53003m	Mountain Goblin Demon King	old_m_standK00	n20286	0, 0, 0	0		FALSE	TRUE		v00068				1		0	n20160	n20286				0	0
+n53003m	Mountain Demon Ghost King	old_m_standK00	n20286	0, 0, 0	0		FALSE	TRUE		v00068				1		0	n20160	n20286				0	0
 n53004_dead	Li Yanghui	m_sleep_dead001_ec	c_m07	0, 0, 0	0		FALSE	FALSE						1		3	n53004	n53004				0	0
 n53004_m1	Li Yanghui	ml_standA00	c_m07	202.7706, 113.3049, 796.5673	330.6552		FALSE	FALSE		v00090				1		0	n53004	n53004				{ "LogicalNode" : [ { "QuestCondition" : "Q53001_03c", 0, True}  ], 0} 	0
 n53004_m2	Li Yanghui	ml_standA00	c_m07	0, 0, 0	0		FALSE	FALSE		v00090				1		0	n53004	n53004				0	0
@@ -4201,7 +4201,7 @@ n59994b	Tester Action Two	ml_standA00		0, 0, 0	0		FALSE	FALSE						2		0	n50030		
 n59994c	Test Subject Three	ml_standA00		0, 0, 0	0		FALSE	FALSE						3		0	n50056s					0	0
 n59994d	Combat Tester Qingcheng	ml_standA00		0, 0, 0	0		TRUE	FALSE	n5999601000	v00059				1		0	n20535					0	0
 n59994e	Heaven's Pillar Fort Testing Fighter	ml_standA00		0, 0, 0	0		FALSE	FALSE	n5999601000					1		0	n20095					0	0
-n59994f	Combat Tester Shanxiao Gu Gufu	ml_standA00		0, 0, 0	0		FALSE	FALSE	n5999601000					1		0	n60011					0	0
+n59994f	Combat Tester Mountain Demon Goblin Den	ml_standA00		0, 0, 0	0		FALSE	FALSE	n5999601000					1		0	n60011					0	0
 n59994g	Combat Tester, Wolf Barbarian	ml_standA00		0, 0, 0	193.7377		FALSE	FALSE	n5999601000					1		0	n60027					0	0
 n59995	Yan the Merchant	ml_standA00		0, 0, 0	0		TRUE	FALSE	n5999501000					1	0	0	n20165	n59995			(Money,1)	0	0
 n59996	Mu Mansion Copy Everyman	ml_standA00		0, 0, 0	0		TRUE	FALSE	n5014899000					1	0	0	n50056d					0	0

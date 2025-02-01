@@ -18,7 +18,7 @@ public static class ModHelper
     {
         var config = new ModConfigFile()
         {
-            Version = DateTime.Now.ToString("yyyyMMddHHmm")
+            Version = DateTime.Now.ToString("yyyy-MM-dd-HH:mm")
         };
 
         var outputFile = $"{workingDirectory}/Mod/EnglishLlmByLash/Mod.config";

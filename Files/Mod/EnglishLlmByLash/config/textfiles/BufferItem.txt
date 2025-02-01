@@ -903,7 +903,7 @@ BattleSchedule005	Adversary at hand	After the followers of the Way of Light were
 BattleSchedule006	Anger as high as the sky	Quickly recover one's lifeforce and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule006
 BattleSchedule007	Control breath and concentrate	Short-term recovery of one's lifeforce and enhancement of combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule007
 BattleSchedule008	The Wrath of the Ghost King	Due to Bai Li Danhe finding himself in dire peril, he unleashes his hidden combat potential, enhancing his skill damage and increasing his combo rate every turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008
-BattleSchedule008b	The Wrath of the Wind King	Because the Mountain Demon King was in a dire situation, he unleashed his latent combat potential. His skills' damage increased and added an escalating critical hit rate every turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008b
+BattleSchedule008b	The Wrath of the Wind King	Faced with imminent peril, the Mountain Demon Ghost King unleashes his combat potential. His skill damage is increased, and each turn he accumulates a higher critical hit rate	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008b
 BattleSchedule008c	Wrath of the King of Ghosts	Due to the presence of the enemy Huang Shang, burst out latent combat potential, increase skill damage and add a cumulative critical rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008c
 BattleSchedule008d	The Wrath of the Wind King	Due to the presence of the enemy Huang Shang, a personal grudge is triggered, unleashing hidden combat potential. Skills increase damage and stacking critical hit rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008d
 BattleSchedule009	The Bloodthirsty Alliance	Pursue victory and enhance one's combat capabilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule009
@@ -1081,7 +1081,7 @@ nick017P	Flower-planting Master	When using the healing skill, healing effectiven
 nick018	Sea of Hatred, Lonely Soul	Each round, increase own attack power by 10%, cumulative maximum 50%; each round, increase own internal injury value by 10	0	nickname	0	TRUE	0	FALSE	0	0		nick018
 nick018b	Sea of Hatred, Lonely Soul	Each turn, self-attack power increases by 10%, up to a maximum of 50%; when triggering a critical hit, the critical hit damage is additionally increased by 25%	0	nickname	0	TRUE	0	FALSE	0	0		nick018b
 nick018bP	Peerless Master	Each round, self-attack power increases by 10%, accumulating up to a maximum of 80%; when triggering a critical hit, the critical damage is additionally increased by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick018bP
-nick019	Mountain Goblin Demon King	During backstabbing, power increases by 30%, and during an attack, 15% of the damage is converted into the attacker's lifeforce	0	nickname	0	TRUE	0	FALSE	0	0		nick019
+nick019	Mountain Demon Ghost King	During backstabbing, power increases by 30%, and during an attack, 15% of the damage is converted into the attacker's lifeforce	0	nickname	0	TRUE	0	FALSE	0	0		nick019
 nick020	Confucian Heart, Sword Arm	Every round, self's counterattack value increases by 25. All allies receive the status Confusion of Confucian Sword	0	nickname	0	TRUE	0	FALSE	0	0		nick020
 nick020buff	Confucian Sword Formation	Due to Ling Zhongyue being present, self-defense value +15 each round	0	battle	0	TRUE	0	FALSE	0	0		nick020buff
 nick021	Wise Nun Bai Sun	If a martial arts technique with an ice seal effect is used, the technique's power becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021
