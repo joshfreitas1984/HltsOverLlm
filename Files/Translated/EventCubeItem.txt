@@ -33054,9 +33054,9 @@
   splits:
   - split: 1
     text: "凌霜峻跟青城弟子打架"
-    translated: "Shuangjun was fighting with a disciple from Qingcheng"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Ling Shuangjun,凌霜峻,"
+    translated: "Ling Shuangjun fought with the disciples of Qingcheng"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 3306
   raw: "Q4003502	凌霜峻不在	EventBox		None	-808.737, 149.2903, 151.4584	1, 1, 1	4.889229, 1, 4.598114	0, 10.61642, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40035\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n4003501026\"}  ]} 	0"
