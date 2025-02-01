@@ -267,7 +267,7 @@ n00081f	Qingcheng Disciple	ml_standA00		-908.53, 158.4015, 180.83	101.8815		TRUE
 n00081g	Qingcheng Disciple	m_sleep003_ec		-884.456, 159.5684, 175.345	101.3641		FALSE	FALSE	n0008107000					1	9	2	n70025		n00081g1,n00081g2			0	0
 n00081h	Qingcheng Disciple	m_sleep001_ec		-884.034, 159.5023, 177.156	103.8911		FALSE	FALSE	n0008107000					1	9	2	n70025		n00081h1,n00081h2			0	0
 n00081i	Qingcheng Disciple	m_SplitsFirewood001		-825.989, 157.9538, 183.827	276.5226		FALSE	FALSE	n0008110000					1	9	0			n00081i1,n00081i2			0	0
-n00082	Jie Lin Ren	m_standI00	n70051	-896.02, 158.4015, 179.76	195.0173		TRUE	TRUE	n0008201000	v00187				1	9	0	n00082	n00082	n00082b,n00082c,n00082d			0	0
+n00082	Xie Linren	m_standI00	n70051	-896.02, 158.4015, 179.76	195.0173		TRUE	TRUE	n0008201000	v00187				1	9	0	n00082	n00082	n00082b,n00082c,n00082d			0	0
 n00083	Ling Shuangjun	m_standF00	n70050	-821.4991, 159.045, 215.3479	355.7151		FALSE	TRUE	n0008301000	v00188				1	9	1	n00083	n00083	n00083a,n00083b,n00083c			{ "LogicalNode" : [ { "CheckFlagAction" : "f00039", 1, 1} , { "QuestCondition" : "Q40035", 0, False} , { "QuestCondition" : "Q40036", 0, False}  ], 0} 	0
 n00083a	Ling Shuangjun	ml_standA00	n70050	-1107.745, 105.8863, 675.2114	226.7794		TRUE	TRUE		v00188				1	9	0	n00083					{ "LogicalNode" : [ { "QuestCondition" : "Q00020", 1, False}  ], 0} 	0
 n00083b	Ling Shuangjun	ml_standA00	n70050	0, 0, 0	0		TRUE	TRUE		v00188				1	9	0	n00083	n00083				0	0

@@ -38,8 +38,9 @@
   context: A respectful term used among siblings for the older brother.
   literal: Da Ge
 
-- raw: 师兄
-  result: Elder Brother
+# - raw: 师兄
+#   result: Elder Brother
+#   literal: Shixiong
 
 - raw: 大姐
   result: Senior Sister
@@ -83,10 +84,10 @@
   context: Used for an experienced person in a particular skill or trade, similar to master craftsman or teacher.
   literal: Shi Fu
 
-- raw: 大人
-  result: Master
-  context: Used as a respectful address for man of noble status or of a high-ranking official.
-  literal: Da Ren
+# - raw: 大人
+#   result: Master
+#   context: Used as a respectful address for man of noble status or of a high-ranking official.
+#   literal: Da Ren
 
 - raw: 酒保
   result: Tavern Keeper
