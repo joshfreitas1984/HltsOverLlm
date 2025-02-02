@@ -4664,7 +4664,7 @@
   splits:
   - split: 5
     text: "药店掌柜"
-    translated: "Pharmacist"
+    translated: "Pharmacy Shopkeeper"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5184,7 +5184,7 @@
   splits:
   - split: 5
     text: "当铺掌柜"
-    translated: "Owner of the Pawnshop"
+    translated: "Pawnshop Shopkeeper"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -30164,7 +30164,7 @@
   splits:
   - split: 5
     text: "大研镇酒店掌柜"
-    translated: "Manager of the Inn in Dayan Town"
+    translated: "Dayan Town Hotel Shopkeeper"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

@@ -94,6 +94,15 @@
   context: The person who manages a tavern or inn, providing food, drink, and lodging for travelers.
   literal: Jiu Bao
 
+- raw: 掌柜
+  result: Shopkeeper
+
+- raw: 药店掌柜
+  result: Pharmacy Shopkeeper
+
+- raw: 当铺掌柜
+  result: Pawnshop Shopkeeper
+
 - raw: 大善人
   result: Great Benefactor
 

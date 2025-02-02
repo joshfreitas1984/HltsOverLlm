@@ -447,7 +447,6 @@ public static class TranslationService
                     .GetString()
                     ?.Trim() ?? string.Empty;
 
-
                 preparedResult = LineValidation.PrepareResult(llmResult);
 
                 if (!config.SkipLineValidation)

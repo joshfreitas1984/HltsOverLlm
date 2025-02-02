@@ -19,6 +19,31 @@ public class LineValidation
         return StripColorTags(raw);
     }
 
+    public static string CleanupNamesResult(string input)
+    {
+        var result = input;
+        string[] replacements = ["Senior Brother", "Senior", "Brother", "Young Master", "Young Hero"];
+
+        result = result
+            .Replace("{Name_1}", "{name_1}")
+            .Replace("{Name_2}", "{name_2}");
+
+        foreach (var title in replacements)
+        {
+            result = result
+                .Replace($"{{name1}} {{name_2}} {title}", $"{title} {{name1}} {{name_2}}")
+                .Replace($"{{name1}} {{name_2}}, {title}", $"{title} {{name1}} {{name_2}}");
+
+            result = result
+                .Replace($"{{name1}} {title}", $"{title} {{name1}}")
+                .Replace($"{{name1}}, {title}", $"{title} {{name1}}")
+                .Replace($"{{name2}} {title}", $"{title} {{name2}}")
+                .Replace($"{{name2}}, {title}", $"{title} {{name2}}");
+        }
+          
+        return result;
+    }
+
     public static string PrepareResult(string llmResult)
     {
         llmResult = llmResult
@@ -26,7 +51,7 @@ public class LineValidation
             .Replace("</p>", "")
             .Replace("<Div>", "<div>")
             .Replace("</Div>", "</div>");
-            
+
 
         if (llmResult.Contains("<div>"))
         {
@@ -39,6 +64,7 @@ public class LineValidation
             if (result.StartsWith('\n'))
                 result = result[1..];
 
+            result = CleanupNamesResult(result);
             return result;
         }
         else
@@ -46,7 +72,7 @@ public class LineValidation
     }
 
     public static ValidationResult CheckTransalationSuccessful(LlmConfig config, string raw, string result)
-    {                     
+    {
         var response = true;
         var correctionPrompts = new StringBuilder();
 
@@ -139,23 +165,13 @@ public class LineValidation
         }
         if (raw.Contains("{name_1}") && !result.Contains("{name_1}"))
         {
-            if (result.Contains("{Name_1}"))
-                result = result.Replace("{Name_1}", "{name_1}");
-            else
-            {
-                response = false;
-                correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{name_1}");
-            }
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{name_1}");
         }
         if (raw.Contains("{name_2}") && !result.Contains("{name_2}"))
         {
-            if (result.Contains("{Name_2}"))
-                result = result.Replace("{Name_2}", "{name_2}");
-            else
-            {
-                response = false;
-                correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{name_2}");
-            }
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{name_2}");
         }
 
         // This can cause bad hallucinations if not being explicit on retries
@@ -232,7 +248,7 @@ public class LineValidation
             CorrectionPrompt = correctionPrompts.ToString(),
         };
     }
-    
+
     public static string CleanupLineBeforeSaving(string input, string raw, string outputFile)
     {
         var result = input.Trim();
@@ -258,7 +274,7 @@ public class LineValidation
                 result = result.Replace("”", "");
 
             //Take out wide quotes
-            result = result               
+            result = result
                 .Replace("’", "'")
                 .Replace("‘", "'");
 
@@ -283,13 +299,13 @@ public class LineValidation
         }
 
         return result;
-    }   
-    
+    }
+
     public static string CalulateCorrectionPrompt(LlmConfig config, ValidationResult validationResult, string raw, string result)
     {
         return string.Format(config.Prompts["BaseCorrectionPrompt"], raw, result, validationResult.CorrectionPrompt); ;
     }
-    
+
     public static (Dictionary<string, string> mappings, string stripped) StripHtml(string raw)
     {
         // Dictionary to store mappings from placeholders to actual HTML tags.
@@ -386,7 +402,7 @@ public class LineValidation
 
         return result;
     }
-    
+
     public static string ConvertPlaceholderTagsToColorTags(string input)
     {
         // Regex to match <font> tags and capture their contents and attributes
@@ -398,7 +414,7 @@ public class LineValidation
 
         return result;
     }
-    
+
     public static string StripColorTags(string input)
     {
         // Regex to match <color> tags and capture their contents
@@ -429,7 +445,7 @@ public class LineValidation
 
     public static string EncaseSquareBracketsForWholeLines(string raw, string translated)
     {
-        if (raw.StartsWith('【') 
+        if (raw.StartsWith('【')
             && raw.EndsWith('】')
             && !translated.Contains('【')
             && !translated.Contains('】'))
