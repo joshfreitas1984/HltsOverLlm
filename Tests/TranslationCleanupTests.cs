@@ -170,6 +170,13 @@ public class TranslationCleanupTests
         if (string.IsNullOrEmpty(split.Translated))
             return false;
 
+        // Context retrans too fricken big
+        //if (outputFile.Contains("NpcTalkItem.txt") && MatchesContextRetrans(split.Translated))
+        //{
+        //    split.FlaggedForRetranslation = true;
+        //    modified = true;
+        //}
+
         //////// Manipulate split from here
         if (cleanWithGlossary)
         {
@@ -666,4 +673,18 @@ public class TranslationCleanupTests
 
     //    return false;
     //}
+
+    public static bool MatchesContextRetrans(string input)
+    {
+        string[] words = ["you", "me"]; //"I", "isn't"
+
+        foreach (var word in words)
+        {
+            var pattern = $@"\b{word}\b";
+            if (Regex.IsMatch(input, pattern, RegexOptions.IgnoreCase))
+                return true;
+        }
+
+        return false;
+    }
 }
