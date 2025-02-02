@@ -31,14 +31,14 @@ public class LineValidation
         foreach (var title in replacements)
         {
             result = result
-                .Replace($"{{name1}} {{name_2}} {title}", $"{title} {{name1}} {{name_2}}")
-                .Replace($"{{name1}} {{name_2}}, {title}", $"{title} {{name1}} {{name_2}}");
+                .Replace($"{{name_1}} {{name_2}} {title}", $"{title} {{name_1}} {{name_2}}")
+                .Replace($"{{name_1}} {{name_2}}, {title}", $"{title} {{name_1}} {{name_2}}");
 
             result = result
-                .Replace($"{{name1}} {title}", $"{title} {{name1}}")
-                .Replace($"{{name1}}, {title}", $"{title} {{name1}}")
-                .Replace($"{{name2}} {title}", $"{title} {{name2}}")
-                .Replace($"{{name2}}, {title}", $"{title} {{name2}}");
+                .Replace($"{{name_1}} {title}", $"{title} {{name_1}}")
+                .Replace($"{{name_1}}, {title}", $"{title} {{name_1}}")
+                .Replace($"{{name_2}} {title}", $"{title} {{name_2}}")
+                .Replace($"{{name_2}}, {title}", $"{title} {{name_2}}");
         }
           
         return result;
