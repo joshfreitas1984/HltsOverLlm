@@ -897,9 +897,9 @@ BattleSchedule002b	Anger as high as the sky	Enmity surging, significantly boosti
 BattleSchedule002c	Internal injury recurrence	The surge of qi heightens internal injury, with each round adding to the cumulative internal injury value	0	battle_debuff	0	TRUE	0	FALSE	0	0	(Injured,25)	beginUnitProp
 BattleSchedule002d	Intent to kill grew stronger	Confronting Ling Zhongyue's attempt to seize the Heavenly Scriptures, he briefly regained his lifeforce and subsequently enhanced the power of his techniques	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002d
 BattleSchedule002e	Severe internal injury	When one is flustered, the internal injury worsens, causing a significant reduction in the effectiveness of their techniques	0	battle_debuff	0	TRUE	0	FALSE	0	0	(SkillDamageFactor,-75)	beforeAttackProp
-BattleSchedule003	Intensely vengeful	After the followers of the Way of Light were killed, they restored their lifeforce and enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule003
-BattleSchedule004	Enemy at hand	After the followers of the Way of Light were killed, they enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule004
-BattleSchedule005	Adversary at hand	After the followers of the Way of Light were killed, they enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule005
+BattleSchedule003	Intensely vengeful	After the Way of Light followers were killed, they restored their lifeforce and enhanced their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule003
+BattleSchedule004	Enemy at hand	After the Way of Light followers were killed, they enhanced their own combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule004
+BattleSchedule005	Adversary at hand	After the Way of Light followers were killed, they focused on enhancing their combat abilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule005
 BattleSchedule006	Anger as high as the sky	Quickly recover one's lifeforce and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule006
 BattleSchedule007	Control breath and concentrate	Short-term recovery of one's lifeforce and enhancement of combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule007
 BattleSchedule008	The Wrath of the Ghost King	Due to Bai Li Danhe finding himself in dire peril, he unleashes his hidden combat potential, enhancing his skill damage and increasing his combo rate every turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008

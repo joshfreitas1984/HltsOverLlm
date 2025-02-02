@@ -49,6 +49,8 @@
 - raw: 杖
   result: Staff
   context: More like walking stick or formal staff (All Staff variants have to be unsafe)
+- raw: 小时
+  result: Hour
 
 # We should do this programmatically at some point
 - raw: 巴大哥
@@ -59,6 +61,16 @@
   result: Senior Brother Li
 - raw: 阿克大哥
   result: Senior Brother Ake
+
+# Faction Followers
+- raw: 丐帮帮众
+  result: Beggar Sect Follower
+- raw: 擎天寨众
+  result: Heaven's Pillar Fort Follower
+- raw: 明教教众
+  result: Way of Light Follower
+- raw: 豹王寨众
+  result: Panther King Camp Follower
 
 # NPC
 - raw: 鹿

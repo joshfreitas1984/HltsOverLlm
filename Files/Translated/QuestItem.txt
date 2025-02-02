@@ -4650,7 +4650,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "你在西北葫芦村附近，碰上了遭受狼蛮军追击而死的擎天寨众洪义，他死前托你带一封信回擎天寨交给寨主李彦仙或是二寨主王喆，并说了这封信事关重大。如果路过擎天寨的话，就帮他将这封信带进去吧。"
-    translated: "You were near Xibei Hulu Village in the northwest when you encountered a member of Heaven's Pillar Fort, Hong Yi, who was attacked and killed by the Wolf Barbarian army. Before dying, he entrusted you with a letter to deliver back to Heaven's Pillar Fort for either Leader Li Yanxian or Deputy Leader Wang Zhe and said that this letter was very important. If you happen to pass by Heaven's Pillar Fort, please help him by delivering the letter inside"
+    translated: "You are near Hulutun Village in the northwest when you encounter a follower of Heaven's Pillar Fort named Hong Yi, who has been killed by the Wolf Barbarian army. Before he dies, he entrusts you to deliver a sealed letter back to Heaven's Pillar Fort and give it to either Master Li Yanxian or Second Master Wang Zhe. He says that this letter is of great importance. If you happen to pass by Heaven's Pillar Fort, please help him by taking the letter inside"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6570,7 +6570,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "才回到擎天寨，竟然有狼蛮袭击擎天寨！先不管狼蛮是怎么找到擎天寨，赶紧和王喆一起打倒来袭狼蛮，救出擎天寨众们吧！"
-    translated: "Just after returning to Heaven's Pillar Fort, it was attacked by Wolf Barbarians! Without dwelling on how the Wolf Barbarians found Heaven's Pillar Fort, let's quickly join forces with Wang Zhe to defeat the attacking Wolf Barbarians and rescue everyone in Heaven's Pillar Fort!"
+    translated: "Just as I returned to Heaven's Pillar Fort, it was attacked by Wolf Barbarians! Let's not worry about how the Wolf Barbarians found us. Hurry up and join Wang Zhe in defeating the attacking Wolf Barbarians and saving our fellow followers of Heaven's Pillar!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7210,7 +7210,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "黄裳听闻明教教众出没于西蜀川一带，复仇心切的他自然迫不及待的想要追杀仇人。但西蜀川何其大，一步一脚印的寻找可不是办法。幸好黄裳多年前便派了探子于下河村监视狼蛮动向，或许他知道些什么说不定。前往下河村找到这名爱钓鱼的探子吧。"
-    translated: "Upon hearing that members of the Way of Light were appearing in the Sichuan region, Huang Shang's intense desire for revenge left him eager to pursue his enemies. However, covering such a vast area as Sichuan was no easy task. Fortunately, years ago, Huang Shang had already sent an informant to monitor the movements of the Wolf Barbarians from Riverside Village. Perhaps they know something that could help. Let's go to Riverside Village and find this fishing-loving informant"
+    translated: "Huang Shang, upon hearing that the Way of Light followers have been appearing in western Sichuan, is eager to pursue his vengeance against his enemies. However, given how vast western Sichuan is, searching step by step is not feasible. Fortunately, Huang Shang had sent a spy to Riverside Village years ago to monitor the movements of the Wolf Barbarians; perhaps he knows something useful. Let's go find this fishing-loving spy in Riverside Village"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7220,13 +7220,13 @@
   splits:
   - split: 1
     text: "找到明教教众"
-    translated: "Find the disciples of the Way of Light"
+    translated: "Find a follower of the Way of Light"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "黄裳听闻明教教众出没于西蜀川一带，复仇心切的他自然迫不及待的想要追杀仇人。但西蜀川何其大，一步一脚印的寻找可不是办法。幸好黄裳多年前便派了探子于下河村监视狼蛮动向，马上得知近来有明教教众常在清晨时分出没于湖畔另一端的荒村，是埋伏的时候了。"
-    translated: "Huang Shang heard that the members of the Way of Light had been sighted around Sichuan. Driven by his desire for revenge, he was eager to pursue and kill his enemies. However, Sichuan is vast, and tracking them step-by-step was not a viable plan. Fortunately, Huang Shang had dispatched scouts to Riverside Village years ago to monitor the movements of the Wolf Barbarians. He soon learned that members of the Way of Light were often seen near the lake's opposite end at dawn in a remote village, indicating it was time to set an ambush"
+    translated: "Huang Shang, upon hearing that the Way of Light Followers had been spotted in western Sichuan, was eager to pursue his vengeance. However, with such a vast area as western Sichuan, tracking them one step at a time wasn't feasible. Fortunately, Huang Shang had dispatched scouts years ago to keep an eye on the Wolf Barbarians' movements from Riverside Village. He soon learned that recently, the Way of Light Followers were often seen around dawn near the lake's opposite end in a desolate village—now was the perfect time for an ambush"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7252,7 +7252,7 @@
   splits:
   - split: 1
     text: "找到明教教众"
-    translated: "Find the disciples of the Way of Light"
+    translated: "Find a follower of the Way of Light"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10426,7 +10426,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "你总算找到了黄裳在青城山的藏身之处，你向他索要天书，但他却要求你找出多年前隐遁于山林之间，如今归于不赦楼旗下的明教残党……找出明教北坛的所在处，并带回明教教众身上随身携带的圣火令牌做为证据，黄裳才愿意将手中的天书碎片交给你。找到明教北坛，并设法取得圣火令牌吧！"
-    translated: "You have finally found Huang Shang's hideout in Qingcheng Mountain. You demand the Heavenly Scripture from him, but he insists that you locate a faction of the Way of Light who disappeared into the forests years ago and are now under the Merciless Hall. You must find the location of the North Altar of the Way of Light and retrieve the sacred fire tokens carried by its followers as evidence. Only then will Huang Shang be willing to give you the fragment of the Heavenly Scripture he holds. Find the North Altar of the Way of Light and obtain the sacred fire tokens!"
+    translated: "You've finally found Huang Shang's hiding place in Qingcheng Mountain. You demand the Heavenly Scripture from him, but he instead asks you to locate a Way of Light faction that has been concealed in the forests for years and is now under the Merciless Hall. Find the location of the North Altar of the Way of Light and retrieve the Sacred Fire Token carried by a Way of Light follower as proof. Huang Shang will only hand over his fragment of the Heavenly Scripture if you can do this. Locate the North Altar of the Way of Light and try to obtain the Sacred Fire Token!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10442,7 +10442,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "经过寻访，你总算找到明教北坛的所在地，为了取得圣火令牌，你与一干明教教众起了冲突，但这些明教残党却告诉你，当今圣上是如何利用明教登上皇位，并认为你不过是在做残害忠良的走狗。在知道了明教的处境之后，你依然执意取走他们身上的圣火碎片，而这群教众最后选择自尽。你总算取得了圣火令牌，便回到青城山洞窟，将北坛所在地告知黄裳吧。"
-    translated: "After a long search, you finally found the location of the Northern Altar of the Way of Light. In your attempt to obtain the Holy Fire Token, you clashed with several followers of the Way of Light, but these remnants of the sect informed you that the current Sovereign had used the Way of Light to ascend the throne and believed you were just a henchman causing harm to loyal subjects. Despite knowing the plight of the Way of Light, you still insisted on taking the Holy Fire fragment from them, leading the group of followers to choose suicide in the end. Having finally obtained the Holy Fire Token, you returned to the cave at Mount Qingcheng and informed Huang Shang about the location of the Northern Altar"
+    translated: "After a thorough search, you finally located the whereabouts of the Way of Light's Northern Altar. In your attempt to obtain the Sacred Fire Token, you clashed with several followers of the Way of Light, but these remnants informed you about how the current Holy Emperor used the Way of Light to ascend the throne and accused you of being a dog sent to harm loyal subjects. Despite knowing the Way of Light's predicament, you persisted in taking the Sacred Fire fragment from them, leading this group of followers to choose self-sacrifice. Eventually obtaining the Sacred Fire Token, make your way back to the cave on Mount Qingcheng to inform Huang Shang about the Northern Altar's location"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10458,7 +10458,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "经过寻访，你总算找到明教北坛的所在地，为了取得圣火令牌，你与一干明教教众起了冲突，但这些明教残党却告诉你，当今圣上是如何利用明教登上皇位，并认为你不过是在做残害忠良的走狗。在知道了明教的处境之后，你选择放弃夺取圣火令牌，并协助他们治伤。但百里惮赫、山魈鬼王两大高手却突然现身，要将你擒拿，教众们挺身而出，恳求两人让你安全离去，两人最后同意了。你决定返回青城洞窟中劝说黄裳放下仇恨，并寻求另一个方法取得天书碎片。"
-    translated: "After much searching, you finally found the location of the Way of Light's Northern Altar. In your attempt to obtain the Holy Fire Decree, you clashed with several members of the Way of Light. However, these remnants informed you how the current ruler used the Way of Light to ascend the throne and saw you as a mere lackey destroying loyal subjects. After learning about the Way of Light's predicament, you decided to abandon your attempt to take the Holy Fire Decree and instead helped them tend to their injuries. Suddenly, two master warriors, Bai Li Danhe and Mountain Demon Ghost King, appeared with the intention to capture you. The members stepped forward, pleading for their safety. Eventually, they agreed. You resolved to return to the Green Forest Cave and persuade Huang Shang to lay down his grudges, seeking another way to obtain a fragment of the Heavenly Scripture"
+    translated: "After a thorough search, you finally located the whereabouts of the Northern Altar of the Way of Light. In your attempt to obtain the Holy Fire Token, you clashed with several followers of the Way of Light; however, these remnants informed you that the current sovereign had ascended to the throne by exploiting the Way of Light and considered you nothing more than a dog acting on behalf of those who harm loyal subjects. Upon learning about the precarious situation of the Way of Light, you chose to abandon your attempt to seize the Holy Fire Token and instead assisted them in tending to their injuries. Suddenly, two formidable figures appeared: Bai Li Dan He and the Mountain Demon Ghost King. They intended to apprehend you, but the followers stepped forward and earnestly pleaded for your safe departure. Eventually, the two agreed. You decided to return to the Green Cliff Cave and persuade Huang Shang to lay aside his grudges while seeking another method to obtain a fragment of the Heavenly Scripture"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10538,7 +10538,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "你与黄裳来到明教北坛，黄裳看见明教教众，怒火渐盛，便要你与他杀进北坛，杀光这些明教残党，只要你帮助他复仇，他便会将天书交给你……。"
-    translated: "You and Huang Shang arrived at the Northern Hall of the Way of Light. Seeing the followers of the Way of Light, Huang Shang's anger grew. He wanted you to join him in attacking the Northern Hall, killing all the remnants of the Way of Light. If you help him avenge himself, he will give you the Heavenly Scripture..."
+    translated: "They arrived at the Way of Light's Northern Altar with Huang Shang. Upon seeing the followers of the Way of Light, Huang Shang's anger grew fiercer. He wanted to join forces and charge into the Northern Altar to eliminate these remnants of the Way of Light. If you helped him seek revenge, he would give you the Heavenly Scripture..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16234,7 +16234,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "白露霜表示崔二引领丐帮帮众前来以后，就一直不见人影，八成还躲在这武侯祠的某处，把他找出来吧！"
-    translated: "Bailu Shuang said, After Cui Er led the Beggar Sect members here, we haven't seen anyone for a while. He's probably hiding somewhere in this Temple of the Military Sage. Let's find him out!"
+    translated: "Bailu Shuang said, After Cui Er led the Beggar Sect followers here, he disappeared and hasn't been seen since. He's probably hiding somewhere in the Temple of the Military Sage; let's find him!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16282,7 +16282,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "在渡口仓库发现了地牢，并与百里惮赫、明教教众交上一手。看来李彦仙已被王喆救走了，但李彦仙负伤，一时之间应当还逃不远，而不赦楼人马已展开追捕，赶快在附近搜寻，找到王喆和李彦仙吧！"
-    translated: "At the wharf warehouse, a dungeon was discovered and a confrontation occurred with Bai Li Danhe, the followers of the Way of Light. It seems that Li Yanxian has been rescued by Wang Zhe, but Li Yanxian is injured and can't run far at the moment. The Merciless Hall forces have already launched a pursuit. Hurry up to search in the vicinity for Wang Zhe and Li Yanxian!"
+    translated: "At the ferry warehouse, a dungeon was discovered and handed over to Bai Li Danhe and the Way of Light Followers. It seems that Li Yanxian has been rescued by Wang Zhe, but Li Yanxian is injured and can't run far at the moment. The Merciless Hall's forces have already begun their pursuit. Hurry to search the nearby area and find both Wang Zhe and Li Yanxian!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16298,7 +16298,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "在逃离风云渡的途中，你们遭到豹王寨众与不赦楼兵马的截击，李彦仙与白露霜先后亡于不赦楼主之手。王喆在白露霜的逼迫下脱离战场，在履行寨主遗命之前，他希望能将义兄义姐妥善安葬，约你在两人丧生之处相见。"
-    translated: "During your escape from Windcloud Crossing, you were intercepted by the forces of Panther King Camp and the Merciless Hall. Li Yanxian and Bailu Shuang were successively killed by the hand of the leader of the Merciless Hall. Under the pressure from Bailu Shuang, Wang Zhe managed to break away from the battlefield before fulfilling the camp chief's last command. He wished to properly bury his sworn brother and sister-in-arms at their place of death and requested a meeting with you there"
+    translated: "While fleeing from Windcloud Crossing, you were ambushed by the followers of Panther King Camp and the troops of Merciless Hall. Li Yanxian and Bailu Shuang fell one after the other at the hands of the leader of Merciless Hall. Wang Zhe managed to escape the battlefield under pressure from Bailu Shuang and expressed a desire to properly bury his sworn brother and sister before carrying out the camp chief's final command. He asked you to meet him at the place where they died"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16346,7 +16346,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "王喆决心履行义兄李彦仙的遗命，收复擎天寨并夺回天书碎片。战胤飞得豹王寨、不赦楼之助，眼前显然是一场硬仗，准备好了就到李彦仙、白露霜墓前与王喆会合吧！"
-    translated: "Wang Zhe is determined to fulfill his elder brother Li Yanxian's final wish by reclaiming Heaven's Pillar Fort and retrieving the fragment of the Heavenly Scripture. With assistance from Panther King Camp and Merciless Hall, it is clear that the upcoming battle will be a tough one. Let's prepare and meet at Li Yanxian and Bailu Shuang's tomb before facing Wang Zhe"
+    translated: "Wang Zhe is determined to fulfill his sworn brother Li Yanxian's last wish: to reclaim Heaven's Pillar Fort and recover the fragments of the Heavenly Scripture. With the assistance of Panther King Camp and Merciless Hall, Zhan Yinfei realizes that they are facing a tough battle ahead. They should prepare everything and meet Wang Zhe at the tomb of Li Yanxian and Bailu Shuang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16362,7 +16362,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "王喆决心履行义兄李彦仙的遗命，收复擎天寨并夺回天书碎片。战胤飞得豹王寨、不赦楼之助，眼前显然是一场硬仗，准备好了就与王喆一起前往擎天寨吧！"
-    translated: "Wang Zhe is determined to fulfill his brother-in-arms Li Yanxian's last command, reclaiming Heaven's Pillar Fort and retrieving the fragments of the Heavenly Scripture. With assistance from the Panther King Camp and the Merciless Hall, it is evident that they are facing a tough battle ahead. Ready or not, let's go with Wang Zhe to Heaven's Pillar Fort!"
+    translated: "Wang Zhe is determined to fulfill his elder brother Li Yanxian's final wish by reclaiming Heaven's Pillar Fort and retrieving the fragments of the Heavenly Scripture. With the support of Panther King Camp and Merciless Hall, it seems like a tough battle ahead. If you're ready, let's go with Wang Zhe to Heaven's Pillar Fort!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
