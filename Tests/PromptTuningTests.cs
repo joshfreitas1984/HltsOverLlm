@@ -143,6 +143,7 @@ public class PromptTuningTests
         var batchSize = config.BatchSize ?? 10;
 
         var testLines = new List<TranslatedRaw> {
+            new("哼，看来不教训教训你，你不会明白胡乱耍嘴皮子是要付出代价的。"),
             new("原来少侠只需要看看书就够了，那也不需要阁里姑娘的青睐吧？"),
             new("小时"),
             new("嗷呜"),

@@ -24,26 +24,26 @@ public class TranslationCleanupTests
             {  "阴阳", "Yin and Yang" },
             {  "姑娘", "Young lady" },
             {  "唔！", "Ugh!" },
-            {  "唔呃…", "Not cheating..." },
+            {  "唔呃…", "Uh..." },
             {  "戾气？", "Malevolent Qi?" },
             {  "-请便", "Excuse me" },
             {  "{0}{1} 经验", "{0} {1} Experience" },
             { "杂项事件对话", "Miscellaneous Events Dialogue" }, 
-            { "哼，这点轻功也敢来俏梦阁？", "Ha, you dare come to the Charming Dream Pavilion with such basic Qinggong skills?" },
-            { "这就是禾家马帮大锅头？", "So, you're the big boss of the He Family Horse Gang?" },             
+            //{ "哼，这点轻功也敢来俏梦阁？", "Ha, you dare come to the Charming Dream Pavilion with such basic Qinggong skills?" },
+            //{ "这就是禾家马帮大锅头？", "So, you're the big boss of the He Family Horse Gang?" },             
         };
-    }    
+    }
 
     [Fact]
     public async Task UpdateCurrentTranslatedLines()
     {
         await UpdateCurrentTranslationLines();
     }
-    
+
     public static async Task<int> UpdateCurrentTranslationLines()
     {
         var config = Configuration.GetConfiguration(workingDirectory);
-        var totalRecordsModded = 0;        
+        var totalRecordsModded = 0;
         var manual = GetManualCorrections();
         bool resetFlag = true;
 
@@ -86,13 +86,17 @@ public class TranslationCleanupTests
         await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             int recordsModded = 0;
-            
+
             foreach (var line in fileLines)
                 foreach (var split in line.Splits)
                 {
                     // Reset all the retrans flags
                     if (resetFlag)
                         split.ResetFlags();
+
+                    //// Manual Retrans trigger
+                    //if (line.LineNum > 0 && line.LineNum < 1000)
+                    //    split.FlaggedForRetranslation = true;
 
                     if (CheckSplit(newGlossaryStrings, manual, split, outputFile, hallucinationCheckGlossary, mistranslationCheckGlossary, dupeNames, config))
                         recordsModded++;
@@ -116,7 +120,7 @@ public class TranslationCleanupTests
 
     //TODOs: Animal sounds
     public static bool CheckSplit(List<string> newGlossaryStrings, Dictionary<string, string> manual, TranslationSplit split, string outputFile,
-        Dictionary<string, string> hallucinationCheckGlossary, Dictionary<string, string> mistranslationCheckGlossary,  Dictionary<string, List<string>> dupeNames, LlmConfig config)
+        Dictionary<string, string> hallucinationCheckGlossary, Dictionary<string, string> mistranslationCheckGlossary, Dictionary<string, List<string>> dupeNames, LlmConfig config)
     {
         var pattern = LineValidation.ChineseCharPattern;
         bool modified = false;
@@ -125,7 +129,7 @@ public class TranslationCleanupTests
         bool cleanWithGlossary = true;
 
         //////// Quick Validation here
-    
+
         // If it is already translated or just special characters return it
         if (!Regex.IsMatch(split.Text, pattern) && split.Translated != split.Text)
         {
@@ -162,7 +166,7 @@ public class TranslationCleanupTests
             return false;
         }
 
-        // Clean up Translations that are already in
+        // Skip Empty
         if (string.IsNullOrEmpty(split.Translated))
             return false;
 
