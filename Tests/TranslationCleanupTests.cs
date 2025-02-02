@@ -170,12 +170,6 @@ public class TranslationCleanupTests
         if (string.IsNullOrEmpty(split.Translated))
             return false;
 
-        //if (outputFile.Contains("NormalInventoryItem.txt") && split.Split == 1)
-        //{
-        //    split.FlaggedForRetranslation = true;
-        //    modified = true;
-        //}
-
         // Context retrans too fricken big
         //if (outputFile.Contains("NpcTalkItem.txt") && MatchesContextRetrans(split.Translated))
         //{
