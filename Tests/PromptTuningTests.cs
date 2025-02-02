@@ -110,7 +110,9 @@ public class PromptTuningTests
 
         // Prime the Request
 
-        List<object> messages = TranslationService.GenerateBaseMessages(config, "这是我们的家事，难道少侠当真要插手到底？", "Explain your reasoning in a <think> tag at the end of the response. Also explain how and if the glossary was used. ");
+        List<object> messages = TranslationService.GenerateBaseMessages(config, "飞虹剑阵？那是甚么？很厉害吗？", 
+            string.Empty,
+            "Explain your reasoning in a <think> tag at the end of the response. Also explain how and if the glossary was used. Also explain how to adjust the system prompt to correct the fact the resulting output is not in english?");
 
         // Generate based on what would have been created
         var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
@@ -143,6 +145,7 @@ public class PromptTuningTests
         var batchSize = config.BatchSize ?? 10;
 
         var testLines = new List<TranslatedRaw> {
+            new("飞虹剑阵？那是甚么？很厉害吗？"),
             new("哼，看来不教训教训你，你不会明白胡乱耍嘴皮子是要付出代价的。"),
             new("原来少侠只需要看看书就够了，那也不需要阁里姑娘的青睐吧？"),
             new("小时"),
@@ -166,10 +169,6 @@ public class PromptTuningTests
             new("蟒蛇"),
             new("黄连"),
             new("迷惑"),
-            new("蟒蛇"),
-            new("黄连"),
-            new("迷惑"),
-            new("嗷呜"),
             new("孩子，若是你<color=#FF0000>搜索天书的过程里有了些进展，便回来这儿看看</color>，说不准我们也会有什么重大的突破。"),
             new("<color=#FFCC22>我手上有一封信，是洪义交给我的。</color>"),
             new("难道会是梨花姑娘挣扎之时，从<color=#FF0000>凶手</color>身上扯将下来的<color=#FF0000>证据</color>吗？"),

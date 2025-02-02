@@ -908,8 +908,8 @@ BattleSchedule008c	Wrath of the King of Ghosts	Due to the presence of the enemy 
 BattleSchedule008d	The Wrath of the Wind King	Due to the presence of the enemy Huang Shang, a personal grudge is triggered, unleashing hidden combat potential. Skills increase damage and stacking critical hit rate each turn	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008d
 BattleSchedule009	The Bloodthirsty Alliance	Pursue victory and enhance one's combat capabilities	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule009
 BattleSchedule010	With one heart and one mind	Due to Huang Shang being in a crisis, he taps into his hidden potential, gaining an additional cumulative increase to both his combo rate and counterattack rate each round	0	battle	0	TRUE	0	FALSE	0	0	(Combo,20)(CounterAttack,20)	beginUnitProp
-BattleSchedule011	Feihong Sword Formation	By activating the formation, the combat ability increases with the number of participants	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule011
-BattleSchedule012	Feihong Jianzhen	By increasing the number of people who activate the formation, combat ability is enhanced	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule012
+BattleSchedule011	Flying Rainbow Sword Formation	By activating the formation, the combat ability increases with the number of participants	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule011
+BattleSchedule012	Flying Rainbow Sword Formation	By increasing the number of people who activate the formation, combat ability is enhanced	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule012
 BattleSchedule013	Flying Rainbow Sword Formation	Deploys an array to enhance combat ability according to the number of people	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule013
 BattleSchedule014	Flying Rainbow Sword Formation	By increasing the number of people in the formation, enhance combat effectiveness	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule014
 BattleSchedule015	Swamp gas pervades	Under the influence of toxic miasma, suffer poison each round	0	battle_debuff	0	TRUE	0	TRUE	0	0	(Poisoned,15)	beginTurnProp
@@ -938,7 +938,7 @@ BattleSchedule037	Heart filled with indignation	Heart filled with sorrow and ang
 BattleSchedule038	Panic	When it's this unit's turn, there is a 20% chance to initiate dialogue and flee the battle	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule038
 BattleSchedule039	Tendon-Softening Powder	Reduce energy by 5 points, reduce internal power by 20%	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule039
 BattleSchedule040	Back-to-the-Sea Battle	Desperately fight back in a desperate situation, increasing damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
-BattleSchedule041	Imminent danger	Seeing Li Yanshen's critical situation, awakening latent potential to increase damage by 30% and reduce received damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule041
+BattleSchedule041	Imminent danger	In a critical situation involving Li Yanxian, they unlock their hidden potential, increasing damage by 30% and reducing the damage received by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule041
 BattleSchedule042	Unforgiving Power	Hidden buff, when health reaches 70%, triggers a dialogue to restore full health	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule042
 BattleSchedule043	Yang Tianyi gauges hidden buffs through blood quantity	Assess blood level	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule043
 BattleSchedule044	Drunken Butterfly Scale	Unique Poison, accumulates 3 points of poisoning each time it moves	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule044
@@ -952,7 +952,7 @@ BattleSchedule051	Joint Effort to Save the World	Using Heavenly Scriptures secre
 BattleSchedule052	He Yuqing assesses the blood quantity for the BUFF	Hidden buff, judge half blood volume and trigger dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule052
 BattleSchedule053	He Hongyuan's health assessment BUFF	Hidden buff, triggers dialogue when health drops to 50%	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule053
 BattleSchedule054	Weizhentian Nan	Attack Power Increased by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule054
-BattleSchedule055	White Dew Frost Attack Buff		0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule055
+BattleSchedule055	Bailu Shuang activates their attack buff		0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule055
 BattleSchedule056	Gold Toad Spits Pearl	Every two rounds, damage increases by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule056
 BattleSchedule057	Marvelous Hand Reviving Life	Regain 20% of your own lifeforce every three turns	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule057
 BattleSchedule058	Snake and Scorpion Beauty	Slowly poisoned, accumulating 10 points of poison each round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule058

@@ -94,8 +94,8 @@ public class TranslationCleanupTests
                     if (resetFlag)
                         split.ResetFlags();
 
-                    //// Manual Retrans trigger
-                    //if (line.LineNum > 0 && line.LineNum < 1000)
+                    // Manual Retrans trigger
+                    //if (line.LineNum > 0 && line.LineNum < 1000 && outputFile.Contains("NpcTalkItem.txt"))
                     //    split.FlaggedForRetranslation = true;
 
                     if (CheckSplit(newGlossaryStrings, manual, split, outputFile, hallucinationCheckGlossary, mistranslationCheckGlossary, dupeNames, config))
