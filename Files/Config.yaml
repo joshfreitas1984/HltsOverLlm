@@ -3,6 +3,7 @@ apiKeyRequired: false
 url: "http://localhost:11434/api/chat"
 model: "vanilj/phi-4-unsloth"
 #model: "hf.co/unsloth/phi-4-GGUF:Q6_K"
+#model: "hf.co/unsloth/phi-4-GGUF:Q5_K_M"
 modelParams:
   temperature: 0.2
   max_tokens: 4096
