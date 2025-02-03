@@ -12,7 +12,6 @@ public class LlmConfig
     public string? Model { get; set; }
     public int? RetryCount { get; set; }
     public int? BatchSize { get; set; }
-    public bool OptimizationMode { get; set; }
     public bool SkipLineValidation { get; set; }
     public bool CorrectionPromptsEnabled { get; set; }
     public bool TranslateFlagged { get; set; }

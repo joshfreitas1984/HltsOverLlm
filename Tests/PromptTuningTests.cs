@@ -5,8 +5,11 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Text.Json;
+using System.Text.Json.Nodes;
+using System.Text.Json.Schema;
 using System.Threading.Tasks;
 using YamlDotNet.Core;
 
@@ -62,7 +65,7 @@ public class PromptTuningTests
     }
 
     [Fact]
-    public async Task MinimiseThePrompt()
+    public async Task OptimiseProvidedPrompt()
     {
         var config = Configuration.GetConfiguration(workingDirectory);
 
@@ -182,13 +185,6 @@ public class PromptTuningTests
         var totalLines = testLines.Count;
         var stopWatch = Stopwatch.StartNew();
 
-        //Optimisation Folder
-        var optimisationFolder = $"{workingDirectory}/TestResults/Optimisation";
-        if (config.OptimizationMode && Directory.Exists(optimisationFolder))
-            Directory.Delete(optimisationFolder, true);
-
-        Directory.CreateDirectory(optimisationFolder);
-
         for (int i = 0; i < totalLines; i += batchSize)
         {
             stopWatch.Restart();
@@ -216,5 +212,52 @@ public class PromptTuningTests
             results.Add($"From: {line.Raw}\nTo: {line.Trans}\n");
 
         File.WriteAllLines($"{workingDirectory}/TestResults/0.PromptTest.txt", results);
+    }
+
+    private class StructuredTranslation
+    {
+        public string Translated { get; set; }
+        public string Transliterated { get; set; }
+    }
+
+    [Fact]
+    public async Task StructuredPromptTests()
+    {
+        var config = Configuration.GetConfiguration(workingDirectory);
+
+        // Create an HttpClient instance
+        using var client = new HttpClient();
+        client.Timeout = TimeSpan.FromSeconds(300);
+
+        // Prime the Request
+        var basePrompt = "Direct Translate and Transliterate whatever I give you. Respond in VALID Json only.";
+
+        List<object> messages =
+            [
+                LlmHelpers.GenerateSystemPrompt(basePrompt),
+                LlmHelpers.GenerateUserPrompt("经验值80000点，江湖声望，玄铁")
+            ];
+
+        //Generate Schema
+        JsonSerializerOptions options = JsonSerializerOptions.Default;
+        JsonNode schema = options.GetJsonSchemaAsNode(typeof(StructuredTranslation));
+        config.ModelParams.Add("format", schema);
+
+        // Generate based on what would have been created
+        var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);     
+
+        // Send correction & Get result
+        HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
+        HttpResponseMessage response = await client.PostAsync(config.Url, content);
+        response.EnsureSuccessStatusCode();
+        string responseBody = await response.Content.ReadAsStringAsync();
+        using var jsonDoc = JsonDocument.Parse(responseBody);
+        var result = jsonDoc.RootElement
+            .GetProperty("message")!
+            .GetProperty("content")!
+            .GetString()
+            ?.Trim() ?? string.Empty;
+
+        File.WriteAllText($"{workingDirectory}/TestResults/4.FormatedResponse.json", result);
     }
 }

@@ -15,7 +15,7 @@ public class DataGenerationTests
     public async Task ConvertPromptToDataFormat()
     {
         var dataFormat = new DataFormat();
-        var convertMeContents = File.ReadAllLines($"{workingDirectory}/Game/zzConvertMe.yaml");
+        var convertMeContents = File.ReadAllLines($"{workingDirectory}/TestResults/zzConvertMe.yaml");
 
         foreach (var line in convertMeContents)
         {
@@ -26,7 +26,7 @@ public class DataGenerationTests
 
         var serializer = Yaml.CreateSerializer();
       
-        await File.WriteAllTextAsync($"{workingDirectory}/Game/zzzConverted.yaml", serializer.Serialize(dataFormat));
+        await File.WriteAllTextAsync($"{workingDirectory}/TestResults/zzzConverted.yaml", serializer.Serialize(dataFormat));
     }
 
     public static (string raw, string result) SplitOnFirst(string input, char delimiter)

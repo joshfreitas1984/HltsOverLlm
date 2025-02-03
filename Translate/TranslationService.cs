@@ -427,10 +427,6 @@ public static class TranslationService
                 var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
                 HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
 
-                // Write for optimising correction prompts
-                if (config.OptimizationMode && retryCount > 1)
-                    File.WriteAllText($"{optimisationFolder}/{DateTime.Now:yyyyMMddHHmmss}-{Guid.NewGuid()}.json", requestData);
-
                 // Make the POST request
                 HttpResponseMessage response = await client.PostAsync(config.Url, content);
 
