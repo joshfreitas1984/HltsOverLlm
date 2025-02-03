@@ -15,11 +15,11 @@ public class TranslationWorkflowTests
         TranslationService.ExportTextAssetsToCustomFormat(workingDirectory);
     }
 
-    [Fact]
-    public async Task ExtractGlossary()
-    {
-        await TranslationService.ExtractGlossaryAsync(workingDirectory);
-    }
+    //[Fact]
+    //public async Task ExtractGlossary()
+    //{
+    //    await TranslationService.ExtractGlossaryAsync(workingDirectory);
+    //}
 
     [Fact]
     public async Task TranslateLinesBruteForce()
