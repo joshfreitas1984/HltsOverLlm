@@ -1,4 +1,8 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.Text.Json.Nodes;
+using System.Text.Json;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Text.Json.Schema;
 
 namespace Translate.Tests;
 public class TranslationWorkflowTests
@@ -9,6 +13,12 @@ public class TranslationWorkflowTests
     public void ExportAssetsIntoTranslated()
     {
         TranslationService.ExportTextAssetsToCustomFormat(workingDirectory);
+    }
+
+    [Fact]
+    public async Task ExtractGlossary()
+    {
+        await TranslationService.ExtractGlossaryAsync(workingDirectory);
     }
 
     [Fact]
@@ -52,7 +62,7 @@ public class TranslationWorkflowTests
     [Fact]
     public async Task PackageFinalTranslation()
     {
-        await TranslationService.PackageFinalTranslation(workingDirectory);
+        await TranslationService.PackageFinalTranslationAsync(workingDirectory);
 
         var sourceDirectory = $"{workingDirectory}/Mod";
         var gameDirectory = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\河洛群俠傳 (Ho Tu Lo Shu ： The Books of Dragon)\\Mod";
@@ -361,4 +371,6 @@ public class TranslationWorkflowTests
 
         return modified; // Will be previous value - even if it didnt find anything
     }
+
+    
 }

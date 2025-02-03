@@ -9,6 +9,16 @@ public class TranslatedRaw(string raw)
     public string Trans { get; set; } = string.Empty;
 }
 
+public class StructuredGlossaryLine
+{
+    public string Criteria { get; set; } = string.Empty;
+    public string OriginalText { get; set; } = string.Empty;
+    public string TranslatedText { get; set; } = string.Empty;
+    public string TransliteratedText { get; set; } = string.Empty;
+    public string Context { get; set; } = string.Empty;
+
+}
+
 public class DataFormat
 {
     public List<DataLine> Entries { get; set; } = [];
@@ -52,6 +62,8 @@ public class TranslationSplit
 
     public bool FlaggedForRetranslation { get; set; } = false;
 
+    public bool FlaggedForGlossaryExtraction { get; set; } = true;
+
     [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
     public string FlaggedGlossaryIn { get; set; } = string.Empty;
 
@@ -71,6 +83,11 @@ public class TranslationSplit
         FlaggedForRetranslation = false;
         FlaggedGlossaryIn = string.Empty;
         FlaggedGlossaryOut = string.Empty;
+    }
+
+    public void ResetGlossaryFlags()
+    {
+        FlaggedForGlossaryExtraction = true;
     }
 }
 

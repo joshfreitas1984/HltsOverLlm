@@ -260,4 +260,16 @@ public class PromptTuningTests
 
         File.WriteAllText($"{workingDirectory}/TestResults/4.FormatedResponse.json", result);
     }
+
+    [Fact]
+    public async Task ExtractGlossaryItemTest()
+    {
+        var config = Configuration.GetConfiguration(workingDirectory);
+
+        // Create an HttpClient instance
+        using var client = new HttpClient();
+        client.Timeout = TimeSpan.FromSeconds(300);
+        var result = await TranslationService.ExtractGlossaryItemAsync(config, client, "经验值80000点，江湖声望，玄铁");
+        File.WriteAllText($"{workingDirectory}/TestResults/3.GlossaryResponse.json", result);
+    }
 }

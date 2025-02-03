@@ -4,8 +4,11 @@ using System.Dynamic;
 using System.Globalization;
 using System.Net.Http.Headers;
 using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Text.Json;
+using System.Text.Json.Nodes;
+using System.Text.Json.Schema;
 using System.Text.RegularExpressions;
 using System.Xml.Schema;
 using YamlDotNet.Serialization;
@@ -40,7 +43,7 @@ public static class TranslationService
             new() { Path = "StringTableItem.txt", SplitIndexes = [1] },
             new() { Path = "TeleporterItem.txt", SplitIndexes = [1] },
             new() { Path = "TalentItem.txt", SplitIndexes = [1,2] },
-            
+
             new() { Path = "QuestItem.txt", SplitIndexes = [1,3] },
             new() { Path = "NpcTalkItem.txt", SplitIndexes = [6] },
         ];
@@ -49,7 +52,7 @@ public static class TranslationService
     {
         string inputPath = $"{workingDirectory}/TextAsset";
         string outputPath = $"{workingDirectory}/Export";
-        var serializer = Yaml.CreateSerializer();       
+        var serializer = Yaml.CreateSerializer();
 
         if (!Directory.Exists(outputPath))
             Directory.CreateDirectory(outputPath);
@@ -74,13 +77,13 @@ public static class TranslationService
 
                 exportContent.Add(translationLine);
                 lineNum++;
-            }         
+            }
 
             File.WriteAllText($"{outputPath}\\{textFileToTranslate.Path}", serializer.Serialize(exportContent));
         }
     }
 
-    public static async Task FillTranslationCache(string workingDirectory, int charsToCache, Dictionary<string, string> cache, LlmConfig config)
+    public static async Task FillTranslationCacheAsync(string workingDirectory, int charsToCache, Dictionary<string, string> cache, LlmConfig config)
     {
         // Add Manual adjustments 
         //foreach (var k in GetManualCorrections())
@@ -121,7 +124,7 @@ public static class TranslationService
         var translationCache = new Dictionary<string, string>();
         var charsToCache = 10;
         if (useTranslationCache)
-            await FillTranslationCache(workingDirectory, charsToCache, translationCache, config);
+            await FillTranslationCacheAsync(workingDirectory, charsToCache, translationCache, config);
 
         // Create an HttpClient instance
         using var client = new HttpClient();
@@ -152,7 +155,7 @@ public static class TranslationService
             var batchSize = config.BatchSize ?? 20;
             var totalLines = fileLines.Count;
             var stopWatch = Stopwatch.StartNew();
-            int recordsProcessed = 0;            
+            int recordsProcessed = 0;
             int bufferedRecords = 0;
 
             int logProcessed = 0;
@@ -208,7 +211,7 @@ public static class TranslationService
                     bufferedRecords = 0;
                 }
             }
-            
+
             var elapsed = stopWatch.ElapsedMilliseconds;
             var speed = recordsProcessed == 0 ? 0 : elapsed / recordsProcessed;
             Console.WriteLine($"Done: {totalLines} ({elapsed} ms ~ {speed}/line)");
@@ -216,7 +219,7 @@ public static class TranslationService
         }
     }
 
-    public static async Task PackageFinalTranslation(string workingDirectory)
+    public static async Task PackageFinalTranslationAsync(string workingDirectory)
     {
         string inputPath = $"{workingDirectory}/Translated";
         string outputPath = $"{workingDirectory}/Mod/EnglishLlmByLash/config/textfiles";
@@ -294,7 +297,7 @@ public static class TranslationService
             if (!File.Exists(outputFile))
                 continue;
 
-            var content = File.ReadAllText(outputFile);           
+            var content = File.ReadAllText(outputFile);
 
             var fileLines = deserializer.Deserialize<List<TranslationLine>>(content);
 
@@ -303,7 +306,7 @@ public static class TranslationService
         }
     }
 
-    public static async Task<(bool split, string result)> SplitIfNeeded(string testString, LlmConfig config, string raw, HttpClient client, string outputFile)
+    public static async Task<(bool split, string result)> SplitIfNeededAsync(string testString, LlmConfig config, string raw, HttpClient client, string outputFile)
     {
         if (raw.Contains(testString))
         {
@@ -330,7 +333,7 @@ public static class TranslationService
         return (false, string.Empty);
     }
 
-    public static async Task<(bool split, string result)> SplitBracketsIfNeeded(LlmConfig config, string raw, HttpClient client, string outputFile)
+    public static async Task<(bool split, string result)> SplitBracketsIfNeededAsync(LlmConfig config, string raw, HttpClient client, string outputFile)
     {
         if (raw.Contains('('))
         {
@@ -342,7 +345,7 @@ public static class TranslationService
             {
                 var outsideStart = match.Groups[1].Value.Trim();
                 var outsideEnd = match.Groups[3].Value.Trim();
-                var inside = match.Groups[2].Value.Trim();                
+                var inside = match.Groups[2].Value.Trim();
 
                 if (!string.IsNullOrEmpty(outsideStart))
                 {
@@ -397,7 +400,7 @@ public static class TranslationService
         var testStrings = new string[] { ":", "：", "<br>" };
         foreach (var testString in testStrings)
         {
-            var (split, result) = await SplitIfNeeded(testString, config, raw, client, outputFile);
+            var (split, result) = await SplitIfNeededAsync(testString, config, raw, client, outputFile);
 
             // Because its recursive we want to bail out on the first successful one
             if (split)
@@ -405,7 +408,7 @@ public static class TranslationService
         }
 
         //Brackets
-        var (split2, result2) = await SplitBracketsIfNeeded(config, raw, client, outputFile);
+        var (split2, result2) = await SplitBracketsIfNeededAsync(config, raw, client, outputFile);
         if (split2)
             return result2;
 
@@ -451,7 +454,7 @@ public static class TranslationService
                     translationValid = validationResult.Valid;
 
                     // Append history of failures
-                    if (!translationValid && config.CorrectionPromptsEnabled) 
+                    if (!translationValid && config.CorrectionPromptsEnabled)
                     {
                         var correctionPrompt = LineValidation.CalulateCorrectionPrompt(config, validationResult, preparedRaw, llmResult);
 
@@ -485,7 +488,7 @@ public static class TranslationService
     {
         //Dynamically build prompt using whats in the raws
         var basePrompt = new StringBuilder(config.Prompts["BaseSystemPrompt"]);
-        
+
         if (raw.Contains('{'))
             basePrompt.AppendLine(config.Prompts["DynamicPlaceholderPrompt"]);
 
@@ -541,5 +544,163 @@ public static class TranslationService
             var tempPath = Path.Combine(destDir, subdir.Name);
             CopyDirectory(subdir.FullName, tempPath);
         }
+    }
+
+    public static async Task<string> ExtractGlossaryItemAsync(LlmConfig config, HttpClient client, string input)
+    {
+        // Prime the Request
+        var basePrompt = config.Prompts["GlossaryBuildUpPrompt"];
+
+        List<object> messages =
+            [
+                LlmHelpers.GenerateSystemPrompt(basePrompt),
+                LlmHelpers.GenerateUserPrompt(input)
+            ];
+
+        //Generate Schema
+        if (!config.ModelParams!.ContainsKey("format"))
+        {
+            JsonSerializerOptions options = JsonSerializerOptions.Default;
+            JsonNode schema = options.GetJsonSchemaAsNode(typeof(StructuredGlossaryLine[]));
+            config.ModelParams!.Add("format", schema);
+        }
+
+        // Generate based on what would have been created
+        var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
+
+        // Send correction & Get result
+        HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
+        HttpResponseMessage response = await client.PostAsync(config.Url, content);
+        response.EnsureSuccessStatusCode();
+        string responseBody = await response.Content.ReadAsStringAsync();
+        using var jsonDoc = JsonDocument.Parse(responseBody);
+        var result = jsonDoc.RootElement
+            .GetProperty("message")!
+            .GetProperty("content")!
+            .GetString()
+            ?.Trim() ?? string.Empty;
+
+        return result;
+    }
+
+
+    public class GlossaryCapture : Dictionary<string, StructuredGlossaryLine>
+    {
+        public bool AddItem(StructuredGlossaryLine item)
+        {
+            StructuredGlossaryLine? newValue;
+
+            // Find by Original Text - else add a new one in
+            if (!TryGetValue(item.OriginalText, out newValue))
+            {
+                Add(item.OriginalText, item);
+                return true;
+            }
+
+            return false;
+        }
+    }
+
+    public class GlossaryOutput : Dictionary<string, GlossaryCapture>
+    {
+        public bool AddItem(StructuredGlossaryLine item)
+        {
+            var criteriaEntry = item.Criteria
+                .Replace('\\', '_')
+                .Replace('/', '_')
+                .ToLower();
+
+            GlossaryCapture? newValue;
+
+            if (!TryGetValue(criteriaEntry, out newValue))
+            {
+                newValue = new GlossaryCapture();
+                Add(criteriaEntry, newValue);
+            }
+
+            return newValue.AddItem(item);
+        }
+    }
+
+    public static void WriteGlossaryOutput(string workingDirectory, GlossaryOutput glossary)
+    {
+        var serializer = Yaml.CreateSerializer();
+
+        foreach (var entry in glossary)
+        {
+            var outputFile = $"{workingDirectory}/GlossaryExtract/{entry.Key}.txt";
+            File.WriteAllText(outputFile, serializer.Serialize(entry.Value));
+        }
+    }
+
+    public static async Task ExtractGlossaryAsync(string workingDirectory)
+    {
+        throw new NotImplementedException("It's too green at the moment - needs better prompts");
+
+        var config = Configuration.GetConfiguration(workingDirectory);
+
+        // Create an HttpClient instance
+        using var client = new HttpClient();
+        client.Timeout = TimeSpan.FromSeconds(300);
+
+        if (config.ApiKeyRequired)
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", config.ApiKey);
+
+        int incorrectLineCount = 0;
+        int totalRecordsProcessed = 0;
+
+        var outputGlossary = new GlossaryOutput();
+
+        await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+        {
+            int recordsModded = 0;
+            int linesProcessed = 0;
+            int totalLines = fileLines.Count;
+
+            foreach (var line in fileLines)
+            {
+                foreach (var split in line.Splits)
+                {
+                    if (!split.FlaggedForGlossaryExtraction)
+                        continue;
+
+                    var raw = LineValidation.PrepareRaw(split.Text);
+                    var result = await ExtractGlossaryItemAsync(config, client, raw);
+
+                    try
+                    {
+                        var foundEntries = JsonSerializer.Deserialize<StructuredGlossaryLine[]>(result);
+                        if (foundEntries != null && foundEntries.Length > 0)
+                            foreach (var foundEntry in foundEntries)
+                                if (outputGlossary.AddItem(foundEntry))
+                                    recordsModded++;
+
+                        split.FlaggedForGlossaryExtraction = false;
+                    }
+                    catch
+                    {
+                        incorrectLineCount++;
+                    }
+
+                    recordsModded++;
+                }
+
+                // Each Line
+                linesProcessed++;
+                if (linesProcessed % 5 == 0)
+                {
+                    Console.WriteLine($"Line: {linesProcessed} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
+                    WriteGlossaryOutput(workingDirectory, outputGlossary);
+                }
+            }
+
+            //Each File
+            Console.WriteLine($"Line: {linesProcessed} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
+            totalRecordsProcessed += recordsModded;
+            await Task.CompletedTask;
+        });
+
+        WriteGlossaryOutput(workingDirectory, outputGlossary);
+        Console.WriteLine("Done");
     }
 }
