@@ -394,8 +394,6 @@ public static class TranslationService
         if (!Regex.IsMatch(raw, pattern))
             return raw;
 
-        var optimisationFolder = $"{config.WorkingDirectory}/TestResults/Optimisation";
-
         // We do segementation here since saves context window by splitting // "。" doesnt work like u think it would
         var testStrings = new string[] { ":", "：", "<br>" };
         foreach (var testString in testStrings)
@@ -588,10 +586,8 @@ public static class TranslationService
     {
         public bool AddItem(StructuredGlossaryLine item)
         {
-            StructuredGlossaryLine? newValue;
-
             // Find by Original Text - else add a new one in
-            if (!TryGetValue(item.OriginalText, out newValue))
+            if (!ContainsKey(item.OriginalText))
             {
                 Add(item.OriginalText, item);
                 return true;
@@ -610,11 +606,9 @@ public static class TranslationService
                 .Replace('/', '_')
                 .ToLower();
 
-            GlossaryCapture? newValue;
-
-            if (!TryGetValue(criteriaEntry, out newValue))
+            if (!TryGetValue(criteriaEntry, out GlossaryCapture? newValue))
             {
-                newValue = new GlossaryCapture();
+                newValue = [];
                 Add(criteriaEntry, newValue);
             }
 
@@ -635,72 +629,73 @@ public static class TranslationService
 
     public static async Task ExtractGlossaryAsync(string workingDirectory)
     {
-        throw new NotImplementedException("It's too green at the moment - needs better prompts");
+        await Task.CompletedTask;
+        throw new NotImplementedException($"It's too green at the moment - needs better prompts {workingDirectory}");
 
-        var config = Configuration.GetConfiguration(workingDirectory);
+        //var config = Configuration.GetConfiguration(workingDirectory);
 
-        // Create an HttpClient instance
-        using var client = new HttpClient();
-        client.Timeout = TimeSpan.FromSeconds(300);
+        //// Create an HttpClient instance
+        //using var client = new HttpClient();
+        //client.Timeout = TimeSpan.FromSeconds(300);
 
-        if (config.ApiKeyRequired)
-            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", config.ApiKey);
+        //if (config.ApiKeyRequired)
+        //    client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", config.ApiKey);
 
-        int incorrectLineCount = 0;
-        int totalRecordsProcessed = 0;
+        //int incorrectLineCount = 0;
+        //int totalRecordsProcessed = 0;
 
-        var outputGlossary = new GlossaryOutput();
+        //var outputGlossary = new GlossaryOutput();
 
-        await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
-        {
-            int recordsModded = 0;
-            int linesProcessed = 0;
-            int totalLines = fileLines.Count;
+        //await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+        //{
+        //    int recordsModded = 0;
+        //    int linesProcessed = 0;
+        //    int totalLines = fileLines.Count;
 
-            foreach (var line in fileLines)
-            {
-                foreach (var split in line.Splits)
-                {
-                    if (!split.FlaggedForGlossaryExtraction)
-                        continue;
+        //    foreach (var line in fileLines)
+        //    {
+        //        foreach (var split in line.Splits)
+        //        {
+        //            if (!split.FlaggedForGlossaryExtraction)
+        //                continue;
 
-                    var raw = LineValidation.PrepareRaw(split.Text);
-                    var result = await ExtractGlossaryItemAsync(config, client, raw);
+        //            var raw = LineValidation.PrepareRaw(split.Text);
+        //            var result = await ExtractGlossaryItemAsync(config, client, raw);
 
-                    try
-                    {
-                        var foundEntries = JsonSerializer.Deserialize<StructuredGlossaryLine[]>(result);
-                        if (foundEntries != null && foundEntries.Length > 0)
-                            foreach (var foundEntry in foundEntries)
-                                if (outputGlossary.AddItem(foundEntry))
-                                    recordsModded++;
+        //            try
+        //            {
+        //                var foundEntries = JsonSerializer.Deserialize<StructuredGlossaryLine[]>(result);
+        //                if (foundEntries != null && foundEntries.Length > 0)
+        //                    foreach (var foundEntry in foundEntries)
+        //                        if (outputGlossary.AddItem(foundEntry))
+        //                            recordsModded++;
 
-                        split.FlaggedForGlossaryExtraction = false;
-                    }
-                    catch
-                    {
-                        incorrectLineCount++;
-                    }
+        //                split.FlaggedForGlossaryExtraction = false;
+        //            }
+        //            catch
+        //            {
+        //                incorrectLineCount++;
+        //            }
 
-                    recordsModded++;
-                }
+        //            recordsModded++;
+        //        }
 
-                // Each Line
-                linesProcessed++;
-                if (linesProcessed % 5 == 0)
-                {
-                    Console.WriteLine($"Line: {linesProcessed} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
-                    WriteGlossaryOutput(workingDirectory, outputGlossary);
-                }
-            }
+        //        // Each Line
+        //        linesProcessed++;
+        //        if (linesProcessed % 5 == 0)
+        //        {
+        //            Console.WriteLine($"Line: {linesProcessed} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
+        //            WriteGlossaryOutput(workingDirectory, outputGlossary);
+        //        }
+        //    }
 
-            //Each File
-            Console.WriteLine($"Line: {linesProcessed} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
-            totalRecordsProcessed += recordsModded;
-            await Task.CompletedTask;
-        });
+        //    //Each File
+        //    Console.WriteLine($"Line: {linesProcessed} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
+        //    totalRecordsProcessed += recordsModded;
+        //    await Task.CompletedTask;
+        //});
 
-        WriteGlossaryOutput(workingDirectory, outputGlossary);
-        Console.WriteLine("Done");
+        //WriteGlossaryOutput(workingDirectory, outputGlossary);
+        //Console.WriteLine("Done");
     }
 }

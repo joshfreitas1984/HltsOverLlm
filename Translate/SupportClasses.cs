@@ -62,7 +62,7 @@ public class TranslationSplit
 
     public bool FlaggedForRetranslation { get; set; } = false;
 
-    public bool FlaggedForGlossaryExtraction { get; set; } = true;
+    //public bool FlaggedForGlossaryExtraction { get; set; } = true;
 
     [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
     public string FlaggedGlossaryIn { get; set; } = string.Empty;
@@ -85,10 +85,10 @@ public class TranslationSplit
         FlaggedGlossaryOut = string.Empty;
     }
 
-    public void ResetGlossaryFlags()
-    {
-        FlaggedForGlossaryExtraction = true;
-    }
+    //public void ResetGlossaryFlags()
+    //{
+    //    FlaggedForGlossaryExtraction = true;
+    //}
 }
 
 public class TranslationLine
