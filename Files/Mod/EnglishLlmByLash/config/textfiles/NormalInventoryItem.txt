@@ -312,7 +312,7 @@ it80198	Yulong Xuelianhua	it40210	Snow lotus from Yulong Snow Mountain. Very rar
 it80199	Letter from Daoist Heart Good	it80199	Monk Xinliang's Miscellaneous Notes from the Scroll	801	0	0	FALSE	0	50	0	0	0		0			0
 it801001	Mu Mansion Token	it801001	Token given by Mu Chu. With this token, the guards of the Mu Mansion won't dare to touch you	801	0	0	FALSE	1	50	0	0	0		0			0
 it801002	Message from the Elder Patriarch	it801002	Venerable Guild Leader's Last Will	801	0	0	FALSE	0	50	0	0	0		0			0
-it801003	The secret iron box	it801003	A dark, heavy box. Zhou Yi sealed the letter of the late old leader of the Taoshi Gang in this box.	801	0	0	FALSE	0	50	0	0	0		0			0
+it801003	The secret iron box	it801003	A dark, heavy box. Zhou Yi sealed the letter of the late old leader of the Taoshi Gang in this box	801	0	0	FALSE	0	50	0	0	0		0			0
 it801004	Mysterious Token	it801004	From the black-cloaked person, a grayish-white token was recovered, appearing to be neither iron nor copper in texture, with an engraving of a wolf's head totem	801	0	0	FALSE	0	50	0	0	0		0			0
 it801005	Iron Sand Palm Fragments	it801005	Iron Sand Palm Fragment	801	0	0	FALSE	0	50	0	0	0		0			0
 it801006	Mei Fu Qi's hidden pouch	it801006	Mei Fugui's bag seems to contain some good things inside. How about we take a look?	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "n6900201041"} ]}

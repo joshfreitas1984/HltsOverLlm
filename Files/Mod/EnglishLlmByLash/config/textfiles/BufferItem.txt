@@ -390,7 +390,7 @@ buffSkillTree044_006	Stop at the Stars	When attacking with Double Star Flying Sh
 buffSkillTree044_007	Return Qi Star	Attack range increased for Twin Star Flying Shadow	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree044_008	Star Quake	Consumption of internal force for Shuangxing Feiying is reduced by half	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree044_009	Penetrating Bone Star	Enhanced power of the Dual Star Swift Shadows	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree045_004	When the path ends, danger appears	Yishuihan adds 8 points to muscle separation.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree045_004	When the path ends, danger appears	Yishuihan adds 8 points to muscle separation	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree045_005	Great flag rides the wind	Easy Water's energy consumption is reduced by 1 point	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree045_006	Unfazed by imminent danger	When Easy Water is counterattacking, damage increases by 25%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree045_007	Ice still cold in the Yi River	Yishuihan's attack range has increased	0		0	FALSE	0	FALSE	0	0		0
@@ -495,7 +495,7 @@ buffSkillTree080_000_2	Ultimate Toxic Method	When running the Seven-Colored Pois
 buffSkillTree080_000_3	Seven-colored Poisonous Qi	Causing surrounding enemies within a 2-unit distance to suffer 8 points of poisoning and 4 points of muscle splitting each turn	0	buffSkillTree080_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree080_000_4	Seven-Color Poisonous Gas	Create a poison effect causing enemies within a 2-unit radius to take 8 points of poisoning and 4 points of joint manipulation damage each turn	0	buffSkillTree080_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree080_000_5	Seven-Colored Poisonous Qi	Create a poisonous effect causing enemies within a 2-unit radius to take 4 points of poisoning damage each turn	0	buffSkillTree080_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree080_002	Heart-wrenching and tearful.	As poison arts and demonic values increase, the potency of techniques becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree080_002
+buffSkillTree080_002	Heart-wrenching and tearful	As poison arts and demonic values increase, the potency of techniques becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree080_002
 buffSkillTree080_003	Mountains and Seas of Corpses	The higher the mastery in toxicology and dark values, the stronger the technique's power	0		0	FALSE	0	FALSE	0	0		buffSkillTree080_003
 buffSkillTree080_004	Colored Snow Spider	Can catch Rainbow Spider and refine Rainbow Gem Poison. According to records, Rainbow Spiders mostly grow on the peaks of snowy mountains	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree080_005	Seven-colored centipede	Can capture seven-color centipedes and refine seven-color centipede poison. According to records, seven-color centipedes mainly grow in swamps	0		0	FALSE	0	FALSE	0	0		0
@@ -606,7 +606,7 @@ buffSkillTree114_007	Heavy rain	Rainstorm Plum Blossom adds an additional 8 poin
 buffSkillTree114_008	Flower Flies	Rainy Plum Blossoms add an additional dizziness value of 8 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree114_009	Strong wind	Downpour Plum Blossom adds a pushback time sequence effect	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree115_003	Cast aspersions	If using containing sand, shooting shadows as a counter-attack technique, the activation rate of yellow wagtail in the rear increases by 5%	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree115_006	Snake-oil salesmen, tricksters	If gui yu nan ce is used as a counterattack technique, then the activation rate of huang que zai hou increases by 5%	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree115_006	Snake-oil salesmen, tricksters	If 'Ghostly Unpredictability' is used as a counterattack technique, the activation rate of 'The Stalking Sparrow' increases by 5%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree115_007	Difficult to judge	Reduce the consumption of inner strength in lowering the difficulty of the unpredictable goblin	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree115_010	Shadow Projection	Reduce the consumption of internal energy for sand-ridden shadow projection	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree116_002	Eight Clear Breezes	After attacking, the target is afflicted with confusion for 8 points and the attacker's feigned value increases by 6 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree116_002
@@ -770,7 +770,7 @@ buffSkillTree161_011	Springwell	The recovery zone restores a team member's lifef
 buffSkillTree161_011_2	Clearing the Meridian	Help teammates remove 15 points of negative status effects in the test area	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_011_2
 buffSkillTree162_003	Supremely Fierce Stroke	The enhanced power of the naturally formed solid gold	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree162_004	Rock stands immovably	Hunan's attack range increased	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree162_008	Emphatic Jade Gesture	The natural formation of pure gold and the radiance of molten gold have an additional effect on external injuries.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree162_008	Emphatic Jade Gesture	The natural formation of pure gold and the radiance of molten gold have an additional effect on external injuries	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree163_000	Living Bones	Body constitution increased by 2 points, Neigong increased by 2 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree163_001	Reconnect the meridians	Constitution increases by 4 points, Neigong increases by 4 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree163_002	Refining muscles	Constitution +6, Neigong +6	0		0	FALSE	0	FALSE	0	0		0

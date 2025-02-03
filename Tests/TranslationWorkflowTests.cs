@@ -380,7 +380,9 @@ public class TranslationWorkflowTests
 
     public static bool MatchesPinyin(string input)
     {
-        string[] words = ["hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado", "nom"];
+        string[] words = ["hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado", 
+            "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
+            "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una", "un"];
 
         foreach (var word in words)
         {
