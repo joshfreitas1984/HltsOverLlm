@@ -241,11 +241,11 @@ public class TranslationWorkflowTests
         //    modified = true;
         //}
 
-        //if (MatchesPinyin(split.Translated))
-        //{
-        //    split.FlaggedForRetranslation = true;
-        //    modified = true;
-        //}
+        if (MatchesPinyin(split.Translated))
+        {
+            split.FlaggedForRetranslation = true;
+            modified = true;
+        }
 
         //////// Manipulate split from here
         if (cleanWithGlossary)
@@ -380,7 +380,7 @@ public class TranslationWorkflowTests
 
     public static bool MatchesPinyin(string input)
     {
-        string[] words = ["xi", "hiu", "gao", "ao", "oi", "avo", "porqe", "obrigado", "nom"]; //"I", "isn't"
+        string[] words = ["hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado", "nom"];
 
         foreach (var word in words)
         {
