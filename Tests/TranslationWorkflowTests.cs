@@ -241,6 +241,12 @@ public class TranslationWorkflowTests
         //    modified = true;
         //}
 
+        if (MatchesPinyin(split.Translated))
+        {
+            split.FlaggedForRetranslation = true;
+            modified = true;
+        }
+
         //////// Manipulate split from here
         if (cleanWithGlossary)
         {
@@ -372,5 +378,18 @@ public class TranslationWorkflowTests
         return modified; // Will be previous value - even if it didnt find anything
     }
 
-    
+    public static bool MatchesPinyin(string input)
+    {
+        string[] words = ["xi", "shi", "hiu", "gao", "wan", "ao", "oi", "avo", "porqe", "obrigado", "nom"]; //"I", "isn't"
+
+        foreach (var word in words)
+        {
+            var pattern = $@"\b{word}\b";
+            if (Regex.IsMatch(input, pattern, RegexOptions.IgnoreCase))
+                return true;
+        }
+
+        return false;
+    }
+
 }
