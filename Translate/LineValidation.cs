@@ -40,7 +40,7 @@ public class LineValidation
                 .Replace($"{{name_2}} {title}", $"{title} {{name_2}}")
                 .Replace($"{{name_2}}, {title}", $"{title} {{name_2}}");
         }
-          
+
         return result;
     }
 
@@ -50,7 +50,10 @@ public class LineValidation
             .Replace("<p>", "")
             .Replace("</p>", "")
             .Replace("<Div>", "<div>")
-            .Replace("</Div>", "</div>");
+            .Replace("</Div>", "</div>")
+            .Replace("< Div >", "<div>", StringComparison.OrdinalIgnoreCase)
+            .Replace("< / Div >", "</div>", StringComparison.OrdinalIgnoreCase)
+            .Replace("< /Div >", "</div>", StringComparison.OrdinalIgnoreCase);
 
 
         if (llmResult.Contains("<div>"))
@@ -272,6 +275,15 @@ public class LineValidation
 
             if (result.Contains('”') && !raw.Contains('”'))
                 result = result.Replace("”", "");
+
+            result = result
+                .Replace("<p>", "", StringComparison.OrdinalIgnoreCase)
+                .Replace("</p>", "", StringComparison.OrdinalIgnoreCase)
+                .Replace("<div>", "", StringComparison.OrdinalIgnoreCase)
+                .Replace("< div >", "", StringComparison.OrdinalIgnoreCase)
+                .Replace("</div>", "", StringComparison.OrdinalIgnoreCase)
+                .Replace("< /div >", "", StringComparison.OrdinalIgnoreCase)
+                .Replace("< / div >", "", StringComparison.OrdinalIgnoreCase);
 
             //Take out wide quotes
             result = result
