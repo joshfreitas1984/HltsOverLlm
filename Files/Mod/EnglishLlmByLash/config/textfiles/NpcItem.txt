@@ -13,7 +13,7 @@ n00000l	Situ Jing bad ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						
 n00000m	Luo Yuanyu good ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "CheckNpcLevelAction" : "n60273", 0, 39} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0} 	0
 n00000n	Luo Yuanyu bad ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "CheckNpcLevelAction" : "n60273", 0, 39} , { "CheckFlagAction" : "f0ending", 0, 1}  ], 0} 	0
 n00000o	Ning'er Ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "QuestCondition" : "Q60039", 1, True} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0} 	0
-n00000p	Palace Ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "CheckFlagAction" : "f0harem", 1, 1} , { "LogicalNode" : [ { "CheckFlagAction" : "f0玉書1", 1, 1} , { "CheckFlagAction" : "f0玉書2", 1, 1}  ], 1} , { "CheckFlagAction" : "f0百損", 1, 1} , { "CheckFlagAction" : "f0孫凝", 1, 1} , { "CheckFlagAction" : "f0ending", 0, 1}  ], 0} 	0
+n00000p	Harem Ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "CheckFlagAction" : "f0harem", 1, 1} , { "LogicalNode" : [ { "CheckFlagAction" : "f0玉書1", 1, 1} , { "CheckFlagAction" : "f0玉書2", 1, 1}  ], 1} , { "CheckFlagAction" : "f0百損", 1, 1} , { "CheckFlagAction" : "f0孫凝", 1, 1} , { "CheckFlagAction" : "f0ending", 0, 1}  ], 0} 	0
 n00001	Fire Artisan Hermit Guo Fu	ml_standA00		773.4057, 102.56, -871.5582	184.0677		TRUE	FALSE	n0000101000		sc0000101			1	25	0	n00001	n00001	n00001a1,n00001a2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2}  ], 0} 	0
 n00002	Monk Guo Yi	ml_standA00		777.6997, 102.3721, -857.2798	88.50185		FALSE	FALSE	n0002101013		sc0000201			1	25	0	n00012		n00002a,n00002b			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2} , { "CheckFlagAction" : "f00007", 1, 0}  ], 0} 	0
 n00003	Monk Guo Qing	ml_standA00		732.36, 98.765, -820.53	306.5171		FALSE	FALSE	n0000301044	v00082				1	25	0	n00003	n00003	n00003a1,n00003a2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2}  ], 0} 	0
@@ -287,12 +287,12 @@ n00092b	Wandering Demon	ml_idle108	c_m62	-625.498, 77.07961, 577.8361	0	20-23, 0
 n00092c	Wandering Demon	ml_idle004	c_m61	-619.7938, 73.10488, 617.501	220.7256	20-23, 0-2	FALSE	FALSE		v00195				1	0	0	n00092a	n00092c				{ "LogicalNode" : [ { "QuestCondition" : "Q00019_02", 0, True}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n00092c", 0.30000, 0} , { "ObjectTransformAction" : 0, "n00092c", 0.00000, 0, False, { 0.00000, 0.00000, 0.00000} } , { "SetTalkIdAction" : "n0009201002"}  ]} , 20.00000}  ], 0} 
 n00093	Fox	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00040				3	0	0			n00093a,n00093b			0	0
 n00094	Tiger	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00041				3	0	0			n00094a,n00094b			0	0
-n00095a	Skeleton Dancer	m_standN001	n00095	-1132.308, 106.2109, 647.8741	122.8537		FALSE	FALSE						0	10	1	n00097a	n00095a				0	0
-n00095b	Skeleton Dancer	m_standN001	n00095	-1135.659, 105.9947, 645.4432	238.8151		FALSE	FALSE						1		0	n00097b	n00095b				0	0
-n00095c	Skeleton Dancer	m_standN001	n00095	-1127.266, 105.6956, 648.6187	65.05406		FALSE	FALSE						2		0	n00097a	n00095c				0	0
-n00095d	Skeleton Dancer	m_standN001	n00095	-1132.895, 106.5106, 627.8882	154.9433		FALSE	FALSE						0	10	1	n00097b	n00095d				0	0
-n00095e	Skeleton Dancer	m_standN001	n00095	-1130.958, 107.3268, 632.811	97.05973		FALSE	FALSE						1		0	n00097a	n00095e				0	0
-n00095f	Skeleton Dancer	m_standN001	n00095	-1137.247, 106.0931, 631.1636	280.6382		FALSE	FALSE						2		0	n00097b	n00095f				0	0
+n00095a	Pill Corpse	m_standN001	n00095	-1132.308, 106.2109, 647.8741	122.8537		FALSE	FALSE						0	10	1	n00097a	n00095a				0	0
+n00095b	Pill Corpse	m_standN001	n00095	-1135.659, 105.9947, 645.4432	238.8151		FALSE	FALSE						1		0	n00097b	n00095b				0	0
+n00095c	Pill Corpse	m_standN001	n00095	-1127.266, 105.6956, 648.6187	65.05406		FALSE	FALSE						2		0	n00097a	n00095c				0	0
+n00095d	Pill Corpse	m_standN001	n00095	-1132.895, 106.5106, 627.8882	154.9433		FALSE	FALSE						0	10	1	n00097b	n00095d				0	0
+n00095e	Pill Corpse	m_standN001	n00095	-1130.958, 107.3268, 632.811	97.05973		FALSE	FALSE						1		0	n00097a	n00095e				0	0
+n00095f	Pill Corpse	m_standN001	n00095	-1137.247, 106.0931, 631.1636	280.6382		FALSE	FALSE						2		0	n00097b	n00095f				0	0
 n00096a	Red Cinnabar Palace Disciple	m_standM00	c_m61	-1114.62, 97.98192, 660.334	167.6454		FALSE	FALSE		v00195				1	10	0	n00092a	n00096a				{ "LogicalNode" : [ { "QuestCondition" : "Q00020", 1, False}  ], 0} 	0
 n00096b	Red Cinnabar Palace Disciple	m_map_ec	c_m62	-1113.91, 98.15197, 656.351	36.49128		FALSE	FALSE		v00195				1	10	0	n00092b	n00096b				{ "LogicalNode" : [ { "QuestCondition" : "Q00020", 1, False}  ], 0} 	0
 n00096c	Red Cinnabar Palace Disciple	ml_idle004	c_m61	-1073.599, 104.936, 676.394	200.2604		FALSE	FALSE		v00195				1	10	0	n00092a	n00096c				{ "LogicalNode" : [ { "QuestCondition" : "Q00020", 1, False}  ], 0} 	0
@@ -2196,10 +2196,10 @@ n40078a	Red Cinnabar Palace Disciple	ml_idle004	c_m19	-527.4693, 71.553, 246.945
 n40078b	Red Cinnabar Palace Disciple	ml_idle004	c_m61	-531.86, 71.81527, 245.83	138.897		FALSE	TRUE						1	10	0	n00092a	n40052a				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
 n40078c	Red Cinnabar Palace Disciple	ml_idle004	c_m62	-525.19, 71.29234, 243.178	-110.882		FALSE	TRUE						1	10	0	n00092b	n40052b				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
 n40078d	Red Cinnabar Palace Disciple	ml_idle004	c_m61	-525.3677, 71.27, 240.1263	643.925		FALSE	TRUE						1	10	0	n00092a	n40052c				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
-n40079a	Skeleton Dancer	m_standN001	n00095	-527.7148, 71.27, 236.1844	702.11		FALSE	TRUE						1	10	0	n00097a	n40051a				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
-n40079b	Skeleton Dancer	m_standN001	n00095	-531.3433, 71.27, 236.3745	746.131		FALSE	TRUE						1	10	0	n00097b	n40051b				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
-n40079c	Skeleton Dancer	m_standN001	n00095	-534.3583, 71.27, 239.9525	788.747		FALSE	TRUE						1	10	0	n00097a	n40051c				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
-n40079d	Skeleton Dancer	m_standN001	n00095	-534.221, 71.743, 244.2108	836.13		FALSE	TRUE						1	10	0	n00097b	n40051d				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
+n40079a	Pill Corpse	m_standN001	n00095	-527.7148, 71.27, 236.1844	702.11		FALSE	TRUE						1	10	0	n00097a	n40051a				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
+n40079b	Pill Corpse	m_standN001	n00095	-531.3433, 71.27, 236.3745	746.131		FALSE	TRUE						1	10	0	n00097b	n40051b				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
+n40079c	Pill Corpse	m_standN001	n00095	-534.3583, 71.27, 239.9525	788.747		FALSE	TRUE						1	10	0	n00097a	n40051c				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
+n40079d	Pill Corpse	m_standN001	n00095	-534.221, 71.743, 244.2108	836.13		FALSE	TRUE						1	10	0	n00097b	n40051d				{ "LogicalNode" : [ { "QuestCondition" : "Q40036_03", 0, True} , { "QuestCondition" : "Q40036_04", 0, True}  ], 1} 	0
 n40080a	Wolf Barbarian Soldier	ml_idle110	c_m45	-1430.352, 228.8989, -348.1278	-72.346		FALSE	TRUE						1	27	0	n20364	n40054a				{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0
 n40080b	Wolf Barbarian Soldier	ml_idle305	c_m44	-1428.122, 228.8989, -346.2937	-93.818		FALSE	TRUE						1	27	0	n20364b	n40054b				{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0
 n40080c	Wolf Barbarian Soldier	ml_idle406	c_m42	-1429.09, 228.8989, -351.48	-64.537		FALSE	TRUE						1	27	0	n20364c	n40054c				{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0

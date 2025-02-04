@@ -958,9 +958,9 @@ BattleSchedule057	Marvelous Hand Reviving Life	Regain 20% of your own lifeforce 
 BattleSchedule058	Snake and Scorpion Beauty	Slowly poisoned, accumulating 10 points of poison each round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule058
 BattleSchedule059	Lost Step	Each round, energy recovery is reduced by 3 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule059
 BattleSchedule060	Yin Yang Wu Ji	Suffer from Yin-Yang imbalance, accumulating 10 points of internal injury each turn	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule060
-BattleSchedule061	Power of the Dried Corpse	Resurrection by Possessing Corpses, increasing damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule061
-BattleSchedule062	Power of the Corpse Cinnabar	Reanimate the dead, increase damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule062
-BattleSchedule063	Power of the Corpse Elixir	Reincarnation Through a Corpse, Damage Increased by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule063
+BattleSchedule061	The power of the Pill Corpse	Resurrection by Possessing Corpses, increasing damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule061
+BattleSchedule062	The power of the Pill Corpse	Reanimate the dead, increase damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule062
+BattleSchedule063	The power of the Pill Corpse	Reincarnation Through a Corpse, Damage Increased by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule063
 BattleSchedule064	Pause action for one round	Hidden buff, ends when unit's turn comes and all AP are spent; the buff disappears at that time	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule064
 BattleSchedule065	Anticipate the enemy's moves	Each round counterattack rate, energy dissipation rate, critical hit rate, combo rate, and feint rate increased by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule065
 BattleSchedule066	Unwilling to let go	Damage Reduction 50%	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule066
