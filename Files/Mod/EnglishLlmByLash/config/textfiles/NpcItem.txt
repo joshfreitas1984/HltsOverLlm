@@ -2482,10 +2482,10 @@ n50049c	Li Lian	m_sleep_dead001_ec		-1325.418, 164.1363, -877.3652	-43.311		FALS
 n50050	Older Brother A Jiu	ml_squat_Loop	c_m18	-1385.56, 205.4651, -900.42	170.8429		FALSE	FALSE	n5004901000	v00148				1	0	1	n20025d	n50050				{ "LogicalNode" : [ { "CheckFlagAction" : "f50054雪山連九死了：阿九", 1, 0} , { "CheckFlagAction" : "f50054雪山連九逃走：阿九", 1, 0} , { "QuestCondition" : "Q52001_01", 0, True}  ], 0} 	0
 n50050b	Older Brother A Jiu	m_sleep_dead004_ec		-1390.464, 205.4583, -894.0516	342.7347		FALSE	FALSE						1	0	0	n20025d					{ "LogicalNode" : [ { "CheckFlagAction" : "f50054雪山連九死了：阿九", 1, 1} , { "QuestCondition" : "Q52001", 1, False}  ], 0} 	0
 n50050c	Older Brother A Jiu	m_sleep_dead004_ec		-1334.879, 163.9623, -867.7208	91.924		FALSE	FALSE						1	0	0	n20025d					{ "LogicalNode" : [ { "CheckFlagAction" : "f50054雪山連九逃走：阿九", 1, 1} , { "QuestCondition" : "Q52001", 1, False}  ], 0} 	0
-n50051	Person in Black	ml_standA00		-569.322, 99.431, -1244.053	182.5526		TRUE	FALSE						1	0	0	n50011	n50051				{ "LogicalNode" : [ { "CheckFlagAction" : "f91048 看過藥鋪掌櫃夜會Movie", 1, 1}  ], 0} 	0
-n50052	Person in Black	ml_standA00		-561.351, 102.0557, -1245.724	264.6962		FALSE	FALSE						1	0	0	n50001	n50051				{ "LogicalNode" : [ { "CheckFlagAction" : "f91048 看過藥鋪掌櫃夜會Movie", 1, 1}  ], 0} 	0
-n50053	Person in Black	ml_standA00		-566.61, 102.24, -1261.06	328.9693		FALSE	FALSE						1	0	0	n50015	n50051				{ "LogicalNode" : [ { "CheckFlagAction" : "f91048 看過藥鋪掌櫃夜會Movie", 1, 1}  ], 0} 	0
-n50054	Person in Black	ml_standA00		-576.9032, 101.73, -1250.481	104.3988		FALSE	FALSE						1	0	0	n50019	n50051				{ "LogicalNode" : [ { "CheckFlagAction" : "f91048 看過藥鋪掌櫃夜會Movie", 1, 1}  ], 0} 	0
+n50051	Black Clothed Person	ml_standA00		-569.322, 99.431, -1244.053	182.5526		TRUE	FALSE						1	0	0	n50011	n50051				{ "LogicalNode" : [ { "CheckFlagAction" : "f91048 看過藥鋪掌櫃夜會Movie", 1, 1}  ], 0} 	0
+n50052	Black Clothed Person	ml_standA00		-561.351, 102.0557, -1245.724	264.6962		FALSE	FALSE						1	0	0	n50001	n50051				{ "LogicalNode" : [ { "CheckFlagAction" : "f91048 看過藥鋪掌櫃夜會Movie", 1, 1}  ], 0} 	0
+n50053	Black Clothed Person	ml_standA00		-566.61, 102.24, -1261.06	328.9693		FALSE	FALSE						1	0	0	n50015	n50051				{ "LogicalNode" : [ { "CheckFlagAction" : "f91048 看過藥鋪掌櫃夜會Movie", 1, 1}  ], 0} 	0
+n50054	Black Clothed Person	ml_standA00		-576.9032, 101.73, -1250.481	104.3988		FALSE	FALSE						1	0	0	n50019	n50051				{ "LogicalNode" : [ { "CheckFlagAction" : "f91048 看過藥鋪掌櫃夜會Movie", 1, 1}  ], 0} 	0
 n50055	Eagle Hunter A Ji	ml_standA00	c_m29	0, 0, 0	0		FALSE	FALSE		v00146				1	4	0	n50055	n50055				0	0
 n50055m1	Eagle Hunter A Ji	ml_standA00	c_m29	0, 0, 0	0		FALSE	FALSE		v00146				1	4	0	n50055	n50055				0	0
 n50055m2	Eagle Hunter A Ji	ml_standA00	c_m29	0, 0, 0	0		FALSE	FALSE		v00146				1	3,4	0	n50055	n50055				0	0
@@ -2735,30 +2735,30 @@ n52001	Mu Mansion Guard Commander	ml_stand301	c_m21	-614.2751, 66.18829, -1118.2
 n52001b	Merchant Li Chen	ml_standA00		-604.21, 66.18829, -1117.54	242.3377		FALSE	FALSE	n52001b01000		sc52001002			1	0	0	n20070b					{ "LogicalNode" : [ { "QuestCondition" : "Q52004_02", 0, True} , { "QuestCondition" : "Q52004_03", 0, True} , { "QuestCondition" : "Q52004_04", 0, True} , { "QuestCondition" : "Q52004_05", 0, True}  ], 1} 	0
 n52001c	Brother Anu Aqi	ml_standA00		-605.84, 66.18829, -1118.25	57.22005		FALSE	FALSE	n52001c01000					1	3	0	n20066b					{ "LogicalNode" : [ { "QuestCondition" : "Q52004_02", 0, True} , { "QuestCondition" : "Q52004_03", 0, True} , { "QuestCondition" : "Q52004_04", 0, True} , { "QuestCondition" : "Q52004_05", 0, True}  ], 1} 	0
 n52002a	Mu Mansion Guards	ml_idle301	c_m21	-914.0549, 72.43, -860.6887	211.3838		FALSE	FALSE		v00070				1	3	0	n20050g	n50074a				{ "LogicalNode" : [ { "CheckFlagAction" : "f50056", 0, 0} , { "QuestCondition" : "Q52005_10", 0, False}  ], 0} 	0
-n52003a	Person in Black	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52003a				0	0
-n52003a_dead	Person in Black	m_sleep_dead004_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		0	n20154	n52003a				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52001", True}  ], 0} 	0
-n52003b	Person in Black	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52003b				0	0
-n52003b_dead	Person in Black	m_sleep_dead003_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		0	n20154	n52003b				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52001", True}  ], 0} 	0
-n52003c	Person in Black	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52003c				0	0
-n52003c_dead	Person in Black	m_sleep_dead002_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		0	n20154	n52003c				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52001", True}  ], 0} 	0
-n52003d	Person in Black	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52003d				0	0
-n52003d_dead	Person in Black	m_sleep_dead001_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		0	n20154	n52003d				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52001", True}  ], 0} 	0
+n52003a	Black Clothed Person	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52003a				0	0
+n52003a_dead	Black Clothed Person	m_sleep_dead004_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		0	n20154	n52003a				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52001", True}  ], 0} 	0
+n52003b	Black Clothed Person	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52003b				0	0
+n52003b_dead	Black Clothed Person	m_sleep_dead003_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		0	n20154	n52003b				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52001", True}  ], 0} 	0
+n52003c	Black Clothed Person	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52003c				0	0
+n52003c_dead	Black Clothed Person	m_sleep_dead002_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		0	n20154	n52003c				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52001", True}  ], 0} 	0
+n52003d	Black Clothed Person	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52003d				0	0
+n52003d_dead	Black Clothed Person	m_sleep_dead001_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		0	n20154	n52003d				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52001", True}  ], 0} 	0
 n52004	Tea Customer	ml_sitLoop001		-656.925, 66.218, -1002.511	190.4517	5-19	FALSE	FALSE	n520050302000		sc52004001			1	3	0	n20107					{ "LogicalNode" : [ { "QuestCondition" : "Q52005_03", 0, True} , { "QuestCondition" : "Q52005_04", 0, True} , { "QuestCondition" : "Q52006_04", 0, True} , { "QuestCondition" : "Q52006_05", 0, True}  ], 1} 	0
 n52004a	Merchant	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	3	0	n50013					0	0
 n52005	The Karma Monastery monks	ml_standA00	c_m19	0, 0, 0	0		TRUE	FALSE	n520050501000	v00112				1	20	0	n50019					0	0
-n52005a	Person in Black	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005a				0	{ "LogicalNode" : [ { "RunMovieAction" : "m520050502"}  ], 0} 
-n52005b	Person in Black	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005b				0	0
-n52005c	Person in Black	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005c				0	0
-n52005d	Person in Black	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005d				0	0
-n52005e	Person in Black	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005e				0	0
-n52006a	Person in Black	ml_idle201	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52006a				0	0
-n52006a_dead	Person in Black	ml_die000stop	n20154	0, 0, 0	0		FALSE	FALSE						1		3	n20154	n52006a				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52002", True}  ], 0} 	0
-n52006b	Person in Black	ml_idle201	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52006b				0	0
-n52006b_dead	Person in Black	m_sleep_dead003_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		3	n20154	n52006b				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52002", True}  ], 0} 	0
-n52006c	Person in Black	ml_idle201	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52006c				0	0
-n52006c_dead	Person in Black	m_sleep_dead003_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		3	n20154	n52006c				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52002", True}  ], 0} 	0
-n52006d	Person in Black	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52006d				0	0
-n52006d_dead	Person in Black	m_sleep_dead004_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		3	n20154	n52006d				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52002", True}  ], 0} 	0
+n52005a	Black Clothed Person	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005a				0	{ "LogicalNode" : [ { "RunMovieAction" : "m520050502"}  ], 0} 
+n52005b	Black Clothed Person	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005b				0	0
+n52005c	Black Clothed Person	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005c				0	0
+n52005d	Black Clothed Person	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005d				0	0
+n52005e	Black Clothed Person	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005e				0	0
+n52006a	Black Clothed Person	ml_idle201	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52006a				0	0
+n52006a_dead	Black Clothed Person	ml_die000stop	n20154	0, 0, 0	0		FALSE	FALSE						1		3	n20154	n52006a				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52002", True}  ], 0} 	0
+n52006b	Black Clothed Person	ml_idle201	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52006b				0	0
+n52006b_dead	Black Clothed Person	m_sleep_dead003_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		3	n20154	n52006b				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52002", True}  ], 0} 	0
+n52006c	Black Clothed Person	ml_idle201	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52006c				0	0
+n52006c_dead	Black Clothed Person	m_sleep_dead003_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		3	n20154	n52006c				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52002", True}  ], 0} 	0
+n52006d	Black Clothed Person	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52006d				0	0
+n52006d_dead	Black Clothed Person	m_sleep_dead004_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		3	n20154	n52006d				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52002", True}  ], 0} 	0
 n52007	Tracking Hound	al20011@Fight Idle 01	animal11	0, 0, 0	0		FALSE	FALSE	n520050901000		sc52007001			1	4,21	1	animal11	n52007				0	0
 n52008a	Merchant	ml_standA00	c_m08	-685.8892, 66.39221, -1109.791	137.8788		FALSE	FALSE	n52008a01000	v00163				1		1	n20071c	n52008a				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_08", 0, True} , { "QuestCondition" : "Q52005_09", 0, True}  ], 1} 	0
 n52008a_talk	Rough-voiced man	ml_standA00		0, 0, 0	0		FALSE	FALSE						1		0						0	0
@@ -2771,9 +2771,9 @@ n52008d_dead	Tea Shop Helper	m_sleep_dead004_ec	c_m06	-678.399, 66.218, -1105.88
 n52009	Black-Clothed Woman	ml_standA00	n52009	-687.239, 66.39221, -1112.068	0		FALSE	TRUE	n5200901000	v00099				2		1	n52009	n52009				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_08", 0, True} , { "QuestCondition" : "Q52005_09", 0, True}  ], 1} 	0
 n52009_talk	Woman's voice	ml_standA00		0, 0, 0	0		FALSE	FALSE						2		0						0	0
 n52009m1	Qi Ruxiao	ml_standA00	n52009	0, 0, 0	0		FALSE	TRUE		v00099				2		0						0	0
-n52010a	Person in Black	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52010a				0	0
-n52010b	Person in Black	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52010b				0	0
-n52010c	Person in Black	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52010c				0	0
+n52010a	Black Clothed Person	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52010a				0	0
+n52010b	Black Clothed Person	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52010b				0	0
+n52010c	Black Clothed Person	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52010c				0	0
 n52011a_fb	Mu Mansion Spearman	ml_idle301	c_m21	-865.1369, 66.1883, -971.6693	273.2509		FALSE	FALSE		v00070				1	3	0	n20050	n52011a				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
 n52011b_fb	Mu Mansion Spearman	ml_idle301	c_m21	-862.2776, 66.1883, -959.0364	193.2904		FALSE	FALSE		v00070				1	3	0	n20050b	n52011b				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
 n52011c_fb	Mu Mansion Spearman	ml_idle301	c_m21	-871.6351, 66.1883, -940.6651	244.4398		FALSE	FALSE		v00070				1	3	0	n20050c	n52011c				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
@@ -2796,23 +2796,23 @@ n52013b_fb	White Robe Sect Monk	ml_idle001	c_m36	-884.9619, 66.18829, -944.1481	
 n52013c_sb	White Robe Sect Monk	ml_idle001	c_m38	-902.51, 66.57, -909.32	14.51242		FALSE	FALSE		v00112				1	20	0	n52017	n52013c				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 0}  ], 0} 	0
 n52013d_sb	White Robe Sect Monk	ml_idle001	c_m35	-899.897, 66.57, -908.101	327.653		FALSE	FALSE		v00112				1	20	0	n52015	n52013d				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 0}  ], 0} 	0
 n52013e	White Robe Sect Monk	ml_idle001	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52013e				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
-n52014a_fb	Person in Black	ml_idle101	n20154	-861.7189, 66.1883, -961.8896	342.7582		FALSE	FALSE		v00026				1		0	n20154	n52014a				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
-n52014b_fb	Person in Black	ml_idle101	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52014b				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
+n52014a_fb	Black Clothed Person	ml_idle101	n20154	-861.7189, 66.1883, -961.8896	342.7582		FALSE	FALSE		v00026				1		0	n20154	n52014a				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
+n52014b_fb	Black Clothed Person	ml_idle101	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52014b				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
 n52014c_sb	Shadow Assassin	ml_idle101	n20154	-893.9658, 66.57, -902.3925	301.6619		FALSE	FALSE		v00026				1		0	n20154	n52014c				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 0}  ], 0} 	0
-n52014d_fb	Person in Black	ml_idle101	n20154	-863.7915, 66.1883, -960.97	33.85171		FALSE	FALSE		v00026				1		0	n20154	n52014d				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
-n52014e_sb	Person in Black	ml_idle101	n20154	-891.67, 66.57, -903.5225	314.1852		FALSE	FALSE		v00026				1		0	n20154	n52014e				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 0}  ], 0} 	0
+n52014d_fb	Black Clothed Person	ml_idle101	n20154	-863.7915, 66.1883, -960.97	33.85171		FALSE	FALSE		v00026				1		0	n20154	n52014d				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
+n52014e_sb	Black Clothed Person	ml_idle101	n20154	-891.67, 66.57, -903.5225	314.1852		FALSE	FALSE		v00026				1		0	n20154	n52014e				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 0}  ], 0} 	0
 n52014f_fb	Shadow Assassin	ml_idle101	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52014f				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
-n52014g_fb	Person in Black	ml_idle101	n20154	-869.0963, 66.1883, -941.5916	278.9344		FALSE	FALSE		v00026				1		0	n20154	n52014g				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
-n52014h_sb	Person in Black	ml_idle101	n20154	-893.918, 66.57, -904.9905	309.7613		FALSE	FALSE		v00026				1		0	n20154	n52014h				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 0}  ], 0} 	0
+n52014g_fb	Black Clothed Person	ml_idle101	n20154	-869.0963, 66.1883, -941.5916	278.9344		FALSE	FALSE		v00026				1		0	n20154	n52014g				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True}  ], 0} 	0
+n52014h_sb	Black Clothed Person	ml_idle101	n20154	-893.918, 66.57, -904.9905	309.7613		FALSE	FALSE		v00026				1		0	n20154	n52014h				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 0}  ], 0} 	0
 n52015-2a_dead	Mu Mansion elite spearman	m_sleep_dead001_ec	c_m12	-901.4171, 66.57, -904.7343	190.7956		FALSE	FALSE						1		0	n20050f	n52012h				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
 n52015-2b_dead	Mu Mansion elite spearman	m_sleep_dead002_ec	c_m12	-896.749, 66.57, -901.032	0		FALSE	FALSE						1		0	n20050g	n52012i				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
 n52015-2c_dead	Mu Mansion elite spearman	m_sleep_dead003_ec	c_m12	-893.5563, 66.57, -908.1516	292.6728		FALSE	FALSE						1		0	n20050h	n52012j				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
 n52015-2d_dead	White Robe Sect Monk	m_sleep_dead004_ec	c_m38	-899.0401, 66.57, -911.9141	295.9304		FALSE	FALSE						1		0	n52017					{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
 n52015-2e_dead	White Robe Sect Monk	m_sleep_dead001_ec	c_m35	-894.7207, 66.57, -911.3415	176.4014		FALSE	FALSE						1		0	n52015					{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
 n52015-2f_dead	White Robe Sect Monk	m_sleep_dead002_ec	c_m36	-887.6055, 66.57, -910.4254	308.6479		FALSE	FALSE						1		0	n52016					{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
-n52015-2g_dead	Person in Black	m_sleep_dead003_ec	n20154	-891.1647, 66.57, -910.8171	121.4215		FALSE	FALSE						1		0	n20154	n52014c				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
-n52015-2h_dead	Person in Black	m_sleep_dead004_ec	n20154	-887.56, 66.57, -905.73	99.7608		FALSE	FALSE						1		0	n20154	n52014f				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
-n52015-2i_dead	Person in Black	m_sleep_dead001_ec	n20154	-890.4521, 66.57, -906.2439	12.24489		FALSE	FALSE						1		0	n20154	n52014h				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
+n52015-2g_dead	Black Clothed Person	m_sleep_dead003_ec	n20154	-891.1647, 66.57, -910.8171	121.4215		FALSE	FALSE						1		0	n20154	n52014c				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
+n52015-2h_dead	Black Clothed Person	m_sleep_dead004_ec	n20154	-887.56, 66.57, -905.73	99.7608		FALSE	FALSE						1		0	n20154	n52014f				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
+n52015-2i_dead	Black Clothed Person	m_sleep_dead001_ec	n20154	-890.4521, 66.57, -906.2439	12.24489		FALSE	FALSE						1		0	n20154	n52014h				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "CheckFlagAction" : "f52005", 1, 1}  ], 0} 	0
 n52015a_dead	Mu Mansion Spearman	m_sleep_dead001_ec	c_m21	-864.0754, 66.1883, -974.6899	331.6763		FALSE	FALSE						1	3	3	n20050	n52011a				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
 n52015b_dead	Mu Mansion Spearman	m_sleep_dead002_ec	c_m21	-868.0237, 66.1883, -967.7828	87.3931		FALSE	FALSE						1	3	3	n20050b	n52011b				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
 n52015c_dead	Mu Mansion Spearman	m_sleep_dead003_ec	c_m21	-867.15, 66.1883, -974.07	148.1958		FALSE	FALSE						1	3	3	n20050c	n52011c				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
@@ -2824,9 +2824,9 @@ n52015h_dead	Mu Mansion Spearman	m_sleep_dead004_ec	c_m21	-867.3519, 66.1883, -9
 n52015i_dead	White Robe Sect Monk	m_sleep_dead001_ec	c_m38	-866.7563, 66.1883, -963.6016	225.3645		FALSE	FALSE						1	20	3	n52017					{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
 n52015j_dead	White Robe Sect Monk	m_sleep_dead002_ec	c_m35	-860.5097, 66.1883, -958.0413	23.21348		FALSE	FALSE						1	20	3	n52015					{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
 n52015k_dead	White Robe Sect Monk	m_sleep_dead003_ec	c_m36	-858.4473, 66.1883, -966.5471	234.3591		FALSE	FALSE						1	20	3	n52016					{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
-n52015l_dead	Person in Black	m_sleep_dead002_ec	n20154	-863.296, 66.1883, -967.6555	327.6075		FALSE	FALSE						1		3	n20154	n52014a				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
-n52015m_dead	Person in Black	m_sleep_dead003_ec	n20154	-856.2601, 66.1883, -963.2556	339.1741		FALSE	FALSE						1		3	n20154	n52014b				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
-n52015n_dead	Person in Black	m_sleep_dead004_ec	n20154	-864.2969, 66.1883, -957.7035	190.5736		FALSE	FALSE						1		3	n20154	n52014b				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
+n52015l_dead	Black Clothed Person	m_sleep_dead002_ec	n20154	-863.296, 66.1883, -967.6555	327.6075		FALSE	FALSE						1		3	n20154	n52014a				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
+n52015m_dead	Black Clothed Person	m_sleep_dead003_ec	n20154	-856.2601, 66.1883, -963.2556	339.1741		FALSE	FALSE						1		3	n20154	n52014b				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
+n52015n_dead	Black Clothed Person	m_sleep_dead004_ec	n20154	-864.2969, 66.1883, -957.7035	190.5736		FALSE	FALSE						1		3	n20154	n52014b				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
 n52016	Mu Mansion Guards	ml_standA00	c_m21	0, 0, 0	0		FALSE	FALSE						1		0	n20050e	n20050e				0	0
 n52017	A Xi A Jia	ml_standA00	c_m08	0, 0, 0	0		FALSE	FALSE		v00070d				1	3	1	n20050g	n52017				0	0
 n52017b	Acong Aji	ml_standA00	c_m29	0, 0, 0	0		FALSE	FALSE		v00146				1	3,4	0	n50055	n52017b				0	0
@@ -2871,9 +2871,9 @@ n52021	Tu Le	ml_idle302	n50073	-1067.867, 122.7791, -828.8867	309.6479		FALSE	TR
 n52021_dead	Tu Le	m_kneel004stop	n50073	0, 0, 0	0		FALSE	TRUE						1	3	0	n50073					{ "LogicalNode" : [ { "QuestCondition" : "Q52006_02", 0, True} , { "QuestCondition" : "Q52006_03", 0, True}  ], 1} 	0
 n52021b-1	Mu Mansion Guards	m_sleep_dead001_ec	c_m21	-1066.13, 122.5284, -830.1	0		FALSE	FALSE						1	3	3	n20050d	n50074d				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_02", 0, True} , { "QuestCondition" : "Q52006_03", 0, True}  ], 1} 	0
 n52021b-2	Mu Mansion Guards	m_sleep_dead004_ec	c_m21	-1068.4, 123.139, -824.937	255.0782		FALSE	FALSE						1	3	3	n20050b	n50074b				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_02", 0, True} , { "QuestCondition" : "Q52006_03", 0, True}  ], 1} 	0
-n52021c-1	Person in Black	ml_idle108	n20154	-1068.23, 122.6063, -831.4836	0		FALSE	FALSE		v00026				1		0	n20154	n52021c-1				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_02", 0, True}  ], 0} 	0
-n52021c-2	Person in Black	ml_idle108	n20154	-1070.39, 123.1218, -827.3618	118.9739		FALSE	FALSE		v00026				1		0	n20154	n52021c-2				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_02", 0, True}  ], 0} 	0
-n52021c-3	Person in Black	ml_idle108	n20154	-1065.761, 122.7199, -827.2678	249.2288		FALSE	FALSE		v00026				1		0	n20154	n52021c-3				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_02", 0, True}  ], 0} 	0
+n52021c-1	Black Clothed Person	ml_idle108	n20154	-1068.23, 122.6063, -831.4836	0		FALSE	FALSE		v00026				1		0	n20154	n52021c-1				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_02", 0, True}  ], 0} 	0
+n52021c-2	Black Clothed Person	ml_idle108	n20154	-1070.39, 123.1218, -827.3618	118.9739		FALSE	FALSE		v00026				1		0	n20154	n52021c-2				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_02", 0, True}  ], 0} 	0
+n52021c-3	Black Clothed Person	ml_idle108	n20154	-1065.761, 122.7199, -827.2678	249.2288		FALSE	FALSE		v00026				1		0	n20154	n52021c-3				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_02", 0, True}  ], 0} 	0
 n52022	He Family Horse Gang Members	ml_standA00		-669.6133, 66.218, -1074.592	269.6038		FALSE	FALSE	n520060402000					1	3,18	0	n20040c					{ "LogicalNode" : [ { "QuestCondition" : "Q52006_05", 0, True}  ], 0} 	0
 n52023	Black-Clothed Woman	ml_standA00	n52009	-651.734, 113.135, -497.125	31.16478		FALSE	TRUE		v00099				2		0	n52009	n52009				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_08", 0, True}  ], 0} 	0
 n52023b	Merchant	ml_standA00	c_m08	-652.8473, 113.1483, -496.0443	52.77307		FALSE	FALSE						1		0	n20071c	n52008a				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_08", 0, True}  ], 0} 	0
@@ -3011,51 +3011,51 @@ n53010m	Wu ren	ml_standA00	c_m07	0, 0, 0	0		FALSE	FALSE		v00090				1		0	n53004	n
 n53010n	Wu ren	ml_standA00	c_m09	0, 0, 0	0		FALSE	FALSE		v00090				1		0	n53004b	n53010n				0	0
 n54001_01	Merchant	ml_standA00	c_m30	0, 0, 0	0		FALSE	FALSE						1	0	0	c_m30	n54001_01				0	0
 n54001_01_dead	Merchant	m_sleep_dead001_ec	c_m30	0, 0, 0	0		FALSE	FALSE						1	0	3	c_m30	n54001_01				0	0
-n54001_02	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54001_02				0	0
-n54001_02_dead	Person in Black	m_sleep_dead002_ec	n20154	0, 0, 0	0		FALSE	FALSE						1	0	3	n20154	n54001_02				0	0
-n54001_02b	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54001_02b				0	0
-n54001_02b_dead	Person in Black	m_sleep_dead003_ec	n20154	0, 0, 0	0		FALSE	FALSE						1	0	3	n20154	n54001_02b				0	0
-n54001_02c	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54001_02c				0	0
-n54001_02c_dead	Person in Black	m_sleep_dead004_ec	n20154	0, 0, 0	0		FALSE	FALSE						1	0	3	n20154	n54001_02c				0	0
-n54001_02d	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54001_02d				0	0
-n54001_02d_dead	Person in Black	m_sleep_dead001_ec	n20154	0, 0, 0	0		FALSE	FALSE						1	0	3	n20154	n54001_02d				0	0
-n54001_02e	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54001_02e				0	0
-n54001_02e_dead	Person in Black	m_sleep_dead002_ec	n20154	0, 0, 0	0		FALSE	FALSE						1	0	3	n20154	n54001_02e				0	0
+n54001_02	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54001_02				0	0
+n54001_02_dead	Black Clothed Person	m_sleep_dead002_ec	n20154	0, 0, 0	0		FALSE	FALSE						1	0	3	n20154	n54001_02				0	0
+n54001_02b	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54001_02b				0	0
+n54001_02b_dead	Black Clothed Person	m_sleep_dead003_ec	n20154	0, 0, 0	0		FALSE	FALSE						1	0	3	n20154	n54001_02b				0	0
+n54001_02c	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54001_02c				0	0
+n54001_02c_dead	Black Clothed Person	m_sleep_dead004_ec	n20154	0, 0, 0	0		FALSE	FALSE						1	0	3	n20154	n54001_02c				0	0
+n54001_02d	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54001_02d				0	0
+n54001_02d_dead	Black Clothed Person	m_sleep_dead001_ec	n20154	0, 0, 0	0		FALSE	FALSE						1	0	3	n20154	n54001_02d				0	0
+n54001_02e	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54001_02e				0	0
+n54001_02e_dead	Black Clothed Person	m_sleep_dead002_ec	n20154	0, 0, 0	0		FALSE	FALSE						1	0	3	n20154	n54001_02e				0	0
 n54002_01	Hunter	m_kneel 001_ec	c_m11	0, 0, 0	0		FALSE	FALSE						1	0	0	c_m11	n54002_01				0	0
 n54002_01_dead	Hunter	m_sleep_dead001_ec	c_m11	0, 0, 0	0		FALSE	FALSE	r5100201036					1	0	3	c_m11	n54002_01				0	0
-n54002_02	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54002_02				0	0
-n54002_02b	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54002_02b				0	0
-n54002_02c	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54002_02c				0	0
-n54003_01	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_01				0	0
-n54003_01a	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_01a				0	0
-n54003_01b	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_01b				0	0
-n54003_01c	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_01c				0	0
+n54002_02	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54002_02				0	0
+n54002_02b	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54002_02b				0	0
+n54002_02c	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54002_02c				0	0
+n54003_01	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_01				0	0
+n54003_01a	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_01a				0	0
+n54003_01b	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_01b				0	0
+n54003_01c	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_01c				0	0
 n54003_02	News Messenger of the Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54003_02				0	0
 n54003_03	Lan Fuyi	w_standE00	n90215	0, 0, 0	0		FALSE	TRUE						1	0	0	n20209	n90215				0	0
 n54004_01	Panther King Camp Follower	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29006	n54004_01				0	0
 n54004_01b	Panther King Camp Follower	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29007	n54004_01b				0	0
 n54004_01c	Panther King Camp Follower	ml_idle306	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29008	n54004_01c				0	0
-n54004_02	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004_02				0	0
-n54004_02b	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004_02b				0	0
-n54004_02c	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004_02c				0	0
+n54004_02	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004_02				0	0
+n54004_02b	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004_02b				0	0
+n54004_02c	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004_02c				0	0
 n54004b_01	Panther King Camp Follower	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29006	n54004b_01				0	0
 n54004b_01b	Panther King Camp Follower	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29007	n54004b_01b				0	0
 n54004b_01c	Panther King Camp Follower	ml_idle306	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29008	n54004b_01c				0	0
-n54004b_02	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004b_02				0	0
-n54004b_02b	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004b_02b				0	0
-n54004b_02c	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004b_02c				0	0
+n54004b_02	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004b_02				0	0
+n54004b_02b	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004b_02b				0	0
+n54004b_02c	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004b_02c				0	0
 n54004c_01	Panther King Camp Follower	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29006	n54004c_01				0	0
 n54004c_01b	Panther King Camp Follower	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29007	n54004c_01b				0	0
 n54004c_01c	Panther King Camp Follower	ml_idle306	c_m07	0, 0, 0	0		FALSE	FALSE						1	0	0	n29008	n54004c_01c				0	0
-n54004c_02	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004c_02				0	0
-n54004c_02b	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004c_02b				0	0
-n54004c_02c	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004c_02c				0	0
+n54004c_02	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004c_02				0	0
+n54004c_02b	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004c_02b				0	0
+n54004c_02c	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54004c_02c				0	0
 n54005_01	Mountain Demon Evil Ghost	ml_idle004	n20264	0, 0, 0	0		FALSE	FALSE						1	0	0	n29006	n54005_01				0	0
 n54005_01b	Mountain Demon Evil Ghost	ml_idle004	n20264	0, 0, 0	0		FALSE	FALSE						1	0	0	n29007	n54005_01b				0	0
 n54005_01c	Mountain Demon Evil Ghost	ml_idle004	n20264	0, 0, 0	0		FALSE	FALSE						1	0	0	n29008	n54005_01c				0	0
-n54005_02	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54005_02				0	0
-n54005_02b	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54005_02b				0	0
-n54005_02c	Person in Black	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54005_02c				0	0
+n54005_02	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54005_02				0	0
+n54005_02b	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54005_02b				0	0
+n54005_02c	Black Clothed Person	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1	0	0	n20154	n54005_02c				0	0
 n54006	Venerable Elder	ml_standA00	n50071	0, 0, 0	0		FALSE	TRUE						1	0	0	n50071	n50071				0	0
 n54006b	Lu Changji	ml_standA00	n50071	0, 0, 0	0		FALSE	TRUE						1	0	0	n50071	n50071b				0	0
 n55001	Raid Boss, Great Blade	m_sitLoop006	c_m16	-733.7253, 98.62781, -343.2814	-64.064	21-24, 0-5	TRUE	FALSE		v00007				1	0	0	n19999a	n55001				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n55001", 0.50000, 0} , { "SetTalkIdAction" : "n5500101000"}  ]} , 20.00000}  ], 0} 
@@ -4455,11 +4455,11 @@ n60176	Su Family Servant Su Xi	ml_standA00		-688.0848, 66.1883, -1046.149	71.807
 n60176b	Su Family Servant Su Xi	ml_standA00		-688.0848, 66.1883, -1046.149	71.80779		FALSE	FALSE	n6017602000	v00058	sc60176001			1	3	0	n60016		n60176b-1,n60176b-2,n60176b-3			{ "LogicalNode" : [ { "QuestCondition" : "Q60049", 0, True} , { "QuestCondition" : "Q60049", 1, True} , { "QuestCondition" : "Q60049", 2, True}  ], 1} 	0
 n60177	Charming Dream Pavilion Basket	k_standA00		-685.6332, 66.1883, -1045.222	-1045.222		FALSE	FALSE	n6017701000	v00041				3	3	0	n60215		n60177-1,n60177-2,,n60177-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f61042善人府後進入俏夢閣", 1, 0} , { "QuestCondition" : "Q60016", 2, False}  ], 0} 	0
 n60178	Black Cloak Left	m_standI00	n20154	-739.0495, 66.1883, -1074.84	0		FALSE	FALSE	n6017801038	v00026				1	0	0	n20154	n60178				{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 1, 0}  ], 0} , { "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60016", 2, True} , { "QuestCondition" : "Q60017", 1, True}  ], 1}  ], 0} 	0
-n60179	Black Figure Right	m_standI00	n20154	-740.6376, 66.1883, -1074.797	0		FALSE	FALSE	n6017801039	v00026				1	0	0	n20154	n60179				{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 1, 0}  ], 0} , { "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60016", 2, True} , { "QuestCondition" : "Q60017", 1, True}  ], 1}  ], 0} 	0
-n60180	Black A	m_standI00	n20154	-745.7434, 66.1883, -1082.424	86.43399		FALSE	FALSE		v00026				1	0	0	n20154	n60180				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
-n60181	Person in Black Yi	m_standI00	n20154	-744.6703, 66.18829, -1078.93	126.8155		FALSE	FALSE		v00026				1	0	0	n20154	n60181				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
+n60179	Black Clothed Person Right	m_standI00	n20154	-740.6376, 66.1883, -1074.797	0		FALSE	FALSE	n6017801039	v00026				1	0	0	n20154	n60179				{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 1, 0}  ], 0} , { "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60016", 2, True} , { "QuestCondition" : "Q60017", 1, True}  ], 1}  ], 0} 	0
+n60180	Black Clothed Person A	m_standI00	n20154	-745.7434, 66.1883, -1082.424	86.43399		FALSE	FALSE		v00026				1	0	0	n20154	n60180				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
+n60181	Black Clothed Person Yi	m_standI00	n20154	-744.6703, 66.18829, -1078.93	126.8155		FALSE	FALSE		v00026				1	0	0	n20154	n60181				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
 n60182	Drinking Spectators	ml_standA01		-724.6187, 66.20447, -1089.696	294.3299		FALSE	FALSE						1	0	0	n60107	n60182				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
-n60183	Person in Black Bing	m_standI00	n20154	-738.5274, 66.1883, -1079.041	206.8484		FALSE	FALSE		v00026				1	0	0	n20154	n60183				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
+n60183	Black Clothed Person Bing	m_standI00	n20154	-738.5274, 66.1883, -1079.041	206.8484		FALSE	FALSE		v00026				1	0	0	n20154	n60183				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
 n60184	Witty Person	w_standI00	c_m20	-726.97, 66.1883, -1073.72	269.8635		FALSE	FALSE	n6018401000	v00058				1	3	0	n20254	n60184	n60184-1,n60184-2,n60184-3			0	0
 n60185	Ink Client	w_standI01Loop	c_m21	-728.72, 66.1883, -1073.76	95.24757		FALSE	FALSE	n6018501000	v00059				1	3	0	n20255	n60185	n60185-1,n60185-2,n60185-3,n60185-4			0	0
 n60186-1	Lacking in conscience	ml_standA00	c_m18	-687.8125, 66.1883, -1060.326	177.969		FALSE	FALSE	n6018601000					1	0	0	n60114-2					{ "LogicalNode" : [ { "CheckFlagAction" : "f61042善人府後進入俏夢閣", 0, 0} , { "TimeCondition" : 5, 20}  ], 0} 	0
@@ -5212,9 +5212,9 @@ n80152	'Drunk Elixir Immortal' Sun Dongyuan	ml_standA00		-626.9518, 66.218, -112
 n80153	Monkey	al20024@idle01	animal24	416.0954, 72.53676, 389.0421	0		TRUE	FALSE	n8015301000					1	21	0	animal24	n80153				0	0
 n80155	Ye Family Horse Gang Members	ml_standA00	c_m09	0, 0, 0	0		FALSE	FALSE						1	19	0	n20085c	n80155				0	0
 n80156	Ye Family Horse Gang Members	ml_standA00	c_m10	0, 0, 0	0		FALSE	FALSE						1	19	0	n20085d	n80156				0	0
-n80157	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE						1	0	0	n20154	n80157				0	0
-n80158	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE						1	0	0	n20154	n80158				0	0
-n80159	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE						1	0	0	n20154	n80159				0	0
+n80157	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE						1	0	0	n20154	n80157				0	0
+n80158	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE						1	0	0	n20154	n80158				0	0
+n80159	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE						1	0	0	n20154	n80159				0	0
 n80160	Dayan Town Guardsman	ml_standA00		0, 0, 0	0		FALSE	TRUE						1	3	0	n20050	n80160				0	0
 n80161	Meat Shop Owner	ml_standA00		0, 0, 0	0		FALSE	TRUE						1	105	0	n20074	n80161				0	0
 n80162	Fur Shop Owner	ml_standA00		0, 0, 0	0		FALSE	TRUE						1	104	0	n20075	n80162				0	0
@@ -5699,36 +5699,36 @@ n90019	Rogue	ml_standA00	c_m15	-778.7532, 124.1428, 134.5528	201.1736		FALSE	FAL
 n90020	Rogue	ml_standA00	c_m16	-775.8896, 122.7821, 128.1413	46.01441		FALSE	FALSE		v00007				1	0	0	n00070h	n90020				{ "LogicalNode" : [ { "CheckFlagAction" : "f90013a 鐵小輕離家出走", 0, 0}  ], 0} 	0
 n90200	Mid-aged gentleman's voice	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	0	0						0	0
 n90201	Kong Jin	ml_standA00	n90201	0, 0, 0	0		TRUE	TRUE	n9020102051	v00024				1	0	0	n41103	n90201				0	{ "LogicalNode" : [ { "StealFailNode" : { "MultiAction" : [ { "SetTalkIdAction" : "m1000002000"}  ]} }  ], 0} 
-n90202	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90202				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90202d	Person in Black	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90203	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90203				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90203d	Person in Black	m_sleep_dead003_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90204	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90204				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90204d	Person in Black	m_sleep_dead004_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90205	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90205				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90205d	Person in Black	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90206	Person in Black	ml_standA00	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90206				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90206d	Person in Black	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90207	Person in Black	ml_standA00	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90207				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90207d	Person in Black	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90208	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90208				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90208d	Person in Black	m_sleep_dead003_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90209	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90209				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90209d	Person in Black	m_sleep_dead004_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90210	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90210				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90210d	Person in Black	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90211	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90211				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90211d	Person in Black	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90212	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90212				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90212d	Person in Black	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90213	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90213				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90213d	Person in Black	m_sleep_dead003_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90214	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90214				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90214d	Person in Black	m_sleep_dead004_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90202	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90202				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90202d	Black Clothed Person	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90203	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90203				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90203d	Black Clothed Person	m_sleep_dead003_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90204	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90204				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90204d	Black Clothed Person	m_sleep_dead004_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90205	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90205				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90205d	Black Clothed Person	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90206	Black Clothed Person	ml_standA00	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90206				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90206d	Black Clothed Person	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90207	Black Clothed Person	ml_standA00	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90207				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90207d	Black Clothed Person	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90208	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90208				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90208d	Black Clothed Person	m_sleep_dead003_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90209	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90209				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90209d	Black Clothed Person	m_sleep_dead004_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90210	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90210				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90210d	Black Clothed Person	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90211	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90211				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90211d	Black Clothed Person	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90212	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90212				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90212d	Black Clothed Person	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90213	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90213				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90213d	Black Clothed Person	m_sleep_dead003_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90214	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90214				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90214d	Black Clothed Person	m_sleep_dead004_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
 n90215	Lan Fuyi	w_standE00	n90215	0, 0, 0	0		FALSE	TRUE		v00025				2	0	0	n20209	n90215				0	0
 n90215b	Lan Fuyi	w_standE00	n90215	-740.2009, 66.1883, -1080.878	171.1449		FALSE	TRUE		v00025				2	0	0	n20209	n90215				{ "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 2, True}  ], 1} 	0
-n90216	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90216				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
-n90216d	Person in Black	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90216	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90216				{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
+n90216d	Black Clothed Person	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00026				1	0	3	n20154					{ "LogicalNode" : [ { "QuestCondition" : "Q10001", 1, False}  ], 0} 	0
 n90301	Laborer	ml_standA00		-702.5344, 66.0829, -964.696	82.42727	7-18	FALSE	FALSE	n9030101000		sc90301a			1	3	0	n90301					0	0
 n90302	Merchant	m_paperwork002a		-708.2872, 63.05096, -976.9884	0	7-18	TRUE	FALSE	n9030201000		sc90302a			1	3	0	n90302					0	0
 n90303	Office Manager	ml_standA00		-709.2648, 66.08501, -966.1961	174.2016	7-18	TRUE	FALSE						1	3	0	n90308					0	0
@@ -5781,11 +5781,11 @@ n90405t	He Ziwang	w_standG00	n90405	0, 0, 0	44.31146		TRUE	TRUE	n9040108036	v000
 n90406	Lord Dong's Guards	ml_idle001	c_m25	0, 0, 0	0		TRUE	FALSE		v00030				1	16	0	n00024c	n90406				0	0
 n90407	Lord Dong's Guards	m_sleep_dead003_ec	c_m26	0, 0, 0	0		TRUE	FALSE		v00030				1	16	0	n00024d	n90407				0	0
 n90408	Duan Family Army	ml_standA00	c_m10	0, 0, 0	0		TRUE	FALSE		v00030				1	16	0	n00024a					0	0
-n90409	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90409				0	0
-n90410	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90410				0	0
-n90411	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90411				0	0
-n90412	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90412				0	0
-n90413	Person in Black	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90413				0	0
+n90409	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90409				0	0
+n90410	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90410				0	0
+n90411	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90411				0	0
+n90412	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90412				0	0
+n90413	Black Clothed Person	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90413				0	0
 n90414	Lord Dong's Guards	m_sleep_dead001_ec	c_m05	0, 0, 0	0		TRUE	FALSE		v00030				1	16	0	n00024a	n90407				0	0
 n90415	Nanzhao soldier	ml_idle101	c_m16	0, 0, 0	269.475		FALSE	FALSE		v00170				1	0	0	n00015a	n90415				0	0
 n90415d	Nanzhao soldier	m_sleep_dead003_ec	c_m16	0, 0, 0	0		FALSE	FALSE		v00170				1	0	3	n00015a					{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t90405a 剛救出何紫菀", True}  ], 0} 	0
