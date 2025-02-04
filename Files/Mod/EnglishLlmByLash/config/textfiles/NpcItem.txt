@@ -1146,7 +1146,7 @@ n20109	Hearing Scriptures Maiden	w_sitLoop002		-713.287, 66.18829, -1001.325	192
 n20110	Listening Scripture Man	m_sitLoop004		-715.849, 66.18829, -997.939	187.2742	6-11	FALSE	TRUE	n2011001000	v00059				1	3	1	n20107b	n20110	0			{ "LogicalNode" : [ { "QuestCondition" : "Q52005", 1, False}  ], 0} 	0
 n20110b	Hearing Scriptures Maiden	w_sitLoop005		-715.849, 66.18829, -997.939	187.2743	12-19	FALSE	FALSE	n20110b01000	v00060				2	3	1	n20065e	n20110b				{ "LogicalNode" : [ { "QuestCondition" : "Q52005", 1, False}  ], 0} 	0
 n20111	Hong'er	w_worship_ec		-711.42, 66.18829, -997.31	217.0683	6-19	FALSE	TRUE	n2011101000	v00060				2	3	0	n20111		0			{ "LogicalNode" : [ { "QuestCondition" : "Q52005", 1, False}  ], 0} 	0
-n20112	Ru Bu	m_peep001Loop	c_m21	-692.641, 66.218, -1001.305	276.9744	6-19	FALSE	FALSE	n2011201000	v00059				1	3	1	n20112	n20112	0			{ "LogicalNode" : [ { "QuestCondition" : "Q52005", 1, False}  ], 0} 	0
+n20112	Lu Bu	m_peep001Loop	c_m21	-692.641, 66.218, -1001.305	276.9744	6-19	FALSE	FALSE	n2011201000	v00059				1	3	1	n20112	n20112	0			{ "LogicalNode" : [ { "QuestCondition" : "Q52005", 1, False}  ], 0} 	0
 n20113	Hua'er	k_standC00		-710.29, 66.18829, -996.7	230.4404	6-19	TRUE	TRUE	n2011301000	v00063				3	3	0	n20113		0			{ "LogicalNode" : [ { "QuestCondition" : "Q52005", 1, False}  ], 0} 	0
 n20115	Old Fisher	ml_squat_Loop		-688.92, 62.944, -971.754	97.24889		FALSE	TRUE	n2011501000	v00051				1	3	1	n20115		0			0	0
 n20116	Beggar	m_begging001		-653.9592, 66.18829, -976.0306	213.6646		TRUE	FALSE	n2011601000	v00204				1	3	0	n20116	n20143	n20116,n20116b			{ "LogicalNode" : [ { "CheckFlagAction" : "f2大研四煞", 3, 1}  ], 0} 	0
@@ -1222,7 +1222,7 @@ n20161b	Heaven's Pillar Fort Follower	ml_idle301	c_m15	0, 0, 0	0		FALSE	TRUE		v0
 n20165	Pawnshop Shopkeeper	m_paperwork002a	c_m31	-634.907, 66.648, -1046.531	28.8399		FALSE	FALSE	n2016501000	v00128				1	103	0	n20165	n20165	n20165,n20165b,n20165c		(Weapon,1)(Armor,1)(Forge,1)(Antique_Stuff,1)(Chess_Stuff,1)(Currency_Stuff,2)(Money,1)	0	0
 n20166	He Family Horse Gang Members	m_labor002		-656.225, 66.42735, -1075.971	10.63349		FALSE	FALSE	n2016601001	v00077				1	18	1	n20166		n20166,n20166b			{ "LogicalNode" : [ { "CheckFlagAction" : "f2滅禾家", 3, 1} , { "QuestCondition" : "Q20021_07", 0, False}  ], 0} 	0
 n20167	Ye Family Horse Gang Members	m_labor002		-789.871, 66.18829, -1015.669	186.2216	6-19	FALSE	FALSE	n2016701001	v00075				1	19	1	n20167	n20167	0			0	0
-n20168	Ge Ding	m_sitLoop002		-741.138, 66.34638, -1109.852	240.3121		FALSE	FALSE	n2016801000	v00055				1	0	1	n20168	n20168	0			0	0
+n20168	Jia Ding	m_sitLoop002		-741.138, 66.34638, -1109.852	240.3121		FALSE	FALSE	n2016801000	v00055				1	0	1	n20168	n20168	0			0	0
 n20169	Zi Wei	w_sitLoop002		-741.711, 66.32195, -1110.593	55.44814		FALSE	TRUE		v00214				2	3	1	n60088		0			0	0
 n20170	Wu Shi	m_standI00	c_m11	-739.596, 66.31409, -1108.809	87.99588		FALSE	TRUE	n2017001000	v00058				1	3	0	n20170	n20170	0			0	0
 n20171	Wu Shi	m_standI00	c_m13	-739.305, 66.31409, -1110.551	87.11993		FALSE	TRUE	n2017101000	v00059				1	3	0	n20171	n20171	0			0	0
