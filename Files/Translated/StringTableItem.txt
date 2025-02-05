@@ -10461,8 +10461,8 @@
   - split: 1
     text: "听闻何白芍死去的噩耗，"
     translated: "Hearing of the tragic news of He Baishao's passing,"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1082
   raw: "Final05_10	何玉蝶体认到过去所犯下的错误，"

@@ -3995,8 +3995,8 @@
   - split: 3
     text: "本待将何白芍引出，问清段思良被掳去何处，岂料南诏国杨天义将计就计，率众包围，最终带着何白芍逃走。线索再度丢失，此时段思平指示众人返回董府，与董迦罗再作商议。"
     translated: "The plan was to bring out He Baishao and ask her for the location where Duan Siliang had been kidnapped. However, unexpectedly, Yang Tianyi of Nanzhao outsmarted them with a countermove and surrounded the group with his troops, ultimately escaping with He Baishao. Once again, the clues were lost. At this point, Duan Siping instructed everyone to return to Dong's mansion to discuss further plans with Dong Jialuo"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 250
   raw: "Q20017_09	前往天龙寺	1	天龙寺金鼎禅师突然来访，告知众人段思良正被囚禁于寺中，并表示愿意替众人引开南诏国驻扎在寺中的主力，制造救出段思良的机会，亦将天龙寺传承已久的武学经典-六脉内经传与段思平，请求他代替自己守护僧众。准备万全之后，与段思平和何紫菀前往天龙寺救出段思良吧！	0	FALSE	0	730.73, 98.6, -806.44	TRUE		0		371"
@@ -4027,8 +4027,8 @@
   - split: 3
     text: "来到天龙寺之后，你和众人发现金鼎禅师惨死寺内，一切原来早已被杨天义看破，你们陷入重重包围，所幸段思平在修习天龙寺绝学后，功力大增，补足了段家指诀的不足。你和众人并肩作战，最终击溃了杨天义的人马，本以为已将杨天义逼入绝境，情况却急转直下，杨天义狠心舍弃何白芍作为脱逃的盾牌，段思平收招不及，重伤了何白芍。临死之前，何白芍将身上的绝毒秘典和天书的碎片交与你们，虽然杨天义依旧逍遥法外，但段思平和何紫菀为了报答你一路相助的恩情，同意暂缓反攻大业，与你同行继续搜索剩余的天书。"
     translated: "After arriving at Tianlong Temple, you and the others discovered that Zen Master Jin Ding had died a horrific death within the temple. It was revealed that Yang Tianyi had seen through everything long ago. You were surrounded on all sides but fortunately, Duan Siping's strength increased significantly after practicing the ultimate techniques of Tianlong Temple, making up for any deficiencies in the Duan family skills. You and the others fought side by side and ultimately defeated Yang Tianyi's forces. Although you thought you had driven Yang Tianyi to his last stand, the situation suddenly turned dire. In a cruel act, Yang Tianyi sacrificed He Baishao as a shield to escape, catching Duan Siping off guard and gravely injuring her. On her deathbed, He Baishao handed over the secret manual of ultimate poison and fragments of the Heavenly Scripture to you. Although Yang Tianyi remained at large, Duan Siping and He Ziwang agreed to delay their counter-offensive campaign as a gesture of gratitude for your assistance on this journey. They decided to accompany you in continuing the search for the remaining pieces of the Heavenly Scripture"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 252
   raw: "Q20017_11	带着何紫菀、段思平回去诱捕虹儿	1	你将紫菀误认为蛇窟苗女，以致吓跑了她心爱的大蜈蚣虹儿。如今你答应了要帮紫菀找回虹儿，唯一的办法，就是找到虹儿爱吃的腐心草引诱她出来。据紫菀所言，腐心草多生长于丛林沼泽之地，而你如今采到一株了。赶紧回去将虹儿引诱出来吧。	0	FALSE	0	-1084.305,115.8562,-1060.171	TRUE		600	(Reputation,3)	261"
@@ -9371,8 +9371,8 @@
   - split: 3
     text: "你跟随一名苗族女子前往蛇窟，不料却在蛇窟洞口遭到苗女暗算，中了「蚀心之蛊」。这位名叫「何白芍」的苗女命令你前往蛇窟深处打倒一名「大坏蛋」，并替她捉回蛇王。为了性命着想，还是乖乖听她的吩咐吧。"
     translated: "You follow a Miao woman to the snake pit, but unexpectedly get ambushed by her at the entrance of the snake pit and are affected by the Heart-Eating Poison. The Miao woman named He Baishao orders you to go deep into the snake pit to defeat a Big Bad Guy and capture the serpent king for her. For the sake of your life, it's better to obediently follow her instructions"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 586
   raw: "Q52001	玉龙雪莲花	0	你在大研镇的药铺前遇上一名纳西贵族，名为木初，下任木氏土司的继承者，他正在为木天王木得的病情烦恼着。<br>为了医治老爷的病，需要一味珍稀的药材「玉龙雪莲花」，但药铺何掌柜却说，近日来，玉龙雪山上的雪莲花数量急遽减少，怕是难以在短时间内采到…就到玉龙雪山去，找来一朵玉龙雪莲花吧！	0	FALSE	Q52001_01,Q52001_02,Q52001_03,Q52001_04	0	TRUE		0		0"

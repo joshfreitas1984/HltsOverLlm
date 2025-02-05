@@ -13975,8 +13975,8 @@
   - split: 5
     text: "何白芍(五毒掌)(蛇窟时期)(巧)"
     translated: "He Baishao (The Five Venom Fists)  (Sheku Shiqi)  (Skilled)"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1398
   raw: "n51009b	34	fm00000	n51009	nick102	何白芍(碧蛇刀法、五毒掌)(巧)	ta0046	st0079b,st0097,st0998		0	ai00000	(MajorWeapon,eq10418)	0	(HP,4454)(MaxHP,4454)(MP,2682)(MaxMP,2682)(Physique,50)(Intelligence,50)(Neigong,65)(Qinggong,75)(Fight,78)(Sword,44)(Blade,78)(Spear,44)(Arrow,44)(Short,44)(Doctor,0)(Poison,78)(Money,1000)(Madness,25)(Moral,-40)(Reputation,200)(ZOC,60)(YinAndYang,-100)	(it50201,30)	0,0	0"
@@ -13985,8 +13985,8 @@
   - split: 5
     text: "何白芍(碧蛇刀法、五毒掌)(巧)"
     translated: "He Baishao (Green Snake Blade Art, Five Poisons Palm)  (Artful)"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1399
   raw: "n51010	17	fm00000	a00001		蛇窟前男子(附带中毒状态)	ta0051	st0108b		201	ai00000	(MajorWeapon,eq10403)	1	(HP,1938)(MaxHP,1938)(MP,1238)(MaxMP,1238)(Physique,40)(Intelligence,50)(Neigong,32)(Qinggong,26)(Fight,27)(Sword,27)(Blade,49)(Spear,27)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0"

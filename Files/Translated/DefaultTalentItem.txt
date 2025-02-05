@@ -205,8 +205,8 @@
   - split: 1
     text: "何白芍(巧)(17)"
     translated: "He Baishao (Clever)  (17)"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 21
   raw: "ta0022	黃裳(六系)(48)	3	1_TalentNode000,1_TalentNode009,1_TalentNode011,1_TalentNode005,1_TalentNode023,1_TalentNode024,1_TalentNode004,2_TalentNode000,,2_TalentNode009,2_TalentNode010,2_TalentNode001,2_TalentNode023,2_TalentNode024,2_TalentNode005,3_TalentNode000,3_TalentNode010,3_TalentNode011,3_TalentNode001,3_TalentNode022,3_TalentNode023,3_TalentNode006,5_TalentNode000,5_TalentNode011,5_TalentNode012,5_TalentNode024,5_TalentNode025,5_TalentNode005,5_TalentNode001,0_TalentNode027,0_TalentNode000,0_TalentNode001,0_TalentNode028,0_TalentNode010,0_TalentNode011,0_TalentNode031,4_TalentNode000,4_TalentNode022,4_TalentNode031,4_TalentNode001,4_TalentNode020,4_TalentNode005,4_TalentNode025,4_TalentNode021,4_TalentNode004,4_TalentNode027"

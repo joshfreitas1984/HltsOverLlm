@@ -1375,8 +1375,8 @@
   - split: 2
     text: "何白芍周围2单位距离内敌军，每回合累积中毒值12点、迷惑值6点"
     translated: "Enemy units within 2-unit range of He Baishao accumulate 12 points of poison and 6 points of confusion each turn"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 87
   raw: "nick104	南诏小将	段思良周围10单位距离内每位友军，每回合开始时段思良额外提升爆击率5%		n90402	nick104"

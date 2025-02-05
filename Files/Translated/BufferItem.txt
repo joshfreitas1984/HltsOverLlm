@@ -15109,14 +15109,14 @@
   - split: 1
     text: "杨天义血量判断何白芍爆走隐藏BUFF"
     translated: "Yang Tianyi gauged how much blood He Baishao had left and predicted her hidden buff activation"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "判断血量后对何白芍附加buff"
     translated: "After assessing blood levels, apply a buff to He Baishao"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 945
   raw: "BattleSchedule046	强身蛊	以蛊术逼迫体内潜能，回复自身气血值50%，伤害增加30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule046"
@@ -15621,8 +15621,8 @@
   - split: 1
     text: "何白芍血量判断隐藏BUFF"
     translated: "He Baishao assesses blood quantity to detect hidden buffs"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "隐藏BUFF"
@@ -17995,8 +17995,8 @@
   - split: 2
     text: "何白芍周围2单位距离内敌军，每回合累积中毒值12点、迷惑值6点"
     translated: "Within a 2-unit distance from He Baishao, enemy units will accumulate 12 poison points and 6 confusion points per turn"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1125
   raw: "nick103	「铁豹银枪」	战斗时，黑豹加入战局；每回合提升自身招式伤害5%，至多50%	0	nickname	0	TRUE	0	FALSE	0	0		nick103"

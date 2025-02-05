@@ -1925,8 +1925,8 @@
   - split: 1
     text: "碧蛇刀法(巧)(何白芍)"
     translated: "Purple Snake Blade Art (Clever)  (He Baishao)"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 193
   raw: "st0097b	碧蛇刀法(巧)(何紫菀)	it30310	0	0	SkillTree089_000,SkillTree089_004,SkillTree089_006,SkillTree089_008"

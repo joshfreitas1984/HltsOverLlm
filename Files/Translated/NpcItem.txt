@@ -27285,8 +27285,8 @@
   - split: 1
     text: "何白芍"
     translated: "He Baishao"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 2729
   raw: "n51009b	何白芍	w_standG00	n51009	0, 0, 0	137.8487		FALSE	FALSE	n5100901000					2	17	0	n41042	n51009				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q51004_02\", 1, False}  ], 0} 	{ \"LogicalNode\" : [ { \"StealFailNode\" : { \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5100901003\"}  ]} }  ], 0} "
@@ -27295,8 +27295,8 @@
   - split: 1
     text: "何白芍"
     translated: "He Baishao"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 2730
   raw: "n51010	受伤的男子	m_kneel 002_ec	c_m10	-183.947, 108.243, -1103.646	111.345		FALSE	FALSE	v2006301006					1	0	1	n51010	n51010				{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2蛇窟男子消失\", 3, 1} , { \"CheckTimeBlackboardAction\" : \"f2蛇窟男子消失b\", True}  ], 1} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f2蛇窟前男子\", 1, 0} , { \"CheckTimeBlackboardAction\" : \"f2蛇窟前男子b\", True}  ], 1}  ], 0} 	0"
@@ -57745,8 +57745,8 @@
   - split: 1
     text: "何白芍"
     translated: "He Baishao"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5775
   raw: "n90404d	何白芍	w_sleep_dead002_ec	n51009	0, 0, 0	0		TRUE	TRUE		v00031				2	0	0	n41042					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 3, True} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 0, True} , { \"TeammateCondition\" : \"n51001\", True} , { \"TeammateCondition\" : \"n90405\", True}  ], 0}  ], 1} 	0"
@@ -57755,8 +57755,8 @@
   - split: 1
     text: "何白芍"
     translated: "He Baishao"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5776
   raw: "n90405	何紫菀	w_standG00	n90405	-1082.642, 115.8045, -1067.201	151.9319		TRUE	TRUE		v00032				2	0	0	n20208	n90405				{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_04\", 0, True} , { \"QuestCondition\" : \"Q20017_05\", 0, True}  ], 1} , { \"TeammateCondition\" : \"n51001\", True}  ], 0} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20017_06\", 0, True} , { \"QuestCondition\" : \"Q20017_06\", 1, True}  ], 1}  ], 1} 	0"

@@ -1051,8 +1051,8 @@
   - split: 3
     text: "何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。"
     translated: "He Baishao's sword is very light and elegant, with a copper flower as its hilt. A thin vine coils from the handle to the blade of the sword, resembling a woman's complex emotions twisted over and over again; it appears gentle and charming, yet conceals deadly intentions. Within the hollow of the copper flower lies poison juice that occasionally drips down the blade. When swung, it seems like dewdrops flying off flowers. Those struck by it will have their skin melt away, leaving them powerless in hands and feet"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 66
   raw: "eq10419	白驹	eq10419	李叹佩刀，为其师西门玉堂于李叹艺成之日赠予之稀世宝刀。刀刃利薄，刀背流畅，施展之时快、稳、灵、准犹如白驹飞奔，畅而无阻，因此得名。	104	7000	3500	TRUE	5	70	ac3a0044	15	76	76	(Blade,77)(TwoBlade,77)(BladeSword,77)	5		weapon0419	(it70110,1)(it70104,1)"
