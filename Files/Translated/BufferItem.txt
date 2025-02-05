@@ -5653,9 +5653,9 @@
   - split: 1
     text: "段家心法"
     translated: "Duan Family Martial Art"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 2
     text: "每回合减少自身所有负面状态值10%"
     translated: "Reduce all negative status values by 10% each round"
@@ -5691,9 +5691,9 @@
   - split: 2
     text: "运行段家心法时，增强段家剑法与段家指法的招式威力"
     translated: "When practicing the Duan family martial art technique, it enhances the power of Duan family sword arts and Duan family finger techniques"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 356
   raw: "buffSkillTree038_007	地行	夜叉探海、旱魃为虐的威力增强	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -10411,9 +10411,9 @@
   - split: 2
     text: "正值越高，段家指的威力越强"
     translated: "As the height increases, the power of the segment referred to by the Duan family becomes stronger"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 651
   raw: "buffSkillTree128_009	云横秦岭	阳煦山立、朝阳丹凤的威力增强	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -10443,9 +10443,9 @@
   - split: 2
     text: "狷值越高，段家指的威力越强"
     translated: "The higher the value of Jinzhi, the stronger the power referred to by the Duan family"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 653
   raw: "buffSkillTree128_012	一阳来复	施展段家指时，降低中招敌人的特技值18点	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -10459,9 +10459,9 @@
   - split: 2
     text: "施展段家指时，降低中招敌人的特技值18点"
     translated: "When Shizhan points out a member of the Duan Family, it reduces the target enemy's skill value by 18 points"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 654
   raw: "buffSkillTree129_002	佛口	佛口蛇心的消耗精力减少1点	0		0	FALSE	0	FALSE	0	0		0"
   translated: ""
@@ -13787,9 +13787,9 @@
   - split: 2
     text: "可从指尖射出剑气，段家指的攻击范围扩大"
     translated: "One can emit sword energy from the fingertips, expanding the range of attack for the Duan family's technique"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 862
   raw: "buffSkillTree190_000	辟邪大法	从敌人的侧面或背面攻击，威力大增	0	battle	0	TRUE	0	FALSE	0	0		forIcon"
   translated: ""
@@ -15109,14 +15109,14 @@
   - split: 1
     text: "杨天义血量判断何白芍爆走隐藏BUFF"
     translated: "Yang Tianyi gauged how much blood He Baishao had left and predicted her hidden buff activation"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
     flaggedGlossaryOut: ""
   - split: 2
     text: "判断血量后对何白芍附加buff"
     translated: "After assessing blood levels, apply a buff to He Baishao"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
     flaggedGlossaryOut: ""
 - lineNum: 945
   raw: "BattleSchedule046	强身蛊	以蛊术逼迫体内潜能，回复自身气血值50%，伤害增加30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule046"
@@ -15621,8 +15621,8 @@
   - split: 1
     text: "何白芍血量判断隐藏BUFF"
     translated: "He Baishao assesses blood quantity to detect hidden buffs"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
     flaggedGlossaryOut: ""
   - split: 2
     text: "隐藏BUFF"
@@ -17995,8 +17995,8 @@
   - split: 2
     text: "何白芍周围2单位距离内敌军，每回合累积中毒值12点、迷惑值6点"
     translated: "Within a 2-unit distance from He Baishao, enemy units will accumulate 12 poison points and 6 confusion points per turn"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
     flaggedGlossaryOut: ""
 - lineNum: 1125
   raw: "nick103	「铁豹银枪」	战斗时，黑豹加入战局；每回合提升自身招式伤害5%，至多50%	0	nickname	0	TRUE	0	FALSE	0	0		nick103"
@@ -18027,9 +18027,9 @@
   - split: 2
     text: "段思良周围10单位距离内每位友军，每回合开始时段思良额外提升爆击率5%"
     translated: "Duan Siliang increases Critical Hit rate by an additional 5% at the start of each round for every allied unit within a 10-unit radius"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 1127
   raw: "nick105	「名门世族」	董迦罗周围5单位距离敌军，每回合开始时降低爆击率15%	0	nickname	0	TRUE	0	FALSE	0	0		nick105"
   translated: ""

@@ -795,9 +795,9 @@
   - split: 1
     text: "段家劍法(段思平)"
     translated: "Duan Family Swordsmanship (Duan Siping)"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 80
   raw: "st0039b	段家劍法(段思良)	it30208	0	0	SkillTree036_000,SkillTree036_001,SkillTree036_002,SkillTree036_003"
   translated: ""
@@ -805,9 +805,9 @@
   - split: 1
     text: "段家劍法(段思良)"
     translated: "Duan Family Swordsmanship (Duan Siliang)"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 81
   raw: "st0039a	段家指訣(段思平)	it30904	0	0	SkillTree128_000"
   translated: ""
@@ -815,9 +815,9 @@
   - split: 1
     text: "段家指訣(段思平)"
     translated: "Secret Techniques of the Duan Family (Duan Siping)"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 82
   raw: "st0040	段家心法(段思平)	it30711	0	0	SkillTree037_000"
   translated: ""
@@ -825,9 +825,9 @@
   - split: 1
     text: "段家心法(段思平)"
     translated: "Duan family cultivation method (Duan Siping)"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 83
   raw: "st0041	孔金	it30511	0	0	SkillTree050_000,SkillTree131_000"
   translated: ""
@@ -1925,8 +1925,8 @@
   - split: 1
     text: "碧蛇刀法(巧)(何白芍)"
     translated: "Purple Snake Blade Art (Clever)  (He Baishao)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
     flaggedGlossaryOut: ""
 - lineNum: 193
   raw: "st0097b	碧蛇刀法(巧)(何紫菀)	it30310	0	0	SkillTree089_000,SkillTree089_004,SkillTree089_006,SkillTree089_008"
@@ -2455,9 +2455,9 @@
   - split: 1
     text: "天鵬刀法(百里憚赫)(巧動剛)"
     translated: "Feathered Peng's Blade Arts (Bai Li Duan He)  (Skillfully move against the firm)"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 246
   raw: "st0118b	天鵬刀法(明教教眾)(低)	it30307	0	0	SkillTree018_000,SkillTree018_002,SkillTree018_003,SkillTree018_008"
   translated: ""

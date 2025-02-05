@@ -517,15 +517,15 @@
   - split: 1
     text: "段家剑谱"
     translated: "The Sword Manual of the Duan Family"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "段家家传剑法，正大光明，端凝自重，开阖之际隐然透露出王者之气。"
     translated: "The Duan family's handed-down sword arts are upright and honorable, composed and dignified. At the moments of opening and closing, they subtly reveal a king's qi"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 33
   raw: "it30211	太白飞剑	it30211	相传为谪仙人李太白所传授之剑法。根据记载，李白施展此剑法时「掷剑入云，高数十丈，若电光下射，漫引手执鞘承之，剑透空而入，观者千百人，无不凉惊栗。」	302	5000	2500	TRUE	1	70	999999	SkillTree125	Sword	0	0	0.5	"
   translated: ""
@@ -2037,15 +2037,15 @@
   - split: 1
     text: "段家心法"
     translated: "Duan Family Martial Art"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "南诏段氏家传内功，注重内力蓄积的扎实功法，初时虽进境较慢，然而大成之后周身气脉循环不绝，吐吶之间即可汇聚浑厚真气。"
     translated: "The Nanzhao Duan family's Neigong, a solid system focusing on the accumulation of internal power, may progress slowly at first. However, once fully developed, it allows for uninterrupted flow throughout the body, enabling the gathering of profound true Qi with every exhale and inhale"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 128
   raw: "it30712	祁连山诀	it30712	相传为青藏高原的人们，为了抵御高山上的严酷气候，因此流传下来的强身健体法门。	307	2500	1250	TRUE	0	70	999999	SkillTree039	Less	0	0	0.5	"
   translated: ""
@@ -2203,9 +2203,9 @@
   - split: 3
     text: "段思平通过六脉内经获得充沛内力后，自天书上所绘经脉图像中习得的一门无上指法，原先仅能够贯注于一指之上的六脉真气，如今透过精妙的控制，能同时输入六指之中，化为六道足以削金断铁，摧石破玉的无形剑气。"
     translated: "Duan Siping, after acquiring abundant internal strength through the Six Meridians Internal Classic from the Heavenly Scriptures, mastered a supreme finger technique. Previously, the six meridian true energy could only be infused into one finger; now, with skillful control, it can be simultaneously input into all six fingers, transforming into six streams of intangible sword energy strong enough to slice through gold and cut iron, crush stone and shatter jade"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 138
   raw: "it30722	无名残本	it30722	黄裳遭逢大祸后，受凌中岳所救，此后数年一面于青城山洞中养伤，一面回忆仇家武功，苦思克制办法，至今的成果便是这部连名字也没有的秘籍。其中纪载了名为「九阴白骨爪」、「大伏魔拳法」、「飞絮劲」等神妙武学，惟其中尚有许多缺漏不足之处尚须完善。	307	20000	10000	TRUE	3	90	999999	SkillTree146	Less	0	0	-0.5	"
   translated: ""
@@ -2315,9 +2315,9 @@
   - split: 3
     text: "本为天龙寺代代相传的内功经典，却因先代天龙寺住持崇佛抑武而不再习练，功法着重修练手太阴肺经、手阳明大肠经、手少阴心经、手少阳三焦经、手厥阴心包经、手太阳小肠经等六条经脉，使六条经脉相辅相成，自体内源源不绝生成浑厚内力，恰恰与段氏家传内功行气暗合。"
     translated: "This is a classical Neigong text passed down through generations at Tianlong Temple. However, due to the former abbot's emphasis on Buddhism over martial arts, its practice was discontinued. The technique focuses on training the six meridians: Hand Taiyin Lung Meridian, Hand Yangming Large Intestine Meridian, Hand Shaoyin Heart Meridian, Hand Shaoyang Sanjiao Meridian, Hand Jueyin Pericardium Meridian, and Hand Taiyang Small Intestine Meridian. By doing so, it harmonizes these six meridians to continuously generate abundant internal power from within the body, which aligns perfectly with the Duan Family's secret internal cultivation method"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 145
   raw: "it30729	无量心法	neigong	南诏无量剑派的入门心法，虽非极精妙的内功，但做为扎功底的基础，进境虽慢，却绝不出岔子。	307	2500	1250	TRUE	0	70	999999	SkillTree192	Less	0	0	-0.5	"
   translated: ""
@@ -2523,9 +2523,9 @@
   - split: 3
     text: "段家家传步法，由行军作战发展而出，着重锻炼沉稳的体势和步伐，即使遭到对手猛攻，依然能够保持架式不崩，随时反攻。"
     translated: "The Duan family's inherited martial step technique developed from military marching and combat drills. It emphasizes training in stable posture and measured steps, ensuring that even under fierce attacks, the stance remains unbroken and ready for counterattack at any time"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 158
   raw: "it30813	觔斗法	it30813	自戏班中孙行者的科介所演变而来的轻身功夫，虽不如话本中所言那般，觔斗一翻可行十万八千里，然而若是练到深处，不但可一气飞跃大川深壑，在极端凶险的境地，亦可从容脱身。	308	5000	2500	TRUE	1	70	999999	SkillTree120	Less	0	0	0	"
   translated: ""
@@ -2613,15 +2613,15 @@
   - split: 1
     text: "段家指诀"
     translated: "Secrets of the Duan Family"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "段氏家传武学，传闻指力雄浑，不但可隔空伤敌，封穴截脉，更可救死扶伤，然而实际练至高深境界者却是寥寥无几。"
     translated: "It is said that the martial art of the Duan family possesses formidable power, capable not only of striking enemies from a distance and sealing joints to cut veins but also of reviving the dead and healing injuries. However, few have truly mastered its highest level"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 164
   raw: "it30906	药王神篇	it30906	《药王神篇》为陈之济所编写的医药手录，九成为治病救伤的医道，关于练毒施毒，种植毒草、培养毒虫之法却说得极为简略。	309	20000	10000	TRUE	3	70	999999	SkillTree161	Less	0	0	0	"
   translated: ""
@@ -2715,8 +2715,8 @@
   - split: 3
     text: "箐寨苗族镇寨圣物，其中除了记载诸般苗疆毒物的炼制方法外，更有令人闻之色变的绝学血蛊神掌和蛊惑毒人之法。血蛊嗜食人血，一经施放，便会死命钻入中蛊者七窍孔洞，从内部将受害者蚕食鲸吞；而毒人之法则是以迷幻蛊长年麻痹中蛊者身心，并以其身为巢，豢养更多蛊虫。"
     translated: "The tribal settlement of Cengzhai Miao Ethnicity is a sacred object of the village, which not only records methods for concocting various poisonous substances from Miao territory but also contains terrifying techniques such as the Blood-imbued Elixir Palm and the Ensnarement with Poisonous Spores technique. The blood-spiked elixir craves human blood; once released, it forcefully penetrates all seven openings of the victim's body, consuming them from within. Meanwhile, the ensnarement method uses hallucinogenic spores to numb both mind and body of the afflicted person for years, using their body as a nest and breeding more spores"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Qingzhai,箐寨,"
     flaggedGlossaryOut: ""
 - lineNum: 170
   raw: "it31003	碧落黄泉	it31003	石鸿图几近走火入魔之研毒心得，一说此书意谓其上穷碧落下黄泉的搜览各式毒虫毒术，对其完整性十分自豪；另说是中此书内之毒者，上穷碧落下黄泉也无人能解。	310	10000	5000	TRUE	2	70	999999	SkillTree084	Fight	0	0	-0.5	"

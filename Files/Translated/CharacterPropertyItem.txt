@@ -125,9 +125,9 @@
   - split: 5
     text: "段家军士兵(段家剑)"
     translated: "Duan Family Soldier (The Sword of the Duan Family)"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 13
   raw: "n00029	40	fm00000	a00001		绣眉(秘籍商人)	ta0092h	st0056,st0052c,st0168		0	ai00000	(MajorWeapon,eq10327)	0	(HP,6665)(MaxHP,6665)(MP,4018)(MaxMP,4018)(Physique,68)(Intelligence,50)(Neigong,128)(Qinggong,100)(Fight,140)(Sword,80)(Blade,80)(Spear,80)(Arrow,80)(Short,80)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,-100)	(it30106,1)(it30123,1)(it30220,1)(it30228,1)(it30303,1)(it30411,1)(it30412,1)(it30508,1)(it30515,1)(it30606,1)(it30612,1)(it30709,1)(it30712,1)(it30101,1)(it30217,1)(it30304,1)(it30308,1)(it30409,1)(it30518,1)(it30602,1)(it30704,1)	0,0	0"
   translated: ""
@@ -1605,9 +1605,9 @@
   - split: 5
     text: "段家军精兵(段家剑)"
     translated: "Elite soldiers (Segmented Sword) of the Duan Family Army"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 161
   raw: "n00115b	33	fm00000	a00001		段家军精兵(段家剑)	ta0091f	st0039b		0	ai00000	(MajorWeapon,eq10304)	1	(HP,4382)(MaxHP,4382)(MP,2614)(MaxMP,2614)(Physique,51)(Intelligence,50)(Neigong,66)(Qinggong,50)(Fight,43)(Sword,76)(Blade,43)(Spear,43)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,0)(Madness,-20)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0"
   translated: ""
@@ -1615,9 +1615,9 @@
   - split: 5
     text: "段家军精兵(段家剑)"
     translated: "Elite soldiers (Segmented Sword) of the Duan Family Army"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 162
   raw: "n00116a	33	fm00000	a00001		老鹰猎人(飞鹰箭诀)	ta0091c	st0068a		0	ai00000	(MajorWeapon,eq10811)	1	(HP,4090)(MaxHP,4090)(MP,2564)(MaxMP,2564)(Physique,46)(Intelligence,50)(Neigong,59)(Qinggong,59)(Fight,43)(Sword,43)(Blade,43)(Spear,43)(Arrow,43)(Short,43)(Doctor,0)(Poison,0)(Money,0)(Madness,-20)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0"
   translated: ""
@@ -13905,9 +13905,9 @@
   - split: 5
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 1391
   raw: "n51002	10	fm00000	a00001		拱石村主线卖药郎中		st0064,st0145		0	ai00000		0	(HP,1018)(MaxHP,1018)(MP,714)(MaxMP,714)(Physique,32)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,10)(Doctor,30)(Poison,30)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it30901,1)(it40101,4)(it40102,3)(it40207,2)	0,0	0"
   translated: ""
@@ -13975,8 +13975,8 @@
   - split: 5
     text: "何白芍(五毒掌)(蛇窟时期)(巧)"
     translated: "He Baishao (The Five Venom Fists)  (Sheku Shiqi)  (Skilled)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
     flaggedGlossaryOut: ""
 - lineNum: 1398
   raw: "n51009b	34	fm00000	n51009	nick102	何白芍(碧蛇刀法、五毒掌)(巧)	ta0046	st0079b,st0097,st0998		0	ai00000	(MajorWeapon,eq10418)	0	(HP,4454)(MaxHP,4454)(MP,2682)(MaxMP,2682)(Physique,50)(Intelligence,50)(Neigong,65)(Qinggong,75)(Fight,78)(Sword,44)(Blade,78)(Spear,44)(Arrow,44)(Short,44)(Doctor,0)(Poison,78)(Money,1000)(Madness,25)(Moral,-40)(Reputation,200)(ZOC,60)(YinAndYang,-100)	(it50201,30)	0,0	0"
@@ -13985,8 +13985,8 @@
   - split: 5
     text: "何白芍(碧蛇刀法、五毒掌)(巧)"
     translated: "He Baishao (Green Snake Blade Art, Five Poisons Palm)  (Artful)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
     flaggedGlossaryOut: ""
 - lineNum: 1399
   raw: "n51010	17	fm00000	a00001		蛇窟前男子(附带中毒状态)	ta0051	st0108b		201	ai00000	(MajorWeapon,eq10403)	1	(HP,1938)(MaxHP,1938)(MP,1238)(MaxMP,1238)(Physique,40)(Intelligence,50)(Neigong,32)(Qinggong,26)(Fight,27)(Sword,27)(Blade,49)(Spear,27)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0"
@@ -38005,9 +38005,9 @@
   - split: 5
     text: "段思良(段家剑、段家指)"
     translated: "Duan Siliang (Duan Family Sword, Duan Family Finger)"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 3801
   raw: "n90402b	35	fm00000	n90402	nick104	段思良(段家剑、段家指)	ta0059	st0039b,st0039a,st0999		0	ai00000	(MajorWeapon,eq10303)	0	(HP,6440)(MaxHP,6440)(MP,2642)(MaxMP,2642)(Physique,76)(Intelligence,50)(Neigong,74)(Qinggong,51)(Fight,74)(Sword,84)(Blade,57)(Spear,57)(Arrow,57)(Short,57)(Doctor,0)(Poison,0)(Money,3000)(Madness,-20)(Moral,30)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40101,3)(it40102,2)	0,0	0"
   translated: ""
@@ -38015,9 +38015,9 @@
   - split: 5
     text: "段思良(段家剑、段家指)"
     translated: "Duan Siliang (Duan Family Sword, Duan Family Pointing Finger)"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 3802
   raw: "n90403	24	fm00000	a00001	nick105	董迦罗(绵掌、含沙射影)	ta0072	st0052,st0072,st0999		0	ai00000	(MajorWeapon,eq10703)	0	(HP,3846)(MaxHP,3846)(MP,1809)(MaxMP,1809)(Physique,65)(Intelligence,50)(Neigong,48)(Qinggong,48)(Fight,58)(Sword,34)(Blade,34)(Spear,34)(Arrow,58)(Short,34)(Doctor,0)(Poison,0)(Money,4500)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it40101,3)(it40102,2)(it801058,1)	0,0	0"
   translated: ""

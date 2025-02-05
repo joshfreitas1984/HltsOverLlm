@@ -3861,15 +3861,15 @@
   - split: 1
     text: "南诏段思平"
     translated: "Segmentation Thought of Nanzhao, Duan Siping"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "你在拱石村结识了一名侠士段思平，他邀请你到他府上作客。段思平的住处位于大研镇，从拱石村沿着官道一路往西便能抵达。"
     translated: "You befriended a hero named Duan Siping in Arched Stone Village. He invited you to visit his residence, which is located in Dayan Town. To get there from Arched Stone Village, simply follow the official road heading west"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 242
   raw: "Q20017_01	前往段思平住所	1	你在拱石村结识了一名侠士段思平，他邀请你到他府上作客。段思平的住处位于大研镇，从拱石村沿着官道一路往西便能抵达。	0	FALSE	0	-746.8719,66.218,-1029.318	TRUE		600	(Reputation,3)	1"
   translated: ""
@@ -3877,15 +3877,15 @@
   - split: 1
     text: "前往段思平住所"
     translated: "Go to Duan Siping's residence"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "你在拱石村结识了一名侠士段思平，他邀请你到他府上作客。段思平的住处位于大研镇，从拱石村沿着官道一路往西便能抵达。"
     translated: "In Arched Stone Village, you met a martial artist named Duan Siping. He invited you to his residence for a visit. Duan Siping's home is located in Dayan Town; you can reach it by following the official road heading west from Arched Stone Village"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 243
   raw: "Q20017_02	在客房床上休息一晚	1	原来段思平竟是遭到南诏王追捕的叛逃将军，如今为了拯救杨氏暴政之下的南诏百姓，正筹组反攻义军，你决定将你的力量借给段思平，为了表示感谢，段家兄弟在董府准备了一间客房给你，好好睡上一觉，准备接下来的义军行动吧！	0	FALSE	0	-769.444, 75.83253, -1058.574	TRUE		300	(Reputation,1)	191"
   translated: ""
@@ -3899,9 +3899,9 @@
   - split: 3
     text: "原来段思平竟是遭到南诏王追捕的叛逃将军，如今为了拯救杨氏暴政之下的南诏百姓，正筹组反攻义军，你决定将你的力量借给段思平，为了表示感谢，段家兄弟在董府准备了一间客房给你，好好睡上一觉，准备接下来的义军行动吧！"
     translated: "It turns out that Duan Siping is the defected general being pursued by the Nanzhao king, and now he's organizing a righteous army to save the people of Nanzhao from the tyranny of the Yang regime. You've decided to lend your strength to Duan Siping. To show their gratitude, the Duan Family brothers have prepared a guest room for you at Dong Mansion. Rest well there, as you prepare for the upcoming actions of the righteous army!"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 244
   raw: "Q20017_03	在客房床上休息一晚	1	原来段思平竟是遭到南诏王追捕的叛逃将军，如今为了拯救杨氏暴政之下的南诏百姓，正筹组反攻义军，你虽然拒绝了段思平的请求，但却突然想到能够利用段思平的势力来搜集天书的情报，但该如何向段家兄弟说明，天书又该从何找起，势必得费番苦心，旅途舟车劳顿，不如先睡他一觉，让脑袋清醒一下吧。	0	FALSE	0	-769.444, 75.83253, -1058.574	TRUE		300	(Reputation,1)	191"
   translated: ""
@@ -3915,9 +3915,9 @@
   - split: 3
     text: "原来段思平竟是遭到南诏王追捕的叛逃将军，如今为了拯救杨氏暴政之下的南诏百姓，正筹组反攻义军，你虽然拒绝了段思平的请求，但却突然想到能够利用段思平的势力来搜集天书的情报，但该如何向段家兄弟说明，天书又该从何找起，势必得费番苦心，旅途舟车劳顿，不如先睡他一觉，让脑袋清醒一下吧。"
     translated: "It turns out that Duan Siping is a rebellious general pursued by the Nanzhao king. Now, to save the people of Nanzhao under Yang's tyranny, he is organizing an army for a counterattack. Although you rejected Duan Siping's request, you suddenly think about using his influence to gather information on the Heavenly Scripture. However, how should you explain this to the Duan family brothers? Where to start looking for the Heavenly Scripture, it will certainly require much thought and effort. The journey by road and water is tiring. Why not sleep first so your head can clear?"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 245
   raw: "Q20017_04	与段思平一同前往茶庄附近探听消息	1	夜半时刻，变故突起，董府竟遭遇蛇窟苗女所率领的神秘杀手袭击，虽然成功击退了杀手，但段思良却疑似遭杀手所掳，下落不明；此外，你也认出了这些杀手就是徐暇客口中，在圣堂袭击你和孔金的不赦楼，你推断不赦楼会与南诏国合作或许与天书有关，现在当以设法追查不赦楼和苗女的行踪为第一要务，城中茶楼人潮熙攘，说不定有人曾见到过那名神秘苗女。	0	FALSE	0	-656.793, 66.18829, -1008.864	TRUE		300	(Reputation,1)	1"
   translated: ""
@@ -3925,15 +3925,15 @@
   - split: 1
     text: "与段思平一同前往茶庄附近探听消息"
     translated: "To go to the tea farm nearby with Duan Siping to gather information"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "夜半时刻，变故突起，董府竟遭遇蛇窟苗女所率领的神秘杀手袭击，虽然成功击退了杀手，但段思良却疑似遭杀手所掳，下落不明；此外，你也认出了这些杀手就是徐暇客口中，在圣堂袭击你和孔金的不赦楼，你推断不赦楼会与南诏国合作或许与天书有关，现在当以设法追查不赦楼和苗女的行踪为第一要务，城中茶楼人潮熙攘，说不定有人曾见到过那名神秘苗女。"
     translated: "At midnight, an unexpected event occurred; the Dang family was attacked by assassins led by a snake pit Miao woman. Although they successfully repelled the attackers, Duan Siliang seemed to have been kidnapped and his whereabouts remained unknown. Moreover, you recognized these assassins as those from Xu Xiake's account who had previously attacked you and Kong Jin at the Holy Sanctuary; it is speculated that the Merciless Hall might be collaborating with the Nanzhao Kingdom possibly due to the Heavenly Scripture. Now, your first priority should be to track down the Merciless Hall and the Miao woman. The teahouses in the city are bustling with people; perhaps someone has seen the mysterious Miao woman"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 246
   raw: "Q20017_05	前往大研镇外森林调查苗女的目击情报	1	似乎有人目击了苗女出没于城外森林，赶紧和段思平前去一探究竟！	0	FALSE	0	-1082.642, 115.802, -1067.201	TRUE		600	(Reputation,3)	1"
   translated: ""
@@ -3947,9 +3947,9 @@
   - split: 3
     text: "似乎有人目击了苗女出没于城外森林，赶紧和段思平前去一探究竟！"
     translated: "It seems someone has spotted a Miao woman lurking in the forest outside the city. Hurry and go with Duan Siping to investigate!"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 247
   raw: "Q20017_06	追上苗女	1	根据大研镇民的情报，曾有一名苗女出没于大研镇西北方的山区，如今你发现了苗女的踪迹，快追上去吧！	0	FALSE	0	0	TRUE		1200	(Reputation,6)	1"
   translated: ""
@@ -3995,9 +3995,9 @@
   - split: 3
     text: "本待将何白芍引出，问清段思良被掳去何处，岂料南诏国杨天义将计就计，率众包围，最终带着何白芍逃走。线索再度丢失，此时段思平指示众人返回董府，与董迦罗再作商议。"
     translated: "The plan was to bring out He Baishao and ask her for the location where Duan Siliang had been kidnapped. However, unexpectedly, Yang Tianyi of Nanzhao outsmarted them with a countermove and surrounded the group with his troops, ultimately escaping with He Baishao. Once again, the clues were lost. At this point, Duan Siping instructed everyone to return to Dong's mansion to discuss further plans with Dong Jialuo"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 250
   raw: "Q20017_09	前往天龙寺	1	天龙寺金鼎禅师突然来访，告知众人段思良正被囚禁于寺中，并表示愿意替众人引开南诏国驻扎在寺中的主力，制造救出段思良的机会，亦将天龙寺传承已久的武学经典-六脉内经传与段思平，请求他代替自己守护僧众。准备万全之后，与段思平和何紫菀前往天龙寺救出段思良吧！	0	FALSE	0	730.73, 98.6, -806.44	TRUE		0		371"
   translated: ""
@@ -4011,9 +4011,9 @@
   - split: 3
     text: "天龙寺金鼎禅师突然来访，告知众人段思良正被囚禁于寺中，并表示愿意替众人引开南诏国驻扎在寺中的主力，制造救出段思良的机会，亦将天龙寺传承已久的武学经典-六脉内经传与段思平，请求他代替自己守护僧众。准备万全之后，与段思平和何紫菀前往天龙寺救出段思良吧！"
     translated: "Tianlong Temple's Zen Master Jin Ding suddenly visited and informed everyone that Duan Siliang was being detained within the temple. He expressed his willingness to distract the main forces of Nanzhao stationed at the temple, creating an opportunity to rescue Duan Siliang. He also wished to pass down Tianlong Temple's long-held martial arts classic, The Six Sinews Canon, to Duan Siping and requested that he protect the monks in his stead. Once preparations were complete, they should go with Duan Siping and He Ziwang to Tianlong Temple to rescue Duan Siliang!"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 251
   raw: "Q20017_10	穷山的碎片	1	来到天龙寺之后，你和众人发现金鼎禅师惨死寺内，一切原来早已被杨天义看破，你们陷入重重包围，所幸段思平在修习天龙寺绝学后，功力大增，补足了段家指诀的不足。你和众人并肩作战，最终击溃了杨天义的人马，本以为已将杨天义逼入绝境，情况却急转直下，杨天义狠心舍弃何白芍作为脱逃的盾牌，段思平收招不及，重伤了何白芍。临死之前，何白芍将身上的绝毒秘典和天书的碎片交与你们，虽然杨天义依旧逍遥法外，但段思平和何紫菀为了报答你一路相助的恩情，同意暂缓反攻大业，与你同行继续搜索剩余的天书。	0	FALSE	0	0	FALSE		0		301"
   translated: ""
@@ -4027,9 +4027,9 @@
   - split: 3
     text: "来到天龙寺之后，你和众人发现金鼎禅师惨死寺内，一切原来早已被杨天义看破，你们陷入重重包围，所幸段思平在修习天龙寺绝学后，功力大增，补足了段家指诀的不足。你和众人并肩作战，最终击溃了杨天义的人马，本以为已将杨天义逼入绝境，情况却急转直下，杨天义狠心舍弃何白芍作为脱逃的盾牌，段思平收招不及，重伤了何白芍。临死之前，何白芍将身上的绝毒秘典和天书的碎片交与你们，虽然杨天义依旧逍遥法外，但段思平和何紫菀为了报答你一路相助的恩情，同意暂缓反攻大业，与你同行继续搜索剩余的天书。"
     translated: "After arriving at Tianlong Temple, you and the others discovered that Zen Master Jin Ding had died a horrific death within the temple. It was revealed that Yang Tianyi had seen through everything long ago. You were surrounded on all sides but fortunately, Duan Siping's strength increased significantly after practicing the ultimate techniques of Tianlong Temple, making up for any deficiencies in the Duan family skills. You and the others fought side by side and ultimately defeated Yang Tianyi's forces. Although you thought you had driven Yang Tianyi to his last stand, the situation suddenly turned dire. In a cruel act, Yang Tianyi sacrificed He Baishao as a shield to escape, catching Duan Siping off guard and gravely injuring her. On her deathbed, He Baishao handed over the secret manual of ultimate poison and fragments of the Heavenly Scripture to you. Although Yang Tianyi remained at large, Duan Siping and He Ziwang agreed to delay their counter-offensive campaign as a gesture of gratitude for your assistance on this journey. They decided to accompany you in continuing the search for the remaining pieces of the Heavenly Scripture"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 252
   raw: "Q20017_11	带着何紫菀、段思平回去诱捕虹儿	1	你将紫菀误认为蛇窟苗女，以致吓跑了她心爱的大蜈蚣虹儿。如今你答应了要帮紫菀找回虹儿，唯一的办法，就是找到虹儿爱吃的腐心草引诱她出来。据紫菀所言，腐心草多生长于丛林沼泽之地，而你如今采到一株了。赶紧回去将虹儿引诱出来吧。	0	FALSE	0	-1084.305,115.8562,-1060.171	TRUE		600	(Reputation,3)	261"
   translated: ""
@@ -4037,9 +4037,9 @@
   - split: 1
     text: "带着何紫菀、段思平回去诱捕虹儿"
     translated: "Take He Ziwang and Duan Siping back to lure Hong'er into a trap"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "你将紫菀误认为蛇窟苗女，以致吓跑了她心爱的大蜈蚣虹儿。如今你答应了要帮紫菀找回虹儿，唯一的办法，就是找到虹儿爱吃的腐心草引诱她出来。据紫菀所言，腐心草多生长于丛林沼泽之地，而你如今采到一株了。赶紧回去将虹儿引诱出来吧。"
     translated: "You mistook Ziwan for a Snake Grotto Miao girl, causing her beloved large centipede, Hong'er, to run away in fright. Now that you've promised to help Ziwan retrieve Hong'er, the only way is to lure her out with fuxincao, a plant she loves to eat. According to Ziwan, fuxincao grows abundantly in jungle swamps, and you've managed to harvest one specimen. Hurry back and use it to entice Hong'er out"
@@ -5349,15 +5349,15 @@
   - split: 1
     text: "寻访段思良"
     translated: "Visit Duan Siliang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "段思平久久未回董府，如果有时间带他回董府看看段思良吧。"
     translated: "Duan Siping hasn't returned to the Dung family for a long time. If you have some time, please take him back to see Dung and check on Duan Siliang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 335
   raw: "Q40001_01	返回董府	1	段思平久久未回董府，如果有时间带他回董府看看段思良吧。	0	FALSE	0	-769.66,71.44,-1044.13	TRUE		0		1"
   translated: ""
@@ -5371,9 +5371,9 @@
   - split: 3
     text: "段思平久久未回董府，如果有时间带他回董府看看段思良吧。"
     translated: "Duan Siping hasn't returned to Dong Mansion for a long time. If you have the time, take him back to see Duan Siliang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 336
   raw: "Q40001_02	打听段思良的下落	1	来到董府却发现段思良不在，在董府内打听看看他的行踪吧。	0	FALSE	0	-769.66,71.44,-1044.13	TRUE		1000		301"
   translated: ""
@@ -5381,15 +5381,15 @@
   - split: 1
     text: "打听段思良的下落"
     translated: "Find out where Duan Siliang has gone"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "来到董府却发现段思良不在，在董府内打听看看他的行踪吧。"
     translated: "Upon arriving at the Dong family estate, you find that Duan Siliang is not there. Try to inquire about his whereabouts within the Dong estate"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 337
   raw: "Q40001_03	去俏梦阁找段思良	1	段思良竟然迷上去俏梦阁！？赶快去俏梦阁调查清楚吧。	0	FALSE	0	-736.73,66.12,-1112.56	TRUE		3000	(Reputation,6)	301"
   translated: ""
@@ -5397,15 +5397,15 @@
   - split: 1
     text: "去俏梦阁找段思良"
     translated: "Go to the Charming Dream Pavilion to find Duan Siliang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "段思良竟然迷上去俏梦阁！？赶快去俏梦阁调查清楚吧。"
     translated: "Duan Siliang has become infatuated with the Charming Dream Pavilion! Hurry to investigate the Charming Dream Pavilion thoroughly"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 338
   raw: "Q40002	再访段思良	0	段思平久久未回董府，很担忧胞弟段思良的近况，有时间带他回董府吧。	0	FALSE	Q40002_01,Q40002_02,Q40002_03	0	TRUE		0		1"
   translated: ""
@@ -5413,15 +5413,15 @@
   - split: 1
     text: "再访段思良"
     translated: "Visit Duan Siliang again"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "段思平久久未回董府，很担忧胞弟段思良的近况，有时间带他回董府吧。"
     translated: "Duan Siping has been away from the Dong household for a long time and is very worried about his younger brother Duan Siliang's well-being. If there's an opportunity, bring him back to the Dong family"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 339
   raw: "Q40002_01	返回董府，找罗老妈子	1	段思平久久未回董府，很担忧胞弟段思良的近况，有时间带他回董府问问与思良关系良好的罗老妈子吧。	0	FALSE		-752.2373,71.44144,-1059.651	TRUE		0		1"
   translated: ""
@@ -5435,9 +5435,9 @@
   - split: 3
     text: "段思平久久未回董府，很担忧胞弟段思良的近况，有时间带他回董府问问与思良关系良好的罗老妈子吧。"
     translated: "Duan Siping has been away from Dang Mansion for a long time and is very worried about his younger brother, Duan Siliang. Whenever there's time, take him to the mansion and ask Aunt Luo, who gets along well with Siliang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 340
   raw: "Q40002_02	打听段思良的下落	1	段思良又失踪了！赶快帮暴跳如雷的段思平找到他吧。<br>或许可以去俏梦阁找找他？	0	FALSE		-736.73,66.12,-1112.56	TRUE		1000		331"
   translated: ""
@@ -5445,15 +5445,15 @@
   - split: 1
     text: "打听段思良的下落"
     translated: "Find out where Duan Siliang has gone"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "段思良又失踪了！赶快帮暴跳如雷的段思平找到他吧。<br>或许可以去俏梦阁找找他？"
     translated: "Brother Duan Siliang has gone missing again! Hurry and help Brother Duan Siping, who is furious as if the thunder were to burst, find him<br>Perhaps we could look for him at the Charming Dream Pavilion?"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 341
   raw: "Q40002_03	带回段思良	1	段思良竟然与幽兰姑娘私奔！赶快去追他们回来吧。	0	FALSE		-696.517,66.18424,-15.96495	TRUE		3000	(Reputation,6)	331"
   translated: ""
@@ -5461,15 +5461,15 @@
   - split: 1
     text: "带回段思良"
     translated: "Bring back Duan Siliang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "段思良竟然与幽兰姑娘私奔！赶快去追他们回来吧。"
     translated: "Duan Siliang actually ran away with Miss You Lan! Hurry up and go after them to bring them back!"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 342
   raw: "Q40004	偷食妖怪	0	骆元玉久久没回老家，如果有时间带他回去看看阿姐吧。	0	FALSE	Q40004_01,Q40004_02	0	TRUE		0		1"
   translated: ""
@@ -8763,9 +8763,9 @@
   - split: 3
     text: "僧侣邓珠日前丢失了一副玉石围棋，显得相当失落。在旅行途中留意一下，也许能替他把玉石棋具给找回来。"
     translated: "The monk Duan Zhu recently lost a jade stone set of go and appeared quite disheartened. Pay attention during your travels, perhaps you can help him recover the jade stone chess pieces"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 548
   raw: "Q50013_02	在当铺交换玉石棋具	1	僧侣邓珠日前丢失了一副玉石围棋，显得相当失落。在旅行途中留意一下，也许能替他把玉石棋具给找回来。你在大研镇当铺找到一副玉石棋具，但价格不斐，替当铺掌柜带来一颗玛尼石护符交换棋具，或是付出五千钱买下它……当铺掌柜则说，噶玛寺似乎有个专刻玛尼石的石匠，也许可以前往噶玛寺碰碰运气。	0	FALSE	0	-634.907, 66.47574, -1046.531	TRUE		2400	(Reputation,12)	1"
   translated: ""
@@ -8859,9 +8859,9 @@
   - split: 3
     text: "僧侣邓珠日前丢失了一副玉石围棋，显得相当失落。在旅行途中留意一下，也许能替他把玉石棋具给找回来。总算获得围棋棋具了，将棋具带给僧侣邓珠吧！"
     translated: "The monk Duan Zhu recently lost a jade and stone set of Go pieces, which made him look quite downcast. Keep an eye out for it during your travels; maybe you can help find his missing set for him! Having obtained the Go set, please give it to Monk Duan Zhu!"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 554
   raw: "Q50013_08	完成心愿	1	僧侣邓珠日前丢失了一副玉石围棋，显得相当失落。在旅行途中留意一下，也许能替他把玉石棋具给找回来。获得玉石棋具的僧侣邓珠喜出望外，并给了你玛尼石「嘛」和几颗九转彤云丹作为回报。	0	FALSE	0	0	TRUE		2400	(Reputation,12)	1"
   translated: ""
@@ -8875,9 +8875,9 @@
   - split: 3
     text: "僧侣邓珠日前丢失了一副玉石围棋，显得相当失落。在旅行途中留意一下，也许能替他把玉石棋具给找回来。获得玉石棋具的僧侣邓珠喜出望外，并给了你玛尼石「嘛」和几颗九转彤云丹作为回报。"
     translated: "Monk Duan Zhu recently lost a set of jade stones for Go and appeared quite distraught. Keep an eye out during your travels, and you might be able to recover the jade stones for him. Upon receiving the jade stone Go set back, Monk Duan Zhu was overjoyed and rewarded you with a Mani Stone Ma and some Nine-Turn Vermilion Cloud Pills"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 555
   raw: "Q50014	必先利其器	0	僧侣兴索洛桑十分明白「工欲善其事，必先利其器」的道理，身为噶玛寺木匠的他，想要一副更加堪用的木工器具……但哪里会有卖呢？替他留意一下吧！	0	FALSE	Q50014_01,Q50014_02,Q50014_03	0	TRUE		0		1"
   translated: ""
@@ -9189,9 +9189,9 @@
   - split: 1
     text: "一个时辰内，将斋饭送给僧侣邓珠"
     translated: "Within one hour, send the fast food to monk Duan Zhu"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "噶玛寺的厨师大哥，因为助手不在，实在忙不过来，他请你将斋饭送给寺内的僧侣邓珠。记得要在一个时辰之内送到，别让斋饭凉了。"
     translated: "The head chef of Karma Monastery, Senior Brother, is swamped because his assistant isn't around. He asks you to deliver the vegetarian meal to the monk Dan Zhu inside the monastery. Make sure it arrives within an hour so that the food doesn't get cold"
@@ -9259,9 +9259,9 @@
   - split: 3
     text: "你在拱石村碰上一名卖药郎中，此郎中正遭村民围殴。替此郎中解围之时，你认识了一位名叫段思平的侠士，而你接受了段思平的邀约，两人一同前往蛇窟一探究竟。"
     translated: "You encounter a medicine-seller doctor in Arched Stone Village who is being surrounded and beaten by villagers. When you step in to help the doctor, you meet a hero named Duan Siping, and after accepting his invitation, both of you head together to investigate the snake pit"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 579
   raw: "Q51001_01	前往蛇窟	1	???	0	FALSE	0	-163.723, 106.9328, -1115.997	FALSE		300	(Reputation,1)	161"
   translated: ""
@@ -9307,9 +9307,9 @@
   - split: 3
     text: "你认识了一位名叫段思平的侠士，而你接受了段思平的邀约，两人一同前往蛇窟一探究竟。在蛇窟深处你们斩杀了蛇王，将蛇王死尸带给郎中吧！说不定能帮助郎中制作出有效的解药？"
     translated: "You met a martial artist named Duan Siping, and you accepted an invitation from him to go together to explore the Snake Den. In the depths of the Snake Den, you killed the Serpent King and brought the serpent king's corpse to the herbalist. Maybe they can use it to make an effective antidote?"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 582
   raw: "Q51001_04	回拱石村找卖药郎中	1	你认识了一位名叫段思平的侠士，而你接受了段思平的邀约，两人一同前往蛇窟一探究竟。在蛇窟深处你们遇到一名苗族女子，并将蛇王让给她处置。既然解决了蛇患的根源，回拱石村告知郎中这个好消息吧！	0	FALSE	0	-26.32459, 126.4755, -1027.296	TRUE		1200	(Reputation,6)	1"
   translated: ""
@@ -9323,9 +9323,9 @@
   - split: 3
     text: "你认识了一位名叫段思平的侠士，而你接受了段思平的邀约，两人一同前往蛇窟一探究竟。在蛇窟深处你们遇到一名苗族女子，并将蛇王让给她处置。既然解决了蛇患的根源，回拱石村告知郎中这个好消息吧！"
     translated: "You have met a swordsman named Duan Siping, and you accepted his invitation. Together, you went to explore the Snake Pit. In the depths of the Snake Pit, you encountered a Miao woman and allowed her to handle the Serpent King. Since you resolved the root cause of the snake plague, return to Arched Stone Village and inform the doctor about this good news!"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 583
   raw: "Q51004	苗族之女与蛇窟之王	0	拱石村遭遇蛇患，一名侠士决心前往蛇窟除害。然而，你无意中瞥见一名苗族女子跟踪侠士而去，你的直觉告诉你，若前往蛇窟，也许能遭遇有趣的事。	0	FALSE	Q51004_01,Q51004_02,Q51004_03	0	TRUE		0		0"
   translated: ""
@@ -9371,8 +9371,8 @@
   - split: 3
     text: "你跟随一名苗族女子前往蛇窟，不料却在蛇窟洞口遭到苗女暗算，中了「蚀心之蛊」。这位名叫「何白芍」的苗女命令你前往蛇窟深处打倒一名「大坏蛋」，并替她捉回蛇王。为了性命着想，还是乖乖听她的吩咐吧。"
     translated: "You follow a Miao woman to the snake pit, but unexpectedly get ambushed by her at the entrance of the snake pit and are affected by the Heart-Eating Poison. The Miao woman named He Baishao orders you to go deep into the snake pit to defeat a Big Bad Guy and capture the serpent king for her. For the sake of your life, it's better to obediently follow her instructions"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
     flaggedGlossaryOut: ""
 - lineNum: 586
   raw: "Q52001	玉龙雪莲花	0	你在大研镇的药铺前遇上一名纳西贵族，名为木初，下任木氏土司的继承者，他正在为木天王木得的病情烦恼着。<br>为了医治老爷的病，需要一味珍稀的药材「玉龙雪莲花」，但药铺何掌柜却说，近日来，玉龙雪山上的雪莲花数量急遽减少，怕是难以在短时间内采到…就到玉龙雪山去，找来一朵玉龙雪莲花吧！	0	FALSE	Q52001_01,Q52001_02,Q52001_03,Q52001_04	0	TRUE		0		0"
@@ -16101,15 +16101,15 @@
   - split: 1
     text: "段家小将"
     translated: "Young Swordsman of the Duan Family"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "段思平的胞弟段思良对你的武艺颇感兴趣，如果有时间可以在董府和他比试一番。"
     translated: "Duan Siping's younger brother, Duan Siliang, is quite interested in your martial arts skills. If you have the time, he would like to spar with you at Dong Mansion"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 1007
   raw: "Q90006_01	与段思良切磋武艺	1	段思平的胞弟段思良对你的武艺颇感兴趣，如果有时间可以在董府和他比试一番。	0	FALSE	0	0	TRUE		1200	(Reputation,6)	171"
   translated: ""
@@ -16117,15 +16117,15 @@
   - split: 1
     text: "与段思良切磋武艺"
     translated: "Practice martial arts with Brother Duan Siliang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "段思平的胞弟段思良对你的武艺颇感兴趣，如果有时间可以在董府和他比试一番。"
     translated: "Duan Siping's younger brother, Duan Siliang, is quite interested in your martial arts skills. If you have time, you can spar with him at the Dong family"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 1008
   raw: "Q90007	白发女鬼	0	卧龙村的孩子说，西南边的破庙闹鬼了，是个有满头白发的女鬼，在子时前往就能遇到。	0	FALSE	Q90007_01	0	TRUE		0		0"
   translated: ""

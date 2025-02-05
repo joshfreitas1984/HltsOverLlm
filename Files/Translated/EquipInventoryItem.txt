@@ -587,9 +587,9 @@
   - split: 3
     text: "段家祖传的宝剑，气韵凝重，形式端严，隐约透露出一股王者气象。"
     translated: "The ancestral sword of the Duan Family exudes a profound and solemn qi, with an elegant form that subtly conveys a regal aura"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 37
   raw: "eq10324	紫炁剑	eq10324	一世富贵老太爷陈昊天之配剑，剑身古朴，靠近剑柄处由古金包饰，入手略沉。可能是由酒庄前人所造，代代流传，本代由陈昊天继承。	103	10000	5000	TRUE	3	80	ac3a0046	44	90	90	(Sword,205)(TwoSword,205)(BladeSword,205)	3		0	(it70110,1)(it70113,1)"
   translated: ""
@@ -1051,8 +1051,8 @@
   - split: 3
     text: "何白芍所配苗刀，极是轻巧，以铜花为萼，一丝细藤自剑柄缠绕至剑身，似女子情愫千回百转，看似温婉动人，实则暗藏杀机，铜花萼中暗含毒汁，不时沿剑身流下，挥动之时有若花露飞溅，中者肌肤溃烂，手足无力。"
     translated: "He Baishao's sword is very light and elegant, with a copper flower as its hilt. A thin vine coils from the handle to the blade of the sword, resembling a woman's complex emotions twisted over and over again; it appears gentle and charming, yet conceals deadly intentions. Within the hollow of the copper flower lies poison juice that occasionally drips down the blade. When swung, it seems like dewdrops flying off flowers. Those struck by it will have their skin melt away, leaving them powerless in hands and feet"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
     flaggedGlossaryOut: ""
 - lineNum: 66
   raw: "eq10419	白驹	eq10419	李叹佩刀，为其师西门玉堂于李叹艺成之日赠予之稀世宝刀。刀刃利薄，刀背流畅，施展之时快、稳、灵、准犹如白驹飞奔，畅而无阻，因此得名。	104	7000	3500	TRUE	5	70	ac3a0044	15	76	76	(Blade,77)(TwoBlade,77)(BladeSword,77)	5		weapon0419	(it70110,1)(it70104,1)"
@@ -3845,15 +3845,15 @@
   - split: 1
     text: "段家军装"
     translated: "Uniform of the Duan Family Army"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
   - split: 3
     text: "穿上它，你忍不住也想跳上屋顶，放声吶喊「誓死效忠段将军」。"
     translated: "Once you put it on, you can't help but want to jump onto the roof and shout Swear eternal allegiance to General Duan!"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 241
   raw: "eq20158	狼蛮军装	eq20158	一般狼蛮军人所穿着之服饰，穿上它不会让你比较凶恶。	203	800	400	TRUE	0	50	player032	1	0	0		0		0	"
   translated: ""

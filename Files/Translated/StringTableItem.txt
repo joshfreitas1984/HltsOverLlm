@@ -1799,9 +1799,9 @@
   - split: 1
     text: "南诏段氏"
     translated: "The Duan family of Nanzhao"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 184
   raw: "Area17	箐寨"
   translated: ""
@@ -1809,8 +1809,8 @@
   - split: 1
     text: "箐寨"
     translated: "Thicket Fort"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Qingzhai,箐寨,"
     flaggedGlossaryOut: ""
 - lineNum: 185
   raw: "Area18	禾家马帮"
@@ -10381,9 +10381,9 @@
   - split: 1
     text: "段思平与南诏诸族所组成的义军，"
     translated: "Duan Siping and the various tribes of Nanzhao formed a militia"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 1074
   raw: "Final05_02	一路势如破竹，攻破南诏王都洱城，"
   translated: ""
@@ -10411,9 +10411,9 @@
   - split: 1
     text: "而后段思平登基为帝，创立大理国，"
     translated: "Then Duan Siping ascended to the throne and established the Dai Kingdom"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 1077
   raw: "Final05_05	致力改善南诏诸族的生活，"
   translated: ""
@@ -10451,9 +10451,9 @@
   - split: 1
     text: "段思平于城中修建天龙寺，命段家子孙世代供奉。"
     translated: "Duan Siping built Tianlong Temple in the city and decreed that the Duan family descendants would worship there for generations"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: ""
+    flaggedGlossaryOut: "Duan,段某,"
 - lineNum: 1081
   raw: "Final05_09	听闻何白芍死去的噩耗，"
   translated: ""
@@ -10461,8 +10461,8 @@
   - split: 1
     text: "听闻何白芍死去的噩耗，"
     translated: "Hearing of the tragic news of He Baishao's passing,"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baishou,白芍,"
     flaggedGlossaryOut: ""
 - lineNum: 1082
   raw: "Final05_10	何玉蝶体认到过去所犯下的错误，"
@@ -10471,8 +10471,8 @@
   - split: 1
     text: "何玉蝶体认到过去所犯下的错误，"
     translated: "He Yu die realized her past mistakes"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "He Yudie,何玉蝶,"
     flaggedGlossaryOut: ""
 - lineNum: 1083
   raw: "Final05_11	决定将领导箐寨的权力和重任下放给多名箐寨族人。"
@@ -10481,8 +10481,8 @@
   - split: 1
     text: "决定将领导箐寨的权力和重任下放给多名箐寨族人。"
     translated: "Decide to delegate the authority and responsibility of leading the mountain stronghold to multiple people from the mountain stronghold clan"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Qingzhai,箐寨,"
     flaggedGlossaryOut: ""
 - lineNum: 1084
   raw: "Final05_12	何紫菀在作为继任族长之余，"
