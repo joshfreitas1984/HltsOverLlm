@@ -1808,9 +1808,9 @@
   splits:
   - split: 1
     text: "箐寨"
-    translated: "Thicket Fort"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Qingzhai,箐寨,"
+    translated: "Qingzhai"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 185
   raw: "Area18	禾家马帮"
@@ -10470,9 +10470,9 @@
   splits:
   - split: 1
     text: "何玉蝶体认到过去所犯下的错误，"
-    translated: "He Yu die realized her past mistakes"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "He Yudie,何玉蝶,"
+    translated: "He Yudie realized their past mistakes"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1083
   raw: "Final05_11	决定将领导箐寨的权力和重任下放给多名箐寨族人。"
@@ -10480,9 +10480,9 @@
   splits:
   - split: 1
     text: "决定将领导箐寨的权力和重任下放给多名箐寨族人。"
-    translated: "Decide to delegate the authority and responsibility of leading the mountain stronghold to multiple people from the mountain stronghold clan"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Qingzhai,箐寨,"
+    translated: "The decision has been made to delegate the authority and responsibility of leading Qingzhai to multiple members of the Qingzhai tribe"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1084
   raw: "Final05_12	何紫菀在作为继任族长之余，"
