@@ -22,7 +22,7 @@ public class LineValidation
     public static string CleanupNamesResult(string input)
     {
         var result = input;
-        string[] replacements = ["Senior Brother", "Senior", "Brother", "Young Master", "Young Hero"];
+        string[] replacements = ["Elder Brother", "Senior Brother", "Senior", "Brother", "Young Master", "Young Hero"];
 
         result = result
             .Replace("{Name_1}", "{name_1}")
