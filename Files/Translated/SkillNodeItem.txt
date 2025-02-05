@@ -4277,15 +4277,15 @@
   - split: 1
     text: "段家心法"
     translated: "Duan Family Martial Art"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
   - split: 2
     text: "运行段家心法，每回合减少自身所有负面状态值10%"
     translated: "Activate Duan Family Mind Technique, reducing all negative status effects by 10% each turn"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 268
   raw: "SkillTree037_001	纯阳内功		4000	skillIcon007_5	[]	PropertyAdd	(Neigong,4)(YinAndYang,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -4315,9 +4315,9 @@
   - split: 2
     text: "运行段家心法，每回合减少自身所有负面状态值20%"
     translated: "Activate Duan Family Technique, reducing all negative status values by 20% each turn"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 270
   raw: "SkillTree037_003	纯阳内功		4000	skillIcon007_5	[]	PropertyAdd	(Neigong,4)(YinAndYang,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	"
   translated: ""
@@ -4395,9 +4395,9 @@
   - split: 2
     text: "运行段家心法时，增强其利断金、风雨同舟与截脉指的招式威力"
     translated: "When operating the Duan family martial art, enhance the power of its techniques: Li Duan Jin (Cuts Through Metal), Feng Yu Tong Zhou (Winds and Rains Together in a Boat), and Jie Mai Zhi (Severing Veins Finger)"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 275
   raw: "SkillTree037_008	内功修为		3000	skillIcon007_5	null	PropertyAdd	(Neigong,3)	0		0	0	Ally			Target	0	buffSkillTree037_008	FALSE	0	None	0	0	"
   translated: ""
@@ -22507,9 +22507,9 @@
   - split: 2
     text: "运行六脉流转时，可从指尖射出剑气，段家指的攻击范围扩大"
     translated: "When operating the Six Pulse Flow, a sword aura can be emitted from the fingertips, and the attack range of the Duan family's technique is expanded"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 1407
   raw: "SkillTree189_000	移魂大法	有机率能控制敌人3个回合，内功差距越大，成功率越高，同一时间至多控制1人	12000	SkillTree174	[]	Active		0	skill_wp0a053	7	500	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0	buffSkillTree174_003	FALSE	250	Other	0	SkillTree174_enemy	"
   translated: ""

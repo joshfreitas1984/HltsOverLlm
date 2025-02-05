@@ -5675,9 +5675,9 @@
   - split: 3
     text: "由金鼎禅师交给段思平的天龙寺失传绝学，其上所记载的剑法与经脉运行之法天马行空，艰涩难习，却似乎与段氏所修习的武学暗合，若与段氏家传武学一同修习或可收到奇效。"
     translated: "Delivered to Duan Siping by Zen Master Jin Ding, the lost ultimate art of Tianlong Temple is written with sword art and methods for running meridians in a free-spirited manner. It is difficult and complex to learn but seems to resonate with the martial arts practiced by the Duan Family. If studied alongside the Duan Family's family martial arts, it may yield extraordinary results"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 355
   raw: "it801046	巧匠令	it801046	一个神秘的竹简。	801	0	0	FALSE	0	50	0	0	0		1			{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n8013001000\"} ]}"
   translated: ""
@@ -5819,9 +5819,9 @@
   - split: 3
     text: "一副以玉石雕刻而成的围棋棋具，价值不斐。似乎是噶玛寺僧侣邓珠的失物。"
     translated: "A set of Go pieces carved from jade, valued highly. It seems to be a lost item of the monk Duan Zhu from Karma Monastery"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 364
   raw: "it801056	一把老旧的纸伞	it801056	一把看起来有点历史的纸伞，也许大研镇里会有人知道它的来历？	801	0	0	FALSE	0	50	0	0	0		0			0"
   translated: ""

@@ -587,9 +587,9 @@
   - split: 3
     text: "段家祖传的宝剑，气韵凝重，形式端严，隐约透露出一股王者气象。"
     translated: "The ancestral sword of the Duan Family exudes a profound and solemn qi, with an elegant form that subtly conveys a regal aura"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 37
   raw: "eq10324	紫炁剑	eq10324	一世富贵老太爷陈昊天之配剑，剑身古朴，靠近剑柄处由古金包饰，入手略沉。可能是由酒庄前人所造，代代流传，本代由陈昊天继承。	103	10000	5000	TRUE	3	80	ac3a0046	44	90	90	(Sword,205)(TwoSword,205)(BladeSword,205)	3		0	(it70110,1)(it70113,1)"
   translated: ""
@@ -3845,15 +3845,15 @@
   - split: 1
     text: "段家军装"
     translated: "Uniform of the Duan Family Army"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
   - split: 3
     text: "穿上它，你忍不住也想跳上屋顶，放声吶喊「誓死效忠段将军」。"
     translated: "Once you put it on, you can't help but want to jump onto the roof and shout Swear eternal allegiance to General Duan!"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 241
   raw: "eq20158	狼蛮军装	eq20158	一般狼蛮军人所穿着之服饰，穿上它不会让你比较凶恶。	203	800	400	TRUE	0	50	player032	1	0	0		0		0	"
   translated: ""

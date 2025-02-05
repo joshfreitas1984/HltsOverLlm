@@ -1391,9 +1391,9 @@
   - split: 2
     text: "段思良周围10单位距离内每位友军，每回合开始时段思良额外提升爆击率5%"
     translated: "Within a 10-unit radius, each friendly unit around Duan Siliang gains an additional 5% critical hit rate at the start of their turn"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 88
   raw: "nick105	名门世族	董迦罗周围5单位内距离敌军，每回合开始时降低爆击率15%		n90403	nick105"
   translated: ""

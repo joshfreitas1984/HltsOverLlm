@@ -665,9 +665,9 @@
   - split: 1
     text: "段家军士兵"
     translated: "Duan Family Soldier"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 67
   raw: "n00024b	段家军士兵	ml_standA00		725.8564, 98.76268, -806.4136	0		TRUE	FALSE	n0002402000					1	16	0	n00024b	n00024	n00024b1,n00024b2			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00001\", 1, 1}  ], 0} 	0"
   translated: ""
@@ -675,9 +675,9 @@
   - split: 1
     text: "段家军士兵"
     translated: "Duan Family Soldier"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 68
   raw: "n00024c	段家军士兵	m_mapFloor_ec		736.423, 98.76141, -843.764	205.8301		FALSE	FALSE	n0002404000					1	16	0	n00024c	n00024	n00024c1,n00024c2			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00001\", 1, 1}  ], 0} 	0"
   translated: ""
@@ -685,9 +685,9 @@
   - split: 1
     text: "段家军士兵"
     translated: "Duan Family Soldier"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 69
   raw: "n00024d	段家军士兵	m_mapFloor_ec		738.156, 98.76141, -843.852	172.9442		FALSE	FALSE	n0002404000					1	16	0	n00024d	n00024	n00024d1,n00024d2			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00001\", 1, 1}  ], 0} 	0"
   translated: ""
@@ -695,9 +695,9 @@
   - split: 1
     text: "段家军士兵"
     translated: "Duan Family Soldier"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 70
   raw: "n00025	伪段思平	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	16	0	n51001	n51001				0	0"
   translated: ""
@@ -705,9 +705,9 @@
   - split: 1
     text: "伪段思平"
     translated: "Pretend Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 71
   raw: "n00026	值守院生	ml_standA00		79.54, 138.946, 973.67	223.4536	8-21	TRUE	FALSE	n0002601000	v00172				1	24	0	n00026	n00000a				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00008\", 2, 2}  ], 0} 	0"
   translated: ""
@@ -3695,9 +3695,9 @@
   - split: 1
     text: "段家军精兵"
     translated: "Duan Family Elite Troops"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 370
   raw: "n00115b	段家军精兵	ml_standA00	c_m22	0, 0, 0	0		FALSE	FALSE						1	0	0	n00115b	n00115b				0	0"
   translated: ""
@@ -3705,9 +3705,9 @@
   - split: 1
     text: "段家军精兵"
     translated: "Duan Family Elite Troops"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 371
   raw: "n00116a	老练鹰猎人	ml_standA00	c_m26	0, 0, 0	0		FALSE	FALSE		v00149				1	0	0	n00116a	n00116a				0	0"
   translated: ""
@@ -4775,9 +4775,9 @@
   - split: 1
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 478
   raw: "n07019	漆笑儿	w_standB00	n60040	176.905, 105.7365, -57.60626	266.0056		FALSE	TRUE	n0701901000	v00035				2	0	1	n60040	n60040				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60040\", False} , { \"QuestCondition\" : \"Q07004\", 0, True} , { 100 : 110, 0, 0, \"player\"} , { \"QuestCondition\" : \"Q60016\", 2, False} , { \"CheckFlagAction\" : \"f69014-2藍拂衣不給圖\", 1, 0}  ], 0} 	0"
   translated: ""
@@ -17175,9 +17175,9 @@
   - split: 1
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 1718
   raw: "n20576	何紫菀	w_standG00	n90405	0, 0, 0	0		FALSE	TRUE						2	0	0	n20208	n90405				0	0"
   translated: ""
@@ -27155,9 +27155,9 @@
   - split: 1
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 2716
   raw: "n51001_teammate	段思平	ml_standA00	n51001	14.869, 130.8138, -1042.508	263.6574		TRUE	TRUE	n51001_teammate000	v00027				1	16	0	n51001	n51001				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n51001\", False} , { \"CheckFlagAction\" : \"f90401 蝦米與董少復合\", 1, 0} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q51001\", 0, True} , { \"QuestCondition\" : \"Q51001\", 1, True} , { \"CheckFlagAction\" : \"f2段思平拱石村入隊\", 1, 1}  ], 1}  ], 0} 	0"
   translated: ""
@@ -27165,9 +27165,9 @@
   - split: 1
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 2717
   raw: "n51001a	段思平	ml_standA00	n51001	-165.6412, 107.2937, -1113.73	323.5439		FALSE	TRUE		v00027				1	0	0	n51001	n51001				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f51001郎中事件：是否將蛇王給了何白芍？\", 1, 1} , { \"CheckFlagAction\" : \"f51001郎中事件：何白芍事件是否結束？\", 1, 0}  ], 0} 	0"
   translated: ""
@@ -27175,9 +27175,9 @@
   - split: 1
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 2718
   raw: "n51001b	段思平	ml_standA00	n51001	-159.4917, 89.3868, -1121.77	199.9954		FALSE	FALSE		v00027				1	0	0	n51001	n51001				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q51004_02\", 0, True}  ], 0} 	0"
   translated: ""
@@ -27185,9 +27185,9 @@
   - split: 1
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 2719
   raw: "n51001c	段思平	ml_standA00	n51001	0, 0, 0	0		FALSE	TRUE						1		0	n51001	n51001				0	0"
   translated: ""
@@ -27195,9 +27195,9 @@
   - split: 1
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 2720
   raw: "n51002	卖药郎中	m_standJ00		9.116211, 130.8138, -1048.177	0		FALSE	TRUE	n5100201000	v00023				1	107	0	n40001	n51002				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f62022和梅紅綺說過話\", 0, 0} , { \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f2郎中走向客棧\", True} , { \"CheckFlagAction\" : \"f51001郎中事件：是否出手相助？\", 1, 0}  ], 1} , { \"QuestCondition\" : \"Q51001_01\", 1, False} , { \"QuestCondition\" : \"Q51004_02\", 1, False}  ], 0} 	0"
   translated: ""
@@ -56575,9 +56575,9 @@
   - split: 1
     text: "阿短"
     translated: "Ai Duan"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 5658
   raw: "n88882	阿海	al20037@idle	animal41	-174.6477, 68.24284, -806.1334	111.7047		TRUE	FALSE	n8887901003					1	21	0	animal41	n88882				0	0"
   translated: ""
@@ -57645,9 +57645,9 @@
   - split: 1
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 5765
   raw: "n90401m	段思平	ml_standA00	n51001	0, 0, 0	0		TRUE	TRUE	n9040108000	v00027				1	16	0	n51001	n51001				0	0"
   translated: ""
@@ -57655,9 +57655,9 @@
   - split: 1
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 5766
   raw: "n90401t	段思平	ml_standA00	n51001	-784.1807, 71.72147, -1047.849	325.1941		TRUE	TRUE	n9040108000	v00027				1	16	0	n51001	n51001				{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n51001\", False} , { \"CheckFlagAction\" : \"f90401 蝦米與董少復合\", 0, 0}  ], 0} 	0"
   translated: ""
@@ -57665,9 +57665,9 @@
   - split: 1
     text: "段思平"
     translated: "Duan Siping"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 5767
   raw: "n90402	段思良	ml_standA00	n90402	-784.0694, 71.72147, -1045.603	264.6107		TRUE	TRUE	n9040108026	v00028				1	16	0	n41105	n90402				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f90401 蝦米與董少復合\", 0, 0} , { \"QuestCondition\" : \"Q40001\", 0, False} , { \"QuestCondition\" : \"Q40012\", 0, False}  ], 0} 	0"
   translated: ""
@@ -57675,9 +57675,9 @@
   - split: 1
     text: "段思良"
     translated: "Duan Siliang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 5768
   raw: "n90402a	段思良	w_dancesPipa001Loop	n90402	-734.57, 66.88, -1115.78	88		TRUE	TRUE	n4000204000					1		0	n41105	n90402				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40001_03\", 0, True} , { \"QuestCondition\" : \"Q40001_02\", 0, True}  ], 1} 	0"
   translated: ""
@@ -57685,9 +57685,9 @@
   - split: 1
     text: "段思良"
     translated: "Duan Siliang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 5769
   raw: "n90402b	段思良	ml_standA00	n90402	-777.1804, 71.57761, -1037.876	130.9468		TRUE	TRUE	n4000205015	v00028				1	16	0	n41105	n90402b				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40001\", 1, True} , { \"QuestCondition\" : \"Q40002\", 0, False} , { \"CheckFlagAction\" : \"fn90402b_02\", 1, 0}  ], 0} 	0"
   translated: ""
@@ -57695,9 +57695,9 @@
   - split: 1
     text: "段思良"
     translated: "Duan Siliang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 5770
   raw: "n90402c	段思良	ml_idle003	n90402	-679.611, 65.70987, -14.97882	0.609		FALSE	FALSE		v00028				1		0	n41105	n90402b				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q40002_03\", 0, True}  ], 0} 	0"
   translated: ""
@@ -57705,9 +57705,9 @@
   - split: 1
     text: "段思良"
     translated: "Duan Siliang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 5771
   raw: "n90402d		ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						0	0"
   translated: ""
@@ -57825,9 +57825,9 @@
   - split: 1
     text: "段家军"
     translated: "Duan Family Army"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 5783
   raw: "n90409	黑衣人	ml_idle002	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n90409				0	0"
   translated: ""

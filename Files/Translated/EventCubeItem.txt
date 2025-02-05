@@ -9405,9 +9405,9 @@
   - split: 1
     text: "段思平友情三阶_与采花七人众开打"
     translated: "Duan Siping engages in a friendly three-stage fight with the Seven Women of Caihua"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 941
   raw: "m40003	蜈蚣	MouseEventBox	Resources_Art/Art3D/Ore/Centipede.prefab	Catch	0.02, 127.2, -1024.38	1, 1, 1	1, 1, 1	0, 28.39018, 0	True	96		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m1999700007\"} , { \"InventoryAction\" : 0, \"it50302\", 1}  ]} 	0"
   translated: ""
@@ -12925,9 +12925,9 @@
   - split: 1
     text: "段在队伍遭遇苏清瑞"
     translated: "Duan encountered Su Qingrui in the group"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 1293
   raw: "m51003	与段在蛇窟遭遇何	EventBox		None	-150.87, 90.37, -1112.46	1, 1, 1	1, 6.657456, 23.28358	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q51001\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5100104000\"}  ]} 	0"
   translated: ""
@@ -12935,9 +12935,9 @@
   - split: 1
     text: "与段在蛇窟遭遇何"
     translated: "With Duan in the snake pit encountered He"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 1294
   raw: "m51004	与段遭遇何，段追出	EventBox		None	-163.723, 108.086, -1115.997	1, 1, 1	7.041934, 3.657244, 1	0, 322.0804, 0	False	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f51001郎中事件：是否將蛇王給了何白芍？\", 1, 1} , { \"CheckFlagAction\" : \"f51001郎中事件：何白芍事件是否結束？\", 1, 0}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5100105000\"}  ]} 	0"
   translated: ""
@@ -12945,9 +12945,9 @@
   - split: 1
     text: "与段遭遇何，段追出"
     translated: "With Duan encountering He, Duan chases after him"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 1295
   raw: "m51005	蛇窟洞口事件	EventBox		None	0, 0, 0	1, 1, 1	9.367321, 4.756658, 10.02369	0, 325.2488, 0	False	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5101001000\"}  ]} 	0"
   translated: ""
@@ -12965,9 +12965,9 @@
   - split: 1
     text: "先遇苏后与段来到洞口"
     translated: "First, they met Su and then arrived at the cave entrance with Duan"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 1297
   raw: "m51007	主角一人清光蛇窟	EventBox		None	-150.87, 90.37, -1112.46	1, 1, 1	1, 6.657456, 23.28358	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q51001\", 0, False} , { \"QuestCondition\" : \"Q51001\", 1, False} , { \"QuestCondition\" : \"Q51004\", 1, False} , { \"QuestCondition\" : \"Q51004\", 0, False}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5101002000\"}  ]} 	0"
   translated: ""
@@ -12985,9 +12985,9 @@
   - split: 1
     text: "婉拒段后到蛇窟见蛇尸"
     translated: "After declining Duan, she went to the snake den to see the snake corpse"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 1299
   raw: "m51009	段思平独自面对蛇王	EventBox		None	-160.15, 90.37, -1114.4	1, 1, 1	1, 6.657456, 30.08676	0, 307.1947, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q51004_02\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20060\"}  ]} 	0"
   translated: ""
@@ -12995,9 +12995,9 @@
   - split: 1
     text: "段思平独自面对蛇王"
     translated: "Duan Siping faced the Serpent King alone"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 1300
   raw: "m51011	跟踪何来到蛇窟	EventBox		None	-166.04, 110.57, -1113.82	1, 1, 1	8.417269, 6.099372, 1.543368	0, 321.002, 0	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f51001郎中事件：是否出手相助？\", 1, 2} , { \"CheckFlagAction\" : \"f51001郎中事件：跟蹤何白芍事件階段\", 1, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f51001郎中事件：是否答應段思平邀約？\", 1, 3} , { \"CheckFlagAction\" : \"f51001郎中事件：段與何對峙是否結束？\", 1, 0}  ], 0}  ], 1} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20058\"}  ]} 	0"
   translated: ""
@@ -39545,9 +39545,9 @@
   - split: 1
     text: "段家军装"
     translated: "Uniform of the Duan Family Army"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
-    flaggedGlossaryOut: "Duan,段某,"
+    flaggedGlossaryOut: ""
 - lineNum: 3955
   raw: "s90409	金瓜骨朵	MouseEventBox	Character/All_Accessories/Prefab/ac3a0085.prefab	Pick	-753.523, 71.878, -1042.675	1, 1, 1	1, 1, 1	324.7219, 79.52045, 11.88728	False	0		0	{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"eq11205\", 1}  ]} 	0"
   translated: ""
