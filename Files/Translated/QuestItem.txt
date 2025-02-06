@@ -6340,15 +6340,15 @@
   splits:
   - split: 1
     text: "前往大研镇流云坊"
-    translated: "Proceed to the Floating Cloud Inn in Dayan Town"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "Head to the Liuyun Pavilion in Dayan Town"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "要买礼物也要看看有什么好货，去大研镇流云坊一趟吧。"
-    translated: "When buying gifts, also check out what's in stock at Lufeng House in Dayan Town"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "If you're buying a gift, take a look at what good merchandise there is. Why not go to Liuyun Pavilion in Dayan Town?"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 397
   raw: "Q40026_04	打熊去！	1	在白马居住段时间的漆笑儿，受到敏婆婆不少照顾。身为未来的媳妇怎么可以一直受婆婆照顾，至少也要回报回报。想要做菜送礼，去大研镇准没错！<br>不过想做一掌定乾坤的你们，却苦无材料。幸好肉铺老板跟你们说了伤人恶熊的位置，为民除害又顺便捡天然的食材，何乐而不为？	0	FALSE	0	-493.1098,163.8849,-1304.321	TRUE		0		321"
@@ -11098,9 +11098,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "由于华璨阁织娘失去联系，使得大研镇布庄流云坊陷入断货危机，尤其为首的织娘寇燕飞技艺精湛，堪为流云坊的一大卖点。<br>目前客人已经开始抱怨买不到新货了，若是再找不到她们，流云坊恐怕就要关门了。"
-    translated: "Due to the loss of contact with Hua Zan Ge Weaving Women, Dayan Town Flow Cloud Courtyard fell into a supply shortage crisis. In particular, Chief Weaver Kuo Yanfei's skills are exquisite and are one of the major selling points for Flow Cloud Courtyard<br>Currently, customers have started complaining that they can't buy new goods. If they can't find her anymore, Flowing Cloud Courtyard might have to close"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "Due to the loss of contact with Huanzhangge's weaver, Dayan Town's Liuyun Pavilion faced a supply crisis at its weaving village. This was especially concerning as the chief weaver, Kou Yanfei, is renowned for her exquisite skills and serves as one of Liuyun Pavilion's major attractions<br>Currently, guests are already complaining that they can't buy new goods. If we can't find them soon, Liuyun Pavilion might have to close"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 694
   raw: "Q60004_02	取得寇燕飞指定的物品	1	由于华璨阁织娘失去联系，使得大研镇布庄流云坊陷入断货危机，不过好不容易找到了华璨阁织娘之首寇燕飞，她却铁了心不再打算继续和流云坊合作。<br>好在寇燕飞在这荒郊野岭也快过不下去了，因此松了口，请你弄个十匹胚布、五根木炭、十份火腿粑粑、六份火烤猪肉过来，好让她能再撑一段日子，作为谢礼，她愿意再为流云坊设计最后一次花样。	0	FALSE	0	-618.307, 66.3404, -1007.792	TRUE		600	(Reputation,3)	1"
@@ -11114,9 +11114,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "由于华璨阁织娘失去联系，使得大研镇布庄流云坊陷入断货危机，不过好不容易找到了华璨阁织娘之首寇燕飞，她却铁了心不再打算继续和流云坊合作。<br>好在寇燕飞在这荒郊野岭也快过不下去了，因此松了口，请你弄个十匹胚布、五根木炭、十份火腿粑粑、六份火烤猪肉过来，好让她能再撑一段日子，作为谢礼，她愿意再为流云坊设计最后一次花样。"
-    translated: "Huacan Ge's weaver, having lost contact, plunged Dayan Town's Flow Cloud Courtyard into a supply crisis. However, after great effort in finding Huacan Ge's lead weaver Kou Yanfei, she firmly decided not to continue cooperating with Flow Cloud Courtyard<br>Fortunately, Cousin Guo Yanfei couldn't last much longer in these remote wildernesses, so she relaxed a bit. Please bring ten bolts of coarse cloth, five pieces of charcoal, ten servings of smoked ham, and six servings of roast pork so she can hold on for a while longer. As a token of gratitude, she is willing to design one final pattern for Luyun Pavilion"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "Due to losing contact with Hu Cang Ge, the weavers of Dayan Town's Liuyun Pavilion faced a supply crisis. However, after great effort, they finally located their chief tailor, Kou Yanfei from Hu Cang Ge, who firmly decided not to continue collaborating with the Liuyun Pavilion<br>Fortunately, Kuo Yanfei is struggling to get by in this desolate wilderness as well, so he sighed with relief and asked you for ten bolts of rough fabric, five logs of charcoal, ten servings of smoked pork belly, and six servings of roast pork. This will allow her to hold on for a little longer. As a token of gratitude, she is willing to design one last pattern for Liuyun Pavilion"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 695
   raw: "Q60004_03	回报巴宏大	1	由于华璨阁织娘失去联系，使得大研镇布庄流云坊陷入断货危机，好不容易找到了华璨阁织娘之首寇燕飞，她同意赶紧先回大研镇和巴掌柜碰面，让流云坊的新品织锦不致断货。<br>如此好消息，自然是赶紧回报巴掌柜去！	0	FALSE	0	-618.307, 66.3404, -1007.792	TRUE		600	(Reputation,3)	1"
@@ -11130,9 +11130,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "由于华璨阁织娘失去联系，使得大研镇布庄流云坊陷入断货危机，好不容易找到了华璨阁织娘之首寇燕飞，她同意赶紧先回大研镇和巴掌柜碰面，让流云坊的新品织锦不致断货。<br>如此好消息，自然是赶紧回报巴掌柜去！"
-    translated: "Due to the loss of contact with Hua Zan Ge's female weavers, Dayan Town's Flowing Cloud Weaving Shop is facing a supply crisis. After much effort, they found Cao Yanfei, the leader of Hua Zan Ge's weavers, who agreed to return to Dayan Town and meet with Brother Ba, the shopkeeper, promptly to ensure that the new weaving products from Flowing Cloud Weaving Shop do not run out<br>With such good news, it's natural to rush back and report to the shopkeeper Ba!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "Due to the loss of contact with the master weavers from Huanzan Pavilion, Dayan Town's silk mills at Liuyun Pavilion have fallen into a crisis of stock shortages. After much effort, they found Corr Yanfei, the leader among the master weavers of Huanzan Pavilion, who agreed to hurry back to Dayan Town and meet with Brother Ba, the shopkeeper, ensuring that Liuyun Pavilion's new silk brocades would not run out<br>Such good news, of course, we must rush to report back to Master Ba, the shopkeeper!"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 696
   raw: "Q60004_04	带回新样	1	由于华璨阁织娘失去联系，使得大研镇布庄流云坊陷入断货危机，不过好不容易找到了华璨阁织娘之首寇燕飞，她却铁了心不再打算继续和流云坊合作。<br>好在寇燕飞松了口，她愿意再为流云坊设计最后一次花样。如今好不容易拿到了新的花样，赶紧带回去给巴宏大交差吧。	0	FALSE	0	-618.307, 66.3404, -1007.792	TRUE		600	(Reputation,3)	1"
@@ -11146,9 +11146,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "由于华璨阁织娘失去联系，使得大研镇布庄流云坊陷入断货危机，不过好不容易找到了华璨阁织娘之首寇燕飞，她却铁了心不再打算继续和流云坊合作。<br>好在寇燕飞松了口，她愿意再为流云坊设计最后一次花样。如今好不容易拿到了新的花样，赶紧带回去给巴宏大交差吧。"
-    translated: "Due to the loss of contact with Hua Can Ge's Weaver Girls, Dayan Town's Flowing Cloud Mansion fell into a shortage crisis. Fortunately, they found the leader of Hua Can Ge's Weaver Girls, Kou Yanfei. However, she firmly decided not to continue cooperating with Flowing Cloud Mansion<br>Fortunately, Kou Yanfei was released, and she agreed to design one last pattern for Liuyun Fang. Now that they finally obtained the new pattern, they should hurry back to deliver it to Ba Hongda"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "Due to the loss of contact with Hua Zan Ge's weavers, Dayan Town's Liuyun Pavilion weaving workshop faced a supply shortage crisis. However, after much effort, they finally located the leader of Hua Zan Ge's weavers, Kou Yanfei, who firmly decided not to continue collaborating with Liuyun Pavilion<br>Fortunately, Guo Yanfei agreed to design one last pattern for the Liuyun Pavilion. Now that they've finally acquired a new design, it's best to hurry back and deliver it to Ba Hongda"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 697
   raw: "Q60005	邢老头与破网	0	帮助生活面临困境的邢老头补破网，你可以给他补破网的材料麻绳，或是直接请来工匠帮他补网。	0	FALSE	Q60005_01	0	TRUE		0		1"
@@ -12132,15 +12132,15 @@
   splits:
   - split: 1
     text: "前往流云坊找慧婶"
-    translated: "Go to Liuyun Fang to find Huisi"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "Go to Liuyun Pavilion to find Aunt Hui"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "昔日的「小孟尝」苏清瑞如今装疯卖傻，藏匿在仇敌「赛孟尝」景泰然的身边，到底他的过去有着什么样的冤屈？<br>虞康时表示，知悉当年事情的人可不只他一个。在虞康时的指点下，也许你可以前往布庄「流云坊」，询问当年一位名为慧婶的下人，进一步了解当年董春莲所扮演的角色。"
-    translated: "The former Little Mengchang Su Qingrui, who once acted the fool to hide his cunning, now lives in hiding at the side of his enemy, the rival Mengchang, Jing Tairan. What kind of injustices from his past does he conceal?<br>Yu Kangshi indicated that he wasn't the only one aware of what happened back then. Under Yu Kangshi's guidance, you might want to visit the Liu Yun Fang in Buzhuang and ask a former servant named Hui Shi about the role played by Dong Chunlian at the time"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "Once known as Little Mengchang, Su Qingrui is now pretending to be insane, hiding among the enemies, particularly beside Mengchang's Rival Jing Tairan. What kind of injustices does his past hold?<br>Yu Kangshi stated that he was not the only one aware of what happened years ago. Under Yu Kangshi's guidance, you might consider visiting Liuyun Pavilion in Bu Zhuang to ask a former servant named Hui Shu about the role played by Dong Chunlian back then"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 759
   raw: "Q60017_03	告知当年的真相	1	调查过旧友虞康时和昔日奶娘慧婶，终于把当年的事情都拼凑起来了，快去告诉苏清瑞当年的来龙去脉。	0	FALSE	0	-703.8302, 66.18829, -1034.621	TRUE		600	(Reputation,3)	281"
@@ -12522,9 +12522,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "据说流云坊大小姐近来用过晚膳之后，便会出门极久，左邻右舍传来不少闲言闲语。女孩子家闺名要紧，快帮慧婶找找大小姐，请她快回流云坊。"
-    translated: "It is said that after having her late supper, the young lady of Liuyun Fang often goes out for a long time. The neighbors have been passing around many idle rumors. A girl's reputation is important; please help Aunt Hui find the young lady and urge her to return to Liuyun Fang quickly"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "It's rumored that since the Miss of Liuyun Pavilion has been dining late, she leaves afterwards and stays out for a very long time. Gossip is spreading among the neighbors. It's crucial to preserve a girl's reputation; please help Aunt Hui find the Miss and ask her to return quickly to Liuyun Pavilion"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 783
   raw: "Q60025_01	寻找巴慕云	1	据说流云坊大小姐近来用过晚膳之后，便会出门极久，左邻右舍传来不少闲言闲语。女孩子家闺名要紧，快帮慧婶找找大小姐，请她快回流云坊。	0	FALSE	0	-598.4564, 64.01267, -1040.8	TRUE		600	(Reputation,3)	211"
@@ -12538,9 +12538,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "据说流云坊大小姐近来用过晚膳之后，便会出门极久，左邻右舍传来不少闲言闲语。女孩子家闺名要紧，快帮慧婶找找大小姐，请她快回流云坊。"
-    translated: "It is said that after the Lady of Luyun Fang has her evening meal, she goes out for an unusually long time. The neighbors have been talking quite a bit about it. Reputation is important for a young lady; please help Aizhen find the Lady and ask her to return quickly to Luyun Fang"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "Rumor has it that the young lady of Liuyun Pavilion often spends a long time outside after her evening meal, which has sparked much idle chatter among neighbors. A young woman's reputation is crucial; please help Aunt Hui find the young lady and urge her to return to Liuyun Pavilion quickly"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 784
   raw: "Q60025_02	跟踪柏俊材	1	据说流云坊大小姐近来用过晚膳之后，便会出门极久，左邻右舍传来不少闲言闲语。女孩子家闺名要紧，快帮慧婶找找大小姐，请她快回流云坊。	0	FALSE	0	-632.2552, 62.76373, -965.9034	TRUE		1200	(Reputation,6)	211"
@@ -12554,9 +12554,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "据说流云坊大小姐近来用过晚膳之后，便会出门极久，左邻右舍传来不少闲言闲语。女孩子家闺名要紧，快帮慧婶找找大小姐，请她快回流云坊。"
-    translated: "It is said that after having dinner, the young lady of Luyun Pavilion often goes out for a long time. There are many rumors circulating among neighbors. As girls should protect their reputation, please help Aunt Hui find the young lady and urge her to return quickly to Luyun Pavilion"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "It's rumored that after having dinner, the young lady of Liuyun Pavilion often goes out for a long time. Neighbors have been sharing quite a bit of gossip. It's important to maintain a good reputation for women; please ask Aunt Hui to find the young lady and urge her to return quickly to Liuyun Pavilion"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 785
   raw: "Q60025_03	和巴慕云谈谈	1	据说流云坊大小姐近来用过晚膳之后，便会出门极久，左邻右舍传来不少闲言闲语。女孩子家闺名要紧，快帮慧婶找找大小姐，请她快回流云坊。	0	FALSE	0	0	TRUE		600	(Reputation,3)	1"
@@ -12570,9 +12570,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "据说流云坊大小姐近来用过晚膳之后，便会出门极久，左邻右舍传来不少闲言闲语。女孩子家闺名要紧，快帮慧婶找找大小姐，请她快回流云坊。"
-    translated: "It is said that the young lady of Liuyun Fang often goes out for a long time after dinner lately, and there have been many rumors from neighbors. A girl's reputation is important; please help Aunt Hui find the young lady and ask her to return to Liuyun Fang quickly"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "It is said that after the Lady of Liuyun Pavilion has finished her late supper, she goes out for a long time. Neighbors have been gossiping about it nonstop. Reputation is important for young ladies; please help Aunt Hui find the Lady and ask her to return quickly to Liuyun Pavilion"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 786
   raw: "Q60025_04	回报慧婶	1	据说流云坊大小姐近来用过晚膳之后，便会出门极久，左邻右舍传来不少闲言闲语。女孩子家闺名要紧，快帮慧婶找找大小姐，请她快回流云坊。	0	FALSE	0	-612.6016, 66.1883, -1024.772	TRUE		600	(Reputation,3)	1"
@@ -12586,9 +12586,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "据说流云坊大小姐近来用过晚膳之后，便会出门极久，左邻右舍传来不少闲言闲语。女孩子家闺名要紧，快帮慧婶找找大小姐，请她快回流云坊。"
-    translated: "It is said that after having dinner, the young lady of Liuyun Fang often goes out for a long time. Many idle rumors have been spread among neighbors. A girl's reputation is important; please help Aunt Hui find the young lady and ask her to return to Liuyun Fang quickly"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
+    translated: "It is said that after taking her evening meal, the Lady of Liuyun Pavilion has been out for hours. Neighbors have been spreading gossip as a result. A young lady's reputation is important; please help Aunt Hui find the Lady and ask her to return quickly to Liuyun Pavilion"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 787
   raw: "Q60026	景府捕鼠	0	景府捕鼠。	0	FALSE	Q60026_01,Q60026_02,Q60026_03	0	TRUE		0		0"
