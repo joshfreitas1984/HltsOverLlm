@@ -29675,8 +29675,8 @@
   - split: 5
     text: "大研镇流云坊巴暮云"
     translated: "Dayan Town Luoyun Mansion Bameiyun"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
     flaggedGlossaryOut: ""
 - lineNum: 2968
   raw: "n60043	12	fm00000	a00001		大研镇流云坊巴宏大(流云坊老板)		st0064		0	ai00000		0	(HP,1800)(MaxHP,1800)(MP,862)(MaxMP,862)(Physique,60)(Intelligence,50)(Neigong,24)(Qinggong,18)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,10)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(eq20125,1)(eq20129,1)(eq20130,1)(eq20131,1)(eq20138,1)(eq20140,1)(eq20141,1)(eq20142,1)(eq20145,1)(eq20156,1)(eq20157,1)(eq20158,1)(eq20159,1)(eq20161,1)	0,0	0"
@@ -29685,8 +29685,8 @@
   - split: 5
     text: "大研镇流云坊巴宏大(流云坊老板)"
     translated: "Dayan Town, Li Yun Fang, Ba Hong Da (Li Yun Fang Boss)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
     flaggedGlossaryOut: ""
 - lineNum: 2969
   raw: "n60055	42	fm00000	a00013	nick157	鄂斯伯(蛇丐棍图)	ta0092i	st0098,st0998		0	ai00000	(MajorWeapon,eq10514)(MinorWeapon,eq10701)(Cloth,eq20102)	0	(HP,8662)(MaxHP,8662)(MP,3828)(MaxMP,3828)(Physique,85)(Intelligence,50)(Neigong,105)(Qinggong,71)(Fight,86)(Sword,81)(Blade,77)(Spear,115)(Arrow,81)(Short,73)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,-125)	(it40101,2)(it60507,3)(it40239,1)(it40240,1)	0,0	0"

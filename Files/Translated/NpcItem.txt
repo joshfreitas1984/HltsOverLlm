@@ -42795,8 +42795,8 @@
   - split: 1
     text: "流云坊 巴慕云"
     translated: "Yun Pavilion Baomuyun"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
     flaggedGlossaryOut: ""
 - lineNum: 4280
   raw: "n60043	流云坊掌柜 巴宏大	m_paperwork002b	c_m31	-618.307, 66.3404, -1007.792	202.4853		FALSE	FALSE	n6004301000	v00117				1	3,112	0	n60064	n60043	0		(Weapon,1)(Armor,1)(Leather_Forge,1)(Money,1)	0	0"
@@ -42805,8 +42805,8 @@
   - split: 1
     text: "流云坊掌柜 巴宏大"
     translated: "Shopkeeper Ba Hongda"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Liuyun Pavillion,流云坊,"
     flaggedGlossaryOut: ""
 - lineNum: 4281
   raw: "n60044	吉英睿	ml_standA00		-629.8215, 66.18829, -1011.968	314.9237	6-18	TRUE	FALSE	n6004401000	v00058				1	3	0	n60032		0			0	0"
