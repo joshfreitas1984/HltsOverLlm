@@ -162,8 +162,8 @@ public class TranslationWorkflowTests
                     //if (line.LineNum > 0 && line.LineNum < 1000 && outputFile.Contains("NpcTalkItem.txt"))
                     //    split.FlaggedForRetranslation = true;
 
-                    if (CheckSplit(newGlossaryStrings, manual, split, outputFile, hallucinationCheckGlossary, mistranslationCheckGlossary, dupeNames, config))
-                        recordsModded++;
+                    //if (CheckSplit(newGlossaryStrings, manual, split, outputFile, hallucinationCheckGlossary, mistranslationCheckGlossary, dupeNames, config))
+                    //    recordsModded++;
                 }
 
             totalRecordsModded += recordsModded;

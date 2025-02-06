@@ -12355,7 +12355,7 @@
   - split: 1
     text: "木初房门门挡"
     translated: "Every door in Mu Chu's house has a doorman"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1236
@@ -12365,7 +12365,7 @@
   - split: 1
     text: "木初房门门挡-门内"
     translated: "Before the door of Mu Chu's house, there was a door blocking the entrance - inside"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1237
@@ -12725,7 +12725,7 @@
   - split: 1
     text: "将情报告知木初"
     translated: "Inform Mu Chu of the intelligence"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1273
@@ -15095,7 +15095,7 @@
   - split: 1
     text: "红梅倚月瓶"
     translated: "Chu Hua P'ing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1510
@@ -19175,8 +19175,8 @@
   - split: 1
     text: "酒窖外大郎三郎战斗-正线"
     translated: "Da Lang San Lang's battle outside the wine cellar - Main storyline"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "First Son,大郎,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1918
   raw: "m60312-2	酒窖外大郎三郎战斗-邪线	EventBox		None	-367.63, 84.88, 683.41	1, 1, 1	7.384868, 4.403214, 9.922115	0, 8.165339, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60037_05\", 0, True} , { \"QuestCondition\" : \"Q60016\", 2, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6030101-2\"}  ]} 	0"
@@ -19185,8 +19185,8 @@
   - split: 1
     text: "酒窖外大郎三郎战斗-邪线"
     translated: "Outside the wine cellar, Elder Brother and Third Brother fight in the evil storyline"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "First Son,大郎,San Lang,三郎,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1919
   raw: "m60312-3	进酒窖决战-正线	EventBox		None	-364.81, 84.49586, 693.21	1, 1, 1	1, 2.30924, 5.973282	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60037_05\", 0, True} , { \"QuestCondition\" : \"Q60016\", 2, False}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6030103-1\"}  ]} 	0"
@@ -27235,7 +27235,7 @@
   - split: 1
     text: "文三娘时间盒子"
     translated: "Wen San Niang Time Box"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 2724
@@ -27255,7 +27255,7 @@
   - split: 1
     text: "逃不出文娘手掌心"
     translated: "You can't escape the palm of Wen Niang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 2726
@@ -40055,7 +40055,7 @@
   - split: 1
     text: "初遇木初"
     translated: "First encounter with Mu Chu"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 4006

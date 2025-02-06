@@ -18709,8 +18709,8 @@
   - split: 1
     text: "「酒庄大郎」"
     translated: "Winery Big Brother"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "First Son,大郎,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合提升闪避率1%，最高10%；每回合提升爆击率2%"
@@ -18725,8 +18725,8 @@
   - split: 1
     text: "「酒庄二郎」"
     translated: "Second Brother from the Winery"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Second Son,二郎,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合提升闪避率1%，最高10%；每回合提升连击率、虚招率2%"
@@ -18741,8 +18741,8 @@
   - split: 1
     text: "「酒庄三郎」"
     translated: "Winery Third Brother"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "San Lang,三郎,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合提升闪避率1%，最高10%；每回合额外提升连击率5%"
