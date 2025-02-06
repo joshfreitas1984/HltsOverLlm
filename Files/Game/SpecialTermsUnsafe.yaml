@@ -122,3 +122,9 @@
 - raw: 爹
   result: Father
   literal: Die
+- raw: 大郎
+  result: First Son
+- raw: 二郎
+  result: Second Son    
+- raw: 三郎
+  result: Third Son
