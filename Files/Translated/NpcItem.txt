@@ -4865,7 +4865,7 @@
   - split: 1
     text: "楚湘莲"
     translated: "Chu Xianglian"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 487
@@ -5025,7 +5025,7 @@
   - split: 1
     text: "楚湘莲"
     translated: "Chu Xianglian"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 503
@@ -5065,7 +5065,7 @@
   - split: 1
     text: "楚湘莲"
     translated: "Chu Xianglian"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 507
@@ -5075,7 +5075,7 @@
   - split: 1
     text: "楚湘莲"
     translated: "Chu Xianglian"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 508
@@ -5095,7 +5095,7 @@
   - split: 1
     text: "楚湘莲"
     translated: "Chu Xianglian"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 510
@@ -5105,7 +5105,7 @@
   - split: 1
     text: "楚湘莲"
     translated: "Chu Xianglian"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 511
@@ -6905,7 +6905,7 @@
   - split: 1
     text: "郝初心"
     translated: "Hao Chu Xin"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 691
@@ -24765,7 +24765,7 @@
   - split: 1
     text: "木初"
     translated: "Mu Chu"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 2477
@@ -24775,7 +24775,7 @@
   - split: 1
     text: "木初"
     translated: "Mu Chu"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 2478
@@ -42485,7 +42485,7 @@
   - split: 1
     text: "杜昌"
     translated: "Chu Chang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 4249
@@ -42565,7 +42565,7 @@
   - split: 1
     text: "伙食工 孙大娘"
     translated: "Work for Son Da-niang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 4257
@@ -46435,8 +46435,8 @@
   - split: 1
     text: "大郎 陈志泽"
     translated: "Older Brother Chen Zhize"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "First Son,大郎,"
     flaggedGlossaryOut: ""
 - lineNum: 4644
   raw: "n60302b	大郎 陈志泽	ml_standA00	n90109	0, 0, 0	0		FALSE	TRUE	n6030201000	v00138				1	6	0	n90109	n60302				0	0"
@@ -46445,8 +46445,8 @@
   - split: 1
     text: "大郎 陈志泽"
     translated: "Older Brother Chen Zhize"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "First Son,大郎,"
     flaggedGlossaryOut: ""
 - lineNum: 4645
   raw: "n60303	二郎 陈志潾	ml_standA00	n90108	-333.2866, 83.58057, 689.2649	274.2687		FALSE	TRUE	n6030301000	v00139				1	6	0	n90110	n60303	n60303-1,n60303-2,n60303-3,n60303-4,n60303-5,n60303-6,n60303-7			0	0"
@@ -46455,8 +46455,8 @@
   - split: 1
     text: "二郎 陈志潾"
     translated: "Er Lang Chen Zhixin"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Second Son,二郎,"
     flaggedGlossaryOut: ""
 - lineNum: 4646
   raw: "n60303b	二郎 陈志潾	ml_standA00	n90108	0, 0, 0	0		FALSE	TRUE	n6030301000	v00139				1	6	0	n90110	n60303				0	0"
@@ -46465,8 +46465,8 @@
   - split: 1
     text: "二郎 陈志潾"
     translated: "Er Lang Chen Zhixin"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Second Son,二郎,"
     flaggedGlossaryOut: ""
 - lineNum: 4647
   raw: "n60304	庄主 陈长卫	m_sitLoop002	n90106	-335.2493, 84.06625, 690.6534	188.4521		FALSE	TRUE	n6030401000	v00141				1	6	0	n90106	n60304	n60304-1,n60304-2,n60304-3,n60304-4,n60304-5,n60304-6			0	0"
@@ -50135,7 +50135,7 @@
   - split: 1
     text: "中华老当家"
     translated: "Chu Hua Old Boss"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5014
@@ -50815,7 +50815,7 @@
   - split: 1
     text: "文三娘"
     translated: "Wen San Niang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5082
@@ -50825,7 +50825,7 @@
   - split: 1
     text: "文三娘"
     translated: "Wen San Niang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5083
@@ -50835,7 +50835,7 @@
   - split: 1
     text: "文三娘"
     translated: "Wen San Niang"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5084
@@ -51645,7 +51645,7 @@
   - split: 1
     text: "文三娘手下"
     translated: "Wen San Niang's subordinates"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5165
@@ -51655,7 +51655,7 @@
   - split: 1
     text: "文三娘手下"
     translated: "Wen San Niang's subordinates"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5166
@@ -51735,7 +51735,7 @@
   - split: 1
     text: "文三娘手下"
     translated: "Wen San Niang's subordinates"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5174
@@ -51745,7 +51745,7 @@
   - split: 1
     text: "文三娘手下"
     translated: "Wen San Niang's subordinates"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5175
@@ -51755,7 +51755,7 @@
   - split: 1
     text: "文三娘手下"
     translated: "Wen San Niang's subordinates"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5176
@@ -51765,7 +51765,7 @@
   - split: 1
     text: "文三娘手下"
     translated: "Wen San Niang's subordinates"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5177
@@ -51775,7 +51775,7 @@
   - split: 1
     text: "文三娘伙计"
     translated: "Wen San Niang companion"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5178
@@ -51785,7 +51785,7 @@
   - split: 1
     text: "文三娘伙计"
     translated: "Wen San Niang companion"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5179
@@ -51795,7 +51795,7 @@
   - split: 1
     text: "文三娘手下"
     translated: "Wen San Niang's subordinates"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5180
@@ -51805,7 +51805,7 @@
   - split: 1
     text: "文三娘手下"
     translated: "Wen San Niang's subordinates"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5181
@@ -51815,7 +51815,7 @@
   - split: 1
     text: "文三娘手下"
     translated: "Wen San Niang's subordinates"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 5182
