@@ -162,8 +162,8 @@ public class TranslationWorkflowTests
                     //if (line.LineNum > 0 && line.LineNum < 1000 && outputFile.Contains("NpcTalkItem.txt"))
                     //    split.FlaggedForRetranslation = true;
 
-                    //if (CheckSplit(newGlossaryStrings, manual, split, outputFile, hallucinationCheckGlossary, mistranslationCheckGlossary, dupeNames, config))
-                    //    recordsModded++;
+                    if (CheckSplit(newGlossaryStrings, manual, split, outputFile, hallucinationCheckGlossary, mistranslationCheckGlossary, dupeNames, config))
+                        recordsModded++;
                 }
 
             totalRecordsModded += recordsModded;
@@ -382,7 +382,7 @@ public class TranslationWorkflowTests
     {
         string[] words = ["hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado", 
             "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
-            "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una",  "keqi", "shiwu", "Chu", "niang", "fuck"]; //"na", "daren", "furen",
+            "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una",  "keqi", "shiwu", "niang", "fuck"]; //"na", "daren", "furen",
 
         foreach (var word in words)
         {

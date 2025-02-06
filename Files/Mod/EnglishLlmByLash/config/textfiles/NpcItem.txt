@@ -4254,7 +4254,7 @@ n60023	Ge Li	ml_standA00		-475.3, 63.637, -1111.95	320.5017	5-17	FALSE	FALSE	n60
 n60023b	Ge Li	m_sitDrink001		-394.8176, 63.53, -1046.719	357.9695	18-23, 0-4	FALSE	FALSE	n6002303000	v00103				1	2	0	n60023-1		0		(Stone_Forge,2)(Money,1)	0	0
 n60024	Merchant Xiang Hong	ml_standA00	c_m31	-367.26, 62.66, -1016.89	135.5782	5-17	FALSE	FALSE	n6002402000	v00117	sc60024001			1	106,3	0	n60060	n60024	0		(Weapon,1)(Armor,1)(Book,1)(Medicine,1)(Poison,1)(Food,1)(Forge,1)(Stuff,1)(Other_Stuff,1)(Money,1)	0	0
 n60024b	Merchant Xiang Hong	m_talk001	c_m31	-397.044, 63.193, -1045.121	89.9811	18-23, 0-4	FALSE	FALSE	n6002402000	v00117				1	106,3	0	n60060	n60024b	0		(Weapon,1)(Armor,1)(Book,1)(Medicine,1)(Poison,1)(Food,1)(Forge,1)(Stuff,1)(Other_Stuff,1)(Money,1)	0	0
-n60025	Work for Son Da-niang	w_standC00		-396.526, 63.171, -1044.499	36.45177	5-17	FALSE	FALSE	n6002502000	v00052	sc60025001			2	2	0	n60011	n60025	n60025-1,n60025-2		(Stone_Forge,2)(Money,1)	0	0
+n60025	Kitchen worker Grandma Sun	w_standC00		-396.526, 63.171, -1044.499	36.45177	5-17	FALSE	FALSE	n6002502000	v00052	sc60025001			2	2	0	n60011	n60025	n60025-1,n60025-2		(Stone_Forge,2)(Money,1)	0	0
 n60026	Laborer Hu Yuang	ml_standA01		-396.089, 63.155, -1043.627	21.80258		FALSE	FALSE	n6002601000	v00050	sc60026001			1	2	0	n20093	n60026	n60026-1,n60026-2,n60026-3,n60026-4,n60026-5		(Stone_Forge,2)(Money,1)	0	0
 n60027	Older Brother Jiang	m_sitSmoke001_ec		-442.3153, 62.98, -1045.75	320.5017		FALSE	FALSE	n6002701000	v00050				1	2	0	n60058		n60027-1,n60027-2,n60027-3,n60027-4,n60027-5,n60027-6,n60027-7,n60027-8,n60027-9,n60027-10		(Stone_Forge,2)(Money,1)	0	0
 n60028	Manhai Feng	ml_standA00		-467.422, 63.717, -1099.23	320.5017	5-17	FALSE	FALSE	n6002802000	v00101	sc60028001			1	2	0	n60037	n60028	0		(Stone_Forge,2)(Money,1)	0	0
@@ -4641,10 +4641,10 @@ n60278	Wild Bear	al20008@idle2Legs	animal08	-204.2192, 61.4119, -934.7726	279.91
 n60279	Bandits	ml_standA00	c_m09	-231.8582, 61.14047, -926.5739	0		FALSE	FALSE		v00007		n60543		1	13	0	n29006	n60279				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunMovieAction" : "m6027901"}  ]} , 0.00000}  ], 0} 
 n60280	Bandits	ml_standA00	c_m07	-220.0302, 61.4115, -928.4574	285.0896		FALSE	FALSE		v00008				1	13	0	n29007	n60280				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunMovieAction" : "m6027901"}  ]} , 0.00000}  ], 0} 
 n60301	San Lang Chen Zhiqi	ml_standA00	n90110	-300.88, 82.99552, 668.6	98.21566		FALSE	TRUE	n6030101000	v00140				1	6	0	n90108	n60301	n60301-1,n60301-2,n60301-3,n60301-4,n60301-5,n60301-6,n60301-7,n60301-8			0	0
-n60302	Older Brother Chen Zhize	ml_standA00	n90109	-337.8683, 83.58057, 689.3864	106.012		FALSE	TRUE	n6030201000	v00138				1	6	0	n90109	n60302	n60302-1,n60302-2,n60302-3,n60302-4,n60302-5,n60302-6,n60302-7			0	0
-n60302b	Older Brother Chen Zhize	ml_standA00	n90109	0, 0, 0	0		FALSE	TRUE	n6030201000	v00138				1	6	0	n90109	n60302				0	0
-n60303	Er Lang Chen Zhixin	ml_standA00	n90108	-333.2866, 83.58057, 689.2649	274.2687		FALSE	TRUE	n6030301000	v00139				1	6	0	n90110	n60303	n60303-1,n60303-2,n60303-3,n60303-4,n60303-5,n60303-6,n60303-7			0	0
-n60303b	Er Lang Chen Zhixin	ml_standA00	n90108	0, 0, 0	0		FALSE	TRUE	n6030301000	v00139				1	6	0	n90110	n60303				0	0
+n60302	First Son Chen Zhize	ml_standA00	n90109	-337.8683, 83.58057, 689.3864	106.012		FALSE	TRUE	n6030201000	v00138				1	6	0	n90109	n60302	n60302-1,n60302-2,n60302-3,n60302-4,n60302-5,n60302-6,n60302-7			0	0
+n60302b	First Son Chen Zhize	ml_standA00	n90109	0, 0, 0	0		FALSE	TRUE	n6030201000	v00138				1	6	0	n90109	n60302				0	0
+n60303	Second Son Chen Zhiran	ml_standA00	n90108	-333.2866, 83.58057, 689.2649	274.2687		FALSE	TRUE	n6030301000	v00139				1	6	0	n90110	n60303	n60303-1,n60303-2,n60303-3,n60303-4,n60303-5,n60303-6,n60303-7			0	0
+n60303b	Second Son Chen Zhiran	ml_standA00	n90108	0, 0, 0	0		FALSE	TRUE	n6030301000	v00139				1	6	0	n90110	n60303				0	0
 n60304	Zhuangzhu Chen Changwei	m_sitLoop002	n90106	-335.2493, 84.06625, 690.6534	188.4521		FALSE	TRUE	n6030401000	v00141				1	6	0	n90106	n60304	n60304-1,n60304-2,n60304-3,n60304-4,n60304-5,n60304-6			0	0
 n60304b	Zhuangzhu Chen Changwei	ml_standA00	n90106	0, 0, 0	0		FALSE	TRUE	n6030401000	v00141				1	6	0	n90106	n60304				0	0
 n60305	Ancient Uncle Chen Haotian	ml_standA00	n90107	-335.5445, 83.58057, 687.1452	0		FALSE	TRUE	n6030501000	v00142				1	6	0	n90107	n60305	n60305-1,n60305-2,n60305-3,n60305-4,n60305-5,n60305-6,n60305-7			0	0
@@ -5079,9 +5079,9 @@ n80043	Squirrel	al20024@idle01	animal24	-134.0834, 83.142, -801.868	60.18393	4-1
 n80044	Wandering Trader	ml_standA00	c_m34	-85.37, 79.114, -826.99	201.2641	6-21	TRUE	FALSE	n8004401000	v00054_c01.wav	sc80044001			1	106	0	n20077	n80044			(Drug_Medicine,1)(Herbs_Medicine,1)(Money,1)	0	0
 n80045	Desolate Mountain Angler	m_fisherman_Stand002		162.5259, 94.811, -788.29	6.41384		FALSE	FALSE	n8004501002	v00054_c01.wav				1	0	0	n20115	n80045				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85000", 1, 1}  ], 0} 	0
 n80045a	Luo Ping	m_sleep_dead001_ec		161.9124, 94.92438, -789.927	95.84804		FALSE	FALSE	n8004501037					1	0	0	n20115	n80045				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85000a", 1, 2}  ], 0} 	0
-n80046	Wen San Niang	w_standB00	c_w02	30.56197, 70.31838, -587.3693	160.2583		TRUE	FALSE	n8004601000					2	102	0	n20076	n80046			(Weapon,1)(Armor,1)(Food,1)(Cuisine_Food,1)(Wine_Food,1)(Tea_Food,1)(Currency_Stuff,1)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "tm85022", 3, 1} , { "CheckFlagAction" : "tm80054", 3, 1} , { "CheckFlagAction" : "tm80051", 3, 1}  ], 0} 	0
-n80046a	Wen San Niang	w_standB00	c_w02	-54.13525, 82.95159, -552.2151	327.1932		FALSE	FALSE						2	0	0	n20076	n80046a				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
-n80046b	Wen San Niang	w_standB00	c_w02	30.86401, 70.19785, -590.3105	332.5104		FALSE	FALSE						2	0	0	n20076	n80046a				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80054", 1, 1}  ], 0} 	0
+n80046	Wen Sanniang	w_standB00	c_w02	30.56197, 70.31838, -587.3693	160.2583		TRUE	FALSE	n8004601000					2	102	0	n20076	n80046			(Weapon,1)(Armor,1)(Food,1)(Cuisine_Food,1)(Wine_Food,1)(Tea_Food,1)(Currency_Stuff,1)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "tm85022", 3, 1} , { "CheckFlagAction" : "tm80054", 3, 1} , { "CheckFlagAction" : "tm80051", 3, 1}  ], 0} 	0
+n80046a	Wen Sanniang	w_standB00	c_w02	-54.13525, 82.95159, -552.2151	327.1932		FALSE	FALSE						2	0	0	n20076	n80046a				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
+n80046b	Wen Sanniang	w_standB00	c_w02	30.86401, 70.19785, -590.3105	332.5104		FALSE	FALSE						2	0	0	n20076	n80046a				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80054", 1, 1}  ], 0} 	0
 n80047	Wild Boar	al20032@IdleBreathe	animal32	233.23, 120.87, -1294.08	26.73533		TRUE	TRUE	n8004701000					0	21	0	animal32	n80047		n80048		0	0
 n80048	Wild Boar	al20032@IdleLookAround	animal32	235.24, 120.3272, -1294.084	329.5861		TRUE	TRUE	n8004701000					0	21	0	animal32	n80048		n80047		0	0
 n80049	Wild Boar	al20032@IdleBreathe	animal32	-112.1421, 100.5205, -856.8567	56.75113		TRUE	TRUE	n8004701002					0	21	0	animal32	n80049		n80050		0	0
@@ -5162,8 +5162,8 @@ n80109	Three Tigers under Tiger Head	ml_idle105	c_m07	-237.4767, 78.03279, -518.
 n80110	Three Tigers under Tiger Head	ml_idle103	c_m17	-236.4967, 77.93726, -521.2505	278.1646		FALSE	FALSE						1	0	0	n29008	n80110				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85009", 1, 1} , { "QuestCondition" : "Q80024_03", 0, True}  ], 0} 	0
 n80111	Zhang's Vegetable Garden	m_hoe_Loop		26.39014, 70.2614, -625.7212	271.9412	6-18	FALSE	FALSE	n8011101000					1	102	0	n60114-1	n80111				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85022", 3, 1}  ], 0} 	0
 n80111a	Zhang's Vegetable Garden	ml_standA02	c_m27	29.82468, 70.44534, -586.0302	151.3904		TRUE	TRUE	n8011101008					1	102,113	0	n60114-1	n80111a			(Cuisine_Food,1)(Wine_Food,1)(Tea_Food,1)(Fruit_Food,1)(Meat_Food,1)(Vegetable_Food,1)(Currency_Stuff,1)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "tm85022", 1, 1}  ], 0} 	0
-n80112	Wen San Niang's subordinates	m_standI00	c_m07	-37.43, 74.8208, -549.602	124.4005		FALSE	FALSE	n8011201000					1	0	0	n29006	n80112				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85022", 3, 1}  ], 0} 	0
-n80113	Wen San Niang's subordinates	ml_standA00	c_m12	-38.98073, 74.8208, -551.7796	127.1457		FALSE	FALSE	n8011301000					1	0	0	n29007	n80113				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85022", 3, 1}  ], 0} 	0
+n80112	Wen Sanniang's underlings	m_standI00	c_m07	-37.43, 74.8208, -549.602	124.4005		FALSE	FALSE	n8011201000					1	0	0	n29006	n80112				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85022", 3, 1}  ], 0} 	0
+n80113	Wen Sanniang's underlings	ml_standA00	c_m12	-38.98073, 74.8208, -551.7796	127.1457		FALSE	FALSE	n8011301000					1	0	0	n29007	n80113				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85022", 3, 1}  ], 0} 	0
 n80114	Robust, brutish man	m_standI00	c_m19	-54.122, 83.01137, -543.273	290.7397		TRUE	FALSE	n8011401000					1	0	0	n29010	n80114				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80051", 3, 1}  ], 0} 	0
 n80115	Ferocious brawny man	m_standI00	c_m18	-53.44062, 83.01137, -542.1291	324.1561		TRUE	FALSE	n8011501000					1	0	0	n29009	n80115				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80051", 3, 1}  ], 0} 	0
 n80116	Innkeeper's assistant	ml_standA00	c_m22	26.72607, 70.40633, -585.3457	218.4459		TRUE	FALSE	n8011601000		sc80116001			1	0	0	n20095	n80116				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85022", 3, 1}  ], 0} 	0
@@ -5171,15 +5171,15 @@ n80117	Innkeeper's assistant	m_paperwork002b	c_m22	23.626, 70.53468, -583.296	64
 n80118	Innkeeper's assistant	ml_standA00	c_m22	24.54893, 70.53468, -575.5524	158.5903		TRUE	FALSE	n8011801008		sc80118001			1	0	0	n20258	n80118				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85022", 3, 1}  ], 0} 	0
 n80119	Golden belly	ml_standA00	n07016	117.441, 90.07541, -239.599	253.1229		TRUE	TRUE	n8011901008					1	26	0	n90511	n80119			(Food,1)(Currency_Stuff,1)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "f00024", 1, 0}  ], 0} 	0
 n80120	Butcher Kindness	w_standC00	n07013	109.8287, 90.0656, -252.2895	0		TRUE	FALSE	n8012001000					2	26	0	n90512	n80120				{ "LogicalNode" : [ { "CheckFlagAction" : "f00024", 1, 0}  ], 0} 	0
-n80121	Wen San Niang's subordinates	ml_standA00	c_m07	-57.75549, 82.95159, -545.9421	155.3405		FALSE	FALSE						1	0	0	n29006	n80121				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
-n80122	Wen San Niang's subordinates	ml_standA00	c_m12	-58.92883, 82.9516, -546.9785	157.8689		FALSE	FALSE						1	0	0	n29007	n80122				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
-n80123	Wen San Niang's subordinates	m_standI00	c_m19	-54.9436, 82.9516, -553.4634	343.4516		FALSE	FALSE						1	0	0	n29010	n80123				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
-n80124	Wen San Niang's subordinates	ml_standA00	c_m18	-52.49292, 82.9516, -552.2634	328.8171		FALSE	FALSE						1	0	0	n29009	n80124				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
-n80125	Wen San Niang companion	ml_standA00	c_m22	-59.60889, 82.9516, -550.3044	76.32199		FALSE	FALSE						1	0	0	n20095	n80125				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
-n80126	Wen San Niang companion	ml_standA00	c_m22	-58.49255, 82.9516, -552.6199	36.18118		FALSE	FALSE						1	0	0	n20095	n80126				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
-n80127	Wen San Niang's subordinates	ml_idle106	c_m12	32.70703, 70.3347, -588.229	299.2562		FALSE	FALSE						1	0	0	n29007	n80127				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80054", 1, 1}  ], 0} 	0
-n80128	Wen San Niang's subordinates	ml_idle109	c_m18	28.19312, 70.37022, -590.1064	0		FALSE	FALSE						1	0	0	n29009	n80128				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80054", 1, 1}  ], 0} 	0
-n80129	Wen San Niang's subordinates	ml_idle110	c_m19	30.47, 70.4, -583.99	199.7647		FALSE	FALSE						1	0	0	n29010	n80129				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80054", 1, 1}  ], 0} 	0
+n80121	Wen Sanniang's underlings	ml_standA00	c_m07	-57.75549, 82.95159, -545.9421	155.3405		FALSE	FALSE						1	0	0	n29006	n80121				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
+n80122	Wen Sanniang's underlings	ml_standA00	c_m12	-58.92883, 82.9516, -546.9785	157.8689		FALSE	FALSE						1	0	0	n29007	n80122				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
+n80123	Wen Sanniang's underlings	m_standI00	c_m19	-54.9436, 82.9516, -553.4634	343.4516		FALSE	FALSE						1	0	0	n29010	n80123				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
+n80124	Wen Sanniang's underlings	ml_standA00	c_m18	-52.49292, 82.9516, -552.2634	328.8171		FALSE	FALSE						1	0	0	n29009	n80124				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
+n80125	Wen Sanniang's crew	ml_standA00	c_m22	-59.60889, 82.9516, -550.3044	76.32199		FALSE	FALSE						1	0	0	n20095	n80125				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
+n80126	Wen Sanniang's crew	ml_standA00	c_m22	-58.49255, 82.9516, -552.6199	36.18118		FALSE	FALSE						1	0	0	n20095	n80126				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80053", 1, 1}  ], 0} 	0
+n80127	Wen Sanniang's underlings	ml_idle106	c_m12	32.70703, 70.3347, -588.229	299.2562		FALSE	FALSE						1	0	0	n29007	n80127				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80054", 1, 1}  ], 0} 	0
+n80128	Wen Sanniang's underlings	ml_idle109	c_m18	28.19312, 70.37022, -590.1064	0		FALSE	FALSE						1	0	0	n29009	n80128				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80054", 1, 1}  ], 0} 	0
+n80129	Wen Sanniang's underlings	ml_idle110	c_m19	30.47, 70.4, -583.99	199.7647		FALSE	FALSE						1	0	0	n29010	n80129				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80054", 1, 1}  ], 0} 	0
 n80130	Dapu	ml_standA02		369.5227, 63.94045, 597.84	253.2403		TRUE	FALSE	n8013001025					1	101	0	n00030	n80130			(Stone_Forge,2)	0	0
 n80131	Monkey	al20024@idle01	animal24	395.1482, 71.7902, 386.3286	64.92101		TRUE	TRUE	n8013101000			n80131		0	21	0	animal24	n80131			(Fruit_Food,2)	0	0
 n80132	Monkey	al20024@idle01	animal24	0, 0, 0	0		TRUE	TRUE	n8013101002			n80131		0	21	0	animal24	n80132			(Fruit_Food,2)	0	0
