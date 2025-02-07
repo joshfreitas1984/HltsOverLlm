@@ -203,12 +203,12 @@ public class TranslationWorkflowTests
             return true;
         }
 
-        if (split.Text.Contains("Target") || split.Text.Contains("Location"))
-        {
-            Console.WriteLine($"New Glossary {outputFile} Replaces: \n{split.Translated}");
-            split.FlaggedForRetranslation = true;
-            return true;
-        }
+        //if (split.Text.Contains("Target") || split.Text.Contains("Location") || split.Text.Contains("Inventory"))
+        //{
+        //    Console.WriteLine($"New Glossary {outputFile} Replaces: \n{split.Translated}");
+        //    split.FlaggedForRetranslation = true;
+        //    return true;
+        //}
 
         foreach (var glossary in newGlossaryStrings)
         {

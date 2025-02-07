@@ -18,6 +18,7 @@ public class LineValidation
     {
         raw = StripColorTags(raw)
             .Replace("Target", "{target}")
+            .Replace("Inventory", "{inventory}")
             .Replace("Location", "{location}");
 
         return raw;
@@ -73,7 +74,8 @@ public class LineValidation
 
             result = CleanupNamesResult(result)
                 .Replace("{target}", "Target")
-                .Replace("{location}", "Location");
+                .Replace("{location}", "Location")
+                .Replace("{inventory}", "Inventory");
 
             return result;
         }
@@ -194,6 +196,12 @@ public class LineValidation
         {
             response = false;
             correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "Location");
+        }
+
+        if (raw.Contains("Inventory") && !result.Contains("Inventory"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "Inventory");
         }
 
         // This can cause bad hallucinations if not being explicit on retries
