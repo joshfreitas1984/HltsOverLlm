@@ -50,8 +50,8 @@ public static class TranslationService
 
     public static void ExportTextAssetsToCustomFormat(string workingDirectory)
     {
-        string inputPath = $"{workingDirectory}/TextAsset";
-        string outputPath = $"{workingDirectory}/Export";
+        string inputPath = $"{workingDirectory}/Raw/TextAsset";
+        string outputPath = $"{workingDirectory}/Raw/Export";
         var serializer = Yaml.CreateSerializer();
 
         if (!Directory.Exists(outputPath))
@@ -111,8 +111,8 @@ public static class TranslationService
 
     public static async Task TranslateViaLlmAsync(string workingDirectory, bool forceRetranslation, bool useTranslationCache = true)
     {
-        string inputPath = $"{workingDirectory}/Export";
-        string outputPath = $"{workingDirectory}/Translated";
+        string inputPath = $"{workingDirectory}/Raw/Export";
+        string outputPath = $"{workingDirectory}/Converted";
 
         // Create output folder
         if (!Directory.Exists(outputPath))
@@ -221,7 +221,7 @@ public static class TranslationService
 
     public static async Task PackageFinalTranslationAsync(string workingDirectory)
     {
-        string inputPath = $"{workingDirectory}/Translated";
+        string inputPath = $"{workingDirectory}/Converted";
         string outputPath = $"{workingDirectory}/Mod/EnglishLlmByLash/config/textfiles";
         string failedPath = $"{workingDirectory}/TestResults/Failed";
 
@@ -288,7 +288,7 @@ public static class TranslationService
     public static async Task IterateThroughTranslatedFilesAsync(string workingDirectory, Func<string, TextFileToSplit, List<TranslationLine>, Task> performActionAsync)
     {
         var deserializer = Yaml.CreateDeserializer();
-        string outputPath = $"{workingDirectory}/Translated";
+        string outputPath = $"{workingDirectory}/Converted";
 
         foreach (var textFileToTranslate in GetTextFilesToSplit())
         {

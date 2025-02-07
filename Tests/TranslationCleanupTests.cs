@@ -11,8 +11,8 @@ public class TranslationCleanupTests
     [Fact]
     public void MatchRawLines()
     {
-        string outputPath = $"{workingDirectory}/Translated";
-        string exportPath = $"{workingDirectory}/Export";
+        string outputPath = $"{workingDirectory}/Converted";
+        string exportPath = $"{workingDirectory}/Raw/Export";
         var serializer = Yaml.CreateSerializer();
         var deserializer = Yaml.CreateDeserializer();
 
@@ -76,96 +76,7 @@ public class TranslationCleanupTests
         File.WriteAllLines($"{workingDirectory}/TestResults/ForManualTrans.txt", forTheGlossary);
 
         await TranslateFailedLinesForManualTranslation();
-    }
-
-    //[Fact]
-    //public async Task IsItEnglishPrompt()
-    //{
-    //    var config = Configuration.GetConfiguration(workingDirectory);
-    //    var serializer = Yaml.CreateSerializer();        
-
-    //    // Create an HttpClient instance
-    //    using var client = new HttpClient();
-    //    client.Timeout = TimeSpan.FromSeconds(300);
-
-    //    // Prime the Request
-
-    //    var basePrompt = config.Prompts["QueryEnglish"];
-    //    var lines = new List<string>();
-
-    //    var parallelOptions = new ParallelOptions
-    //    {
-    //        MaxDegreeOfParallelism = config.BatchSize ?? 10
-    //    };
-
-    //    await TranslationService.IterateThroughTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
-    //    {
-    //        foreach (var line in fileLines)
-    //        {
-    //            int recordsModded = 0;
-
-    //            await Parallel.ForEachAsync(line.Splits, parallelOptions, async (split, cancellationToken) =>
-    //            {
-    //                var stopWatch = new Stopwatch();
-    //                stopWatch.Start();
-
-    //                if (string.IsNullOrEmpty(split.Text))
-    //                    return;
-
-    //                if (split.FlaggedForRetranslation)
-    //                    return;
-
-    //                var prompt = $"{basePrompt}\n{split.Translated}";
-
-    //                List<object> messages =
-    //                   [
-    //                       LlmHelpers.GenerateUserPrompt(prompt)
-    //                   ];
-
-    //                // Generate based on what would have been created
-    //                var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
-
-    //                // Send correction & Get result
-    //                HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
-    //                HttpResponseMessage response = await client.PostAsync(config.Url, content, cancellationToken);
-    //                response.EnsureSuccessStatusCode();
-    //                string responseBody = await response.Content.ReadAsStringAsync(cancellationToken);
-    //                using var jsonDoc = JsonDocument.Parse(responseBody);
-    //                var result = jsonDoc.RootElement
-    //                    .GetProperty("message")!
-    //                    .GetProperty("content")!
-    //                    .GetString()
-    //                    ?.Trim() ?? string.Empty;
-
-    //                if (result.StartsWith("No"))
-    //                {
-    //                    var output = $"File: {outputFile}\nLine: {line.LineNum}-{split.Split} Text: {split.Translated}";
-    //                    Console.WriteLine(output);
-    //                    Console.WriteLine(result);
-    //                    lines.Add(output);
-    //                }
-
-    //                Console.WriteLine($"Elapsed: {stopWatch.Elapsed}");
-
-    //                split.FlaggedForRetranslation = true;
-    //                recordsModded++;
-    //            });
-
-    //            if (recordsModded > 0)
-    //            {
-    //                Console.WriteLine($"Writing {recordsModded} records to {outputFile}");
-    //                await File.WriteAllTextAsync(outputFile, serializer.Serialize(fileLines));
-    //            }
-    //        }
-
-    //        await Task.CompletedTask;
-    //        File.WriteAllLines($"{workingDirectory}/TestResults/NotEnglishLines.txt", lines);
-    //    });
-
-
-
-    //    File.WriteAllLines($"{workingDirectory}/TestResults/NotEnglishLines.txt", lines);
-    //}
+    }   
 
     [Fact]
     public void CheckTransalationSuccessfulTest()
@@ -323,52 +234,7 @@ public class TranslationCleanupTests
         }
 
         return output.Trim();
-    }
-
-    //private static bool ContainsGender(string input)
-    //{
-    //    // Deliberately only want 'he' and not 'He' (because common name)
-    //    if (input.Contains(" he "))
-    //    {
-    //        if (input.Contains("brother", StringComparison.OrdinalIgnoreCase) || input.Contains("lord", StringComparison.OrdinalIgnoreCase))
-    //            return false;
-
-    //        return true;
-    //    }
-
-    //    if (input.StartsWith("she ", StringComparison.OrdinalIgnoreCase) |
-    //        input.Contains(" she ", StringComparison.OrdinalIgnoreCase))
-    //    {
-    //        if (input.Contains("miss", StringComparison.OrdinalIgnoreCase) || input.Contains("lady", StringComparison.OrdinalIgnoreCase))
-    //            return false;
-
-    //        return true;
-    //    }
-
-    //    return false;
-    //}
-
-    //private static bool ContainsAnimalSounds(string? input)
-    //{
-    //    if (input == null)
-    //        return false;
-
-    //    // Deliberately only want 'he' and not 'He' (because common name)
-    //    if (input.Contains("meow", StringComparison.OrdinalIgnoreCase)
-    //        || input.Contains("hss", StringComparison.OrdinalIgnoreCase)
-    //        || input.Contains("woof", StringComparison.OrdinalIgnoreCase)
-    //        || input.Contains("moo", StringComparison.OrdinalIgnoreCase)
-    //        || input.Contains("chirp", StringComparison.OrdinalIgnoreCase)
-    //        || input.Contains("hiss", StringComparison.OrdinalIgnoreCase))
-    //    {
-    //        if (!input.Contains("moon", StringComparison.OrdinalIgnoreCase)
-    //            && !input.Contains("mood", StringComparison.OrdinalIgnoreCase)
-    //            && !input.Contains("smooth", StringComparison.OrdinalIgnoreCase))
-    //            return true;
-    //    }
-
-    //    return false;
-    //}
+    }    
 
     public static bool MatchesContextRetrans(string input)
     {

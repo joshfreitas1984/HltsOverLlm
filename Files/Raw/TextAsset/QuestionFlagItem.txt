@@ -1,0 +1,42 @@
+#id	編號(稱號編號or感悟編號)	類別(1是稱號、2是感悟、3是AnimationMapping、4是預設模板)
+#範例：遊戲旗標
+ff001	f0harem	0
+ff002	GameDifficulty	0
+#範例：稱號		
+nf001	nick001	1
+nf002	nick002	1
+nf003	nick003	1
+nf004	nick004	1
+nf005	nick005	1
+nf006	nick028	1
+nf007	nick040	1
+nf008	nick041	1
+nf009	nick042	1
+nf010	nick043	1
+nf011	nick044	1
+nf012	nick045	1
+#範例：初始感悟		
+tf001	2_TalentNode000	2
+tf002	3_TalentNode000	2
+tf003	0_TalentNode027	2
+tf004	1_TalentNode000	2
+tf005	4_TalentNode000	2
+tf006	5_TalentNode000	2
+#範例：初始性格(AnimationMapping)
+af001	a00008	3
+af002	a00004	3
+af003	a00006	3
+af004	a00012	3
+af005	a00002	3
+#範例：預設CharacterProperty模板
+cf001	n80416	4
+cf002	n80417	4
+cf003	n80418	4
+cf004	n80419	4
+cf005	n80420	4
+cf006	n80421	4
+cf007	n80422	4
+cf008	n80423	4
+cf009	n80424	4
+cf010	n80425	4
+cf011	n80426	4

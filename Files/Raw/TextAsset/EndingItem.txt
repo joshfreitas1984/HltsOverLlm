@@ -1,0 +1,25 @@
+Ending00	Ending00	J2020.wav	
+Ending01	Ending01	J2018.wav	{ "LogicalNode" : [ { "CheckFlagAction" : "f0ending", 1, 1}  ], 0}
+Ending02	Ending02	J2018.wav	{ "LogicalNode" : [ { "CheckFlagAction" : "f0ending", 1, 0}  ], 0}
+Ending03	Ending03	J2019.wav	{ "LogicalNode" : [ { "CheckFlagAction" : "f0ending", 1, 2}  ], 0}
+Ending04	Ending04	J2019.wav	{ "LogicalNode" : [ { "CheckFlagAction" : "f0ending", 1, 3}  ], 0}
+Ending05	Ending05		{ "LogicalNode" : [ { "CheckFlagAction" : "f0ending", 2, 2}  ], 0}
+Ending06	Ending06		{ "LogicalNode" : [ { "CheckFlagAction" : "f69014-1藍拂衣給圖", 0, 0} , { "QuestCondition" : "Q60037_04", 1, True} , { "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True}  ], 1} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0}
+Ending07	Ending07		{ "LogicalNode" : [ { "QuestCondition" : "Q52005_12", 1, True} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0}
+Ending08	Ending08		{ "LogicalNode" : [ { "QuestCondition" : "Q60044", 1, True} , { "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True}  ], 1} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0}
+Ending09	Ending09		{ "LogicalNode" : [ { "QuestCondition" : "Q00014_01", 1, True} , { "CheckFlagAction" : "f00016", 1, 1} , { "CheckFlagAction" : "f09999", 0, 0} , { "CheckFlagAction" : "f0ending", 2, 2} , { "CheckFlagAction" : "f2love", 1, 0}  ], 0}
+Ending10	Ending10		{ "LogicalNode" : [ { "QuestCondition" : "Q00012_01", 1, True} , { "CheckFlagAction" : "f00015", 1, 1} , { "CheckFlagAction" : "f09999", 0, 0} , { "CheckFlagAction" : "f0ending", 2, 2} , { "CheckFlagAction" : "f2love", 1, 0}  ], 0}
+Ending11	Ending11		{ "LogicalNode" : [ { "CheckFlagAction" : "f0ending", 2, 2}  ], 0}
+Ending12	Ending12		{ "LogicalNode" : [ { "CheckFlagAction" : "f0ending", 1, 0}  ], 0}
+Ending13	Ending13		{ "LogicalNode" : [ { "QuestCondition" : "Q60040", 1, True} , { "CheckFlagAction" : "f64013-2救先生", 0, 0}  ], 0}
+Ending14	Ending14		{ "LogicalNode" : [ { "QuestCondition" : "Q60040", 1, True} , { "CheckFlagAction" : "f64013-1救緋緋", 0, 0}  ], 0}
+Ending15	Ending15		{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True}  ], 1} , { "LogicalNode" : [ { "QuestCondition" : "Q60037", 1, True} , { "CheckFlagAction" : "f61054-2酒窖幫老太爺", 0, 0}  ], 0}  ], 0}
+Ending16	Ending16		{ "LogicalNode" : [ { "QuestCondition" : "Q60037", 1, True} , { "CheckFlagAction" : "f61054-1酒窖幫陳長衛", 0, 0}  ], 0}
+Ending17	Ending17		{ "LogicalNode" : [ { "CheckFlagAction" : "f0ending", 2, 2}  ], 0}
+Ending18	Ending18		{ "LogicalNode" : [ { "CheckFlagAction" : "f09997", 1, 1} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0}
+Ending19	Ending19		{ "LogicalNode" : [ { "CheckFlagAction" : "f09996", 1, 1} , { "LogicalNode" : [ { "CheckFlagAction" : "f0harem", 3, 1} , { "CheckFlagAction" : "f0百損", 3, 1} , { "CheckFlagAction" : "f0孫凝", 3, 1} , { "QuestCondition" : "Q60039", 1, False} , { "LogicalNode" : [ { "CheckFlagAction" : "f0玉書1", 3, 1} , { "CheckFlagAction" : "f0玉書2", 3, 1}  ], 0}  ], 1}  ], 0}
+Ending21	Ending21		{ "LogicalNode" : [ { "CheckFlagAction" : "f0ending", 2, 2} , { "QuestCondition" : "Q60048", 1, True} ], 0}
+Ending22	Ending22		{ "LogicalNode" : [ { "CheckFlagAction" : "f0ending", 0, 1} , { "QuestCondition" : "Q60048", 1, True} ], 0}
+Ending23	Ending23		{ "LogicalNode" : [ { "QuestCondition" : "Q60039", 1, True} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0}
+Ending24	Ending24		{ "LogicalNode" : [ { "CheckFlagAction" : "f0harem", 1, 1} , { "LogicalNode" : [ { "CheckFlagAction" : "f0玉書1", 1, 1} , { "CheckFlagAction" : "f0玉書2", 1, 1}  ], 1} , { "CheckFlagAction" : "f0百損", 1, 1} , { "CheckFlagAction" : "f0孫凝", 1, 1} , { "CheckFlagAction" : "f0ending", 0, 1}  ], 0}
+Ending20	Ending20		{ "LogicalNode" : [ { "CheckFlagAction" : "f2love", 1, 1}  ], 0}

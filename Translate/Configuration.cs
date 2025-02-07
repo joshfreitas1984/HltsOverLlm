@@ -68,12 +68,12 @@ public static class Configuration
         var yaml = Yaml.CreateDeserializer();
         var result = new GameData()
         {
-            Names = GetGameData($"{workingDirectory}/Game/Names.yaml", yaml),
-            Factions = GetGameData($"{workingDirectory}/Game/Factions.yaml", yaml),
-            Locations = GetGameData($"{workingDirectory}/Game/Locations.yaml", yaml),
-            SpecialTermsSafe = GetGameData($"{workingDirectory}/Game/SpecialTermsSafe.yaml", yaml),
-            SpecialTermsUnsafe = GetGameData($"{workingDirectory}/Game/SpecialTermsUnsafe.yaml", yaml),
-            Titles = GetGameData($"{workingDirectory}/Game/Titles.yaml", yaml),
+            Names = GetGameData($"{workingDirectory}/GameData/Names.yaml", yaml),
+            Factions = GetGameData($"{workingDirectory}/GameData/Factions.yaml", yaml),
+            Locations = GetGameData($"{workingDirectory}/GameData/Locations.yaml", yaml),
+            SpecialTermsSafe = GetGameData($"{workingDirectory}/GameData/SpecialTermsSafe.yaml", yaml),
+            SpecialTermsUnsafe = GetGameData($"{workingDirectory}/GameData/SpecialTermsUnsafe.yaml", yaml),
+            Titles = GetGameData($"{workingDirectory}/GameData/Titles.yaml", yaml),
         };
 
         //Add Placeholders with titles
