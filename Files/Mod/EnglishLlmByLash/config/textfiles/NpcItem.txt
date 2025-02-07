@@ -1702,7 +1702,7 @@ n20558	Official Riders	ml_idle102		0, 0, 0	0		FALSE	FALSE						1	0	1	n00047e	n20
 n20559	Official Riders	ml_idle105		0, 0, 0	0		FALSE	FALSE						1	0	1	n00047f	n20559				0	0
 n20560	Official Riders	ml_idle101		0, 0, 0	0		FALSE	FALSE						1	0	1	n00047g	n20560				0	0
 n20561	Official Riders	ml_idle102		0, 0, 0	0		FALSE	FALSE						1	0	1	n00047h	n20561				0	0
-n20562	Zhang You Chen	ml_standA00	n60301	0, 0, 0	0		FALSE	TRUE		v00083				1	8	1	n60301	n60340				0	0
+n20562	Zhang Youchen	ml_standA00	n60301	0, 0, 0	0		FALSE	TRUE		v00083				1	8	1	n60301	n60340				0	0
 n20563	Huang Shang	ml_standA00	n53001	0, 0, 0	0		FALSE	TRUE		v00107				1	8	1	n53001	n53001				0	0
 n20564	Xia Zhe'er	ml_standA00	n20510	0, 0, 0	0		FALSE	TRUE		v00168				1	27	1	n20510	n20510				0	0
 n20565	Ye Jinhong	ml_standA00	n20146	0, 0, 0	0		FALSE	TRUE		v00074				1	19	1	n20146	n20146				0	0
@@ -4682,7 +4682,7 @@ n60336	Servant Madam Jiang	ml_standA00		0, 0, 0	0		FALSE	FALSE	n6033601000	v0003
 n60337	Chen Pu	ml_standA00	c_m11	0, 0, 0	0		FALSE	FALSE	n6033701000	v00058				1	6	0	n60312-1	n60337	n60337-1,n60337-2,n60337-3,n60337-4,n60337-5,n60337-6,n60337-7			{ "LogicalNode" : [ { "CheckFlagAction" : "f61054-2酒窖幫老太爺", 1, 0}  ], 0} 	0
 n60338	Direct Descendant Chen Rui	ml_standA00	c_m12	0, 0, 0	0		FALSE	FALSE	n6033801000	v00059				1	6	0	n60312-1	n60338	n60338-1,n60338-2,n60338-3,n60338-4,n60338-5,n60338-6,n60338-7			{ "LogicalNode" : [ { "CheckFlagAction" : "f61054-2酒窖幫老太爺", 1, 0}  ], 0} 	0
 n60339	Chen Qu - Direct Descendant	ml_standA00	c_m13	0, 0, 0	0		FALSE	FALSE	n6033901000	v00058				1	6	0	n60312-1	n60339	n60339-1,n60339-2,n60339-3,n60339-4,n60339-5,n60339-6,n60339-7			{ "LogicalNode" : [ { "CheckFlagAction" : "f61054-2酒窖幫老太爺", 1, 0}  ], 0} 	0
-n60340	Imperial Guard Commandant Zhang Yuchen	ml_standA00	n60301	-354.2552, 80.29533, 575.4223	247.7718		FALSE	TRUE	n6034001000	v00083				1	0	0	n60301	n60340	n60340-1,n60340-2			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "QuestCondition" : "Q60037", 1, False}  ], 0} 	0
+n60340	Imperial Guard Commander Zhang Youchen	ml_standA00	n60301	-354.2552, 80.29533, 575.4223	247.7718		FALSE	TRUE	n6034001000	v00083				1	0	0	n60301	n60340	n60340-1,n60340-2			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "QuestCondition" : "Q60037", 1, False}  ], 0} 	0
 n60341a	Imperial Guard	ml_standA00	c_m15	-364.2955, 80.23052, 574.9787	69.21376		FALSE	FALSE	n6034101000	v00110				1	0	0	n60302	n60341a	n60341a-1,n60341a-2,n60341a-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "QuestCondition" : "Q60037", 1, False}  ], 0} 	0
 n60341b	Imperial Guard	ml_standA00	c_m16	-367.1736, 80.15489, 572.9799	41.47775		FALSE	FALSE	n6034101001	v00110				1	0	0	n60303	n60341b	n60341b-1,n60341b-2,n60341b-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "QuestCondition" : "Q60037", 1, False}  ], 0} 	0
 n60341c	Imperial Guard	ml_standA00	c_m17	-368.8029, 80.08821, 571.541	48.51696		FALSE	FALSE	n6034101002	v00110				1	0	0	n60304	n60341c	n60341c-1,n60341c-2,n60341c-3			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "QuestCondition" : "Q60037", 1, False}  ], 0} 	0
