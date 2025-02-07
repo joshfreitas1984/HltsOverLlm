@@ -16,7 +16,11 @@ public class LineValidation
 
     public static string PrepareRaw(string raw)
     {
-        return StripColorTags(raw);
+        raw = StripColorTags(raw)
+            .Replace("Target", "{target}")
+            .Replace("Location", "{location}");
+
+        return raw;
     }
 
     public static string CleanupNamesResult(string input)
@@ -67,7 +71,10 @@ public class LineValidation
             if (result.StartsWith('\n'))
                 result = result[1..];
 
-            result = CleanupNamesResult(result);
+            result = CleanupNamesResult(result)
+                .Replace("{target}", "Target")
+                .Replace("{location}", "Location");
+
             return result;
         }
         else
@@ -175,6 +182,18 @@ public class LineValidation
         {
             response = false;
             correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "{name_2}");
+        }
+
+        if (raw.Contains("Target") && !result.Contains("Target"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "Target");
+        }
+
+        if (raw.Contains("Location") && !result.Contains("Location"))
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "Location");
         }
 
         // This can cause bad hallucinations if not being explicit on retries

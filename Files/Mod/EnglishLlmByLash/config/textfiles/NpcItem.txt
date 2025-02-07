@@ -2524,7 +2524,7 @@ n50065b	A man with a harsh tone	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	3	0		
 n50065m1	Mu Kui	old_m_specialStand003	n50065	0, 0, 0	0		FALSE	TRUE		v00246				1	3	0	n50065	n50065				0	0
 n50065m2	Mu Kui	old_m_specialStand003	n50065	0, 0, 0	0		FALSE	TRUE		v00246				1	3	0	n50065	n50065b				0	0
 n50066	Li Huoxiang	ml_standA00	n20129	-647.256, 66.994, -1024.008	286.1386	6-17	TRUE	TRUE		v00226				1	0	0	n20129	n07004				{ "LogicalNode" : [ { "CheckFlagAction" : "f50047木奎金瓜貢茶任務階段", 2, 2} , { "QuestCondition" : "Q20011_01", 0, False} , { "QuestCondition" : "Q20011_08", 0, False} , { "QuestCondition" : "Q20011_10", 0, False}  ], 0} 	0
-n50066b	Acerbic man	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	0	0						0	0
+n50066b	Man with a sharp tone	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	0	0						0	0
 n50066c	Li Huoxiang	ml_standA00	n20129	-652.688, 66.994, -1026.751	118.4618		FALSE	TRUE	n5006504095	v00226				1	0	0	n20129	n07004				{ "LogicalNode" : [ { "QuestCondition" : "Q52002_05", 0, True} , { "QuestCondition" : "Q52006", 0, False} , { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
 n50066m1	Li Huoxiang	ml_standA00	n20129	0, 0, 0	0		TRUE	TRUE		v00226				1	0	1	n20129	n07004				0	0
 n50067a	Mu Mansion Guard A Jian	m_standA00	c_m21	-649.57, 66.18829, -1014.76	216.16	6-17	TRUE	FALSE	n5006501000	v00071b				1	3	0	n20050d	n50074				{ "LogicalNode" : [ { "CheckFlagAction" : "f50047木奎金瓜貢茶任務階段", 2, 2} , { "QuestCondition" : "Q20011_01", 0, False} , { "QuestCondition" : "Q20011_08", 0, False} , { "QuestCondition" : "Q20011_10", 0, False}  ], 0} 	0
@@ -4514,11 +4514,11 @@ n60198e	Qiu Hong of Taoshi Gang	ml_standA00		-408.4543, 67.12001, -1117.508	0		F
 n60198f	Grand Aid of the Taoshi Gang	m_standB00		-404.58, 67.05408, -1125.48	118.0973		FALSE	FALSE	n6019801011	v00259				1	2	0	n60119					{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True} , { "CheckFlagAction" : "f60089-2殺了趙掌櫃", 0, 0}  ], 0} 	0
 n60198g	Gua Zi (Taoshi Gang)	m_standB00		-401.05, 67.05408, -1123.67	169.3945		FALSE	FALSE	n6019801012	v00258				1	2	0	n60120					{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True} , { "CheckFlagAction" : "f60089-2殺了趙掌櫃", 0, 0}  ], 0} 	0
 n60199	Jiang Bo	ml_standA00		-399.1403, 67.08, -1125.663	292.707		FALSE	FALSE	n6019901000	v00050				1	2	0	n30049					{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 1, True} , { "TimeCondition" : 5, 18}  ], 0} 	0
-n60200	Shu Ace	w_worship_ec		-22.43753, 126.5547, -1034.543	342.5165		FALSE	FALSE	n6020001000	v00017	sc60200001			2	1	0	n60011		n60200-1,n60200-2,n60200-3,n60200-4,n60200-5			0	0
-n60200b	Shu Ace	w_sleep004_ec		0, 0, 0	0		FALSE	FALSE	n6020001056	v00017				2	1	0	n60011					0	0
-n60201	Mo Dazhuiri	m_woodman_stand00		-48.65103, 126.8067, -1014.059	182.9046		FALSE	FALSE	n6020101000	v00064	sc60201001			1	1	0	n60010	n60201	n60201-1,n60201-2			0	0
+n60200	Fu Acui	w_worship_ec		-22.43753, 126.5547, -1034.543	342.5165		FALSE	FALSE	n6020001000	v00017	sc60200001			2	1	0	n60011		n60200-1,n60200-2,n60200-3,n60200-4,n60200-5			0	0
+n60200b	Fu Acui	w_sleep004_ec		0, 0, 0	0		FALSE	FALSE	n6020001056	v00017				2	1	0	n60011					0	0
+n60201	Mao Darui	m_woodman_stand00		-48.65103, 126.8067, -1014.059	182.9046		FALSE	FALSE	n6020101000	v00064	sc60201001			1	1	0	n60010	n60201	n60201-1,n60201-2			0	0
 n60202	Mei Xinhui	m_sitSmoke001_ec		-26.798, 126.4755, -1023.336	161.6832		FALSE	FALSE	n6020201000	v00010				1	1	0	n20022	n60202	n60202-1,n60202-2,n60202-3			0	0
-n60203	Ji Dafa (Shopkeeper Ji)	ml_standA00		-21.73922, 126.5547, -1006.148	279.9368		FALSE	FALSE	n6020301000	v00013				1	102,1	0	n60203	n60203	n60203-1,n60203-2,n60203-3			0	0
+n60203	Shopkeeper Ji	ml_standA00		-21.73922, 126.5547, -1006.148	279.9368		FALSE	FALSE	n6020301000	v00013				1	102,1	0	n60203	n60203	n60203-1,n60203-2,n60203-3			0	0
 n60204	Mei Zhu Fang	m_Blacksmith_work01	c_m25	-46.001, 127.0179, -1039.329	212.6587		FALSE	FALSE	n6020401000	v00012				1	101,1	0	n30037	n60204	n60204-1,n60204-2,n60204-3		(Weapon,1)(Armor,1)(Forge,1)(Money,1)	0	0
 n60204b	Mei Zhu Fang	m_standA00		0, 0, 0	0		FALSE	FALSE	n6020401000	v00012				1	101,1	0	n30037-2	n60204			(Weapon,1)(Armor,1)(Forge,1)(Money,1)	0	0
 n60205	Shu Agui	wl_standA00		-57.775, 127.0273, -1034.074	276.176		FALSE	FALSE	n6020501000	v00014	sc60205001			2	1	0	n20004	n60205	n60205-1,n60205-2,n60205-3			0	0

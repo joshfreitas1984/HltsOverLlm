@@ -203,6 +203,13 @@ public class TranslationWorkflowTests
             return true;
         }
 
+        if (split.Text.Contains("Target") || split.Text.Contains("Location"))
+        {
+            Console.WriteLine($"New Glossary {outputFile} Replaces: \n{split.Translated}");
+            split.FlaggedForRetranslation = true;
+            return true;
+        }
+
         foreach (var glossary in newGlossaryStrings)
         {
             if (split.Text.Contains(glossary))
@@ -382,7 +389,8 @@ public class TranslationWorkflowTests
     {
         string[] words = ["hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado", 
             "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
-            "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una",  "keqi", "shiwu", "niang", "fuck"]; //"na", "daren", "furen",
+            "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una",  "keqi", "shiwu", 
+            "niang", "fuck", "ich", "daren", "furen", "ein", "der", "ganzes", "Leben", "dort"];
 
         foreach (var word in words)
         {
