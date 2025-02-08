@@ -78,7 +78,6 @@ public class TranslationWorkflowTests
         {
             // Manual
             {  "接仙篇", "Chapter of Receiving Immortality" },
-            {  "桔糖", "Tangerine Candy" },
             {  "奖励：", "Reward:" },
             {  "进度：", "Progress:" },
             {  "刚勇", "Brave and Bold" },
