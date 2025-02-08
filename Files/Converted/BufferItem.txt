@@ -8196,7 +8196,7 @@
   splits:
   - split: 1
     text: "天水毒蟾"
-    translated: "Heavenly Water Poisonous Toad"
+    translated: "Tianshui toad poison"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8218,7 +8218,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "可捕捉碧眼金蝎并炼制碧眼金蝎毒。根据记载，天水毒蟾多生长于穷山荒谷"
-    translated: "Can capture blue-eyed scorpions and refine the poison from them. According to records, Thunder Water Poison Toads mainly grow in barren mountains and desolate valleys"
+    translated: "You can capture the emerald-eyed scorpions and refine their poison. According to records, Tianshui toad poison typically grows in barren mountains and remote valleys"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -13194,7 +13194,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "叶随风转附加4点封穴值"
-    translated: "Ye sui feng zhuan fujia si dian feng xue zhi"
+    translated: "Leaf follows the wind, adding 4 points to the acupoint sealing value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17578,9 +17578,9 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "战斗时，泼墨雪加入战局。"
-    translated: "During the battle, Ink-Stained-Snow joined the fray"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Ink Stained Snow,泼墨雪,"
+    translated: "During the battle, Ink Stained Snow joined the fray"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1099
   raw: "nick027buffP	镜花水月	战斗时，泼墨雪加入战局，自身每回合卸劲、虚招上升10%。	0	nickname	0	TRUE	0	FALSE	0	0		nick027buffP"

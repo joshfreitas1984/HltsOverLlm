@@ -510,8 +510,8 @@ buffSkillTree085_001	Yu'e runs to heaven and never regrets it	Before making a mo
 buffSkillTree085_009	Climb the Pine of Immortals	Desire to climb up to the fairy orchid and moon palace consumes 1 extra point of energy, increases power by 120 points, and adds an additional 6 points to the split bone value	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree085_010	Only to waste away	As the moon follows a person's form, it consumes 1 additional point of energy, increases power by 110 points, and adds an extra 6 points to internal injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree085_011	Never regret	Juyue runs to the sky without regret, reducing her vigor consumption by 1 point	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree084_000	Heavenly Water Poisonous Toad	Can capture Tianshui poisonous toad and refine Tianshui toad poison. According to records, Tianshui poisonous toads often grow in damp caves	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree084_001	Pale-eyed Golden Scorpion	Can capture blue-eyed scorpions and refine the poison from them. According to records, Thunder Water Poison Toads mainly grow in barren mountains and desolate valleys	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree084_000	Tianshui toad poison	Can capture Tianshui poisonous toad and refine Tianshui toad poison. According to records, Tianshui poisonous toads often grow in damp caves	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree084_001	Pale-eyed Golden Scorpion	You can capture the emerald-eyed scorpions and refine their poison. According to records, Tianshui toad poison typically grows in barren mountains and remote valleys	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree084_006	Scratch one's brain	As poison techniques and dark values increase, the power of the moves becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree084_006
 buffSkillTree084_007	Pale with fear	The higher the level of poison techniques and dark arts, the more powerful the skills	0		0	FALSE	0	FALSE	0	0		buffSkillTree084_007
 buffSkillTree084_008	Poisonous scorpion stings	Each time it is used to instill heart-pounding terror, there is a chance to cause the enemy panic, significantly reducing their attack and defense capabilities for two turns. The higher the enemy's dizziness value, the greater the probability of falling into panic	0		0	FALSE	0	FALSE	0	0		buffSkillTree084_008
@@ -822,7 +822,7 @@ buffSkillTree176_005	Adhesive Force	Execute entanglement force to enclose the en
 buffSkillTree176_006	Ma Hua Jing	Perform a spin to transfer momentum onto the enemy. Spring Tether adds 4 points of dizziness, increasing the chance of attacking in random directions	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree176_010	Coiling Silk Strength	Execute binding force to entrap the enemy, strip and peel off the silk, adding an internal injury value of 6 points, making the enemy more inclined to switch targets to themselves	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree176_011	Whirlwind Force	Using a twisting maneuver to pull the enemy along, unraveling like peeling a silkworm's cocoon adds 6 points of dizziness; the rate of hitting random targets increases	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree177_002	One leaf knows autumn	Ye sui feng zhuan fujia si dian feng xue zhi	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree177_002	One leaf knows autumn	Leaf follows the wind, adding 4 points to the acupoint sealing value	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree177_003	Leaves return to their roots	Ye Suifeng added four points to internal injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree177_007	Spring chill is piercing	Smile and pluck the spring blossoms, adding six points to seal technique	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree177_008	Spring is as deep as the sea	Laughter plucks the spring blooms, adding 6 points of internal injury	0		0	FALSE	0	FALSE	0	0		0
@@ -1096,7 +1096,7 @@ nick025P	Wipe out completely	For each enemy killed, restore 3 points of energy a
 nick025buffP	Kill! Kill! Kill! Kill!	Massacre, attack power increased by 50%	0	battle	0	TRUE	0	FALSE	0	0		nick025buffP
 nick026buff	Overturning the Leviathan	Each time an attack is made, there is a 30% chance to recover 1 point of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick026buff
 nick026buffP	Plum Blossom Ground	Every time an attack is made, there is a 35% chance of restoring 1 point of energy and increasing the combo rate by 20%	0	nickname	0	TRUE	0	FALSE	0	0		nick026buffP
-nick027buff	Silver Hook Lustrous Colors	During the battle, Ink-Stained-Snow joined the fray	0	nickname	0	TRUE	0	FALSE	0	0		nick027buff
+nick027buff	Silver Hook Lustrous Colors	During the battle, Ink Stained Snow joined the fray	0	nickname	0	TRUE	0	FALSE	0	0		nick027buff
 nick027buffP	Illusory reflections	During combat, Ink Stained Snow joins the fray. Each round, it reduces its own strength and increases feigned attacks by 10%	0	nickname	0	TRUE	0	FALSE	0	0		nick027buffP
 nick028buff	Heavenly Meteor, Solitary Star	If there are no allies, damage and damage reduction increase by 50%. Each round dispels negative status effects for 12 points. Each attack recovers 1 point of energy. Every three attacks restore 15% of the user's own life and Qi	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick029	Bladesman	All blade arts power +70%	0	nickname	0	TRUE	0	FALSE	0	0		nick029
