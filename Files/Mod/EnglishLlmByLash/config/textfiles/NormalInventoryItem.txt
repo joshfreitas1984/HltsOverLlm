@@ -384,11 +384,11 @@ it801074	Heaven's Pillar Fort Tiger Token (left)	it801051	The Heaven's Pillar, a
 it801075	Heaven's Pillar Fort Tiger Seal (Right)	it801051	Heaven's Pillar Fort's important talisman, which also serves as the credentials of the Second Fort Leader, is usually kept under close guard by Wang Zhe	801	0	0	FALSE	0	50	0	0	0		0			0
 it801076	Ink-marked talisman paper	it801076	In the ruined temple, they found an old and tattered talisman with strange symbols drawn on it that were neither letters nor words, leaving them completely bewildered	801	0	0	FALSE	0	50	0	0	0		0			0
 it801077	Wax candles inscribed with marks	it801077	Found in the dilapidated temple, the remnants of a candle were inscribed with strange symbols that resembled characters yet were not, leaving people completely baffled	801	0	0	FALSE	0	50	0	0	0		0			0
-it801078	Jade Wheel Stone	it801078	Green sacred stone obtained from Jade Circle Elder of Taihua Gate	801	0	0	FALSE	0	50	0	0	0		0			0
-it801079	Golden Toad Stone	it801079	The yellow sacred stone obtained from the Golden Toad Elder of Taihua Gate	801	0	0	FALSE	0	50	0	0	0		0			0
-it801080	Coriander Jade	it801080	The red holy stone obtained from Elder Gui of the Taohuamen	801	0	0	FALSE	0	50	0	0	0		0			0
-it801081	Divine Hare Stone	it801081	The White Sacred Stone obtained from the Holy Old Tortoise of the Taihua Gate	801	0	0	FALSE	0	50	0	0	0		0			0
-it801082	Heng'e Rock	it801082	The purple sacred stone obtained from Elder Heng'e of the Taihua Gate	801	0	0	FALSE	0	50	0	0	0		0			0
+it801078	Jade Wheel Stone	it801078	The green sacred stone obtained from Elder Yulun of Taihua Gate	801	0	0	FALSE	0	50	0	0	0		0			0
+it801079	Golden Toad Stone	it801079	The yellow sacred stone obtained from Elder Jinchan of the Taihua Gate	801	0	0	FALSE	0	50	0	0	0		0			0
+it801080	Coriander Jade	it801080	The Red Holy Stone obtained from Elder Kougui of the Taihua Gate	801	0	0	FALSE	0	50	0	0	0		0			0
+it801081	Divine Hare Stone	it801081	The White Sacred Stone obtained from Elder Lingtu of the Taihua Gate	801	0	0	FALSE	0	50	0	0	0		0			0
+it801082	Heng'e Rock	it801082	The purple sacred stone obtained from Elder Henge of the Taihua Gate	801	0	0	FALSE	0	50	0	0	0		0			0
 it801083	Worn leather	it801083	A piece of leather suspected to contain a clue	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it801083000"} ]}
 it801084	Someone with wolf barbarian tattoos on their skin	it801084	A tattooed piece of human skin featuring a Wolf Barbarian design can only be produced using the blood vine from the Wolf Barbarians' base. It serves as proof of defeating a Wolf Barbarian soldier and can be exchanged for rewards at places like the general's mansion	801	0	0	FALSE	0	50	0	0	0		0			0
 it801085	Mysterious Elixir	it801085	A pill of dark red hue, moist and warm to the touch, held in the palm, which still sends a rhythmic pulsing sensation; what exactly is this?	801	0	0	FALSE	0	50	0	0	0		0			0
@@ -466,7 +466,7 @@ it80801	Indigo plant	it80801	Chinese skullcap root is considered to have a sligh
 it80802	Pink Jade and Gem Flowers	it80802	It is a rare medicinal herb that grows in the cave near the flower and herb stall, with a fragrant aroma. It must be processed to reveal its medicinal properties, as direct consumption does not show any effects	808	200	100	FALSE	0	2	0	0	0		0			0
 it80803	Blue Spider Vine	it80803	Native to the area near the Flower and Herb Stall, this rare medicinal herb has spiny and poisonous stems, which is how it got its name	808	200	100	FALSE	0	2	0	0	0		0			0
 it80804	Red Heart Fruit	it80804	Scarce medicinal herbs that grow in the mountain cave near the Flower and Herb Stall are said to have small red fruits that are considered drying and hot. They should not be consumed without proper processing	808	200	100	FALSE	0	2	0	0	0		0			0
-it80805	Seven Stars Arch the Moon	it80805	A species of venomous spider with a pattern of seven stars and a crescent moon on its back	808	0	0	FALSE	0	50	0	0	0		0			0
+it80805	Seven Stars Encircling the Moon	it80805	A highly toxic spider with a pattern of seven stars encircling the moon on its back	808	0	0	FALSE	0	50	0	0	0		0			0
 it80806	Tragic Incense of Avoiding Evil	it80806	From the Huashi sisters of Baihuahua, they gave a peculiar incense fragrance, which can be used as a secret signal	808	0	0	FALSE	0	50	0	0	0		0			0
 it80901	Little Yellow Book	it80901	Who knows, a certain discarded little yellow book might have some value for specific enthusiasts	809	1000	500	FALSE	1	15	0	0	0		0			0
 it81101	Straw Mat	it81101	It is possible to rest in the wilderness	811	400	200	TRUE	0	4	0	0	0		1			{ "MultiAction" : [ { "OpenUIRestAction" }  ]}

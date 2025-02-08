@@ -370,6 +370,14 @@
   result: Gong'er
 - raw: 董先生
   result: Master Dong
+- raw: 愚儿
+  result: Yu'er
+- raw: 傻儿
+  result: Sha'er
+- raw: 丑儿
+  result: Chou'er
+- raw: 怪儿
+  result: Guai'er
 - raw: 董大人
   result: Lord Dong
 - raw: 董军师
@@ -378,3 +386,17 @@
   result: Madam Cheng
 - raw: 水三
   result: Shui San
+- raw: 猴三
+  result: Hou San
+- raw: 金蟾长老
+  result: Elder Jinchan
+- raw: 灵兔长老
+  result: Elder Lingtu
+- raw: 玉轮长老
+  result: Elder Yulun
+- raw: 蔻桂长老
+  result: Elder Kougui
+- raw: 姮娥长老
+  result: Elder Henge
+- raw: 太阴至尊
+  result: Supreme Taiyin

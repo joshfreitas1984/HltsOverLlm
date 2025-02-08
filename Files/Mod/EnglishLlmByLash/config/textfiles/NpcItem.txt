@@ -2380,7 +2380,7 @@ n40116a	Disciple of Taihua Gate	ml_idle112	c_m72	-191.83, 129.1732, -223.1353	5.
 n40116b	Disciple of Taihua Gate	ml_idle115	c_w04	-191.5157, 129.1732, -220.277	183.4142	20-23, 0-3	FALSE	TRUE	n4005301005	v00161				2	12	0	n60517	n40087b				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, False} , { "QuestCondition" : "Q40053", 1, False} , { "QuestCondition" : "Q60039", 1, True}  ], 0} 	0
 n40116c	Disciple of Taihua Gate	m_kneel004stop	c_m72	-192.2596, 129.1901, -223.2728	-371.656	20-23, 0-3	FALSE	TRUE		v00160				1	12	3	n60516	n40087a				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True} , { "QuestCondition" : "Q40053", 1, False}  ], 0} 	0
 n40116d	Disciple of Taihua Gate	w_kneel005	c_w04	-192.202, 129.1901, -221.995	-176.586	20-23, 0-3	FALSE	TRUE	n4005302036	v00161				2	12	0	n60517	n40087b				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True} , { "QuestCondition" : "Q40053", 1, False}  ], 0} 	0
-n40117	Ku Gui Zong	ml_standA00	c_m67	0, 0, 0	0	20-23, 0-3	TRUE	FALSE	n4005302038					1	12	0	n60504	n60503				0	0
+n40117	Elder Kougui	ml_standA00	c_m67	0, 0, 0	0	20-23, 0-3	TRUE	FALSE	n4005302038					1	12	0	n60504	n60503				0	0
 n40118	Nun	w_worship_ec	n20534	683.4531, 101.305, 1546.383	103.838		TRUE	FALSE	n4005303058					2	0	1	n20531e	n40089				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
 n40119a	Bandits	ml_idle101	c_m03	686.1943, 100.603, 1544.226	-54.576		FALSE	FALSE						1	0	0	n60174	n40088a				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
 n40119b	Bandits	ml_idle102	c_m05	686.2368, 101.188, 1550.193	-109.511		FALSE	FALSE						1	0	0	n60176	n40088b				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
@@ -4812,38 +4812,38 @@ n60442b	Jujie	m_standI00		0, 0, 0	0		FALSE	FALSE	n6044201000	v00061				2	0	0	n60
 n60443	Sister Winter Melon	w_standB00		300.8885, 94.97049, -62.92986	51.98828		FALSE	FALSE	n6044301000	v00057				2	0	0	n60059		n60443-1,n60443-2,n60443-3,n60443-4,n60443-5,n60443-6			0	0
 n60443b	Sister Winter Melon	w_standB00		0, 0, 0	0		FALSE	FALSE	n6044301000	v00057				2	0	0	n60059					0	0
 n60444	Officer	ml_standA00	c_m09	290.3374, 91.058, 21.55852	219.9645		FALSE	FALSE	n6044401000	v00260				1	0	0	n00047c	n60444	n60444-1,n60444-2,n60444-3,n60444-4			0	0
-n60445	Lord Du's Manager, Dou Teng	ml_standA00		285.7674, 96.33047, -112.1181	347.273		FALSE	FALSE	n6044501000	v00250				1	0	0	n60166		n60445-1,n60445-2,n60445-3			0	0
-n60446	Lu Family Ugly One	w_standA00		291.4158, 96.14728, -106.8997	219.5774		FALSE	FALSE	n6044601000	v00251				2	0	0	n60163-1		n60446-1,n60446-2,n60446-3,n60446-4,n60446-5			0	0
-n60447	Master Du's Strange Child	w_standA00		285.3, 96.29443, -110.57	162.5524		FALSE	FALSE	n6044701000	v00252				2	0	0	n60164-1		n60447-1,n60447-2,n60447-3,n60447-4,n60447-5			0	0
-n60448	Du Clan Auntie Luo	w_standA00		0, 0, 0	0		FALSE	FALSE	n6044801000	v00053				2	0	0	n60165-1	n60448	n60448-1,n60448-2,n60448-3,n60448-4			0	0
-n60449	Master Cao	old_standB00		287.5382, 103.2414, -135.8493	235.866	5-17	TRUE	FALSE	n6044901000	v00051				1	0	0	n60167					0	0
+n60445	Du Mansion Manager Du Teng	ml_standA00		285.7674, 96.33047, -112.1181	347.273		FALSE	FALSE	n6044501000	v00250				1	0	0	n60166		n60445-1,n60445-2,n60445-3			0	0
+n60446	Du Mansion Chou'er	w_standA00		291.4158, 96.14728, -106.8997	219.5774		FALSE	FALSE	n6044601000	v00251				2	0	0	n60163-1		n60446-1,n60446-2,n60446-3,n60446-4,n60446-5			0	0
+n60447	Du Mansion Guai'er	w_standA00		285.3, 96.29443, -110.57	162.5524		FALSE	FALSE	n6044701000	v00252				2	0	0	n60164-1		n60447-1,n60447-2,n60447-3,n60447-4,n60447-5			0	0
+n60448	Du Mansion Auntie Ruo	w_standA00		0, 0, 0	0		FALSE	FALSE	n6044801000	v00053				2	0	0	n60165-1	n60448	n60448-1,n60448-2,n60448-3,n60448-4			0	0
+n60449	Advisor Cao	old_standB00		287.5382, 103.2414, -135.8493	235.866	5-17	TRUE	FALSE	n6044901000	v00051				1	0	0	n60167					0	0
 n60450	Uncle Yin	ml_standA00		285.4056, 103.2414, -136.7594	71.30787	5-17	TRUE	FALSE	n6045001000	v00050	sc60450001			1	0	0	n30049					0	0
-n60451	Master Du, fool	w_standA00		281.8192, 107.2702, -154.201	0		TRUE	FALSE	n6045101000	v00251				2	0	0	n60164-1		n60451-1,n60451-2,n60451-3,n60451-4			0	0
-n60452	Master Du's Fool	w_standA00		269.2278, 103.5276, -138.8237	218.604	5-17	TRUE	FALSE	n6045201000	v00252				2	0	0	n60168-1		n60452-1,n60452-2			0	0
-n60453	Big Cui	m_talk018		301.717, 97.3383, -119.7866	191.8929	5-17	FALSE	FALSE	n6045301000	v00037				1	0	0	n60114-1					0	0
+n60451	Du Mansion Yu'er	w_standA00		281.8192, 107.2702, -154.201	0		TRUE	FALSE	n6045101000	v00251				2	0	0	n60164-1		n60451-1,n60451-2,n60451-3,n60451-4			0	0
+n60452	Du Mansion Sha'er	w_standA00		269.2278, 103.5276, -138.8237	218.604	5-17	TRUE	FALSE	n6045201000	v00252				2	0	0	n60168-1		n60452-1,n60452-2			0	0
+n60453	Cui Da	m_talk018		301.717, 97.3383, -119.7866	191.8929	5-17	FALSE	FALSE	n6045301000	v00037				1	0	0	n60114-1					0	0
 n60454	Cui Xiao	ml_standA00		301.5583, 97.48598, -121.7931	351.5618	5-17	FALSE	FALSE	n6045401000	v00020				1	0	0	n60115-2					0	0
-n60501	Jade Wheel Elder	ml_standA00	c_m68	-164.2418, 135.1335, -183.3889	71.13927	20-23, 0-3	TRUE	FALSE	n6050101028					1	12	0	n60502	n60501				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
-n60502	Master Jin Chan, the Elder	ml_standA00	c_m76	-192.5038, 136.3746, -146.4501	185.7014	20-23, 0-3	TRUE	FALSE	n6050201010		sc60502001			1	12	0	n60503	n60502				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
-n60503	Ku Gui Zong	ml_standA00	c_m67	-269.2846, 137.7077, -188.227	128.4566	20-23, 0-3	TRUE	FALSE	n6050301010		sc60503001			1	12	0	n60504	n60503				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
-n60504	Lingtu Zhanglao	w_standE00	c_w04	-258.9962, 134.137, -214.1354	0	20-23, 0-3	TRUE	FALSE	n6050401010		sc60504001			2	12	0	n60506	n60504				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
-n60505	Heng'e Zhanglao	ml_standA00	c_w04	-243.8174, 133.3202, -238.3742	255.6762	20-23, 0-3	TRUE	FALSE	n6050501021		sc60505001			3	12	0	n60507	n60505				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
-n60506	Taiyin Zizun	ml_standA00	c_m74	-224.1656, 139.5014, -202.6727	140.4163	20-23, 0-3	TRUE	FALSE	n6050601027					1	12	0	n60505	n60506				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
+n60501	Elder Yulun	ml_standA00	c_m68	-164.2418, 135.1335, -183.3889	71.13927	20-23, 0-3	TRUE	FALSE	n6050101028					1	12	0	n60502	n60501				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
+n60502	Elder Jinchan	ml_standA00	c_m76	-192.5038, 136.3746, -146.4501	185.7014	20-23, 0-3	TRUE	FALSE	n6050201010		sc60502001			1	12	0	n60503	n60502				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
+n60503	Elder Kougui	ml_standA00	c_m67	-269.2846, 137.7077, -188.227	128.4566	20-23, 0-3	TRUE	FALSE	n6050301010		sc60503001			1	12	0	n60504	n60503				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
+n60504	Elder Lingtu	w_standE00	c_w04	-258.9962, 134.137, -214.1354	0	20-23, 0-3	TRUE	FALSE	n6050401010		sc60504001			2	12	0	n60506	n60504				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
+n60505	Elder Henge	ml_standA00	c_w04	-243.8174, 133.3202, -238.3742	255.6762	20-23, 0-3	TRUE	FALSE	n6050501021		sc60505001			3	12	0	n60507	n60505				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
+n60506	Supreme Taiyin	ml_standA00	c_m74	-224.1656, 139.5014, -202.6727	140.4163	20-23, 0-3	TRUE	FALSE	n6050601027					1	12	0	n60505	n60506				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
 n60507	Taihua Gate Sect Apprentice	m_standB00		-171.4201, 136.1634, -186.9452	246.984	20-23, 0-3	FALSE	FALSE	n6050701000	v00160				1	12	0	n60501					{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
 n60508	Taihua Gate Sect Apprentice	ml_standA01		-194.58, 138.2192, -162.0373	186.44	20-23, 0-3	FALSE	FALSE	n6050701001	v00160				1	12	0	n60501					{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
 n60509	Taihua Gate Sect Apprentice	ml_standA00		-258.8814, 137.476, -188.8609	71.816	20-23, 0-3	FALSE	FALSE	n6050701002	v00160				1	12	0	n60501					{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
 n60510	Taihua Gate Sect Apprentice	m_standB00		-252.2361, 135.3449, -211.7457	60.70311	20-23, 0-3	FALSE	FALSE	n6050701003	v00160				1	12	0	n60501					{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
 n60511	Taihua Gate Sect Apprentice	ml_standA01		-236.2967, 133.8603, -233.3191	43.96144	20-23, 0-3	FALSE	FALSE	n6050701004	v00160				1	12	0	n60501					{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
 n60512	Taihua Gate Sect Apprentice	m_standI00		-216.8132, 139.1393, -205.3448	118.1609	20-23, 0-3	FALSE	FALSE	n6050701005	v00160				1	12	0	n60501					{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
-n60513	Great Hall Gate, Starglow	ml_standA00	c_m07	-186.001, 130.4108, -214.1292	192.0884	20-23, 0-3	FALSE	FALSE	n6051301000	v00160				1	12	0	n60510	n60513	n60513-1,n60513-2			0	0
-n60514	Twilight Gate, Moon's Fullness	ml_standA00	c_m08	-133.5349, 132.1561, -303.317	0	20-23, 0-3	FALSE	FALSE	n6051401000	v00160	sc60514001			1	12	0	n60511	n60514	n60514-1,n60514-2			0	0
-n60515	Waihuamen Shiyue	ml_standA00	c_m74	-178.4031, 135.572, -254.6606	0	20-23, 0-3	FALSE	FALSE	n6051501000	v00160	sc60515001			1	12	0	n60512	n60515	n60515-1,n60515-2			0	0
-n60516	Great Wall Gate - Bow Moon	ml_standA00	c_m73	-170.1481, 135.0949, -274.0436	93.99303	20-23, 0-3	FALSE	FALSE	n6051601000	v00160	sc60515001			1	12	0	n60513	n60516	n60516-1,n60516-2			0	0
-n60517	Wu Xia Men, Yu Zuo	ml_standA00	c_m71	-130.809, 131.451, -307.119	113.7345	20-23, 0-3	FALSE	FALSE	n6051701000	v00160				1	12	0	n60514	n60517	n60517-1,n60517-2			0	0
-n60518	Great Wall Gate, Lady You	ml_standA00	c_m71	-129.3772, 131.54, -305.32	144.3357	20-23, 0-3	FALSE	FALSE	n6051801000	v00160				1	12	0	n60515	n60518	n60518-1,n60518-2			0	0
-n60519	Master Tai - Martial Auntie	ml_standA00	c_m72	-200.2634, 128.688, -240.1734	28.2791	20-23, 0-3	FALSE	FALSE	n6051901000	v00160				1	12	0	n60516	n60519	n60519-1,n60519-2,n60519-3			0	0
-n60520	Tai Hua Men Ji Wen	ml_standA00	c_w04	-209.1276, 130.0534, -223.0151	88.83737	20-23, 0-3	FALSE	FALSE	n6052001000	v00161				1	12	0	n60517	n60520	n60520-1,n60520-2,n60520-3			0	0
-n60521	Da Hua Men Kong Muchu	ml_standA00	c_w04	-202.9132, 129.2045, -208.9307	140.9301	20-23, 0-3	FALSE	FALSE	n6052101000	v00161				1	12	0	n60518	n60521	n60521-1,n60521-2			0	0
-n60522	Twilight Gate Qin Shangli	ml_standA00	c_m70	-211.1365, 131.764, -256.4207	32.19822	20-23, 0-3	FALSE	FALSE	n6052201000	v00160				1	12	0	n60519	n60522	n60522-1,n60522-2			0	0
+n60513	Taihua Gate, Star Shine	ml_standA00	c_m07	-186.001, 130.4108, -214.1292	192.0884	20-23, 0-3	FALSE	FALSE	n6051301000	v00160				1	12	0	n60510	n60513	n60513-1,n60513-2			0	0
+n60514	Taihua Gate Ying Yue	ml_standA00	c_m08	-133.5349, 132.1561, -303.317	0	20-23, 0-3	FALSE	FALSE	n6051401000	v00160	sc60514001			1	12	0	n60511	n60514	n60514-1,n60514-2			0	0
+n60515	Taihua Gate Shi Yue	ml_standA00	c_m74	-178.4031, 135.572, -254.6606	0	20-23, 0-3	FALSE	FALSE	n6051501000	v00160	sc60515001			1	12	0	n60512	n60515	n60515-1,n60515-2			0	0
+n60516	Taihua Gate Xian Yue	ml_standA00	c_m73	-170.1481, 135.0949, -274.0436	93.99303	20-23, 0-3	FALSE	FALSE	n6051601000	v00160	sc60515001			1	12	0	n60513	n60516	n60516-1,n60516-2			0	0
+n60517	Taihua Gate Yun Zuo	ml_standA00	c_m71	-130.809, 131.451, -307.119	113.7345	20-23, 0-3	FALSE	FALSE	n6051701000	v00160				1	12	0	n60514	n60517	n60517-1,n60517-2			0	0
+n60518	Taihua Gate Yun you	ml_standA00	c_m71	-129.3772, 131.54, -305.32	144.3357	20-23, 0-3	FALSE	FALSE	n6051801000	v00160				1	12	0	n60515	n60518	n60518-1,n60518-2			0	0
+n60519	Taihua Gate Si Wu	ml_standA00	c_m72	-200.2634, 128.688, -240.1734	28.2791	20-23, 0-3	FALSE	FALSE	n6051901000	v00160				1	12	0	n60516	n60519	n60519-1,n60519-2,n60519-3			0	0
+n60520	Taihua Gate Ji Wen	ml_standA00	c_w04	-209.1276, 130.0534, -223.0151	88.83737	20-23, 0-3	FALSE	FALSE	n6052001000	v00161				1	12	0	n60517	n60520	n60520-1,n60520-2,n60520-3			0	0
+n60521	Taihua Gate Kong Muchu	ml_standA00	c_w04	-202.9132, 129.2045, -208.9307	140.9301	20-23, 0-3	FALSE	FALSE	n6052101000	v00161				1	12	0	n60518	n60521	n60521-1,n60521-2			0	0
+n60522	Taihua Gate Qin Shangli	ml_standA00	c_m70	-211.1365, 131.764, -256.4207	32.19822	20-23, 0-3	FALSE	FALSE	n6052201000	v00160				1	12	0	n60519	n60522	n60522-1,n60522-2			0	0
 n60523	Hotly Raved About Chef	ml_standA00	c_m26	-221.3649, 131.9331, -259.1593	76.17268	20-23, 0-3	FALSE	FALSE	n6052301000		sc60523001			1	12	0	n60153	n60523			(Book,1)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
 n60524	Dragon Ball Peddler	ml_standA00	c_m69	-208.004, 131.848, -257.92	319.7803	20-23, 0-3	TRUE	FALSE	n6052401000		sc60524001			1	12	0	n60149	n60524			(Food,1)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
 n60525	Resting Waiter	ml_standA00	c_m69	-181.7748, 129.2966, -225.2964	233.2289	20-23, 0-3	TRUE	FALSE	n6052501000	v00123	sc60525001			1	12	0	n60149	n60525				{ "LogicalNode" : [ { "CheckFlagAction" : "f65003打贏太華門戰鬥", 0, 0}  ], 0} 	0
@@ -5201,12 +5201,12 @@ n80147	Monkey	al20024@idle01	animal24	408.2048, 71.7902, 385.0941	326.2447		TRUE
 n80148	Monkey	al20024@idle01	animal24	406.5974, 71.7902, 385.1312	59.62898		TRUE	TRUE	n8013101018					0	21	0	animal24	n80148			(Fruit_Food,2)	0	0
 n80149	The Strange Monkey	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						0	0
 n80150	Strange Giant Ape	al20045@idle	animal45	915.3076, 59.39919, 277.2565	238.8293		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150				0	0
-n80150a	Kings of the Great Apes	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150a				0	0
-n80150b	Kings of the Great Apes	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150b				0	0
-n80150c	Kings of the Great Apes	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150c				0	0
-n80150d	Kings of the Great Apes	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150d				0	0
-n80150e	Kings of the Great Apes	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150e				0	0
-n80150f	Kings of the Great Apes	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150				0	0
+n80150a	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150a				0	0
+n80150b	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150b				0	0
+n80150c	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150c				0	0
+n80150d	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150d				0	0
+n80150e	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150e				0	0
+n80150f	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150				0	0
 n80151	Xi Shan	ml_standA00		-609.008, 66.44887, -1142.04	262.7497		TRUE	FALSE	n8015101000					1	3	0	n20255-1	n80151			(Cuisine_Food,1)(Wine_Food,1)	0	0
 n80152	'Drunk Elixir Immortal' Sun Dongyuan	ml_standA00		-626.9518, 66.218, -1129.869	131.6129		TRUE	FALSE	n8015201000					1	107	0	n40001	n80152			(Drug_Medicine,1)(Herbs_Medicine,1)(Wine_Food,2)(Money,1)	0	0
 n80153	Monkey	al20024@idle01	animal24	416.0954, 72.53676, 389.0421	0		TRUE	FALSE	n8015301000					1	21	0	animal24	n80153				0	0
