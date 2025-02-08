@@ -37745,8 +37745,8 @@
   - split: 1
     text: "水三叔的床"
     translated: "The bed of Uncle Water, Third"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Shui San,水三,"
     flaggedGlossaryOut: ""
 - lineNum: 3775
   raw: "s60401-8	水三嫂的床	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Bed/bed_003_A.prefab	None	-407.763, 64.42183, 1217.382	1, 1, 1	1, 1, 1	0, 123.985, 0	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f64001陳之濟願醫水三叔\", 0, 0} , { \"TimeCondition\" : 0, 5}  ], 0}  ], 0} 	0	0"
@@ -37755,8 +37755,8 @@
   - split: 1
     text: "水三嫂的床"
     translated: "Water Sister's Bed"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Shui San,水三,"
     flaggedGlossaryOut: ""
 - lineNum: 3776
   raw: "s60402-01	碧蛛藤	MouseEventBox	Resources_Art/Art3D/Nature/DetailThing/plant_3.prefab	None	-403.73, 68.327, 1323.6	1, 1, 1	1.759734, 1.759733, 1.759733	0, 0, 0	False	0		0	0	0"

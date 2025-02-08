@@ -971,8 +971,8 @@
   - split: 3
     text: "自天水蟾蜍体内提炼出的奇毒，可当作投炉物使用，或是练毒功、炼毒药所须素材。"
     translated: "The poison refined from the toad within Tian Shui can be used as a smelting material, or is needed for practicing toxin cultivation and refining poison potions"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Tianshui toad,天水蟾蜍,"
     flaggedGlossaryOut: ""
 - lineNum: 61
   raw: "it50109	菩斯曲蛇毒	it50109	自菩斯曲蛇体内提炼出的奇毒，可当作投炉物使用，或是练毒功、炼毒药所须素材。	703	15000	7500	TRUE	3	99	0	0	0	snakepoison03	0			0"
@@ -1243,8 +1243,8 @@
   - split: 3
     text: "可炼制为天水蟾蜍毒，性属阴寒的毒蟾蜍，好生于穷山恶水的阴谷湿地之中，通体成幽蓝之色。"
     translated: "Can be refined into the Toad of Heaven's Water, a type of poisonous toad with yin-cold properties. It thrives in barren mountains and evil waters within shadowy valleys and marshlands, having an overall deep blue color"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Tianshui toad poison,天水蟾蜍毒,Tianshui toad,天水蟾蜍,"
     flaggedGlossaryOut: ""
 - lineNum: 78
   raw: "it50309	菩斯曲蛇	it50309	可炼制为菩斯曲蛇毒，记载于佛经之中，通体鳞片隐隐泛出金光，蛇头生有肉角，神出鬼没，传说服用其蛇胆能够大幅增进自身修为。	503	10000	5000	TRUE	2	99	0	0	0		0			0"
