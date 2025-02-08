@@ -2164,7 +2164,7 @@ n40053	Shadowed West	ml_idle010	c_m10	0, 0, 0	0		FALSE	TRUE						1		1	n51010	n40
 n40054	Northern Fist King	ml_idle008	c_m25	0, 0, 0	0		FALSE	TRUE						1		1	n30037-2	n40040				{ "LogicalNode" : [ { "QuestCondition" : "Q40016", 0, True}  ], 0} 	0
 n40055	Four Great Demons	ml_standA00		0, 0, 0	0		FALSE	FALSE						1		0						0	0
 n40056	Swan Feather Sculpture	al20004@idle	animal35	-1379.979, 205.4651, -901.8962	-45.079		FALSE	TRUE						1	21	0	animal35	n50070				{ "LogicalNode" : [ { "QuestCondition" : "Q40019_02", 0, True} , { "QuestCondition" : "Q40020_02", 0, True}  ], 1} 	0
-n40056a	Little Snow Wing Carving	al20004@idle	animal35	-1324.93, 146.1401, -686.34	139.817		FALSE	TRUE						1	21	0	animal35	n40041				{ "LogicalNode" : [ { "QuestCondition" : "Q40021_02", 0, True}  ], 1} 	0
+n40056a	Little Snow Winged Eagle	al20004@idle	animal35	-1324.93, 146.1401, -686.34	139.817		FALSE	TRUE						1	21	0	animal35	n40041				{ "LogicalNode" : [ { "QuestCondition" : "Q40021_02", 0, True}  ], 1} 	0
 n40057	Eagle Hunter	ml_standA00	c_m30	0, 0, 0	0		FALSE	FALSE		v00149				1	3,4	0	n50056b					{ "LogicalNode" : [ { "QuestCondition" : "Q40019", 0, True} , { "QuestCondition" : "Q40020", 0, True} , { "QuestCondition" : "Q40021", 0, True}  ], 1} 	0
 n40058	Ade Ake	ml_standA00	n50060	0, 0, 0	134.1801		TRUE	TRUE						1	4,3	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q40019", 0, True} , { "QuestCondition" : "Q40020", 0, True} , { "QuestCondition" : "Q40021", 0, True}  ], 1} 	0
 n40059	Wild Hawk	al20004@idle	animal04	-1383.75, 205.4371, -893.69	158.207		FALSE	FALSE		v10003				0	21	0	animal04	n40042				{ "LogicalNode" : [ { "QuestCondition" : "Q40019_02", 0, True} , { "QuestCondition" : "Q40020_02", 0, True}  ], 1} 	0
