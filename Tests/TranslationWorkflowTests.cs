@@ -114,7 +114,7 @@ public class TranslationWorkflowTests
         //Use this when we've changed a glossary value that doesnt check hallucination
         var newGlossaryStrings = new List<string>
         {
-            //"蔘王山帮众",
+            //"先生",
             //"豹王寨喽啰",
             //"妹妹"
         };
@@ -390,7 +390,7 @@ public class TranslationWorkflowTests
         string[] words = ["hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado", 
             "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
             "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una",  "keqi", "shiwu", 
-            "niang", "fuck", "ich", "daren", "furen", "ein", "der", "ganzes", "Leben", "dort"];
+            "niang", "fuck", "ich", "daren", "furen", "ein", "der", "ganzes", "Leben", "dort", "xiansheng"];
 
         foreach (var word in words)
         {

@@ -204,7 +204,7 @@ public static class TranslationService
                 if (batchSize != 1 || (logProcessed % logProcessMin == 0))
                     Console.WriteLine($"Line: {i + batchRange} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
 
-                if (bufferedRecords > 250)
+                if (bufferedRecords > 50)
                 {
                     Console.WriteLine($"Writing Buffer....");
                     File.WriteAllText(outputFile, serializer.Serialize(fileLines));
