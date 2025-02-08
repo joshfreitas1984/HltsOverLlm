@@ -846,9 +846,9 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "战斗时，泼墨雪加入战局。"
-    translated: "During the battle, Pomo Xue joined the fight"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    translated: "During the battle, Brother Po Mo Xue entered the fray"
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Ink Stained Snow,泼墨雪,"
     flaggedGlossaryOut: ""
 - lineNum: 54
   raw: "nick027P	镜花水月	战斗时，泼墨雪加入战局，自身每回合卸劲、虚招上升10%。		n60560	nick027P"
@@ -862,7 +862,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "战斗时，泼墨雪加入战局，自身每回合卸劲、虚招上升10%。"
-    translated: "During combat, when Po Mo Xue joins the fray, his chances of feigning and releasing energy each turn increase by 10%"
+    translated: "During battle, Ink Stained Snow joins the fray, increasing their feints and deception by 10% each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

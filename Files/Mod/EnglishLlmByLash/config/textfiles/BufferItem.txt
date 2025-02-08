@@ -1096,8 +1096,8 @@ nick025P	Wipe out completely	For each enemy killed, restore 3 points of energy a
 nick025buffP	Kill! Kill! Kill! Kill!	Massacre, attack power increased by 50%	0	battle	0	TRUE	0	FALSE	0	0		nick025buffP
 nick026buff	Overturning the Leviathan	Each time an attack is made, there is a 30% chance to recover 1 point of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick026buff
 nick026buffP	Plum Blossom Ground	Every time an attack is made, there is a 35% chance of restoring 1 point of energy and increasing the combo rate by 20%	0	nickname	0	TRUE	0	FALSE	0	0		nick026buffP
-nick027buff	Silver Hook Lustrous Colors	During the battle, Po Mo Xue joined the fray	0	nickname	0	TRUE	0	FALSE	0	0		nick027buff
-nick027buffP	Illusory reflections	Po Mo Xue joins the fight, increasing her feigned moves by 10% each round	0	nickname	0	TRUE	0	FALSE	0	0		nick027buffP
+nick027buff	Silver Hook Lustrous Colors	During the battle, Ink-Stained-Snow joined the fray	0	nickname	0	TRUE	0	FALSE	0	0		nick027buff
+nick027buffP	Illusory reflections	During combat, Ink Stained Snow joins the fray. Each round, it reduces its own strength and increases feigned attacks by 10%	0	nickname	0	TRUE	0	FALSE	0	0		nick027buffP
 nick028buff	Heavenly Meteor, Solitary Star	If there are no allies, damage and damage reduction increase by 50%. Each round dispels negative status effects for 12 points. Each attack recovers 1 point of energy. Every three attacks restore 15% of the user's own life and Qi	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick029	Bladesman	All blade arts power +70%	0	nickname	0	TRUE	0	FALSE	0	0		nick029
 nick030	Blade Madman	All blade arts power +40%	0	nickname	0	TRUE	0	FALSE	0	0		nick030

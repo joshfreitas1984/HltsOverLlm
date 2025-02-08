@@ -4884,11 +4884,11 @@ n60559	Grizzly Bear	al20008@idle2Legs	animal08	-177.0288, 135.3021, -170.678	0		
 n60560	Zhuan Sunning	w_standA00	n60560	-170.72, 135.5685, -274.42	100.7639		TRUE	TRUE	n6056001000	v00162				2	0	0	n60509	n60560	n60560-1,n60560-2,n60560-3,n60560-4,n60560-5,n60560-6			{ "LogicalNode" : [ { "TeammateCondition" : "n60560", False}  ], 0} 	0
 n60560b	Zhuan Sunning	w_standA00	n60560	0, 0, 0	0		TRUE	TRUE		v00162				2	0	0	n60509	n60560				0	0
 n60560c	Zhuan Sunning	w_standA00	n60560	0, 0, 0	0		TRUE	TRUE		v00162				2	0	0	n60509	n60560a				0	0
-n60561	Blizzard Ink Splash	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561	n60561-1,n60561-2,n60561-3,n60561-4,n60561-5,n60561-6			{ "LogicalNode" : [ { "TeammateCondition" : "n60560", False}  ], 0} 	0
-n60561b	Blizzard Ink Splash	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561b				0	0
-n60561c	Blizzard Ink Splash	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561c				0	0
-n60561d	Blizzard Ink Splash	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561d				0	0
-n60561e	Blizzard Ink Splash	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561e				0	0
+n60561	Ink Stained Snow	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561	n60561-1,n60561-2,n60561-3,n60561-4,n60561-5,n60561-6			{ "LogicalNode" : [ { "TeammateCondition" : "n60560", False}  ], 0} 	0
+n60561b	Ink Stained Snow	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561b				0	0
+n60561c	Ink Stained Snow	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561c				0	0
+n60561d	Ink Stained Snow	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561d				0	0
+n60561e	Ink Stained Snow	ml_standA00	animal29	0, 0, 0	0		TRUE	TRUE	n6056101000	v10002				0	21	0	animal29	n60561e				0	0
 n60562	Gouye Meng	ml_standA00	c_m07	0, 0, 0	0		FALSE	FALSE	n6056201000	v00007				1	12	0	n29006	n60562	n60562-1,n60562-2,n60562-3,n60562-4,n60562-5,n60562-6,n60562-7,n60562-8			{ "LogicalNode" : [ { "CheckFlagAction" : "f65016-1觸發過茫丐事件", 0, 0}  ], 0} 	0
 n60562b	Gouye Meng	ml_standA00	c_m07	0, 0, 0	0		FALSE	FALSE	n6056201000	v00007				1	12	0	n29006	n60562				0	0
 n60563	Gongye Gang	m_standB00	c_m12	0, 0, 0	0		FALSE	FALSE	n6056301000	v00008				1	12	0	n29007	n60563	n60563-1,n60563-2,n60563-3,n60563-4,n60563-5,n60563-6,n60563-7,n60563-8			{ "LogicalNode" : [ { "CheckFlagAction" : "f65016-1觸發過茫丐事件", 0, 0}  ], 0} 	0
