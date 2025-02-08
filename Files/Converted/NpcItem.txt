@@ -47294,9 +47294,9 @@
   splits:
   - split: 1
     text: "水三叔"
-    translated: "Uncle Shui the Third"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Shui San,水三,"
+    translated: "Uncle Shui San"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 4730
   raw: "n60405	水三嫂	w_cry001Loop_ec		-427.5731, 63.09412, 1223.685	280.8975		FALSE	FALSE	n6040501000	v00017				2	0	1	n60011		n60405-1,n60405-2,n60405-3,n60405-4,n60405-5,n60405-6			0	0"
@@ -47304,7 +47304,7 @@
   splits:
   - split: 1
     text: "水三嫂"
-    translated: "Shui San Suo"
+    translated: "Aunt Shui San"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -47314,7 +47314,7 @@
   splits:
   - split: 1
     text: "小水仔"
-    translated: "Little Water Kid"
+    translated: "Little Shui Kid"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

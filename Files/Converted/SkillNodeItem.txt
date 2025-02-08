@@ -9562,9 +9562,9 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "可捕捉天水毒蟾并炼制天水蟾蜍毒"
-    translated: "Can capture Skywater Toad and refine Skywater Toad Poison"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Tianshui toad poison,天水蟾蜍毒,Tianshui toad,天水蟾蜍,"
+    translated: "You can capture the Tianshui Toad and refine it into Tianshui Toad Poison"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 598
   raw: "SkillTree084_001	碧眼金蝎	可捕捉碧眼金蝎并炼制碧眼金蝎毒	3000	SkillTree056_5	[{\"Type\":1,\"Value1\":\"308\",\"Value2\":\"70\",\"Operator\":0}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree084_001	FALSE	0	None	0	0	"

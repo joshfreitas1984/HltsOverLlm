@@ -595,7 +595,7 @@ SkillTree083_006	Short Weapons Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(
 SkillTree083_007	Short Weapons Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Short,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree083_008	Short Weapons Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Short,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree083_009	Flying Swallow Fragrant Dance	'Execute the Scarlet Sleeve and Golden Powder Lotus Step while simultaneously increasing Illusory Skill by 8 points.'	4500	SkillTree083_2	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree083_009	FALSE	0	None	0	0	SkillTree083_001
-SkillTree084_000	Heavenly Water Poisonous Toad	Can capture Skywater Toad and refine Skywater Toad Poison	3000	SkillTree056_4	[{"Type":1,"Value1":"308","Value2":"70","Operator":0}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree084_000	FALSE	0	None	0	0	
+SkillTree084_000	Heavenly Water Poisonous Toad	You can capture the Tianshui Toad and refine it into Tianshui Toad Poison	3000	SkillTree056_4	[{"Type":1,"Value1":"308","Value2":"70","Operator":0}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree084_000	FALSE	0	None	0	0	
 SkillTree084_001	Pale-eyed Golden Scorpion	Can catch blue-eyed scorpions and refine blue-eyed scorpion venom	3000	SkillTree056_5	[{"Type":1,"Value1":"308","Value2":"70","Operator":0}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree084_001	FALSE	0	None	0	0	
 SkillTree084_002	Poisoncraft Proficiency		6000	skillIcon001_1	[]	PropertyAdd	(Poison,6)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree084_003	Poisoncraft Proficiency		6000	skillIcon001_1	[]	PropertyAdd	(Poison,6)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
