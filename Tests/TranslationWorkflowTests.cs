@@ -38,7 +38,7 @@ public class TranslationWorkflowTests
     {
         if (keepCleaning)
         {
-            int remaining = 9999999;
+            int remaining = await UpdateCurrentTranslationLines();
             int lastRemaining = remaining;
             int iterations = 0;
             while  (remaining > 0 && iterations < 10)
