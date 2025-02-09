@@ -952,7 +952,7 @@ BattleSchedule051	Joint Effort to Save the World	Using Heavenly Scriptures secre
 BattleSchedule052	He Yuqing assesses the blood quantity for the BUFF	Hidden buff, judge half blood volume and trigger dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule052
 BattleSchedule053	He Hongyuan's health assessment BUFF	Hidden buff, triggers dialogue when health drops to 50%	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule053
 BattleSchedule054	Weizhentian Nan	Attack Power Increased by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule054
-BattleSchedule055	Bailu Shuang activates their attack buff		0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule055
+BattleSchedule055	Bai Lushuang activates their attack buff		0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule055
 BattleSchedule056	Gold Toad Spits Pearl	Every two rounds, damage increases by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule056
 BattleSchedule057	Marvelous Hand Reviving Life	Regain 20% of your own lifeforce every three turns	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule057
 BattleSchedule058	Snake and Scorpion Beauty	Slowly poisoned, accumulating 10 points of poison each round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule058

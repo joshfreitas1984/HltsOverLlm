@@ -5882,10 +5882,10 @@ n90600	Feng Guanxi	m_standB00	n90428	0, 0, 0	0		FALSE	TRUE		v00224				1	0	0	n070
 n90601	Wang Zhe	old_beggar_standA00	n20033	0, 0, 0	0		FALSE	TRUE	n9060100000	v00199b				1	5	0	n20033	n20033	0			0	0
 n90601t	Wang Zhe	m_standG00	n20033	311.2834, 97.09026, -53.3392	281.5591		TRUE	TRUE	n9060100027	v00199c				1	5	0	n20033	n20033	0			{ "LogicalNode" : [ { "QuestCondition" : "Q90008_08", 1, True} , { "TeammateCondition" : "n20033", False} , { "QuestCondition" : "Q90009_04", 1, False}  ], 0} 	0
 n90601t2	Wang Zhe	m_standG00	n20033	0, 0, 0	0		TRUE	TRUE	n9060100027	v00199d				1	5	0	n20033	n20033	0			{ "LogicalNode" : [ { "QuestCondition" : "Q90009_04", 1, True} , { "TeammateCondition" : "n20033", False}  ], 0} 	0
-n90602	Bailu Shuang	wl_standA00	n90602	0, 0, 0	0		TRUE	TRUE	n9060103000	v00200				2	5	0	n90602	n90602	0			0	0
-n90602b	Bailu Shuang	wl_standA00	n90602	0, 0, 0	0		TRUE	TRUE	n9060103000	v00200				2	5	0	n90602	n90602	0			{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q90008_03", 1, False} , { "TimeCondition" : 20, 23}  ], 0}  ], 1} 	0
-n90602c	Bailu Shuang	w_kneel005	n90602	0, 0, 0	0		TRUE	TRUE	n9060103000	v00200				2	5	0	n90602	n90602c	0			0	0
-n90602d	Bailu Shuang	w_sleep_dead002_ec	n90602	0, 0, 0	0		FALSE	TRUE		v00200				2	5	3	n90602	n90602	0			0	0
+n90602	Bai Lushuang	wl_standA00	n90602	0, 0, 0	0		TRUE	TRUE	n9060103000	v00200				2	5	0	n90602	n90602	0			0	0
+n90602b	Bai Lushuang	wl_standA00	n90602	0, 0, 0	0		TRUE	TRUE	n9060103000	v00200				2	5	0	n90602	n90602	0			{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q90008_03", 1, False} , { "TimeCondition" : 20, 23}  ], 0}  ], 1} 	0
+n90602c	Bai Lushuang	w_kneel005	n90602	0, 0, 0	0		TRUE	TRUE	n9060103000	v00200				2	5	0	n90602	n90602c	0			0	0
+n90602d	Bai Lushuang	w_sleep_dead002_ec	n90602	0, 0, 0	0		FALSE	TRUE		v00200				2	5	3	n90602	n90602	0			0	0
 n90603	Li Yanxian	m_kneel 003	n90603	0, 0, 0	0		FALSE	TRUE	n9060100003	v00201				1	5	0	n90603	n90603	0			0	0
 n90603b	Li Yanxian	m_kneel006	n90603	0, 0, 0	0		FALSE	TRUE	n9060100003	v00201				1	5	0	n90603b		0			0	0
 n90603d	Li Yanxian	m_sleep001_ec	n90603	0, 0, 0	0		FALSE	TRUE		v00201				1	5	3	n90603	n90603	0			0	0
