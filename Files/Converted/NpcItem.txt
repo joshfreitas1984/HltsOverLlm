@@ -52345,8 +52345,8 @@
   - split: 1
     text: "金石谷军需官"
     translated: "Gold and Stone Valley Quartermaster"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 5235
   raw: "n80178	蔘王山军需官	ml_standA00	c_m27	699.3381, 166.9965, -997.7612	257.2135		TRUE	TRUE	n8017801000					1	107,101	0	n80178	n80178			(Drug_Medicine,1)(Herbs_Medicine,2)(Stone_Forge,1)(Money,1)	{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm85043\", 3, 1} , { \"CheckFlagAction\" : \"tm80067\", 3, 1}  ], 0} 	0"
@@ -53585,8 +53585,8 @@
   - split: 1
     text: "金石谷首领"
     translated: "Jin Shiku Guild Leader"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 5359
   raw: "n80240a	金石谷首领	ml_standA00	c_m24	766.8463, 153.8643, -1172.348	263.4448		TRUE	TRUE	n8017901076					1	28	0	n80240	n80240				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm85044\", 3, 1} , { \"CheckFlagAction\" : \"tm80068\", 3, 1}  ], 0} 	0"
@@ -53595,8 +53595,8 @@
   - split: 1
     text: "金石谷首领"
     translated: "Jin Shiku Guild Leader"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 5360
   raw: "n80241	蔘王山帮众	ml_standA00	c_m07	714.114, 166.255, -1009.104	218.585		TRUE	TRUE	n8018101005					1	29	0	n80181	n80241				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm85043\", 1, 1} , { \"CheckFlagAction\" : \"tm80067\", 3, 1}  ], 0} 	{ \"LogicalNode\" : [ { \"PlayerEnterNode\" : { \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n8018101063\"} , { \"FaceToPlayerAction\" : 0, \"n80241\", 0.30000, 0}  ]} , 0.00000}  ], 0} "

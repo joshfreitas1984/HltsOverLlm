@@ -35155,8 +35155,8 @@
   - split: 5
     text: "金石谷军需官"
     translated: "Gold and Stone Valley Quartermaster"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3516
   raw: "n80178	31	fm00000	a00001		蔘王山军需官	ta0091	st0008c		212	ai00000	(MajorWeapon,eq10405)	0	(HP,4650)(MaxHP,4650)(MP,2427)(MaxMP,2427)(Physique,60)(Intelligence,50)(Neigong,62)(Qinggong,47)(Fight,62)(Sword,62)(Blade,62)(Spear,62)(Arrow,62)(Short,62)(Doctor,0)(Poison,0)(Money,100000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40101,5)(it40102,5)(it40103,5)(it40104,5)(it40105,5)(it40108,5)(it40109,5)(it40110,5)(it40111,5)(it40112,5)	0,0	6"
@@ -35175,8 +35175,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3518
   raw: "n80180	25	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3366)(MaxHP,3366)(MP,1860)(MaxMP,1860)(Physique,52)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35215,8 +35215,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Golden Valley Army Gang Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3522
   raw: "n80184	25	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3412)(MaxHP,3412)(MP,1860)(MaxMP,1860)(Physique,53)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35235,8 +35235,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Gang Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3524
   raw: "n80186	25	fm00000	a00001		蔘王山军帮众	ta0028	st0066		212	ai00000	(MajorWeapon,eq10405)	1	(HP,3320)(MaxHP,3320)(MP,1860)(MaxMP,1860)(Physique,51)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40101,1)(it40206,1)(it801025,1)	24,24	6"
@@ -35275,8 +35275,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Gang Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3528
   raw: "n80190	25	fm00000	a00001		金石谷军帮众	ta0028	st0010b		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3320)(MaxHP,3320)(MP,1860)(MaxMP,1860)(Physique,51)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35285,8 +35285,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Bandits"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3529
   raw: "n80191	25	fm00000	a00002		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3230)(MaxHP,3230)(MP,1860)(MaxMP,1860)(Physique,49)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35295,8 +35295,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Gang Followers"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3530
   raw: "n80192	25	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3275)(MaxHP,3275)(MP,1860)(MaxMP,1860)(Physique,50)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70106,1)(it70104,1)(it801025,1)	24,24	0"
@@ -35305,8 +35305,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Gang Followers"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3531
   raw: "n80193	25	fm00000	a00003		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,3412)(MaxHP,3412)(MP,1860)(MaxMP,1860)(Physique,53)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35315,8 +35315,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jinshigu Army Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3532
   raw: "n80194	25	fm00000	a00001		金石谷军帮众	ta0028	st0010b		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3275)(MaxHP,3275)(MP,1860)(MaxMP,1860)(Physique,50)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35325,8 +35325,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Goldstone Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3533
   raw: "n80195	25	fm00000	a00008		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3320)(MaxHP,3320)(MP,1860)(MaxMP,1860)(Physique,51)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35335,8 +35335,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jing Shiku Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3534
   raw: "n80196	25	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3230)(MaxHP,3230)(MP,1860)(MaxMP,1860)(Physique,49)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35345,8 +35345,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Army Gang Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3535
   raw: "n80197	25	fm00000	a00009		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,3412)(MaxHP,3412)(MP,1860)(MaxMP,1860)(Physique,53)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35365,8 +35365,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jing Shiku Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3537
   raw: "n80199	25	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3320)(MaxHP,3320)(MP,1860)(MaxMP,1860)(Physique,51)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35375,8 +35375,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3538
   raw: "n80200	25	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3230)(MaxHP,3230)(MP,1860)(MaxMP,1860)(Physique,49)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35385,8 +35385,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Gang Followers"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3539
   raw: "n80201	25	fm00000	a00002		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3275)(MaxHP,3275)(MP,1860)(MaxMP,1860)(Physique,50)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35395,8 +35395,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Militia Faction"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3540
   raw: "n80202	25	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3412)(MaxHP,3412)(MP,1860)(MaxMP,1860)(Physique,53)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35405,8 +35405,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3541
   raw: "n80203	25	fm00000	a00003		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,3275)(MaxHP,3275)(MP,1860)(MaxMP,1860)(Physique,50)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70106,1)(it70104,1)(it801025,1)	24,24	0"
@@ -35415,8 +35415,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jing Shiku Army Gang Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3542
   raw: "n80204	25	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3320)(MaxHP,3320)(MP,1860)(MaxMP,1860)(Physique,51)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35435,8 +35435,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Gangsters"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3544
   raw: "n80206	25	fm00000	a00001		金石谷军帮众	ta0028	st0010b		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3412)(MaxHP,3412)(MP,1860)(MaxMP,1860)(Physique,53)(Intelligence,50)(Neigong,43)(Qinggong,40)(Fight,35)(Sword,35)(Blade,50)(Spear,50)(Arrow,35)(Short,50)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35455,8 +35455,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Gang Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3546
   raw: "n80208	30	fm00000	a00004		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3984)(MaxHP,3984)(MP,2278)(MaxMP,2278)(Physique,51)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35475,8 +35475,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3548
   raw: "n80210	30	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3930)(MaxHP,3930)(MP,2278)(MaxMP,2278)(Physique,50)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70106,1)(it70104,1)(it801025,1)	24,24	0"
@@ -35485,8 +35485,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Goldstone Valley Military Bandits"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3549
   raw: "n80211	30	fm00000	a00001		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,4094)(MaxHP,4094)(MP,2278)(MaxMP,2278)(Physique,53)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35495,8 +35495,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Gold and Stone Gully Militia Bandits"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3550
   raw: "n80212	30	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3930)(MaxHP,3930)(MP,2278)(MaxMP,2278)(Physique,50)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35505,8 +35505,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3551
   raw: "n80213	30	fm00000	a00002		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3984)(MaxHP,3984)(MP,2278)(MaxMP,2278)(Physique,51)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35515,8 +35515,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3552
   raw: "n80214	30	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3876)(MaxHP,3876)(MP,2278)(MaxMP,2278)(Physique,49)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35525,8 +35525,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3553
   raw: "n80215	30	fm00000	a00001		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,4094)(MaxHP,4094)(MP,2278)(MaxMP,2278)(Physique,53)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70106,1)(it70104,1)(it801025,1)	24,24	0"
@@ -35535,8 +35535,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3554
   raw: "n80216	30	fm00000	a00001		金石谷军帮众	ta0028	st0010b		211	ai00000	(MajorWeapon,eq10502)	1	(HP,4039)(MaxHP,4039)(MP,2278)(MaxMP,2278)(Physique,52)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35545,8 +35545,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3555
   raw: "n80217	30	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3984)(MaxHP,3984)(MP,2278)(MaxMP,2278)(Physique,51)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35555,8 +35555,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3556
   raw: "n80218	30	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3876)(MaxHP,3876)(MP,2278)(MaxMP,2278)(Physique,49)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35565,8 +35565,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3557
   raw: "n80219	30	fm00000	a00001		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,3930)(MaxHP,3930)(MP,2278)(MaxMP,2278)(Physique,50)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35575,8 +35575,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3558
   raw: "n80220	30	fm00000	a00003		金石谷军帮众	ta0028	st0010b		211	ai00000	(MajorWeapon,eq10502)	1	(HP,4094)(MaxHP,4094)(MP,2278)(MaxMP,2278)(Physique,53)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35585,8 +35585,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3559
   raw: "n80221	30	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3930)(MaxHP,3930)(MP,2278)(MaxMP,2278)(Physique,50)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35595,8 +35595,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3560
   raw: "n80222	30	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,3984)(MaxHP,3984)(MP,2278)(MaxMP,2278)(Physique,51)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70106,1)(it70104,1)(it801025,1)	24,24	0"
@@ -35605,8 +35605,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3561
   raw: "n80223	30	fm00000	a00001		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,3876)(MaxHP,3876)(MP,2278)(MaxMP,2278)(Physique,49)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35615,8 +35615,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3562
   raw: "n80224	30	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,4094)(MaxHP,4094)(MP,2278)(MaxMP,2278)(Physique,53)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35625,8 +35625,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3563
   raw: "n80225	30	fm00000	a00004		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,4039)(MaxHP,4039)(MP,2278)(MaxMP,2278)(Physique,52)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35635,8 +35635,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3564
   raw: "n80226	30	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,3984)(MaxHP,3984)(MP,2278)(MaxMP,2278)(Physique,51)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35645,8 +35645,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3565
   raw: "n80227	30	fm00000	a00001		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,3876)(MaxHP,3876)(MP,2278)(MaxMP,2278)(Physique,49)(Intelligence,50)(Neigong,51)(Qinggong,48)(Fight,40)(Sword,40)(Blade,60)(Spear,60)(Arrow,40)(Short,60)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35655,8 +35655,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3566
   raw: "n80228	32	fm00000	a00001		金石谷军帮众	ta0028	st0010b		211	ai00000	(MajorWeapon,eq10502)	1	(HP,4192)(MaxHP,4192)(MP,2452)(MaxMP,2452)(Physique,50)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,64)(Spear,64)(Arrow,42)(Short,64)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35665,8 +35665,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3567
   raw: "n80229	32	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,4367)(MaxHP,4367)(MP,2452)(MaxMP,2452)(Physique,53)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,64)(Spear,64)(Arrow,42)(Short,64)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35675,8 +35675,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3568
   raw: "n80230	32	fm00000	a00002		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,4192)(MaxHP,4192)(MP,2452)(MaxMP,2452)(Physique,50)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,64)(Spear,64)(Arrow,42)(Short,64)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70106,1)(it70104,1)(it801025,1)	24,24	0"
@@ -35685,8 +35685,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3569
   raw: "n80231	32	fm00000	a00001		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,4249)(MaxHP,4249)(MP,2452)(MaxMP,2452)(Physique,51)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,64)(Spear,64)(Arrow,42)(Short,64)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35695,8 +35695,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3570
   raw: "n80232	32	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,4134)(MaxHP,4134)(MP,2452)(MaxMP,2452)(Physique,49)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,64)(Spear,64)(Arrow,42)(Short,64)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35705,8 +35705,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3571
   raw: "n80233	32	fm00000	a00001		金石谷军帮众	ta0028	st0010b		211	ai00000	(MajorWeapon,eq10502)	1	(HP,4367)(MaxHP,4367)(MP,2452)(MaxMP,2452)(Physique,53)(Intelligence,50)(Neigong,54)(Qinggong,51)(Fight,42)(Sword,42)(Blade,64)(Spear,64)(Arrow,42)(Short,64)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35715,8 +35715,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3572
   raw: "n80234	33	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,4443)(MaxHP,4443)(MP,2540)(MaxMP,2540)(Physique,52)(Intelligence,50)(Neigong,56)(Qinggong,53)(Fight,43)(Sword,43)(Blade,66)(Spear,66)(Arrow,43)(Short,66)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35725,8 +35725,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3573
   raw: "n80235	31	fm00000	a00003		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,4117)(MaxHP,4117)(MP,2364)(MaxMP,2364)(Physique,51)(Intelligence,50)(Neigong,53)(Qinggong,50)(Fight,41)(Sword,41)(Blade,62)(Spear,62)(Arrow,41)(Short,62)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70106,1)(it70104,1)(it801025,1)	24,24	0"
@@ -35735,8 +35735,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3574
   raw: "n80236	34	fm00000	a00001		金石谷军帮众	ta0028	st0010c		211	ai00000	(MajorWeapon,eq10502)	1	(HP,4393)(MaxHP,4393)(MP,2630)(MaxMP,2630)(Physique,49)(Intelligence,50)(Neigong,58)(Qinggong,54)(Fight,44)(Sword,44)(Blade,68)(Spear,68)(Arrow,44)(Short,68)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35745,8 +35745,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3575
   raw: "n80237	35	fm00000	a00001		金石谷军帮众	ta0022	st0008b		211	ai00000	(MajorWeapon,eq10421)	1	(HP,4712)(MaxHP,4712)(MP,2720)(MaxMP,2720)(Physique,52)(Intelligence,50)(Neigong,60)(Qinggong,56)(Fight,45)(Sword,45)(Blade,70)(Spear,70)(Arrow,45)(Short,70)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35755,8 +35755,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3576
   raw: "n80238	35	fm00000	a00001		金石谷军帮众	ta0028	st0010b		211	ai00000	(MajorWeapon,eq10502)	1	(HP,4648)(MaxHP,4648)(MP,2720)(MaxMP,2720)(Physique,51)(Intelligence,50)(Neigong,60)(Qinggong,56)(Fight,45)(Sword,45)(Blade,70)(Spear,70)(Arrow,45)(Short,70)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35765,8 +35765,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3577
   raw: "n80239	33	fm00000	a00001		金石谷军帮众	ta0020	st0054b		211	ai00000		0	(HP,4263)(MaxHP,4263)(MP,2540)(MaxMP,2540)(Physique,49)(Intelligence,50)(Neigong,56)(Qinggong,53)(Fight,43)(Sword,43)(Blade,66)(Spear,66)(Arrow,43)(Short,66)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it70103,1)(it70104,1)(it801025,1)	24,24	6"
@@ -35775,8 +35775,8 @@
   - split: 5
     text: "金石谷军帮众"
     translated: "Jin Shi Valley Military Guild Members"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 3578
   raw: "n80240	40	fm00000	a00004		金石谷军首领	ta0022	st0008c,st0003d,st0998		211	ai00000	(MajorWeapon,eq10421)(MinorWeapon,eq10701)	1	(HP,5610)(MaxHP,5610)(MP,3230)(MaxMP,3230)(Physique,55)(Intelligence,50)(Neigong,72)(Qinggong,64)(Fight,50)(Sword,50)(Blade,80)(Spear,80)(Arrow,50)(Short,80)(Doctor,0)(Poison,0)(Money,500)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,100)	(it70112,1)(it70103,1)(it70104,1)(it801025,1)(eq11210,1)	24,24	6"

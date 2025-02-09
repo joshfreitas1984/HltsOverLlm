@@ -1919,8 +1919,8 @@
   - split: 1
     text: "金石谷"
     translated: "Jinshigou"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
 - lineNum: 196
   raw: "Area29	蔘王山"

@@ -1347,14 +1347,14 @@
   - split: 1
     text: "金石谷公敌"
     translated: "Kinjikitu Adversary"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
   - split: 2
     text: "击杀50名金石谷的成员"
     translated: "Eliminate 50 members of the Jinshi Valley"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
   - split: 12
     text: "九转彤云丹x3，玉龙养气丸x3，经验值12500点，江湖声望"
@@ -1369,14 +1369,14 @@
   - split: 1
     text: "金石谷的梦魇"
     translated: "Gold and Stone Valley Nightmare"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
   - split: 2
     text: "击杀100名金石谷的成员"
     translated: "Defeat 100 members of the Golden Stone Valley"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
   - split: 12
     text: "止血生肌丸x3，白云熊胆丸x3，经验值35000点，江湖声望"
@@ -1391,14 +1391,14 @@
   - split: 1
     text: "肃清金石谷"
     translated: "Clear the Jinshigu Valley"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
   - split: 2
     text: "击杀200名金石谷的成员"
     translated: "Eliminate 200 members of Jinshigu Valley"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
     flaggedGlossaryOut: ""
   - split: 12
     text: "黑玉断续膏x3，生生造化丹x3，经验值70000点，江湖声望"
