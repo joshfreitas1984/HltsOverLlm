@@ -206,7 +206,7 @@ n00074a	Jia Wenqing	ml_standA00		-591.24, 66.08978, 52.041	177.7484	7-17	FALSE	F
 n00074b	Zhen Xueshi	ml_standA00		-589.26, 66.09159, 51.19	218.7378	7-17	FALSE	FALSE						1	0	1	n90011-1					{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, True}  ], 0} 	0
 n00074c	Tie Chetian	ml_standA00		-586.9089, 66.10043, 48.28345	264.1622	7-17	FALSE	FALSE						1	0	1	n90004					{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, True}  ], 0} 	0
 n00074d	Fang Ruhua	ml_standA00		-588.756, 66.14198, 45.601	320.1484	7-17	FALSE	FALSE						2	0	1	n90012					{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, True}  ], 0} 	0
-n00074e	The Elderly Woman of Elder's Village	ml_standA00		-591.087, 66.16502, 45.215	3.955831	7-17	FALSE	FALSE						2	0	1	n90001					{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, True}  ], 0} 	0
+n00074e	Elderly Woman of Elder's Village	ml_standA00		-591.087, 66.16502, 45.215	3.955831	7-17	FALSE	FALSE						2	0	1	n90001					{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, True}  ], 0} 	0
 n00074f	Elder Uncle of Elder's Village	ml_standA00		-592.38, 66.17498, 45.76	40.69939	7-17	FALSE	FALSE						1	0	1	n90002					{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, True}  ], 0} 	0
 n00075a	Merciless Hall Assassin	ml_idle108	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	3	n20154	n00075a				{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, True}  ], 0} 	0
 n00075b	Merciless Hall Assassin	ml_idle108	n20154	0, 0, 0	0		FALSE	TRUE		v00026				1	0	0	n20154	n00075b				0	0
@@ -381,7 +381,7 @@ n00120a	Qi Zhangshi	ml_standA00		149.8, 96.76663, 237.77	201.961		TRUE	FALSE	n00
 n00120b	Loyal Soldier	ml_stand101		150.523, 96.76663, 235.683	0		TRUE	FALSE	n0012002000	v00087				0		0	n00108a					{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 1, True}  ], 0} 	0
 n00120c	Loyal Soldier	ml_standA00		148.892, 96.76663, 235.6763	0		TRUE	FALSE	n0012003000	v00087				1		0	n00108b					{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 1, True}  ], 0} 	0
 n00121a	Old Bai	m_reading001		29.29737, 64.22443, 477.2957	60.57143	8-17	FALSE	FALSE	n0012101000					1	0	1	n00121a					0	0
-n00121b	The Old Man of Darkness	m_sitSmoke001_ec		30.672, 63.8, 478.072	243.3281	8-17	FALSE	FALSE	n0012102000					1	0	1	n00121b					0	0
+n00121b	Old Man of Darkness	m_sitSmoke001_ec		30.672, 63.8, 478.072	243.3281	8-17	FALSE	FALSE	n0012102000					1	0	1	n00121b					0	0
 n00122	Chess Equipment Merchant	m_standD00	c_m30	28.64893, 63.8, 480.1945	148.457	8-17	TRUE	FALSE	n0012201000	v00115				1	0	0	n00122	n00122			(Chess_Stuff,1)(Money,1)	0	0
 n00123a	Imperial Guard Corpse	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n00047a					0	0
 n00123b	Imperial Guard Corpse	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n00047b					0	0
@@ -1133,7 +1133,7 @@ n20097	Woodcutter	m_sitEat001		-654.6957, 66.18829, -994.4813	300.6607	6-18	FALS
 n20098	Older person	ml_sitLoop001		-617.69, 66.18829, -1105.29	317.6376		FALSE	FALSE	n2009801000	v00050				1	3	1	n20098	n20098	n20098,n20098b			0	0
 n20099	Grandma	w_sitLoop010		-617.571, 66.18828, -1104.45	303.5894		FALSE	FALSE	n2009901000	v00052				2	3	1	n20099	n20099	n20099,n20099b			0	0
 n20100	Little girl	ml_standA00		-713.55, 83.50662, -1160.31	251.9726	6-17	FALSE	FALSE		v00063	sc20100			3	3	0	n20100		0			0	0
-n20101	The Boy	ml_standA00		-712.47, 83.50662, -1160.35	251.7791	6-17	FALSE	FALSE		v00062	sc20101			3	3	0	n30042		0			0	0
+n20101	Boy	ml_standA00		-712.47, 83.50662, -1160.35	251.7791	6-17	FALSE	FALSE		v00062	sc20101			3	3	0	n30042		0			0	0
 n20102	Commoner's daughter	w_talk012		-632.53, 66.18829, -1102.458	267.0041	6-19	FALSE	TRUE	n2010201000	v00057	sc20102			2	3	0	n20065b	n20102	0			0	0
 n20103	Commoner's daughter	w_talk011		-634.0405, 66.18829, -1102.464	88.61668	6-19	FALSE	TRUE	n2010301000	v00061				2	3	0	n20067b	n20103	0			0	0
 n20104	Welcome Guest, Waiter	ml_standA00		-618.634, 66.162, -1118.853	249.713	6-19	TRUE	FALSE	n2010401000	v00123	sc20104			1	3	0	n20095		0			0	0
@@ -1179,7 +1179,7 @@ n20138	Ye Family Horse Gang Members	m_standI00	c_m09	-853.168, 66.53, -1021.691	
 n20139	Ye Family Horse Gang Members	m_standB00	c_m10	-849.626, 66.28426, -1025.569	262.101		FALSE	TRUE		v00075				1	19	0	n20085d	n20139	0			{ "LogicalNode" : [ { "QuestCondition" : "Q20011_02", 0, True} , { "QuestCondition" : "Q20011_09", 0, True}  ], 1} 	0
 n20140	Ye Family Horse Gang Members	ml_standA00	c_m06	-852.1304, 66.45271, -1022.922	203.4844		FALSE	TRUE		v00075				1	19	0	n20085b	n20140	0			{ "LogicalNode" : [ { "QuestCondition" : "Q20011_02", 0, True} , { "QuestCondition" : "Q20011_09", 0, True}  ], 1} 	0
 n20141	Scarred Destroyer	m_woodman_stand01	c_m19	-612.876, 63.11279, -903.362	224.0414		FALSE	TRUE		v00008				1	0	0	n20141	n20141	0			{ "LogicalNode" : [ { "QuestCondition" : "Q20013", 0, True}  ], 0} 	0
-n20141b	The Scarsome Star's Corpse	m_sleep_dead001_ec		0, 0, 0	0		FALSE	TRUE	n20141b01000					1	0	1	n20141		0			{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "f2大研四煞屍體", True}  ], 0} 	0
+n20141b	Scarsome Star's Corpse	m_sleep_dead001_ec		0, 0, 0	0		FALSE	TRUE	n20141b01000					1	0	1	n20141		0			{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "f2大研四煞屍體", True}  ], 0} 	0
 n20142	Terrifying presence	m_standI00	c_m18	-610.54, 63.04465, -906.26	280.7767		FALSE	TRUE		v00009				1	0	0	n20142	n20142	0			{ "LogicalNode" : [ { "QuestCondition" : "Q20013", 0, True}  ], 0} 	0
 n20142b	Corpse of the Fearsome Demon	m_sleep_dead002_ec		0, 0, 0	0		FALSE	TRUE	n20142b01000					1	0	1	n20142		0			{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "f2大研四煞屍體", True}  ], 0} 	0
 n20143	End of the World Assassin	ml_standA00	c_m40	0, 0, 0	0		FALSE	TRUE		v00008				1	0	0	n20116	n20143	0			0	0
@@ -1311,7 +1311,7 @@ n20249	Hide and Seek Child	m_peep002Loop		-696.636, 66.22176, -1107.617	0	7-18	F
 n20250	Hide and Seek Child	k_standD00		-605.57, 66.17, -1067.17	59.58835	7-18	FALSE	FALSE						3	3	0	n20250					0	0
 n20251	Hide and Seek Child	m_eavesdrop002Loop		-730.2162, 79.82516, -1165.223	63.08825	7-18	FALSE	FALSE						3	3	1	n20251					0	0
 n20252	Hide and Seek Child	k_standC00		-721.508, 65.293, -986.002	0	7-18	FALSE	FALSE						3	3	0	n20252					0	0
-n20253	The Boy	k_standB00		-744.92, 66.1883, -1014.98	136.9516	7-18	TRUE	FALSE	n2025301000	v00062	sc20253			3	3	0	n20253		n20253,n20253b,n20253c,n20253d,n20253e,n20253f			{ "LogicalNode" : [ { "QuestCondition" : "Q52005_09", 0, False}  ], 0} 	0
+n20253	Boy	k_standB00		-744.92, 66.1883, -1014.98	136.9516	7-18	TRUE	FALSE	n2025301000	v00062	sc20253			3	3	0	n20253		n20253,n20253b,n20253c,n20253d,n20253e,n20253f			{ "LogicalNode" : [ { "QuestCondition" : "Q52005_09", 0, False}  ], 0} 	0
 n20256	A Drunkard	m_sitDrink001		-632.887, 70.055, -998.101	175.8509	10-23	FALSE	FALSE	n2025601000	v00055				1	3	1	n20256					0	0
 n20257	A Girl	w_sitLoop004		-667.342, 66.18829, -1008.255	185.7679	11-16	FALSE	FALSE	n2025701003	v00053	sc20257			2	3	1	n20067c	n20257				0	0
 n20258	Pawnshop Helper	ml_standA00	c_m22	-634.593, 66.45217, -1046.399	344.8907	20-23, 0-5	FALSE	FALSE	n2025801001	v00128				1	3	1	n20258	n20165			(Weapon,1)(Armor,1)(Forge,1)(Antique_Stuff,1)(Chess_Stuff,1)(Currency_Stuff,2)(Money,1)	0	0
@@ -1978,12 +1978,12 @@ n23001	Jianghu Ren	m_sitDrink001		-656.793, 66.18829, -1008.864	283.66	6-19	FALS
 n23002	Jianghu Ren	m_sitDrink001		-657.7244, 66.18829, -1008.166	181.7586	6-19	FALSE	FALSE	n2300201008					1	0	0	n23002					0	0
 n23003	Jianghu Ren	m_sitEat001		-683.426, 66.1883, -1003.499	92.80516	20-23, 0-5	FALSE	FALSE	n2300201008					1	0	0	n23003					0	0
 n23004	Jianghu Ren	m_sitEat001		-682.631, 66.18829, -1002.589	181.1387	20-23, 0-5	FALSE	FALSE	n2300201008					1	0	0	n23004					0	0
-n23005	Wu Xue Zhang (My humble)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23005				0	0
-n23006	The Martial Arts Block (Still)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23006				0	0
-n23007	The obstacle of martial arts (Soft, gentle)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23007				0	0
-n23008	Wuxue zhang (Skilled)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23008				0	0
-n23009	The Martial Arts Barrier (Move)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23011				0	0
-n23010	Wuxue zhang (Just now)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23010				0	0
+n23005	Martial Arts Block (Humble)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23005				0	0
+n23006	Martial Arts Block (Still)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23006				0	0
+n23007	Martial Arts Block (Soft)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23007				0	0
+n23008	Martial Arts Block (Skill)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23008				0	0
+n23009	Martial Arts Block (Move)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23011				0	0
+n23010	Martial Arts Block (Just)	ml_standA00	n00008	0, 0, 0	0		FALSE	FALSE						1		0	n20586	n23010				0	0
 n30001	Zhao Tianwang	ml_standA00	n30001	-341.3531, 67.0892, -1101.692	302.3291		FALSE	TRUE	n3000201000	v00058				1	2	0	n30001-1		n30001-1,n30001-2,n30001-3,n30001-4,n30001-5,n30001-6,n30001-7,n30001-8			{ "LogicalNode" : [ { "QuestCondition" : "Q60009", 2, False} , { "QuestCondition" : "Q60009_01", 0, False} , { "QuestCondition" : "Q60009_01", 2, False}  ], 0} 	0
 n30001b	Zhao Tianwang	m_sleep_dead003_ec	n30001	-342.2579, 67.0892, -1101.101	276.5005		FALSE	TRUE	n3000101010					1	2	0	n30001-1					{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60009_01", 0, True}  ], 1}  ], 0} 	0
 n30001c	Zhao Tianwang	m_sleep004_ec	n30001	-370.505, 67.11182, -1070.891	230.5952		FALSE	TRUE	n3000101000					1	2	0	n30001-1					{ "LogicalNode" : [ { "QuestCondition" : "Q60009_01", 2, True}  ], 0} 	0
@@ -2268,8 +2268,8 @@ n40090d	Wolf Barbarian Soldier	ml_idle401	c_m42	-685.147, 112.55, -365.7201	-30.
 n40090e	Wolf Barbarian Soldier	ml_idle401	c_m43	-679.0098, 110.8, -357.9688	-89.08401		FALSE	FALSE						1	27	0	n20364d	n40060e				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_01", 0, True}  ], 0} 	0
 n40090f	Wolf Barbarian Soldier	ml_idle305	c_m44	-690.2861, 111.18, -362.4531	-4.791		FALSE	FALSE						1	27	0	n20364b	n40060f				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_01", 0, True}  ], 0} 	0
 n40090g	Wolf Barbarian Soldier	ml_idle305	c_m45	-684.0535, 109.45, -354.0887	-112.023		FALSE	FALSE						1	27	0	n20364	n40060g				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_01", 0, True}  ], 0} 	0
-n40090h	The Karma Monastery monks	ml_idle007	c_m35	-688.8846, 109.588, -355.7879	-250.221		FALSE	FALSE						1	20	0	n52015	n40060h				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_01", 0, True}  ], 0} 	0
-n40090i	The Karma Monastery monks	ml_idle007	c_m36	-690.2764, 110.145, -358.4157	134.962		FALSE	FALSE						1	20	0	n52016	n40060i				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_01", 0, True}  ], 0} 	0
+n40090h	Karma Monastery monks	ml_idle007	c_m35	-688.8846, 109.588, -355.7879	-250.221		FALSE	FALSE						1	20	0	n52015	n40060h				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_01", 0, True}  ], 0} 	0
+n40090i	Karma Monastery monks	ml_idle007	c_m36	-690.2764, 110.145, -358.4157	134.962		FALSE	FALSE						1	20	0	n52016	n40060i				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_01", 0, True}  ], 0} 	0
 n40091a	Winery Disciple	ml_idle102	c_m02	-386.2968, 97.044, 742.9293	310.374		FALSE	FALSE						1	6	0	n60129	n40061a				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_02", 0, True}  ], 0} 	0
 n40091b	Winery Disciple	ml_idle102	c_m03	-384.3418, 97.073, 743.8999	310.374		FALSE	FALSE						1	6	0	n60130	n40061b				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_02", 0, True}  ], 0} 	0
 n40091c	Centurion	ml_idle109	n20363	-390.2694, 97.266, 748.7584	126.694		FALSE	FALSE						1	27	0	n20363	n40061c				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_02", 0, True}  ], 0} 	0
@@ -2364,10 +2364,10 @@ n40111b	Wolf Barbarian Soldier	ml_idle401	c_m42	0, 0, 0	0		FALSE	FALSE						1	27
 n40111c	Wolf Barbarian Soldier	ml_idle401	c_m43	0, 0, 0	0		FALSE	FALSE						1	27	0	n20364d	n40083c				0	0
 n40111d	Wolf Barbarian Soldier	ml_idle305	c_m44	0, 0, 0	0		FALSE	FALSE						1	27	0	n20364b	n40083d				0	0
 n40111e	Wolf Barbarian Soldier	ml_idle305	c_m45	0, 0, 0	0		FALSE	FALSE						1	27	0	n20364	n40083e				0	0
-n40112a	The Four Elite of the Imperial Guard	ml_idle106	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40102	n40084a				0	0
-n40112b	The Four Elite of the Imperial Guard	ml_idle306	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40103	n40084b				0	0
-n40112c	The Four Elite of the Imperial Guard	ml_idle103	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40104	n40084c				0	0
-n40112d	The Four Elite of the Imperial Guard	ml_idle112	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40105	n40084d				0	0
+n40112a	Four Elite of the Imperial Guard	ml_idle106	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40102	n40084a				0	0
+n40112b	Four Elite of the Imperial Guard	ml_idle306	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40103	n40084b				0	0
+n40112c	Four Elite of the Imperial Guard	ml_idle103	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40104	n40084c				0	0
+n40112d	Four Elite of the Imperial Guard	ml_idle112	c_m50	0, 0, 0	0		FALSE	FALSE						1	0	0	n40105	n40084d				0	0
 n40113	Way of Light Follower	m_kneel004stop		-568.5723, 94.77195, 942.9862	156.071		FALSE	FALSE						1	0	3	n00113a					{ "LogicalNode" : [ { "QuestCondition" : "Q40051", 0, True}  ], 0} 	0
 n40114	Ginseng King Mountain Chief	ml_standA00	c_m01	0, 0, 0	0		FALSE	FALSE						1	29	0	n80296	n40085				{ "LogicalNode" : [ { "QuestCondition" : "Q40052", 0, True}  ], 0} 	0
 n40115a	Ginseng King Mountain Sect followers	ml_standA00	c_m07	0, 0, 0	0		FALSE	FALSE						1	29	0	n80181	n40086a				{ "LogicalNode" : [ { "QuestCondition" : "Q40052", 0, True}  ], 0} 	0
@@ -2730,7 +2730,7 @@ n51009	He Baishao	wl_standA00	n51009	0, 0, 0	0		FALSE	TRUE						2	17	0	n41042	n5
 n51009b	He Baishao	w_standG00	n51009	0, 0, 0	137.8487		FALSE	FALSE	n5100901000					2	17	0	n41042	n51009				{ "LogicalNode" : [ { "QuestCondition" : "Q51004_02", 1, False}  ], 0} 	{ "LogicalNode" : [ { "StealFailNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n5100901003"}  ]} }  ], 0} 
 n51010	Injured Man	m_kneel 002_ec	c_m10	-183.947, 108.243, -1103.646	111.345		FALSE	FALSE	v2006301006					1	0	1	n51010	n51010				{ "LogicalNode" : [ { "LogicalNode" : [ { "CheckFlagAction" : "f2蛇窟男子消失", 3, 1} , { "CheckTimeBlackboardAction" : "f2蛇窟男子消失b", True}  ], 1} , { "LogicalNode" : [ { "CheckFlagAction" : "f2蛇窟前男子", 1, 0} , { "CheckTimeBlackboardAction" : "f2蛇窟前男子b", True}  ], 1}  ], 0} 	0
 n51010b	Injured Man	m_kneel 001_ec	c_m10	-300.5071, 139.8867, -1254.298	73.75064		FALSE	FALSE						1		0	n51010	n51010				{ "LogicalNode" : [ { "CheckFlagAction" : "f2蛇窟前男子", 1, 1}  ], 0} 	0
-n51011	The Beggar	ml_standA00	n60055	0, 0, 0	0		FALSE	TRUE						1	0	0	n60055					0	0
+n51011	Beggar	ml_standA00	n60055	0, 0, 0	0		FALSE	TRUE						1	0	0	n60055					0	0
 n52001	Mu Mansion Guard Commander	ml_stand301	c_m21	-614.2751, 66.18829, -1118.212	132.6256		FALSE	FALSE	n5200103000		sc52001001			1	3	0	n20050	n50075k				{ "LogicalNode" : [ { "QuestCondition" : "Q52004_02", 0, True} , { "QuestCondition" : "Q52004_03", 0, True} , { "QuestCondition" : "Q52004_04", 0, True} , { "QuestCondition" : "Q52004_05", 0, True}  ], 1} 	0
 n52001b	Merchant Li Chen	ml_standA00		-604.21, 66.18829, -1117.54	242.3377		FALSE	FALSE	n52001b01000		sc52001002			1	0	0	n20070b					{ "LogicalNode" : [ { "QuestCondition" : "Q52004_02", 0, True} , { "QuestCondition" : "Q52004_03", 0, True} , { "QuestCondition" : "Q52004_04", 0, True} , { "QuestCondition" : "Q52004_05", 0, True}  ], 1} 	0
 n52001c	Brother Anu Aqi	ml_standA00		-605.84, 66.18829, -1118.25	57.22005		FALSE	FALSE	n52001c01000					1	3	0	n20066b					{ "LogicalNode" : [ { "QuestCondition" : "Q52004_02", 0, True} , { "QuestCondition" : "Q52004_03", 0, True} , { "QuestCondition" : "Q52004_04", 0, True} , { "QuestCondition" : "Q52004_05", 0, True}  ], 1} 	0
@@ -2745,7 +2745,7 @@ n52003d	Black Clothed Person	ml_standA00	n20154	0, 0, 0	0		FALSE	FALSE		v00026		
 n52003d_dead	Black Clothed Person	m_sleep_dead001_ec	n20154	0, 0, 0	0		FALSE	FALSE						1		0	n20154	n52003d				{ "LogicalNode" : [ { "CheckTimeBlackboardAction" : "t52001", True}  ], 0} 	0
 n52004	Tea Customer	ml_sitLoop001		-656.925, 66.218, -1002.511	190.4517	5-19	FALSE	FALSE	n520050302000		sc52004001			1	3	0	n20107					{ "LogicalNode" : [ { "QuestCondition" : "Q52005_03", 0, True} , { "QuestCondition" : "Q52005_04", 0, True} , { "QuestCondition" : "Q52006_04", 0, True} , { "QuestCondition" : "Q52006_05", 0, True}  ], 1} 	0
 n52004a	Merchant	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	3	0	n50013					0	0
-n52005	The Karma Monastery monks	ml_standA00	c_m19	0, 0, 0	0		TRUE	FALSE	n520050501000	v00112				1	20	0	n50019					0	0
+n52005	Karma Monastery monks	ml_standA00	c_m19	0, 0, 0	0		TRUE	FALSE	n520050501000	v00112				1	20	0	n50019					0	0
 n52005a	Black Clothed Person	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005a				0	{ "LogicalNode" : [ { "RunMovieAction" : "m520050502"}  ], 0} 
 n52005b	Black Clothed Person	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005b				0	0
 n52005c	Black Clothed Person	ml_idle001	n20154	0, 0, 0	0		FALSE	FALSE		v00026				1		0	n20154	n52005c				0	0
@@ -2878,18 +2878,18 @@ n52022	He Family Horse Gang Members	ml_standA00		-669.6133, 66.218, -1074.592	26
 n52023	Black-Clothed Woman	ml_standA00	n52009	-651.734, 113.135, -497.125	31.16478		FALSE	TRUE		v00099				2		0	n52009	n52009				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_08", 0, True}  ], 0} 	0
 n52023b	Merchant	ml_standA00	c_m08	-652.8473, 113.1483, -496.0443	52.77307		FALSE	FALSE						1		0	n20071c	n52008a				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_08", 0, True}  ], 0} 	0
 n52023c	Houseman	ml_standA00	c_m05	-650.364, 113.1483, -497.4167	348.493		FALSE	FALSE						1		0	n20072	n52008b				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_08", 0, True}  ], 0} 	0
-n52024	The Karma Monastery monks	ml_standA00	c_m35	-648.02, 112.7751, -489.23	23.08776		FALSE	FALSE		v00112				1	20	0	n52015					{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 0, True}  ], 0} 	0
+n52024	Karma Monastery monks	ml_standA00	c_m35	-648.02, 112.7751, -489.23	23.08776		FALSE	FALSE		v00112				1	20	0	n52015					{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 0, True}  ], 0} 	0
 n52025	Eagle Hunter A Ji	ml_idle401	c_m29	0, 0, 0	0		FALSE	FALSE		v00146				1	3,4	0	n50055	n52025				0	0
 n52025b	Eagle Hunter Ashi	ml_idle401	c_m33	0, 0, 0	0		FALSE	FALSE		v00145				1	3,4	0	n50056	n52025b				0	0
 n52025c	Eagle Hunter	ml_idle401	c_m30	0, 0, 0	0		FALSE	FALSE		v00149				1	3,4	0	n50056b	n52025c				0	0
-n52025d	The Karma Monastery monks	ml_idle007	c_m35	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52015	n52025d				0	0
-n52025e	The Karma Monastery monks	ml_idle007	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52025e				0	0
-n52025f	The Karma Monastery monks	ml_standA00	c_m38	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52017	n52025f				0	0
-n52025g	The Karma Monastery monks	ml_standA00	c_m35	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52015	n52025g				0	0
-n52025h	The Karma Monastery monks	ml_standA00	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52025h				0	0
-n52025i	The Karma Monastery monks	ml_standA00	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52025i				0	0
-n52025j	The Karma Monastery monks	ml_standA00	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52025j				0	0
-n52025k	The Karma Monastery monks	ml_standA00	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52025k				0	0
+n52025d	Karma Monastery monks	ml_idle007	c_m35	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52015	n52025d				0	0
+n52025e	Karma Monastery monks	ml_idle007	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52025e				0	0
+n52025f	Karma Monastery monks	ml_standA00	c_m38	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52017	n52025f				0	0
+n52025g	Karma Monastery monks	ml_standA00	c_m35	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52015	n52025g				0	0
+n52025h	Karma Monastery monks	ml_standA00	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52025h				0	0
+n52025i	Karma Monastery monks	ml_standA00	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52025i				0	0
+n52025j	Karma Monastery monks	ml_standA00	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52025j				0	0
+n52025k	Karma Monastery monks	ml_standA00	c_m36	0, 0, 0	0		FALSE	FALSE		v00112				1	20	0	n52016	n52025k				0	0
 n52026	Mu Mansion Spearman	ml_idle302	c_m21	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050c	n50075c				0	0
 n52026b	Mu Mansion Spearman	ml_standA00	c_m21	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050e	n50075e				0	0
 n52027	Mu Mansion Spearman	ml_idle301	c_m21	-910.2755, 72.43, -885.4805	349.9724		FALSE	FALSE		v00070				1	3	0	n20050h	n52027				{ "LogicalNode" : [ { "CheckFlagAction" : "f52008", 0, 0}  ], 0} 	0
@@ -3095,8 +3095,8 @@ n55006e	Five Blades Bandit	m_standB00	c_m11	108.9705, 83.56284, -563.8757	99.45	
 n55006f	Bandit Liu, Six Blades	m_standB01	c_m01	128.8494, 82.74125, -575.7083	125.332	21-24, 0-5	TRUE	FALSE		v00009				1	0	0	n19999c	n55006f				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n55006f", 0.50000, 0} , { "SetTalkIdAction" : "n5500106017"}  ]} , 20.00000}  ], 0} 
 n55006g	Brigand Seven Blades	m_sitLoop006	c_m17	143.8369, 83.29891, -560.5064	120.276	21-24, 0-5	TRUE	FALSE		v00009				1	0	0	n19999d	n55006g				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n55006g", 0.50000, 0} , { "SetTalkIdAction" : "n5500106019"}  ]} , 20.00000}  ], 0} 
 n55006h	Rogue Bandit with Eight Blades	m_standB01	c_m10	108.3572, 80.37, -579.4992	-163.008	21-24, 0-5	TRUE	FALSE		v00009				1	0	0	n19999h	n55006h				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n55006h", 0.50000, 0} , { "SetTalkIdAction" : "n5500106021"}  ]} , 20.00000}  ], 0} 
-n56001	The Monk	ml_standA00		238.2834, 209.7964, 778.0267	-39.005	5-22	TRUE	FALSE	n5600101000	v00081b	sc56001			1	0	0	n56001	n56001				0	0
-n56001a	The Monk	ml_standA00		0, 0, 0	-39.005	5-22	FALSE	FALSE	n5600101000	v00081b				1	0	0	n56001a	n56001				0	0
+n56001	Monk	ml_standA00		238.2834, 209.7964, 778.0267	-39.005	5-22	TRUE	FALSE	n5600101000	v00081b	sc56001			1	0	0	n56001	n56001				0	0
+n56001a	Monk	ml_standA00		0, 0, 0	-39.005	5-22	FALSE	FALSE	n5600101000	v00081b				1	0	0	n56001a	n56001				0	0
 n56001b	Monch	m_hoe_Big		231.6458, 209.7964, 769.2703	96.117		FALSE	FALSE	n5600101037					1	0	0	n56001b					{ "LogicalNode" : [ { "QuestCondition" : "Q40052", 0, True}  ], 0} 	0
 n59001	Beast King Hongban	al20061@Idle	animal27	396.6262, 65.79127, -1414.599	33.3814		FALSE	TRUE		v10010				0	21	0	animal27	n59001				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59001", 0.50000, 0} , { "SetTalkIdAction" : "n5900101000"}  ]} , 0.00000}  ], 0} 
 n59001_a01	Beast King Hongban	al20061@Idle	animal27	0, 0, 0	0		FALSE	TRUE		v10010				0	21	0	animal27	n59001_a01				0	0
@@ -3624,10 +3624,10 @@ n59003_B47	Large Wild Boar	al20032@IdleLookAround	animal32	0, 0, 0	0		FALSE	TRUE
 n59003_B48	Large Wild Boar	al20032@IdleLookAround	animal32	0, 0, 0	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal32	n59003_B48				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003_B48", 0.50000, 0} , { "SetTalkIdAction" : "n5900101060"}  ]} , 15.00000}  ], 0} 
 n59003_B49	Large Wild Boar	al20032@IdleLookAround	animal32	0, 0, 0	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal32	n59003_B49				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003_B49", 0.50000, 0} , { "SetTalkIdAction" : "n5900101060"}  ]} , 15.00000}  ], 0} 
 n59003_B50	Large Wild Boar	al20032@IdleLookAround	animal32	0, 0, 0	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal32	n59003_B50				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003_B50", 0.50000, 0} , { "SetTalkIdAction" : "n5900101060"}  ]} , 15.00000}  ], 0} 
-n59003b	The Big Black Pig	al20032@IdleLookAround	animal50	-536.2836, 97.61445, 752.8493	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal69	n59003b				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003b", 0.50000, 0} , { "SetTalkIdAction" : "n5900101058"}  ]} , 15.00000}  ], 0} 
-n59003c	The Big Black Pig	al20032@IdleLookAround	animal50	0, 0, 0	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal69	n59003c				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003c", 0.50000, 0} , { "SetTalkIdAction" : "n5900101058"}  ]} , 15.00000}  ], 0} 
-n59003d	The Big Black Pig	al20032@IdleLookAround	animal50	0, 0, 0	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal69	n59003d				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003d", 0.50000, 0} , { "SetTalkIdAction" : "n5900101058"}  ]} , 15.00000}  ], 0} 
-n59003e	The Big Black Pig	al20032@IdleLookAround	animal50	0, 0, 0	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal69	n59003e				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003e", 0.50000, 0} , { "SetTalkIdAction" : "n5900101058"}  ]} , 15.00000}  ], 0} 
+n59003b	Big Black Pig	al20032@IdleLookAround	animal50	-536.2836, 97.61445, 752.8493	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal69	n59003b				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003b", 0.50000, 0} , { "SetTalkIdAction" : "n5900101058"}  ]} , 15.00000}  ], 0} 
+n59003c	Big Black Pig	al20032@IdleLookAround	animal50	0, 0, 0	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal69	n59003c				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003c", 0.50000, 0} , { "SetTalkIdAction" : "n5900101058"}  ]} , 15.00000}  ], 0} 
+n59003d	Big Black Pig	al20032@IdleLookAround	animal50	0, 0, 0	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal69	n59003d				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003d", 0.50000, 0} , { "SetTalkIdAction" : "n5900101058"}  ]} , 15.00000}  ], 0} 
+n59003e	Big Black Pig	al20032@IdleLookAround	animal50	0, 0, 0	0		FALSE	TRUE		v10007		n59003_001		0	21	0	animal69	n59003e				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59003e", 0.50000, 0} , { "SetTalkIdAction" : "n5900101058"}  ]} , 15.00000}  ], 0} 
 n59004	Animal King Iron Axe	al20008@idle01	animal34	-1188.324, 117.9943, -1084.925	116.1887		FALSE	TRUE		v10009		n59004		0	21	0	animal34	n59004				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59004", 0.50000, 0} , { "SetTalkIdAction" : "n5900101288"}  ]} , 15.00000}  ], 0} 
 n59004_001	Wild Bear	al20008@idle01	animal08	-192.476, 119.4758, -1190.887	254.2752		FALSE	TRUE		v10009		n59004		0	21	0	animal08	n59004_001				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59004_001", 0.50000, 0} , { "SetTalkIdAction" : "n5900101074"}  ]} , 15.00000}  ], 0} 
 n59004_002	Wild Bear	al20008@idle01	animal08	-127.3126, 197.1671, -1272.464	326.1737		FALSE	TRUE		v10009		n59004		0	21	0	animal08	n59004_002				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n59004_002", 0.50000, 0} , { "SetTalkIdAction" : "n5900101073"}  ]} , 15.00000}  ], 0} 
@@ -4388,7 +4388,7 @@ n60121d	Harmful Tiger	al20007@Idle	animal07	-820.0134, 114.8717, -1159.27	0		TRU
 n60122	Su Fu's Xing'er	w_standA00		-687.0149, 66.18829, -1059.77	89.56244		FALSE	FALSE	n6012201000	v00060				2	3	0	n60078		n60122-1,n60122-2,n60122-3,n60122-4			{ "LogicalNode" : [ { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 1, True}  ], 1} 	0
 n60123	Su Family Tang'er	w_standA00		-687.5005, 66.18829, -1058.748	118.9291		FALSE	FALSE	n6012301000	v00060				2	3	0	n60077		n60123-1,n60123-2,n60123-3,n60123-4			{ "LogicalNode" : [ { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 1, True}  ], 1} 	0
 n60124	Su Family Fu'er	w_standA00		-687.6776, 66.18829, -1060.42	52.52753		FALSE	FALSE	n6012401000	v00060				2	3	0	n60076		n60124-1,n60124-2,n60124-3,n60124-4			{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60017", 1, True} , { "QuestCondition" : "Q60016", 1, True}  ], 1} , { "LogicalNode" : [ { "CheckFlagAction" : "f61046總之芙兒不滿意", 1, 0}  ], 0}  ], 0} 	0
-n60125	The Rat	ml_standA00		0, 0, 0	0		FALSE	FALSE	n6012501000					1	21	0	animal23		0			0	0
+n60125	Rat	ml_standA00		0, 0, 0	0		FALSE	FALSE	n6012501000					1	21	0	animal23		0			0	0
 n60126	Li Hua's body	m_sleep_dead003_ec		-731.7803, 66.18829, -1121.083	0		FALSE	FALSE						2	22	3	n60103		0			0	0
 n60127	Qin'er	w_standC00		-733.0054, 66.18829, -1119.771	90.7428		FALSE	FALSE	n6012701000	v00060				2	22	0	n60082	n60127	n60127-1,n60127-2,n60127-3			{ "LogicalNode" : [ { "QuestCondition" : "Q40029_02", 0, False}  ], 0} 	0
 n60128	Little Green Tea	w_standA00		-744.8286, 66.18828, -1105.828	71.53426		FALSE	FALSE	n6012801000	v00060				2	22	0	n60083		n60128-1,n60128-2,n60128-3			0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunScheduleAction" : "sc60128001", "n60128", -1, ""}  ]} , 0.00000}  ], 0} 
@@ -4441,8 +4441,8 @@ n60164	Chang Fen	w_standA00	c_w03	-632.2552, 62.76373, -965.9034	137.2692	19-23,
 n60165	Eat honey and be a fat rat	ml_standA00		0, 0, 0	0		TRUE	FALSE	n6016501000					1	21	0	animal23		n60165			0	0
 n60166	Mi's Shop Owner	w_standD00	c_w02	-618.077, 66.33876, -1058.172	271.1491		FALSE	FALSE	n6016601000	v00053				2	3,113	0	n60105	n60166	n60166,n60166b,n60166c		(Food,1)(Money,1)	0	0
 n60166b	Mi's Shop Owner	w_standD00	c_w02	0, 0, 0	0		FALSE	FALSE	n6016601000	v00053				2	3,113	0	n60105	n60166			(Food,1)(Money,1)	0	0
-n60167	The Shopkeeper	w_standD00	c_m30	-618.5059, 66.35636, -1050.904	256.8481		FALSE	FALSE	n6016701000	v00050				1	106,3	0	n60104	n60167	n60167,n60167b,n60167c		(Food,1)(Other_Stuff,1)(Money,1)	0	0
-n60167b	The Shopkeeper	w_standD00	c_m30	0, 0, 0	0		FALSE	FALSE	n6016701000	v00050				1	106,3	0	n60104	n60167			(Food,1)(Other_Stuff,1)(Money,1)	0	0
+n60167	Shopkeeper	w_standD00	c_m30	-618.5059, 66.35636, -1050.904	256.8481		FALSE	FALSE	n6016701000	v00050				1	106,3	0	n60104	n60167	n60167,n60167b,n60167c		(Food,1)(Other_Stuff,1)(Money,1)	0	0
+n60167b	Shopkeeper	w_standD00	c_m30	0, 0, 0	0		FALSE	FALSE	n6016701000	v00050				1	106,3	0	n60104	n60167			(Food,1)(Other_Stuff,1)(Money,1)	0	0
 n60168	Pipanu	w_sitLoop008		-734.618, 66.88, -1117.277	359.676		FALSE	FALSE	n6016801000	v00094				2	22	0	n60112		n60168-1,n60168-2			0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunScheduleAction" : "sc60168001", "n60168", -1, ""}  ]} , 0.00000}  ], 0} 
 n60169	Pipanu	w_dancesPipa001Loop		-736.543, 66.88, -1116.557	0		FALSE	FALSE	n6016901000	v00094				2	22	0	n60111		n60169-1,n60169-2			0	0
 n60170	Pipanu	w_sitLoop008		-738.265, 66.88, -1117.506	0		FALSE	FALSE	n6017001000	v00094				2	22	0	n60112		n60170-1,n60170-2			0	0
@@ -5199,14 +5199,14 @@ n80145	Monkey	al20024@idle01	animal24	392.8015, 71.7902, 397.7537	110.0952		TRUE
 n80146	Monkey	al20024@idle01	animal24	0, 0, 0	0		TRUE	TRUE	n8013101016			n80131		0	21	0	animal24	n80146			(Fruit_Food,2)	0	0
 n80147	Monkey	al20024@idle01	animal24	408.2048, 71.7902, 385.0941	326.2447		TRUE	TRUE	n8013101017			n80131		0	21	0	animal24	n80147			(Fruit_Food,2)	0	0
 n80148	Monkey	al20024@idle01	animal24	406.5974, 71.7902, 385.1312	59.62898		TRUE	TRUE	n8013101018					0	21	0	animal24	n80148			(Fruit_Food,2)	0	0
-n80149	The Strange Monkey	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						0	0
+n80149	Strange Monkey	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						0	0
 n80150	Strange Giant Ape	al20045@idle	animal45	915.3076, 59.39919, 277.2565	238.8293		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150				0	0
-n80150a	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150a				0	0
-n80150b	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150b				0	0
-n80150c	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150c				0	0
-n80150d	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150d				0	0
-n80150e	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150e				0	0
-n80150f	The King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150				0	0
+n80150a	King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150a				0	0
+n80150b	King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150b				0	0
+n80150c	King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150c				0	0
+n80150d	King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150d				0	0
+n80150e	King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150e				0	0
+n80150f	King of Great Apes - Hou San	al20045@idle	animal45	0, 0, 0	0		TRUE	FALSE	n8015001000					0	21	0	animal45	n80150				0	0
 n80151	Xi Shan	ml_standA00		-609.008, 66.44887, -1142.04	262.7497		TRUE	FALSE	n8015101000					1	3	0	n20255-1	n80151			(Cuisine_Food,1)(Wine_Food,1)	0	0
 n80152	'Drunk Elixir Immortal' Sun Dongyuan	ml_standA00		-626.9518, 66.218, -1129.869	131.6129		TRUE	FALSE	n8015201000					1	107	0	n40001	n80152			(Drug_Medicine,1)(Herbs_Medicine,1)(Wine_Food,2)(Money,1)	0	0
 n80153	Monkey	al20024@idle01	animal24	416.0954, 72.53676, 389.0421	0		TRUE	FALSE	n8015301000					1	21	0	animal24	n80153				0	0
@@ -5233,7 +5233,7 @@ n80174	Heaven's Pillar Fort Follower	ml_standA00	c_m15	0, 0, 0	0		FALSE	FALSE			
 n80175	Heaven's Pillar Fort Follower	ml_standA00	c_m18	0, 0, 0	0		FALSE	FALSE						1	5	0	n20025c	n80175				0	0
 n80176	Heaven's Pillar Fort Follower	ml_standA00	c_m03	0, 0, 0	0		FALSE	FALSE						1	5	0	n20025d	n80176				0	0
 n80177	Gold Stone Valley Quartermaster	ml_standA00	c_m26	698.0059, 177.1624, -1158.064	0		TRUE	TRUE	n8017701000					1	101,107	0	n80177	n80177			(Drug_Medicine,1)(Herbs_Medicine,1)(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "tm85044", 3, 1} , { "CheckFlagAction" : "tm80068", 3, 1}  ], 0} 	0
-n80178	The Ginseng King's Quartermaster	ml_standA00	c_m27	699.3381, 166.9965, -997.7612	257.2135		TRUE	TRUE	n8017801000					1	107,101	0	n80178	n80178			(Drug_Medicine,1)(Herbs_Medicine,2)(Stone_Forge,1)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "tm85043", 3, 1} , { "CheckFlagAction" : "tm80067", 3, 1}  ], 0} 	0
+n80178	Ginseng King's Quartermaster	ml_standA00	c_m27	699.3381, 166.9965, -997.7612	257.2135		TRUE	TRUE	n8017801000					1	107,101	0	n80178	n80178			(Drug_Medicine,1)(Herbs_Medicine,2)(Stone_Forge,1)(Money,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "tm85043", 3, 1} , { "CheckFlagAction" : "tm80067", 3, 1}  ], 0} 	0
 n80179	Gold Stone Valley Gang Members	ml_standA00	c_m33	702.9359, 181.3569, -1179.145	343.6027		TRUE	TRUE	n8017901000					1	28	0	n80179	n80179				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85044", 1, 1} , { "CheckFlagAction" : "tm80068", 3, 1}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n8017901001"} , { "FaceToPlayerAction" : 0, "n80179", 0.30000, 0}  ]} , 0.00000}  ], 0} 
 n80179a	Gold Stone Valley Gang Members	ml_standA00	c_m33	702.9359, 181.3569, -1179.145	343.6027		TRUE	TRUE	n8017901000					1	28	0	n80179	n80179				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85044", 3, 1} , { "CheckFlagAction" : "tm80068", 3, 1}  ], 0} 	0
 n80180	Gold Stone Valley Gang Members	ml_standA00	c_m25	699.065, 181.011, -1179.509	38.32857		TRUE	TRUE	n8017901018					1	28	0	n80180	n80180				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85044", 1, 1} , { "CheckFlagAction" : "tm80068", 3, 1}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n8017901001"} , { "FaceToPlayerAction" : 0, "n80180", 0.30000, 0}  ]} , 0.00000}  ], 0} 
@@ -5554,15 +5554,15 @@ n80377	Practice without sentiment	ml_standA00		373.605, 64.01755, 601.3118	326.6
 n80378	Gui Mei Xiang	ml_standA00		-171.221, 68.12935, -812.5582	135.1004		TRUE	FALSE	n8037801000					2	30	0	n80378	n80378			(Meat_Food,1)(Leather_Forge,1)(Muscle_Forge,1)	0	0
 n80378a	Gui Mei Xiang	ml_standA00		107.6589, 89.49313, -189.3598	177.0124		TRUE	FALSE	n8037801030					2	30	0	n80378	n80378			(Meat_Food,1)(Leather_Forge,1)(Muscle_Forge,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "tm80077", 1, 1}  ], 0} 	0
 n80378b	Gui Mei Xiang	ml_standA00		282.3486, 70.94958, 921.7047	79.5196		TRUE	FALSE	n8037801060					2	30	0	n80378	n80378			(Meat_Food,1)(Leather_Forge,1)(Muscle_Forge,1)	{ "LogicalNode" : [ { "CheckAchievementAction" : "AnimalBoss_59001d", 1, 1, 0}  ], 0} 	0
-n80379	The Hundred Beasts Village allies	ml_standA00		-170.9904, 68.11013, -813.7864	0		TRUE	FALSE	n8037801002					1	30	0	n70018	n80379				0	0
+n80379	Hundred Beasts Manor allies	ml_standA00		-170.9904, 68.11013, -813.7864	0		TRUE	FALSE	n8037801002					1	30	0	n70018	n80379				0	0
 n80379a	Chi Tong	ml_standA00		106.2015, 89.53293, -189.5682	157.0402		TRUE	FALSE	n8037801031					1	30	0	n70018	n80379				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80077", 1, 1}  ], 0} 	0
 n80379b	Chi Tong	ml_standA00		281.6763, 70.76364, 920.5637	72.72633		TRUE	FALSE	n8037801061					1	30	0	n70018	n80379				{ "LogicalNode" : [ { "CheckAchievementAction" : "AnimalBoss_59001d", 1, 1, 0}  ], 0} 	0
 n80380	Gui Mei Qing	ml_standA00		280.5696, 71.63612, 923.9055	108.9268		TRUE	FALSE	n8038001000					2	30	0	n80378	n80380				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
 n80380a	Gui Mei Qing	ml_standA00		280.5696, 71.63612, 923.9055	108.9268		TRUE	FALSE	n8038001000					2	30	0	n80378	n80380				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80096", 1, 1} , { "CheckFlagAction" : "tm80094", 1, 1} , { "CheckFlagAction" : "tm80097", 1, 1} , { "CheckFlagAction" : "tm80099", 1, 1}  ], 1} 	0
-n80381	The Hundred Beasts Village allies	ml_standA00		281.9028, 71.59864, 924.786	117.8675		TRUE	FALSE	n8038001001					1	30	0	n70018	n80381				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
-n80381a	The Hundred Beasts Village allies	ml_standA00		281.9028, 71.59864, 924.786	117.8675		TRUE	FALSE	n8038001001					1	30	0	n70018	n80381				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80096", 1, 1} , { "CheckFlagAction" : "tm80094", 1, 1} , { "CheckFlagAction" : "tm80097", 1, 1} , { "CheckFlagAction" : "tm80099", 1, 1}  ], 1} 	0
-n80382	The Hundred Beasts Village allies	ml_standA00		280.4285, 71.38435, 922.4167	78.49469		TRUE	FALSE	n8038001002					1	30	0	n70018	n80382				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
-n80382a	The Hundred Beasts Village allies	ml_standA00		280.4285, 71.38435, 922.4167	78.49469		TRUE	FALSE	n8038001002					1	30	0	n70018	n80382				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80096", 1, 1} , { "CheckFlagAction" : "tm80094", 1, 1} , { "CheckFlagAction" : "tm80097", 1, 1} , { "CheckFlagAction" : "tm80099", 1, 1}  ], 1} 	0
+n80381	Hundred Beasts Manor allies	ml_standA00		281.9028, 71.59864, 924.786	117.8675		TRUE	FALSE	n8038001001					1	30	0	n70018	n80381				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
+n80381a	Hundred Beasts Manor allies	ml_standA00		281.9028, 71.59864, 924.786	117.8675		TRUE	FALSE	n8038001001					1	30	0	n70018	n80381				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80096", 1, 1} , { "CheckFlagAction" : "tm80094", 1, 1} , { "CheckFlagAction" : "tm80097", 1, 1} , { "CheckFlagAction" : "tm80099", 1, 1}  ], 1} 	0
+n80382	Hundred Beasts Manor allies	ml_standA00		280.4285, 71.38435, 922.4167	78.49469		TRUE	FALSE	n8038001002					1	30	0	n70018	n80382				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
+n80382a	Hundred Beasts Manor allies	ml_standA00		280.4285, 71.38435, 922.4167	78.49469		TRUE	FALSE	n8038001002					1	30	0	n70018	n80382				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80096", 1, 1} , { "CheckFlagAction" : "tm80094", 1, 1} , { "CheckFlagAction" : "tm80097", 1, 1} , { "CheckFlagAction" : "tm80099", 1, 1}  ], 1} 	0
 n80383	Giantshark Gang members	ml_standA00		325.941, 66.46204, 913.5054	251.5238		TRUE	FALSE	n8038301000					1	0	0	n70018	n80383				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
 n80384	Giantshark Gang members	ml_standA00		323.2731, 66.53275, 912.369	42.22653		TRUE	FALSE	n8038301001					1	0	0	n70018	n80384				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
 n80385	Giantshark Gang members	ml_standA00		324.6064, 66.62354, 912.0346	0		TRUE	FALSE	n8038301002					1	0	0	n70018	n80385				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
@@ -5649,7 +5649,7 @@ n80478	Bandit	ml_standA00	c_m34	-351.4128, 101.4827, -540.916	294.587	21-23, 0-5
 n80479	Bandit	ml_standA00	c_m05	-354.4639, 101.4827, -538.0481	156.2412	21-23, 0-5	TRUE	TRUE	n8047001009					1	0	0	n70063	n80479				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n8047001009"} , { "FaceToPlayerAction" : 0, "n80479", 0.30000, 0}  ]} , 0.00000}  ], 0} 
 n80480	Bandit Chief	ml_standA00	c_m04	-352.6655, 101.4827, -536.9866	182.1562	21-23, 0-5	TRUE	TRUE	n8047001010					1	0	0	n70063	n80480				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n8047001010"} , { "FaceToPlayerAction" : 0, "n80480", 0.30000, 0}  ]} , 0.00000}  ], 0} 
 n80481	Public rumor	ml_standA00		291.5728, 72.90784, -532.479	247.0521		TRUE	FALSE	n8999901022	v00054_c01.wav				1	11	0	n50013	n80481				0	0
-n80482	The Way is awe-inspiring	ml_standA00		72.00956, 64.08513, 381.3204	280.139		TRUE	FALSE	n8999901026	v00054_c01.wav				1	11	0	n50013	n80482				0	0
+n80482	Dao ke wei	ml_standA00		72.00956, 64.08513, 381.3204	280.139		TRUE	FALSE	n8999901026	v00054_c01.wav				1	11	0	n50013	n80482				0	0
 n80483	Ado says	ml_standA00		-246.5729, 62.44921, 1131.696	185.9042		TRUE	FALSE	n8999901030	v00054_c01.wav				1	0	0	n50013	n80483				0	0
 n80484	Bai Xiaosheng	ml_standA00		-562.0247, 75.10793, 511.3588	164.435		TRUE	FALSE	n8999901034	v00054_c01.wav				1	0	0	n50013	n80484				0	0
 n80485	Brother Bao	ml_standA00		-565.4025, 66.30975, 64.58887	0		TRUE	FALSE	n8999901038	v00054_c01.wav				1	7	0	n50013	n80485				0	0
@@ -5667,8 +5667,8 @@ n88888	Ultimate Master Aman	ml_standA00	n20264	0, 0, 0	0		TRUE	FALSE	n8888801000
 n88889	(Narrator's temporary aside)	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	0	0						0	0
 n88890	Blade that kills spirits	ml_standA00		377.5229, 73.43496, -520.1128	274.8852		TRUE	FALSE	n8889001000					1	0	0	n20123	n88890				{ "LogicalNode" : [ { "QuestCondition" : "Q80019", 0, True} , { "QuestCondition" : "Q80019", 2, True} , { "QuestCondition" : "Q80024", 0, True} , { "QuestCondition" : "Q80024", 2, True} , { "CheckFlagAction" : "tm85087", 3, 1} , { "QuestCondition" : "Q80019_03", 1, False} , { "CheckPlayingDaysCondition" : 0, 2147483647}  ], 0} 	0
 n88890a	Blade that kills spirits	ml_standA00		377.5229, 73.43496, -520.1128	274.8852		TRUE	FALSE	n8889001034					1	0	0	n20123	n88890				{ "LogicalNode" : [ { "CheckFlagAction" : "tm85089", 1, 1} , { "CheckPlayingDaysCondition" : 0, 2147483647}  ], 0} 	0
-n90001	The Elderly Woman of Elder's Village	wl_standA00		-593.1936, 66.26882, 32.50854	268.6495	8-20	FALSE	FALSE	n9000101000	v00052	sc90001001			2	7	0	n90001	n90001	0			{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, False} , { "TimeCondition" : 18, 24} , { "TimeCondition" : 0, 7}  ], 1} 	0
-n90001n	The Elderly Woman of Elder's Village	w_sleep003_ec		-589.282, 66.63021, 26.068	323.7885	21-23, 0-7	FALSE	FALSE		v00052				2	7	2	n90001	n90001	0			{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, False} , { "TimeCondition" : 18, 24} , { "TimeCondition" : 0, 7}  ], 1} 	0
+n90001	Elderly Woman of Elder's Village	wl_standA00		-593.1936, 66.26882, 32.50854	268.6495	8-20	FALSE	FALSE	n9000101000	v00052	sc90001001			2	7	0	n90001	n90001	0			{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, False} , { "TimeCondition" : 18, 24} , { "TimeCondition" : 0, 7}  ], 1} 	0
+n90001n	Elderly Woman of Elder's Village	w_sleep003_ec		-589.282, 66.63021, 26.068	323.7885	21-23, 0-7	FALSE	FALSE		v00052				2	7	2	n90001	n90001	0			{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, False} , { "TimeCondition" : 18, 24} , { "TimeCondition" : 0, 7}  ], 1} 	0
 n90002	Elder Uncle of Elder's Village	ml_standA00		-594.1478, 66.31535, 31.7406	0	8-20	FALSE	FALSE	n9000101026	v00050				1	7	0	n90002	n90002	0			{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, False} , { "TimeCondition" : 18, 24} , { "TimeCondition" : 0, 7}  ], 1} 	0
 n90002n	Elder Uncle of Elder's Village	m_sleep001_ec		-589.882, 66.51799, 28.47	235.0632	21-23, 0-7	FALSE	FALSE		v00050				1	7	2	n90002	n90002	0			{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, False} , { "TimeCondition" : 18, 24} , { "TimeCondition" : 0, 7}  ], 1} 	0
 n90004	Blacksmith Tie Chetian	ml_standA00	c_m27	-581.0795, 66.50338, 47.00025	246.713	6-20	TRUE	TRUE	n9000401000	v00059	sc90004001			1	7,101	1	n90004	n90004	0		(Weapon,1)(Money,1)	{ "LogicalNode" : [ { "QuestCondition" : "Q07002_01", 0, False} , { "TimeCondition" : 18, 24} , { "TimeCondition" : 0, 7}  ], 1} 	0
