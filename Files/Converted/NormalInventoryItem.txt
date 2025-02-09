@@ -1674,7 +1674,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "豹胎虽珍贵，但无甚滋味，需搭配嫩鸡、佐料、老酒炖煮，吸收汤汁才能尝出其鲜味。"
-    translated: "Panther cubs are valuable but not very tasty on their own. They need to be simmered with tender chicken, condiments, and aged wine to absorb the broth before their flavor can be savored"
+    translated: "Although the Leopard Fetus is valuable, it lacks any distinct taste on its own. It must be paired with tender chicken and seasonings, then braised in aged wine to absorb the broth's flavors before its fresh taste can truly be savored"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2180,7 +2180,7 @@
   splits:
   - split: 1
     text: "豹胎"
-    translated: "Leopard Skin"
+    translated: "Leopard Fetus"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2900,13 +2900,13 @@
   splits:
   - split: 1
     text: "子丑夜光石"
-    translated: "Child-Ox Nightlight Stone"
+    translated: "Midnight Glow Stone"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "会在夜晚发光的奇特石头，因发光时间大约在子时至丑时之间，故称「子丑夜光石」。"
-    translated: "The unique stone that glows at night is called Zi Chou Night-Glow Stone because it emits light approximately between the hours of Zi and Chou"
+    translated: "The unique stone that emits light at night is called Midnight Glow Stone because it glows from around 11 PM to about 1 AM"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2932,7 +2932,7 @@
   splits:
   - split: 1
     text: "墨玉"
-    translated: "Mosu"
+    translated: "Black Jade"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3156,7 +3156,7 @@
   splits:
   - split: 1
     text: "黑虎皮"
-    translated: "Tiger Skin"
+    translated: "Black Tiger Skin"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3172,7 +3172,7 @@
   splits:
   - split: 1
     text: "白虎皮"
-    translated: "Tiger Skin"
+    translated: "White Tiger Skin"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
