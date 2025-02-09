@@ -79,22 +79,22 @@ TalkAmbushNpc9	Hum, no matter how much trickery you use. In terms of true abilit
 TalkAmbushNpc10	I... I am defeated by an unknown person... It's absolutely impossible
 NoBook	Not yet selected the manual
 ActivateA	Please choose {0}
-InventoryLevel	Scarcity
-InventoryLevel0	Generally
-InventoryLevel1	Scarce
+InventoryLevel	Rarity
+InventoryLevel0	General
+InventoryLevel1	Rare
 InventoryLevel2	Outstanding
 InventoryLevel3	Extraordinary
-InventoryLevel5	Special
+InventoryLevel5	Unique
 Hurt0	Damage Reduction
 Hurt1	Hand Combat Damage
 Hurt2	Sword arts damage
 Hurt3	Blade Arts Damage
 Hurt4	Spear and Staff damage
 Hurt5	Hidden Weapon Damage
-Hurt6	Damage from short weapons
+Hurt6	Short Weapon Damage
 Hurt7	Other injuries
-Hurt8	Double-Blade Damage
-Hurt9	Double Blade Damage
+Hurt8	Dual Sword Damage
+Hurt9	Dual Blade Damage
 Hurt10	Blade Damage
 Hurt11	Arrow Damage
 Hurt	Damage
@@ -132,31 +132,31 @@ CharacterProperty303	Blade Arts
 CharacterProperty304	Spear and Staff
 CharacterProperty305	Hidden Weapon
 CharacterProperty306	Short Weapons
-CharacterProperty307	Medical Skills
-CharacterProperty308	Poisonous Arts
+CharacterProperty307	Medical Arts
+CharacterProperty308	Poison Arts
 CharacterProperty309	Neigong
 CharacterProperty310	Qinggong
 CharacterProperty321	Herbology
 CharacterProperty322	Mineralogy
-CharacterProperty323	Thiefology
+CharacterProperty323	Theftology
 CharacterProperty324	Business Management
 CharacterProperty400	Internal Injury
 CharacterProperty401	External injury
 CharacterProperty402	Poisoned
-CharacterProperty403	Seal the Acupoints
+CharacterProperty403	Sealed Acupoints
 CharacterProperty404	Confused
 CharacterProperty405	Dizziness
 CharacterProperty406	Dislocate
 CharacterProperty407	Joint Manipulation
 CharacterProperty408	Disperse Qi
-CharacterProperty409	Icebound
+CharacterProperty409	Frozen
 CharacterProperty410	Drunk
 #阴阳	
-YinAndYang0	Zhi Yin
-YinAndYang1	Lesser Yin
+YinAndYang0	Pure Yin
+YinAndYang1	Minor Yin
 YinAndYang2	
-YinAndYang3	Lesser Yang
-YinAndYang4	Chi Yang
+YinAndYang3	Minor Yang
+YinAndYang4	Pure Yang
 #感悟	
 TalentType0	Move
 TalentType1	Quiet
@@ -193,7 +193,7 @@ Area24	Leisurely Scholars Academy
 Area25	Tianlong Temple
 Area26	Delicacies Society
 Area27	Wolf Barbarian Tribe
-Area28	Jinshigou
+Area28	Gold Stone Valley
 Area29	Mount of the Ginseng King
 Area30	Hundred Beasts Village
 Area31	Prey
@@ -1227,9 +1227,9 @@ Final14_00	Brutal and Poisonous
 Final14_01	Under Feng Qiu Xiang's covert operations, Cheng Yanhua ultimately died violently in the Du Mansion
 Final14_02	Du Jinpeng was overwhelmed with grief and resentment, yet he dared not speak
 Final14_03	Channel all the anger into the Flower and Herb Stall
-Final14_04	Shi Hongtu had always been unable to find the Elixir King's Divine Chapter
+Final14_04	Shi Hongtu has always been unable to find the Divine Medicine King Manuscript
 Final14_05	His temperament became increasingly tyrannical, and the title Poison King spread far and wide without him having to leave his home
-Final14_06	After her mother's death, Du Yufei inherited the Immortal Classic of Medicine
+Final14_06	Du Yufei, however, inherited the Divine Medicine King Manuscript after his mother's passing
 Final14_07	Endured humiliation for two years, ultimately using a scheme to poison the entire Du family
 Final14_08	After ten years,
 Final14_09	The area where the flower and herb stall used to be has unexpectedly produced an additional small flower garden

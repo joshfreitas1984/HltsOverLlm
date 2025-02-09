@@ -1918,9 +1918,9 @@
   splits:
   - split: 1
     text: "金石谷"
-    translated: "Jinshigou"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Gold Stone Valley,金石谷,"
+    translated: "Gold Stone Valley"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 196
   raw: "Area29	蔘王山"
@@ -11886,7 +11886,7 @@
   splits:
   - split: 1
     text: "石鸿图始终未能寻药王神篇，"
-    translated: "Shi Hongtu had always been unable to find the Elixir King's Divine Chapter"
+    translated: "Shi Hongtu has always been unable to find the Divine Medicine King Manuscript"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11906,7 +11906,7 @@
   splits:
   - split: 1
     text: "杜玉绯却于母亲过世后继承药王神篇，"
-    translated: "After her mother's death, Du Yufei inherited the Immortal Classic of Medicine"
+    translated: "Du Yufei, however, inherited the Divine Medicine King Manuscript after his mother's passing"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
