@@ -796,7 +796,7 @@
   splits:
   - split: 1
     text: "稀有度"
-    translated: "Scarcity"
+    translated: "Rarity"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -806,7 +806,7 @@
   splits:
   - split: 1
     text: "一般"
-    translated: "Generally"
+    translated: "General"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -816,7 +816,7 @@
   splits:
   - split: 1
     text: "稀有"
-    translated: "Scarce"
+    translated: "Rare"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -846,7 +846,7 @@
   splits:
   - split: 1
     text: "特殊"
-    translated: "Special"
+    translated: "Unique"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -916,7 +916,7 @@
   splits:
   - split: 1
     text: "短兵伤害"
-    translated: "Damage from short weapons"
+    translated: "Short Weapon Damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -936,7 +936,7 @@
   splits:
   - split: 1
     text: "双剑伤害"
-    translated: "Double-Blade Damage"
+    translated: "Dual Sword Damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -946,7 +946,7 @@
   splits:
   - split: 1
     text: "双刀伤害"
-    translated: "Double Blade Damage"
+    translated: "Dual Blade Damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1326,7 +1326,7 @@
   splits:
   - split: 1
     text: "医术"
-    translated: "Medical Skills"
+    translated: "Medical Arts"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1336,7 +1336,7 @@
   splits:
   - split: 1
     text: "毒术"
-    translated: "Poisonous Arts"
+    translated: "Poison Arts"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1386,7 +1386,7 @@
   splits:
   - split: 1
     text: "窃盗学"
-    translated: "Thiefology"
+    translated: "Theftology"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1436,7 +1436,7 @@
   splits:
   - split: 1
     text: "封穴"
-    translated: "Seal the Acupoints"
+    translated: "Sealed Acupoints"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1496,7 +1496,7 @@
   splits:
   - split: 1
     text: "冰封"
-    translated: "Icebound"
+    translated: "Frozen"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1520,7 +1520,7 @@
   splits:
   - split: 1
     text: "至阴"
-    translated: "Zhi Yin"
+    translated: "Pure Yin"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1530,7 +1530,7 @@
   splits:
   - split: 1
     text: "少阴"
-    translated: "Lesser Yin"
+    translated: "Minor Yin"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1550,7 +1550,7 @@
   splits:
   - split: 1
     text: "少阳"
-    translated: "Lesser Yang"
+    translated: "Minor Yang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1560,7 +1560,7 @@
   splits:
   - split: 1
     text: "至阳"
-    translated: "Chi Yang"
+    translated: "Pure Yang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
