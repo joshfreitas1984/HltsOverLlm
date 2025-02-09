@@ -5551,14 +5551,14 @@ n80374	Zhu Yilong	ml_standA00	c_m19	0, 0, 0	0		TRUE	FALSE	n8037401000					1	0	0	
 n80375	Zhu Erhu	ml_standA00	c_m03	0, 0, 0	0		TRUE	FALSE	n8037401003					1	0	0	n29001	n80313				0	0
 n80376	Zhu Sanmao	ml_standA00	c_m11	0, 0, 0	0		TRUE	FALSE	n8037401006					1	0	0	n29002	n80314				0	0
 n80377	Practice without sentiment	ml_standA00		373.605, 64.01755, 601.3118	326.6189		TRUE	FALSE	n8037701000					1	0	0	n70056	n80377				0	0
-n80378	Gui Mei Xiang	ml_standA00		-171.221, 68.12935, -812.5582	135.1004		TRUE	FALSE	n8037801000					2	30	0	n80378	n80378			(Meat_Food,1)(Leather_Forge,1)(Muscle_Forge,1)	0	0
-n80378a	Gui Mei Xiang	ml_standA00		107.6589, 89.49313, -189.3598	177.0124		TRUE	FALSE	n8037801030					2	30	0	n80378	n80378			(Meat_Food,1)(Leather_Forge,1)(Muscle_Forge,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "tm80077", 1, 1}  ], 0} 	0
-n80378b	Gui Mei Xiang	ml_standA00		282.3486, 70.94958, 921.7047	79.5196		TRUE	FALSE	n8037801060					2	30	0	n80378	n80378			(Meat_Food,1)(Leather_Forge,1)(Muscle_Forge,1)	{ "LogicalNode" : [ { "CheckAchievementAction" : "AnimalBoss_59001d", 1, 1, 0}  ], 0} 	0
+n80378	Ji Meixiang	ml_standA00		-171.221, 68.12935, -812.5582	135.1004		TRUE	FALSE	n8037801000					2	30	0	n80378	n80378			(Meat_Food,1)(Leather_Forge,1)(Muscle_Forge,1)	0	0
+n80378a	Ji Meixiang	ml_standA00		107.6589, 89.49313, -189.3598	177.0124		TRUE	FALSE	n8037801030					2	30	0	n80378	n80378			(Meat_Food,1)(Leather_Forge,1)(Muscle_Forge,1)	{ "LogicalNode" : [ { "CheckFlagAction" : "tm80077", 1, 1}  ], 0} 	0
+n80378b	Ji Meixiang	ml_standA00		282.3486, 70.94958, 921.7047	79.5196		TRUE	FALSE	n8037801060					2	30	0	n80378	n80378			(Meat_Food,1)(Leather_Forge,1)(Muscle_Forge,1)	{ "LogicalNode" : [ { "CheckAchievementAction" : "AnimalBoss_59001d", 1, 1, 0}  ], 0} 	0
 n80379	Hundred Beasts Manor allies	ml_standA00		-170.9904, 68.11013, -813.7864	0		TRUE	FALSE	n8037801002					1	30	0	n70018	n80379				0	0
-n80379a	Chi Tong	ml_standA00		106.2015, 89.53293, -189.5682	157.0402		TRUE	FALSE	n8037801031					1	30	0	n70018	n80379				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80077", 1, 1}  ], 0} 	0
-n80379b	Chi Tong	ml_standA00		281.6763, 70.76364, 920.5637	72.72633		TRUE	FALSE	n8037801061					1	30	0	n70018	n80379				{ "LogicalNode" : [ { "CheckAchievementAction" : "AnimalBoss_59001d", 1, 1, 0}  ], 0} 	0
-n80380	Gui Mei Qing	ml_standA00		280.5696, 71.63612, 923.9055	108.9268		TRUE	FALSE	n8038001000					2	30	0	n80378	n80380				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
-n80380a	Gui Mei Qing	ml_standA00		280.5696, 71.63612, 923.9055	108.9268		TRUE	FALSE	n8038001000					2	30	0	n80378	n80380				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80096", 1, 1} , { "CheckFlagAction" : "tm80094", 1, 1} , { "CheckFlagAction" : "tm80097", 1, 1} , { "CheckFlagAction" : "tm80099", 1, 1}  ], 1} 	0
+n80379a	Ji Tong	ml_standA00		106.2015, 89.53293, -189.5682	157.0402		TRUE	FALSE	n8037801031					1	30	0	n70018	n80379				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80077", 1, 1}  ], 0} 	0
+n80379b	Ji Tong	ml_standA00		281.6763, 70.76364, 920.5637	72.72633		TRUE	FALSE	n8037801061					1	30	0	n70018	n80379				{ "LogicalNode" : [ { "CheckAchievementAction" : "AnimalBoss_59001d", 1, 1, 0}  ], 0} 	0
+n80380	Ji Meiqing	ml_standA00		280.5696, 71.63612, 923.9055	108.9268		TRUE	FALSE	n8038001000					2	30	0	n80378	n80380				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
+n80380a	Ji Meiqing	ml_standA00		280.5696, 71.63612, 923.9055	108.9268		TRUE	FALSE	n8038001000					2	30	0	n80378	n80380				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80096", 1, 1} , { "CheckFlagAction" : "tm80094", 1, 1} , { "CheckFlagAction" : "tm80097", 1, 1} , { "CheckFlagAction" : "tm80099", 1, 1}  ], 1} 	0
 n80381	Hundred Beasts Manor allies	ml_standA00		281.9028, 71.59864, 924.786	117.8675		TRUE	FALSE	n8038001001					1	30	0	n70018	n80381				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
 n80381a	Hundred Beasts Manor allies	ml_standA00		281.9028, 71.59864, 924.786	117.8675		TRUE	FALSE	n8038001001					1	30	0	n70018	n80381				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80096", 1, 1} , { "CheckFlagAction" : "tm80094", 1, 1} , { "CheckFlagAction" : "tm80097", 1, 1} , { "CheckFlagAction" : "tm80099", 1, 1}  ], 1} 	0
 n80382	Hundred Beasts Manor allies	ml_standA00		280.4285, 71.38435, 922.4167	78.49469		TRUE	FALSE	n8038001002					1	30	0	n70018	n80382				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80094", 3, 1} , { "CheckFlagAction" : "tm80096", 3, 1}  ], 0} 	0
@@ -5650,7 +5650,7 @@ n80479	Bandit	ml_standA00	c_m05	-354.4639, 101.4827, -538.0481	156.2412	21-23, 0
 n80480	Bandit Chief	ml_standA00	c_m04	-352.6655, 101.4827, -536.9866	182.1562	21-23, 0-5	TRUE	TRUE	n8047001010					1	0	0	n70063	n80480				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n8047001010"} , { "FaceToPlayerAction" : 0, "n80480", 0.30000, 0}  ]} , 0.00000}  ], 0} 
 n80481	Public rumor	ml_standA00		291.5728, 72.90784, -532.479	247.0521		TRUE	FALSE	n8999901022	v00054_c01.wav				1	11	0	n50013	n80481				0	0
 n80482	Dao ke wei	ml_standA00		72.00956, 64.08513, 381.3204	280.139		TRUE	FALSE	n8999901026	v00054_c01.wav				1	11	0	n50013	n80482				0	0
-n80483	Ado says	ml_standA00		-246.5729, 62.44921, 1131.696	185.9042		TRUE	FALSE	n8999901030	v00054_c01.wav				1	0	0	n50013	n80483				0	0
+n80483	Ai Hushuo	ml_standA00		-246.5729, 62.44921, 1131.696	185.9042		TRUE	FALSE	n8999901030	v00054_c01.wav				1	0	0	n50013	n80483				0	0
 n80484	Bai Xiaosheng	ml_standA00		-562.0247, 75.10793, 511.3588	164.435		TRUE	FALSE	n8999901034	v00054_c01.wav				1	0	0	n50013	n80484				0	0
 n80485	Brother Bao	ml_standA00		-565.4025, 66.30975, 64.58887	0		TRUE	FALSE	n8999901038	v00054_c01.wav				1	7	0	n50013	n80485				0	0
 n88879	Little Bone	al20037@idle	animal44	-173.6794, 68.251, -807.4436	0		TRUE	FALSE	n8887901000					1	21	0	animal44	n88879				0	0
