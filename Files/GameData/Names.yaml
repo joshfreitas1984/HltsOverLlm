@@ -296,8 +296,6 @@
   result: Shen Danling
 - raw: 丹菱
   result: Danling
-- raw: 屠善宰
-  result: Butcher Kindness
 - raw: 夏柳
   result: Xia Liu
 - raw: 画儿
@@ -437,6 +435,12 @@
 - raw: 步绝尘
   result: Bu Juechen
 - raw: 燕大叔
-  result: Uncle Yan
+  result: Great Uncle Yan
 - raw: 云大娘
-  result: Aunt Yun
+  result: Great Aunt Yun
+# - raw: 屠善宰
+#   result: Tu Shanzai
+# - raw: 善宰啊
+#   result: Shanzai
+# - raw: 善宰
+#   result: Shanzai
