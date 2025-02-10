@@ -952,7 +952,7 @@ Q80022_06	Intersection	1	Deliver the news of A Tian's death to Senior Brother Ba
 Q80022_07	Intersection	1	Deceive Senior Brother Ba that A Tian is dead	0	FALSE	0	115.53, 114.70, -995.964	TRUE		300	(Reputation,1)	141
 Q80023	Epilogue Family Letter	0	Replace Luo Ping to deliver a letter to an old friend near Tianlong Temple	0	FALSE	Q80023_01	0	FALSE		0		1
 Q80023_01	Go to the area near Tianlong Temple to look for Luo Ping's old friends	1	Find Lou Ping's old friend near Tianlong Temple	0	FALSE	0	990.85, 63.37, -833.88	TRUE		300	(Reputation,1)	211
-Q80024	Five Great Swordsmen	0	Go with Diao Buyi to challenge the Five Great Swordsmen of Jianghu	0	FALSE	Q80024_01,Q80024_02,Q80024_03,Q80024_04,Q80024_05	0	FALSE		0		1
+Q80024	Five Great Blade Masters	0	Join Diao Buyi in challenging the Five Great Blade Masters of the Jianghu	0	FALSE	Q80024_01,Q80024_02,Q80024_03,Q80024_04,Q80024_05	0	FALSE		0		1
 Q80024_01	Sancai Dao, Cai Yi	1	Go with Diao Buyi to challenge the Three Talents Sword master, Chai Yi	0	FALSE	0	-265.35,89.22,-1109.69	TRUE		1200	(Reputation,6)	221
 Q80024_02	Si Xiang Dao by Fan Jingxiang	1	Go with Diao Buyi to challenge Fan Jingxiang, the wielder of Si Xiang Dao (Four Symbols Sword)	0	FALSE	0	-662.4,184.11,-662.58	TRUE		1200	(Reputation,6)	241
 Q80024_03	Five Tiger Severance Sword - Tiger Head Three	1	Go with Diao Buyi to challenge The Five Tigers Severing Gate Blades Tiger Head Three	0	FALSE	0	-242.52,78.11,-520.29	TRUE		1200	(Reputation,6)	321
