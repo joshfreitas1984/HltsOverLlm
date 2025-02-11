@@ -17264,9 +17264,9 @@
   splits:
   - split: 1
     text: "白花花信物放置处"
-    translated: "Place where the white flower keepsake is kept"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
+    translated: "Place of the Bai Hua Hua Keepsake"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1727
   raw: "m60180-01	左一灯笼	MouseEventBox		Survey	-679.143, 69.07, -1055.999	1, 1, 1	1, 1, 1	0, 0, 0	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60049_05\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m6018001000\"}  ]} 	0"
@@ -37424,9 +37424,9 @@
   splits:
   - split: 1
     text: "白花花的白花"
-    translated: "Plain white flowers"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
+    translated: "Bai Hua Hua's white flower"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 3743
   raw: "s60300-1	酒庄外坏掉的推车	MouseEventBox	Resources_Art/Art3D/3rdPackage/FISHING VILLAGE/Prefab/CarriageBroken.prefab	None	-347.106, 83.73, 641.1996	1, 1, 1	0.5780652, 0.5780652, 0.5780652	0, 99.14898, 0	False	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f63015-1酒莊任務完成和送米的對話過\", 1, 0}  ], 0} 	0	0"

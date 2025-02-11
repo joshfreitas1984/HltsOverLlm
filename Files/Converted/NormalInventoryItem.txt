@@ -3978,9 +3978,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "能够解开苏府机关的特殊瓶子，一共四只，此为其一。"
-    translated: "Capable of unlocking the special bottles in Su Family Manor, a total of four. This is one"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Su Mansion,苏府,"
+    translated: "There are four special bottles designed to unlock the mechanisms of Su Mansion, and this is one of them"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 249
   raw: "it80134	漱石警心瓶	it80134	能够解开苏府机关的特殊瓶子，一共四只，此为其一。	801	0	0	FALSE	0	50	0	0	0		0			0"
@@ -3994,9 +3994,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "能够解开苏府机关的特殊瓶子，一共四只，此为其一。"
-    translated: "Capable of unlocking one of the four special bottles from the Su Family's mechanism"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Su Mansion,苏府,"
+    translated: "The ability to unlock the special bottle from Su Mansion's mechanism involves four bottles in total, and this is one of them"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 250
   raw: "it80135	红梅倚月瓶	it80135	能够解开苏府机关的特殊瓶子，一共四只，此为其一。	801	0	0	FALSE	0	50	0	0	0		0			0"
@@ -7514,9 +7514,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "由「白花花」中的花氏姐妹所赠与的异香，香味独特，可做为约定用的暗号。"
-    translated: "From the Huashi sisters of Baihuahua, they gave a peculiar incense fragrance, which can be used as a secret signal"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
+    translated: "The unique scent gifted by the Hua sisters from Bai Hua Hua can be used as a secret code"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 470
   raw: "it80901	小黄书	it80901	不知被谁随意丢弃的一本小黄书，对特定…爱好者来说可能有不低的价值。	809	1000	500	FALSE	1	15	0	0	0		0			0"

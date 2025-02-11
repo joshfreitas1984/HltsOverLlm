@@ -246,8 +246,8 @@ it80129	Si Ni Tang	temp	It is said to have the effect of reviving from death	801
 it80130	Thin Silk	it80130	Wrapped in a thin silk placed between the layers of an old painting at Gleaming Jade Beach, it read: From the same root we separated, from the same mat we were thrown out; since childhood we played together, now we are jealous. The place where our family lived is no longer as it was; memories fill the hall, causing bitter pain in my heart and chest. Ah! It hurts! It hurts!	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it8013001000"} ]}
 it80131	Mysterious Hidden Bag	it80131	The mysterious hidden pouch tucked behind the Yu family plaque at Gleaming Jade Beach was made of exceptionally durable fabric, with a peculiar knot tied on its opening. Perhaps Brother Yu knows how to open it	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it8013101001"} ]}
 it80132	A bag of animal bones	it80132	One bag of animal bones	801	0	0	FALSE	0	50	0	0	0		0			0
-it80133	Flowing Stream Awakening Heart Bottle	it80133	Capable of unlocking the special bottles in Su Family Manor, a total of four. This is one	801	0	0	FALSE	0	50	0	0	0		0			0
-it80134	Caution the Stone Jar	it80134	Capable of unlocking one of the four special bottles from the Su Family's mechanism	801	0	0	FALSE	0	50	0	0	0		0			0
+it80133	Flowing Stream Awakening Heart Bottle	it80133	There are four special bottles designed to unlock the mechanisms of Su Mansion, and this is one of them	801	0	0	FALSE	0	50	0	0	0		0			0
+it80134	Caution the Stone Jar	it80134	The ability to unlock the special bottle from Su Mansion's mechanism involves four bottles in total, and this is one of them	801	0	0	FALSE	0	50	0	0	0		0			0
 it80135	Red Plum Leaning on the Moon Vase	it80135	The one who can unlock the special bottle of Su Mansion, with a total of four, this is one	801	0	0	FALSE	0	50	0	0	0		0			0
 it80136	Jin Du Guan Yue Ping	it80136	The special bottle from Su Mansion that can be opened, there are four in total; this is one of them	801	0	0	FALSE	0	50	0	0	0		0			0
 it80137	Mouse	it80137	A frightened mouse, what do you want to do with it?	801	0	0	FALSE	0	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it8013701000"} ]}
@@ -467,7 +467,7 @@ it80802	Pink Jade and Gem Flowers	it80802	It is a rare medicinal herb that grows
 it80803	Blue Spider Vine	it80803	Native to the area near the Flower and Herb Stall, this rare medicinal herb has spiny and poisonous stems, which is how it got its name	808	200	100	FALSE	0	2	0	0	0		0			0
 it80804	Red Heart Fruit	it80804	Scarce medicinal herbs that grow in the mountain cave near the Flower and Herb Stall are said to have small red fruits that are considered drying and hot. They should not be consumed without proper processing	808	200	100	FALSE	0	2	0	0	0		0			0
 it80805	Seven Stars Encircling the Moon	it80805	A highly toxic spider with a pattern of seven stars encircling the moon on its back	808	0	0	FALSE	0	50	0	0	0		0			0
-it80806	Tragic Incense of Avoiding Evil	it80806	From the Huashi sisters of Baihuahua, they gave a peculiar incense fragrance, which can be used as a secret signal	808	0	0	FALSE	0	50	0	0	0		0			0
+it80806	Tragic Incense of Avoiding Evil	it80806	The unique scent gifted by the Hua sisters from Bai Hua Hua can be used as a secret code	808	0	0	FALSE	0	50	0	0	0		0			0
 it80901	Little Yellow Book	it80901	Who knows, a certain discarded little yellow book might have some value for specific enthusiasts	809	1000	500	FALSE	1	15	0	0	0		0			0
 it81101	Straw Mat	it81101	It is possible to rest in the wilderness	811	400	200	TRUE	0	4	0	0	0		1			{ "MultiAction" : [ { "OpenUIRestAction" }  ]}
 it81102	Grass mat	it81101	You can rest outdoors	811	400	200	FALSE	0	4	0	0	0		1			{ "MultiAction" : [ { "OpenUIRestAction" }  ]}

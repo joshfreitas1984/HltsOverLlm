@@ -10932,9 +10932,9 @@
   splits:
   - split: 1
     text: "痛定思痛重振苏府，"
-    translated: "Painfully aware, the Su Clan mustered its strength and revived itself"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Su Mansion,苏府,"
+    translated: "After recognizing their errors, they resolved to recover and revitalize Su Mansion"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1131
   raw: "Final08_07	并广纳贤德才士悉心经营势力，"
