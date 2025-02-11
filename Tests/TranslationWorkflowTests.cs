@@ -267,6 +267,14 @@ public class TranslationWorkflowTests
         {
             Console.WriteLine($"Missing Punctuation {outputFile} Replaces: \n{split.Translated}");
             split.FlaggedForRetranslation = true;
+            modified = true;
+        }
+
+        if (split.Text.StartsWith("...") && !split.Translated.StartsWith("..."))
+        {
+            Console.WriteLine($"Missing ... {outputFile} Replaces: \n{split.Translated}");
+            split.Translated = $"...{split.Translated}";
+            modified = true;
         }
 
         //// Try and flag crazy shit
