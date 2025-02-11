@@ -33385,8 +33385,8 @@
   - split: 5
     text: "白花花党羽(三连环刀法)"
     translated: "White Flower Faction Members (Triple Linked Blade Art)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
     flaggedGlossaryOut: ""
 - lineNum: 3339
   raw: "n60603-2	35	fm00000	a00006		白花花党羽(雪片旋刀势)	ta0091d	st0065		201	ai00000	(MajorWeapon,eq10402)	1	(HP,3990)(MaxHP,3990)(MP,2748)(MaxMP,2748)(Physique,40)(Intelligence,50)(Neigong,63)(Qinggong,53)(Fight,45)(Sword,45)(Blade,80)(Spear,45)(Arrow,45)(Short,45)(Doctor,0)(Poison,0)(Money,0)(Madness,5)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,-75)		0,0	0"
@@ -33395,8 +33395,8 @@
   - split: 5
     text: "白花花党羽(雪片旋刀势)"
     translated: "White Snowflake Faction (Snowflake Whirling Blade Form)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
     flaggedGlossaryOut: ""
 - lineNum: 3340
   raw: "n60603-3	35	fm00000	a00001		白花花党羽(太祖长拳)	ta0091	st0157		201	ai00000	(MajorWeapon,eq10102)	0	(HP,4278)(MaxHP,4278)(MP,2748)(MaxMP,2748)(Physique,45)(Intelligence,51)(Neigong,63)(Qinggong,56)(Fight,80)(Sword,45)(Blade,45)(Spear,45)(Arrow,45)(Short,45)(Doctor,0)(Poison,0)(Money,0)(Madness,5)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0"
@@ -33405,8 +33405,8 @@
   - split: 5
     text: "白花花党羽(太祖长拳)"
     translated: "White-flowered allies (Taizi Long Fist)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
     flaggedGlossaryOut: ""
 - lineNum: 3341
   raw: "n60603-4	35	fm00000	a00001		白花花党羽(甩手封喉)	ta0091b	st0014c		201	ai00000	(MajorWeapon,eq10703)	0	(HP,4338)(MaxHP,4338)(MP,2748)(MaxMP,2748)(Physique,46)(Intelligence,49)(Neigong,63)(Qinggong,60)(Fight,45)(Sword,45)(Blade,45)(Spear,45)(Arrow,80)(Short,45)(Doctor,0)(Poison,0)(Money,0)(Madness,5)(Moral,-15)(Reputation,0)(ZOC,60)(YinAndYang,75)		0,0	0"
@@ -33415,8 +33415,8 @@
   - split: 5
     text: "白花花党羽(甩手封喉)"
     translated: "White Collar Gang (Swinging Hand Choke)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
     flaggedGlossaryOut: ""
 - lineNum: 3342
   raw: "n69002	20	fm00000	a00001		梅谷立		st0050,st0051		0	ai00000		0	(HP,3332)(MaxHP,3332)(MP,1480)(MaxMP,1480)(Physique,68)(Intelligence,32)(Neigong,40)(Qinggong,30)(Fight,40)(Sword,50)(Blade,40)(Spear,40)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,1)(it40117,1)(it40222,1)	0,0	0"

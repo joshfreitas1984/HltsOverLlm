@@ -92,8 +92,6 @@ public class TranslationWorkflowTests
             {  "-请便", "Excuse me" },
             {  "{0}{1} 经验", "{0} {1} Experience" },
             { "杂项事件对话", "Miscellaneous Events Dialogue" }, 
-            //{ "哼，这点轻功也敢来俏梦阁？", "Ha, you dare come to the Charming Dream Pavilion with such basic Qinggong skills?" },
-            //{ "这就是禾家马帮大锅头？", "So, you're the big boss of the He Family Horse Gang?" },             
         };
     }
 
@@ -104,7 +102,6 @@ public class TranslationWorkflowTests
     }
 
 
-    //TODO: if ? exists but not in translation to get things like Monster. instead of Monster...?
     public static async Task<int> UpdateCurrentTranslationLines()
     {
         var config = Configuration.GetConfiguration(workingDirectory);
@@ -181,7 +178,6 @@ public class TranslationWorkflowTests
         return totalRecordsModded;
     }
 
-    //TODOs: Animal sounds
     public static bool CheckSplit(List<string> newGlossaryStrings, Dictionary<string, string> manual, TranslationSplit split, string outputFile,
         Dictionary<string, string> hallucinationCheckGlossary, Dictionary<string, string> mistranslationCheckGlossary, Dictionary<string, List<string>> dupeNames, LlmConfig config)
     {

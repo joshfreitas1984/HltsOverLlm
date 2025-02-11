@@ -13883,8 +13883,8 @@
   - split: 3
     text: "为苏清瑞寻找回复容貌的药材后，他对于重振苏府似乎十分有信心，也重新思量情感姻缘之事。<br>他托你前往北方乞丐寮从王琦年的手上交易回家传玉佩，让他赠与爱慕的姑娘。不过似乎不是人人都能顺利和这位乞丐寮的乞丐王打交道，也许队伍里得要带上善于和乞丐打交道的朋友…？"
     translated: "After finding a medicinal herb to restore Su Qingrui's appearance, he seemed quite confident about reviving the Su family and also reconsidered matters of emotions and relationships<br>He asked you to go to the Beggar's Lodge in the North and trade for the Jade Pendant with Wang Qi Nian, to present it to the girl he admires. However, not everyone seems to be able to deal smoothly with the beggar of this lodge, known as King of Beggars. Perhaps it would be wise to bring along a friend who is good at dealing with beggars..."
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Su Mansion,苏府,"
     flaggedGlossaryOut: ""
 - lineNum: 868
   raw: "Q60044_04	将家传玉佩还给苏清瑞	1	为苏清瑞寻找回复容貌的药材后，他对于重振苏府似乎十分有信心，也重新思量情感姻缘之事。<br>他托你前往北方乞丐寮从王琦年的手上交易回家传玉佩，让他赠与爱慕的姑娘。好不容易从乞丐王手中讨到玉佩，赶快还给苏清瑞吧。	0	FALSE	0	-704.52,66.22,-1034.75	TRUE		0		1"
@@ -13899,8 +13899,8 @@
   - split: 3
     text: "为苏清瑞寻找回复容貌的药材后，他对于重振苏府似乎十分有信心，也重新思量情感姻缘之事。<br>他托你前往北方乞丐寮从王琦年的手上交易回家传玉佩，让他赠与爱慕的姑娘。好不容易从乞丐王手中讨到玉佩，赶快还给苏清瑞吧。"
     translated: "After finding the medicinal herbs to restore Su Qingrui's appearance, he seemed very confident about revitalizing the Su family and reconsidered matters of emotional ties<br>He entrusted you to travel to the Beggar's Quarters in the North and obtain the jade pendant from Wang Qiniang, to give it to the girl he admires. After much effort to acquire the jade pendant from King of Beggars Wang, hurry back and return it to Su Qingrui"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Su Mansion,苏府,"
     flaggedGlossaryOut: ""
 - lineNum: 869
   raw: "Q60045	太华门的传承	0	身怀古开明王城图的你在太华门受到玉轮长老的指点，若是想得到传承，必须一个个挑战长老，赢得他们手上的圣石，最后再至太阴至尊所在的洞府接受他最后的考验，并由他为你开启机关。	0	FALSE	Q60045_01,Q60045_02,Q60045_03,Q60045_04,Q60045_05,Q60045_06,Q60045_07	0	TRUE		0		1"
@@ -14245,14 +14245,14 @@
   - split: 1
     text: "大盗白花花"
     translated: "Notorious Bandit Bai Huahua"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
     flaggedGlossaryOut: ""
   - split: 3
     text: "大盗白花花"
     translated: "Notorious Bandit Bai Huahua"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
     flaggedGlossaryOut: ""
 - lineNum: 891
   raw: "Q60049_01	了解任务内容	1	俏梦阁和善人府首度携手，由俏梦阁的含笑告知情报，善人府的苏喜分派任务。不过虽说众人一副义愤填膺的模样，却彼此议论著迟迟没有行动，这到底是…？	0	FALSE	0	0	TRUE		600	(Reputation,6)	431"
@@ -14283,8 +14283,8 @@
   - split: 3
     text: "前往指定地点和众人会合，并放置作为信物的白花，引出领导「白花花」组织的三位首领。"
     translated: "Proceed to the designated location and gather with everyone, placing a white flower as a token. This will summon the three leaders of the organization known as White Flower, led by the leader called Big White Flower"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
     flaggedGlossaryOut: ""
 - lineNum: 893
   raw: "Q60049_03	前往放置白花	1	单独前往指定地点，放置作为信物的白花，引出领导「白花花」组织的三位首领。	0	FALSE	0	-1093.907, 69.53412, -608.584	TRUE		600	(Reputation,6)	431"
@@ -14299,8 +14299,8 @@
   - split: 3
     text: "单独前往指定地点，放置作为信物的白花，引出领导「白花花」组织的三位首领。"
     translated: "Go to the designated location alone, place a white flower as a token, and call forth the three leaders of the organization known as White Flower Flower"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
     flaggedGlossaryOut: ""
 - lineNum: 894
   raw: "Q60049_04	等待首领现身	1	将白花放置罢，等待一十二个时辰后「白花花」组织的首领便会现身，不过若是超过二十四个时辰，那些头儿可是会不耐烦离开的，届时就只能回去向苏喜认错了。	48	FALSE	0	0	TRUE		600	(Reputation,48)	431"
@@ -14347,8 +14347,8 @@
   - split: 3
     text: "你率领善人府一干人等打赢了「白花花」的首脑，目前已由壮士们将那三人送交地方官府，如今你可以向苏喜回报任务了。"
     translated: "You led the team from Goodwill Mansion to defeat the leader of White Flower, and now the three people have been handed over by the strongmen to the local authorities. You can report back to Su Xi on completing the mission"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Bai Hua Hua,白花花,"
     flaggedGlossaryOut: ""
 - lineNum: 897
   raw: "Q60049_07	向苏喜告知状况	1	苦沉避邪香用完了却没有任何动静，无法接续任务的你，只好去向苏喜告知这个状况了。	0	FALSE	0	0	TRUE		4800	(Reputation,48)	431"

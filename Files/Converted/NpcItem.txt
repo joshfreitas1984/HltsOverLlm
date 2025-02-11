@@ -42925,8 +42925,8 @@
   - split: 1
     text: "苏府 黄婶"
     translated: "Su Family Auntie Huang"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Su Mansion,苏府,"
     flaggedGlossaryOut: ""
 - lineNum: 4293
   raw: "n60066	苏清瑞	ml_standA00	n60066-2	-712.1844, 66.18829, -1061.927	43.26719	5-19	TRUE	TRUE	n6006601000	v00265	sc60066001			1	3	0	n60006-1	n60066	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60017_03\", 0, False} , { \"QuestCondition\" : \"Q60017_04\", 0, False} , { \"QuestCondition\" : \"Q60017_05\", 0, False} , { \"QuestCondition\" : \"Q60017_05\", 1, False} , { \"QuestCondition\" : \"Q10002_03\", 1, True} , { \"QuestCondition\" : \"Q60016_05\", 1, False}  ], 0} 	0"
@@ -43665,8 +43665,8 @@
   - split: 1
     text: "苏府 慧婶"
     translated: "Shu Family Aunt Hui"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Su Mansion,苏府,"
     flaggedGlossaryOut: ""
 - lineNum: 4367
   raw: "n60109	打手 牌九	ml_idle005	c_m15	0, 0, 0	0		FALSE	FALSE		v00042				1	0	0	n60066	n60109	0			0	0"
@@ -43875,8 +43875,8 @@
   - split: 1
     text: "苏府 杏儿"
     translated: "Su Fu's Xing'er"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Su Mansion,苏府,"
     flaggedGlossaryOut: ""
 - lineNum: 4388
   raw: "n60123	苏府 棠儿	w_standA00		-687.5005, 66.18829, -1058.748	118.9291		FALSE	FALSE	n6012301000	v00060				2	3	0	n60077		n60123-1,n60123-2,n60123-3,n60123-4			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60017\", 1, True} , { \"QuestCondition\" : \"Q60016\", 1, True}  ], 1} 	0"
@@ -43885,8 +43885,8 @@
   - split: 1
     text: "苏府 棠儿"
     translated: "Su Family Tang'er"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Su Mansion,苏府,"
     flaggedGlossaryOut: ""
 - lineNum: 4389
   raw: "n60124	苏府 芙儿	w_standA00		-687.6776, 66.18829, -1060.42	52.52753		FALSE	FALSE	n6012401000	v00060				2	3	0	n60076		n60124-1,n60124-2,n60124-3,n60124-4			{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60017\", 1, True} , { \"QuestCondition\" : \"Q60016\", 1, True}  ], 1} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f61046總之芙兒不滿意\", 1, 0}  ], 0}  ], 0} 	0"
@@ -43895,8 +43895,8 @@
   - split: 1
     text: "苏府 芙儿"
     translated: "Su Family Fu'er"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Su Mansion,苏府,"
     flaggedGlossaryOut: ""
 - lineNum: 4390
   raw: "n60125	大老鼠	ml_standA00		0, 0, 0	0		FALSE	FALSE	n6012501000					1	21	0	animal23		0			0	0"
@@ -44535,8 +44535,8 @@
   - split: 1
     text: "苏府家丁 苏喜"
     translated: "Su Family Servant Su Xi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Su Mansion,苏府,"
     flaggedGlossaryOut: ""
 - lineNum: 4454
   raw: "n60176b	苏府家丁 苏喜	ml_standA00		-688.0848, 66.1883, -1046.149	71.80779		FALSE	FALSE	n6017602000	v00058	sc60176001			1	3	0	n60016		n60176b-1,n60176b-2,n60176b-3			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60049\", 0, True} , { \"QuestCondition\" : \"Q60049\", 1, True} , { \"QuestCondition\" : \"Q60049\", 2, True}  ], 1} 	0"
@@ -44545,8 +44545,8 @@
   - split: 1
     text: "苏府家丁 苏喜"
     translated: "Su Family Servant Su Xi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Su Mansion,苏府,"
     flaggedGlossaryOut: ""
 - lineNum: 4455
   raw: "n60177	俏梦阁 小篮子	k_standA00		-685.6332, 66.1883, -1045.222	-1045.222		FALSE	FALSE	n6017701000	v00041				3	3	0	n60215		n60177-1,n60177-2,,n60177-3			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f61042善人府後進入俏夢閣\", 1, 0} , { \"QuestCondition\" : \"Q60016\", 2, False}  ], 0} 	0"
