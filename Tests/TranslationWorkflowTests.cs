@@ -41,7 +41,7 @@ public class TranslationWorkflowTests
             int remaining = await UpdateCurrentTranslationLines();
             int lastRemaining = remaining;
             int iterations = 0;
-            while  (remaining > 0 && iterations < 10)
+            while (remaining > 0 && iterations < 10)
             {
                 await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
                 remaining = await UpdateCurrentTranslationLines();
@@ -103,6 +103,8 @@ public class TranslationWorkflowTests
         await UpdateCurrentTranslationLines();
     }
 
+
+    //TODO: if ? exists but not in translation to get things like Monster. instead of Monster...?
     public static async Task<int> UpdateCurrentTranslationLines()
     {
         var config = Configuration.GetConfiguration(workingDirectory);
@@ -198,7 +200,7 @@ public class TranslationWorkflowTests
             split.Translated = split.Text;
             split.ResetFlags();
             return true;
-        }
+        }        
 
         //if (split.Text.Contains("Target") || split.Text.Contains("Location") || split.Text.Contains("Inventory"))
         //{
@@ -257,6 +259,14 @@ public class TranslationWorkflowTests
             // Glossary Clean up - this won't check our manual jobs
             modified = CheckMistranslationGlossary(split, mistranslationCheckGlossary, modified);
             modified = CheckHallucinationGlossary(split, hallucinationCheckGlossary, dupeNames, modified);
+        }
+
+        // Characters
+        if ((split.Text.Contains("!") && !split.Translated.Contains("!"))
+            || (split.Text.Contains("?") && !split.Translated.Contains("?")))
+        {
+            Console.WriteLine($"Missing Punctuation {outputFile} Replaces: \n{split.Translated}");
+            split.FlaggedForRetranslation = true;
         }
 
         //// Try and flag crazy shit
@@ -382,21 +392,35 @@ public class TranslationWorkflowTests
         return modified; // Will be previous value - even if it didnt find anything
     }
 
+    //public static bool MatchesPinyin(string input)
+    //{
+    //    string[] words = ["hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado", 
+    //        "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
+    //        "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una",  "keqi", "shiwu", 
+    //        "niang", "fuck", "ich", "daren", "furen", "ein", "der", "ganzes", "Leben", "dort", "xiansheng"];
+
+    //    foreach (var word in words)
+    //    {
+    //        var pattern = $@"\b{word}\b";
+    //        if (Regex.IsMatch(input, pattern, RegexOptions.IgnoreCase))
+    //            return true;
+    //    }
+
+    //    return false;
+    //}
+
     public static bool MatchesPinyin(string input)
     {
-        string[] words = ["hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado", 
-            "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
-            "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una",  "keqi", "shiwu", 
-            "niang", "fuck", "ich", "daren", "furen", "ein", "der", "ganzes", "Leben", "dort", "xiansheng"];
-
-        foreach (var word in words)
+        HashSet<string> words = new HashSet<string>
         {
-            var pattern = $@"\b{word}\b";
-            if (Regex.IsMatch(input, pattern, RegexOptions.IgnoreCase))
-                return true;
-        }
+            "hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado",
+            "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
+            "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una", "keqi", "shiwu",
+            "niang", "fuck", "ich", "daren", "furen", "ein", "der", "ganzes", "Leben", "dort", "xiansheng"
+        };
 
-        return false;
+        string pattern = $@"\b({string.Join("|", words)})\b";
+
+        return Regex.IsMatch(input, pattern, RegexOptions.IgnoreCase);
     }
-
 }
