@@ -39735,8 +39735,8 @@
   - split: 1
     text: "丐帮舵主的血迹"
     translated: "Vagabonds' Guild Chief's Bloodstain"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 3974
   raw: "s90613	抵达武侯祠	EventBox		None	160.98, 106.452, -45	1, 1, 1	7.285267, 1.654186, 19.35948	0, 354.9435, 0	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q90008_03\", 0, True} , { \"TimeCondition\" : 20, 23}  ], 0}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m90601g\"}  ]} 	0"

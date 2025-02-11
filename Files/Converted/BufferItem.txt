@@ -14475,8 +14475,8 @@
   - split: 2
     text: "因百里惮赫身陷危急，爆发自身战斗潜能，技能伤害提升并每回合累加连击率。"
     translated: "Due to Bai Li Danhe finding himself in dire peril, he unleashes his hidden combat potential, enhancing his skill damage and increasing his combo rate every turn"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
     flaggedGlossaryOut: ""
 - lineNum: 905
   raw: "BattleSchedule008b	风王之怒	因山魈鬼王身陷危急，爆发自身战斗潜能，技能伤害提升并每回合累加爆击率。	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule008b"
@@ -17435,8 +17435,8 @@
   - split: 2
     text: "因百里惮赫在场，每次攻击后，提升爆击率5%，发动爆击时，回复精力1点"
     translated: "Because Bai Lide in the vicinity, each attack after increasing critical hit rate by 5%, when triggering a critical hit, restore energy by 1 point"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
     flaggedGlossaryOut: ""
 - lineNum: 1090
   raw: "nick023buff	肥羊	肥嫩可口的阿白，大家都想吃他	0	nickname	0	TRUE	0	FALSE	0	0		nick023buff"

@@ -4025,8 +4025,8 @@
   - split: 1
     text: "百里惮赫"
     translated: "Bai Danhe"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
     flaggedGlossaryOut: ""
 - lineNum: 403
   raw: "n07002a	百里惮赫	ml_idle109	n90426	0, 0, 0	0		FALSE	TRUE		v00080				1	0	0	n07002	n07002				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00024\", 1, 1}  ], 0} 	0"
@@ -17285,8 +17285,8 @@
   - split: 1
     text: "丐帮长老"
     translated: "Tong Zhaogu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 1729
   raw: "n20584	丐帮弟子	ml_standA00	c_m39	0, 0, 0	0		FALSE	FALSE						1		0	n20584	n20584				0	0"
@@ -17295,8 +17295,8 @@
   - split: 1
     text: "丐帮弟子"
     translated: "Thugee Sect Apprentice"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 1730
   raw: "n20585	丐帮弟子	m_standA00	c_m39	0, 0, 0	0		FALSE	FALSE						1		0	n20585	n20585				0	0"
@@ -17305,8 +17305,8 @@
   - split: 1
     text: "丐帮弟子"
     translated: "Thugee Sect Apprentice"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 1731
   raw: "n20586	无名老僧	ml_standA00	n20586	-1450.93, 257.93, 981.66	231.4448		FALSE	TRUE	n2058601000	v00081b				1		1	n20586	n20586b	n20586,n20586b,n20586c			0	0"
@@ -59095,8 +59095,8 @@
   - split: 1
     text: "丐帮帮众"
     translated: "Beggar Sect Follower"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 5910
   raw: "n90620	丐帮帮众	ml_idle001	c_m19	0, 0, 0	0		TRUE	FALSE		v00203				1	0	0	n90620	n90620	0			0	0"
@@ -59105,8 +59105,8 @@
   - split: 1
     text: "丐帮帮众"
     translated: "Beggar Sect Follower"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 5911
   raw: "n90621	丐帮帮众	ml_idle004	c_m14	0, 0, 0	0		TRUE	FALSE		v00203				1	0	0	n90621	n90621	0			0	0"
@@ -59115,8 +59115,8 @@
   - split: 1
     text: "丐帮帮众"
     translated: "Beggar Sect Follower"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 5912
   raw: "n90622	蜀川分舵 周舵主	m_sleep_dead001_ec	c_m17	0, 0, 0	0		TRUE	FALSE						1	0	3	n90618		0			{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q90008_03\", 1, False} , { \"TimeCondition\" : 20, 23}  ], 0}  ], 1} 	0"

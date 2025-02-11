@@ -10459,8 +10459,8 @@
   - split: 3
     text: "经过寻访，你总算找到明教北坛的所在地，为了取得圣火令牌，你与一干明教教众起了冲突，但这些明教残党却告诉你，当今圣上是如何利用明教登上皇位，并认为你不过是在做残害忠良的走狗。在知道了明教的处境之后，你选择放弃夺取圣火令牌，并协助他们治伤。但百里惮赫、山魈鬼王两大高手却突然现身，要将你擒拿，教众们挺身而出，恳求两人让你安全离去，两人最后同意了。你决定返回青城洞窟中劝说黄裳放下仇恨，并寻求另一个方法取得天书碎片。"
     translated: "After a thorough search, you finally located the whereabouts of the Northern Altar of the Way of Light. In your attempt to obtain the Holy Fire Token, you clashed with several followers of the Way of Light; however, these remnants informed you that the current sovereign had ascended to the throne by exploiting the Way of Light and considered you nothing more than a dog acting on behalf of those who harm loyal subjects. Upon learning about the precarious situation of the Way of Light, you chose to abandon your attempt to seize the Holy Fire Token and instead assisted them in tending to their injuries. Suddenly, two formidable figures appeared: Bai Li Dan He and the Mountain Demon Ghost King. They intended to apprehend you, but the followers stepped forward and earnestly pleaded for your safe departure. Eventually, the two agreed. You decided to return to the Green Cliff Cave and persuade Huang Shang to lay aside his grudges while seeking another method to obtain a fragment of the Heavenly Scripture"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
     flaggedGlossaryOut: ""
 - lineNum: 654
   raw: "Q53001_04c	前往明教北坛，寻找黄裳的下落	1	你打算劝黄裳放下仇恨，但黄裳却是一意孤行，心中只想着报仇，其他的话竟是一概不听。就在你、黄裳与凌中岳共同击退来犯的明教众人之后，黄裳带着天书离去，打算自行找出明教北坛。为了天书，只得再往北坛走一遭……	0	FALSE	0	226.4003,209.7981,797.1793	TRUE		2400	(Reputation,12)	351"
@@ -10555,8 +10555,8 @@
   - split: 3
     text: "你与黄裳来到明教北坛，你选择与黄裳将明教残党击杀殆尽，尽管对象是一群老弱残病。你们更击退了来袭的百里惮赫与山魈鬼王，最后，黄裳依约将天书「繁花的碎片」交给你，并打算与你一起挑翻那不赦楼。"
     translated: "You and Huang Shang arrive at the Northern Altar of the Way of Light. You choose to have Huang Shang help you eliminate the remaining rebels of the Way of Light, even though they are mostly elderly, weak, or sick. Together, you fend off an assault by Bai Li Danhe and the Mountain Demon Ghost King. Finally, Huang Shang delivers the Fragments of Flourishing Flowers segment of the Heavenly Scripture to you as promised, intending to join forces with you to topple the Merciless Hall"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
     flaggedGlossaryOut: ""
 - lineNum: 660
   raw: "Q53001_05a3	恨火不息	1	你与黄裳来到明教北坛，你选择阻止黄裳滥杀无辜之人，一战过后，你击昏了黄裳，并且击退百里惮赫与山魈鬼王，明教残党从此撤离北坛，另寻落脚之处，而你则在黄裳身上搜得天书「繁花的碎片」与无名残本。凌中岳将昏迷的黄裳带回青城派，但你有预感，只要黄裳不死，他的复仇便会继续下去……	0	FALSE	0	0	TRUE		9600	(Reputation,48)	351"
@@ -10571,8 +10571,8 @@
   - split: 3
     text: "你与黄裳来到明教北坛，你选择阻止黄裳滥杀无辜之人，一战过后，你击昏了黄裳，并且击退百里惮赫与山魈鬼王，明教残党从此撤离北坛，另寻落脚之处，而你则在黄裳身上搜得天书「繁花的碎片」与无名残本。凌中岳将昏迷的黄裳带回青城派，但你有预感，只要黄裳不死，他的复仇便会继续下去……"
     translated: "You arrived at the Northern Altar of the Way of Light with Huang Shang. You decided to stop Huang Shang from killing innocents, and after a fierce battle, you knocked him out. You also repelled Bai Li Danhe and the Mountain Demon Ghost King. From then on, the remnants of the Way of Light left the Northern Altar in search of another place to settle, while you found fragments of the Heavenly Scripture Fanchuan and an unnamed incomplete work in Huang Shang's belongings. Ling Zhongyue took the unconscious Huang Shang back to the Qingcheng Sect. However, you had a premonition that as long as Huang Shang didn't die, his revenge would continue..."
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
     flaggedGlossaryOut: ""
 - lineNum: 661
   raw: "Q53001_05b	复仇心切	1	你返回了山洞，试图说服黄裳放弃复仇，但却未能说服他，此时明教众人也追到了山洞之中，并要与黄裳一决胜负，了结彼此恩怨，你选择了袒护黄裳，并与随后而来的凌中岳一同击退了明教的人马。然而黄裳心中复仇之火难熄，将天书碎片留下之后，执意离开山洞，继续他的复仇。	0	FALSE	0	0	TRUE		0		1"
@@ -10603,8 +10603,8 @@
   - split: 3
     text: "你返回了山洞，试图说服黄裳放弃复仇，但却未能说服他，此时明教众人也追到了山洞之中，并要与黄裳一决胜负，了结彼此恩怨，你选择了协助明教众人，并击败了黄裳与随后而来的凌中岳，黄裳伤重而死，百里惮赫将其身上的碎片交给了你，并告诉你与不赦楼的战斗无可避免，最后一战到来之际必将全力以赴，与你一决高下。你带走了黄裳留下的残本，并被青城派视为了敌人。"
     translated: "You returned to the cave, attempting to persuade Huang Shang to abandon his revenge, but were unsuccessful. At that moment, people from the Way of Light arrived at the cave and demanded a final showdown with Huang Shang to settle their grievances. You chose to assist the Way of Light members and defeated both Huang Shang and the subsequently arriving Ling Zhongyue. Huang Shang died from his injuries, and Bai Lidan handed you fragments of his body, warning that conflict with Merciless Hall was inevitable. As the final battle approached, you were urged to give your all and settle scores. You took the remaining fragments left by Huang Shang, and in turn, the Qingcheng Sect considered you an enemy"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
     flaggedGlossaryOut: ""
 - lineNum: 663
   raw: "Q53001_05d	两不相帮	1	你返回了山洞，试图说服黄裳放弃复仇，但却未能说服他，此时明教众人也追到了山洞之中，并要与黄裳一决胜负，了结彼此恩怨，你选择不偏袒任何一方，静静地看着两方的对决，最终黄裳伤重而死，明教虽得报大仇，却亦是损失惨重，你接着击退了企图取走天书碎片的百里惮赫和山魈鬼王，顺利取得了碎片和黄裳手中的残本，并与青城派保持了联系。	0	FALSE	0	0	TRUE		0		1"
@@ -10619,8 +10619,8 @@
   - split: 3
     text: "你返回了山洞，试图说服黄裳放弃复仇，但却未能说服他，此时明教众人也追到了山洞之中，并要与黄裳一决胜负，了结彼此恩怨，你选择不偏袒任何一方，静静地看着两方的对决，最终黄裳伤重而死，明教虽得报大仇，却亦是损失惨重，你接着击退了企图取走天书碎片的百里惮赫和山魈鬼王，顺利取得了碎片和黄裳手中的残本，并与青城派保持了联系。"
     translated: "You returned to the cave, attempting to persuade Huang Shang to abandon his revenge, but failed to convince him. At that moment, the followers of the Way of Light arrived at the cave and demanded a final showdown with Huang Shang to settle their grievances. You chose not to favor either side and quietly observed the confrontation. Eventually, Huang Shang succumbed to his injuries and died. Although the Way of Light avenged their great loss, they also suffered heavy casualties. Following this, you repelled Bai Lida He and the Mountain Demon Ghost King who attempted to take the fragments of the Heavenly Scripture. You successfully obtained the fragments and the damaged manuscript from Huang Shang's hands and maintained contact with the Qingcheng Sect"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
     flaggedGlossaryOut: ""
 - lineNum: 664
   raw: "Q53002	探寻明教北坛	0	黄裳向你指出，明教北坛位于蜀地东北方，一处入口隐密的巨大山洞之内，但那处明教根据地是现任兵马指挥使皇甫登云当年寻到的，黄裳并不知道确切的所在之处……青城派为蜀地第一大正派，掌门凌中岳也许会知道些什么？	0	FALSE	Q53002_01,Q53002_02,Q53002_02b,Q53002_02c,Q53002_03,Q53002_03b,Q53002_04,Q53002_04a,Q53002_05	0	TRUE		0		0"
@@ -16235,8 +16235,8 @@
   - split: 3
     text: "白露霜表示崔二引领丐帮帮众前来以后，就一直不见人影，八成还躲在这武侯祠的某处，把他找出来吧！"
     translated: "Bai Lushuang said, After Cui Er led the Beggar Sect followers here, he disappeared and hasn't been seen since. He's probably hiding somewhere in the Temple of the Military Sage; let's find him!"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 1015
   raw: "Q90008_05	去风云渡找白露霜	1	从崔二手中拿回了另一块擎天寨虎符，但仍未得知李彦仙的下落。你们决定前往风云渡看看王喆的状况，白露霜依旧率先出发了，准备好了就去渡口找她吧。	0	FALSE	0	421.1019,88.79922,-134.0309	TRUE		1200	(Reputation,6)	1"
@@ -16283,8 +16283,8 @@
   - split: 3
     text: "在渡口仓库发现了地牢，并与百里惮赫、明教教众交上一手。看来李彦仙已被王喆救走了，但李彦仙负伤，一时之间应当还逃不远，而不赦楼人马已展开追捕，赶快在附近搜寻，找到王喆和李彦仙吧！"
     translated: "At the ferry warehouse, a dungeon was discovered and handed over to Bai Li Danhe and the Way of Light Followers. It seems that Li Yanxian has been rescued by Wang Zhe, but Li Yanxian is injured and can't run far at the moment. The Merciless Hall's forces have already begun their pursuit. Hurry to search the nearby area and find both Wang Zhe and Li Yanxian!"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
     flaggedGlossaryOut: ""
 - lineNum: 1018
   raw: "Q90008_08	埋葬李彦仙与白露霜	1	在逃离风云渡的途中，你们遭到豹王寨众与不赦楼兵马的截击，李彦仙与白露霜先后亡于不赦楼主之手。王喆在白露霜的逼迫下脱离战场，在履行寨主遗命之前，他希望能将义兄义姐妥善安葬，约你在两人丧生之处相见。	0	FALSE	0	455.246, 80.566, -86.5051	TRUE		1200	(Reputation,6)	381"

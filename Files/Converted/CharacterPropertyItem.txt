@@ -1765,8 +1765,8 @@
   - split: 5
     text: "百里惮赫(天鹏刀法)"
     translated: "Bai Li Dan He (Heavenly Peng Blade Arts)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
     flaggedGlossaryOut: ""
 - lineNum: 177
   raw: "n07003	49	fm00000	a00014	nick103	冯观戏(一十八路豹变枪)	ta0092p	st0092d,st0124e,st0125b,st0997		204	ai01	(MajorWeapon,eq10505)(MinorWeapon,eq10701)(Cloth,eq20111)	0	(HP,13475)(MaxHP,13475)(MP,5128)(MaxMP,5128)(Physique,110)(Intelligence,75)(Neigong,137)(Qinggong,83)(Fight,108)(Sword,103)(Blade,113)(Spear,162)(Arrow,128)(Short,123)(Doctor,0)(Poison,0)(Money,1000)(Madness,50)(Moral,-30)(Reputation,500)(ZOC,60)(YinAndYang,-150)	(it40116,1)	0,0	0"
@@ -8355,8 +8355,8 @@
   - split: 5
     text: "丐帮长老(太祖棍、太祖长拳)"
     translated: "Itinerant Guild Elder (Taizu Staff, Taizu Long Fist)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 836
   raw: "n20584	15	fm00000	a00009		丐帮弟子	ta0059	st0157b,st0158b		0	ai01	(MajorWeapon,eq10501)	0	(HP,2019)(MaxHP,2019)(MP,1088)(MaxMP,1088)(Physique,52)(Intelligence,50)(Neigong,30)(Qinggong,23)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,0)(Madness,15)(Moral,25)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0"
@@ -8365,8 +8365,8 @@
   - split: 5
     text: "丐帮弟子"
     translated: "Thugee Sect Apprentice"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 837
   raw: "n20585	16	fm00000	a00009		丐帮弟子	ta0059	st0157b,st0158b		0	ai01	(MajorWeapon,eq10501)	0	(HP,2096)(MaxHP,2096)(MP,1165)(MaxMP,1165)(Physique,50)(Intelligence,50)(Neigong,32)(Qinggong,24)(Fight,32)(Sword,32)(Blade,32)(Spear,32)(Arrow,32)(Short,32)(Doctor,0)(Poison,0)(Money,0)(Madness,15)(Moral,25)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0"
@@ -8375,8 +8375,8 @@
   - split: 5
     text: "丐帮弟子"
     translated: "Gaibang disciple"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 838
   raw: "n20586	57	fm00000	n20586	nick141	无名老僧(太祖长拳、太祖棍、佛门狮子吼)	ta0093	st0158b,st0157b,st0012b,st0997		0	ai01	(MajorWeapon,eq10530)	0	(HP,20306)(MaxHP,20306)(MP,9155)(MaxMP,9155)(Physique,135)(Intelligence,100)(Neigong,228)(Qinggong,114)(Fight,160)(Sword,148)(Blade,143)(Spear,143)(Arrow,143)(Short,143)(Doctor,0)(Poison,0)(Money,0)(Madness,-80)(Moral,80)(Reputation,0)(ZOC,60)(YinAndYang,200)		0,0	0"
@@ -38735,8 +38735,8 @@
   - split: 5
     text: "丐帮副舵主(疯魔杖、铁砂掌)"
     translated: "Deputy Leader of the Beggar Sect (Feng mo zhang, Tie sha zhang)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 3874
   raw: "n90619	30	fm00000	a00001		丐帮帮众(毒龙游身棍、分筋错骨手)	ta0091c	st0098b,st0102b		0	ai00000	(MajorWeapon,eq10507)	0	(HP,3770)(MaxHP,3770)(MP,2296)(MaxMP,2296)(Physique,47)(Intelligence,50)(Neigong,54)(Qinggong,57)(Fight,70)(Sword,40)(Blade,40)(Spear,70)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it60122,1)(it81101,1)	0,0	0"
@@ -38745,8 +38745,8 @@
   - split: 5
     text: "丐帮帮众(毒龙游身棍、分筋错骨手)"
     translated: "Beggar Sect Follower (Dragon Venom Circulating Staff and Bone-Separating, Joint-Manipulating Hand)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 3875
   raw: "n90620	30	fm00000	a00001		丐帮帮众(太祖长拳、太祖棍)	ta0091	st0157,st0158		0	ai00000	(MajorWeapon,eq10507)	0	(HP,4322)(MaxHP,4322)(MP,2296)(MaxMP,2296)(Physique,57)(Intelligence,50)(Neigong,54)(Qinggong,54)(Fight,70)(Sword,40)(Blade,40)(Spear,70)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)	(it60203,1)(it60104,1)(it60102,1)	0,0	0"
@@ -38755,8 +38755,8 @@
   - split: 5
     text: "丐帮帮众(太祖长拳、太祖棍)"
     translated: "Beggar Sect Follower (The Great Ancestor's Long Fist, The Great Ancestor's Staff)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 3876
   raw: "n90621	30	fm00000	a00001		丐帮帮众(毒龙游身棍、分筋错骨手)	ta0091c	st0098b,st0102b		0	ai00000	(MajorWeapon,eq10507)	0	(HP,3823)(MaxHP,3823)(MP,2296)(MaxMP,2296)(Physique,48)(Intelligence,50)(Neigong,54)(Qinggong,57)(Fight,70)(Sword,40)(Blade,40)(Spear,70)(Arrow,40)(Short,40)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it60203,1)(it60104,1)(it60102,1)	0,0	0"
@@ -38765,8 +38765,8 @@
   - split: 5
     text: "丐帮帮众(毒龙游身棍、分筋错骨手)"
     translated: "Beggar Sect Follower (Poisonous Dragon Playful Body Technique, Bone-Splitting Joints Skill)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Beggars' Sect,丐帮,"
     flaggedGlossaryOut: ""
 - lineNum: 3877
   raw: "n90623	31	fm00000	a00001		不赦楼门人(阴风刀)	ta0091d	st0114c		204	ai00000	(MajorWeapon,eq10416)	1	(HP,3634)(MaxHP,3634)(MP,2384)(MaxMP,2384)(Physique,42)(Intelligence,50)(Neigong,56)(Qinggong,59)(Fight,41)(Sword,41)(Blade,72)(Spear,41)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,1000)(Madness,30)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,-75)	(it801025,1)(it70113,1)(it70209,1)(it70412,1)(eq10409,1)	0,0	0"
