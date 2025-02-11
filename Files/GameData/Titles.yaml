@@ -1,4 +1,22 @@
 ﻿entries:
+
+# Names without Hallucination
+- raw: 凌某
+  result: Surnamed Ling
+
+- raw: 徐某
+  result: Surnamed Xu
+- raw: 徐某人
+  result: Surnamed Xu
+
+- raw: 金掌柜啊
+  result: Shopkeeper Jin
+- raw: 金掌柜
+  result: Shopkeeper Jin
+
+- raw: 步小哥
+  result: Little Brother Du
+
 #Heroic
 - raw: 大侠
   result: Great Hero
@@ -37,9 +55,6 @@
   result: Senior Brother
   context: A respectful term used among siblings for the older brother.
   literal: Da Ge
-
-- raw: 凌某
-  result: Surnamed Ling
 
 # - raw: 师兄
 #   result: Elder Brother
