@@ -309,7 +309,7 @@ it80195	Croton Seeds	it80195	Often found in various places in Jiangnan, consumin
 it80196	Gold Gourd Tribute Tea	it80196	The valuable tea leaves stolen from Qingmu Tea House were intended as a gift for the birthday banquet of Muteiwang	801	0	0	FALSE	3	50	0	0	0		0			0
 it80197	The Corpse of the Snake King	it80197	The body of the snake king found in a den near Arched Stone Village, bring it to the doctor to see if they can concoct an antidote for snake venom	801	0	0	FALSE	3	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it8019701000"} ]}
 it80198	Yulong Xuelianhua	it40210	Snow lotus from Yulong Snow Mountain. Very rare	801	0	0	FALSE	3	50	0	0	0		0			0
-it80199	Letter from Daoist Heart Good	it80199	Monk Xinliang's Miscellaneous Notes from the Scroll	801	0	0	FALSE	0	50	0	0	0		0			0
+it80199	Daoist Xin Liang's handwritten note	it80199	The notes recorded in Daoist Xin Liang's journal	801	0	0	FALSE	0	50	0	0	0		0			0
 it801001	Mu Mansion Token	it801001	Token given by Mu Chu. With this token, the guards of the Mu Mansion won't dare to touch you	801	0	0	FALSE	1	50	0	0	0		0			0
 it801002	Message from the Elder Patriarch	it801002	Venerable Guild Leader's Last Will	801	0	0	FALSE	0	50	0	0	0		0			0
 it801003	The secret iron box	it801003	A dark, heavy box. Zhou Yi sealed the letter of the late old leader of the Taoshi Gang in this box	801	0	0	FALSE	0	50	0	0	0		0			0

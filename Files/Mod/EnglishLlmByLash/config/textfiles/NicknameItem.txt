@@ -91,7 +91,7 @@ nick106	Successor to the Headman	At the start of each turn, restore 15% Lifeforc
 nick107	Mu Mansion Warlord	When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares		n50065,n50065b	nick107
 nick108	Three Heroic Generals	Within a 2-unit distance around oneself, for each enemy present, an additional 1 point of energy is restored when the self executes a critical hit		n50073a,n50073a2	nick108
 nick111	Unrivaled in the world	The second trait has a special title. When the health decreases by 10%, damage increases by 10%. At the start of each turn, negative status is reduced by 20 points		n09998,n09998a	nick111
-nick112	Follow one's heart	The Xinliang Daoist has its own title, with a 25% increase in counterattack rate and force reduction rate per turn		n70045	nick112
+nick112	Follow one's heart	The Daoist Xin Liang's special title, which increases his counterattack rate and pressure release rate by 25% each round		n70045	nick112
 nick114	Executioner	When attacking, each accumulated point of poison on the target increases damage by 1%		n00102	nick114
 nick115	Eastern Noble	When using the Thunderbolt Fireball Grenade, there is a 25% chance to attack twice		n90201	nick115
 nick116	Southern Leisure	At the beginning of each round, randomly recover between 2 and 8 points of Qi		n20230	nick116
@@ -115,7 +115,7 @@ nick132	Mei kai er du	During the combo, deal an additional hit to the target		n6
 nick133	Great Pot Head	The less your lifeforce, the higher the damage dealt during a critical strike (for every 10% reduction in lifeforce, critical strike damage increases by an additional 10%)		n20000	nick133
 nick134	Young Master of the Ye Family	If the target is male, damage increases by 50%; if the target is female, damage decreases by 50%		n20137	nick134
 nick135	Ye Family Boss	Each time a move is made, the technique's damage increases by 5%, up to a maximum of 50%		n20146	nick135
-nick136	Hail and Frost Demon Blade	When an enemy attacks a friendly target within their own counterattack range, there is a 25% chance to retaliate against that enemy		n90602,n90602c	nick136
+nick136	Frost-haired Rakshasa	When an enemy attacks a friendly target within their own counterattack range, there is a 25% chance to retaliate against that enemy		n90602,n90602c	nick136
 nick137	Chongwei Yilie	Each round, restore 10% Lifeforce and increase counterattack rate by 10% for allies within a distance of 2 units from yourself		n90603	nick137
 nick138	Iron Face Battle Armor	When activating a critical strike, additionally restore 3 points of one's own energy		n20037	nick138
 nick139	Butcher of Bloodthirsty People	For each enemy killed, restore an additional 3 points of stamina		n19976,n19976a	nick139

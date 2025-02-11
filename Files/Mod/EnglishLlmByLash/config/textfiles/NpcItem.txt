@@ -273,7 +273,7 @@ n00083a	Ling Shuangjun	ml_standA00	n70050	-1107.745, 105.8863, 675.2114	226.7794
 n00083b	Ling Shuangjun	ml_standA00	n70050	0, 0, 0	0		TRUE	TRUE		v00188				1	9	0	n00083	n00083				0	0
 n00083c	Ling Shuangjun	m_standF00	n70050	-821.4991, 159.045, 215.3479	355.7151		FALSE	TRUE	n0008301000	v00188				1	9	1	n00083	n00083	n00083b,n00083d			0	0
 n00083d	Ling Shuangjun	m_standB00	n70050	-864.5715, 158.3169, 231.6965	51.011		FALSE	TRUE						1	9	1	n00083	n00083				{ "LogicalNode" : [ { "QuestCondition" : "Q40035", 0, True}  ], 0} 	0
-n00084	Hearncle of Kindness	m_sitLoop007	n70045	-942.162, 163.3628, 207.242	281.8737	6-18	FALSE	TRUE	n0008401000	v00189				1	9	1	n70045	n70045				0	0
+n00084	Daoist Xin Liang	m_sitLoop007	n70045	-942.162, 163.3628, 207.242	281.8737	6-18	FALSE	TRUE	n0008401000	v00189				1	9	1	n70045	n70045				0	0
 n00085	Old Man	m_standD00		-686.629, 115.8411, 164.914	335.5699	8-18	FALSE	FALSE	n0008501000	v00050				1	0	0	n00085					{ "LogicalNode" : [ { "CheckNpcFlagAction" : "01", 1, 0, "n00085"}  ], 0} 	0
 n00086	Look for Grandma	ml_standA00	c_w02	0, 0, 0	0		FALSE	FALSE	n0008601000	v00198				2	0	0		n00086	n00086a,n00086b,n00086c		(Food,1)(Currency_Stuff,1)(Money,1)	0	0
 n00087	Respected Uncle	ml_standA00		0, 0, 0	0		FALSE	FALSE	n0008701000	v00197				1	0	0		n00087	n00087a,n00087b,n00087c			0	0
@@ -495,7 +495,7 @@ n07033	Rong Yanxue	w_standA00	n60106	0, 0, 0	0		FALSE	TRUE		v00085				2	22	0	n60
 n07034	Qi Ruxiao	w_standG00	n52009	0, 0, 0	0		FALSE	TRUE		v00099				2	0	0	n52009	n52009b	0			0	0
 n07035	Fan Xiangdie	w_standA00	n60100	163.1787, 105.7365, -36.5459	120.141		TRUE	TRUE	n0703501000	v00036				2	18	0	n60046	n60100				{ "LogicalNode" : [ { "TeammateCondition" : "n60100", False} , { "QuestCondition" : "Q07004", 0, True} , { "CheckAreaFriendlyAction" : 0, -1, 22} , { "QuestCondition" : "Q60016", 2, False}  ], 0} 	0
 n07036	Ling Zhongyue	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00184				1	0	0	n70044					0	0
-n07037	Good Hearted Doaist	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n70045					0	0
+n07037	Daoist Xin Liang	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n70045					0	0
 n07038	Ximen Jade Hall	m_sleep_dead003_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n60161					0	0
 n07039	Shu Guangbi	m_sleep_dead004_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n20191					0	0
 n07040	Lu Changji	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n50071					0	0
