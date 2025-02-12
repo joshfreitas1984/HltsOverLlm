@@ -30,14 +30,16 @@
   result: Guest from beyond the skies
 
 # A'
+- raw: 阿
+  result: A'
 - raw: 阿喆
-  result: A Zhe
+  result: A'Zhe
 - raw: 阿郁
-  result: Ayu
+  result: A'Yu
 - raw: 阿宇
-  result: Ayu
+  result: A'Yu
 - raw: 阿玉
-  result: Ayu
+  result: A'Yu
 
 - raw: 巴大哥
   result: Senior Brother Ba
@@ -46,7 +48,7 @@
 - raw: 李大哥
   result: Senior Brother Li
 - raw: 阿克大哥
-  result: Senior Brother Ake
+  result: Senior Brother A'ke
 
 #Heroic
 - raw: 大侠

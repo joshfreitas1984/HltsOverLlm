@@ -7,7 +7,7 @@ n00000f	Magpies' Bridge Starlight	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0	
 n00000g	Jun Bao's ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "CheckFlagAction" : "f09997", 1, 1} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0} 	0
 n00000h	Bai Sun Ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "CheckFlagAction" : "f09996", 1, 1} , { "LogicalNode" : [ { "CheckFlagAction" : "f0harem", 3, 1} , { "CheckFlagAction" : "f0百損", 3, 1} , { "CheckFlagAction" : "f0孫凝", 3, 1} , { "QuestCondition" : "Q60039", 1, False} , { "LogicalNode" : [ { "CheckFlagAction" : "f0玉書1", 3, 1} , { "CheckFlagAction" : "f0玉書2", 3, 1}  ], 0}  ], 1}  ], 0} 	0
 n00000i	Guo Liang's ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "CheckFlagAction" : "f69014-1藍拂衣給圖", 0, 0} , { "QuestCondition" : "Q60037_04", 1, True} , { "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True}  ], 1} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0} 	0
-n00000j	Ake's ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "QuestCondition" : "Q52005_12", 1, True} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0} 	0
+n00000j	A'ke's ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "QuestCondition" : "Q52005_12", 1, True} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0} 	0
 n00000k	Xiangdie Ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "QuestCondition" : "Q60044", 1, True} , { "LogicalNode" : [ { "QuestCondition" : "Q60016", 1, True} , { "QuestCondition" : "Q60017", 1, True}  ], 1} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0} 	0
 n00000l	Situ Jing bad ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "QuestCondition" : "Q60037", 1, True} , { "CheckFlagAction" : "f61054-1酒窖幫陳長衛", 0, 0}  ], 0} 	0
 n00000m	Luo Yuanyu good ending	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "CheckNpcLevelAction" : "n60273", 0, 39} , { "CheckFlagAction" : "f0ending", 2, 2}  ], 0} 	0
@@ -281,7 +281,7 @@ n00088	Cai Laobai	ml_standA00		0, 0, 0	0		FALSE	FALSE	n0008801000	v00197				1		0
 n00089	Brother Lin	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00197				1	0	0						0	0
 n00089a	Brother Lin	m_mapFloor_ec		-1102.239, 105.995, 677.355	260.7959		FALSE	FALSE		v00197				1	0	0	n00089					{ "LogicalNode" : [ { "QuestCondition" : "Q00020", 1, False}  ], 0} 	0
 n00090	Tian Lao Bo	ml_standA00		0, 0, 0	0		FALSE	FALSE	n0009001000	v00197				1	0	0		n00090	n00090a,n00090b			0	0
-n00091	Grandma Tian	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00198				2	0	0			n00091a,n00091b			0	0
+n00091	GrandmA'Tian	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00198				2	0	0			n00091a,n00091b			0	0
 n00092a	Wandering Demon	m_standM00	c_m61	-639.22, 68.58813, 596.7	21.93721	20-23, 0-2	FALSE	FALSE		v00195				1	0	0	n00092a	n00092a				{ "LogicalNode" : [ { "QuestCondition" : "Q00019_02", 0, True}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "ObjectTransformAction" : 0, "n00092a", 0.00000, 0, False, { 0.00000, 0.00000, 0.00000} } , { "SetTalkIdAction" : "n0009201000"}  ]} , 20.00000}  ], 0} 
 n00092b	Wandering Demon	ml_idle108	c_m62	-625.498, 77.07961, 577.8361	0	20-23, 0-2	FALSE	FALSE		v00195				1	0	0	n00092b	n00092b				{ "LogicalNode" : [ { "QuestCondition" : "Q00019_02", 0, True}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n00092b", 0.30000, 0} , { "ObjectTransformAction" : 0, "n00092b", 0.00000, 0, False, { 0.00000, 0.00000, 0.00000} } , { "SetTalkIdAction" : "n0009201001"}  ]} , 20.00000}  ], 0} 
 n00092c	Wandering Demon	ml_idle004	c_m61	-619.7938, 73.10488, 617.501	220.7256	20-23, 0-2	FALSE	FALSE		v00195				1	0	0	n00092a	n00092c				{ "LogicalNode" : [ { "QuestCondition" : "Q00019_02", 0, True}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n00092c", 0.30000, 0} , { "ObjectTransformAction" : 0, "n00092c", 0.00000, 0, False, { 0.00000, 0.00000, 0.00000} } , { "SetTalkIdAction" : "n0009201002"}  ]} , 20.00000}  ], 0} 
@@ -481,7 +481,7 @@ n07020	Li Tan	m_standA00	n60005	175.3382, 105.7365, -57.25215	112.4128		TRUE	TRU
 n07021	Cheng Yanhua	w_standG00	n60400	164.8157, 105.7365, -52.29216	18.05167		TRUE	TRUE	n0702101000	v00158				2	15	0	n20207	n60400				{ "LogicalNode" : [ { "TeammateCondition" : "n60400", False} , { "QuestCondition" : "Q07004", 0, True} , { "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60040", 0, True} , { "QuestCondition" : "Q60040", 1, True}  ], 1} , { "CheckFlagAction" : "f64013-1救緋緋", 1, 0}  ], 0} , { 100 : 110, 0, -30, "player"}  ], 0} 	0
 n07022	Zhang Junbao	m_sitLoop002	n70047	143.322, 105.7365, -59.89099	185.8511		FALSE	TRUE	n0702201000	v00191b				1	0	1	n09997	n09997				{ "LogicalNode" : [ { "TeammateCondition" : "n09997", False} , { "QuestCondition" : "Q07004", 0, True} , { 100 : 110, 0, 30, "player"} , { "CheckFlagAction" : "f09997", 1, 1}  ], 0} 	0
 n07023	He Ziwang	w_standF00	n90405	137.487, 105.7379, -62.632	54.19819		TRUE	TRUE	n0702301000	v00032				2	17	0	n20208	n90405				{ "LogicalNode" : [ { "TeammateCondition" : "n90405", False} , { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
-n07024	Ade Ake	m_map_ec	n50060	159.972, 105.7365, -54.347	357.4574		TRUE	TRUE	n0702401000	v00227				1	4	1	n20023	n50060				{ "LogicalNode" : [ { "TeammateCondition" : "n50060", False} , { "QuestCondition" : "Q07004", 0, True} , { "QuestCondition" : "Q52005_12", 1, True} , { 100 : 110, 0, 0, "player"} , { 100 : 109, 2, -15, "player"}  ], 0} 	0
+n07024	A'De A'Ke	m_map_ec	n50060	159.972, 105.7365, -54.347	357.4574		TRUE	TRUE	n0702401000	v00227				1	4	1	n20023	n50060				{ "LogicalNode" : [ { "TeammateCondition" : "n50060", False} , { "QuestCondition" : "Q07004", 0, True} , { "QuestCondition" : "Q52005_12", 1, True} , { 100 : 110, 0, 0, "player"} , { 100 : 109, 2, -15, "player"}  ], 0} 	0
 n07025a	Yan Yushu	w_standC00	n79998	172.9172, 105.8324, -29.93994	262.1838		TRUE	TRUE	n0702501000	v00111				2	24	0	n09999	n09999a				{ "LogicalNode" : [ { "TeammateCondition" : "n09999a", False} , { "QuestCondition" : "Q07004", 0, True} , { "CheckFlagAction" : "f00015", 1, 1} , { "QuestCondition" : "Q00012_01", 1, True}  ], 0} 	0
 n07025b	Yan Yushu	w_standC00	n79998	172.9172, 105.8324, -29.93994	262.1838		TRUE	TRUE	n0702502000	v00111				2	24	0	n09999	n09999b				{ "LogicalNode" : [ { "TeammateCondition" : "n09999b", False} , { "QuestCondition" : "Q07004", 0, True} , { "CheckFlagAction" : "f00016", 1, 1} , { "QuestCondition" : "Q00014_01", 1, True}  ], 0} 	0
 n07026	Chu Xianglian	w_standA00	n09996	157.9355, 105.7365, -37.177	208.0975		TRUE	TRUE	n0702601000	v00192c				2	0	0	n09996	n09996				{ "LogicalNode" : [ { "TeammateCondition" : "n09996", False} , { "QuestCondition" : "Q07004", 0, True} , { 100 : 110, 2, -60, "player"} , { "CheckFlagAction" : "f09996", 1, 1}  ], 0} 	0
@@ -1720,7 +1720,7 @@ n20576	He Ziwang	w_standG00	n90405	0, 0, 0	0		FALSE	TRUE						2	0	0	n20208	n9040
 n20577	Wang Zhe	m_standG00	n20033	0, 0, 0	0		FALSE	TRUE						1	5	0	n20033	n20033				0	0
 n20578	Zhang Junbao	m_standI00	n70047	0, 0, 0	0		FALSE	TRUE						1	0	1	n09997	n09997				0	0
 n20579	Fan Xiangdie	w_standA00	n60100	0, 0, 0	0		FALSE	TRUE						2	3	0	n60046	n60100				0	0
-n20580	Ade Ake	ml_standA00	n50060	0, 0, 0	0		FALSE	TRUE						1	4	0	n20023	n50060				0	0
+n20580	A'De A'Ke	ml_standA00	n50060	0, 0, 0	0		FALSE	TRUE						1	4	0	n20023	n50060				0	0
 n20580b	Luo Yuanyu	ml_standA00	n60273	0, 0, 0	0		FALSE	TRUE						1		0	n60005	n60273				0	0
 n20581	Cheng Yanhua	w_standA00	n60400	0, 0, 0	0		FALSE	TRUE						2	0	0	n20207	n60400				0	0
 n20581b	Zhuan Sunning	wl_standA00	n60560	0, 0, 0	0		FALSE	TRUE						2		0	n60509					0	0
@@ -2166,7 +2166,7 @@ n40055	Four Great Demons	ml_standA00		0, 0, 0	0		FALSE	FALSE						1		0						0	0
 n40056	Swan Feather Sculpture	al20004@idle	animal35	-1379.979, 205.4651, -901.8962	-45.079		FALSE	TRUE						1	21	0	animal35	n50070				{ "LogicalNode" : [ { "QuestCondition" : "Q40019_02", 0, True} , { "QuestCondition" : "Q40020_02", 0, True}  ], 1} 	0
 n40056a	Little Snow Winged Eagle	al20004@idle	animal35	-1324.93, 146.1401, -686.34	139.817		FALSE	TRUE						1	21	0	animal35	n40041				{ "LogicalNode" : [ { "QuestCondition" : "Q40021_02", 0, True}  ], 1} 	0
 n40057	Eagle Hunter	ml_standA00	c_m30	0, 0, 0	0		FALSE	FALSE		v00149				1	3,4	0	n50056b					{ "LogicalNode" : [ { "QuestCondition" : "Q40019", 0, True} , { "QuestCondition" : "Q40020", 0, True} , { "QuestCondition" : "Q40021", 0, True}  ], 1} 	0
-n40058	Ade Ake	ml_standA00	n50060	0, 0, 0	134.1801		TRUE	TRUE						1	4,3	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q40019", 0, True} , { "QuestCondition" : "Q40020", 0, True} , { "QuestCondition" : "Q40021", 0, True}  ], 1} 	0
+n40058	A'De A'Ke	ml_standA00	n50060	0, 0, 0	134.1801		TRUE	TRUE						1	4,3	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q40019", 0, True} , { "QuestCondition" : "Q40020", 0, True} , { "QuestCondition" : "Q40021", 0, True}  ], 1} 	0
 n40059	Wild Hawk	al20004@idle	animal04	-1383.75, 205.4371, -893.69	158.207		FALSE	FALSE		v10003				0	21	0	animal04	n40042				{ "LogicalNode" : [ { "QuestCondition" : "Q40019_02", 0, True} , { "QuestCondition" : "Q40020_02", 0, True}  ], 1} 	0
 n40060	Wild Hawk	al20004@idle	animal04	-1386.9, 205.4371, -896.99	112.952		FALSE	FALSE		v10003				0	21	0	animal04	n40043				{ "LogicalNode" : [ { "QuestCondition" : "Q40019_02", 0, True} , { "QuestCondition" : "Q40020_02", 0, True}  ], 1} 	0
 n40061	Wild Hawk	al20004@idle	animal04	-1388.11, 205.4371, -900.12	102.532		FALSE	FALSE		v10003				0	21	0	animal04	n40044				{ "LogicalNode" : [ { "QuestCondition" : "Q40019_02", 0, True} , { "QuestCondition" : "Q40020_02", 0, True}  ], 1} 	0
@@ -2412,7 +2412,7 @@ n50008	Monk Cizhi	ml_standA00		-633.029, 113.0872, -466.297	138.7293	6-18	TRUE	F
 n50008b	Monk Cizhi	m_sleep004_ec		-657.148, 113.5483, -496.754	29.16103	20-24, 1-4	FALSE	FALSE						1	20	0	n50019		0			0	0
 n50009	Taught Lama	m_talk001		-637.5862, 113.0872, -470.0125	62.64117	8-17	FALSE	FALSE	n5000901000	v00112	sc50009001			1	20	0	n50010	n50009	0			0	{ "LogicalNode" : [ { "StealFailNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n1999902000"}  ]} }  ], 0} 
 n50010	Listening Monk	m_talk001		-636.18, 113.0872, -469.62	267.6761	8-17	FALSE	FALSE	n5000901000	v00112				1	20	0	n50018		0			0	0
-n50011	Zhenmin and A Zheng	ml_standA00		-641.9738, 113.0872, -449.0602	214.5045	10-15	TRUE	FALSE	n5001101000					1	3	0	n50005	n50011	0			0	0
+n50011	Townsfolk He A'Zheng	ml_standA00		-641.9738, 113.0872, -449.0602	214.5045	10-15	TRUE	FALSE	n5001101000					1	3	0	n50005	n50011	0			0	0
 n50012	Merchant	m_worship_ec		-637.5297, 113.0872, -455.5559	209.2111	8-13	TRUE	FALSE	n5001201000		sc50012001			1	0	0	n50013	n50012	0			0	0
 n50013	Suo Bananzhuo	ml_standA00	c_m36	-607.9459, 112.7751, -453.7773	88.46911	8-16	TRUE	FALSE	n5001301000	v00100	sc50013001			1	20	0	n50004		0			{ "LogicalNode" : [ { "CheckFlagAction" : "f50013索巴南卓邪線", 1, 0} , { "QuestCondition" : "Q50011", 0, False} , { "QuestCondition" : "Q50011", 1, False}  ], 0} 	0
 n50013b	Suo Bananzhuo	ml_standA00	c_m36	-651.525, 169.009, -601.138	-132.811	1-4	FALSE	FALSE		v00100	sc50013002			1	20	0	n50004	n50013	0			{ "LogicalNode" : [ { "QuestCondition" : "Q50011", 0, True} , { "CheckFlagAction" : "f50013索巴南卓邪線", 1, 0}  ], 0} 	0
@@ -2472,7 +2472,7 @@ n50046b	Shopkeeper He	m_sleep_dead001_ec	c_m34	-569.2535, 101.3132, -1251.656	34
 n50046c	Shopkeeper He	m_sitLoop006	c_m34	-569.3325, 101.4593, -1252.624	312.2281		FALSE	FALSE	n5002704000	v00130				1	3	0	n20073					{ "LogicalNode" : [ { "CheckFlagAction" : "f50027偷聽掌櫃與商人之後", 1, 2}  ], 0} 	0
 n50046d	Shopkeeper He	m_sleep_dead001_ec	c_m34	-657.882, 66.25234, -1115.899	289.6689		FALSE	FALSE	n5002705000	v00130				1	3	0	n20073					{ "LogicalNode" : [ { "CheckFlagAction" : "f50027偷聽掌櫃與商人之後", 1, 5}  ], 0} 	0
 n50046e	Shopkeeper He	m_standD00	c_m34	-663.4531, 66.25234, -1112.21	0	6-20	FALSE	FALSE	n5002702000	v00130				1	3	0	n20073	n20073				{ "LogicalNode" : [ { "CheckFlagAction" : "f50045木初主線階段", 0, 0} , { "CheckFlagAction" : "f50027偷聽掌櫃與商人之後", 1, 0} , { "QuestCondition" : "Q52001", 1, True}  ], 0} 	0
-n50047	Ade Ake	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5006001000					1	4	0	n20023					0	0
+n50047	A'De A'Ke	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5006001000					1	4	0	n20023					0	0
 n50048	Naxi Noble	ml_standA00	n50048	-662.584, 66.25972, -1107.385	-158.868	6-20	FALSE	TRUE	n5004801000		sc50048001			1	3	0	n50048					{ "LogicalNode" : [ { "CheckFlagAction" : "f50045木初主線階段", 1, 0}  ], 0} 	0
 n50048b	Mu Chu	ml_standA00	n50048	-662.8513, 66.2228, -1108.005	202.1364	6-20	TRUE	TRUE	n5004802000	v00069	sc50048001			1	3	0	n50048					{ "LogicalNode" : [ { "QuestCondition" : "Q52001_03", 0, True}  ], 0} 	0
 n50048m1	Mu Chu	ml_standA00	n50048	0, 0, 0	0		TRUE	TRUE	n50048m101000					1	3	0	n50048	n50048				0	0
@@ -2502,19 +2502,19 @@ n50059	Eagle hunting	al20004@idle	animal04	0, 0, 0	0		FALSE	FALSE		v10003				0	2
 n50059b	Eagle hunting	al20004@idle	animal04	0, 0, 0	0		FALSE	FALSE		v10003				0	21	0	animal04	n50057d				0	0
 n50059m1	Eagle hunting	al20004@idle	animal04	0, 0, 0	0		FALSE	FALSE		v10003				0	21	0	animal04	n50057c				0	0
 n50060	Hawk Hunter Leader	ml_standA00	n50060	0, 0, 0	0		FALSE	TRUE						1	4	0	n20023	n50060				0	0
-n50060_dead	Ade Ake	ml_die000stop		-1189.729, 190.5033, -943.5386	209.9373		FALSE	FALSE						1	3,4	3	n20023					{ "LogicalNode" : [ { "CheckFlagAction" : "f52010", 1, 1}  ], 0} 	0
-n50060a	Ade Ake	ml_standA00	n50060	0, 0, 0	0		TRUE	TRUE	n520050102000	v00227				1	4,3	0	n20023	n50060				0	0
-n50060a2	Ade Ake	ml_standA00	n50060	0, 0, 0	0		FALSE	TRUE		v00227				1	3,4	0	n20023	n50060				0	0
-n50060b	Ade Ake	ml_standA00	n50060	-1248.597, 192.3936, -757.6544	130.8854	6-21	TRUE	TRUE	n5006001000	v00227				1	4	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q52001", 1, True} , { "QuestCondition" : "Q52002", 1, True}  ], 0} 	0
-n50060c	Ade Ake	ml_idle401	n50060	-1191.94, 190.504, -946.9099	52.79976		TRUE	TRUE		v00227				1	4	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q52003_02", 0, True}  ], 0} 	0
-n50060d	Ade Ake	ml_standA00	n50060	-1251.24, 192.7958, -734.98	357.6744		FALSE	TRUE	n5006004000	v00227				1	4	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q52003_03", 0, True} , { "QuestCondition" : "Q52003_04", 0, True} , { "QuestCondition" : "Q52003_05", 0, True}  ], 1} 	0
-n50060m	Ade Ake	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00227				1	0	0						0	0
+n50060_dead	A'De A'Ke	ml_die000stop		-1189.729, 190.5033, -943.5386	209.9373		FALSE	FALSE						1	3,4	3	n20023					{ "LogicalNode" : [ { "CheckFlagAction" : "f52010", 1, 1}  ], 0} 	0
+n50060a	A'De A'Ke	ml_standA00	n50060	0, 0, 0	0		TRUE	TRUE	n520050102000	v00227				1	4,3	0	n20023	n50060				0	0
+n50060a2	A'De A'Ke	ml_standA00	n50060	0, 0, 0	0		FALSE	TRUE		v00227				1	3,4	0	n20023	n50060				0	0
+n50060b	A'De A'Ke	ml_standA00	n50060	-1248.597, 192.3936, -757.6544	130.8854	6-21	TRUE	TRUE	n5006001000	v00227				1	4	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q52001", 1, True} , { "QuestCondition" : "Q52002", 1, True}  ], 0} 	0
+n50060c	A'De A'Ke	ml_idle401	n50060	-1191.94, 190.504, -946.9099	52.79976		TRUE	TRUE		v00227				1	4	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q52003_02", 0, True}  ], 0} 	0
+n50060d	A'De A'Ke	ml_standA00	n50060	-1251.24, 192.7958, -734.98	357.6744		FALSE	TRUE	n5006004000	v00227				1	4	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q52003_03", 0, True} , { "QuestCondition" : "Q52003_04", 0, True} , { "QuestCondition" : "Q52003_05", 0, True}  ], 1} 	0
+n50060m	A'De A'Ke	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00227				1	0	0						0	0
 n50060m1	Hawk Hunter Leader	ml_standA00	n50060	0, 0, 0	0		TRUE	TRUE		v00227				1	4	0	n20023	n50060				0	0
-n50060m2	Ade Ake	ml_standA00	n50060	-655.6516, 66.218, -1004.552	336.947	5-19	FALSE	TRUE	n520060401011					1	3,4	1	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_04", 0, True}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n520060401011"}  ]} , 20.00000}  ], 0} 
-n50060m3	Ade Ake	ml_standA00	n50060	0, 0, 0	0		FALSE	TRUE		v00227				1	3,4	0	n20023	n50060				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunMovieAction" : "m520060501b"}  ]} , 0.00000}  ], 0} 
-n50060t	Ade Ake	ml_standA00	n50060	-917.0518, 72.46471, -873.5699	134.1801		TRUE	TRUE	n50060t01000	v00227				1	4,3	0	n20023	n50060				{ "LogicalNode" : [ { "TeammateConditionByNPCId" : "n50060t", False} , { "LogicalNode" : [ { "QuestCondition" : "Q52005_03", 0, True} , { "QuestCondition" : "Q52005_04", 0, True} , { "QuestCondition" : "Q52005_05", 0, True} , { "QuestCondition" : "Q52005_06", 0, True}  ], 1}  ], 0} 	0
-n50060t2	Ade Ake	ml_standA00	n50060	0, 0, 0	0		TRUE	TRUE	n50060t01000	v00227				1	3,4	0	n20023	n50060				{ "LogicalNode" : [ { "TeammateConditionByNPCId" : "n50060t", False} , { "QuestCondition" : "Q52005_08", 0, True}  ], 0} 	0
-n50060t3	Ade Ake	ml_standA00	n50060	-1246.526, 192.3939, -758.0399	143.1671		TRUE	TRUE	n50060t01000	v00227				1	3,4	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q52005", 1, True} , { "TeammateConditionByNPCId" : "n50060t", False}  ], 0} 	0
+n50060m2	A'De A'Ke	ml_standA00	n50060	-655.6516, 66.218, -1004.552	336.947	5-19	FALSE	TRUE	n520060401011					1	3,4	1	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_04", 0, True}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n520060401011"}  ]} , 20.00000}  ], 0} 
+n50060m3	A'De A'Ke	ml_standA00	n50060	0, 0, 0	0		FALSE	TRUE		v00227				1	3,4	0	n20023	n50060				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "RunMovieAction" : "m520060501b"}  ]} , 0.00000}  ], 0} 
+n50060t	A'De A'Ke	ml_standA00	n50060	-917.0518, 72.46471, -873.5699	134.1801		TRUE	TRUE	n50060t01000	v00227				1	4,3	0	n20023	n50060				{ "LogicalNode" : [ { "TeammateConditionByNPCId" : "n50060t", False} , { "LogicalNode" : [ { "QuestCondition" : "Q52005_03", 0, True} , { "QuestCondition" : "Q52005_04", 0, True} , { "QuestCondition" : "Q52005_05", 0, True} , { "QuestCondition" : "Q52005_06", 0, True}  ], 1}  ], 0} 	0
+n50060t2	A'De A'Ke	ml_standA00	n50060	0, 0, 0	0		TRUE	TRUE	n50060t01000	v00227				1	3,4	0	n20023	n50060				{ "LogicalNode" : [ { "TeammateConditionByNPCId" : "n50060t", False} , { "QuestCondition" : "Q52005_08", 0, True}  ], 0} 	0
+n50060t3	A'De A'Ke	ml_standA00	n50060	-1246.526, 192.3939, -758.0399	143.1671		TRUE	TRUE	n50060t01000	v00227				1	3,4	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q52005", 1, True} , { "TeammateConditionByNPCId" : "n50060t", False}  ], 0} 	0
 n50061	Ice Leopard	al20010@Fight Idle	animal09	0, 0, 0	0		FALSE	TRUE						2	21	0	animal09	n50061				0	0
 n50062	Bandit Mercenaries	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	0	0	n30014	n50062				0	0
 n50063	Bandit Mercenaries	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	0	0	n30015	n50062				0	0
@@ -2662,7 +2662,7 @@ n50133	Mu Mansion Patrol Guard	ml_standA00	c_m21	-898.7275, 66.47159, -923.2071	
 n50133b	Mu Mansion Patrol Guard	ml_die000stop	c_m21	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050J					0	0
 n50133bt	Mu Mansion Patrol Guard	ml_standA00	c_m21	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050J	n50074b				0	0
 n50134	Mu Mansion Side Gate Guard	ml_standA00	c_m21	-951.42, 66.518, -884.33	155.7788		FALSE	FALSE	n5013401000	v00070				1	3	0	n20050b	n50074g				0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "MultiLogicaAction" : [ { "CheckInventoryCountAction" : "it801001", 1, 0} , { "SetTalkIdAction" : "n5007302000"}  ]} , { "MultiLogicaAction" : [ { "TimeCondition" : 22, 24} , { "SetTalkIdAction" : "n5007302005"}  ]} , { "MultiLogicaAction" : [ { "TimeCondition" : 0, 5} , { "SetTalkIdAction" : "n5007302005"}  ]} , { "MultiLogicaAction" : [ { "QuestCondition" : "Q52004", 0, True} , { "SetTalkIdAction" : "n5007302007"}  ]}  ]} , 20.00000}  ], 0} 
-n50135	Mu Mansion Guard Ayuan	ml_standA00	c_m21	-887.4, 66.53428, -845.6	153.826		FALSE	FALSE	n5013501000	v00070c	sc50135001			1	3	0	n20050g	n50074a				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, False}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "MultiLogicaAction" : [ { "CheckInventoryCountAction" : "it801001", 1, 0} , { "SetTalkIdAction" : "n5007302000"}  ]} , { "MultiLogicaAction" : [ { "QuestCondition" : "Q52004", 0, True} , { "SetTalkIdAction" : "n5007302007"}  ]}  ]} , 20.00000}  ], 0} 
+n50135	Mu Mansion Guard A'Yuan	ml_standA00	c_m21	-887.4, 66.53428, -845.6	153.826		FALSE	FALSE	n5013501000	v00070c	sc50135001			1	3	0	n20050g	n50074a				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, False}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "MultiLogicaAction" : [ { "CheckInventoryCountAction" : "it801001", 1, 0} , { "SetTalkIdAction" : "n5007302000"}  ]} , { "MultiLogicaAction" : [ { "QuestCondition" : "Q52004", 0, True} , { "SetTalkIdAction" : "n5007302007"}  ]}  ]} , 20.00000}  ], 0} 
 n50136	Mu Mansion Patrol Guard	ml_standA00	c_m21	-863.073, 66.50027, -902.4855	278.3727		TRUE	FALSE	n5013601000	v00070c	sc50136001			1	3	0	n20050d	n50074c				{ "LogicalNode" : [ { "CheckFlagAction" : "f52009潛入路線階段", 2, 2} , { "CheckFlagAction" : "n52010潛行路線的喬裝模式中斷", 1, 0} , { "CheckFlagAction" : "n52010潛行路線的潛行模式中斷", 1, 0} , { "QuestCondition" : "Q52005_10", 0, False}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "MultiLogicaAction" : [ { "CheckInventoryCountAction" : "it801001", 1, 0} , { "SetTalkIdAction" : "n5007302000"}  ]} , { "MultiLogicaAction" : [ { "QuestCondition" : "Q52004", 0, True} , { "SetTalkIdAction" : "n5007302007"}  ]}  ]} , 20.00000}  ], 0} 
 n50136b	Mu Mansion Patrol Guard	ml_die000stop	c_m21	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050d					0	0
 n50136bt	Mu Mansion Patrol Guard	ml_standA00	c_m21	0, 0, 0	0		FALSE	FALSE		v00070				1	3	0	n20050d	n50074c				0	0
@@ -2829,12 +2829,12 @@ n52015m_dead	Black Clothed Person	m_sleep_dead003_ec	n20154	-856.2601, 66.1883, 
 n52015n_dead	Black Clothed Person	m_sleep_dead004_ec	n20154	-864.2969, 66.1883, -957.7035	190.5736		FALSE	FALSE						1		3	n20154	n52014b				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q52006_09", 0, True}  ], 1} 	0
 n52016	Mu Mansion Guards	ml_standA00	c_m21	0, 0, 0	0		FALSE	FALSE						1		0	n20050e	n20050e				0	0
 n52017	A Xi A Jia	ml_standA00	c_m08	0, 0, 0	0		FALSE	FALSE		v00070d				1	3	1	n20050g	n52017				0	0
-n52017b	Acong Aji	ml_standA00	c_m29	0, 0, 0	0		FALSE	FALSE		v00146				1	3,4	0	n50055	n52017b				0	0
-n52017c	Atai Axi	ml_standA00	c_m33	0, 0, 0	0		FALSE	FALSE		v00145				1	3,4	0	n50056	n52017c				0	0
+n52017b	A'Cong A'Ji	ml_standA00	c_m29	0, 0, 0	0		FALSE	FALSE		v00146				1	3,4	0	n50055	n52017b				0	0
+n52017c	A'Tai A'Xi	ml_standA00	c_m33	0, 0, 0	0		FALSE	FALSE		v00145				1	3,4	0	n50056	n52017c				0	0
 n52017d	He Yuqing	wl_standA00	n20049	0, 0, 0	0		FALSE	TRUE		v00217				2	3,18	0	n20041	n20049				0	0
 n52017d-2	Adong Ayan	ml_standA00	c_m21	0, 0, 0	0		FALSE	FALSE		v00070d				1		0	n20050g	n52017d-2				0	0
 n52017e	Aman Atian	ml_standA00	c_m14	0, 0, 0	0		FALSE	FALSE		v00149				1	3,4	0	n50056f	n52017e				0	0
-n52017f	Axi Agong	ml_standA00	c_m15	0, 0, 0	0		FALSE	FALSE		v00149				1	3,4	0	n50056i	n52017f				0	0
+n52017f	A'Xi A'Gong	ml_standA00	c_m15	0, 0, 0	0		FALSE	FALSE		v00149				1	3,4	0	n50056i	n52017f				0	0
 n52018	Onlookers	ml_standA00		-901.5307, 66.57, -907.0358	135.6834		FALSE	FALSE						1		0	n20065					{ "LogicalNode" : [ { "QuestCondition" : "Q52005_11", 0, True}  ], 0} 	0
 n52018b	Onlookers	ml_standA00		-901.76, 66.57, -904.47	141.3531		FALSE	FALSE						1		0	n20050e					{ "LogicalNode" : [ { "QuestCondition" : "Q52005_11", 0, True}  ], 0} 	0
 n52018ba	Soldier	ml_stand301	c_m21	-899.65, 69.8, -887.39	164.9068		FALSE	FALSE						1		0	n20050	n52011a				{ "LogicalNode" : [ { "QuestCondition" : "Q52005_11", 0, True}  ], 0} 	0
@@ -4793,8 +4793,8 @@ n60430	Yamen Zu Bingwei	m_standI00	c_m05	311.9756, 91.67402, 36.52769	240.8564		
 n60431	Yamen's Right Shield Guard	m_standB00	c_m07	316.3002, 91.67402, 27.20605	254.5353		FALSE	FALSE	n6043101000	v00260				1	0	0	n00047b	n60431				0	0
 n60432	Zayi Daya Gong	m_sweep		334.2913, 91.64912, 29.74602	132.5866	5-18	FALSE	FALSE	n6043201000	v00050				1	0	0	n30049-1					0	0
 n60433	Servant Yang A-Shen	m_labor003		300.8875, 91.73, 41.63395	342.5793	5-18	FALSE	FALSE	n6043301000	v00053				2	0	0	n60059-1					0	0
-n60434	Ju A Shen	w_standB00		289.8024, 90.97797, 20.19857	33.74268		FALSE	FALSE	n6043401000	v00053				2	0	0	n30024		n60434-1,n60434-2,n60434-3,n60434-4,n60434-5,n60434-6,n60434-7			0	0
-n60434b	Ju A Shen	w_standB00		0, 0, 0	0		FALSE	FALSE	n6043401000	v00053				2	0	0	n30024					0	0
+n60434	Ju A'Shen	w_standB00		289.8024, 90.97797, 20.19857	33.74268		FALSE	FALSE	n6043401000	v00053				2	0	0	n30024		n60434-1,n60434-2,n60434-3,n60434-4,n60434-5,n60434-6,n60434-7			0	0
+n60434b	Ju A'Shen	w_standB00		0, 0, 0	0		FALSE	FALSE	n6043401000	v00053				2	0	0	n30024					0	0
 n60435	Officer	ml_standA00	c_m08	290.3374, 91.058, 21.55852	219.9645		FALSE	FALSE	n6043501026	v00260				1	0	0	n00047c	n60435	n60435-1,n60435-2,n60435-3			0	0
 n60436	Xiao Bai Hua	al20048@idle		310.07, 97.67469, -79.78265	145.4918		FALSE	FALSE	n6043601000	v10001				1	21	0	animal48					0	0
 n60437	Jutang	al20007@Eating		313.1454, 96.03287, -84.10954	318.6598	5-17	FALSE	FALSE	n6043701000					1	21	0	animal63					{ "LogicalNode" : [ { "QuestCondition" : "Q60040_05", 1, False}  ], 0} 	0
@@ -5092,8 +5092,8 @@ n80053	Bandits	ml_standA00	c_m18	-670.0666, 136.1354, -1261.074	4.726543		FALSE	
 n80054	Bandits	ml_standA00	c_m19	-671.0535, 136.5152, -1260.483	0		FALSE	FALSE						1	0	0	n29010	n80054		n80053		0	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n8005301000"} , { "FaceToPlayerAction" : 0, "n80054", 0.30000, 0}  ]} , 0.00000}  ], 0} 
 n80055	Traveling Food Vendor	m_attract 001		0, 0, 0	0	6-22	FALSE	FALSE	n8005501000		sc80055001			1	108	0	n20071	n80055			(Vegetable_Food,1)(Money,1)	0	0
 n80056	Ice Noodle Vendor	m_attract 002	c_m22	-677.055, 66.1883, -1008.274	83.65852	6-18	TRUE	FALSE	n8005601000		sc80056001			1	113	0	n20095	n80056			(Cuisine_Food,1)(Money,1)	0	0
-n80057	A Tian	ml_standA00	c_m03	22.64, 76.27, -815.14	359.076		TRUE	FALSE	n8005701000	v00059_c01.wav	sc80057001			1	1	0	n20018	n80057				0	0
-n80057a	A Tian	m_sleep_dead003_ec	c_m03	124.143, 120.5055, -1143.524	18.20489		FALSE	FALSE		v00059_c01.wav				1	1	0	n20018					{ "LogicalNode" : [ { "CheckFlagAction" : "tm80031", 1, 6}  ], 0} 	0
+n80057	A'Tian	ml_standA00	c_m03	22.64, 76.27, -815.14	359.076		TRUE	FALSE	n8005701000	v00059_c01.wav	sc80057001			1	1	0	n20018	n80057				0	0
+n80057a	A'Tian	m_sleep_dead003_ec	c_m03	124.143, 120.5055, -1143.524	18.20489		FALSE	FALSE		v00059_c01.wav				1	1	0	n20018					{ "LogicalNode" : [ { "CheckFlagAction" : "tm80031", 1, 6}  ], 0} 	0
 n80058	Senior Brother Ba	ml_standA00	c_m08	115.5347, 114.6983, -995.9644	81.59155		TRUE	FALSE	n8005801000	v00059_c01.wav	sc80058001			1	1	0	n20019	n80058				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80041", 1, 1}  ], 0} 	0
 n80059	Ba Family Servant	ml_standA00	c_m06	114.8586, 114.7053, -995.134	68.80192		FALSE	FALSE		v00059_c01.wav				1	0	0	n20072	n80059				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80041", 1, 1}  ], 0} 	0
 n80060	Ba Family Servant	ml_standA00	c_m05	115.1401, 114.7436, -997.2507	97.54691		FALSE	FALSE		v00059_c01.wav				1	0	0	n20072	n80060				{ "LogicalNode" : [ { "CheckFlagAction" : "tm80041", 1, 1}  ], 0} 	0
@@ -5841,21 +5841,21 @@ n90496	Dong Mansion Rat 2	ml_standA00		0, 0, 0	0		TRUE	TRUE	n9040103036					1	16
 n90497	Tian Long Di Shu	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9049801008					1	0	0	n90402					0	0
 n90498	Forest Rat	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9049801000					1	0	0	n90402					0	0
 n90499	Dong Mansion Rat	ml_standA00		0, 0, 0	0		TRUE	TRUE	n9040103027					1	16	0	n90402					0	0
-n90501	Adeng Abu	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9050101000	v00149				1	4	0	n70002	n90501				{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90502	Acong Aji	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9050201000	v00146				1	4	0	n50055	n90502				{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90503	Ayue Alan	wl_standA00		0, 0, 0	0		TRUE	FALSE	n9050301000	v00150				2	4	0	n50056o	n90503	n90503a,n90503b,n90503n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90504	Aji Ayu	k_standA00		0, 0, 0	0		TRUE	FALSE	n9050401000	v00151				3	4	0	n50056t	n90504	n90504a,n90504b,n90504n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90505	Aji Azong	k_standA00		0, 0, 0	0		TRUE	FALSE	n9050501000	v00151				3	4	0		n90505				{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90506	Atai Axi	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9050601000	v00145				1	4	0	n50056	n90506				{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90501	A'Deng A'Bu	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9050101000	v00149				1	4	0	n70002	n90501				{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90502	A'Cong A'Ji	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9050201000	v00146				1	4	0	n50055	n90502				{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90503	A'Yue A'Lan	wl_standA00		0, 0, 0	0		TRUE	FALSE	n9050301000	v00150				2	4	0	n50056o	n90503	n90503a,n90503b,n90503n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90504	A'Ji A'Yu	k_standA00		0, 0, 0	0		TRUE	FALSE	n9050401000	v00151				3	4	0	n50056t	n90504	n90504a,n90504b,n90504n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90505	A'Ji A'Zong	k_standA00		0, 0, 0	0		TRUE	FALSE	n9050501000	v00151				3	4	0		n90505				{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90506	A'Tai A'Xi	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9050601000	v00145				1	4	0	n50056	n90506				{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
 n90507	Yang Sheng	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9050701000	v00058_c01				1	4	0	n90507	n90507	n90507a,n90507n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90508	Ajie Age	ml_standA00	c_m25	0, 0, 0	0		TRUE	FALSE	n9050801000	v00121				1	106	0	n70005	n90508	n90508a,n90508n		(Bow_Weapon,1)(Dagger_Weapon,1)(Jewelry_Armor,1)(Drug_Medicine,1)(Herbs_Medicine,1)(Wood_Forge,1)(Leather_Forge,1)(Muscle_Forge,1)(Other_Stuff,1)(Money,1)	{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90509	Ayu Ashan	wl_standA00		0, 0, 0	0		TRUE	FALSE	n9050901000	v00150				2	4	0	n50056n	n90509	n90509a,n90509b,n90509n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90508	A'Jie A'Ge	ml_standA00	c_m25	0, 0, 0	0		TRUE	FALSE	n9050801000	v00121				1	106	0	n70005	n90508	n90508a,n90508n		(Bow_Weapon,1)(Dagger_Weapon,1)(Jewelry_Armor,1)(Drug_Medicine,1)(Herbs_Medicine,1)(Wood_Forge,1)(Leather_Forge,1)(Muscle_Forge,1)(Other_Stuff,1)(Money,1)	{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90509	A'Yu A'Shan	wl_standA00		0, 0, 0	0		TRUE	FALSE	n9050901000	v00150				2	4	0	n50056n	n90509	n90509a,n90509b,n90509n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
 n90510	Age Ao	k_standA00		0, 0, 0	0		TRUE	FALSE	n9051001000	v00151				3	4	0	n50056s	n90510	n90510b,n90510n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90511	Ashan Aai	k_standA00		0, 0, 0	0		TRUE	FALSE	n9051101000	v00152				3	4	0	n50056q	n90511	n90511a,n90511b,n90511n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90512	Ajia Ateng	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9051201000	v00149				1	4	0	n70007	n90512	n90512a,n90512b,n90512n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90513	Ajia Abu	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9051301000	v00149				1	4	0	n70007	n90513	n90513a,n90513b,n90513n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90514	Ayue Aying	wl_standA00		0, 0, 0	0		TRUE	FALSE	n9051401000	v00150				2	4	0	n50056l	n90514	n90514a,n90514b,n90514n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
-n90515	Aqi Aman	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9051501000	v00153				1	4	0	n70010	n90515	n90515a,n90515b,n90515n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90511	A'Shan A'Ai	k_standA00		0, 0, 0	0		TRUE	FALSE	n9051101000	v00152				3	4	0	n50056q	n90511	n90511a,n90511b,n90511n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90512	A'Jia A'Teng	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9051201000	v00149				1	4	0	n70007	n90512	n90512a,n90512b,n90512n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90513	A'Jia A'Bu	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9051301000	v00149				1	4	0	n70007	n90513	n90513a,n90513b,n90513n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90514	A'Yue A'Ying	wl_standA00		0, 0, 0	0		TRUE	FALSE	n9051401000	v00150				2	4	0	n50056l	n90514	n90514a,n90514b,n90514n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
+n90515	A'Qi A'Man	ml_standA00		0, 0, 0	0		TRUE	FALSE	n9051501000	v00153				1	4	0	n70010	n90515	n90515a,n90515b,n90515n			{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
 n90516	Horse	al20017@Idle01		-1218.05, 181.7069, -790.1091	61.646	7-18	FALSE	TRUE			sc21006			0	21	0	animal17b					{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
 n90516n	Horse	al20017@Sleep		-1218.05, 181.7069, -790.1091	54.5369	19-23, 0-6	FALSE	TRUE			sc90308			0	21	0	animal17b					{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
 n90517	Eagle hunting	al20004@stand01	animal04	-1248.793, 187.35, -792.7495	45.25249		FALSE	FALSE		v10003				0	21	0	animal04	n90517				{ "LogicalNode" : [ { "QuestCondition" : "Q52006", 1, False}  ], 0} 	0
