@@ -1,6 +1,6 @@
-n00000a	With Dagger, False Crab	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	0	0	n00000a					0	0
-n00000b	Eating Fake Crabmeat	m_sitEat001		0, 0, 0	0		FALSE	FALSE						1	0	0	n00000b					0	0
-n00000c	Military Cosplay Shrimp	ml_standA00		0, 0, 0	0		FALSE	FALSE						1		0	n00000c					0	0
+n00000a	Deceptive Dagger-Wielding Shrimp	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	0	0	n00000a					0	0
+n00000b	Eating Impostor Shrimp	m_sitEat001		0, 0, 0	0		FALSE	FALSE						1	0	0	n00000b					0	0
+n00000c	Military Imposter Shrimp	ml_standA00		0, 0, 0	0		FALSE	FALSE						1		0	n00000c					0	0
 n00000d	Moon sets, stars disappear	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "QuestCondition" : "Q00012_01", 1, True} , { "CheckFlagAction" : "f00015", 1, 1} , { "CheckFlagAction" : "f09999", 0, 0} , { "CheckFlagAction" : "f0ending", 2, 2} , { "CheckFlagAction" : "f2顏玉書真結局", 1, 0}  ], 0} 	0
 n00000e	Swift as the stars in motion	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "QuestCondition" : "Q00014_01", 1, True} , { "CheckFlagAction" : "f00016", 1, 1} , { "CheckFlagAction" : "f09999", 0, 0} , { "CheckFlagAction" : "f0ending", 2, 2} , { "CheckFlagAction" : "f2顏玉書真結局", 1, 0}  ], 0} 	0
 n00000f	Magpies' Bridge Starlight	ml_standA00		0, 0, 0	0		FALSE	FALSE						0		0						{ "LogicalNode" : [ { "CheckFlagAction" : "f2顏玉書真結局", 1, 1}  ], 0} 	0
@@ -21,8 +21,8 @@ n00004a	Zhang A'Tu	ml_standA00		731.2, 98.75819, -818.66	159.7057	5-19	FALSE	FAL
 n00004a1	Zhang A'Tu	m_peep001Loop		752.2603, 98.56462, -770.325	175.7649	5-16	FALSE	FALSE	n0000401015	v00051				1	0	0	n00004a	n00000				{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2} , { "CheckFlagAction" : "f00002", 0, 0}  ], 0} 	0
 n00004b	Huang A'Huo	ml_standA00		730.28, 98.76141, -820.71	76.95249	5-19	FALSE	FALSE	n0000301000	v00055	sc0000401			1	0	0	n00004b					{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2} , { "CheckFlagAction" : "f00002", 1, 0}  ], 0} 	0
 n00004b1	Huang A'Huo	m_standB00		753.181, 98.19829, -769.374	191.079	5-16	FALSE	FALSE	n0000401015	v00055				1	0	0	n00004b	n00000				{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2} , { "CheckFlagAction" : "f00002", 0, 0}  ], 0} 	0
-n00005a	Brother Ren Hui, Zen Master	ml_standA00		724.256, 98.88848, -836.515	269.0565		FALSE	FALSE	n0000501000	v00081				1	25	0	n00005	n00005	n00005a1,n00005a2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 0}  ], 0} 	0
-n00005b	Brother Ren Hui, Zen Master	ml_standA00		724.587, 98.88848, -841.366	180		TRUE	FALSE	n0000501000	v00081				1	25	0	n00005a	n00005	n00005b1,n00005b2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 1}  ], 0} 	0
+n00005a	Zen Master Ren Hui	ml_standA00		724.256, 98.88848, -836.515	269.0565		FALSE	FALSE	n0000501000	v00081				1	25	0	n00005	n00005	n00005a1,n00005a2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 0}  ], 0} 	0
+n00005b	Zen Master Ren Hui	ml_standA00		724.587, 98.88848, -841.366	180		TRUE	FALSE	n0000501000	v00081				1	25	0	n00005a	n00005	n00005b1,n00005b2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 1}  ], 0} 	0
 n00006a	Welcoming Monk Fu Yu	ml_standA00		731.2573, 98.76141, -810.8582	300.1889	5-20	TRUE	FALSE	n0000602030	v00082				1	25	0	n00006					{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2}  ], 0} 	0
 n00006b	Welcoming Monk Fu Yu	ml_standA00		737.3, 93.65632, -708.34	0		TRUE	FALSE	n0000601000	v00082	sc0000601			1	25	0	n00006					{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 1, 2}  ], 0} 	0
 n00007	Monk Guo Quan	m_hoe_Loop		768.537, 99.80569, -794.3434	272.7443	5-20	FALSE	FALSE	n0000701003					1	25	0	n00007	n00007	n00007a1,n00007a2			{ "LogicalNode" : [ { "CheckFlagAction" : "f00001", 2, 2}  ], 0} 	0
@@ -5820,7 +5820,7 @@ n90434	Nanzhao soldier	ml_idle101	c_m09	0, 0, 0	0		FALSE	TRUE		v00170				1	0	0	n
 n90434d	Nanzhao soldier	m_sleep_dead003_ec	c_m09	0, 0, 0	0		FALSE	TRUE		v00170				1	0	3	n00015a					0	0
 n90435	Nanzhao soldier	ml_idle101	c_m03	0, 0, 0	0		FALSE	TRUE		v00170				1	0	0	n00015b	n90435				0	0
 n90435d	Nanzhao soldier	m_sleep_dead001_ec	c_m03	0, 0, 0	0		FALSE	TRUE		v00170				1	0	3	n00015a					0	0
-n90436	Brother Ren Hui, Zen Master	ml_standA00		0, 0, 0	0		FALSE	FALSE	n0000501000					1	0	0	n00005					0	0
+n90436	Zen Master Ren Hui	ml_standA00		0, 0, 0	0		FALSE	FALSE	n0000501000					1	0	0	n00005					0	0
 n90437	Nanzhao soldier	ml_idle101	c_m22	0, 0, 0	0		FALSE	TRUE		v00170				1	0	0	n00015d	n90435				0	0
 n90437d	Nanzhao soldier	m_sleep_dead001_ec	c_m22	0, 0, 0	0		FALSE	TRUE		v00170				1	0	3	n00015a					0	0
 n90438	Nanzhao soldier	ml_idle101	c_m16	0, 0, 0	0		FALSE	TRUE		v00170				1	0	0	n00015c	n90435				0	0
