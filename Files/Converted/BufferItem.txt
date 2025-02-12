@@ -12859,8 +12859,8 @@
   - split: 2
     text: "阿白最爱吃白菜了"
     translated: "Abaizi's favorite food is cabbage"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 804
   raw: "buffSkillTree173_000	离合参商	运行离合参商时，反击伤害增强	0	buffSkillTree173_000	0	TRUE	0	FALSE	0	0		forIcon"
@@ -16283,8 +16283,8 @@
   - split: 2
     text: "阿季复仇心切，自身战斗能力大幅强化！"
     translated: "Aji is filled with a fierce desire for revenge, and her combat abilities have significantly improved!"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1018
   raw: "BattleSchedule509	捕食猎鹰	捕食愈多猎鹰，每回合额外恢复气血与精力愈多	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule509"
@@ -17451,8 +17451,8 @@
   - split: 2
     text: "肥嫩可口的阿白，大家都想吃他"
     translated: "Fatty and delicious Aibai, everyone wants to eat him"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1091
   raw: "nick024buff	丧心病狂	敌人的晕眩、迷惑值越高，陷入混乱的机率越高，每次攻击，有机会让敌人陷入混乱，三回合内敌我不分。	0	nickname	0	TRUE	0	FALSE	0	0		nick024buff"

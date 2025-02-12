@@ -465,8 +465,8 @@
   - split: 1
     text: "山羊阿白"
     translated: "Goat Aibai"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 47
   raw: "st0019	神女賦	it30130	0	0	SkillTree130_000"

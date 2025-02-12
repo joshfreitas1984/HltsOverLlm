@@ -8685,8 +8685,8 @@
   - split: 5
     text: "小阿莉"
     translated: "Little A Li"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 869
   raw: "n20642	35	fm00000	a00001		狼蛮士兵(飞鹰箭诀、千金方、药石野集)	ta0091d	st0068e,st0144,st0145		210	ai03	(MajorWeapon,eq10801)	1	(HP,5250)(MaxHP,5250)(MP,2720)(MaxMP,2720)(Physique,60)(Intelligence,50)(Neigong,60)(Qinggong,56)(Fight,45)(Sword,45)(Blade,70)(Spear,70)(Arrow,45)(Short,45)(Doctor,65)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,75)		-1,-1	0"
@@ -10035,8 +10035,8 @@
   - split: 5
     text: "阿白"
     translated: "Aba"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1004
   raw: "n22012	10	fm00000	a00001		拱石村传送点的马				1	ai00000		0	(HP,660)(MaxHP,660)(MP,714)(MaxMP,714)(Physique,0)(Intelligence,50)(Neigong,20)(Qinggong,25)(Fight,15)(Sword,15)(Blade,15)(Spear,15)(Arrow,15)(Short,15)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it40238,1)	0,0	0"
@@ -10325,8 +10325,8 @@
   - split: 5
     text: "查阿牛"
     translated: "Look for the cow"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1033
   raw: "n30024	10	fm00000	a00001		叶萍		st0064		0	ai00000		0	(HP,1032)(MaxHP,1032)(MP,714)(MaxMP,714)(Physique,33)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80306,2)	0,0	0"
@@ -10405,8 +10405,8 @@
   - split: 5
     text: "汪阿治"
     translated: "Wang Azhi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1041
   raw: "n30054	13	fm00000	a00001		梅安曦		st0064		0	ai00000		0	(HP,1287)(MaxHP,1287)(MP,936)(MaxMP,936)(Physique,30)(Intelligence,50)(Neigong,26)(Qinggong,20)(Fight,26)(Sword,26)(Blade,26)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0"
@@ -13155,8 +13155,8 @@
   - split: 5
     text: "盗采者阿九(雪片旋刀势)"
     translated: "Thief Ajiu (Snowflake Swirling Sword Skill)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1316
   raw: "n50051	10	fm00000	a00001		黑衣人	ta0062	st0113		204	ai00000	(MajorWeapon,eq10917)	0	(HP,1140)(MaxHP,1140)(MP,712)(MaxMP,712)(Physique,40)(Intelligence,50)(Neigong,18)(Qinggong,18)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0"
@@ -13175,8 +13175,8 @@
   - split: 5
     text: "鹰猎人阿季(飞鹰箭诀、狩猎弓术)(刚)"
     translated: "Archer Aji (Flying Eagle Arrow Method, Hunting Bow Skills) - Strong"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1318
   raw: "n50056a	20	fm00000	a00001		鹰猎人阿席(飞鹰箭诀、狩猎弓术)(动)	ta0056	st0068c,st0005		0	ai00000	(MajorWeapon,eq10801)(Cloth,eq20102)(Jewelry,eq20222)	0	(HP,2584)(MaxHP,2584)(MP,1531)(MaxMP,1531)(Physique,49)(Intelligence,50)(Neigong,54)(Qinggong,36)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0"
@@ -13185,8 +13185,8 @@
   - split: 5
     text: "鹰猎人阿席(飞鹰箭诀、狩猎弓术)(动)"
     translated: "Arrowhawk Manasi (Feiyin Jue, Hunting Archery Skill)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1319
   raw: "n50056b	16	fm00000	a00001		鹰猎人(飞鹰箭诀、狩猎弓术)(巧)	ta0063	st0068a,st0005		0	ai00000	(MajorWeapon,eq10801)(Cloth,eq20102)	0	(HP,2124)(MaxHP,2124)(MP,1155)(MaxMP,1155)(Physique,51)(Intelligence,50)(Neigong,27)(Qinggong,29)(Fight,26)(Sword,26)(Blade,26)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0"
@@ -13825,8 +13825,8 @@
   - split: 5
     text: "木府卫兵阿单(刚)"
     translated: "Guard A Dan of the Mu Mansion (Just now)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1383
   raw: "n50104a	17	fm00000	a00001		木府卫兵(动)	ta0055b	st0067a,st0069a		203	ai00000	(MajorWeapon,eq10503)(Cloth,eq20103)	0	(HP,2166)(MaxHP,2166)(MP,1231)(MaxMP,1231)(Physique,48)(Intelligence,50)(Neigong,29)(Qinggong,29)(Fight,34)(Sword,27)(Blade,27)(Spear,44)(Arrow,27)(Short,27)(Doctor,0)(Poison,0)(Money,0)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,25)	(it80306,1)	0,0	0"
@@ -14535,8 +14535,8 @@
   - split: 5
     text: "阿喜阿加"
     translated: "A Xi A Jia"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1454
   raw: "n52017b	23	fm00000	a00001		阿从阿季	ta0091c	st0068b,st0069b		0	ai01	(MajorWeapon,eq10801)(Cloth,eq20102)(Jewelry,eq20222)	1	(HP,3358)(MaxHP,3358)(MP,1698)(MaxMP,1698)(Physique,58)(Intelligence,50)(Neigong,39)(Qinggong,41)(Fight,33)(Sword,33)(Blade,33)(Spear,33)(Arrow,33)(Short,33)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,50)	(it40101,3)	0,0	0"
@@ -14565,8 +14565,8 @@
   - split: 5
     text: "阿从阿延"
     translated: "Adong Ayan"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1457
   raw: "n52017e	31	fm00000	a00001		阿满阿天	ta0092f	st0068c,st0069c		0	ai01	(MajorWeapon,eq10801)(Cloth,eq20102)(Jewelry,eq20222)	1	(HP,5233)(MaxHP,5233)(MP,2364)(MaxMP,2364)(Physique,69)(Intelligence,50)(Neigong,53)(Qinggong,56)(Fight,41)(Sword,41)(Blade,41)(Spear,41)(Arrow,41)(Short,41)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,90)	(it40108,2)	0,0	0"
@@ -14575,8 +14575,8 @@
   - split: 5
     text: "阿满阿天"
     translated: "Aman Atian"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1458
   raw: "n52017f	39	fm00000	a00001	nick085	阿西阿贡	ta0092	st0068d,st0069c		0	ai01	(MajorWeapon,eq10811)(Cloth,eq20105)(Jewelry,eq20222)	1	(HP,7107)(MaxHP,7107)(MP,3093)(MaxMP,3093)(Physique,75)(Intelligence,50)(Neigong,66)(Qinggong,70)(Fight,49)(Sword,49)(Blade,49)(Spear,49)(Arrow,49)(Short,49)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,10)(Reputation,500)(ZOC,60)(YinAndYang,125)	(it40116,2)	0,0	0"
@@ -14635,8 +14635,8 @@
   - split: 5
     text: "鹰猎人阿季(飞鹰箭诀、狩猎弓术)(刚)"
     translated: "Archer A Ji (Flying Eagle Arrow Technique, Hunting Bow Skills) (Strong)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1464
   raw: "n52025b	20	fm00000	a00001		鹰猎人阿席(飞鹰箭诀、狩猎弓术)(动)	ta0056	st0068c,st0005	st0069a	0	ai00000	(MajorWeapon,eq10801)(Cloth,eq20102)(Jewelry,eq20222)	1	(HP,2960)(MaxHP,2960)(MP,1461)(MaxMP,1461)(Physique,59)(Intelligence,50)(Neigong,34)(Qinggong,36)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0"
@@ -14645,8 +14645,8 @@
   - split: 5
     text: "鹰猎人阿席(飞鹰箭诀、狩猎弓术)(动)"
     translated: "Hen Hunter Axi (Flying Eagle Bow Technique, Hunting Bow Skills) (dramatic)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1465
   raw: "n52025c	12	fm00000	a00001		鹰猎人(飞鹰箭诀、狩猎弓术)(拙)	ta0059	st0068b,st0005	st0069a	0	ai00000	(MajorWeapon,eq10801)(Cloth,eq20102)	1	(HP,1800)(MaxHP,1800)(MP,857)(MaxMP,857)(Physique,60)(Intelligence,50)(Neigong,20)(Qinggong,22)(Fight,22)(Sword,22)(Blade,22)(Spear,22)(Arrow,22)(Short,22)(Doctor,15)(Poison,5)(Money,100)(Madness,20)(Moral,-30)(Reputation,0)(ZOC,60)(YinAndYang,25)		0,0	0"
@@ -14825,8 +14825,8 @@
   - split: 5
     text: "木府侍卫阿简(木奎阵营)(三朵神枪、飞鹰箭诀)"
     translated: "Guard A Jian of the Mu Mansion (Mu Kui's camp)  (Three Divine Spears, Eagle Arrow Techniques)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1483
   raw: "n53001	48	fm00000	n53001	nick018	黄裳(大伏魔拳法、九阴白骨爪、九阴神功、分筋错骨手、黄沙刀法)	ta0022	st0134,st0102c,st0008c		0	ai06	(Cloth,eq20107)	0	(HP,7692)(MaxHP,7692)(MP,4289)(MaxMP,4289)(Physique,65)(Intelligence,95)(Neigong,100)(Qinggong,100)(Fight,100)(Sword,100)(Blade,100)(Spear,100)(Arrow,100)(Short,100)(Doctor,100)(Poison,100)(Money,9000)(Madness,70)(Moral,-30)(Reputation,1200)(ZOC,60)(YinAndYang,-95)	(it40116,2)(it30722,1)	0,0	0"
@@ -29365,8 +29365,8 @@
   - split: 5
     text: "符阿翠"
     translated: "Shu Ace"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2937
   raw: "n60012	15	fm00000	a00001		淘石帮 封俊文(怒川游鱼掌)	ta0063	st0089f		0	ai00000	(MajorWeapon,eq10103)	0	(HP,2019)(MaxHP,2019)(MP,1085)(MaxMP,1085)(Physique,52)(Intelligence,50)(Neigong,29)(Qinggong,27)(Fight,40)(Sword,25)(Blade,25)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,-25)	(it70319,1)	0,0	0"
@@ -30525,8 +30525,8 @@
   - split: 5
     text: "漱玉矶附近山道阿好伯"
     translated: "Near Gleaming Jade Beach, Uncle Ah-Hao in the mountain path"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3053
   raw: "n60192a	15	fm00000	a00001		矿坑守卫(开山碎玉刀)(刚)	ta0051	st0089b		0	ai00000	(MajorWeapon,eq10402)	0	(HP,2132)(MaxHP,2132)(MP,1082)(MaxMP,1082)(Physique,56)(Intelligence,50)(Neigong,27)(Qinggong,24)(Fight,25)(Sword,25)(Blade,40)(Spear,25)(Arrow,25)(Short,25)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,30)		-1,-1	0"
@@ -30635,8 +30635,8 @@
   - split: 5
     text: "拱石村束阿桂"
     translated: "Arched Stone Village Elder Brother Gui"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3064
   raw: "n60206	7	fm00000	a00001		拱石村田大妈		st0064		0	ai00000		0	(HP,602)(MaxHP,602)(MP,496)(MaxMP,496)(Physique,20)(Intelligence,50)(Neigong,14)(Qinggong,11)(Fight,14)(Sword,14)(Blade,14)(Spear,14)(Arrow,14)(Short,10)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60104,3)	0,0	0"
@@ -30705,8 +30705,8 @@
   - split: 5
     text: "阿猫"
     translated: "A Cat"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3071
   raw: "n60216	8	fm00000	a00001		阿狗	ta0054	st0064		0	ai00000		0	(HP,569)(MaxHP,569)(MP,566)(MaxMP,566)(Physique,6)(Intelligence,50)(Neigong,12)(Qinggong,24)(Fight,26)(Sword,18)(Blade,18)(Spear,18)(Arrow,18)(Short,18)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70104,1)	0,0	0"
@@ -30715,8 +30715,8 @@
   - split: 5
     text: "阿狗"
     translated: "Arhu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3072
   raw: "n60217	10	fm00000	a00012		小金鱼	ta0054	st0064		0	ai00000		0	(HP,802)(MaxHP,802)(MP,710)(MaxMP,710)(Physique,15)(Intelligence,50)(Neigong,15)(Qinggong,30)(Fight,30)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,100)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60102,1)(it60402,2)	0,0	0"
@@ -30905,8 +30905,8 @@
   - split: 5
     text: "乡勇 王阿八(一十八路豹变枪)(巧)"
     translated: "Brave Villager Wang A Ba (Taoshi Spear with Eighteen Transformations, Skillful)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3091
   raw: "n60239	11	fm00000	a00001		乡勇 邱大虫(五虎断门刀)(刚)	ta0050	st0108b		0	ai00000	(MajorWeapon,eq10402)	1	(HP,1289)(MaxHP,1289)(MP,784)(MaxMP,784)(Physique,42)(Intelligence,50)(Neigong,19)(Qinggong,18)(Fight,21)(Sword,21)(Blade,32)(Spear,21)(Arrow,21)(Short,21)(Doctor,0)(Poison,0)(Money,1000)(Madness,5)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,15)	(it70105,1)	0,0	0"
@@ -31325,8 +31325,8 @@
   - split: 5
     text: "小阿未"
     translated: "Little Awei"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3133
   raw: "n60273	8	fm00000	n60273	nick026	骆元玉	ta0016	st0006e		0	ai00000	(MajorWeapon,eq10531)(MinorWeapon,eq10701)(Jewelry,eq20232)	0	(HP,1458)(MaxHP,1458)(MP,900)(MaxMP,900)(Physique,75)(Intelligence,40)(Neigong,40)(Qinggong,50)(Fight,30)(Sword,30)(Blade,30)(Spear,50)(Arrow,40)(Short,30)(Doctor,20)(Poison,20)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,15)	(it70316,1)(it70108,1)(it30408,1)	0,0	0"
@@ -31955,8 +31955,8 @@
   - split: 5
     text: "小阿英(江洋大盗)(分筋错骨手、盗墓腿法)"
     translated: "Xiao Aying (Plains-wandering bandit)  (Joint Manipulation Hand, Tomb Robbing Leg Technique)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3196
   raw: "n60418a	27	fm00000	a00006		衙役-->缇骑(凌尘剑法)	ta0056	st0071		0	ai00000	(MajorWeapon,eq10304)	0	(HP,3210)(MaxHP,3210)(MP,2024)(MaxMP,2024)(Physique,43)(Intelligence,50)(Neigong,46)(Qinggong,59)(Fight,37)(Sword,64)(Blade,37)(Spear,37)(Arrow,37)(Short,37)(Doctor,0)(Poison,0)(Money,0)(Madness,-15)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,50)		0,0	0"
@@ -33015,8 +33015,8 @@
   - split: 5
     text: "农夫 阿菜叔"
     translated: "Farmer Uncle A Cai"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3302
   raw: "n60580	11	fm00000	a00001		农妇 陆叔		st0064		0	ai00000		0	(HP,1168)(MaxHP,1168)(MP,788)(MaxMP,788)(Physique,35)(Intelligence,50)(Neigong,22)(Qinggong,17)(Fight,22)(Sword,22)(Blade,22)(Spear,22)(Arrow,22)(Short,22)(Doctor,0)(Poison,0)(Money,6000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60122,1)(it60118,1)(it60608,1)	0,0	6"
@@ -33655,8 +33655,8 @@
   - split: 5
     text: "阿膳师"
     translated: "Ade Chef"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3366
   raw: "n80007	10	fm00000	a00001		老樵夫		st0064		0	ai00000		1	(HP,990)(MaxHP,990)(MP,714)(MaxMP,714)(Physique,30)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it70202,10)(eq11207,1)(it80306,1)	0,0	6"
@@ -37645,8 +37645,8 @@
   - split: 5
     text: "绝世高手阿曼（最强花拳绣腿）"
     translated: "Supreme Martial Artist Aman (most powerful flower punch and embroidered kick)"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3765
   raw: "n88890	60	fm00000	a00001		刃屠灵	ta0022	st0064		0	ai00000	(MajorWeapon,eq10424)	0	(HP,14760)(MaxHP,14760)(MP,5361)(MaxMP,5361)(Physique,100)(Intelligence,50)(Neigong,100)(Qinggong,100)(Fight,100)(Sword,100)(Blade,100)(Spear,100)(Arrow,100)(Short,100)(Doctor,0)(Poison,0)(Money,100000)(Madness,0)(Moral,-10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it801025,1)	0,0	0"
@@ -37785,8 +37785,8 @@
   - split: 5
     text: "小丐阿光"
     translated: "Little Beggar A Guang"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3779
   raw: "n90016	15	fm00000	a00001		画商 张进魁(回风袖里刀)	ta0002	st0088		0	ai00000		0	(HP,2019)(MaxHP,2019)(MP,1088)(MaxMP,1088)(Physique,52)(Intelligence,50)(Neigong,30)(Qinggong,23)(Fight,30)(Sword,30)(Blade,30)(Spear,30)(Arrow,30)(Short,30)(Doctor,0)(Poison,0)(Money,5000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)		0,0	0"
@@ -38365,8 +38365,8 @@
   - split: 5
     text: "阿戈阿向"
     translated: "Age Ao"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3837
   raw: "n90511	10	fm00000	a00001		阿姗阿艾		st0064		0	ai00000		0	(HP,1108)(MaxHP,1108)(MP,714)(MaxMP,714)(Physique,38)(Intelligence,50)(Neigong,20)(Qinggong,15)(Fight,20)(Sword,20)(Blade,20)(Spear,20)(Arrow,20)(Short,20)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60102,3)	0,0	24"
@@ -39505,8 +39505,8 @@
   - split: 5
     text: "王阿进"
     translated: "Wang Ajin"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3951
   raw: "n90704	12	fm00000	a00001		王阿宝		st0064		0	ai00000		0	(HP,1275)(MaxHP,1275)(MP,862)(MaxMP,862)(Physique,35)(Intelligence,50)(Neigong,24)(Qinggong,18)(Fight,24)(Sword,24)(Blade,24)(Spear,24)(Arrow,24)(Short,24)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it60118,1)	0,0	0"
@@ -39515,8 +39515,8 @@
   - split: 5
     text: "王阿宝"
     translated: "Wang Aobao"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 3952
   raw: "n90705	13	fm00000	a00001		黄老太		st0064		0	ai00000		0	(HP,1287)(MaxHP,1287)(MP,936)(MaxMP,936)(Physique,30)(Intelligence,50)(Neigong,26)(Qinggong,20)(Fight,26)(Sword,26)(Blade,26)(Spear,26)(Arrow,26)(Short,26)(Doctor,0)(Poison,0)(Money,1000)(Madness,0)(Moral,10)(Reputation,0)(ZOC,60)(YinAndYang,0)	(it80302,1)	0,0	0"

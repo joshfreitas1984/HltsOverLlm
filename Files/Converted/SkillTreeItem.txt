@@ -3045,14 +3045,14 @@
   - split: 1
     text: "山羊阿白"
     translated: "Goat Aibai"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
   - split: 3
     text: "山羊阿白。"
     translated: "Goat A Bai"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 191
   raw: "it31816	移魂大法	it31816	自天书上所领悟的奇妙武学，单单只需以眼神注视，便能够使心智薄弱的对手失去意识，任凭宰割。	318	20000	10000	TRUE	3	70	999999	SkillTree174	Other	0	0	0	"

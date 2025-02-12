@@ -719,8 +719,8 @@
   - split: 2
     text: "肥嫩可口的阿白，大家都想吃他"
     translated: "Flavorful and delicious, everyone wants to eat the little white one"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 46
   raw: "nick024	丧心病狂	每次攻击，有机会让敌人陷入混乱，三回合内敌我不分。敌人的晕眩、迷惑值越高，陷入混乱的机率越高		n60402	nick024"

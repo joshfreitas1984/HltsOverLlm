@@ -195,8 +195,8 @@
   - split: 1
     text: "张阿土"
     translated: "Zhang A Tu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 20
   raw: "n00004a1	张阿土	m_peep001Loop		752.2603, 98.56462, -770.325	175.7649	5-16	FALSE	FALSE	n0000401015	v00051				1	0	0	n00004a	n00000				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00001\", 2, 2} , { \"CheckFlagAction\" : \"f00002\", 0, 0}  ], 0} 	0"
@@ -205,8 +205,8 @@
   - split: 1
     text: "张阿土"
     translated: "Zhang A Tu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 21
   raw: "n00004b	黄阿火	ml_standA00		730.28, 98.76141, -820.71	76.95249	5-19	FALSE	FALSE	n0000301000	v00055	sc0000401			1	0	0	n00004b					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00001\", 2, 2} , { \"CheckFlagAction\" : \"f00002\", 1, 0}  ], 0} 	0"
@@ -215,8 +215,8 @@
   - split: 1
     text: "黄阿火"
     translated: "Huang Ahuo"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 22
   raw: "n00004b1	黄阿火	m_standB00		753.181, 98.19829, -769.374	191.079	5-16	FALSE	FALSE	n0000401015	v00055				1	0	0	n00004b	n00000				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00001\", 2, 2} , { \"CheckFlagAction\" : \"f00002\", 0, 0}  ], 0} 	0"
@@ -225,8 +225,8 @@
   - split: 1
     text: "黄阿火"
     translated: "Huang Ahuo"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 23
   raw: "n00005a	仁惠禅师	ml_standA00		724.256, 98.88848, -836.515	269.0565		FALSE	FALSE	n0000501000	v00081				1	25	0	n00005	n00005	n00005a1,n00005a2			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f00001\", 1, 0}  ], 0} 	0"
@@ -2885,8 +2885,8 @@
   - split: 1
     text: "阿虎"
     translated: "Tiger"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 289
   raw: "n00095a	丹尸	m_standN001	n00095	-1132.308, 106.2109, 647.8741	122.8537		FALSE	FALSE						0	10	1	n00097a	n00095a				0	0"
@@ -3915,8 +3915,8 @@
   - split: 1
     text: "阿柔阿佩"
     translated: "Aruo, Apei"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 392
   raw: "n06003	客栈老板	ml_standA00	c_m27	24.9095, 64.64294, 486.6982	329.8782		TRUE	FALSE	n0600301000	v00122				1	102	0	n06003	n06003			(Food,1)(Currency_Stuff,1)(Money,1)	0	0"
@@ -19415,8 +19415,8 @@
   - split: 1
     text: "阿白"
     translated: "Aba"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 1942
   raw: "n21132	鹿	al20031@deer_died		-1250.151, 217.7135, 927.5444	314.4343	6-16	FALSE	FALSE						0		3	animal31					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20029_01\", 1, True}  ], 0} 	0"
@@ -20175,8 +20175,8 @@
   - split: 1
     text: "查阿牛"
     translated: "Look for the cow"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2018
   raw: "n30024	叶萍	ml_standA00		-353.5664, 61.81677, -993.6482	0		TRUE	FALSE	n3002401000	v00106	sc30024001			2	2	0	n30024	n30024	n30024-1,n30024-2,n30024-3			0	0"
@@ -20315,8 +20315,8 @@
   - split: 1
     text: "农夫 阿晖"
     translated: "Farmer Ahui"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2032
   raw: "n30037	农妇 田娟	m_standB00		-21.19775, 114.1798, -892.7302	0		TRUE	FALSE	n3003701000	v00022	sc30037001			2	1	0	n30031		n30037-1,n30037-2,n30037-3			0	0"
@@ -20355,8 +20355,8 @@
   - split: 1
     text: "农夫 阿力"
     translated: "Farmer A Li"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2036
   raw: "n30041b	农人 阿力	m_sitLoop006		-36.4305, 126.564, -1025.843	202.5502	18-23, 0-4	FALSE	FALSE	n30041b01000	v00018				1	1	0	n30038		0			0	0"
@@ -20365,8 +20365,8 @@
   - split: 1
     text: "农人 阿力"
     translated: "Farmer A Li"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2037
   raw: "n30042	农人 老杨	m_mapFloor_ec		59.85949, 118.6647, -967.9641	85.45029		FALSE	FALSE	n3004201000					1	1	0	n30020		n30042-1,n30042-2,n30042-3,n30042-4			0	0"
@@ -20605,8 +20605,8 @@
   - split: 1
     text: "玉坊 阿系"
     translated: "Jade Courtyard Axi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2061
   raw: "n30062b	玉坊 阿系	ml_standA00		0, 0, 0	0		TRUE	FALSE	n3006201000	v00056				2	2	0	n60011					0	0"
@@ -20615,8 +20615,8 @@
   - split: 1
     text: "玉坊 阿系"
     translated: "Jade Courtyard Axi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2062
   raw: "n30062c	玉坊 阿系	w_cry001Loop_ec		-372.4695, 67.08562, -1071.835	69.94939		FALSE	FALSE	n3006201003	v00056				2	2	0	n60054					{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60009_01\", 2, True}  ], 0} 	0"
@@ -20625,8 +20625,8 @@
   - split: 1
     text: "玉坊 阿系"
     translated: "Jade Courtyard Axi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2063
   raw: "n30063	农人 大绊	m_hoe_Loop		-308.4641, 68.63021, -1025.928	174.2734	5-19	FALSE	FALSE	n3006301000	v00038				1	2	0	n20010		0			0	0"
@@ -24005,8 +24005,8 @@
   - split: 1
     text: "阿胡阿山"
     translated: "Brother Hu Brother Shan"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2401
   raw: "n50003	纳西族老妇	ml_standA00		-623.2506, 98.95545, -396.1628	92.78973	6-18	TRUE	FALSE	n5000301000		sc50003001			2	3	0	n50008		0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f50005偷走老丈的木工器具\", 1, 0} , { \"QuestCondition\" : \"Q52005_06\", 0, False}  ], 0} 	0"
@@ -24815,8 +24815,8 @@
   - split: 1
     text: "阿九"
     translated: "Older Brother A Jiu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2482
   raw: "n50050b	阿九	m_sleep_dead004_ec		-1390.464, 205.4583, -894.0516	342.7347		FALSE	FALSE						1	0	0	n20025d					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f50054雪山連九死了：阿九\", 1, 1} , { \"QuestCondition\" : \"Q52001\", 1, False}  ], 0} 	0"
@@ -24825,8 +24825,8 @@
   - split: 1
     text: "阿九"
     translated: "Older Brother A Jiu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2483
   raw: "n50050c	阿九	m_sleep_dead004_ec		-1334.879, 163.9623, -867.7208	91.924		FALSE	FALSE						1	0	0	n20025d					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f50054雪山連九逃走：阿九\", 1, 1} , { \"QuestCondition\" : \"Q52001\", 1, False}  ], 0} 	0"
@@ -24835,8 +24835,8 @@
   - split: 1
     text: "阿九"
     translated: "Older Brother A Jiu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2484
   raw: "n50051	黑衣人	ml_standA00		-569.322, 99.431, -1244.053	182.5526		TRUE	FALSE						1	0	0	n50011	n50051				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f91048 看過藥鋪掌櫃夜會Movie\", 1, 1}  ], 0} 	0"
@@ -24885,8 +24885,8 @@
   - split: 1
     text: "鹰猎人阿季"
     translated: "Eagle Hunter A Ji"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2489
   raw: "n50055m1	鹰猎人阿季	ml_standA00	c_m29	0, 0, 0	0		FALSE	FALSE		v00146				1	4	0	n50055	n50055				0	0"
@@ -24895,8 +24895,8 @@
   - split: 1
     text: "鹰猎人阿季"
     translated: "Eagle Hunter A Ji"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2490
   raw: "n50055m2	鹰猎人阿季	ml_standA00	c_m29	0, 0, 0	0		FALSE	FALSE		v00146				1	3,4	0	n50055	n50055				0	0"
@@ -24905,8 +24905,8 @@
   - split: 1
     text: "鹰猎人阿季"
     translated: "Eagle Hunter A Ji"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2491
   raw: "n50056	鹰猎人阿席	ml_standA00	c_m33	0, 0, 0	0		FALSE	FALSE		v00145				1	4	0	n50056	n50056a				0	0"
@@ -24915,8 +24915,8 @@
   - split: 1
     text: "鹰猎人阿席"
     translated: "Eagle Hunter Ashi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2492
   raw: "n50056b	鹰猎人	ml_idle401	c_m30	-1194.082, 190.504, -950.273	60.68244		FALSE	FALSE		v00149				1	4	0	n50056b	n50056b				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q52003_02\", 0, True}  ], 0} 	0"
@@ -24945,8 +24945,8 @@
   - split: 1
     text: "鹰猎人阿席"
     translated: "Eagle Hunter Ashi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2495
   raw: "n50057	猎鹰	al20004@idle	animal04	-1195.412, 191.019, -944.9492	95.3964		FALSE	FALSE		v10003				0	21	0	animal04	n50057a				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q52003_02\", 0, True}  ], 0} 	0"
@@ -25295,8 +25295,8 @@
   - split: 1
     text: "木府侍卫 阿简"
     translated: "Mu Mansion Guard A Jian"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2530
   raw: "n50068	木府侍卫	m_standB00	c_m21	-653.5244, 66.18829, -1016.227	46.71483	6-17	FALSE	FALSE	n5006801000	v00071b				1	3	0	n20050f	n50074b				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f50047木奎金瓜貢茶任務階段\", 2, 2} , { \"QuestCondition\" : \"Q20011_01\", 0, False} , { \"QuestCondition\" : \"Q20011_08\", 0, False} , { \"QuestCondition\" : \"Q20011_10\", 0, False}  ], 0} 	0"
@@ -25725,8 +25725,8 @@
   - split: 1
     text: "阿福"
     translated: "Afu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2573
   raw: "n50094	刘二	ml_standA00		-675.5079, 66.18829, -988.4379	246.3454	12-18	FALSE	FALSE	n5009301000					1	3	0	n20107d					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f51147：阿福決定要排隊買包子？\", 1, 0} , { \"CheckFlagAction\" : \"f51147：阿福決定要排隊買包子？\", 1, 2}  ], 1} 	0"
@@ -25845,8 +25845,8 @@
   - split: 1
     text: "木府卫兵阿单"
     translated: "Mu Mansion Guard Adan"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2585
   raw: "n50104_1	木府卫兵	m_standJ00	c_m21	-977.8057, 66.01418, -940.9511	18.59839		FALSE	FALSE						1	3	0	n20050c	n50104a				{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f52002金崑任務階段\", 1, 1} , { \"CheckFlagAction\" : \"f52016被蛇包圍階段\", 1, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f52002金崑任務階段\", 1, 1} , { \"CheckFlagAction\" : \"f52016被蛇包圍階段\", 1, 1}  ], 0}  ], 1} 	0"
@@ -25935,8 +25935,8 @@
   - split: 1
     text: "木府卫兵阿单"
     translated: "Mu Mansion Guard Adan"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2594
   raw: "n50104c	木府卫兵	ml_standA00	c_m21	-890.4041, 66.18829, -834.4011	0		FALSE	FALSE	n5014809000	v00070				1	3	0	n20050c	n50104				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f52002金崑任務階段\", 1, 3}  ], 0} 	0"
@@ -26735,8 +26735,8 @@
   - split: 1
     text: "仆从阿洁"
     translated: "Servant A Jie"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2674
   raw: "n50142	贵族阿里	m_standM01		-872.99, 66.50788, -897.6	80.04288	10-18	FALSE	FALSE	n5014201000		sc50142001			1	3	0	n50032					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f52006破門路線階段\", 1, 0} , { \"CheckFlagAction\" : \"f52009潛入路線階段\", 1, 0} , { \"QuestCondition\" : \"Q52004\", 0, False} , { \"QuestCondition\" : \"Q52004\", 1, False} , { \"QuestCondition\" : \"Q52005\", 0, False} , { \"QuestCondition\" : \"Q52005\", 1, False} , { \"QuestCondition\" : \"Q52006\", 0, False} , { \"QuestCondition\" : \"Q52006\", 1, False}  ], 0} 	0"
@@ -26745,8 +26745,8 @@
   - split: 1
     text: "贵族阿里"
     translated: "Noble Ali"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2675
   raw: "n50143	贵族阿秀	m_standM00		-870.95, 66.51113, -896.99	265.711	10-18	FALSE	FALSE	n5014201000					1	3	0	n50032b					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f52006破門路線階段\", 1, 0} , { \"CheckFlagAction\" : \"f52009潛入路線階段\", 1, 0} , { \"QuestCondition\" : \"Q52004\", 0, False} , { \"QuestCondition\" : \"Q52004\", 1, False} , { \"QuestCondition\" : \"Q52005\", 0, False} , { \"QuestCondition\" : \"Q52005\", 1, False} , { \"QuestCondition\" : \"Q52006\", 0, False} , { \"QuestCondition\" : \"Q52006\", 1, False}  ], 0} 	0"
@@ -26755,8 +26755,8 @@
   - split: 1
     text: "贵族阿秀"
     translated: "Noble Xiao Xiu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2676
   raw: "n50144	贵族女孩阿帕	k_standC00		-871.95, 66.50198, -902.38	319.3169	10-18	FALSE	FALSE	n5014401000	v00135	sc50144001			1	3	0	n50031a					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f52006破門路線階段\", 1, 0} , { \"CheckFlagAction\" : \"f52009潛入路線階段\", 1, 0} , { \"QuestCondition\" : \"Q52004\", 0, False} , { \"QuestCondition\" : \"Q52004\", 1, False} , { \"QuestCondition\" : \"Q52005\", 0, False} , { \"QuestCondition\" : \"Q52005\", 1, False} , { \"QuestCondition\" : \"Q52006\", 0, False} , { \"QuestCondition\" : \"Q52006\", 1, False}  ], 0} 	0"
@@ -26775,8 +26775,8 @@
   - split: 1
     text: "贵族男孩阿天"
     translated: "Noble Boy Atian"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2678
   raw: "n50146	贵族男孩阿土	k_standA00		-873.46, 66.50188, -902.083	99.00507	10-18	FALSE	FALSE	n5014401000					1	3	0	n50031					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f52006破門路線階段\", 1, 0} , { \"CheckFlagAction\" : \"f52009潛入路線階段\", 1, 0} , { \"QuestCondition\" : \"Q52004\", 0, False} , { \"QuestCondition\" : \"Q52004\", 1, False} , { \"QuestCondition\" : \"Q52005\", 0, False} , { \"QuestCondition\" : \"Q52005\", 1, False} , { \"QuestCondition\" : \"Q52006\", 0, False} , { \"QuestCondition\" : \"Q52006\", 1, False}  ], 0} 	0"
@@ -26835,8 +26835,8 @@
   - split: 1
     text: "阿福"
     translated: "Afu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2684
   raw: "n50148a	守墓老人	ml_standA00		0, 0, 0	0	1-5	FALSE	FALSE	n5014801000		sc50148001			1	3	0	n50073b-1					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f52002金崑任務階段\", 3, 3} , { \"QuestCondition\" : \"Q52004\", 0, False} , { \"QuestCondition\" : \"Q52004\", 1, False}  ], 0} 	0"
@@ -26895,8 +26895,8 @@
   - split: 1
     text: "阿隆阿喜"
     translated: "Aluo Ahxi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2690
   raw: "n50149b	阿贵阿加	ml_standA00		0, 0, 0	0	8-17	FALSE	FALSE	n5014901000					1	3	0	n50005					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f52024聽過守墓老人的傳聞？\", 1, 0} , { \"QuestCondition\" : \"Q52004\", 0, False} , { \"QuestCondition\" : \"Q52004\", 1, False}  ], 0} 	0"
@@ -26955,8 +26955,8 @@
   - split: 1
     text: "围观民众 阿金"
     translated: "Spectators, Ah Jin"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2696
   raw: "n50151cm	围观民众 阿昆	ml_standA00		0, 0, 0	0		FALSE	FALSE						1		0	n20065b					0	0"
@@ -26965,8 +26965,8 @@
   - split: 1
     text: "围观民众 阿昆"
     translated: "Onlooker Crowd A Kun"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2697
   raw: "n50151m	良家妇女	w_sitLoop006		0, 0, 0	0		FALSE	FALSE						1		0	n20076					0	0"
@@ -27015,8 +27015,8 @@
   - split: 1
     text: "木府侍卫 阿简"
     translated: "Mu Mansion Guard A Jian"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2702
   raw: "n50153b	守门卫兵	ml_idle301		0, 0, 0	0		FALSE	TRUE						1	3	0	n20050	n50153b	0			0	0"
@@ -27275,8 +27275,8 @@
   - split: 1
     text: "村妇阿发"
     translated: "Old woman A Fa"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2728
   raw: "n51009	何白芍	wl_standA00	n51009	0, 0, 0	0		FALSE	TRUE						2	17	0	n41042	n51009				0	0"
@@ -27355,8 +27355,8 @@
   - split: 1
     text: "阿努阿奇"
     translated: "Brother Anu Aqi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2736
   raw: "n52002a	木府卫兵	ml_idle301	c_m21	-914.0549, 72.43, -860.6887	211.3838		FALSE	FALSE		v00070				1	3	0	n20050g	n50074a				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f50056\", 0, 0} , { \"QuestCondition\" : \"Q52005_10\", 0, False}  ], 0} 	0"
@@ -28305,8 +28305,8 @@
   - split: 1
     text: "阿喜阿加"
     translated: "A Xi A Jia"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2831
   raw: "n52017b	阿从阿季	ml_standA00	c_m29	0, 0, 0	0		FALSE	FALSE		v00146				1	3,4	0	n50055	n52017b				0	0"
@@ -28345,8 +28345,8 @@
   - split: 1
     text: "阿从阿延"
     translated: "Adong Ayan"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2835
   raw: "n52017e	阿满阿天	ml_standA00	c_m14	0, 0, 0	0		FALSE	FALSE		v00149				1	3,4	0	n50056f	n52017e				0	0"
@@ -28355,8 +28355,8 @@
   - split: 1
     text: "阿满阿天"
     translated: "Aman Atian"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2836
   raw: "n52017f	阿西阿贡	ml_standA00	c_m15	0, 0, 0	0		FALSE	FALSE		v00149				1	3,4	0	n50056i	n52017f				0	0"
@@ -28815,8 +28815,8 @@
   - split: 1
     text: "鹰猎人阿季"
     translated: "Eagle Hunter A Ji"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2882
   raw: "n52025b	鹰猎人阿席	ml_idle401	c_m33	0, 0, 0	0		FALSE	FALSE		v00145				1	3,4	0	n50056	n52025b				0	0"
@@ -28825,8 +28825,8 @@
   - split: 1
     text: "鹰猎人阿席"
     translated: "Eagle Hunter Ashi"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2883
   raw: "n52025c	鹰猎人	ml_idle401	c_m30	0, 0, 0	0		FALSE	FALSE		v00149				1	3,4	0	n50056b	n52025c				0	0"
@@ -29025,8 +29025,8 @@
   - split: 1
     text: "木府侍卫 阿简"
     translated: "Mu Mansion Guard A Jian"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 2903
   raw: "n52028a_dead	木府精锐枪兵	m_sleep_dead001_ec	c_m12	-901.4171, 66.57, -904.7343	190.7956		FALSE	FALSE						1	3	0	n20050f	n52012h				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q52006_09\", 0, True} , { \"CheckFlagAction\" : \"f52009\", 1, 1}  ], 0} 	0"
@@ -44775,8 +44775,8 @@
   - split: 1
     text: "杂工 阿芹"
     translated: "Worker Aqiu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4478
   raw: "n60189a	矿坑守卫	ml_standA00	c_m11	-553.305, 114.0785, -1315.254	287.0586		FALSE	FALSE	n6018901000		sc60189002			1	2	0	n30006	n60189a				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60009\", 1, False}  ], 0} 	{ \"LogicalNode\" : [ { \"PlayerEnterNode\" : { \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n6018901000\"}  ]} , 0.00000}  ], 0} "
@@ -44905,8 +44905,8 @@
   - split: 1
     text: "阿彩嫂"
     translated: "Madam Cai"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4491
   raw: "n60190e	矿工 昌万和	ml_standA00		-533.3522, 115.5112, -1276.995	200.433		FALSE	FALSE	n6019001018	v00104	sc60190002			1	2	0	n60023		n60190e-1,n60190e-2,n60190e-3,n60190e-4			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60009\", 1, False}  ], 0} 	0"
@@ -44925,8 +44925,8 @@
   - split: 1
     text: "阿好伯"
     translated: "Ahao Uncle"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4493
   raw: "n60192a	淘石帮众	ml_standA00	c_m06	-517.8513, 119.9419, -1260.01	210.7303		FALSE	FALSE		v00008				1	2	0	n30008	n60192a				{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60009_06\", 0, True}  ], 0} 	0"
@@ -45035,8 +45035,8 @@
   - split: 1
     text: "阿彩嫂"
     translated: "Madam Cai"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4504
   raw: "n60195e	矿工 昌万和	ml_standA00		-533.3522, 115.5112, -1276.995	200.433		FALSE	FALSE	n6019501005	v00104				1	2	0	n60023		n60195e-1,n60195e-2			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60009\", 1, True}  ], 0} 	0"
@@ -45165,8 +45165,8 @@
   - split: 1
     text: "符阿翠"
     translated: "Fu Acui"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4517
   raw: "n60200b	符阿翠	w_sleep004_ec		0, 0, 0	0		FALSE	FALSE	n6020001056	v00017				2	1	0	n60011					0	0"
@@ -45175,8 +45175,8 @@
   - split: 1
     text: "符阿翠"
     translated: "Fu Acui"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4518
   raw: "n60201	毛大瑞	m_woodman_stand00		-48.65103, 126.8067, -1014.059	182.9046		FALSE	FALSE	n6020101000	v00064	sc60201001			1	1	0	n60010	n60201	n60201-1,n60201-2			0	0"
@@ -45235,8 +45235,8 @@
   - split: 1
     text: "束阿桂"
     translated: "Shu Agui"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4524
   raw: "n60205b	束阿桂	w_standA00		0, 0, 0	0		FALSE	FALSE	n6020501000	v00014	sc60205001			2	1	0	n20004	n60205				0	0"
@@ -45245,8 +45245,8 @@
   - split: 1
     text: "束阿桂"
     translated: "Shu Agui"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4525
   raw: "n60206	田大妈	w_standB00		-32.29, 126.4755, -1011.918	251.1828		FALSE	FALSE	n6020601000	v00053	sc60206001			2	1	0	n60059	n60206	n60206-1,n60206-2,n60206-3			0	0"
@@ -45385,8 +45385,8 @@
   - split: 1
     text: "阿猫"
     translated: "A Cat"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4539
   raw: "n60216	阿狗	m_standF00	c_k01	-26.71924, 129.6656, -1044.136	26.10303		FALSE	FALSE	n6021601000	v00041	sc60216001			3	1	0	n60216	n60216	n60216-1,n60216-2,n60216-3,n60216-4,n60216-5,n60216-6,n60216-7			0	0"
@@ -45395,8 +45395,8 @@
   - split: 1
     text: "阿狗"
     translated: "Arhu"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4540
   raw: "n60217	小金鱼	m_peep002Loop	c_k02	-26.96749, 127.6906, -1039.031	40.19379		FALSE	FALSE	n6021701000	v00016				3	1	0	n60017	n60217	n60217-1,n60217-2,n60217-3,n60217-4,n60217-5,n60217-6,n60217-7			0	0"
@@ -45675,8 +45675,8 @@
   - split: 1
     text: "乡勇 王阿八"
     translated: "Local Militia Wang A-Ba"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4568
   raw: "n60239	乡勇 邱大虫	ml_standA00		0, 0, 0	0		FALSE	FALSE		v00008				1	0	0	n60037	n60239	n60239-3,n60239-4,n60239-5			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10002_01\", 0, True} , { \"QuestCondition\" : \"Q10002_02\", 0, True} , { \"QuestCondition\" : \"Q10002_07\", 0, True}  ], 1} 	0"
@@ -46175,8 +46175,8 @@
   - split: 1
     text: "阿大"
     translated: "A Da"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4618
   raw: "n60260b	阿大	ml_standA00		-147.3738, 114.2705, -990.7012	0	5-18	FALSE	TRUE	n6026001029	v00020_c01	sc60260002			1	1	0	n60023		0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f62037-5打贏大紅花\", 0, 0} , { \"CheckFlagAction\" : \"f62037-6打輸大紅花\", 0, 0}  ], 1} 	0"
@@ -46185,8 +46185,8 @@
   - split: 1
     text: "阿大"
     translated: "A Da"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4619
   raw: "n60261	阿二	ml_standA00		-144.1543, 114.4499, -992.6604	288.2151	5-18	FALSE	TRUE	n6026001000	v00037				1	1	0	n60037		0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f62037-5打贏大紅花\", 1, 0} , { \"CheckFlagAction\" : \"f62037-6打輸大紅花\", 1, 0}  ], 0} 	0"
@@ -46195,8 +46195,8 @@
   - split: 1
     text: "阿二"
     translated: "Second Brother"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4620
   raw: "n60261b	阿二	m_sitLoop005		-129.8159, 116.7668, -981.5818	262.1242	5-18	FALSE	TRUE	n6026101000	v00037				1	1	0	n60037		0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f62037-5打贏大紅花\", 0, 0} , { \"CheckFlagAction\" : \"f62037-6打輸大紅花\", 0, 0}  ], 1} 	0"
@@ -46205,8 +46205,8 @@
   - split: 1
     text: "阿二"
     translated: "Second Brother"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4621
   raw: "n60262	大红花	al20046@idle01	animal46	-144.554, 113.8357, -996.9961	0		FALSE	TRUE	n6026201000	v10001				0	21	0	animal46	n60262				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f62037-4啟動大紅花\", 1, 0}  ], 0} 	0"
@@ -46275,8 +46275,8 @@
   - split: 1
     text: "小阿未"
     translated: "Little Awei"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4628
   raw: "n60272b	小阿未	ml_standA00		0, 0, 0	0		FALSE	FALSE	n6027201000	v00041				3	0	0	n60215	n60272				0	0"
@@ -46285,8 +46285,8 @@
   - split: 1
     text: "小阿未"
     translated: "Little Awei"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4629
   raw: "n60272c	小阿未	ml_standA00		0, 0, 0	0		FALSE	FALSE						3		0	n60215					0	0"
@@ -46295,8 +46295,8 @@
   - split: 1
     text: "小阿未"
     translated: "Little Awei"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4630
   raw: "n60273	骆元玉	ml_standA00	n60273	0, 0, 0	0		TRUE	TRUE	n6027301000	v00211				1	0	0	n60005	n60273	n60273-1,n60273-2			{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60273\", False}  ], 0} 	0"
@@ -46365,8 +46365,8 @@
   - split: 1
     text: "文阿叔"
     translated: "Uncle Wen"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4637
   raw: "n60276	蒋留若	ml_standA00	c_m21	0, 0, 0	0		FALSE	FALSE	n6027601000	v00101				1	0	0	n60114-1	n60276	n60276-1,n60276-2,n60276-3,n60276-4			0	0"
@@ -47475,8 +47475,8 @@
   - split: 1
     text: "小阿英"
     translated: "Little Ah Ying"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4748
   raw: "n60417b	小阿英	ml_standA00	c_k01	0, 0, 0	0		FALSE	FALSE	n6041701000	v00249				3	0	0	n60217	n60417				0	0"
@@ -47485,8 +47485,8 @@
   - split: 1
     text: "小阿英"
     translated: "Little Ah Ying"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4749
   raw: "n60417c	小阿英	k_sleep002_ec	c_k01	-470.3234, 66.461, 1299.723	248.9962		FALSE	FALSE	n6041701000	v00249				3	0	0	n60217	n60417	n60417-3,n60417-4,n60417-5			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60028\", 0, True} , { \"QuestCondition\" : \"Q60028_03\", 0, False}  ], 0} 	0"
@@ -47495,8 +47495,8 @@
   - split: 1
     text: "小阿英"
     translated: "Little Ah Ying"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4750
   raw: "n60418a	衙役	ml_standA00	c_m05	0, 0, 0	0		FALSE	FALSE		v00260				0	0	0	n00047a	n60418a				0	0"
@@ -47945,8 +47945,8 @@
   - split: 1
     text: "仆妇 羊阿婶"
     translated: "Servant Yang A-Shen"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4795
   raw: "n60434	菊阿婶	w_standB00		289.8024, 90.97797, 20.19857	33.74268		FALSE	FALSE	n6043401000	v00053				2	0	0	n30024		n60434-1,n60434-2,n60434-3,n60434-4,n60434-5,n60434-6,n60434-7			0	0"
@@ -48515,8 +48515,8 @@
   - split: 1
     text: "小阿辰"
     translated: "Little Achen"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4852
   raw: "n60529	姒蕊	w_standA00		-209.6745, 131.7679, -256.3873	31.61693	20-23, 0-3	FALSE	FALSE	n6052901000					2	12	0	n60146					{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f65003打贏太華門戰鬥\", 0, 0}  ], 0} 	0"
@@ -49155,8 +49155,8 @@
   - split: 1
     text: "阿生"
     translated: "Brother A Sheng"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4916
   raw: "n60574	阿熟	m_standB00		968.9028, 82.70671, 1311.72	291.4968		FALSE	FALSE	n6057301003	v00058				1	12	0	n60127		n60574-1,n60574-2			{ \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"t65014-7去請船夫24\", False} , { \"CheckFlagAction\" : \"f65014-7去請船夫\", 0, 0}  ], 0} 	0"
@@ -49165,8 +49165,8 @@
   - split: 1
     text: "阿熟"
     translated: "Old Buddy"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4917
   raw: "n60575	马	al20017@Idle03		933.0418, 63.33612, 1190.364	31.15977		FALSE	FALSE			sc60071001			0	21	0	animal18		n60575-1,n60575-2			{ \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"t65014-7去請船夫24\", False} , { \"CheckFlagAction\" : \"f65014-7去請船夫\", 0, 0}  ], 0} 	0"
@@ -49215,8 +49215,8 @@
   - split: 1
     text: "农夫 阿菜叔"
     translated: "Farmer Uncle A Cai"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 4922
   raw: "n60580	农夫 陆叔	m_hoe_big		969.5705, 76.44716, 1277.64	48.5435	5-18	FALSE	FALSE	n6058001000	v00019				1	12	1	n20010	n60580	0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f65020-2兆伯找農夫\", 0, 0} , { \"CheckTimeBlackboardAction\" : \"t65020-2兆伯找農夫24\", False}  ], 0} 	0"
@@ -50175,8 +50175,8 @@
   - split: 1
     text: "阿膳师"
     translated: "Ade Chef"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5018
   raw: "n80006a	阿膳师	m_sleep001_ec		13.533, 153.386, -1060.08	217.5374	19-23, 0-5	FALSE	FALSE	n8000601013	v00050_c01.wav				1	26	0	n20164	n80006			(Food,2)	{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"tm80042\", 1, 1}  ], 0} 	0"
@@ -50185,8 +50185,8 @@
   - split: 1
     text: "阿膳师"
     translated: "Ade Chef"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5019
   raw: "n80007	老樵夫	m_SplitsFirewood002		-10.59628, 185.7245, -1276.327	268.3246	5-17	FALSE	FALSE	n8000701000	v00050_c01.wav	sc80007001			1	1	0	n20020	n80007				0	0"
@@ -56575,8 +56575,8 @@
   - split: 1
     text: "阿短"
     translated: "Ai Duan"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5658
   raw: "n88882	阿海	al20037@idle	animal41	-174.6477, 68.24284, -806.1334	111.7047		TRUE	FALSE	n8887901003					1	21	0	animal41	n88882				0	0"
@@ -56585,8 +56585,8 @@
   - split: 1
     text: "阿海"
     translated: "A Hai"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5659
   raw: "n88883	小咪	al20037@idle	animal40	-166.0814, 69.05467, -802.6589	214.7496		TRUE	FALSE	n8887901004					1	21	0	animal40	n88883				0	0"
@@ -56605,8 +56605,8 @@
   - split: 1
     text: "阿虎"
     translated: "Tiger"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5661
   raw: "n88885	敏儿	al20037@sleep	animal38	-167.248, 68.286, -807.046	151.1256		FALSE	FALSE	n8887901006					1	21	0	animal38	n88885				0	0"
@@ -56655,8 +56655,8 @@
   - split: 1
     text: "绝世高手阿曼"
     translated: "Ultimate Master Aman"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5666
   raw: "n88889	（暂代旁白说明）	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	0	0						0	0"
@@ -56815,8 +56815,8 @@
   - split: 1
     text: "粗工 张阿大"
     translated: "Brute Zhang A Dada"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5682
   raw: "n90008n	粗工 张阿大	m_standA00		-611.62, 66.60139, 42.55	85.95641	22-23, 0-6	FALSE	FALSE		v00059				1	7	2	n90008	n90008	0			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07002_01\", 0, False} , { \"TimeCondition\" : 18, 24} , { \"TimeCondition\" : 0, 7}  ], 1} 	0"
@@ -56825,8 +56825,8 @@
   - split: 1
     text: "粗工 张阿大"
     translated: "Brute Zhang A Dada"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5683
   raw: "n90009	药铺伙计	ml_standA01	c_m62	-602.847, 67.01408, 65.944	150.6518	8-18	TRUE	TRUE	n9000901000	v00130				1	7	0	n90014	n90009	0		(Drug_Medicine,1)(Money,1)	{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q07002_01\", 0, False} , { \"TimeCondition\" : 18, 24} , { \"TimeCondition\" : 0, 7}  ], 1} 	0"
@@ -56925,8 +56925,8 @@
   - split: 1
     text: "小丐阿光"
     translated: "Little Beggar A Guang"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5693
   raw: "n90015b	小丐阿光	ml_standA00		-578.9964, 66.09145, 54.00554	279.339	8-20	TRUE	FALSE	n9001505031	v00016				1	7	0	n90016	n90015	0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f90015i 小乞丐開始練武功\", 0, 0} , { \"QuestCondition\" : \"Q07002_01\", 0, False}  ], 0} 	0"
@@ -56935,8 +56935,8 @@
   - split: 1
     text: "小丐阿光"
     translated: "Little Beggar A Guang"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5694
   raw: "n90015n	小丐阿光	k_sleep002_ec		-595.976, 66.77, 66.56	214.1935	21-23, 0-7	FALSE	FALSE		v00016				3	7	2	n90016	n90015	0			{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f90015f 小乞丐離開丈人村\", 1, 0} , { \"CheckFlagAction\" : \"f90015j 小乞丐陪小輕消失\", 1, 0} , { \"QuestCondition\" : \"Q07002_01\", 0, False}  ], 0} 	0"
@@ -56945,8 +56945,8 @@
   - split: 1
     text: "小丐阿光"
     translated: "Little Beggar A Guang"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5695
   raw: "n90017	强盗	ml_standA00	c_m06	-773.409, 123.4186, 134.9001	96.81041		FALSE	FALSE		v00007				1	0	0	n00070e	n90017				{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f90013a 鐵小輕離家出走\", 0, 0}  ], 0} 	0"
@@ -58525,8 +58525,8 @@
   - split: 1
     text: "阿戈阿向"
     translated: "Age Ao"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5853
   raw: "n90511	阿姗阿艾	k_standA00		0, 0, 0	0		TRUE	FALSE	n9051101000	v00152				3	4	0	n50056q	n90511	n90511a,n90511b,n90511n			{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q52006\", 1, False}  ], 0} 	0"
@@ -59965,8 +59965,8 @@
   - split: 1
     text: "王阿宝"
     translated: "Wang Aobao"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5997
   raw: "n90704	王阿进	k_standA00		0, 0, 0	0		TRUE	FALSE	n9070401000	v00062				3	8	0	n90015	n90704	n90704a,n90704n			0	0"
@@ -59975,8 +59975,8 @@
   - split: 1
     text: "王阿进"
     translated: "Wang Ajin"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 5998
   raw: "n90705	黄老太	wl_standA00		0, 0, 0	0		TRUE	FALSE	n9070501000	v00052				2	8	0	n90705	n90705	n90705a,n90705n			0	0"

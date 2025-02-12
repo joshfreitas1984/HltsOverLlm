@@ -30,8 +30,9 @@
   result: Guest from beyond the skies
 
 # A'
-- raw: 阿
-  result: A'
+# Can't use because of words like father (A Die)
+# - raw: 阿
+#   result: A'
 - raw: 阿喆
   result: A'Zhe
 - raw: 阿郁
@@ -40,6 +41,32 @@
   result: A'Yu
 - raw: 阿玉
   result: A'Yu
+- raw: 阿九
+  result: A'Jie
+- raw: 阿白
+  result: A'Bai
+- raw: 阿季
+  result: A'Ji
+- raw: 阿未
+  result: A'Wei
+- raw: 阿英
+  result: A'Ying
+- raw: 阿土
+  result: A'Tu
+- raw: 阿火
+  result: A'Huo
+- raw: 阿虎
+  result: A'Hu
+- raw: 阿力
+  result: A'Li
+- raw: 阿系
+  result: A'Xi
+- raw: 阿席
+  result: A'Xi
+- raw: 阿简
+  result: A'Jian
+- raw: 阿福
+  result: A'Fu
 
 - raw: 巴大哥
   result: Senior Brother Ba

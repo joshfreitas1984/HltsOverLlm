@@ -3019,8 +3019,8 @@
   - split: 3
     text: "玛瑙早期被书写成马脑，最早见于后汉安世高所译的《阿那邠邸七子经》一书。还有说法称，三国时期曹丕同父亲曹操北征乌桓，当地的人进贡玛瑙酒杯一只，曹丕见酒杯红似飞霞，晶莹剔透，便挥笔写下《马脑勒赋》，并在序中说：马脑，玉属也，出西域，文理交错，有似马脑，故其方人固以名之。或以系颈，或以饰勒。余有斯勒，美而赋之。"
     translated: "Marble was originally written as manao and is first seen in the book Anabain Di Qi Zi Jing, translated by Anshi Gao during the Eastern Han period. Another account claims that during the Three Kingdoms period, when Cao Pi went with his father Cao Cao to campaign against the Wuhuan in the north, a local tribe offered them a marble cup as tribute. Upon seeing that the cup was red like flying flowers and crystal clear, Cao Pi immediately wrote Ma nao le fu and mentioned it in the preface：Mahuan, jade also known as, from the Western Regions. Its patterns are intertwined like a horse's brain, hence people there named it so. It is used to adorn necklaces or for decoration on saddles. I possess such a saddle ornament; its beauty inspires me to compose a poem"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 189
   raw: "it70401	鳄皮	it70401	鳄鱼皮本就是颇佳的皮革，经过妥善处理后做成的护具可有效抵挡一般劈砍。	704	1000	500	TRUE	1	20	4	20	7		0			0"
@@ -6635,8 +6635,8 @@
   - split: 3
     text: "从乞丐小阿英身上偷来的钥匙，想不到一个貌不起眼的小女孩身上竟然有这样一柄以精铜打造的钥匙。"
     translated: "It was unexpected to find such a finely crafted brass key on the body of Beggar Girl Xiaoying, who seemed unremarkable at first glance"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A',阿,"
     flaggedGlossaryOut: ""
 - lineNum: 415
   raw: "it801107	备用钥匙	it801107	从杜府一处上锁的柜子中取得的钥匙，不知道能用来开启哪边的锁？	801	0	0	FALSE	0	50	0	0	0		0			0"
