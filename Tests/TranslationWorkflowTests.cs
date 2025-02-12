@@ -341,6 +341,8 @@ public class TranslationWorkflowTests
                 if (split.Text.Contains("{name_1}{name_2}") && !item.Value.Contains("{name_1}"))
                     continue;
 
+                if (item.Key == "天外来客" && split.Translated.Contains("guests from beyond the skies", StringComparison.OrdinalIgnoreCase))
+                    continue;
 
                 //Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
                 split.FlaggedForRetranslation = true;
@@ -369,7 +371,7 @@ public class TranslationWorkflowTests
 
                 // Handle Quanpai (entire sect)
                 if (item.Value == "Qingcheng Sect" && split.Text.Contains("青城全派"))
-                    continue;
+                    continue;                
 
                 // If one of the dupes are in the raw
                 bool found = false;
