@@ -1010,7 +1010,7 @@ BattleSchedule109	Pinewood Wind Sword Formation	Arrange troops according to form
 BattleSchedule110	Encourage the novices	When fighting with a child, you must not be too harsh; injury and defense will decrease	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule110
 BattleSchedule501	Roar! Roar!	Snow Leopard becomes angry upon seeing its enemy and greatly increases damage!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule501
 BattleSchedule502	Shaking	What's so great about the big snow leopard that you should be afraid of it? I'll just eat it in one slice!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule502
-BattleSchedule503	Fear	Oh no... this snow leopard is vicious... if I had known, I wouldn't have come to the snowy mountain	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule503
+BattleSchedule503	Fear	...Oh no... this snow leopard is vicious... if I had known, I wouldn't have come to the snowy mountain	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule503
 BattleSchedule504	Oh no – !!!	Feathered Snow the Hawk is carefree and bold, coming to attack the settlement; growing stronger with every battle!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule504
 BattleSchedule505	Uh oh	Snow Wing's body is paralyzed and poisoned, leading to weakness... Attack damage and energy recovery are reduced, and poison value accumulates by 20 points!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule505
 BattleSchedule506	Avenging the eagle hunters!	Eagle Hunter's thirst for revenge is fierce, increasing their attack damage	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule506

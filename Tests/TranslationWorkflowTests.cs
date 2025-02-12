@@ -190,7 +190,10 @@ public class TranslationWorkflowTests
         //////// Quick Validation here
 
         // If it is already translated or just special characters return it
-        if (!Regex.IsMatch(split.Text, pattern) && split.Translated != split.Text)
+        if (!Regex.IsMatch(split.Text, pattern) && split.Translated != split.Text 
+            && !split.Text.StartsWith("…")
+            && !split.Text.StartsWith("?…")
+            && !split.Text.StartsWith("【…"))
         {
             Console.WriteLine($"Already Translated {outputFile} \n{split.Translated}");
             split.Translated = split.Text;
