@@ -718,9 +718,9 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "肥嫩可口的阿白，大家都想吃他"
-    translated: "Flavorful and delicious, everyone wants to eat the little white one"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "The tender and delicious A'Bai, everyone wants to eat him"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 46
   raw: "nick024	丧心病狂	每次攻击，有机会让敌人陷入混乱，三回合内敌我不分。敌人的晕眩、迷惑值越高，陷入混乱的机率越高		n60402	nick024"
@@ -1470,7 +1470,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "第二痴固有称号，血量每减少10%，伤害增加10%。每回合开始时，负面状态减少20点。"
-    translated: "The second trait has a special title. When the health decreases by 10%, damage increases by 10%. At the start of each turn, negative status is reduced by 20 points"
+    translated: "The Second Madman's inherent title: For every 10% decrease in health, damage increases by 10%. At the start of each turn, negative status effects are reduced by 20 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

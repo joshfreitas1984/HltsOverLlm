@@ -938,7 +938,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "你答应了第二痴帮他治疗颜玉书，做好准备了就去赋闲书院找他。"
-    translated: "You agreed to help the Second Cun's brother-in-law treat Yan Yushu, so you prepared and went to the Leisurely Scholars Academy to find him"
+    translated: "You promised to help the Second Madman treat Yan Yushu, so you prepared and went to the Leisurely Scholars Academy to find him"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -954,7 +954,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "在你与第二痴的努力下，颜玉书的绝症终于痊愈了。但第二痴似乎有什么话想说，总之先睡一觉再去看看。"
-    translated: "With your efforts and the help of the Second Crazed, Yan Yushu's terminal illness has finally healed. However, it seems like the Second Crazed wants to say something. Anyway, let's sleep first and then go see"
+    translated: "Under your efforts, Second Madman, Yan Yushu's ultimate ailment has finally healed. However, it seems like the Second Madman wants to say something. Anyway, let's sleep first and see what he has to say later"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1012,7 +1012,7 @@
   splits:
   - split: 1
     text: "去新家拜访颜玉书与东方迟"
-    translated: "Visit the new home of Yan Yushu and Dongfang Chi"
+    translated: "Visit Yan Yushu and Eastern Delay at their new home"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4868,9 +4868,9 @@
   splits:
   - split: 1
     text: "弄清楚阿白是甚么东西"
-    translated: "Understand what A Bai is"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Understand what A'Bai is"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "???"
@@ -4884,9 +4884,9 @@
   splits:
   - split: 1
     text: "寻回阿白"
-    translated: "Find Ade Bai"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Seeking A'Bai's return"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "???"
@@ -5179,8 +5179,8 @@
   - split: 3
     text: "咦，烹饪水煮鱼的辣椒不够用了…剩下的份量只能再撑两天？快，两天之内帮阿澄找来辣椒…否则他就要被骂啦。"
     translated: "Hey, we're running low on chili for the hot pot fish... The remaining portion can only last two more days? Hurry up and help A Cheng find some chilies within two days... Otherwise, he'll get scolded"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 324
   raw: "Q30005_01	寻找辣椒	1	咦，烹饪水煮鱼的辣椒不够用了…剩下的份量只能再撑两天？快，两天之内帮阿澄找来辣椒…否则他就要被骂啦。	48	FALSE		0	TRUE		300	(Reputation,1)	1"
@@ -5195,8 +5195,8 @@
   - split: 3
     text: "咦，烹饪水煮鱼的辣椒不够用了…剩下的份量只能再撑两天？快，两天之内帮阿澄找来辣椒…否则他就要被骂啦。"
     translated: "Oh, we're running out of chili for cooking hot pot fish. The remaining portion will only last another two days? Hurry, find some chili for A Cheng within two days... Otherwise, he'll get scolded"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 325
   raw: "Q30006	冻伤的药方	0	淘石无论男女，人人均能劳作养家，就是双手天天泡在水里，极容易冻伤。漱玉矶的淘石女叶萍抱怨手脚冻伤，帮她留意有效冻伤的药方吧！	0	FALSE	Q30006_01	0	TRUE		0		1"
@@ -5483,8 +5483,8 @@
   - split: 3
     text: "骆元玉久久没回老家，如果有时间带他回去看看阿姐吧。"
     translated: "Luo Yuanyu hasn't returned home for a long time. If there's time, take him to see Auntie"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 343
   raw: "Q40004_01	探访骆大娘	1	骆元玉久久没回老家，如果有时间带他回去看看阿姐吧。	0	FALSE		-12.63367,147.8173,-1105.464	TRUE		0		341"
@@ -5499,8 +5499,8 @@
   - split: 3
     text: "骆元玉久久没回老家，如果有时间带他回去看看阿姐吧。"
     translated: "Luo Yuanyu hasn't been back to his hometown for a long time. If there's time, take him to visit his older sister"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 344
   raw: "Q40004_02	调查是谁偷食	1	近来有贼人出没，不只偷食还伤及家禽。骆元玉夸下海口会抓住犯人，就从问问附近邻居开始吧。	0	FALSE		-12.63367,147.8173,-1105.464	TRUE		4000	(Reputation,6)	341"
@@ -5770,7 +5770,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "颜玉书好一阵子没见到东方迟，带她回去一趟吧。"
-    translated: "Yan Yushu hasn't seen Dongfang Chi for a while, so bring her back with you"
+    translated: "Yan Yushu hasn't seen Eastern Delay in a while, so let's take her back with you"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5780,13 +5780,13 @@
   splits:
   - split: 1
     text: "探访东方迟"
-    translated: "Visit Elder Brother Li"
+    translated: "Visit Eastern Delay"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "颜玉书好一阵子没见到东方迟，带她回去一趟吧。"
-    translated: "Yan Yushu hasn't seen Dongfang Chi for a while, so take her back home"
+    translated: "Yan Yushu hasn't seen Eastern Delay for a while, so let's take her back with us"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5802,7 +5802,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "颜玉书心情郁郁寡欢，带她去找东方迟散散心吧。"
-    translated: "Yan Yushu was in a low and unhappy mood, so take her to see Dongfang Chi to cheer up"
+    translated: "Yan Yushu was in a sullen and gloomy mood, so let's take her to see Eastern Delay to cheer her up"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5812,13 +5812,13 @@
   splits:
   - split: 1
     text: "再访东方迟"
-    translated: "Visit the East once again"
+    translated: "Visit Eastern Delay Again"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "颜玉书心情郁郁寡欢，带她去找东方迟散散心吧。"
-    translated: "Yan Yushu felt gloomy and unenthusiastic, so let's take her to see Dongfang Chi to cheer up"
+    translated: "Yan Yushu is in a melancholy and dispirited mood, so take her to see Eastern Delay to lift her spirits"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5834,7 +5834,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "颜玉书心情郁郁寡欢，被东方迟骂个臭头的你，决定带她去大研镇市集逛逛。"
-    translated: "Yan Yushu felt gloomy and unhappy after being scolded by Dongfang Chi, so you decided to take her to the Dayan Town market for a walk"
+    translated: "Yan Yushu was feeling down and out, especially after being scolded by Eastern Delay. Deciding to cheer her up, he took her to the Dayan Town market"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5866,7 +5866,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "颜玉书好一阵子没见到东方迟，带她回去一趟吧。"
-    translated: "Yan Yushu hasn't seen Dongfang Chi in a while, so take her back"
+    translated: "Yan Yushu hasn't seen Eastern Delay for a while, so take her back with you"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5876,13 +5876,13 @@
   splits:
   - split: 1
     text: "探访东方迟"
-    translated: "Visit the Eastward Delayed One"
+    translated: "Visit Eastern Delay"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "颜玉书好一阵子没见到东方迟，带她回去一趟吧。"
-    translated: "Yan Yushu hasn't seen Dongfang Chi in a while, so let's take her back there"
+    translated: "Yan Yushu hasn't seen Eastern Delay in a long time, so let's take her back for a visit"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5898,7 +5898,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "颜玉书心情郁郁寡欢，带她去找东方迟散散心吧。"
-    translated: "Yan Yushu is in a bad mood and lacks happiness. Take her to see Dongfang Chi to cheer her up"
+    translated: "Yan Yushu was in a sullen and unhappy mood, so let's take her to visit Eastern Delay to cheer up"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5908,13 +5908,13 @@
   splits:
   - split: 1
     text: "再访东方迟"
-    translated: "Visit East Again Late"
+    translated: "Visit Eastern Delay Again"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "颜玉书心情郁郁寡欢，带她去找东方迟散散心吧。"
-    translated: "Yan Yushu was in a low mood, let's take her to see Dongfang Chi to blow off some steam"
+    translated: "Yan Yushu is feeling down and low-spirited, so let's take her to see Eastern Delay for a change of pace"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5930,7 +5930,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "颜玉书心情郁郁寡欢，被东方迟骂个臭头的你，决定带她去大研镇市集逛逛。"
-    translated: "Yan Yushu was in a melancholic mood after being scolded by Dongfang Chi, so you decided to take her to the market in Dayan Town for some shopping"
+    translated: "Yan Yushu, feeling gloomy and disheartened after being scolded by Eastern Delay, decided to take her to the Dayan Town market for a stroll"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8954,9 +8954,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受……就替木工老丈看看腿伤吧！"
-    translated: "Old Master Hu Ashan, the carpenter, thought about making a pilgrimage to Karma Monastery but was in great pain due to his severe leg injury... Let's take a look at the old master's leg injury for him!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Master Carpenter A'Hu A'Shan wants to make a pilgrimage to the Karma Monastery, but his severe leg injury is causing him great discomfort. Why not take a look at Master Carpenter's leg wound for him?"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 560
   raw: "Q50016_01	替木工老丈看看腿伤	1	木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受……就替木工老丈看看腿伤吧！	0	FALSE	0	0	TRUE		600	(Reputation,3)	1"
@@ -8970,9 +8970,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受……就替木工老丈看看腿伤吧！"
-    translated: "The carpenter elder Ahu Ashan thought about visiting Karma Monastery for pilgrimage, but his severe leg injury made him suffer. Let's take a look at the carpenter elder's leg injury!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "The woodworker, Elder A'Hu A'Shan, wishes to pay his respects at the Karma Monastery. However, his severe leg injury is causing him great distress... Perhaps you could take a look at the woodworker's leg injury for him!"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 561
   raw: "Q50016_02	找来止血生肌的丹药	1	木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受，要是能有止血生肌的丹药，说不定能使伤势好转。替老丈找来一颗止血生肌丸吧！	0	FALSE	0	0	TRUE		600	(Reputation,3)	1"
@@ -8986,9 +8986,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受，要是能有止血生肌的丹药，说不定能使伤势好转。替老丈找来一颗止血生肌丸吧！"
-    translated: "The old woodworker Elder Ahu Ahsan thought of going to Karma Monastery for worship, but his severe leg injury made him suffer. If there were a hemostatic and regenerative pill, it might help improve the condition. Please find a hemostatic and regenerative pill for the elder!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Master A'Hu A'Shan, the carpenter, wished to pilgrimage to Karma Monastery but was hindered by severe leg injuries. He wondered if there might be a healing pill that could stop bleeding and regenerate tissue, possibly helping his condition improve. Let's find him a hemostatic regenerative pill!"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 562
   raw: "Q50016_03	止血生肌丸的神效	1	木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受，要是能有止血生肌的丹药，说不定能使伤势好转。你替老丈找来一颗止血生肌丸，果真起了疗效！而木工老丈阿胡阿山也给了你一些回报。	0	FALSE	0	0	TRUE		600	(Reputation,3)	1"
@@ -9002,9 +9002,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受，要是能有止血生肌的丹药，说不定能使伤势好转。你替老丈找来一颗止血生肌丸，果真起了疗效！而木工老丈阿胡阿山也给了你一些回报。"
-    translated: "The carpenter Elder Ahu Ashan thought of visiting Karma Monastery to pay respects, but his severe leg injury was causing him great discomfort. He wondered if a hemostatic and tissue-regenerating pill could help improve his condition. You procured one for him, and it indeed had the desired healing effect! In gratitude, carpenter Elder Ahu Ashan rewarded you"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "The woodworker, A'Hu A'Shan, had a desire to pay homage at Karma Monastery but was suffering from a severe leg injury. If only there were an herb that could stop bleeding and promote healing, perhaps his condition would improve. You find him a pill with these properties, which indeed works wonders for his ailment. The woodworker, A'Hu A'Shan, then rewards you in return"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 563
   raw: "Q50016_04	用医术医治腿伤	1	木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受，懂得医术的你，施展医术并医治好了老丈的腿伤，而木工老丈阿胡阿山也给了你一些回报。	0	FALSE	0	0	TRUE		600	(Reputation,3)	1"
@@ -9018,9 +9018,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受，懂得医术的你，施展医术并医治好了老丈的腿伤，而木工老丈阿胡阿山也给了你一些回报。"
-    translated: "The woodworker Elder Ahu Ashan thought of visiting Karma Monastery for pilgrimage, but his severe leg injury made it difficult. You understood medical arts and treated the elder's leg injury successfully, and the woodworker Elder Ahu Ashan gave you some reward in return"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "The carpenter, A'Hu A'Shan, wanted to visit Karma Monastery for a pilgrimage but was in severe pain due to his leg injury. Understanding your medical skills, you administered treatment and healed the carpenter's leg injury. In gratitude, A'Hu A'Shan rewarded you"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 564
   raw: "Q50017	厨师大哥的请托	0	噶玛寺的厨师大哥，因为助手不在，实在忙不过来，他请你将斋饭送给寺内的某位僧侣。如果忘记要送给哪位寺僧了，就问问厨师吧！	0	FALSE	Q50017_01,Q50017_02,Q50017_03,Q50017_04,Q50017_05,Q50017_06,Q50017_07,Q50017_08,Q50017_09,Q50017_10,Q50017_11,Q50017_12,Q50017_13	0	TRUE		0		1"
@@ -9466,9 +9466,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "这些木府卫兵好生霸道，竟连茶庄也不给人进去了！看来这背后似乎有什么隐情……询问木府卫兵阿简到底是怎么回事吧！"
-    translated: "These guards of the Mu Mansion are incredibly overbearing; they even prevent people from entering the tea house! It seems there might be some hidden affairs behind this... Let's go and ask guard A Jian from the Mu Mansion what exactly is going on!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "The guards at Mu Mansion are incredibly tyrannical, to the point that they don't even let people enter the teahouse! It seems there might be some underlying intrigue behind this… Let's ask A'Jian, one of the Mu Mansion guards, what's really going on!"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 592
   raw: "Q52002_01	与木府卫兵阿简交谈	1	这些木府卫兵好生霸道，竟连茶庄也不给人进去了！看来这背后似乎有什么隐情……询问木府卫兵阿简到底是怎么回事吧！	0	FALSE	0	-649.2426, 66.218, -1014.044	TRUE		600	(Reputation,3)	1"
@@ -9476,15 +9476,15 @@
   splits:
   - split: 1
     text: "与木府卫兵阿简交谈"
-    translated: "Talk to Guard An Jian of the Mu Mansion"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Speak to Guard A'Jian from the Mu Mansion"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "这些木府卫兵好生霸道，竟连茶庄也不给人进去了！看来这背后似乎有什么隐情……询问木府卫兵阿简到底是怎么回事吧！"
-    translated: "These Mu Mansion guards are so overbearing that they won't even let people enter the tea house! It seems there is some underlying intrigue behind this… Let's ask Guard A Jian from the Mu Mansion what exactly is going on!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "These Mu Mansion guards are really overbearing, even barring entry to the tea house! It seems there's some underlying intrigue... Let's ask A'Jian, one of the Mu Mansion guards, what's going on!"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 593
   raw: "Q52002_02	到茶庄后门窃听	1	这些木府卫兵好生霸道，竟连茶庄也不给人进去了！看来这背后似乎有什么隐情……到茶庄后门去，听听木府二爷木奎和茶庄掌柜在谈论些什么。	0	FALSE	0	-647.5024, 66.93664, -1029.584	TRUE		600	(Reputation,3)	281"
@@ -10858,9 +10858,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "拱石村符阿翠的菜被灶神爷爷吃掉了？符阿翠请你问问灶神爷爷，究竟是什么事情惹得祂生气了…虽然有点荒谬，但还是帮她想想办法吧。"
-    translated: "The gods in the Arched Stone Village ate Miss Fu A Cui's dishes? Please ask the Kitchen God what exactly made Him angry... It might seem a bit absurd, but try to help her find a solution anyway"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "In Arched Stone Village, the food that Fu A'Cui had prepared was eaten by the Kitchen God. Please ask the Kitchen God what exactly upset Him so much... Although it seems absurd, try to think of a way to help her"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 679
   raw: "Q60001_01	进入屋子调查线索	1	拱石村符阿翠的菜被灶神爷爷吃掉了？符阿翠请你问问灶神爷爷，究竟是什么事情惹得祂生气了…虽然有点荒谬，但还是先进屋子里看看有没有什么不对劲的地方，帮她想想办法吧。	0	FALSE	0	-17.78,126.51,-1034.60	TRUE		300	(Reputation,1)	81"
@@ -10874,9 +10874,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "拱石村符阿翠的菜被灶神爷爷吃掉了？符阿翠请你问问灶神爷爷，究竟是什么事情惹得祂生气了…虽然有点荒谬，但还是先进屋子里看看有没有什么不对劲的地方，帮她想想办法吧。"
-    translated: "Arched Stone Village's Fu a cui's dishes were eaten by the Kitchen God Grandpa? Fu a cui asked you to ask the Kitchen God Grandpa what made Him angry... Although it may sound absurd, first go inside the house and see if there is anything out of place, and help her think of a solution"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "It turns out that the meal prepared by Fu A'Cui from Arched Stone Village was eaten up by Master Zhuo, the Kitchen God. Could you ask Master Zhuo why He got so angry? Although it sounds a bit absurd, let's first check inside the house to see if anything seems off and try to think of a way to help her"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 680
   raw: "Q60001_02	追上一哄而散小孩	1	拱石村符阿翠的菜被灶神爷爷吃掉了？符阿翠请你问问灶神爷爷，究竟是什么事情惹得祂生气了…不过你在符阿翠家的灶神画像附近发现了疑似真正偷吃者的泥巴手印，很有可能是附近的小乞丐干得好事，因此快点逮着他们问个清楚吧！	0	FALSE	0	42.71055, 123.9679, -1061.983	TRUE		1200	(Reputation,6)	81"
@@ -10890,9 +10890,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "拱石村符阿翠的菜被灶神爷爷吃掉了？符阿翠请你问问灶神爷爷，究竟是什么事情惹得祂生气了…不过你在符阿翠家的灶神画像附近发现了疑似真正偷吃者的泥巴手印，很有可能是附近的小乞丐干得好事，因此快点逮着他们问个清楚吧！"
-    translated: "Did Zao God Grandpa eat the dish prepared by Fu A Cui from Arched Stone Village? Fu A Cui asks you to find out what made Him angry. However, you found mud handprints near Fu A Cui's kitchen god painting that seem to belong to the real culprit, likely a nearby beggar child. Quickly catch them and get clear answers!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Arched Stone Village's Fu A'Cui's dishes were eaten by the Kitchen God Grandfather? Fu A'Cui asks you to inquire with the Kitchen God Grandfather about what exactly upset Him… However, upon discovering muddy handprints near the image of the Kitchen God at Fu A'Cui's home, it seems likely that some mischievous action was carried out by a nearby beggar child. Therefore, hurry and get clarification from them!"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 681
   raw: "Q60001_03	回报符阿翠	1	拱石村符阿翠的菜被灶神爷爷吃掉了？符阿翠请你问问灶神爷爷，究竟是什么事情惹得祂生气了…不过你在符阿翠家的灶神画像附近发现了疑似真正偷吃者的泥巴手印，调查之下发现这正是附近的小乞丐干得好事！快将调查结果回报给符阿翠吧。	0	FALSE	0	-22.43753, 126.5547, -1034.543	TRUE		300	(Reputation,1)	1"
@@ -10900,9 +10900,9 @@
   splits:
   - split: 1
     text: "回报符阿翠"
-    translated: "Return the receipt to A Cui"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Repay Fu A'Cui"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "拱石村符阿翠的菜被灶神爷爷吃掉了？符阿翠请你问问灶神爷爷，究竟是什么事情惹得祂生气了…不过你在符阿翠家的灶神画像附近发现了疑似真正偷吃者的泥巴手印，调查之下发现这正是附近的小乞丐干得好事！快将调查结果回报给符阿翠吧。"
@@ -11419,8 +11419,8 @@
   - split: 3
     text: "想不到，不仅是你被莫家姑娘给狠狠利用了一番，连她的小弟都被阿姐给狠心抛下了。<br>如今，莫黑子一个人眼看是过不下去了，除了你还能上白马居帮他问问去留，似乎也没别人可以帮他了。"
     translated: "Unbelievable! Not only was you thoroughly used by the Mo family girl, but her little brother was also heartlessly left behind by Big Sister<br>Now, Mo Heizi seems like he can't manage on his own anymore. Apart from you, it seems there's no one else who can go to the White Horse Residence and ask about his future"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 714
   raw: "Q60008_01	前往白马居	1	想不到，不仅是你被莫家姑娘给狠狠利用了一番，连她的小弟都被阿姐给狠心抛下了。<br>如今，莫黑子一个人眼看是过不下去了，除了你还能上白马居帮他问问去留，似乎也没别人可以帮他了。	0	FALSE	0	-953.9496, 219.264, -1236.446	TRUE		300	(Reputation,1)	1"
@@ -11435,8 +11435,8 @@
   - split: 3
     text: "想不到，不仅是你被莫家姑娘给狠狠利用了一番，连她的小弟都被阿姐给狠心抛下了。<br>如今，莫黑子一个人眼看是过不下去了，除了你还能上白马居帮他问问去留，似乎也没别人可以帮他了。"
     translated: "I didn't expect it, not only were you thoroughly used by the Mofu girl, but her little brother was also left behind heartlessly by big sister<br>Now, Mo Heizi can't get by alone. Besides you, it seems there's no one else who can go to the White Horse Residence to ask him about his situation"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 715
   raw: "Q60009	淘石作恶	0	在漱玉矶的玉坊前遇到淘石帮总管天哥正鱼肉当地居民，并一掌打伤了隶属于玉坊的赵掌柜父子。赶紧过去看看他们的情况吧。	0	FALSE	Q60009_01,Q60009_02,Q60009_03,Q60009_08,Q60009_04,Q60009_07,Q60009_05,Q60009_09,Q60009_06	0	TRUE		0		1"
@@ -12842,9 +12842,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "拱石村田大妈的孩子生了怪病，据束阿桂所言，此她手上虽有能治病的秘方，但是目前还缺了三份野猪黄。<br>四处看看这附近有没有猎捕野猪的机会，并搜集三份野猪黄回去给束阿桂吧。"
-    translated: "Older Sister Tian of Arched Stone Village's child fell ill with a strange disease. According to Brother Shu A Gui, she does have a secret remedy to cure the illness but is currently lacking three units of wild boar gall<br>Look around to see if there are any opportunities to hunt wild boars nearby, and gather three pig bristles to bring back for Siu Ah Gwai"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "In Arched Stone Village, someone said that the daughter of Big Aunt Tian has come down with a strange illness. According to Shu A'Gui, she indeed possesses a secret formula for curing it, but currently lacks three portions of wild boar gall<br>Take a look around to see if there's an opportunity to hunt wild boar nearby, and gather three pieces of wild boar gallbladder to bring back for Shu A'Gui"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 803
   raw: "Q60030_02	将汤药拿给田大妈	1	拱石村田大妈的孩子生了怪病，据束阿桂所言，她手上有能治病的秘方，再加上你所搜集的野猪黄，煎煮出一剂汤药，并委托你拿去送给田大妈。	0	FALSE	0	-32.29, 126.4755, -1011.918	TRUE		300	(Reputation,1)	71"
@@ -12858,9 +12858,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "拱石村田大妈的孩子生了怪病，据束阿桂所言，她手上有能治病的秘方，再加上你所搜集的野猪黄，煎煮出一剂汤药，并委托你拿去送给田大妈。"
-    translated: "Arched Stone Village's Auntie Tian has a child with an unusual illness. According to Tuoba Gui, she has a secret remedy in her possession. Combined with the wild boar gall you've collected, prepare a decoction and entrust it to be delivered to Auntie Tian"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Arched Stone Village's Auntie Tian has a child with a strange illness. According to Brother Shu A'Gui, she possesses a secret remedy for curing diseases. With the wild boar yellow you've gathered, prepare a dose of soup medicine and deliver it to Auntie Tian"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 804
   raw: "Q60031	束阿桂的秘方	0	拱石村田大妈的孩子生了怪病，据束阿桂所言，她手上有能治病的秘方，再加上你所搜集的野猪黄，煎煮出一剂汤药，并委托你拿去送给田大妈。	0	FALSE	Q60031_01	0	TRUE		0		1"
@@ -12868,15 +12868,15 @@
   splits:
   - split: 1
     text: "束阿桂的秘方"
-    translated: "Suet A Gui's Secret Formula"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Shu A'gui's secret recipe"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "拱石村田大妈的孩子生了怪病，据束阿桂所言，她手上有能治病的秘方，再加上你所搜集的野猪黄，煎煮出一剂汤药，并委托你拿去送给田大妈。"
-    translated: "According to Bo A Gui, the child of Aunt Tian in Arched Stone Village has a strange illness. She holds a secret recipe that can cure it, and when combined with the wild boar yellow you've collected, they make an effective medicinal soup. Please deliver this remedy to Aunt Tian"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "In Arched Stone Village, the child of Aunt Tian fell ill with a strange disease. According to Shu A'Gui, she has a secret remedy that could cure it. Combined with the wild boar gall you've gathered, you need to prepare and boil them into a medicinal soup, then deliver it to Aunt Tian on her behalf"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 805
   raw: "Q60031_01	将汤药拿给田大妈	1	拱石村田大妈的孩子生了怪病，据束阿桂所言，她手上有能治病的秘方，再加上你所搜集的野猪黄，煎煮出一剂汤药，并委托你拿去送给田大妈。	0	FALSE	0	-32.29, 126.4755, -1011.918	TRUE		300	(Reputation,1)	1"
@@ -12890,9 +12890,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "拱石村田大妈的孩子生了怪病，据束阿桂所言，她手上有能治病的秘方，再加上你所搜集的野猪黄，煎煮出一剂汤药，并委托你拿去送给田大妈。"
-    translated: "According to Ao Gui's words, the old lady Tian in Arched Stone Village's child is suffering from a strange illness. She possesses a secret remedy that can cure it. Combined with the wild boar gall you have collected and brewed into a medicinal soup, deliver it to Old Lady Tian as instructed"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "In Arched Stone Village, the child of Aunt Tian is suffering from a strange illness. According to Shu A'Gui, she has a secret remedy in her possession that can cure it. By combining this with the wild boar gall you have collected and brewing them into a decoction, you are tasked with delivering the potion to Aunt Tian"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 806
   raw: "Q60032	屋顶上的奖励	0	在白马居探索的过程中无意间发现一封有趣的信件，似乎是为了鼓励白马居的两个孩子而放置的，不过两个孩子轻功还没练成就被你捷足先登啦。不如就先依照信件，找找线索吧。	0	FALSE	Q60032_01,Q60032_02,Q60032_03	0	TRUE		0		1"
@@ -13691,8 +13691,8 @@
   - split: 3
     text: "在拱石村上缘的山地附近，遇到了一只暴躁黑牛和不解何事、束手无策的文阿叔，不妨调查看看是发生了什么事吧。"
     translated: "On the outskirts of Arched Stone Village, you encounter an irate black bull and Uncle Wen, who is puzzled and at a loss. It might be worth investigating to see what happened"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 856
   raw: "Q60042_01	调查黑皮	1	在拱石村上缘的山地附近，遇到了一只暴躁黑牛和不解何事、束手无策的文阿叔，也许可以从这只黑牛身上观察看看有无线索。	0	FALSE	0	-11.44,147.82,-1117.06	TRUE		300	(Reputation,1)	91"
@@ -13707,8 +13707,8 @@
   - split: 3
     text: "在拱石村上缘的山地附近，遇到了一只暴躁黑牛和不解何事、束手无策的文阿叔，也许可以从这只黑牛身上观察看看有无线索。"
     translated: "In the mountainous area near Arched Stone Village, we encountered an irate black ox and a befuddled Uncle Wen who was at a loss. Perhaps examining this black ox could yield some clues"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 857
   raw: "Q60042_02	晚上再来看看	1	在拱石村上缘的山地附近，遇到了一只暴躁黑牛和不解何事、束手无策的文阿叔，你仔细观察后，从黑牛的角上看到不明伤痕，只是文家父女护牛心切，不许你动牠。<br>也许可以趁晚上的时候再回来看看，兴许能有端倪。	0	FALSE	0	-11.44,147.82,-1117.06	TRUE		600	(Reputation,3)	91"
@@ -13723,8 +13723,8 @@
   - split: 3
     text: "在拱石村上缘的山地附近，遇到了一只暴躁黑牛和不解何事、束手无策的文阿叔，你仔细观察后，从黑牛的角上看到不明伤痕，只是文家父女护牛心切，不许你动牠。<br>也许可以趁晚上的时候再回来看看，兴许能有端倪。"
     translated: "In the mountainous area near the outskirts of Arched Stone Village, you encountered an irate black bull and Mr. Wen A-shu, who was puzzled and at a loss as to what to do. After observing carefully, you noticed some unexplained wounds on the horns of the black bull. However, the Wen family father and daughter were so keen on protecting their bull that they forbade you from touching it<br>Maybe it's possible to come back and check again in the evening; perhaps some clues can be found then"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 858
   raw: "Q60042_03	回复文阿叔	1	在拱石村上缘的山地附近，遇到了一只暴躁黑牛和不解何事、束手无策的文阿叔，你仔细观察后，从黑牛的角上看到不明伤痕，疑惑之下，在晚上撞见蒋留若正想伤害黑皮。<br>得知来龙去脉的你，一旦白天见到了文阿叔，就赶紧去跟文阿叔说明经过吧，让他别再担心了。	0	FALSE	0	-6.82,147.82,-1114.18	TRUE		300	(Reputation,1)	91"
@@ -13739,8 +13739,8 @@
   - split: 3
     text: "在拱石村上缘的山地附近，遇到了一只暴躁黑牛和不解何事、束手无策的文阿叔，你仔细观察后，从黑牛的角上看到不明伤痕，疑惑之下，在晚上撞见蒋留若正想伤害黑皮。<br>得知来龙去脉的你，一旦白天见到了文阿叔，就赶紧去跟文阿叔说明经过吧，让他别再担心了。"
     translated: "In the mountainous area near Arched Stone Village, you encounter an agitated black bull and Uncle Wen, who is bewildered and at a loss. After observing carefully, you notice unusual wounds on the bull's horns and become suspicious. Later that night, you see Jiang Liuruo attempting to harm Black Hide<br>Knowing the whole story, if you see Uncle Wen during the day, hurry to explain everything to him so he doesn't worry anymore"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 859
   raw: "Q60043	大仙来也	0	狐仙有赏	0	FALSE	Q60043_01,Q60043_02,Q60043_03,Q60043_04	0	TRUE		0		1"
@@ -14235,8 +14235,8 @@
   - split: 3
     text: "在从圣堂出来的野地间，遇到一个十分想要做些什么大叔骆元玉，明着他想四处游历，可实际上，似乎尚有别种目的。直到到了乞丐寮，他才说出真正的想法，并要求你带着他提升等级至四十级时回家一趟，让他对一手拉拔他长大的阿姐有个交代…。"
     translated: "In the wilds between the Holy Sanctuary, he met a middle-aged man named Luo Yuanyu who seemed eager to do something. He appeared interested in traveling around, but it seemed there was another purpose behind his actions. It wasn't until they reached the beggar's quarters that he revealed his true intention and requested you to return home on his behalf when you reach level forty to settle accounts with his adoptive older sister who raised him"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 890
   raw: "Q60049	大盗白花花	0	大盗白花花	0	FALSE	Q60049_01,Q60049_02,Q60049_03,Q60049_04,Q60049_05,Q60049_06,Q60049_07	0	TRUE		0		1"
@@ -15066,9 +15066,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "帮阿膳师收集小屋旁竹林里的食材"
-    translated: "Help the cook collect ingredients from the bamboo forest next to the small house"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Help A'Shan Shi collect the ingredients from the bamboo grove near the small hut"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 942
   raw: "Q80021_01	找寻食材	1	去竹林里一探究竟	0	FALSE	0	19.524,152.165,-1074.74	TRUE		600	(Reputation,3)	101"
@@ -15098,9 +15098,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "将食材带回给阿膳师"
-    translated: "Bring the ingredients back to Chef Ade"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Bring the ingredients back to A'Shan Shi"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 944
   raw: "Q80022	爱情信差	0	前去探寻小蝶的下落	0	FALSE	Q80022_01,Q80022_02,Q80022_03,Q80022_04,Q80022_05,Q80022_06,Q80022_07	0	FALSE		0		1"
@@ -15716,9 +15716,9 @@
   splits:
   - split: 1
     text: "「阿膳师」"
-    translated: "Head Cook"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "A'Shan Shi"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "珍馐会全员出动！"
@@ -15850,9 +15850,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "小丐阿光偷偷喜欢着铁小轻，替他牵个线，让铁小轻注意到他。"
-    translated: "Little Beggar A Guang secretly liked Tie Xiao Qing, set up an introduction for him to make Tie Xiao Qing notice him"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Grifter A'Guang secretly liked Tie Xiao Qing and tried to arrange a situation for them to notice him"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 991
   raw: "Q90001_01	调查铁小轻腰间小袋	1	小丐阿光说，小轻都把宝贝藏在她腰间的小袋里，只要瞧上一眼，便能知道她的喜好。	0	FALSE	0	-573.85,66.77,43.11	TRUE		600	(Reputation,3)	1"
@@ -15866,9 +15866,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "小丐阿光说，小轻都把宝贝藏在她腰间的小袋里，只要瞧上一眼，便能知道她的喜好。"
-    translated: "Brother A Guang said that Xiao Qing had hidden her treasure in the small pouch at her waist, and with just a glance, one could know her preferences"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Brother A'Guang said, Xiao Qing keeps the treasure tucked in a small pouch at her waist. Just by looking once, you can know what she likes"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 992
   raw: "Q90001_02	向阿光回报消息	1	铁小轻的小袋里头，尽是些小女生的玩具项链、手环，唯有一只水沫玉手镯比较贵重。将这消息回报给阿光。	0	FALSE	0	-595.70,66.76,65.44	TRUE		600	(Reputation,3)	1"
@@ -15876,15 +15876,15 @@
   splits:
   - split: 1
     text: "向阿光回报消息"
-    translated: "Inform Ade Guang of the message"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Inform A'Guang of the message"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "铁小轻的小袋里头，尽是些小女生的玩具项链、手环，唯有一只水沫玉手镯比较贵重。将这消息回报给阿光。"
-    translated: "Tie Xiao Qing's little bag was full of girls' toys, such as necklaces and bangles, except for a pair of water pearl bracelets, which were more valuable. Report this news to A Guang"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Tie Xiao Qing's small bag was filled with various trinkets, including girls' toy necklaces and bangles. The only valuable item among them was a waterdrop jade bracelet. This information should be reported back to A'Guang"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 993
   raw: "Q90001_03	代阿光送木镯给小轻	1	小丐阿光交予你一只木镯子，请你送去给铁小轻。	0	FALSE	0	-595.70,66.76,65.44	TRUE		600	(Reputation,3)	1"
@@ -15892,9 +15892,9 @@
   splits:
   - split: 1
     text: "代阿光送木镯给小轻"
-    translated: "Da A Guang gave a wooden bangle to Xiao Qing"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "On behalf of A'Guang, present a wooden bangle to Xiao Qing"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "小丐阿光交予你一只木镯子，请你送去给铁小轻。"

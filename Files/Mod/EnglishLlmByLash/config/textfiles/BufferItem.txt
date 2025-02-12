@@ -801,7 +801,7 @@ buffSkillTree171_010	Advanced Power Training	Enhance the Beast King's power to i
 buffSkillTree171_011	Beast King Skill: Supreme	Enhance Beast King's power to raise its level to 70	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree171_012	Advanced Bait	Increase the success rate of Beast Taming Art by 5%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree171_013	Beast King's Technique: Trap	Increasing the success rate of mastering the Beast Taming Art by 10%	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree172_000	Eat bok choy	Abaizi's favorite food is cabbage	0		0	FALSE	0	FALSE	0	0		buffSkillTree172_000
+buffSkillTree172_000	Eat bok choy	A'Bai loves eating cabbage the most	0		0	FALSE	0	FALSE	0	0		buffSkillTree172_000
 buffSkillTree173_000	Li He Canshang	When engaging the disengagement counterattack technique, damage increase	0	buffSkillTree173_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree173_000_2	Li He Canshang	When executing Runyu Displacement, counterattack damage is enhanced. When countering, 1 point of the opponent's vitality is deducted	0	buffSkillTree173_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree173_000_3	Li He Canshang	When running Heliang Can Shang, damage from counterattacks is enhanced; when activating a counterattack, deduct 1 point of the opponent's energy. When activating Jieli Da Li, return all received damage to the opponent	0	buffSkillTree173_000	0	TRUE	0	FALSE	0	0		forIcon
@@ -945,7 +945,7 @@ BattleSchedule044	Drunken Butterfly Scale	Unique Poison, accumulates 3 points of
 BattleSchedule045	Yang Tianyi gauged how much blood He Baishao had left and predicted her hidden buff activation	After assessing blood levels, apply a buff to He Baishao	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule045
 BattleSchedule046	Strength-enhancing potion	Use cultivation techniques to unlock latent potential within, restoring 50% of one's lifeforce and increasing damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule046
 BattleSchedule047	Degradation of morals hidden buff	Morality decreases by two points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule047
-BattleSchedule048	Second Blood Measurement Hidden Judgment Buff	Use blood quantity to judge the conversation	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule048
+BattleSchedule048	Second Madman's Blood Volume Judgment Buff	Use blood quantity to judge the conversation	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule048
 BattleSchedule049	Fiery Flame Kunlun Ridge	'Increase combat ability significantly during runtime, but after five rounds, it will exhaust your lifeforce.'	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule049
 BattleSchedule050	Deep-seated blood feud	With the enemy at hand, fighting spirit heightened: Damage increased by 50%, recover an additional 4 energy points per turn, confusion value accumulates 20 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule050
 BattleSchedule051	Joint Effort to Save the World	Using Heavenly Scriptures secret techniques, increase damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule051
@@ -964,7 +964,7 @@ BattleSchedule063	The power of the Pill Corpse	Reincarnation Through a Corpse, D
 BattleSchedule064	Pause action for one round	Hidden buff, ends when unit's turn comes and all AP are spent; the buff disappears at that time	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule064
 BattleSchedule065	Anticipate the enemy's moves	Each round counterattack rate, energy dissipation rate, critical hit rate, combo rate, and feint rate increased by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule065
 BattleSchedule066	Unwilling to let go	Damage Reduction 50%	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule066
-BattleSchedule067	Eastern Late Half-Blood Judgment Buff	Hidden Buff, Battle Victory When Health Reaches 80%	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule067
+BattleSchedule067	Eastern Delay's Judgment Buff for Half-Blood Status	Hidden Buff, Battle Victory When Health Reaches 80%	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule067
 BattleSchedule068	Develop a hatred for Yan Yushu	Hidden Buff, generates massive hate each round	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule068
 BattleSchedule069	Oil exhausted, the lamp dims	Neigong decreases by 50 points, accumulating internal injury of 100 points per round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule069
 BattleSchedule070	Not strong enough to do it	Neigong decreased by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule070
@@ -1015,7 +1015,7 @@ BattleSchedule504	Oh no – !!!	Feathered Snow the Hawk is carefree and bold, co
 BattleSchedule505	Uh oh	Snow Wing's body is paralyzed and poisoned, leading to weakness... Attack damage and energy recovery are reduced, and poison value accumulates by 20 points!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule505
 BattleSchedule506	Avenging the eagle hunters!	Eagle Hunter's thirst for revenge is fierce, increasing their attack damage	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule506
 BattleSchedule507	Senior Brother is right!	Follow Senior Brother's footsteps! Significantly enhance your own combat ability!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule507
-BattleSchedule508	Give me back my hunting eagle's life!	Aji is filled with a fierce desire for revenge, and her combat abilities have significantly improved!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule508
+BattleSchedule508	Give me back my hunting eagle's life!	A'Ji's desire for revenge is intense, and their combat abilities have significantly improved!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule508
 BattleSchedule509	Training hunting eagles	For each additional hunter falcon captured, it recovers more lifeforce and energy each round	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule509
 BattleSchedule510	Unyielding defiance	Snow Wing Eagle is fierce and stubborn in nature, and even if it means death, it will never run away!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule510
 BattleSchedule511	Exhausted	Snowwing's physique is weakened, revealing fatigue... Attack damage decreases, and confusion value accumulates by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule511
@@ -1088,7 +1088,7 @@ nick021	Wise Nun Bai Sun	If a martial arts technique with an ice seal effect is 
 nick021P	Guang Han Gongzhu	If you use a martial art technique with an ice seal effect, the power of the move becomes stronger	0	nickname	0	TRUE	0	FALSE	0	0		nick021P
 nick022	Scarce Wind King	When unleashing a critical attack, increase energy by 3	0	nickname	0	TRUE	0	FALSE	0	0		nick022
 nick022buff	Wind King Formation	With Baili Danhe present, each attack increases the critical hit rate by 5%. Upon executing a critical hit, recover 1 energy point	0	battle	0	TRUE	0	FALSE	0	0		nick022buff
-nick023buff	Fat Lamb	Fatty and delicious Aibai, everyone wants to eat him	0	nickname	0	TRUE	0	FALSE	0	0		nick023buff
+nick023buff	Fat Lamb	Deliciously tender and succulent, everyone wants a taste of Brother A'Bai	0	nickname	0	TRUE	0	FALSE	0	0		nick023buff
 nick024buff	Malevolent and insane	The higher the enemy's dizziness and confusion values, the greater the chance of them falling into chaos. Each attack has a chance to plunge the enemy into chaos, resulting in three rounds where friend and foe cannot be distinguished	0	nickname	0	TRUE	0	FALSE	0	0		nick024buff
 nick024buffP	Destroy the World Poison King	The higher the enemy's dizziness, confusion, and poisoning values are, the greater the chance of them becoming chaotic. Each attack has a chance to make the enemy become chaotic, resulting in indistinguishable friend and foe for four rounds	0	nickname	0	TRUE	0	FALSE	0	0		nick024buffP
 nick025buff	Heartless and ruthless	Each time you kill an enemy, restore 3 points of your own energy	0	nickname	0	TRUE	0	FALSE	0	0		nick025buff

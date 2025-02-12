@@ -3402,9 +3402,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "穿上它，你也是个英挺的木府卫兵阿虾阿米。"
-    translated: "Put it on, and you'll be as dashing a Mu Mansion guard crab as any!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Put it on, and you'll also be a handsome guard of the Mu Mansion named A'Xia A'Mi"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 213
   raw: "eq20125	纳西皮裘	eq20125	上等棉麻布料搭上传统的毛料镶饰，通常是较具身分地位的民众所选择的服饰。	203	1000	500	TRUE	0	50	player012	1	0	0		0		0	"

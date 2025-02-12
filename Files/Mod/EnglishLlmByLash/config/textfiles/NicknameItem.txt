@@ -43,7 +43,7 @@ nick020	Confucian Heart, Sword Arm	Each turn, increase the counterattack value b
 nick021	Immortal Lady of Broad Cold	If one practices martial arts techniques that have an ice seal effect, the power of the moves becomes stronger		n09996	nick021
 nick021P	Guang Han Gongzhu	If one practices martial arts with an ice-sealing effect, the techniques become more powerful		n09996	nick021P
 nick022	Scarce Wind King	Upon unleashing a burst attack, restore 3 energy points; all allies gain the status Wind King Formation		n07002	nick022
-nick023	Fat Lamb	Flavorful and delicious, everyone wants to eat the little white one		n21131	nick023
+nick023	Fat Lamb	The tender and delicious A'Bai, everyone wants to eat him		n21131	nick023
 nick024	Malevolent and insane	Each attack has a chance to cause the enemy to become disoriented, blurring the lines between ally and foe for three turns. The higher the enemy's dizziness and confusion values, the greater the likelihood of becoming disoriented		n60402	nick024
 nick024P	Destroy the World Poison King	Each attack has a chance to make the enemy confused, making it impossible to distinguish between friend and foe for four turns. The higher the values of dizziness, confusion, and poison on the enemy, the higher the probability of them becoming confused		n60402	nick024P
 nick025	Heartless and ruthless	For every enemy killed, restore 3 points of energy to oneself		n60130	nick025
@@ -90,7 +90,7 @@ nick105	Ancient and Noble Family	Within a 5-unit range of Dong Jialuo, reduce th
 nick106	Successor to the Headman	At the start of each turn, restore 15% Lifeforce to allies within a 2-unit radius and increase hit combo rate by 15%		n50048	nick106
 nick107	Mu Mansion Warlord	When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares		n50065,n50065b	nick107
 nick108	Three Heroic Generals	Within a 2-unit distance around oneself, for each enemy present, an additional 1 point of energy is restored when the self executes a critical hit		n50073a,n50073a2	nick108
-nick111	Unrivaled in the world	The second trait has a special title. When the health decreases by 10%, damage increases by 10%. At the start of each turn, negative status is reduced by 20 points		n09998,n09998a	nick111
+nick111	Unrivaled in the world	The Second Madman's inherent title: For every 10% decrease in health, damage increases by 10%. At the start of each turn, negative status effects are reduced by 20 points		n09998,n09998a	nick111
 nick112	Follow one's heart	The Daoist Xin Liang's special title, which increases his counterattack rate and pressure release rate by 25% each round		n70045	nick112
 nick114	Executioner	When attacking, each accumulated point of poison on the target increases damage by 1%		n00102	nick114
 nick115	Eastern Noble	When using the Thunderbolt Fireball Grenade, there is a 25% chance to attack twice		n90201	nick115

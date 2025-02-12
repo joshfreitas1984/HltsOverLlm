@@ -362,7 +362,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "东方迟归隐赋闲书院后所创指法，以指代笔，尽情挥洒杜甫名诗饮中八仙歌中狂放不羁的笔势，出指方位变幻莫测，难以为人所料。"
-    translated: "Eastern Tang Chih's martial art, created after retiring to the Leisurely Scholars Academy, uses finger techniques as a brush. It embodies the unrestrained and free-spirited style of Du Fu's famous poems and the Song of Eight Immortals Drunk, with unpredictable movements that are difficult for others to anticipate"
+    translated: "After secluding himself in the Leisurely Scholars Academy, Eastern Delay developed a unique finger technique using his fingers as if they were brushes. He joyfully expressed the unrestrained and carefree brushwork found in Du Fu's famous poems and The Eight Immortals' Drinking Song. The direction of his gestures was unpredictable and elusive, making it difficult for others to anticipate"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3044,15 +3044,15 @@
   splits:
   - split: 1
     text: "山羊阿白"
-    translated: "Goat Aibai"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Goat A'Bai"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "山羊阿白。"
-    translated: "Goat A Bai"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Goat, A'Bai"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 191
   raw: "it31816	移魂大法	it31816	自天书上所领悟的奇妙武学，单单只需以眼神注视，便能够使心智薄弱的对手失去意识，任凭宰割。	318	20000	10000	TRUE	3	70	999999	SkillTree174	Other	0	0	0	"

@@ -12858,9 +12858,9 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "阿白最爱吃白菜了"
-    translated: "Abaizi's favorite food is cabbage"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "A'Bai loves eating cabbage the most"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 804
   raw: "buffSkillTree173_000	离合参商	运行离合参商时，反击伤害增强	0	buffSkillTree173_000	0	TRUE	0	FALSE	0	0		forIcon"
@@ -15156,7 +15156,7 @@
   splits:
   - split: 1
     text: "第二痴血量隐藏判断BUFF"
-    translated: "Second Blood Measurement Hidden Judgment Buff"
+    translated: "Second Madman's Blood Volume Judgment Buff"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15460,7 +15460,7 @@
   splits:
   - split: 1
     text: "东方迟半血判断BUFF"
-    translated: "Eastern Late Half-Blood Judgment Buff"
+    translated: "Eastern Delay's Judgment Buff for Half-Blood Status"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16282,9 +16282,9 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "阿季复仇心切，自身战斗能力大幅强化！"
-    translated: "Aji is filled with a fierce desire for revenge, and her combat abilities have significantly improved!"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "A'Ji's desire for revenge is intense, and their combat abilities have significantly improved!"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1018
   raw: "BattleSchedule509	捕食猎鹰	捕食愈多猎鹰，每回合额外恢复气血与精力愈多	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule509"
@@ -17450,9 +17450,9 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "肥嫩可口的阿白，大家都想吃他"
-    translated: "Fatty and delicious Aibai, everyone wants to eat him"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Deliciously tender and succulent, everyone wants a taste of Brother A'Bai"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1091
   raw: "nick024buff	丧心病狂	敌人的晕眩、迷惑值越高，陷入混乱的机率越高，每次攻击，有机会让敌人陷入混乱，三回合内敌我不分。	0	nickname	0	TRUE	0	FALSE	0	0		nick024buff"

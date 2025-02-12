@@ -8125,8 +8125,8 @@
   - split: 1
     text: "禾郁青不愿见阿爹"
     translated: "He Yuqing didn't want to see his father"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 813
   raw: "m20097	禾郁青不愿见阿爹	EventBox		None	-637.187, 67.063, -1086.775	1, 1, 1	1.445326, 1, 2.247534	0, 2.188618, 0	True	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_11\", 1, True} , { \"TeammateCondition\" : \"n20049\", True} , { \"QuestCondition\" : \"Q20021_06\", 1, False}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"v20121\"}  ]} 	0"
@@ -8135,8 +8135,8 @@
   - split: 1
     text: "禾郁青不愿见阿爹"
     translated: "He Yuqing didn't want to see his father"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 814
   raw: "m20098	木盒	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Inside/inside_046.prefab	Survey	-1065.738, 167.42, -1240.15	1, 1, 1	1.2, 1.2, 1.2	270, 331.4236, 0	False	0		0	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"m2009801000\"}  ]} 	0"
@@ -12594,9 +12594,9 @@
   splits:
   - split: 1
     text: "阿九"
-    translated: "Older Brother A Jiu"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "A'Jie"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1260
   raw: "m50184c	李连	MouseEventBox		Survey	-1325.44, 164.3, -877.34	1, 1, 1	4.679736, 1, 4.305678	0, 0, 0	True	0		{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f50054雪山連九逃走：李連\", 1, 1} , { \"QuestCondition\" : \"Q52001\", 1, False}  ], 0} 	{ \"MultiAction\" : [ { \"SetTalkIdAction\" : \"n5004901100\"}  ]} 	0"
@@ -12614,9 +12614,9 @@
   splits:
   - split: 1
     text: "阿九"
-    translated: "Ajiu"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "A'Jie"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1262
   raw: "m50185	拿雪莲花到药铺交任务	EventBox		None	-663.1, 66.53976, -1108.71	1, 1, 1	5.984981, 0.3856007, 6.153841	0, 0, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q52001_03\", 0, True} , { \"TimeCondition\" : 6, 20}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m5004801\"}  ]} 	0"
@@ -18624,9 +18624,9 @@
   splits:
   - split: 1
     text: "骆元玉小阿未"
-    translated: "Little Sister Ya of Luo Yuanyu"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Luo Yuanyu, Little A'Wei"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1863
   raw: "m60260-2	骆元玉吴叫化事件	EventBox		None	-414.63, 65.52, -1051.26	1, 1, 1	16.38412, 10.36877, 13.99875	0, 336.761, 0	False	0		{ \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60273\", True} , { \"TimeCondition\" : 5, 18}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m6027202\"}  ]} 	0"
@@ -38094,9 +38094,9 @@
   splits:
   - split: 1
     text: "羊阿婶的垫脚椅"
-    translated: "Grandma Yang's footstool"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Auntie Yang's footstool"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 3810
   raw: "s60412-2	羊阿婶的鱼	MouseEventBox	Resources_Art/Art3D/Food/outside_041_F.prefab	None	300.643, 92.725, 42.126	0.065487, 0.5557462, 0.2660052	0.8958579, 0.8958579, 0.8958579	11.68449, 131.41, 280.1268	False	0		0	0	0"
@@ -38104,9 +38104,9 @@
   splits:
   - split: 1
     text: "羊阿婶的鱼"
-    translated: "Yang's Auntie's Fish"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Auntie Yang's Fish"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 3811
   raw: "s60413-1	西门玉堂在乞丐寮的床	MouseEventBox	Resources_Art/Art3D/Object/Perfabs/Bed/bed_003_A.prefab	None	-476.462, 66.008, 1300.601	1, 1, 1	1, 1, 1	351.0135, 60.62783, 1.129542	False	0		{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60028\", 1, True} , { \"QuestCondition\" : \"Q60028\", 2, True}  ], 1} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60043_01\", 1, False} , { \"TimeCondition\" : 0, 5}  ], 0}  ], 0} 	0	0"
@@ -40084,9 +40084,9 @@
   splits:
   - split: 1
     text: "发现阿九李连"
-    translated: "Found A Jiu Li Lian"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "A',阿,"
+    translated: "Found A'jie Li"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 4009
   raw: "s91005	雪翼雕事件	EventBox		None	-1186.27, 192.84, -945.78	1, 1, 1	37.4176, 2.396026, 30.66037	0, 4.795769, 0	False	0		{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q52003_02\", 0, True}  ], 0} 	{ \"MultiAction\" : [ { \"RunMovieAction\" : \"m9106001b\"}  ]} 	0"
