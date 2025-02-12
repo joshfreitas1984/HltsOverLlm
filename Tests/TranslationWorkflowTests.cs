@@ -266,7 +266,7 @@ public class TranslationWorkflowTests
             modified = true;
         }
 
-        if (split.Text.StartsWith("...") && !split.Translated.StartsWith("..."))
+        if ((split.Text.StartsWith("...") || split.Text.StartsWith("…")) && !split.Translated.StartsWith("..."))
         {
             Console.WriteLine($"Missing ... {outputFile} Replaces: \n{split.Translated}");
             split.Translated = $"...{split.Translated}";

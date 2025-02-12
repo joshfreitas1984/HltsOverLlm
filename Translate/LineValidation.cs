@@ -304,6 +304,7 @@ public class LineValidation
                 result = result.Replace("”", "");
 
             result = result
+                .Replace("…", "...")
                 .Replace("<p>", "", StringComparison.OrdinalIgnoreCase)
                 .Replace("</p>", "", StringComparison.OrdinalIgnoreCase)
                 .Replace("<div>", "", StringComparison.OrdinalIgnoreCase)

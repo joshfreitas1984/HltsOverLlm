@@ -12388,7 +12388,7 @@
   splits:
   - split: 1
     text: "王喆又几度遇上了在卧龙村结识的道人纯阳子，"
-    translated: "Wang Zhe once again encountered the Daoist Pure Yang from Dragon's Rest Village"
+    translated: "Wang Zhe once again encountered the Daoist he had met in Dragon's Rest Village, the Pure Yang Master"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -12398,9 +12398,9 @@
   splits:
   - split: 1
     text: "每次相遇，纯阳子必从旁点拨，"
-    translated: "Every time they met, Zunyangzi would always give guidance from the side"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    translated: "Each time they meet, Brother Qunyang always offers guidance from the sidelines"
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Pure Yang Master,纯阳子,"
     flaggedGlossaryOut: ""
 - lineNum: 1283
   raw: "Final17_11	引导王喆领悟「太清罡气」中的道学深意，"
