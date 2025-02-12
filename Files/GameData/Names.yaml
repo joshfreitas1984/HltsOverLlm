@@ -3,8 +3,6 @@
   result: Kong Jin
 - raw: 汪治枣
   result: Wang Zhizao
-- raw: 阿巧
-  result: A Qiao
 - raw: 南贤
   result: Southern Sage
 - raw: 南闲
@@ -31,10 +29,6 @@
   result: Duan Siping
 - raw: 段思良
   result: Duan Siliang
-- raw: 阿得阿克
-  result: Ade Ake
-- raw: 阿西阿贡
-  result: Axi Agong
 - raw: 禾郁青
   result: He Yuqing
 - raw: 禾泓淵
@@ -51,8 +45,6 @@
   result: Situ Jing
 - raw: 石鸿图
   result: Shi Hongtu
-- raw: 漆笑儿
-  result: Qi Xiao'er
 - raw: 漆笑兒
   result: Qi Xiao'er
 - raw: 樊香蝶
@@ -111,8 +103,6 @@
   result: Gong Yankui
 - raw: 苏清瑞
   result: Su Qingrui
-- raw: 阿田
-  result: A Tian
 - raw: 贾文清
   result: Jia Wenqing
 - raw: 甄学世
@@ -146,8 +136,6 @@
   result: Guo Liang
 - raw: 仁惠
   result: Ren Hui
-- raw: 阿克
-  result: Ake
 - raw: 王肇
   result: Wang Zhao
 - raw: 张登第
@@ -168,12 +156,8 @@
   result: Lord Three Advantages
 - raw: 三得师
   result: Lord Three Advantages
-- raw: 阿恒
-  result: A Heng
 - raw: 邵如珏
   result: Shao Rujue
-- raw: 珏儿
-  result: Jue'er
 - raw: 冯观戏
   result: Feng Guanxi
 - raw: 战胤飞
@@ -198,38 +182,12 @@
   result: Ye Yulong
 - raw: 禾郁茵
   result: He Yuyin
-- raw: 阿玉阿姗
-  result: Ayu Ashan
 - raw: 叶金虹
   result: Ye Jinhong
 - raw: 葉金虹
   result: Ye Jinhong
-- raw: 阿加阿腾
-  result: Ajia Ateng
-- raw: 阿杰阿戈
-  result: Ajie Age
-- raw: 阿姗阿艾
-  result: Ashan Aai
-- raw: 阿加阿部
-  result: Ajia Abu
-- raw: 阿月阿英
-  result: Ayue Aying
-- raw: 阿奇阿满
-  result: Aqi Aman
 - raw: 漆姑娘
   result: Miss Qi
-- raw: 阿泰阿席
-  result: Atai Axi
-- raw: 阿季阿宗
-  result: Aji Azong
-- raw: 阿季阿宇
-  result: Aji Ayu
-- raw: 阿月阿兰
-  result: Ayue Alan
-- raw: 阿从阿季
-  result: Acong Aji
-- raw: 阿邓阿布
-  result: Adeng Abu
 - raw: 白露霜
   result: Bai Lushuang
 - raw: 李彦仙
@@ -298,28 +256,12 @@
   result: Danling
 - raw: 夏柳
   result: Xia Liu
-- raw: 画儿
-  result: Hua'er
-- raw: 花儿
-  result: Hua'er
-- raw: 寒儿
-  result: Han'er
-- raw: 凉儿
-  result: Liang'er
 - raw: 明煦
   result: Ming Xu
-- raw: 乐儿
-  result: Le'er
-- raw: 红儿
-  result: Hong'er
-- raw: 虹儿
-  result: Hong'er
 - raw: 雨荷
   result: Yu He
 - raw: 幽兰
   result: You Lan
-- raw: 诗儿
-  result: Shi'er  
 - raw: 花里俏
   result: Hua Liqiao
 - raw: 花燕
@@ -346,38 +288,14 @@
   result: He Yudie
 - raw: 段某
   result: Surnamed Duan  
-- raw: 粉儿
-  result: Fen'er
 - raw: 文三娘
   result: Wen Sanniang
 - raw: 张又沉
   result: Zhang Youchen
 - raw: 拂衣
   result: Fuyi
-- raw: 蛛儿
-  result: Zhu'er
-- raw: 珠尔
-  result: Zhu'er
-- raw: 蝎儿
-  result: Xie'er
-- raw: 惜儿
-  result: Xi'er
-- raw: 蚣儿
-  result: Gong'er
-- raw: 弓儿
-  result: Gong'er
 - raw: 董先生
   result: Master Dong
-- raw: 愚儿
-  result: Yu'er
-- raw: 傻儿
-  result: Sha'er
-- raw: 丑儿
-  result: Chou'er
-- raw: 怪儿
-  result: Guai'er
-- raw: 凝儿
-  result: Ning'er
 - raw: 董大人
   result: Lord Dong
 - raw: 董军师
@@ -400,8 +318,6 @@
   result: Elder Henge
 - raw: 太阴至尊
   result: Supreme Taiyin
-- raw: 阿凝
-  result: A Ning
 - raw: 绯绯
   result: Fei Fei
 - raw: 杜晋鹏
@@ -416,10 +332,6 @@
   result: Ju Gu
 - raw: 小白花
   result: Xiao Bai Hua
-- raw: 阿菊婶
-  result: Ju A Shen
-- raw: 菊阿婶
-  result: Ju A Shen
 - raw: 纪桐
   result: Ji Tong
 - raw: 纪玫湘
@@ -450,3 +362,95 @@
   result: Baili Danhe
 - raw: 霍峻
   result: Huo Jun
+
+# 'Er
+- raw: 愚儿
+  result: Yu'er
+- raw: 傻儿
+  result: Sha'er
+- raw: 丑儿
+  result: Chou'er
+- raw: 怪儿
+  result: Guai'er
+- raw: 凝儿
+  result: Ning'er
+- raw: 蛛儿
+  result: Zhu'er
+- raw: 珠尔
+  result: Zhu'er
+- raw: 蝎儿
+  result: Xie'er
+- raw: 惜儿
+  result: Xi'er
+- raw: 蚣儿
+  result: Gong'er
+- raw: 弓儿
+  result: Gong'er
+- raw: 诗儿
+  result: Shi'er  
+- raw: 粉儿
+  result: Fen'er
+- raw: 漆笑儿
+  result: Qi Xiao'er
+- raw: 珏儿
+  result: Jue'er
+- raw: 画儿
+  result: Hua'er
+- raw: 花儿
+  result: Hua'er
+- raw: 寒儿
+  result: Han'er
+- raw: 凉儿
+  result: Liang'er
+- raw: 乐儿
+  result: Le'er
+- raw: 红儿
+  result: Hong'er
+- raw: 虹儿
+  result: Hong'er
+
+# A'
+- raw: 阿巧
+  result: A Qiao
+- raw: 阿得阿克
+  result: Ade Ake
+- raw: 阿西阿贡
+  result: Axi Agong
+- raw: 阿田
+  result: A Tian
+- raw: 阿克
+  result: Ake
+- raw: 阿恒
+  result: A Heng
+- raw: 阿玉阿姗
+  result: Ayu Ashan
+- raw: 阿加阿腾
+  result: Ajia Ateng
+- raw: 阿杰阿戈
+  result: Ajie Age
+- raw: 阿姗阿艾
+  result: Ashan Aai
+- raw: 阿加阿部
+  result: Ajia Abu
+- raw: 阿月阿英
+  result: Ayue Aying
+- raw: 阿奇阿满
+  result: Aqi Aman
+- raw: 阿泰阿席
+  result: Atai Axi
+- raw: 阿季阿宗
+  result: Aji Azong
+- raw: 阿季阿宇
+  result: Aji Ayu
+- raw: 阿月阿兰
+  result: Ayue Alan
+- raw: 阿从阿季
+  result: Acong Aji
+- raw: 阿邓阿布
+  result: Adeng Abu
+- raw: 阿凝
+  result: A Ning
+- raw: 阿菊婶
+  result: Ju A Shen
+- raw: 菊阿婶
+  result: Ju A Shen

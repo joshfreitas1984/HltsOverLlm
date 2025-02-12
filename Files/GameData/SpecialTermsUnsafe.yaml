@@ -52,16 +52,6 @@
 - raw: 小时
   result: Hour
 
-# We should do this programmatically at some point
-- raw: 巴大哥
-  result: Senior Brother Ba
-- raw: 燕大哥
-  result: Senior Brother Yan
-- raw: 李大哥
-  result: Senior Brother Li
-- raw: 阿克大哥
-  result: Senior Brother Ake
-
 # Faction Followers
 - raw: 丐帮帮众
   result: Beggars' Sect Follower
@@ -93,12 +83,6 @@
   result: Tiger
 - raw: 西门玉堂
   result: West Gate Jade Hall
-- raw: 阿郁
-  result: Ayu
-- raw: 阿宇
-  result: Ayu
-- raw: 阿玉
-  result: Ayu
 - raw: 思良将军
   result: General Siliang
 # Merciless Hall

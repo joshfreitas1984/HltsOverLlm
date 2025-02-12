@@ -3,7 +3,6 @@
 # Names without Hallucination
 - raw: 凌某
   result: Surnamed Ling
-
 - raw: 徐某
   result: Surnamed Xu
 - raw: 徐某人
@@ -15,26 +14,39 @@
   result: Shopkeeper Jin
 - raw: 金掌柜
   result: Shopkeeper Jin
-
 - raw: 步小哥
   result: Little Brother Du
-
 - raw: 白大姐
   result: Senior Sister Bai
-
 - raw: 风王
   result: Wind King
 - raw: 鬼王
   result: Ghost King
 - raw: 明尊的圣火
   result: Sacred Fire of the Radiant Lord
-
-- raw: 阿喆
-  result: Azhe
 - raw: 霜妹
   result: Sister Shuang
 - raw: 天外来客
   result: Guest from beyond the skies
+
+# A'
+- raw: 阿喆
+  result: A Zhe
+- raw: 阿郁
+  result: Ayu
+- raw: 阿宇
+  result: Ayu
+- raw: 阿玉
+  result: Ayu
+
+- raw: 巴大哥
+  result: Senior Brother Ba
+- raw: 燕大哥
+  result: Senior Brother Yan
+- raw: 李大哥
+  result: Senior Brother Li
+- raw: 阿克大哥
+  result: Senior Brother Ake
 
 #Heroic
 - raw: 大侠
