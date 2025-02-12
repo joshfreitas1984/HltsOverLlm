@@ -8,6 +8,8 @@
   result: Surnamed Xu
 - raw: 徐某人
   result: Surnamed Xu
+- raw: 李某
+  result: Surnamed Li 
 
 - raw: 金掌柜啊
   result: Shopkeeper Jin
@@ -26,6 +28,13 @@
   result: Ghost King
 - raw: 明尊的圣火
   result: Sacred Fire of the Radiant Lord
+
+- raw: 阿喆
+  result: Azhe
+- raw: 霜妹
+  result: Sister Shuang
+- raw: 天外来客
+  result: Visitor from beyond the skies
 
 #Heroic
 - raw: 大侠
