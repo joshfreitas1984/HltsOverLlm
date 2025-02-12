@@ -400,7 +400,7 @@ n07001b	Huangfu Dengyun	ml_standA00	n07001b	99.886, 89.98509, -228.377	199.7047	
 n07001c	Huangfu Dengyun	m_sleep003_ec	n07001b	126.064, 90.25075, -192.089	262.2328		FALSE	TRUE						1	8	1	n07001b	n07001a				{ "LogicalNode" : [ { "CheckFlagAction" : "f9天書碎片數量", 0, 3} , { "QuestCondition" : "Q07002", 1, True}  ], 0} 	0
 n07001d	Huangfu Dengyun	ml_standA00	n07001b	98.5, 89.5883, -199.37	159.5508		TRUE	TRUE						1	8	0	n07001b	n07001				{ "LogicalNode" : [ { "CheckFlagAction" : "f00024", 1, 1}  ], 0} 	0
 n07001e	Huangfu Dengyun	m_kneel 002_ec	n07001	0, 0, 0	0		FALSE	TRUE						1	0	0	n07001a	n07001b				{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 0, True}  ], 0} 	0
-n07002	Bai Danhe	old_m_idle102	n90426	0, 0, 0	0		FALSE	TRUE		v00080				1	0	0	n07002	n07002				0	0
+n07002	Baili Danhe	old_m_idle102	n90426	0, 0, 0	0		FALSE	TRUE		v00080				1	0	0	n07002	n07002				0	0
 n07002a	Baili Danhe	ml_idle109	n90426	0, 0, 0	0		FALSE	TRUE		v00080				1	0	0	n07002	n07002				{ "LogicalNode" : [ { "CheckFlagAction" : "f00024", 1, 1}  ], 0} 	0
 n07002b	Baili Danhe	m_kneel 002_ec	n90426	0, 0, 0	0		FALSE	TRUE		v00080				1	0	0	n07002	n07002				0	0
 n07003	Feng Guanxi	ml_idle202	n90428	0, 0, 0	0		FALSE	TRUE		v00224				1	0	0	n07003	n07003				0	0
@@ -1726,9 +1726,9 @@ n20581	Cheng Yanhua	w_standA00	n60400	0, 0, 0	0		FALSE	TRUE						2	0	0	n20207	n6
 n20581b	Zhuan Sunning	wl_standA00	n60560	0, 0, 0	0		FALSE	TRUE						2		0	n60509					0	0
 n20582	Yan Yushu	w_standC00	n79998	0, 0, 0	0		FALSE	TRUE						2	24	0	n09999	n09999a				0	0
 n20582b	Yan Yushu	wl_standA00	n79998	0, 0, 0	174.7144		FALSE	FALSE						2		0	n09999	n09999a				0	0
-n20583	Tong Zhaogu	m_standD00	c_m40	0, 0, 0	0		FALSE	TRUE		v00204				1		0	n20583	n20583				0	0
-n20584	Thugee Sect Apprentice	ml_standA00	c_m39	0, 0, 0	0		FALSE	FALSE						1		0	n20584	n20584				0	0
-n20585	Thugee Sect Apprentice	m_standA00	c_m39	0, 0, 0	0		FALSE	FALSE						1		0	n20585	n20585				0	0
+n20583	Grandmaster of the Beggars' Sect	m_standD00	c_m40	0, 0, 0	0		FALSE	TRUE		v00204				1		0	n20583	n20583				0	0
+n20584	Disciple of the Beggars' Sect	ml_standA00	c_m39	0, 0, 0	0		FALSE	FALSE						1		0	n20584	n20584				0	0
+n20585	Disciple of the Beggars' Sect	m_standA00	c_m39	0, 0, 0	0		FALSE	FALSE						1		0	n20585	n20585				0	0
 n20586	Monk Wuming	ml_standA00	n20586	-1450.93, 257.93, 981.66	231.4448		FALSE	TRUE	n2058601000	v00081b				1		1	n20586	n20586b	n20586,n20586b,n20586c			0	0
 n20586b	Monk Wuming	m_worship_ec	n20586	-1338.53, 166.558, 833.0316	252.4353		FALSE	TRUE		v00081b				1		1	n20586	n20586				{ "LogicalNode" : [ { "QuestCondition" : "Q20031_10", 0, True}  ], 0} 	0
 n20587	Soldier	ml_standA00		-830.4434, 66.95138, 1099.321	0	6-19	TRUE	FALSE	n2058701000			n20587		1	8	0	n00078a					{ "LogicalNode" : [ { "QuestCondition" : "Q20029_01", 1, True} , { "LogicalNode" : [ { "CheckTimeBlackboardAction" : "f2狼蠻世子準備屠村", True} , { "QuestCondition" : "Q20030_03", 1, False}  ], 1}  ], 0} 	0
@@ -5907,9 +5907,9 @@ n90616	Qingcheng Sect Disciple	ml_idle101	c_m08	0, 0, 0	0		TRUE	FALSE		v00186			
 n90617	Second Master Cui	ml_standA00	c_m39	0, 0, 0	0		FALSE	TRUE	n9060106000	v00204				1	0	0	n90617	n90617	0			0	0
 n90617b	Second Master Cui	ml_standA00	c_m39	0, 0, 0	0		TRUE	TRUE	n9060104070	v00204				1	0	0	n90617	n90617	0			{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q90008_03", 1, False} , { "TimeCondition" : 20, 23}  ], 0}  ], 1} 	0
 n90618	Shuchuan Branch Vice Commander	ml_idle003	c_m17	0, 0, 0	0		TRUE	TRUE		v00203				1	0	0	n90005	n90618	0			0	0
-n90619	Beggar Sect Follower	ml_idle002	c_m02	0, 0, 0	0		TRUE	FALSE		v00203				1	0	0	n90619	n90619	0			0	0
-n90620	Beggar Sect Follower	ml_idle001	c_m19	0, 0, 0	0		TRUE	FALSE		v00203				1	0	0	n90620	n90620	0			0	0
-n90621	Beggar Sect Follower	ml_idle004	c_m14	0, 0, 0	0		TRUE	FALSE		v00203				1	0	0	n90621	n90621	0			0	0
+n90619	Beggars' Sect Follower	ml_idle002	c_m02	0, 0, 0	0		TRUE	FALSE		v00203				1	0	0	n90619	n90619	0			0	0
+n90620	Beggars' Sect Follower	ml_idle001	c_m19	0, 0, 0	0		TRUE	FALSE		v00203				1	0	0	n90620	n90620	0			0	0
+n90621	Beggars' Sect Follower	ml_idle004	c_m14	0, 0, 0	0		TRUE	FALSE		v00203				1	0	0	n90621	n90621	0			0	0
 n90622	Shuchuan Fenduo: Zhou Duozhu	m_sleep_dead001_ec	c_m17	0, 0, 0	0		TRUE	FALSE						1	0	3	n90618		0			{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q90008_03", 1, False} , { "TimeCondition" : 20, 23}  ], 0}  ], 1} 	0
 n90623	Merciless Hall Member	ml_idle109	n20154	0, 0, 0	0		TRUE	FALSE		v00026				1	0	0	n20154	n90623	0			0	0
 n90624	Merciless Hall Member	ml_idle102	n20154	0, 0, 0	0		TRUE	FALSE		v00026				1	0	0	n20154	n90624	0			0	0

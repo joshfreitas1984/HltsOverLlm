@@ -890,9 +890,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "百里惮赫祖传的刀法，其要旨端在招数精奇，不在以力碰力，虽然招式看上去跟一般刀法没有什么大差别，但是后着巧妙，虚实互用，忽虚忽实，令人莫测高深。"
-    translated: "The blade arts passed down by Baidi Dan from his ancestor Hezu focus on the intricacy of techniques rather than brute force. Although the forms appear similar to other blade styles, their follow-up movements are cleverly designed, utilizing deception and reality interchangeably, creating an unpredictable depth that is difficult for others to grasp"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Baili Danhe,百里惮赫,"
+    translated: "The blade art passed down by Baili Danhe emphasizes the intricacy of its techniques rather than relying on brute force. Although the moves appear similar to common blade arts, their follow-through is cleverly designed, with a masterful blend of deception and reality, shifting seamlessly between apparent emptiness and substance. This makes it incredibly difficult for opponents to anticipate"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 56
   raw: "it30308	奇门三才刀	it30308	三才即天才、地才、人才。易经有云：「立天之道曰阴与阳，立地之道曰柔与刚，立人之道曰仁与义，兼三才而两之。」三才之语词即由此而来。而三才刀法看似凌乱不成章法，但实则暗藏阴阳五行之生克变化。	303	5000	2500	TRUE	1	70	999999	SkillTree134	Blade	0	0	-0.5	"
