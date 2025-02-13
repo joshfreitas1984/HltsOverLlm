@@ -1,5 +1,9 @@
 ﻿entries:
 
+# Other
+- raw: 战寨主
+  result: Fort Master
+
 # Names without Hallucination
 - raw: 凌某
   result: Surnamed Ling
@@ -115,6 +119,8 @@
   result: A'Dan
 - raw: 阿洁
   result: A'Jie
+- raw: 阿向
+  result: A'Xiang
 
 - raw: 巴大哥
   result: Senior Brother Ba
