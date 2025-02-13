@@ -1126,7 +1126,7 @@ nick102buff	Miao Girl of Qing Village	Within a 2-unit distance from He Baishao, 
 nick103	The Iron Panther's Silver Spear	During combat, Black Panther enters the fray; each turn increases its own move damage by 5%, up to a maximum of 50%	0	nickname	0	TRUE	0	FALSE	0	0		nick103
 nick104	A young soldier from Nanzhao	Duan Siliang increases Critical Hit rate by an additional 5% at the start of each round for every allied unit within a 10-unit radius	0	nickname	0	TRUE	0	FALSE	0	0		nick104
 nick105	Ancient Noble Family	Within a 5-unit radius of Dong Jialuo, enemy forces have their critical strike rate reduced by 15% at the start of each round	0	nickname	0	TRUE	0	FALSE	0	0		nick105
-nick106	Successor of the Tusi	At the start of each round, restore 15% lifeforce to allies within a 2-unit distance and increase hit combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick106
+nick106	Successor of the chieftain	At the start of each round, restore 15% lifeforce to allies within a 2-unit distance and increase hit combo rate by 15%	0	nickname	0	TRUE	0	FALSE	0	0		nick106
 nick107	The Mu Mansion Warlords	When unleashing a critical strike, increase own critical rate by 20% and add Bolstered Will to oneself and allies within 2 tiles	0	nickname	0	TRUE	0	FALSE	0	0		nick107
 nick107a	High morale and eager to fight	Each round restores 10% lifeforce and adds a cumulative critical hit rate of 10%, lasting for three rounds	0	battle	0	TRUE	0	FALSE	0	0		nick107a
 nick108	Three Flower Generals	When there is one enemy within a 2-unit radius of oneself, upon critical hit, the self additionally recovers 1 point of energy	0	nickname	0	TRUE	0	FALSE	0	0		nick108
