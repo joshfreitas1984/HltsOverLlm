@@ -485,8 +485,8 @@ SkillTree067_000	Qinggong Miji		1	SkillNode04	[]	Active		0		0	0	Enemy	single : {
 SkillTree067_001	Qinggong Secret Manual		1	SkillNode04	[]	Active		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
 SkillTree068_000	Eagle Hunter Assault		1	skillIcon001_1	[]	Active		0	al20004@skill02	4	0	Enemy	air : { 0, 0, 0 }, 0, 2		Target	0	wounded03	FALSE	300	Other	0	0	
 SkillTree068_001	Aggressive Eagle Strike		1	skillIcon001_1	[]	Active		0	al20004@skill04	5	0	Enemy	air : { 0, 0, 0 }, 0, 2		Target	0	wounded06	FALSE	390	Other	0	0	
-SkillTree068_002	Blizzard Wing Carving Shock		1	skillIcon001_1	[]	Active		0	al20004@skill01	6	0	Enemy	air : { 0, 0, 0 }, 0, 3		Target	0	wounded08	FALSE	562	Other	0	0	
-SkillTree068_003	Snow Wing Strikes Furiously		1	skillIcon001_1	[]	Active		0	al20004@skill03	6	0	Enemy	air : { 0, 0, 0 }, 0, 4		Target	0	wounded12	FALSE	764	Other	0	0	
+SkillTree068_002	Snow Winged Eagle charges		1	skillIcon001_1	[]	Active		0	al20004@skill01	6	0	Enemy	air : { 0, 0, 0 }, 0, 3		Target	0	wounded08	FALSE	562	Other	0	0	
+SkillTree068_003	The Snow Winged Eagle strikes powerfully		1	skillIcon001_1	[]	Active		0	al20004@skill03	6	0	Enemy	air : { 0, 0, 0 }, 0, 4		Target	0	wounded12	FALSE	764	Other	0	0	
 SkillTree069_000	Flying Eagle Bow Technique		10000	SkillTree069_000	[]	Active		0	skill_wp4b005	6	300	Enemy	air : { 0, 0, 0 }, 3, 8	fm_atk_bow	Target	1000		FALSE	468	Bow	0.5	SkillTree069_000	
 SkillTree069_001	Arrow Wing	Activate the Flying Eagle Arrow Technique to increase personal combo rate by six points	6000	skillIcon001_1	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree069_001	FALSE	0	None	0	0	SkillTree069_000
 SkillTree069_002	Ying Yu	Flyhawk Arrow Secret adds an additional 6 points to sinew strength	6000	skillIcon001_1	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree069_002	FALSE	0	None	0	0	SkillTree069_000
@@ -1369,7 +1369,7 @@ SkillTree182_011	Spill blood and rend flesh	If you kill enemies in a sea of corp
 SkillTree182_012	Curse of Blood and Flame	Consumption of internal energy is halved in the ocean of blood and mountain of corpses	6600	SkillTree182_2	[{"Type":2,"Value1":"0","Value2":"3_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree182_012	FALSE	0	None	0	0	SkillTree182_001
 SkillTree182_013	Victory without bloodshed	If equipped with the Blood Sword, the power of Blood Rain and Windy, Blood Sea of Corpses, and Blood River is enhanced	9900	SkillTree182	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree182_013	FALSE	0	None	0	0	SkillTree182_000,SkillTree182_001,SkillTree182_002
 SkillTree182_014	Blade Arts Cultivation		4000	skillIcon001_1	[]	PropertyAdd	(Blade,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree183_000	Capture the snowy-winged eagle		1	SkillTree091_001	[]	Active		0	skill_wp0a023	5	50	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0	buffSkillTree183_000	FALSE	50	None	0	SkillTree183_000	
+SkillTree183_000	Capture the Snow Winged Eagle		1	SkillTree091_001	[]	Active		0	skill_wp0a023	5	50	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0	buffSkillTree183_000	FALSE	50	None	0	SkillTree183_000	
 SkillTree183_001	Attainment		1	skillIcon001_1	[]	PropertyAdd		0		0	0	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		FALSE	0	None	0	0	
 SkillTree184_000	Mountain Crashing Force	Attack Power +8% (Neigong)	12500	SkillTree184_000	[{"Type":1,"Value1":"309","Value2":"30","Operator":0}]	Operative		0		0	0	Enemy			Target	0	buffSkillTree184_000	FALSE	0	None	0.5	SkillTree184_000	
 SkillTree184_001	Qunyang Neigong		4000	skillIcon001_1	[]	PropertyAdd	(Neigong,2)(YinAndYang,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	

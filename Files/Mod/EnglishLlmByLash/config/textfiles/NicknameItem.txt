@@ -10,12 +10,12 @@ nick007	Tian Nan Wang Dao	Within a two-grid radius, allies reduce their own nega
 nick007P	Revive the Kingly Way	Within a 4-tile radius of allies, reduce negative status by 5 points and increase positive status by 3 points each turn		n51001	nick007Plus
 nick008	Thicket of Poisonous Feathers	If you are within a distance of 2 units from He Ziwang, you will be poisoned for 8 points each turn		n90405	nick008
 nick008P	Swans that die together	If you remain within a 4-unit distance of He Ziwang, you will be poisoned for 8 points and your allies' abilities will decrease by 5 points each round		n90405	nick008Plus
-nick009	Snowy Mountain Divine Eagle	Snowy Wing Sparrow joins the battle; personal archery damage increases by 25%, and all allies receive the status Falconer		n50060	nick009
+nick009	Snowy Mountain Divine Eagle	During battle, the Snow Winged Eagle joins the fray; its own bow and arrow damage is increased by 25%, and all allies gain the status Falconer's Instinct		n50060	nick009
 nick009b	Soar for a thousand miles	There is a 20% chance to dodge the attack		n50070	nick009b
 nick009c	Snowy Mountain Divine Eagle	Upon entering the field, the Eagle Hunter joins the battle; personal bow and arrow damage increases by 25%, and all allies receive the status Eagle Hunter		n50060	nick009c
 nick009d	Snowy Mountain Divine Eagle	Self-bow and arrow damage increased by 25%		n50060	nick009d
 nick009e	Soar for a thousand miles	There is a 10% chance to dodge the attack and inflict the status Paralysis Poison on yourself		n50070	nick009e
-nick009P1	Phoenix Eagle Rises Again	During battle, Xueyidiao joins the fight; personal archery damage increases by 40%, and all allies gain the status Falconer		n50060	nick009P1
+nick009P1	Phoenix Eagle Rises Again	During battle, the Snow Winged Eagle joins the fray; its own archery damage increases by 40%, and all allies gain the status Falconer's Aim		n50060	nick009P1
 nick009P2	Phoenix Eagle Rises Again	When entering the battlefield, Eagle Hunter joins the fight; their own bow and arrow damage increases by 40%, and all allies receive the status Hawk Hunter		n50060	nick009P2
 nick010a	Lan Hui Jie Yu	When Yan Yushu is on the field, all teammates' attack power increases by 50%		n09999a	nick010a
 nick010aP	Ghostly Fragrance	When Yan Yushu is on the field, all teammates' attack power increases by 50%, and their damage reduction is 10%		n09999a	nick010aP

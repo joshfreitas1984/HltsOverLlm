@@ -13492,13 +13492,13 @@
   splits:
   - split: 1
     text: "捕捉雪翼雕"
-    translated: "Capture the snowy-winged eagle"
+    translated: "Capture the Snow Winged Eagle"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "15%机率成功捕捉雪翼雕，雪翼雕血量越低，捕捉成功的机率越高。"
-    translated: "There is a 15% chance to successfully capture the Snow-winged Eagle. The higher the health of the Snow-winged Eagle, the lower the chance of capturing it successfully"
+    translated: "There is a 15% chance of successfully capturing the Snow Winged Eagle. The higher its remaining health, the lower the chances of a successful capture"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16218,7 +16218,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "雪翼雕有恃无恐，前来袭击聚落，愈战愈强！"
-    translated: "Feathered Snow the Hawk is carefree and bold, coming to attack the settlement; growing stronger with every battle!"
+    translated: "The Snow Winged Eagles, showing complete disregard for danger, have come to attack the village and grow stronger with every battle!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16234,7 +16234,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "雪翼雕身中麻痹剧毒，陷入衰弱…攻击伤害与精力恢复减弱，并累积中毒值20点！"
-    translated: "Snow Wing's body is paralyzed and poisoned, leading to weakness... Attack damage and energy recovery are reduced, and poison value accumulates by 20 points!"
+    translated: "Snow Winged Eagle's body is paralyzed by a severe poison, leading to exhaustion. The attack damage and energy recovery are reduced, accumulating 20 points of poisoning!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16314,7 +16314,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "雪翼雕性情凶猛固执，就算一死也绝不逃走！"
-    translated: "Snow Wing Eagle is fierce and stubborn in nature, and even if it means death, it will never run away!"
+    translated: "The Snow Winged Eagle is fierce and stubborn in temperament; even if it means death, it will never flee!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16330,7 +16330,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "雪翼雕体力不支，显露疲惫…攻击伤害减弱，并累积迷惑值10点"
-    translated: "Snowwing's physique is weakened, revealing fatigue... Attack damage decreases, and confusion value accumulates by 10 points"
+    translated: "The Snow Winged Eagle is out of stamina, showing signs of exhaustion. Its attack damage is reduced, and it accumulates 10 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16346,7 +16346,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "雪翼雕失血过多，愈发虚弱…精力恢复降低，并累积晕眩值10点"
-    translated: "Snow Wing has lost too much blood and is becoming increasingly weak... Energy regeneration reduced, and accumulates dizziness by 10 points"
+    translated: "The Snow Winged Eagle has lost too much blood and is becoming increasingly weak... Energy recovery decreases, accumulating 10 points of dizziness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20004,7 +20004,7 @@
   splits:
   - split: 1
     text: "雪翼雕之羽"
-    translated: "Snowwing's Ornithopter Feather"
+    translated: "The feathers of the Snow Winged Eagle"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

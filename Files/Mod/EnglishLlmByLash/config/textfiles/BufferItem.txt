@@ -841,7 +841,7 @@ buffSkillTree182_010	Face with blood spouting	Bloodshed in torrents reduces the 
 buffSkillTree182_011	Spill blood and rend flesh	If you kill enemies using Blood Sea Corpse Mountain, your own energy is restored by 2 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree182_011
 buffSkillTree182_012	Curse of Blood and Flame	Consumption of internal energy halved in seas of blood and mountains of corpses	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree182_013	Victory without bloodshed	If equipped with Blood Sword, the power of Blood Rain and Foul Wind, Ocean of Blood and Mountain of Corpses, River of Blood is enhanced	0		0	FALSE	0	FALSE	0	0		buffSkillTree182_013
-buffSkillTree183_000	Capture the snowy-winged eagle	There is a 15% chance to successfully capture the Snow-winged Eagle. The higher the health of the Snow-winged Eagle, the lower the chance of capturing it successfully	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree183_000	Capture the Snow Winged Eagle	There is a 15% chance of successfully capturing the Snow Winged Eagle. The higher its remaining health, the lower the chances of a successful capture	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree184_000	Mountain Crashing Force	Powerful Strike Power Enhanced by 8%	0	buffSkillTree184_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree184_000_2	Break open the stone tablets	Combat power increased by 16%	0	buffSkillTree184_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree184_000_3	Earthquake	Attack Power Increased by 24%	0	buffSkillTree184_000	0	TRUE	0	FALSE	0	0		forIcon
@@ -1011,15 +1011,15 @@ BattleSchedule110	Encourage the novices	When fighting with a child, you must not
 BattleSchedule501	Roar! Roar!	Snow Leopard becomes angry upon seeing its enemy and greatly increases damage!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule501
 BattleSchedule502	Shaking	What's so great about the big snow leopard that you should be afraid of it? I'll just eat it in one slice!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule502
 BattleSchedule503	Fear	...Oh no... this snow leopard is vicious... if I had known, I wouldn't have come to the snowy mountain	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule503
-BattleSchedule504	Oh no – !!!	Feathered Snow the Hawk is carefree and bold, coming to attack the settlement; growing stronger with every battle!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule504
-BattleSchedule505	Uh oh	Snow Wing's body is paralyzed and poisoned, leading to weakness... Attack damage and energy recovery are reduced, and poison value accumulates by 20 points!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule505
+BattleSchedule504	Oh no – !!!	The Snow Winged Eagles, showing complete disregard for danger, have come to attack the village and grow stronger with every battle!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule504
+BattleSchedule505	Uh oh	Snow Winged Eagle's body is paralyzed by a severe poison, leading to exhaustion. The attack damage and energy recovery are reduced, accumulating 20 points of poisoning!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule505
 BattleSchedule506	Avenging the eagle hunters!	Eagle Hunter's thirst for revenge is fierce, increasing their attack damage	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule506
 BattleSchedule507	Senior Brother is right!	Follow Senior Brother's footsteps! Significantly enhance your own combat ability!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule507
 BattleSchedule508	Give me back my hunting eagle's life!	A'Ji's desire for revenge is intense, and their combat abilities have significantly improved!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule508
 BattleSchedule509	Training hunting eagles	For each additional hunter falcon captured, it recovers more lifeforce and energy each round	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule509
-BattleSchedule510	Unyielding defiance	Snow Wing Eagle is fierce and stubborn in nature, and even if it means death, it will never run away!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule510
-BattleSchedule511	Exhausted	Snowwing's physique is weakened, revealing fatigue... Attack damage decreases, and confusion value accumulates by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule511
-BattleSchedule512	Weak	Snow Wing has lost too much blood and is becoming increasingly weak... Energy regeneration reduced, and accumulates dizziness by 10 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule512
+BattleSchedule510	Unyielding defiance	The Snow Winged Eagle is fierce and stubborn in temperament; even if it means death, it will never flee!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule510
+BattleSchedule511	Exhausted	The Snow Winged Eagle is out of stamina, showing signs of exhaustion. Its attack damage is reduced, and it accumulates 10 points of confusion	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule511
+BattleSchedule512	Weak	The Snow Winged Eagle has lost too much blood and is becoming increasingly weak... Energy recovery decreases, accumulating 10 points of dizziness	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule512
 BattleSchedule513	Fighting with blood and sweat	Tu Le fought valiantly to fulfill his mission, shedding blood in battle	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule513
 BattleSchedule514	Raise the Spear with Unyielding Spirit	Tu Le vowed to not fail in thier mission and swore to resist to the death	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule514
 BattleSchedule515	Arise with the rage of a hero	Tu Le bathed in blood and resisted fiercely, vowing to slaughter every enemy!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule515
@@ -1248,7 +1248,7 @@ jewelry15	Phoenix Feather	6% chance to dodge enemy attacks	0		0	FALSE	0	FALSE	0	
 jewelry16	Products for Good Luck	Each round randomly increases one of the special skills by 6 points	0		0	FALSE	0	FALSE	0	0		jewelry16
 jewelry17	Mysterious Pendant	Each turn randomly reduces one of the special skills by 20 points, but the experience points gained are increased	0		0	FALSE	0	FALSE	0	0		jewelry17
 jewelry19	Golden Hand Technique	Low probability to instantly kill enemies with a lower level than oneself	0		0	FALSE	0	FALSE	0	0		jewelry19
-jewelry20	Snowwing's Ornithopter Feather	6% chance to dodge enemy attacks; gain an additional 1 point of energy each turn	0		0	FALSE	0	FALSE	0	0		jewelry20
+jewelry20	The feathers of the Snow Winged Eagle	6% chance to dodge enemy attacks; gain an additional 1 point of energy each turn	0		0	FALSE	0	FALSE	0	0		jewelry20
 jewelry21	Bandit's Bracer	Each turn, increase all of your skill values by 2 points; for every unit of distance moved, additionally increase your combo rate by 2 points; the effect is better with higher qinggong	0		0	FALSE	0	FALSE	0	0		jewelry21
 jewelry22	Mani Stone Talisman	At the start of a round, increase your own unburdening by 3 points; resist joint manipulation and bone twisting for 6 points	0		0	FALSE	0	FALSE	0	0		jewelry22
 jewelry23	Nightlight Mani Stone	At the start of a turn, increase your own off-qi by 3 points; resist joint manipulation and dislocation by 6 points; recover 9% of internal power	0		0	FALSE	0	FALSE	0	0		jewelry23

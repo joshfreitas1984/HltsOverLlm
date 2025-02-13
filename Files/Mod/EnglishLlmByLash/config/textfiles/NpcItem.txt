@@ -2163,7 +2163,7 @@ n40052	Nan Jian	ml_idle107	c_m20	0, 0, 0	0		FALSE	TRUE						1		1	n20538	n40038		
 n40053	Shadowed West	ml_idle010	c_m10	0, 0, 0	0		FALSE	TRUE						1		1	n51010	n40039				{ "LogicalNode" : [ { "QuestCondition" : "Q40016", 0, True}  ], 0} 	0
 n40054	Northern Fist King	ml_idle008	c_m25	0, 0, 0	0		FALSE	TRUE						1		1	n30037-2	n40040				{ "LogicalNode" : [ { "QuestCondition" : "Q40016", 0, True}  ], 0} 	0
 n40055	Four Great Demons	ml_standA00		0, 0, 0	0		FALSE	FALSE						1		0						0	0
-n40056	Swan Feather Sculpture	al20004@idle	animal35	-1379.979, 205.4651, -901.8962	-45.079		FALSE	TRUE						1	21	0	animal35	n50070				{ "LogicalNode" : [ { "QuestCondition" : "Q40019_02", 0, True} , { "QuestCondition" : "Q40020_02", 0, True}  ], 1} 	0
+n40056	Snow Winged Eagle	al20004@idle	animal35	-1379.979, 205.4651, -901.8962	-45.079		FALSE	TRUE						1	21	0	animal35	n50070				{ "LogicalNode" : [ { "QuestCondition" : "Q40019_02", 0, True} , { "QuestCondition" : "Q40020_02", 0, True}  ], 1} 	0
 n40056a	Little Snow Winged Eagle	al20004@idle	animal35	-1324.93, 146.1401, -686.34	139.817		FALSE	TRUE						1	21	0	animal35	n40041				{ "LogicalNode" : [ { "QuestCondition" : "Q40021_02", 0, True}  ], 1} 	0
 n40057	Eagle Hunter	ml_standA00	c_m30	0, 0, 0	0		FALSE	FALSE		v00149				1	3,4	0	n50056b					{ "LogicalNode" : [ { "QuestCondition" : "Q40019", 0, True} , { "QuestCondition" : "Q40020", 0, True} , { "QuestCondition" : "Q40021", 0, True}  ], 1} 	0
 n40058	A'De A'Ke	ml_standA00	n50060	0, 0, 0	134.1801		TRUE	TRUE						1	4,3	0	n20023	n50060				{ "LogicalNode" : [ { "QuestCondition" : "Q40019", 0, True} , { "QuestCondition" : "Q40020", 0, True} , { "QuestCondition" : "Q40021", 0, True}  ], 1} 	0
@@ -2530,11 +2530,11 @@ n50066m1	Li Huoxiang	ml_standA00	n20129	0, 0, 0	0		TRUE	TRUE		v00226				1	0	1	n2
 n50067a	Mu Mansion Bodyguard A'Jian	m_standA00	c_m21	-649.57, 66.18829, -1014.76	216.16	6-17	TRUE	FALSE	n5006501000	v00071b				1	3	0	n20050d	n50074				{ "LogicalNode" : [ { "CheckFlagAction" : "f50047木奎金瓜貢茶任務階段", 2, 2} , { "QuestCondition" : "Q20011_01", 0, False} , { "QuestCondition" : "Q20011_08", 0, False} , { "QuestCondition" : "Q20011_10", 0, False}  ], 0} 	0
 n50068	Mu Mansion Guard	m_standB00	c_m21	-653.5244, 66.18829, -1016.227	46.71483	6-17	FALSE	FALSE	n5006801000	v00071b				1	3	0	n20050f	n50074b				{ "LogicalNode" : [ { "CheckFlagAction" : "f50047木奎金瓜貢茶任務階段", 2, 2} , { "QuestCondition" : "Q20011_01", 0, False} , { "QuestCondition" : "Q20011_08", 0, False} , { "QuestCondition" : "Q20011_10", 0, False}  ], 0} 	0
 n50069	Mu Mansion Guard	ml_standA00	c_m21	-653.3718, 66.18829, -1013.57	107.5128	6-17	TRUE	FALSE	n5006901000	v00071b				1	3	0	n20050g	n50074c				{ "LogicalNode" : [ { "CheckFlagAction" : "f50047木奎金瓜貢茶任務階段", 2, 2} , { "QuestCondition" : "Q20011_01", 0, False} , { "QuestCondition" : "Q20011_08", 0, False} , { "QuestCondition" : "Q20011_10", 0, False}  ], 0} 	0
-n50070	Swan Feather Sculpture	al20004@idle	animal35	-1184.287, 194.106, -942.1616	246.9591		FALSE	TRUE						1	21	0	animal35	n50070				{ "LogicalNode" : [ { "QuestCondition" : "Q52003_02", 0, True} , { "QuestCondition" : "Q40019", 0, True} , { "QuestCondition" : "Q40021", 0, True}  ], 1} 	0
-n50070b	Swan Feather Sculpture	al20004@idle	animal35	0, 0, 0	0		FALSE	TRUE						1	21	0	animal35	n50070b				0	0
-n50070c	Swan Feather Sculpture	al20004@idle	animal35	0, 0, 0	0		FALSE	TRUE						1	21	0	animal35	n50070c				0	0
-n50070d	Swan Feather Sculpture	al20004@idle	animal35	0, 0, 0	0		FALSE	TRUE						1	21	0	animal35	n50070d				0	0
-n50070e	Swan Feather Sculpture	al20004@idle	animal35	0, 0, 0	0		FALSE	TRUE						1	21	0	animal35	n50070e				0	0
+n50070	Snow Winged Eagle	al20004@idle	animal35	-1184.287, 194.106, -942.1616	246.9591		FALSE	TRUE						1	21	0	animal35	n50070				{ "LogicalNode" : [ { "QuestCondition" : "Q52003_02", 0, True} , { "QuestCondition" : "Q40019", 0, True} , { "QuestCondition" : "Q40021", 0, True}  ], 1} 	0
+n50070b	Snow Winged Eagle	al20004@idle	animal35	0, 0, 0	0		FALSE	TRUE						1	21	0	animal35	n50070b				0	0
+n50070c	Snow Winged Eagle	al20004@idle	animal35	0, 0, 0	0		FALSE	TRUE						1	21	0	animal35	n50070c				0	0
+n50070d	Snow Winged Eagle	al20004@idle	animal35	0, 0, 0	0		FALSE	TRUE						1	21	0	animal35	n50070d				0	0
+n50070e	Snow Winged Eagle	al20004@idle	animal35	0, 0, 0	0		FALSE	TRUE						1	21	0	animal35	n50070e				0	0
 n50071	Venerable Elder	m_sitLoop008	n50071	-681.764, 112.7751, -488.974	216.2883		FALSE	TRUE	n5006503037	v00228b				1	0	1	n50071	n50071				{ "LogicalNode" : [ { "QuestCondition" : "Q52002_03", 0, True} , { "CheckFlagAction" : "f50048是否成功幫陸常稽熱了茶？", 1, 0}  ], 0} 	0
 n50071a	Venerable Elder	ml_sitLoop001	n50071	-662.457, 66.218, -1008.214	183.2992		FALSE	TRUE	n5200101000	v00228				1	0	1	n50071	n50071				{ "LogicalNode" : [ { "QuestCondition" : "Q52001", 1, True} , { "QuestCondition" : "Q52002", 1, True} , { "QuestCondition" : "Q52003", 1, True} , { "QuestCondition" : "Q20011", 1, True}  ], 0} 	0
 n50071b	Venerable Elder	ml_standA00	n50071	-662.56, 184.1931, -662.14	204.086		FALSE	TRUE	n5006503167	v00228b				1	0	1	n50071	n50071				{ "LogicalNode" : [ { "QuestCondition" : "Q52002_04", 0, True}  ], 0} 	0
@@ -4206,7 +4206,7 @@ n59994g	Combat Tester, Wolf Barbarian	ml_standA00		0, 0, 0	193.7377		FALSE	FALSE
 n59995	Yan the Merchant	ml_standA00		0, 0, 0	0		TRUE	FALSE	n5999501000					1	0	0	n20165	n59995			(Money,1)	0	0
 n59996	Mu Mansion Copy Everyman	ml_standA00		0, 0, 0	0		TRUE	FALSE	n5014899000					1	0	0	n50056d					0	0
 n59997	Snowy Mountains Incident	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5999701000					0	0	0	n20040					0	0
-n59998	Snowwing Carving Incident Site	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5999801000					0	0	0	n20050					0	0
+n59998	Snow Winged Eagle Incident Site	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5999801000					0	0	0	n20050					0	0
 n59999	Stranger	ml_standA00		0, 0, 0	0		TRUE	TRUE	n5009901000					1	0	0	n50005		0			0	0
 n60001	Taoshi Gang Zhou Yi	m_sitLoop006	n60001	-569.0997, 112.4298, -1325.576	168.7262		TRUE	TRUE	n6000101000	v00086				1	2	0	n60001	n60001	n60001-1,n60001-2,n60001-3,n60001-4,n60001-5,n60001-6,n60001-7,n60001-8,n60001-9		(Stone_Forge,2)(Money,1)	0	0
 n60001b	Taoshi Gang Zhou Yi	ml_standA00	n60001	0, 0, 0	0		TRUE	TRUE	n6000101000	v00086				1	2	0	n60001	n60001	0		(Stone_Forge,2)(Money,1)	0	0
