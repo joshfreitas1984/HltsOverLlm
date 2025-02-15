@@ -425,7 +425,9 @@ public class TranslationWorkflowTests
             "hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado",
             "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
             "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una", "keqi", "shiwu",
-            "niang", "fuck", "ich", "daren", "furen", "ein", "der", "ganzes", "Leben", "dort", "xiansheng"
+            "niang", "fuck", "ich", "daren", "furen", "ein", "der", "ganzes", "Leben", "dort", "xiansheng",
+            "knight", 
+            //"-in-law"
         };
 
         string pattern = $@"\b({string.Join("|", words)})\b";

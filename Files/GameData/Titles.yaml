@@ -19,6 +19,10 @@
   result: Second Brother
 - raw: 三哥
   result: Third Brother
+- raw: 义姐
+  result: Sworn Sister
+- raw: 义兄
+  result: Sworn Brother
 
 # Names without Hallucination
 - raw: 凌某
