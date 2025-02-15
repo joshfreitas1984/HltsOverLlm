@@ -381,7 +381,7 @@ n00120a	Qi Zhangshi	ml_standA00		149.8, 96.76663, 237.77	201.961		TRUE	FALSE	n00
 n00120b	Loyal Soldier	ml_stand101		150.523, 96.76663, 235.683	0		TRUE	FALSE	n0012002000	v00087				0		0	n00108a					{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 1, True}  ], 0} 	0
 n00120c	Loyal Soldier	ml_standA00		148.892, 96.76663, 235.6763	0		TRUE	FALSE	n0012003000	v00087				1		0	n00108b					{ "LogicalNode" : [ { "QuestCondition" : "Q07004", 1, True}  ], 0} 	0
 n00121a	Old Bai	m_reading001		29.29737, 64.22443, 477.2957	60.57143	8-17	FALSE	FALSE	n0012101000					1	0	1	n00121a					0	0
-n00121b	Old Man of Darkness	m_sitSmoke001_ec		30.672, 63.8, 478.072	243.3281	8-17	FALSE	FALSE	n0012102000					1	0	1	n00121b					0	0
+n00121b	Old Heizi	m_sitSmoke001_ec		30.672, 63.8, 478.072	243.3281	8-17	FALSE	FALSE	n0012102000					1	0	1	n00121b					0	0
 n00122	Chess Equipment Merchant	m_standD00	c_m30	28.64893, 63.8, 480.1945	148.457	8-17	TRUE	FALSE	n0012201000	v00115				1	0	0	n00122	n00122			(Chess_Stuff,1)(Money,1)	0	0
 n00123a	Imperial Guard Corpse	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n00047a					0	0
 n00123b	Imperial Guard Corpse	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n00047b					0	0
