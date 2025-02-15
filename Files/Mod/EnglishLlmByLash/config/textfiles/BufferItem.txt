@@ -1028,7 +1028,7 @@ BattleSchedule517	Aspiration for Power	Mu Kui's combat abilities have significan
 BattleSchedule518	War and weapons	Mu Kui finds himself in a perilous situation, fighting bravely with just his spear! His combat abilities have significantly increased, and he continuously restores his own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518
 BattleSchedule519	United we stand	Follow the Second Young Master's footsteps! The technique greatly increases damage and continuously restores your own lifeforce!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule519
 BattleSchedule520	Lonely Defender	Tu Le is resolute in protecting his master, battling with unwavering determination... Each round significantly increases external injuries and results in a substantial loss of lifeforce	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule520
-BattleSchedule521	Defect at the Last Moment	San Deng defected at the front and helped capture the rebel of Mu Mansion, Mu Kui!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule521
+BattleSchedule521	Defect at the Last Moment	Sang Deng betrayed before the battle and helped apprehend the rebel from Mu Mansion, Mu Kui!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule521
 charge	Charge	Charge attack, causing damage to enemies along the path	0		0	FALSE	0	FALSE	0	0		0
 charge02	Charge	'Chongfeng attack, dealing damage to enemies along the path.'	0		0	FALSE	0	FALSE	0	0		0
 reducespecial	Reduce opponent's skill value	Lower opponent's skills	0		0	FALSE	0	FALSE	0	0		0
