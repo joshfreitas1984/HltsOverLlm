@@ -5,6 +5,20 @@
   result: Fort Master
 - raw: 土司
   result: Chieftain
+- raw: 大郎
+  result: First Son
+- raw: 二郎
+  result: Second Son    
+- raw: 三郎
+  result: Third Son
+- raw: 大哥
+  result: Senior Brother
+  context: A respectful term used among siblings for the older brother.
+  literal: Da Ge
+- raw: 二哥
+  result: Second Brother
+- raw: 三哥
+  result: Third Brother
 
 # Names without Hallucination
 - raw: 凌某
@@ -177,11 +191,6 @@
   result: Brother
   context: Used to refer to or address one's own older brother, often with affection.
   literal: Ge Ge
-
-- raw: 大哥
-  result: Senior Brother
-  context: A respectful term used among siblings for the older brother.
-  literal: Da Ge
 
 # - raw: 师兄
 #   result: Elder Brother
