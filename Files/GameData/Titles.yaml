@@ -46,6 +46,10 @@
   result: Little Tan
 - raw: 敏婆婆
   result: Grandma Min
+- raw: 黑子
+  result: Heizi
+- raw: 黑黑
+  result: Hei Hei
 
 - raw: 金掌柜啊
   result: Shopkeeper Jin
@@ -65,6 +69,7 @@
   result: Sister Shuang
 - raw: 天外来客
   result: Guest from beyond the skies
+
 
 # A'
 # Can't use because of words like father (A Die)
@@ -164,6 +169,8 @@
   result: A'Jia
 - raw: 阿初
   result: A'Chu
+- raw: 阿纹
+  result: A'Wen
 
 
 - raw: 巴大哥
