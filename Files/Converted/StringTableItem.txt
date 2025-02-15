@@ -10088,8 +10088,8 @@
   splits:
   - split: 1
     text: "门前流水尚能西！休将白发唱黄鸡。"
-    translated: "There's still a stream flowing in front of the door, why sing about gray hair and yellow chicken?"
-    flaggedForRetranslation: true
+    translated: "The flowing water in front of the door can still head west! Do not sing of yellow roosters with white hair"
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1043
@@ -13256,8 +13256,8 @@
   splits:
   - split: 1
     text: "红颜祸水？倾国倾城？"
-    translated: "A beautiful woman can be a source of trouble. A beauty who captivates the whole nation"
-    flaggedForRetranslation: true
+    translated: "Are beautiful women a harbinger of disaster? Or captivating beauties that enchant an entire nation?"
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1373

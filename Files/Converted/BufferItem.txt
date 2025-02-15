@@ -4346,7 +4346,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "需求武学「搏击45」，需求感悟「巧：？？？？」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。"
-    translated: "Require martial arts Hand Combat 45, require insight into Clever：'What?！' As soon as this technique is deployed, the user will always end up on the right side of their target enemy before making another move"
+    translated: "Require martial arts Hand Combat 45, require insight into Clever：'????' As soon as this technique is deployed, the user will always end up on the right side of their target enemy before making another move"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16228,8 +16228,8 @@
   splits:
   - split: 1
     text: "嘎啊……！！"
-    translated: "Uh oh"
-    flaggedForRetranslation: true
+    translated: "Ugh...!!"
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2

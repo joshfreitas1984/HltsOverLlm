@@ -301,10 +301,13 @@ public class LineValidation
                 result = result.Replace("“", "");
 
             if (result.Contains('”') && !raw.Contains('”'))
-                result = result.Replace("”", "");
+                result = result.Replace("”", "");  
+
 
             result = result
                 .Replace("…", "...")
+                .Replace("？", "?")
+                .Replace("！", "!")
                 .Replace("<p>", "", StringComparison.OrdinalIgnoreCase)
                 .Replace("</p>", "", StringComparison.OrdinalIgnoreCase)
                 .Replace("<div>", "", StringComparison.OrdinalIgnoreCase)

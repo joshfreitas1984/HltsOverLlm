@@ -842,8 +842,8 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "需求武学「搏击45」，需求感悟「巧：？？？？」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。"
-    translated: "Requirement: martial art Hand Combat 45, Requirement: insight Crafty：Upon executing this technique, the one who performs it will inevitably maneuver around to the right side of their target before attacking again"
-    flaggedForRetranslation: true
+    translated: "Seeking martial arts skill 'Hand Combat 45', seeking to understand the concept of 'Cunning'：???? Once this technique is executed, the user will inevitably circle to the right side of their target before making another move"
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 53

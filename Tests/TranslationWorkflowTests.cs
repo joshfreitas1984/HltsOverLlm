@@ -196,7 +196,7 @@ public class TranslationWorkflowTests
             && !split.Text.StartsWith("【…"))
         {
             Console.WriteLine($"Already Translated {outputFile} \n{split.Translated}");
-            split.Translated = split.Text;
+            split.Translated = LineValidation.CleanupLineBeforeSaving(split.Text, split.Text, outputFile);
             split.ResetFlags();
             return true;
         }        
