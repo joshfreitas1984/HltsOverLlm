@@ -306,7 +306,7 @@ it80192	Antidote to Snake Venom	it80191	Herb that can cure snake venom	801	0	0	F
 it80193	Wild Boar Bait	it80193	Traps baited with mixed grains, jujubes, and eggs are said to have irresistible attraction for the wild boars in Arched Stone Village	801	0	0	FALSE	0	50	0	0	0		0			0
 it80194	Safflower	it80194	A purple flower from Tibet, its red pistil can be used as medicine or for spices, dyes, etc. It is rumored to cure all diseases and is difficult to cultivate with a high price	801	0	0	FALSE	2	50	0	0	0		0			0
 it80195	Croton Seeds	it80195	Often found in various places in Jiangnan, consuming it can cause diarrhea. However, if used properly, it has the effect of invigorating blood and transforming stasis. Only highly skilled doctors can utilize it	801	0	0	FALSE	0	50	0	0	0		0			0
-it80196	Gold Gourd Tribute Tea	it80196	The valuable tea leaves stolen from Qingmu Tea House were meant to be a gift for King Mu's birthday banquet	801	0	0	FALSE	3	50	0	0	0		0			0
+it80196	Golden Gourd Tribute Tea	it80196	The valuable tea leaves stolen from Qingmu Tea House were meant to be a gift for King Mu's birthday banquet	801	0	0	FALSE	3	50	0	0	0		0			0
 it80197	The Corpse of the Snake King	it80197	The body of the snake king found in a den near Arched Stone Village, bring it to the doctor to see if they can concoct an antidote for snake venom	801	0	0	FALSE	3	50	0	0	0		1			{ "MultiAction" : [ { "SetTalkIdAction" : "it8019701000"} ]}
 it80198	Yulong Xuelianhua	it40210	Snow lotus from Yulong Snow Mountain. Very rare	801	0	0	FALSE	3	50	0	0	0		0			0
 it80199	Daoist Xin Liang's handwritten note	it80199	The notes recorded in Daoist Xin Liang's journal	801	0	0	FALSE	0	50	0	0	0		0			0

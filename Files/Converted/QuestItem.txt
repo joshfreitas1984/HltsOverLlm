@@ -3924,7 +3924,7 @@
   splits:
   - split: 1
     text: "与段思平一同前往茶庄附近探听消息"
-    translated: "To go to the tea farm nearby with Duan Siping to gather information"
+    translated: "Go with Duan Siping to the tea house nearby to gather information"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7514,7 +7514,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "在噶玛寺外，你遇到了一个行迹可疑的人，他说可以在寻找佛经上给予你帮助。若有兴趣，就前往大研镇的茶铺找他。"
-    translated: "Outside Karma Monastery, you encounter a suspicious-looking individual who claims he can help you in your search for sutras. If interested, go to the tea house in Dayan Town to find him"
+    translated: "Outside the Karma Monastery, you encounter a suspicious individual who claims he can assist in your search for Buddhist scriptures. If interested, seek him out at the tea house in Dayan Town"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7530,7 +7530,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "张启给予的线索：「噶玛寺附近，小山丘上的六棵树下」。可以到大研镇茶铺找张启购买线索，或是靠自己的力量找到另外三本佛经。在找齐所有的经书之后，便能回噶玛寺找桑登交差了。"
-    translated: "Zhang Qi provided clues：Near Karma Monastery, under the six trees on a small hill, you can go to the tea shop in Dayan Town to buy a clue from Zhang Qi or find another three Buddhist scriptures by yourself. Once all the scriptures are gathered, it's time to return to Karma Monastery and report back to Sang Den"
+    translated: "Zhang Qi's clue：Near Karma Monastery, under the six trees on a small hill, you can go to the tea house in Dayan Town and ask Zhang Qi for clues or rely on your own strength to find the other three sutras. After collecting all the scriptures, you can return to Karma Monastery to exchange with Sangden"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7546,7 +7546,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "张启给予的线索：「噶玛寺附近，小山丘上的六棵树下、平躺在地的大石后方」。可以到大研镇茶铺找张启购买线索，或是靠自己的力量找到另外二本佛经。在找齐所有的经书之后，便能回噶玛寺找桑登交差了。"
-    translated: "Clues given by Zhang Qi：Near Karma Monastery, behind the six trees at the bottom of a small hill and behind Tao Dashi lying on the ground, you can go to the teahouse in Dayan Town and ask Zhang Qi to buy clues. Alternatively, use your own strength to find the other two Buddhist scriptures. Once all the scriptures are gathered, you can return to Karma Monastery to hand them over to Sangdeng"
+    translated: "Clues provided by Zhang Qi：Near the Karma Monastery, on a small hill beneath six trees and behind a large boulder lying flat on the ground. You can visit the tea house in Dayan Town to buy clues from Zhang Qi or rely on your own strength to find the other two Buddhist scriptures. Once you have gathered all the scriptures, you can return to Karma Monastery to meet Sangden"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7562,7 +7562,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "张启给予的线索：「噶玛寺附近，小山丘上的六棵树下、平躺在地的大石后方、视野辽阔的山顶之上」。可以到大研镇茶铺找张启购买线索，或是靠自己的力量找到最后一本佛经。在找齐所有的经书之后，便能回噶玛寺找桑登交差了。"
-    translated: "Zhang Qi's clue：On the small hill near Karma Monastery, behind the six trees at its base and beyond Tao Dashi lying on the ground, atop a vista from the mountain peak. You can go to the teahouse in Dayan Town and ask Zhang Qi for clues, or rely on your own strength to find the last copy of the sutra. Once all the scriptures are gathered, you can return to Karma Monastery to hand them over to Sangden"
+    translated: "Zhang Qi's lead：Near Karma Monastery, on a small hill under the six trees, behind a large boulder lying flat on the ground, and atop a vantage point with a sweeping view, you will find your next clue. You can visit the tea house in Dayan Town to purchase information from Zhang Qi or rely on your own strength to locate the final copy of the Buddhist scripture. Once all the scriptures are gathered, you can return to Karma Monastery to meet Sangdeng"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7594,7 +7594,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "可以到大研镇茶铺找张启购买线索，或是靠自己的力量找到另外四本佛经。在找齐所有的经书之后，便能回噶玛寺找桑登交差了。"
-    translated: "You can go to the tea shop in Dayan Town to buy clues from Zhang Qi, or use your own strength to find the other four Buddhist sutras. After collecting all the sutras, you can return to Karma Monastery to report to Sang Deng"
+    translated: "You can go to the tea house in Dayan Town and ask Zhang Qi for clues, or rely on your own strength to find the other four Buddhist sutras. Once all the scriptures are gathered, you can return to Karma Monastery to report to Sang Deng"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9460,13 +9460,13 @@
   splits:
   - split: 1
     text: "金瓜贡茶"
-    translated: "Gold Gourd Tribute Tea"
+    translated: "Golden Gourd Tribute Tea"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "这些木府卫兵好生霸道，竟连茶庄也不给人进去了！看来这背后似乎有什么隐情……询问木府卫兵阿简到底是怎么回事吧！"
-    translated: "The guards at Mu Mansion are incredibly tyrannical, to the point that they don't even let people enter the teahouse! It seems there might be some underlying intrigue behind this... Let's ask A'Jian, one of the Mu Mansion guards, what's really going on!"
+    translated: "The guards at the Mu Mansion are quite overbearing, even preventing people from entering the tea house! It seems there's some hidden agenda behind this... Let's ask A'Jian of the Mu Mansion guards what's really going on!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9492,7 +9492,7 @@
   splits:
   - split: 1
     text: "到茶庄后门窃听"
-    translated: "After arriving at the tea estate, they eavesdropped by the back door"
+    translated: "After arriving at the tea house, eavesdrop through a back door"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9530,7 +9530,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "木府卫兵将茶庄封锁起来，不准其他人随意进入，原来是木府二爷木奎正在与茶庄掌柜商谈大事。经过窃听之后得知，竟是木天王寿宴之礼的「金瓜贡茶」失窃，而小偷则往噶玛寺的方向去了。<br>你在噶玛寺后方树林找到一个怪异的老头，就是他把金瓜贡茶给「借」走的，在你帮助他热茶之后，他却要你找来三颗石头再去找他，还指定要的是普通的石头…就在噶玛寺附近找齐三颗石头，再到山丘去找他吧！"
-    translated: "The guards of the Mu Mansion sealed off the tea estate, preventing anyone else from entering. It turned out that Second Young Master Mu Kui was having an important discussion with the shopkeeper of the tea estate. After eavesdropping, they learned that the 'Golden Melon Tribute Tea' for King Mu's birthday banquet had been stolen and the thief had headed towards Karma Monastery<br>In the forest behind Karma Monastery, you found a peculiar old man who took the Golden Melon Tea on loan. After he warmed up his tea with your help, he asked you to bring him three stones and specified that they must be ordinary ones. Find these three stones around Karma Monastery and then go to the hill to find him"
+    translated: "The guards at Mu Mansion sealed off the tea house, preventing anyone from entering freely. It turned out that Second Master Mu Kui was meeting with the shopkeeper of the tea house to discuss an important matter. After eavesdropping, it became clear that the theft concerned the Golden Gourd Tribute Tea meant for King Mu's birthday celebration, and the thief had headed towards Karma Monastery<br>You found a strange old man in the forest behind Karma Monastery; he's the one who borrowed the Gold Melon Tribute Tea. After you helped him heat the tea, he asked you to bring three stones and find him again, specifying they had to be ordinary stones... Gather three such stones around Karma Monastery and go look for him on the hill!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9540,13 +9540,13 @@
   splits:
   - split: 1
     text: "将金瓜贡茶归还青木茶庄"
-    translated: "Return the Jin Gua Gong tea to Qingmu Tea House"
+    translated: "Return the Golden Gourd Tribute Tea to Qingmu Tea House"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "木府卫兵将茶庄封锁起来，不准其他人随意进入，原来是木府二爷木奎正在与茶庄掌柜商谈大事。经过窃听之后得知，竟是木天王寿宴之礼的「金瓜贡茶」失窃，而小偷则往噶玛寺的方向去了。<br>你在噶玛寺后方树林找到一个怪异的老头，他要你「打消喝这茶的念头」，将茶叶交还给你了……不管如何，茶是找回来了，就将金瓜贡茶交还给茶庄吧！"
-    translated: "The guards of the Mu Mansion sealed off the tea plantation, preventing anyone from entering at will. It turned out that Second Master Mu Kui was in discussions with the shopkeeper of the tea plantation about an important matter. After eavesdropping, it was discovered that the Golden Melon Tribute Tea intended for King Mu's birthday banquet had been stolen, and the thief was heading towards Karma Monastery<br>You found a strange old man in the forest behind Karma Monastery. He told you to forget about drinking this tea and returned the tea leaves to you... Anyway, since the tea has been recovered, go ahead and return the Jingu Geng Tea to the tea estate!"
+    translated: "The guards at the Mu Mansion cordoned off the tea house, forbidding anyone from entering at will. It turned out that Mu Kui, the Second Young Lord of the Mu Mansion, was in a meeting with the shopkeeper of the tea house about important matters. After eavesdropping, they discovered that it involved the theft of the Golden Gourd Tribute Tea intended for King Mu's birthday celebration, and the thief had fled toward Karma Monastery<br>Behind Karma Monastery, in the forest, you found a peculiar old man who told you to abandon thoughts of drinking this tea. He gave back the tea leaves to you... Regardless, since the tea has been recovered, go ahead and return the Golden Gourd Tribute Tea to the tea house!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9562,7 +9562,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "木奎是木府三兄弟的次子，亦是掌握木府军事之人，他那雷厉风行的治理手段，在大研镇获得毁誉参半的名声。就在你寻获失窃的金瓜贡茶后，茶庄掌柜不但质疑你的来意，更早早将你给打发了，摆明了不想与你多有接触。这使你更加确信，在这起事件的背后，似乎另有隐情……"
-    translated: "Mu Kui is the second eldest of the three brothers in Mu Mansion and also the one who controls its military affairs. His strict governance style has earned him a mixed reputation in Dayan Town. Just as you recovered the stolen tribute teapot, the shopkeeper of the tea house not only questioned your intentions but also quickly sent you away, clearly showing no desire to interact with you further. This convinces you even more that there may be some hidden motives behind this incident..."
+    translated: "Mu Kui is the second of the three brothers of Mu Mansion, and he oversees its military affairs. His lightning-fast management style has earned him a reputation in Dayan Town that is both praised and criticized. Just as you recover the stolen Golden Gourd Tribute Tea, not only does the shopkeeper at the tea house question your purpose there, but he also dismisses you swiftly, clearly showing his reluctance to engage further with you. This makes you more convinced that there seems to be some hidden agenda behind this incident..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9690,7 +9690,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "在大研镇的茶铺，你遇见之前在噶玛寺教你热茶的怪老者，他只跟你说，「木府将出乱子」，随即消失而去。为了印证老者的话是不是对的，你决定到悦来客栈借宿一晚……"
-    translated: "In Dayan Town, at the tea shop, you encounter the strange old man who taught you how to make hot tea at Karma Monastery. He only tells you, The Mu Mansion will cause trouble, before disappearing. To verify if the old man's words are true, you decide to stay overnight at the Happy Inn..."
+    translated: "At a tea house in Dayan Town, you encounter the peculiar old man who once taught you how to make hot tea at Karma Monastery. He tells you only one thing: The Mu Mansion will cause trouble, before vanishing. To verify if the old man's words are true, you decide to stay overnight at the Yuelai Inn..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9706,7 +9706,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "在大研镇的茶铺，你遇见之前在噶玛寺教你热茶的怪老者，他只跟你说，「木府将出乱子」，随即消失而去。为了印证老者的话是不是对的，你决定到悦来客栈借宿一晚……"
-    translated: "In Dayan Town, at the tea shop, you encounter the strange old man who taught you to make hot tea at Karma Monastery before. He only tells you, The Mu Mansion will cause trouble, and then disappears. To verify whether the old man's words are true or not, you decide to stay overnight at Yue Laikejian"
+    translated: "At the tea house in Dayan Town, you encounter the strange old man who taught you how to brew hot tea at Karma Monastery. He tells you only that The Mu Mansion will cause trouble, before vanishing. To verify whether what the old man said is true, you decide to stay overnight at a local inn called Yue Lai"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9722,7 +9722,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "在大研镇的茶铺，你遇见之前在噶玛寺教你热茶的怪老者，他只跟你说，「木府将出乱子」，随即消失而去。你在客栈睡了一阵，却在半夜被嘈杂声吵醒……赶紧出外瞧瞧究竟发生什么事了。"
-    translated: "In the tea house in Dayan Town, you encounter an odd old man who taught you how to brew tea at Karma Monastery. He only tells you, The Mu Mansion will cause trouble, and then disappears. You sleep for a while at the inn but are woken up by noise in the middle of the night... Hurrying outside, you look to see what has happened"
+    translated: "In the tea house of Dayan Town, you encounter the strange old man who taught you how to brew hot tea at Karma Monastery. He only says to you, Mu Mansion will cause trouble, before disappearing. You sleep for a while in the inn but are woken up by loud noises in the middle of the night... Hastily going outside, you see what has happened"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9738,7 +9738,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "你在茶铺遇见怪老者，他只跟你说，「木府将出乱子」，便随即消失而去。<br>你在悦来客栈借宿了一晚后，果真听见不得了的情报——此次寿宴上，似乎出了大事……赶紧前往木府一探究竟！"
-    translated: "You meet a strange old man in the teahouse. He only says to you, The Mu Mansion will cause trouble, before vanishing into thin air<br>After staying at the Yu Lan Inn for a night, you truly heard some alarming news—something significant happened during this banquet... Hurry to Mu Mansion to find out what's going on!"
+    translated: "In the tea house, you encountered a strange old man who told you, The Mu Mansion will bring trouble, before disappearing suddenly<br>After staying at the Yu Laiketang Inn for one night, you indeed heard some alarming news—there seems to be a major incident at the banquet... Hurry to Mu Mansion to find out what's going on!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9754,7 +9754,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "你在茶铺遇见怪老者，他只跟你说，「木府将出乱子」，便随即消失而去。<br>你在悦来客栈借宿了一晚，果真听见不得了的情报：此次寿宴出了大事……你想起身上有木府令牌，也许可以用它进去木府。到木府大门去试试看吧！"
-    translated: "You encountered an odd old man in the teahouse, who only told you, The Mu Family will cause trouble, before disappearing suddenly<br>You stayed at the Pleasant Inn for a night and indeed heard some sensational information：This time at the birthday banquet, something big happened... Remember you have the Mu Mansion token; perhaps you can use it to enter the Mu Mansion. Go try the main gate of the Mu Mansion!"
+    translated: "You encounter a strange old man in the tea house, who only tells you, The Mu Mansion will cause trouble, before vanishing into thin air<br>You stayed overnight at Yuelai Inn and indeed heard some alarming information：This time, something serious happened at the birthday banquet... You remember you have a token from the Mu Mansion on your person. Perhaps you can use it to get into the Mu Mansion. Go try at the gate of the Mu Mansion!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9770,7 +9770,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "你在茶铺遇见怪老者，他只跟你说，「木府将出乱子」，便随即消失而去。<br>你来到木府，就算身上有木府令牌，却依然被挡在门外，无法进去，看来这次发生的事着实非同小可……想个办法潜进木府，并在议事厅后方，探听木初与木奎在商议什么「后事」。"
-    translated: "You met a strange old man at the teahouse, who only said to you, The Mu Mansion will cause trouble, before disappearing<br>You arrive at the Mu Household, but even with a Mu Household token, you are still turned away at the gate and cannot enter. It seems that what has happened is indeed serious... Devise a way to sneak into the Mu Household and listen in on what aftermatters Mu Chu and Mu Kui are discussing from behind the meeting hall"
+    translated: "You encounter a strange old man in the tea house. He only tells you, The Mu Mansion will cause trouble, and then disappears right away<br>You arrive at the Mu Mansion, but even with a Mu Mansion access card in your possession, you are still kept out of the door and cannot enter. It seems that whatever has happened this time is indeed no small matter... Find a way to sneak into the Mu Mansion and eavesdrop on what aftermath matters Brother Mu Chu and Brother Mu Kui are discussing behind the meeting hall"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9786,7 +9786,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "你在茶铺遇见怪老者，他只跟你说，「木府将出乱子」，便随即消失而去。<br>你在客栈借宿了一晚，没想到真的出了大事——现任木氏土司木得，竟被刺杀了！<br>身为木府权力核心的木初与木奎在议事厅共商后事，但两人却是各怀想法，无法达成共识，而远居雪山之上的阿得阿克，似乎正是其中的关键所在……但你的行踪却被侍卫长图勒发现，一战过后，木初出面调停，并邀你进入议事厅共商此事……"
-    translated: "You encounter a strange old man at the teahouse. He only says to you, The Mu Mansion will cause trouble, and then disappears immediately<br>You stayed at an inn for one night, not expecting that something serious would happen—the current Mu Clan Chieftain Mu De was actually assassinated!<br>As the core of power at Mu Mansion, Mu Chu and Mu Kui consulted together in the council chamber about subsequent matters. However, each harbored different ideas, making consensus unattainable. The key to this situation seemed to lie with A'De A'Ke, who resided far up in the snowy mountains... Yet your whereabouts were discovered by Chief Guard Tu Le. After a confrontation, Mu Chu stepped forward to mediate and invited you into the council chamber to discuss these matters..."
+    translated: "You encounter an odd old man at the tea house who only tells you, The Mu Mansion will cause trouble, before suddenly disappearing<br>You stayed at the inn for one night, not expecting that something major would actually happen—the current Mu Clan Chieftain, Mu De, was assassinated!<br>As the central figure of power in the Mu Mansion, Mu Chu and Mu Kui discussed matters together after their council meeting. However, each harbored different ideas and couldn't reach a consensus. The key seemed to lie with A'De A'Ke, who resided far up on the snowy mountains... But your whereabouts were discovered by Long Guard Tu Le. After the battle, Mu Chu intervened and invited you to the council chamber to discuss this matter together..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9860,13 +9860,13 @@
   splits:
   - split: 1
     text: "在茶庄外找人询问茶庄人士的下落"
-    translated: "Look for people outside the tea plantation to inquire about the whereabouts of those from the tea plantation"
+    translated: "Ask people outside the tea house for information on the whereabouts of someone from the tea house"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "木天王木得被暗杀了，刺客至今仍逃离在外，而你则意外卷入此次事件之中……<br>经过一番激烈的争辩后，众人怀疑野心勃勃的木奎与这件刺杀脱不了关系，而阿得阿克想证明二哥木奎的清白，决定要追查到底……你们来到茶庄，发现早已人去楼空，连个伙计的人影也没有。不得已，只好在茶庄外头找人询问一番……"
-    translated: "King Mu, also known as Mu De, was assassinated. The assassin remains at large to this day, and you have unexpectedly become entangled in the incident...<br>After a heated debate, everyone suspected the ambitious Mu Kui was involved in the assassination. A'De A'Ke wanted to prove his second brother's innocence and decided to investigate thoroughly... Upon arriving at the tea shop, you found it deserted with not even an attendant in sight. Left with no choice, you had to seek out someone outside the tea shop for information..."
+    translated: "King Mu, also known as Mu De, was assassinated. The assassin remains at large to this day, and you find yourself unexpectedly involved in the incident...<br>After a heated debate, everyone suspected the ambitious Mu Kui was somehow involved in the assassination. A'De A'Ke wanted to prove his brother Mu Kui's innocence and decided to investigate thoroughly... Upon arriving at the tea house, they found it deserted with no sign of any staff. With no other choice, they had to seek out people outside the tea house for inquiries..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9876,13 +9876,13 @@
   splits:
   - split: 1
     text: "前往噶玛寺，查探茶庄人士的下落"
-    translated: "Go to Karma Monastery and investigate the whereabouts of the people from the winery"
+    translated: "Travel to the Karma Monastery and investigate the whereabouts of individuals associated with the tea house"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "木天王木得被暗杀了，刺客至今仍逃离在外，而你则意外卷入此次事件之中……<br>在询问茶庄常客之后，这才知道，原来这些茶庄伙计都不是当地人，而有个商人则说，他日前到噶玛寺参拜，看见一个和茶庄伙计长得极为相似的寺僧……不管什么线索都有调查的必要，你们决定前往噶玛寺一探究竟。"
-    translated: "King Mu and Mu De were assassinated, and the assassin has yet to be caught. Meanwhile, you have been unexpectedly drawn into this incident...<br>After inquiring with the regulars at the tea garden, they learned that these workers were not locals. A merchant mentioned that he had recently visited Karma Monastery for a pilgrimage and saw a monk who looked strikingly similar to one of the tea garden workers... Regardless of what kind of lead it was, there was a need for investigation, so they decided to go to Karma Monastery to find out more"
+    translated: "King Mu, also known as Mu De, was assassinated. The assassin has managed to escape and is still at large, while you have unexpectedly become entangled in this affair...<br>After inquiring with the regular patrons of the tea house, it became apparent that these tea house workers were not locals. A merchant mentioned that he had recently visited Karma Monastery for worship and saw a monk who looked strikingly similar to the tea house workers... Regardless of what clues there might be, you decided to investigate further by visiting Karma Monastery"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10090,7 +10090,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "木天王被暗杀了，而木奎正是背后的主谋者，他企图拉拢不赦楼使者李惑相的势力，协助他完成政变，成为下一任木氏土司……而听到这一切计谋的你，意外被卷入木奎的政变大计之中……<br>你在大研镇茶庄前找到阿得阿克，他打算前往「某个地方」探查情报……跟踪阿得阿克，别被他发现了……"
-    translated: "King Mu Tianwang was assassinated, and Mu Kui was the mastermind behind it. He plotted to ally with Li Huoxiang, the envoy of Merciless Hall, to help him stage a coup and become the next Mu Clan Chieftain... And you, having unexpectedly learned of this plot, were drawn into Mu Kui's grand scheme for political upheaval...<br>You find A'De A'Ke in front of the teahouse in Dayan Town. He plans to go somewhere to gather intelligence... Follow A'De A'Ke, but don't let him notice you..."
+    translated: "King Mu was assassinated, and it was Mu Kui who orchestrated the plot behind the scenes. He sought to ally with Li Huoxiang, the emissary of Merciless Hall, to gain his power's support in executing a coup, aiming to become the next Mu Clan Chieftain... And unexpectedly, you found yourself drawn into Mu Kui's grand scheme for the political upheaval...<br>You find A'De A'Ke at the tea house in Dayan Town. He plans to go to a certain place to gather intelligence... Follow A'ke, but don't let him notice you..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
