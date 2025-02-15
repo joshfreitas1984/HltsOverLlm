@@ -112,7 +112,7 @@ public class TranslationWorkflowTests
         //Use this when we've changed a glossary value that doesnt check hallucination
         var newGlossaryStrings = new List<string>
         {
-            //"凌某",
+            //"西门",
         };
 
         var mistranslationCheckGlossary = new Dictionary<string, string>();

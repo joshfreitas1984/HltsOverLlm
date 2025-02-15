@@ -27,8 +27,6 @@
   result: Cluck
 - raw: 吼
   result: Roar
-- raw: 嗷呜
-  result: Awoo
 - raw: 钱
   result: Coin
 - raw: 缠拿
@@ -67,8 +65,6 @@
   result: Deer
 - raw: 僧侣
   result: Monk
-- raw: 僧侣
-  result: Monk
 - raw: 军服伪
   result: Military Imposter
 - raw: 结局
@@ -81,8 +77,6 @@
   result: Panther King Camp Brigands
 - raw: 虎
   result: Tiger
-- raw: 西门玉堂
-  result: West Gate Jade Hall
 - raw: 思良将军
   result: General Siliang
 # Merciless Hall
@@ -100,14 +94,13 @@
   result: Seven Soul-Cleaving Strikes
 # - raw: 黑衣人
 #   result: Black Clothed Person
-- raw: 婆婆
-  result: Grandma
-  literal: Po Po
 - raw: 爹
   result: Father
   literal: Die
-- raw: 西门
-  result: Ximen
+# Conflicts with idiom moms and grandmas (fussing around)
+- raw: 婆婆
+  result: Grandma
+  literal: Po Po
 - raw: 初一十五
   result: First and Fifteenth Clan
 - raw: 天水蟾蜍

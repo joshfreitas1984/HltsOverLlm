@@ -496,7 +496,7 @@ n07034	Qi Ruxiao	w_standG00	n52009	0, 0, 0	0		FALSE	TRUE		v00099				2	0	0	n52009
 n07035	Fan Xiangdie	w_standA00	n60100	163.1787, 105.7365, -36.5459	120.141		TRUE	TRUE	n0703501000	v00036				2	18	0	n60046	n60100				{ "LogicalNode" : [ { "TeammateCondition" : "n60100", False} , { "QuestCondition" : "Q07004", 0, True} , { "CheckAreaFriendlyAction" : 0, -1, 22} , { "QuestCondition" : "Q60016", 2, False}  ], 0} 	0
 n07036	Ling Zhongyue	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE		v00184				1	0	0	n70044					0	0
 n07037	Daoist Xin Liang	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n70045					0	0
-n07038	Ximen Jade Hall	m_sleep_dead003_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n60161					0	0
+n07038	Ximen Yutang	m_sleep_dead003_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n60161					0	0
 n07039	Shu Guangbi	m_sleep_dead004_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n20191					0	0
 n07040	Lu Changji	m_sleep_dead001_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n50071					0	0
 n07041	Huang Shang	m_sleep_dead002_ec		0, 0, 0	0		FALSE	FALSE						1	0	0	n53001					0	0
@@ -4215,11 +4215,11 @@ n60002b	Taoshi Gang Tao Dashi	ml_standA00	n60002	0, 0, 0	0		TRUE	TRUE	n600020200
 n60003	Taoshi Gang Headless Sky	m_standB00	c_m19	-346.71, 67.0892, -1102.97	37.52203		FALSE	FALSE	n6000301000					1	2	0	n60033	n60003	n60003-1,n60003-2,n60003-3,n60003-4,n60003-5,n60003-6		(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "QuestCondition" : "Q60009_05", 1, False}  ], 0} 	0
 n60003b	Taoshi Gang Headless Sky	m_standB00	c_m19	-518.7541, 119.4814, -1262.157	239.4327		FALSE	FALSE	n6000301000					1	2	0	n60033	n60003			(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "QuestCondition" : "Q60009_06", 0, True} , { "CheckFlagAction" : "f60089-2殺了趙掌櫃", 1, 0}  ], 0} 	0
 n60003c	Taoshi Gang Headless Sky	m_standB00	c_m19	0, 0, 0	0		FALSE	FALSE	n6000301000					1	2	0	n60033	n60003b			(Stone_Forge,2)(Money,1)	{ "LogicalNode" : [ { "QuestCondition" : "Q60009_06", 0, True} , { "CheckFlagAction" : "f60089-2殺了趙掌櫃", 1, 0}  ], 0} 	0
-n60004	Ximen Jade Hall	m_standB00	n60004	-475.5309, 66.06357, 1298.001	93.07154		TRUE	TRUE	n6000401000					1	14	0	n60161	n60004	n60004-1,n60004-2,n60004-3,n60004-4,n60004-5			{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60028", 1, True} , { "QuestCondition" : "Q60028", 2, True}  ], 1} , { "LogicalNode" : [ { "QuestCondition" : "Q60043", 1, False} , { "QuestCondition" : "Q60043", 2, False}  ], 1}  ], 0} 	0
-n60004a	Ximen Jade Hall	m_standB00	n60004	0, 0, 0	0		TRUE	TRUE	n6000401000					1	14	0	n60161	n60004a				0	0
-n60004b	Ximen Jade Hall	m_standB00	n60004	0, 0, 0	0		TRUE	TRUE	n6000401000					1	14	0	n60161	n60004b				0	0
-n60004c	Ximen Jade Hall	m_standB00	n60004	0, 0, 0	0		TRUE	TRUE	n6000401000					1	14	0	n60161	n60004c				0	0
-n60004d	Ximen Jade Hall	m_standB00	n60004	-964.6797, 219.1268, -1229.405	19.086		TRUE	TRUE	n4002401044		sc60004001			1	14	0	n60161	n60004c				{ "LogicalNode" : [ { "QuestCondition" : "Q40024", 0, True}  ], 0} 	0
+n60004	Ximen Yutang	m_standB00	n60004	-475.5309, 66.06357, 1298.001	93.07154		TRUE	TRUE	n6000401000					1	14	0	n60161	n60004	n60004-1,n60004-2,n60004-3,n60004-4,n60004-5			{ "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60028", 1, True} , { "QuestCondition" : "Q60028", 2, True}  ], 1} , { "LogicalNode" : [ { "QuestCondition" : "Q60043", 1, False} , { "QuestCondition" : "Q60043", 2, False}  ], 1}  ], 0} 	0
+n60004a	Ximen Yutang	m_standB00	n60004	0, 0, 0	0		TRUE	TRUE	n6000401000					1	14	0	n60161	n60004a				0	0
+n60004b	Ximen Yutang	m_standB00	n60004	0, 0, 0	0		TRUE	TRUE	n6000401000					1	14	0	n60161	n60004b				0	0
+n60004c	Ximen Yutang	m_standB00	n60004	0, 0, 0	0		TRUE	TRUE	n6000401000					1	14	0	n60161	n60004c				0	0
+n60004d	Ximen Yutang	m_standB00	n60004	-964.6797, 219.1268, -1229.405	19.086		TRUE	TRUE	n4002401044		sc60004001			1	14	0	n60161	n60004c				{ "LogicalNode" : [ { "QuestCondition" : "Q40024", 0, True}  ], 0} 	0
 n60005	Li Tan	m_standB00	n60005	-337.5068, 63.45732, -996.5605	250.1161		TRUE	TRUE	n6000501013	v00034				1	14	0	n60075	n60005	n60005-1,n60005-2,n60005-3,n60005-4,n60005-5,n60005-6			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 1, 0} , { "TeammateCondition" : "n60005", False}  ], 0} 	0
 n60005b	Li Tan	ml_standA00	n60005	-738.9243, 79.73317, -1113.397	266.1983		TRUE	TRUE	n6000507000	v00034				1	14	0	n60075	n60005	n60005b-1,n60005b-2,n60005b-3,n60005b-4			{ "LogicalNode" : [ { "CheckFlagAction" : "f61044俏夢閣打過藍拂衣", 0, 0} , { "TeammateCondition" : "n60005", False} , { "CheckFlagAction" : "f61045寶庫線沒幫蘇清瑞", 1, 0} , { "QuestCondition" : "Q60002", 2, False}  ], 0} 	0
 n60005d	Li Tan	m_standB00	n60005	0, 0, 0	0		TRUE	TRUE	n6000506031	v00034				1	14	0	n60075	n60005	0			0	0
