@@ -261,8 +261,8 @@ public class TranslationWorkflowTests
         }
 
         // Characters
-        if ((split.Text.Contains("!") && !split.Translated.Contains("!"))
-            || (split.Text.Contains("?") && !split.Translated.Contains("?")))
+        if (((split.Text.Contains("!") || split.Text.Contains("！")) && !split.Translated.Contains("!"))
+            || ((split.Text.Contains("?") || split.Text.Contains("？")) && !split.Translated.Contains("?")))
         {
             Console.WriteLine($"Missing Punctuation {outputFile} Replaces: \n{split.Translated}");
             split.FlaggedForRetranslation = true;

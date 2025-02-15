@@ -3867,7 +3867,7 @@
   - split: 3
     text: "外表看不出究竟的原石毛料，感觉没什么价值，但说不定...？"
     translated: "At first glance, the raw gemstone wool seems to have no value, but who knows"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 242
@@ -4283,7 +4283,7 @@
   - split: 3
     text: "上头刻绘着六字真言之「唵」字的玛尼石，看似珍贵，也许有收藏的价值？。"
     translated: "The top is engraved with the Mani stone featuring the six-syllable mantra Om character, which appears valuable and may have collectible worth"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 268
@@ -4299,7 +4299,7 @@
   - split: 3
     text: "上头刻绘着六字真言之「嘛」字的玛尼石，看似珍贵，也许有收藏的价值？。"
     translated: "Atop is carved the letter Ma from the six-syllable mantra on a mani stone, which appears valuable and may have collectible value"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 269
@@ -4315,7 +4315,7 @@
   - split: 3
     text: "上头刻绘着六字真言之「呢」字的玛尼石，看似珍贵，也许有收藏的价值？。"
     translated: "The Mani stone carved with the ni character from a six-character mantra appears valuable and may have collection value"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 270
@@ -4331,7 +4331,7 @@
   - split: 3
     text: "上头刻绘着六字真言之「叭」字的玛尼石，看似珍贵，也许有收藏的价值？。"
     translated: "The Mani stone, engraved with the Ba character from the six-word mantra, seems valuable and might have collectible value"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 271
@@ -4347,7 +4347,7 @@
   - split: 3
     text: "上头刻绘着六字真言之「咪」字的玛尼石，看似珍贵，也许有收藏的价值？。"
     translated: "The Mani stone engraved with the mi character from the six-character mantra seems precious and might have collectible value"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 272
@@ -4363,7 +4363,7 @@
   - split: 3
     text: "上头刻绘着六字真言之「吽」字的玛尼石，看似珍贵，也许有收藏的价值？。"
     translated: "Carved into the Mani stone is the hum character of a six-character mantra, which seems precious and might have some collectible value"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 273
@@ -4459,7 +4459,7 @@
   - split: 3
     text: "一枚小纸条。写着「五色之下，方见新路」。说不定只是单纯的玩笑，但若循着谜语前进，也许会有意外的发现？"
     translated: "A small piece of paper. It read, Below the five colors lies a new path. Perhaps it's just a simple joke, but following the riddle might lead to unexpected discoveries"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 279
@@ -4619,7 +4619,7 @@
   - split: 3
     text: "猜谜游戏的参加奖，里面不知道装着什么？"
     translated: "Guessing Game Prize Contents Unknown"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 289
@@ -4635,7 +4635,7 @@
   - split: 3
     text: "猜谜游戏的第三奖，里面不知道装着什么？"
     translated: "Guessing game's third prize, inside unknown"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 290
@@ -4651,7 +4651,7 @@
   - split: 3
     text: "猜谜游戏的第二奖，里面不知道装着什么？"
     translated: "Guess the Riddle Game's Second Prize contains something unknown"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 291
@@ -5131,7 +5131,7 @@
   - split: 3
     text: "从玛尼堆中取出的秘盒，必须要用梅村长给予的钥匙才能打开，不知道里面有些什么东西？"
     translated: "The lockbox taken from the Mandala pile can only be opened with the key given by Village Chief Mei. What's inside it is unknown"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 321
@@ -5684,7 +5684,7 @@
   splits:
   - split: 1
     text: "巧匠令"
-    translated: "Craftsman's Order"
+    translated: "Artisan's Command"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5796,7 +5796,7 @@
   splits:
   - split: 1
     text: "数枚染血的圣火令牌"
-    translated: "Several blood-stained Shenghuo Command Tokens"
+    translated: "A handful of blood-stained Divine Fire Command Tokens"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6075,7 +6075,7 @@
   - split: 3
     text: "一枚用碧玉雕成的令牌，形状奇特，似是火焰，但不知是用在何处的？"
     translated: "A token carved from jadeite, with a peculiar shape resembling flames, but its use is unknown"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 380
@@ -6091,7 +6091,7 @@
   - split: 3
     text: "破旧的羊皮纸，上头写着：「落日余晖照壁口，日出光耀世界海。」纸卷一角则绘有火焰形状的奇特图腾。这诗句究竟代表着什么意思呢？"
     translated: "On the old sheepskin paper, there was written:：  The fading sunlight shines through the gate, and at sunrise it illuminates the world. The corner of a scroll depicts a unique totem shaped like flames"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 381
@@ -6100,7 +6100,7 @@
   splits:
   - split: 1
     text: "圣火令牌"
-    translated: "Sacred Fire Command Token"
+    translated: "Divine Fire Command Token"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6651,7 +6651,7 @@
   - split: 3
     text: "从杜府一处上锁的柜子中取得的钥匙，不知道能用来开启哪边的锁？"
     translated: "The key taken from a locked cabinet at the Du Mansion, it's unknown which lock it can open"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 416
@@ -6795,7 +6795,7 @@
   - split: 3
     text: "此书记载杜府罗嬷嬷的拿手好菜。盖杜府灶房里总是固定备着汤水好料，无论老爷夫人想吃什么，罗嬷嬷都能快速上菜，不知道这样子的大户人家都吃些什么好料？"
     translated: "This book records the specialty dishes of Madam Luo from the Du Mansion. The kitchen at the Du Mansion always has a fixed supply of good ingredients and soup stocks, so whenever Master or Lady wants to eat something, Madam Luo can quickly prepare it. One wonders what kind of excellent ingredients these large households consume"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 425
@@ -7067,7 +7067,7 @@
   - split: 3
     text: "一尊精致的小玉佛，也许可以在当铺卖得一个好价钱？"
     translated: "A finely crafted jade Buddha might fetch a good price at the pawnshop"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 442
@@ -7099,7 +7099,7 @@
   - split: 3
     text: "吉大发看着老实巴交，却远比大家想的富有，积蓄甚至足以换成好几片金叶子。某些关于他卖黑心酒菜的抱怨，或许不全是无的放矢？"
     translated: "Despite appearing humble, Jidaifa is far wealthier than most people think. His savings could even be exchanged for several gold leaves. Some complaints about him selling substandard wine and food might not be entirely unfounded"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 444
@@ -7371,7 +7371,7 @@
   - split: 3
     text: "份量十足的袋子，不知是装了石头还是啥的才会这么重？"
     translated: "A bag of considerable weight; it's hard to tell if it contains stones or something else that makes it so heavy"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 461

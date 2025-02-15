@@ -25955,7 +25955,7 @@
   - split: 1
     text: "？？？"
     translated: "？？？"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 2596
@@ -49745,7 +49745,7 @@
   - split: 1
     text: "？？？"
     translated: "？？？"
-    flaggedForRetranslation: false
+    flaggedForRetranslation: true
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 4975
