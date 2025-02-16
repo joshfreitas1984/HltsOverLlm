@@ -49,14 +49,30 @@
   result: Hiss
 - raw: 嘶嘶
   result: Hiss
+- raw: 咕咕咕
+  result: Gugugu
 - raw: 咕咕
   result: Gugu
 - raw: 咕...
   result: Gu...
+- raw: 咯咯咯
+  result: Gegege
 - raw: 咯咯
   result: Gege
 - raw: 咯...
   result: Ge...
+- raw: 吱吱吱
+  result: Zhizhizhi
+- raw: 吱吱
+  result: Zhizhi
+- raw: 吱...
+  result: Zhi...
+- raw: 唔吱
+  result: Wuzhi
+- raw: 吱喳
+  result: Zhizha
+- raw: 吱吱喳
+  result: Zhizhizha
 
 # Names without Hallucination
 - raw: 凌某
