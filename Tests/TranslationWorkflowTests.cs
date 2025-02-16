@@ -358,6 +358,9 @@ public class TranslationWorkflowTests
                 if (item.Key == "天外来客" && split.Translated.Contains("guests from beyond the skies", StringComparison.OrdinalIgnoreCase))
                     continue;
 
+                if (item.Key == "村长家" && split.Translated.Contains("Village Chief Mei's house", StringComparison.OrdinalIgnoreCase))
+                    continue;
+
                 //Console.WriteLine($"Mistranslated:{outputFile}\n{item.Value}\n{split.Translated}");
                 split.FlaggedForRetranslation = true;
                 split.FlaggedGlossaryIn += $"{item.Value},{item.Key},";
