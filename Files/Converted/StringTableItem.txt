@@ -756,7 +756,7 @@
   splits:
   - split: 1
     text: "哼，尽使些鬼蜮技俩，论真实本领，你绝非我对手...。"
-    translated: "Hum, no matter how much trickery you use. In terms of true abilities, you are not my match"
+    translated: "Ha! Even if you use some trickery, in terms of actual skill, you are no match for me..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8850,7 +8850,7 @@
   splits:
   - split: 1
     text: "模块 {0} 上传中…"
-    translated: "Module {0} is uploading"
+    translated: "Uploading module {0}..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8880,7 +8880,7 @@
   splits:
   - split: 1
     text: "更新中…"
-    translated: "Updating"
+    translated: "Updating..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
