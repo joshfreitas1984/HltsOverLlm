@@ -271,12 +271,12 @@ public class TranslationWorkflowTests
         //}
 
         if (preparedRaw.EndsWith("...")
+            && split.Text.Length < 15
             && !split.Translated.EndsWith("...")
             && !split.Translated.EndsWith("...?")
             && !split.Translated.EndsWith("...!")
             && !split.Translated.EndsWith("...!!")
-            && !split.Translated.EndsWith("...?!")
-            && split.Text.Length < 15)
+            && !split.Translated.EndsWith("...?!"))
         {
             Console.WriteLine($"Missing ... {outputFile} Replaces: \n{split.Translated}");
             split.FlaggedForRetranslation = true;

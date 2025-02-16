@@ -98,8 +98,12 @@
   result: Heizi
 - raw: 黑黑
   result: Hei Hei
+- raw: 黑皮
+  result: Hei Hei
 - raw: 宝哥
   result: Brother Bao
+- raw: 骆兄弟
+  result: Brother Luo
 - raw: 黄指挥使
   result: Commander Huang
 - raw: 皇甫指挥使
@@ -110,6 +114,8 @@
   result: Great Uncle Yan
 - raw: 云大娘
   result: Great Aunt Yun
+- raw: 何姑娘
+  result: Miss He
 
 - raw: 金掌柜啊
   result: Shopkeeper Jin
@@ -129,7 +135,6 @@
   result: Sister Shuang
 - raw: 天外来客
   result: Guest from beyond the skies
-
 
 # A'
 # Can't use because of words like father (A Die)
