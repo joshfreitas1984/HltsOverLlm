@@ -2593,7 +2593,7 @@ n50104_1f	Venomous snake	ml_standA00	animal03	-983.1807, 66.18829, -943.3145	78.
 n50104_1g		ml_die000stop		0, 0, 0	0		FALSE	FALSE						1	3	0	n20050c	n50104				{ "LogicalNode" : [ { "CheckFlagAction" : "f52015選擇不救被蛇包圍的衛兵", 1, 1}  ], 0} 	0
 n50104b	Mu Mansion Guard A'Dan	ml_die000stop	c_m21	0, 0, 0	0		FALSE	FALSE	n5010402000	v00070				1	3	0	n50104					{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 2, 3}  ], 0} 	0
 n50104c	Mu Mansion Guards	ml_standA00	c_m21	-890.4041, 66.18829, -834.4011	0		FALSE	FALSE	n5014809000	v00070				1	3	0	n20050c	n50104				{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 1, 3}  ], 0} 	0
-n50104m	？？？	ml_standA00		0, 0, 0	0		FALSE	FALSE						0	0	0						0	0
+n50104m	???	ml_standA00		0, 0, 0	0		FALSE	FALSE						0	0	0						0	0
 n50105	Mu Mansion Archer	ml_standA01	c_m21	0, 0, 0	0		FALSE	FALSE						1	3	0	n20050g	n50076e				{ "LogicalNode" : [ { "CheckFlagAction" : "f52009潛入路線階段", 1, 0}  ], 0} 	0
 n50105m	Mu Mansion Archer	ml_idle401	c_m21	-905.8224, 66.48859, -912.2228	68.51211		FALSE	FALSE						1	3	0	n20050g	n50076e				{ "LogicalNode" : [ { "CheckFlagAction" : "f52009潛入路線階段", 1, 2}  ], 0} 	0
 n50106	Mu Mansion Guards	ml_standA00	c_m21	-839.3824, 66.18829, -866.9694	59.81914		FALSE	FALSE	n5010602000					1	3	0	n20050c	n50074b				{ "LogicalNode" : [ { "CheckFlagAction" : "f52002金崑任務階段", 2, 3} , { "QuestCondition" : "Q52005_10", 0, False}  ], 0} 	0
@@ -4972,7 +4972,7 @@ n69994	Brewery Aide	w_standA00		0, 0, 0	0		FALSE	FALSE	n6999501000					2	0	0	n60
 n69995	Vintner's Ally	w_standA00		0, 0, 0	0		TRUE	FALSE	n6999501000					2	0	0	n60106					0	0
 n69996	Cave Miner	w_standA00		0, 0, 0	0		TRUE	FALSE	n6999601000					2	2	0	n60029					0	0
 n69997	Arched Stone Village Wayfarer	ml_standA00		0, 0, 0	0		TRUE	FALSE	n6999701000					1	1	0	n60098					0	0
-n69998	？？？	ml_standA00		0, 0, 0	0		FALSE	FALSE						0	0	0						0	0
+n69998	???	ml_standA00		0, 0, 0	0		FALSE	FALSE						0	0	0						0	0
 n69999	Gleaming Jade Beach local	w_standA00		0, 0, 0	0		TRUE	FALSE	n6999901002					2	0	0	n60116-1					0	0
 n70021	Eagle Hunter Guardian	ml_standA01	c_m30	-1252.18, 179.6188, -812.17	283.5082		TRUE	FALSE	n9059901000	v00149				1	4	0	n70014	n70021	0			0	0
 n70022	Eagle Hunter Guardian	m_standG00	c_m30	-1251.621, 179.7132, -809.0038	285.7726		TRUE	FALSE	n9059901011	v00149				1	4	0	n70015	n70022	0			0	0
