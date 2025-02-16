@@ -152,7 +152,7 @@ PointAddCritical_2	After-attack critical hit damage increased by two levels	Afte
 PointAddCritical_3	Post-attack critical hit enhancement by three tiers	After an attack, increase the attacker's critical hit rate by 9 points	0		0	FALSE	0	FALSE	0	0	(Critical,9)	afterAttackProp
 PointAddRelease_1	After attacking, increase the release by one level	After attacking, increase self-dismount rate by 3 points	0		0	FALSE	0	FALSE	0	0	(Release,3)	afterAttackProp
 PointAddRelease_2	Boost Qi Recovery to Second Order after Attack	After attacking, increase your own off-balancing rate by 6 points	0		0	FALSE	0	FALSE	0	0	(Release,6)	afterAttackProp
-PointAddRelease_3	After attack, increase recoil by three levels	'Attack afterward increase self's release-rate by 9 points.'	0		0	FALSE	0	FALSE	0	0	(Release,9)	afterAttackProp
+PointAddRelease_3	After attack, increase recoil by three levels	Attack afterward increase self's release-rate by 9 points	0		0	FALSE	0	FALSE	0	0	(Release,9)	afterAttackProp
 PointAddTrick_1	After an attack, follow up with a feint to increase by one tier	After attacking, increase your own feint rate by 3 points	0		0	FALSE	0	FALSE	0	0	(Trick,3)	afterAttackProp
 PointAddTrick_2	Counterattack enhancement to the second stage	Increases self's feigning rate by 6 points after attacking	0		0	FALSE	0	FALSE	0	0	(Trick,6)	afterAttackProp
 PointAddTrick_3	After an attack, the feint skill is enhanced by three levels	After attacking, increase own feigning rate by 9 points	0		0	FALSE	0	FALSE	0	0	(Trick,9)	afterAttackProp
@@ -280,7 +280,7 @@ buffSkillTree007_002	Grapple Technique	The need to understand softness：Within 
 buffSkillTree007_003	Continuous Stitch Technique	Needs to comprehend the essence of 'softness.'：'The damage reduction for the user of this technique increases by 15%.'	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree007_006	To sew the seeds of discord	Every sequence increases the damage dealt to enemies by 10%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree008_000	Unstoppable Fierce Blade Technique	Expend all remaining energy to strike, the more energy expended, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree008_000
-buffSkillTree008_002	Surging waves break the shore	'The damage inflicted by the Crazy Rapids Ultimate Blade Technique increases with each point of energy consumed.'	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree008_002	Surging waves break the shore	The damage inflicted by the Crazy Rapids Ultimate Blade Technique increases with each point of energy consumed	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree008_003	Surging waves of fury	Attack range of the Raging Current Ultimate Blade Technique is increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree009_004	Grapple	Flexing Hand Technique's damage increased, with an additional +4 to Flexing Value	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree009_006	Clasp	Increased damage for joint manipulation techniques, additional +4 to joint manipulation value	0		0	FALSE	0	FALSE	0	0		0
@@ -350,7 +350,7 @@ buffSkillTree035_002	Enter the dense forest	Dense Forest Tossing Strategy's Ener
 buffSkillTree035_003	Throwing down the cards	Increased power for Dense Forest Throw Quail	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree036_004	Imperial Sword	Its power to cleave through metal, and the strength of weathering storms together, have been enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree036_005	Wang Dao Sword	Its range of attacks increased, being able to sever metal and stand in the same boat through rain and wind	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree036_006	Buddhist, Daoist, and Sword	'With its benefits, it can cut through gold; in the face of adversity, when counterattacking, the technique's power is increased by 20%.'	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree036_006	Buddhist, Daoist, and Sword	With its benefits, it can cut through gold; in the face of adversity, when counterattacking, the technique's power is increased by 20%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree037_000	Duan Family Martial Art	Reduce all negative status values by 10% each round	0	buffSkillTree037_000	0	TRUE	0	FALSE	0	1	(Injured,-10)(Wounded,-10)(Poisoned,-10)(Sealed,-10)(Confused,-10)(Dazed,-10)(Cramped,-10)(Sprained,-10)(Exhausted,-10)(Frozen,-10)(Drunk,-10)	beginUnitProp02
 buffSkillTree037_002	Prosper and decline	Reduce all negative status effects by 20% each round	0	buffSkillTree037_000	0	TRUE	0	FALSE	0	1	(Injured,-20)(Wounded,-20)(Poisoned,-20)(Sealed,-20)(Confused,-20)(Dazed,-20)(Cramped,-20)(Sprained,-20)(Exhausted,-20)(Frozen,-20)(Drunk,-20)	beginUnitProp02
 buffSkillTree037_007	Five Rooster Light Smoke	When practicing the Duan family martial art technique, it enhances the power of Duan family sword arts and Duan family finger techniques	0		0	FALSE	0	FALSE	0	0		0
@@ -360,7 +360,7 @@ buffSkillTree038_009	Emptiness	Nightmare Sea Trawler, Drought Demon adds additio
 buffSkillTree039_000	Qilian Shan Jue	When activating the Qilian Mountain Skill, your maximum lifeforce during battle increases by 1,000 points	0	buffSkillTree039_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree039_005	Standing a thousand feet high	While performing the Qilian Mountain Secret Technique, the maximum Qi and Lifeforce value during battle increases by 2,000 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree039_005_2	Standing a thousand feet high	When running the Qi Ling Mountain Technique during battle, the maximum Lifeforce value is increased by 2000 points	0	buffSkillTree039_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree040_004	Charge at full gallop	'Water Margin Heroic Palm's energy consumption is reduced by 1 point.'	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree040_004	Charge at full gallop	Water Margin Heroic Palm's energy consumption is reduced by 1 point	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree040_005	Shoulder a thousand valleys	Increased power of the Water Margin Hero's Palm	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree040_006	Toast to relieve worries	Shuihu Yingxiong Zhang's attack range increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree040_007	Turn hand, enter cloud	Water Margin Hero's Palm gains an additional eight points in joint manipulation	0		0	FALSE	0	FALSE	0	0		0
@@ -444,7 +444,7 @@ buffSkillTree056_003	Amphibian Poison Alchemy	Can be refined into toad venom	0		
 buffSkillTree056_004	Scorpion venom processing	Can refine scorpion venom	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree056_007	Poisonous substance collection	When collecting poisonous substances, no longer be poisoned	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree056_008	Five Poisons Palm	The higher one's toxic arts, the greater the poison value inflicted on enemies. The higher the toxic arts and evil aura, the stronger the technique's power. If there are five poisons powder in the satchel, the technique damage gains additional bonus	0		0	FALSE	0	FALSE	0	0		buffSkillTree056_008
-buffSkillTree056_009	Five-Poison Powder	'Can be refined into Five Toxins Powder. If the Five Toxins Powder is in your bag, then when using this technique on an opponent, it will cause 10 points of poisoning, dizziness, confusion, muscle separation, and joint manipulation.'	0		0	FALSE	0	FALSE	0	0		buffSkillTree056_009
+buffSkillTree056_009	Five-Poison Powder	Can be refined into Five Toxins Powder. If the Five Toxins Powder is in your bag, then when using this technique on an opponent, it will cause 10 points of poisoning, dizziness, confusion, muscle separation, and joint manipulation	0		0	FALSE	0	FALSE	0	0		buffSkillTree056_009
 buffSkillTree057_003	Lin Han opened it by himself	Intoxicating fragrance overwhelms the cold, adding confusion for 4 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree057_005	Far off I know it is not snow	Shadowy Fragrance against Cold requires 1 less focus	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree057_006	Several branches of plum blossoms in the corner	Added Dizziness 4 points by the cold fragrance	0		0	FALSE	0	FALSE	0	0		0
@@ -814,7 +814,7 @@ buffSkillTree174_003	Transcendent Soul Technique	You have a chance to control an
 buffSkillTree174_004	Seeking the Divine	There is a chance to control an enemy for 4 turns. The higher the difference in Neigong, the greater the success rate. At most, only one person can be controlled at the same time	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree175_000	Primordial Skill	Each turn restores 12% of lifeforce and heals internal injuries by 24%. Can revive once during battle, restoring an additional 40% of lifeforce upon revival	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
 buffSkillTree175_003	Primordial Qi	Each round recovers 12% lifeforce and heals internal injuries by 24%. Can be revived once during combat, with revival restoring 80% lifeforce	0	buffSkillTree175_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
-buffSkillTree176_000_1	Adhesive Force	'Execute entangling force to encase the enemy, making the enemy more inclined to shift their target towards themselves.'	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree176_000_1	Adhesive Force	Execute entangling force to encase the enemy, making the enemy more inclined to shift their target towards themselves	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree176_000_2	Locust Leg Technique	Executing the turning force maneuver increases the rate of initiating attacks on an opponent who is disoriented and striking unpredictably	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree176_000_3	Wrapping Tendon Strength	Deploying a binding force to entangle the enemy, making them more inclined to shift their target onto themselves	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree176_000_4	Whirlpool Energy	Exerting the turning force enhances the rate of activating opponents to strike aimlessly	0		0	FALSE	0	FALSE	0	0		0
@@ -946,7 +946,7 @@ BattleSchedule045	Yang Tianyi gauged how much blood He Baishao had left and pred
 BattleSchedule046	Strength-enhancing potion	Use cultivation techniques to unlock latent potential within, restoring 50% of one's lifeforce and increasing damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule046
 BattleSchedule047	Degradation of morals hidden buff	Morality decreases by two points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule047
 BattleSchedule048	Second Madman's Blood Volume Judgment Buff	Use blood quantity to judge the conversation	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule048
-BattleSchedule049	Fiery Flame Kunlun Ridge	'Increase combat ability significantly during runtime, but after five rounds, it will exhaust your lifeforce.'	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule049
+BattleSchedule049	Fiery Flame Kunlun Ridge	Increase combat ability significantly during runtime, but after five rounds, it will exhaust your lifeforce	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule049
 BattleSchedule050	Deep-seated blood feud	With the enemy at hand, fighting spirit heightened: Damage increased by 50%, recover an additional 4 energy points per turn, confusion value accumulates 20 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule050
 BattleSchedule051	Joint Effort to Save the World	Using Heavenly Scriptures secret techniques, increase damage by 50%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule051
 BattleSchedule052	He Yuqing assesses the blood quantity for the BUFF	Hidden buff, judge half blood volume and trigger dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule052
@@ -1030,7 +1030,7 @@ BattleSchedule519	United we stand	Follow the Second Young Master's footsteps! Th
 BattleSchedule520	Lonely Defender	Tu Le is resolute in protecting his master, battling with unwavering determination... Each round significantly increases external injuries and results in a substantial loss of lifeforce	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule520
 BattleSchedule521	Defect at the Last Moment	Sang Deng betrayed before the battle and helped apprehend the rebel from Mu Mansion, Mu Kui!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule521
 charge	Charge	Charge attack, causing damage to enemies along the path	0		0	FALSE	0	FALSE	0	0		0
-charge02	Charge	'Chongfeng attack, dealing damage to enemies along the path.'	0		0	FALSE	0	FALSE	0	0		0
+charge02	Charge	Chongfeng attack, dealing damage to enemies along the path	0		0	FALSE	0	FALSE	0	0		0
 reducespecial	Reduce opponent's skill value	Lower opponent's skills	0		0	FALSE	0	FALSE	0	0		0
 reducespecial02	Reduce opponent's skill value	Reduce opponent's special skill value	0		0	FALSE	0	FALSE	0	0		0
 onesun	Return of the One Yang	Accumulate 18 sealing points to reduce the enemy's special effect value by 18 points	0		0	FALSE	0	FALSE	0	0	(Sealed,18)(CounterAttack,-18)(Critical,-18)(Release,-18)(Trick,-18)(Combo,-18)	attackBuffer

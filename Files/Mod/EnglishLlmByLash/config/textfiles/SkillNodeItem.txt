@@ -206,7 +206,7 @@ SkillTree023_006	Blade Arts Cultivation		2000	skillIcon005_5	[]	PropertyAdd	(Bla
 SkillTree023_007	Blade Arts Cultivation		2000	skillIcon005_5	[]	PropertyAdd	(Blade,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree023_008	Blade Arts Cultivation		2000	skillIcon005_5	[]	PropertyAdd	(Blade,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree023_009	Blade Arts Cultivation		2000	skillIcon005_5	[]	PropertyAdd	(Blade,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree023_010	Roaring torrents of water rush and collide in a fierce clamor	'A damage enhancement that can sever connections with the Qin Pass and surpass the heights of Mount Emei.'	3000	SkillTree023	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree023_010	FALSE	0	None	0	0	SkillTree023_000,SkillTree023_001
+SkillTree023_010	Roaring torrents of water rush and collide in a fierce clamor	A damage enhancement that can sever connections with the Qin Pass and surpass the heights of Mount Emei	3000	SkillTree023	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree023_010	FALSE	0	None	0	0	SkillTree023_000,SkillTree023_001
 SkillTree023_011	Lian Feng qu tian bu yingchi	Attack range increased to include the inaccessible areas of Mount Emei, even those without contact with Qin's passes	3000	SkillTree023	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree023_011	FALSE	0	None	0	0	SkillTree023_000,SkillTree023_001
 SkillTree024_000	Wolf Bite		1	skillIcon003_2	[]	Active		0	al20011@Attack Jaw	4	0	Enemy	single : { 0, 0, 0 }, 0, 2	fm_animal	Target	0	wounded08	FALSE	250	Other	0	0	
 SkillTree024_001	Wolf's Fierce Bite		1	skillIcon003_2	[]	Active		0	al20011@Attack Jaw 01	4	0	Enemy	single : { 0, 0, 0 }, 0, 2	fm_animal	Target	0	wounded08,sprained08	FALSE	290	Other	0	0	
@@ -360,7 +360,7 @@ SkillTree046_006	Expanse of Vast Emptiness	When running the Zhen Qi Song, the ma
 SkillTree047_000	Dark winds suddenly rose		3600	SkillTree047_000	[]	Active		0	skill_wp1a030	4	80	Enemy	single : { 0, 0, 0 }, 0, 2		Target	0		TRUE	208	Blade	-0.5	SkillTree047_000	
 SkillTree047_001	Black Wind Pursuer	The more evil one is, the stronger the power of Black Wind Pursuit	9500	SkillTree047_001	[]	Active		0	skill_wp1c029	6	360	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 120	fm_very_ying_sector	Target	0	buffSkillTree047_001	FALSE	342	Blade	-1	SkillTree047_001	
 SkillTree047_002	Blade Arts Cultivation		3000	skillIcon020_1	null	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree047_003	Black Slaughter Force	'The more malevolent one's nature, the stronger the power of a sudden rise in sinister winds.'	2500	SkillTree047_2	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree047_003	FALSE	0	None	0	0	SkillTree047_000
+SkillTree047_003	Black Slaughter Force	The more malevolent one's nature, the stronger the power of a sudden rise in sinister winds	2500	SkillTree047_2	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree047_003	FALSE	0	None	0	0	SkillTree047_000
 SkillTree047_004	Blade Arts Cultivation		3000	skillIcon020_1	null	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree047_005	Blade Arts Cultivation		3000	skillIcon020_1	null	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree047_006	Blade Arts Cultivation		3000	skillIcon020_1	null	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
@@ -427,7 +427,7 @@ SkillTree055_000	Kind-hearted Person	9 in the character Tian adds an additional 
 SkillTree055_001	Double Earth	Tianzi Jiu Da Extra 4 Points Confused Value	4000	SkillTree055	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree055_001	FALSE	0	None	0	0	SkillTree055_008
 SkillTree055_002	Hidden Weapon Cultivation		4000	SkillNode01	null	PropertyAdd	(Arrow,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree055_003	Hidden Weapon Cultivation		4000	SkillNode01	null	PropertyAdd	(Arrow,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree055_004	Double Sky	'The energy consumption for a Heaven Nine strike is reduced by one point.'	6000	SkillTree055	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree055_004	FALSE	0	None	0	0	SkillTree055_008
+SkillTree055_004	Double Sky	The energy consumption for a Heaven Nine strike is reduced by one point	6000	SkillTree055	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree055_004	FALSE	0	None	0	0	SkillTree055_008
 SkillTree055_005	Supreme Emperor Tianjiu	Seal Points: 12, Disrupt Tendons: 6, Confuse: 6	17000	SkillTree055_005	[{"Type":1,"Value1":"305","Value2":"70","Operator":0}]	Active		0	skill_wp0b999	8	320	Enemy	single : { 0, 0, 0 }, 3, 7.5	fm_atk_arrow	Target	0	sealed12,cramped06,confused06	FALSE	768	Arrow	-0.5	0	
 SkillTree055_006	Hidden Weapon Cultivation		4000	SkillNode01	null	PropertyAdd	(Arrow,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree055_007	Hidden Weapon Cultivation		4000	SkillNode01	null	PropertyAdd	(Arrow,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
@@ -594,7 +594,7 @@ SkillTree083_005	Short Weapons Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(
 SkillTree083_006	Short Weapons Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Short,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree083_007	Short Weapons Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Short,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree083_008	Short Weapons Proficiency		2000	skillIcon001_1	[]	PropertyAdd	(Short,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree083_009	Flying Swallow Fragrant Dance	'Execute the Scarlet Sleeve and Golden Powder Lotus Step while simultaneously increasing Illusory Skill by 8 points.'	4500	SkillTree083_2	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree083_009	FALSE	0	None	0	0	SkillTree083_001
+SkillTree083_009	Flying Swallow Fragrant Dance	Execute the Scarlet Sleeve and Golden Powder Lotus Step while simultaneously increasing Illusory Skill by 8 points	4500	SkillTree083_2	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree083_009	FALSE	0	None	0	0	SkillTree083_001
 SkillTree084_000	Tianshui toad poison	You can capture the Tianshui Toad and refine it into Tianshui Toad Poison	3000	SkillTree056_4	[{"Type":1,"Value1":"308","Value2":"70","Operator":0}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree084_000	FALSE	0	None	0	0	
 SkillTree084_001	Pale-eyed Golden Scorpion	Can catch blue-eyed scorpions and refine blue-eyed scorpion venom	3000	SkillTree056_5	[{"Type":1,"Value1":"308","Value2":"70","Operator":0}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree084_001	FALSE	0	None	0	0	
 SkillTree084_002	Poisoncraft Proficiency		6000	skillIcon001_1	[]	PropertyAdd	(Poison,6)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
@@ -1301,7 +1301,7 @@ SkillTree173_002	Dark Yin Neigong		4000	skillIcon001_1	[]	PropertyAdd	(Neigong,2
 SkillTree173_003	Dark Yin Neigong		4000	skillIcon001_1	[]	PropertyAdd	(Neigong,2)(YinAndYang,-2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree173_004	Xuanyin Neigong		4000	skillIcon001_1	[]	PropertyAdd	(Neigong,2)(YinAndYang,-2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree173_005	Xuanyin Neigong		4000	skillIcon001_1	[]	PropertyAdd	(Neigong,2)(YinAndYang,-2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree173_006	Convergence and divergence	'If the running technique and coordination are properly executed, during a counterattack, it will deduct 1 point of energy from the enemy.'	16000	SkillTree173	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree173_006	FALSE	0	None	-0.5	0	SkillTree173_000
+SkillTree173_006	Convergence and divergence	If the running technique and coordination are properly executed, during a counterattack, it will deduct 1 point of energy from the enemy	16000	SkillTree173	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree173_006	FALSE	0	None	-0.5	0	SkillTree173_000
 SkillTree173_007	Don't see Chen Xiang	If you run the disengagement, harmony, and mutual support during the action of borrowing strength to strike back, all the harm received by oneself will be returned to the opponent	16000	SkillTree173	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree173_007	FALSE	0	None	-0.5	0	SkillTree173_000
 SkillTree173_008	Xuanyin Neigong		16000	skillIcon001_1	[]	PropertyAdd	(Neigong,8)(YinAndYang,-8)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree174_000	Concentrate the mind	You have a chance to control an enemy for 4 turns. The greater the difference in Neigong, the higher the success rate. You can control at most 2 people at the same time	12000	SkillTree174	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree174_000	FALSE	0	None	0	0	SkillTree174_003

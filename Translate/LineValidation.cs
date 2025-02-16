@@ -304,8 +304,7 @@ public class LineValidation
                 result = result.Replace("“", "");
 
             if (result.Contains('”') && !raw.Contains('”'))
-                result = result.Replace("”", "");  
-
+                result = result.Replace("”", "");         
 
             result = result
                 .Replace("…", "...")
@@ -339,6 +338,10 @@ public class LineValidation
                 Console.WriteLine($"Something Bad happened somewhere: {raw}\n{result}");
                 return result;
             }
+
+            if (result.StartsWith("'") && result.EndsWith("'"))
+                if (result.Length > 3)
+                    result = result[1..^1];
 
             if (Char.IsLower(result[0]) && raw != result)
                 result = Char.ToUpper(result[0]) + result[1..];
