@@ -187,11 +187,9 @@ public class TranslationWorkflowTests
         //////// Quick Validation here
 
         // If it is already translated or just special characters return it
+        var preparedRaw = LineValidation.PrepareRaw(split.Text);
         var cleanedRaw = LineValidation.CleanupLineBeforeSaving(split.Text, split.Text, outputFile);
-        if (!Regex.IsMatch(split.Text, pattern) && split.Translated != cleanedRaw
-            && !split.Text.StartsWith("…")
-            && !split.Text.StartsWith("?…")
-            && !split.Text.StartsWith("【…"))
+        if (!Regex.IsMatch(preparedRaw, pattern) && split.Translated != cleanedRaw)
         {
             Console.WriteLine($"Already Translated {outputFile} \n{split.Translated}");
             split.Translated = cleanedRaw;
@@ -216,10 +214,7 @@ public class TranslationWorkflowTests
             }
         }
 
-        // Add Manual Translations in that are missing
-        var preparedRaw = LineValidation.PrepareRaw(split.Text);
-
-        // If it is manually corrected
+        // Add Manual Translations in that are missing        
         if (manual.TryGetValue(preparedRaw, out string? value))
         {
             if (split.Translated != value)
@@ -259,7 +254,7 @@ public class TranslationWorkflowTests
         }
 
         // Characters
-        //if ((split.Text.Contains("?") || split.Text.Contains("？")) 
+        //if (preparedRaw.Contains("?")
         //    && !split.Translated.Contains("?"))
         //{
         //    Console.WriteLine($"Missing ? {outputFile} Replaces: \n{split.Translated}");
@@ -267,7 +262,7 @@ public class TranslationWorkflowTests
         //    modified = true;
         //}
 
-        //if ((split.Text.Contains("!") || split.Text.Contains("！"))
+        //if (preparedRaw.Contains("!")
         //    && !split.Translated.Contains("!"))
         //{
         //    Console.WriteLine($"Missing ! {outputFile} Replaces: \n{split.Translated}");
@@ -275,15 +270,15 @@ public class TranslationWorkflowTests
         //    modified = true;
         //}
 
-        if ((split.Text.Contains("...") || split.Text.Contains("…"))
-            && !split.Translated.Contains("..."))
+        if (preparedRaw.EndsWith("...")
+            && !split.Translated.EndsWith("...") && split.Text.Length < 6)
         {
             Console.WriteLine($"Missing ... {outputFile} Replaces: \n{split.Translated}");
             split.FlaggedForRetranslation = true;
             modified = true;
         }
 
-        if ((split.Text.StartsWith("...") || split.Text.StartsWith("…")) && !split.Translated.StartsWith("..."))
+        if (preparedRaw.StartsWith("...") && !split.Translated.StartsWith("..."))
         {
             Console.WriteLine($"Missing ... {outputFile} Replaces: \n{split.Translated}");
             split.Translated = $"...{split.Translated}";
@@ -317,7 +312,7 @@ public class TranslationWorkflowTests
         }
 
         // Add . into Dialogue
-        if (outputFile.EndsWith("NpcTalkItem.txt") && char.IsLetter(split.Translated[^1]) && split.Text != split.Translated)
+        if (outputFile.EndsWith("NpcTalkItem.txt") && char.IsLetter(split.Translated[^1]) && preparedRaw != split.Translated)
         {
             Console.WriteLine($"Needed full stop:{outputFile} \n{split.Translated}");
             split.Translated += '.';
@@ -347,12 +342,14 @@ public class TranslationWorkflowTests
 
     private static bool CheckMistranslationGlossary(TranslationSplit split, Dictionary<string, string> glossary, bool modified)
     {
+        var preparedRaw = LineValidation.PrepareRaw(split.Text);
+
         if (split.Translated == null)
             return modified;
 
         foreach (var item in glossary)
         {
-            if (split.Text.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
+            if (preparedRaw.Contains(item.Key) && !split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
             {
                 // Handle placeholders being annoying basically if it caught a {name_2} only when the text has {1} and {2}
                 if (split.Text.Contains("{name_1}{name_2}") && !item.Value.Contains("{name_1}"))
@@ -373,6 +370,8 @@ public class TranslationWorkflowTests
 
     private static bool CheckHallucinationGlossary(TranslationSplit split, Dictionary<string, string> glossary, Dictionary<string, List<string>> dupeNames, bool modified)
     {
+        var preparedRaw = LineValidation.PrepareRaw(split.Text);
+
         if (split.Translated == null)
             return modified;
 
@@ -380,7 +379,7 @@ public class TranslationWorkflowTests
         {
             var wordPattern = $"\\b{item.Value}\\b";
 
-            if (!split.Text.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
+            if (!preparedRaw.Contains(item.Key) && split.Translated.Contains(item.Value, StringComparison.OrdinalIgnoreCase))
             {
                 //If we dont word match - ie matched He Family in the family
                 if (!Regex.IsMatch(split.Translated, wordPattern, RegexOptions.IgnoreCase))
@@ -414,23 +413,6 @@ public class TranslationWorkflowTests
 
         return modified; // Will be previous value - even if it didnt find anything
     }
-
-    //public static bool MatchesPinyin(string input)
-    //{
-    //    string[] words = ["hiu", "guniang", "tut", "thut", "oi", "avo", "porqe", "obrigado", 
-    //        "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
-    //        "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una",  "keqi", "shiwu", 
-    //        "niang", "fuck", "ich", "daren", "furen", "ein", "der", "ganzes", "Leben", "dort", "xiansheng"];
-
-    //    foreach (var word in words)
-    //    {
-    //        var pattern = $@"\b{word}\b";
-    //        if (Regex.IsMatch(input, pattern, RegexOptions.IgnoreCase))
-    //            return true;
-    //    }
-
-    //    return false;
-    //}
 
     public static bool MatchesPinyin(string input)
     {

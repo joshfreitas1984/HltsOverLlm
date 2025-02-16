@@ -17,6 +17,9 @@ public class LineValidation
     public static string PrepareRaw(string raw)
     {
         raw = StripColorTags(raw)
+            .Replace("…", "...")
+            .Replace("？", "?")
+            .Replace("！", "!")
             .Replace("Target", "{target}")
             .Replace("Inventory", "{inventory}")
             .Replace("Location", "{location}");

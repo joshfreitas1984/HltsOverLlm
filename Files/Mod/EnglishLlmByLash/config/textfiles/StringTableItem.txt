@@ -75,7 +75,7 @@ TalkAmbushNpc5	Impressive, we'll see how things go
 TalkAmbushNpc6	Your martial arts skills are exceptional, impressive indeed
 TalkAmbushNpc7	Hmph, don't be arrogant, I was just careless for a moment
 TalkAmbushNpc8	I didn't expect to lose due to my mistake, and yet I am defeated by your hand
-TalkAmbushNpc9	Hum, no matter how much trickery you use. In terms of true abilities, you are not my match
+TalkAmbushNpc9	Ha! Even if you use some trickery, in terms of actual skill, you are no match for me...
 TalkAmbushNpc10	I... I am defeated by an unknown person... It's absolutely impossible
 NoBook	Not yet selected the manual
 ActivateA	Please choose {0}
@@ -912,10 +912,10 @@ Affected2	Adversary
 CurrentMod	Currently module
 ModUpload	Upload module
 ModUploadCheck	Shall we upload the {0} module?
-ModUploading	Module {0} is uploading
+ModUploading	Uploading module {0}...
 ModUploadFinish	Upload completed
 ModUploadFailure	Upload failed
-ModUpdating	Updating
+ModUpdating	Updating...
 ModApply	Apply in progress
 ModApplyCheck	Should the {0} module be applied?
 IsRemoteMod	Remote

@@ -26,6 +26,32 @@
 - raw: 师妹
   result: Junior Sister
 
+# Sounds
+- raw: 呜呜
+  result: Wuwu
+- raw: 呜...
+  result: Wu...
+- raw: 齁齁
+  result: Hoho
+- raw: 齁...
+  result: Ho..
+- raw: 嘎嘎
+  result: Gaga
+- raw: 嘎...
+  result: Ga...
+- raw: 嘶…
+  result: Hiss
+- raw: 嘶嘶
+  result: Hiss
+- raw: 咕咕
+  result: Gugu
+- raw: 咕...
+  result: Gu...
+- raw: 咯咯
+  result: Gege
+- raw: 咯...
+  result: Ge...
+
 # Names without Hallucination
 - raw: 凌某
   result: Surnamed Ling
@@ -175,6 +201,10 @@
   result: A'Chu
 - raw: 阿纹
   result: A'Wen
+- raw: 阿兰
+  result: A'Lan
+- raw: 阿兄
+  result: A'Xiong
 
 
 - raw: 巴大哥
