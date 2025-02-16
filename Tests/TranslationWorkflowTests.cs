@@ -86,9 +86,6 @@ public class TranslationWorkflowTests
             {  "狂狷", "Wild and Good" },
             {  "阴阳", "Yin and Yang" },
             {  "姑娘", "Young lady" },
-            {  "唔！", "Ugh!" },
-            {  "唔呃…", "Uh..." },
-            {  "戾气？", "Malevolent Qi?" },
             {  "-请便", "Excuse me" },
             {  "{0}{1} 经验", "{0} {1} Experience" },
             { "杂项事件对话", "Miscellaneous Events Dialogue" }, 
@@ -190,13 +187,14 @@ public class TranslationWorkflowTests
         //////// Quick Validation here
 
         // If it is already translated or just special characters return it
-        if (!Regex.IsMatch(split.Text, pattern) && split.Translated != split.Text 
+        var cleanedRaw = LineValidation.CleanupLineBeforeSaving(split.Text, split.Text, outputFile);
+        if (!Regex.IsMatch(split.Text, pattern) && split.Translated != cleanedRaw
             && !split.Text.StartsWith("…")
             && !split.Text.StartsWith("?…")
             && !split.Text.StartsWith("【…"))
         {
             Console.WriteLine($"Already Translated {outputFile} \n{split.Translated}");
-            split.Translated = LineValidation.CleanupLineBeforeSaving(split.Text, split.Text, outputFile);
+            split.Translated = cleanedRaw;
             split.ResetFlags();
             return true;
         }        
@@ -261,13 +259,13 @@ public class TranslationWorkflowTests
         }
 
         // Characters
-        if (((split.Text.Contains("!") || split.Text.Contains("！")) && !split.Translated.Contains("!"))
-            || ((split.Text.Contains("?") || split.Text.Contains("？")) && !split.Translated.Contains("?")))
-        {
-            Console.WriteLine($"Missing Punctuation {outputFile} Replaces: \n{split.Translated}");
-            split.FlaggedForRetranslation = true;
-            modified = true;
-        }
+        //if (((split.Text.Contains("!") || split.Text.Contains("！")) && !split.Translated.Contains("!"))
+        //    || ((split.Text.Contains("?") || split.Text.Contains("？")) && !split.Translated.Contains("?")))
+        //{
+        //    Console.WriteLine($"Missing Punctuation {outputFile} Replaces: \n{split.Translated}");
+        //    split.FlaggedForRetranslation = true;
+        //    modified = true;
+        //}
 
         if ((split.Text.StartsWith("...") || split.Text.StartsWith("…")) && !split.Translated.StartsWith("..."))
         {

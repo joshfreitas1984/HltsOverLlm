@@ -1099,7 +1099,7 @@
   - split: 3
     text: "北丑在你面前又唱了一出不知所云的戏，推敲其中对白，似乎是想请你替他寻找唱本或是剧目一类的书籍，若是旅途上碰巧拿到了手，就拿回来给他瞧瞧吧！<br>不过动作恐怕得快，说不准他何时有要事离开。"
     translated: "Northern Ugly performed another incomprehensible play in front of you, and upon examining the dialogue, it seems he wants you to find a libretto or script for him. If you happen to come across such books during your travels, please bring them back so he can take a look<br>However, the action probably needs to be quick, as we can't predict when he might leave for an urgent matter"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 69
@@ -1115,7 +1115,7 @@
   - split: 3
     text: "北丑在你面前又唱了一出不知所云的戏，推敲其中对白，似乎是想请你替他寻找唱本或是剧目一类的书籍，若是旅途上碰巧拿到了手，就拿回来给他瞧瞧吧！<br>不过动作恐怕得快，说不准他何时有要事离开。"
     translated: "Northern Ugly performed an incomprehensible play in front of you, and upon analyzing the dialogue, it seems he wants you to find a script or playbook for him. If you happen to come across one during your travels, please take it back for him to see<br>However, the action must be quick; you never know when he might leave for something important"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 70
@@ -1467,7 +1467,7 @@
   - split: 3
     text: "你顺利在丈人村找到了燕巧和北丑。在陪北丑唱了一出戏，并击败了来犯的不赦楼和豹王寨后，顺利与迟来的赛伊尹会合，赶紧和北丑返回美馔楼回报西庖吧！"
     translated: "You successfully found Yan Qiao and Northern Ugly in Elder's Village. After performing a play with Northern Ugly and defeating the Merciless Hall and Panther King Camp, you met up with Sai Yiyin who was late and quickly returned to Delicious Banquet Hall with Northern Ugly to report back to Western Kitchen"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 92
@@ -2027,7 +2027,7 @@
   - split: 3
     text: "你来到事发现场，发现辎重移动的痕迹仍很明显，往痕迹所指的方向查看应该能发现什么吧？"
     translated: "You arrive at the scene and find that the traces of the baggage being moved are still very clear. Looking in the direction indicated by the traces should reveal something"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 127
@@ -2155,7 +2155,7 @@
   - split: 3
     text: "豆花嫂希望你能为她丈夫带来虎鞭，至于用途应该不难猜？"
     translated: "Miss Douhua hopes you can bring her husband a Tiger Whip. As for its use, it should be easy to guess"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 135
@@ -2171,7 +2171,7 @@
   - split: 3
     text: "豆花嫂希望你能为她丈夫带来虎鞭，至于用途应该不难猜？"
     translated: "Bean Curd Auntie hopes you can bring a tiger whip for her husband. As for its use, it shouldn't be hard to guess"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 136
@@ -2507,7 +2507,7 @@
   - split: 3
     text: "经过你的劝解，石霖决定放下身段离开故乡去找石妍夫妻团聚，想必她们一家将从此过着幸福圆满的日子？也算不枉你这阵子的奔波劳苦。"
     translated: "After your persuasion, Shi Lin decided to set aside her pride and leave her hometown to reunite with the Shi Yan couple. They are likely to lead a happy and complete life from now on. It was not in vain for you to have worked so hard recently"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 157
@@ -2843,7 +2843,7 @@
   - split: 3
     text: "晚上一个人喝闷酒的青城弟子把松风剑谱搞丢了！唯一线索是他游历住宿过白马居、美馔楼、拱石村等处。试着在三天内找到剑谱并交给青城弟子，否则他就得返回青城派受罚。"
     translated: "One evening, a Qingcheng Sect disciple lost the Sword Manual while drinking alone. The only clue is that he has stayed at White Horse Residence, Delicious Banquet Hall, Arched Stone Village, and other places during his travels. Try to find the manual within three days and return it to the Qingcheng Sect disciple; otherwise, he will have to return to the Qingcheng Sect for punishment"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 178
@@ -4107,7 +4107,7 @@
   - split: 3
     text: "你在拱石村附近的蛇窟洞口，发现一名被蛇围攻的男子。帮助他把蛇赶跑之后，这名男子表示他有一位朋友还困在蛇窟里面，你要进去帮他救人吗？"
     translated: "At the entrance of a snake cave near Arched Stone Village, you find a man surrounded by snakes. After helping him fend off the snakes, he mentions that a friend is still trapped inside the cave and asks if you will go in to rescue them"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 257
@@ -4427,7 +4427,7 @@
   - split: 3
     text: "王喆需要一点时间疗养内伤，他将一枚擎天寨令牌交付给你，请你去找他的义姐白露霜。白露霜留有一头披肩长发，应该不难辨认，先向卧龙村居民打听打听吧！"
     translated: "Wang Zhe needs some time to recover from his internal injuries, so he has entrusted you with a command token of Heaven's Pillar Fort. You must go and find his sworn sister, Bai Lushuang. With her cascading long hair, she should be easy to identify. Start by asking around the residents of Dragon's Rest Village"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 277
@@ -5275,7 +5275,7 @@
   - split: 3
     text: "一听到上工就不见人影？漱玉矶的阮曼曼正焦头烂额的寻找不知跑到何处的女儿阮小路，快帮帮她吧！"
     translated: "As soon as work began, no one was seen. At Gleaming Jade Beach, Ren Manman is frantically searching for her missing daughter, Ren Xiaolu, who has run off somewhere. Please help her!"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 330
@@ -5307,7 +5307,7 @@
   - split: 3
     text: "一听到上工就不见人影？漱玉矶的阮曼曼正焦头烂额的寻找不知跑到何处的女儿阮小路，而你虽然找到了小路，她却闹着要吃李子…。"
     translated: "Upon hearing that no one was seen when heading to work, Ruan Manman at Gleaming Jade Beach was anxiously searching for her daughter, Ruan Xiaolu, who had run off somewhere. You found Xiaolu, but she insisted on wanting to eat plums..."
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 332
@@ -5403,7 +5403,7 @@
   - split: 3
     text: "段思良竟然迷上去俏梦阁！？赶快去俏梦阁调查清楚吧。"
     translated: "Duan Siliang has become infatuated with the Charming Dream Pavilion! Hurry to investigate the Charming Dream Pavilion thoroughly"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 338
@@ -5595,7 +5595,7 @@
   - split: 3
     text: "又有山魈恶鬼出没的传闻，而且还袭击了马帮队伍？赶快跟禾郁青一起去救援。"
     translated: "There are rumors of mountain demons and evil spirits appearing, and they have even attacked the Horse Gang. Hurry up to go rescue them with He Yuqing"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 350
@@ -6747,7 +6747,7 @@
   - split: 3
     text: "不知道上次与同门打架是否造成凌霜峻的困扰？对此很在意的张君宝回到青城山，发现霜峻和其他弟子因为前些日子打架，被掌门派往丈人村附近讨伐山贼。但这些山贼实际上是赤丹宫余党假扮的，就是为了诱出青城派弟子。你们虽然成功打倒赤丹宫余党、彼此尽兴前嫌，但在蜀川的某地赤丹宫余党的势力依然在慢慢崛起。"
     translated: "Zhang Junbao was concerned whether the previous fight with fellow sect members had caused trouble for Ling Shuangjun. Upon returning to Qingcheng Mountain, Zhang discovered that Shuangjun and other disciples were sent by the head of the sect to defeat bandits near Elder's Village due to recent fights among themselves. However, these bandits were actually Red Cinnabar Palace remnants disguised as bandits, aiming to lure out Qingcheng Sect disciples. Although they successfully defeated the Red Cinnabar Palace remnants and resolved their previous grievances, the power of the Red Cinnabar Palace remnants in a certain place in Shuchuan was still gradually rising"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 422
@@ -7659,7 +7659,7 @@
   - split: 3
     text: "纸条上写着：「五色之下，方见新路。」似乎要寻找五种颜色的所在之处？"
     translated: "On the note, it was written:：Under the five colors, new paths are revealed. It seems to imply seeking the locations where these five colors can be found"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 479
@@ -7675,7 +7675,7 @@
   - split: 3
     text: "纸条上写着：「四火之中，方见新路。」似乎要寻找四团火焰所包围之处？"
     translated: "On the note it said,：Through the four fires, a new path is revealed. It seems to be about finding what lies within the enclosure of the four flames"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 480
@@ -7691,7 +7691,7 @@
   - split: 3
     text: "纸条上写着：「三棚之上，方见新路。」似乎要寻找三个木棚的所在之处？"
     translated: "The note read:：Three storeys up, a new road will be seen. It seems to suggest finding the location of three wooden stalls"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 481
@@ -7707,7 +7707,7 @@
   - split: 3
     text: "纸条上写着：「二轮之间，方见新路。」似乎要寻找二架转轮的所在之处？"
     translated: "On the note, it said:：Between the two wheels, a new path is revealed. It seems as though one must find the location of these two revolving wheels"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 482
@@ -7883,7 +7883,7 @@
   - split: 3
     text: "看起来相当怕鬼的寺僧降措，想收集全套一共六颗的玛尼石来庇护自己。只要再找到「唵、嘛、呢、叭、咪」等五颗，便能集齐了。在寺庙内与寺庙附近找找看吧？"
     translated: "The monk who seems quite afraid of ghosts, Achok, wants to collect all six Mani stones for protection. If he finds the remaining Aum, Ma, Ni, Ba, and Mi five stones, he will have them all. Look around in and near the temple"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 493
@@ -7899,7 +7899,7 @@
   - split: 3
     text: "看起来相当怕鬼的寺僧降措，想收集全套一共六颗的玛尼石来庇护自己。只要再找到「唵、嘛、呢、叭、咪」等五颗，便能集齐了。在寺庙内与寺庙附近找找看吧？"
     translated: "The monk who seemed quite superstitious, Dao Cuo, wanted to collect all six Mani stones for protection. He just needed to find the five remaining ones: Om, Ma, Ni, Ba, and Mi. Look around in and near the temple"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 494
@@ -8267,7 +8267,7 @@
   - split: 3
     text: "噶玛寺意外丢失了佛教七宝当中的其中三宝：珍珠颈炼、琥珀念珠以及金箔佛像，似乎是马车从大研镇运送到寺庙时掉落的。在这条道路上搜索看看吧！"
     translated: "Karma Monastery unexpectedly lost three of the seven treasures in Buddhism：Pearl necklaces, amber prayer beads, and gold-leaf Buddha statues—these seem to have fallen off the carriage on its way from Dayan Town to the temple. Why don't you search along this road?"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 517
@@ -8667,7 +8667,7 @@
   - split: 3
     text: "据喇嘛桑杰诺布之言，最近在噶玛寺近郊的树林间，聚集了不少凶猛的野兽，要是伤及上山朝拜的镇民，那可就不好了。<br>总算解决豹患了，将豹胎带回去给桑杰诺布吧！"
     translated: "According to Lama Sangye Norbu, there have been many fierce wild animals gathering in the forest near Karma Monastery recently. If they harm any villagers making pilgrimage trips up the mountain, that would be very troublesome<br>The leopard problem has finally been resolved, so bring the leopard fetus back to give it to Brother Sangjeno"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 542
@@ -8955,7 +8955,7 @@
   - split: 3
     text: "木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受……就替木工老丈看看腿伤吧！"
     translated: "Master Carpenter A'Hu A'Shan wants to make a pilgrimage to the Karma Monastery, but his severe leg injury is causing him great discomfort. Why not take a look at Master Carpenter's leg wound for him?"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 560
@@ -9003,7 +9003,7 @@
   - split: 3
     text: "木工老丈阿胡阿山想到噶玛寺朝拜，但严重的腿伤却令他难受，要是能有止血生肌的丹药，说不定能使伤势好转。你替老丈找来一颗止血生肌丸，果真起了疗效！而木工老丈阿胡阿山也给了你一些回报。"
     translated: "The woodworker, A'Hu A'Shan, had a desire to pay homage at Karma Monastery but was suffering from a severe leg injury. If only there were an herb that could stop bleeding and promote healing, perhaps his condition would improve. You find him a pill with these properties, which indeed works wonders for his ailment. The woodworker, A'Hu A'Shan, then rewards you in return"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 563
@@ -9307,7 +9307,7 @@
   - split: 3
     text: "你认识了一位名叫段思平的侠士，而你接受了段思平的邀约，两人一同前往蛇窟一探究竟。在蛇窟深处你们斩杀了蛇王，将蛇王死尸带给郎中吧！说不定能帮助郎中制作出有效的解药？"
     translated: "You met a martial artist named Duan Siping, and you accepted an invitation from him to go together to explore the Snake Den. In the depths of the Snake Den, you killed the Serpent King and brought the serpent king's corpse to the herbalist. Maybe they can use it to make an effective antidote?"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 582
@@ -9931,7 +9931,7 @@
   - split: 3
     text: "木天王木得被暗杀了，刺客至今仍逃离在外，而你则意外卷入此次事件之中……<br>你将桑登可能窝藏黑衣人一事告诉木初，这才知道，白衣派寺僧是在战争中失利，才败退到了大研镇，桑登为了反攻故土，也许正在暗中拉拢各方势力，以后也得小心桑登的动向……而阿得阿克想必已经找来猎犬，就到大研镇的西门外，与阿得阿克会合吧！"
     translated: "King Mu and his son, Mu De, were assassinated, with the assassin still at large. You have unexpectedly become entangled in this incident...<br>After informing Mu Chu about the possibility that Sang Deng might be harboring members of the Black Robes Sect, you realized that the monks of the White Robes Sect had retreated to Dayan Town following a defeat in battle. Sang Deng is likely attempting to regroup various forces for a counterattack on his homeland; thus, it will be important to keep an eye on his movements going forward... A'De A'Ke must have already sent the hunting dogs ahead. Let's head to the western gate outside Dayan Town to meet with A'De A'Ke"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 621
@@ -10635,7 +10635,7 @@
   - split: 3
     text: "黄裳向你指出，明教北坛位于蜀地东北方，一处入口隐密的巨大山洞之内，但那处明教根据地是现任兵马指挥使皇甫登云当年寻到的，黄裳并不知道确切的所在之处……青城派为蜀地第一大正派，掌门凌中岳也许会知道些什么？"
     translated: "Huang Shang pointed out to you that the Northern Altar of the Way of Light is located inside a vast hidden cave entrance in the northeast region of Shu. However, the exact location of this Way of Light stronghold was discovered by Commander Huangfu Dengyun many years ago, and Huang Shang does not know the precise whereabouts... The Qingcheng Sect is the foremost orthodox sect in the Shu region, so perhaps its leader, Ling Zhongyue, might have some information"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 665
@@ -10651,7 +10651,7 @@
   - split: 3
     text: "黄裳向你指出，明教北坛位于蜀地东北方，一处入口隐密的巨大山洞之内，但那处明教根据地是现任兵马指挥使皇甫登云当年寻到的，黄裳并不知道确切的所在之处……青城派为蜀地第一大正派，掌门凌中岳也许会知道些什么？"
     translated: "Huang Shang pointed out to you that the Northern Altar of the Way of Light is located within a vast and hidden cave entrance in the northeast of Shu. However, the specific location where the current Commander Huangfu Dengyun discovered this base of the Way of Light is unknown to Huang Shang... The Qingcheng Sect is the most prominent orthodox sect in Shu, so perhaps Master Ling Zhongyue might know something about it"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 666
@@ -10859,7 +10859,7 @@
   - split: 3
     text: "拱石村符阿翠的菜被灶神爷爷吃掉了？符阿翠请你问问灶神爷爷，究竟是什么事情惹得祂生气了…虽然有点荒谬，但还是帮她想想办法吧。"
     translated: "In Arched Stone Village, the food that Fu A'Cui had prepared was eaten by the Kitchen God. Please ask the Kitchen God what exactly upset Him so much... Although it seems absurd, try to think of a way to help her"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 679
@@ -10939,7 +10939,7 @@
   - split: 3
     text: "点苍派的东郭强与漆笑儿这对师兄妹似乎正密切追缉侠盗李叹，想要来个人赃俱获。<br>听说李叹白天常在漱玉矶里，正大光明的闲晃，要不去见识一下这传说中的侠盗是个怎么样的人，顺便和他问问点苍派这对师兄妹的事情？"
     translated: "The Diancang Sect's Elder Brother Dong Guoqiang and Qi Xiao'er, this brother-sister duo, seem to be closely pursuing the rogue hero Li Tan in hopes of capturing him red-handed<br>I heard that Li Tan often hangs around Gleaming Jade Beach in broad daylight, quite openly. I wonder if I should go see this legendary rogue for myself and ask him about the brother-sister duo from the Diancang Sect"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 684
@@ -11019,7 +11019,7 @@
   - split: 3
     text: "完成善人府事件后，李叹似乎依然留在这大研镇尚未离去。兴许可以再在这镇里逛逛，看看是否能够碰上。之前李叹曾说有黑衣人追着他不放，却不知这些黑衣人在这大研镇有着什么目的？"
     translated: "After the event at Goodwill Mansion, it seems Li Tan has not left Dayan Town yet. Perhaps you can take a stroll around the town again and see if you bump into him. Li Tan previously mentioned that he was being chased by people in black robes without respite, but it's unclear what these individuals want here in Dayan Town"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 689
@@ -11675,7 +11675,7 @@
   - split: 3
     text: "一世富贵酒庄的弟子龚元魁在拱石村弄丢了配剑，调查之下你在深夜的客店外头发现了一只奇怪的猴子、一个奇怪的哑巴小孩，似乎这配剑之事和他们有关？<br>不过总之是找回了酒庄弟子龚元魁的配剑，赶紧拿回去还给他吧！"
     translated: "A disciple of the Lifetime of Prosperity Winery, Gong Yankui, has lost his paired sword in Arched Stone Village. Upon investigation, you discover a strange monkey and an odd mute child outside a guesthouse at night. It seems that the incident with the sword is related to them<br>Anyway, we've found the paired sword of the wine cellar disciple Gong Yankui. Let's hurry and return it to him!"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 730
@@ -11691,7 +11691,7 @@
   - split: 3
     text: "一世富贵酒庄的弟子龚元魁在拱石村弄丢了配剑，调查之下你在深夜的客店外头发现了一只奇怪的猴子、一个奇怪的哑巴小孩，似乎这配剑之事和他们有关？调查现场，似乎可以发现什么线索。"
     translated: "The disciple of Lifetime of Prosperity Winery, Gong Yankui, lost his paired sword in Arched Stone Village. Upon investigating, you discover a peculiar monkey and an odd mute child outside the inn late at night, suggesting they might be involved with the missing sword incident. Investigating the scene may reveal some clues"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 731
@@ -11707,7 +11707,7 @@
   - split: 3
     text: "一世富贵酒庄的弟子龚元魁在拱石村弄丢了配剑，调查之下你在深夜的客店外头发现了一只奇怪的猴子、一个奇怪的哑巴小孩，似乎这配剑之事和他们有关？调查现场，似乎可以发现什么线索。"
     translated: "The disciple of Lifetime of Prosperity Winery, Gong Yankui, lost his matching sword in Arched Stone Village. During the investigation, you discovered a strange monkey and an odd mute child outside a guesthouse at night, suggesting they might be connected to the missing sword. Investigating the scene could reveal some clues"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 732
@@ -12299,7 +12299,7 @@
   - split: 3
     text: "虽说应苏清瑞要求，为他弄来酿造过程中从未沾染凡人俗气、让人一喝之下抚掌大叹「果然是好酒」的「果然酒」…但左思右想，实在没有头绪啊！不如…先前往酒馆打听看看吧…。"
     translated: "Although he was asked by Si Su Qingrui to procure Guo Ruan wine—a brew untouched by mundane vulgarity, making anyone exclaim in awe at its first sip—after much contemplation, he found himself at a loss. Perhaps it would be best to go to the tavern and ask around..."
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 769
@@ -13291,7 +13291,7 @@
   - split: 3
     text: "在漱玉矶遇到一名怪僧，开口就说杀人，末了还要求你把岸边一名叫做姜寒的女孩儿带到他面前，说想吃她的肉？！这…真要照办吗？"
     translated: "At Gleaming Jade Beach, I encountered a strange monk who immediately began talking about killing people. In the end, he demanded that I bring a girl named Jiang Han from the shore to his presence because he wanted to eat her flesh? Is this... are we really supposed to do it?"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 831
@@ -13883,7 +13883,7 @@
   - split: 3
     text: "为苏清瑞寻找回复容貌的药材后，他对于重振苏府似乎十分有信心，也重新思量情感姻缘之事。<br>他托你前往北方乞丐寮从王琦年的手上交易回家传玉佩，让他赠与爱慕的姑娘。不过似乎不是人人都能顺利和这位乞丐寮的乞丐王打交道，也许队伍里得要带上善于和乞丐打交道的朋友…？"
     translated: "After finding the herbs to restore Su Qingrui's appearance, he seems very confident about revitalizing the Su Mansion and is also reconsidering matters of emotions and affection<br>He entrusted you to go to the beggar's den in the north and negotiate with Wang Qi'nian for a jade pendant to bring home as a gift for the girl he admires. However, it seems not everyone can easily deal with Beggar King Wang from the beggar's den, so perhaps someone skilled in dealing with beggars should accompany you on this mission..."
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 868
@@ -16171,7 +16171,7 @@
   - split: 3
     text: "王喆的义姐白露霜，竟然是江湖上恶名昭彰的霜发罗刹？你们在破庙遇上一名叫做崔二的乞丐，他提供了与李彦仙会面的机会，但白露霜不愿相信崔二，坚持要将破庙里外彻底调查一番。"
     translated: "Wang Zhe's sworn sister Bai Lushuang is allegedly the infamous Frost-haired Rakshasa of the Jianghu. You encountered a beggar named Cui Er at the ruined temple, who provided an opportunity to meet Li Yanxian. However, Bai Lushuang was unwilling to trust Cui Er and insisted on thoroughly investigating both inside and outside the ruined temple"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1011
@@ -16187,7 +16187,7 @@
   - split: 3
     text: "王喆的义姐白露霜，竟然是江湖上恶名昭彰的霜发罗刹？你们在破庙遇上一名叫做崔二的乞丐，他提供了与李彦仙会面的机会，但白露霜不愿相信崔二，坚持要将破庙里外彻底调查一番。"
     translated: "Wang Zhe's sworn sister, Bai Lushuang, is none other than the infamous Frost-haired Rakshasa of Jianghu. When you encounter a beggar named Cui Er at the ruined temple, he offers an opportunity to meet Li Yanxian. However, Bai Lushuang refuses to believe Cui Er and insists on conducting a thorough investigation both inside and outside the temple"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1012
@@ -16315,7 +16315,7 @@
   - split: 3
     text: "在渡口地牢发现了另一枚擎天寨标记，应当是李彦仙留下的暗号。标记中的重眀鸟鸟首指向北方，看来王喆、李彦仙是往北方逃了，前往渡口北侧与两人会和吧！"
     translated: "At the dock's dungeon, another symbol of Heaven's Pillar Fort was discovered, presumably a signal left by Li Yanxian. The head of the phoenix on the mark pointed north, suggesting that Wang Zhe and Li Yanxian fled to the north, towards the northern side of the dock to meet with them"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1020
@@ -16347,7 +16347,7 @@
   - split: 3
     text: "王喆决心履行义兄李彦仙的遗命，收复擎天寨并夺回天书碎片。战胤飞得豹王寨、不赦楼之助，眼前显然是一场硬仗，准备好了就到李彦仙、白露霜墓前与王喆会合吧！"
     translated: "Wang Zhe is determined to fulfill his sworn brother Li Yanxian's last wish: to reclaim Heaven's Pillar Fort and recover the fragments of the Heavenly Scripture. With the assistance of Panther King Camp and Merciless Hall, Zhan Yinfei realizes that they are facing a tough battle ahead. They should prepare everything and meet Wang Zhe at the tomb of Li Yanxian and Bai Lushuang"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 1022

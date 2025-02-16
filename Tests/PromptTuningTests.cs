@@ -136,6 +136,72 @@ public class PromptTuningTests
     }
 
     [Fact]
+    public async Task ExplainPrompt2()
+    {
+        var config = Configuration.GetConfiguration(workingDirectory);
+
+        // Create an HttpClient instance
+        using var client = new HttpClient();
+        client.Timeout = TimeSpan.FromSeconds(300);
+
+        // Prime the Request
+
+        List<object> messages = TranslationService.GenerateBaseMessages(config, "豆花嫂希望你能为她丈夫带来虎鞭，至于用途应该不难猜？",
+            string.Empty,
+            "Explain your reasoning in a <think> tag at the end of the response. Also explain why the ? was removed. Also explain how to adjust the system prompt to correct it to make sure the '?' was not removed and context is retained.");
+
+        // Generate based on what would have been created
+        var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
+
+        // Send correction & Get result
+        HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
+        HttpResponseMessage response = await client.PostAsync(config.Url, content);
+        response.EnsureSuccessStatusCode();
+        string responseBody = await response.Content.ReadAsStringAsync();
+        using var jsonDoc = JsonDocument.Parse(responseBody);
+        var result = jsonDoc.RootElement
+            .GetProperty("message")!
+            .GetProperty("content")!
+            .GetString()
+            ?.Trim() ?? string.Empty;
+
+        File.WriteAllText($"{workingDirectory}/TestResults/2.ExplainPrompt.txt", result);
+    }
+
+    [Fact]
+    public async Task ExplainPrompt3()
+    {
+        var config = Configuration.GetConfiguration(workingDirectory);
+
+        // Create an HttpClient instance
+        using var client = new HttpClient();
+        client.Timeout = TimeSpan.FromSeconds(300);
+
+        // Prime the Request
+
+        List<object> messages = TranslationService.GenerateBaseMessages(config, "若果有此意，叫八戒伐几棵树来，沙僧寻些草来，我做木匠，就在这里搭个窝铺，你与她圆房成事，我们大家散了，却不是件事业？何必又跋涉，取什经去！",
+            string.Empty,
+            "Explain your reasoning in a <think> tag at the end of the response. Also explain why the ! was removed. Also explain how to adjust the system prompt to correct it to make sure the '!' was not removed and context is retained. Show an example prompt.");
+
+        // Generate based on what would have been created
+        var requestData = LlmHelpers.GenerateLlmRequestData(config, messages);
+
+        // Send correction & Get result
+        HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
+        HttpResponseMessage response = await client.PostAsync(config.Url, content);
+        response.EnsureSuccessStatusCode();
+        string responseBody = await response.Content.ReadAsStringAsync();
+        using var jsonDoc = JsonDocument.Parse(responseBody);
+        var result = jsonDoc.RootElement
+            .GetProperty("message")!
+            .GetProperty("content")!
+            .GetString()
+            ?.Trim() ?? string.Empty;
+
+        File.WriteAllText($"{workingDirectory}/TestResults/2.ExplainPrompt.txt", result);
+    }
+
+    [Fact]
     public async Task TestPrompt()
     {
         var config = Configuration.GetConfiguration(workingDirectory);

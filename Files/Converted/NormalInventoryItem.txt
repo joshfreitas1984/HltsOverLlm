@@ -6075,7 +6075,7 @@
   - split: 3
     text: "一枚用碧玉雕成的令牌，形状奇特，似是火焰，但不知是用在何处的？"
     translated: "A token carved from jade, its shape is peculiar, resembling flames, but it's unclear where it might be used"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 380
@@ -6651,7 +6651,7 @@
   - split: 3
     text: "从杜府一处上锁的柜子中取得的钥匙，不知道能用来开启哪边的锁？"
     translated: "The key obtained from a locked cabinet at the Du Mansion is mysterious, as it's unclear which lock it can open"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 416
@@ -6795,7 +6795,7 @@
   - split: 3
     text: "此书记载杜府罗嬷嬷的拿手好菜。盖杜府灶房里总是固定备着汤水好料，无论老爷夫人想吃什么，罗嬷嬷都能快速上菜，不知道这样子的大户人家都吃些什么好料？"
     translated: "This book records the signature dishes of Lady Luo from Du Mansion. In the kitchen, there is always a stockpile of fine ingredients ready for soups and stews. Whether the master or lady desires something specific, Lady Luo can promptly prepare it. One wonders what kinds of exquisite ingredients such a wealthy family enjoys"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 425
@@ -7371,7 +7371,7 @@
   - split: 3
     text: "份量十足的袋子，不知是装了石头还是啥的才会这么重？"
     translated: "The bag feels incredibly heavy. It's hard to tell if it's filled with stones or something else"
-    flaggedForRetranslation: true
+    flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 461

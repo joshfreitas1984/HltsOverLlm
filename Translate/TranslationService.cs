@@ -19,6 +19,9 @@ namespace Translate;
 
 public static class TranslationService
 {
+    public const int BatchlessLog = 1000;
+    public const int BatchlessBuffer = 250;
+
     public static TextFileToSplit[] GetTextFilesToSplit()
         => [
             new() { Path = "AchievementItem.txt", SplitIndexes = [1, 2, 12] },
@@ -159,7 +162,6 @@ public static class TranslationService
             int bufferedRecords = 0;
 
             int logProcessed = 0;
-            int logProcessMin = 1000;
 
             for (int i = 0; i < totalLines; i += batchSize)
             {
@@ -201,10 +203,10 @@ public static class TranslationService
 
                 logProcessed++;
 
-                if (batchSize != 1 || (logProcessed % logProcessMin == 0))
+                if (batchSize != 1 || (logProcessed % BatchlessLog == 0))
                     Console.WriteLine($"Line: {i + batchRange} of {totalLines} File: {outputFile} Unprocessable: {incorrectLineCount} Processed: {totalRecordsProcessed}");
 
-                if (bufferedRecords > 50)
+                if (bufferedRecords > BatchlessBuffer)
                 {
                     Console.WriteLine($"Writing Buffer....");
                     File.WriteAllText(outputFile, serializer.Serialize(fileLines));
