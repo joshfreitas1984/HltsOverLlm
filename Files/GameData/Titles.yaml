@@ -26,6 +26,14 @@
 - raw: 师妹
   result: Junior Sister
 
+# Terms
+- raw: 河图
+  result: Hetu
+- raw: 洛书
+  result: Luoshu
+- raw: 河出马图
+  result: Hetu Luoshu
+
 # Sounds
 - raw: 呜呜呜
   result: Wuwuwu
@@ -73,6 +81,10 @@
   result: Zhizha
 - raw: 吱吱喳
   result: Zhizhizha
+# - raw: 咳咳
+#   result: Keke
+# - raw: 咳咳咳
+#   result: Kekeke
 
 # Names without Hallucination
 - raw: 凌某
@@ -116,6 +128,8 @@
   result: Great Aunt Yun
 - raw: 何姑娘
   result: Miss He
+- raw: 慈荫师太
+  result: Master Ci Yin
 
 - raw: 金掌柜啊
   result: Shopkeeper Jin

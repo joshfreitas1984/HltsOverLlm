@@ -109,7 +109,9 @@ public class TranslationWorkflowTests
         //Use this when we've changed a glossary value that doesnt check hallucination
         var newGlossaryStrings = new List<string>
         {
-            //"西门",
+            //"吓！",
+            //"咳咳",
+            //"咳咳咳"
         };
 
         var mistranslationCheckGlossary = new Dictionary<string, string>();
