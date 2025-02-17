@@ -236,7 +236,7 @@ public class LineValidation
         }
 
         // Dialog specific
-        if (outputFile.EndsWith("NpcTalkItem.txt"))
+        //if (outputFile.EndsWith("NpcTalkItem.txt"))
         {
 
             // Added Brackets (Literation) where no brackets or widebrackets in raw

@@ -187,7 +187,7 @@ SkillTree021_007	Silver-white spear force	Enhanced power of Roaring Tiger Leap C
 SkillTree021_008	Expertise in Spear and Staff		3000	skillIcon001_1	[]	PropertyAdd	(Spear,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree021_009	Expertise in Spear and Staff		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree021_010	Expertise in Spear and Staff		4000	skillIcon001_1	[]	PropertyAdd	(Spear,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree021_012	Ascending clouds, riding mist	Consumption of vital energy for Meng Hu Tiao Xia (Leaping Tiger in the Gorge) and Yu Long Teng Kong (Emerging Dragon Ascending Sky) is reduced by 1 point	10500	SkillTree021_2	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree021_012	FALSE	0	None	0	0	SkillTree021_004,SkillTree021_006
+SkillTree021_012	Ascending clouds, riding mist	The energy expenditure for Tiger Leap Gorge and Jade Dragon Soar Skyward decreases by 1 point	10500	SkillTree021_2	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree021_012	FALSE	0	None	0	0	SkillTree021_004,SkillTree021_006
 SkillTree022_000	Braving thorns and cutting through brambles		4000	SkillTree022_000	[]	Active		0	skill_wp1a008	4	80	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 90	fm_atk_sector	Target	0		TRUE	208	Blade	0.5	SkillTree022_000	
 SkillTree022_001	Blade Arts Cultivation		3000	skillIcon005_1	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree022_002	Trailblazing and pioneering	Upon activating Open Mountain and Break Water, reduce all negative status values of self by 5 points	10000	SkillTree022_002	[]	Active		0	skill_wp1a009	6	360	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 120	fm_atk_sector	Target	0	wounded10,buffSkillTree022_002	FALSE	342	Blade	0.5	0	
@@ -272,7 +272,7 @@ SkillTree037_003	Qunyang Neigong		4000	skillIcon007_5	[]	PropertyAdd	(Neigong,4)
 SkillTree037_004	Neigong cultivation		3000	skillIcon007_5	null	PropertyAdd	(Neigong,3)	0		0	0	Ally			Target	0	buffSkillTree037_004	FALSE	0	None	0	0	
 SkillTree037_005	Pure Yang Neigong		4000	skillIcon007_5	[]	PropertyAdd	(Neigong,4)(YinAndYang,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree037_006	Qunyang Neigong		4000	skillIcon007_5	[]	PropertyAdd	(Neigong,4)(YinAndYang,4)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree037_007	Five Rooster Light Smoke	When operating the Duan family martial art, enhance the power of its techniques: Li Duan Jin (Cuts Through Metal), Feng Yu Tong Zhou (Winds and Rains Together in a Boat), and Jie Mai Zhi (Severing Veins Finger)	3000	SkillTree037	[]	Passive		0		0	0	Ally			Target	0	buffSkillTree037_007	FALSE	0	None	0.5	0	SkillTree037_000
+SkillTree037_007	Five Rooster Light Smoke	When using the Duan Family's internal techniques, enhance the power of their Gold-Cutting skills, Weathering Storms Together, and Arterial Pinching Fists	3000	SkillTree037	[]	Passive		0		0	0	Ally			Target	0	buffSkillTree037_007	FALSE	0	None	0.5	0	SkillTree037_000
 SkillTree037_008	Neigong cultivation		3000	skillIcon007_5	null	PropertyAdd	(Neigong,3)	0		0	0	Ally			Target	0	buffSkillTree037_008	FALSE	0	None	0	0	
 SkillTree038_000	Yecha Tanhai		3000	SkillTree038_000	[]	Active		0	skill_wp3c015	4	180	Enemy	circle : { 0, 0, 0 }, 0, 2	fm_atk_circle	Target	0		TRUE	208	Spear	0.5	SkillTree038_000	
 SkillTree038_001	Expertise in Spear and Staff		2000	skillIcon001_1	[]	PropertyAdd	(Spear,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
@@ -329,7 +329,7 @@ SkillTree043_005	Perform the Seven-Star Step	Ascend without returning to quell t
 SkillTree043_006	Faraway mountains in a haze	When countering Tengyun's soaring strike, the damage increases by 25%	1500	SkillTree043_2	[{"Type":2,"Value1":"0","Value2":"1_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree043_006	FALSE	0	None	0	0	SkillTree043_003
 SkillTree043_007	Shu ying bi cao qing	The attack range of Tengyun Buhui Feng has increased	1500	SkillTree043_2	[{"Type":2,"Value1":"0","Value2":"5_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree043_007	FALSE	0	None	0	0	SkillTree043_003
 SkillTree043_008	Clear stream caresses the bank	Ascending Clouds with No Return reduces internal energy consumption by half	1500	SkillTree043_2	[{"Type":2,"Value1":"0","Value2":"3_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree043_008	FALSE	0	None	0	0	SkillTree043_003
-SkillTree043_009	Only regret that the flower does not bloom	Enhanced Power of Tengyun Bu Hai (Soar the Clouds and Return Not)	1500	SkillTree043_2	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree043_009	FALSE	0	None	0	0	SkillTree043_003
+SkillTree043_009	Only regret that the flower does not bloom	Enhancement of Tengyun Bu Hui Wind's Power	1500	SkillTree043_2	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree043_009	FALSE	0	None	0	0	SkillTree043_003
 SkillTree044_000	Star streaking across the sky		150	SkillTree044_000	[{"Type":1,"Value1":"305","Value2":"15"}]	Active		0	skill_wp0b006	3	60	Enemy	air : { 0, 0, 0 }, 2.5, 5.5	fm_atk_arrow	Target	0	cramped05	TRUE	130	Arrow	0	0	
 SkillTree044_001	Hidden Weapon Cultivation		600	SkillNode01	[]	PropertyAdd	(Arrow,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree044_002	Hidden Weapon Cultivation		600	SkillNode01	[]	PropertyAdd	(Arrow,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
@@ -414,7 +414,7 @@ SkillTree053_000	Hundun Gong	When running the Yuan Yungong, each round restores 
 SkillTree053_001	Hand Combat, Neigong Cultivation	Hand Combat +2, Neigong +2	6000	skillIcon002_1	null	PropertyAdd	(Neigong,2)(Fight,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree053_002	Hand Combat, Neigong Cultivation	Hand Combat +2, Neigong +2	6000	skillIcon002_1	null	PropertyAdd	(Neigong,2)(Fight,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree053_003	Hand Combat, Neigong Cultivation	Hand Combat +2, Neigong +2	6000	skillIcon002_1	null	PropertyAdd	(Neigong,2)(Fight,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree053_004	Hand Combat, Neigong Cultivation	Hand Combat +2, Neigong (Internal Strength) +2	6000	skillIcon002_1	null	PropertyAdd	(Neigong,2)(Fight,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
+SkillTree053_004	Hand Combat, Neigong Cultivation	Hand Combat +2, Neigong +2	6000	skillIcon002_1	null	PropertyAdd	(Neigong,2)(Fight,2)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree053_005	Primordial Unity of Qi	When running Yunu Gong, restore energy by an additional 2 points each round	10000	SkillTree053	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree053_005	FALSE	0	None	0	0	SkillTree053_000,SkillTree053_010
 SkillTree053_010	Primordial Palm	When operating Hunyuan Gong, recover 2 additional energy points per turn; the internal injury value added by Hunyuan Palm increases by 6 points	10000	SkillTree053_010	null	Active		0	skill_wp0a051	6	270	Enemy	single : { 0, 0, 0 }, 0, 1.5		Target	1000	injured06	TRUE	468	Fight	0.5	SkillTree053_010	
 SkillTree053_011	Neigong cultivation		3200	skillIcon002_3	null	Passive		0		0	0	Enemy			Target	0	buffSkillTree053_011	FALSE	0	None	0	0	
@@ -641,7 +641,7 @@ SkillTree089_001	Coiled serpents	If equipped with Qihua and Zhenling simultaneou
 SkillTree089_002	Divine Serpent Sword		5000	SkillTree089_002	[]	Active		0	skill_wp1c010	5	230	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 100	fm_atk_sector	Target	0		TRUE	250	Blade	-0.5	SkillTree089_002	
 SkillTree089_003	Blade Arts Cultivation		2000	skillIcon005_5	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree089_004	Blade Arts Cultivation		2000	skillIcon005_5	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
-SkillTree089_005	Thousand and one turns	If equipped with Qi Hua, the damage caused by the creation of Ling She Dao (Spirit Serpent Blade) is increased	2000	SkillTree089_2	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree089_005	FALSE	0	None	0	0	SkillTree089_002
+SkillTree089_005	Thousand and one turns	If equipped with Qing Hua, damage from the Ling She Dao increases	2000	SkillTree089_2	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree089_005	FALSE	0	None	0	0	SkillTree089_002
 SkillTree089_006	Silver Moon Poisoned Feather	If equipped with the Zhen Ling, the damage caused by the use of Bi She Dao increases	2000	SkillTree089	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree089_006	FALSE	0	None	0	0	SkillTree089_000
 SkillTree089_007	Blade Arts Cultivation		2000	skillIcon005_5	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree089_008	Blade Arts Cultivation		2000	skillIcon005_5	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
