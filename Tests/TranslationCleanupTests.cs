@@ -91,7 +91,7 @@ public class TranslationCleanupTests
 
         foreach (var line in testLines)
         {
-            var valid = LineValidation.CheckTransalationSuccessful(config, line.Item1, line.Item2);
+            var valid = LineValidation.CheckTransalationSuccessful(config, line.Item1, line.Item2, string.Empty);
             lines.Add($"valid:  {valid}");
             lines.Add($"from:  {line.Item1}");
             lines.Add($"to:    {line.Item2}");

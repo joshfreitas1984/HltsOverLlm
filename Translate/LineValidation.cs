@@ -86,7 +86,7 @@ public class LineValidation
             return llmResult;
     }
 
-    public static ValidationResult CheckTransalationSuccessful(LlmConfig config, string raw, string result)
+    public static ValidationResult CheckTransalationSuccessful(LlmConfig config, string raw, string result, string outputFile)
     {
         var response = true;
         var correctionPrompts = new StringBuilder();
@@ -95,25 +95,12 @@ public class LineValidation
             response = false;
 
         // Didnt translate at all and default response to prompt.
-        if (result.Contains("provide the text") || result.Contains("'''") || result.Contains("<p") || result.Contains("<em"))
+        if (result.Contains("provide the text") || result.Contains("'''") || result.Contains("<p") || result.Contains("<em") || result.Contains("<|"))
             response = false;
 
         // 99% chance its gone crazy with hallucinations
         if (result.Length > 50 && raw.Length < 4)
             response = false;
-
-        ////Alternativves
-        //if (result.Contains('/') && !raw.Contains('/'))
-        //{
-        //    response = false;
-        //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "/");
-        //}
-
-        //if (result.Contains('\\') && !raw.Contains('\\'))
-        //{
-        //    response = false;
-        //    correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "\\");
-        //}
 
         // Small source with 'or' is ususually an alternative
         if ((result.Contains(" or") || result.Contains("(or")) && raw.Length < 3)
@@ -134,14 +121,7 @@ public class LineValidation
         {
             response = false;
             correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", ";");
-        }
-
-        //// Added Brackets (Literation) where no brackets or widebrackets in raw
-        //if (result.Contains('(') && !raw.Contains('(') && !raw.Contains('（'))
-        //{
-        //    response = false;
-        //    correctionPrompts.AddPromptWithValues(config, "CorrectExplainationPrompt");
-        //}
+        }       
 
         // Added literal
         if (result.Contains("(lit."))
@@ -220,21 +200,7 @@ public class LineValidation
         //    response = false;
         //    correctionPrompts.AddPromptWithValues(config, "CorrectRemovalPrompt", "<color>");
         //    correctionPrompts.AddPromptWithValues(config, "CorrectTagPrompt");
-        //}
-        //else if (raw.Contains('<'))
-        //{
-        //  // Check markup
-        //  var markup = FindMarkup(raw);
-        //  if (markup.Count > 0)
-        //  {
-        //    var resultMarkup = FindMarkup(result);
-        //    if (resultMarkup.Count != markup.Count)
-        //    {
-        //      response = false;
-        //      correctionPrompts.AddPromptWithValues(config, "CorrectTagPrompt");
-        //    }
-        //  }
-        //}
+        //}                
 
         // Random additions
         if (result.Contains("<br>") && !raw.Contains("<br>"))
@@ -248,12 +214,6 @@ public class LineValidation
             response = false;
             correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalPrompt", "\\n");
         }
-
-        //if (result.Contains("<color") && !raw.Contains("<color"))
-        //{
-        //    response = false;
-        //    correctionPrompts.AddPromptWithValues(config, "CorrectAdditionalPrompt", "<color>");
-        //}
 
         // It sometime can be in [] or {} or ()
         if (result.Contains("name_1") && !raw.Contains("name_1"))
@@ -273,6 +233,46 @@ public class LineValidation
         {
             response = false;
             correctionPrompts.AddPromptWithValues(config, "CorrectChinesePrompt");
+        }
+
+        // Dialog specific
+        if (outputFile.EndsWith("NpcTalkItem.txt"))
+        {
+
+            // Added Brackets (Literation) where no brackets or widebrackets in raw
+            if (result.Contains('(') && !raw.Contains('(') && !raw.Contains('（'))
+            {
+                response = false;
+                correctionPrompts.AddPromptWithValues(config, "CorrectExplainationPrompt");
+            }
+
+            //Alternatives
+            if (result.Contains('/') && !raw.Contains('/') && outputFile.EndsWith("NpcTalkItem.txt"))
+            {
+                response = false;
+                correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "/");
+            }
+
+            if (result.Contains('\\') && !raw.Contains('\\') && outputFile.EndsWith("NpcTalkItem.txt"))
+            {
+                response = false;
+                correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", "\\");
+            }
+
+            if (result.Contains('<') && !result.Contains("<br>") && !result.Contains("<color"))
+            {
+                // Check markup
+                var markup = FindMarkup(raw);
+                if (markup.Count > 0)
+                {
+                    var resultMarkup = FindMarkup(result);
+                    if (resultMarkup.Count != markup.Count)
+                    {
+                        response = false;
+                        correctionPrompts.AddPromptWithValues(config, "CorrectTagPrompt");
+                    }
+                }
+            }
         }
 
         return new ValidationResult

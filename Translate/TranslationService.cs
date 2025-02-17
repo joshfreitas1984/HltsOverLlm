@@ -450,7 +450,7 @@ public static class TranslationService
 
                 if (!config.SkipLineValidation)
                 {
-                    var validationResult = LineValidation.CheckTransalationSuccessful(config, preparedRaw, preparedResult);
+                    var validationResult = LineValidation.CheckTransalationSuccessful(config, preparedRaw, preparedResult, outputFile);
                     translationValid = validationResult.Valid;
 
                     // Append history of failures

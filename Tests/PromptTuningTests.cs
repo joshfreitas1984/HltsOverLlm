@@ -30,7 +30,7 @@ public class PromptTuningTests
         // Prime the Request
         var raw = "<color=#FF0000>炼狱</color>";
         var origResult = "Hellforge";
-        var origValidationResult = LineValidation.CheckTransalationSuccessful(config, raw, origResult);
+        var origValidationResult = LineValidation.CheckTransalationSuccessful(config, raw, origResult, string.Empty);
         List<object> messages = TranslationService.GenerateBaseMessages(config, raw, string.Empty);
 
         // Tweak Correction Prompt here
@@ -59,7 +59,7 @@ public class PromptTuningTests
             ?.Trim() ?? string.Empty;
 
         // Calculate output of test
-        var validationResult = LineValidation.CheckTransalationSuccessful(config, raw, result);
+        var validationResult = LineValidation.CheckTransalationSuccessful(config, raw, result, string.Empty);
         var lines = $"Valid:{validationResult.Valid}\nRaw:{raw}\nResult:{result}";
         File.WriteAllText($"{workingDirectory}/TestResults/OptimiseCorrectTag.txt", lines);
     }

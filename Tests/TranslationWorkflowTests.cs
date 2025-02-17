@@ -336,7 +336,7 @@ public class TranslationWorkflowTests
         }
 
         // Remove Invalid ones
-        var result = LineValidation.CheckTransalationSuccessful(config, split.Text, split.Translated ?? string.Empty);
+        var result = LineValidation.CheckTransalationSuccessful(config, split.Text, split.Translated ?? string.Empty, outputFile);
         if (!result.Valid)
         {
             Console.WriteLine($"Invalid {outputFile} Failures:{result.CorrectionPrompt}\n{split.Translated}");

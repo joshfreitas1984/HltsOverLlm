@@ -107,3 +107,10 @@
   result: Tianshui toad
 - raw: 先生
   result: Gentleman
+# Can legitimately be flower
+- raw: 花儿
+  result: Hua'er 
+- raw: 咕咕
+  result: Gugu
+- raw: 吓！
+  result: What!

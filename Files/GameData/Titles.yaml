@@ -59,8 +59,9 @@
   result: Hiss
 - raw: 咕咕咕
   result: Gugugu
-- raw: 咕咕
-  result: Gugu
+# Moved because Clucking is legit
+# - raw: 咕咕
+#   result: Gugu
 - raw: 咕...
   result: Gu...
 - raw: 咯咯咯
@@ -149,6 +150,7 @@
   result: Sister Shuang
 - raw: 天外来客
   result: Guest from beyond the skies
+
 
 # A'
 # Can't use because of words like father (A Die)
@@ -287,8 +289,6 @@
 - raw: 珏儿
   result: Jue'er
 - raw: 画儿
-  result: Hua'er
-- raw: 花儿
   result: Hua'er
 - raw: 寒儿
   result: Han'er
