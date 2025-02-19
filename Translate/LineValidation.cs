@@ -100,7 +100,8 @@ public class LineValidation
             || result.Contains("<p") 
             || result.Contains("<em") 
             || result.Contains("<|")
-            || result.Contains("\\U0"))
+            || result.Contains("–")
+            || result.Contains("\\U"))
             response = false;
 
         // 99% chance its gone crazy with hallucinations
