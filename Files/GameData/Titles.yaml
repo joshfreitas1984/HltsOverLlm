@@ -25,6 +25,8 @@
   result: Sworn Brother
 - raw: 师妹
   result: Junior Sister
+- raw: 舅舅
+  result: Uncle
 
 # Terms
 - raw: 河图
@@ -258,6 +260,10 @@
   result: A'Wen
 - raw: 阿兰
   result: A'Lan
+- raw: 阿祖
+  result: A'Zu
+- raw: 阿甫
+  result: A'Fu
 
 # 'Er
 - raw: 愚儿

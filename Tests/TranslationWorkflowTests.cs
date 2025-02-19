@@ -432,7 +432,7 @@ public class TranslationWorkflowTests
             "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
             "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una", "keqi", "shiwu",
             "niang", "fuck", "ich", "daren", "furen", "ein", "der", "ganzes", "Leben", "dort", "xiansheng",
-            "knight", "thay", "tien" 
+            "knight", "thay", "tien", " –"
             //"-in-law"
         };
 
