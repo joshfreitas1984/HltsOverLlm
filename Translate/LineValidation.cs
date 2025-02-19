@@ -95,7 +95,12 @@ public class LineValidation
             response = false;
 
         // Didnt translate at all and default response to prompt.
-        if (result.Contains("provide the text") || result.Contains("'''") || result.Contains("<p") || result.Contains("<em") || result.Contains("<|"))
+        if (result.Contains("provide the text") 
+            || result.Contains("'''") 
+            || result.Contains("<p") 
+            || result.Contains("<em") 
+            || result.Contains("<|")
+            || result.Contains("\\U0"))
             response = false;
 
         // 99% chance its gone crazy with hallucinations
