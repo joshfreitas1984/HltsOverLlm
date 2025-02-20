@@ -6964,15 +6964,15 @@
   splits:
   - split: 1
     text: "武穆遗书"
-    translated: "Wumu's Last Will"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Martial Sage's Legacy,武穆遗书,"
+    translated: "The Martial Sage's Legacy"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 3
     text: "相传岳武穆将毕生所学之定谋、审事、攻伐、守御、练卒、使将、布阵、野战，以及动静安危之势，用正出奇之道，全部详加记载于其遗卷之中。即使你不谙兵法，阅读武穆遗书后也必能从中领略岳武穆毕生武学奥义。"
-    translated: "It is said that Yue Wu Mu recorded all his life's studies on strategy, judgment, offense and defense, training troops, commanding generals, deploying formations, and understanding the dynamics of peace and danger, using orthodox and unorthodox methods in detail within his legacy scrolls. Even if you are not familiar with military strategies, after reading the writings of Yue Wu Mu, you must be able to appreciate the martial secrets he mastered throughout his life"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Martial Sage's Legacy,武穆遗书,"
+    translated: "It is said that Yue Wumu recorded all his lifelong knowledge of strategies, judgment, offense, defense, training soldiers, commanding officers, formation deployment, and field tactics, as well as the dynamics of safety and danger, using both orthodox and unorthodox methods, in detail within his last manuscript. Even if one does not understand military arts, after reading Martial Sage's Legacy, they can gain an understanding of Yue Wumu's lifelong martial wisdom"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 436
   raw: "it801128	岳家散手奥义	qinggong	武穆遗书中所记载，岳家散手的奥义。	801	0	0	FALSE	0	50	0	0	0		0			0"
@@ -6986,9 +6986,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "武穆遗书中所记载，岳家散手的奥义。"
-    translated: "The martial secrets of the Yue Family Hand Art as recorded in The Wumu's Testament"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Martial Sage's Legacy,武穆遗书,"
+    translated: "The Martial Sage's Legacy contains the profound secrets of the Yue Family Hand Art"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 437
   raw: "it801129	岳家枪法奥义	qinggong	武穆遗书中所记载，岳家枪法的奥义。	801	0	0	FALSE	0	50	0	0	0		0			0"
@@ -7002,9 +7002,9 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "武穆遗书中所记载，岳家枪法的奥义。"
-    translated: "The martial secrets of the Yue family's spear art, as recorded in the Wumu Manual"
-    flaggedForRetranslation: true
-    flaggedGlossaryIn: "Martial Sage's Legacy,武穆遗书,"
+    translated: "The Martial Sage's Legacy details the profound secrets of the Yue Family's spear art"
+    flaggedForRetranslation: false
+    flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
 - lineNum: 438
   raw: "it801130	新鲜智慧果	it40235	新鲜的智慧果，才刚从枝头落下。服食后，可得到提神活脑的功效，提升服食者对武功与武学的悟性。	801	0	0	FALSE	0	99	0	0	0		3			0"
