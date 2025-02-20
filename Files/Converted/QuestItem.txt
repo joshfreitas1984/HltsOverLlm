@@ -4949,8 +4949,8 @@
   - split: 1
     text: "夺回武穆遗书"
     translated: "Recover the Wu Mu Manuscripts"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "Martial Sage's Legacy,武穆遗书,"
     flaggedGlossaryOut: ""
   - split: 3
     text: "???"
@@ -5179,8 +5179,8 @@
   - split: 3
     text: "咦，烹饪水煮鱼的辣椒不够用了…剩下的份量只能再撑两天？快，两天之内帮阿澄找来辣椒…否则他就要被骂啦。"
     translated: "Hey, we're running low on chili for the hot pot fish... The remaining portion can only last two more days? Hurry up and help A Cheng find some chilies within two days... Otherwise, he'll get scolded"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A'Cheng,阿澄,"
     flaggedGlossaryOut: ""
 - lineNum: 324
   raw: "Q30005_01	寻找辣椒	1	咦，烹饪水煮鱼的辣椒不够用了…剩下的份量只能再撑两天？快，两天之内帮阿澄找来辣椒…否则他就要被骂啦。	48	FALSE		0	TRUE		300	(Reputation,1)	1"
@@ -5195,8 +5195,8 @@
   - split: 3
     text: "咦，烹饪水煮鱼的辣椒不够用了…剩下的份量只能再撑两天？快，两天之内帮阿澄找来辣椒…否则他就要被骂啦。"
     translated: "Oh, we're running out of chili for cooking hot pot fish. The remaining portion will only last another two days? Hurry, find some chili for A Cheng within two days... Otherwise, he'll get scolded"
-    flaggedForRetranslation: false
-    flaggedGlossaryIn: ""
+    flaggedForRetranslation: true
+    flaggedGlossaryIn: "A'Cheng,阿澄,"
     flaggedGlossaryOut: ""
 - lineNum: 325
   raw: "Q30006	冻伤的药方	0	淘石无论男女，人人均能劳作养家，就是双手天天泡在水里，极容易冻伤。漱玉矶的淘石女叶萍抱怨手脚冻伤，帮她留意有效冻伤的药方吧！	0	FALSE	Q30006_01	0	TRUE		0		1"
