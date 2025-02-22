@@ -154,7 +154,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "自身圆形范围3格，中招者散功值+20。"
-    translated: "Within a self-spherical range of three grids, those hit have their disperse Qi value increased by 20"
+    translated: "Within a circular range of three squares, those affected have their Qi Dispersion value increased by 20"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -458,7 +458,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "松风剑附加8点晕眩"
-    translated: "Song Feng Sword adds an additional 8 points of dizziness"
+    translated: "Master Song's Sword adds 8 points of dizziness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -730,7 +730,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若以愿者上钩作为反击技，守株待兔的发动率增加5%"
-    translated: "If Let the Waverers Be Caught by the Hook is used as a counterattack technique, the activation rate of Hiding by the Stump Waiting for Rabbits increases by 5%"
+    translated: "If using Baiting the Willing as a counterattack technique, the activation rate of Waiting by the Stump for a Hare increases by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -762,7 +762,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若以愿者上钩作为反击技，守株待兔的发动率增加10%"
-    translated: "If using Hook Those Who Wish as a counterattack technique, the activation rate of Stalk Hare by Stopping Up Tree Roots increases by 10%"
+    translated: "If using if you want to be hooked, hook yourself as a counter-tactic, the activation rate of waiting by the stump for rabbits increases by 10%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -826,7 +826,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "需求武学「搏击45」，需求感悟「动：以快打慢」。出招前移动距离越长，伤害越高（每格提升3%伤害）。"
-    translated: "Request martial art Hand Combat 45, require insight into the principle of Dong：Quick Strike the Slow. The longer the distance moved before a move, the higher the damage (each grid increases damage by 3%)"
+    translated: "The request for martial arts Hand Combat 45 requires the cultivation of insight into Movement：Strike Fast, Follow Slow. The damage increases by 3% for each tile of distance moved before launching an attack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -842,7 +842,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "需求武学「搏击45」，需求感悟「巧：？？？？」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。"
-    translated: "Seeking martial arts skill 'Hand Combat 45', seeking to understand the concept of 'Cunning'：???? Once this technique is executed, the user will inevitably circle to the right side of their target before making another move"
+    translated: "To fulfill the requirement of martial arts 'Hand Combat 45', and to cultivate an understanding of 'Skilled'：'Riding the Wind'. Once this technique is executed, the user will inevitably circle around to the target's right side before launching another attack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -890,7 +890,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "需求武学「搏击45」，需求感悟「动：以快打慢」。出招前移动距离越长，伤害越高（每格提升3%伤害）。"
-    translated: "Need martial art skill Hand Combat 45, need to understand the concept of movement：Attack slowly, but strike fast. The longer the movement before an attack, the higher the damage (increases by 3% per grid)"
+    translated: "Seeking martial arts technique Hand Combat 45, seeking to understand the essence of Move：Move fast to strike slow. The farther you move before attacking, the higher the damage dealt (damage increases by 3% per square)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -906,7 +906,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "需求武学「搏击45」，需求感悟「巧：指东打西」。一经施展此招，出招者必定绕到目标敌方右侧再行出招。"
-    translated: "Require martial art Hand Combat 45, require insight Clever：Point east, strike west. Once this technique is executed, the user must necessarily move to the right side of the target opponent before attacking again"
+    translated: "Requirement of martial arts skill Hand Combat 45, requiring insight into Skillfulness：Indicate the east and strike the west. Once this move is deployed, the user will inevitably maneuver to the right side of their opponent before executing their next attack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1098,7 +1098,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "需求感悟「柔：」。范围内的友方，伤害减免+15%。"
-    translated: "The need to comprehend softness：Within range, friendly allies take 15% less damage"
+    translated: "Understand and perceive the concept of 'softness'：Within range, friendly targets receive a 15% reduction in damage taken"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1114,7 +1114,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "需求感悟「柔：」。施招者自身的伤害减免+15%"
-    translated: "The need to comprehend 'softness'：Claw User's own damage reduction +15%"
+    translated: "There is a need to understand 'softness.'：When the one who uses this technique, their damage mitigation is increased by 15%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1284,13 +1284,13 @@
   splits:
   - split: 1
     text: "分筋手法"
-    translated: "Flexibility technique"
+    translated: "Muscle Damage Technique"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "中招者，分筋值+8"
-    translated: "Anyone hit gains +8 to their Str score"
+    translated: "Victim, muscle damage +8"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1300,13 +1300,13 @@
   splits:
   - split: 1
     text: "错骨手法"
-    translated: "Joint Manipulation Techniques"
+    translated: "Bone Damage Technique"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "中招者，错骨值+8"
-    translated: "Target, Joint Manipulation Skill +8"
+    translated: "Inflicted individuals suffer 8 points of bone damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1348,13 +1348,13 @@
   splits:
   - split: 1
     text: "缠拿"
-    translated: "Grapple"
+    translated: "Entangled"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "分筋手法的伤害增加，分筋值额外+4"
-    translated: "Split Sinew Technique's damage increased, with an additional +4 to Split Sinew value"
+    translated: "Damage from muscle damage techniques increased, and additional +4 to the muscle damage value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1386,7 +1386,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "错骨手法的伤害增加，错骨值额外+4"
-    translated: "Damage from joint manipulation technique increases, with an additional +4 to the joint value"
+    translated: "The damage from bone damage technique increases, with an additional +4 to the bone damage value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1530,7 +1530,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "凛凛一心忠额外附加7点外伤"
-    translated: "With utmost sincerity, an additional seven points of external injury"
+    translated: "Li Lin, resolute in heart and loyal by nature, suffers from an additional seven points of external injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1770,7 +1770,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "无孔不入造成的内伤值额外+7"
-    translated: "No hole uncured internal injury points additional +7"
+    translated: "Damage from Sealing Every Possible Breach causes an additional +7 to internal injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1786,7 +1786,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "内伤值+8"
-    translated: "Internal Damage Value +8"
+    translated: "Internal Injury Value +8"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1882,7 +1882,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "折戟沉沙的消耗精力增加1点，招式威力增强，并附加8点外伤"
-    translated: "The cost in energy increases by 1 point, the technique's power is enhanced, and it also deals an additional 8 points of external injury"
+    translated: "The Broken Sword Submerged in Sand technique costs an additional 1 point of effort. The move's power is enhanced, and it also inflicts an extra 8 points of External Injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1978,7 +1978,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若学会至少三种剑法，晕眩值、迷惑值额外+2"
-    translated: "If you master at least three sword arts, the dizzy and confusion values each increase by an additional 2"
+    translated: "If you learn at least three sword arts, the dizziness and confusion values increase by an additional 2"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1994,7 +1994,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若学会至少四种剑法，晕眩值、迷惑值额外+2"
-    translated: "If you master at least four sword arts, the dizziness value and confusion value each increase by 2"
+    translated: "If you master at least four types of sword art, your dizziness and confusion values each receive an additional +2"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2058,7 +2058,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若学会至少五种剑法，晕眩值、迷惑值额外+2"
-    translated: "If you learn at least five sword arts, confusion value increases by an additional 2"
+    translated: "If you learn at least five types of sword art, the dizziness and confusion values each increase by an additional 2"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2132,7 +2132,7 @@
   splits:
   - split: 1
     text: "金刚伏魔"
-    translated: "Golden Body Subdues Demons"
+    translated: "Strong Conquering Demons"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2282,7 +2282,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "需求中阶巧感悟；错骨+5"
-    translated: "Intermediate level of intuitive understanding; Joint Manipulation +5"
+    translated: "Intermediate level of skillful insight; Bone Damage +5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2314,7 +2314,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "百鬼夜行造成的的错骨值，额外增加8点"
-    translated: "White-phantom-night-walk creates an additional error of 8 points in joint manipulation"
+    translated: "Bone damage from Bai Gui Ye Xing adds an additional 8 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2394,7 +2394,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "闪现，错骨+8"
-    translated: "Flash, Joint Manipulation +8"
+    translated: "Flash, Bone Damage +8"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2426,7 +2426,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "怒飞千里附加外伤值5点"
-    translated: "Angry Flying Five Hundred Miles Adds an Additional 5 Points of External Injury"
+    translated: "Infuriated, flies a thousand miles; additional external injury value of 5 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2474,7 +2474,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "怒飞千里附加迷惑值5点"
-    translated: "Adding Confusion Points 5"
+    translated: "Gain 5 points of confusion as a result of being confused by an attack that flies for hundreds of miles"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2554,7 +2554,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "烈风展翼附加迷惑值10点"
-    translated: "Raging Winds Unfurl Wings Adds 10 Points of Confusion"
+    translated: "Fierce Wind Soar adds a confusion effect of 10 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2570,7 +2570,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "烈风展翼附加外伤值10点"
-    translated: "Lethal Wind Spread Wings adds an additional 10 points to external injury"
+    translated: "Fierce Gust adds 10 points to external injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2650,7 +2650,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行翠峦功时，每回合中毒程度减少10%"
-    translated: "When performing the Ruiluan Skill, the level of poisoning is reduced by 10% each round"
+    translated: "When executing the Cui Luan Gong technique, the level of poisoning is reduced by 10% each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2890,7 +2890,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "玉壁金川附加8点外伤"
-    translated: "Yubu Jinchuan incurred an additional eight points of external injury"
+    translated: "Yubijin'chuan incurs an additional 8 points of external injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3114,7 +3114,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "披荆斩棘造成的外伤值，额外增加3点"
-    translated: "Physical damage from cutting through brambles and thorns adds an extra 3 points"
+    translated: "The external injury value caused by pushing through thorns and cutting down brambles is increased by an additional 3 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3210,7 +3210,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动爆击时，大幅提升伤害。"
-    translated: "When activating a critical hit, significantly increase damage"
+    translated: "When launching a burst attack, significantly increase damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3786,7 +3786,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "中毒值+1"
-    translated: "Intoxication Level +1"
+    translated: "Poison Level +1"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3802,7 +3802,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "中毒值+10"
-    translated: "Poison Level +10"
+    translated: "Poison level increased by 10"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3818,7 +3818,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "外伤值+2"
-    translated: "External Damage +2"
+    translated: "External Injury Value +2"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3866,7 +3866,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "外伤值+4"
-    translated: "External Injury Value +4"
+    translated: "External Injury +4"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3882,7 +3882,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "外伤值+8"
-    translated: "External Damage +8"
+    translated: "External Injury Value +8"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3914,7 +3914,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "外伤值+7"
-    translated: "External Injury Value +7"
+    translated: "External Injury +7"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3946,7 +3946,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "外伤值+8、错骨值+5"
-    translated: "External Injury Value +8, Joint Manipulation Value +5"
+    translated: "External Injury Value +8, Bone Damage Value +5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4570,7 +4570,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "夜叉探海、旱魃为虐额外附加错骨值"
-    translated: "Sea Vampires probe during the night, drought demons ravage further with added joint manipulation"
+    translated: "Nightmare at Sea and Drought Tyranny, with additional bone damage value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4794,7 +4794,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "水浒英雄掌附加8点错骨"
-    translated: "Water Margin Hero's Palm grants an additional 8 points in joint manipulation"
+    translated: "Water Margin Heroes' Clutch grants an additional 8 points of Bone Damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4900,13 +4900,13 @@
   splits:
   - split: 1
     text: "意动剑到"
-    translated: "Intentional Sword Strikes"
+    translated: "The moving blade arrives"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "游龙摆尾附加8点迷惑"
-    translated: "Game the Dragon to Tail Add 8 Points Confusion"
+    translated: "Game mechanic Tails of the Dragon: Adds 8 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5066,7 +5066,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "刀练雷火势附加8点分筋"
-    translated: "Blade training increases Leihuoshi by 8 points"
+    translated: "Blade Training: Adds 8 points of muscle damage to the lightning attack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5226,7 +5226,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "腾云不回风附加8点晕眩"
-    translated: "Ascend to the Clouds, Unyielding Wind Adds Eight Points of Dizziness"
+    translated: "Mount Clouds and Return Not to Wind, adding 8 points of dizziness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5386,7 +5386,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "双星飞影附加8点迷惑"
-    translated: "Double Star Flying Shadow adds 8 points confusion"
+    translated: "Dual Star Shadow Technique with an additional 8 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5546,7 +5546,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "易水寒附加8点分筋"
-    translated: "Ice-cold Ye River adds 8 points to muscle fiber"
+    translated: "Eisuihan adds 8 points of muscle damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6090,7 +6090,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若施展天罗地网，发动连击后有25%机率回复自身1点精力"
-    translated: "If you activate the Heavenly Net and Earthly Web combo attack, there is a 25% chance to recover 1 point of energy for yourself"
+    translated: "If activated, deploying a web of sky and earth followed by a combo grants a 25% chance to restore 1 point of energy to oneself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6138,7 +6138,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若施展丧门飞星，发动连击后有50%机率回复自身1点精力"
-    translated: "If you perform Sanguan Feixing, there is a 50% chance to recover 1 point of stamina after initiating consecutive attacks"
+    translated: "If you execute Sang Men Fei Xing and launch a combo attack, there is a 50% chance to restore 1 point of energy to yourself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6202,7 +6202,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若施展天罗地网，发动暴击后有25%机率回复自身1点精力"
-    translated: "If you cast the Celestial Lattice and then unleash a critical hit, there is a 25% chance to recover 1 point of your own energy"
+    translated: "If you deploy the cosmic web and unleash a critical strike, there is a 25% chance to recover 1 point of your own energy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6218,7 +6218,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若施展天罗地网，发动虚招后有25%机率回复自身1点精力"
-    translated: "If you deploy the cosmic web and execute a feint, there is a 25% chance to recover one point of your own energy"
+    translated: "If the technique of Heaven's Net and Earthly Web is employed, after executing a feint there is a 25% chance to restore 1 point of energy to oneself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6234,7 +6234,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若施展丧门飞星，发动暴击后有50%机率回复自身1点精力"
-    translated: "If you perform Sangmen Feixing and trigger a critical hit, there is a 50% chance to restore 1 point of your own vitality"
+    translated: "If you unleash Sanguan Feixing and trigger a critical hit, there is a 50% chance to restore 1 point of energy to yourself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6250,7 +6250,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若施展丧门飞星，发动虚招后有50%机率回复自身1点精力"
-    translated: "If you use Sanguan Feixing and perform a feint, there is a 50% chance to recover 1 point of your own energy"
+    translated: "If you use Sanguan Feixing, after executing a feint there is a 50% chance to recover 1 point of energy for yourself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6266,7 +6266,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若施展追魂七破，发动连击后回复自身2点精力"
-    translated: "If you unleash the Tracking Soul Seven Breakthrough, and after launching a combo, recover 2 points of energy for yourself"
+    translated: "If the Seven Soul-Cleaving Strikes is unleashed, performing a combo restores 2 points of energy to themselves"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6426,7 +6426,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展凌波微步后，5回合内增加闪避率12%；每移动1单位距离，回复2%内力"
-    translated: "After performing the Floating Feather Step, increase evasion rate by 12% for 5 turns; regain 2% internal energy for every unit of distance moved"
+    translated: "After Shi Zhan performs Lingbo Weibu, he gains a 12% increase in evasion for the next 5 turns; and regains 2% of his inner energy for every unit of distance moved"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6458,7 +6458,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "腾元功额外抵御6点晕眩、6点迷惑"
-    translated: "Teng Yuan Gong provides an additional resistance of 6 points to dizziness and 6 points to confusion"
+    translated: "Teng Yuan Gong provides an additional 6 points of resistance against dizziness and confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6474,7 +6474,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "抵御6点分筋、6点错骨、6点迷惑、6点晕眩、6点封穴(内功)"
-    translated: "Resist six points of sinew stretching, six points of joint manipulation, six points of confusion, six points of dizziness, and six points of sealing (Neigong)"
+    translated: "Resist 6 points of muscle damage, 6 points of bone damage, 6 points of confusion, 6 points of dizziness, and 6 points of sealed acupoints (Neigong)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6538,7 +6538,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "腾元功额外抵御12点封穴"
-    translated: "Teng Yuan Gong provides an additional 12 points of protection against sealing"
+    translated: "Teng Yuan Gong provides an additional 12 points of resistance to sealed acupoints"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6554,7 +6554,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "腾元功额外抵御6点分筋、6点错骨"
-    translated: "Teng Yuan Gong provides an additional resistance of 6 points to tendon manipulation and 6 points to joint manipulation"
+    translated: "Teng Yuan Gong provides an additional resistance of 6 points against muscle damage and 6 points against bone damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6698,7 +6698,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行混元功时，每回合回复精力增加2点；混元掌附加的内伤值增加6点"
-    translated: "When operating Hunyuan Gong, recover 2 additional energy points per turn; the internal injury value added by Hunyuan Palm increases by 6 points"
+    translated: "While performing Hunyuan Gong, recover 2 additional energy points each turn; the internal injury value added by Hunyuan Palm increases by 6 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6810,7 +6810,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "天字九打额外附加4点分筋值"
-    translated: "9 in the character Tian adds an additional 4 points to sinew score"
+    translated: "Add 4 extra points to the Nine Heavenly Palaces Muscle Damage score"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6826,7 +6826,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "天字九打额外附加4点迷惑值"
-    translated: "Tianzi Jiu Da Extra 4 Points Confused Value"
+    translated: "Extra 4 points of confusion added to Tian Zhi Jiu Da"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6890,7 +6890,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "封穴12点、分筋6点、迷惑6点"
-    translated: "Seal Points: 12, Disrupt Tendons: 6, Confuse: 6"
+    translated: "Seal 12 acupoints, muscle damage 6 points, confusion 6 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6938,7 +6938,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "封穴8点"
-    translated: "Seal the eight points"
+    translated: "Seal 8 acupoints"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7066,7 +7066,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "采集毒物时不再中毒。"
-    translated: "When collecting poisonous substances, no longer be poisoned"
+    translated: "While collecting poisons, no longer get poisoned"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7082,7 +7082,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "中招者中毒值+5；自身的毒术愈高，对敌人附加的中毒值愈高。"
-    translated: "Those afflicted take +5 Poison; the higher their own poison skill, the greater the poisoning value inflicted on enemies"
+    translated: "If a player becomes poisoned, the poison value increases by 5. The higher their own toxic arts are, the greater the poison value inflicted on their opponent"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7098,7 +7098,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "可炼制五毒粉。若行囊中有五毒粉，则施展此招式时对敌方造成6点中毒、3点晕眩、3点迷惑、3点分筋、3点错骨"
-    translated: "Can refine Five Poison Powder. If the travel bag contains Five Poison Powder, then when executing this technique, it causes 6 points of poisoning, 3 points of dizziness, 3 points of confusion, 3 points of muscle separation, and 3 points of joint manipulation to the opponent"
+    translated: "Capable of refining Five Poisons Powder. If the bag contains Five Poisons Powder, deploying this technique on an opponent will inflict 6 points of poisoning, 3 points of dizziness, 3 points of confusion, 3 points of muscle damage, and 3 points of bone damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7162,7 +7162,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "暗香凌寒附加迷惑4点"
-    translated: "Dark Fragrance Rising Over Cold Adds 4 Points of Confusion"
+    translated: "Fragrance in the dark, chilling to the bone, adds 4 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7210,7 +7210,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "暗香凌寒附加晕眩4点"
-    translated: "Intoxicating Fragrance Adds Dizziness for 4 Points"
+    translated: "Dark Fragrance Frost adds 4 points of dizziness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7242,7 +7242,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "暗香凌寒附加内伤4点"
-    translated: "Dark Aroma Overcomes Cold, Additional Internal Injury 4 Points"
+    translated: "Chilling Fragrance adds 4 points of internal injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7258,7 +7258,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "晕眩5点、迷惑5点、内伤5点"
-    translated: "Blinded for 5 points, confused for 5 points, internal injury for 5 points"
+    translated: "Dizziness 5 points, confusion 5 points, internal injury 5 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7274,7 +7274,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "可移动至距离自身距离6格内的任一位置。"
-    translated: "Can move to any position within a distance of 6 squares from itself"
+    translated: "Can be moved to any position within a range of 6 squares from itself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7866,7 +7866,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "飞鹰箭诀附加6点分筋值"
-    translated: "Flyhawk Arrow Secret adds an additional 6 points to sinew strength"
+    translated: "Feiying Jian Jue attachment adds 6 points of muscle damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8074,7 +8074,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升3%"
-    translated: "Sword Arts +4, cast Yaoguang Pojun before moving each round to increase its power by 3%"
+    translated: "Sword Art +4. Before moving this turn, cast Yuangong Pojun to increase its power by 3%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8090,7 +8090,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升6%"
-    translated: "Sword Arts +4, before moving each turn to manifest Yao Guang Po Jun, increase power by 6%"
+    translated: "Sword Art +4. Before moving in a turn, cast Yuanguang Pojun to boost its power by 6%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8106,7 +8106,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升9%"
-    translated: "Enhance your sword arts by four levels, and before moving each round, perform the Jade Radiance Disbanding Army technique to increase its power by 9%"
+    translated: "Sword Art +4, before moving each turn, cast Yao Guang Po Jun to increase its power by 9%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8122,7 +8122,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升12%"
-    translated: "Sword Arts +4, before moving each turn perform Shenyin Paojun to increase its potency by 12%"
+    translated: "Sword Art +4, before moving at the start of a turn, perform Yuanguang Pojun to increase its power by 12%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8138,7 +8138,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "剑法+4，每回合尚未移动前施展瑶光破军，威力提升15%"
-    translated: "Sword Arts +4, before moving each turn to perform Yaoguang Pojun, power increased by 15%"
+    translated: "Sword Art +4, before moving in this turn, deploy Hua Luogeng's Army Breaker; its power increases by 15%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8458,7 +8458,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "乱披风额外附加8点内伤效果"
-    translated: "Disorderly Cloak provides an additional effect of 8 points of internal injury"
+    translated: "Chaotic Cloak adds an additional 8 points of internal injury effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8474,7 +8474,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "乱披风额外附加8点晕眩效果"
-    translated: "Unpredictable Cloak additionally adds an extra 8 points of dizziness effect"
+    translated: "Scrambled Cloak additionally grants an extra 8 points of dizziness effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8538,7 +8538,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "回内力、解内伤"
-    translated: "Restore Qi, Heal Internal Injuries"
+    translated: "Restore inner strength, heal internal injuries"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8586,7 +8586,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "回内力、解内伤、解中毒"
-    translated: "Restore Qi, Heal Internal Injury, Cure Poisoning"
+    translated: "Restore internal energy, heal internal injuries, and detoxify"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8634,7 +8634,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "回内力、解内伤、解中毒、解冰封"
-    translated: "Restore Qi, Heal Internal Injuries, Cure Poisoning, Break Freezing Seals"
+    translated: "Restore internal energy, heal internal injuries, detoxify, and thaw"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8890,7 +8890,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "停杯问月今何在、狂夫窃笑有明珠，附加分筋效果"
-    translated: "Stop cup, ask moon where now is it, mad man snickering has a bright pearl, add muscle-splitting effect"
+    translated: "Pause the cup and ask the moon where it is now, while the wild man steals a smile with his bright pearl. Add muscle damage effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8954,7 +8954,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展天南势后，5回合内抵御6点分筋、错骨值"
-    translated: "After performing Tian Nan Shi, resist 6 points of tendon and joint manipulation damage for the next 5 turns"
+    translated: "After executing the Tian Nan Maneuver, it can resist 6 points of muscle damage and bone damage for the next five rounds"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9034,7 +9034,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展天南势后，5回合内抵御6点迷惑、晕眩值"
-    translated: "After performing Tiannan's Technique, resist 6 points of confusion and dizziness for 5 rounds"
+    translated: "After deploying Tian Nan's ability, resist 6 points of confusion and dizziness for the next 5 turns"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9066,7 +9066,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "造成周围2单位距离内的敌人每回合8点中毒、4点分筋、4点错骨"
-    translated: "Causes enemies within a 2-unit radius to suffer 8 points of poison, 4 points of tendon manipulation, and 4 points of joint manipulation each turn"
+    translated: "Create Poison, Muscle Damage, and Bone Damage within a 2-unit radius around the target. Each affected enemy takes 8 points of poison damage, 4 points of muscle damage, and 4 points of bone damage per turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9194,7 +9194,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行七彩绝毒大法时，周遭2单位距离内的敌人每回合附加4点中毒、4点分筋"
-    translated: "When executing the Seven-Colored Poison Technique, enemies within a 2-unit distance each round suffer an additional 4 points of poisoning and 4 points of muscle separation"
+    translated: "When using the Ultimate Seven-Hued Toxic Technique, enemies within a 2-unit radius are inflicted with an additional 4 points of poisoning and 4 points of muscle damage each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9210,7 +9210,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行七彩绝毒大法时，周遭2单位距离内的敌人每回合附加4点中毒、4点错骨"
-    translated: "When using the Seven-Color Ultimate Poison Skill, enemies within 2 units of distance are inflicted with 4 points of poisoning and 4 points of joint manipulation damage each turn"
+    translated: "When activating the Seven-Colored Ultimate Poison Technique, enemies within a 2-unit radius are afflicted with an additional 4 points of poisoning and 4 points of bone damage each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9402,7 +9402,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "晕眩、迷惑"
-    translated: "Dizzy, confused"
+    translated: "Dizziness, confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9418,7 +9418,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "晕眩、迷惑"
-    translated: "Dizzy, confused"
+    translated: "Dizziness, confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9658,7 +9658,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "造成敌人中毒、迷惑。毒术、邪值越高，招式威力越强"
-    translated: "Causes the enemy to be poisoned and confused. The more powerful the poison techniques and evil values are, the stronger the skills become"
+    translated: "Causing the enemy to be poisoned and confused. The more potent the poison techniques and evil value, the stronger the attack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9674,7 +9674,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "造成敌人中毒、晕眩。毒术、邪值越高，招式威力越强"
-    translated: "Causes the enemy to be poisoned and dizzy. The higher the poison skill, the more powerful the technique"
+    translated: "Causing the enemy to be poisoned and dizzy. The higher the level of poison arts or evil, the stronger the technique's power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9690,7 +9690,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每次施展心惊肉颤 ，有机会造成敌人恐慌，两回合内攻防能力大幅下降。敌人的晕眩值越高，陷入恐慌的机率越高"
-    translated: "Every time Heart-Rattling Dread is cast, there's a chance to cause the enemy panic, significantly reducing their offensive and defensive capabilities for two rounds. The higher the dizziness value of the enemy, the greater the likelihood of them entering a state of panic"
+    translated: "Every time you deploy a technique that causes heart-stopping fear, there's a chance to instill panic in your opponent. During the next two turns, their offensive and defensive capabilities will significantly decrease. The higher the opponent's dizziness value, the greater the likelihood of them falling into a state of panic"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9706,7 +9706,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每次施展绞尽脑汁，有机会让敌人陷入混乱，三回合内敌我不分。敌人的迷惑值越高，陷入混乱的机率越高"
-    translated: "Each time you exert all your mental effort, there's a chance to confuse the enemy, making it impossible to distinguish friend from foe for three turns. The higher the enemy's confusion level, the greater the chance of them becoming disoriented"
+    translated: "Every time they exhaust their mental faculties to execute this strategy, there's a chance it will confuse the enemy and make friend from foe indistinguishable for three rounds. The higher the confusion level of the enemy, the greater the likelihood of them becoming disoriented"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9722,7 +9722,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "分筋+6"
-    translated: "Divide Muscle +6"
+    translated: "Muscle Damage +6"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9738,7 +9738,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "出招前的移动距离越长，玉娥奔天终不悔的威力越强"
-    translated: "The power of Yu'e's Dashing to Heaven becomes greater the longer the distance before releasing it"
+    translated: "The longer the distance covered before a move is executed, the more powerful becomes Yu'e's Dash to the Heavens"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9866,7 +9866,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "欲攀仙桂蟾宫去的消耗精力增加1点、威力增加120点、分筋值额外增加6点"
-    translated: "Desire to ascend to the immortal orchid on the moon palace, increasing energy consumption by 1 point, power increased by 120 points, and additional bone splitting value increase by 6 points"
+    translated: "If you wish to ascend to the Moon Palace and reach the Immortal Peach Tree, your energy expenditure increases by 1 point, power increases by 120 points, and muscle damage value additionally increases by 6 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9882,7 +9882,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "月随人形徒消瘦的消耗精力增加1点、威力增加110点、内伤值额外增加6点"
-    translated: "The moon follows the person's form, consuming more energy by 1 point, increasing power by 110 points, and additionally increasing internal injury value by 6 points"
+    translated: "With the moon following its human form, the character's energy expenditure increases by 1 point, their strength is boosted by 110 points, and they suffer an additional 6 points of internal injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9962,7 +9962,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狮子吼的消耗精力增加1点，威力增强，内伤值额外增加4点"
-    translated: "The increase in energy consumption for Roar of the Lion is 1 point, power enhanced, and internal injury value additionally increases by 4 points"
+    translated: "The Lion's Roar increases energy expenditure by 1 point, enhances power, and adds an extra 4 points to internal injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9978,7 +9978,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狮子吼的消耗精力增加1点，威力增强，内伤值额外增加4点"
-    translated: "Roaring of the Lion increases energy expenditure by 1 point, enhances power, and adds an extra 4 points to internal injury"
+    translated: "Roar of the Lion increases energy consumption by 1 point, enhances power, and additionally increases internal injury value by 4 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10026,7 +10026,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行寒冰真气时，每次出招皆额外附带冰封值"
-    translated: "When casting Cold Ice True Qi, each attack additionally inflicts an extra freeze value"
+    translated: "When executing techniques using the Ice Cold True Qi, each move additionally confers a Seal of Frost value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10058,7 +10058,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "强化寒冰真气所附带的冰封效果"
-    translated: "Enhance the ice-sealing effect carried by the cold frost qi"
+    translated: "Enhance the freezing effect conferred by the strengthened ice-cold qi"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10138,7 +10138,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "飞雪神箭额外附加5点外伤值"
-    translated: "Flying Snow Divine Arrow grants an additional 5 points of external damage"
+    translated: "Fei xue shen jian adds 5 extra points of external injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10170,7 +10170,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "飞雪神箭额外附加5点外伤值"
-    translated: "Fei Xue Shen Jian extra adds 5 points of external damage"
+    translated: "Fei Xue Shen Jiao provides an additional 5 points of external injury value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10202,7 +10202,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "飞雪神箭额外附加5点外伤值"
-    translated: "Blizzard Divine Arrow adds an additional 5 points of external injury value"
+    translated: "Additional 5 points of external injury value for Flying Snow Divine Arrow"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10362,7 +10362,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "灵蛇刀附加晕眩值8点"
-    translated: "The Venomous Serpent Sword adds an 8-point dizziness effect"
+    translated: "Ling She Dao adds 8 points of dizziness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10378,7 +10378,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "碧蛇刀附加迷惑值8点"
-    translated: "Purple Snake Sword adds 8 points of confusion"
+    translated: "Bishe Dao adds 8 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10474,7 +10474,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "中毒+4，内伤+4，冰封+4"
-    translated: "Intoxication +4, Internal Injury +4, Frozen Sealed +4"
+    translated: "Poisoned +4, Internal Injury +4, Frozen +4"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10490,7 +10490,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "中毒+10，内伤+10，冰封+10"
-    translated: "Poisoned +10, Internal Injury +10, Frozen +10"
+    translated: "Poisoned +10, Internal Injuries +10, Frozen +10"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10538,7 +10538,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "严冬惨切的中毒值额外增加4点"
-    translated: "Severe cold intensifies the poisoning effect by an additional 4 points"
+    translated: "Yan Dong's cold and harrowing poisoned condition value increases by an additional 4 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10570,7 +10570,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "严冬惨切的内伤值额外增加4点"
-    translated: "Yan Dong's internal injury value is additionally increased by 4 points"
+    translated: "Yan Dong's internal injury value harshly increases by an additional 4 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10586,7 +10586,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "严冬惨切的冰封值额外增加4点"
-    translated: "Harsh Winter's freezing conditions add an additional 4 points"
+    translated: "The bitter cold of winter adds an extra 4 points to the frozen seal"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10730,7 +10730,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "挥毫若云烟的封穴值额外增加6点"
-    translated: "Using the calligraphy to seal a joint adds an extra 6 points"
+    translated: "The bonus for the Seal on acupoints written with a swift, cloud-like brush is an additional 6 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10778,7 +10778,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "尘世酒中仙的内伤值额外增加6点"
-    translated: "For a person in the mortal world with a Divine in Wine injury, their internal injury value is additionally increased by 6 points"
+    translated: "For a Worldly Immortal in Wine, the internal injury value increases by an additional 6 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10810,7 +10810,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "骑马似乘船的封穴值额外增加6点"
-    translated: "Riding as if on a ship to seal an acupoint grants an additional 6 points"
+    translated: "When mounted on horseback as if riding a boat, the sealed acupoints gain an additional 6 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10826,7 +10826,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "尘世酒中仙的封穴值额外增加6点"
-    translated: "Worldly Elixir of Immortality's Sealing Point is additionally increased by 6 points"
+    translated: "Chenshi jiu zhongxian's Sealed Acupoints value increases by an additional 6 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10986,7 +10986,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "外伤"
-    translated: "External injury"
+    translated: "External Injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11002,7 +11002,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "敌人外伤越重，所受到的伤害越高"
-    translated: "As the enemy's external injuries become more severe, the damage they receive is greater"
+    translated: "The more severe the external injuries inflicted by the enemy, the greater the damage they suffer"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11050,7 +11050,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "点豹斑的外伤值额外增加6点"
-    translated: "Spotted panther's injury value increases by an additional 6 points"
+    translated: "The external injury value of spotted leopards increases by an additional 6 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11434,7 +11434,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "中毒+2；邪值越高，威力越强"
-    translated: "Poison +2; the more malignant, the greater the power"
+    translated: "Poisoned +2; the more Evil, the greater the power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11450,7 +11450,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "中毒+10；邪值越高，威力越强"
-    translated: "Intoxication +10; the higher the malign value, the more powerful it is"
+    translated: "Poisoned +10; the higher the evil value, the stronger the power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11466,7 +11466,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "中毒+18；邪值越高，威力越强"
-    translated: "Poisoned +18; the higher the evil value, the more powerful it is"
+    translated: "Poison level +18; the more evil, the stronger the power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11482,7 +11482,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "Wily Snake Snatch Cloud Pearl additional poison value +2 points, hand combat +2, toxicology +2, dark side +5"
+    translated: "The cunning snake, in its quest to seize the Cloud Pearl, gains an additional 2 poison points. It enhances its hand combat by +2, increases its mastery of poisons by +2, and raises its evil value by +5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11498,7 +11498,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The Serpent Snake steals the Cloud Pearl, gaining an additional 2 points of Poison, +2 in Hand Combat, +2 in Toxicology, and +5 in Evil"
+    translated: "The cunning snake steals the Cloud Pearl, gaining an additional 2 points of Poisoned status, +2 to Hand Combat, +2 to Poison Lore, and +5 to Evil values"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11514,7 +11514,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The sly snake adds 2 extra poison points when capturing the cloud pearl, gains +2 in hand combat and toxicology skills, and increases its dark value by 5"
+    translated: "The cunning snake also adds 2 points of poison, increases hand combat by 2, augments the art of poisons by 2, and raises evil values by 5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11530,7 +11530,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The Naga Spirit causes additional poison damage of 2 points. It gains +2 to hand combat, poison skills, and an increase of 5 in dark power"
+    translated: "The Spirit Serpent's shock attack adds an additional 2 poison points, increases hand combat by +2, enhances the art of poisons by +2, and boosts its evil value by +5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11546,7 +11546,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The spiritual cobra can additionally add 2 poison points to the scare tactic, plus +2 in hand combat and poison skills, plus +5 in dark arts"
+    translated: "The Venomous Snake Spirit causes an additional poison value of 2 points. Adds +2 to Hand Combat, +2 to Poison Arts, and increases its Evil Value by 5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11562,7 +11562,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "Ling Mantis Startles Toad, adding 2 Poison Points extra; Hand-to-Hand Combat +2, Toxicology +2, Corruption Value +5"
+    translated: "Ling Mang's surprise attack adds an extra 2 points of poisoning, hand combat +2, poisoncraft +2, evil value +5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11626,7 +11626,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "静：若以兼爱非攻作为反击技，守株待兔的发动率提升5%"
-    translated: "Quiet：Should Universal Love and Non-attack be used as a counter-technique, the activation rate of Waiting by the Tree for Rabbits increases by 5%"
+    translated: "Quiet：If using universal love and non-aggression as a countermeasure, the activation rate of waiting by the stump for rabbits increases by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11642,7 +11642,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "柔：内伤10点"
-    translated: "Soft：Internal Injury 10 points"
+    translated: "Soft：Internal injury of 10 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11658,7 +11658,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "刚：击退"
-    translated: "Just now：repel"
+    translated: "Strong：Repel"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11674,7 +11674,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "巧：分筋6点、错骨6点"
-    translated: "Skilled：Break Bones at Level 6, Joint Manipulation at Level 6"
+    translated: "Skilled：6 points of muscle damage, 6 points of bone damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11690,7 +11690,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "动：施展五德终始时，自身连击率增加5点"
-    translated: "Move：When executing Five Deities to the End, increase the user's combo rate by 5 points"
+    translated: "Move：When Shi Zhan uses the Five Virtues Technique, their self-strike rate increases by 5 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11706,7 +11706,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "拙：降低中招敌人的所有特技值10点"
-    translated: "Crude：Reduce all skill values of the enemy by 10"
+    translated: "Clumsy：Reduce all skill values of the enemy by 10 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11716,13 +11716,13 @@
   splits:
   - split: 1
     text: "无欲则刚"
-    translated: "Without desire, one is strong"
+    translated: "Without desire, one becomes strong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "拙：施展仁者无敌时，降低中招敌人的所有特技值20点"
-    translated: "Clumsy：When applying the Benevolent are Invincible technique, reduce all skill values of stunned enemies by 20 points"
+    translated: "Clumsy：When Shi Zhan uses The Benevolent Are Invincible, the affected enemy's skill levels are reduced by 20 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11738,7 +11738,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "刚：雷令风行的威力增强、击退距离增加"
-    translated: "Just now：The power and range of the Thunder Command, Wind Blows are enhanced"
+    translated: "Strong：The power of Lei's Thunder Command grows stronger, increasing the distance it can repel"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11754,7 +11754,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "动：施展五德终始时，自身连击率增加10点"
-    translated: "Move：When you activate Five Virtues, Endurance increases your attack by 10"
+    translated: "Move：When Shi Zhan activates the Wu De Zhong Shu technique, their own combo rate increases by 10 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11770,7 +11770,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "柔：上善若水附带的内伤值提升为20点"
-    translated: "Soft：Internal injury value increase from The Highest Good Is Like Water to 20 points"
+    translated: "Soft：The internal injury value of Shang Shan Ru Shui increases by 20 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11786,7 +11786,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "巧：白马非马附带的分筋值、错骨值，提升为12点"
-    translated: "Skillful：White Horse Non-Horse comes with a Dispel Tendon skill and Joint Manipulation value, increased to 12 points"
+    translated: "Skilled：The added Muscle Damage and Bone Damage values of White Horse is Not a Horse are increased to 12 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11802,7 +11802,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "静：若以兼爱非攻作为反击技，守株待兔的发动率提升10%"
-    translated: "Quiet：If universal love and non-attack is used as a countermeasure, the activation rate of hiding by a stump waiting for rabbits increases by 10%"
+    translated: "Quiet：If universal love and non-aggression is used as a countermeasure, the activation rate of waiting by the tree for rabbits to drop increases by 10%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -12186,7 +12186,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "五雷穿心剑附加10点外伤值"
-    translated: "Five-Claw Thunderheart Sword adds an additional 10 points of external injury"
+    translated: "Five Thunder Clutching Heart Sword adds 10 points of external injury damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -12292,7 +12292,7 @@
   splits:
   - split: 1
     text: "绕指柔剑"
-    translated: "Wrapping-Whispering Soft Sword"
+    translated: "Rouzhirou Sword"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -12394,7 +12394,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "以玉女投梭、绕指柔剑反击时，伤害增加25%"
-    translated: "Using Jade Maiden Throwing Shuttle followed by countering with Gentle Sword Flicker of the Finger, damage increases by 25%"
+    translated: "When using Silk Girl Shuttle or Finger-Rolling Soft Sword to counterattack, damage increases by 25%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -12410,7 +12410,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "玉女投梭、绕指柔剑附加晕眩效果"
-    translated: "Jade Maiden Shuttle, Roving Finger Soft Sword adds dizziness effect"
+    translated: "Jade Maiden's Shuttle, the Flexible Sword adds a dizziness effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -12426,7 +12426,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展玉女投梭、绕指柔剑时，卸劲率提升"
-    translated: "When performing the Jade Maiden's Throwing Stars and Soft Whip Sword techniques, relaxation rate improves"
+    translated: "Shi Zhuanyu, executing the Jade Maiden Throwing Shuttle and Circulating Finger Soft Sword techniques, achieved an increase in unloading rate"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -12554,7 +12554,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "移动后施展一剑凌尘，威力更强"
-    translated: "After moving, he performed the Jiandeng Lengchen technique, with even greater power"
+    translated: "After moving, they unleash a single sword strike called Sword Clears Dust, which increases its power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -12778,7 +12778,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若以四夷宾伏为反击技，黄雀在后的发动率增加5%"
-    translated: "If the Four Barbarians Under Control is used as a counterattack technique, the activation rate of Yellow Sparrow in Pursuit increases by 5%"
+    translated: "If used as a counterattack technique, the Four Barbarians Bow in Submission, the activation rate of Yellow Sparrow increases by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -13066,7 +13066,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "落雁梨花附加8点迷惑值"
-    translated: "Lost Swans Pear Blossoms add an additional 8 points of confusion"
+    translated: "Dropped Swan Pear Blossom adds 8 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -13482,7 +13482,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "漫天飞沙、满天花雨，额外附加迷惑值"
-    translated: "Sandstorm and Flower Rain, additional Confusion Points"
+    translated: "Sandstorm and snow flurry, adding extra confusion points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -13658,7 +13658,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "暴雨梨花附加内伤值8点"
-    translated: "Heavy Rain Plum Blossom adds an additional 8 points to internal injuries"
+    translated: "Heavy Rain Orchid adds 8 points of internal injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -13674,7 +13674,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "暴雨梨花附加晕眩值8点"
-    translated: "Heavy Rain with Plum Blossoms adds an additional 8 points of dizziness"
+    translated: "Heavy rain and plum blossom mist, additional dizziness effect 8 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -13754,7 +13754,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若以含沙射影为反击技，则黄雀在后的发动机率提升5%"
-    translated: "If Containing Sand and Shooting Shadows is used as a counterattack, the activation rate of The Yellow Sparrow Comes from Behind increases by 5%"
+    translated: "If using throwing sand to one's eyes as a counterattack technique, the probability of successfully activating yellow finch behind increases by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -13802,7 +13802,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若以鬼蜮难测为反击技，则黄雀在后的发动机率提升5%"
-    translated: "If Ghost and Snake Are Difficult to Predict is used as a counterattack technique, the activation rate of The Sparrow Is Behind increases by 5%"
+    translated: "If using unpredictable like a cunning trickster as a counter-attack technique, the activation rate of waiting for the pheasant behind increases by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -13914,7 +13914,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "攻击后对目标附加迷惑8点，并提升自身虚招值6点"
-    translated: "After the attack, add confusion 8 to the target and increase your feint value by 6"
+    translated: "After attacking, the target receives 8 points of confusion, and the attacker's phantom value is increased by 6 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -13930,7 +13930,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "袖里回风附加迷惑值6点"
-    translated: "Wardrobe Tailwind adds confusion for 6 points"
+    translated: "Additional Confusion value of 6 for Sleeve Wind Technique"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14170,7 +14170,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "可移动至自身8单位距离内的任一位置"
-    translated: "Can move to any position within 8 units of their own space"
+    translated: "Move to any location within 8 units of their own position"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14250,7 +14250,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展觔斗法时，可移动至自身6单位距离内的任一位置"
-    translated: "When performing the Jian Dou Fa, you can move to any position within a 6-unit distance from yourself"
+    translated: "While executing the Chinlong Technique, they can move to any position within 6 units of their own"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14282,7 +14282,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "攻击后，对目标附加迷惑、晕眩6点，并击退目标3个时序"
-    translated: "After the attack, add confusion and daze the target for 6 points, and push back the target by 3 turns"
+    translated: "After the attack, add confusion and dizziness to the target for 6 points, and push back the target by 3 rounds"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14346,7 +14346,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "八卦游龙掌攻击后，对目标附加晕眩4点"
-    translated: "After the Eight Trigram Game Dragon Palm attack, it inflicts dizziness on the target for 4 points"
+    translated: "After launching the Bagua Youlong Zhang attack, the target is inflicted with dizziness for 4 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14452,7 +14452,7 @@
   splits:
   - split: 1
     text: "开山碎玉刀(刚)"
-    translated: "Kaishan Suiyu Dao (Gang)"
+    translated: "The Sword that Shatters Jade Mountains (Strong)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14468,7 +14468,7 @@
   splits:
   - split: 1
     text: "开山碎玉刀(动)"
-    translated: "Crushing Jade Sword (Action)"
+    translated: "Blade of Jade Shattering, Opening the Mountain (Move)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14484,7 +14484,7 @@
   splits:
   - split: 1
     text: "开山碎玉刀(巧)"
-    translated: "Opening Mount Smashing Jade Knife (Skillful)"
+    translated: "Blade that Shatters Jade from its Mountain of Origin (Skilled)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14554,7 +14554,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "开山碎玉刀附加6点外伤"
-    translated: "Open-Mountain Jade-Breaking Sword adds 6 points of external injury"
+    translated: "Open a Mountain, Shatter Jade Blades adding 6 points of external injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14580,13 +14580,13 @@
   splits:
   - split: 1
     text: "琢玉之巧"
-    translated: "Exquisite Jade Carving"
+    translated: "The skill of carving jade"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "开山碎玉刀附加6点分筋"
-    translated: "Open Mountain Shatter Jade Sword, adds an additional 6 points to splitting tendons"
+    translated: "The Opening Mountain Shattering Jade Blade adds 6 points of muscle damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14650,7 +14650,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "怒川游鱼掌额外附加5点内伤"
-    translated: "Nu Chuan youyu zhang extra adds 5 points of internal injury"
+    translated: "Nur Chuan Yu adds an extra 5 points of internal injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14666,7 +14666,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "怒川游鱼掌额外附加5点晕眩"
-    translated: "Surprise Water Palm adds an extra 5 points of dizziness"
+    translated: "Use Nuchuan Youyu Palm to inflict an additional 5 points of dizziness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14714,7 +14714,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展怒川游鱼掌背袭敌人，额外附加5点晕眩、5点内伤"
-    translated: "Execute the Angry River Fish Palm Strike behind an enemy, inflicting an additional 5 points of dizziness and 5 points of internal injury"
+    translated: "Sih Chan deploys the Nu Chuan Youyu Palm to strike his opponent from behind, inflicting an additional 5 points of dizziness and 5 points of internal injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14858,7 +14858,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "长虹经天附加10点迷惑值"
-    translated: "Long Rainbow Across the Sky adds an additional 10 points of confusion"
+    translated: "Extend the Long Rainbow to cover the sky, adding 10 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15114,7 +15114,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "醉酒提壶力千钧额外附带迷惑效果5点"
-    translated: "Drunk and carrying a bucket with a force of a thousand jin, plus an additional confusion effect of 5 points"
+    translated: "While intoxicated, he can lift a wine vessel with a force of a thousand catties and additionally causes confusion for 5 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15338,7 +15338,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "阳煦山立额外增加3点封穴值"
-    translated: "Yang Xu Mountain Standing Extra Add 3 Points Seal Point Value"
+    translated: "Yangxu Shan Li's additional seal point value has increased by 3 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15354,7 +15354,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "阳煦山立额外增加3点封穴值"
-    translated: "Yang Xu's Mountain has an additional increase of 3 points in sealing"
+    translated: "Yangxu Shan Li receives an additional 3 points in sealed acupoint value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15562,7 +15562,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "佛口蛇心附加5点晕眩、5点迷惑"
-    translated: "Snake in the Heart, Tongue of Buddha, granting an additional 5 points of dizziness and 5 points of confusion"
+    translated: "Deceptive speech, a serpent's heart - additional 5 points dizziness, 5 points confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15658,7 +15658,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "斗折蛇行附加8点晕眩、8点迷惑"
-    translated: "Serpentine Motion adds an additional 8 points of dizziness and 8 points of confusion"
+    translated: "Includes additional 8 points of dizziness and 8 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15786,7 +15786,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "软玉温香附加4点迷惑值"
-    translated: "Soft Jade and Warm Fragrance add an extra 4 points of confusion"
+    translated: "Soft Jade's Warm Fragrance adds 4 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15802,7 +15802,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "软玉温香附加4点晕眩值"
-    translated: "Soft Jade Warm Fragrance adds an additional 4 points of dizziness"
+    translated: "Soft Jade adds 4 points of dizziness value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15834,7 +15834,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若是女性施展软玉温香，威力增强；若是攻击对象为男性，额外附加4点晕眩、4点迷惑"
-    translated: "If a female practitioner uses Soft Jade Fragrance, the power is enhanced; if the target is male, it additionally inflicts 4 points of dizziness and 4 points of confusion"
+    translated: "If a female practitioner uses the Soft Jade's Warmth technique, its power is enhanced. Additionally, when the target is male, it inflicts an extra 4 points of dizziness and 4 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15978,7 +15978,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展庖丁解牛时，有15%机率造成35点分筋或是35点错骨"
-    translated: "When utilizing the Butcher Ding's Cutting of Ox technique, there is a 15% chance to inflict either 35 points of dislocation or 35 points of joint manipulation"
+    translated: "When Shizhan performs the Paotang jieding technique, there is a 15% chance of causing either 35 points of muscle damage or 25 points of bone damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16490,7 +16490,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "猛虎出柙附加外伤值12点"
-    translated: "Roaring Tiger Breaks Out Adds 12 Points of External Injury"
+    translated: "Fierce Tiger Breaks Out of Cage, adding 12 points of external injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16618,7 +16618,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若以惊波荡漾作为反击技，守株待兔的发动率提升5%"
-    translated: "Using Ripple Wave as a counterattack, the activation rate of Wait by the Tree for Hares increases by 5%"
+    translated: "If Raging Waves is used as a counterattack technique, the activation rate of Hiding for Rabbits increases by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -16682,7 +16682,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若以蛟龙出水作为反击技，守株待兔的发动率提升5%"
-    translated: "If using Jiaolong Chushui as a counterattack technique, the activation rate of Huzhudaitu increases by 5%"
+    translated: "If Jiaolong Chushui is used as a counterattack technique, the activation rate of the Houchu Datu strategy increases by 5%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17418,7 +17418,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "凌波行额外附带效果，移动时增加连击率；出招前的移动距离越长，千堆雪的威力越强"
-    translated: "Lei Bofeng has an additional effect of increasing combo rate while moving; the longer the movement distance before attacking, the more powerful Qianqiaoxue becomes"
+    translated: "Lei Feng's Lingbo Xing has an additional effect that increases combo rate while moving; the longer the distance moved before executing a technique, the stronger the impact of Qianqiaoxue"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17530,7 +17530,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行九阴神功时，发动反击扣除敌人1点精力"
-    translated: "When using the Nine Yin Divine Skill, launching a counterattack reduces the enemy's vitality by 1 point"
+    translated: "When activating the Nine Yin Divine Skill, counterattack to reduce 1 point of the enemy's energy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17562,7 +17562,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行九阴神功时，攻击时择一附加：分筋、错骨、晕眩、迷惑、封穴"
-    translated: "While practicing the Nine Yin Divine Skill, choose one additional attack：Disjointed muscles, joint manipulation, dizziness, confusion, and sealing of joints"
+    translated: "When activating the Nine Yin Divine Skill, choose one extra target during an attack：Muscle damage, bone damage, dizziness, confusion, sealed acupoints"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17642,7 +17642,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合解除冰封4点、增加自身内功2点；内功至多增加12点"
-    translated: "Every turn removes ice seal by 4 points and increases own Neigong by 2 points; maximum increase in Neigong is 12 points"
+    translated: "Each round, remove 4 points of freezing and increase self's Neigong by 2 points; Neigong can be increased by a maximum of 12 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17754,7 +17754,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行那洛六法时，罗汉伏虎与金刚伏魔的伤害力增加30%，并对中招者附加内伤值6点"
-    translated: "When executing the Luo Luo Six Law, the strength of Tiger-Subduing Chan Master and Demon-Subduing Golden Body increases by 30%, and it inflicts an additional internal injury value of 6 points on the target"
+    translated: "When activating Luo Han Fu Hu and Jin Gang Fu Mo, their damage output increases by 30%, and they also inflict an internal injury value of 6 points on the target"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17770,7 +17770,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行那洛六法时，每回合增加自身爆击发动率6点"
-    translated: "When using Luo Luifa, increase the chance of triggering critical hits by 6 points each turn"
+    translated: "While invoking Nuo Luo's Six Laws, increase your critical hit rate by 6 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17786,7 +17786,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行那洛六法时，每回合增加自身连击发动率6点"
-    translated: "When activating Nuo Law, increase the chain attack activation rate by 6 points each turn"
+    translated: "While using Nalo Six Form, increase your own combo activation rate by 6 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17802,7 +17802,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行那洛六法时，每回合增加自身卸劲发动率6点"
-    translated: "When activating that Laoluo Six Principles, increase self-strength activation rate by 6 points each turn"
+    translated: "When activating Na Luo's Six Methods, increase your own discharging rate by 6 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17818,7 +17818,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行那洛六法时，每回合增加自身反击发动率6点"
-    translated: "When activating the Luo Law Six, increase your counterattack activation rate by 6 points each turn"
+    translated: "When activating Ni Luo Six Rules, increase your counterattack activation rate by 6 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17834,7 +17834,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行那洛六法时，每回合增加自身虚招发动率6点"
-    translated: "When using Na Lu Six Form, increase your feigning activation rate by 6 points each turn"
+    translated: "When activating Nuo Law, increase your fake move activation rate by 6 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17844,7 +17844,7 @@
   splits:
   - split: 1
     text: "拙火"
-    translated: "Clumsy Fire"
+    translated: "Clumsy at handling fire"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -18010,7 +18010,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "附骨之蛆的封穴值额外增加4点"
-    translated: "The binding point value for the Bone Burrowing Maggot is increased by an additional 4 points"
+    translated: "The extra sealing points of the bone-burrowing maggot increase by 4"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19418,7 +19418,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "反击时额外造成敌人12点内伤"
-    translated: "When countering, inflict an additional 12 points of internal injury on the enemy"
+    translated: "When retaliating, inflict an additional 12 points of internal injury on the enemy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19434,7 +19434,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "一条鞭额外附加6点内伤"
-    translated: "One whip blow inflicts an additional 6 points of internal injury"
+    translated: "An additional 6 points of internal injury for each lash"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19482,7 +19482,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "反击时额外造成敌人16点内伤"
-    translated: "During a counterattack, additionally inflict an extra 16 points of internal damage on the enemy"
+    translated: "Inflict an additional 16 points of internal injury to the enemy during a counterattack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19498,7 +19498,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合回复气血4%，回复内伤8%"
-    translated: "Each round restores lifeforce by 4%, and heals internal injuries by 8%"
+    translated: "Restore 4% lifeforce and recover from internal injury by 8% each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19530,7 +19530,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合回复气血8%，回复内伤16%"
-    translated: "Every round recover 8% of lifeforce, and recover internal injury by 16%"
+    translated: "Regain 8% of lifeforce and heal internal injuries by 16% each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19594,7 +19594,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合回复气血12%，回复内伤24%"
-    translated: "Every round, restore lifeforce by 12%, and recover internal injuries by 24%"
+    translated: "Each turn, recover 12% of your lifeforce and heal internal injuries by 24%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19706,7 +19706,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "可炼制碧蚕蛊毒。若行囊中有碧蚕蛊毒，则施展此招式时对敌方造成75点中毒"
-    translated: "If you have blue silkworm poison in your travel bag, casting this technique will inflict 75 points of poisoning on the opponent"
+    translated: "This technique can be used to apply the poison of Bi Can insect. If you have the poison in your inventory, then when you use this move against an opponent, it will cause them 75 points of poisoning"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19946,7 +19946,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "浑金自成、烁石流金附加外伤效果"
-    translated: "Combines with Hu Jin Zhi Cheng, Shuo Shi Liu Jin to add additional external injury effects"
+    translated: "Pure gold naturally forms, enhancing the effect of external injury when combined with glowing gemstone"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20234,7 +20234,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "封穴20点"
-    translated: "Seal 20 points"
+    translated: "Seal 20 acupoints"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20858,7 +20858,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若运行离合参商，发动反击时扣除敌人1点精力"
-    translated: "If the running technique and coordination are properly executed, during a counterattack, it will deduct 1 point of energy from the enemy"
+    translated: "When executing Runyun Licheng Canshang, deduct 1 point of energy from the opponent during a counterattack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20874,7 +20874,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若运行离合参商，发动借力打力时，将自身所受的伤害悉数返还对方"
-    translated: "If you run the disengagement, harmony, and mutual support during the action of borrowing strength to strike back, all the harm received by oneself will be returned to the opponent"
+    translated: "If you engage in the technique of combining Yin and Yang, along with the leverage strategy, when exerting force against an opponent, all damage received will be redirected back to them"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20986,7 +20986,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合回复气血12%，回复内伤24%；可于战斗中复活一次，复活同时回复气血40%"
-    translated: "Each round restores 12% lifeforce, heals internal injuries by 24%; can be revived once during battle, with revival restoring 40% lifeforce"
+    translated: "Each round restores 12% of Lifeforce and heals Internal Injuries by 24%. It can revive once during battle, restoring 40% of Lifeforce upon revival"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21034,7 +21034,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合回复气血12%，回复内伤24%；可于战斗中复活一次，复活同时回复气血80%"
-    translated: "Each turn restores 12% of your lifeforce, and heals internal injuries by 24%; you can revive once during battle, restoring 80% of your lifeforce upon revival"
+    translated: "Each round restores 12% of lifeforce and heals internal injuries by 24%. Allows for one revival during battle, restoring 80% of lifeforce upon revival"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21146,7 +21146,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展缠劲裹住敌人，春蚕吐丝附加内伤值4点，使敌人更倾向于将目标转为自己"
-    translated: "Deploy the entangling force to bind the enemy. The spring silkworm applies 4 points of internal injury, making the enemy more likely to shift their target onto themselves"
+    translated: "Shi uses Chan Jing to entangle the enemy, and as a spring cocoon releases silk, adds an Internal Injury value of 4 points, making the enemy more inclined to shift their target onto themselves"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21162,7 +21162,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展转劲带动敌人，春缠吐丝附加晕眩值4点，指东打西的发动率提升"
-    translated: "Using the twist to generate momentum, engage the opponent. The Spring Entangling Tendrils adds a dizziness value of 4 points, and increases the activation rate for Point East Strike West"
+    translated: "By channeling movement force, the opponent is drawn in. Spring binds with silken threads, adding 4 points of dizziness; this increases the likelihood of striking at unintended targets"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21226,7 +21226,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展缠劲裹住敌人，抽丝剥茧附加内伤值6点，使敌人更倾向于将目标转为自己"
-    translated: "Use binding energy to entangle the enemy, unravel and peel like silk to add 6 internal damage points, making the enemy more inclined to target themselves"
+    translated: "Shi Chan enshrouds the enemy with coiling force, gradually peeling away defenses to add 6 points of internal injury. This causes the enemy to increasingly focus their attack on themselves"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21242,7 +21242,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展转劲带动敌人，抽丝剥茧附加晕眩值6点，指东打西的发动率提升"
-    translated: "Utilize rotational force to manipulate the enemy, strip layers like peeling an onion and add dizziness value of 6 points, increasing the rate of aimless attacks"
+    translated: "Execute a turning maneuver to manipulate the opponent, strip away defenses to add 6 points of dizziness, thereby increasing the chance of misdirected attacks"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21290,7 +21290,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "叶随风转附加4点封穴值"
-    translated: "Leaf follows the wind, adding 4 points to the acupoint sealing value"
+    translated: "Ye Suifeng's attachment adds 4 points to the seal value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21306,7 +21306,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "叶随风转附加4点内伤值"
-    translated: "Ye sui feng zhuan fujia si dian nei shang zhi"
+    translated: "Ye Suifeng gains 4 additional points of internal injury value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21370,7 +21370,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "笑拈春华附加6点封穴值"
-    translated: "Smile as you pluck the spring blossoms, adding an additional six points of sealing pressure"
+    translated: "Laughter Plucking Spring Blossom Additional 6 Points Sealed Acupoints Value"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21386,7 +21386,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "笑拈春华附加6点内伤值"
-    translated: "Laughter plucks spring blooms and adds 6 points to internal injury"
+    translated: "Gain 6 points of internal injury damage from laughing at Spring Blossom"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21498,7 +21498,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "自身的毒术愈高，对敌人造成的中毒与晕眩值越高；角色越邪恶，威力越强。"
-    translated: "The higher one's proficiency in toxic arts, the greater the poisoning and dizziness inflicted on enemies; the more evil a character is, the stronger their power"
+    translated: "The higher one's mastery of poison techniques, the greater the poisoning and dizziness inflicted upon enemies. The more evil a character is, the stronger their power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21546,7 +21546,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若装备黑血神针，额外附加4点中毒、4点晕眩值；角色越邪恶，威力越强。"
-    translated: "If equipped with Black Blood Divine Needles, it additionally adds 4 points of poison and 4 points of dizziness; the more evil the character is, the stronger its power"
+    translated: "If the weapon is equipped with the Black Blood Divine Needle, it additionally adds 4 points of poisoning and 4 points of dizziness; the more evil the character, the greater its power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21562,7 +21562,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "采集毒物时不再中毒。"
-    translated: "When collecting poisonous substances, they no longer cause poisoning"
+    translated: "While collecting poisons, no longer get poisoned"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21610,7 +21610,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "晕眩10点"
-    translated: "Blackout for 10 points"
+    translated: "Experiencing dizziness at 10 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21626,7 +21626,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "分筋10点"
-    translated: "Dislocate joints by ten points"
+    translated: "Severe muscle damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21642,7 +21642,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "迷惑10点，若行囊中有石灰粉，对敌人额外附加10点迷惑"
-    translated: "Confused by an additional 10 points if the satchel contains powdered lime, causing an extra 10 points of confusion to the opponent"
+    translated: "Confusion +10 points. If the satchel contains calcium powder, an additional 10 points of confusion are inflicted on the enemy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21658,7 +21658,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "邪值越高，插双眼、撩阴腿的威力越强，且撒石灰的迷惑效果越好"
-    translated: "The higher the evil value, the stronger the power of inserting eyes and stroking thighs, and the better the disorienting effect of spreading plaster"
+    translated: "The higher the evil value, the stronger the power of plugging ears and lifting skirts, and the better the effect of causing confusion by scattering plaster"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22122,7 +22122,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每次出招时，有机率发动二次攻击，资值越低，发动机率越高(内功)"
-    translated: "Each time an attack is executed, there's a chance to trigger a follow-up attack. The lower the asset value, the higher the probability of triggering it (Neigong)"
+    translated: "Each time a move is executed, there's a chance to trigger a second attack. The lower the asset value, the higher the probability of triggering (Neigong)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22138,7 +22138,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动二次攻击的机率提升"
-    translated: "Chance to trigger a second attack increased"
+    translated: "The chance to initiate a second attack increases"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22154,7 +22154,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动二次攻击的机率提升"
-    translated: "Probability of launching a second attack increased"
+    translated: "Increase the probability of launching a second attack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22170,7 +22170,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动连击时额外回复1点精力(内功)"
-    translated: "When triggering a combo attack, recover an additional 1 point of energy (Neigong)"
+    translated: "Recover 1 energy point upon performing a combo attack (Neigong)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22218,7 +22218,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动连击时额外回复1点精力"
-    translated: "When initiating a combo, regain an additional point of energy"
+    translated: "Regain 1 additional energy point while performing a combo attack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22266,7 +22266,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动暴击时额外回复1点精力"
-    translated: "When triggering a critical hit, recover an additional 1 point of energy"
+    translated: "Regain 1 Energy upon triggering a Critical Hit"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22634,7 +22634,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "采集毒物时不再中毒。"
-    translated: "When collecting poison, no longer be poisoned"
+    translated: "While collecting poisons, no longer get poisoned"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

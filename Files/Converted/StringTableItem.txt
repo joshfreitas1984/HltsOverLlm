@@ -396,7 +396,7 @@
   splits:
   - split: 1
     text: "你更为狷介拘谨了"
-    translated: "You have become more upright and calm"
+    translated: "You've become even more restrained and cautious"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -426,7 +426,7 @@
   splits:
   - split: 1
     text: "你更为阳刚了"
-    translated: "You have become more hard and firm"
+    translated: "You have become more yang and strong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -436,7 +436,7 @@
   splits:
   - split: 1
     text: "你更为阴柔了"
-    translated: "You have become more gentle and soft"
+    translated: "You've become more yin and soft"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -696,7 +696,7 @@
   splits:
   - split: 1
     text: "大家都是文明人，何必动手动脚的？"
-    translated: "Why should we act so rough when we are all civilized people?"
+    translated: "We're all civilized people, so why resort to physical altercations?"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1416,7 +1416,7 @@
   splits:
   - split: 1
     text: "外伤"
-    translated: "External injury"
+    translated: "External Injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1446,7 +1446,7 @@
   splits:
   - split: 1
     text: "迷惑"
-    translated: "Confused"
+    translated: "Confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1466,7 +1466,7 @@
   splits:
   - split: 1
     text: "分筋"
-    translated: "Dislocate"
+    translated: "Muscle Damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1476,7 +1476,7 @@
   splits:
   - split: 1
     text: "错骨"
-    translated: "Joint Manipulation"
+    translated: "Bone Damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1486,7 +1486,7 @@
   splits:
   - split: 1
     text: "散功"
-    translated: "Disperse Qi"
+    translated: "Qi Dispersion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1506,7 +1506,7 @@
   splits:
   - split: 1
     text: "醉意"
-    translated: "Drunk"
+    translated: "Intoxication"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2274,7 +2274,7 @@
   splits:
   - split: 1
     text: "嗯，一路走来风平浪静，沿途欣赏风景，倒也不坏！"
-    translated: "Well, it has been smooth sailing so far on the journey, and enjoying the scenery along the way is not bad at all!"
+    translated: "Well, the journey has been smooth sailing so far. Along the way, we've enjoyed some beautiful scenery—it's not bad at all!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2284,7 +2284,7 @@
   splits:
   - split: 1
     text: "嗯，一路走来风平浪静，沿途欣赏风景，倒也不坏！"
-    translated: "Well, the journey has been smooth and without trouble. Along the way, appreciating the scenery wasn't bad at all!"
+    translated: "Well, the journey has been smooth sailing so far, and stopping along the way to enjoy the scenery hasn't been bad at all!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2294,7 +2294,7 @@
   splits:
   - split: 1
     text: "嗯，一路走来风平浪静，沿途欣赏风景，倒也不坏！"
-    translated: "Alright, it's been smooth sailing on this journey; the scenery along the way has been quite enjoyable too!"
+    translated: "The journey has been smooth sailing, and the scenery along the way was quite enjoyable. Not bad at all!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2304,7 +2304,7 @@
   splits:
   - split: 1
     text: "嗯，一路走来风平浪静，沿途欣赏风景，倒也不坏！"
-    translated: "Well, it's been smooth sailing so far on this journey, and enjoying the scenery along the way hasn't been bad at all!"
+    translated: "Well, the journey has been smooth sailing so far, and enjoying the scenery along the way hasn't been bad at all!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2314,7 +2314,7 @@
   splits:
   - split: 1
     text: "嗯，一路走来风平浪静，沿途欣赏风景，倒也不坏！"
-    translated: "The journey has been smooth so far, with beautiful scenery along the way—nothing bad about that!"
+    translated: "Well, the journey so far has been smooth sailing with calm seas. Along the way, we've enjoyed some beautiful scenery; it's not bad at all!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3476,7 +3476,7 @@
   splits:
   - split: 1
     text: "上/移动"
-    translated: "Move Up"
+    translated: "Move up"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3486,7 +3486,7 @@
   splits:
   - split: 1
     text: "下/移动"
-    translated: "Move down"
+    translated: "Shift Down"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3506,7 +3506,7 @@
   splits:
   - split: 1
     text: "右/移动"
-    translated: "Right/Move"
+    translated: "Shift to the right"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3516,7 +3516,7 @@
   splits:
   - split: 1
     text: "方向移动"
-    translated: "Move Direction"
+    translated: "Move in a direction"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3826,7 +3826,7 @@
   splits:
   - split: 1
     text: "调整远近/上下滚动"
-    translated: "Adjust near/far/up/down scrolling"
+    translated: "Adjust zoom in/out / scroll up/down"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3876,7 +3876,7 @@
   splits:
   - split: 1
     text: "自动跑步"
-    translated: "Automatic running"
+    translated: "Auto Run"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4090,7 +4090,7 @@
   splits:
   - split: 1
     text: "每个角色可装备的负重上限不同，若超过负重最大值会使角色行动力降低。"
-    translated: "Each character has a different weight limit for equipment, and if the load exceeds the maximum value, it will reduce the character's mobility"
+    translated: "Each character has a different weight limit for the equipment they can carry. Exceeding this maximum weight will reduce their mobility"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4210,7 +4210,7 @@
   splits:
   - split: 1
     text: "战斗时按Alt键可显示目标物与光标之间的距离，方便移动时决定走到的位置。"
-    translated: "During battle, pressing the Alt key displays the distance between the target and the cursor to conveniently decide where to move"
+    translated: "During combat, pressing the Alt key will display the distance between the target and the cursor. This helps in deciding where to move"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4220,7 +4220,7 @@
   splits:
   - split: 1
     text: "玩家角色性格的变化，会影响队友之间的互动，也可能改变队友一同冒险的意愿。"
-    translated: "Changes in a player character's personality can affect interactions among teammates and may alter their willingness to embark on adventures together"
+    translated: "The changes in a player character's personality can affect interactions among teammates and may also alter their collective willingness to embark on adventures together"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4260,7 +4260,7 @@
   splits:
   - split: 1
     text: "河洛世界中有许多事物等待玩家去探索，请多留意周遭可以互动的项目。"
-    translated: "In the Heluo world, there are many things for players to explore, so pay close attention to interactive objects around you"
+    translated: "In the world of Heluo, there are many things for players to explore. Please pay close attention to the interactive objects around you"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4280,7 +4280,7 @@
   splits:
   - split: 1
     text: "您可以依照游戏习惯，在环境设定的操作分页中选择是否使用「视角自动跟随鼠标」的模式来进行游戏。"
-    translated: "You can choose to use the Viewpoint Automatically Follows Mouse mode during gameplay based on your game habits in the environment settings page"
+    translated: "You can choose whether to use the View Follows Mouse Automatically mode for gameplay according to your gaming habits within the environment settings' operation pages"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7190,7 +7190,7 @@
   splits:
   - split: 1
     text: "视角移动速度"
-    translated: "Field of View Movement Speed"
+    translated: "Camera Movement Speed"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7200,7 +7200,7 @@
   splits:
   - split: 1
     text: "移动视角水平相反"
-    translated: "Move the perspective in a horizontally opposite direction"
+    translated: "Shift the perspective horizontally to the opposite direction"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7210,7 +7210,7 @@
   splits:
   - split: 1
     text: "移动视角垂直相反"
-    translated: "Reverse the vertical perspective"
+    translated: "Change the perspective vertically to its opposite"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7220,7 +7220,7 @@
   splits:
   - split: 1
     text: "视角自动跟随鼠标"
-    translated: "Camera auto-follows the mouse cursor"
+    translated: "Camera view automatically follows the mouse cursor"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7294,7 +7294,7 @@
   splits:
   - split: 1
     text: "移动键/操作键"
-    translated: "Move Key/Operation Key"
+    translated: "Move Key/Operate Key"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8348,7 +8348,7 @@
   splits:
   - split: 1
     text: "自动放入"
-    translated: "Automatically enter"
+    translated: "Automatic input"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9074,7 +9074,7 @@
   splits:
   - split: 1
     text: "爆击发动时，当次伤害增加 <color=#00ffff>{0} %</color>"
-    translated: "When activated, the current damage increases by {0}%"
+    translated: "When the Critical Attack is activated, damage for that turn increases by {0}%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9084,7 +9084,7 @@
   splits:
   - split: 1
     text: "卸劲发动时，自身伤害减少 <color=#00ffff>{0} %</color>"
-    translated: "When releasing energy, self-damage is reduced by {0} %"
+    translated: "Reduce self-damage by {0}% upon executing the move"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9094,7 +9094,7 @@
   splits:
   - split: 1
     text: "连击发动时，额外回复精力 <color=#00ffff>{0}</color> 点"
-    translated: "Upon activating the combo, restore additional {0} points of energy"
+    translated: "When a combo attack is activated, additional energy is restored by {0} points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9104,7 +9104,7 @@
   splits:
   - split: 1
     text: "反击发动时，以 <color=#00ffff>{0}</color> 回击敌人"
-    translated: "When counterattacking, use {0} to strike back at the enemy"
+    translated: "When countering, strike back at the enemy using {0}"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9114,7 +9114,7 @@
   splits:
   - split: 1
     text: "虚招发动时，对中招者随机附加一种负面状态 <color=#00ffff>{0}</color> 点"
-    translated: "When a feint is executed, it randomly inflicts a negative status effect {0} points on the one hit"
+    translated: "When executing a feigned move, randomly apply one negative status effect to the target for {0} points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9198,7 +9198,7 @@
   splits:
   - split: 1
     text: "{0}无法发动、累计数值"
-    translated: "{0} unable to activate, accumulated value"
+    translated: "{0} cannot activate or accumulate values"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9218,7 +9218,7 @@
   splits:
   - split: 1
     text: "每一点精力所移动的距离减为{0}%"
-    translated: "Every distance moved by the exertion of energy is reduced to {0}%"
+    translated: "Every unit of energy moved covers a distance reduced by {0}%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9248,7 +9248,7 @@
   splits:
   - split: 1
     text: "每回合开始<color=#00ffff> {0} %</color>无法行动"
-    translated: "At the start of each round, {0}% cannot take action"
+    translated: "At the start of each round, {0}% cannot move"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9366,7 +9366,7 @@
   splits:
   - split: 1
     text: "{0} 开始行动"
-    translated: "{0} began to act"
+    translated: "{0} begins to move"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9376,7 +9376,7 @@
   splits:
   - split: 1
     text: "{0} 结束行动"
-    translated: "{0} End Mission"
+    translated: "{0} ends their action"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9516,7 +9516,7 @@
   splits:
   - split: 1
     text: "{0} 发动连击，+{1} AP"
-    translated: "{0} executes combo, +{1} AP"
+    translated: "{0} initiates a combo attack, gaining +{1} AP"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10882,7 +10882,7 @@
   splits:
   - split: 1
     text: "江湖起落，俏梦阁却总能在各方势力间巧妙沉浮，"
-    translated: "The rise and fall of the Jianghu, yet the Charming Dream Pavilion always manages to skillfully navigate among various factions"
+    translated: "The rise and fall of the Jianghu, yet Charming Dream Pavilion always skillfully navigates among various factions"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10962,7 +10962,7 @@
   splits:
   - split: 1
     text: "调动人马支持西川各方正道，"
-    translated: "Mobilize resources to support all factions of righteousness in Xichuan"
+    translated: "Mobilize forces to support the good factions of Xichuan"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10996,7 +10996,7 @@
   splits:
   - split: 1
     text: "动如参商"
-    translated: "Swift as the stars in motion"
+    translated: "Movement as fluid as a crane or heron"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -12254,7 +12254,7 @@
   splits:
   - split: 1
     text: "而巧取旁门左道方法强练尸蛇毒血功，"
-    translated: "And by using cleverly acquired obscure methods, he forcefully trained in the Corpse Serpent Poison Blood Technique"
+    translated: "Yet, they used cunning and unconventional methods to forcefully cultivate the Corpse Serpent Venom Blood Art"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -12308,7 +12308,7 @@
   splits:
   - split: 1
     text: "在战胤飞引起的动荡之下，"
-    translated: "In the turmoil caused by Zhan Yinfei's uprising,"
+    translated: "Under the upheaval caused by Zhan Yinfei,"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -13286,7 +13286,7 @@
   splits:
   - split: 1
     text: "将身旁巧笑倩兮的美人们搂入怀中。"
-    translated: "Embrace the bewitching beauties with roguish smiles at your side into your arms"
+    translated: "Embrace in your arms the lovely women nearby, whose smiles are as skillful and charming as jade"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

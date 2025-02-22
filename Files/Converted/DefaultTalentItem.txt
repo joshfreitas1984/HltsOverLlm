@@ -14,7 +14,7 @@
   splits:
   - split: 1
     text: "柔：卸勁"
-    translated: "Soft：Release Power"
+    translated: "Soft：Release energy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -44,7 +44,7 @@
   splits:
   - split: 1
     text: "巧：虛招"
-    translated: "Adroit：Feigned move"
+    translated: "Skilled：Feigned move"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -54,7 +54,7 @@
   splits:
   - split: 1
     text: "(動巧)"
-    translated: "Dong Qiao"
+    translated: "(Master of Skill)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -64,7 +64,7 @@
   splits:
   - split: 1
     text: "段思平(拙)(10)"
-    translated: "Duan Siping (My humble)  (10)"
+    translated: "Duan Siping (Clumsy)  (10)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -114,7 +114,7 @@
   splits:
   - split: 1
     text: "木初(靜柔)(20)"
-    translated: "Mu Chu (Jingrou) (20)"
+    translated: "Mu Chu (Quietly Gentle)  (20)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -124,7 +124,7 @@
   splits:
   - split: 1
     text: "木奎(拙剛)(29)"
-    translated: "Mu Kui (My humble self)  (29)"
+    translated: "Master Mu Kui (I'm not very good at it yet)  (29)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -144,7 +144,7 @@
   splits:
   - split: 1
     text: "陸常稽(巧動柔)(38)"
-    translated: "Lu Changji (Qiao Dongrou, 38)"
+    translated: "Lu Changji (Skillfully move with softness)  (38)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -154,7 +154,7 @@
   splits:
   - split: 1
     text: "王喆(柔靜)(33)"
-    translated: "Wang Zhe (Soothing Tranquility)  (33)"
+    translated: "Wang Zhe (Soft Serenity)  (33)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -184,7 +184,7 @@
   splits:
   - split: 1
     text: "何紫菀(巧)(16)"
-    translated: "He Ziwang (Qiao)  (16)"
+    translated: "He Ziwang (Skilled)  (16)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -194,7 +194,7 @@
   splits:
   - split: 1
     text: "樊香蝶(巧柔)(26)"
-    translated: "Fan Xiangdie (Qiao Ruo)  (26)"
+    translated: "Fan Xiangdie (Skilled in softness)  (26)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -204,7 +204,7 @@
   splits:
   - split: 1
     text: "何白芍(巧)(17)"
-    translated: "He Baishao (Clever)  (17)"
+    translated: "He Baishao (Skilled)  (17)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -224,7 +224,7 @@
   splits:
   - split: 1
     text: "程雁華(柔)(15)"
-    translated: "Cheng Yan Hua (Ruo)  (15)"
+    translated: "Cheng Yan Hua (Soft)  (15)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -234,7 +234,7 @@
   splits:
   - split: 1
     text: "司徒荊(巧動)(40)"
-    translated: "Stuart Jin (Wield skillfully)  (40)"
+    translated: "Si Tu Jing (Skilful movement)  (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -254,7 +254,7 @@
   splits:
   - split: 1
     text: "第二癡(拙靜剛)(50)"
-    translated: "Second Fool (My humble abode is peaceful)  (50)"
+    translated: "Second Fool (Clumsy silence just now)  (50)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -274,7 +274,7 @@
   splits:
   - split: 1
     text: "東郭強(巧)"
-    translated: "East Village Strong (Clever)"
+    translated: "East Village Strongman (Skilled)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -414,7 +414,7 @@
   splits:
   - split: 1
     text: "柔專精（33）"
-    translated: "Expert in Softness (Level 33)"
+    translated: "Master of Soft Skills (Level 33)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -444,7 +444,7 @@
   splits:
   - split: 1
     text: "巧專精(33)"
-    translated: "Master Craftsman (Level 33)"
+    translated: "Skilled in specialization (33)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -454,7 +454,7 @@
   splits:
   - split: 1
     text: "拙專精(33)"
-    translated: "Unskilled and Inept (Level 33)"
+    translated: "Unskilled, but dedicated to mastering (33)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -464,7 +464,7 @@
   splits:
   - split: 1
     text: "梅虹綺（動巧）"
-    translated: "Mei Hong Qi (dynamically skillful)"
+    translated: "Mei Hong Qi (Dong Qiao)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -564,7 +564,7 @@
   splits:
   - split: 1
     text: "5級拙"
-    translated: "Five-level Clumsiness"
+    translated: "Level 5 Clumsiness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -574,7 +574,7 @@
   splits:
   - split: 1
     text: "10級拙"
-    translated: "Level 10 Clumsy"
+    translated: "Clumsy Level 10"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -584,7 +584,7 @@
   splits:
   - split: 1
     text: "15級拙"
-    translated: "Level 15 Basic"
+    translated: "Clumsy Level 15"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -594,7 +594,7 @@
   splits:
   - split: 1
     text: "21級拙"
-    translated: "21-level awkward"
+    translated: "Clumsy Level 21"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -604,7 +604,7 @@
   splits:
   - split: 1
     text: "5級巧"
-    translated: "Level 5 Skillful"
+    translated: "Level 5 Skill"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -614,7 +614,7 @@
   splits:
   - split: 1
     text: "10級巧"
-    translated: "Level 10 skill"
+    translated: "Level 10 Skillfulness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -624,7 +624,7 @@
   splits:
   - split: 1
     text: "15級巧"
-    translated: "15th-level Expert"
+    translated: "Level 15 Expert"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -634,7 +634,7 @@
   splits:
   - split: 1
     text: "20級巧"
-    translated: "Level 20 Skill"
+    translated: "Level 20 Mastery"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -644,7 +644,7 @@
   splits:
   - split: 1
     text: "5級柔"
-    translated: "Level Five Softness"
+    translated: "Level 5 in Soft"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -664,7 +664,7 @@
   splits:
   - split: 1
     text: "16級柔"
-    translated: "16th Level Soft Style"
+    translated: "16th Level of Softness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -674,7 +674,7 @@
   splits:
   - split: 1
     text: "21級柔"
-    translated: "Level 21 Soft"
+    translated: "21st Level of Softness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -744,7 +744,7 @@
   splits:
   - split: 1
     text: "鱷魚王 紅斑(靜拙柔)"
-    translated: "Reef King, Crimson Patch (Quietly Awkward and Gentle)"
+    translated: "Crocodile King Red Spot (Quiet, clumsy, soft)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -774,7 +774,7 @@
   splits:
   - split: 1
     text: "黑狼王 暴牙(動巧剛)(40)"
-    translated: "Black Wolf King Savage Fang (Swift Agility Strength) (40)"
+    translated: "King of Black Wolves, Fierce Fang (Quick as a trickster)  (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -784,7 +784,7 @@
   splits:
   - split: 1
     text: "狼(動、巧)(11)"
-    translated: "Wolf (Dynamic, Cunning) (11)"
+    translated: "Wolf (Skilled in movement)  (11)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -794,7 +794,7 @@
   splits:
   - split: 1
     text: "狼(動、巧)(23)"
-    translated: "Wolf (Dynamic, Clever) (23)"
+    translated: "Wolf (Moving swiftly, with skill)  (23)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -804,7 +804,7 @@
   splits:
   - split: 1
     text: "山豬王 鬃毛(拙剛)(40)"
-    translated: "Mountain Boar King Tu Mao (Zhu Gang) (40)"
+    translated: "Mountain Boar King, Mane (Clumsily just now)  (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -814,7 +814,7 @@
   splits:
   - split: 1
     text: "山豬(拙)(11)"
-    translated: "Clumsy Pig (Zhu3 Zhu3, Pig) 11"
+    translated: "Pig of the Mountain (Clumsy)  (11)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -824,7 +824,7 @@
   splits:
   - split: 1
     text: "山豬(拙)(23)"
-    translated: "Ugly Pig (Bumbling, Age 23)"
+    translated: "Pig Demon (Clumsy)  (23)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -834,7 +834,7 @@
   splits:
   - split: 1
     text: "熊王 鐵斧(剛拙)(40)"
-    translated: "King Bear, Iron Axe (Gang Zhuo) (40)"
+    translated: "Xiong Wang Tie Fu (Clumsy just now)  (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -894,7 +894,7 @@
   splits:
   - split: 1
     text: "猴王 李三(巧動)(40)"
-    translated: "Monkey King Li San (Skillful at Moving)"
+    translated: "Monkey King, Li San (Skilfully maneuver)  (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -904,7 +904,7 @@
   splits:
   - split: 1
     text: "猴子(巧)(11)"
-    translated: "Monkey (Crafty) (11)"
+    translated: "A monkey (Skilled)  (11)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -914,7 +914,7 @@
   splits:
   - split: 1
     text: "猴子(巧)(23)"
-    translated: "Monkey (Clever) (23)"
+    translated: "The Monkey (Skilled)  (23)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1004,7 +1004,7 @@
   splits:
   - split: 1
     text: "百損(柔巧)(31)"
-    translated: "Wu Sunchong (Soothsaying, Acrobatics) (31)"
+    translated: "A hundred harms (Gracefully skilled)  (31)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1014,7 +1014,7 @@
   splits:
   - split: 1
     text: "凌中嶽(靜拙)(55)"
-    translated: "Lei Zhongyue (Jingze) (55)"
+    translated: "Lin Zhongyue (Cunning Simplicity)  (55)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1024,7 +1024,7 @@
   splits:
   - split: 1
     text: "心良道人(靜柔)(56)"
-    translated: "Daoist Xin Liang (Quiet Grace)  (56)"
+    translated: "Daoist Xin Liang (Quiet Softness)  (56)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1034,7 +1034,7 @@
   splits:
   - split: 1
     text: "凌霜峻(動巧)(30)"
-    translated: "Ling Shuangjun (Agile movement)  (30)"
+    translated: "Ling Shuangjun (Skilled in motion)  (30)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1044,7 +1044,7 @@
   splits:
   - split: 1
     text: "夏札爾(巧動)(48)"
-    translated: "Summer Zhal (Quaodong) (48)"
+    translated: "Summer Zhang (Cleverly maneuver)  (48)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1054,7 +1054,7 @@
   splits:
   - split: 1
     text: "戚如瀟(動巧)(22)"
-    translated: "Qie Ruixiao (Dong Qiao) (22)"
+    translated: "Qi Ru Xiao (Skilled in movement)  (22)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1064,7 +1064,7 @@
   splits:
   - split: 1
     text: "拙剛各半(31)"
-    translated: "Each half is mediocre (31)"
+    translated: "Clumsily split in half (31)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1084,7 +1084,7 @@
   splits:
   - split: 1
     text: "動巧各半(31)"
-    translated: "Equal parts of agility and cleverness (31)"
+    translated: "Skills balanced between skillfulness and luck (31)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1094,7 +1094,7 @@
   splits:
   - split: 1
     text: "巧柔各半(31)"
-    translated: "Skilled in half"
+    translated: "Equally skilled in both softness and skill (31)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1104,7 +1104,7 @@
   splits:
   - split: 1
     text: "柔靜各半(31)"
-    translated: "Half gentle, half calm (31)"
+    translated: "Half soft, half still (31)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1114,7 +1114,7 @@
   splits:
   - split: 1
     text: "靜拙各半(31)"
-    translated: "Half talent, half mediocrity (31)"
+    translated: "Half skilled, half clumsy (31)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1134,7 +1134,7 @@
   splits:
   - split: 1
     text: "動為主，巧為輔(40)"
-    translated: "Act first, think later"
+    translated: "Act with purpose, rely on skill (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1144,7 +1144,7 @@
   splits:
   - split: 1
     text: "靜為主，柔為輔(40)"
-    translated: "Stillness is primary, softness is supportive"
+    translated: "Quietness as the main principle, softness as support (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1154,7 +1154,7 @@
   splits:
   - split: 1
     text: "靜為主，拙為輔(40)"
-    translated: "Stillness is primary, clumsiness is secondary"
+    translated: "Simplicity as the essence, clumsiness as the support (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1164,7 +1164,7 @@
   splits:
   - split: 1
     text: "剛為主，拙為輔(40)"
-    translated: "Let simplicity be the assistant, and complexity be the master"
+    translated: "The master leads, and I follow clumsily (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1184,7 +1184,7 @@
   splits:
   - split: 1
     text: "柔為主，巧為輔(40)"
-    translated: "Softness is primary, cleverness is secondary"
+    translated: "Softness as the main principle, skillfulness as the support (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1194,7 +1194,7 @@
   splits:
   - split: 1
     text: "柔為主，靜為輔(40)"
-    translated: "Softness as the primary principle, stillness as the support"
+    translated: "Softness prevails, stillness supports (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1204,7 +1204,7 @@
   splits:
   - split: 1
     text: "巧為主，動為輔(40)"
-    translated: "Adapt to the situation as primary, and take action as secondary"
+    translated: "Skilledness as the primary focus, action as a support (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1214,7 +1214,7 @@
   splits:
   - split: 1
     text: "巧為主，柔為輔(40)"
-    translated: "Adaptability is key, while gentleness serves as a support"
+    translated: "Skillfulness takes precedence, while gentleness acts as support (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1224,7 +1224,7 @@
   splits:
   - split: 1
     text: "拙為主，靜為輔(40)"
-    translated: "Simple is primary, stillness is the support"
+    translated: "Clumsiness leads, stillness supports (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1234,7 +1234,7 @@
   splits:
   - split: 1
     text: "拙為主，剛為輔(40)"
-    translated: "Deficient as the main, strong as the supporting"
+    translated: "Clumsiness takes precedence, strength serves as support (40)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1244,7 +1244,7 @@
   splits:
   - split: 1
     text: "拙剛(49)"
-    translated: "Just now (a moment ago, a little while ago)"
+    translated: "I'm a bit clumsy (49)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1264,7 +1264,7 @@
   splits:
   - split: 1
     text: "動巧(49)李惑相"
-    translated: "Agile (49) Li Huoxiang"
+    translated: "Cleverly adept (49) Li Huoxiang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1274,7 +1274,7 @@
   splits:
   - split: 1
     text: "巧柔(49)"
-    translated: "Qiaoru (49)"
+    translated: "Skilled in softness (49)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1284,7 +1284,7 @@
   splits:
   - split: 1
     text: "柔靜(49)藍拂衣"
-    translated: "Tranquil Softness (49) Lan Fuyi"
+    translated: "Soft tranquility (49) Lan Fuyi"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1294,7 +1294,7 @@
   splits:
   - split: 1
     text: "靜拙(49)"
-    translated: "Quietly Inept (49)"
+    translated: "Clumsy Stillness (49)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1304,7 +1304,7 @@
   splits:
   - split: 1
     text: "拙剛點滿(57)百里,戰胤飛"
-    translated: "Recently filled with Qi to 57%, Bai Li flew in battle"
+    translated: "My energy just reached full capacity (57) Bai Li, Zhan Yin Fei"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1324,7 +1324,7 @@
   splits:
   - split: 1
     text: "動巧點滿(57)李惑相,山魈鬼王"
-    translated: "Be more nimble! (57) Li Huoxiang, the Mountain Demon Ghost King"
+    translated: "Put in a bit more skill (57) Li Huoxiang, the Mountain Demon Ghost King"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1334,7 +1334,7 @@
   splits:
   - split: 1
     text: "巧柔點滿(57)楊天義"
-    translated: "Delicately caress gently (57) Yang Tianyi"
+    translated: "Master Jiao, enhance your soft skills (57) Yang Tianyi"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1344,7 +1344,7 @@
   splits:
   - split: 1
     text: "柔靜點滿(57)藍拂衣"
-    translated: "Stay calm (57) Lan Fuyi"
+    translated: "Stay still, it's full (57) Lan Fuyi"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1354,7 +1354,7 @@
   splits:
   - split: 1
     text: "靜拙點滿(57)凌中岳"
-    translated: "Quietly and skillfully, one reaches completion (57) Ling Zhongyue"
+    translated: "Quietly clumsy, yet full of potential (57) Ling Zhongyue"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1364,7 +1364,7 @@
   splits:
   - split: 1
     text: "剛柔並濟(66)"
-    translated: "Ying and Yang in harmony (66)"
+    translated: "Blending softness and firmness (66)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1374,7 +1374,7 @@
   splits:
   - split: 1
     text: "巧拙相參(66)"
-    translated: "Artful and clumsy combined (66)"
+    translated: "The interplay of skill and clumsiness (66)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

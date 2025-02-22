@@ -14,7 +14,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "长按移动键（预设WASD）可以移动角色，或是使用键盘箭头键键操作，使用游戏手把的左游戏杆亦可移动角色。"
-    translated: "Long press the movement key (default WASD) to move the character, or use the arrow keys on the keyboard for operation. You can also move the character using the left joystick on a game controller"
+    translated: "Hold down the movement key (default WASD) to move the character, or use the keyboard arrow keys for operation. You can also move the character using the left joystick on a game controller"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -30,7 +30,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "在使用箭头键移动时，同时按下跑步（预设Shift）键可以加速移动，但加速时间的长短与表现方式取决于角色能力值高低，轻功到达一定程度甚至可以施展水上飘。"
-    translated: "When using the arrow keys to move, pressing the run key (pre-set Shift) simultaneously can accelerate movement. The duration and manner of acceleration depend on the character's ability scores; once qinggong reaches a certain level, it can even enable water walking"
+    translated: "When using the arrow keys to move, holding down the sprint key (default Shift) will increase movement speed. The duration of this acceleration and how it is displayed depends on the character's skill level; at a certain level of qinggong, one can even perform water-floating"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -78,7 +78,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "角色可以在各据点的旅店中跟NPC购买休息时间，也可以在野外使用物品栏中的草席或极乐枕来进行休息的动作，休息将可以回复角色的血量、内力与异常状态，休息时间越久恢复效益也越高。"
-    translated: "Characters can purchase rest time at inns in each outpost from NPCs, or they can perform a resting action using the mat or blissful pillow from their inventory outdoors. Resting will restore the character's health, internal energy, and abnormal conditions, with longer rests yielding higher recovery benefits"
+    translated: "Characters can purchase rest time from NPCs in the inns of various outposts, or they can use items such as straw mats or bliss pillows from their inventory to perform a resting action in the wilderness. Resting will restore characters' health, energy, and clear any abnormal statuses, with longer rest durations resulting in higher recovery benefits"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -110,7 +110,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "在这个开放世界中有许多可以与之对话的NPC，只要在允许的距离下按下互动键（预设E键）便可与之对话互动，但要注意与之互动后产生的各种可能事件与后果。"
-    translated: "In this open world, there are many NPCs you can interact with. Just press the interaction key (pre-set E) within an allowed distance to initiate a conversation and interaction with them, but be aware of the various possible events and consequences that may arise afterward"
+    translated: "In this open world, there are many NPCs you can interact with. Simply press the interaction key (default E) within the allowed range to talk and engage with them. Be mindful of the various possible events and consequences that may arise from these interactions"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -142,7 +142,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "开放世界中有许多小对象可以互动，玩家若靠近某些物品后，按下互动键（预设E键）可以拾取至背包中。"
-    translated: "In an open world, there are many small interactable objects. If players approach certain items and press the interaction key (preset E key), they can pick them up into their inventory"
+    translated: "In the open world, there are many small objects that players can interact with. When a player approaches certain items and presses the interaction key (defaulted to E), they can pick them up into their backpack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -190,7 +190,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "当玩家靠近毒虫时可以捕抓，未修练毒术者会中毒。"
-    translated: "When a player approaches a poisonous insect, they can catch it. Those who have not trained in poison techniques will be poisoned"
+    translated: "When players approach the poisonous insects, they can capture them. Those who have not practiced poison techniques will become poisoned"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -222,7 +222,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "当玩家靠近某些野生动物时，可以猎捕他们。"
-    translated: "When the player approaches certain wild animals, they can hunt them"
+    translated: "When players approach certain wild animals, they can hunt them"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -414,7 +414,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "每位队友有自我意识和个性，若玩家作风与队友的风格差异太大，该名队友可能会不愿与玩家为伍，自动离开玩家的队伍。"
-    translated: "Each teammate has self-awareness and personality. If the player's style differs too greatly from a teammate's style, that teammate may be unwilling to team up with the player and automatically leave the player's party"
+    translated: "Each teammate has self-awareness and personality. If a player's style differs too greatly from that of a teammate, the latter may choose not to ally with the player and automatically leave their team"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -638,7 +638,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "制毒法可以将野外捕捉而来的毒物加工炼制，在部分武功修炼时需要消耗这些毒物，若不谙毒术，徒手捕捉野外的毒虫可能会导致中毒。"
-    translated: "Poison-making techniques can process and refine poisons obtained from the wild, which are consumed during some martial arts training. Without knowledge of poison skills, trying to capture poisonous insects by hand may lead to poisoning"
+    translated: "The art of alchemy allows one to process and refine poisons gathered from the wild. These refined poisons are sometimes consumed during certain martial arts training. Without proficiency in poison handling, attempting to capture poisonous creatures by hand could result in poisoning"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -654,7 +654,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "烹饪技巧可以将食材料理成美味的菜肴，食用料理能让玩家获得短暂的增益效果，许多菜肴的食谱藏于民间，玩家不妨可以与NPC多多交流来习得。"
-    translated: "Cooking techniques can turn ingredients into delicious dishes, and eating these dishes grants players short-term bonuses. Many recipes are hidden among the common folk, so it's advisable for players to interact with NPCs to learn them"
+    translated: "Culinary skills can transform ingredients into delicious dishes, and consuming these meals provides players with temporary buffs. Many recipes are hidden within the folklore, so players are encouraged to interact extensively with NPCs to learn them"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -830,7 +830,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "河洛世界会随机发生不同的传言事件，玩家可藉由与NPC打听来获得传言相关讯息，去进行相对应的行动或任务，当然玩家也可以选择不予理会。"
-    translated: "The Heluo world will randomly generate various rumor events. Players can obtain information related to the rumors by interacting with NPCs, and then carry out corresponding actions or tasks. Of course, players also have the option to ignore them"
+    translated: "In the Heluo world, various rumors may spontaneously occur. Players can gather information related to these rumors by interacting with NPCs and decide on corresponding actions or tasks based on that information. Of course, players also have the option to ignore them"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -846,7 +846,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "伴随传言事件的发生，玩家可能会在河洛世界中遭遇特殊的奇遇事件，遇到特殊的角色，玩家可以与之互动而拿到特别的奖励等等。"
-    translated: "Accompanying the occurrence of rumors, players may encounter special events and characters in the Heluo world. Players can interact with these characters to obtain special rewards, among other things"
+    translated: "Following the occurrence of the rumor event, players may encounter special encounters in the Heluo world. They might meet unique characters and interact with them to receive special rewards, among other things"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -894,7 +894,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "传言事件还有各式各样特殊的事件随机发生，玩家不妨可以常常向NPC打听江湖传言，掌握江湖的脉动，不要错过任何江湖事件的消息。"
-    translated: "The rumors of events and various special random occurrences are widespread. Players can often inquire about Jianghu rumors with NPCs to grasp the pulse of the Jianghu, ensuring they don't miss any news related to these events"
+    translated: "Rumors circulate about various special events happening randomly, so players are encouraged to frequently ask NPCs about the Jianghu rumors to grasp the pulse of the Jianghu and not miss any news regarding the events"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -942,7 +942,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "影响角色在战斗中的移动、行为与施展技能招式的重要数值，精力越高的角色在战斗中可以进行更多的行动。"
-    translated: "Influence the character's movement, behavior, and skill casting in combat. The higher a character's vitality, the more actions they can perform in battle"
+    translated: "A character's vitality is a crucial value affecting their movement, behavior, and ability to execute skills during combat. The higher the vitality, the more actions a character can perform in battle"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1000,7 +1000,7 @@
   splits:
   - split: 3
     text: "狂狷值"
-    translated: "Reckless and Chivalrous"
+    translated: "Calmness in the midst of chaos"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1198,7 +1198,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "轻功会影响角色在战斗中的出手排序、移动距离与相关武学感悟的加成效果，同时也会让玩家在大地图行走时更加迅速与有趣，轻功到达一定程度甚至可以施展水上飘。"
-    translated: "Qinggong affects the order of actions in combat, movement range, and enhances martial arts insights. It also makes navigation on the map faster and more interesting for players. At a certain level, qinggong can even be used to float over water"
+    translated: "Qinggong affects a character's action order and movement range in combat, as well as the enhancement effects related to their martial arts insights. It also makes player exploration on large maps faster and more enjoyable; at a high enough level of Qinggong, it can even enable water walking"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1208,7 +1208,7 @@
   splits:
   - split: 3
     text: "外伤"
-    translated: "External injury"
+    translated: "External Injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1400,13 +1400,13 @@
   splits:
   - split: 3
     text: "正邪狂狷对应称号"
-    translated: "Good and Evil, Reckless and Intrepid Corresponding Titles"
+    translated: "Titles corresponding to the attributes of Calm, Wild, Evil, and Good are as follows:"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 4
     text: "这世界存在着因应正邪狂狷或江湖声望高低能产生不同效果的称号，这些称号通常得来不易也非常少见，带来的效果自然也相当惊人。"
-    translated: "This world has titles that produce different effects based on their alignment with good or evil, their eccentricity, and the level of Jianghu reputation. These titles are typically hard to obtain and very rare, so their effects are quite astonishing"
+    translated: "This world is home to titles that produce different effects based on their alignment with good or evil, as well as one's calmness, wildness, or Jianghu reputation. These titles are typically difficult to obtain and exceedingly rare, naturally resulting in astonishing effects"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1518,7 +1518,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "内功武学通常都有强大的被动效果，挑选最适合自己的内功武学好好修习吧！"
-    translated: "Neigong martial arts typically have powerful passive effects. Choose the Neigong martial art that suits you best and practice it diligently!"
+    translated: "Neigong martial arts typically have powerful passive effects. Choose the Neigong martial art that suits you best and practice diligently!"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1582,7 +1582,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "在战斗中玩家必须主动点选并消耗对应内力与精力的机能。"
-    translated: "In battle, players must actively select and consume the corresponding internal energy and strength abilities"
+    translated: "In battle, players must actively select and expend the corresponding internal power and energy to use abilities"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1630,7 +1630,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "提升玩家基础武学数值或是提共被动加成效果的技能。"
-    translated: "Enhance skills that increase the player's basic martial arts values or improve passive effect efficiency"
+    translated: "Enhance the player's base martial arts values or increase the effects of skills that provide passive bonuses"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1646,7 +1646,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "可以装备在反击武学栏中的技能，但需要修行静感悟或是拥有对应的反击能力才能发动反击。"
-    translated: "You can equip skills in the counter-attack martial arts column, but you need to practice stillness and insight or possess corresponding counter-attack abilities to activate a counter-attack"
+    translated: "These skills can be equipped in the Counterattack Martial Arts category, but to activate counterattacks, one must cultivate Stillness Insight or possess a corresponding counterattack ability"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1790,7 +1790,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "每种兵刃与武学对应的附带效果都有所不同，修习巧感悟的角色则在迭加附带效果上会有更好的表现。"
-    translated: "Every type of weapon and martial art has different accompanying effects, and characters who study taiji will perform better in adding these additional effects"
+    translated: "Each weapon and martial art has its own unique additional effects. Characters who study the skill of understanding these nuances will perform better in enhancing these additional effects"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1816,13 +1816,13 @@
   splits:
   - split: 3
     text: "刚感悟"
-    translated: "Just realized/just enlightened"
+    translated: "A newfound realization"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 4
     text: "刚感悟能带来的特技是「暴击」，发动时可以造成敌人大量的伤害，适合喜欢暴力输出的玩家。"
-    translated: "The special skill Critical Hit gained from the ability to feel just after awakening can inflict a large amount of damage on enemies when activated, suitable for players who prefer high-impact output"
+    translated: "The special skill granted by Gang Ganying is called Critical Hit, which deals significant damage to enemies when activated. It is suitable for players who enjoy high-damage output"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1832,13 +1832,13 @@
   splits:
   - split: 3
     text: "柔感悟"
-    translated: "Soft Sensitivity"
+    translated: "Insight into softness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 4
     text: "柔感悟能带来的特技是「卸劲」，发动时可以减免来自敌人的大量伤害，同时柔感悟也会制造较多的仇恨值，适合喜欢担任坦克的玩家。"
-    translated: "Flexibility and Empathy's special skill is Unburden Strength. When activated, it can mitigate a large amount of damage from enemies. Additionally, Flexibility and Empathy also generates significant hate value, making it suitable for players who prefer playing as tanks"
+    translated: "The special skill provided by the Rou Ganyong ability is Xie Jin, which can significantly reduce damage from enemies when activated. Additionally, Rou Ganyong generates a considerable amount of threat value, making it suitable for players who prefer to take on the tank role"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1854,7 +1854,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "动感悟能带来的特技是「连击」，发动时可以恢复大量的精力，让玩家在战斗中得以进行更多的行为，适合喜欢灵活在战场上穿梭的玩家。"
-    translated: "The special technique brought by Dong Gan Ying is Linkage Hit, which recovers a large amount of energy when activated, allowing players to perform more actions during combat. It is suitable for players who enjoy moving flexibly across the battlefield"
+    translated: "The special technique associated with the Kinetic Energy ability is called Chain Attack. When activated, it restores a significant amount of stamina, allowing players to perform more actions during combat. This makes it ideal for players who enjoy swiftly moving around the battlefield"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1864,13 +1864,13 @@
   splits:
   - split: 3
     text: "静感悟"
-    translated: "Deep Insight"
+    translated: "Quiet comprehension"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 4
     text: "静感悟能带来的特技是「反击」，发动时可以自动对敌人发动反击技能伤害，适合喜欢布阵谋略的玩家。"
-    translated: "The special skill brought by Jing Geng Neng is Counterattack, which automatically launches a counterattack skill against enemies when activated, suitable for players who enjoy strategic formations and tactics"
+    translated: "The special technique Counterattack brought by Jing Ganying allows for automatic retaliation damage against enemies when activated, making it ideal for players who enjoy strategic formations and tactics"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1880,13 +1880,13 @@
   splits:
   - split: 3
     text: "巧感悟"
-    translated: "Keen Perception"
+    translated: "Skilled insight"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 4
     text: "巧感悟能带来的特技是「虚招」，发动时可以造成敌人的大量负面状态，适合喜欢控场并玩弄对手的玩家，此外，巧感悟会让玩家拥有更好的资质，能在经验值的获取上更加轻松。"
-    translated: "Jack's special skill Feint can cause the enemy to enter a large number of negative states when activated, making it suitable for players who like crowd control and manipulation. Additionally, Jack enhances the player's aptitude, allowing them to gain experience points more easily"
+    translated: "The special technique brought by Kuai Gan is called Feint, which, when activated, can inflict a large amount of negative status on the enemy. It suits players who enjoy controlling the battlefield and manipulating their opponents. Additionally, Kuai Gan enhances the player's aptitude, making it easier to gain experience points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1902,7 +1902,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "拙感悟不会带来任何特技，但可以提升玩家的基础体魄、内功与施展武学招式的距离，也能避免敌人其他特技的发动，适合喜欢追求自身基础能力强化的玩家。"
-    translated: "The insight I've gained won't grant any special abilities, but it can enhance a player's basic strength, Neigong, and the range for deploying martial arts techniques. It also helps avoid triggering enemies' special abilities, making it ideal for players who prefer to focus on strengthening their foundational skills"
+    translated: "A clumsy understanding may not grant any special abilities, but it can enhance the player's basic physical strength, Neigong, and the distance for executing martial arts techniques. It also helps avoid the activation of an enemy's other skills, making it suitable for players who enjoy pursuing the enhancement of their foundational abilities"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1928,13 +1928,13 @@
   splits:
   - split: 3
     text: "地图卷动"
-    translated: "Map Unfurls"
+    translated: "The map begins to unfurl"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 4
     text: "在任务接口，使用鼠标拖曳可以卷动地图，若使用键盘或游戏手把操作时，也能够控制地图的卷动。"
-    translated: "On the task interface, you can scroll the map by dragging with the mouse. When using the keyboard or game controller, you can also control the scrolling of the map"
+    translated: "In the task interface, you can scroll the map by dragging with the mouse. When using a keyboard or game controller, you can also control the scrolling of the map"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2110,7 +2110,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "在任务列表点击任务，可以追踪该任务，会呈现在追踪的任务列表中。若该任务有地点提示，也会将地图卷动置该位置方便玩家辨认。"
-    translated: "In the task list, click on a task to track it. It will appear in the tracked tasks list. If there is a location hint for this task, the map scroll will automatically move to that position to help players identify"
+    translated: "To track a task, click on it in the task list. It will then appear in the tracking tasks list. If there is a location hint associated with the task, the map scroll will be automatically moved to that position for easier identification by players"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2238,7 +2238,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "本游戏的战斗机制为回合制时序战斗，每个战斗单位含有行动点数(AP)，各单位消耗各自的行动点数执行战斗指令，直到达成胜利条件或失败条件为止，才会结束战斗。"
-    translated: "This game's battle mechanism operates on a turn-based sequential combat system, where each combat unit possesses action points (AP). Each unit expends its own action points to execute combat commands, and the battle continues until victory or failure conditions are met"
+    translated: "This game features a turn-based sequential battle system, where each combat unit has action points (AP) Each unit consumes its own action points to execute battle commands, continuing until the victory or failure conditions are met before the fight ends"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2254,7 +2254,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "依照战斗接口上方的顺序由左至右轮流操作，排序的规则是依照各角色的能力，一旦行动点数完全消耗，就会自动结束该单位在此回合的行动，玩家亦可以利用休息操作强制结束该单位的行动。"
-    translated: "According to the order of operation at the top of the battle interface, from left to right in sequence. The sorting rule is based on each character's abilities. Once action points are fully consumed, the unit's actions for this round will automatically end. Players can also use a rest operation to forcibly end that unit's turn"
+    translated: "Characters take turns in battle according to the order from left to right at the top of the interface. The sequence is determined by each character's abilities. Once all action points are depleted, the unit automatically ends its actions for this turn. Players can also use a rest action to forcibly end the unit's actions"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2270,7 +2270,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "部份技能可能含有能够改变时序的效果，例如击退时序能将受击单位的顺序往后推，晕眩效果有机会使该单位在该回合无法操作，有些能获得增益效果的技能也可能让玩家取得下一回合的先手机会。"
-    translated: "Some skills may have time-altering effects, such as the ability to push back units in sequence or disorient a unit, preventing it from acting during that turn. Certain skills that provide buffs might also allow players to take the first move in the next round"
+    translated: "Some skills may have effects that alter the sequence of events. For example, a pushback effect can move the target unit later in the sequence, while dizziness has the chance to prevent that unit from acting during its turn. Some skills that grant beneficial effects might also give players an advantage in securing the first action on the next turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2286,7 +2286,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "行动点数为每个战斗单位执行战斗指令的允许值，包含移动、攻击、使用道具、更换武器等行为均会消耗行动点数，每个单位的初始点数以及每回合回复量，皆受到角色自身的能力值所影响，部份减益效果也会造成行动点数的变化。"
-    translated: "Each combat unit has an allowed value of action points, which are consumed by actions such as moving, attacking, using items, and changing weapons. The initial number of action points and the recovery amount per turn for each unit are influenced by the character's ability scores, and some debuffs can also cause changes in action points"
+    translated: "Action Points represent the allowable value for each combat unit to execute battle commands. Actions such as moving, attacking, using items, and changing weapons all consume Action Points. The initial number of points and their recovery amount per turn are influenced by the character's ability values. Some detrimental effects can also cause changes in Action Points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2302,7 +2302,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "轮到每个单位操作时默认会处于等待移动的状态，玩家可以利用鼠标、键盘或游戏手把选择要移动到的地点，移动的距离越远将会消耗越多的行动点数。战斗中没有限定角色单回合内的移动次数，可以自由移动到行动点数耗尽为止。"
-    translated: "When it's a unit's turn, it will automatically be in the waiting move state. Players can use the mouse, keyboard, or game controller to select the destination point for movement. The farther the distance moved, the more action points will be consumed. There is no limit on the number of movements an actor can make within a single round during combat; they can freely move until their action points are exhausted"
+    translated: "When it's a unit's turn, they automatically enter a waiting state for movement. Players can use the mouse, keyboard, or game controller to select their destination and move. The further the distance, the more action points will be consumed. In combat, there is no limit on how many times a character can move in a single turn; they can move freely until all action points are exhausted"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2318,7 +2318,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "攻击可以让玩家选择要攻击的目标，并造成受击单位伤害的指令，可以点击战斗接口下方的技能栏，或是按下对应的快捷键选择要施放的技能，接着选择攻击的目标来进行攻击，若玩家所剩余的行动点数小于技能所需的行动点数则无法施放。攻击指令亦没有次数限制，可以自由攻击到行动点数耗尽为止。"
-    translated: "Attack commands allow players to choose their target and deal damage to the affected unit. To use an attack skill, click on the skills bar below the combat interface or press the corresponding shortcut key to select the skill. Then, choose the target to perform the attack. If a player's remaining action points are less than the skill's required action points, they cannot cast it. Attack commands have no usage limit and can be used freely until all action points are exhausted"
+    translated: "The attack command allows players to choose a target for their attack, dealing damage to the affected unit. Players can select the skill they wish to cast by clicking on the skills bar below the combat interface or pressing the corresponding shortcut key. After selecting the skill, they must then choose their attack target. If the player's remaining action points are less than the required action points for the skill, it cannot be cast. The attack command has no usage limit and can be used freely until all action points are exhausted"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2334,7 +2334,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "战斗接口下方的使用道具指令可以打开玩家的背包，在背包中能够使用丹药或是更换武器，各项操作需要耗不同数量的行动点数。部份战斗可能会有使用丹药的次数限制，甚至是禁止使用等规则。"
-    translated: "The command to use items below the combat interface opens the player's backpack. Within the backpack, players can use elixirs or change weapons, with each action requiring different amounts of action points. Some battles may impose limits on the number of times elixirs can be used, or even prohibit their use entirely"
+    translated: "In the battle interface, below is a command for using items which opens the player's inventory. Within the inventory, players can use herbs or switch weapons. Different actions consume varying amounts of action points. Some battles may have restrictions on how often herbs can be used, and in certain cases, their usage might even be prohibited"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2350,7 +2350,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "战斗接口下方的更换快捷指令可以打开玩家已修练武功列表，来更换快捷键上的技能设定，且不需要消耗行动点数，玩家可以依照各自喜好调整技能快捷栏上的技能顺序。"
-    translated: "At the bottom of the combat interface, the shortcut command for switching can open a list of martial arts that players have cultivated. This allows them to change the skill settings on the shortcut bar without spending action points. Players can adjust the order of skills on the skill quick access bar according to their preferences"
+    translated: "Below the combat interface, there is an option to switch quick commands. Players can access their mastered martial arts list and change the skill settings on their hotkeys without expending action points. Players can adjust the order of skills in the skill quick bar according to their preferences"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2366,7 +2366,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "战斗接口下方的等待指令，可以让目前战斗单位的时序延后操作，此操作会消耗行动点数，但回合结束后该单位会回归到原先的时序位置。"
-    translated: "Below the combat interface, there is a Wait Command that allows you to delay the current combat unit's turn. This action consumes action points, but at the end of the round, the unit will return to its original position in the sequence"
+    translated: "At the bottom of the combat interface, there is a command to delay orders for units currently engaged in battle. This operation consumes action points but ensures that at the end of the turn, the unit will return to its original sequence position"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2398,7 +2398,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "特技值是指角色在战斗中累积特殊能力的机率值后自动发动效果的操作，如爆击、连击、反击、卸劲、虚招等。"
-    translated: "Special skill values represent the probability that a character will automatically trigger special effects during combat after accumulating these values, such as critical hits, combo attacks, counterattacks, force release, and feigned moves"
+    translated: "Special Skills Value refers to the probability value accumulated by a character during combat, which automatically triggers effects such as critical hits, combo attacks, counterattacks, force release, and feints"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2414,7 +2414,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "爆击发动时，能使输出的伤害值加乘一定的倍率，使受击单位承受更高的伤害值。"
-    translated: "When the Critical Hit is activated, it amplifies the damage output by a certain multiplier, causing the target to suffer increased damage"
+    translated: "When the Baoji is activated, it amplifies the damage output by a certain multiplier, causing the target unit to suffer greater damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2430,7 +2430,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "连击发动时，能让施放技能者回复消耗的行动点数，使该单位能够再次执行更多的指令。"
-    translated: "When Continuous Strike is activated, it restores the action points spent by the skill user, allowing that unit to issue more commands"
+    translated: "When the combo move is activated, it allows the skill user to recover the consumed action points, enabling that unit to execute additional commands"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2446,7 +2446,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "反击是单位受到伤害时依照机率发动，发动时会自动回击攻击自己的对象。"
-    translated: "Counterattack is activated based on a probability when the unit takes damage, and it automatically strikes back at the attacker"
+    translated: "Counterattack is triggered automatically when the unit takes damage, based on a probability. When activated, it will automatically strike back at the attacker"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2462,7 +2462,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "卸劲是单位受到伤害时依照机率发动，发动时会减少自身受到的伤害值。"
-    translated: "Unloading force is activated according to a probability when the unit takes damage, reducing the amount of damage received"
+    translated: "Disengage is triggered when the unit receives damage, based on a certain probability. Upon activation, it reduces the amount of damage received by the unit itself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2478,7 +2478,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "虚招发动时，会随机附加受击单位负面状态。"
-    translated: "When the feint is activated, it will randomly inflict a negative status on the targeted unit"
+    translated: "When deploying a feint, it randomly inflicts negative status on the unit that is hit"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2494,7 +2494,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "减益状态为战斗中被对方附加、或是使用部分药品产生的副作用，累积过高的减益效果会使玩家能力降低、无法移动等，可以服用对应的药物或食物解除或减缓之。"
-    translated: "Debuff status refers to negative effects applied during battle by an opponent or as a side effect of using certain items. Accumulating too high a debuff can reduce the player's abilities and may prevent movement, among other issues. The effects can be removed or mitigated by consuming the appropriate medicines or foods"
+    translated: "Debuff states are effects applied during battle by an opponent or caused by the use of certain items, resulting in negative side effects. If the accumulated debuff effect is too high, it can reduce a player's abilities and prevent movement. These can be alleviated or mitigated by consuming the corresponding medicine or food"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2520,7 +2520,7 @@
   splits:
   - split: 3
     text: "外伤"
-    translated: "External injury"
+    translated: "External Injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2552,7 +2552,7 @@
   splits:
   - split: 3
     text: "封穴"
-    translated: "Seal the Acupoints"
+    translated: "Sealed Acupoints"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2568,7 +2568,7 @@
   splits:
   - split: 3
     text: "迷惑"
-    translated: "Confused"
+    translated: "Confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2590,7 +2590,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "有机率会跳过战斗回合，数值越高越容易发动，超过50点以上会无法施展反击。"
-    translated: "There is a chance to skip the combat turn, and higher values make it easier to trigger. If it exceeds 50 points, counterattacks cannot be executed"
+    translated: "There is a chance to skip the battle turn, with higher values making it easier to activate; exceeding 50 points makes it impossible to perform counterattacks"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2600,13 +2600,13 @@
   splits:
   - split: 3
     text: "分筋"
-    translated: "Dislocate"
+    translated: "Muscle Damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 4
     text: "降低角色的移动力，超过50点时会无法发动连击。"
-    translated: "Lowering a character's mobility, exceeding 50 points will make them unable to execute combos"
+    translated: "When a character's mobility is reduced by more than 50 points, they will be unable to perform combos"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2616,13 +2616,13 @@
   splits:
   - split: 3
     text: "错骨"
-    translated: "Joint Manipulation"
+    translated: "Bone Damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 4
     text: "降低角色的攻击力，超过50点时会无法发动暴击。"
-    translated: "Reduce the character's attack power; when it exceeds 50 points, they will be unable to trigger a critical hit"
+    translated: "Lower the character's attack power, and if it exceeds 50 points, they will be unable to trigger a critical hit"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2632,7 +2632,7 @@
   splits:
   - split: 3
     text: "冰封"
-    translated: "Icebound"
+    translated: "Frozen"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3294,7 +3294,7 @@
     flaggedGlossaryOut: ""
   - split: 4
     text: "短兵为近战武器，轻巧的短兵在伤害上也不亚于其他兵器。"
-    translated: "Short weapons are melee weapons, and lightweight short weapons can be just as damaging as other types of weapons"
+    translated: "Short weapons are designed for close combat, and the agile short weapons can be just as damaging as other types of weapons"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

@@ -79,12 +79,9 @@ public class TranslationWorkflowTests
             // Manual
             {  "接仙篇", "Chapter of Receiving Immortality" },
             {  "奖励：", "Reward:" },
-            {  "进度：", "Progress:" },
-            {  "刚勇", "Brave and Bold" },
+            {  "进度：", "Progress:" },           
             {  "迁识", "Transfer of Consciousness" },
-            {  "气血", "Lifeforce" },
-            {  "狂狷", "Wild and Good" },
-            {  "阴阳", "Yin and Yang" },
+            {  "气血", "Lifeforce" },  
             {  "姑娘", "Young lady" },
             {  "-请便", "Excuse me" },
             {  "{0}{1} 经验", "{0} {1} Experience" },
@@ -109,9 +106,11 @@ public class TranslationWorkflowTests
         //Use this when we've changed a glossary value that doesnt check hallucination
         var newGlossaryStrings = new List<string>
         {
-            //"吓！",
-            //"咳咳",
-            //"咳咳咳"
+            //"狂",
+            //"邪",
+            //"正",
+            //"阴",
+            //"阳",
         };
 
         var mistranslationCheckGlossary = new Dictionary<string, string>();
@@ -155,7 +154,8 @@ public class TranslationWorkflowTests
 
                     // Manual Retrans trigger
                     //if (line.LineNum > 0 && line.LineNum < 1000 && outputFile.Contains("NpcTalkItem.txt"))
-                    //    split.FlaggedForRetranslation = true;
+                    //    split.FlaggedForRetranslation = true
+                    
 
                     if (CheckSplit(newGlossaryStrings, manual, split, outputFile, hallucinationCheckGlossary, mistranslationCheckGlossary, dupeNames, config))
                         recordsModded++;

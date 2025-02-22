@@ -158,7 +158,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若待在何紫菀周围2单位距离内，每回合中毒8点"
-    translated: "If you are within a distance of 2 units from He Ziwang, you will be poisoned for 8 points each turn"
+    translated: "If you remain within 2 units of distance from He Ziwang each round, you will be poisoned for 8 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -174,7 +174,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若待在何紫菀周围4单位距离内，每回合中毒8点、队友降低5点"
-    translated: "If you remain within a 4-unit distance of He Ziwang, you will be poisoned for 8 points and your allies' abilities will decrease by 5 points each round"
+    translated: "If you stay within 4 units of distance from He Ziwang per turn, you will be poisoned for 8 points and your allies' strength will decrease by 5 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -414,7 +414,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "自身轻功越高，闪避率越高；背袭时额外造成目标15点晕眩"
-    translated: "The higher one's qinggong, the higher their evasion rate; when executing a backstab, it additionally causes the target to be stunned for 15 points"
+    translated: "As one's qinggong proficiency increases, their evasion rate also rises; during a back attack, it additionally causes the target to suffer from 15 points of dizziness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -462,7 +462,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "攻击对象为男性时，有25%机率造成对方15点晕眩、15点迷惑"
-    translated: "When attacking a male target, there is a 25% chance to inflict the opponent with 15 points of dizziness and 15 points of confusion"
+    translated: "When the target is male, there is a 25% chance of causing them to experience 15 points of dizziness and 15 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -478,7 +478,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "攻击对象为男性时，技能伤害提升，有25%机率造成对方15点晕眩、15点迷惑"
-    translated: "When the target is male, the skill damage increases, with a 25% chance to inflict 15 points of dizziness and 15 points of confusion on the opponent"
+    translated: "When the target is male, the skill damage increases. There is a 25% chance of causing the opponent to experience 15 points of dizziness and 15 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -494,7 +494,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动卸劲时，能卸掉自身所受60%伤害；每一次出手都会让敌人更倾向于将目标转为自己"
-    translated: "When activating the release of energy, one can absorb 60% of their own inflicted damage; each time they attack, it makes enemies more likely to redirect their target towards themselves"
+    translated: "When initiating a move to relieve pressure, one can mitigate 60% of the damage they have sustained; each time an action is taken, it makes the enemy more likely to shift their target towards oneself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -510,7 +510,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动卸劲时，能卸掉自身所受80%伤害；每一次出手都会让敌人更倾向于将目标转为自己"
-    translated: "When unleashing power, one can reduce their own received damage by 80%; each time they strike, it makes the enemy more inclined to switch targets to them"
+    translated: "When exerting force, one can absorb 80% of their own inflicted damage; each strike makes the opponent more likely to turn their target towards themselves"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -526,7 +526,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动四两拨千金、借力打力时，对敌人造成的伤害更大"
-    translated: "When employing Four ounces to move a thousand gold and Using leverage to apply force, the damage inflicted on the enemy is greater"
+    translated: "When using move four taels to dislodge a thousand ounces and leveraging external force, the damage inflicted on the enemy is greater"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -542,7 +542,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动四两拨千金、借力打力时，对敌人造成的伤害更大；减伤10%"
-    translated: "Activate Move Two Liang to Win a Qian Jin, leveraging external force against the enemy; increases damage dealt and reduces damage taken by 10%"
+    translated: "When moving four taels to push a thousand ounces and using leverage, the damage inflicted on an enemy is greater; reduces injury by 10%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -590,7 +590,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合自身攻击力+10%，至多累积50%；每回合自身内伤值+10"
-    translated: "Each round, self-attack power increases by 10%, with a maximum cumulative increase of 50%; each round, self-internal injury value increases by 10"
+    translated: "Each turn, increase your own attack power by 10%, up to a maximum cumulative increase of 50%. Each turn, also increase your own internal injury value by 10"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -606,7 +606,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合自身攻击力+10%，至多累积50%；发动爆击时，爆击伤害额外增加25%"
-    translated: "Each round, self-attack power increases by 10%, up to a maximum cumulative increase of 50%; when triggering a critical hit, the critical hit damage is additionally increased by 25%"
+    translated: "At the beginning of each turn, increase your own attack power by 10%, with a maximum cumulative bonus of 50%. When triggering a critical hit, the damage from the critical hit is additionally increased by 25%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -622,7 +622,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合自身攻击力+10%，至多累积80%；发动爆击时，爆击伤害额外增加30%"
-    translated: "Each round, self-attack power increases by 10%, cumulative up to a maximum of 80%; when critical hit is triggered, critical hit damage increases by an additional 30%"
+    translated: "Each turn, increase your attack power by 10%, with a maximum cumulative increase of 80%. When triggering a critical hit, the critical hit damage is additionally increased by 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -670,7 +670,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若施展带有冰封效果的武功，招式威力更强"
-    translated: "If one practices martial arts techniques that have an ice seal effect, the power of the moves becomes stronger"
+    translated: "If one were to perform a martial art technique with an ice-sealing effect, the power of the move would be even greater"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -686,7 +686,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若施展带有冰封效果的武功，招式威力变得更强大"
-    translated: "If one practices martial arts with an ice-sealing effect, the techniques become more powerful"
+    translated: "If you use martial arts techniques that incorporate a freezing effect, the power of your moves becomes even more formidable"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -702,7 +702,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动爆击时，回复精力3点；所有友方获得状态「风王阵」"
-    translated: "Upon unleashing a burst attack, restore 3 energy points; all allies gain the status Wind King Formation"
+    translated: "When activating a full-force attack, restore 3 energy points; all allies gain the Wind King Formation status"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -734,7 +734,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每次攻击，有机会让敌人陷入混乱，三回合内敌我不分。敌人的晕眩、迷惑值越高，陷入混乱的机率越高"
-    translated: "Each attack has a chance to cause the enemy to become disoriented, blurring the lines between ally and foe for three turns. The higher the enemy's dizziness and confusion values, the greater the likelihood of becoming disoriented"
+    translated: "Each attack has a chance to confuse the enemy, blurring the lines between friend and foe for three turns. The higher the dizziness and confusion values of the enemy, the greater the likelihood they will be thrown into disarray"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -750,7 +750,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每次攻击，有机会让敌人陷入混乱，四回合内敌我不分。敌人的晕眩、迷惑、中毒值越高，陷入混乱的机率越高"
-    translated: "Each attack has a chance to make the enemy confused, making it impossible to distinguish between friend and foe for four turns. The higher the values of dizziness, confusion, and poison on the enemy, the higher the probability of them becoming confused"
+    translated: "Each time an attack is made, there's a chance to confuse the enemy so that friend and foe cannot be distinguished for four turns. The higher the enemy's dizziness, confusion, and poison levels, the greater the likelihood of them falling into chaos"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1102,7 +1102,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每次从目标正面进行攻击时，有25%机率使目标累积10点错骨；每次从目标侧面、背面进行攻击时，自身有25%机率累积迷惑10点"
-    translated: "When attacking the target from the front, there is a 25% chance to accumulate 10 points of joint manipulation on the target; when attacking the target from the side or back, there is a 25% chance for the attacker to accumulate 10 points of confusion"
+    translated: "When attacking a target from the front, there is a 25% chance to inflict an accumulated bone damage of 10 points on the target. When attacking a target from the side or back, there is a 25% chance for oneself to accumulate 10 confusion points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1342,7 +1342,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动爆击时，消除自身所有负面状态25点"
-    translated: "Upon unleashing a critical strike, eliminate all negative states from oneself by 25 points"
+    translated: "Activate Burst Attack to eliminate all negative statuses affecting self by 25 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1374,7 +1374,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "何白芍周围2单位距离内敌军，每回合累积中毒值12点、迷惑值6点"
-    translated: "Enemy units within 2-unit range of He Baishao accumulate 12 points of poison and 6 points of confusion each turn"
+    translated: "Every round, enemy units within a 2-unit radius of He Baishao accumulate 12 points of poison and 6 points of confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1438,7 +1438,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动爆击时，自身爆击率提升20%，并对自身与范围2格内友方附加「战意高昂」"
-    translated: "When activating a critical hit, the self-critical hit rate is increased by 20%, and it also applies High Morale to oneself and allies within a range of 2 squares"
+    translated: "When activating the powerful strike, increase own critical hit rate by 20%, and grant High Spirits to oneself and friendly units within a range of two squares"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1502,7 +1502,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "攻击时目标每累积中毒值1点，伤害增加1%"
-    translated: "When attacking, each accumulated point of poison on the target increases damage by 1%"
+    translated: "During the attack, each accumulated point of poison value on the target increases damage by 1%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1576,13 +1576,13 @@
   splits:
   - split: 1
     text: "武学障(拙)"
-    translated: "Wu Xue Zhang (My humble)"
+    translated: "Martial Arts Block (Humble)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "武学障(拙)"
-    translated: "Wu Xue Zhang (My humble)"
+    translated: "Martial Arts Block (Humble)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1592,13 +1592,13 @@
   splits:
   - split: 1
     text: "武学障(静)"
-    translated: "The Martial Arts Block (Still)"
+    translated: "Martial arts impediment (Quiet)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "武学障(静)"
-    translated: "The Martial Arts Block (Still)"
+    translated: "Martial arts impediment (Quiet)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1608,13 +1608,13 @@
   splits:
   - split: 1
     text: "武学障(柔)"
-    translated: "The obstacle of martial arts (Soft, gentle)"
+    translated: "The martial arts barrier (Soft)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "武学障(柔)"
-    translated: "The obstacle of martial arts (Soft, gentle)"
+    translated: "The martial arts barrier (Soft)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1624,13 +1624,13 @@
   splits:
   - split: 1
     text: "武学障(巧)"
-    translated: "Wuxue zhang (Skilled)"
+    translated: "A martial arts barrier (Skilled)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "武学障(巧)"
-    translated: "Wuxue zhang (Skilled)"
+    translated: "A martial arts barrier (Skilled)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1640,13 +1640,13 @@
   splits:
   - split: 1
     text: "武学障(动)"
-    translated: "The Martial Arts Barrier (Move)"
+    translated: "The martial arts barrier (Move)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "武学障(动)"
-    translated: "The Martial Arts Barrier (Move)"
+    translated: "The martial arts barrier (Move)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1656,13 +1656,13 @@
   splits:
   - split: 1
     text: "武学障(刚)"
-    translated: "Wuxue zhang (Just now)"
+    translated: "Wu Xue Zhang (Strong)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "武学障(刚)"
-    translated: "Wuxue zhang (Just now)"
+    translated: "Wu Xue Zhang (Strong)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1678,7 +1678,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "攻击时目标累积中毒值2点、外伤值2点、分筋值2点"
-    translated: "During an attack, the target accumulates 2 points of poison value, 2 points of external injury value, and 2 points of tendon damage value"
+    translated: "During an attack, the target accumulates 2 points of poisoning, 2 points of external injury, and 2 points of muscle damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1726,7 +1726,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动四两拨千金时，发动对象累积内伤值10点；若对象为男性，额外再累积内伤值10点"
-    translated: "When activating Move Four Liang to Generate a Thousand Jin, the target accumulates an internal injury value of 10 points. If the target is male, they additionally accumulate an extra 10 points of internal injury"
+    translated: "When utilizing the Move Four Liang to Displace a Qian Jin technique, the target accumulates 10 points of internal injuries. If the target is male, an additional 10 points are accumulated"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1742,7 +1742,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动虚招时，25%机率对该目标附加「阎王索命」，每回合减少内功3点"
-    translated: "When launching a feint, there is a 25% chance to apply Yanwang Somo to the target, reducing their Neigong by 3 points each turn"
+    translated: "When activating the feint, there is a 25% chance to apply King Yama's Demise to the target, reducing their Neigong by 3 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1758,7 +1758,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "有10%机率闪避攻击；发动虚招时，额外增加自身精力3点"
-    translated: "There is a 10% chance to dodge the attack; when performing an evasive maneuver, the practitioner's energy increases by an additional 3 points"
+    translated: "There is a 10% chance to dodge attacks; when executing an empty move, the character gains an additional 3 points of energy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1806,7 +1806,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动连击时，对目标额外造成1次伤害"
-    translated: "During the combo, deal an additional hit to the target"
+    translated: "When launching a combo attack, it inflicts an additional 1 point of damage on the target"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1822,7 +1822,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "自身气血愈少，爆击时伤害愈高(每少10%气血，爆击时额外伤害增加10%)"
-    translated: "The less your lifeforce, the higher the damage dealt during a critical strike (for every 10% reduction in lifeforce, critical strike damage increases by an additional 10%)"
+    translated: "The less one's lifeforce, the greater the damage upon a burst attack (For every 10% decrease in lifeforce, the bonus damage during a critical hit increases by an additional 10%)"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1854,7 +1854,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每移动一次，招式伤害提升5%，至多50%"
-    translated: "Each time a move is made, the technique's damage increases by 5%, up to a maximum of 50%"
+    translated: "Each time you move, the technique's damage increases by 5%, up to a maximum of 50%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1902,7 +1902,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动爆击时，额外回复自身精力3点"
-    translated: "When activating a critical strike, additionally restore 3 points of one's own energy"
+    translated: "During the launch of a devastating attack, restore 3 additional energy points to oneself"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1934,7 +1934,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每移动一次，提升连击率与爆击率8%"
-    translated: "Each time you move, increase the combo rate and critical hit rate by 8%"
+    translated: "For each move, increase the combo rate and critical hit rate by 8%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1950,7 +1950,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动攻击时，若目标为道德低落之人，招式伤害提升75%"
-    translated: "When launching an attack, if the target is a morally degenerate person, damage from techniques increases by 75%"
+    translated: "When launching an attack on a target with low morality, the move's damage is increased by 75%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1966,7 +1966,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "自身闪避率提升，攻击时造成目标8点晕眩"
-    translated: "Increases own evasion rate, causing the target to be dazed for 8 points when attacked"
+    translated: "Increases evasion; causes 8 points of dizziness to the target upon attack"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1982,7 +1982,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "自身闪避率提升，攻击时造成目标8点迷惑"
-    translated: "When activated, self-evasion rate increases; when attacking, the target suffers 8 points of confusion"
+    translated: "Increases self-dodge rate and causes an 8-point confusion effect on the target when attacking"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2046,7 +2046,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合提升闪避率3%，最高15%；发动连击时，额外提升虚招率9%"
-    translated: "Each round increases dodge rate by 3%, up to a maximum of 15%; when launching a combo, additionally increase feint rate by 9%"
+    translated: "Each turn, increase evasion rate by 3%, up to a maximum of 15%. When triggering a combo attack, additionally increase feinting skill by 9%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2062,7 +2062,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "每回合提升闪避率3%，最高15%；发动连击时，额外提升爆击率9%"
-    translated: "Each round increases dodge rate by 3%, maximum 15%; when activating combo, additional increase to critical hit rate by 9%"
+    translated: "Each round, increase dodge rate by 3%, up to a maximum of 15%. When activating the combo, additionally boost critical hit rate by 9%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2094,7 +2094,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动反击后，自身攻击力增加5%，至多累积50%"
-    translated: "After launching a counterattack, the character's attack power increases by 5%, up to a maximum cumulative increase of 50%"
+    translated: "After initiating a counterattack, increase your own attack power by 5%, up to a maximum accumulation of 50%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2142,7 +2142,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若发动反击、守株待兔、黄雀在后，额外减少目标2点精力"
-    translated: "Should a counterattack, waiting by the stump for rabbits, or cuckoos after swallows occur, additionally reduce the target's 2 points of energy"
+    translated: "If you launch a counterattack, stand guard by the stump waiting for rabbits, or if someone is watching your back, reduce the target's energy points by 2"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2174,7 +2174,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动卸劲后，增加自身招式伤害5%，最高30%"
-    translated: "After releasing Qi, increase damage of own techniques by 5%, up to a maximum of 30%"
+    translated: "Activate to enhance your technique damage by 5%, up to a maximum of 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2190,7 +2190,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动爆击后，增加自身招式伤害5%，最高50%"
-    translated: "After activating a critical hit, increase the damage of your techniques by 5%, up to a maximum of 50%"
+    translated: "After initiating a burst attack, increase your own technique damage by 5%, up to a maximum of 50%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2206,7 +2206,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "发动虚招后，提升自身连击率15%"
-    translated: "After executing a feint, increase the self combo rate by 15%"
+    translated: "After executing a feint, increase one's critical hit rate by 15%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2238,7 +2238,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "背袭时额外造成目标15点晕眩"
-    translated: "Backsweep deals an additional 15 points of dizziness to the target"
+    translated: "When executing a backstab, it inflicts an additional 15 points of dizziness on the target"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2750,7 +2750,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "寡妇制造者的攻击会造成敌人严重的内伤。"
-    translated: "Widow Maker's attack causes severe internal injuries to the enemy"
+    translated: "The Widowmaker's attack will cause severe internal injuries to the enemy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2798,7 +2798,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "黑狼王的利齿会对敌人造成严重的外伤与感染毒伤。"
-    translated: "Black Wolf King's sharp teeth can cause severe external injuries and infectious poison damage to enemies"
+    translated: "The Black Wolf King's fangs can inflict severe external injuries and infectious poison wounds on enemies"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2814,7 +2814,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "白狼王有机会对敌人造成两次伤害并附加外伤。"
-    translated: "White Wolf King has the opportunity to deal two instances of damage to an enemy and inflict additional bleeding wounds"
+    translated: "White Wolf King has the opportunity to inflict two instances of damage on an enemy and add external injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2878,7 +2878,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "虎王黑骨会对敌人造成严重的外伤并将造成的伤害30%转为自己的气血。"
-    translated: "The Tiger King Black Bone Technique causes significant external damage to enemies and converts 30% of the inflicted damage into one's own lifeforce"
+    translated: "The Tiger King Black Bone technique inflicts severe external injuries on enemies and converts 30% of the damage dealt into its own lifeforce"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2894,7 +2894,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "虎王南霸天会对敌人造成严重的外伤并将造成的伤害30%转为自己的气血。"
-    translated: "The Tiger King Southern Baotian can inflict serious external injuries on enemies and convert 30% of the inflicted damage into his own lifeforce"
+    translated: "The Tiger King, Nan Batian, can inflict severe external injuries on enemies and convert 30% of the damage caused into his own lifeforce"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2910,7 +2910,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "啼不住的每三次攻击必定发动虚招，且有一定的机率闪躲过敌人的攻击。"
-    translated: "Every third attack will definitely be a feint, and there is a chance to dodge the enemy's attack"
+    translated: "Cries incessantly, launching a feint every three attacks and has a chance to dodge the enemy's assault"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2926,7 +2926,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "黑影能对敌人制造带着外伤效果的高伤害，还有一定机率闪避敌人的攻击。"
-    translated: "The shadow can inflict high damage with an external injury effect on enemies, and has a chance to dodge enemy attacks"
+    translated: "The Shadow can inflict high damage with external injury effects on enemies and has a chance to dodge their attacks"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2942,7 +2942,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "雪影能对敌人制造带着外伤效果的高伤害，并将一定的伤害转化成自己的气血。"
-    translated: "Snow Shadow can inflict high damage with an external injury effect on enemies and convert a portion of that damage into its own lifeforce"
+    translated: "Snow Shadow can inflict high damage on enemies with effects that cause external injuries, and convert a portion of the inflicted damage into their own lifeforce"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3006,7 +3006,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "雪山奇侠，刀法无双，刀法威力上升30%，所有伤害技能都会带着外伤效果。"
-    translated: "Snowy Mountain Enigma, unparalleled in blade arts; blade arts' power increases by 30%. All damage skills inflict bleeding"
+    translated: "The Snowy Mountain Hero, unmatched in Blade Art, sees a 30% increase in the power of their Blade Art. All damage skills inflict an external injury effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3118,7 +3118,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "拳掌威力上升40%，所有伤害技能附带内伤效果。"
-    translated: "Power of fists and palms increased by 40%, all damage skills have internal injury effects"
+    translated: "Power of fists and palms increased by 40%, all damage skills come with an internal injury effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

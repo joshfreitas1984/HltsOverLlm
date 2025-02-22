@@ -11,14 +11,6 @@
   result: Ultimate
 - raw: 封
   result: Seal
-- raw: 迷惑
-  result: Confused
-- raw: 散功
-  result: Disperse Qi
-- raw: 醉意
-  result: Drunk
-- raw: 内伤
-  result: Internal Injury
 - raw: 剧情
   result: Plot
 - raw: 不赦
@@ -29,12 +21,8 @@
   result: Roar
 - raw: 钱
   result: Coin
-- raw: 缠拿
-  result: Grapple
 - raw: 短兵
   result: Short Weapons
-- raw: 错骨
-  result: Joint Manipulation
 - raw: 枪棍
   result: Spear
 - raw: 蟒蛇
@@ -114,3 +102,57 @@
   result: Gugu
 - raw: 吓！
   result: What!
+
+# Personality
+- raw: 狷
+  result: Calm
+- raw: 狂
+  result: Reckless
+- raw: 邪
+  result: Evil
+- raw: 正
+  result: Righteous
+- raw: 阴
+  result: Yin
+- raw: 阳
+  result: Yang
+
+# Talents
+- raw: 动
+  result: Move
+- raw: 静
+  result: Quiet
+- raw: 刚
+  result: Strong
+- raw: 柔
+  result: Soft
+- raw: 巧
+  result: Skilled
+- raw: 拙
+  result: Clumsy
+
+# Status
+- raw: 内伤
+  result: Internal Injury
+- raw: 外伤
+  result: External Injury
+- raw: 中毒
+  result: Poisoned
+- raw: 封穴
+  result: Sealed Acupoints
+- raw: 迷惑
+  result: Confusion
+- raw: 晕眩
+  result: Dizziness
+- raw: 分筋
+  result: Muscle Damage
+- raw: 错骨
+  result: Bone Damage
+- raw: 散功
+  result: Qi Dispersion
+- raw: 冰封
+  result: Frozen
+- raw: 醉意
+  result: Intoxication
+- raw: 缠拿
+  result: Entangled

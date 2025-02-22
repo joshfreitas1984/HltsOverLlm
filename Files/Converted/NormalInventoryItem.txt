@@ -42,7 +42,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "又名封口金创药、俗称刀尖药，以三七为主药成份，主治金创外伤。金创药只能医治简单的外伤，无法治愈严重外伤。"
-    translated: "Also known as Seal Mouth Sanqi Herbal Medicine, and commonly referred to as Blade Tip Medicine, its main ingredient is Sanqi. It primarily treats gold injuries from external trauma. Blade Tip Medicine can only treat simple external wounds and cannot heal severe injuries"
+    translated: "Also known as Seal Mouth Sanqi Medicine and commonly referred to as Blade Tip Medicine, its main ingredient is Sanqi. It primarily treats external injuries from cuts. However, Blade Tip Medicine can only treat simple wounds and cannot heal severe external injuries"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -58,7 +58,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "以川芎为主药，行气开淤，能减轻内伤，通畅气脉。通脉散只能医治简单的内伤，无法治愈严重内伤。"
-    translated: "Xiangqing is the main ingredient, which acts to circulate qi and dissolve stasis, can alleviate internal injuries, and unblock the flow of qi. Tongmai Powder can only treat simple internal injuries and cannot cure severe ones"
+    translated: "Using Chuanxiong as the main ingredient, this formula moves Qi and clears stasis to alleviate internal injuries and unblock meridians. Tongmai San can only treat simple internal injuries and cannot cure severe ones"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -74,7 +74,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "以黄连为主药，再佐以部分温热药材，调和黄连本身寒性，能解多数常见的毒。解毒丸只能医治简单的中毒，中毒太深将无法治愈。"
-    translated: "Using Coptis root as the main ingredient, supplemented with some warm and hot herbs to balance its cold nature, can detoxify most common poisons. However, a detoxifying pill can only treat mild poisonings; severe cases cannot be cured"
+    translated: "Using Coptis root as the main ingredient, combined with some warming herbs to balance its cold nature, can counteract most common poisons. The detoxifying pill is only effective for treating simple poisonings; if poisoned too deeply, it cannot be cured"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -90,7 +90,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "将续断和诸般兽骨、兽角、甲壳一同熬煮成膏状，主治筋骨相关伤势的膏药。可医治程度较轻微的分筋、错骨。"
-    translated: "Teasel Root is combined with various animal bones, horns, and shells to create a salve. This ointment primarily treats injuries related to muscles and joints. It can also heal mild cases of muscle tearing and joint manipulation"
+    translated: "Teasel Root is combined with various animal bones, horns, shells, and exoskeletons to create a paste. This ointment primarily treats injuries related to muscles and bones. It can also be used to treat mild cases of muscle damage and bone injury"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -106,7 +106,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "将安魂养神的茯苓，佐以其他宁神药物，以文火煎煮的药汤。可解除程度轻微的迷乱、晕眩。"
-    translated: "A poria concoction for calming the soul and soothing the mind, combined with other tranquilizing herbs, is prepared by slow-boiling into a medicinal decoction. This can alleviate mild confusion and dizziness"
+    translated: "Hunan Spirit-Calming Poria, combined with other sedative herbs and brewed into a decoction over low heat. This herbal tea can alleviate mild confusion and dizziness"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -170,7 +170,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "熊胆是治内伤良药，但其性苦寒且药力较猛，若以性温的川芎调和熊胆，便可炼成治疗内伤的上好丹药。"
-    translated: "Grackle bile is a good medicine for treating internal injuries, but its nature is bitter and cold, and its potency is strong. If balanced with the warm-tempered Chuanxiong, it can be refined into an excellent pill for treating internal injuries"
+    translated: "Honeysuckle is an excellent remedy for internal injuries, but its nature is bitter and cold with a strong medicinal potency. By harmonizing it with the warming nature of Szechuan lovage, one can create a superior medicinal pill for treating internal injuries"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -202,7 +202,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "将续断和虎骨两味药材熬煮成胶状，专治断筋错骨，只消将其涂抹于伤处，不日即可明显见效。"
-    translated: "Prepare a gelatinous concoction using Teasel Root and Tiger Bone, specifically designed to treat broken bones and dislocated joints. Simply apply it to the affected area, and you will notice significant improvement within a few days"
+    translated: "Teasel root and tiger bone are boiled down into a gel, specifically used to treat tendon breaks and bone damage. Simply apply it to the affected area, and noticeable effects will be seen within days"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -218,7 +218,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "以茯苓和性温的狼膏炼制而成，能静心养气，对目眩神驰更有奇效。因其药力温和补身，也是富贵人家常用的养生药。"
-    translated: "This elixir, crafted from Poria and the warming wolf grease, is known for its calming effects on the mind and enhancement of Qi. It is especially effective in alleviating dizziness and restlessness. Due to its gentle medicinal properties that nourish the body, it is a popular health tonic among the affluent"
+    translated: "Made with Poria and warming Wolf's Balm, this remedy is excellent for calming the mind and nourishing Qi, especially effective against dizziness and restlessness. Due to its gentle, body-nourishing properties, it is also a commonly used tonic in affluent families"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -250,7 +250,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "可回血、解外伤，外表呈现黑色膏状的外伤灵药，其味芬芳清凉，其膏对续骨有奇效。为江湖上人人趋之若鹜，却往往一罐难求之奇药。"
-    translated: "A wound-healing, pain-relieving elixir with a fragrant and refreshing taste; its ointment is extremely effective for bone repair. It appears as a black-colored balm on the outside. This miraculous medicine is highly sought after in Jianghu, yet it is often difficult to obtain even one jar"
+    translated: "Recovering blood and treating external injuries, this unique herbal remedy presents as a black-gooey substance. It has a refreshing aromatic flavor, with remarkable effects in aiding bone healing. Highly sought after in the Jianghu, acquiring even just one pot of this rare elixir is often difficult"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -266,7 +266,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "续命、解毒灵药，任他多厉害的内伤，只要当场不死，一服生生造化丹，药到伤愈；要是中了剧毒，这生生造化丹更有去毒之功，真是灵丹妙药，无比神奇。"
-    translated: "Life-saving, antidotal elixir; no matter how severe the internal injury is, as long as one does not die on the spot, a single dose of the Shengsheng Zaofuda Pill can heal injuries. If affected by deadly poison, this Shengsheng Zaofuda Pill has detoxifying effects and is truly a miraculous elixir"
+    translated: "Revitalizing and detoxifying elixir; no matter how severe the internal injury, as long as they don't die on the spot, one dose of the Shengsheng Zaohe Pill will heal them completely. If poisoned by a potent toxin, this pill has the power to purge it, truly a miraculous and extraordinary remedy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -618,7 +618,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "味苦，性寒；归肝、胆、心经。熊胆入药，可疏通瘀血、畅通内息，治疗内伤效果颇佳。"
-    translated: "Bitter in taste and cold in nature; enters the liver, gallbladder, and heart meridians. Bear bile used medicinally can disperse stagnant blood, promote circulation of internal qi, and is effective for treating internal injuries"
+    translated: "Bitter in taste, cold in nature; it enters the liver, gallbladder, and heart meridians. Bear bile used in medicine can disperse stagnant blood, unblock internal flow, and is particularly effective in treating internal injuries"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -682,7 +682,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "味苦，性大寒；归肝、胆、心经。乃北地白熊之胆，药性类同熊胆，但更加猛烈，搭配其余佐使，可治疗内伤。"
-    translated: "Bitter taste, strongly cold in nature; enters the liver, gallbladder, and heart meridians. It is from the gall of white bears found in northern regions. The medicinal properties are similar to bear bile but more intense. When combined with other adjuvant substances, it can treat internal injuries"
+    translated: "Bitter in taste and strongly cold; enters the liver, gallbladder, and heart meridians. It is derived from the gall of a white bear found in northern regions. Its medicinal properties are similar to bear bile but more fierce. When combined with other auxiliary ingredients, it can treat internal injuries"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1226,7 +1226,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "可炼制为七色百足毒，生长于丛林沼泽，喜爱动植物的腐败气味，因其色彩斑斓而得七色百足之名。"
-    translated: "Can be refined into Seven-Color Centipede Poison, grows in jungles and swamps, loves the smell of decaying plants and animals; named for its colorful appearance"
+    translated: "Capable of being refined into the Seven-Hued Centipede Poison, it grows in jungles and swamps, favoring the decay odors of plants and animals. It is named for its vividly colorful appearance"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1386,7 +1386,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "烤得外皮金黄酥脆、肉质柔嫩的猪肉。战斗外增加奔跑速度、暂时增加精力最大值。"
-    translated: "Baked pork with a golden-brown and crispy crust, tender meat. Increases running speed outside of battle and temporarily raises the maximum vitality"
+    translated: "Pork roasted until the skin is golden brown and crisp, with tender meat. In battle, it increases running speed and temporarily boosts maximum energy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1610,7 +1610,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "刚采的鲜笋与五谷杂粮一同炊煮，简单味美。典故出自白居易的诗：置之炊瓶中，与饭同时煮。每日遂加餐，经时不思肉。"
-    translated: "Just-picked bamboo shoots cooked with mixed grains are simple yet delicious. The idiom comes from a poem by Bai Juyi：Place it in the rice pot and cook it with the rice. Consequently, they started eating more meals each day and did not crave meat for a while"
+    translated: "Steamed fresh bamboo shoots cooked with mixed grains create a simple yet delicious dish. This alludes to a poem by Bai Juyi：Place it in the rice pot and cook it with the meal. From then on, they would have an additional meal each day and wouldn't crave meat for a while"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1882,7 +1882,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "霸王别姬原名原名龙凤烩，起源于西楚王朝的国都彭城。其料用龟肉（龟属水族，龙系水族之长）与雉（雉属羽族，凤系羽族之长），引申为龙凤相会得名。另有人以鳖、鸡取代龟、雉，鳖与别，鸡与姬，都是谐音，鳖鸡就是别姬，配合之巧妙，令人回味无穷。"
-    translated: "Huangming Longfenghui originally named Lonfenghui, originated from Pengcheng, the capital of the Western Chu Kingdom. Its ingredients used turtle meat (turtle is the head of water creatures, belonging to the dragon family) and pheasant (pheasant is the head of feathered creatures, belonging to the phoenix family), leading to the name dragon and phoenix meet. Others replaced turtle with softshell turtle and pheasant with chicken; both are homophones: softshell turtle sounds like hua (separate), and chicken sounds like ji (miss). The wordplay is so clever that it leaves a lasting impression"
+    translated: "Bawang Bieji, originally known as Longfeng Huo, originated from Pengcheng, the capital of the Western Chu Kingdom. It is made with turtle (a representative of the water family, the leader among aquatic creatures) and pheasant (a representative of the feathered family, the leader among birds). The name Longfeng Xiayi comes from the concept of the meeting of a dragon and a phoenix. Some people replace turtle with softshell turtle and pheasant with chicken; both pairs are phonetically similar—bei (softshell turtle) sounds like bie (separate), and ji (chicken) sounds like ji (madam)—thus, bieji translates to Bieji. The skillful pairing is exquisite and leaves a lasting impression"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1962,7 +1962,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "传为酿酒鼻祖杜康所酿的名酒，此酒清冽透明，柔润芳香，甘绵香醇，回味悠长。"
-    translated: "The legendary wine attributed to Du Kang, the ancestor of winemaking, is renowned for its clarity and transparency. It is smooth, aromatic, sweet, mellow, and has a long-lasting aftertaste"
+    translated: "Renowned as the legendary brew crafted by Du Kang, the ancestor of winemaking, this exquisite wine is crystal clear and pure. It possesses a soft smoothness with an aromatic fragrance, offering sweet richness and a lingering aftertaste that lingers on the palate"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2410,7 +2410,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "常见的金属，坚硬程度不如铁，但更为柔韧，不易损毁。"
-    translated: "Common metals are less hard than iron but more flexible, making them easier to use without damage"
+    translated: "A common metal that is not as hard as iron but more flexible and less prone to damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2794,7 +2794,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "即为蓝宝石，乃刚玉的一种，因内含金属成分不同而有颜色差异。大部分的刚玉都是蓝宝石。"
-    translated: "Sapphire is a type of corundum, which varies in color due to different metal contents inside. Most sapphires are blue"
+    translated: "This is a sapphire, a type of corundum. The color differences are due to varying metallic components within it. Most corundums are actually sapphires"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2810,7 +2810,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "即为红宝石，乃刚玉的一种，因内含金属成分不同而有颜色差异。天然的红宝石极为珍稀。"
-    translated: "It is a type of corundum, with color variations due to different metallic inclusions. Natural rubies are extremely rare"
+    translated: "This is a ruby, which is a type of corundum. The color variations are due to differences in the metallic elements it contains. Naturally occurring rubies are extremely rare"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2954,7 +2954,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "于极北之地，历经万年所凝结之无暇冰晶，是锻造匠人求之不得的投炉奇物，但凡于锻造之时加入些许玄冰，器成之后，兵刃便立时散发出一股寒气，用以御敌，具有很好的冰封效果。"
-    translated: "In the extreme north, a rare crucible material is condensed by millennia of time: idle ice crystals. This elusive treasure for blacksmiths can be used to forge weapons with a touch of mysterious frost. Once crafted, these blades immediately emit a cold aura, offering excellent freezing effects to ward off enemies"
+    translated: "In the farthest reaches of the north, the ice crystals condensed over ten thousand years are an elusive material for blacksmiths to use in their furnaces. When even a small amount of xuan ice is added during forging, the finished weapon immediately emanates a chilling aura, which can be used to repel enemies and has excellent frozen effects"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2970,7 +2970,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "于冰天雪地中，历经千年所凝结之纯净冰晶，在锻造匠人眼中是十分难得的投炉奇物。若能于锻造之时加入些许寒晶，器成之后，兵刃寒气森森，用以御敌，具有冰封效果。"
-    translated: "Within the icy tundra and snowy landscapes, having condensed over a thousand years into pure ice crystals, these are exceedingly rare materials for forging in the eyes of craftsmen. If some frost crystals are added during forging, once the weapon is completed, it exudes a chilling aura that can be used to fend off enemies with an effect akin to being encased in ice"
+    translated: "In the midst of icy snowlands, after millennia of condensation, the pure ice crystals are considered a rare treasure by blacksmiths for use in forging. If some shards of frost crystal are added during forging, once the weapon is completed, it emanates a frigid Qi that can repel enemies with its Frozen effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3002,7 +3002,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "极珍贵的宝石，又称金刚钻，闪烁耀眼，号称天下至坚。"
-    translated: "Extremely precious gemstone, also known as diamond, sparkling brightly and reputed to be the hardest in the world"
+    translated: "Extremely precious gemstone, also known as diamond, sparkling brilliantly and reputed to be the hardest in all the world"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3322,7 +3322,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "在众多野猪当中，有一种毛皮尽呈黝黑的黑色山猪，数量百中无一。性格虽然温驯，但只要被激怒，其撞击力道将会造成严重内伤，因而狩猎不易。以黑猪皮制成的护甲，防护效果比一般野猪皮更好，也更加耐用。"
-    translated: "Among the many wild boars, there is a type of black mountain boar with entirely dark fur; one in a hundred has this feature. While its temperament is gentle, if provoked, its impact force can cause serious internal injuries, making it difficult to hunt. Armor made from black boar hide offers better protection and durability than that from common wild boar hides"
+    translated: "In the many wild boars, there exists a rare species of black mountain boar with entirely dark fur, found among hundreds only once. Although their temperament is gentle, when provoked, the impact force they deliver can cause serious internal injury, making hunting them difficult. Armor made from the hide of this black boar offers superior protection and durability compared to that made from ordinary wild boar hides"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3338,7 +3338,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "金蚕并非指苗疆的金蚕蛊，而是生在中国秦岭以南山林中的原始蚕蛾。蚕丝韧且轻柔，经特殊手法编织成衣物，甚至可防刀剑劈砍。"
-    translated: "Golden silk does not refer to the Golden Silkworm of Miaojiang, but rather an indigenous silkworm moth found in forests south of Mount Qinling in China. The silk produced is both strong and soft, and through special techniques it can be woven into fabric that even resists being cut or sliced by swords"
+    translated: "Golden Silk does not refer to the Golden Silkworm Magic from Miaojiang but rather a primitive silkworm moth native to the forests south of Qinling in China. The silk is both resilient and soft, woven through special techniques into fabrics that can even resist cuts or slashes from blades"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3450,7 +3450,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "黑豹数量稀少，亦称为「夜晚的猎手」，只在深夜活动，河岸与深山峻岭间可以找到牠们的踪影。黑豹筋比一般豹筋更为耐用。"
-    translated: "Black panthers are rare and are also known as hunters of the night. They only become active at deep midnight, with their traces found between riverbanks and steep mountain ridges. Black panther sinews are more durable than those of ordinary leopards"
+    translated: "Black panthers are rare and are also known as hunters of the night. They only become active during deep nights, with their traces found between riverbanks and steep mountain ranges. Black panther sinews are more durable than those of common leopards"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3466,7 +3466,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "雪豹出没于天山、藏边，绒毛细密，行踪隐密。其筋坚韧而不易断裂，是上等的制材。但纳西族人将雪豹视为高贵的动物，不会轻易狩猎之。"
-    translated: "Snow leopards are found in the Tianshan and Tibet, with dense fur. They move stealthily. Their tendons are tough and hard to break, making them excellent material for crafting. However, the Naxi people regard snow leopards as noble animals and do not hunt them easily"
+    translated: "Snow leopards are found in the Tianshan and Tibetan regions, with dense and fine fur. Their tendons are tough and not easily broken, making them superior material for crafting. However, the Naxi people regard snow leopards as noble animals and do not hunt them without significant reason"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5002,7 +5002,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "木初给予的令牌。只要有了这个，木府卫兵都不敢动你。"
-    translated: "Token given by Mu Chu. With this token, the guards of the Mu Mansion won't dare to touch you"
+    translated: "The token given by Mu Chu. With this, even the guards of the Mu Mansion dare not move you"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5290,7 +5290,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "白马居农人给予的胡萝卜种子，想要胡萝卜，只能自己动手种了。"
-    translated: "The farmer from White Horse Residence gave out carrot seeds, so if you want carrots, you'll have to plant them yourself"
+    translated: "The carrot seeds provided by the farmer from White Horse Residence require you to plant them yourself if you want carrots"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5466,7 +5466,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "天书碎片之一，一片破碎的龟甲，上头刻有奔走的野兔，是你于俏梦阁所取得。当你凝视野兔的纹样时，几句谶语自你的脑海中浮现，「…高飙动槁叶，群窜迹如扫…」"
-    translated: "One of the fragments of the Heavenly Scripture, a piece of shattered tortoise shell inscribed with running hares. You obtained it at Charming Dream Pavilion. As you gaze upon the pattern of the hares, several prophetic words emerge from your mind: ...The swift ones stir dead leaves; they scurry en masse like sweeping dust..."
+    translated: "One of the fragments from the Heavenly Scripture, a shattered piece of turtle shell with an etching of a running hare. You acquired this at the Charming Dream Pavilion. As you gaze upon the pattern of the hare, several enigmatic phrases emerge in your mind: When swift as the wind, leaves quiver; when in a group, they scatter like sweeping dust..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5482,7 +5482,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "天书碎片之一，一片破碎的龟甲，上头刻有一潭平静的池水，是你从禾泓渊手中所取得。当你凝视池水的纹样时，几句谶语自你的脑海中浮现，「…静抱五龙寐，虚涵一镜空…」"
-    translated: "One fragment of the Heavenly Scripture, a broken piece of turtle shell with an inscription depicting a tranquil pool. You obtained it from He Hongyuan's hands. As you gaze upon the patterns in the water, several prophecies surface in your mind: ...embracing five dragons in stillness, encompassing emptiness in one mirror..."
+    translated: "One of the fragments from the Heavenly Scripture, a piece of shattered tortoise shell bears an engraving of a serene pond. You obtained this from He Hongyuan's hands. As you gaze at the patterns on the pond, several cryptic phrases emerge in your mind: ...hold five dragons asleep in stillness, encompass emptiness with one mirror..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5498,7 +5498,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "天书碎片之一，一片破碎的龟甲，上头刻有互相冲击的戈和盾，是你于木府所取得。当你凝视干戈的纹样时，几句谶语自你的脑海中浮现，「…诚既勇兮又以武，终刚强兮不可凌…」"
-    translated: "One fragment of the Heavenly Scripture, a piece of shattered tortoise shell inscribed with interlocking halberds and shields, was obtained by you from Mu Mansion. As you gaze upon the pattern of weapons, a few lines of prophecy emerge in your mind: ... valiant and martial, yet unbending to be overcome..."
+    translated: "One of the fragments of the Heavenly Scripture, a broken piece of tortoise shell inscribed with interlocking symbols of spears and shields, was acquired by you at the Mu Mansion. As you gaze upon the pattern of weapons and defenses, several proverbs arise in your mind: ...truly brave and valiant, ultimately strong and unconquerable..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5514,7 +5514,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "天书碎片之一，一片破碎的龟甲，上头刻有吐丝的春蚕，是你从李彦仙手中所取得。当你凝视春蚕的纹样时，几句谶语自你的脑海中浮现，「…柔肠九曲细于丝，万缕春愁正如织…」"
-    translated: "One fragment of the Heavenly Scripture, a piece of shattered turtle shell engraved with silkworms spinning silk, was taken from Li Yanxian by you. As you gaze upon the pattern of the silkworms, some lines of prophecy emerge in your mind: ... delicate and curved as silk thread, countless threads of spring sorrow woven just so..."
+    translated: "One fragment of the Heavenly Scripture is a piece of broken tortoiseshell, engraved with a silk-spun silkworm. You acquired this from Li Yanxian's hands. As you gaze upon the pattern of the silkworm, several lines of prophecy emerge in your mind: ...Soft heart as twisted as nine bends, myriad threads of spring sorrow woven precisely"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5530,7 +5530,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "天书碎片之一，一片破碎的龟甲，上头刻有绽放的花朵，是你从黄裳手中所取得。当你凝视花朵的纹样时，几句谶语自你的脑海中浮现，「…天巧剪瑶花，六出缤纷落…」"
-    translated: "A fragment of the Heavenly Scriptures, a broken piece of tortoise shell with blooming flowers carved on it, was obtained from Huang Shang. As you gaze at the floral patterns, some cryptic words emerge in your mind: ...Tianqiao cuts yao flowers, sixfold vibrant petals fall..."
+    translated: "One of the fragments of the Heavenly Scripture, a broken piece of tortoise shell with blooming flowers etched on it, was obtained from Huang Shang. As you gaze at the floral pattern, some cryptic verses emerge in your mind: ...heaven's skilled hand trims the jade blossoms, scattering their six-fold vibrant petals..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5546,7 +5546,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "天书碎片之一，一片破碎的龟甲，上头刻有险峻的山岭，是你从何白芍手中所取得。当你凝视山岭的纹样时，几句谶语自你的脑海中浮现，「…养拙甘沉默，忘怀绝险艰…」"
-    translated: "One fragment of the Heavenly Scripture, a broken piece of tortoiseshell with treacherous mountain patterns inscribed on it. You obtained this from He Baishao. As you gaze at the patterns of the mountains, a few lines of prophecy emerge in your mind: ... cherishing simplicity and silence, forgetting the ultimate difficulties..."
+    translated: "One fragment of the Heavenly Scripture, a broken piece of tortoise shell with intricate mountain patterns inscribed upon it. You acquired this from He Baishao. As you gaze at the mountain designs, several prophetic words emerge in your mind: ...rejoice in clumsiness, embrace silence; forget the ultimate challenges..."
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5754,7 +5754,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "凭此信物可以调动南诏兵马，但在南诏王室被你杀害后大概没什么用了。"
-    translated: "By this token, you can mobilize the Nanzhao troops, but after the royal family of Nanzhao was killed by you, it's probably useless now"
+    translated: "With this token, you can summon the troops of Nanzhao, but after your assassination of the royal family, it's probably no longer useful"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5780,7 +5780,7 @@
   splits:
   - split: 1
     text: "大日金刚经"
-    translated: "The Heart Sutra"
+    translated: "Heart Sutra of Vajrasattva"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5978,7 +5978,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "内有搜录各种笑话的手稿，此外无任何财物。要不是这群流寇刚好识字，这份行囊早被扔进河里。行囊失主也许就在附近村落。"
-    translated: "The satchel contains manuscripts recording various jokes; otherwise, it holds no valuables. If not for the bandits who can read, this bag would have been thrown into the river long ago. The owner of the satchel might be in a nearby village"
+    translated: "The bundle contained manuscripts with various jokes, and nothing else of value. If it weren't for the bandits who happened to be literate, this collection would have been discarded in the river long ago. The owner of the bundle might be nearby in one of the villages"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6298,7 +6298,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "一枚色泽暗红、湿润温热的丹药，握在掌心隐隐还会传来一阵阵规律的搏动，这究竟是什么东西?"
-    translated: "A pill of dark red hue, moist and warm to the touch, held in the palm, which still sends a rhythmic pulsing sensation; what exactly is this?"
+    translated: "A dark red, moist, and warm pill lay in the palm of my hand, sending a rhythmic pulsing sensation through my fingers. What could this be?"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6474,7 +6474,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "来自兽王庄的邀请函，欢迎刚开始踏上兽王之路的各路侠客。"
-    translated: "An invitation from Shouwang Zhuang welcomes all newly initiated Xiake on the path of the Beast King"
+    translated: "Welcome invitation from Shouwang Zhuang, welcoming all heroes embarking on the path of the Beast King"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6714,7 +6714,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "此薄册记载着青城派镇派绝学──青霞诀的总纲，乃唯有青城掌门可以修习的不传之秘。能将只能琼森健体、益气养身的翠峦功修练成极为高深的内功，尤其在治疗内伤上据说有几近于起死回生的功效。"
-    translated: "This slim volume records the summary of Qingcheng Sect's sect-stabilizing ultimate technique, the Qingxia Quan. It is a secret that only the Qingcheng Sect leader can practice. It allows the cultivation of Cuiyuan Gong, which enhances body health and nourishes Qi, into an exceptionally profound Neigong, especially in treating internal injuries. It is said to have effects almost akin to reviving the dead"
+    translated: "This slim volume records the essential principles of Qingcheng Sect's sect-securing ultimate art, the Qingxue Quan—a secret only the Qingcheng Sect leader can study. It enables practitioners to refine the Cuiluan Gong from merely maintaining health and nourishing the Qi into a highly profound Neigong, particularly renowned for its near-miraculous efficacy in treating internal injuries"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6970,7 +6970,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "相传岳武穆将毕生所学之定谋、审事、攻伐、守御、练卒、使将、布阵、野战，以及动静安危之势，用正出奇之道，全部详加记载于其遗卷之中。即使你不谙兵法，阅读武穆遗书后也必能从中领略岳武穆毕生武学奥义。"
-    translated: "It is said that Yue Wumu recorded all his lifelong knowledge of strategies, judgment, offense, defense, training soldiers, commanding officers, formation deployment, and field tactics, as well as the dynamics of safety and danger, using both orthodox and unorthodox methods, in detail within his last manuscript. Even if one does not understand military arts, after reading Martial Sage's Legacy, they can gain an understanding of Yue Wumu's lifelong martial wisdom"
+    translated: "It is said that Yue Wumu recorded all his lifetime's strategic thoughts, judgments, offensive and defensive tactics, troop training, command of generals, formation deployment, battlefield strategies, and the dynamics of safety and danger. He documented these using orthodox and unorthodox methods in great detail within his writings. Even if you are not versed in military strategy, reading the Martial Sage's Legacy will allow you to grasp the profound martial secrets of Yue Wumu"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -7018,7 +7018,7 @@
     flaggedGlossaryOut: ""
   - split: 3
     text: "新鲜的智慧果，才刚从枝头落下。服食后，可得到提神活脑的功效，提升服食者对武功与武学的悟性。"
-    translated: "Fresh wisdom fruit, just fallen from the branch. After consumption, it can have a stimulating and brain-boosting effect, enhancing the consumer's understanding of martial arts and martial skills"
+    translated: "The freshly fallen Zhihui Fruit is just beginning to drop from the branches. Consuming it provides invigorating effects on the mind, enhancing the consumer's understanding and insight into martial arts and its principles"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

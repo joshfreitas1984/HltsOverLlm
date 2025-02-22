@@ -39,11 +39,11 @@ HintTypeNicknameUnlocked	Obtained the title {0}
 HintTypeAchievement	Accomplish achievement goal {0}
 HintTypeAchievementStart	Discovered hidden achievement {0}
 HintTypeMadnessUp	You have become more unrestrained and wild
-HintTypeMadnessDown	You have become more upright and calm
+HintTypeMadnessDown	You've become even more restrained and cautious
 HintTypeMoralUp	Your spirit and moral integrity have become even more resolute
 HintTypeMoralDown	You have become more sinister and imposing
-HintTypeYinAndYangUp	You have become more hard and firm
-HintTypeYinAndYangDown	You have become more gentle and soft
+HintTypeYinAndYangUp	You have become more yang and strong
+HintTypeYinAndYangDown	You've become more yin and soft
 HintTypeFallAndHurt	You lost {0} lifeforce from the fall
 HintTypeFallAndDie	You fell dead
 HintTypeFoodBufferDisappeared	{0}'s effect from {1} disappeared
@@ -69,7 +69,7 @@ TalkAmbushPlayer3	Ha ha, fighting a fistfight will clear your mind and dispel al
 TalkAmbushPlayer4	Thank you for letting me win
 TalkAmbushNpc1	Are you talking about fighting? Who's scared of who!
 TalkAmbushNpc2	By all means!
-TalkAmbushNpc3	Why should we act so rough when we are all civilized people?
+TalkAmbushNpc3	We're all civilized people, so why resort to physical altercations?
 TalkAmbushNpc4	Please forgive me for refusing
 TalkAmbushNpc5	Impressive, we'll see how things go
 TalkAmbushNpc6	Your martial arts skills are exceptional, impressive indeed
@@ -117,7 +117,7 @@ CharacterProperty55	Energy Limit
 CharacterProperty58	Physique
 CharacterProperty59	Aptitude
 CharacterProperty108	Money
-CharacterProperty109	Wild and Good
+CharacterProperty109	Wild yet calm
 CharacterProperty110	Morality
 CharacterProperty111	Jianghu reputation
 CharacterProperty112	Yin and Yang
@@ -141,16 +141,16 @@ CharacterProperty322	Mineralogy
 CharacterProperty323	Theftology
 CharacterProperty324	Business Management
 CharacterProperty400	Internal Injury
-CharacterProperty401	External injury
+CharacterProperty401	External Injury
 CharacterProperty402	Poisoned
 CharacterProperty403	Sealed Acupoints
-CharacterProperty404	Confused
+CharacterProperty404	Confusion
 CharacterProperty405	Dizziness
-CharacterProperty406	Dislocate
-CharacterProperty407	Joint Manipulation
-CharacterProperty408	Disperse Qi
+CharacterProperty406	Muscle Damage
+CharacterProperty407	Bone Damage
+CharacterProperty408	Qi Dispersion
 CharacterProperty409	Frozen
-CharacterProperty410	Drunk
+CharacterProperty410	Intoxication
 #阴阳	
 YinAndYang0	Pure Yin
 YinAndYang1	Minor Yin
@@ -231,11 +231,11 @@ StorePlayerNoFavarites	It seems you do not have what I want on your person
 StoreNpcFavoriteHaveMoney	I love money; you can use money to make up for the shortfall
 StoreNpcDontWant	This thing I don't need, please choose something else
 #传闻	
-RumorNothing1	Well, it has been smooth sailing so far on the journey, and enjoying the scenery along the way is not bad at all!
-RumorNothing2	Well, the journey has been smooth and without trouble. Along the way, appreciating the scenery wasn't bad at all!
-RumorNothing3	Alright, it's been smooth sailing on this journey; the scenery along the way has been quite enjoyable too!
-RumorNothing4	Well, it's been smooth sailing so far on this journey, and enjoying the scenery along the way hasn't been bad at all!
-RumorNothing5	The journey has been smooth so far, with beautiful scenery along the way—nothing bad about that!
+RumorNothing1	Well, the journey has been smooth sailing so far. Along the way, we've enjoyed some beautiful scenery—it's not bad at all!
+RumorNothing2	Well, the journey has been smooth sailing so far, and stopping along the way to enjoy the scenery hasn't been bad at all!
+RumorNothing3	The journey has been smooth sailing, and the scenery along the way was quite enjoyable. Not bad at all!
+RumorNothing4	Well, the journey has been smooth sailing so far, and enjoying the scenery along the way hasn't been bad at all!
+RumorNothing5	Well, the journey so far has been smooth sailing with calm seas. Along the way, we've enjoyed some beautiful scenery; it's not bad at all!
 #锻造	
 HurtRang	{0}~{1}%
 BluePrintType1	Hand Combat Weapons
@@ -353,11 +353,11 @@ KeyName_JoystickButton2	X
 KeyName_JoystickButton3	Y
 KeyName_JoystickButton4	LB
 KeyName_JoystickButton5	RB
-KeyDesc_Up	Move Up
-KeyDesc_Down	Move down
+KeyDesc_Up	Move up
+KeyDesc_Down	Shift Down
 KeyDesc_Left	Shift left/move left
-KeyDesc_Right	Right/Move
-KeyDesc_Arrow	Move Direction
+KeyDesc_Right	Shift to the right
+KeyDesc_Arrow	Move in a direction
 KeyDesc_Confrim	Confirm
 KeyDesc_Cancel	Cancel
 KeyDesc_NumberUp	Switch Section
@@ -388,12 +388,12 @@ KeyDesc_Y	Organize the backpack
 KeyDesc_ShowHerb	Display Collectible Items
 KeyDesc_MouseLeft	Confirm/Select
 KeyDesc_MouseRight	Cancel
-KeyDesc_MouseMiddle	Adjust near/far/up/down scrolling
+KeyDesc_MouseMiddle	Adjust zoom in/out / scroll up/down
 KeyDesc_LeftAnalogPress	Simulate a game controller
 KeyDesc_RightAnalogPress	Reset the camera
 KeyDesc_AddSpeed	Chop sprint
 KeyDesc_Jump	Leap
-KeyDesc_AutoRun	Automatic running
+KeyDesc_AutoRun	Auto Run
 KeyDesc_Steal	Stealth
 KeyDesc_Ambush	Ambush
 KeyDesc_SkillShortcut1	Shortcut Key for Skill 1
@@ -415,7 +415,7 @@ GameHint3	During battle, clicking the small avatar in the top left corner can op
 GameHint4	During battle, clicking the small avatar in the top left corner can play the character's voice dialogue and open the character's combat message interface to understand more detailed information about the character
 GameHint5	Task difficulty is divided into three levels: simple (white), normal (orange), and difficult (red). Try to choose tasks that are suitable for your abilities
 GameHint6	Characters can equip a primary weapon and a secondary weapon, using the unique features of different weapons to gain an advantage in battle
-GameHint7	Each character has a different weight limit for equipment, and if the load exceeds the maximum value, it will reduce the character's mobility
+GameHint7	Each character has a different weight limit for the equipment they can carry. Exceeding this maximum weight will reduce their mobility
 GameHint8	Some tasks will have position hints on the map to help players identify them
 GameHint9	You can choose to use a mini-map or a compass in the settings according to your preference or habit for location assistance
 GameHint10	In the main menu, ESC menu, and in the interface for character attributes at the top right corner's question mark button, you can find the game encyclopedia to conveniently look up game information
@@ -427,14 +427,14 @@ GameHint15	Merchants have different business plans, so you cannot trade with the
 GameHint16	If you find yourself stuck in a strange place and unable to escape, try pressing the ESC switch twice to open the main menu, then observe the outcome
 GameHint17	Counterattacks do not consume energy, but they will deplete more internal power
 GameHint18	During combat, if your Qi is insufficient, the effectiveness will be greatly reduced
-GameHint19	During battle, pressing the Alt key displays the distance between the target and the cursor to conveniently decide where to move
-GameHint20	Changes in a player character's personality can affect interactions among teammates and may alter their willingness to embark on adventures together
+GameHint19	During combat, pressing the Alt key will display the distance between the target and the cursor. This helps in deciding where to move
+GameHint20	The changes in a player character's personality can affect interactions among teammates and may also alter their collective willingness to embark on adventures together
 GameHint21	Approach the NPC and hold down the F key to stealthily take items from them, but be careful not to get caught
 GameHint22	During outdoor exploration, always maintain good combat readiness and pay attention to the strength of enemies
 GameHint23	Using materials of higher rarity for forging can create better weapons and armor
-GameHint24	In the Heluo world, there are many things for players to explore, so pay close attention to interactive objects around you
+GameHint24	In the world of Heluo, there are many things for players to explore. Please pay close attention to the interactive objects around you
 GameHint25	Learning cooking techniques allows one to prepare ingredients and make delicious food, which provides temporary beneficial effects when consumed
-GameHint26	You can choose to use the Viewpoint Automatically Follows Mouse mode during gameplay based on your game habits in the environment settings page
+GameHint26	You can choose whether to use the View Follows Mouse Automatically mode for gameplay according to your gaming habits within the environment settings' operation pages
 #任务	
 QuestStep	Task Steps
 QuestDescTitle	Task Description
@@ -734,10 +734,10 @@ UISettingMapQuestIcon	Display task location markers
 UISettingMsg1	Would you like to save the current {0} settings?
 UISettingMsg2	Do you want to discard the current {0} settings and return to the default configuration?
 UICameraSetting	Camera Operation
-UICameraSettingSpeed	Field of View Movement Speed
-UICameraSettingHorizontal	Move the perspective in a horizontally opposite direction
-UICameraSettingVertical	Reverse the vertical perspective
-UICameraSettingFollowCursor	Camera auto-follows the mouse cursor
+UICameraSettingSpeed	Camera Movement Speed
+UICameraSettingHorizontal	Shift the perspective horizontally to the opposite direction
+UICameraSettingVertical	Change the perspective vertically to its opposite
+UICameraSettingFollowCursor	Camera view automatically follows the mouse cursor
 UIDelayLoading	Map and character loading delay
 #热键设定接口	
 UIHotkeyTitle	Key configuration
@@ -745,7 +745,7 @@ UIHotkeyDefault	Apply Defaults
 UIHotkeySave	Apply
 UIHotkeyInputMode1	Keyboard
 UIHotkeyInputMode2	Controller
-UIHotkeyNormalGroup	Move Key/Operation Key
+UIHotkeyNormalGroup	Move Key/Operate Key
 UIHotkeyFunctionGroup	Function key
 UIHotkeyUIGroup	Interface shortcuts
 UIHotkeyBattleGroup	Combat Quick Keys
@@ -857,7 +857,7 @@ UIReforgeChangeReforge	This weapon has already been reforged. Are you sure you w
 #熔炼界面	
 UISmeltMaterialHintText	The rarity of {0} is shared among {2} pieces of {1}
 UISmeltConfirm	Confirm smelting
-UISmeltAutoFill	Automatically enter
+UISmeltAutoFill	Automatic input
 UISmeltAutoReturn	Retrieved all
 UISmeltNoMaterials	Missing the materials needed for smelting!
 #画面提示	
@@ -935,11 +935,11 @@ value	Worth
 KeepTurn	Held for {0} rounds
 BeginUnitTalent	Accumulate {0} {1}% each round
 AfterDamageTalent	Each time attacked, accumulate {0} {1}%
-CriticalEffect	When activated, the current damage increases by {0}%
-ReleaseEffect	When releasing energy, self-damage is reduced by {0} %
-ComboEffect	Upon activating the combo, restore additional {0} points of energy
-CounterAttackEffect	When counterattacking, use {0} to strike back at the enemy
-TrickEffect	When a feint is executed, it randomly inflicts a negative status effect {0} points on the one hit
+CriticalEffect	When the Critical Attack is activated, damage for that turn increases by {0}%
+ReleaseEffect	Reduce self-damage by {0}% upon executing the move
+ComboEffect	When a combo attack is activated, additional energy is restored by {0} points
+CounterAttackEffect	When countering, strike back at the enemy using {0}
+TrickEffect	When executing a feigned move, randomly apply one negative status effect to the target for {0} points
 APRecovery	Recover energy
 #异常状态TIP	
 TipTurnLossHp	Each round loses lifeforce {0} points
@@ -948,12 +948,12 @@ TipTurnLossAp	Energy recovery reduced by {0} points each round
 TipAttackFall	Damage reduced by {0}% during attacks
 TipIncreasedDamage	When attacked, damage increases by {0}%
 TipAttackLossHp	Attacking will cause self to lose {0} points of lifeforce
-TipBan	{0} unable to activate, accumulated value
+TipBan	{0} cannot activate or accumulate values
 TipZero	{0}'s value is 0
-TipCramped	Every distance moved by the exertion of energy is reduced to {0}%
+TipCramped	Every unit of energy moved covers a distance reduced by {0}%
 TipSealed	Maximum strength reduced by {0} points
 TipFrozen	{0} reduced {1} by one point
-TipDazed	At the start of each round, {0}% cannot take action
+TipDazed	At the start of each round, {0}% cannot move
 #按键TIP	
 TipWaiting	Waiting<br>Consume {0} points of vitality
 TipChangeSkill	Change shortcut
@@ -966,8 +966,8 @@ MsgBeginBattle	Combat {0} begins
 MsgEndBattle	The battle with {0} has ended
 MsgBeginTurn	Begin Round {0}
 MsgEndTurn	End of Round {0}
-MsgBeginUnit	{0} began to act
-MsgEndUnit	{0} End Mission
+MsgBeginUnit	{0} begins to move
+MsgEndUnit	{0} ends their action
 MsgCounterAttackNotFound	{0} has no counterattack skills
 MsgCounterAttack	{0} used {1} to counterattack
 MsgCounterAttackFail	Counterattack failed
@@ -981,7 +981,7 @@ MsgAddDueTo	{0} because of {1}'s increase in {2} {3}
 MsgAddProp	{0} {1} adds {2}
 MsgSubProp	{0} {1} reduce {2}
 MsgUnitDeadDueToInjured	{0} died from internal injuries
-MsgRaiseComboAttack	{0} executes combo, +{1} AP
+MsgRaiseComboAttack	{0} initiates a combo attack, gaining +{1} AP
 MsgUnitDodge	{0} dodged the attack
 MsgResetRelease	{0} releases the energy to zero
 MsgReceiveDamage	{0} dealt {2} points of damage to {1}
@@ -1123,7 +1123,7 @@ Final07_18	Perhaps there will be no more days to meet in the future, but the jou
 Final07_19	A'De A'Ke, however, had not forgotten
 #结局 08	
 Final08_00	The tune ends gracefully
-Final08_01	The rise and fall of the Jianghu, yet the Charming Dream Pavilion always manages to skillfully navigate among various factions
+Final08_01	The rise and fall of the Jianghu, yet Charming Dream Pavilion always skillfully navigates among various factions
 Final08_02	Fan Xiangdie guided her sisters through one trial after another, facing the envy of many
 Final08_03	And with the financial support of Su Qingrui,
 Final08_04	Further expand the scope of intelligence to cover all of Xichuan
@@ -1131,11 +1131,11 @@ Final08_05	After the incident involving Jing Tairan, Su Qingrui...
 Final08_06	After recognizing their errors, they resolved to recover and revitalize Su Mansion
 Final08_07	And broadly accept virtuous and talented individuals, carefully manage the force
 Final08_08	Relying on the intelligence network of the Charming Dream Pavilion,
-Final08_09	Mobilize resources to support all factions of righteousness in Xichuan
+Final08_09	Mobilize forces to support the good factions of Xichuan
 Final08_10	Finally becoming someone in the Jianghu who, upon being mentioned,
 Final08_11	So everyone raised their thumbs and shouted in approval for Little Mengchang, the great hero Su
 #结局 09	
-Final09_00	Swift as the stars in motion
+Final09_00	Movement as fluid as a crane or heron
 Final09_01	The case at the Leisurely Scholars Academy occurred, and all the books in the academy were destroyed
 Final09_02	Countless precious martial arts manuals were lost as a result
 Final09_03	But with the lack of covert provocations from the Imperial Guards,
@@ -1265,13 +1265,13 @@ Final16_08	As a young child entering the palace, suffered endless oppression, an
 Final16_09	After mastering the techniques of a nefarious sect, he was consumed day and night with thoughts of revenge
 Final16_10	Indignant and without a moment's peace each day
 Final16_11	Because when I was young, I rushed to train
-Final16_12	And by using cleverly acquired obscure methods, he forcefully trained in the Corpse Serpent Poison Blood Technique
+Final16_12	Yet, they used cunning and unconventional methods to forcefully cultivate the Corpse Serpent Venom Blood Art
 Final16_13	Ultimately, he suffered from the backlash of his cultivation technique and died with his internal organs rotted away
 Final16_14	After moaning for seventy-seven forty-nine days,
 Final16_15	At a secluded alleyway residence in Xichuan, someone lost consciousness
 #结局 17	
 Final17_00	Great Way and Sincere Heart
-Final17_01	In the turmoil caused by Zhan Yinfei's uprising,
+Final17_01	Under the upheaval caused by Zhan Yinfei,
 Final17_02	Wang Zhe saw his sworn brother, Li Yanxian, and his sworn sister, Bai Lushuang
 Final17_03	They both sacrificed themselves to thwart the Merciless Hall
 Final17_04	In his sorrow, he resolved to carry on his sworn brother's legacy
@@ -1373,7 +1373,7 @@ Final24_00	Jiang shan mei ren
 Final24_01	Are beautiful women a harbinger of disaster? Or captivating beauties that enchant an entire nation?
 Final24_02	Facing your subordinates' response to your proposition,
 Final24_03	You laugh it off without any concern,
-Final24_04	Embrace the bewitching beauties with roguish smiles at your side into your arms
+Final24_04	Embrace in your arms the lovely women nearby, whose smiles are as skillful and charming as jade
 Final24_05	Controlling the world entirely, you recalled that moment,
 Final24_06	At that time, the ones who chose to stand by your side were them
 Final24_07	Craving a sense of long-term belonging and support,
