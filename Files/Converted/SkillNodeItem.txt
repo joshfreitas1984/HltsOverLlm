@@ -1188,7 +1188,7 @@
   splits:
   - split: 1
     text: "狂澜绝刀势"
-    translated: "Unstoppable Fierce Blade Technique"
+    translated: "A reckless ultimate blade technique"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1226,7 +1226,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狂澜绝刀势所消耗掉的每点精力，能够产生更大的威力"
-    translated: "Every point of energy consumed by the Raging Tide's Unrivaled Sword Technique can generate greater power"
+    translated: "Every point of energy consumed by the ultimate reckless blade technique produces greater power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1242,7 +1242,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狂澜绝刀势的攻击范围增加"
-    translated: "The range of the Rafting Vortex Supreme Blade Technique's attack has increased"
+    translated: "The range of the Reckless Ultimate Blade attack has increased"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2138,7 +2138,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "消耗所有残存精力出招攻击，所消耗的精力越多、敌人越邪恶，招式威力越强。"
-    translated: "Expending all remaining energy to attack, the stronger the power of the technique, the more energy consumed and the more evil the enemy"
+    translated: "Consume all remaining energy to unleash an attack; the more energy expended and the more evil the enemy, the greater the power of the technique"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -2186,7 +2186,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "使用罗汉伏虎时降低敌人特技值。敌人越邪恶，效果越显著"
-    translated: "When using Luohan's Tiger Suppression technique, reduce the enemy's skill value. The effect is more pronounced against more evil enemies"
+    translated: "When using the Rohan Tiger Taming technique, reduce the enemy's special abilities. The effect is more pronounced on enemies who are more evil"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3380,7 +3380,7 @@
   splits:
   - split: 1
     text: "狂狼咬"
-    translated: "Wolf's Fierce Bite"
+    translated: "Reckless Wolf Bite"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4324,7 +4324,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4372,7 +4372,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4596,7 +4596,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4644,7 +4644,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -4916,7 +4916,7 @@
   splits:
   - split: 1
     text: "纯阳一气"
-    translated: "Essence and Qi"
+    translated: "Pure Yang, One Qi"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5636,13 +5636,13 @@
   splits:
   - split: 1
     text: "正气歌诀"
-    translated: "Master of Qi Song Technique"
+    translated: "Righteous Qi Mantra"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行正气歌时，每回合恢复自身内力值6%"
-    translated: "While running the Song of Celestial Qi, recover 6% of your own internal energy each round"
+    translated: "When using the Righteous Qi Song each turn, recover 6% of your own internal energy"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5716,7 +5716,7 @@
   splits:
   - split: 1
     text: "天地有正气"
-    translated: "The heavens and earth have a righteous Qi"
+    translated: "The heavens and earth have righteous qi"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5738,7 +5738,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行正气歌时，战斗中的内力最大值提升800点"
-    translated: "When running the Zhen Qi Song, the maximum internal power in battle is increased by 800 points"
+    translated: "When performing Zhenqi Ge, the maximum internal power during battle increases by 800 points"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5748,7 +5748,7 @@
   splits:
   - split: 1
     text: "阴风骤起"
-    translated: "Dark winds suddenly rose"
+    translated: "A sudden burst of chilling wind arose"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5770,7 +5770,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "自身越邪恶，黑风追煞的威力越强"
-    translated: "The more evil one is, the stronger the power of Black Wind Pursuit"
+    translated: "The more evil one becomes, the stronger the power of the Black Wind Pursuer"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5802,7 +5802,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "自身越邪恶，阴风骤起的威力越强"
-    translated: "The more malevolent one's nature, the stronger the power of a sudden rise in sinister winds"
+    translated: "The stronger one becomes in evil, the more powerful the sudden surge of dark winds"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5860,13 +5860,13 @@
   splits:
   - split: 1
     text: "阴风起"
-    translated: "Dark winds rose"
+    translated: "A shadowy wind rises"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "降低阴风骤起、黑风追煞的消耗内力"
-    translated: "Reduce the consumption of internal energy caused by sudden and intense cold winds, as well as dark wind chasing"
+    translated: "Reduce the internal energy consumption caused by a sudden rise in Yin Wind and the pursuit of Black Wind's killing force"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -5882,7 +5882,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "施展阴风骤起、黑风追煞袭击敌人背面时，造成的伤害额外增加"
-    translated: "When activating Yin Wind Sudden Rise and Black Wind Pursuit to attack an enemy from behind, the damage inflicted is additionally increased"
+    translated: "When Shizhan's shadow wind and dark pursuit attack hit the enemy from behind, the damage is additionally increased"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6244,7 +6244,7 @@
   splits:
   - split: 1
     text: "阴魂不散"
-    translated: "Unresolved ghosts"
+    translated: "Restless spirits linger"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6436,7 +6436,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6484,7 +6484,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6500,7 +6500,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6516,7 +6516,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6532,7 +6532,7 @@
   splits:
   - split: 1
     text: "阴阳法"
-    translated: "Yin-yang law"
+    translated: "The principles of Yin and Yang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6564,7 +6564,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -6580,7 +6580,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8068,7 +8068,7 @@
   splits:
   - split: 1
     text: "开阳武曲"
-    translated: "Opening Yang Martial Form"
+    translated: "Open Yang Wu Qu"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8548,7 +8548,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8564,7 +8564,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8580,7 +8580,7 @@
   splits:
   - split: 1
     text: "纯阳真气"
-    translated: "Unadulterated Yang True Qi"
+    translated: "Yang True Qi"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8596,7 +8596,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8612,7 +8612,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8804,7 +8804,7 @@
   splits:
   - split: 1
     text: "狂夫窃笑有明珠"
-    translated: "Madman's secret smile holds a bright pearl"
+    translated: "The reckless man smiles, having stolen a fine pearl"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8874,7 +8874,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "停杯问月今何在、狂夫窃笑有明珠，增强伤害"
-    translated: "Put down the cup, ask where is the moon now; The madman laughs aloud and has a pearl in hand, Enhance damage"
+    translated: "Put down your cup and ask about the moon—where is it today? A reckless man steals a smile at the sight of clear pearls, enhancing the damage"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -8890,7 +8890,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "停杯问月今何在、狂夫窃笑有明珠，附加分筋效果"
-    translated: "Pause the cup and ask the moon where it is now, while the wild man steals a smile with his bright pearl. Add muscle damage effect"
+    translated: "Pause the cup, gaze at the moon—where is it today? The reckless one laughs quietly, holding a bright pearl with added muscle damage effect"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9012,7 +9012,7 @@
   splits:
   - split: 1
     text: "刚勇"
-    translated: "Brave and Bold"
+    translated: "Strong Brave"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9076,7 +9076,7 @@
   splits:
   - split: 1
     text: "毒术修为、玄阴内功"
-    translated: "Heritage in Poison Techniques, Proficiency in Xuan Yin Neigong"
+    translated: "Her expertise in toxicology and mastery of Xuan Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9098,7 +9098,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "毒术、邪值越高，招式威力越强"
-    translated: "As the level of toxic techniques and evil values increases, the power of the moves becomes stronger"
+    translated: "As the level of poison skill and evil value increases, the power of techniques becomes stronger"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9114,7 +9114,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "毒术、邪值越高，招式威力越强"
-    translated: "The higher the level of toxic arts and dark attributes, the stronger the technique's power"
+    translated: "As one's mastery of toxic techniques and evil value increases, their moves become more powerful"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9156,7 +9156,7 @@
   splits:
   - split: 1
     text: "毒术修为、玄阴内功"
-    translated: "Heritage in Poison Techniques, Proficiency in Xuan Yin Neigong"
+    translated: "Her expertise in toxicology and mastery of Xuan Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9172,7 +9172,7 @@
   splits:
   - split: 1
     text: "毒术修为、玄阴内功"
-    translated: "Poison Arts Proficiency, Xuan Yin Neigong"
+    translated: "Her expertise in toxicology and mastery of Xuan Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9658,7 +9658,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "造成敌人中毒、迷惑。毒术、邪值越高，招式威力越强"
-    translated: "Causing the enemy to be poisoned and confused. The more potent the poison techniques and evil value, the stronger the attack"
+    translated: "Causing the enemy to be poisoned and confused. The more advanced their toxic arts and evil skills, the stronger their techniques become"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9674,7 +9674,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "造成敌人中毒、晕眩。毒术、邪值越高，招式威力越强"
-    translated: "Causing the enemy to be poisoned and dizzy. The higher the level of poison arts or evil, the stronger the technique's power"
+    translated: "Causes the opponent to be poisoned and dizzy. The higher the level of toxic arts or malevolence, the more powerful the technique"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9924,7 +9924,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9940,7 +9940,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -9988,7 +9988,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10004,7 +10004,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10052,7 +10052,7 @@
   splits:
   - split: 1
     text: "太阴真气"
-    translated: "Tai Yin True Qi"
+    translated: "Pure Yin True Qi"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10634,7 +10634,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狂值越高，威力越强"
-    translated: "As the value becomes higher, the power becomes stronger"
+    translated: "The higher the reckless value, the greater the power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10650,7 +10650,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狂值越高，威力越强"
-    translated: "As the score increases, the power becomes stronger"
+    translated: "The higher the reckless value, the greater the power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -10666,7 +10666,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狂值越高，威力越强"
-    translated: "As the value becomes more extreme, the power becomes stronger"
+    translated: "The higher the reckless value, the greater the power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11434,7 +11434,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "中毒+2；邪值越高，威力越强"
-    translated: "Poisoned +2; the more Evil, the greater the power"
+    translated: "Poison Level +2; the greater the evil value, the stronger its power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11450,7 +11450,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "中毒+10；邪值越高，威力越强"
-    translated: "Poisoned +10; the higher the evil value, the stronger the power"
+    translated: "Poison level +10; The more evil the value, the greater the power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11460,7 +11460,7 @@
   splits:
   - split: 1
     text: "狂龙穿心爪"
-    translated: "Kuanglong Chuanshen Zha"
+    translated: "The Reckless Dragon's Heart-Piercing Claw"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11482,7 +11482,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The cunning snake, in its quest to seize the Cloud Pearl, gains an additional 2 poison points. It enhances its hand combat by +2, increases its mastery of poisons by +2, and raises its evil value by +5"
+    translated: "The wily snake, in addition to the Cloud Jewel bonus, adds 2 Poisoned points, Hand Combat +2, Poison Arts +2, Evil Value +5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11498,7 +11498,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The cunning snake steals the Cloud Pearl, gaining an additional 2 points of Poisoned status, +2 to Hand Combat, +2 to Poison Lore, and +5 to Evil values"
+    translated: "The cunning serpent gains an additional 2 points of poison value when attempting to seize the Cloud Pearl. Hand Combat +2, Poison Lore +2, Evil Value +5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11514,7 +11514,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狡蛇抢云珠额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The cunning snake also adds 2 points of poison, increases hand combat by 2, augments the art of poisons by 2, and raises evil values by 5"
+    translated: "Devious Snake's Cloud Pearl adds an extra 2 points to the Poisoned status, +2 to Hand Combat, +2 to Toxicology, and increases Evil value by 5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11530,7 +11530,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The Spirit Serpent's shock attack adds an additional 2 poison points, increases hand combat by +2, enhances the art of poisons by +2, and boosts its evil value by +5"
+    translated: "The Nine-Headed Spirit Snake not only frightens the Toad but also adds 2 points to its Poison status. It gains +2 in Hand Combat, +2 in Toxicology, and +5 in Evil"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11546,7 +11546,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "The Venomous Snake Spirit causes an additional poison value of 2 points. Adds +2 to Hand Combat, +2 to Poison Arts, and increases its Evil Value by 5"
+    translated: "The Spirit Snake startles the Toad and adds 2 additional Poisoned points. Hand Combat +2, Toxicology +2, Evil Value +5"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -11562,7 +11562,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "灵蟒逗惊蟾额外附加中毒值2点，搏击+2，毒术+2，邪值+5"
-    translated: "Ling Mang's surprise attack adds an extra 2 points of poisoning, hand combat +2, poisoncraft +2, evil value +5"
+    translated: "The Venomous Snake Spirit causes surprise and adds an extra 2 points of Poisoned, +2 to Hand Combat, +2 to Poison Arts, and +5 to Evil"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14004,7 +14004,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14020,7 +14020,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14052,7 +14052,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -14068,7 +14068,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15300,7 +15300,7 @@
   splits:
   - split: 1
     text: "阳煦山立"
-    translated: "Yangxu shan li"
+    translated: "Sunshine warms the mountains"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15338,7 +15338,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "阳煦山立额外增加3点封穴值"
-    translated: "Yangxu Shan Li's additional seal point value has increased by 3 points"
+    translated: "Sun Xuan adds an extra 3 points of sealed acupoints"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15354,7 +15354,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "阳煦山立额外增加3点封穴值"
-    translated: "Yangxu Shan Li receives an additional 3 points in sealed acupoint value"
+    translated: "Yang Xushan's forehead gains an additional 3 Sealed Acupoints"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15364,7 +15364,7 @@
   splits:
   - split: 1
     text: "朝阳丹凤"
-    translated: "Chaoyang Danfeng"
+    translated: "Sunrise Phoenix"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15418,7 +15418,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "阳煦山立、朝阳丹凤的攻击范围增加"
-    translated: "Yangxu shan li, chaoyang danfeng de gongji fanyuan zengjia"
+    translated: "Yang Xuan and Dang Feng's attack range has increased"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15428,7 +15428,7 @@
   splits:
   - split: 1
     text: "正气凛然"
-    translated: "Composed and resolute spirit"
+    translated: "Righteous qi stands firm"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15450,7 +15450,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "阳煦山立、朝阳丹凤的威力增强"
-    translated: "Sunlit Mountain Stands Tall, Enhanced Power of the Dawn Phoenix"
+    translated: "Under the auspicious influence of Sun-Yang Mountain and the Red Phoenix at dawn, their power grows stronger"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15476,7 +15476,7 @@
   splits:
   - split: 1
     text: "一阳来复"
-    translated: "Return of the One Yang"
+    translated: "One Yin, Return of the Yang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -15492,7 +15492,7 @@
   splits:
   - split: 1
     text: "一阳来复"
-    translated: "Return of the One Yang"
+    translated: "One Yin, Return of the Yang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17428,13 +17428,13 @@
   splits:
   - split: 1
     text: "九阴神功"
-    translated: "Jiu Yin Shen Gong"
+    translated: "The Nine Yin Divine Skill"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行九阴神功时，九阴白骨爪与大伏魔拳法的威力提升"
-    translated: "Running the Nine Yin Shen Gong enhances the power of the Nine Yin White Bone Claw and the Great Vanquish Demon Fist"
+    translated: "When operating the Nine Yin Divine Skill, the power of the Nine Yin Skeleton Claw and the Great Subdue Demon Fist Technique is enhanced"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17444,7 +17444,7 @@
   splits:
   - split: 1
     text: "九阴白骨爪"
-    translated: "Ghost Bone Claw"
+    translated: "Nine Yin White Bone Claw"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17498,7 +17498,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行九阴神功时，自身攻击力提升"
-    translated: "While performing the Nine Yin Divine Skill, one's own attack power increases"
+    translated: "When running the Jiuyin Shen Gong, your own attack power increases"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17514,7 +17514,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行九阴神功时，有机率闪避敌方攻击"
-    translated: "While performing the Nine Yin Divine Skill, there is a chance to evade enemy attacks"
+    translated: "When activating the Nine Yin Divine Skill, there's a chance to evade enemy attacks"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17530,7 +17530,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行九阴神功时，发动反击扣除敌人1点精力"
-    translated: "When activating the Nine Yin Divine Skill, counterattack to reduce 1 point of the enemy's energy"
+    translated: "When using the Nine Yin Divine Skill, launching a counterattack reduces the enemy's energy by 1 point"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17546,7 +17546,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行九阴神功时，自身防御力提升"
-    translated: "When running Jiuyin Shen Gong, the self-defense power is increased"
+    translated: "While performing the Nine Yin Divine Skill, one's defensive capabilities are enhanced"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17562,7 +17562,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "运行九阴神功时，攻击时择一附加：分筋、错骨、晕眩、迷惑、封穴"
-    translated: "When activating the Nine Yin Divine Skill, choose one extra target during an attack：Muscle damage, bone damage, dizziness, confusion, sealed acupoints"
+    translated: "When activating the Nine Yin Divine Skill, choose one additional attack：Muscle damage, bone damage, dizziness, confusion, sealed acupoints"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17588,7 +17588,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17604,7 +17604,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17620,7 +17620,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17652,7 +17652,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17668,7 +17668,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17684,7 +17684,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17700,7 +17700,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -17796,7 +17796,7 @@
   splits:
   - split: 1
     text: "中阴"
-    translated: "Half-Life"
+    translated: "The Yin Realm"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -18868,7 +18868,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuan Yin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -18884,7 +18884,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -18906,7 +18906,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "邪值越高，血饮魔功的吸血效果越显著"
-    translated: "The more one's nefarious value, the more pronounced the blood-drinking effect of the demon technique"
+    translated: "As the evil value increases, the blood-drinking effects of the Blood Sipper's Kung Fu become more pronounced"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -18922,7 +18922,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狂值越高，血饮魔功的吸血效果越显著"
-    translated: "The higher the kouzhi value, the more pronounced the blood-drinking effects of Xue Yin Mo Gong"
+    translated: "The more reckless one is, the more pronounced the blood-drinking effect of their Blood-Imbibe Technique becomes"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -18932,7 +18932,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -18948,7 +18948,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19066,7 +19066,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狂值越高，沙门天孤星的威力越强"
-    translated: "As the value becomes crazier, the power of the Shamen Tian Guo Star increases"
+    translated: "The more reckless, the greater the power of Sha Monastery's Solitary Star"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19114,7 +19114,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "狂值越高，落马闹禅林的威力越强"
-    translated: "As the value of kang zhi increases, the impact of falling in the chaotic Zen forest becomes more powerful"
+    translated: "The higher the value of reckless, the more powerful it becomes to disrupt the Chan Monastery"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19252,7 +19252,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19268,7 +19268,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19316,7 +19316,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19508,7 +19508,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19540,7 +19540,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19556,7 +19556,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -19572,7 +19572,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20132,7 +20132,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20148,7 +20148,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20164,7 +20164,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuan Yin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20180,7 +20180,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20260,7 +20260,7 @@
   splits:
   - split: 1
     text: "商阳"
-    translated: "Shang Yang"
+    translated: "Shangyang"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20772,7 +20772,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20820,7 +20820,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20836,7 +20836,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20884,7 +20884,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -20996,7 +20996,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21012,7 +21012,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21044,7 +21044,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21498,7 +21498,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "自身的毒术愈高，对敌人造成的中毒与晕眩值越高；角色越邪恶，威力越强。"
-    translated: "The higher one's mastery of poison techniques, the greater the poisoning and dizziness inflicted upon enemies. The more evil a character is, the stronger their power"
+    translated: "The higher a character's mastery of poison techniques, the greater the poisoning and dizziness effects inflicted on their enemies. The more evil a character is, the stronger their power"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21546,7 +21546,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "若装备黑血神针，额外附加4点中毒、4点晕眩值；角色越邪恶，威力越强。"
-    translated: "If the weapon is equipped with the Black Blood Divine Needle, it additionally adds 4 points of poisoning and 4 points of dizziness; the more evil the character, the greater its power"
+    translated: "If equipped with the Black Blood Divine Needle, it adds an extra 4 points of Poisoned and 4 points of Dizziness. The more evil the character is, the stronger its power becomes"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21658,7 +21658,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "邪值越高，插双眼、撩阴腿的威力越强，且撒石灰的迷惑效果越好"
-    translated: "The higher the evil value, the stronger the power of plugging ears and lifting skirts, and the better the effect of causing confusion by scattering plaster"
+    translated: "As the evil value increases, the effectiveness of probing with both eyes and teasing with one's legs grows stronger. Additionally, the confusing effects of spreading lime powder become more potent"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -21988,7 +21988,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22004,7 +22004,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22020,7 +22020,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22052,7 +22052,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22068,7 +22068,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22084,7 +22084,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22180,7 +22180,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22196,7 +22196,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22228,7 +22228,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22244,7 +22244,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22420,7 +22420,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22436,7 +22436,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22468,7 +22468,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22484,7 +22484,7 @@
   splits:
   - split: 1
     text: "纯阳内功"
-    translated: "Qunyang Neigong"
+    translated: "Pure Yang Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22548,7 +22548,7 @@
   splits:
   - split: 1
     text: "辟邪大法"
-    translated: "Great Exorcism Technique"
+    translated: "Evil-Expelling Great Technique"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22564,7 +22564,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22596,7 +22596,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22804,7 +22804,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22820,7 +22820,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin Neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22836,7 +22836,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -22852,7 +22852,7 @@
   splits:
   - split: 1
     text: "玄阴内功"
-    translated: "Xuanyin neigong"
+    translated: "Dark Yin Neigong"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

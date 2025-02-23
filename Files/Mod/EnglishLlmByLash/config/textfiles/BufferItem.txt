@@ -279,9 +279,9 @@ buffSkillTree007_000	Thousands of threads	Requires the martial art of Sword Arts
 buffSkillTree007_002	Grapple Technique	Experience the need to understand 'softness.'：Within range, friendly units receive a 15% reduction in damage taken	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree007_003	Continuous Stitch Technique	One must cultivate a deep understanding of 'softness' to truly grasp its essence and significance：The attacker gains a 15% reduction in self-inflicted damage	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree007_006	To sew the seeds of discord	Every sequence increases the damage dealt to enemies by 10%	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree008_000	Unstoppable Fierce Blade Technique	Expend all remaining energy to strike, the more energy expended, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree008_000
-buffSkillTree008_002	Surging waves break the shore	The damage inflicted by the Crazy Rapids Ultimate Blade Technique increases with each point of energy consumed	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree008_003	Surging waves of fury	Attack range of the Raging Current Ultimate Blade Technique is increased	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree008_000	A reckless ultimate blade technique	Expend all remaining energy to strike, the more energy expended, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree008_000
+buffSkillTree008_002	Surging waves break the shore	The damage dealt by each point of energy consumed through the Kuanglan Juedao technique is increased	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree008_003	Surging waves of fury	The range of the attack using Reckless Tidal Ultimate Blade Technique has increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree009_004	Entangled	The damage from the muscle damage technique increases, and the additional muscle damage value rises by +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree009_006	Clasp	The damage of the Cuogu technique increases, with an additional +4 to the Cuogu value	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree010_002	Brave enough to face a hundred thousand strong	If you dare to face a hundred thousand strong opponents and defeat them, your critical hit rate increases by 8 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_002
@@ -302,9 +302,9 @@ buffSkillTree014_002	Plentiful as the peach and plum trees across the river	Cons
 buffSkillTree014_003	Flourishing in abundance	Consume an additional 1 point of energy and 20 points of internal power. The effect of A Thousand Hues in Bloom is enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree014_004	Willow catkins fluttering	Wanziqianhong's energy consumption increases by 1 point, internal power consumption increases by 25 points. Baihuailiaolu's effect is enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree014_008	Scattered flowers in a burst	Wanzi Qianhong's energy consumption increases by 1 point, and internal power consumption increases by 30 points. The effect of Baihua Liaolu is strengthened	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree016_000	Luohan Subdues a Tiger	The more evil the enemy, the stronger their moves are	0		0	FALSE	0	FALSE	0	0		buffSkillTree016_000
-buffSkillTree016_003	Strong Conquering Demons	Consume all remaining energy to perform an attack, the greater the expended energy and the more evil the enemy, the stronger the technique's power	0		0	FALSE	0	FALSE	0	0		buffSkillTree016_003
-buffSkillTree016_006	Mohe Wuliang	When using the Lohan Subdues Tiger technique, reduce the target enemy's skill value. The effect is more pronounced on the more evil enemies	0		0	FALSE	0	FALSE	0	0		buffSkillTree016_006
+buffSkillTree016_000	Luohan Subdues a Tiger	The more evil the enemy, the stronger their techniques	0		0	FALSE	0	FALSE	0	0		buffSkillTree016_000
+buffSkillTree016_003	Strong Conquering Demons	Expending all remaining energy to unleash an attack; the more energy consumed, and the more evil the enemy, the stronger the technique	0		0	FALSE	0	FALSE	0	0		buffSkillTree016_003
+buffSkillTree016_006	Mohe Wuliang	When using the Lotus Position to Subdue Tigers, reduce the target enemy's special ability value. The effect is more pronounced against enemies who are more evil	0		0	FALSE	0	FALSE	0	0		buffSkillTree016_006
 buffSkillTree017_005	Ghost Shadow	Bone damage caused by Bai Gui Ye Xing grants an additional +8	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree017_006	Haunting Ghost	Spending on Ghostly Night Walk reduces fatigue by 1 point	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree017_008	Phantom	The apparition's fleeting presence becomes more distant	0		0	FALSE	0	FALSE	0	0		0
@@ -367,7 +367,7 @@ buffSkillTree040_007	Turn hand, enter cloud	Water Margin Hero's Palm grants an a
 buffSkillTree040_008	Hunyuan Tenglang	Water Margin Heroic Palm consumes half as much internal energy	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree040_009	Rest easy	When Water Margin heroes counter-attack, damage increases by 25%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree041_004	The moving blade arrives	Game mechanic Tails of the Dragon: Adds 8 points of confusion	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree041_005	Essence and Qi	Playing the Dragon Swirls its Tail reduces the consumption of internal energy by half	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree041_005	Pure Yang, One Qi	Playing the Dragon Swirls its Tail reduces the consumption of internal energy by half	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree041_006	Ascending Dragon, Like Clouds	When counterattacking with Dragon Tail Flapping, increase damage by 25%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree041_007	Travel the Four Directions	Playing Dragon Tails consumes 1 less energy	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree041_008	Intention is useless	Increasing the attack range for playing with a dragon's tail	0		0	FALSE	0	FALSE	0	0		0
@@ -396,14 +396,14 @@ buffSkillTree045_006	Unfazed by imminent danger	When Easy Water is counterattack
 buffSkillTree045_007	Ice still cold in the Yi River	Yishuihan's attack range has increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree045_008	Generous send-off	Yishuihan's consumption of internal strength is halved	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree045_009	Axe cuts off the arm	Ye Shui Han's power has increased	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree046_000	Master of Qi Song Technique	Each round restores 6% of your own Qi	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,6)	beginUnitProp
-buffSkillTree046_005	The heavens and earth have a righteous Qi	Each round recover 12% of own Qi	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,12)	beginUnitProp
-buffSkillTree046_006	Expanse of Vast Emptiness	Running the Zhen Qi Song increases the maximum internal power by 800 points during battle	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree046_006_2	Expanse of Vast Emptiness	When running the Zhen Qi Song, the maximum internal power in battle is increased by 800 points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree047_001	Black Wind Pursuer	The more evil one is, the stronger the power of Black Wind Pursuer	0		0	FALSE	0	FALSE	0	0		buffSkillTree047_001
-buffSkillTree047_003	Black Slaughter Force	The more evil one is, the stronger the force of a sudden gust of dark wind becomes	0		0	FALSE	0	FALSE	0	0		buffSkillTree047_003
-buffSkillTree047_007	Dark winds rose	Reduce the consumption of internal energy caused by the sudden rise of Yin winds and black chasing ghosts	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree047_008	Ghostly soul emerges	When using Yin Feng and Black Wind Pursuit to attack the enemy's back, the inflicted damage is additionally increased	0		0	FALSE	0	FALSE	0	0		buffSkillTree047_008
+buffSkillTree046_000	Righteous Qi Mantra	Each round restores 6% of your own Qi	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,6)	beginUnitProp
+buffSkillTree046_005	The heavens and earth have righteous qi	Each round recover 12% of own Qi	0	buffSkillTree046_000	0	TRUE	0	FALSE	0	1	(MP,12)	beginUnitProp
+buffSkillTree046_006	Expanse of Vast Emptiness	When performing the Song of Righteous Qi, it increases the maximum inner strength by 800 points during combat	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree046_006_2	Expanse of Vast Emptiness	When running Song of Righteous Qi, the maximum internal energy value in battle is increased by 800 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree047_001	Black Wind Pursuer	The more evil one becomes, the stronger the power of Hei Feng Zhuisha	0		0	FALSE	0	FALSE	0	0		buffSkillTree047_001
+buffSkillTree047_003	Black Slaughter Force	As one becomes more evil, the power of the sudden rise of dark winds grows stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree047_003
+buffSkillTree047_007	A shadowy wind rises	Reduce the depletion of internal energy caused by a sudden drop in Yin wind and the pursuit of Black Wind	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree047_008	Ghostly soul emerges	When Yin Feng suddenly rises and attacks the enemy from behind with Black Wind Pursuit, it inflicts additional damage	0		0	FALSE	0	FALSE	0	0		buffSkillTree047_008
 buffSkillTree048_005	Death-Verdict Writing Brush	If one uses Yama King's command to attack an enemy from behind who is of a lower level, there is a chance that the enemy will die immediately	0		0	FALSE	0	FALSE	0	0		buffSkillTree048_005
 buffSkillTree048_006	Death Record	If one uses Yanwang's Command to attack enemies from the side whose level is lower than their own, there is a chance it will cause them to die immediately	0		0	FALSE	0	FALSE	0	0		buffSkillTree048_006
 buffSkillTree048_008	Deadly Pursuit	Attacking enemies with a lower level than yourself may result in the enemy dying immediately	0		0	FALSE	0	FALSE	0	0		buffSkillTree048_008
@@ -412,7 +412,7 @@ buffSkillTree049_003	Death-Inducing Flying Star	If you activate Shi Chan Sang Me
 buffSkillTree049_007	Like a thorn in the throat	If you cast Celestial Net and trigger a critical hit, there is a 25% chance to restore 1 point of energy to yourself	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_007
 buffSkillTree049_008	Attract butterflies, summon bees	If you deploy a web of heaven and earth, after executing feigned moves there is a 25% chance to restore 1 point of energy to yourself	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_008
 buffSkillTree049_009	Goosebumps on the back	If you unleash the Falling Star of Death and trigger a critical hit, there is a 50% chance to recover 1 point of vitality for yourself	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_009
-buffSkillTree049_010	Unresolved ghosts	If you execute Sangmen Feixing and then deploy a feint, there is a 50% chance to restore one point of vitality to yourself	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_010
+buffSkillTree049_010	Restless spirits linger	If you execute Sangmen Feixing and then deploy a feint, there is a 50% chance to restore one point of vitality to yourself	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_010
 buffSkillTree049_011	Chase the Soul Seven Breaks	If you execute the Seven Soul-Cleaving Strikes and unleash a combo, recover 2 energy points for yourself	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_011
 buffSkillTree050_000	Take my thunderbolt pill!	Special move exclusive to Kong Jin	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree050_001	Lord Kong Ba	Kong Jin's exclusive technique	0		0	FALSE	0	FALSE	0	0		0
@@ -427,7 +427,7 @@ buffSkillTree052_002_5	Teng Yuan Gong	Resist 10 points of muscle damage, 10 poin
 buffSkillTree052_002_6	Teng Yuan Gong	Resist 5 points of muscle damage, 5 points of bone damage, 10 points of confusion, 10 points of dizziness, and 15 points of sealed acupoints	0	buffSkillTree052_002	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree052_002_7	Ascension Primordial Skill	Resist 10 points of muscle damage, 10 points of bone damage, 5 points of confusion, 5 points of dizziness, and 15 points of sealed acupoints	0	buffSkillTree052_002	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree052_002_8	Teng Yuan Gong	Resist 10 points of muscle damage, 10 points of bone damage, 10 points of confusion, 10 points of dizziness, and 15 points of sealed acupoints	0	buffSkillTree052_002	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree052_006	Yin-yang law	Teng Yuan Gong provides an additional 12 points of resistance to sealed acupoints	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree052_006	The principles of Yin and Yang	Teng Yuan Gong provides an additional 12 points of resistance to sealed acupoints	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree052_007	Joint Manipulation	The Teng Yuan Gong provides an additional 6 points of resistance against muscle damage and 6 points of bone damage	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree053_000	Hundun Gong	When operating the Yuan Ying Gong, recover an additional point of energy per turn	0	buffSkillTree053_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree053_000_2	From the outside in	While running the Yuanyuan Skill, enhance the power of the Yuanyuan Palm techniques	0	buffSkillTree053_000	0	FALSE	0	FALSE	0	0		0
@@ -443,7 +443,7 @@ buffSkillTree056_002	Snake venom concoction	Can refine snake venom	0		0	FALSE	0	
 buffSkillTree056_003	Amphibian Poison Alchemy	Can be refined into toad venom	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree056_004	Scorpion venom processing	Can refine scorpion venom	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree056_007	Poisonous substance collection	While collecting poisons, no longer get poisoned	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree056_008	Five Poisons Palm	The higher one's mastery of their poison techniques, the greater the poisoning effect inflicted upon an enemy. The higher the levels of poison skills and evil value, the stronger the power of the techniques. If there is a Five Poisons Powder in your satchel, it grants additional bonus damage to your techniques	0		0	FALSE	0	FALSE	0	0		buffSkillTree056_008
+buffSkillTree056_008	Five Poisons Palm	The higher one's mastery of poison arts, the greater the poison value added to an enemy. The more advanced the poison arts and evil values are, the stronger the technique becomes. If there is Five Poison Powder in the travel bag, the damage of the technique gains additional enhancement	0		0	FALSE	0	FALSE	0	0		buffSkillTree056_008
 buffSkillTree056_009	Five-Poison Powder	This technique can be used to concoct Five Venom Powder. If the Five Venom Powder is present in one's satchel, deploying this move will inflict 10 points of poisoning, dizziness, confusion, muscle damage, and bone damage on the opponent	0		0	FALSE	0	FALSE	0	0		buffSkillTree056_009
 buffSkillTree057_003	Lin Han opened it by himself	Fragrance in the dark, chilling to the bone, adds 4 points of confusion	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree057_005	Far off I know it is not snow	Shadowy Fragrance against Cold requires 1 less focus	0		0	FALSE	0	FALSE	0	0		0
@@ -461,7 +461,7 @@ buffSkillTree069_003	Eagle Claw	Flying Eagle Arrow Technique's attack range incr
 buffSkillTree069_004	Eagle Beak	The power of the Flying Eagle Arrow Technique has increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree070_006	Powerful Dragon	The power of the Silver Dragon's distant roar is enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree070_007	Scrolling Dragon	Yin Long Yuan Ming's attack range has increased	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree071_002	Opening Yang Martial Form	Sword Art +4, increase the power of Yaoguang Pujun by 3% if performed before moving in a round	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree071_002	Open Yang Wu Qu	Sword Art +4, increase the power of Yaoguang Pujun by 3% if performed before moving in a round	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree071_003	Yuheng Lianzhen	Sword Art +4. Before moving in the round, cast Yaoguang Pojun, increasing its power by 6%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree071_004	Heavenly Mandate and Literati	Enhance Sword Art by 4. Before moving in this round, deploy the Jade Light Break Army to increase its power by 9%	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree071_005	Tian Jiru Cun	Sword Art +4, before moving in this turn, deploy the Jade Radiance Disrupting Army; damage increased by 12%	0		0	FALSE	0	FALSE	0	0		0
@@ -470,8 +470,8 @@ buffSkillTree072_008	Eight thousand miles of clouds and moon	Consuming Hun meat 
 buffSkillTree074_007	Wearing mourning clothes and performing the rites of filial mourning	The chaotic cloak inflicts an additional 8 points of internal injury effects	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree074_008	Confused and anxious	Random Cloak inflicts an additional 8 points of dizziness	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree074_009	Stir up trouble	Use of the disheveled cape reduces fatigue by 1 point	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree076_000	Pure Yang Infinite Skill	Restore 4% of energy each turn and alleviate internal injuries by 10%	0	buffSkillTree076_000	0	TRUE	0	FALSE	0	1	(MP,4)(Injured,-10)	beginUnitProp
-buffSkillTree076_003	Unadulterated Yang True Qi	Each turn restores 8% of energy, alleviates internal injury by 12%, and removes poison by 12%	0	buffSkillTree076_000	0	TRUE	0	FALSE	0	1	(MP,8)(Injured,-12)(Poisoned,-12)	beginUnitProp
+buffSkillTree076_000	Yang-style Supreme Ultimate Skill	Restore 4% of energy each turn and alleviate internal injuries by 10%	0	buffSkillTree076_000	0	TRUE	0	FALSE	0	1	(MP,4)(Injured,-10)	beginUnitProp
+buffSkillTree076_003	Pure Yang True Qi	Each turn restores 8% of energy, alleviates internal injury by 12%, and removes poison by 12%	0	buffSkillTree076_000	0	TRUE	0	FALSE	0	1	(MP,8)(Injured,-12)(Poisoned,-12)	beginUnitProp
 buffSkillTree076_006	Amorphous violet mist	Each turn restores 12% of their qi, removes internal injuries by 15%, antidotes poison by 15%, and thaws frozen conditions by 15%	0	buffSkillTree076_000	0	TRUE	0	FALSE	0	1	(MP,12)(Injured,-15)(Poisoned,-15)(Frozen,-15)	beginUnitProp
 buffSkillTree077_000	Divine Arrow Seven-Link Chain	If you use Divine Arrow Seven in a Row to kill an enemy, your own energy is restored by 2 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_000
 buffSkillTree077_000_2	Divine Arrow Seven-Link Chain	If one uses the Divine Arrow Seven-in-a-Row to kill an enemy, their own energy is restored by 3 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_000_2
@@ -483,10 +483,10 @@ buffSkillTree077_006	Like a tiger pouncing	Hawk Hunting the Snow Mountains' Powe
 buffSkillTree077_007	White foxes fly in the forest	Use Falcon's Snowy Mountain to increase your combo rate by 6 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_007
 buffSkillTree077_008	Grey Eagle Flaps Wings Swiftly	If using the Divine Arrow Seven Links technique, followed by Hawk's Snow Mountain Strike to kill an enemy, restore 3 points of personal energy	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree078_004	Leaning on a white steed	Pause Cup, Ask Moon Where Is It Now, with Added Effect of Stalling the Sequence	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree078_005	Again laughed at the azure sky	Pause your cup to ask the moon where it is today; a madman secretly smiles with his bright pearl, enhancing damage	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree078_006	I laugh at all living beings	Lay down your cup and ask the moon, Where do you stand today? The wild man smirks in secret, his eyes like bright pearls, enhanced with muscle damage	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree078_005	Again laughed at the azure sky	Put down the cup and ask where the moon is tonight, while the reckless man steals a smile with his bright pearl, enhancing damage	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree078_006	I laugh at all living beings	Set down the cup and gaze at the moon, where is it now? A reckless husband steals a smile as he possesses a bright pearl, enhancing muscle damage	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree079_000	Nanjing's Influence	After executing Tian Nan Fei, resist 6 points of muscle and bone damage for the next five turns	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_000
-buffSkillTree079_004	Brave and Bold	When using Tiannan power, increase the accumulated critical hit rate of oneself by an additional 5 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_004
+buffSkillTree079_004	Strong Brave	When using Tiannan power, increase the accumulated critical hit rate of oneself by an additional 5 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_004
 buffSkillTree079_005	Steady	After deploying the Tian Nan maneuver, you can resist 6 points of confusion and dizziness for the next 5 turns	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree079_005_2	Steadfast	After using Tiannan Style, resist 6 points of Muscle Damage, Bone Damage, Confusion, and Dizziness for the next 5 turns	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_005_2
 buffSkillTree079_006	Composed	When deploying Tiannan Strategy, increase your accumulated counterattack rate by an additional 5 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree079_006
@@ -495,8 +495,8 @@ buffSkillTree080_000_2	Ultimate Toxic Method	When running the Seven-Colored Pois
 buffSkillTree080_000_3	Seven-colored Poisonous Qi	Cause all enemies within a 2-unit radius to suffer from 8 points of poisoning and 4 points of muscle damage each turn	0	buffSkillTree080_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree080_000_4	Seven-Color Poisonous Gas	Create a poisonous effect causing all enemies within 2 units of distance to suffer from 8 points of poisoning and 4 points of bone damage each round	0	buffSkillTree080_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree080_000_5	Seven-Colored Poisonous Qi	Causes all enemy units within a 2-unit radius to be poisoned for 4 points of damage each round	0	buffSkillTree080_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree080_002	Heart-wrenching and tearful	As poison arts and demonic values increase, the potency of techniques becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree080_002
-buffSkillTree080_003	Mountains and Seas of Corpses	The higher the mastery in toxicology and dark values, the stronger the technique's power	0		0	FALSE	0	FALSE	0	0		buffSkillTree080_003
+buffSkillTree080_002	Heart-wrenching and tearful	The higher one's mastery of toxic arts and evil values, the more powerful their techniques become	0		0	FALSE	0	FALSE	0	0		buffSkillTree080_002
+buffSkillTree080_003	Mountains and Seas of Corpses	As the poison skills and evil values increase, the power of the techniques becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree080_003
 buffSkillTree080_004	Colored Snow Spider	Can catch Rainbow Spider and refine Rainbow Gem Poison. According to records, Rainbow Spiders mostly grow on the peaks of snowy mountains	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree080_005	Seven-colored centipede	Can capture seven-color centipedes and refine seven-color centipede poison. According to records, seven-color centipedes mainly grow in swamps	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree080_008	There is strength in unity	When using the Seven-Colored Ultimate Poison Technique, enemies within 2 units of distance are additionally afflicted with 4 points of poisoning and 4 points of muscle damage each turn	0		0	FALSE	0	FALSE	0	0		0
@@ -510,16 +510,16 @@ buffSkillTree085_001	Yu'e runs to heaven and never regrets it	The longer the dis
 buffSkillTree085_009	Climb the Pine of Immortals	To ascend to the Moon Palace and scale the Immortal Osmanthus, the expenditure of energy increases by 1 point, power is boosted by 120 points, and muscle damage value is additionally increased by 6 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree085_010	Only to waste away	As the moon follows its form, the disciple's depletion of vitality increases by 1 point, their power increases by 110 points, and they suffer an additional 6 points of internal injury	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree085_011	Never regret	Juyue runs to the sky without regret, reducing her vigor consumption by 1 point	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree084_000	Tianshui toad poison	Can capture Tianshui poisonous toad and refine Tianshui toad poison. According to records, Tianshui poisonous toads often grow in damp caves	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree084_000	Tianshui toad poison	It is possible to capture the Tianshui Toad and refine it into Tianshui Toad Poison. According to records, Tianshui Toads are commonly found in damp and shadowy caves	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree084_001	Pale-eyed Golden Scorpion	You can capture the emerald-eyed scorpions and refine their poison. According to records, Tianshui toad poison typically grows in barren mountains and remote valleys	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree084_006	Scratch one's brain	As poison techniques and dark values increase, the power of the moves becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree084_006
-buffSkillTree084_007	Pale with fear	The higher the level of poison techniques and dark arts, the more powerful the skills	0		0	FALSE	0	FALSE	0	0		buffSkillTree084_007
+buffSkillTree084_006	Scratch one's brain	The higher the proficiency in toxic arts and evil values, the more powerful the techniques become	0		0	FALSE	0	FALSE	0	0		buffSkillTree084_006
+buffSkillTree084_007	Pale with fear	As one's mastery of poison techniques and evil value increases, the power of their moves becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree084_007
 buffSkillTree084_008	Poisonous scorpion stings	Each time this ability is unleashed, it has the chance to cause panic among enemies, significantly reducing their offensive and defensive capabilities for two turns. The higher an enemy's dizziness value, the greater the likelihood of them succumbing to panic	0		0	FALSE	0	FALSE	0	0		buffSkillTree084_008
 buffSkillTree084_009	Brain-Piercing Toad Venom	Every time you employ your most cunning strategies, there's a chance to throw the enemy into confusion, blurring the lines between friend and foe for three turns. The higher the enemy's bewilderment value, the greater the likelihood of them falling into chaos	0		0	FALSE	0	FALSE	0	0		buffSkillTree084_009
 buffSkillTree086_003	Mantra like the ocean waves	The Lion's Roar now increases energy consumption by 1 point, enhances its power, and additionally raises the Internal Injury value by 4 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree086_004	When the lion roars, a hundred beasts cower	Roaring of the Lion increases energy expenditure by 1 point, enhances power, and adds an additional 4 points to internal injury value	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree087_000	Ice Cold True Qi	When unleashing the Cold Ice Qi, each technique additionally carries a Frozen Seal value. The stronger the energy consumed by the technique, the more potent the accompanying Frozen effect	0	buffSkillTree087_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree087_002	Tai Yin True Qi	Enhance the freezing effect carried by the cold ice true Qi	0	buffSkillTree087_000	0	TRUE	0	FALSE	0	0		0
+buffSkillTree087_002	Taiyin True Qi	Enhance the freezing effect carried by the cold ice true Qi	0	buffSkillTree087_000	0	TRUE	0	FALSE	0	0		0
 buffSkillTree088_001	Divine Arrow	Enhanced power of the Flying Snow Divine Arrow	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree088_002	Fiexue	Flaming Snow Divine Arrow grants an additional 5 points of external injury damage	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree088_003	Divine Arrow	The power of the Flying Snow Divine Arrow has been enhanced	0		0	FALSE	0	FALSE	0	0		0
@@ -534,9 +534,9 @@ buffSkillTree089_010	Thousand Snake Shadows	Bishe Dao adds 8 points of confusion
 buffSkillTree091_004	Plague	Yan Dong's harsh winter Poisoned value increases by an additional 4 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree091_006	Seclusion	Yan Dong's internal injury severity score increases by an additional 4 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree091_007	Bracing	The harsh cold adds an additional 4 points to the frozen seal	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree092_000	Write as if with clouds and mist	The higher the value, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree092_000
-buffSkillTree092_001	Riding a horse is like riding a boat	The higher the value, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree092_001
-buffSkillTree092_002	Mortal world, divine in wine	The higher the rage value, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree092_002
+buffSkillTree092_000	Write as if with clouds and mist	The higher the reckless value, the greater the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree092_000
+buffSkillTree092_001	Riding a horse is like riding a boat	The higher the reckless value, the greater the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree092_001
+buffSkillTree092_002	Mortal world, divine in wine	The higher the reckless value, the greater the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree092_002
 buffSkillTree092_006	Glare at the blue sky	Sealing acupoints with a brushstroke as light as cloud and smoke grants an additional 6 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree092_009	Relocate to Xiangquanguan	In the world, the internal injury value for a Heavenly Immortal of Wine increases by an additional 6 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree092_010	Water at the bottom of a well	Riding a horse as if riding a boat reduces energy expenditure by 1 point	0		0	FALSE	0	FALSE	0	0		0
@@ -557,10 +557,10 @@ buffSkillTree096_006_2	The tiger leaves its den	Repel the enemy	0		0	FALSE	0	FAL
 buffSkillTree096_009	U-turn	Uxie's attack range is expanded, and it reduces the target's skill value when struck	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree096_009_2	U-turn	Reduce the enemy's special skills	0		0	FALSE	0	FALSE	0	0		buffSkillTree096_009_2
 buffSkillTree097_000	The cunning snake steals the cloud pearl	As the evil value increases, the power becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree097_000
-buffSkillTree097_001	A celestial dragon startles a toad	The higher the value, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree097_001
-buffSkillTree097_002	Kuanglong Chuanshen Zha	The higher the evil value, the stronger the power	0		0	FALSE	0	FALSE	0	0		buffSkillTree097_002
-buffSkillTree097_003	Deadly Snake Venom	The cunning snake, upon capturing the Cloud Pearl, gains an additional 2 Poison points. Hand Combat +2, Alchemy of Poisons +2, Evil Value +5	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree097_006	Deadly Snake Venom	Ling Man's Shocking Toad additionally adds 2 Poisoned points, Hand Combat +2, Poison Lore +2, and Evil Value +5	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree097_001	A celestial dragon startles a toad	As the evil value increases, the power becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree097_001
+buffSkillTree097_002	The Reckless Dragon's Heart-Piercing Claw	As the evil value increases, the power becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree097_002
+buffSkillTree097_003	Deadly Snake Venom	The cunning snake also adds 2 points of poison value to the Cloud Pearl, increases hand combat by +2, enhances poison skills by +2, and raises its evil value by +5	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree097_006	Deadly Snake Venom	Spirit Snake's startling effect adds 2 extra poison points, increases hand combat by 2, augments poison arts by 2, and boosts evil value by 5	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree097_009	Snake venom concoction	Can refine snake venom	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree097_010	Like a crouching snake ready to strike	Can catch the Baishe Qu snake and refine the Baishe Qu snake venom	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree099_001	Love All, Attack None	If we use Universal Love and Non-Offensive as a counterattack technique, the activation rate of Yellow Sparrow's Waiting for Rabbits at Stumps increases by 5%	0		0	FALSE	0	FALSE	0	0		0
@@ -645,13 +645,13 @@ buffSkillTree126_009	Twirl waist, present wine, stagger in drunken steps	Single-
 buffSkillTree127_000	As the Swallow's Secret	After activating the As Agile as a Swallow technique, dodge rate increases by 5% for the next four rounds	0	likeBird	0	TRUE	0	FALSE	0	0		buffSkillTree127_000
 buffSkillTree127_003	As light as a swallow	If the As Agile as a Swallow Technique is used, within 4 turns if you dodge enemy attacks, your consecutive hit rate increases by 10 points	0	likeBird	0	TRUE	0	FALSE	0	0		0
 buffSkillTree127_004	Twirling and circling back	After executing the As Agile as a Swallow technique, if you avoid enemy attacks for 4 rounds, your feint rate increases by 10 points	0	likeBird	0	TRUE	0	FALSE	0	0		0
-buffSkillTree128_002	Turning stones into gold	Yang Xushan's additional seal value for sealed acupoints increased by 3 points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree128_003	Seal Gold with a Stamp	Yang Xu Shan Li receives an additional 3 points in Sealed Acupoints	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree128_007	Wrapped in snow, Blue Pass	Yang xu shan li, chao yang danfeng de gong ji fanyuan zeng jia	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree128_008	Composed and resolute spirit	As the height increases, the power of the segment referred to by the Duan family becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree128_008
-buffSkillTree128_009	Clouds spread across the Qinling Mountains	Sunlit Yang Mountain Rises, Enhancing the Power of the Vermilion Phoenix	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree128_002	Turning stones into gold	Sun Xiu Mountain gains an additional 3 points in the value of sealed acupoints	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree128_003	Seal Gold with a Stamp	Yang Xu Shan Li's additional sealed acupoint value increases by 3 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree128_007	Wrapped in snow, Blue Pass	Yang Xushan's and Chaoyang Danfeng's attack range has increased	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree128_008	Righteous qi stands firm	As the rank of Righteous increases, the power referred to by the Duan family becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree128_008
+buffSkillTree128_009	Clouds spread across the Qinling Mountains	The power of Mount Yangxu and Dawn Phoenix grows stronger	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree128_010	Rules are strict and rigorous	The higher the calm value, the stronger the power referred to by the Duan family	0		0	FALSE	0	FALSE	0	0		buffSkillTree128_010
-buffSkillTree128_012	Return of the One Yang	When Shizhan points out a member of the Duan Family, it reduces the target enemy's skill value by 18 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree128_012	One Yin, Return of the Yang	When Shizhan points out a member of the Duan Family, it reduces the target enemy's skill value by 18 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree129_002	Blind mouth	Speaking with a Buddha's mouth and a snake's heart, reduce energy expenditure by 1 point	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree129_003	Snake Heart	Speaking with a holy tongue but harboring a serpent's heart, causing an additional 5 points of dizziness and 5 points of confusion	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree129_008	Broken in a fight	Snake-like dodging reduces energy expenditure by 1 point	0		0	FALSE	0	FALSE	0	0		0
@@ -706,13 +706,13 @@ buffSkillTree145_005	Leaning Step Dance	Within five rounds, increase your own qi
 buffSkillTree145_005_2	Leaning on the Waves	Increase your own qinggong by 25 points within five rounds; increase combo rate when moving	0	addQinggong03	0	TRUE	0	FALSE	0	0		buffSkillTree145_005
 buffSkillTree145_008	Leaning on the Waves	When moving while using Leibo Xing, there's an additional effect that increases the combo rate	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree145_008_2	Fiexue	The longer the distance moved before executing a technique, the more powerful Qianqiaoxue becomes	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree146_000	Jiu Yin Shen Gong	Running the Nine Yin Shen Gong increases the power of the Nine Yin White Bone Claw and Da Fu Mo Quan Fa	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree146_000	The Nine Yin Divine Skill	When using the Nine Yin Divine Skill, the power of the Nine Yin Bone Claw and the Great Vanquish Demon Fist Technique is greatly enhanced	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree146_002	Iron Sinews and Steel Bones	Body constitution increased by 10 points, neigong increased by 5 points	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree146_004	Crush the Strong Technique	When operating the Nine Yin Divine Skill, self-attack power is increased	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree146_005	Snake-like, agile	When running the Nine Yin Divine Skill, there is a chance to evade enemy attacks	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree146_006	Beidou Great Method	When activating the Nine Yin Divine Skill, launch a counterattack that drains 1 point of energy from the enemy	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree146_007	Flying Dust Force	When running the Nine Yin Divine Skill, one's self-defense power increases	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree146_008	Playing the five-stringed lute	When using the Nine Yin Divine Skill, choose one additional attack：Muscle damage, bone damage, dizziness, confusion, and sealed acupoints	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree146_004	Crush the Strong Technique	While performing the Nine Yin Divine Skill, one's attack power increases	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree146_005	Snake-like, agile	While executing the Nine Yin Divine Skill, there is a chance to evade enemy attacks	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree146_006	Beidou Great Method	When activating the Nine Yin Divine Skill, launch a counterattack to deplete the enemy's 1 point of vitality	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree146_007	Flying Dust Force	While performing the Nine Yin Divine Skill, one's defensive abilities are enhanced	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree146_008	Playing the five-stringed lute	When executing the Nine Yin Divine Skill, choose one additional attack：Muscle damage, bone damage, dizziness, confusion, sealed acupoints	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree147_000	Red Tea Divine Skill	Each round, remove 4 points of frozen seal and increase self's Neigong by 2 points; Neigong can be increased by a maximum of 12 points	0	buffSkillTree147_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree147_000_2	Hot Tea Spirit Power	Each turn, remove 4 points of freezing and increase your own Neigong by 4 points; Neigong can be increased by a maximum of 24 points	0	buffSkillTree147_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree147_005	Warm the wine	When running Hot Tea Spirit Skill, increase self Neigong by 4 points each round	0		0	FALSE	0	FALSE	0	0		0
@@ -722,7 +722,7 @@ buffSkillTree147_006_2	Hot Tea Divine Skill	Each round, remove 4 points of ice s
 buffSkillTree148_000	The Lo Six Teachings	When executing the Laolu Six Principles, the power of Dasha Yin increases by 20%	0	buffSkillTree148_000	0	TRUE	0	FALSE	0	0		buffSkillTree148_000
 buffSkillTree148_001	Transfer of Consciousness	When activating Nala Six Laws, increase your critical hit rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Critical,6)	beginUnitProp
 buffSkillTree148_002	Illusionary Body	When using Nala's Six Laws, increase your critical hit rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Combo,6)	beginUnitProp
-buffSkillTree148_003	Half-Life	When activating Na Luo Six Form, increase self-dissipation rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Release,6)	beginUnitProp
+buffSkillTree148_003	The Yin Realm	When activating Na Luo Six Form, increase self-dissipation rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Release,6)	beginUnitProp
 buffSkillTree148_004	Light	When activating Na Luo's Six Law, increase the counterattack rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(CounterAttack,6)	beginUnitProp
 buffSkillTree148_005	Viewing Dreams	When using Nala's Six Laws, increase your own feigned moves rate by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Trick,6)	beginUnitProp
 buffSkillTree148_006	Clumsy at handling fire	When activating Lo Shu Six Form, reduce your own negative status by 6 points each turn	0		0	FALSE	0	FALSE	0	0	(Injured,-6)(Wounded,-6)(Poisoned,-6)(Sealed,-6)(Confused,-6)(Dazed,-6)(Cramped,-6)(Sprained,-6)(Exhausted,-6)(Frozen,-6)(Drunk,-6)	beginUnitProp02
@@ -748,10 +748,10 @@ buffSkillTree154_000	Grand Mystery Divine Skill	When practicing the Yuanxuan Jin
 buffSkillTree154_000_2	Supreme Mystery Divine Skill	When practicing the Tai Xuan Jing, increase Hand Combat, Sword Art, Blade Art, Spear and Staff techniques, Hidden Weapons, Short Weapons, and Qinggong each by 24 points	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree154_003	White-Haired Patriarch's Extreme Mystery Classic	When performing the Tai Xuan Jing, combat skills increase by 24 points: Hand Combat, Sword Art, Blade Art, Spear and Staff, Hidden Weapons, Short Weapons, Qinggong	0	buffSkillTree154_000	0	TRUE	0	FALSE	0	0		0
 buffSkillTree155_000	Red Blood Demon Qi Technique	Convert a portion of the damage inflicted on the enemy into one's own lifeforce	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		buffSkillTree155_000
-buffSkillTree155_003	Blood flowing like a river	The higher the evil value, the more pronounced the blood-drinking effect of the Blood Drinking Demon Technique	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0
-buffSkillTree155_004	Bloody rain and stinking wind	The higher the craziness value, the more pronounced the blood-drinking effects of the Blood Sipper Technique	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0
-buffSkillTree157_002	Heart to Kill	As the value increases, the power of Shamen Tian Gu Xi's skill grows stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree157_002
-buffSkillTree157_005	Dispute at the Zen Monastery	As the value of Kuang increases, the power of falling into a chaotic monastery becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree157_005
+buffSkillTree155_003	Blood flowing like a river	The more evil-aligned a person becomes, the more pronounced the blood-drinking effects of their demonic martial arts power	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0
+buffSkillTree155_004	Bloody rain and stinking wind	The more reckless you are, the more pronounced the vampiric effects of Xueyin Mo Gong's blood-drinking ability become	0	buffSkillTree155_000	0	TRUE	0	FALSE	0	0		0
+buffSkillTree157_002	Heart to Kill	The more reckless one becomes, the stronger the power of the Shamen Tian Gu Xing	0		0	FALSE	0	FALSE	0	0		buffSkillTree157_002
+buffSkillTree157_005	Dispute at the Zen Monastery	The more reckless one becomes, the stronger their ability to cause chaos in the Chan Monastery	0		0	FALSE	0	FALSE	0	0		buffSkillTree157_005
 buffSkillTree157_009	Blaspheme against the Buddhas	Monk Sandman Star, Shaven Head Nao's Zen Forest Additional Dismissal Sequence Effect	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree157_010	Drink Guanyin tea	Monk Sand-Sun Star, Shaven-Head Chaotic Monastery Additional Dispersal Effect	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree158_000	Golden Bell Cocoon	Withstand 10 points of external injury	0	buffSkillTree158_000	0	TRUE	0	FALSE	0	0		forIcon
@@ -782,7 +782,7 @@ buffSkillTree167_000	Tale of lament and pleading	Reduce damage taken by self by 
 buffSkillTree167_006	Lotus Falls	When running the Song of Sorrow and Begging for Mercy, reduce the damage taken by 20%	0	buffSkillTree167_000	0	TRUE	0	FALSE	0	0		0
 buffSkillTree168_000	Six Meridians with the Same Qi	Reduce all the opponent's skills by 40 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree168_000
 buffSkillTree168_001	Shao Shang	Reduce the opponent's accumulated critical hit value by 30 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree168_001
-buffSkillTree168_002	Shang Yang	Reduce the opponent's accumulated combo value by 30 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree168_002
+buffSkillTree168_002	Shangyang	Reduce the opponent's accumulated combo value by 30 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree168_002
 buffSkillTree168_003	Center strike	Attack range increased for the six-pointed sword technique	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree168_004	Relentless determination	Reduce opponent's cumulative counterattack value by 30 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree168_004
 buffSkillTree168_005	Shao Chong	Reduce the opponent's accumulated off-balance value by 30 points	0		0	FALSE	0	FALSE	0	0		buffSkillTree168_005
@@ -826,13 +826,13 @@ buffSkillTree177_002	One leaf knows autumn	Ye Suifeng's ability increases the se
 buffSkillTree177_003	Leaves return to their roots	Ye Suifeng gains an additional 4 points of internal injury value	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree177_007	Spring chill is piercing	Laughter Snatches Spring Blossoms, with an additional 6 points of sealed acupoint value	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree177_008	Spring is as deep as the sea	Laughter picks at spring's bloom, adding 6 points to internal injury	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree178_005	Spider Venom Touch	As their mastery of poisons increases, the poisoning and dizziness inflicted upon enemies become more severe; the more malevolent a character is, the stronger their power	0		0	FALSE	0	FALSE	0	0		buffSkillTree178_005
-buffSkillTree178_005_2	Thousand Spider, Myriad Poison Hands	As their mastery of poison techniques increases, the level of poisoning and dizziness they inflict on enemies rises; the more malevolent a character is, the greater their power	0		0	FALSE	0	FALSE	0	0		buffSkillTree178_005_2
+buffSkillTree178_005	Spider Venom Touch	The more skilled one becomes in poison techniques, the higher the poisoning and dizziness values inflicted on enemies. The more evil the character is, the stronger their power	0		0	FALSE	0	FALSE	0	0		buffSkillTree178_005
+buffSkillTree178_005_2	Thousand Spider, Myriad Poison Hands	The higher one's mastery of poison techniques, the greater the level of poisoning and dizziness inflicted upon enemies; the more evil a character is, the stronger their power	0		0	FALSE	0	FALSE	0	0		buffSkillTree178_005_2
 buffSkillTree178_006	Black Blood Divine Needle	Can be refined into Black Blood Spider Venom, can forge Divine Needles of Black Blood	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree178_007	Myriad Spiders, Myriad Poisons	The toxicity of the Hand of a Thousand Spiders and Myriad Poisons is even stronger	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree178_008	Poisonous spider silk	If equipped with the Black Blood Divine Needle, it provides an additional 4 points of poisoning and 4 points of dizziness. The more evil the character is, the stronger its power	0		0	FALSE	0	FALSE	0	0		buffSkillTree178_008
+buffSkillTree178_008	Poisonous spider silk	If equipped with the Black Blood Divine Needle, an additional 4 points of poison and 4 points of dizziness are added. The more evil the character is, the stronger its power becomes	0		0	FALSE	0	FALSE	0	0		buffSkillTree178_008
 buffSkillTree180_002	Scatter lime	If your travel bag contains lime powder, it will additionally inflict 10 points of confusion on the enemy	0		0	FALSE	0	FALSE	0	0		buffSkillTree180_002
-buffSkillTree180_003	Very scoundrel	The higher the evil value, the stronger the negative effects of sticking needles in both eyes, stroking a lady's thighs, and sprinkling lime	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree180_003	Very scoundrel	As the evil value increases, the negative effects of inserting both eyes, spreading one's legs, and scattering lime powder become stronger	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree182_000	Bloody rain and stinking wind	Attacking enemies from behind whose level is lower than yours may result in a chance of causing immediate death to the enemy	0		0	FALSE	0	FALSE	0	0		buffSkillTree182_000
 buffSkillTree182_001	Blood Sea and Corpse Mountains	Attacking enemies from the side whose level is lower than yours may result in an immediate death of those enemies	0		0	FALSE	0	FALSE	0	0		buffSkillTree182_001
 buffSkillTree182_002	Blood flowing like a river	Attacking enemies with a lower level than yourself has a chance to cause the enemy to die immediately	0		0	FALSE	0	FALSE	0	0		buffSkillTree182_002
@@ -860,11 +860,11 @@ buffSkillTree187_007	Monkey King's Movements	The required energy to perform Whit
 buffSkillTree188_000	Flowing Six Vessels	When performing the Six Pulse Flow technique, the attack range of all moves increases slightly	0	buffSkillTree188_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree188_003	Six Meridians with the Same Qi	When activating the Six Circulation of Meridians, the range of all techniques is significantly increased	0	buffSkillTree188_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree188_006	Jianqi bisse heng	One can emit sword energy from the fingertips, expanding the range of attack for the Duan family's technique	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree190_000	Great Exorcism Technique	Attack from the enemy's flank or rear to significantly increase effectiveness	0	battle	0	TRUE	0	FALSE	0	0		forIcon
+buffSkillTree190_000	Evil-Expelling Great Technique	Attack from the enemy's flank or rear to significantly increase effectiveness	0	battle	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree190_004	Scarlet Blossom Divine Skill	Reduce energy expenditure for techniques; increase power when attacking from the enemy's side or back	0	battle	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree191_006	Snake Venom Search Technique	The higher one's mastery of poison techniques, the greater the toxic effect and the stronger the sealing of acupoints inflicted upon enemies. The more evil a character is, the greater their power	0		0	FALSE	0	FALSE	0	0		buffSkillTree191_006
-buffSkillTree191_006_2	Snake Venom Search Technique	The higher one's mastery in toxic arts, the more potent the poison and sealing of acupoints inflicted on opponents; the more evil a character is, the stronger their power	0		0	FALSE	0	FALSE	0	0		buffSkillTree191_006_2
-buffSkillTree191_007	To stab at the heart	If the character is equipped with the Snake Sleeve Arrows, they gain an additional 4 Poison and 4 Seal Points. The more evil the character is, the stronger the effect	0		0	FALSE	0	FALSE	0	0		buffSkillTree191_007
+buffSkillTree191_006	Snake Venom Search Technique	As the individual's mastery of poison arts increases, the potency of poisoning and point-sealing inflicted upon enemies grows higher; as a character becomes more evil, their power becomes stronger	0		0	FALSE	0	FALSE	0	0		buffSkillTree191_006
+buffSkillTree191_006_2	Snake Venom Search Technique	The higher one's mastery of poison arts, the greater the poisoning and sealed acupoints values inflicted upon enemies; the more evil a character is, the stronger their power	0		0	FALSE	0	FALSE	0	0		buffSkillTree191_006_2
+buffSkillTree191_007	To stab at the heart	If equipped with the Snake-Sleeve Arrow, it grants an additional 4 poison and 4 sealing acupoints; the more evil a character is, the stronger its effect	0		0	FALSE	0	FALSE	0	0		buffSkillTree191_007
 buffSkillTree191_008	Touch grass to scare snake	The toxicity of the Snake Pit-Seeking Hand technique is stronger	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree191_009	Snake Venom Arm Shot	Can refine snake venom, can forge poisonous snake arm arrows	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree192_000	No Limit Heart Technique	Reduce damage taken by self by 8%	0	battle	0	TRUE	0	FALSE	0	0		forIcon
@@ -890,7 +890,7 @@ timeback	Retreat sequence	Repel the enemy for three sequences	0		0	FALSE	0	FALSE
 timeback02	Timing to Repel	Defeat the enemy in five sequences	0		0	FALSE	0	FALSE	0	0		timeback02
 aroundback	Round the back	Move to behind the enemy and attack	0		0	FALSE	0	FALSE	0	0		0
 BattleSchedule001	Qingcheng Alliance	When the Green Mountain Sect Leader's lifeforce is depleted, they enhance their combat ability	0	battle	0	TRUE	0	FALSE	3	1		BattleSchedule001
-BattleSchedule001b	Master of the Sect's Character	Assume the responsibility of leading the orthodox faction in Western Shu, gaining additional spirit each turn and increasing counterattack rate	0	battle	0	TRUE	0	FALSE	0	0	(AP,7)(CounterAttack,20)	beginUnitProp
+BattleSchedule001b	Master of the Sect's Character	Assuming the responsibility of a leader within the righteous sect of Western Shu, this ability grants an additional increase to personal energy each turn and enhances counterattack rate	0	battle	0	TRUE	0	FALSE	0	0	(AP,7)(CounterAttack,20)	beginUnitProp
 BattleSchedule001c	Pinewood Wind Sword Formation	When a disciple of Qingcheng is within their own three squares, it increases the combo rate and boosts skill damage	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule001c
 BattleSchedule002	Intent to kill grew stronger	Temporarily restore one's own lifeforce and enhance combat ability	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002
 BattleSchedule002b	Anger as high as the sky	Enmity surging, significantly boosting one's combat ability!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule002b
@@ -957,7 +957,7 @@ BattleSchedule056	Gold Toad Spits Pearl	Every two rounds, damage increases by 30
 BattleSchedule057	Marvelous Hand Reviving Life	Regain 20% of your own lifeforce every three turns	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule057
 BattleSchedule058	Snake and Scorpion Beauty	Slowly poisoned, accumulates 10 points of poison each turn	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule058
 BattleSchedule059	Lost Step	Each round, energy recovery is reduced by 3 points	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule059
-BattleSchedule060	Yin Yang Wu Ji	Suffers from Yin-Yang imbalance, accumulating 10 points of internal injury each turn	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule060
+BattleSchedule060	The boundless duality of Yin and Yang	Due to the imbalance of yin and yang, accumulate 10 points of internal injury each round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule060
 BattleSchedule061	The power of the Pill Corpse	Resurrection by Possessing Corpses, increasing damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule061
 BattleSchedule062	The power of the Pill Corpse	Reanimate the dead, increase damage by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule062
 BattleSchedule063	The power of the Pill Corpse	Reincarnation Through a Corpse, Damage Increased by 30%	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule063
@@ -1033,7 +1033,7 @@ charge	Charge	Charge attack, causing damage to enemies along the path	0		0	FALSE
 charge02	Charge	Chongfeng attack, dealing damage to enemies along the path	0		0	FALSE	0	FALSE	0	0		0
 reducespecial	Reduce opponent's skill value	Lower opponent's skills	0		0	FALSE	0	FALSE	0	0		0
 reducespecial02	Reduce opponent's skill value	Reduce opponent's special skill value	0		0	FALSE	0	FALSE	0	0		0
-onesun	Return of the One Yang	Accumulate 18 Seals on the opponent's acupoints, reducing their special effects value by 18 points	0		0	FALSE	0	FALSE	0	0	(Sealed,18)(CounterAttack,-18)(Critical,-18)(Release,-18)(Trick,-18)(Combo,-18)	attackBuffer
+onesun	One Yin, Return of the Yang	Accumulate 18 Seals on the opponent's acupoints, reducing their special effects value by 18 points	0		0	FALSE	0	FALSE	0	0	(Sealed,18)(CounterAttack,-18)(Critical,-18)(Release,-18)(Trick,-18)(Combo,-18)	attackBuffer
 abovewave01	Skate on the drifting snow	10% Evasion	0		0	FALSE	0	FALSE	0	0		0
 abovewave02	Gliding Snowflakes	Dodge rate 15%	0		0	FALSE	0	FALSE	0	0		0
 abovewave03	Levitating on the Snowy Waves	Dodge Rate: 20%	0		0	FALSE	0	FALSE	0	0		0
@@ -1048,7 +1048,7 @@ miasma01	Mild toxic miasma	Every round reduce life by 5%	0		0	FALSE	0	FALSE	0	1	
 miasma02	Moderate toxic miasma	Each round reduce life points by 10%	0		0	FALSE	0	FALSE	0	1	(HP,-10)	beginTurnProp
 nick006buff	Chosen One	Wildball Fist's base damage is increased by 20%, and as the level increases, the damage bonus will also rise accordingly	0	nickname	0	TRUE	0	FALSE	0	0		nick006
 nick007buff	Tian Nan Wang Dao	Within a two-tile range of allies, reduce any negative status effect by 5 points each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick007buff
-nick007buffPlus	Revive the Kingly Way	Within a 4-tile range around allies, each turn reduces negative status by 5 points and increases positive status by 3 points	0	nickname	0	TRUE	0	FALSE	0	0		nick007buffPlus
+nick007buffPlus	Revive the Kingly Way	Within a 4-tile radius around you, for allies each turn, reduce negative status by 5 points and increase positive status by 3 points	0	nickname	0	TRUE	0	FALSE	0	0		nick007buffPlus
 nick008buff	Thicket of Poisonous Feathers	If within a 2-unit distance of He Ziwang, take 8 points of poison damage each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick008buff
 nick008buffPlus	Swans that die together	If enemies are within 4 units of distance from He Ziwang, they become poisoned for 8 points each turn. Allies will have 5 points of poison removed each turn	0	nickname	0	TRUE	0	FALSE	0	0		nick008buffPlus
 nick009	Snowy Mountain Divine Eagle	Self Bow Damage increased by 25%, and all allies gain the status Falcon Hunter	0	nickname	0	TRUE	0	FALSE	0	0		nick009
@@ -1089,7 +1089,7 @@ nick021P	Guang Han Gongzhu	If one employs a martial art with an ice-sealing effe
 nick022	Scarce Wind King	When launching a devastating attack, increase strength by 3	0	nickname	0	TRUE	0	FALSE	0	0		nick022
 nick022buff	Wind King Formation	With Baili Danhe present, after each attack, critical hit chance increases by 5%. When a critical hit is triggered, energy is restored by 1 point	0	battle	0	TRUE	0	FALSE	0	0		nick022buff
 nick023buff	Fat Lamb	Deliciously tender and succulent, everyone wants a taste of Brother A'Bai	0	nickname	0	TRUE	0	FALSE	0	0		nick023buff
-nick024buff	Malevolent and insane	The higher the enemy's dizziness and confusion values, the greater the chance they will become disoriented. Each attack has a chance to cause the enemy to be confused for three turns, making it difficult to distinguish friend from foe	0	nickname	0	TRUE	0	FALSE	0	0		nick024buff
+nick024buff	Madly reckless	The higher the enemy's dizziness and confusion values, the greater the chance they will become disoriented. Each attack has a chance to cause the enemy to be confused for three turns, making it difficult to distinguish friend from foe	0	nickname	0	TRUE	0	FALSE	0	0		nick024buff
 nick024buffP	Destroy the World Poison King	The higher the enemy's dizziness, confusion, and poisoning values, the greater the chance they will become disoriented. With each attack, there is a possibility of causing them to become disoriented, resulting in confusion between friend and foe for four turns	0	nickname	0	TRUE	0	FALSE	0	0		nick024buffP
 nick025buff	Heartless and ruthless	Each time you kill an enemy, restore 3 points of your own energy	0	nickname	0	TRUE	0	FALSE	0	0		nick025buff
 nick025P	Wipe out completely	For each enemy killed, restore 3 points of energy and increase attack power by 50% for the remainder of this round	0	nickname	0	TRUE	0	FALSE	0	0		nick025P
@@ -1100,8 +1100,8 @@ nick027buff	Silver Hook Lustrous Colors	During the battle, Ink Stained Snow join
 nick027buffP	Illusory reflections	During combat, Ink Stained Snow joins the fray. Each round, it reduces its own strength and increases feigned attacks by 10%	0	nickname	0	TRUE	0	FALSE	0	0		nick027buffP
 nick028buff	Heavenly Meteor, Solitary Star	If there are no allies, damage and damage reduction increase by 50%. Each round dispels negative status effects for 12 points. Each attack recovers 1 point of energy. Every three attacks restore 15% of the user's own life and Qi	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick029	Bladesman	All blade arts power +70%	0	nickname	0	TRUE	0	FALSE	0	0		nick029
-nick030	Blade Madman	All blade arts power +40%	0	nickname	0	TRUE	0	FALSE	0	0		nick030
-nick031	Surging waves of turmoil	Shockwave Blade Arts and Torrential Fury Ultimate Blade Techniques increase blade power by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick031
+nick030	Blade Reckless	All blade arts power +40%	0	nickname	0	TRUE	0	FALSE	0	0		nick030
+nick031	Surging waves of turmoil	Shockwave Blade Art and Rampage Ultimate Blade Technique increase damage by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick031
 nick032	Five Tiger Severance Sword	The Five Tiger Gateblade Blade Arts increase power by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick032
 nick033	Si Xiang Dao	Four Symbols Sword Technique increases blade arts damage by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick033
 nick034	San Cai Dao	Three Talents Sword Blade Arts power +30%	0	nickname	0	TRUE	0	FALSE	0	0		nick034
@@ -1112,7 +1112,7 @@ nick038	It's a habit to borrow	Chance of being caught stealing is reduced by 50%
 nick039	Thief King	The theft will not be discovered	0	nickname	0	TRUE	0	FALSE	0	0		nick039
 nick040buff	Sentimental	Attributes increase by 10 points; however, the amount of increase in negative status values each time is enhanced by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick040
 nick041buff	Throwing apples to a young man	During battle, allied female teammates' damage is increased by 30%; however, the user becomes easier for enemies to lock onto	0	nickname	0	TRUE	0	FALSE	0	0		foricon
-nick042buff	Reborn Mad Swordsman	When attacking a target from the front, there is a 25% chance of causing the target to accumulate 10 points of bone damage. When attacking from the side or back, there is a 25% chance that the attacker will themselves accumulate 10 points of confusion	0	nickname	0	TRUE	0	FALSE	0	0		nick042
+nick042buff	Reckless Swordsman of the New Era	When attacking the target from the front, there is a 25% chance to inflict 10 points of Bone Damage on the target. When attacking the target from the side or back, there is a 25% chance to accumulate 10 points of Confusion for oneself	0	nickname	0	TRUE	0	FALSE	0	0		nick042
 nick043buff	After the fact	Body constitution increases by 10 points; and each time the negative status value of oneself increases, the increase is reduced by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick043
 nick044buff	Wulin insiders	Your martial arts power increases as your level grows	0	nickname	0	TRUE	0	FALSE	0	0		nick044
 nick046buff	Heluo Great Heros	Your attack and defense skills will improve as your Jianghu reputation increases	0	nickname	0	TRUE	0	FALSE	0	0		bnick046
@@ -1193,7 +1193,7 @@ nick601buff	Snow Wolf Flying Fox	Snow Mountain Hero of Extraordinary Blade Art, 
 nick602buff	Old Poisoner	Martial arts grandmaster, king of poison. All skills' potency increases by 30%, and each strike inflicts deadly poison	0	nickname	0	TRUE	0	FALSE	0	0		nick602
 nick603buff	The Smiling, Proud Wanderer of the Jianghu	Your sword arts have increased in power by 50%, and you have a 20% chance to evade damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick603
 nick604buff	Transcendently Versatile	Your natural talent and intelligence allow you to gain more experience points in battles, and you have a 25% chance of evading damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick604
-nick605buff	Western Madman	As the madness value increases, martial arts power grows stronger, and sword arts power rises by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick605
+nick605buff	Reckless of the West	The higher the recklessness, the stronger the martial arts power, and sword art effectiveness increases by 30%	0	nickname	0	TRUE	0	FALSE	0	0		nick605
 nick606buff	Teleportation with a Snap of Fingers	Hidden weapon power increased by 40%, with a 30% chance to dodge damage during combat	0	nickname	0	TRUE	0	FALSE	0	0		nick606
 nick607buff	Compassion in one's heart	All skills' power increases by 40%, and the higher your morality, the stronger your skill power	0	nickname	0	TRUE	0	FALSE	0	0		nick607
 nick608buff	Descending Dragon Divine Palm	Fist and palm techniques increase in power by 40%, with all damaging skills inflicting internal injury effects	0	nickname	0	TRUE	0	FALSE	0	0		nick608
@@ -1238,7 +1238,7 @@ jewelry04	Hotan Jade Bracelet	Increase maximum Qi by 150 points; recover 2% of Q
 jewelry05	Prayer wheel	Upon being struck, increase your own counterattack by 3 points	0		0	FALSE	0	FALSE	0	0		jewelry05
 jewelry06	Windhorse Banner	Each round increases self's feigned moves by 6 points	0		0	FALSE	0	FALSE	0	0		jewelry06
 jewelry07	Human Bone Prayer Beads	Upon entering an enemy within a 2-tile range, inflict dizziness and confusion of 5 points. Each turn, reduce all of the enemy's skill values by 5 points	0		0	FALSE	0	FALSE	0	0		jewelry07
-jewelry08	Reincarnation Prayer Beads	When attacked, the less damage an enemy takes the more malevolent their attack	0		0	FALSE	0	FALSE	0	0		jewelry08
+jewelry08	Reincarnation Prayer Beads	When under attack, the more evil the enemy that initiates an attack becomes, the less damage they receive	0		0	FALSE	0	FALSE	0	0		jewelry08
 jewelry10	Scent pouch	Resist poison level 8	0		0	FALSE	0	FALSE	0	0		jewelry10
 jewelry11	Amulet in the shape of a fish	After being hit, reduce force by 3 points	0		0	FALSE	0	FALSE	0	0		jewelry11
 jewelry12	Dragon-shaped pendant	Each round increases critical hit by 6 points	0		0	FALSE	0	FALSE	0	0		jewelry12
@@ -1276,9 +1276,9 @@ weapon0315_3	Black Jade Flying Snow	After the attack, increase own feint rate by
 weapon0316	Moyu furong	After attacking, increase own feint rate by 8 points. 30% chance to increase own energy by 1 point	0		0	FALSE	0	FALSE	0	0		weapon0316
 weapon0316_2	Black Jade Lotus	After attacking, increase own feign rate by 16 points, with a 30% chance to increase own energy by 1 point	0		0	FALSE	0	FALSE	0	0		weapon0316_2
 weapon0316_3	Dark Jade Lotus	After the attack, increase the probability of feigning by 24 points for oneself; with a 30% chance to increase one's stamina by 2 points	0		0	FALSE	0	FALSE	0	0		weapon0316_3
-weapon0318	Zhenwu Jian	When attacking, the higher the enemy's evilness, the greater the damage bonus from techniques	0		0	FALSE	0	FALSE	0	0		weapon0318
-weapon0318_2	True Martial Sword	During an attack, the higher the enemy's malignancy, the greater the damage bonus from your techniques	0		0	FALSE	0	FALSE	0	0		weapon0318_2
-weapon0318_3	True Martial Sword	When attacking, the higher the enemy's evilness, the greater the damage bonus from techniques	0		0	FALSE	0	FALSE	0	0		weapon0318_3
+weapon0318	Zhenwu Jian	During attack, as the enemy's evil nature becomes stronger, the damage boost of your techniques increases	0		0	FALSE	0	FALSE	0	0		weapon0318
+weapon0318_2	True Martial Sword	During the attack, as the enemy's evilness increases, the damage bonus from their techniques becomes higher	0		0	FALSE	0	FALSE	0	0		weapon0318_2
+weapon0318_3	True Martial Sword	When attacking, as the enemy becomes more evil, the damage bonus of their moves increases	0		0	FALSE	0	FALSE	0	0		weapon0318_3
 weapon0323	Foot of the Blue Mountain	After the attack, reduce all skills of the target by 3 points	0		0	FALSE	0	FALSE	0	0		weapon0323
 weapon0323_2	Foot of the Blue Mountain	After the attack, reduce all special technique values of the target by 6 points	0		0	FALSE	0	FALSE	0	0		weapon0323_2
 weapon0323_3	Foot of the Blue Mountain	After the attack, reduce all skill values of the target by 12 points	0		0	FALSE	0	FALSE	0	0		weapon0323_3
@@ -1294,9 +1294,9 @@ weapon0522_3	Three Divine Spears	Attack and increase self-crit rate by 24 points
 weapon0524	The Jade Dragon Divine Spear	Attack increases own critical rate by 6 points	0		0	FALSE	0	FALSE	0	0		weapon0524
 weapon0524_2	The Jade Dragon Divine Spear	Attack followed by an increase in self's combo rate by 12 points	0		0	FALSE	0	FALSE	0	0		weapon0524_2
 weapon0524_3	The Jade Dragon Divine Spear	After an attack, increase your critical hit rate by 24 points	0		0	FALSE	0	FALSE	0	0		weapon0524_3
-weapon0808	Supernatural Eagle Rampage	After attack, increase self-crit rate by 10%	0		0	FALSE	0	FALSE	0	0	(Critical,10)	afterAttackProp
-weapon0808_2	Ultimate Divine Hawk Berserk	After attacking, increase own critical hit rate by 17 points	0		0	FALSE	0	FALSE	0	0	(Critical,17)	afterAttackProp
-weapon0808_3	Fiery Divine Hawk Rampage	After attacking, increase self-crit rate by 25 points	0		0	FALSE	0	FALSE	0	0	(Critical,25)	afterAttackProp
+weapon0808	Reckless Divine Eagle Explosion!	After attack, increase self-crit rate by 10%	0		0	FALSE	0	FALSE	0	0	(Critical,10)	afterAttackProp
+weapon0808_2	Ultimate Divine Hawk's Reckless Explosion	After attacking, increase own critical hit rate by 17 points	0		0	FALSE	0	FALSE	0	0	(Critical,17)	afterAttackProp
+weapon0808_3	Fierce Divine Eagle Recklessly Explodes	After attacking, increase self-crit rate by 25 points	0		0	FALSE	0	FALSE	0	0	(Critical,25)	afterAttackProp
 weapon0809	Mount Dingtian	After attack, increase own critical hit rate by 6 points	0		0	FALSE	0	FALSE	0	0		weapon0809
 weapon0809_2	Mount Dingtian	After attacking, increase your own critical hit rate by 12 points	0		0	FALSE	0	FALSE	0	0		weapon0809_2
 weapon0809_3	Mount Dingtian	After attacking, increase the character's critical hit rate by 24 points	0		0	FALSE	0	FALSE	0	0		weapon0809_3

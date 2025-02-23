@@ -38,12 +38,12 @@ HintTypeTeammmateLeave	{0} leaves the group
 HintTypeNicknameUnlocked	Obtained the title {0}
 HintTypeAchievement	Accomplish achievement goal {0}
 HintTypeAchievementStart	Discovered hidden achievement {0}
-HintTypeMadnessUp	You have become more unrestrained and wild
+HintTypeMadnessUp	You have become even more reckless and unrestrained
 HintTypeMadnessDown	You've become even more restrained and cautious
-HintTypeMoralUp	Your spirit and moral integrity have become even more resolute
-HintTypeMoralDown	You have become more sinister and imposing
-HintTypeYinAndYangUp	You have become more yang and strong
-HintTypeYinAndYangDown	You've become more yin and soft
+HintTypeMoralUp	You have become more resolutely righteous
+HintTypeMoralDown	You've become even more suffused with evil energy
+HintTypeYinAndYangUp	You've become more yang or strong
+HintTypeYinAndYangDown	You've become more gentle
 HintTypeFallAndHurt	You lost {0} lifeforce from the fall
 HintTypeFallAndDie	You fell dead
 HintTypeFoodBufferDisappeared	{0}'s effect from {1} disappeared
@@ -117,10 +117,10 @@ CharacterProperty55	Energy Limit
 CharacterProperty58	Physique
 CharacterProperty59	Aptitude
 CharacterProperty108	Money
-CharacterProperty109	Wild yet calm
+CharacterProperty109	Reckless yet calm
 CharacterProperty110	Morality
 CharacterProperty111	Jianghu reputation
-CharacterProperty112	Yin and Yang
+CharacterProperty112	Yin-Yang
 CharacterProperty196	Critical hit
 CharacterProperty197	Release pressure
 CharacterProperty198	Combo Attack
@@ -152,11 +152,11 @@ CharacterProperty408	Qi Dispersion
 CharacterProperty409	Frozen
 CharacterProperty410	Intoxication
 #阴阳	
-YinAndYang0	Pure Yin
-YinAndYang1	Minor Yin
+YinAndYang0	Yin of Utmost
+YinAndYang1	Shaoyin
 YinAndYang2	
-YinAndYang3	Minor Yang
-YinAndYang4	Pure Yang
+YinAndYang3	The Lesser Yang
+YinAndYang4	Yang Supreme
 #感悟	
 TalentType0	Move
 TalentType1	Quiet
@@ -444,7 +444,7 @@ Load	Read
 Saving	Storing
 Loading	Loading
 LoadWhenModDifferent	The module used for saving {0} is different from the current module {1}!
-Deleting	On the way to the main menu
+Deleting	On the path to the main menu
 NoFile	No stored progress has been saved
 SaveTypeFast	Quick Save
 SaveTypeAuto	Auto-save
@@ -593,9 +593,9 @@ UITeamEquipColumn3	Jewelry
 UITeamEquipColumn4	Costume
 UITeamPersonality1	Personality
 UITeamPersonality2	Evil
-UITeamPersonality3	Good
+UITeamPersonality3	Righteous
 UITeamPersonality4	Calm
-UITeamPersonality5	Wild
+UITeamPersonality5	Reckless
 UITeamPersonality6	Yin
 UITeamPersonality7	Yang
 UITeamSkillProperty	Martial arts
@@ -676,7 +676,7 @@ UIGraphicsSettingGeneral	General Setting
 UIGraphicsSettingPlayerIK	Protagonist sticks to the floor
 UIGraphicsSettingCullingDistanceMultiplier	Visibility range
 UIGraphicsSettingShadowEnabled	Shadow
-UIGraphicsSettingShadowDistance	Shadow Distance
+UIGraphicsSettingShadowDistance	Yin shadow distance
 UIGraphicsSettingVSync	Vertical synchronization
 UIGraphicsSettingSkyDomeSetting	Sky
 UIGraphicsSettingVolumeLighting	Light beam
@@ -688,7 +688,7 @@ UIGraphicsSettingPostProcessingSetting	Visual Effects
 UIGraphicsSettingOcclusion	Light Obstruction
 UIGraphicsSettingBeautify	Color difference
 UIGraphicsSettingLensDirt	The camera flashes
-UIGraphicsSettingScreenSpaceShadow	Shadow Enhancement
+UIGraphicsSettingScreenSpaceShadow	Shadow enhancement
 UIGraphicsSettingBloom	High light
 UIGraphicsSettingEyeAdaptation	Adaptation to Light
 UIGraphicsSettingAntiAliasing	Anti-aliasing
@@ -1054,14 +1054,14 @@ Final03_08	Let the power that came into your hands slip away from before you
 Final03_09	Looking back at the stranger yet familiar you, they exchanged smiles with each other
 Final03_10	From now on, you two will walk together
 Final03_11	Create an ideal future that belongs only to you
-Final03_12	In that moment, you felt even more certain that you had chosen the right path
-Final03_13	Exactly so：The tide signals arrive at the Qiantang River, and today I truly understand who I am!
+Final03_12	At that moment, you felt even more certain that you had chosen the right path
+Final03_13	Indeed it is：When the tidal news arrived at Qiantang River, I realized today who I truly am!
 #结局 04	
 Final04_00	Wolf's Fierce Ambition
 Final04_01	There's an old saying that...：With nine words, one wakes the wanderer; with a single phrase, they awaken those lost in dreams
 Final04_02	That one lying in the pool of blood, you, was right about something
 Final04_03	Power should not be wasted
-Final04_04	Therefore, it should be used to seize even greater power
+Final04_04	Because of this, it should be used to seize even greater power
 Final04_05	The future is said to be so ugly, why not let it be forgotten?
 Final04_06	Look at this heap of broken spears and shattered halberds, mountains of corpses and seas of blood,
 Final04_07	This is the power you have to change the world
@@ -1131,7 +1131,7 @@ Final08_05	After the incident involving Jing Tairan, Su Qingrui...
 Final08_06	After recognizing their errors, they resolved to recover and revitalize Su Mansion
 Final08_07	And broadly accept virtuous and talented individuals, carefully manage the force
 Final08_08	Relying on the intelligence network of the Charming Dream Pavilion,
-Final08_09	Mobilize forces to support the good factions of Xichuan
+Final08_09	Mobilize forces to support all righteous factions in Xichuan
 Final08_10	Finally becoming someone in the Jianghu who, upon being mentioned,
 Final08_11	So everyone raised their thumbs and shouted in approval for Little Mengchang, the great hero Su
 #结局 09	
@@ -1255,14 +1255,14 @@ Final15_16	Every day, respectfully bow before you; serve by your side with filia
 #结局 16	
 Final16_00	Never recover or return
 Final16_01	Situ Jing took Rong Xiu roaming the world
-Final16_02	And transmitted to Rong Xiu all the nefarious sect martial arts I possess
+Final16_02	And pass all of his martial arts skills from the evil sect entirely to Rong Xiu
 Final16_03	Long ago, the assassins who participated in the killing of Yan Baochuan were all identified
 Final16_04	And with the Venomous Serpent Blood Technique, they subjected him to torture by death through slow slicing
-Final16_05	Rong Xiu, having absorbed and been influenced by her surroundings since a young age, eventually became an adept in the dark arts after reaching adulthood
+Final16_05	Rong Xiu, having grown up immersed in such influences, became a master of the dark arts as an adult
 Final16_06	Fire, slaughter, capture, and plunder—upon hearing these words, all people in the Jianghu turned pale
 Final16_07	Looking back, Situ Jing had a life full of hardships
 Final16_08	As a young child entering the palace, suffered endless oppression, and after being expelled from the palace, was further subjected to humiliation due to being castrated
-Final16_09	After mastering the techniques of a nefarious sect, he was consumed day and night with thoughts of revenge
+Final16_09	After mastering techniques from an evil martial arts sect, they spent their days brooding over revenge
 Final16_10	Indignant and without a moment's peace each day
 Final16_11	Because when I was young, I rushed to train
 Final16_12	Yet, they used cunning and unconventional methods to forcefully cultivate the Corpse Serpent Venom Blood Art
@@ -1279,14 +1279,14 @@ Final17_05	Devote their life to repelling foreign threats and protecting the nat
 Final17_06	After ascending the Heaven's Pillar once more, Wang Zhe took over as the leader of the fortress
 Final17_07	Leading the followers of Heaven's Pillar Fort to resist the Wolf Barbarians
 Final17_08	Leading an expedition during the journey,
-Final17_09	Wang Zhe once again encountered the Daoist he had met in Dragon's Rest Village, the Pure Yang Master
-Final17_10	Every time they meet, Pure Yang Master would offer guidance from the sidelines
+Final17_09	Wang Zhe again encountered the Daoist Pure Yang Master he had met in Dragon's Rest Village
+Final17_10	Every time they meet, the Pure Yang Master always intervenes from the side
 Final17_11	Guide Wang Zhe to understand the profound Daoist meanings in Taiqing Gang Qi
 Final17_12	Wang Zhe is of high aptitude in both martial arts and Daoist studies
 Final17_13	Despite being concerned with national affairs and devoting oneself to military service, at the time nearing one's destined path in life,
 Final17_14	He finally mastered the deepest secret technique of Ta Qing Gang Qi
 Final17_15	Several years later, he founded the Quanzhen Sect and established an unsurpassed martial art
-Final17_16	Revered by the world as Zhongyuan Zhenren
+Final17_16	Revered by all as the Yang True Person
 Final17_17	However, every time news of an external invasion came to his ears,
 Final17_18	Wang Zhe would always think of his sworn brother's last words
 Final17_19	Remembering how our sworn brother defended the country with a heart that places personal life and death as secondary, possessing such breadth of spirit and demeanor
@@ -1317,7 +1317,7 @@ Final19_08	Only the howling wind in the barren valley mocked her, echoing silent
 Final19_09	To remove the thorn from her heart, she had been diligently practicing martial arts for years
 Final19_10	The martial arts of our school have been elevated to a level beyond the imagination of those before us
 Final19_11	The two new disciples were relentlessly flattering and fawning
-Final19_12	But she herself knew, that person was a true genius of martial arts
+Final19_12	However, she knew that the person was a true genius in martial arts
 Final19_13	She will never have a day of victory over him
 Final19_14	The wind whispers around my ears are becoming clearer and clearer; it's definitely his voice
 Final19_15	I will come find you
@@ -1334,7 +1334,7 @@ Final20_08	After those strange days roaming the Jianghu with swords at our sides
 Final20_09	The Wuxia world has long been another hometown for you
 Final20_10	Whenever you recall those moments that are unforgettable and deeply moving,
 Final20_11	Or it could be remembering someone who once shared life and death with them
-Final20_12	She thought that the telephone and computer were some kind of sorcery or dark art
+Final20_12	She thought the phone and computer were some kind of demonic sorcery
 Final20_13	You have become the only one to whom I can freely confide
 Final20_14	Every morning when you hear her scream again,
 Final20_15	Accompanied by the sound of some electrical appliance going out of control,
@@ -1377,12 +1377,12 @@ Final24_04	Embrace in your arms the lovely women nearby, whose smiles are as ski
 Final24_05	Controlling the world entirely, you recalled that moment,
 Final24_06	At that time, the ones who chose to stand by your side were them
 Final24_07	Craving a sense of long-term belonging and support,
-Final24_08	That was another one who upheld the righteous way
+Final24_08	That was another one upholding the righteous path
 Final24_09	I can only think about what I am unable to give my family when thinking of returning home
 Final24_10	So you've made a decision, you will satisfy them,
 Final24_11	Give them a future without loneliness
 Final24_12	But today,
-Final24_13	What is their true position in your heart?
+Final24_13	What is their true status in your heart?
 Final24_14	Examine your conscience and ask yourself, you finally understand
 Final24_15	They are ultimately just your esteemed position's pastime
 Final24_16	Companionship, Favoritism,

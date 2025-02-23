@@ -142,7 +142,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "周遭4格范围内友方，每回合降低自身负面状态5点、提升自身正面状态3点"
-    translated: "Within a 4-tile radius of allies, reduce negative status by 5 points and increase positive status by 3 points each turn"
+    translated: "Within a 4-tile range around allies, reduce negative status effects by 5 points and increase positive status effects by 3 points each turn"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -728,7 +728,7 @@
   splits:
   - split: 1
     text: "丧心病狂"
-    translated: "Malevolent and insane"
+    translated: "Madly reckless"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -904,7 +904,7 @@
   splits:
   - split: 1
     text: "刀狂"
-    translated: "Blade Madman"
+    translated: "Blade Reckless"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -926,7 +926,7 @@
     flaggedGlossaryOut: ""
   - split: 2
     text: "惊波刀法与狂澜绝刀势刀法威力+30%"
-    translated: "Jingbo Blade Arts and Kuanglan Ultimate Blade Force Blade Arts have a power increase of 30%"
+    translated: "The Jiangbo Blade Art combined with the Kuanglan Ultimate Blade Technique increases its power by 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -1096,13 +1096,13 @@
   splits:
   - split: 1
     text: "再世狂侠"
-    translated: "Reborn Mad Swordsman"
+    translated: "Reckless Swordsman of the New Era"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "每次从目标正面进行攻击时，有25%机率使目标累积10点错骨；每次从目标侧面、背面进行攻击时，自身有25%机率累积迷惑10点"
-    translated: "When attacking a target from the front, there is a 25% chance to inflict an accumulated bone damage of 10 points on the target. When attacking a target from the side or back, there is a 25% chance for oneself to accumulate 10 confusion points"
+    translated: "When attacking from the front, there is a 25% chance to accumulate 10 points of Bone Damage on the target. When attacking from the sides or back, there is a 25% chance for oneself to accumulate 10 points of Confusion"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
@@ -3064,13 +3064,13 @@
   splits:
   - split: 1
     text: "「西狂」"
-    translated: "Western Madman"
+    translated: "Reckless of the West"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""
   - split: 2
     text: "狂值越高，武功威力越强，剑法威力上升30％。"
-    translated: "The higher the frenzy value, the stronger the martial arts power, and sword arts power increases by 30%"
+    translated: "The higher the Reckless value, the stronger the martial arts power. The sword art power increases by 30%"
     flaggedForRetranslation: false
     flaggedGlossaryIn: ""
     flaggedGlossaryOut: ""

@@ -7,7 +7,7 @@ nick004	Invisible Person	When using the Mysterious Hand Trick, it is comparative
 nick005	Heir to a wealthy family	Gain a 10% increase in money		Player	nick005
 nick006	Chosen One	Wildball Fist's base damage increases by 20%, and as the level rises, the damage bonus will also increase		Player	nick006
 nick007	Tian Nan Wang Dao	Within a two-grid radius, allies reduce their own negative status by 5 points each round		n51001	nick007
-nick007P	Revive the Kingly Way	Within a 4-tile radius of allies, reduce negative status by 5 points and increase positive status by 3 points each turn		n51001	nick007Plus
+nick007P	Revive the Kingly Way	Within a 4-tile range around allies, reduce negative status effects by 5 points and increase positive status effects by 3 points each turn		n51001	nick007Plus
 nick008	Thicket of Poisonous Feathers	If you remain within 2 units of distance from He Ziwang each round, you will be poisoned for 8 points		n90405	nick008
 nick008P	Swans that die together	If you stay within 4 units of distance from He Ziwang per turn, you will be poisoned for 8 points and your allies' strength will decrease by 5 points		n90405	nick008Plus
 nick009	Snowy Mountain Divine Eagle	During battle, the Snow Winged Eagle joins the fray; its own bow and arrow damage is increased by 25%, and all allies gain the status Falconer's Instinct		n50060	nick009
@@ -44,7 +44,7 @@ nick021	Immortal Lady of Broad Cold	If one were to perform a martial art techniq
 nick021P	Guang Han Gongzhu	If you use martial arts techniques that incorporate a freezing effect, the power of your moves becomes even more formidable		n09996	nick021P
 nick022	Scarce Wind King	When activating a full-force attack, restore 3 energy points; all allies gain the Wind King Formation status		n07002	nick022
 nick023	Fat Lamb	The tender and delicious A'Bai, everyone wants to eat him		n21131	nick023
-nick024	Malevolent and insane	Each attack has a chance to confuse the enemy, blurring the lines between friend and foe for three turns. The higher the dizziness and confusion values of the enemy, the greater the likelihood they will be thrown into disarray		n60402	nick024
+nick024	Madly reckless	Each attack has a chance to confuse the enemy, blurring the lines between friend and foe for three turns. The higher the dizziness and confusion values of the enemy, the greater the likelihood they will be thrown into disarray		n60402	nick024
 nick024P	Destroy the World Poison King	Each time an attack is made, there's a chance to confuse the enemy so that friend and foe cannot be distinguished for four turns. The higher the enemy's dizziness, confusion, and poison levels, the greater the likelihood of them falling into chaos		n60402	nick024P
 nick025	Heartless and ruthless	For every enemy killed, restore 3 points of energy to oneself		n60130	nick025
 nick025P	Wipe out completely	For each enemy defeated, restore 3 points of energy and increase attack power by 50% this turn		n60130	nick025P
@@ -55,8 +55,8 @@ nick027	Silver Hook Lustrous Colors	In battle, Ink Stained Snow joined the fray	
 nick027P	Illusory reflections	During battle, Ink Stained Snow joins the fray, increasing their feints and deception by 10% each turn		n60560	nick027P
 nick028	Heavenly Meteor, Solitary Star	If there are no allies, damage and defense increase by 50%, remove negative status effects for 12 points per round, recover 1 energy point with each attack, and restore 15% of life and internal power every 3 attacks		Player	nick028
 nick029	Bladesman	All blade arts power +70%		Player	nick029
-nick030	Blade Madman	All blade arts power +40%		Player	nick030
-nick031	Surging waves of turmoil	Jingbo Blade Arts and Kuanglan Ultimate Blade Force Blade Arts have a power increase of 30%		Player	nick031
+nick030	Blade Reckless	All blade arts power +40%		Player	nick030
+nick031	Surging waves of turmoil	The Jiangbo Blade Art combined with the Kuanglan Ultimate Blade Technique increases its power by 30%		Player	nick031
 nick032	Five Tiger Severance Sword	Five Tiger Disembowelment Sword Blade Art Power +30%		Player	nick032
 nick033	Si Xiang Dao	Four Symbols Blade Art increases power by 30%		Player	nick033
 nick034	San Cai Dao	The Three Talents Blade Art has a power increase of 30%		Player	nick034
@@ -67,7 +67,7 @@ nick038	It's a habit to borrow	The chance of getting caught stealing is reduced 
 nick039	Thief King	The theft will not be discovered		Player	nick039
 nick040	Sentimental	Aptitude increases by 10 points; however, each time the negative status value increases, the increase is amplified by an additional 30%	(Intelligence,10)	Player	nick040
 nick041	Throwing apples to a young man	When in battle, female allies' damage is increased by 30%; however, they are more susceptible to being locked onto by enemies		Player	nick041
-nick042	Reborn Mad Swordsman	When attacking a target from the front, there is a 25% chance to inflict an accumulated bone damage of 10 points on the target. When attacking a target from the side or back, there is a 25% chance for oneself to accumulate 10 confusion points		Player	nick042
+nick042	Reckless Swordsman of the New Era	When attacking from the front, there is a 25% chance to accumulate 10 points of Bone Damage on the target. When attacking from the sides or back, there is a 25% chance for oneself to accumulate 10 points of Confusion		Player	nick042
 nick043	After the fact	Physical Constitution increases by 10 points; and each time the character's negative status value increases, the increment is reduced by 30%	(Physique,10)	Player	nick043
 nick044	Wulin insiders	Your martial arts power increases as your level grows		Player	nick044
 nick045	Having nothing but one's wits	When collecting medicinal herbs and ores, there is a 40% chance to obtain double the amount, but the money earned will be reduced by 20%		Player	nick045
@@ -190,7 +190,7 @@ nick601	Snow Wolf Flying Fox	The Snowy Mountain Hero, unmatched in Blade Art, se
 nick602	Old Poisoner	Swordsmanship Sage, King of Poison, all skills increase in power by 30%, and every blow carries deadly poison		n80419,Player	nick602
 nick603	The Smiling, Proud Wanderer of the Jianghu	Your sword arts gain additional power and increase further with higher martial skill levels, and there is a 20% chance to evade damage during combat		n80420,Player	nick603
 nick604	Transcendently Versatile	Your innate talent and intelligence allow you to gain more experience points in battle, and there is a 25% chance for you to dodge damage during combat	(Intelligence,10)	n80421,Player	nick604
-nick605	Western Madman	The higher the frenzy value, the stronger the martial arts power, and sword arts power increases by 30%		n80422,Player	nick605
+nick605	Reckless of the West	The higher the Reckless value, the stronger the martial arts power. The sword art power increases by 30%		n80422,Player	nick605
 nick606	Teleportation with a Snap of Fingers	Hidden weapon power increases by 40%, with a 30% chance to avoid damage in combat		n80423,Player	nick606
 nick607	Compassion in one's heart	All skills' power increases by 40%, and the higher the morality, the stronger the skill's power		n80424,Player	nick607
 nick608	Descending Dragon Divine Palm	Power of fists and palms increased by 40%, all damage skills come with an internal injury effect		n80425,Player	nick608
